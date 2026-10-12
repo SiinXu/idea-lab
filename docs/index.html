@@ -1,0 +1,23 @@
+<!doctype html><html lang="zh-Hans" data-theme="dark"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Idea Lab · 一人公司创意实验室</title><meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500&family=Instrument+Serif:ital@1&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css"></head><body>
+<div class="bg"><div class="grid"></div><div class="spot" id="spot"></div></div>
+<header class="top"><a class="brand" href="#"><span class="dot"></span>Idea Lab</a>
+<div class="tools"><select id="lang" aria-label="language"></select><button id="theme" class="ic" aria-label="theme">◐</button></div></header>
+<main>
+<section class="hero"><p class="eyebrow mono" id="today"></p>
+<h1><span data-i="h1a"></span> <em data-i="h1b"></em></h1><p class="sub" data-i="sub"></p>
+<div class="stats"><div><b class="tick" data-n="0" id="nIdeas">0</b><span data-i="sIdeas"></span></div><div><b class="tick" id="nToday">0</b><span data-i="sToday"></span></div><div><b class="tick" id="nFav">0</b><span data-i="sFav"></span></div></div>
+<button class="shine" id="spark"><span data-i="spark"></span> ⚡</button>
+<div id="sparkOut" class="sparkout"></div></section>
+<section id="s-today"><div class="sh"><h2 data-i="today"></h2><p data-i="todayD"></p></div><div class="cards" id="g-today"></div></section>
+<section id="s-week"><div class="sh"><h2 data-i="week"></h2><p data-i="weekD"></p></div><div class="cards" id="g-week"></div></section>
+<section id="s-ever"><div class="sh"><h2 data-i="ever"></h2><p data-i="everD"></p></div><div class="chips" id="chips"></div><div class="cards" id="g-evergreen"></div></section>
+<section id="s-pb"><div class="sh"><h2 data-i="pb"></h2></div><div class="bento" id="g-pb"></div></section>
+<section id="s-rk"><div class="sh"><h2 data-i="rk"></h2></div><ol class="risks" id="g-rk"></ol></section>
+<footer class="mono">XU SIYIN · private lab · <span data-i="mt"></span></footer>
+</main>
+<nav class="dock"><a href="#s-today">⚡<i data-i="today"></i></a><a href="#s-week">🎯<i data-i="week"></i></a><a href="#s-ever">🌱<i data-i="ever"></i></a><a href="#s-pb">📘<i data-i="pb"></i></a><a href="#s-rk">⛔<i data-i="rk"></i></a><a href="#" id="favOnly">★<i data-i="sFav"></i></a></nav>
+<dialog id="dlg"><div class="dlg" id="dlgIn"></div></dialog>
+<script src="data.js"></script><script src="i18n.js"></script><script src="app.js"></script></body></html>
