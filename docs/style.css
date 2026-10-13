@@ -52,3 +52,5 @@ dialog{border:0;padding:0;background:transparent;max-width:min(760px,94vw);width
 .x{float:right;background:none;border:0;color:var(--mut);font-size:22px;cursor:pointer}
 @media(max-width:720px){.bento,.risks{grid-template-columns:1fr}.bento>div{grid-column:auto!important}.dlg dl{grid-template-columns:1fr}.cards{grid-template-columns:1fr}}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.card{opacity:1}}
+.card{display:flex;flex-direction:column}.card .ci{display:flex;flex-direction:column;height:100%}.card .bars{margin-top:auto}
+.more{display:inline-block;margin:10px 0 12px;font-size:13px;font-weight:600;color:var(--acc);text-decoration:none}.more:hover{text-decoration:underline}
