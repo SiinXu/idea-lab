@@ -1,8 +1,0 @@
-[
- {"title":"Character.AI 申请破产，资产拟卖给迪士尼","summary":"聊天陪伴明星公司在多起诉讼和安全争议后申请破产，计划把资产出售给迪士尼。AI 陪伴赛道的合规与安全成本正在变成生死线。","links":["https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"],"topic":"characterai-bankruptcy"},
- {"title":"博通 CEO 称 AI 投资像赌场，韩股芯片股大跌","summary":"陈福阳在新加坡会议上说很多 AI 投资者像赌徒、资本可能先于算力见顶；次日 KOSPI 跌超 5%，SK 海力士跌超 10%。AI 泡沫情绪升温。","links":["https://x.com/i/trending/2109627229424750952"],"topic":"broadcom-ai-casino"},
- {"title":"Claude Code 的 /grill-me 技能引发争论","summary":"Matt Pocock 的 /grill-me 技能装机超百万，让 AI 在写代码前逐条追问需求；有人嫌累，有人认为能逼清思路。“先问清再动手”的 agent 交互模式成为话题。","links":["https://x.com/i/trending/2109967367438516310"],"topic":"grill-me-skill"},
- {"title":"Rust 借用检查器被曝潜伏 11 年的内存安全漏洞","summary":"通过协变字段赋值可以绕过结构体的生命周期约束，在安全代码里造成不健全行为；问题存在约 11 年，HN 热议。","links":["https://github.com/rust-lang/rust/issues/164250"],"topic":"rust-borrowck-unsound"},
- {"title":"AWS 发布 Lambda Web Functions","summary":"新的无服务器计算形态，直接原生运行 HTTP 框架，支持多并发执行并自动全球分发，主打 Web 应用响应快且稳定。","links":["https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/"],"topic":"aws-lambda-web-functions"},
- {"title":"EmbeddingGemma 改造的本地语音转写：1 小时音频约 13 秒","summary":"有人把 Google EmbeddingGemma 2 改成语音转文字模型，在基础款 MacBook Air 上完全离线运行，免费 Mac 应用。本地转写工具门槛继续下降。","links":["https://eg2.haku.sh/"],"topic":"eg2-local-transcribe"}
-]
