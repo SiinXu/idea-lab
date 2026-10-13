@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T06:47:51+08:00",
+ "lastUpdated": "2026-10-14T07:00:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1814,7 +1814,40 @@
    ],
    "topic": "sugabots-multiplayer-agents",
    "firstSeen": "2026-10-14T06:47:51+08:00"
+  },
+  {
+   "id": "0cf91285a6",
+   "title": "Scuba 出隐身：团队与 Agent 共用的上下文引擎，融资 3400 万美元",
+   "summary": "前 Slack CPO Noah Weiss 与团队打造共享记忆层：一键捕获文档/截图/语音，自动整理；经 MCP 供 Claude、ChatGPT、Cursor 读写，Slack 内可 @Scuba。Accel 领投 Pre-seed，Accel+IVP 联合领投 Seed，共 3400 万美元。",
+   "links": [
+    "https://scuba.app/",
+    "https://www.ivp.com/content/scuba-bringing-your-teams-context-to-the-surface/",
+    "https://www.accel.com/news/ai-that-knows-what-your-team-knows"
+   ],
+   "topic": "scuba-context-engine",
+   "firstSeen": "2026-10-14T07:00:55+08:00"
+  },
+  {
+   "id": "13ea75ceb6",
+   "title": "Fish Audio Drama 3：用自然语言导戏的开源 TTS",
+   "summary": "35B MoE（每 token 激活约 3B）开源语音模型，支持 83 语；可用白话指挥情绪、中途换声、多角色场景与局部改写。10 月 13 日上线 API/App，至 11 月 12 日 API 有大幅折扣。",
+   "links": [
+    "https://fish.audio/blog/fish-audio-drama-3/",
+    "https://fish.audio/drama-3/"
+   ],
+   "topic": "fish-audio-drama-3",
+   "firstSeen": "2026-10-14T07:00:55+08:00"
+  },
+  {
+   "id": "357c752c1a",
+   "title": "客服 AI 公司 Decagon 据报与 ServiceNow 等洽谈收购",
+   "summary": "Business Insider：上轮估值约 45 亿美元的 Decagon 已请投行评估收购意向，并与 ServiceNow 等有初步接触；若不成交可能再融资。反映企业 AI Agent 赛道整合升温。",
+   "links": [
+    "https://www.businessinsider.com/ai-agent-company-decagon-hired-investment-bank-acquisition-interest-2026-10"
+   ],
+   "topic": "decagon-ma-talks",
+   "firstSeen": "2026-10-14T07:00:55+08:00"
   }
  ],
- "lastChecked": "2026-10-14T06:47:51+08:00"
+ "lastChecked": "2026-10-14T07:00:55+08:00"
 }
