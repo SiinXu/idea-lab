@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T04:55:09+08:00",
+ "lastUpdated": "2026-10-14T05:10:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1452,7 +1452,69 @@
    ],
    "topic": "apple-openai-discovery",
    "firstSeen": "2026-10-14T04:55:09+08:00"
+  },
+  {
+   "id": "7bc0b27f9d",
+   "title": "荷兰税务局叫停 Microsoft 365 公有云，转向本地与开源",
+   "summary": "荷兰税务与海关管理局放弃 M365 公有云上线计划，理由是信息安全、主权与锁定风险；2027 年起邮件日历本地化，随后接欧洲开源协作方案。欧洲「数字主权」从口号落到采购。",
+   "links": [
+    "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/"
+   ],
+   "topic": "dutch-tax-m365-oss",
+   "firstSeen": "2026-10-14T05:10:58+08:00"
+  },
+  {
+   "id": "4c2ab7ae36",
+   "title": "CXMT 宣称年底量产 4F² 服务器 DDR5，三星海力士股价重挫",
+   "summary": "长鑫存储称将用更密的 4F² 单元架构推出服务器 DDR5，理论可缩单元面积约三分之一；三星、SK 海力士当日分别跌约 7%/10%。量产良率与客户认证仍未证实，但 AI 内存叙事更敏感。",
+   "links": [
+    "https://www.koreatimes.co.kr/business/tech-science/20261013/cxmts-new-dram-tech-to-test-korean-memory-makers-dominance",
+    "https://www.tomshardware.com/pc-components/dram/cxmt-president-says-companys-first-4f2-dram-will-be-a-server-ddr5-rdimm-due-by-year-end-vertical-transistors-cut-each-memory-cells-footprint-by-a-third-on-paper-but-no-speeds-or-capacities-yet"
+   ],
+   "topic": "cxmt-4f2-dram",
+   "firstSeen": "2026-10-14T05:10:58+08:00"
+  },
+  {
+   "id": "f6196d98ff",
+   "title": "MIT 课堂腕带项目获 FDA：Encora 震动疗法缓解特发性震颤",
+   "summary": "源自 MIT 2.009 课设的腕带，用机械震动调制神经信号；今年 2 月获 FDA 510(k)，家用试验约七成患者有效。硬件+临床+保险报销路径，是「课堂到医疗器械」长周期范本。",
+   "links": [
+    "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002"
+   ],
+   "topic": "encora-fda-tremor",
+   "firstSeen": "2026-10-14T05:10:58+08:00"
+  },
+  {
+   "id": "3c8aa0c297",
+   "title": "Spotatui：绕开 Spotify Web API 限流的 TUI/GUI 播放器",
+   "summary": "Show HN：Rust+Tauri 复刻 Spotify 客户端，走官方内部会话与 Pathfinder GraphQL，并加 YouTube/电台/Qobuz 等源，还可挂 MCP 让编码 agent 当 DJ。",
+   "links": [
+    "https://github.com/LargeModGames/spotatui",
+    "https://spotatui.com/"
+   ],
+   "topic": "spotatui-spotify",
+   "firstSeen": "2026-10-14T05:10:58+08:00"
+  },
+  {
+   "id": "68c0cab13a",
+   "title": "XY Music Notation：十二进制音高记谱与乐谱渲染",
+   "summary": "Show HN：把十二平均律音高写成 0–9/X/Y，并基于 MuseScore 自定义符头渲染；作者用 Codex 搭后端，适合等形键盘与另类记谱实验。",
+   "links": [
+    "https://music.xy.dev/"
+   ],
+   "topic": "xy-music-notation",
+   "firstSeen": "2026-10-14T05:10:58+08:00"
+  },
+  {
+   "id": "cdda67f5fe",
+   "title": "Stack Tender：补剂目录、配伍与瓶身扫描的个人栈工具",
+   "summary": "Show HN：免费补剂追踪站，含 300+ 品目、剂量/相互作用研究摘要，手机可扫瓶身识成分。可做成付费「个性化补剂报告」数字产品变体。",
+   "links": [
+    "https://stacktender.com/users/charlie/stacks/memory-and-focus/"
+   ],
+   "topic": "stack-tender-supplements",
+   "firstSeen": "2026-10-14T05:10:58+08:00"
   }
  ],
- "lastChecked": "2026-10-14T04:55:09+08:00"
+ "lastChecked": "2026-10-14T05:10:58+08:00"
 }
