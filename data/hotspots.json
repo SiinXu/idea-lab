@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T04:32:32+08:00",
+ "lastUpdated": "2026-10-14T04:33:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1340,7 +1340,17 @@
    ],
    "topic": "pg-vectorsearch",
    "firstSeen": "2026-10-14T04:32:32+08:00"
+  },
+  {
+   "id": "d7148459f8",
+   "title": "Muster：Mac 菜单栏一键应答 Claude Code、Codex 与 Cursor",
+   "summary": "开源原生 AppKit 应用，agent 等你批准时弹横幅，快捷键允许或拒绝；只读本地会话、走本机回环，无账号无追踪。适合做成多 agent 值守类付费工具点子。",
+   "links": [
+    "https://agentmuster.app/"
+   ],
+   "topic": "agent-muster",
+   "firstSeen": "2026-10-14T04:33:45+08:00"
   }
  ],
- "lastChecked": "2026-10-14T04:32:32+08:00"
+ "lastChecked": "2026-10-14T04:33:45+08:00"
 }
