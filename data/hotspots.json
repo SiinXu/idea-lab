@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-13T23:45:43+08:00",
+ "lastUpdated": "2026-10-14T00:10:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -677,7 +677,64 @@
    ],
    "topic": "hn-ai-bot-flood",
    "firstSeen": "2026-10-13T23:45:43+08:00"
+  },
+  {
+   "id": "208eda64fb",
+   "title": "Jack Clark 将完整 RSI 时间表提前到 2027",
+   "summary": "Anthropic 联合创始人依据 TasteVal：前沿模型实验研究品味约每 3 个月翻倍，Opus 5.5 已超人类专家基线，因而把完全递归自我改进从更可能发生在 2028 改为更可能在 2027。",
+   "links": [
+    "https://x.com/i/trending/2110031162697568673",
+    "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
+    "https://pzeroresearch.com/work/tasteval/"
+   ],
+   "topic": "jack-clark-rsi-2027",
+   "firstSeen": "2026-10-14T00:10:06+08:00"
+  },
+  {
+   "id": "a3ed514d7a",
+   "title": "DigitalOcean 推 Agent Learning / Data Services",
+   "summary": "用 Signals 抓生产里的静默失败，再以 Evaluations/Simulations 验证修复；配套 Agent Data Services 做多模态与会话数据底座，瞄准可自我改进的 Agent 闭环。",
+   "links": [
+    "https://www.digitalocean.com/blog/introducing-agent-data-services",
+    "https://www.digitalocean.com/products/learning-services",
+    "https://x.com/i/trending/2109665133500964877"
+   ],
+   "topic": "digitalocean-agent-learning",
+   "firstSeen": "2026-10-14T00:10:06+08:00"
+  },
+  {
+   "id": "48866c22a6",
+   "title": "SpaceXSI 推出「The X Subscription」：X + Grok + Cursor 一包订阅",
+   "summary": "把 X Premium、Grok 与 Cursor 打成统一套餐，档位从免费到 Ultra（约 200 美元/月），用量随档上升；现有订阅可择机升级或维持原方案。",
+   "links": [
+    "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+    "https://www.theverge.com/ai-artificial-intelligence/1009758/the-everything-app-gets-an-everything-plan"
+   ],
+   "topic": "x-subscription-bundle",
+   "firstSeen": "2026-10-14T00:10:06+08:00"
+  },
+  {
+   "id": "93ff6a4dfc",
+   "title": "Launch HN：Consus——敏感数据合规 LLM 网关",
+   "summary": "YC F24 的 Consus Gateway 把请求路由到 FedRAMP High / DoD 授权政务云，零持久化提示词，兼容 OpenAI SDK，面向航空航天与国防等处理 CUI/ITAR 的团队。",
+   "links": [
+    "https://gateway.consus.io/overview",
+    "https://www.ycombinator.com/companies/consus"
+   ],
+   "topic": "consus-llm-gateway",
+   "firstSeen": "2026-10-14T00:10:06+08:00"
+  },
+  {
+   "id": "2f666443dc",
+   "title": "Thunderbird 原生 iOS 邮件客户端首次亮相",
+   "summary": "MZLA 用 Swift/SwiftUI 从零做 iPhone/iPad 版，账号登录与后台同步已在推进；官方目标是数月内推出社区测试版，仓库与博客已公开。",
+   "links": [
+    "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+    "https://github.com/thunderbird/thunderbird-ios"
+   ],
+   "topic": "thunderbird-ios",
+   "firstSeen": "2026-10-14T00:10:06+08:00"
   }
  ],
- "lastChecked": "2026-10-13T23:45:43+08:00"
+ "lastChecked": "2026-10-14T00:10:06+08:00"
 }
