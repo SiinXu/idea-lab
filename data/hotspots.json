@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T03:56:52+08:00",
+ "lastUpdated": "2026-10-14T03:57:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1227,7 +1227,27 @@
    ],
    "topic": "cloudflare-rewind-exponential",
    "firstSeen": "2026-10-14T03:56:52+08:00"
+  },
+  {
+   "id": "2c0e898929",
+   "title": "Parsimony：衡量 AI 写了多少多余代码的开源基准",
+   "summary": "现有基准只看解题率和成本，不管代码膨胀。Parsimony 用语法单元（非行数）统计模型净增代码量，减掉删除部分；基于 SWE-bench 已发布补丁，不重跑测试。适合 Idea Lab 做「AI 代码瘦身/审查」类产品。",
+   "links": [
+    "https://parsimony.lasu.dev/"
+   ],
+   "topic": "parsimony-ai-code-size",
+   "firstSeen": "2026-10-14T03:57:33+08:00"
+  },
+  {
+   "id": "34e9d56142",
+   "title": "Gentoo 维护者呼吁：别用 uv-build 做 Python 打包",
+   "summary": "HN 热议（40+ 分）：Gentoo 开发者写文劝阻用 uv-build 作为 Python 构建后端，牵涉打包生态兼容与发行版维护成本。Python 工具链分化仍在加速。",
+   "links": [
+    "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/"
+   ],
+   "topic": "uv-build-plea",
+   "firstSeen": "2026-10-14T03:57:33+08:00"
   }
  ],
- "lastChecked": "2026-10-14T03:56:52+08:00"
+ "lastChecked": "2026-10-14T03:57:33+08:00"
 }
