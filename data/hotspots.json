@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T06:29:10+08:00",
+ "lastUpdated": "2026-10-14T06:47:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1773,7 +1773,27 @@
    ],
    "topic": "memorysync-agent-memory",
    "firstSeen": "2026-10-14T06:29:10+08:00"
+  },
+  {
+   "id": "521d6d3979",
+   "title": "Quartz 站点几乎由一名 AI 辅助记者日产 50+ 篇",
+   "summary": "Press Gazette 报道数字营销从业者 Cris Tolomia 似乎大量用 AI 为 Quartz 供稿，单人日更可达五十多篇，折射新闻站「一人+AI」产稿模式的争议与可复制性。",
+   "links": [
+    "https://pressgazette.co.uk/publishers/digital-journalism/quartz-website-mainly-produced-by-one-ai-assisted-reporter-writing-50-stories-per-day/"
+   ],
+   "topic": "quartz-ai-reporter",
+   "firstSeen": "2026-10-14T06:47:13+08:00"
+  },
+  {
+   "id": "24a60f7e76",
+   "title": "HeyPuter/everything：宣称从零开源重建「全世界软件」",
+   "summary": "Puter 相关仓库 everything 今日新建并迅速涨星，口号是从零开源重建全球软件；更像宣言式大型协作实验，适合观察开源叙事与星标动能，而非即用产品。",
+   "links": [
+    "https://github.com/HeyPuter/everything"
+   ],
+   "topic": "heyputer-everything",
+   "firstSeen": "2026-10-14T06:47:13+08:00"
   }
  ],
- "lastChecked": "2026-10-14T06:29:10+08:00"
+ "lastChecked": "2026-10-14T06:47:13+08:00"
 }
