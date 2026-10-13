@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T05:10:58+08:00",
+ "lastUpdated": "2026-10-14T05:33:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1514,7 +1514,60 @@
    ],
    "topic": "stack-tender-supplements",
    "firstSeen": "2026-10-14T05:10:58+08:00"
+  },
+  {
+   "id": "da1ba21b9b",
+   "title": "OpenAI 工程师因会议室藏录音器被捕：FBI 以国安案起诉",
+   "summary": "沙特籍工程师 Alfozan 被控在高管会议室电视 USB 口藏加密录音器；DOJ/FBI 公布起诉书，OpenAI 称用自家模型协助取证，并与 FBI 同步后再解雇。此前「发现设备」条目的重大进展。",
+   "links": [
+    "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai",
+    "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"
+   ],
+   "topic": "openai-alfozan-arrest",
+   "firstSeen": "2026-10-14T05:33:18+08:00"
+  },
+  {
+   "id": "93b4895d6f",
+   "title": "Amp 上线 Puck MCP：在 Claude/ChatGPT 里遥控编码 Agent",
+   "summary": "Amp 的个人助手 Puck 现可通过 https://ampcode.com/mcp 接到 Claude、ChatGPT 等；提供 puck 与 orbs 两个工具，能从外部对话派活、查看运行中的 orb。Agent 跨客户端编排又近一步。",
+   "links": [
+    "https://ampcode.com/news/take-puck-with-you"
+   ],
+   "topic": "amp-puck-mcp",
+   "firstSeen": "2026-10-14T05:33:18+08:00"
+  },
+  {
+   "id": "d0c032c947",
+   "title": "Range：不先下载整镜像，也能打开 100GB 级远程环境",
+   "summary": "Show HN：按需拉取容器层/Hugging Face 仓/S3 环境字节，按 ReadAt 懒加载；示例称 1TB 模型只读几 MB 即可开壳，Mac/Linux 可用。适合 Agent 评测与大模型试跑省带宽。",
+   "links": [
+    "https://getrange.sh/",
+    "https://github.com/andreygrehov/range"
+   ],
+   "topic": "range-lazy-env",
+   "firstSeen": "2026-10-14T05:33:18+08:00"
+  },
+  {
+   "id": "37feb6fa8a",
+   "title": "Devin 接入 Pylon：客服工单可直接拉起查因与修 bug PR",
+   "summary": "Cognition 把 Devin 接到客服平台 Pylon：支持工单上下文启动会话、复现与开 PR，并回写状态；新客据称送 1.5 万美元 Devin 额度。支持→工程自动化成可卖点。",
+   "links": [
+    "https://docs.devin.ai/integrations/pylon",
+    "https://support.usepylon.com/articles/6981171768-agent-to-agent-escalation-via-devin"
+   ],
+   "topic": "devin-pylon-support",
+   "firstSeen": "2026-10-14T05:33:18+08:00"
+  },
+  {
+   "id": "0f232d59a4",
+   "title": "Cloudflare Clef-omni：决策模型原生吃音视频，Clef-flash 降到 $0.038/M",
+   "summary": "基于 Qwen3-Omni 的开放权重决策模型，一次调用处理音/视/图/文；托管 Clef-flash 输入价砍到 $0.038/M（上下文缩至 24k），Clef 推理中位延迟最高约快 2×。Agent 路由与分类成本再压一档。",
+   "links": [
+    "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/"
+   ],
+   "topic": "cloudflare-clef-omni",
+   "firstSeen": "2026-10-14T05:33:18+08:00"
   }
  ],
- "lastChecked": "2026-10-14T05:10:58+08:00"
+ "lastChecked": "2026-10-14T05:33:18+08:00"
 }
