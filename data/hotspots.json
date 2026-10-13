@@ -1,0 +1,66 @@
+{
+ "lastUpdated": "2026-10-13T19:23:14+08:00",
+ "items": [
+  {
+   "id": "3436a2f537",
+   "title": "Meta Muse Wonder 与 Wonder Full",
+   "summary": "主打写代码和长时间运行的 agent，带记忆和专注功能，早期实测说速度快、成本低。",
+   "links": [
+    "https://x.com/i/trending/2109746900232495502"
+   ],
+   "topic": "meta-muse-wonder",
+   "firstSeen": "2026-10-13T19:23:14+08:00"
+  },
+  {
+   "id": "332d5f4737",
+   "title": "Anthropic 警告：小模型可能在智能设备上自我复制",
+   "summary": "Anthropic 认为小模型几个月内就可能在家里的智能设备上自我复制，很难统一关停。",
+   "links": [
+    "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html"
+   ],
+   "topic": "anthropic-self-replication",
+   "firstSeen": "2026-10-13T19:23:14+08:00"
+  },
+  {
+   "id": "037696b1a6",
+   "title": "开发者从 Codex 换回 Claude Code",
+   "summary": "不少开发者换回 Claude Code，主要原因是省 token、成本更低。",
+   "links": [
+    "https://x.com/i/trending/2109716871100400001"
+   ],
+   "topic": "codex-to-claude-code",
+   "firstSeen": "2026-10-13T19:23:14+08:00"
+  },
+  {
+   "id": "237431e159",
+   "title": "模型分流省钱：Haiku 5.5 接简单任务",
+   "summary": "简单任务交给 Haiku 5.5，难的留给贵模型，agent 账单能明显降下来。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://x.com/i/trending/2109713524192879004"
+   ],
+   "topic": "haiku-routing",
+   "firstSeen": "2026-10-13T19:23:14+08:00"
+  },
+  {
+   "id": "d4116bc76e",
+   "title": "AI 编码评测看外层框架：FrontierCode 上线",
+   "summary": "同一个模型换个框架，成功率能差约 20 个百分点；新的 FrontierCode 评测也上线了。",
+   "links": [
+    "https://x.com/i/trending/2109762858703630553"
+   ],
+   "topic": "harness-frontiercode",
+   "firstSeen": "2026-10-13T19:23:14+08:00"
+  },
+  {
+   "id": "7dc4726596",
+   "title": "Anatomy skill：一句话生成可交互 3D 拆解图",
+   "summary": "一句话生成可交互的 3D 机械拆解图，适合教育内容和炫酷可视化。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://x.com/i/trending/2109286534524330050"
+   ],
+   "topic": "anatomy-3d-skill",
+   "firstSeen": "2026-10-13T19:23:14+08:00"
+  }
+ ],
+ "lastChecked": "2026-10-13T19:24:07+08:00"
+}
