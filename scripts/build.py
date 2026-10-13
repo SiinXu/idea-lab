@@ -3,10 +3,12 @@ sys.path.insert(0,os.path.dirname(__file__))
 from ideas import I
 from extra import PB,RK
 from green import G
+from cn import C,CP
 from params import P
 from detail import build
 import re,markdown
-I=I+G
+I=I+G+C
+P.update(dict(CP))
 import argostranslate.translate as T
 import opencc
 cc=opencc.OpenCC('s2t')

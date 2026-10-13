@@ -16,7 +16,7 @@ function render(){document.documentElement.lang=L;$('#lang').value=L;
 document.querySelectorAll('[data-i]').forEach(e=>e.textContent=t(e.dataset.i));
 $('#today').textContent=new Date().toLocaleDateString(L,{weekday:'long',year:'numeric',month:'long',day:'numeric'});
 const vis=i=>(!tagF||c(i.tag)==tagF)&&(!favOnly||fav.has(i.id));
-['green','today','week','evergreen'].forEach(s=>{const a=D.ideas.filter(i=>i.sec==s&&(s!='evergreen'||vis(i))&&(!favOnly||fav.has(i.id))).sort((a,b)=>score(b)-score(a));$('#g-'+s).innerHTML=a.map(card).join('')});
+['green','cn','today','week','evergreen'].forEach(s=>{const a=D.ideas.filter(i=>i.sec==s&&(s!='evergreen'||vis(i))&&(!favOnly||fav.has(i.id))).sort((a,b)=>score(b)-score(a));$('#g-'+s).innerHTML=a.map(card).join('')});
 const tags=[...new Set(D.ideas.filter(i=>i.sec=='evergreen').map(i=>c(i.tag)))];
 $('#chips').innerHTML=[`<button class="chip ${!tagF?'on':''}" data-t="">${t('all')}</button>`,...tags.map(g=>`<button class="chip ${tagF==g?'on':''}" data-t="${g}">${g}</button>`)].join('');
 $('#g-pb').innerHTML=D.pb.map((p,n)=>`<div><div class="n">0${n+1}</div><h4>${c(p.t)}</h4><p>${c(p.d)}</p></div>`).join('');

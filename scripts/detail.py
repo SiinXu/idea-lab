@@ -1,5 +1,5 @@
 # 从点子字段 + params 生成详情页结构（中文，全部数字为 [假设]）
-UNVER={'alternativeto.net','openai.com','theresanaiforthat.com','www.judge.me','hypefury.com'}
+UNVER={'www.xhllsys.com','blog.csdn.net','toolsy.io','www.insightagent.app','www.xianyunav.com','www.etsy.com','alternativeto.net','openai.com','theresanaiforthat.com','www.judge.me','hypefury.com'}
 KIND={'svc':'按单服务','one':'一次性产品','sub':'订阅 SaaS','aff':'流量/联盟','course':'课程社群'}
 def interp(tr):
     pts={1:tr[0],3:tr[1],6:tr[2],12:tr[3]};ks=[1,3,6,12];out=[]
@@ -62,4 +62,11 @@ def build(x,q):
        ('内容（给写作 AI）',f"你是 {q['ch'][0]} 上的增长写手。为「{x['t']}」写 7 天内容：\n痛点：{x['p']}\n受众：{x['w']}\n每天 1 条：钩子一句 + 3 个具体数据/例子 + 1 个软性 CTA（等待名单链接）。\n规则：不夸大、不承诺收益，数字必须注明来源或标为示例；附 3 个可做配图的前后对比点子。"),
        ('运营（每周复盘）',f"你是我的一人公司运营助理。下面是「{x['t']}」本周数据（访问、询价、付费、退款、渠道明细）：<粘贴数据>\n请：1) 对比 KPI 目标找出最大漏斗缺口；2) 给 3 个下周实验（各含假设、做法、成功指标）；3) 检查是否触发砍掉线：{x['k']}\n4) 列出可以写成脚本自动化的重复动作。输出用表格。")]
     ev=[dict(u=u,v=u.split('/')[2] not in UNVER) for u in x['ev']]
-    return dict(kind=KIND[k],cur=c,tiers=tiers,stream=stream,canvas=canvas,ue=ue,rev=rev,series={s:M[s]['rev'] for s in M},assume=assume,risks=risks,kills=kills,d7=d7,weeks=w,cal=cal,kpi=kpi,pipe=pipe,tools=tools,hrs=q['hrs'] if k!='svc' else q['hrs']+6,prompts=pr,ev=ev)
+    out=dict(kind=KIND[k],cur=c,tiers=tiers,stream=stream,canvas=canvas,ue=ue,rev=rev,series={s:M[s]['rev'] for s in M},assume=assume,risks=risks,kills=kills,d7=d7,weeks=w,cal=cal,kpi=kpi,pipe=pipe,tools=tools,hrs=q['hrs'] if k!='svc' else q['hrs']+6,prompts=pr,ev=ev)
+    if c=='¥':
+        import json as J
+        t=J.dumps(out,ensure_ascii=False)
+        for a,b in [('收款 MoR（Creem / Lemon Squeezy / Paddle）','平台内收款（小红书店铺/面包多/爱发电/知识星球）'),('首选 MoR（Creem / Lemon Squeezy）代缴税；准备 Paddle 备用；首月小额测试提现','只走平台内交易或个体户/企业商户号；不用个人收款码做经营收款；不引导私下交易'),('接入 Creem/Lemon Squeezy 收款','开通平台店铺/面包多收款'),('Creem 或 Lemon Squeezy 托管结账','面包多/爱发电或已认证主体的微信支付'),('Creem / Lemon Squeezy','面包多 / 爱发电'),('域名 ~$12/年；托管 $0–20/月','域名 ~¥60/年；托管 ¥0–100/月（国内服务器需 ICP 备案）'),('工具订阅 ~$30/月；收款费 ~4–5%/单','工具订阅 ~¥200/月；平台抽成 5–20%/单')]:
+            t=t.replace(a,b)
+        out=J.loads(t)
+    return out
