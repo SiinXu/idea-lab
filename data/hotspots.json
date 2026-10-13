@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T02:22:46+08:00",
+ "lastUpdated": "2026-10-14T02:41:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1011,7 +1011,67 @@
    ],
    "topic": "devin-dynamic-workflows",
    "firstSeen": "2026-10-14T02:22:46+08:00"
+  },
+  {
+   "id": "9a1a9009d6",
+   "title": "OpenAI Codex 频繁「模型满载」，付费用户也卡重试",
+   "summary": "开发者持续碰到 Selected model is at capacity；公司虽在 28 天 shipping 冲刺里日更/重置额度，仍有人换 Claude。社区开始追踪每次重置。",
+   "links": [
+    "https://x.com/i/trending/2110067073049403585"
+   ],
+   "topic": "codex-capacity",
+   "firstSeen": "2026-10-14T02:41:54+08:00"
+  },
+  {
+   "id": "029390bf9e",
+   "title": "IMF 上调 2026 全球增速至 3.1%，AI 投资托底也成风险",
+   "summary": "相对 7 月的 3.0% 小幅上调，主因 AI 基建需求对冲能源冲击；同时警告若 AI 回报不及预期，美股或跌约 20%，全球 GDP 到 2028 年或低 1.1 个百分点。",
+   "links": [
+    "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html"
+   ],
+   "topic": "imf-ai-growth-2026",
+   "firstSeen": "2026-10-14T02:41:54+08:00"
+  },
+  {
+   "id": "d7d9bdc2fb",
+   "title": "Adani 与 Jabil 签 50:50 谅解备忘录，印度造 AI 机柜与服务器",
+   "summary": "拟在印度生产机架、服务器、存储、网络、供电与散热，目标多吉瓦产能，服务超大规模客户；仍待正式协议与审批。",
+   "links": [
+    "https://www.adani.com/newsroom/media-releases/adani-enterprises-jabil-sign-mou-for-50-50-data-centre-hardware-joint-venture"
+   ],
+   "topic": "adani-jabil-ai-jv",
+   "firstSeen": "2026-10-14T02:41:54+08:00"
+  },
+  {
+   "id": "833d43a896",
+   "title": "AMD 为 Fermi 德州 Project Matador 首期 222MW 提供信贷支持",
+   "summary": "绑定 TensorWave 租约的 AI 电力园区一期获 AMD 信用背书，框架可扩至 650MW；股价大涨，仍待融资与交割落地。",
+   "links": [
+    "https://www.accessnewswire.com/newsroom/en/oil-gas-and-energy/fermi-signs-credit-support-agreement-with-amd-and-announces-partnership-1236099"
+   ],
+   "topic": "fermi-amd-matador",
+   "firstSeen": "2026-10-14T02:41:54+08:00"
+  },
+  {
+   "id": "1a30691bdf",
+   "title": "Google 公布 Gemini 4 Argon 安全报告：三重防护与误对齐监控",
+   "summary": "输入筛选、激活探针、连续监控压滥用；实时读 scratchpad 拦越界。间接提示注入成功率压到约 0.7%，并扩大 Fairwind 防卫侧开放。",
+   "links": [
+    "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/"
+   ],
+   "topic": "gemini4-argon-safety",
+   "firstSeen": "2026-10-14T02:41:54+08:00"
+  },
+  {
+   "id": "d949458c95",
+   "title": "Show HN：Commit-Aware Router，按企业 AI/云承诺路由模型流量",
+   "summary": "在价格与质量之外，把预付额度、最低消费、云承诺纳入 LiteLLM 路由，帮 FinOps 用满承诺又别超顶；早期 PoC，适合做成成本控制点子。",
+   "links": [
+    "https://github.com/tejaspruthi/CommitAwareRouter"
+   ],
+   "topic": "commit-aware-router",
+   "firstSeen": "2026-10-14T02:41:54+08:00"
   }
  ],
- "lastChecked": "2026-10-14T02:22:46+08:00"
+ "lastChecked": "2026-10-14T02:41:54+08:00"
 }
