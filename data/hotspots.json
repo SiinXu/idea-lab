@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T06:28:11+08:00",
+ "lastUpdated": "2026-10-14T06:29:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1762,7 +1762,18 @@
    ],
    "topic": "antigravity-gemini-mac",
    "firstSeen": "2026-10-14T06:28:11+08:00"
+  },
+  {
+   "id": "26d6503d9c",
+   "title": "MemorySync：给 Agent 的持久记忆基础设施",
+   "summary": "把交互抽成可语义检索的持久事实，而不是堆聊天记录；对接 LangChain/OpenAI Agents 等，带 playground 与按量定价，面向生产级 Agent 记忆层。",
+   "links": [
+    "https://memorysync.io/",
+    "https://news.ycombinator.com/item?id=50070688"
+   ],
+   "topic": "memorysync-agent-memory",
+   "firstSeen": "2026-10-14T06:29:10+08:00"
   }
  ],
- "lastChecked": "2026-10-14T06:28:11+08:00"
+ "lastChecked": "2026-10-14T06:29:10+08:00"
 }
