@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T02:41:54+08:00",
+ "lastUpdated": "2026-10-14T03:09:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1071,7 +1071,57 @@
    ],
    "topic": "commit-aware-router",
    "firstSeen": "2026-10-14T02:41:54+08:00"
+  },
+  {
+   "id": "43b8364a18",
+   "title": "XBOW：AI 助攻六天打出 Chrome 全链，谷歌发 25 万美元赏金",
+   "summary": "一名研究员在 GPT-5.6 Sol agent 协助下，六天拼出 V8→WebP→Crashpad 全链（约 4 万美元算力）；谷歌按 2026 年 VRP 规则发放首笔 25 万美元 Chrome 全链赏金，漏洞已修复未遭利用。适合做成 Idea Lab 安全/红队自动化点子。",
+   "links": [
+    "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain"
+   ],
+   "topic": "xbow-chrome-full-chain",
+   "firstSeen": "2026-10-14T03:09:20+08:00"
+  },
+  {
+   "id": "38a03a389b",
+   "title": "路透：OpenAI 与 Anthropic 曾争第三方安全评审的发布权",
+   "summary": "两家公开承诺嵌入独立评估方，但对报告能否全文公开再起争议；OpenAI 称惯例是打码机密，Anthropic 称现有伙伴可自定发布，但对新评估方仍保留审批。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1010444/openai-and-anthropic-reportedly-wanted-control-over-what-safety-reviewers-can-publish"
+   ],
+   "topic": "ai-evaluator-publish-rights",
+   "firstSeen": "2026-10-14T03:09:20+08:00"
+  },
+  {
+   "id": "fc32fccfd0",
+   "title": "HomePod mini 2：$149、S10 芯片，后续软件更新上 Siri AI",
+   "summary": "粉/绿/蓝/白/午夜五色，10 月 30 日起售；可与新 Apple TV 4K 组四扬声器环绕，支持 Sound Glow；Siri AI 稍后以英语更新推送，首发不含欧盟。",
+   "links": [
+    "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/"
+   ],
+   "topic": "homepod-mini-2",
+   "firstSeen": "2026-10-14T03:09:20+08:00"
+  },
+  {
+   "id": "13e73333d3",
+   "title": "Apple Home Collection：门铃、摄像头、门锁与恒温器上线",
+   "summary": "联合 LG、施耐德推摄像头/门铃/智能锁/恒温器等，最高约 2.5K 视频与人/包裹识别；12 月起陆续开卖，部分要到 2027 年初，需 HomeView/HomePod 等枢纽。",
+   "links": [
+    "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/"
+   ],
+   "topic": "apple-home-collection",
+   "firstSeen": "2026-10-14T03:09:20+08:00"
+  },
+  {
+   "id": "3efe343f6d",
+   "title": "Bain：撑住 AI 基建或需到 2031 年年收入近 6 万亿美元",
+   "summary": "报告估算 2031 年 AI 基建年开支约 1.5 万亿美元；按资本开支约占收入 25% 推算，市场需接近 6 万亿。现有消费+企业 AI 最多约 1.8 万亿，缺口要靠广告、自动驾驶、机器人与新场景。",
+   "links": [
+    "https://www.bain.com/insights/new-innovation-is-required-to-fund-ais-6-trillion-buildout-technology-report-2026/"
+   ],
+   "topic": "bain-ai-6-trillion",
+   "firstSeen": "2026-10-14T03:09:20+08:00"
   }
  ],
- "lastChecked": "2026-10-14T02:41:54+08:00"
+ "lastChecked": "2026-10-14T03:09:20+08:00"
 }
