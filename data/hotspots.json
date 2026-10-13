@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T00:46:15+08:00",
+ "lastUpdated": "2026-10-14T01:15:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -777,7 +777,89 @@
    ],
    "topic": "game-ai-harness",
    "firstSeen": "2026-10-14T00:46:15+08:00"
+  },
+  {
+   "id": "d6e89e4381",
+   "title": "Anthropic 自研 Scion：日合并 3 万次，Git 扛不住了",
+   "summary": "Claude 驱动日合并从 2500 飙到超 3 万，主分支历史近 100GB、日检出约 2500 万次。7 人团队五个月迁到面向始终在线 Agent 的自研版本控制 Scion，并上线 Antique 代码评审。",
+   "links": [
+    "https://www.anthropic.com/engineering/redesigning-source-control",
+    "https://x.com/i/trending/2110052518571262272"
+   ],
+   "topic": "anthropic-scion",
+   "firstSeen": "2026-10-14T01:15:31+08:00"
+  },
+  {
+   "id": "cfc3584192",
+   "title": "Liquid 发布 LFM2.5-24B-A2B：端侧快速 Agent 模型",
+   "summary": "24B 总参、仅 2B 激活的推理模型，面向本地私有 Agent；开源权重，M5 Max 约 184 tok/s，在多项工具调用与 Agent 基准上胜过更大 MoE。",
+   "links": [
+    "https://www.liquid.ai/blog/lfm2-5-24b-a2b"
+   ],
+   "topic": "liquid-lfm25-24b",
+   "firstSeen": "2026-10-14T01:15:31+08:00"
+  },
+  {
+   "id": "a38086f596",
+   "title": "Getty Images 拟申请破产并私有化：AI 图冲击库存图业",
+   "summary": "与 Getty 家族、Koch 达成预包装重组，拟数周内启动有限 Chapter 11 并年内完成；股价崩、债务约 21 亿美元，背景是 AI 生成图冲击授权内容需求。",
+   "links": [
+    "https://www.reuters.com/business/getty-images-go-private-after-restructuring-deal-2026-10-12/",
+    "https://x.com/i/trending/2109700444390138288"
+   ],
+   "topic": "getty-bankruptcy",
+   "firstSeen": "2026-10-14T01:15:31+08:00"
+  },
+  {
+   "id": "ef2434ebe8",
+   "title": "xtool：跨平台替代 Xcode，Linux/Windows 也能编 iOS",
+   "summary": "开源跨平台 Xcode 替代方案，用 SwiftPM 在 Linux、Windows、macOS 上构建并部署 iOS 应用，GitHub 日榜热度高。",
+   "links": [
+    "https://github.com/xtool-org/xtool"
+   ],
+   "topic": "xtool-ios",
+   "firstSeen": "2026-10-14T01:15:31+08:00"
+  },
+  {
+   "id": "ebf3dd6aae",
+   "title": "vercel-labs/skills：一键安装开源 Agent Skills",
+   "summary": "Vercel Labs 开源 agent skills 工具（npx skills），方便给编码 Agent 装可复用技能包，GitHub 热度持续攀升。",
+   "links": [
+    "https://github.com/vercel-labs/skills"
+   ],
+   "topic": "vercel-skills",
+   "firstSeen": "2026-10-14T01:15:31+08:00"
+  },
+  {
+   "id": "12d6bf2388",
+   "title": "iPhone-use：让 Codex 经 USB 操控真机 iPhone",
+   "summary": "开源项目让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退，适合端侧 Agent 实验。",
+   "links": [
+    "https://github.com/zhongerxin/iPhone-use"
+   ],
+   "topic": "iphone-use-codex",
+   "firstSeen": "2026-10-14T01:15:31+08:00"
+  },
+  {
+   "id": "acfe06e439",
+   "title": "Problems.dev：捕捉 Agent 卡在你产品里的错误",
+   "summary": "Show HN 新品：给 MCP/CLI 加 SDK，汇总 Agent 调用失败、发 Agent 状态页，并把 Agent 拉回正轨——面向「Agent 即客户」的可观测性。",
+   "links": [
+    "https://problems.dev/"
+   ],
+   "topic": "problems-dev",
+   "firstSeen": "2026-10-14T01:15:31+08:00"
+  },
+  {
+   "id": "85b4a4a60b",
+   "title": "AI 写码被骂「slop」：能跑但不耐用",
+   "summary": "开发者吐槽 AI 生成代码像堆料：能跑、冗余多、安全风险大；争论焦点从「快原型」转到量产后的维护与质量成本。",
+   "links": [
+    "https://x.com/i/trending/2110031167088894213"
+   ],
+   "topic": "ai-code-slop",
+   "firstSeen": "2026-10-14T01:15:31+08:00"
   }
  ],
- "lastChecked": "2026-10-14T00:46:15+08:00"
+ "lastChecked": "2026-10-14T01:15:31+08:00"
 }
