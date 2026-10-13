@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-13T20:36:29+08:00",
+ "lastUpdated": "2026-10-13T20:48:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -284,7 +284,68 @@
    ],
    "topic": "glm-legal",
    "firstSeen": "2026-10-13T20:36:29+08:00"
+  },
+  {
+   "id": "da41786d74",
+   "title": "Nature Will 发布 Natura-1：500 亿参数灵巧手基础模型",
+   "summary": "用超 100 万小时第一人称人手视频预训练的 50B MoE，语言+视觉驱动 20 自由度灵巧手，100ms 控制环，可零样本跟指令折馄饨、贴膜等。",
+   "links": [
+    "https://www.naturewill.com/blog/natura-1?lang=en"
+   ],
+   "topic": "natura-1",
+   "firstSeen": "2026-10-13T20:48:17+08:00"
+  },
+  {
+   "id": "76ac43cbf3",
+   "title": "纳德拉呼吁 AI「紧急刹车」：可信任系统要能最不信任模型",
+   "summary": "微软 CEO 提出可观测性六原则与人类可控急停；把前沿模型当内部威胁来管，强调兜底工程而非盲目信任模型。",
+   "links": [
+    "https://www.aiincontext.com/articles/microsoft-s-nadella-says-ai-needs-an-emergency-brake-humans-control-7ca887f5"
+   ],
+   "topic": "nadella-emergency-brake",
+   "firstSeen": "2026-10-13T20:48:17+08:00"
+  },
+  {
+   "id": "173a089b11",
+   "title": "Collov Labs 推出 NewEyes：给个人 Agent 装上「眼睛」",
+   "summary": "摄像眼镜/开放式耳机/胸针把眼前画面喂给个人智能体，可跨设备续读；Sight 眼镜预售约 $199，规格与发货日期仍偏薄。",
+   "links": [
+    "https://www.neweyesai.com/store/sight",
+    "https://x.com/i/trending/2109690956786086367"
+   ],
+   "topic": "neweyes-ai",
+   "firstSeen": "2026-10-13T20:48:17+08:00"
+  },
+  {
+   "id": "f4344fd59c",
+   "title": "Vibe Coding 再起争议：快原型 vs 生产级工程",
+   "summary": "Karpathy 造的词已成年度热词，今日多条讨论升温：爱它的人一天出原型，担心的人说最后 10% 修一周、难扛真实流量。",
+   "links": [
+    "https://x.com/i/trending/2109987999610011667"
+   ],
+   "topic": "vibe-coding-debate",
+   "firstSeen": "2026-10-13T20:48:17+08:00"
+  },
+  {
+   "id": "6001ee7ed9",
+   "title": "Codex CLI 默认拉起自更新后台守护进程引公愤",
+   "summary": "交互会话会启动持久 daemon、复制约 374MB 包并每小时自更新；HN 热议要求改为 opt-in，有人直呼像恶意软件。",
+   "links": [
+    "https://github.com/openai/codex/issues/48195"
+   ],
+   "topic": "codex-daemon-default",
+   "firstSeen": "2026-10-13T20:48:17+08:00"
+  },
+  {
+   "id": "c4764ac37c",
+   "title": "context-mode：给编码 Agent 省 98% 上下文的 MCP",
+   "summary": "把工具输出沙箱化并索引到本地 SQLite，会话压缩后按需检索；支持 Claude Code/Cursor 等十余平台，GitHub 热度高。",
+   "links": [
+    "https://github.com/mksglu/context-mode"
+   ],
+   "topic": "context-mode",
+   "firstSeen": "2026-10-13T20:48:17+08:00"
   }
  ],
- "lastChecked": "2026-10-13T20:36:29+08:00"
+ "lastChecked": "2026-10-13T20:48:17+08:00"
 }
