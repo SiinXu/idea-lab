@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T04:42:37+08:00",
+ "lastUpdated": "2026-10-14T04:55:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1402,7 +1402,57 @@
    ],
    "topic": "how-random-are-you",
    "firstSeen": "2026-10-14T04:42:37+08:00"
+  },
+  {
+   "id": "d59d959ca7",
+   "title": "Pluto Security 获 4200 万美元：盯住员工与 Agent 的 AI 用法",
+   "summary": "刚出隐身即拿下种子+A 轮共 4200 万美元，已有 30+ 企业客户、约 200 万美元 ARR。约 60% 风险来自非开发者 vibe coding；可监控 MCP/技能并对 Agent 会话实时介入。",
+   "links": [
+    "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+   ],
+   "topic": "pluto-security-42m",
+   "firstSeen": "2026-10-14T04:55:09+08:00"
+  },
+  {
+   "id": "c06a934276",
+   "title": "Facebook 上线 Your Algorithm：用自然语言调信息流",
+   "summary": "Meta 把 Instagram 的「Your Algorithm」带到 Facebook Feed 与 Reels，可用自然语言说想多看/少看什么，改动实时生效；三点菜单也可点「感兴趣/不感兴趣」。",
+   "links": [
+    "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/"
+   ],
+   "topic": "facebook-your-algorithm",
+   "firstSeen": "2026-10-14T04:55:09+08:00"
+  },
+  {
+   "id": "0252123d53",
+   "title": "NTT 拟为 Anthropic 在大阪建约 63 亿美元数据中心",
+   "summary": "日经称谈判已近尾声：大阪专属设施、最高约 500MW，部分产能目标 2028 年投运；将成为 Anthropic 在日本的第一座专用数据中心。",
+   "links": [
+    "https://www.datacenterdynamics.com/en/news/ntt-to-build-63bn-data-center-for-anthropic-in-japan-report/"
+   ],
+   "topic": "ntt-anthropic-osaka",
+   "firstSeen": "2026-10-14T04:55:09+08:00"
+  },
+  {
+   "id": "f603f06c22",
+   "title": "Trezor 收紧经销商：Ledger 植入事件后的供应链连锁反应",
+   "summary": "Trezor 称尚无设备被植入证据，但仍预防性削减授权经销商、自 1 月 1 日起除名部分渠道；MediaMarkt 已在欧洲下架 Ledger。提醒只从官方买、检查封条，并考虑多签。",
+   "links": [
+    "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports"
+   ],
+   "topic": "trezor-reseller-clamp",
+   "firstSeen": "2026-10-14T04:55:09+08:00"
+  },
+  {
+   "id": "b7213d64cc",
+   "title": "苹果诉 OpenAI 商业秘密案：法官批准部分加速取证",
+   "summary": "法官 Davila 要求 OpenAI 交出已采集的取证镜像、招聘苹果员工的面试材料，以及 Liu 与 Peng 的 LINE 聊天，并允许提前质询；硬件 R&D 细项仍走常规发现程序。",
+   "links": [
+    "https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/"
+   ],
+   "topic": "apple-openai-discovery",
+   "firstSeen": "2026-10-14T04:55:09+08:00"
   }
  ],
- "lastChecked": "2026-10-14T04:42:37+08:00"
+ "lastChecked": "2026-10-14T04:55:09+08:00"
 }
