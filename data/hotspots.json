@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T06:47:13+08:00",
+ "lastUpdated": "2026-10-14T06:47:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1793,7 +1793,28 @@
    ],
    "topic": "heyputer-everything",
    "firstSeen": "2026-10-14T06:47:13+08:00"
+  },
+  {
+   "id": "8edd40c45d",
+   "title": "单卡 5090 跑 Qwen3.8：mesh.applied 量化到约 255 tok/s",
+   "summary": "mesh.applied 对开源 Qwen/DeepSeek 做后训练、三值与 NVFP4 量化及定制内核，主打本机 RTX 推理；HN 刚上首页，Hugging Face 上有 Qwen3.8-Flash-Next NVFP4 配方与吞吐数据。",
+   "links": [
+    "https://meshapplied.com",
+    "https://huggingface.co/meshapplied/Qwen3.8-Flash-Next-NVFP4-Latest"
+   ],
+   "topic": "mesh-qwen-5090",
+   "firstSeen": "2026-10-14T06:47:51+08:00"
+  },
+  {
+   "id": "c62fc9dbcd",
+   "title": "Sugabots：人和 Agent 同频道协作的开源多人聊天",
+   "summary": "团队把内部「人+多模型 Agent 共用群聊」工具开源（MIT、可自托管），想解决 Slack 与各 Agent 之间来回贴上下文的问题，并已对少量外部团队提供托管版。",
+   "links": [
+    "https://sugabots.ai/"
+   ],
+   "topic": "sugabots-multiplayer-agents",
+   "firstSeen": "2026-10-14T06:47:51+08:00"
   }
  ],
- "lastChecked": "2026-10-14T06:47:13+08:00"
+ "lastChecked": "2026-10-14T06:47:51+08:00"
 }
