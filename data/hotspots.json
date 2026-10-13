@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T00:10:06+08:00",
+ "lastUpdated": "2026-10-14T00:45:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -734,7 +734,29 @@
    ],
    "topic": "thunderbird-ios",
    "firstSeen": "2026-10-14T00:10:06+08:00"
+  },
+  {
+   "id": "535032b526",
+   "title": "TanStack Start 1.0 正式稳定：生产级全栈框架",
+   "summary": "Tanner Linsley 宣布 Start 1.0 稳定，类型安全路由、SSR、流式与 Server Functions 可正式用于生产；Netlify/Cloudflare/Lovable 等已深度集成，并强调对 AI Agent 友好的类型与 skills 指引。",
+   "links": [
+    "https://tanstack.com/blog/tanstack-start-1-0",
+    "https://x.com/i/trending/2110038324023026148"
+   ],
+   "topic": "tanstack-start-1-0",
+   "firstSeen": "2026-10-14T00:45:00+08:00"
+  },
+  {
+   "id": "15798b2939",
+   "title": "Karpathy：AI 能力认知差距已变成陡峭漏斗",
+   "summary": "约 60 亿人几乎没用过 LLM，1–20 亿人当更好搜索，约 2000 万专业用户能用 Agent 压缩周月级项目，顶端约 5000 人接触内部前沿系统与大规模 Agent 集群。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://x.com/i/trending/2109908836400451839",
+    "https://www.nextfor.ai/news/karpathy-llm-capability-funnel"
+   ],
+   "topic": "karpathy-capability-funnel",
+   "firstSeen": "2026-10-14T00:45:00+08:00"
   }
  ],
- "lastChecked": "2026-10-14T00:10:06+08:00"
+ "lastChecked": "2026-10-14T00:45:00+08:00"
 }
