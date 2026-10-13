@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T03:40:50+08:00",
+ "lastUpdated": "2026-10-14T03:56:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1207,7 +1207,27 @@
    ],
    "topic": "ledger-cryptobilis-implant",
    "firstSeen": "2026-10-14T03:40:50+08:00"
+  },
+  {
+   "id": "2a25b4d3da",
+   "title": "微软成立 Xbox Labs：开放探索游戏与 AI/移植实验",
+   "summary": "Xbox 内部邮件宣布成立小型 Labs，面向游戏被反编译移植到 Apple Silicon、浏览器 WebAssembly/WebGPU，以及跨源码 remix 等现象；在开放中构建并分享工具，主业 4C 不变。游戏成 agent 下一大工作负载信号。",
+   "links": [
+    "https://news.xbox.com/en-us/2026/10/13/introducing-xbox-labs/"
+   ],
+   "topic": "xbox-labs",
+   "firstSeen": "2026-10-14T03:56:52+08:00"
+  },
+  {
+   "id": "cd5f53816e",
+   "title": "Cloudflare：五年优化相当于推迟 2.5 年硬件扩容",
+   "summary": "数据管道从拆分单体 schema、LZ4 改 zstd，到晚复制、前置采样与多级聚合，今年 alone 砍掉约 70GB/s 压缩骨干流量；Ready-Analytics 等数据集吞吐腰斩。指数流量 vs 线性硬件的实战样本。",
+   "links": [
+    "https://blog.cloudflare.com/rewinding-the-exponential/"
+   ],
+   "topic": "cloudflare-rewind-exponential",
+   "firstSeen": "2026-10-14T03:56:52+08:00"
   }
  ],
- "lastChecked": "2026-10-14T03:40:50+08:00"
+ "lastChecked": "2026-10-14T03:56:52+08:00"
 }
