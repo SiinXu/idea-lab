@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-13T19:57:11+08:00",
+ "lastUpdated": "2026-10-13T20:26:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -201,7 +201,37 @@
    ],
    "topic": "epic-ai-first",
    "firstSeen": "2026-10-13T19:57:11+08:00"
+  },
+  {
+   "id": "dc323e7dd7",
+   "title": "Mozilla 推出 Firefox Enterprise 企业浏览器",
+   "summary": "主打数据主权与 AI 治理：可在自有服务器上部署管理，审计数据和策略存放位置，并在浏览器层防止敏感数据泄露。企业浏览器（浏览器即 AI 与合规入口）赛道再添玩家。",
+   "links": [
+    "https://www.firefox.com/en-US/enterprise/"
+   ],
+   "topic": "firefox-enterprise",
+   "firstSeen": "2026-10-13T20:26:30+08:00"
+  },
+  {
+   "id": "8ebfaa9eab",
+   "title": "盗币团伙出售内置隐藏 eSIM 的硬件钱包",
+   "summary": "被改装的硬件钱包暗藏 eSIM，可远程读取屏幕信息，已致约 1 亿美元加密资产被盗。供应链篡改硬件成为新攻击面，只从官方渠道购买设备更重要。",
+   "links": [
+    "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html"
+   ],
+   "topic": "hw-wallet-esim",
+   "firstSeen": "2026-10-13T20:26:30+08:00"
+  },
+  {
+   "id": "71afce8b57",
+   "title": "Show HN：用你已付费的 OpenAI/Claude 订阅把 PDF 做成有声书",
+   "summary": "PDF TO MP3 让用户连接自己的 Codex 或 Claude 订阅，再加一个语音 API key，就能把文档转成音频。“自带订阅/自带 Key”的轻量 AI 工具模式降低了开发者的推理成本。",
+   "links": [
+    "https://pdftomp3.com/connect-ai/"
+   ],
+   "topic": "pdftomp3-byo-ai",
+   "firstSeen": "2026-10-13T20:26:30+08:00"
   }
  ],
- "lastChecked": "2026-10-13T19:57:11+08:00"
+ "lastChecked": "2026-10-13T20:26:30+08:00"
 }
