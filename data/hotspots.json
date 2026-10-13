@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T01:41:11+08:00",
+ "lastUpdated": "2026-10-14T01:42:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -891,7 +891,17 @@
    ],
    "topic": "gemini4-argon-robotics",
    "firstSeen": "2026-10-14T01:41:11+08:00"
+  },
+  {
+   "id": "2dab4154fe",
+   "title": "费马恩海峡隧道承建方遭网络攻击，工地系统瘫痪",
+   "summary": "丹麦—德国费马恩沉管隧道主承包商 FLC 发生网络事件：核心 IT 停摆、门禁失效、多艘工程船因依赖数字系统停航，是欧洲最大基建工地之一的关键基础设施风险样本。",
+   "links": [
+    "https://cphpost.dk/2026-10-13/news/round-up/cyber-incident-hits-contractor-building-fehmarn-belt-tunnel/"
+   ],
+   "topic": "fehmarn-tunnel-cyber",
+   "firstSeen": "2026-10-14T01:42:09+08:00"
   }
  ],
- "lastChecked": "2026-10-14T01:41:11+08:00"
+ "lastChecked": "2026-10-14T01:42:09+08:00"
 }
