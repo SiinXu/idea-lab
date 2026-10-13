@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-13T23:44:16+08:00",
+ "lastUpdated": "2026-10-13T23:45:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -667,7 +667,17 @@
    ],
    "topic": "apple-tv-4k-2026",
    "firstSeen": "2026-10-13T23:44:16+08:00"
+  },
+  {
+   "id": "ecda7a7ff4",
+   "title": "上 HN 后网站被 AI 爬虫流量冲垮",
+   "summary": "有开发者帖子上了 Hacker News，随即遭遇大量 AI Bot 抓取导致站点过载。公开内容的「被 Agent/爬虫瞬间吃干」成为新常态风险。",
+   "links": [
+    "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic"
+   ],
+   "topic": "hn-ai-bot-flood",
+   "firstSeen": "2026-10-13T23:45:43+08:00"
   }
  ],
- "lastChecked": "2026-10-13T23:44:16+08:00"
+ "lastChecked": "2026-10-13T23:45:43+08:00"
 }
