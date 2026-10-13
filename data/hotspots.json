@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T07:33:51+08:00",
+ "lastUpdated": "2026-10-14T07:48:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1959,7 +1959,49 @@
    ],
    "topic": "fsearch-macos",
    "firstSeen": "2026-10-14T07:33:51+08:00"
+  },
+  {
+   "id": "0d9e4b50bd",
+   "title": "Cursor Origin 上线 App 市场：CI/部署/评审一站接入",
+   "summary": "Origin 代码托管开放应用市场，Cloudflare、Vercel、CircleCI、Linear、CodeRabbit 等 20+ 集成可直接装到仓库；支持公开提交上架，把 Agent 生成代码后的构建、预览与审查接到同一处。",
+   "links": [
+    "https://cursor.com/docs/origin/apps",
+    "https://x.com/i/trending/2110148400608116747"
+   ],
+   "topic": "cursor-origin-app-marketplace",
+   "firstSeen": "2026-10-14T07:48:03+08:00"
+  },
+  {
+   "id": "a04e7c855c",
+   "title": "palette-from-image-ai：本地从图片抽命名色板，无订阅",
+   "summary": "开源桌面工具用聚类从任意图片提取干净命名色板，面向设计师与像素画；不上传云端、无订阅，一天内冲到数百星，适合做成付费模板/插件衍生品。",
+   "links": [
+    "https://github.com/egotoadcitadel/palette-from-image-ai"
+   ],
+   "topic": "palette-from-image-ai",
+   "firstSeen": "2026-10-14T07:48:03+08:00"
+  },
+  {
+   "id": "c84b1da73f",
+   "title": "Glide：Rust 写的开源 Screen Studio 替代",
+   "summary": "用 Rust 重做屏幕录制美化工具，对标付费 Screen Studio；开源后迅速上 GitHub 新仓库热榜，适合做成「开源桌面工具 + 付费模板/预设」的 Idea Lab 方向。",
+   "links": [
+    "https://github.com/michaelshimeles/glide"
+   ],
+   "topic": "glide-screen-studio",
+   "firstSeen": "2026-10-14T07:48:03+08:00"
+  },
+  {
+   "id": "cf01a38ec7",
+   "title": "麦麦热量管家：基于麦当劳 MCP 的味热比点餐 Skill",
+   "summary": "国内开发者用麦当劳 MCP 做减脂点餐 Skill，按「味热比」换掉不值的热量；和「套餐拼图」等同类项目一起冲星，说明垂直餐饮 MCP/Skill 仍有可卖点。",
+   "links": [
+    "https://github.com/WilderNoTrack/mcd-calorie-butler",
+    "https://wildernotrack.github.io/mcd-calorie-butler/"
+   ],
+   "topic": "mcd-calorie-butler",
+   "firstSeen": "2026-10-14T07:48:03+08:00"
   }
  ],
- "lastChecked": "2026-10-14T07:33:51+08:00"
+ "lastChecked": "2026-10-14T07:48:03+08:00"
 }
