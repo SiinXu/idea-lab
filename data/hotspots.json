@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-13T21:28:56+08:00",
+ "lastUpdated": "2026-10-13T21:56:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -415,7 +415,78 @@
    ],
    "topic": "gods-eye-view",
    "firstSeen": "2026-10-13T21:28:56+08:00"
+  },
+  {
+   "id": "83b56bc2f1",
+   "title": "Apple HomeView 智能家居中枢：因 Siri AI 暂不进欧盟",
+   "summary": "售价 299 美元，11 月 13 日在 8 国开售；欧盟因 iOS 上 Siri AI 不可用而缺席，苹果称正与欧盟沟通但无时间表。",
+   "links": [
+    "https://www.macrumors.com/2026/10/13/apple-homeview-wont-be-available-in-eu/"
+   ],
+   "topic": "apple-homeview",
+   "firstSeen": "2026-10-13T21:56:38+08:00"
+  },
+  {
+   "id": "1da2b4473a",
+   "title": "「Grok 正在杀死 Cursor」：新套餐只含 Grok、第三方模型全价计费",
+   "summary": "作者称 SpaceX 收购后新计划不含 Claude/OpenAI 额度，Composer 停更，OpenAI 将于 11 月 12 日切断 Cursor 接入；用户担心编辑器变成纯 Grok 壳。",
+   "links": [
+    "https://www.vincentschmalbach.com/grok-is-killing-cursor/"
+   ],
+   "topic": "cursor-grok-lockin",
+   "firstSeen": "2026-10-13T21:56:38+08:00"
+  },
+  {
+   "id": "5401d4af2d",
+   "title": "欧洲超市冷柜被黑：黑客远程开化霜导致大面积解冻",
+   "summary": "跨欧洲商超冷链遭网攻，自动化霜被激活、配送与门店价格也受影响；HN 热议工业物联网安全，近 800 分。",
+   "links": [
+    "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"
+   ],
+   "topic": "eu-fridge-cyberattack",
+   "firstSeen": "2026-10-13T21:56:38+08:00"
+  },
+  {
+   "id": "92c20a3319",
+   "title": "Anthropic 据报与前矿企 IREN 签多年云算力合同",
+   "summary": "The Information 称 Anthropic 与比特币矿企转型的 IREN 签多年云服务协议，股债一度跳涨；双方未官宣金额与容量。",
+   "links": [
+    "https://blockspace.media/insight/anthropic-iren-cloud-deal-report/",
+    "https://x.com/i/trending/2109420332063084871"
+   ],
+   "topic": "anthropic-iren-cloud",
+   "firstSeen": "2026-10-13T21:56:38+08:00"
+  },
+  {
+   "id": "41bc920809",
+   "title": "AI Code Review 五条止血规则：别让评审变老虎机",
+   "summary": "开发者总结：先定义「完成」、只修关键问题、换模型复审、最多三轮等；有人反馈问题量可降约 75%。适合做成评审工作流模板产品。",
+   "links": [
+    "https://x.com/i/trending/2109673347822805038"
+   ],
+   "topic": "ai-code-review-rules",
+   "firstSeen": "2026-10-13T21:56:38+08:00"
+  },
+  {
+   "id": "9ca2bcd34e",
+   "title": "Janas：从 SSD 流式加载 Expert，跑超内存的大模型",
+   "summary": "开源项目把 MoE expert 从 SSD 流式读入，让本机内存装不下的 LLM 也能跑；上了 HN 首页，本地推理省钱方向。",
+   "links": [
+    "https://github.com/prabanta-dev/janas"
+   ],
+   "topic": "janas-ssd-moe",
+   "firstSeen": "2026-10-13T21:56:38+08:00"
+  },
+  {
+   "id": "e2b128ff85",
+   "title": "Omarchy 加传统桌面模式：降低 Linux 新手门槛",
+   "summary": "DHH 的 Arch/Hyprland 发行版新增可选 dock、最小化、Alt+Tab；可按工作区开关，回应「太难上手」的反馈。",
+   "links": [
+    "https://x.com/i/trending/2109961618159178026"
+   ],
+   "topic": "omarchy-desktop-mode",
+   "firstSeen": "2026-10-13T21:56:38+08:00"
   }
  ],
- "lastChecked": "2026-10-13T21:28:56+08:00"
+ "lastChecked": "2026-10-13T21:56:38+08:00"
 }
