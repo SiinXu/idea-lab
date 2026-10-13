@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T00:45:00+08:00",
+ "lastUpdated": "2026-10-14T00:46:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -756,7 +756,28 @@
    ],
    "topic": "karpathy-capability-funnel",
    "firstSeen": "2026-10-14T00:45:00+08:00"
+  },
+  {
+   "id": "66cb1e6884",
+   "title": "Gemini 4 Argon 全面开放：API、Antigravity 与 Ultra/Pro",
+   "summary": "Google 宣布 Argon 全球可用：付费 Gemini API、AI Studio、Antigravity，以及 Ultra/Pro 用户在 App 与 Search AI Mode；主打长程软件工程与知识工作，百万 token 统一上下限，入门价约 $2/$10 每百万 token。",
+   "links": [
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "https://deepmind.google/models/gemini/"
+   ],
+   "topic": "gemini-4-argon-ga",
+   "firstSeen": "2026-10-14T00:46:15+08:00"
+  },
+  {
+   "id": "ffda6caad4",
+   "title": "把游戏做成 AI Harness：确定性状态与无编译迭代",
+   "summary": "Kyle Kukshtel 总结如何让游戏对 Agent 可读：固定随机种子、截图 diff、单一 Thing 对象模型、命令模式与黑盒仿真，缩短 agent 验证环。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code"
+   ],
+   "topic": "game-ai-harness",
+   "firstSeen": "2026-10-14T00:46:15+08:00"
   }
  ],
- "lastChecked": "2026-10-14T00:45:00+08:00"
+ "lastChecked": "2026-10-14T00:46:15+08:00"
 }
