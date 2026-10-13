@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T01:57:44+08:00",
+ "lastUpdated": "2026-10-14T02:22:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -951,7 +951,67 @@
    ],
    "topic": "ai-infra-gdp-brookings",
    "firstSeen": "2026-10-14T01:57:44+08:00"
+  },
+  {
+   "id": "9fc43bce43",
+   "title": "Kroger 三年裁 3000 名总部员工，加码 AI 提效",
+   "summary": "美国最大独立超市 Kroger 称将在三年内裁掉约 3000 名公司职员，CEO 强调用 AI 减少重复劳动；股价当日下跌，折射零售业「AI 换人」落地压力。",
+   "links": [
+    "https://abcnews.com/Business/wireStory/kroger-lay-off-3000-corporate-employees-3-years-137228598"
+   ],
+   "topic": "kroger-ai-layoffs",
+   "firstSeen": "2026-10-14T02:22:46+08:00"
+  },
+  {
+   "id": "697c00f480",
+   "title": "SafetyCard：98% 开源 Agent 违反 Meta「二选二」规则",
+   "summary": "对 256 个开源 Agent 打分，平均仅 3.1/10；98% 在同一会话里同时接触不可信输入、敏感权限与外部副作用，64% 可在无人批准下泄数据并做不可逆操作。Agent 安全审计/护栏产品机会明确。",
+   "links": [
+    "https://safetycard.dev/insights"
+   ],
+   "topic": "agents-rule-of-two",
+   "firstSeen": "2026-10-14T02:22:46+08:00"
+  },
+  {
+   "id": "759bb82598",
+   "title": "Linus Torvalds 用 Claude Code 写 Linux 内核补丁",
+   "summary": "Torvalds 公开提交主要由 Claude Code 协助完成的 page cache 多核读瓶颈补丁系列，基准吞吐约提升 3 倍；尚未合入主线，但标志 Linux 核心维护者正式用 AI 写内核代码。",
+   "links": [
+    "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/"
+   ],
+   "topic": "linus-claude-kernel",
+   "firstSeen": "2026-10-14T02:22:46+08:00"
+  },
+  {
+   "id": "51a2520133",
+   "title": "Anthropic 今日开投资者会：IPO 估值传逼近 2 万亿美元",
+   "summary": "10 月 14 日旧金山向机构投资者披露 Q3 财报，为潜在上市试水温；外界估值约 1.8–2 万亿美元，目标或 11 月上市，紧接 OpenAI 营收口径风波之后。",
+   "links": [
+    "https://qz.com/anthropic-q3-financials-investors-ipo-101326"
+   ],
+   "topic": "anthropic-ipo-oct14",
+   "firstSeen": "2026-10-14T02:22:46+08:00"
+  },
+  {
+   "id": "e79bb4b1e7",
+   "title": "OpenAI 洽谈把搁置的 Sora 授权给好莱坞新创",
+   "summary": "The Information：Katzenberg、前 Sora 负责人 Peebles 与前 Dropbox CFO Jaswa 的隐形视频公司正谈深度定制 Sora，OpenAI 或以股权换授权，把消费级视频模型转向专业影视 B2B。",
+   "links": [
+    "https://dealroom.co/news/info-gqjvd-openais-plan-to-revive-sora/"
+   ],
+   "topic": "openai-sora-hollywood",
+   "firstSeen": "2026-10-14T02:22:46+08:00"
+  },
+  {
+   "id": "dd4c145381",
+   "title": "Devin Dynamic Workflows：用可恢复 Python 编排多 Agent",
+   "summary": "Cognition 的 Devin 可用确定性 Python 脚本拆分、串联多 Agent 任务并支持断点续跑；企业需管理员开启。多 Agent 编排从「对话」走向「可恢复工作流」。",
+   "links": [
+    "https://runtimewire.com/article/devin-dynamic-workflows-python-agent-orchestration"
+   ],
+   "topic": "devin-dynamic-workflows",
+   "firstSeen": "2026-10-14T02:22:46+08:00"
   }
  ],
- "lastChecked": "2026-10-14T01:57:44+08:00"
+ "lastChecked": "2026-10-14T02:22:46+08:00"
 }
