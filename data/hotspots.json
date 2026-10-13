@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T03:09:20+08:00",
+ "lastUpdated": "2026-10-14T03:22:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1121,7 +1121,60 @@
    ],
    "topic": "bain-ai-6-trillion",
    "firstSeen": "2026-10-14T03:09:20+08:00"
+  },
+  {
+   "id": "f169a04c74",
+   "title": "Indra OCR：100 万参数、CPU 上每秒约 49 页",
+   "summary": "Datalab 开源 1M 参数 OCR，32 核 CPU 约 49 页/秒，比 Tesseract/PaddleOCR 快一个数量级，还输出版面与行框。适合做成本地文档流水线或付费解析工具。",
+   "links": [
+    "https://www.datalab.to/blog/indra-ocr",
+    "https://github.com/datalab-to/indra"
+   ],
+   "topic": "indra-ocr",
+   "firstSeen": "2026-10-14T03:22:54+08:00"
+  },
+  {
+   "id": "31f7825aa6",
+   "title": "英伟达入股 Doctolib 等四家法国 AI 公司",
+   "summary": "黄仁勋在巴黎宣布入股 Doctolib、Genesis AI、Pigment、Entalpic，并称一周内还有约 20 亿美元欧洲 AI 投资。医疗预约巨头要用自研模型做医患助手。",
+   "links": [
+    "https://qz.com/nvidia-jensen-huang-europe-ai-investments-101326",
+    "https://www.afp.com/en/nvidia-says-invest-french-medical-website"
+   ],
+   "topic": "nvidia-doctolib-europe",
+   "firstSeen": "2026-10-14T03:22:54+08:00"
+  },
+  {
+   "id": "a041f4ecdf",
+   "title": "Axis Robotics：浏览器众包仿真训练真机机器人",
+   "summary": "用户在网页里遥控仿真机械臂，轨迹清洗增强后训策略；宣称超 22 万贡献者、数百万条轨迹，仿真数据可落到真机。众包具身数据是新机会点。",
+   "links": [
+    "https://axisrobotics.ai/product/robot-training-data-infrastructure",
+    "https://x.com/i/trending/2110082412554092780"
+   ],
+   "topic": "axis-robotics-browser",
+   "firstSeen": "2026-10-14T03:22:54+08:00"
+  },
+  {
+   "id": "6e408db1d6",
+   "title": "Zoho 因 AI 成本暴涨暂停全年加薪",
+   "summary": "Sridhar Vembu 称服务器价格涨约 4 倍、AI 用量推高开支，已砍营销、冻结人头 18 个月，并暂停例行加薪，力争避免大规模裁员。",
+   "links": [
+    "https://www.cnbctv18.com/technology/zohos-sridhar-vembu-says-ai-has-pushed-up-server-costs-4-fold-pay-hikes-on-hold-20010412.htm"
+   ],
+   "topic": "zoho-ai-cost-freeze",
+   "firstSeen": "2026-10-14T03:22:54+08:00"
+  },
+  {
+   "id": "25b270b517",
+   "title": "Coinbase 自训欺诈 Agent：小模型打赢 Opus",
+   "summary": "Onramp 欺诈 Agent 叠在原有 ML/规则上，在线实验少 30% 欺诈单；后训 Qwen3.5-9B 在自有基准上全面超过 Opus 4.5，端到端延迟降约 55%。领域自有模型是清晰产品路径。",
+   "links": [
+    "https://www.coinbase.com/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent"
+   ],
+   "topic": "coinbase-fraud-agent",
+   "firstSeen": "2026-10-14T03:22:54+08:00"
   }
  ],
- "lastChecked": "2026-10-14T03:09:20+08:00"
+ "lastChecked": "2026-10-14T03:22:54+08:00"
 }
