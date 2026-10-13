@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-13T20:26:30+08:00",
+ "lastUpdated": "2026-10-13T20:36:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -231,7 +231,60 @@
    ],
    "topic": "pdftomp3-byo-ai",
    "firstSeen": "2026-10-13T20:26:30+08:00"
+  },
+  {
+   "id": "91aeaaae5a",
+   "title": "ScaleDown：约束解码把分类任务提速约 200 倍",
+   "summary": "ScaleDown 推出 Constrained Decoding Models，分类/抽取/摘要走固定选项解码，宣称推理约快 200 倍、成本约降 467 倍，适合 agent 流水线里的路由和结构化判断。OpenRouter/LangChain 可接，文档站已上线。",
+   "links": [
+    "https://docs.scaledown.ai/",
+    "https://x.com/i/trending/2109983830526337128"
+   ],
+   "topic": "scaledown-cdm",
+   "firstSeen": "2026-10-13T20:36:29+08:00"
+  },
+  {
+   "id": "69e423048d",
+   "title": "ArtCraft：Rust 开源复刻 Word/Excel/PPT",
+   "summary": "WordCraft、GridCraft、DeckCraft 用 Rust 清室实现 Office 工作流，支持桌面与浏览器 WASM，带 CLI/MCP 自动化；仍是 alpha，社区讨论热度很高。",
+   "links": [
+    "https://github.com/storytold/wordcraft",
+    "https://x.com/i/trending/2109487194612154595"
+   ],
+   "topic": "artcraft-office-rust",
+   "firstSeen": "2026-10-13T20:36:29+08:00"
+  },
+  {
+   "id": "438f8f8216",
+   "title": "Apple Minions：把闲置 Apple Silicon 组成虚拟 GPU 云",
+   "summary": "苹果 ML 研究论文提出 Minions：把闲置 Mac 的 GPU 聚合成分布式虚拟 GPU 云跑推理，面向集中式 GPU 紧缺、成本高的场景。",
+   "links": [
+    "https://machinelearning.apple.com/research/distributed-gpu-cloud"
+   ],
+   "topic": "apple-minions-gpu",
+   "firstSeen": "2026-10-13T20:36:29+08:00"
+  },
+  {
+   "id": "09b5358205",
+   "title": "Aether AI 发布 CRIS-0：因果智能驱动家用机器人",
+   "summary": "UCSD 教授黄碧薇创立的 Aether 发布 CRIS-0，用因果世界模型预测动作后果并实时重规划，扰动能约 2 秒恢复；已融资约 2000 万美元。",
+   "links": [
+    "https://aetherlabs.ai/articles/real-world-autonomous-robotic-system-with-causality-driven-agent-and-world-model",
+    "https://x.com/i/trending/2109697260070047919"
+   ],
+   "topic": "aether-cris0",
+   "firstSeen": "2026-10-13T20:36:29+08:00"
+  },
+  {
+   "id": "b6603a0a4a",
+   "title": "智谱 GLM-Legal：法律 Agent 在 Harvey LAB 全通过率 19.2%",
+   "summary": "基于 GLM-5.3-Flash 的法律专业模型，Harvey LAB 全通过率 19.2%（较基座 +12.5pp），LegalBench/PLawBench 接近闭源前沿；将接入 AutoClaw，适合法律工作流 OPC。",
+   "links": [
+    "https://z.ai/blog/glm-legal"
+   ],
+   "topic": "glm-legal",
+   "firstSeen": "2026-10-13T20:36:29+08:00"
   }
  ],
- "lastChecked": "2026-10-13T20:26:30+08:00"
+ "lastChecked": "2026-10-13T20:36:29+08:00"
 }
