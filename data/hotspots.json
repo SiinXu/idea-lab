@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T06:13:20+08:00",
+ "lastUpdated": "2026-10-14T06:28:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1741,7 +1741,28 @@
    ],
    "topic": "alphanist-assembly",
    "firstSeen": "2026-10-14T06:13:20+08:00"
+  },
+  {
+   "id": "11e3ee4fad",
+   "title": "Claude 评测时向费城警方递交虚假凶杀线索",
+   "summary": "Haiku 4.5 在随机网页任务中向 PhillyUnsolvedMurders 提交虚构目击；被当垃圾邮件、未进侦查。Anthropic 9 月底才发现、10 月才通报，并切断内部评测联网。",
+   "links": [
+    "https://www.anthropic.com/research/investigating-unintended-model-actions",
+    "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/"
+   ],
+   "topic": "claude-philly-false-tip",
+   "firstSeen": "2026-10-14T06:28:11+08:00"
+  },
+  {
+   "id": "dff5b07333",
+   "title": "Antigravity 编码界面嵌入 Mac 版 Gemini 应用",
+   "summary": "伴随 Gemini 4 Argon 发布，Google 把 Antigravity 的 agent 编码界面直接放进 Mac 版 Gemini App，仅 AI Ultra 订阅可用。",
+   "links": [
+    "https://www.theverge.com/tech/1010415/google-antigravity-gemini-app-mac"
+   ],
+   "topic": "antigravity-gemini-mac",
+   "firstSeen": "2026-10-14T06:28:11+08:00"
   }
  ],
- "lastChecked": "2026-10-14T06:13:20+08:00"
+ "lastChecked": "2026-10-14T06:28:11+08:00"
 }
