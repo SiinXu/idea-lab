@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-13T20:48:17+08:00",
+ "lastUpdated": "2026-10-13T21:28:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -345,7 +345,77 @@
    ],
    "topic": "context-mode",
    "firstSeen": "2026-10-13T20:48:17+08:00"
+  },
+  {
+   "id": "96dc701138",
+   "title": "比尔·盖茨：AI 是人类最危险的技术，呼吁一年内立规",
+   "summary": "盖茨接受 CNN 采访称各国需在一年内出台类似汽车、药品的 AI 监管规则，同时看好医疗教育农业应用；网友对其动机争议很大。",
+   "links": [
+    "https://x.com/i/trending/2109994701227270209"
+   ],
+   "topic": "gates-ai-regulation",
+   "firstSeen": "2026-10-13T21:28:56+08:00"
+  },
+  {
+   "id": "81916bab9f",
+   "title": "Roon 警告：对齐未解决前不应推进递归自我改进",
+   "summary": "AI 圈知名人士 Roon 称自 RLHF 以来对齐没有根本进展，呼吁前沿研究放缓、优先可解释性与可监控性，Tristan Harris 等人附和。",
+   "links": [
+    "https://x.com/i/trending/2109823116113506494"
+   ],
+   "topic": "roon-alignment-rsi",
+   "firstSeen": "2026-10-13T21:28:56+08:00"
+  },
+  {
+   "id": "7ec2699a23",
+   "title": "AI 把动画电影预算从 8000 万美元砍到 150 万",
+   "summary": "伦敦电影节上导演 Tom Walsh 称 AI 让《Merry the Christmas Witch》成本从 $80M 降至 $1.5M；Danny Boyle 也为新片少量使用 AI 特效辩护，AI 影视制作门槛快速下降。",
+   "links": [
+    "https://x.com/i/trending/2109792122186690912"
+   ],
+   "topic": "ai-film-budget-cut",
+   "firstSeen": "2026-10-13T21:28:56+08:00"
+  },
+  {
+   "id": "9270533127",
+   "title": "rea：用 Agent 逆向一切，GitHub 日增 5 万星",
+   "summary": "从应用行为到原生二进制，用 AI Agent 做逆向工程的 TypeScript 工具，累计约 19 万星，今日仍是 GitHub Trending 第一。",
+   "links": [
+    "https://github.com/morluto/rea"
+   ],
+   "topic": "morluto-rea",
+   "firstSeen": "2026-10-13T21:28:56+08:00"
+  },
+  {
+   "id": "53a5ebed2f",
+   "title": "VoiceStudio：完全本地的开源 ElevenLabs 替代品",
+   "summary": "支持声音克隆、声音设计、视频配音、听写转写和有声书制作，覆盖 646 种语言，GitHub 约 6.2 万星、今日新增近 1700。",
+   "links": [
+    "https://github.com/debpalash/VoiceStudio"
+   ],
+   "topic": "voicestudio",
+   "firstSeen": "2026-10-13T21:28:56+08:00"
+  },
+  {
+   "id": "14f321c495",
+   "title": "diagram-design：给编码 Agent 的编辑级图表技能",
+   "summary": "为 Claude Code、Codex、Cursor 等提供 44 种图表类型，输出独立 HTML+SVG，适合做文档和内容配图，GitHub 约 5.4 万星。",
+   "links": [
+    "https://github.com/cathrynlavery/diagram-design"
+   ],
+   "topic": "diagram-design-skill",
+   "firstSeen": "2026-10-13T21:28:56+08:00"
+  },
+  {
+   "id": "df489c1052",
+   "title": "God's Eye View：浏览器里的真实数据间谍卫星模拟器",
+   "summary": "在写实 3D 地球上叠加实时开源空间情报数据，开源可玩，GitHub 约 5.5 万星、今日新增近 2000。",
+   "links": [
+    "https://github.com/bilawalsidhu/gods-eye-view"
+   ],
+   "topic": "gods-eye-view",
+   "firstSeen": "2026-10-13T21:28:56+08:00"
   }
  ],
- "lastChecked": "2026-10-13T20:48:17+08:00"
+ "lastChecked": "2026-10-13T21:28:56+08:00"
 }
