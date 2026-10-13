@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T04:14:42+08:00",
+ "lastUpdated": "2026-10-14T04:32:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1280,7 +1280,67 @@
    ],
    "topic": "scientists-ai-containment-body",
    "firstSeen": "2026-10-14T04:14:42+08:00"
+  },
+  {
+   "id": "18cf6cb2f2",
+   "title": "Docker Hub 致命漏洞：PAT 可被转给他人冒用推镜像",
+   "summary": "CVE-2026-105445：把账号改成组织并把目标用户设为 owner 时，PAT 密钥不轮换就被转走，可冒名推/删镜像。Docker 已修复并停用受影响令牌，认定为供应链风险。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/"
+   ],
+   "topic": "docker-hub-pat-cve",
+   "firstSeen": "2026-10-14T04:32:32+08:00"
+  },
+  {
+   "id": "6080ac435c",
+   "title": "Guitoro：浏览器里用键盘/手指弹真实采样吉他",
+   "summary": "Show HN 热帖：四把真实采样乐器、15 和弦×全调、51 首跟弹曲，可慢速看到每根弦与扫弦方向；免费无下载，像加强版 Google 吉他 doodle，适合教培与互动内容变现。",
+   "links": [
+    "https://guitoro.com/"
+   ],
+   "topic": "guitoro-virtual-guitar",
+   "firstSeen": "2026-10-14T04:32:32+08:00"
+  },
+  {
+   "id": "d3decebf08",
+   "title": "把推理搬回家：三台四卡 R9700 打过六台 Mac Studio",
+   "summary": "创业者因 Luna 拒答/政策漂移自建本地推理：三台各 4×R9700，同工作台从约 12 单/分提到 175+；附免费装机指南。本地小模型+自有 harness 成可复制路径。",
+   "links": [
+    "https://nicholasreese.com/why-i-started-moving-inference-in-house/"
+   ],
+   "topic": "inference-in-house-r9700",
+   "firstSeen": "2026-10-14T04:32:32+08:00"
+  },
+  {
+   "id": "fac157ddce",
+   "title": "Google 对爬虫「毒化」SERP：结果页看似正常却被调包",
+   "summary": "Nozzle 分析 2750 万条：自 9 月起约 8% SERP 被毒化，有机结果只保留约 20.7% 惯常站点；多在三天内恢复。排名工具与 AI 抓取同中招，SEO 基建可信度受冲击。",
+   "links": [
+    "https://nozzle.io/research/poisoned-google-serps/"
+   ],
+   "topic": "poisoned-google-serps",
+   "firstSeen": "2026-10-14T04:32:32+08:00"
+  },
+  {
+   "id": "5b4c0c3663",
+   "title": "Gemini Apps 改模型档位：无订阅默认 Auto 多走 Flash-Lite",
+   "summary": "10 月起个人账号无 Google AI 套餐默认 Auto，多数请求走最快的 Flash-Lite；按计算量限额每 5 小时刷新。和 Gemini 4 Argon 全球开放叠加，免费层体验会明显分流。",
+   "links": [
+    "https://support.google.com/gemini/answer/17004136?hl=en"
+   ],
+   "topic": "gemini-apps-model-limits",
+   "firstSeen": "2026-10-14T04:32:32+08:00"
+  },
+  {
+   "id": "6941871885",
+   "title": "TigerData 开源 pg_vectorsearch：PostgreSQL 里可扩展向量检索",
+   "summary": "在 Postgres 内做可扩展向量搜索的新开源方案，面向 RAG/agent 把向量与业务数据放同一库的团队，减少外挂向量库运维。",
+   "links": [
+    "https://www.tigerdata.com/blog/announcing-pg_vectorsearch-scalable-open-source-vector-search-postgresql"
+   ],
+   "topic": "pg-vectorsearch",
+   "firstSeen": "2026-10-14T04:32:32+08:00"
   }
  ],
- "lastChecked": "2026-10-14T04:14:42+08:00"
+ "lastChecked": "2026-10-14T04:32:32+08:00"
 }
