@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T05:47:12+08:00",
+ "lastUpdated": "2026-10-14T05:48:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1600,7 +1600,27 @@
    ],
    "topic": "apple-switch-to-safari",
    "firstSeen": "2026-10-14T05:47:12+08:00"
+  },
+  {
+   "id": "f05b4efe97",
+   "title": "BluPe Playground：用自然语言在真机上跑机器人策略",
+   "summary": "浏览器里排队下发 prompt，看多机位直播与模型决策笔记；可本地接 Codex/Claude 订阅驱动真机械臂，并回放数据集，降低机器人策略试错门槛。",
+   "links": [
+    "https://playground.blupe.io"
+   ],
+   "topic": "blupe-robotics-playground",
+   "firstSeen": "2026-10-14T05:48:01+08:00"
+  },
+  {
+   "id": "72bbe255eb",
+   "title": "Michael I. Jordan：超级智能是科幻，AI 更像工程与统计",
+   "summary": "伯克利学者在访谈里批评「超级智能」叙事，主张把 AI 当大规模统计与工程系统来建，而不是拟人奇点故事——和当下 RSI/自评赛时间线形成对照。",
+   "links": [
+    "https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html"
+   ],
+   "topic": "michael-jordan-superintelligence-sf",
+   "firstSeen": "2026-10-14T05:48:01+08:00"
   }
  ],
- "lastChecked": "2026-10-14T05:47:12+08:00"
+ "lastChecked": "2026-10-14T05:48:01+08:00"
 }
