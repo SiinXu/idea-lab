@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T01:15:31+08:00",
+ "lastUpdated": "2026-10-14T01:41:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -859,7 +859,39 @@
    ],
    "topic": "ai-code-slop",
    "firstSeen": "2026-10-14T01:15:31+08:00"
+  },
+  {
+   "id": "66b0083773",
+   "title": "Workday 联手 Anthropic，并收购 C1.ai 做 Agent 身份治理",
+   "summary": "Workday Rising 宣布：Sana Agent 与 Claude 经 MCP 互通，HR/财务权限仍由 Workday 把关；同时签下收购 C1.ai（ConductorOne），给人与 AI Agent 统一授控企业系统访问，预计 FY27 Q4 交割。",
+   "links": [
+    "https://newsroom.workday.com/2026-10-13-Workday-and-Anthropic-Announce-New-Partnership-to-Connect-Reasoning-to-the-Rules-That-Run-the-Business,-Wherever-People-Choose-to-Work",
+    "https://newsroom.workday.com/2026-10-13-Workday-to-Acquire-C1-ai,-a-Leading-Agentic-Identity-Platform-for-People-and-Agents",
+    "https://x.com/i/trending/2110056139274809581"
+   ],
+   "topic": "workday-anthropic-c1",
+   "firstSeen": "2026-10-14T01:41:11+08:00"
+  },
+  {
+   "id": "26149269af",
+   "title": "AirLLM：单卡 4GB 显存也能推 2.8T 级大模型",
+   "summary": "开源推理库按层流式加载权重，宣称用一块 4GB GPU 跑超大模型；GitHub 日榜热度高、星数已破 3.8 万，和 SSD MoE 流式路线形成对照。",
+   "links": [
+    "https://github.com/lyogavin/airllm"
+   ],
+   "topic": "airllm-4gb",
+   "firstSeen": "2026-10-14T01:41:11+08:00"
+  },
+  {
+   "id": "1609f5d4ca",
+   "title": "Gemini 4 Argon for Robotics：具身推理与 Real2Sim 工作流",
+   "summary": "Google 发布面向机器人的 Argon 用法：零样本机械臂控制、从相机/第一视角/手绘草图重建 MuJoCo 仿真、事后标注与仿真自改进；ERQA 具身推理约 87%。",
+   "links": [
+    "https://developers.googleblog.com/gemini-4-argon-for-robotics/"
+   ],
+   "topic": "gemini4-argon-robotics",
+   "firstSeen": "2026-10-14T01:41:11+08:00"
   }
  ],
- "lastChecked": "2026-10-14T01:15:31+08:00"
+ "lastChecked": "2026-10-14T01:41:11+08:00"
 }
