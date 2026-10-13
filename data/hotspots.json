@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T07:00:55+08:00",
+ "lastUpdated": "2026-10-14T07:16:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1847,7 +1847,57 @@
    ],
    "topic": "decagon-ma-talks",
    "firstSeen": "2026-10-14T07:00:55+08:00"
+  },
+  {
+   "id": "950fd49d85",
+   "title": "Satlyt 融资 800 万美元：卫星上跑 AI，搭 SpaceX 火箭与 Google 同飞",
+   "summary": "前 SpaceX/Google 产品经理创办 Satlyt，做轨道算力软件而非造星；本周随 SpaceX 发射，同机还有 Google 太空数据中心原型 Project Suncatcher。客户包括 NASA 测轨上云协议。",
+   "links": [
+    "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
+   ],
+   "topic": "satlyt-orbital-ai",
+   "firstSeen": "2026-10-14T07:16:05+08:00"
+  },
+  {
+   "id": "eeb7b63b8d",
+   "title": "Niobia：产线上的缺陷 AI，用自然语言追问「为什么坏了」",
+   "summary": "把自含 GPU Agent 挂在电池/芯片产线设备上，标出针孔级瑕疵，并让工程师用聊天追因；瞄准半导与电池里最贵的失误复盘。TechCrunch Disrupt Battlefield 决赛选手。",
+   "links": [
+    "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/"
+   ],
+   "topic": "niobia-defect-ai",
+   "firstSeen": "2026-10-14T07:16:05+08:00"
+  },
+  {
+   "id": "d3f06c5cb2",
+   "title": "Flox Intelligence：边缘 AI 把野生动物赶离铁路、机场与公路",
+   "summary": "瑞典团队用边缘感知识别物种并播放对应驱离声，设备已在北美/欧/澳机场与廊道部署约 150 台；开 1000 万美元 A 轮做规模化。Disrupt Battlefield 决赛选手。",
+   "links": [
+    "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/"
+   ],
+   "topic": "flox-wildlife-ai",
+   "firstSeen": "2026-10-14T07:16:05+08:00"
+  },
+  {
+   "id": "1f62d11b47",
+   "title": "Jefferies：廉价中国开源模型或触发万亿级 AI 基建「重置」",
+   "summary": "称中美超大规模云约 2.3 万亿积压订单一半绑在 OpenAI/Anthropic；OpenRouter 显示中国模型周 Token 已远超美顶四，Kimi K3 等压价令「LLM 能否盈利」存疑，超大规模云 2027 年近万亿资本开支或难兑现。",
+   "links": [
+    "https://www.theregister.com/paas-and-iaas/2026/10/13/cheap-chinese-and-open-source-llms-could-trigger-trillion-dollar-ai-infrastructure-reset/5302774"
+   ],
+   "topic": "jefferies-ai-capex-reset",
+   "firstSeen": "2026-10-14T07:16:05+08:00"
+  },
+  {
+   "id": "2f293d587a",
+   "title": "Gemini 4 Argon 一眼学会：从单段视频让人形机器人连投七袋玉米袋",
+   "summary": "Argon 看完人扔 cornole 视频后自建物理仿真，再用 Video-to-Sim-to-Real 训 Apptronik Apollo，实机连续空投命中；展示日常视频可变成机器人训练数据。",
+   "links": [
+    "https://x.com/i/trending/2110107098860470620"
+   ],
+   "topic": "gemini4-argon-cornhole",
+   "firstSeen": "2026-10-14T07:16:05+08:00"
   }
  ],
- "lastChecked": "2026-10-14T07:00:55+08:00"
+ "lastChecked": "2026-10-14T07:16:05+08:00"
 }
