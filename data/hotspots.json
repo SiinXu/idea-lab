@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T07:48:03+08:00",
+ "lastUpdated": "2026-10-14T07:48:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2001,7 +2001,18 @@
    ],
    "topic": "mcd-calorie-butler",
    "firstSeen": "2026-10-14T07:48:03+08:00"
+  },
+  {
+   "id": "6bfaaf873e",
+   "title": "Pulse Local：Mac 本地记账，问答模型不离机",
+   "summary": "Show HN 上线的本地优先预算应用：导入任意货币 CSV，用微调 Qwen3 0.6B 解析问题、代码算账，再用 4B 模型交叉校验；校验开启后错误率从约 1/5 降到 5/494。无账户、无分析，首启下载约 2.9GB 模型。",
+   "links": [
+    "https://pulseos.finance",
+    "https://pulseos.finance/pulse-local/writing/agree-or-not-sure"
+   ],
+   "topic": "pulse-local",
+   "firstSeen": "2026-10-14T07:48:58+08:00"
   }
  ],
- "lastChecked": "2026-10-14T07:48:03+08:00"
+ "lastChecked": "2026-10-14T07:48:58+08:00"
 }
