@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T05:33:18+08:00",
+ "lastUpdated": "2026-10-14T05:47:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1567,7 +1567,40 @@
    ],
    "topic": "cloudflare-clef-omni",
    "firstSeen": "2026-10-14T05:33:18+08:00"
+  },
+  {
+   "id": "fb99d329a1",
+   "title": "Ivanti Connect Secure 三连零日被串链，未登录可拿到 root",
+   "summary": "Volexity 披露攻击者将认证绕过、RCE 与提权串成链，部分漏洞已有野外利用；Ivanti 只修了前两处，提权补丁仍在路上，企业 VPN 需立刻升级到 25.1.3.x。",
+   "links": [
+    "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+    "https://www.volexity.com/blog/2026/10/13/a-series-of-unauthenticated-events-chained-exploitation-of-ivanti-connect-secure-zero-days/"
+   ],
+   "topic": "ivanti-connect-secure-0day-chain",
+   "firstSeen": "2026-10-14T05:47:12+08:00"
+  },
+  {
+   "id": "b644313085",
+   "title": "DigitalOcean 接入 Bright Data：Managed Agents 可直接搜网与抽数",
+   "summary": "Open Intelligence Summit 上宣布，Managed Agents 经 Action Gateway 用 Bright Data 做实时搜索、绕障访问与结构化抽取，无需另开 Bright Data 账号；后续还要接到 Agent Data Services。",
+   "links": [
+    "https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-and-Bright-Data-Unlock-the-Web-for-AI-Agents/default.aspx",
+    "https://digitalocean.com/products/managed-agents"
+   ],
+   "topic": "digitalocean-bright-data-agents",
+   "firstSeen": "2026-10-14T05:47:12+08:00"
+  },
+  {
+   "id": "618a4005e7",
+   "title": "苹果推 Switch to Safari：对 Chrome 打隐私与续航牌",
+   "summary": "苹果上线专门活动页与视频，强调隐私追踪防护、Distraction Control、部分场景更快与更省电，正面劝 Mac 用户从 Chrome 换回 Safari。",
+   "links": [
+    "https://www.apple.com/safari/switch/",
+    "https://www.macrumors.com/2026/10/13/apple-switch-to-safari-vs-chrome/"
+   ],
+   "topic": "apple-switch-to-safari",
+   "firstSeen": "2026-10-14T05:47:12+08:00"
   }
  ],
- "lastChecked": "2026-10-14T05:33:18+08:00"
+ "lastChecked": "2026-10-14T05:47:12+08:00"
 }
