@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T01:42:09+08:00",
+ "lastUpdated": "2026-10-14T01:57:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -901,7 +901,57 @@
    ],
    "topic": "fehmarn-tunnel-cyber",
    "firstSeen": "2026-10-14T01:42:09+08:00"
+  },
+  {
+   "id": "923349d884",
+   "title": "Moderna 联合创始人：商业化 AI Agent 应像沙利度胺前先监管",
+   "summary": "Noubar Afeyan 在彭博新经济论坛呼吁：LLM 是能力、Agent 是意图；商业化上线前须验证安全，否则可能重演沙利度胺悲剧。",
+   "links": [
+    "https://qz.com/moderna-cofounder-noubar-afeyan-ai-agent-regulation-101326"
+   ],
+   "topic": "afeyan-agent-thalidomide",
+   "firstSeen": "2026-10-14T01:57:44+08:00"
+  },
+  {
+   "id": "6190cd4c05",
+   "title": "科学美国人：OpenAI 纳维–斯托克斯证明并非「西班牙路线」",
+   "summary": "专家复盘后认为 OpenAI 万亿级 Agent 群给出的流体方程 blowup 证明与 Córdoba/Martínez-Zoroa 路线貌合神离；公司一度也搞不清自家模型在证什么。",
+   "links": [
+    "https://www.scientificamerican.com/article/openais-blockbuster-navier-stokes-proof-isnt-what-we-thought-it-was/"
+   ],
+   "topic": "openai-navier-stokes-clarified",
+   "firstSeen": "2026-10-14T01:57:44+08:00"
+  },
+  {
+   "id": "209aa195cf",
+   "title": "Cloudflare 揭秘 D1：控制面如何撑起百万级数据库",
+   "summary": "面向 vibe coding「每用户/每预览一库」：查询热路径避开中心 Postgres，Workers KV 做路由元数据，两年活库量约增 65 倍；OpenAI ChatGPT Sites 已在用。",
+   "links": [
+    "https://blog.cloudflare.com/d1-control-plane/"
+   ],
+   "topic": "cloudflare-d1-millions",
+   "firstSeen": "2026-10-14T01:57:44+08:00"
+  },
+  {
+   "id": "b01d960dc4",
+   "title": "Cresta 发布 Deputy Agent：客服挂断后仍继续跑后台流程",
+   "summary": "长时运行 Agent 跨系统完成退款、争议、理赔等数天到数周的后台工作，可暂停等待材料再续跑，并带审计与人工审批闸门。",
+   "links": [
+    "https://www.prnewswire.com/news-releases/cresta-launches-deputy-agent-an-ai-agent-that-keeps-working-long-after-the-customer-hangs-up-302906336.html"
+   ],
+   "topic": "cresta-deputy-agent",
+   "firstSeen": "2026-10-14T01:57:44+08:00"
+  },
+  {
+   "id": "1422d6e994",
+   "title": "Brookings：美 AI 基建投资或达 GDP 的 3.63%/年",
+   "summary": "哥伦比亚大学 van Nieuwerburgh 估算 2025–2032 年数据中心/电力/芯片等合计约 10.3 万亿美元，相对经济规模超过铁路、公路与电信历史高峰。",
+   "links": [
+    "https://www.brookings.edu/articles/financing-the-ai-buildout/"
+   ],
+   "topic": "ai-infra-gdp-brookings",
+   "firstSeen": "2026-10-14T01:57:44+08:00"
   }
  ],
- "lastChecked": "2026-10-14T01:42:09+08:00"
+ "lastChecked": "2026-10-14T01:57:44+08:00"
 }
