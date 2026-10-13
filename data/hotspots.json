@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T03:22:54+08:00",
+ "lastUpdated": "2026-10-14T03:40:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1174,7 +1174,40 @@
    ],
    "topic": "coinbase-fraud-agent",
    "firstSeen": "2026-10-14T03:22:54+08:00"
+  },
+  {
+   "id": "46d4e5f63d",
+   "title": "Google Play 开放私人「Vibe Coding」应用库",
+   "summary": "用 AI Studio 生成的 Android 应用可直接进 Play「个人库」，无需开发者账号，先仅自己设备可用；后续支持亲友小范围分享，公开发布仍走正式审核。适合 Idea Lab 做个人工具/付费数字产品分发。",
+   "links": [
+    "https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/",
+    "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"
+   ],
+   "topic": "google-play-personal-vibe-apps",
+   "firstSeen": "2026-10-14T03:40:50+08:00"
+  },
+  {
+   "id": "733b6ef3a1",
+   "title": "Prime Intellect 收购 Moondream：开源推理加速军备赛",
+   "summary": "估值约 10 亿美元的 neocloud 买下不足 10 人的 Moondream，看重其视觉语言模型与自动生成「巨内核」编译器，想在 Nvidia 服务器上把开源模型跑得更快更便宜。",
+   "links": [
+    "https://x.com/i/trending/2110086622780006831",
+    "https://cryptobriefing.com/prime-intellect-acquires-moondream-ai-inference/"
+   ],
+   "topic": "prime-intellect-moondream",
+   "firstSeen": "2026-10-14T03:40:50+08:00"
+  },
+  {
+   "id": "858da31b8a",
+   "title": "Ledger 证实：CryptoBilis 渠道钱包内藏 LTE 间谍芯片",
+   "summary": "官方确认植入物从屏幕读取 24 词助记词，经 eSIM 用 LTE 外传；未改 Secure Element/OS。东南亚经销商停售，MediaMarkt 欧洲下架，损失估算或超数千万美元。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network"
+   ],
+   "topic": "ledger-cryptobilis-implant",
+   "firstSeen": "2026-10-14T03:40:50+08:00"
   }
  ],
- "lastChecked": "2026-10-14T03:22:54+08:00"
+ "lastChecked": "2026-10-14T03:40:50+08:00"
 }
