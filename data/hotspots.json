@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T03:57:33+08:00",
+ "lastUpdated": "2026-10-14T04:14:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1247,7 +1247,40 @@
    ],
    "topic": "uv-build-plea",
    "firstSeen": "2026-10-14T03:57:33+08:00"
+  },
+  {
+   "id": "ba3189cd4c",
+   "title": "OpenAI 发现办公室内藏录音设备，解雇涉事员工并报案 FBI",
+   "summary": "OpenAI 称在旧金山办公室发现由员工放置的隐蔽录音设备，已解雇当事人并移交 FBI；公司未公开姓名与动机，也未说明是否有敏感信息外泄。AI 实验室内安与供应链风险再次升温。",
+   "links": [
+    "https://cryptobriefing.com/openai-fires-employee-hidden-recording-device/",
+    "https://x.com/i/trending/2110098620049703360"
+   ],
+   "topic": "openai-office-bug-device",
+   "firstSeen": "2026-10-14T04:14:42+08:00"
+  },
+  {
+   "id": "62bef34aa8",
+   "title": "Anthropic：也门单元用 Claude Code 研发制导武器软件后被封禁",
+   "summary": "威胁情报报告披露：北部也门单元用多实例 Claude Code 分工写 GNC 软件，覆盖制导火箭、2000km+ 弹道导弹与高超音速滑翔概念；试射失败，账户已封，尚无证据显示已列装。AI 编码工具的武器化与防护绕过成监管焦点。",
+   "links": [
+    "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "https://www.business-standard.com/technology/artificial-intelligence/houthis-used-claude-to-develop-missiles-test-fired-rocket-anthropic-126101300180_1.html"
+   ],
+   "topic": "anthropic-yemen-gnc-misuse",
+   "firstSeen": "2026-10-14T04:14:42+08:00"
+  },
+  {
+   "id": "669ff6e1f0",
+   "title": "Hinton、Bengio 等约 400 名科学家呼吁成立国际 AI 监管机构",
+   "summary": "34 国约 400 名科学家发公开信，要求对可执行网络攻击的前沿模型设国际遏制标准、事故登记并最终公开；主张初期物理隔离与独立监督，认为行业自愿承诺不够。",
+   "links": [
+    "https://qz.com/scientists-international-body-advanced-ai-oversight-101326",
+    "https://www.cnbctv18.com/technology/scientists-call-for-international-body-to-oversee-advanced-ai-20010970.htm"
+   ],
+   "topic": "scientists-ai-containment-body",
+   "firstSeen": "2026-10-14T04:14:42+08:00"
   }
  ],
- "lastChecked": "2026-10-14T03:57:33+08:00"
+ "lastChecked": "2026-10-14T04:14:42+08:00"
 }
