@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-13T22:28:17+08:00",
+ "lastUpdated": "2026-10-13T22:29:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -516,7 +516,77 @@
    ],
    "topic": "levels-personal-software",
    "firstSeen": "2026-10-13T22:28:17+08:00"
+  },
+  {
+   "id": "4aaf92f254",
+   "title": "用纯 C 写现代 Web App：HN 热议",
+   "summary": "一篇实战长文展示如何用 C 搭现代 Web 应用，HN 约 640 分、近 280 条评论，反映对重依赖栈与过度抽象的反弹。",
+   "links": [
+    "https://prophitt.me/writing/a-modern-web-app-in-c"
+   ],
+   "topic": "modern-web-app-in-c",
+   "firstSeen": "2026-10-13T22:29:20+08:00"
+  },
+  {
+   "id": "9202dbf6ee",
+   "title": "反驳 Hickey：AI 是工具，用好它需要技能",
+   "summary": "回应 Rich Hickey「AI 不是工具」一文：LLM 可被人类驾驭，关键是意图、反馈与专业判断；HN 约 500 分，适合做成「AI 使用力」付费测评方向。",
+   "links": [
+    "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
+   ],
+   "topic": "ai-is-a-tool-skill",
+   "firstSeen": "2026-10-13T22:29:20+08:00"
+  },
+  {
+   "id": "d36733ac43",
+   "title": "Intel D270：最高约 480GB 内存的 AI 加速卡",
+   "summary": "Intel 公布 D 系列数据中心 GPU（Crescent Island），D270 可配大量 LPDDR5X，瞄准大模型推理与内存带宽场景，HN 热度较高。",
+   "links": [
+    "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html"
+   ],
+   "topic": "intel-d270-gpu",
+   "firstSeen": "2026-10-13T22:29:20+08:00"
+  },
+  {
+   "id": "d268e81a3a",
+   "title": "把 WiFi 7 路由器改成 320Msps 软件无线电",
+   "summary": "开源项目把消费级 WiFi 7 路由器改造成高采样率 SDR 接收机，HN 约 390 分，硬件黑客与射频圈关注度高。",
+   "links": [
+    "https://github.com/h0m3us3r/w1700k-sdr"
+   ],
+   "topic": "wifi7-sdr-router",
+   "firstSeen": "2026-10-13T22:29:20+08:00"
+  },
+  {
+   "id": "bca424d14e",
+   "title": "Launch HN：Agent37 低成本 Agent 沙箱（YC F26）",
+   "summary": "面向跑 Claude Code/OpenClaw 等 harness 的沙箱，宣称均摊约 $0.37/月/沙箱，用 Hetzner/OVH + gVisor 压成本并提供免费档，适合做 Idea Lab「Agent 基建」点子。",
+   "links": [
+    "https://agent37.com"
+   ],
+   "topic": "agent37-sandboxes",
+   "firstSeen": "2026-10-13T22:29:20+08:00"
+  },
+  {
+   "id": "68185f838d",
+   "title": "SolidCraft：Rust 开源参数化 CAD，带 MCP",
+   "summary": "Show HN 项目：用 Rust 做参数化 CAD，并支持 MCP，方便编码 Agent 直接驱动建模，适合工业设计与 3D 打印工作流。",
+   "links": [
+    "https://github.com/bherbruck/solidcraft"
+   ],
+   "topic": "solidcraft-cad-mcp",
+   "firstSeen": "2026-10-13T22:29:20+08:00"
+  },
+  {
+   "id": "a9dd5c5364",
+   "title": "OpenAI「更快 FFT」声明遭数学审视",
+   "summary": "对 OpenAI 宣称更快傅里叶变换的数学细节做核对，HN 约 200 分；与此前 700+ AI 数学论文热潮形成对照，提醒宣称需可复现。",
+   "links": [
+    "https://www.argmin.net/p/faster-fourier-transforms"
+   ],
+   "topic": "openai-fft-critique",
+   "firstSeen": "2026-10-13T22:29:20+08:00"
   }
  ],
- "lastChecked": "2026-10-13T22:28:17+08:00"
+ "lastChecked": "2026-10-13T22:29:20+08:00"
 }
