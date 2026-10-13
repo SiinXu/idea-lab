@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T07:16:05+08:00",
+ "lastUpdated": "2026-10-14T07:33:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1897,7 +1897,69 @@
    ],
    "topic": "gemini4-argon-cornhole",
    "firstSeen": "2026-10-14T07:16:05+08:00"
+  },
+  {
+   "id": "9d4392c166",
+   "title": "DigUp：用 EmbeddingGemma 2 在 Mac 上按「内容语义」搜文件",
+   "summary": "开源 Mac 应用，本地跑 Google DeepMind EmbeddingGemma 2，用自然语言在照片、PDF、录音、视频和代码里找内容；索引不离机，GitHub 几天内破两千星。",
+   "links": [
+    "https://github.com/ARahim3/DigUp",
+    "https://ai-tldr.dev/tools/digup/"
+   ],
+   "topic": "digup-embeddinggemma",
+   "firstSeen": "2026-10-14T07:33:51+08:00"
+  },
+  {
+   "id": "a1097dcd46",
+   "title": "ESP32 iPhone Agent：7 美元板子让视觉模型操控真机 iPhone",
+   "summary": "开源项目用 AirPlay 当眼睛、ESP32-S3 USB HID 当手，无需 Mac/开发者账号/越狱；任意 OpenAI 兼容视觉模型可规划点击与滑动，近 1500 星。",
+   "links": [
+    "https://github.com/onehumanbeing/esp32-iphone-agent"
+   ],
+   "topic": "esp32-iphone-agent",
+   "firstSeen": "2026-10-14T07:33:51+08:00"
+  },
+  {
+   "id": "a88548779a",
+   "title": "Anthropic 推出 OSS Scanner：免费给关键开源项目扫漏洞",
+   "summary": "受 Project Glasswing 启发，维护者向 anthropics/oss-scanner 提 PR 即可报名；最强模型在隔离环境离线审计并邮件报告复现与补丁建议，不做人工预审、不强制 90 天披露。",
+   "links": [
+    "https://red.anthropic.com/oss-scanner",
+    "https://github.com/anthropics/oss-scanner"
+   ],
+   "topic": "anthropic-oss-scanner",
+   "firstSeen": "2026-10-14T07:33:51+08:00"
+  },
+  {
+   "id": "6b75dae75d",
+   "title": "Talorys：个人 AI 助手跑在你自己的 Cloudflare 账户里",
+   "summary": "开源单用户 Agent，用 Durable Objects 做记忆、任务、笔记与定时自动化；一条 npx 安装，无开发者服务器，Workers AI 配额用尽时任务还能离线用。",
+   "links": [
+    "https://github.com/rociiu/talorys"
+   ],
+   "topic": "talorys-cloudflare-agent",
+   "firstSeen": "2026-10-14T07:33:51+08:00"
+  },
+  {
+   "id": "a16ea906d9",
+   "title": "闭源 vs 开源模型能力鸿沟图再次刷屏：闭源仍显著领先",
+   "summary": "Artificial Analysis Intelligence Index 可视化显示头部闭源模型稳居高分段，开源权重多在中低分；叠加 Anthropic 蒸馏防御与中美追赶叙事，引发安全与可及性争论。",
+   "links": [
+    "https://x.com/i/trending/2110148406601789782"
+   ],
+   "topic": "closed-open-model-gap",
+   "firstSeen": "2026-10-14T07:33:51+08:00"
+  },
+  {
+   "id": "a3a81526eb",
+   "title": "fsearch：macOS 全盘模糊搜索，容错拼写并索引文件内容",
+   "summary": "几天内破两千星的开源 Mac 工具，强调整盘索引、拼写容错与内容检索，和 DigUp 语义搜索形成「关键词 vs 语义」双轨本地检索热潮。",
+   "links": [
+    "https://github.com/noahdunnagan/fsearch"
+   ],
+   "topic": "fsearch-macos",
+   "firstSeen": "2026-10-14T07:33:51+08:00"
   }
  ],
- "lastChecked": "2026-10-14T07:16:05+08:00"
+ "lastChecked": "2026-10-14T07:33:51+08:00"
 }
