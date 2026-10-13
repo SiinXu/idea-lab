@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-13T21:56:38+08:00",
+ "lastUpdated": "2026-10-13T22:28:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -486,7 +486,37 @@
    ],
    "topic": "omarchy-desktop-mode",
    "firstSeen": "2026-10-13T21:56:38+08:00"
+  },
+  {
+   "id": "3a6decca5a",
+   "title": "Google 向 Ultra 用户开放 Gemini 4 Argon",
+   "summary": "Gemini 4 Argon 主打软件工程、法律、金融与网络安全，输出上限约 100 万 token；先向 Ultra 订阅与信任伙伴放量，开发者已用它搭交互 3D 世界与模拟器。",
+   "links": [
+    "https://x.com/i/trending/2109608106015539311"
+   ],
+   "topic": "gemini-4-argon",
+   "firstSeen": "2026-10-13T22:28:17+08:00"
+  },
+  {
+   "id": "66368d3463",
+   "title": "Linux 内核拟取消 AI 补丁 Assisted-By 标签强制要求",
+   "summary": "维护者峰会后拟废弃「Assisted-By:」披露义务，因 LLM 已普遍用于写补丁；邮件列表有人赞成有人反对，反映开源对 AI 署名规范松动。",
+   "links": [
+    "https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req"
+   ],
+   "topic": "linux-assisted-by-drop",
+   "firstSeen": "2026-10-13T22:28:17+08:00"
+  },
+  {
+   "id": "b0744b2ce9",
+   "title": "Pieter Levels：个人软件时代到来，传统软件将死？",
+   "summary": "Levels 称 AI Agent 会在聊天里按需生成个人软件；反对者指出构建、安全与维护成本仍在，纳德拉等强调底层软件不会消失。",
+   "links": [
+    "https://x.com/i/trending/2110004496885788687"
+   ],
+   "topic": "levels-personal-software",
+   "firstSeen": "2026-10-13T22:28:17+08:00"
   }
  ],
- "lastChecked": "2026-10-13T21:56:38+08:00"
+ "lastChecked": "2026-10-13T22:28:17+08:00"
 }
