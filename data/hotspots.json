@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T07:48:58+08:00",
+ "lastUpdated": "2026-10-14T07:56:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2012,7 +2012,47 @@
    ],
    "topic": "pulse-local",
    "firstSeen": "2026-10-14T07:48:58+08:00"
+  },
+  {
+   "id": "3482f6a12d",
+   "title": "FrontierML：给 Agent 真金白银，测它能不能把钱花成更好的模型",
+   "summary": "Induction Labs 发布端到端机器学习基准：21 个开放任务，钱包 $10/$50/$200，Agent 自己租 GPU、造数据、交推理服务；Claude Opus 5.5 领先。测的是「加资本能否换来更好模型」，不是只比思考 token。",
+   "links": [
+    "https://www.frontierml.org/blog/"
+   ],
+   "topic": "frontierml",
+   "firstSeen": "2026-10-14T07:56:19+08:00"
+  },
+  {
+   "id": "7fce15ec8e",
+   "title": "手机拍翻页视频就能扫整本书：本地 OCR + Claude 合并",
+   "summary": "用 iPhone 4K 视频翻页约 30 分钟扫完 400 页，本地 RapidOCR 抽帧后交给 Claude 合并多视角读数；写出 Markdown 并切出插图。适合做成「旧书数字化工具/教程」类付费数字产品。",
+   "links": [
+    "https://orner.com/posts/scan-book-with-video/"
+   ],
+   "topic": "book-scan-video",
+   "firstSeen": "2026-10-14T07:56:19+08:00"
+  },
+  {
+   "id": "6a7c085626",
+   "title": "MiniMax FastH3 Omni：超实时多模态视频生成上线 Reactor",
+   "summary": "文本/图片/音频输入生成视频，宣称快于实时；Reactor 上开放 playground 与 API，起步约 $0.75/分钟。开源 H3 路线与付费托管并行，适合做短视频/配音流水线点子。",
+   "links": [
+    "https://www.reactor.inc/models/fast-h3-omni"
+   ],
+   "topic": "fasth3-omni",
+   "firstSeen": "2026-10-14T07:56:19+08:00"
+  },
+  {
+   "id": "d37d554ff8",
+   "title": "Unreal Labs：搭云端 Agent 要沙箱、凭证代理与编排，而不是单体 SaaS",
+   "summary": "从 Muse/Codex Cloud 等形态总结：沙箱隔离、NFS/卷持久化、egress 代理注入凭据、消息网关与编排器排队。开源了 Unreal Agent harness，适合企业自建 Agent 平台参考。",
+   "links": [
+    "https://unreallabs.ai/blog/what-we-learned-from-building-cloud-agents/"
+   ],
+   "topic": "unreal-cloud-agents",
+   "firstSeen": "2026-10-14T07:56:19+08:00"
   }
  ],
- "lastChecked": "2026-10-14T07:48:58+08:00"
+ "lastChecked": "2026-10-14T07:56:19+08:00"
 }
