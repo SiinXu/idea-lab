@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T05:57:17+08:00",
+ "lastUpdated": "2026-10-14T06:13:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1710,7 +1710,38 @@
    ],
    "topic": "wikimedia-osm-geodata",
    "firstSeen": "2026-10-14T05:57:17+08:00"
+  },
+  {
+   "id": "d4c455d5aa",
+   "title": "Physical Intelligence 开放 Pi API Beta：上传数据即可微调机器人模型",
+   "summary": "π 系列具身基础模型可通过托管 API 做微调与推理；合作方用几天迭代就能在真机上跑通打磨、装载等任务，目标是让机器人开发不必自建整套 ML 基建。",
+   "links": [
+    "https://www.pi.website/blog/api-beta"
+   ],
+   "topic": "pi-api-beta",
+   "firstSeen": "2026-10-14T06:13:20+08:00"
+  },
+  {
+   "id": "ec11adc385",
+   "title": "Nix / Lix 曝本地提权漏洞：构建不受信 derivation 的机器均受影响",
+   "summary": "两项目联合披露多处可本地提权到 root 的问题，所有会构建不受信 derivation 的系统都中招；修复版已发布，CVE 尚未申请。",
+   "links": [
+    "https://lwn.net/Articles/1100247/"
+   ],
+   "topic": "nix-lix-lpe",
+   "firstSeen": "2026-10-14T06:13:20+08:00"
+  },
+  {
+   "id": "81ddaf612a",
+   "title": "AlphaNIST：单一策略在仿真里啃下 20 项精密装配",
+   "summary": "受 AlphaZero 启发，仅用成功/失败二元奖励就学出跨 20 个 NIST 装配任务的策略，还能串起十件套装配；涌现出换握、借板面调姿等人类未教过的手法。",
+   "links": [
+    "https://alpha-nist.github.io/",
+    "https://x.com/i/trending/2110126722397954461"
+   ],
+   "topic": "alphanist-assembly",
+   "firstSeen": "2026-10-14T06:13:20+08:00"
   }
  ],
- "lastChecked": "2026-10-14T05:57:17+08:00"
+ "lastChecked": "2026-10-14T06:13:20+08:00"
 }
