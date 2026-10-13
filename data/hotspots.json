@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-13T22:29:20+08:00",
+ "lastUpdated": "2026-10-13T23:44:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -586,7 +586,88 @@
    ],
    "topic": "openai-fft-critique",
    "firstSeen": "2026-10-13T22:29:20+08:00"
+  },
+  {
+   "id": "bc6b0eca02",
+   "title": "Amex 推出 AI Agent 购买意图鉴权框架",
+   "summary": "美国运通发布 Intent Intelligence Framework：先捕获用户购买意图与预算等约束，再签发 Proof of Intent Token，Agent 用临时凭证结账，防止擅自下单。Agent 电商合规基建正在成型。",
+   "links": [
+    "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
+   ],
+   "topic": "amex-agent-intent",
+   "firstSeen": "2026-10-13T23:44:16+08:00"
+  },
+  {
+   "id": "87249271f5",
+   "title": "微软发布 Maia 300：自研推理芯片将成主力",
+   "summary": "第三代 Azure Maia 瞄准长上下文与多步 Agent 推理，号称比主流 GPU 每兆瓦多约 40% token，满配机柜吞吐可达 Maia 200 的约 7 倍；2027 年起规模部署，降低对英伟达依赖。",
+   "links": [
+    "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/"
+   ],
+   "topic": "microsoft-maia-300",
+   "firstSeen": "2026-10-13T23:44:16+08:00"
+  },
+  {
+   "id": "f68a0c0217",
+   "title": "Harbor 融资 1000 万美元：给 AI Agent 做风险评估与保险",
+   "summary": "斯坦福背景团队从隐身亮相，为银行/保险等企业的自主 Agent 做风险测绘、拦截违规决策，并用自有资本承保剩余风险。Agent 责任与保险赛道开始有专属玩家。",
+   "links": [
+    "https://www.axios.com/pro/fintech-deals/2026/10/13/harbor-10m-seed-ai-agent-risk",
+    "https://harbor.ai/"
+   ],
+   "topic": "harbor-agent-insurance",
+   "firstSeen": "2026-10-13T23:44:16+08:00"
+  },
+  {
+   "id": "6a45949f63",
+   "title": "Clueso 获 1000 万美元 A 轮：用 Agent 自动做企业视频",
+   "summary": "IIT Madras 校友团队的 Agent 会自己操作产品界面并录制、刷新演示与培训视频；客户含 Atlassian、Zendesk 等。对标 Synthesia，差异在「真机录屏 + 产品变更自动重录」。",
+   "links": [
+    "https://thenextweb.com/news/clueso-10m-series-a-video-agents"
+   ],
+   "topic": "clueso-series-a",
+   "firstSeen": "2026-10-13T23:44:16+08:00"
+  },
+  {
+   "id": "77c7d358ba",
+   "title": "OpenBMB 发布 MiniCPM-V 4.7：端侧多模态提速",
+   "summary": "开源多模态模型面向手机/平板，旗舰 35B-A3B 仅约 30 亿激活参数，iPad Pro M4 上可达 17+ token/s，OCR 与文档推理表现接近竞品；Apache 2.0，本地 Agent 视觉能力又近一步。",
+   "links": [
+    "https://x.com/i/trending/2109716866528616525"
+   ],
+   "topic": "minicpm-v-4-7",
+   "firstSeen": "2026-10-13T23:44:16+08:00"
+  },
+  {
+   "id": "08e48fbe74",
+   "title": "Jamie Dimon 警告：别把银行账户交给第三方 AI Agent",
+   "summary": "摩根大通 CEO 在季报会上称行内可用自研 AI，但阻止外部 Agent 接入客户账户；共享凭证意味着客户自担风险，并呼吁监管跟上高速 Agent 交易。",
+   "links": [
+    "https://x.com/i/trending/2110009705141858553"
+   ],
+   "topic": "dimon-ai-agent-banks",
+   "firstSeen": "2026-10-13T23:44:16+08:00"
+  },
+  {
+   "id": "f03aaad9c9",
+   "title": "Azure 目录现身 Claude Fable 5.5：百万上下文待发信号",
+   "summary": "开发者在 Azure 目录看到 azure_ai/claude-fable-5-5（一般可用标记），声称 100 万上下文、最高 12.8 万输出，定价约 $10/$50 每百万 token；Anthropic 尚未正式官宣，类似此前 Bedrock 抢跑。",
+   "links": [
+    "https://x.com/i/trending/2110028039782551624"
+   ],
+   "topic": "claude-fable-5-5-azure",
+   "firstSeen": "2026-10-13T23:44:16+08:00"
+  },
+  {
+   "id": "35f8e8b814",
+   "title": "新款 Apple TV 4K：A19、免提 Siri 与可寻遥控器",
+   "summary": "Apple Welcome Home 活动发布新 Apple TV 4K，A19 芯片、内置麦克风免提 Siri、Siri Remote 支持 Find My；128GB 售价 299 美元，11 月 13 日起发货。",
+   "links": [
+    "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/"
+   ],
+   "topic": "apple-tv-4k-2026",
+   "firstSeen": "2026-10-13T23:44:16+08:00"
   }
  ],
- "lastChecked": "2026-10-13T22:29:20+08:00"
+ "lastChecked": "2026-10-13T23:44:16+08:00"
 }
