@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T04:33:45+08:00",
+ "lastUpdated": "2026-10-14T04:42:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1350,7 +1350,59 @@
    ],
    "topic": "agent-muster",
    "firstSeen": "2026-10-14T04:33:45+08:00"
+  },
+  {
+   "id": "77250d9e60",
+   "title": "Meta GitHub 遭窃：员工凭证换走产品源码与约 1500 人数据",
+   "summary": "外部团伙用一名员工被盗凭证进入部分 GitHub 仓库，拿走产品相关源码；约 99% 为业务代码，另有误提交的个人数据波及约 1500 人（多为美国员工）。Meta 称内部系统未破，已轮换密钥并加强扫描。",
+   "links": [
+    "https://www.cyberkendra.com/2026/10/meta-github-breach-source-code-1500-employees.html",
+    "https://x.com/i/trending/2110090772381122726"
+   ],
+   "topic": "meta-github-breach",
+   "firstSeen": "2026-10-14T04:42:37+08:00"
+  },
+  {
+   "id": "54e0547a94",
+   "title": "Deslop：用 Oxlint 规则拦截 AI 生成的 TypeScript 烂代码",
+   "summary": "开源插件 ai-deslop 把 anti-slop 等规则挂到 Oxlint，专门打掉无证据类型断言、空对象条件展开等「AI 糊代码」模式，适合塞进 CI 当 agent 写码质检。",
+   "links": [
+    "https://github.com/maharshi365/deslop"
+   ],
+   "topic": "ai-deslop-oxlint",
+   "firstSeen": "2026-10-14T04:42:37+08:00"
+  },
+  {
+   "id": "c97c407973",
+   "title": "Shop MCP：给 Agent 接上 Shopify 目录搜索与 Shop Pay 结账",
+   "summary": "shop.dev 推出面向 agent/应用的 MCP，可在数百万 Shopify 店铺里搜索商品，并用 Shop 登录与 Shop Pay 完成结账，把购物直接嵌进 agent 工作流。",
+   "links": [
+    "https://shop.dev/"
+   ],
+   "topic": "shop-mcp-agentic-commerce",
+   "firstSeen": "2026-10-14T04:42:37+08:00"
+  },
+  {
+   "id": "e97cb4231f",
+   "title": "Gitslice：面向 Agent 规模的切片式源码控制",
+   "summary": "在 Anthropic Scion 与 Cursor Origin 之后，Gitslice 主张在一个源码图上做切片、边缘仍用 Git，并把开源实现交给 agent 指向使用。",
+   "links": [
+    "https://gitslice.io/blogs/agent-scale-source-control",
+    "https://gitslice.io/"
+   ],
+   "topic": "gitslice-agent-vcs",
+   "firstSeen": "2026-10-14T04:42:37+08:00"
+  },
+  {
+   "id": "72fafeb965",
+   "title": "How Random Are You?：测你有多「随机」的互动实验",
+   "summary": "Show HN 小站用抽签/分布直觉测玩家随机感，轻量可玩、易做成付费测验或资源包变体。",
+   "links": [
+    "https://lab.specr.net/rigged-draw/"
+   ],
+   "topic": "how-random-are-you",
+   "firstSeen": "2026-10-14T04:42:37+08:00"
   }
  ],
- "lastChecked": "2026-10-14T04:33:45+08:00"
+ "lastChecked": "2026-10-14T04:42:37+08:00"
 }
