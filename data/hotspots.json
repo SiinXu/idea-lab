@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-13T19:48:04+08:00",
+ "lastUpdated": "2026-10-13T19:57:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -160,7 +160,48 @@
    ],
    "topic": "eg2-local-transcribe",
    "firstSeen": "2026-10-13T19:48:04+08:00"
+  },
+  {
+   "id": "224c102190",
+   "title": "论文：模型可被证明隐藏任意能力",
+   "summary": "arXiv 新作提出用数字保险箱把可执行神经网络藏进宿主权重，触发器未出现前连白盒审计也难以引出；化学反应分类实验中微调/LAT 几乎拉不出来。对安全评测「测不到=没有」的假设提出挑战。",
+   "links": [
+    "https://arxiv.org/abs/2610.13928",
+    "https://news.ycombinator.com/item?id=50065692"
+   ],
+   "topic": "hidden-capabilities-crypto",
+   "firstSeen": "2026-10-13T19:57:11+08:00"
+  },
+  {
+   "id": "e147c956fc",
+   "title": "Anthropic：蒸馏攻击数据量下降 90–99%",
+   "summary": "Anthropic 披露「保留思考」、分类器与用量限流等防御，把蒸馏方日均推理 token 暴露从基线 8800 倍压到约 135 倍；点名智谱 GLM、Moonshot 等仿制与滥用案例。",
+   "links": [
+    "https://x.com/i/trending/2109879009722904806"
+   ],
+   "topic": "anthropic-distillation-defense",
+   "firstSeen": "2026-10-13T19:57:11+08:00"
+  },
+  {
+   "id": "4937a915c7",
+   "title": "OpenAI 放出 700+ AI 数学证明，菲尔兹奖得主落泪",
+   "summary": "OpenAI 批量发布约 700 篇手稿、覆盖约 4000 道长期数学题；菲尔兹奖得主 Hugo Duminil-Copin 称领域被「湮灭」。社区争论验证、同行评审与半成品预印本风险。",
+   "links": [
+    "https://x.com/i/trending/2109558077477298638"
+   ],
+   "topic": "openai-math-flood",
+   "firstSeen": "2026-10-13T19:57:11+08:00"
+  },
+  {
+   "id": "86215905bd",
+   "title": "Epic 推迟迪士尼射击游戏，全面转向 AI 优先",
+   "summary": "Epic 将 Marvel/Star Wars 射击项目延期，内部要求代码与美术走 AI 优先流程（含 Claude）；CEO 称这是应对 AI 革命的巨大转向，也将惠及 Unreal 生态。",
+   "links": [
+    "https://x.com/i/trending/2109713517242925380"
+   ],
+   "topic": "epic-ai-first",
+   "firstSeen": "2026-10-13T19:57:11+08:00"
   }
  ],
- "lastChecked": "2026-10-13T19:48:04+08:00"
+ "lastChecked": "2026-10-13T19:57:11+08:00"
 }
