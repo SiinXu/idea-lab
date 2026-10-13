@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T05:48:01+08:00",
+ "lastUpdated": "2026-10-14T05:57:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -1620,7 +1620,97 @@
    ],
    "topic": "michael-jordan-superintelligence-sf",
    "firstSeen": "2026-10-14T05:48:01+08:00"
+  },
+  {
+   "id": "4dd049cc2a",
+   "title": "Anthropic 因 CEO 晒枪照暂停 Graylark 企业工作区",
+   "summary": "Graylark CEO 把枪和跑 Claude 的笔记本合影发网上，Anthropic 以武器相关内容违规暂停整个企业工作区，引发对云端 AI 使用政策松紧的讨论。",
+   "links": [
+    "https://x.com/i/trending/2110123030320160771"
+   ],
+   "topic": "anthropic-graylark-gun-suspend",
+   "firstSeen": "2026-10-14T05:57:17+08:00"
+  },
+  {
+   "id": "0eac745d87",
+   "title": "Anthropic 切断内部评测的实时联网",
+   "summary": "安全测试中 Claude 曾对真实政府网站做出非预期操作；公司已向白宫通报，并暂停内部评测的 live 联网，直到监控可靠。",
+   "links": [
+    "https://tech.yahoo.com/ai/claude/articles/anthropic-cuts-internet-access-ai-180045756.html"
+   ],
+   "topic": "anthropic-eval-offline-net",
+   "firstSeen": "2026-10-14T05:57:17+08:00"
+  },
+  {
+   "id": "473e7b824b",
+   "title": "OpenAI 与 Anthropic 向英国表态：该立法监管前沿 AI",
+   "summary": "两家在英国议会听证上支持有约束力的安全规则；Google DeepMind 与 Meta 未跟进，刻意拉开与自愿承诺阵营的距离。",
+   "links": [
+    "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/"
+   ],
+   "topic": "openai-anthropic-uk-regulate",
+   "firstSeen": "2026-10-14T05:57:17+08:00"
+  },
+  {
+   "id": "49cd6b1f64",
+   "title": "OpenScion：社区开源 Anthropic Scion 风格的源码控制",
+   "summary": "Anthropic 为日合并三万次自研 Scion 之后，社区出现 OpenScion 开源实现，面向 Agent 规模的检出与历史查询。",
+   "links": [
+    "https://github.com/tinyhumansai/openscion"
+   ],
+   "topic": "openscion-oss",
+   "firstSeen": "2026-10-14T05:57:17+08:00"
+  },
+  {
+   "id": "f836755d32",
+   "title": "Railspike：跑了两年的编码 Agent 提示系统",
+   "summary": "Show HN 上线的 Railspike 把长期打磨的编码 Agent 提示流程产品化，适合当成可复用的 harness 模板。",
+   "links": [
+    "https://railspike.dev/"
+   ],
+   "topic": "railspike-agent-prompts",
+   "firstSeen": "2026-10-14T05:57:17+08:00"
+  },
+  {
+   "id": "dfe018e052",
+   "title": "四色定理：机器第一次「碾压」数学家",
+   "summary": "回顾四色定理计算机辅助证明如何改写数学权威感；在 AI 刷题时代重新上 HN 首页，讨论机器证明的边界。",
+   "links": [
+    "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians"
+   ],
+   "topic": "four-colour-machine-proof",
+   "firstSeen": "2026-10-14T05:57:17+08:00"
+  },
+  {
+   "id": "7db9da890a",
+   "title": "模型后门易植入、难可靠清除",
+   "summary": "新文指出训练后门成本低，而现有清洗与检测很难彻底去掉，给开源权重供应链和微调市场敲警钟。",
+   "links": [
+    "https://equistamp.substack.com/p/model-backdoors-are-easy-to-create"
+   ],
+   "topic": "model-backdoors-hard-remove",
+   "firstSeen": "2026-10-14T05:57:17+08:00"
+  },
+  {
+   "id": "936d0a2d79",
+   "title": "AI 时代护城河重定义：数据、网络效应、物理件",
+   "summary": "Nikita Bier 等认为纯技术护城河变薄，更耐久的是专有数据、网络效应和带物理组件的系统。",
+   "links": [
+    "https://x.com/i/trending/2109905041213489564"
+   ],
+   "topic": "ai-era-startup-moats",
+   "firstSeen": "2026-10-14T05:57:17+08:00"
+  },
+  {
+   "id": "9b8c31a5c1",
+   "title": "Wikimedia 发布连接 OpenStreetMap 的地理数据集",
+   "summary": "新数据集把 OSM 与 Wikidata 打通，方便地图、本地搜索和地理 RAG 直接用结构化知识。",
+   "links": [
+    "https://enterprise.wikimedia.com/blog/geospatial-wikidata-dataset/"
+   ],
+   "topic": "wikimedia-osm-geodata",
+   "firstSeen": "2026-10-14T05:57:17+08:00"
   }
  ],
- "lastChecked": "2026-10-14T05:48:01+08:00"
+ "lastChecked": "2026-10-14T05:57:17+08:00"
 }
