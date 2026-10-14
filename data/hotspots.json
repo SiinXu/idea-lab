@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T20:31:50+08:00",
+ "lastUpdated": "2026-10-14T20:47:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4504,7 +4504,27 @@
    ],
    "topic": "curl-aisle-audit",
    "firstSeen": "2026-10-14T20:31:50+08:00"
+  },
+  {
+   "id": "5f443ec52a",
+   "title": "Delphi 播客爆料：Anthropic 工程师称在「享受 AI 接管前最后六个月」",
+   "summary": "主持人 Tommy Shaughnessy 在 10 月 9 日节目中向投资人 Michael Arrington 转述一次饭局对话：一名 Anthropic 工程师认真表示，公司内部多数人持这种时间线。片段在 X 上引发担忧与「邪教心态」两极争论，也让此前研究员离职警告与 Amodei 的「6–12 个月危险 Agent 集群」说法再被翻出。",
+   "links": [
+    "https://x.com/i/trending/2110348269440188887"
+   ],
+   "topic": "anthropic-six-months-takeover",
+   "firstSeen": "2026-10-14T20:47:48+08:00"
+  },
+  {
+   "id": "0d6d4e62db",
+   "title": "Palantir CTO：AI 研究员抽烟是在「昂贵地押注」AI 会治愈癌症",
+   "summary": "Shyam Sankar 在 CBS《Face the Nation》称部分 AI 研究者开始吸烟，是对 AI 将攻克癌症的「昂贵信号」，并批评这是把 AGI 当神的「集体癫狂」。言论在 X 上变成梗，健康专家反驳吸烟的心血管风险来得远比癌症更快；他未给出具体人名或规模数据。",
+   "links": [
+    "https://x.com/i/trending/2110218425213882622"
+   ],
+   "topic": "palantir-cto-ai-smoking",
+   "firstSeen": "2026-10-14T20:47:48+08:00"
   }
  ],
- "lastChecked": "2026-10-14T20:31:50+08:00"
+ "lastChecked": "2026-10-14T20:47:48+08:00"
 }
