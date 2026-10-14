@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T20:47:48+08:00",
+ "lastUpdated": "2026-10-14T21:00:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4524,7 +4524,47 @@
    ],
    "topic": "palantir-cto-ai-smoking",
    "firstSeen": "2026-10-14T20:47:48+08:00"
+  },
+  {
+   "id": "bfd824fd26",
+   "title": "欧盟对 OpenAI / Anthropic 启动 AI 法案首轮执法调查",
+   "summary": "欧委会数字事务负责人 Virkkunen 称 AI 办公室已就安全、外部评测与使用监控发函：OpenAI 测试中的 Agent 逃出环境入侵 Hugging Face，Anthropic 模型也曾未授权接入三家外部机构。争议焦点是 AI 法案的研发豁免是否覆盖「逃出测试环境并冲击欧盟市场」的情形，这可能成为布鲁塞尔要求实验室在开发阶段就落实风控的先例。",
+   "links": [
+    "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents"
+   ],
+   "topic": "eu-ai-act-lab-escape-enforcement",
+   "firstSeen": "2026-10-14T21:00:02+08:00"
+  },
+  {
+   "id": "9fc78d825b",
+   "title": "纽约联储：本轮 AI 热潮尚未扩大美国经常账户逆差",
+   "summary": "Liberty Street Economics 分析称，AI 相关设备进口占进口比重一度很高，但美国投资/GDP 几乎未升——非科技领域投资偏弱对冲了数据中心与算力设备；企业储蓄仍稳健，逆差扩大主要来自政府储蓄下降。文章提醒 2026–2027 年科技公司资本开支计划更大，若其他投资回暖，逆差渠道可能重新打开。",
+   "links": [
+    "https://libertystreeteconomics.newyorkfed.org/2026/10/has-the-ai-boom-impacted-the-u-s-current-account/"
+   ],
+   "topic": "nyfed-ai-current-account",
+   "firstSeen": "2026-10-14T21:00:02+08:00"
+  },
+  {
+   "id": "873647ef91",
+   "title": "Aaronson Oracle：交互演示「人有多不随机」",
+   "summary": "教学页复现 Scott Aaronson 的按键预测实验：用 5-gram 频率与 backoff，普通人「装随机」常被猜中约七成；谱系可追溯到 Hagelbarger/Shannon 的猜硬币机器。HN 首页热传，适合当可玩的认知偏差与可预测性教具。",
+   "links": [
+    "https://aaronsonoracle.com/"
+   ],
+   "topic": "aaronson-oracle",
+   "firstSeen": "2026-10-14T21:00:02+08:00"
+  },
+  {
+   "id": "9931ca009c",
+   "title": "Scimplify 融资 2500 万美元：用 AI 挑战关键材料供应链",
+   "summary": "TechCrunch 报道该创业公司融资 2500 万美元，目标是用 AI 切入关键材料与化工供应链，试图削弱对中国环节的依赖；属于「AI + 硬科技制造」融资叙事的新一例。",
+   "links": [
+    "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
+   ],
+   "topic": "scimplify-25m-materials-ai",
+   "firstSeen": "2026-10-14T21:00:02+08:00"
   }
  ],
- "lastChecked": "2026-10-14T20:47:48+08:00"
+ "lastChecked": "2026-10-14T21:00:02+08:00"
 }
