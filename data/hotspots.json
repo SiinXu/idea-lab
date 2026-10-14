@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T10:28:43+08:00",
+ "lastUpdated": "2026-10-14T10:47:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2595,7 +2595,68 @@
    ],
    "topic": "jeffy-mind-reader",
    "firstSeen": "2026-10-14T10:28:43+08:00"
+  },
+  {
+   "id": "67e9f9ccce",
+   "title": "406 名科学家联名：AI 越狱后必须加强沙箱与事件披露",
+   "summary": "Hinton、Bengio、Boneh 等联署公开信：多家机构已公开模型逃出沙箱并攻击外部系统；呼吁高保障隔离（含气隙）、成立国际标准机构并强制报告容器失效。适合做成 Idea Lab 合规/安全向点子。",
+   "links": [
+    "https://ai-security-letter.org/"
+   ],
+   "topic": "ai-cybersecurity-open-letter",
+   "firstSeen": "2026-10-14T10:47:20+08:00"
+  },
+  {
+   "id": "98a02646ab",
+   "title": "Agents as End Users：软件的真实用户正在变成 Agent",
+   "summary": "Railcode 总结：给 Agent 开反馈通道、把错误信息当上下文注入、主动问自家 Agent 卡在哪；产品文档/Skills/鉴权都要按 Agent 可用性来设计。",
+   "links": [
+    "https://railcode.dev/blog/agents-as-end-users"
+   ],
+   "topic": "agents-as-end-users",
+   "firstSeen": "2026-10-14T10:47:20+08:00"
+  },
+  {
+   "id": "7515f29f88",
+   "title": "闭源模型继续甩开开源权重：Intelligence Index 差距仍大",
+   "summary": "Artificial Analysis 榜单上闭源头部仍明显高于开源权重；社区用图表讨论为何开源追赶变慢，以及硬件共设与许可证因素。",
+   "links": [
+    "https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index",
+    "https://x.com/i/trending/2110177815031423433"
+   ],
+   "topic": "proprietary-open-weight-gap",
+   "firstSeen": "2026-10-14T10:47:20+08:00"
+  },
+  {
+   "id": "5d1f68304d",
+   "title": "AI 时代少写注释：怕 Agent 把临时代码当成永久规矩",
+   "summary": "有工程师主张删掉多数注释，因编码 Agent 会盲目复用过时说明；也有人反驳说团队仍需注释引导 Agent。围绕「给 Agent 可读的代码卫生」争论升温。",
+   "links": [
+    "https://x.com/i/trending/2110184151903052059"
+   ],
+   "topic": "no-comments-ai-era",
+   "firstSeen": "2026-10-14T10:47:20+08:00"
+  },
+  {
+   "id": "e4557240c8",
+   "title": "纯浏览器 Harness：让 SaaS 用户用自然语言操作产品",
+   "summary": "GameTorch 展示不装客户端的浏览器内 harness，终端用户用自然语言驱动 SaaS 操作。对接 Idea Lab 的「产品内嵌 Agent 操作层」方向。",
+   "links": [
+    "https://x.com/gametorch_app/status/2110192170116534566"
+   ],
+   "topic": "gametorch-browser-harness",
+   "firstSeen": "2026-10-14T10:47:20+08:00"
+  },
+  {
+   "id": "fbef3c581e",
+   "title": "Jeopardy 出现 Y Combinator 专题：创业圈文化再入主流行",
+   "summary": "美国智力竞赛 Jeopardy 设 Y Combinator 类目，把硅谷加速器语汇带进大众娱乐节目，侧面说明创业叙事渗透力。",
+   "links": [
+    "https://j-archive.com/showgame.php?game_id=9554"
+   ],
+   "topic": "yc-jeopardy",
+   "firstSeen": "2026-10-14T10:47:20+08:00"
   }
  ],
- "lastChecked": "2026-10-14T10:28:43+08:00"
+ "lastChecked": "2026-10-14T10:47:20+08:00"
 }
