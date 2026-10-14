@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T08:30:46+08:00",
+ "lastUpdated": "2026-10-14T08:44:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2263,7 +2263,38 @@
    ],
    "topic": "mosh-rs",
    "firstSeen": "2026-10-14T08:30:46+08:00"
+  },
+  {
+   "id": "9082ffbf1c",
+   "title": "TermiX：链上市场让 Agent 互相发包干活",
+   "summary": "Agent 用链上身份接单、托管结算与挑战仲裁，可当总包再雇其他 Agent 做美术/音效等；适合观察「Agent 经济」与自动化变现玩法。",
+   "links": [
+    "https://www.termix.ai/",
+    "https://x.com/i/trending/2110165559572570121"
+   ],
+   "topic": "termix-agent-marketplace",
+   "firstSeen": "2026-10-14T08:44:12+08:00"
+  },
+  {
+   "id": "a7ab5a7640",
+   "title": "StarSling 把 Linear 的 CI 手册改成 Agent 可执行技能",
+   "summary": "把 Linear 15 项 CI 优化逐条写成提示词，配 ci-speedup 技能；Agent 可直接按仓库情况开 PR，贴合「AI 写代码后 CI 成瓶颈」这条线。",
+   "links": [
+    "https://starsling.dev/blog/linear-ci"
+   ],
+   "topic": "starsling-linear-ci-agents",
+   "firstSeen": "2026-10-14T08:44:12+08:00"
+  },
+  {
+   "id": "98fc5dc31b",
+   "title": "SlowBooks Pro：本地版「QuickBooks」免订阅记账",
+   "summary": "跨平台源码公开记账软件，数据落本机 PostgreSQL，带 Server 模式与自带 AI 简报；反 SaaS 订阅叙事，可对照数字产品/自托管方向。",
+   "links": [
+    "https://www.slowbookspro.com/"
+   ],
+   "topic": "slowbooks-pro-local",
+   "firstSeen": "2026-10-14T08:44:12+08:00"
   }
  ],
- "lastChecked": "2026-10-14T08:30:46+08:00"
+ "lastChecked": "2026-10-14T08:44:12+08:00"
 }
