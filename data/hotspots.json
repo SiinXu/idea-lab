@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T12:59:33+08:00",
+ "lastUpdated": "2026-10-14T13:14:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3117,7 +3117,38 @@
    ],
    "topic": "lerobot-100tb-streaming",
    "firstSeen": "2026-10-14T12:59:33+08:00"
+  },
+  {
+   "id": "658ee9a4d7",
+   "title": "AMD「午餐盒」本机跑 235B：本地 vs 云端再起争议",
+   "summary": "苏姿丰展示 Ryzen AI Max+ 395 迷你机（最高约 128GB 统一内存）本机跑 Qwen3-235B 级 MoE；有人喊取消订阅，也有人指出速度、软件栈与闭源能力仍不如云端。适合做成 Idea Lab 本地推理硬件对比点子。",
+   "links": [
+    "https://x.com/i/trending/2110232555496902735",
+    "https://aabdukarim.com/blog/amd-ryzen-ai-max-local-box"
+   ],
+   "topic": "amd-lunchbox-ryzen-ai-max",
+   "firstSeen": "2026-10-14T13:14:08+08:00"
+  },
+  {
+   "id": "3accc3a12d",
+   "title": "Coinbase 催促比特币尽早备战量子计算",
+   "summary": "Coinbase 称迁移与共识改动要数年，建议现在就开始分阶段迁到抗量子签名（含混合方案），虽当前量子机尚不构成现实威胁。",
+   "links": [
+    "https://x.com/i/trending/2110235144506515801"
+   ],
+   "topic": "coinbase-bitcoin-quantum",
+   "firstSeen": "2026-10-14T13:14:08+08:00"
+  },
+  {
+   "id": "47bd47706a",
+   "title": "英伟达洽谈收购/加码 Reflection AI：Beam 权重本月将开源",
+   "summary": "FT 称英伟达与 Reflection（501B 稀疏模型 Beam）谈收购、收购聘或加码投资；Beam 自称推理算力约为同类密集模型的几分之一，计划本月以 Apache 2.0 放权重。",
+   "links": [
+    "https://thelatent.co/policy/nvidia-in-early-talks-to-buy-reflection-ai-as-trump-administration-backs-us-rival-to-deepseek-ft"
+   ],
+   "topic": "nvidia-reflection-ai-beam",
+   "firstSeen": "2026-10-14T13:14:08+08:00"
   }
  ],
- "lastChecked": "2026-10-14T12:59:33+08:00"
+ "lastChecked": "2026-10-14T13:14:08+08:00"
 }
