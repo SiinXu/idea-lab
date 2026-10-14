@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T22:44:20+08:00",
+ "lastUpdated": "2026-10-14T23:03:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4876,7 +4876,41 @@
    ],
    "topic": "netflix-layoffs-6pct-2026",
    "firstSeen": "2026-10-14T22:44:20+08:00"
+  },
+  {
+   "id": "8f7e50a829",
+   "title": "Epic「Vibe Coded」新启动器：更快并首发 Linux",
+   "summary": "Epic 今日开放重写版 Games Launcher 预览，自称 vibe coded、冷启动与库加载显著快于旧版并首次支持 Linux；同期推进 EAC Linux v2 与 Fortnite 上 Linux。适合做「大厂用 Agent 重写核心客户端」与 Linux 游戏分发点子。",
+   "links": [
+    "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+    "https://www.pcgamer.com/software/platforms/epic-says-its-new-vibe-coded-epic-games-store-launcher-is-faster-than-steam/"
+   ],
+   "topic": "epic-vibe-coded-launcher",
+   "firstSeen": "2026-10-14T23:03:53+08:00"
+  },
+  {
+   "id": "f6f7fc38ee",
+   "title": "Tensormesh Platform：企业级 KV Cache 复用降推理成本",
+   "summary": "LMCache 团队今日发布 Tensormesh Platform，在 K8s 上跨 HBM/CPU/存储做多级 KV 缓存与前缀/非前缀复用、P2P 传输与多租户策略，面向任意 LLM 推理栈。适合做推理成本看板与企业缓存层产品。",
+   "links": [
+    "https://tensormesh.ai/newsroom/tensormesh-platform-launch-llm-inference-kv-cache/",
+    "https://www.tensormesh.ai/platform"
+   ],
+   "topic": "tensormesh-platform",
+   "firstSeen": "2026-10-14T23:03:53+08:00"
+  },
+  {
+   "id": "02c41421bc",
+   "title": "腾讯 ARC × 港大 Multics：开源多人共享世界模型",
+   "summary": "TencentARC/Multics 开源训练与推理代码并放出权重：同一场景最多约 10 路第一人称视角联合生成，4 人 checkpoint 可泛化到 8/10 人。适合做多玩家合成数据、NPC 彩排与具身评测工具点子。",
+   "links": [
+    "https://github.com/TencentARC/Multics",
+    "https://huggingface.co/TencentARC/Multics",
+    "https://karine-huang.github.io/Multics/"
+   ],
+   "topic": "tencent-multics",
+   "firstSeen": "2026-10-14T23:03:53+08:00"
   }
  ],
- "lastChecked": "2026-10-14T22:44:20+08:00"
+ "lastChecked": "2026-10-14T23:03:53+08:00"
 }
