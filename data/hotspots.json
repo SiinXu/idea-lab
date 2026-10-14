@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T17:11:26+08:00",
+ "lastUpdated": "2026-10-14T17:12:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4035,7 +4035,107 @@
    ],
    "topic": "ai-replace-saas-debate",
    "firstSeen": "2026-10-14T17:11:26+08:00"
+  },
+  {
+   "id": "f505a01f91",
+   "title": "Omnis Watchtower：给 Claude Code 的供应链绊线",
+   "summary": "Show HN 开源工具，专盯 Agent 拉依赖时的供应链异常，适合当过夜自治编码的安全闸。",
+   "links": [
+    "https://github.com/Fortitude-Group/omnis-watchtower"
+   ],
+   "topic": "omnis-watchtower",
+   "firstSeen": "2026-10-14T17:12:10+08:00"
+  },
+  {
+   "id": "b56c81e229",
+   "title": "Chiplab：让 AI Agent 摸到虚拟硬件",
+   "summary": "Show HN：给 Agent 接入虚拟硬件环境，便于做嵌入式/芯片相关的仿真与试错，不必先上真机。",
+   "links": [
+    "https://veecle.ai/chiplab"
+   ],
+   "topic": "chiplab-virtual-hw",
+   "firstSeen": "2026-10-14T17:12:10+08:00"
+  },
+  {
+   "id": "d1a62c0fba",
+   "title": "Shrine：Mac 上给编码 Agent 的像素小房间",
+   "summary": "Show HN：把多个 coding agent 收进一个冷静的像素房间界面，强调可感知、不嘈杂的多 Agent 工作台。",
+   "links": [
+    "https://agentshrine.com/"
+   ],
+   "topic": "shrine-agent-pixel",
+   "firstSeen": "2026-10-14T17:12:10+08:00"
+  },
+  {
+   "id": "05fd94c791",
+   "title": "Panelize：并排问 ChatGPT / Claude / Gemini / DeepSeek",
+   "summary": "Show HN 开源面板，一次把同一问题丢给多家模型对照回答，适合选型、挑刺和写评测。",
+   "links": [
+    "https://github.com/Manho/Panelize"
+   ],
+   "topic": "panelize-multi-llm",
+   "firstSeen": "2026-10-14T17:12:10+08:00"
+  },
+  {
+   "id": "84ab6c6af9",
+   "title": "同一份工作，两套引擎：InnoDB 与 Iceberg 内核对照",
+   "summary": "HN 技术文对比行存引擎与湖表格式在事务、写入与元数据上的共性与分野，适合数据基建选型时补直觉。",
+   "links": [
+    "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/"
+   ],
+   "topic": "innodb-iceberg-internals",
+   "firstSeen": "2026-10-14T17:12:10+08:00"
+  },
+  {
+   "id": "900ab445c2",
+   "title": "PyPy v8.0.1 发布",
+   "summary": "替代型 Python 解释器小版本更新，持续跟进兼容与性能，适合长期跑服务、想少改代码换速度的场景。",
+   "links": [
+    "https://pypy.org/posts/2026/10/pypy-v801-release.html"
+   ],
+   "topic": "pypy-8-0-1",
+   "firstSeen": "2026-10-14T17:12:10+08:00"
+  },
+  {
+   "id": "058cf094f9",
+   "title": "Whiteboard Defense：答辩你上线过的系统决策",
+   "summary": "Show HN：针对你亲手交付过的系统做白板式追问，逼你讲清权衡与取舍，适合面试演练和架构复盘。",
+   "links": [
+    "https://github.com/avestura/whiteboard-defense"
+   ],
+   "topic": "whiteboard-defense",
+   "firstSeen": "2026-10-14T17:12:10+08:00"
+  },
+  {
+   "id": "fb2beb2bd0",
+   "title": "W3C TAG：安装网站必须足够简单",
+   "summary": "技术架构组发布「Installing Websites Must Be Easy」发现文，讨论怎样让 Web 应用安装路径像原生 App 一样直觉。",
+   "links": [
+    "https://w3ctag.github.io/install-finding/"
+   ],
+   "topic": "w3c-install-websites",
+   "firstSeen": "2026-10-14T17:12:10+08:00"
+  },
+  {
+   "id": "1916c5490c",
+   "title": "kcgi：C/C++ 极简 CGI 与 FastCGI 库",
+   "summary": "长期维护的轻量 Web 后端库再上 HN 首页，适合想少依赖、直接写 C 服务的人。",
+   "links": [
+    "https://kristaps.bsd.lv/kcgi/"
+   ],
+   "topic": "kcgi-fastcgi",
+   "firstSeen": "2026-10-14T17:12:10+08:00"
+  },
+  {
+   "id": "2b70712680",
+   "title": "2026 年 WebTransport 现状：代理仍是拦路虎",
+   "summary": "新文梳理 WebTransport 落地进度，重点讲企业代理与中间盒怎样拖慢部署。",
+   "links": [
+    "https://blogs.lupyd.com/blog/the-state-of-webtransport-and-the-proxy-problem/"
+   ],
+   "topic": "webtransport-2026-state",
+   "firstSeen": "2026-10-14T17:12:10+08:00"
   }
  ],
- "lastChecked": "2026-10-14T17:11:26+08:00"
+ "lastChecked": "2026-10-14T17:12:10+08:00"
 }
