@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T10:16:03+08:00",
+ "lastUpdated": "2026-10-14T10:16:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2511,7 +2511,18 @@
    ],
    "topic": "bny-citadel-tokenized-repo",
    "firstSeen": "2026-10-14T10:16:03+08:00"
+  },
+  {
+   "id": "8499e52453",
+   "title": "Show HN：Blumify——追踪 AI 领袖视频发言并对照观点变化",
+   "summary": "粘贴视频/播客拿带时间戳转写与摘要；/people 页专门跟踪 Altman、LeCun 等 AI 领袖公开言论变化，并提供 Claude/Chrome/MCP 接入。",
+   "links": [
+    "https://blumify.io/people",
+    "https://blumify.io"
+   ],
+   "topic": "blumify-ai-leaders",
+   "firstSeen": "2026-10-14T10:16:53+08:00"
   }
  ],
- "lastChecked": "2026-10-14T10:16:03+08:00"
+ "lastChecked": "2026-10-14T10:16:53+08:00"
 }
