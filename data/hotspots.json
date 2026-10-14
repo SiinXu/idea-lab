@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T06:12:40+08:00",
+ "lastUpdated": "2026-10-15T06:13:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6202,7 +6202,27 @@
    ],
    "topic": "berkshire-bending-spoons-330m-2026-10",
    "firstSeen": "2026-10-15T06:12:40+08:00"
+  },
+  {
+   "id": "9bfd8add44",
+   "title": "Build-A-Chip-Bench：从工作负载规格直出 GDS，前沿模型满分也只 16.6%",
+   "summary": "ChipAgents 与 NVIDIA 等合作发布端到端芯片设计基准：Agent 要从规格做到布线后的 GDS，过功能与可布通硬门槛后再比 PPA。目前最佳 Claude Fable 5.1 仅 16.6 分；常见失败是追性能时搞坏已通过的设计、物理问题迟迟不回改 RTL、以及把慢速工具当快速试错循环用。",
+   "links": [
+    "https://chipagents.ai/research/build-a-chip-bench"
+   ],
+   "topic": "build-a-chip-bench-2026-10",
+   "firstSeen": "2026-10-15T06:13:28+08:00"
+  },
+  {
+   "id": "0ba63e05f1",
+   "title": "丹麦全国人口登记：第三方密码「123456」被拖出 880 万条记录",
+   "summary": "黑客称通过 IT 服务商 Pays ApS 一个密码为 123456 的账户，从丹麦 CPR 中央人口登记接口拉走约 880 万条记录；哥本哈根已确认，12 天后因异常账单才发现。再次凸显政府开放查询链路上第三方弱口令与缺 2FA 的风险，正冲上 HN。",
+   "links": [
+    "https://www.tomshardware.com/tech-industry/cyber-security/hacker-claims-123456-password-let-them-breach-the-danish-national-registry-accessing-8-8-million-records-it-and-data-services-company-with-weak-passwords-linked-source-of-the-hack"
+   ],
+   "topic": "denmark-cpr-123456-breach-2026-10",
+   "firstSeen": "2026-10-15T06:13:28+08:00"
   }
  ],
- "lastChecked": "2026-10-15T06:12:40+08:00"
+ "lastChecked": "2026-10-15T06:13:28+08:00"
 }
