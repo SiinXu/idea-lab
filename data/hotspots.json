@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T13:14:08+08:00",
+ "lastUpdated": "2026-10-14T13:14:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3148,7 +3148,17 @@
    ],
    "topic": "nvidia-reflection-ai-beam",
    "firstSeen": "2026-10-14T13:14:08+08:00"
+  },
+  {
+   "id": "fa4eeec6e0",
+   "title": "Felix Rieseberg：有模型之后，怎样把野心开大",
+   "summary": "Electron 老将写给「人+模型」的教程：目标定高、工具与原始数据给足、跨领域拼专家视角，并强调外部校验而不是让模型自我打分。HN 刚上首页。",
+   "links": [
+    "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/"
+   ],
+   "topic": "felix-ambitious-with-models",
+   "firstSeen": "2026-10-14T13:14:57+08:00"
   }
  ],
- "lastChecked": "2026-10-14T13:14:08+08:00"
+ "lastChecked": "2026-10-14T13:14:57+08:00"
 }
