@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T09:25:40+08:00",
+ "lastUpdated": "2026-10-14T09:46:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2392,7 +2392,37 @@
    ],
    "topic": "agent-fresh-cleanup",
    "firstSeen": "2026-10-14T09:25:40+08:00"
+  },
+  {
+   "id": "a674b83b3d",
+   "title": "Shopify 开放任意 AI Agent 代购：十亿商品 + Shop Pay",
+   "summary": "不再只限 Meta Muse 合作：用户可在 Shop 里接入自己的 Agent，浏览十亿级目录并用 Shop Pay 一键结账，每笔仍需人工确认。Agent 电商基建又进一步。",
+   "links": [
+    "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
+   ],
+   "topic": "shopify-any-agent-shop",
+   "firstSeen": "2026-10-14T09:46:30+08:00"
+  },
+  {
+   "id": "d245036ff1",
+   "title": "Ripple × Privy：XRPL 钱包嵌入 App，方便 Agent 支付",
+   "summary": "Ripple 与 Stripe 旗下 Privy 合作，开发者可把 XRPL 钱包嵌进应用，用户无需碰私钥即可处理 XRP/RLUSD 与 Agent 交易。链上 Agent 支付场景在升温。",
+   "links": [
+    "https://x.com/i/trending/2110052518558667059"
+   ],
+   "topic": "ripple-privy-xrpl-agents",
+   "firstSeen": "2026-10-14T09:46:30+08:00"
+  },
+  {
+   "id": "e83a5aa154",
+   "title": "MIRA：教研究 Agent「下一步查什么」的元推理架构",
+   "summary": "Meta AI 论文把长程研究拆成外层元推理（决定调查什么）与内层执行；未训练就能提升定理证明与架构搜索，再用决策级信用分配做强化学习。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://arxiv.org/abs/2610.02525"
+   ],
+   "topic": "mira-meta-reasoning-agents",
+   "firstSeen": "2026-10-14T09:46:30+08:00"
   }
  ],
- "lastChecked": "2026-10-14T09:25:40+08:00"
+ "lastChecked": "2026-10-14T09:46:30+08:00"
 }
