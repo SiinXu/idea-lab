@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T02:33:16+08:00",
+ "lastUpdated": "2026-10-15T02:41:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5818,7 +5818,27 @@
    ],
    "topic": "petal-oss-coscreen",
    "firstSeen": "2026-10-15T02:33:16+08:00"
+  },
+  {
+   "id": "f10a64af61",
+   "title": "Lawfare：美国稀土产业不是「丢了」，是「卖了」",
+   "summary": "三位金融与国安背景作者回顾 Molycorp 等稀土资产外流，指出中国出口管制暂停仅延至 11 月 10 日、MP Materials 与 USA Rare Earth 已被列入管制名单；虽有最高 1000 亿美元关键矿产贷款额度，但缺的是利益对齐。他们提议一种「一旦供应被武器化就转股」的或有可转换证券，为芯片与军工供应链对冲。",
+   "links": [
+    "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it"
+   ],
+   "topic": "rare-earth-sold-lawfare",
+   "firstSeen": "2026-10-15T02:41:25+08:00"
+  },
+  {
+   "id": "cd591e07ab",
+   "title": "X 热议：AI 绘画到底算不算「技能」",
+   "summary": "一位用户晒出高质量 AI 作品反问「若不需要技能，为何有人做得更好」，引发分裂讨论：支持方强调提示词、迭代与审美，批评方称其为缺乏人味的「AI slop」；有研究显示专业艺术家用 AI 仍明显胜过普通人。适合做「AI 创作过程可视化/作品溯源」类工具点子。",
+   "links": [
+    "https://x.com/i/trending/2110433210073248044"
+   ],
+   "topic": "ai-art-skill-debate",
+   "firstSeen": "2026-10-15T02:41:25+08:00"
   }
  ],
- "lastChecked": "2026-10-15T02:33:16+08:00"
+ "lastChecked": "2026-10-15T02:41:25+08:00"
 }
