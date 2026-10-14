@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T03:41:08+08:00",
+ "lastUpdated": "2026-10-15T03:56:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6002,7 +6002,31 @@
    ],
    "topic": "ice-ero-one-surveillance-2026-10",
    "firstSeen": "2026-10-15T03:41:08+08:00"
+  },
+  {
+   "id": "f80d7048c2",
+   "title": "哈佛调查：53% 男性称认识两位「虚构」AI 领袖",
+   "summary": "哈佛肯尼迪学院 Shorenstein 中心对 5,400 多名美国成年人的调查中，混入了两个编造的名字 Susan Milner 与 Craig Dalton，结果 53% 的男性和 40% 的女性称认识他们。男性整体更自信、用 AI 更频繁，但答错率与女性相近，差别主要在女性更常选「不确定」；报告还发现 AI 新闻标题中男性被点名的次数是女性的 14 倍以上。WIRED 报道后在 X 上引发讨论。",
+   "links": [
+    "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+    "https://shorensteincenter.org/wp-content/uploads/2026/10/women-and-ai-report-oct-2026.pdf",
+    "https://x.com/i/trending/2110456220649693246"
+   ],
+   "topic": "shorenstein-women-ai-fake-leaders-2026-10",
+   "firstSeen": "2026-10-15T03:56:15+08:00"
+  },
+  {
+   "id": "7f50c8fdaf",
+   "title": "国产大模型「集体沉默」？8 月底后无旗舰发布引热议",
+   "summary": "X 与 LINUX DO 社区热议：美国实验室密集发布 Opus 5.5、Gemini 4 Argon、GPT-6.1 Sol 等新模型，而阿里、智谱自 8 月下旬 Qwen3.8-Flash、GLM-5.3-Flash 之后再无旗舰更新。讨论归因于算力出口管制与蒸馏审查；也有人梳理发布节奏后认为国产厂商仍在约两个月一次的发布窗口内，9 月以来以小版本和开源工具为主，近期可能迎来集中发布。",
+   "links": [
+    "https://x.com/i/trending/2110429723113250925",
+    "https://linux.do/t/topic/3017252",
+    "https://www.brandon-ta.com/blog/chinese-ai-models-state-of-play-2026/"
+   ],
+   "topic": "china-ai-labs-quiet-2026-10",
+   "firstSeen": "2026-10-15T03:56:15+08:00"
   }
  ],
- "lastChecked": "2026-10-15T03:41:08+08:00"
+ "lastChecked": "2026-10-15T03:56:15+08:00"
 }
