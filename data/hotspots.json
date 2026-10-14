@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T07:40:38+08:00",
+ "lastUpdated": "2026-10-15T07:54:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6423,7 +6423,47 @@
    ],
    "topic": "wired-mit-ai-theory-science-2026-10",
    "firstSeen": "2026-10-15T07:40:38+08:00"
+  },
+  {
+   "id": "1ca14fe862",
+   "title": "NVIDIA 推 cuPotential：AI 定义晶圆厂再加速",
+   "summary": "NVIDIA 在 SEMICON West 宣布半导体厂商采用 CUDA-X，并推出 cuPotential，让 Agent 模拟原子分子相互作用；早期测试称可再加速 GPU 工作流约 2–3 倍。",
+   "links": [
+    "https://www.globenewswire.com/news-release/2026/10/14/3380979/0/en/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-fabs.html"
+   ],
+   "topic": "nvidia-cupotential-ai-fabs-2026-10",
+   "firstSeen": "2026-10-15T07:54:17+08:00"
+  },
+  {
+   "id": "7b33f9ddda",
+   "title": "Robo-bench：前沿模型控仿真人形得分不到 2/100",
+   "summary": "Vals AI 的 Robo-bench 用实时物理仿真考机械臂与人形；目前没有模型解出人形任务，人形均分都不到 2，GPT-6.1 Sol 总榜第一约 28%。",
+   "links": [
+    "https://www.vals.ai/benchmarks/robo_bench"
+   ],
+   "topic": "vals-robo-bench-2026-10",
+   "firstSeen": "2026-10-15T07:54:17+08:00"
+  },
+  {
+   "id": "18177a36d8",
+   "title": "Anthropic 公布 2026 美国中期选举安全护栏",
+   "summary": "Anthropic 更新选举相关政策与检测，计划在对话里接入官方投票信息与选举夜结果，并披露已拦截用 Claude 做假新闻站等滥用。",
+   "links": [
+    "https://www.anthropic.com/news/2026-us-midterms"
+   ],
+   "topic": "anthropic-us-midterms-safeguards-2026-10",
+   "firstSeen": "2026-10-15T07:54:17+08:00"
+  },
+  {
+   "id": "ee43f7a6f8",
+   "title": "开源新模式：不收 PR，欢迎 Remix",
+   "summary": "开发者 Geoffrey Huntley 提出「关闭 Pull Request、开放 Remix」：与其在上游堆 PR，不如鼓励下游整仓改编，回应 AI 时代贡献节奏变化。",
+   "links": [
+    "https://ghuntley.com/remix/"
+   ],
+   "topic": "oss-closed-pr-open-remix-2026-10",
+   "firstSeen": "2026-10-15T07:54:17+08:00"
   }
  ],
- "lastChecked": "2026-10-15T07:40:38+08:00"
+ "lastChecked": "2026-10-15T07:54:17+08:00"
 }
