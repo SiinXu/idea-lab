@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T17:12:10+08:00",
+ "lastUpdated": "2026-10-14T17:30:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4135,7 +4135,107 @@
    ],
    "topic": "webtransport-2026-state",
    "firstSeen": "2026-10-14T17:12:10+08:00"
+  },
+  {
+   "id": "5e6858500f",
+   "title": "Hive：让编码 Agent 不断线的持久运行时",
+   "summary": "开源基础设施给每个 coding agent 配上可跨断线、重启和合上笔记本仍存活的终端、工作区与上下文，主打「不下班」的过夜自治。",
+   "links": [
+    "https://hive.admir-saheta.com/"
+   ],
+   "topic": "hive-persistent-agents",
+   "firstSeen": "2026-10-14T17:30:21+08:00"
+  },
+  {
+   "id": "f2bde108f6",
+   "title": "Anthropic 新加坡开第五家亚太办公室并签政府 MOU",
+   "summary": "官方宣布落地新加坡，并与当地政府就 AI 安全、评测与负责任落地签署谅解备忘录，亚太布局再加一城。",
+   "links": [
+    "https://www.anthropic.com/news/singapore-office-opening"
+   ],
+   "topic": "anthropic-singapore-office",
+   "firstSeen": "2026-10-14T17:30:21+08:00"
+  },
+  {
+   "id": "da9d22f347",
+   "title": "Claudemy：给 Claude 一个主题，自动做出带引用的迷你课",
+   "summary": "开源 Udemy/Coursera 替代思路：Claude Code skill 检索网页后生成约 2 分钟音频小课并附来源，适合快速自学与内容矩阵试水。",
+   "links": [
+    "https://github.com/assafkip/claudemy"
+   ],
+   "topic": "claudemy-claude-courses",
+   "firstSeen": "2026-10-14T17:30:21+08:00"
+  },
+  {
+   "id": "5c4e706713",
+   "title": "Brownfield Cartographer：改一处，SQL/dbt/Airflow 哪里会炸",
+   "summary": "本地优先的仓库分析引擎，用 CLI、Python API 和只读 MCP 做结构、依赖影响与数据血缘，默认可复现，适合 Agent 改旧仓前先摸雷。",
+   "links": [
+    "https://github.com/Sanoy24/the-brownfield-cartographer"
+   ],
+   "topic": "brownfield-cartographer",
+   "firstSeen": "2026-10-14T17:30:21+08:00"
+  },
+  {
+   "id": "bbcc877bc8",
+   "title": "Iosevka：开源等宽字体再上 HN 首页",
+   "summary": "可高度定制的无衬线/slab 等宽字体项目重回讨论，适合终端、IDE 和长时间盯代码的可读性选型。",
+   "links": [
+    "https://typeof.net/Iosevka/"
+   ],
+   "topic": "iosevka-monospace",
+   "firstSeen": "2026-10-14T17:30:21+08:00"
+  },
+  {
+   "id": "867a1b65d9",
+   "title": "gophers：带源码核验的 Go Agent Skills",
+   "summary": "面向 Cobra CLI、Viper 配置和 Wails 桌面应用的 Go 技能包，强调来源可核验，方便 Agent 少瞎编 API。",
+   "links": [
+    "https://github.com/tpscloud/gophers"
+   ],
+   "topic": "gophers-go-skills",
+   "firstSeen": "2026-10-14T17:30:21+08:00"
+  },
+  {
+   "id": "a87cdb49a4",
+   "title": "open-growth-skills：增长向 AI Agent 技能大合集",
+   "summary": "把获客、转化、内容等增长动作打包成可复用 Agent Skills，适合 indie 产品快速接增长流水线。",
+   "links": [
+    "https://github.com/JeffLi1993/open-growth-skills"
+   ],
+   "topic": "open-growth-skills",
+   "firstSeen": "2026-10-14T17:30:21+08:00"
+  },
+  {
+   "id": "bf80e48437",
+   "title": "Attenuated Agent Budgets：给 Agent 支付加预算衰减",
+   "summary": "Show HN：在 X402 上扩展法币 MoR 支付与预算衰减，限制自治 Agent 能花多少钱，适合 Agent 商业化与风控实验。",
+   "links": [
+    "https://github.com/mceleri/attenuated-agent-budgets"
+   ],
+   "topic": "attenuated-agent-budgets",
+   "firstSeen": "2026-10-14T17:30:21+08:00"
+  },
+  {
+   "id": "8a5c897fb6",
+   "title": "RISC-V 上加速 SpeexDSP 音频处理",
+   "summary": "RISE 项目文章讲如何为 RISC-V 优化 SpeexDSP，把常见音频处理流水线跑得更省、更快，适合端侧与嵌入式音频。",
+   "links": [
+    "https://riseproject.dev/2026/10/13/accelerating-audio-processing-with-speexdsp-optimizations-for-risc-v/"
+   ],
+   "topic": "speexdsp-riscv",
+   "firstSeen": "2026-10-14T17:30:21+08:00"
+  },
+  {
+   "id": "a0bc80e331",
+   "title": "Show HN：AI 帮创始人审投资协议与 Term Sheet",
+   "summary": "面向 Delaware 公司的融资文件审阅工具，覆盖 SAFE、可转债、股东协议与 side letter，签前先扫风险点。",
+   "links": [
+    "https://www.orchardagentic.cloud/#browse/funding-review"
+   ],
+   "topic": "orchard-funding-review",
+   "firstSeen": "2026-10-14T17:30:21+08:00"
   }
  ],
- "lastChecked": "2026-10-14T17:12:10+08:00"
+ "lastChecked": "2026-10-14T17:30:21+08:00"
 }
