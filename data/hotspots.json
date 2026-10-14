@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T19:23:37+08:00",
+ "lastUpdated": "2026-10-14T19:44:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4422,7 +4422,19 @@
    ],
    "topic": "pentagi-autonomous-pentest",
    "firstSeen": "2026-10-14T19:23:37+08:00"
+  },
+  {
+   "id": "5aec8af830",
+   "title": "Jio Platforms 定价 IPO：拟募约 3020 亿卢比，或成印度史上最大",
+   "summary": "信实工业旗下数字业务 Jio Platforms 据报把发行价区间定在每股 1065–1119 卢比，全部为新股发行（最多 2.7 亿股），上限估值约 10.3 万亿卢比；10 月 21–23 日认购、28 日在 BSE/NSE 上市，规模有望超过现代汽车印度的纪录。Jio 手握 5 亿多 5G/宽带用户并押注云与 AI，这单是观察新兴市场 AI 基建资本化的风向标。",
+   "links": [
+    "https://www.fortuneindia.com/markets/ipo/jio-platforms-ipo-ril-digital-arm-to-raise-30200-crore-at-1065-1119-apiece-valuation-pegged-at-103-lakh-crore/163856",
+    "https://www.etnownews.com/markets/mukesh-ambanis-jio-said-to-set-ipo-price-band-at-rs-1065-1119-article-156304427",
+    "https://x.com/i/trending/2110312768070947129"
+   ],
+   "topic": "jio-platforms-ipo",
+   "firstSeen": "2026-10-14T19:44:58+08:00"
   }
  ],
- "lastChecked": "2026-10-14T19:23:37+08:00"
+ "lastChecked": "2026-10-14T19:44:58+08:00"
 }
