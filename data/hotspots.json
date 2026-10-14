@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T07:32:06+08:00",
+ "lastUpdated": "2026-10-15T07:40:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6392,7 +6392,38 @@
    ],
    "topic": "ambrosia-10gwh-offgrid-dc",
    "firstSeen": "2026-10-15T07:32:06+08:00"
+  },
+  {
+   "id": "9b0bea9a8f",
+   "title": "Claude Code 空闲压缩：走开约 54 分钟也会自动压上下文",
+   "summary": "Claude Code 2.1.299+ 对超过约 20 万 token、空闲约 54 分钟的终端会话，会在 1 小时 prompt cache 过期前自动压缩，回来时不必整段重算（未缓存重处理可贵约 40 倍）。可用 idleCompaction:false 或环境变量关掉/调阈值。",
+   "links": [
+    "https://code.claude.com/docs/en/changelog",
+    "https://azeemhassni.com/blog/wire-claude-code-idle-compaction/"
+   ],
+   "topic": "claude-code-idle-compaction-2026-10",
+   "firstSeen": "2026-10-15T07:40:38+08:00"
+  },
+  {
+   "id": "f1c8e20f75",
+   "title": "Deezer 年底前上线「过滤 AI 音乐」开关",
+   "summary": "Deezer 称日上传曲目里 AI 生成已超一半（约 9 万首/天），将在年底前提供开关，打开后搜索不再显示 AI 曲目/专辑/艺人；与 YouTube Music 打标、Bandcamp 禁 AI、Tidal 停变现形成对照。",
+   "links": [
+    "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
+   ],
+   "topic": "deezer-ai-music-filter-2026-10",
+   "firstSeen": "2026-10-15T07:40:38+08:00"
+  },
+  {
+   "id": "4edb4571d6",
+   "title": "WIRED / MIT：AI 拿下数学后，开始啃理论科学",
+   "summary": "MIT 团队用训练截止后的论文题测 OpenAI 模型：2024 年中到 2026 年中，概率/统计理论、经济理论、高能/引力/宇宙学、量子物理等理论题正确率从约 2% 升到约 35%，且仍在加速；强调仍需人验证与选题。",
+   "links": [
+    "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/"
+   ],
+   "topic": "wired-mit-ai-theory-science-2026-10",
+   "firstSeen": "2026-10-15T07:40:38+08:00"
   }
  ],
- "lastChecked": "2026-10-15T07:32:06+08:00"
+ "lastChecked": "2026-10-15T07:40:38+08:00"
 }
