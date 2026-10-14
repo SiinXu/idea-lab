@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T04:45:33+08:00",
+ "lastUpdated": "2026-10-15T04:46:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6050,7 +6050,27 @@
    ],
    "topic": "ms-defender-linux-desktop-preview-2026-10",
    "firstSeen": "2026-10-15T04:45:33+08:00"
+  },
+  {
+   "id": "2dc3c67d4a",
+   "title": "美银为补 Mythos 暴露的漏洞，加雇 1000 名外包",
+   "summary": "美国银行 CEO Brian Moynihan 在三季报后对 CNBC 表示：Anthropic Mythos 等前沿模型能挖出几十年的老漏洞，银行二季度紧急加雇 1000 名外包做补丁，在原有约 3000 人的团队之外；三季度软件修复与反洗钱合规相关支出达「几亿美元以上」。这是美国大企业首次具体披露为防 Mythos 投入的人力和费用。他称支出是暂时的；同时行内约 130 个 AI 项目的节省预计从今年 3 亿美元增至 2027 年 7 亿美元。当日美银股价盘中一度跌约 8%。",
+   "links": [
+    "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html"
+   ],
+   "topic": "bofa-mythos-1000-contractors-2026-10",
+   "firstSeen": "2026-10-15T04:46:07+08:00"
+  },
+  {
+   "id": "d99ce6561e",
+   "title": "Cloudflare：Yandex 机房遇袭断网，恶意 Bot 并未「消失」",
+   "summary": "据报道 10 月 7–11 日乌克兰无人机袭击了 Yandex 三处设施，10 月 11 日 Yandex 搜索（AS13238）流量跌到基线以下 99%、Yandex.Cloud（AS200350）跌 90%，到 14 日仍只恢复到约 85%。Cloudflare 用 Radar 与 Bot 管理数据分析：搜索 ASN 的流量几乎全是正规爬虫；云 ASN 的 Bot 虽下降约 40%（WordPress 插件探测降 90%），但两者只占俄罗斯来源 Bot 请求的约 7% 和 2%，没有证据显示全球恶意流量因此中断。看总流量曲线容易误判，需要看请求行为。",
+   "links": [
+    "https://blog.cloudflare.com/yandex-outage/"
+   ],
+   "topic": "cloudflare-yandex-outage-bots-2026-10",
+   "firstSeen": "2026-10-15T04:46:07+08:00"
   }
  ],
- "lastChecked": "2026-10-15T04:45:33+08:00"
+ "lastChecked": "2026-10-15T04:46:07+08:00"
 }
