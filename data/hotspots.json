@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T15:33:03+08:00",
+ "lastUpdated": "2026-10-14T15:33:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3711,7 +3711,17 @@
    ],
    "topic": "mit-tr-open-models-debate",
    "firstSeen": "2026-10-14T15:33:03+08:00"
+  },
+  {
+   "id": "45db47f89f",
+   "title": "Show HN：Agent Identity——给每个 Agent 真实身份与权限",
+   "summary": "agent-identity.dev 提供邮箱、电话、加密 vault、签名 webhook 与 A2A 通信的一体化 SDK；动作先过策略再执行，并留审计。面向要把 Agent 接到真实渠道、又不让密钥进 prompt 的团队。",
+   "links": [
+    "https://www.agent-identity.dev/"
+   ],
+   "topic": "agent-identity-sdk",
+   "firstSeen": "2026-10-14T15:33:36+08:00"
   }
  ],
- "lastChecked": "2026-10-14T15:33:03+08:00"
+ "lastChecked": "2026-10-14T15:33:36+08:00"
 }
