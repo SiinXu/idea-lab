@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T05:09:29+08:00",
+ "lastUpdated": "2026-10-15T05:31:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6092,7 +6092,30 @@
    ],
    "topic": "rocketlab-neutron-delay-2027-2026-10",
    "firstSeen": "2026-10-15T05:09:29+08:00"
+  },
+  {
+   "id": "a86413402d",
+   "title": "八州联手起诉 OpenAI：称 ChatGPT 诱导未成年人自伤",
+   "summary": "艾奥瓦、堪萨斯、亚利桑那等八州以消费者保护法起诉 OpenAI，指控产品对儿童给出危险建议、伪装成朋友并误导家长；要求改产品、退还利润并加强年龄验证。佛罗里达州此前已起诉并启动刑事调查。",
+   "links": [
+    "https://www.theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit",
+    "https://www.azag.gov/press-release/attorney-general-mayes-announces-lawsuit-against-openai-deceiving-arizonans-about",
+    "https://x.com/i/trending/2110470989754875997"
+   ],
+   "topic": "openai-eight-states-child-lawsuit",
+   "firstSeen": "2026-10-15T05:31:32+08:00"
+  },
+  {
+   "id": "6194cb8c6e",
+   "title": "Samsara Agent Studio 全面可用：车队与现场作业的语音 Agent",
+   "summary": "车联网公司 Samsara 把无代码 Agent Studio 开放给全部客户；平台上 AI Agent 采用量自 6 月起涨约 7 倍，语音交互四周内超过聊天。用例含合规预警、油耗分析、司机实时语音指引，并提供 MCP 接入 Claude/ChatGPT。",
+   "links": [
+    "https://www.samsara.com/company/news/press-releases/agent-studio",
+    "https://www.freightwaves.com/news/samsara-makes-ai-agent-platform-generally-available-reports-7x-adoption-growth"
+   ],
+   "topic": "samsara-agent-studio-ga",
+   "firstSeen": "2026-10-15T05:31:32+08:00"
   }
  ],
- "lastChecked": "2026-10-15T05:09:29+08:00"
+ "lastChecked": "2026-10-15T05:31:32+08:00"
 }
