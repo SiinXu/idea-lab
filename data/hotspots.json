@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T22:27:58+08:00",
+ "lastUpdated": "2026-10-14T22:44:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4825,7 +4825,58 @@
    ],
    "topic": "silicon-compiler-ai-agent",
    "firstSeen": "2026-10-14T22:27:58+08:00"
+  },
+  {
+   "id": "94fb16ac46",
+   "title": "Disruptors 60 公布 2026 届：60 家早期 AI 创业公司",
+   "summary": "Greenfield Partners 与 TechCrunch 在 Disrupt 现场揭晓 Class of 2026，覆盖安全、基建、机器人与企业工具，并登上时代广场 Nasdaq 塔；合计融资近 60 亿美元。适合扫名单找对标与内容选题。",
+   "links": [
+    "https://www.disruptors60.ai/",
+    "https://x.com/i/trending/2110375783185440829"
+   ],
+   "topic": "disruptors-60-2026",
+   "firstSeen": "2026-10-14T22:44:20+08:00"
+  },
+  {
+   "id": "b7e1d17888",
+   "title": "Andrew Ng：Agent 越多，算力与工具栈越吃紧",
+   "summary": "吴恩达在 The Batch 指出 agent 工作流会把搜索、分析、金融交易量级拉高，瓶颈常在工具调用而非 token；数据中心与整栈优化需求被低估。",
+   "links": [
+    "https://www.deeplearning.ai/the-batch/scaling-up-for-future-ai-demands"
+   ],
+   "topic": "andrew-ng-agents-compute",
+   "firstSeen": "2026-10-14T22:44:20+08:00"
+  },
+  {
+   "id": "87fbcf0981",
+   "title": "多智能体值不值？Vals 在 Vibe Code Bench 实测",
+   "summary": "团队相对单 agent 成本高 1.8–5.1 倍，仅 GPT-6 Sol 中等推理下分数显著+7.3；提高推理力度有时比组队更划算。适合做 agent 编排与成本看板点子。",
+   "links": [
+    "https://www.vals.ai/blogs/multi-agent-vibe-code-bench"
+   ],
+   "topic": "vals-multi-agent-vibe-bench",
+   "firstSeen": "2026-10-14T22:44:20+08:00"
+  },
+  {
+   "id": "69f0e32bdc",
+   "title": "Fingerprinting Leaderboard：模型指纹开源排行榜",
+   "summary": "Sentient 上线开放基准，按印记强度、抗攻击能力与对模型能力的损伤三项给模型指纹方案打分，方便做溯源与防蒸馏产品。",
+   "links": [
+    "https://fingerprint.sentient.foundation/"
+   ],
+   "topic": "fingerprinting-leaderboard",
+   "firstSeen": "2026-10-14T22:44:20+08:00"
+  },
+  {
+   "id": "a0f8a45e8f",
+   "title": "Netflix 裁员约 6%（约 1000 人）：迄今最大裁员",
+   "summary": "据 Variety，Netflix 进行迄今最大规模裁员，约裁 6%、近千人；流媒体与内容业在 AI/成本压力下的组织信号值得跟进。",
+   "links": [
+    "https://variety.com/2026/tv/news/netflix-layoffs-1000-employees-1236911239/"
+   ],
+   "topic": "netflix-layoffs-6pct-2026",
+   "firstSeen": "2026-10-14T22:44:20+08:00"
   }
  ],
- "lastChecked": "2026-10-14T22:27:58+08:00"
+ "lastChecked": "2026-10-14T22:44:20+08:00"
 }
