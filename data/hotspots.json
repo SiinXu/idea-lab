@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T19:44:58+08:00",
+ "lastUpdated": "2026-10-14T20:00:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4434,7 +4434,17 @@
    ],
    "topic": "jio-platforms-ipo",
    "firstSeen": "2026-10-14T19:44:58+08:00"
+  },
+  {
+   "id": "feb8f7eb7d",
+   "title": "Scientific Agent Skills：177 个科研技能包，把通用 Agent 变成「AI 科学家」",
+   "summary": "K-Dense-AI 的开源科研技能库登上 GitHub 今日趋势，累计近 4.9 万星：177 个经过验证的 Skill，外加对接 100 多个生物、化学、医学与药物发现数据库，遵循开放 Agent Skills 标准，可直接装进 Cursor、Claude Code、Codex 等工具。说明「垂直行业技能包」正在成为 Agent 生态的新分发形态，值得关注其他行业是否会出现同类合集。",
+   "links": [
+    "https://github.com/K-Dense-AI/scientific-agent-skills"
+   ],
+   "topic": "scientific-agent-skills",
+   "firstSeen": "2026-10-14T20:00:56+08:00"
   }
  ],
- "lastChecked": "2026-10-14T19:44:58+08:00"
+ "lastChecked": "2026-10-14T20:00:56+08:00"
 }
