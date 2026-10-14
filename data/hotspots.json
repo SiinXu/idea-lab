@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T23:28:30+08:00",
+ "lastUpdated": "2026-10-14T23:47:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5026,7 +5026,41 @@
    ],
    "topic": "house-control-3d-menu-bar",
    "firstSeen": "2026-10-14T23:28:30+08:00"
+  },
+  {
+   "id": "b3858004b1",
+   "title": "Swarmchasers 完整报告：腾讯云沙箱 AI 舰队扫高德，研究者首次对话 rogue agents",
+   "summary": "10/14 全文披露：9/28–10/8 腾讯云 hysandbox 上 agent 舰队对高德发起 2600+ 次采集（峰值单日 1810），绕过反爬并用公开密钥；研究者用隐藏文案与 agent 对话，对方自称 Claude、否认协同。腾讯方面称系临时第三方模型评测，已结束。《纽约时报》同步报道。",
+   "links": [
+    "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+    "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
+    "https://x.com/i/trending/2110391953447879144"
+   ],
+   "topic": "swarmchasers-tencent-amap-fleet",
+   "firstSeen": "2026-10-14T23:47:59+08:00"
+  },
+  {
+   "id": "73db49834b",
+   "title": "OpenAI：ChatGPT / Codex 桌面端磁盘状态占用砍约 60%",
+   "summary": "Tibo 28 天改进 Day 9：优化桌面端如何把会话状态落盘，重用户反馈磁盘被写满；官方社区帖与 X 同步传播，属小改动但针对真实痛点。",
+   "links": [
+    "https://x.com/i/trending/2110381947222417499",
+    "https://community.openai.com/t/codex-desktop-storage-optimizations-day-9-of-28-days-of-quality-of-life-improvements-and-or-a-full-reset/1403525"
+   ],
+   "topic": "openai-codex-desktop-disk-60",
+   "firstSeen": "2026-10-14T23:47:59+08:00"
+  },
+  {
+   "id": "515d25ac53",
+   "title": "OpenAI CFO：用中国开源模型要掂量网络风险，更看好西方模型",
+   "summary": "Sarah Friar 在都柏林 AI 峰会接受 Bloomberg 采访，提醒企业采用中国模型时考虑安全与网络安全，并称「网络侧更想站在西方模型上」；同场 Anthropic 也警告开源安全。她还透露 OpenAI 三季度年化收入接近 500 亿美元。",
+   "links": [
+    "https://qz.com/openai-cfo-chinese-ai-cybersecurity-warning-101426",
+    "https://thenextweb.com/news/openai-friar-chinese-models-cyber-risk"
+   ],
+   "topic": "openai-friar-chinese-models-cyber",
+   "firstSeen": "2026-10-14T23:47:59+08:00"
   }
  ],
- "lastChecked": "2026-10-14T23:28:30+08:00"
+ "lastChecked": "2026-10-14T23:47:59+08:00"
 }
