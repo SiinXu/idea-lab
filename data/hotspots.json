@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T12:31:24+08:00",
+ "lastUpdated": "2026-10-14T12:43:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3034,7 +3034,17 @@
    ],
    "topic": "homard-rowhammer",
    "firstSeen": "2026-10-14T12:31:24+08:00"
+  },
+  {
+   "id": "5e52a6b4da",
+   "title": "Bru：在浏览器里收发短信",
+   "summary": "把手机短信能力接到浏览器端，适合做本地自动化、验证码工作流或轻量客服原型。",
+   "links": [
+    "https://sverre.me/projects/bru/"
+   ],
+   "topic": "bru-browser-sms",
+   "firstSeen": "2026-10-14T12:43:37+08:00"
   }
  ],
- "lastChecked": "2026-10-14T12:31:24+08:00"
+ "lastChecked": "2026-10-14T12:43:37+08:00"
 }
