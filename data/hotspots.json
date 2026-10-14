@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T06:41:20+08:00",
+ "lastUpdated": "2026-10-15T07:03:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6308,7 +6308,51 @@
    ],
    "topic": "phloem-git-slime-mold",
    "firstSeen": "2026-10-15T06:41:20+08:00"
+  },
+  {
+   "id": "9b7158a881",
+   "title": "Apple Intelligence 12 月随 iOS 27.3 进入中国大陆，新版 Siri 缺席",
+   "summary": "彭博消息：首批是两年前美国版的通知摘要、写作工具、Genmoji 和照片消除；阿里做合规护栏、百度负责搜索与部分 Siri 功能；基于 Gemini 重构的新 Siri 不在其中。国内 iPhone AI 入口生态值得提前布局。",
+   "links": [
+    "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
+    "https://wallstreetcn.com/articles/3783649",
+    "https://x.com/i/trending/2110474736870490405"
+   ],
+   "topic": "apple-intelligence-china-dec-ios-27-3",
+   "firstSeen": "2026-10-15T07:03:38+08:00"
+  },
+  {
+   "id": "877cbcbdbb",
+   "title": "YouTube Music 给 AI 歌曲打标：全 AI / 部分 AI / 无 AI",
+   "summary": "播放页新增 AI 标签，点开可看 AI 参与了作曲还是人声，主站也同步；靠合作方申报加自研检测。Deezer、TIDAL 选择降权或屏蔽，YouTube 走「披露不封禁」路线。AI 内容溯源和标注工具有需求。",
+   "links": [
+    "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label"
+   ],
+   "topic": "youtube-music-ai-labels-2026-10",
+   "firstSeen": "2026-10-15T07:03:38+08:00"
+  },
+  {
+   "id": "d7ad5c7f5c",
+   "title": "Apate：派成千上万个 AI「假受害者」去钓骗子",
+   "summary": "澳洲创业公司让 AI Agent 扮成不同年龄、口音的普通人接诈骗电话、回钓鱼邮件，已在 250 万次对话里拖住骗子约 17 年，并套出银行账户、钱包地址等情报卖给银行和电信。反诈 Agent 是个可复制的方向。",
+   "links": [
+    "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
+   ],
+   "topic": "apate-ai-scambait-agents",
+   "firstSeen": "2026-10-15T07:03:38+08:00"
+  },
+  {
+   "id": "36485a8116",
+   "title": "CedarDB：一个库同时扛交易和分析，押注 AI Agent 查询",
+   "summary": "慕尼黑工大 Umbra 项目衍生，兼容 PostgreSQL，号称不加硬件就更快；Agent 用自然语言随时追问业务数据，让 HTAP 一体库重新有了卖点。有免费社区版。",
+   "links": [
+    "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+    "https://cedardb.com"
+   ],
+   "topic": "cedardb-htap-agents",
+   "firstSeen": "2026-10-15T07:03:38+08:00"
   }
  ],
- "lastChecked": "2026-10-15T06:41:20+08:00"
+ "lastChecked": "2026-10-15T07:03:38+08:00"
 }
