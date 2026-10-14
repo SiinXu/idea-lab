@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T22:17:38+08:00",
+ "lastUpdated": "2026-10-14T22:27:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4715,7 +4715,117 @@
    ],
    "topic": "ntangible-clutch-factor",
    "firstSeen": "2026-10-14T22:17:38+08:00"
+  },
+  {
+   "id": "a3b7e4eded",
+   "title": "GitHub Actions 上线 workflow lockfiles",
+   "summary": "官方 changelog：Actions 工作流新增 lockfiles（公开预览），用来钉住依赖/可复现构建，减少供应链漂移。",
+   "links": [
+    "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview/"
+   ],
+   "topic": "github-actions-lockfiles",
+   "firstSeen": "2026-10-14T22:27:58+08:00"
+  },
+  {
+   "id": "e21ce07000",
+   "title": "ChatGPT 内置 Flashcards 学习卡",
+   "summary": "OpenAI 帮助文档上线 Flashcards：在对话里直接生成复习卡片，教育/考试场景又多了一条官方能力。",
+   "links": [
+    "https://help.openai.com/en/articles/20001533-flashcards-in-chatgpt"
+   ],
+   "topic": "chatgpt-flashcards",
+   "firstSeen": "2026-10-14T22:27:58+08:00"
+  },
+  {
+   "id": "5775796ab2",
+   "title": "Confido Health 融资 2250 万美元：AI 代办医疗行政",
+   "summary": "Series A 扩展轮，用 agent 串起预约、保险核验、收款等跨系统行政流，对标美国医护人力缺口。",
+   "links": [
+    "https://x.com/i/trending/2110369882529505488"
+   ],
+   "topic": "confido-health-22m",
+   "firstSeen": "2026-10-14T22:27:58+08:00"
+  },
+  {
+   "id": "13955197d4",
+   "title": "ONLYOFFICE 10.0：内置 AI + 上千项修复",
+   "summary": "开源办公套件大版本：加入 AI 能力并宣称修复约 1000 个 bug，桌面/协作文档场景可关注。",
+   "links": [
+    "https://www.phoronix.com/news/ONLYOFFICE-10.0"
+   ],
+   "topic": "onlyoffice-10",
+   "firstSeen": "2026-10-14T22:27:58+08:00"
+  },
+  {
+   "id": "3452296b14",
+   "title": "Wiz Cyber Model Arena：安全模型对打评测场",
+   "summary": "Wiz 上线 Cyber Model Arena，用来横向比较各家模型在网络安全任务上的表现，安全选型有公开对照。",
+   "links": [
+    "https://www.wiz.io/cyber-model-arena"
+   ],
+   "topic": "wiz-cyber-model-arena",
+   "firstSeen": "2026-10-14T22:27:58+08:00"
+  },
+  {
+   "id": "ca4bbc9465",
+   "title": "Honeywell Forge Cognition：楼宇「大脑」+ Nvidia/Dell",
+   "summary": "与 Nvidia、Dell 合作的楼宇 AI 平台，支持手动/半自动/全自动；CTO 称全自动暂未开放，人仍在环。",
+   "links": [
+    "https://dnyuz.com/2026/10/14/exclusive-honeywell-technologies-launches-a-brain-behind-the-building-with-nvidia-and-dell-its-cto-says-humans-will-run-it-for-now/"
+   ],
+   "topic": "honeywell-forge-cognition",
+   "firstSeen": "2026-10-14T22:27:58+08:00"
+  },
+  {
+   "id": "0c06589f24",
+   "title": "Epic Easy Anti-Cheat Linux v2：正版 Linux 游戏反作弊",
+   "summary": "Epic 发布 EAC Linux v2，面向「不靠作弊也能在 Linux 上玩游戏」的需求，Steam Deck/原生 Linux 玩家利好。",
+   "links": [
+    "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2"
+   ],
+   "topic": "epic-eac-linux",
+   "firstSeen": "2026-10-14T22:27:58+08:00"
+  },
+  {
+   "id": "c78489fc2c",
+   "title": "本地 AI 机柜 1.8 万美元 vs Claude 订阅：硬件党再吵",
+   "summary": "10 人团队自建 Threadripper+R9700 本机集群跑开源模型；Theo 等用「八年 Claude 订阅」作对比，隐私与智能取舍再升温。",
+   "links": [
+    "https://x.com/i/trending/2110366827557839282"
+   ],
+   "topic": "startup-18k-ai-server",
+   "firstSeen": "2026-10-14T22:27:58+08:00"
+  },
+  {
+   "id": "0c6f6f3972",
+   "title": "Asterinas 0.19.0：Rust 写的 Linux ABI 兼容内核进展",
+   "summary": "Asterinas 新版本发布，继续推进用 Rust 做 Linux ABI 兼容 OS 的路线，系统编程圈值得跟进。",
+   "links": [
+    "https://asterinas.github.io/2026/10/13/announcing-asterinas-0.19.0.html"
+   ],
+   "topic": "asterinas-0-19",
+   "firstSeen": "2026-10-14T22:27:58+08:00"
+  },
+  {
+   "id": "2b92dd52b5",
+   "title": "Flowlines：看清别人怎么用你的 MCP server",
+   "summary": "面向 MCP 作者的使用分析工具，帮你理解调用路径与真实用量，agent 工具生态的观测层在补齐。",
+   "links": [
+    "https://app.flowlines.ai/"
+   ],
+   "topic": "flowlines-mcp",
+   "firstSeen": "2026-10-14T22:27:58+08:00"
+  },
+  {
+   "id": "54a10b5488",
+   "title": "硅编译器回来了：AI agent 工厂做芯片设计",
+   "summary": "旧「硅编译」叙事被重写为用 AI agent 工厂自动生成/迭代芯片设计流，EDA×agent 交叉热点。",
+   "links": [
+    "https://brianroemmele.substack.com/p/the-silicon-compiler-comes-back-as"
+   ],
+   "topic": "silicon-compiler-ai-agent",
+   "firstSeen": "2026-10-14T22:27:58+08:00"
   }
  ],
- "lastChecked": "2026-10-14T22:17:38+08:00"
+ "lastChecked": "2026-10-14T22:27:58+08:00"
 }
