@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T16:55:08+08:00",
+ "lastUpdated": "2026-10-14T17:11:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4005,7 +4005,37 @@
    ],
    "topic": "ps5-overdrive-takedown",
    "firstSeen": "2026-10-14T16:55:08+08:00"
+  },
+  {
+   "id": "583c334ad9",
+   "title": "Niko Matsakis：Agent 时代，Rust 为什么更吃香",
+   "summary": "Rust 核心贡献者发文：类型系统给 Agent 当护栏，「能编译≈大致正确」；并主张把证明工具做进可扩展编译器，目标是「有 unsafe 关键字、无未定义行为」。",
+   "links": [
+    "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/"
+   ],
+   "topic": "niko-agents-rust",
+   "firstSeen": "2026-10-14T17:11:26+08:00"
+  },
+  {
+   "id": "d5a48921e3",
+   "title": "黄仁勋会晤马克龙：法国 AI 投资再加码",
+   "summary": "英伟达 CEO 在爱丽舍宫谈 AI，并披露入股 Doctolib、Genesis AI、Pigment、Entalpic 等法国公司；欧洲 AI 追加投资叙事继续发酵。",
+   "links": [
+    "https://x.com/i/trending/2110078557309325451"
+   ],
+   "topic": "nvidia-huang-macron",
+   "firstSeen": "2026-10-14T17:11:26+08:00"
+  },
+  {
+   "id": "f494eb2ed2",
+   "title": "AI 会不会取代付费软件订阅？争论再起",
+   "summary": "有人把订阅比作下馆子、把 vibe coding 比作自己种菜；也有人指出可靠性、安全和维护仍是现成 SaaS 的护城河，更可能走向混合。",
+   "links": [
+    "https://x.com/i/trending/2110187209802596788"
+   ],
+   "topic": "ai-replace-saas-debate",
+   "firstSeen": "2026-10-14T17:11:26+08:00"
   }
  ],
- "lastChecked": "2026-10-14T16:55:08+08:00"
+ "lastChecked": "2026-10-14T17:11:26+08:00"
 }
