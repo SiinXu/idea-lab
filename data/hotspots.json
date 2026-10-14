@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T08:44:12+08:00",
+ "lastUpdated": "2026-10-14T08:56:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2294,7 +2294,41 @@
    ],
    "topic": "slowbooks-pro-local",
    "firstSeen": "2026-10-14T08:44:12+08:00"
+  },
+  {
+   "id": "ac06956090",
+   "title": "SpaceX Starmind：轨道 AI 算力星座，摩根士丹利称其为最大增长点",
+   "summary": "SpaceX 公开 Starmind：太空太阳能 + 真空散热的 AI 卫星，结果经星链激光回传；马斯克转发称「非常大的事」。摩根士丹利把分布式推理云视为被低估的主线，原型瞄准 2027 年星舰发射。",
+   "links": [
+    "https://www.spacex.com/spacexai/starmind",
+    "https://x.com/i/trending/2110151636681179566"
+   ],
+   "topic": "spacex-starmind",
+   "firstSeen": "2026-10-14T08:56:04+08:00"
+  },
+  {
+   "id": "bba357fbb5",
+   "title": "桑德斯背书「AI Under Control」：暂停前沿模型与新建数据中心",
+   "summary": "密歇根参议员候选人 El-Sayed 提出冻结前沿 AI 训练/发布与新建数据中心，并设内阁级安全机构与「杀开关」；伯尼·桑德斯公开站台，监管议题升温。",
+   "links": [
+    "https://www.politico.com/news/2026/10/13/el-sayed-ai-kill-switch-safety-agency-01116280",
+    "https://abdulforsenate.com/2026/10/ai-under-control/",
+    "https://x.com/i/trending/2110168671398080547"
+   ],
+   "topic": "ai-under-control-el-sayed",
+   "firstSeen": "2026-10-14T08:56:04+08:00"
+  },
+  {
+   "id": "f7d2f0843b",
+   "title": "Vangrid：手机拍街景换 USDC，给 Physical AI 供空间数据",
+   "summary": "荷兰 DePIN 项目把手机变成边缘节点：本地模糊人脸车牌后上传，Agent 发赏金、链上托管结算；已有百万级采集，卫星/车队够不到的室内外细节是卖点。",
+   "links": [
+    "https://x.com/i/trending/2109676155632558233",
+    "https://tech.eu/2026/08/06/vangrid-raises-9m-seed-to-build-a-decentralised-spatial-intelligence-network-for-the-physical-ai-era/"
+   ],
+   "topic": "vangrid-spatial-depin",
+   "firstSeen": "2026-10-14T08:56:04+08:00"
   }
  ],
- "lastChecked": "2026-10-14T08:44:12+08:00"
+ "lastChecked": "2026-10-14T08:56:04+08:00"
 }
