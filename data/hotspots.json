@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T21:59:24+08:00",
+ "lastUpdated": "2026-10-14T22:17:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4705,7 +4705,17 @@
    ],
    "topic": "ai-taste-debate-benji-taylor",
    "firstSeen": "2026-10-14T21:59:24+08:00"
+  },
+  {
+   "id": "922ac5cc47",
+   "title": "NTangible 用语言分析给运动员打「关键时刻分」",
+   "summary": "体育科技创业公司 NTangible 推出 Clutch Factor 测评：让运动员看情境模糊的图片并描述想法，再按心理学家制定的神经语言学评分指南给出 0–1000 分，评估其在高压时刻的发挥。创始人称得分超过 750 的运动员进入 NCAA 一级院校的概率翻倍，目标用于招生排名、NIL 与奖学金谈判。属于「把软性心理特质量化」的新一波垂直 AI 测评。",
+   "links": [
+    "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/"
+   ],
+   "topic": "ntangible-clutch-factor",
+   "firstSeen": "2026-10-14T22:17:38+08:00"
   }
  ],
- "lastChecked": "2026-10-14T21:59:24+08:00"
+ "lastChecked": "2026-10-14T22:17:38+08:00"
 }
