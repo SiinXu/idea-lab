@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T14:26:35+08:00",
+ "lastUpdated": "2026-10-14T14:45:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3508,7 +3508,38 @@
    ],
    "topic": "aosp-source-late-disassemble",
    "firstSeen": "2026-10-14T14:26:35+08:00"
+  },
+  {
+   "id": "7e414434c3",
+   "title": "OpenAI：ChatGPT/Codex 桌面端状态数据占盘约降 60%",
+   "summary": "产品负责人 Tibo 称优化后 ChatGPT 与 Codex 桌面端状态数据约占盘降六成，并加存储分项面板方便清理；重度用户常卡在磁盘 95%+，属 28 天快速改进冲刺成果。",
+   "links": [
+    "https://x.com/i/trending/2110256984905675058"
+   ],
+   "topic": "openai-chatgpt-desktop-storage",
+   "firstSeen": "2026-10-14T14:45:01+08:00"
+  },
+  {
+   "id": "90ae555934",
+   "title": "curl 8.23.0：HTTP/2 上传 UAF 可致 RCE，Anthropic OSS Scanner 发现",
+   "summary": "CVE-2026-92392 被评为 HIGH：HTTP/2 上传场景下悬空指针可被恶意服务器覆写并执行代码；由 Anthropic OSS Scanner（Luna Tong）报告，今日随 8.23.0 修复公开。",
+   "links": [
+    "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/",
+    "https://news.ycombinator.com/newest"
+   ],
+   "topic": "curl-http2-uaf-rce",
+   "firstSeen": "2026-10-14T14:45:01+08:00"
+  },
+  {
+   "id": "4a46e26e8f",
+   "title": "SAP Python Cloud SDK：OAuth2 SSRF 最高危，威胁多租户 AI Agent",
+   "summary": "CVE-2026-89111 影响用于在 BTP 上开发 AI Agent 的官方 Python SDK：攻击者可操控 tenant_subdomain 把 OAuth2 令牌请求打到己方服务器窃凭据；临时缓解是子域白名单。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/"
+   ],
+   "topic": "sap-python-sdk-oauth-ssrf",
+   "firstSeen": "2026-10-14T14:45:01+08:00"
   }
  ],
- "lastChecked": "2026-10-14T14:26:35+08:00"
+ "lastChecked": "2026-10-14T14:45:01+08:00"
 }
