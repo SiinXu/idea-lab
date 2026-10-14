@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T16:41:17+08:00",
+ "lastUpdated": "2026-10-14T16:55:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3981,7 +3981,31 @@
    ],
    "topic": "rtx-spark-oct16",
    "firstSeen": "2026-10-14T16:41:17+08:00"
+  },
+  {
+   "id": "778bf0bcbb",
+   "title": "ColorOS 17 发布：弹性动效 + Mind Pilot 端侧 Agent 模式",
+   "summary": "OPPO 推出 Living Flow 设计与新渲染引擎，交互随按压力度回弹；Mind Pilot 新增 Agent 模式，可整理本机文件照片、跨源检索并生成行程或网页，接入 ChatGPT/Gemini/Perplexity/Manus。10 月 22 日随 Find X10 首发，10 月 29 日起分批推送 OPPO、一加、realme。",
+   "links": [
+    "https://www.oppo.com/en/newsroom/press/oppo-color-os-17/",
+    "https://www.livemint.com/technology/oppo-coloros-17-launched-with-new-ai-features-check-eligible-phones-and-rollout-dates-11791957611217.html",
+    "https://x.com/i/trending/2109590390412079597"
+   ],
+   "topic": "coloros-17-agent-mode",
+   "firstSeen": "2026-10-14T16:55:08+08:00"
+  },
+  {
+   "id": "2269cdd9d1",
+   "title": "索尼疑似发函：PS5 破解商店 Overdrive 下线，GitHub 已 404",
+   "summary": "Relapse 漏洞把越狱支持推到 13.60 固件后，Overdrive 上线数日就聚合了 1600+ 款游戏供免费下载；现商店停摆、仓库消失，索尼尚未公开确认，但分叉和克隆已在流传。",
+   "links": [
+    "https://www.notebookcheck.net/Sony-reportedly-shuts-down-free-PS5-game-store-accessed-with-console-jailbreak.1423408.0.html",
+    "https://www.ithome.com/1/012/919.htm",
+    "https://x.com/i/trending/2110291885998874970"
+   ],
+   "topic": "ps5-overdrive-takedown",
+   "firstSeen": "2026-10-14T16:55:08+08:00"
   }
  ],
- "lastChecked": "2026-10-14T16:41:17+08:00"
+ "lastChecked": "2026-10-14T16:55:08+08:00"
 }
