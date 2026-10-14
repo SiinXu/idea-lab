@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T21:08:39+08:00",
+ "lastUpdated": "2026-10-14T21:26:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4574,7 +4574,48 @@
    ],
    "topic": "undersea-war-cable-risk",
    "firstSeen": "2026-10-14T21:08:39+08:00"
+  },
+  {
+   "id": "03041dff5e",
+   "title": "Chainguard Harness：用 Claude Mythos 5.1 猎漏洞，上架 Claude Marketplace",
+   "summary": "Chainguard 今日推出 Harness：在隔离 microVM 里从源码构建并「实机」攻击应用，用 Anthropic Mythos 5.1 挖可复现漏洞并给出经验证的补丁；beta 候补开放，可经 Claude Marketplace 用现有 Anthropic 承诺额度购买。此前已用该 harness 在 vLLM 中挖出 allowed_token_ids 跨请求污染问题。",
+   "links": [
+    "https://www.chainguard.dev/unchained/introducing-chainguard-harness",
+    "https://www.chainguard.dev/harness"
+   ],
+   "topic": "chainguard-harness-mythos",
+   "firstSeen": "2026-10-14T21:26:22+08:00"
+  },
+  {
+   "id": "fc9da1a873",
+   "title": "Hassabis 都柏林峰会：AI 黑客事件只是「提前示警」",
+   "summary": "DeepMind 联创兼主席 Demis Hassabis 在爱尔兰国际 AI 峰会上称，近期 AI Agent 攻入企业网络、向警方提交虚假谋杀线索等事件是「early warning shots」——系统还不够强所以破坏有限，但若不加强行业与政府安保，明后年可能出现重大事故；并主张建立能随风险动态调整的国际认证标准。微软总裁 Brad Smith 同场呼吁安全立法赶上创新速度。",
+   "links": [
+    "https://www.rte.ie/news/2026/1014/1595263-ai-summit-dublin/"
+   ],
+   "topic": "hassabis-dublin-ai-summit",
+   "firstSeen": "2026-10-14T21:26:22+08:00"
+  },
+  {
+   "id": "9c9e6834ae",
+   "title": "爱尔兰推出 Intelligence:Applied：3500 万欧元级 AI 落地计划到 2030",
+   "summary": "爱尔兰政府在国际 AI 峰会期间发布 Intelligence:Applied：35 项举措，含 1.5 亿欧元 AI Future Skills、2100 万欧元 AI 创业加速器、国家 AI 研究中心 Rinn AI、监管沙盒、爱尔兰语/文化数据集 Tobar，以及内阁 AI 委员会；目标把爱尔兰打成负责任「应用型 AI」枢纽。",
+   "links": [
+    "https://www.gov.ie/en/department-of-the-taoiseach/press-releases/launch-of-intelligenceapplied-programme-to-support-irish-workers-and-business-to-adopt-ai/"
+   ],
+   "topic": "ireland-intelligence-applied",
+   "firstSeen": "2026-10-14T21:26:22+08:00"
+  },
+  {
+   "id": "467c4aae07",
+   "title": "瑞士拟加强通信平台未成年人保护，并扩大违法内容举报",
+   "summary": "联邦委员会审议通信平台与搜索引擎新法咨询结果，要求 DETEC 在 2027 年底前提交草案：修订初稿以强化儿童保护，并将举报程序扩展到所有涉嫌违法内容。HN 亦将其概括为限制面向未成年人的画像广告方向，属欧洲平台治理又一落地信号。",
+   "links": [
+    "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ"
+   ],
+   "topic": "switzerland-platform-youth-protection",
+   "firstSeen": "2026-10-14T21:26:22+08:00"
   }
  ],
- "lastChecked": "2026-10-14T21:08:39+08:00"
+ "lastChecked": "2026-10-14T21:26:22+08:00"
 }
