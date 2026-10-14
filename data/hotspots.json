@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T14:45:01+08:00",
+ "lastUpdated": "2026-10-14T14:45:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3539,7 +3539,17 @@
    ],
    "topic": "sap-python-sdk-oauth-ssrf",
    "firstSeen": "2026-10-14T14:45:01+08:00"
+  },
+  {
+   "id": "de2574ffe0",
+   "title": "The Register：Anthropic「智能设备自我复制」警告被批危言耸听",
+   "summary": "针对 Anthropic 小模型可在廉价安卓盒子上完成自我复制步骤的研究，The Register 批评其炒作尚未成真的威胁；该文登上 HN 首页并引发「监管护城河」争论。",
+   "links": [
+    "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866"
+   ],
+   "topic": "register-anthropic-threat-critique",
+   "firstSeen": "2026-10-14T14:45:49+08:00"
   }
  ],
- "lastChecked": "2026-10-14T14:45:01+08:00"
+ "lastChecked": "2026-10-14T14:45:49+08:00"
 }
