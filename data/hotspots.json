@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T13:48:26+08:00",
+ "lastUpdated": "2026-10-14T14:02:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3328,7 +3328,77 @@
    ],
    "topic": "3d-aperiodic-monotile",
    "firstSeen": "2026-10-14T13:48:26+08:00"
+  },
+  {
+   "id": "7f5cc0484e",
+   "title": "开发者热议 Claude Opus 5.5 对战 GPT-6.1 Sol 写代码",
+   "summary": "两边都主打长上下文编码：Opus 5.5 偏稳、Sol 更便宜还常抓到对方漏掉的 bug；日常选型被小改动左右。",
+   "links": [
+    "https://x.com/i/trending/2109690959432708295"
+   ],
+   "topic": "claude-opus-55-vs-gpt61-sol",
+   "firstSeen": "2026-10-14T14:02:26+08:00"
+  },
+  {
+   "id": "4762f2b2e7",
+   "title": "Discourse 图片流水线：一张 JPEG + 竞态就能打穿",
+   "summary": "安全研究披露 Discourse 处理上传图时的竞态与幽灵文件问题，可突破图片处理管线。",
+   "links": [
+    "https://www.slcyber.io/research/a-jpeg-a-race-and-a-ghost-breaking-discourses-image-pipeline"
+   ],
+   "topic": "discourse-jpeg-race",
+   "firstSeen": "2026-10-14T14:02:26+08:00"
+  },
+  {
+   "id": "71b2845e93",
+   "title": "论文向：LLM 在合适设定下图灵完备",
+   "summary": "论证在给定脚手架时大模型可模拟通用计算，把「能不能算」从「会不会答」里拆开讨论。",
+   "links": [
+    "https://yager.io/neural/turing/turing.html"
+   ],
+   "topic": "llms-turing-complete",
+   "firstSeen": "2026-10-14T14:02:26+08:00"
+  },
+  {
+   "id": "202e84158e",
+   "title": "Show HN：PropaLens——本地标记宣传话术的 Chrome 扩展",
+   "summary": "在浏览器里本地识别常见宣传手法，不把正文送上云，适合读新闻时做开源标注层。",
+   "links": [
+    "https://propalens.com/"
+   ],
+   "topic": "propalens-local",
+   "firstSeen": "2026-10-14T14:02:26+08:00"
+  },
+  {
+   "id": "a5be5aa4b6",
+   "title": "trim-1：1.2MB 小模型专砍 Agent 上下文里的废行",
+   "summary": "极小模型只做「这段上下文还要不要」，给长会话 Agent 省 token，GitHub 新仓。",
+   "links": [
+    "https://github.com/caveman-ai/trim-1"
+   ],
+   "topic": "trim-1-context",
+   "firstSeen": "2026-10-14T14:02:26+08:00"
+  },
+  {
+   "id": "f7f33a787b",
+   "title": "黄仁勋：一周内宣布再投欧洲 AI 约 20 亿美元",
+   "summary": "巴黎站表态：过去一年已投约 80 亿，本周再加约 20 亿，并点名 Doctolib 等法国公司。",
+   "links": [
+    "https://www.semafor.com/article/10/13/2026/nvidia-to-announce-2b-in-european-investments"
+   ],
+   "topic": "nvidia-europe-2b-pledge",
+   "firstSeen": "2026-10-14T14:02:26+08:00"
+  },
+  {
+   "id": "d0697898a5",
+   "title": "Floco：用 Nix 给 NPM/Yarn 收尸",
+   "summary": "用 Nix 固化前端依赖图，绕开传统 lockfile 地狱，偏基础设施向 Show HN。",
+   "links": [
+    "https://github.com/alex-ameen/floco"
+   ],
+   "topic": "floco-nix-npm",
+   "firstSeen": "2026-10-14T14:02:26+08:00"
   }
  ],
- "lastChecked": "2026-10-14T13:48:26+08:00"
+ "lastChecked": "2026-10-14T14:02:26+08:00"
 }
