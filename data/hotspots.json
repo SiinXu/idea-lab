@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T21:00:02+08:00",
+ "lastUpdated": "2026-10-14T21:08:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4564,7 +4564,17 @@
    ],
    "topic": "scimplify-25m-materials-ai",
    "firstSeen": "2026-10-14T21:00:02+08:00"
+  },
+  {
+   "id": "b3072ce5e2",
+   "title": "《Undersea War》：互联网海底光缆进入高风险期",
+   "summary": "Ars Technica 评介大西洋理事会学者 Elisabeth Braw 新书：尽管有 Starlink，全球多数互联网流量仍走海底光缆，每年约 150–200 条受损；约六成源于渔业与航运拖锚等人为失误，但波罗的海到太平洋的「异常拖锚」事件增多，灰色地带冲突让光缆、管道与海底电缆成为易受破坏的关键基础设施。对算力出海与跨境数据中心选址是值得关注的风险变量。",
+   "links": [
+    "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/"
+   ],
+   "topic": "undersea-war-cable-risk",
+   "firstSeen": "2026-10-14T21:08:39+08:00"
   }
  ],
- "lastChecked": "2026-10-14T21:00:02+08:00"
+ "lastChecked": "2026-10-14T21:08:39+08:00"
 }
