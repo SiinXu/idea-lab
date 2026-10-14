@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T08:56:04+08:00",
+ "lastUpdated": "2026-10-14T09:17:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2328,7 +2328,30 @@
    ],
    "topic": "vangrid-spatial-depin",
    "firstSeen": "2026-10-14T08:56:04+08:00"
+  },
+  {
+   "id": "6a26c9efc4",
+   "title": "OpenAI 宣布 GPT-4o 等五款模型 2027-01-14 从 API 下线",
+   "summary": "官方弃用页今日通知：gpt-4o（2024-08/11）、gpt-4o-mini、gpt-4.1 与 gpt-4.1-mini 将于 2027-01-14 从 API 移除，微调版同步；官方推荐替换为 gpt-6-luna。社区掀起 #keep4o，硬编码旧模型 ID 的脚本需尽快迁移。",
+   "links": [
+    "https://developers.openai.com/api/docs/deprecations",
+    "https://x.com/i/trending/2110174785359823267",
+    "https://azeemhassni.com/blog/wire-openai-gpt-4-series-api-deprecation/"
+   ],
+   "topic": "gpt-4o-api-sunset",
+   "firstSeen": "2026-10-14T09:17:59+08:00"
+  },
+  {
+   "id": "aeb234b371",
+   "title": "美司法部打掉朝鲜「电脑农场」：德州搜 40+ 处、扣 187 台设备",
+   "summary": "DOJ/FBI「Operation Lonestar Roundup」针对朝鲜远程 IT 打工刷收入：德州 40 余处疑似 laptop farm 被查，扣约 187 台公司配发笔记本与 KVM；另起诉并逮捕两名美籍协助者，方案牵涉 70+ 家美国公司。企业需警惕假身份远程入职。",
+   "links": [
+    "https://www.justice.gov/opa/pr/justice-department-announces-coordinated-actions-combat-north-korean-remote-it-worker",
+    "https://www.nextgov.com/cybersecurity/2026/10/fbi-disrupts-north-korean-laptop-farm-used-infiltrate-us-companies/416570/"
+   ],
+   "topic": "nk-laptop-farm-texas",
+   "firstSeen": "2026-10-14T09:17:59+08:00"
   }
  ],
- "lastChecked": "2026-10-14T08:56:04+08:00"
+ "lastChecked": "2026-10-14T09:17:59+08:00"
 }
