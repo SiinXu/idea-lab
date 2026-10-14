@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T17:54:01+08:00",
+ "lastUpdated": "2026-10-14T18:10:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4267,7 +4267,59 @@
    ],
    "topic": "starlink-ukraine-drone-speed-limit",
    "firstSeen": "2026-10-14T17:54:01+08:00"
+  },
+  {
+   "id": "c0b7c17759",
+   "title": "AI 能写代码，SaaS 为何还活着：Kitze 的「驾考 App」例子",
+   "summary": "开发者 Kitze 说妻子懂 AI，却仍付费用现成驾考 App，图的是省心可靠；同场还有人把订阅砍光、用 vibe coding 自建替代。讨论共识：AI 加剧竞争，但不消灭对打磨好、可忘记的软件的需求，合规与安全也仍是企业护城河。",
+   "links": [
+    "https://x.com/i/trending/2110306531593892218",
+    "https://x.com/i/trending/2109590393524203708"
+   ],
+   "topic": "saas-survives-ai-coding",
+   "firstSeen": "2026-10-14T18:10:45+08:00"
+  },
+  {
+   "id": "2793aa4874",
+   "title": "KDE Plasma 6.8 发布：30 周年纪念版，正式告别 X11 会话",
+   "summary": "2026-10-14 恰逢 KDE 三十周年发布 Plasma 6.8：内置停留点击、远程桌面与录屏增强、Union 主题 beta，并退役 Plasma 的 X11 会话启动，全面转向 Wayland（应用仍可通过 XWayland 跑）。",
+   "links": [
+    "https://kde.org/announcements/plasma/6/6.8.0/"
+   ],
+   "topic": "kde-plasma-6-8",
+   "firstSeen": "2026-10-14T18:10:45+08:00"
+  },
+  {
+   "id": "d2c2467e71",
+   "title": "NVIDIA AutoQuant KV：按层自动混合精度压 KV Cache",
+   "summary": "Model Optimizer 给注意力 K/V 做按层敏感度搜索，在平均比特预算下混用 FP8/NVFP4；Qwen3-8B 案例在约 5.76 bit 时相对 BF16 砍掉约 64% KV 体积，长上下文基准掉点远小于一刀切 NVFP4，对 agent 长会话省显存很实用。",
+   "links": [
+    "https://nvidia.github.io/Model-Optimizer/announcements/autoquant-kv.html"
+   ],
+   "topic": "nvidia-autoquant-kv",
+   "firstSeen": "2026-10-14T18:10:45+08:00"
+  },
+  {
+   "id": "99c6e4f147",
+   "title": "Show HN：用代码搭的可逛达芬奇数字博物馆",
+   "summary": "Museum of Ages 开源非营利项目，Three.js/WebGPU 重做达芬奇画作、机械与手稿导览，七种语言，标注史料可信度；代码 AGPL，适合无及可访问性数字展。",
+   "links": [
+    "https://museumofages.org/w/vinci",
+    "https://github.com/chipmates/museumofages"
+   ],
+   "topic": "museum-of-ages-vinci",
+   "firstSeen": "2026-10-14T18:10:45+08:00"
+  },
+  {
+   "id": "efc4a23bb1",
+   "title": "RTX 5090 挤进澳门走私清单：消费卡成「硬通货」",
+   "summary": "澳门海关查获案例里，RTX 5090 与 AirPods、香烟并列；算力紧缺与价差让高端 GPU 进入跨境走私货单，侧面反映 AI/挖矿需求仍在扭曲消费级显卡供应链。",
+   "links": [
+    "https://videocardz.com/newz/rtx-5090-once-a-consumer-gaming-card-is-now-on-smugglers-menu-alongside-cigarettes"
+   ],
+   "topic": "rtx-5090-macau-smuggling",
+   "firstSeen": "2026-10-14T18:10:45+08:00"
   }
  ],
- "lastChecked": "2026-10-14T17:54:01+08:00"
+ "lastChecked": "2026-10-14T18:10:45+08:00"
 }
