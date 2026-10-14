@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T11:42:12+08:00",
+ "lastUpdated": "2026-10-14T11:58:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2863,7 +2863,78 @@
    ],
    "topic": "aptos-encrypted-mempool",
    "firstSeen": "2026-10-14T11:42:12+08:00"
+  },
+  {
+   "id": "54d0c1ccce",
+   "title": "Ciechanowski《Sound》：交互长文再登 HN 首页",
+   "summary": "经典声音物理交互文章重新冲上 Hacker News；从分子碰撞讲到波形、傅里叶与多普勒，适合做成教育向可视化内容参考。",
+   "links": [
+    "https://ciechanow.ski/sound/"
+   ],
+   "topic": "ciechanowski-sound",
+   "firstSeen": "2026-10-14T11:58:55+08:00"
+  },
+  {
+   "id": "38bab744ac",
+   "title": "Mano-P：端侧 GUI-VLA Agent，宣称 OSWorld 专项第一",
+   "summary": "开源纯视觉 GUI 自动化，可在 Apple Silicon 本机推理、数据不出设备；宣称 OSWorld specialized 58.2%。适合本地 Agent 产品对标。",
+   "links": [
+    "https://github.com/Mininglamp-AI/Mano-P"
+   ],
+   "topic": "mano-p-gui-agent",
+   "firstSeen": "2026-10-14T11:58:55+08:00"
+  },
+  {
+   "id": "2341e3bdcd",
+   "title": "Strafe：开源、端到端加密的 Discord 替代",
+   "summary": "主打无追踪、可自托管、语音视频与跨端同步；定位隐私向社区聊天，正试图吃开源聊天赛道。",
+   "links": [
+    "https://strafe.chat/"
+   ],
+   "topic": "strafe-chat",
+   "firstSeen": "2026-10-14T11:58:55+08:00"
+  },
+  {
+   "id": "c4061952ea",
+   "title": "蜜蜂蛰针双活塞泵毒：高速摄像首次看清机制",
+   "summary": "PNAS：蛰针留下后仍能持续泵毒，靠 lancet 上可变形瓣膜做对向活塞；或启发微针与微流控泵设计。",
+   "links": [
+    "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/"
+   ],
+   "topic": "honey-bee-stinger-pump",
+   "firstSeen": "2026-10-14T11:58:55+08:00"
+  },
+  {
+   "id": "11c7616005",
+   "title": "Devin Memory + Dreaming：跨会话记忆，夜间自行整理",
+   "summary": "Cognition 把偏好/纠错写成 Git 版 Markdown 记忆库；Dreaming 每日去重补洞。并开源 Agent Memory Repo 标准，可给其他 Agent 复用。",
+   "links": [
+    "https://docs.devin.ai/product-guides/memory",
+    "https://cognition.com/agent-memory-repo"
+   ],
+   "topic": "devin-memory-dreaming",
+   "firstSeen": "2026-10-14T11:58:55+08:00"
+  },
+  {
+   "id": "dfcf317d92",
+   "title": "Helix Carbon：电解回收高炉废气 CO₂，宣称铁更便宜",
+   "summary": "用电解器把未过滤高炉尾气 CO₂ 转成 CO 回炉，目标替代约 33% 焦炭、每吨铁省约 $14；亮相 TechCrunch Disrupt。",
+   "links": [
+    "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/"
+   ],
+   "topic": "helix-carbon-iron",
+   "firstSeen": "2026-10-14T11:58:55+08:00"
+  },
+  {
+   "id": "6e907c6790",
+   "title": "iOS 27：Siri 可默认播 Spotify，不必再说「on Spotify」",
+   "summary": "有 Apple Intelligence 的机型上，Siri 会从使用习惯学到首选音乐 App；说几次「on Spotify」后可直接「播放某某歌」。",
+   "links": [
+    "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/"
+   ],
+   "topic": "spotify-siri-ios27",
+   "firstSeen": "2026-10-14T11:58:55+08:00"
   }
  ],
- "lastChecked": "2026-10-14T11:42:12+08:00"
+ "lastChecked": "2026-10-14T11:58:55+08:00"
 }
