@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T00:26:57+08:00",
+ "lastUpdated": "2026-10-15T00:27:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5201,7 +5201,17 @@
    ],
    "topic": "ai-brain-fry",
    "firstSeen": "2026-10-15T00:26:57+08:00"
+  },
+  {
+   "id": "7ff3cccd1a",
+   "title": "AI 正在批量反编译游戏：几天出端口，版权与保全一起炸",
+   "summary": "用匹配反编译做自检验，Agent 几天内就能把老游戏反编译并移植到 PC/浏览器；保全党欢呼，发行商则面临删了又重生的打地鼠。",
+   "links": [
+    "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/"
+   ],
+   "topic": "ai-mass-decompiling-games",
+   "firstSeen": "2026-10-15T00:27:29+08:00"
   }
  ],
- "lastChecked": "2026-10-15T00:26:57+08:00"
+ "lastChecked": "2026-10-15T00:27:29+08:00"
 }
