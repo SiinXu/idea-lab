@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T17:30:21+08:00",
+ "lastUpdated": "2026-10-14T17:38:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4235,7 +4235,18 @@
    ],
    "topic": "orchard-funding-review",
    "firstSeen": "2026-10-14T17:30:21+08:00"
+  },
+  {
+   "id": "bfce4da4b5",
+   "title": "ArtCraft：给艺术家的 AI 图像/视频创作 IDE",
+   "summary": "Rust 开源（Apache-2.0），在 2D 构图、3D 布景里先摆好角色与机位再生成，可自选模型，把「写提示词」变成可复现的「手工搭建」。今日 GitHub Trending 单日 +4000 星，总星约 2.7 万。",
+   "links": [
+    "https://github.com/storytold/artcraft",
+    "https://getartcraft.com/"
+   ],
+   "topic": "artcraft-ai-ide",
+   "firstSeen": "2026-10-14T17:38:37+08:00"
   }
  ],
- "lastChecked": "2026-10-14T17:30:21+08:00"
+ "lastChecked": "2026-10-14T17:38:37+08:00"
 }
