@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T08:29:53+08:00",
+ "lastUpdated": "2026-10-14T08:30:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2233,7 +2233,37 @@
    ],
    "topic": "gptibo-storefront",
    "firstSeen": "2026-10-14T08:29:53+08:00"
+  },
+  {
+   "id": "360f91c5e0",
+   "title": "Show HN：Wonderhop——猜「多数人说什么 / 没人说什么」的每日游戏",
+   "summary": "浏览器日更猜答，AI 裁判秒级核验多语言自由输入；可做成付费皮肤/赛季通行证类轻游戏，适合 Idea Lab 数字产品方向。",
+   "links": [
+    "https://wonderhop.io/en/"
+   ],
+   "topic": "wonderhop-daily",
+   "firstSeen": "2026-10-14T08:30:46+08:00"
+  },
+  {
+   "id": "89e0fbfce8",
+   "title": "Puter 浏览器里开 3D Studio",
+   "summary": "HeyPuter 再推浏览器端 3D 工作室，延续「在网页里重建桌面软件」路线，适合做演示与轻量创作工具。",
+   "links": [
+    "https://3d.puter.com/"
+   ],
+   "topic": "puter-3d-studio",
+   "firstSeen": "2026-10-14T08:30:46+08:00"
+  },
+  {
+   "id": "5f1f6d34c5",
+   "title": "mosh-rs：Rust 重写 Mosh，带回滚缓冲与 Windows",
+   "summary": "Show HN 上新的 Mosh 重写，补上滚动历史与 Windows，远程终端党可关注后续稳定性。",
+   "links": [
+    "https://github.com/Arunjay4213/mosh-rs"
+   ],
+   "topic": "mosh-rs",
+   "firstSeen": "2026-10-14T08:30:46+08:00"
   }
  ],
- "lastChecked": "2026-10-14T08:29:53+08:00"
+ "lastChecked": "2026-10-14T08:30:46+08:00"
 }
