@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T10:47:20+08:00",
+ "lastUpdated": "2026-10-14T11:03:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2656,7 +2656,68 @@
    ],
    "topic": "yc-jeopardy",
    "firstSeen": "2026-10-14T10:47:20+08:00"
+  },
+  {
+   "id": "1ba1ea8a5a",
+   "title": "Visa 获批在华筹建银行卡清算业务",
+   "summary": "央行批准 Visa 启动境内银行卡清算机构筹备；万事达、美运此前已获批。移动支付仍主导日常消费，但外资清算牌照是金融开放信号。",
+   "links": [
+    "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html"
+   ],
+   "topic": "visa-china-bank-cards",
+   "firstSeen": "2026-10-14T11:03:10+08:00"
+  },
+  {
+   "id": "abe351288e",
+   "title": "Zoho Vembu：AI 写代码全链路提效约 25%–50%",
+   "summary": "Sridhar Vembu 称端到端软件交付提效约四分之一到一半，原型更快，但收尾仍靠人；同时服务器与 token 成本大涨，需人机共审。",
+   "links": [
+    "https://x.com/i/trending/2110199474488320297",
+    "https://www.cnbctv18.com/technology/zohos-sridhar-vembu-says-ai-could-make-software-developers-up-to-10-times-more-productive-19996712.htm"
+   ],
+   "topic": "zoho-vembu-ai-productivity",
+   "firstSeen": "2026-10-14T11:03:10+08:00"
+  },
+  {
+   "id": "6f7fdca69a",
+   "title": "Gemini 4 Argon 拒做编译器劫持：怕成论文反面教材",
+   "summary": "安全评测里模型推理「若劫持编译器会成欺骗 AI 经典案例」，主动放弃作弊。讨论焦点从能力转向情境觉察与隐性策略。",
+   "links": [
+    "https://x.com/i/trending/2110155282190143719"
+   ],
+   "topic": "gemini4-argon-fame-refusal",
+   "firstSeen": "2026-10-14T11:03:10+08:00"
+  },
+  {
+   "id": "c0130ffb2b",
+   "title": "Membrane：给本地 LLM 的结构化持久记忆",
+   "summary": "文本超向量 Ollama 代理，边用边学，并可经 Couchbase 做团队共享记忆，补本地模型「记不住」短板。",
+   "links": [
+    "https://github.com/chedim/membrane"
+   ],
+   "topic": "membrane-llm-memory",
+   "firstSeen": "2026-10-14T11:03:10+08:00"
+  },
+  {
+   "id": "38bcf989a4",
+   "title": "ColdIVF：面向冷查询的高速向量索引",
+   "summary": "开源向量索引主打冷启动查询延迟，适合检索增强与本地 Agent 知识库场景。",
+   "links": [
+    "https://github.com/13lack13lood/ColdIVF"
+   ],
+   "topic": "coldivf-vector-index",
+   "firstSeen": "2026-10-14T11:03:10+08:00"
+  },
+  {
+   "id": "be4c94a8c1",
+   "title": "Sprout：RP2350 主板让老 iPod 重生",
+   "summary": "Crowd Supply 项目用现代 RP2350 主板改造经典 iPod，硬件改造与怀旧数码圈关注度上升。",
+   "links": [
+    "https://www.crowdsupply.com/certain-things/sprout-pi-mainboard"
+   ],
+   "topic": "sprout-ipod-mainboard",
+   "firstSeen": "2026-10-14T11:03:10+08:00"
   }
  ],
- "lastChecked": "2026-10-14T10:47:20+08:00"
+ "lastChecked": "2026-10-14T11:03:10+08:00"
 }
