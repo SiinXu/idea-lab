@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T19:01:39+08:00",
+ "lastUpdated": "2026-10-14T19:14:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4349,7 +4349,40 @@
    ],
    "topic": "ai-agent-deletes-the-challenge-sweden",
    "firstSeen": "2026-10-14T19:01:39+08:00"
+  },
+  {
+   "id": "4ccfb0e62a",
+   "title": "ASML 三季报：AI 需求排到 2029–2030，产能仍跟不上",
+   "summary": "光刻机巨头公布 Q3 销售额约 117 亿欧元、净利约 50 亿欧元，上调全年指引至 440–450 亿欧元。CEO 称客户因 AI 投资持续上调设备需求，部分已表达 2029 甚至 2030 年下单意向；现有 2027–2028 供货计划仍无法完全满足，公司在评估把 2028 产能扩得比原计划的 +30% 更大。",
+   "links": [
+    "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+    "https://x.com/i/trending/2110237490116452855"
+   ],
+   "topic": "asml-q3-ai-demand-2030",
+   "firstSeen": "2026-10-14T19:14:20+08:00"
+  },
+  {
+   "id": "dc7a66cb78",
+   "title": "FreeLLMAPI：34 家免费厂商、635 个端点，一个 OpenAI 兼容入口",
+   "summary": "开源网关把各家免费额度聚到统一 /v1，带智能路由、限流失败自动切换和密钥加密；可 Docker 自托管，兼容 Cursor、Claude Code、Codex 等。作者标明偏个人实验与原型，不适合当生产 SLA。GitHub 今日热榜，星数约 3.5 万。",
+   "links": [
+    "https://github.com/tashfeenahmed/freellmapi",
+    "https://freellmapi.co"
+   ],
+   "topic": "freellmapi-gateway",
+   "firstSeen": "2026-10-14T19:14:20+08:00"
+  },
+  {
+   "id": "369195488d",
+   "title": "CLI-Anything：把任意软件变成 Agent 可调用的原生 CLI",
+   "summary": "港大 HKUDS 开源项目，目标是从代码库生成完整命令行接口，让传统软件变成 Agent 可编排能力；官网 clianything.cc，GitHub 今日仍在热榜（约 5.2 万星）。和 MCP 工具包装是同一「让老软件进 Agent 工作流」赛道。",
+   "links": [
+    "https://github.com/HKUDS/CLI-Anything",
+    "https://clianything.cc/"
+   ],
+   "topic": "cli-anything-agent-native",
+   "firstSeen": "2026-10-14T19:14:20+08:00"
   }
  ],
- "lastChecked": "2026-10-14T19:01:39+08:00"
+ "lastChecked": "2026-10-14T19:14:20+08:00"
 }
