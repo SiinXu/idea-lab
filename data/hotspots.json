@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T11:04:02+08:00",
+ "lastUpdated": "2026-10-14T11:17:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2728,7 +2728,67 @@
    ],
    "topic": "agent-desk-session-intel",
    "firstSeen": "2026-10-14T11:04:02+08:00"
+  },
+  {
+   "id": "d40aae393b",
+   "title": "Anthropic 更新 2026 使用政策：欺骗活动、武器软件与虐待模型",
+   "summary": "11 月 12 日生效：合并「禁止欺骗性活动」专章，明确武器制导软件与无人系统武装禁令，高风险场景须人在环，并禁止对模型持续无谓虐待（与 Graylark 企业停用相关）。",
+   "links": [
+    "https://www.anthropic.com/news/2026-usage-policy-update"
+   ],
+   "topic": "anthropic-2026-aup",
+   "firstSeen": "2026-10-14T11:17:40+08:00"
+  },
+  {
+   "id": "cdf61653e8",
+   "title": "五名 GPT-6.1 Sol Agent 用 24 小时通关魔兽怒焰裂谷",
+   "summary": "五名隔离 Codex Agent 各自建角色，经游戏内聊天协调控制器与战术，约 24.5 小时清完 RFC 四首领；主要耗在协作调试与擦团恢复，API 等价成本约 305 美元。",
+   "links": [
+    "https://agent-wow.sh/five-agents-running-on-gpt-61-sol-clear-world-of-warcrafts-ragefire-chasm-in-24-hours/"
+   ],
+   "topic": "gpt61-wow-agents",
+   "firstSeen": "2026-10-14T11:17:40+08:00"
+  },
+  {
+   "id": "6934e4ebb2",
+   "title": "法院需要「AI 审判轨」：把人类判断留给真正重要的案子",
+   "summary": "Pax Machina 提案：仿仲裁建法院内并行 AI 审裁轨，用同意率与上诉推翻率实证哪些案件适合 AI，避免法官在案卷洪峰下悄悄把判断外包给模型。",
+   "links": [
+    "https://paxmachina.ai/to-keep-human-judgment-we-need-ai-courts"
+   ],
+   "topic": "ai-courts-human-judgment",
+   "firstSeen": "2026-10-14T11:17:40+08:00"
+  },
+  {
+   "id": "8f4b7f6798",
+   "title": "AI 有没有真正的设计品味？一天改完落地页引发争论",
+   "summary": "有人用 AI 一天重做整站落地页，sleek.design 等工具可把想法导出 Figma/代码；怀疑派认为品味主观、会漂移，工程侧提效约 25%–50% 更可量化。",
+   "links": [
+    "https://x.com/i/trending/2110205380014018959"
+   ],
+   "topic": "ai-design-taste",
+   "firstSeen": "2026-10-14T11:17:40+08:00"
+  },
+  {
+   "id": "028d1a556f",
+   "title": "Anthropic 就五角大楼「供应链安全风险」认定申请再审",
+   "summary": "联邦上诉法院此前 2-1 维持国防部认定；公司称多数意见把针对敌对外国行为者的法律扩到所有承包商，且与 AI 安全立场报复有关。",
+   "links": [
+    "https://www.thestar.com.my/tech/tech-news/2026/10/14/anthropic-seeks-rehearing-of-case-over-pentagon039s-security-risk-branding"
+   ],
+   "topic": "anthropic-pentagon-rehearing",
+   "firstSeen": "2026-10-14T11:17:40+08:00"
+  },
+  {
+   "id": "d4d127d43b",
+   "title": "Quanta：注意力是不是智能的本质？",
+   "summary": "回顾 Transformer 注意力机制如何重塑 AI 叙事，并追问「注意力」是否真能解释智能，还是只是高效计算技巧的故事包装。",
+   "links": [
+    "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/"
+   ],
+   "topic": "attention-essence-intelligence",
+   "firstSeen": "2026-10-14T11:17:40+08:00"
   }
  ],
- "lastChecked": "2026-10-14T11:04:02+08:00"
+ "lastChecked": "2026-10-14T11:17:40+08:00"
 }
