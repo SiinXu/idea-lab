@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T13:14:57+08:00",
+ "lastUpdated": "2026-10-14T13:29:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3158,7 +3158,37 @@
    ],
    "topic": "felix-ambitious-with-models",
    "firstSeen": "2026-10-14T13:14:57+08:00"
+  },
+  {
+   "id": "fdea597bfb",
+   "title": "VS Copilot / SSMS 远程代码执行：文件名末尾一个点即可越权",
+   "summary": "Embrace The Red 披露 CVE-2026-103572：Windows 忽略文件名末尾「.」，Copilot 路径校验被绕过，可改写 mcp/settings 实现任意命令执行，间接提示注入也能打；Patch Tuesday 已修，赏金却为 $0。",
+   "links": [
+    "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/"
+   ],
+   "topic": "vs-copilot-ssms-rce-trailing-dot",
+   "firstSeen": "2026-10-14T13:29:25+08:00"
+  },
+  {
+   "id": "e7c0cc6a8c",
+   "title": "Hinton：《卫报》采访——我们在创造外星智慧，只剩几年适应期",
+   "summary": "AI 教父 Geoffrey Hinton 称模型是「alien beings」，批黄仁勋与特朗普对超级智能的理解，强调灭绝风险是严肃概率而非精确预言，并主张人类优先的共生伦理。",
+   "links": [
+    "https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech"
+   ],
+   "topic": "hinton-alien-beings-guardian",
+   "firstSeen": "2026-10-14T13:29:25+08:00"
+  },
+  {
+   "id": "2d888ab8f7",
+   "title": "1692 年 900 页「前 Pantone」调色手册高清全本上线",
+   "summary": "荷兰 A. Boogert《Traité des couleurs》手稿含 700+ 页色卡，Aix 图书馆可缩放高清浏览；HN 首页热议，适合做设计/内容素材库灵感。",
+   "links": [
+    "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html"
+   ],
+   "topic": "boogert-1692-pre-pantone",
+   "firstSeen": "2026-10-14T13:29:25+08:00"
   }
  ],
- "lastChecked": "2026-10-14T13:14:57+08:00"
+ "lastChecked": "2026-10-14T13:29:25+08:00"
 }
