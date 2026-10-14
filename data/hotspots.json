@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T02:32:29+08:00",
+ "lastUpdated": "2026-10-15T02:33:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5807,7 +5807,18 @@
    ],
    "topic": "europe-abandon-frontier-ai",
    "firstSeen": "2026-10-15T02:32:29+08:00"
+  },
+  {
+   "id": "9f48ff61aa",
+   "title": "Petal：CoScreen 原班开源结对编程，八周 vibe coding 重写",
+   "summary": "Datadog 关停 CoScreen 后，原创始团队开源 Petal：共享窗口是真实桌面窗口、多光标可点进编辑，支持自建 LiveKit。团队称用 Fable/Astra 等前沿模型约八周从零重写，对比当年六年；面向不希望再被收购日落的结对工具用户。",
+   "links": [
+    "https://petal.live/",
+    "https://github.com/kiruna-labs/petal"
+   ],
+   "topic": "petal-oss-coscreen",
+   "firstSeen": "2026-10-15T02:33:16+08:00"
   }
  ],
- "lastChecked": "2026-10-15T02:32:29+08:00"
+ "lastChecked": "2026-10-15T02:33:16+08:00"
 }
