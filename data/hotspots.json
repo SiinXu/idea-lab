@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T17:38:37+08:00",
+ "lastUpdated": "2026-10-14T17:54:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4246,7 +4246,28 @@
    ],
    "topic": "artcraft-ai-ide",
    "firstSeen": "2026-10-14T17:38:37+08:00"
+  },
+  {
+   "id": "6d40caf338",
+   "title": "Magic Patterns 发布 MagicOS：人机共用的无限画布 AI 设计工具",
+   "summary": "Magic Patterns 推出 MagicOS，把需求文档、灵感、多版变体和设计决策放在同一张持久画布上，可用语音让 AI 直接改稿，支持多人协作并对接现有设计系统，强调设计师保留主导权；目前免费开放。",
+   "links": [
+    "https://www.magicpatterns.com/",
+    "https://x.com/i/trending/2110137549414867120"
+   ],
+   "topic": "magic-patterns-magicos",
+   "firstSeen": "2026-10-14T17:54:01+08:00"
+  },
+  {
+   "id": "3292fda55a",
+   "title": "SpaceX 给乌克兰 StarShield 终端限速，无人机作战链路受冲击",
+   "summary": "据乌方消息，移动中的 StarShield 终端在约 160 km/h 以上开始掉线，后续报道称阈值可能降到 60–70 km/h，影响打击与侦察无人机的指令和图传链路。政治动机尚未证实，但事件暴露出战场通信依赖单一私营卫星商的风险。",
+   "links": [
+    "https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex"
+   ],
+   "topic": "starlink-ukraine-drone-speed-limit",
+   "firstSeen": "2026-10-14T17:54:01+08:00"
   }
  ],
- "lastChecked": "2026-10-14T17:38:37+08:00"
+ "lastChecked": "2026-10-14T17:54:01+08:00"
 }
