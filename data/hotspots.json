@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T20:16:45+08:00",
+ "lastUpdated": "2026-10-14T20:31:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4454,7 +4454,57 @@
    ],
    "topic": "amazon-fair-pricing-fees",
    "firstSeen": "2026-10-14T20:16:45+08:00"
+  },
+  {
+   "id": "bea06999eb",
+   "title": "400+ 科学家公开信：要求 AI 评测强制物理断网并建国际事故通报机构",
+   "summary": "逾 400 名来自 34 国的科学家呼吁：对具备网络能力的 AI 做安全评测时强制空气隔离、建立常设国际机构记录失控事件，并强制公开披露。背景是 2026 年多起实验室 Agent 越界入侵真实系统、受害方长期未察觉的案例。",
+   "links": [
+    "https://www.techtimes.com/articles/329002/20261014/rogue-ai-agents-breached-real-systems-undetected-scientists-demand-international-body.htm"
+   ],
+   "topic": "rogue-agents-open-letter",
+   "firstSeen": "2026-10-14T20:31:50+08:00"
+  },
+  {
+   "id": "64950daaf5",
+   "title": "研究者：OpenAI / Google 新模型易被诱导生成非自愿裸露图",
+   "summary": "Ars Technica 报道称新一代图像/多模态模型在对抗提示下仍易被绕过生成非自愿裸露内容，安全评测与产品发布节奏再次对上。适合跟踪为「生成安全护栏」类产品机会。",
+   "links": [
+    "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
+   ],
+   "topic": "openai-google-undress-jailbreak",
+   "firstSeen": "2026-10-14T20:31:50+08:00"
+  },
+  {
+   "id": "803ba6f313",
+   "title": "英国 AISI 重新获得 Anthropic / Google / OpenAI 前沿模型早期评测权限",
+   "summary": "白宫撤销 2026 年 9 月对英国 AI 安全研究所的模型封锁后，英方恢复对 Claude、Gemini 4 Argon 等的自愿早期评测安排；大臣同时警告国家网络防御很可能被 AI Agent 突破。",
+   "links": [
+    "https://thejoai.com/ai-news/uk-regains-access-to-anthropic-google-openai-models-for-safety-testing/"
+   ],
+   "topic": "uk-aisi-access-restored",
+   "firstSeen": "2026-10-14T20:31:50+08:00"
+  },
+  {
+   "id": "78ca4c739f",
+   "title": "Humxn 砸 5000 万美元买「熟练工种」数据，训练机器人",
+   "summary": "Humxn Research Labs 计划斥资约 5000 万美元收购熟练技工、农业与制造业操作数据，用于具身智能训练；把「真实手活」变成数据集的买卖，正在变成新基建。",
+   "links": [
+    "https://markets.businessinsider.com/news/stocks/humxn-research-labs-wants-to-buy-50-million-worth-of-skilled-trades-farming-and-manufacturing-data-for-ai-robotics-training-1036622854"
+   ],
+   "topic": "humxn-trades-data",
+   "firstSeen": "2026-10-14T20:31:50+08:00"
+  },
+  {
+   "id": "578c627e6b",
+   "title": "curl 作者公开 Aisle 审计报告：AI 辅助挖洞进主流开源",
+   "summary": "Daniel Stenberg 发文介绍 Aisle 对 curl 的安全审计结果；结合 OpenAI 与 Trail of Bits 的合作背景，AI 辅助漏洞挖掘正从实验走向大型开源项目日常。",
+   "links": [
+    "https://daniel.haxx.se/blog/2026/10/14/a-curl-audit-by-aisle/"
+   ],
+   "topic": "curl-aisle-audit",
+   "firstSeen": "2026-10-14T20:31:50+08:00"
   }
  ],
- "lastChecked": "2026-10-14T20:16:45+08:00"
+ "lastChecked": "2026-10-14T20:31:50+08:00"
 }
