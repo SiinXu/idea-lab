@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T07:56:19+08:00",
+ "lastUpdated": "2026-10-14T08:11:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2052,7 +2052,117 @@
    ],
    "topic": "unreal-cloud-agents",
    "firstSeen": "2026-10-14T07:56:19+08:00"
+  },
+  {
+   "id": "47a2fc5ccb",
+   "title": "Albert 获 5500 万美元 B 轮：化学原生 AI 操作系统",
+   "summary": "TCV 领投，面向研发的化学原生 AI OS；过去一年项目量增约 26 倍，科学家用户增约 6 倍，覆盖 44 国。",
+   "links": [
+    "https://www.albertinvent.com/press-release-post/albert-raises-55m-series-b-to-scale-the-first-chemistry-native-ai"
+   ],
+   "topic": "albert-chemistry-ai-55m",
+   "firstSeen": "2026-10-14T08:11:00+08:00"
+  },
+  {
+   "id": "f087c8d39e",
+   "title": "Ubitium 再融 1400 万美元：做物理 AI 通用处理器",
+   "summary": "德国初创用可重构 RISC-V 阵列，想用一颗芯片替代感知/算力/控制分立方案，总种子轮约 1800 万美元。",
+   "links": [
+    "https://www.ubitium.com/ubitium-raises-14-million-to-build-the-first-universal-processor-for-physical-ai/"
+   ],
+   "topic": "ubitium-physical-ai-processor",
+   "firstSeen": "2026-10-14T08:11:00+08:00"
+  },
+  {
+   "id": "b637bb1431",
+   "title": "Rownd 公开低成本自主无人机，获美军约 1000 万美元合同",
+   "summary": "YC 出身防务公司亮相可消耗型自主无人机；阿拉巴马演训完成 41 架次，并首次试飞三机编队，当晚用飞数重训视觉模型。",
+   "links": [
+    "https://rownd.ai/blog/rownd-launches-autonomous-drones"
+   ],
+   "topic": "rownd-autonomous-drones",
+   "firstSeen": "2026-10-14T08:11:00+08:00"
+  },
+  {
+   "id": "f267b0c17d",
+   "title": "Industrial Next：工厂机器人换任务从「周」压到「分钟」",
+   "summary": "用仿真与示范教技能的 AI 工位，已在大型代工厂产线跑；宣称首过准确率超 99.9%，换线不再靠硬编码。",
+   "links": [
+    "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
+   ],
+   "topic": "industrial-next-retool-minutes",
+   "firstSeen": "2026-10-14T08:11:00+08:00"
+  },
+  {
+   "id": "14cee17a15",
+   "title": "Cerebras CEO：家用个人 AI 助手时代临近，并反驳末日论",
+   "summary": "Disrupt 上 Andrew Feldman 称人人拥有家用个人助手不远了，同时呼吁更平衡地看待 AI 风险与收益。",
+   "links": [
+    "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
+   ],
+   "topic": "cerebras-home-ai-assistant",
+   "firstSeen": "2026-10-14T08:11:00+08:00"
+  },
+  {
+   "id": "8fffd9ec3a",
+   "title": "Cambridge Heavy Industries：悄然打造台式激光聚变装置",
+   "summary": "MIT 衍生团队做桌面级惯性约束聚变，主攻同位素/氚生产；TechCrunch 披露其小型模块路线与后续扩厂设想。",
+   "links": [
+    "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/"
+   ],
+   "topic": "cambridge-heavy-desktop-fusion",
+   "firstSeen": "2026-10-14T08:11:00+08:00"
+  },
+  {
+   "id": "2ce212c19d",
+   "title": "Science Corporation：首例 Stargardt 患者植入视觉恢复芯片",
+   "summary": "PRIMA 视网膜下芯片配合红外眼镜刺激神经细胞；首例 Stargardt 患者术后康复中已能再次读出字母。",
+   "links": [
+    "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
+   ],
+   "topic": "science-corp-stargardt-prima",
+   "firstSeen": "2026-10-14T08:11:00+08:00"
+  },
+  {
+   "id": "99f5d3fb5e",
+   "title": "SimulacraBench：用未公开联合国微数据测 AI 能不能「代替人填卷」",
+   "summary": "NeurIPS 竞赛联合 UNHCR/UNICEF/世行，约 4 万人 14 国问卷从不进训练集；交代码不交预测，开发阶段到 11 月 13 日。",
+   "links": [
+    "https://simulacrabench.org/"
+   ],
+   "topic": "simulacrabench-ai-populations",
+   "firstSeen": "2026-10-14T08:11:00+08:00"
+  },
+  {
+   "id": "0d766e0b50",
+   "title": "Show HN：Jevcrawl——给 Agent 的网页爬虫，爬环不进大模型",
+   "summary": "MCP/CLI 爬站工具，宣称找答案页比 Crawl4AI 更常成功，且比让 Claude 自己爬便宜约 10 倍。",
+   "links": [
+    "https://github.com/rayenmlayeh/jevcrawl"
+   ],
+   "topic": "jevcrawl-agent-crawler",
+   "firstSeen": "2026-10-14T08:11:00+08:00"
+  },
+  {
+   "id": "623f04ea2b",
+   "title": "ai-deploy-bench：横向测编码 Agent 部署到多家云的成功率",
+   "summary": "Cloudish 开源基准：让 Agent 建站并部署到 Cloudish/DigitalOcean/Render/Vercel，记录成功、耗时、token、成本与人工步数。",
+   "links": [
+    "https://github.com/cloudishai/ai-deploy-bench"
+   ],
+   "topic": "ai-deploy-bench-cloudish",
+   "firstSeen": "2026-10-14T08:11:00+08:00"
+  },
+  {
+   "id": "9cba1ddf55",
+   "title": "CoreWeave 债券收益率飙破 15%：AI 基建债务承压",
+   "summary": "2032 无担保债盘中收益率逼近 15%，利差约 1000 基点；市场担忧长债配短合同与大客户集中度风险。",
+   "links": [
+    "https://x.com/i/trending/2110038326308909507"
+   ],
+   "topic": "coreweave-bond-yields-15",
+   "firstSeen": "2026-10-14T08:11:00+08:00"
   }
  ],
- "lastChecked": "2026-10-14T07:56:19+08:00"
+ "lastChecked": "2026-10-14T08:11:00+08:00"
 }
