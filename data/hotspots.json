@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T04:09:09+08:00",
+ "lastUpdated": "2026-10-15T04:45:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6038,7 +6038,19 @@
    ],
    "topic": "openai-eu-smb-agentic-8x-2026-10",
    "firstSeen": "2026-10-15T04:09:09+08:00"
+  },
+  {
+   "id": "adcdd9b6de",
+   "title": "微软 Defender for Endpoint 开始支持 Linux 桌面（公测）",
+   "summary": "微软在 Defender for Endpoint 文档中宣布：Linux 桌面支持进入公开预览，凡服务器端已支持的发行版（RHEL、Ubuntu 至 26.04、Debian 13、Fedora 44 等）在桌面上同样可用，与桌面环境无关，部署包和安全能力与服务器一致；需要 Defender for Endpoint P2（含 Microsoft 365 E5/E7）授权。企业 Linux 开发机终于可纳入统一 EDR 管理。",
+   "links": [
+    "https://www.neowin.net/news/microsoft-defender-now-supports-linux-desktops/",
+    "https://learn.microsoft.com/en-us/defender-endpoint/mde-linux-prerequisites",
+    "https://learn.microsoft.com/en-us/defender-endpoint/whats-new-in-microsoft-defender-endpoint"
+   ],
+   "topic": "ms-defender-linux-desktop-preview-2026-10",
+   "firstSeen": "2026-10-15T04:45:33+08:00"
   }
  ],
- "lastChecked": "2026-10-15T04:09:09+08:00"
+ "lastChecked": "2026-10-15T04:45:33+08:00"
 }
