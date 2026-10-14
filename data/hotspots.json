@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T10:16:53+08:00",
+ "lastUpdated": "2026-10-14T10:28:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2522,7 +2522,80 @@
    ],
    "topic": "blumify-ai-leaders",
    "firstSeen": "2026-10-14T10:16:53+08:00"
+  },
+  {
+   "id": "cee1e55192",
+   "title": "伊朗威胁打击海湾数据中心与海缆：红海互联网咽喉再升温",
+   "summary": "Al Jazeera 梳理：伊朗安全官员警告若美伊再开战可打击地区线缆、数据中心与 AI 设施；胡塞控制曼德海峡附近后，欧美亚约 90% 跨洲带宽仍经红海，AWS 海湾机房曾遭无人机打击。",
+   "links": [
+    "https://www.aljazeera.com/news/2026/10/13/iran-threatens-gulf-data-centres-how-exposed-is-the-regions-internet"
+   ],
+   "topic": "iran-gulf-datacenter-threat",
+   "firstSeen": "2026-10-14T10:28:43+08:00"
+  },
+  {
+   "id": "cecb4849d0",
+   "title": "OCP 2026：Agentic AI 把数据中心从芯片推到电网；AMD Helion 机架亮相",
+   "summary": "Open Compute Summit 上 AMD/Meta/Arm/NVIDIA 等强调「chip-to-grid」：CPU 密机架跑 Agent、开放数据中心规范 0.7、电网韧性规格；AMD Helion 为 Agent 工作负载开放机架蓝图，计划 11 月供货并贡献给 OCP。",
+   "links": [
+    "https://www.datacenterfrontier.com/hyperscale/article/55411534/ocp-2026-agentic-ai-pushes-the-data-center-from-chip-to-grid",
+    "https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale"
+   ],
+   "topic": "ocp-2026-amd-helion",
+   "firstSeen": "2026-10-14T10:28:43+08:00"
+  },
+  {
+   "id": "323c113c69",
+   "title": "Squeeze：压缩编码 Agent 工具输出，早期测称输入 token 少约 65%",
+   "summary": "开源项目 Squeeze 专砍 coding agent 读工具输出的 token；作者贴出 bench 早期结果称整体输入可少约 65%，方向与 context-mode 同类，适合做成省钱中间层。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://github.com/cauebraz/squeeze",
+    "https://github.com/cauebraz/squeeze/tree/main/bench"
+   ],
+   "topic": "squeeze-agent-tokens",
+   "firstSeen": "2026-10-14T10:28:43+08:00"
+  },
+  {
+   "id": "3bc6cdc073",
+   "title": "Show HN：Brutus CLI——给 Mac 上「凯撒」式占资源进程补一刀",
+   "summary": "原生 macOS 小 CLI，定位找资源压力并关掉单个进程，作者戏称「Tiny Dagger to Kill Your Mac's Caesar」；刚上 HN，体量很小但切入日常开发者痛点。",
+   "links": [
+    "https://github.com/smashah/brutus"
+   ],
+   "topic": "brutus-cli-mac",
+   "firstSeen": "2026-10-14T10:28:43+08:00"
+  },
+  {
+   "id": "e3ae27d071",
+   "title": "Light Touch：在 Mac 上跑经典 iPhone/iPod/iPad 应用（iOS 1–7）",
+   "summary": "不同于浏览器里的初代 iPhone OS 演示，Light Touch 面向 Mac 原生模拟，宣称可运行 iOS 1–7 时代设备应用，怀旧与兼容性实验并行。",
+   "links": [
+    "https://github.com/samhenrigold/LightTouchMac"
+   ],
+   "topic": "light-touch-ios-emulator",
+   "firstSeen": "2026-10-14T10:28:43+08:00"
+  },
+  {
+   "id": "7475e9f27c",
+   "title": "全球手机销量跌至 14 年同期最低：内存涨价拖累",
+   "summary": "Counterpoint：2026 Q3 全球智能手机销量同比降约 20%，为 2012 年以来最弱三季度；DRAM/NAND 短缺推高整机价约 20%，三星仍居首、苹果份额创三季度新高。",
+   "links": [
+    "https://www.computerworld.com/article/4234747/cell-phone-sales-plunge-lowest-level-in-14-years.html"
+   ],
+   "topic": "phone-sales-memory-shortage",
+   "firstSeen": "2026-10-14T10:28:43+08:00"
+  },
+  {
+   "id": "8dbe72d423",
+   "title": "Show HN：Jeffy「读心」——马尔可夫链猜你左右选择",
+   "summary": "交互演示用 1–4 步上下文频率表预测你下一次左/右，约 20 次后常见准确率 60–70%；同作者用同一思路做 CPU 端 Jeffy 分类器（68 个预训练、无需 GPU）。",
+   "links": [
+    "https://jeffyclassify.com/blog/mind-reader/",
+    "https://jeffyclassify.com"
+   ],
+   "topic": "jeffy-mind-reader",
+   "firstSeen": "2026-10-14T10:28:43+08:00"
   }
  ],
- "lastChecked": "2026-10-14T10:16:53+08:00"
+ "lastChecked": "2026-10-14T10:28:43+08:00"
 }
