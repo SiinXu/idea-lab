@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T03:00:31+08:00",
+ "lastUpdated": "2026-10-15T03:08:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5870,7 +5870,17 @@
    ],
    "topic": "surrealdb-agent-memory",
    "firstSeen": "2026-10-15T03:00:31+08:00"
+  },
+  {
+   "id": "ddf2e7c24c",
+   "title": "GitLab 满分漏洞：CI/CD 正则编译器可致未授权远程代码执行",
+   "summary": "CVE-2026-97229 源于 GitLab CI/CD 正则表达式编译器的整数溢出：攻击者在流水线配置里塞入特制正则，即可在未登录情况下于服务器执行任意代码。已修复版本为 19.2.8、19.3.4、19.4.2，GitLab.com 已打补丁，自建实例需立即升级；上月另一满分漏洞已被 CISA 列入在野利用清单。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/"
+   ],
+   "topic": "gitlab-cve-2026-97229",
+   "firstSeen": "2026-10-15T03:08:50+08:00"
   }
  ],
- "lastChecked": "2026-10-15T03:00:31+08:00"
+ "lastChecked": "2026-10-15T03:08:50+08:00"
 }
