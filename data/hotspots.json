@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T09:17:59+08:00",
+ "lastUpdated": "2026-10-14T09:24:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2351,7 +2351,28 @@
    ],
    "topic": "nk-laptop-farm-texas",
    "firstSeen": "2026-10-14T09:17:59+08:00"
+  },
+  {
+   "id": "2cfbc19eb1",
+   "title": "OpenAI 洽谈收购 Trail of Bits：补齐开源安全审计能力",
+   "summary": "据 The Information，OpenAI 正与纽约安全公司 Trail of Bits 谈早期收购；对方专长开源漏洞发现与修复，曾审计 Uniswap/Aave/Worldcoin，并与 OpenAI 合作 Patch the Planet。金额未披露，意在把 AI 生成后的「验证与修补」做成网络安全业务。",
+   "links": [
+    "https://x.com/i/trending/2110177811994689643",
+    "https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits"
+   ],
+   "topic": "openai-trail-of-bits",
+   "firstSeen": "2026-10-14T09:24:53+08:00"
+  },
+  {
+   "id": "cfc9aad53f",
+   "title": "Altman 警告：总统可能把决策交给「不可理解」的 AI",
+   "summary": "在 Theo Von 播客片段再度传播中，Sam Altman 谈到未来领导人可能听不懂却仍采纳 AI 建议，甚至把权力交给系统；马斯克附和称人机差距或如人与黑猩猩。讨论焦点转向问责、监管与人类是否还能把控。",
+   "links": [
+    "https://x.com/i/trending/2110177813466882531"
+   ],
+   "topic": "altman-unknowable-ai",
+   "firstSeen": "2026-10-14T09:24:53+08:00"
   }
  ],
- "lastChecked": "2026-10-14T09:17:59+08:00"
+ "lastChecked": "2026-10-14T09:24:53+08:00"
 }
