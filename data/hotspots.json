@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T15:33:36+08:00",
+ "lastUpdated": "2026-10-14T15:46:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3721,7 +3721,89 @@
    ],
    "topic": "agent-identity-sdk",
    "firstSeen": "2026-10-14T15:33:36+08:00"
+  },
+  {
+   "id": "60c067188f",
+   "title": "ACE-Step 1.5：开源本地音乐生成，消费级显卡可跑",
+   "summary": "MIT 开源音乐基础模型，宣称质量可对标多数商业产品；A100 约 2 秒一首、RTX 3090 约 10 秒，最低约 4GB 显存，支持翻唱/局部重绘与少量样本 LoRA。刚上 HN newest。",
+   "links": [
+    "https://github.com/ACE-Step/ACE-Step-1.5",
+    "https://huggingface.co/ACE-Step/Ace-Step1.5"
+   ],
+   "topic": "ace-step-15",
+   "firstSeen": "2026-10-14T15:46:40+08:00"
+  },
+  {
+   "id": "02bd4c3507",
+   "title": "Ruleherd：审计 Agent 指令文件的矛盾与漂移",
+   "summary": "扫描 CLAUDE.md、AGENTS.md、.cursor/rules 等，揪矛盾、死引用和复制粘贴漂移。适合多 harness 共用规则库的团队。",
+   "links": [
+    "https://github.com/princejain756/ruleherd"
+   ],
+   "topic": "ruleherd-agent-instructions",
+   "firstSeen": "2026-10-14T15:46:40+08:00"
+  },
+  {
+   "id": "0d467b228f",
+   "title": "Show HN：sgrep——给 Agent 用的快速精准代码搜索",
+   "summary": "面向编码 Agent 的代码搜索工具，强调快和准，减少无效上下文灌进模型。",
+   "links": [
+    "https://github.com/context-dot-dev/sgrep"
+   ],
+   "topic": "sgrep-agent-search",
+   "firstSeen": "2026-10-14T15:46:40+08:00"
+  },
+  {
+   "id": "285375ec9f",
+   "title": "Gemini 4 Argon 登陆 Cursor 与 Vercel AI Gateway",
+   "summary": "Cursor 模型选择器已上线 Argon（约 $2/$10 每百万 token，CursorBench 宣称持平 Opus 5.5）；Vercel AI Gateway 也可一键路由到 Claude Code/Codex/Cursor。",
+   "links": [
+    "https://cursor.com/docs/models/gemini-4-argon",
+    "https://vercel.com/changelog/gemini-4-argon-now-available-on-ai-gateway"
+   ],
+   "topic": "gemini4-argon-cursor-vercel",
+   "firstSeen": "2026-10-14T15:46:40+08:00"
+  },
+  {
+   "id": "29d9dbc312",
+   "title": "VS Code 1.141：Copilot/Codex 会话互通与跨平台沙箱",
+   "summary": "可在 VS Code 里接续 CLI/App 里开的 Copilot 与 Codex 对话；新增会话网格、worktree 清理，以及 Win/macOS/Linux 上的 Agent 文件与网络沙箱。",
+   "links": [
+    "https://code.visualstudio.com/updates/v1_141"
+   ],
+   "topic": "vscode-1-141-agent-sessions",
+   "firstSeen": "2026-10-14T15:46:40+08:00"
+  },
+  {
+   "id": "ef9e2d6368",
+   "title": "自建 Agent 代码评审员：Forgejo PR 先让 Claude Code 审",
+   "summary": "Agent 在自托管 Forgejo 提 PR，Claude Code 机器人先审一轮，人再做最终合并。实践向的「Agent 审 Agent」流水线。",
+   "links": [
+    "https://unbeholden.dev/blog/a-reviewer-for-my-agents"
+   ],
+   "topic": "agent-pr-reviewer-bot",
+   "firstSeen": "2026-10-14T15:46:40+08:00"
+  },
+  {
+   "id": "b66237a319",
+   "title": "欧洲城市部署英伟达驱动的 AI Agent 管市政",
+   "summary": "NVIDIA 称多座欧洲城市用其平台跑城市运营 Agent，覆盖交通、能源等场景，把「Agent 进政务」从概念推进落地。",
+   "links": [
+    "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/"
+   ],
+   "topic": "nvidia-eu-city-agents",
+   "firstSeen": "2026-10-14T15:46:40+08:00"
+  },
+  {
+   "id": "cb6feec1d4",
+   "title": "英伟达五年投 2.5 亿美元推进英国 Agentic 安全研究",
+   "summary": "面向英国生态的 Agent 安全与防护研究承诺，配合当地部署潮，把「能跑 Agent」和「敢跑 Agent」一起押注。",
+   "links": [
+    "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years"
+   ],
+   "topic": "nvidia-uk-250m-agentic-safety",
+   "firstSeen": "2026-10-14T15:46:40+08:00"
   }
  ],
- "lastChecked": "2026-10-14T15:33:36+08:00"
+ "lastChecked": "2026-10-14T15:46:40+08:00"
 }
