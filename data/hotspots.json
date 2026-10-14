@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T06:01:11+08:00",
+ "lastUpdated": "2026-10-15T06:12:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6178,7 +6178,31 @@
    ],
    "topic": "blackrock-fink-dc-moratorium-recession",
    "firstSeen": "2026-10-15T06:01:11+08:00"
+  },
+  {
+   "id": "dbcc792203",
+   "title": "Anduril 员工股权要约估约 900 亿美元",
+   "summary": "国防科技公司 Anduril 开启员工/前员工股票要约收购，每股 94.80 美元、总额上限约 13 亿美元，隐含估值约 900 亿；较 5 月 610 亿估值再跳一截，并首次覆盖 16 国员工。公司去年营收约 22 亿美元，产品覆盖无人战机、自主软件与军用 AR。",
+   "links": [
+    "https://www.cnbc.com/2026/10/14/anduril-tender-offer-valuation.html",
+    "https://qz.com/anduril-employee-tender-offer-90-billion-valuation-101426",
+    "https://x.com/i/trending/2110456217130672627"
+   ],
+   "topic": "anduril-90b-tender-2026-10",
+   "firstSeen": "2026-10-15T06:12:40+08:00"
+  },
+  {
+   "id": "2101e73831",
+   "title": "伯克希尔再投 Bending Spoons 3.3 亿美元，持股升至约 4%",
+   "summary": "收购 Evernote、Eventbrite 等数字品牌的 Bending Spoons 宣布，伯克希尔以每股 33 美元私募认购 1000 万股、约 3.3 亿美元；加上 IPO 时 6 亿美元，总持仓约 4%。资金将用于一般用途与继续收购，X 与财经媒体讨论热烈。",
+   "links": [
+    "https://investors.bendingspoons.com/newsroom/berkshire-hathaway-invests-further-in-bending-spoons",
+    "https://www.cnbc.com/2026/10/14/berkshire-hathaway-investment-bending-spoons.html",
+    "https://x.com/i/trending/2110366822231064911"
+   ],
+   "topic": "berkshire-bending-spoons-330m-2026-10",
+   "firstSeen": "2026-10-15T06:12:40+08:00"
   }
  ],
- "lastChecked": "2026-10-15T06:01:11+08:00"
+ "lastChecked": "2026-10-15T06:12:40+08:00"
 }
