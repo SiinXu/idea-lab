@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T05:41:38+08:00",
+ "lastUpdated": "2026-10-15T06:01:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6166,7 +6166,19 @@
    ],
    "topic": "pi-agents-invent-own-work",
    "firstSeen": "2026-10-15T05:41:38+08:00"
+  },
+  {
+   "id": "b9b377e736",
+   "title": "贝莱德芬克：若美国暂停建数据中心，经济将陷入衰退",
+   "summary": "贝莱德三季度财报超预期后，CEO Larry Fink 在 CNBC 表示，美国经济很大程度上靠 AI 基建资本开支拉动，一旦出现数据中心建设禁令就会进入衰退；他称社区对电价、用水的担忧「多基于错误信息」，主张加快供电而非叫停，并提到正研究把 GPU/芯片证券化以给初创公司提供算力信贷。中期选举临近，多地反对数据中心的声音升温，X 上讨论热烈。",
+   "links": [
+    "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
+    "https://seekingalpha.com/news/4653025-blackrock-s-larry-fink-fear-about-data-centers-is-based-on-misinformation",
+    "https://x.com/i/trending/2110444485687783689"
+   ],
+   "topic": "blackrock-fink-dc-moratorium-recession",
+   "firstSeen": "2026-10-15T06:01:11+08:00"
   }
  ],
- "lastChecked": "2026-10-15T05:41:38+08:00"
+ "lastChecked": "2026-10-15T06:01:11+08:00"
 }
