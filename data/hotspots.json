@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T03:26:39+08:00",
+ "lastUpdated": "2026-10-15T03:41:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5932,7 +5932,77 @@
    ],
    "topic": "llama-windows-tray",
    "firstSeen": "2026-10-15T03:26:39+08:00"
+  },
+  {
+   "id": "045952ff4e",
+   "title": "Claude Code 桌面端大改版：并行会话侧栏 + 拖拽工作区",
+   "summary": "Anthropic 发布 Claude Code 桌面应用改版，面向「多 Agent 并行」：侧栏统一管理活跃/近期会话，可按状态、项目、环境筛选；支持侧聊分支提问、集成终端与文件编辑、更快的 diff 与预览窗格拖拽布局。Pro/Max/Team/Enterprise 现已可更新。",
+   "links": [
+    "https://claude.com/blog/claude-code-desktop-redesign",
+    "https://code.claude.com/docs/en/desktop",
+    "https://x.com/i/trending/2110452551883870307"
+   ],
+   "topic": "claude-code-desktop-redesign-2026-10",
+   "firstSeen": "2026-10-15T03:40:00+08:00"
+  },
+  {
+   "id": "929049de66",
+   "title": "Epic 推迟漫威×星战射击新作：全面转向「AI 优先」开发",
+   "summary": "据 Bloomberg，Epic 未公布的 Disney 漫威/星战萃取射击原定 2027 年 3 月上线，现已无明确档期；内部要求「不再手写代码」、美术走全 AI 工作流，并用 Claude 等工具加速。Tim Sweeney 公开称公司正为「最大 AI 加速」重组人力，目标是做得更多更好而非单纯减员。",
+   "links": [
+    "https://www.tomshardware.com/video-games/pc-gaming/epic-games-reportedly-delays-disney-shooter-title-so-it-can-pivot-to-ai-coding-staff-allegedly-told-no-more-handwritten-code-with-art-generated-with-full-ai-workflows",
+    "https://gameinformer.com/2026/10/14/epic-games-unannounced-marvel-and-star-wars-shooter-delayed-as-company-goes-all-in-on-ai",
+    "https://x.com/i/trending/2110429723511689573"
+   ],
+   "topic": "epic-disney-shooter-ai-first-delay-2026-10",
+   "firstSeen": "2026-10-15T03:40:00+08:00"
+  },
+  {
+   "id": "23870e69b8",
+   "title": "保加利亚索非亚附近 Starlink 天线遭纵火：11/17 被烧",
+   "summary": "保加利亚总理确认索非亚附近一处 Starlink 天线站遭纵火，反对派议员称两名蒙面人烧毁 17 根天线中的 11 根；当局称正与伙伴机构高强度调查、暂不公开细节，并加强全国同类站点安保。事件与波兰 Starlink 站此前遇袭、德国拘两名土耳其籍嫌犯的报道形成连锁关注。",
+   "links": [
+    "https://sofiaglobe.com/2026/10/14/bulgarian-pm-says-investigation-into-arson-of-starlink-antennas-near-sofia-underway/",
+    "https://apnews.com/article/poland-sabotage-starlink-d609c35778de4a8223b56bf45b0c48d1",
+    "https://x.com/i/trending/2110444489592700957"
+   ],
+   "topic": "bulgaria-starlink-antenna-arson-2026-10",
+   "firstSeen": "2026-10-15T03:40:00+08:00"
+  },
+  {
+   "id": "36cf6a59bf",
+   "title": "White Circle 开源 RISE：图像模型红队攻击成功率最高约 13%",
+   "summary": "安全公司 White Circle 披露 RISE（迭代策略演化红队）方法：用公开去安全对齐的 Qwen 攻击模型 + 校准后的 Gemini 裁判，对 DALL·E 3、GPT-Image-2、Nano Banana 2 等做黑盒越狱；人工核验成功率最高约 13%（DALL·E 3），并称新模型在部分暴力/自残类提示上更易被攻破。论文拟 NeurIPS 2026，代码已开源。",
+   "links": [
+    "https://magica.com/news/white-circle-rise-attack-bypasses-safeguards-openai-google-image-models",
+    "https://www.roboticscenter.ai/research/papers/rise-red-teaming-via-iterative-strategy-evolution-for-modern-text-to-image-models-2609",
+    "https://x.com/i/trending/2110426014618657109"
+   ],
+   "topic": "white-circle-rise-image-jailbreak-2026-10",
+   "firstSeen": "2026-10-15T03:40:00+08:00"
+  },
+  {
+   "id": "680c7a4040",
+   "title": "欧银监局认定 USDC 为欧盟首个「重要电子货币代币」",
+   "summary": "欧洲银行管理局（EBA）将 Circle 的 USDC 列为欧盟首个 significant e-money token（MiCA 框架）。自 2026-11-12 起，EBA 将直接监督自有资金、储备资产、流动性与赎回/恢复计划；法国 ACPR 继续负责治理等事项。此举强化机构对稳定币合规信任。",
+   "links": [
+    "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica",
+    "https://thedefiant.io/converge/regulation/eba-names-usdc-the-eu-s-first-significant-e-money-token",
+    "https://x.com/i/trending/2110452545298813407"
+   ],
+   "topic": "eba-usdc-significant-emt-2026-10",
+   "firstSeen": "2026-10-15T03:40:00+08:00"
+  },
+  {
+   "id": "e366b32126",
+   "title": "ICE 拟砸 1 亿美元上「ERO ONE」国内情报网：142 名承包商进驻数十城",
+   "summary": "美国移民海关执法局推进约 1 亿美元的 ERO ONE 计划，拟雇佣 142 名持绝密许可的情报承包商，部署到全美 20 多个城市与华盛顿特区，对分类与公开信息做关系/网络分析以支持遣返行动。ACLU 等批评称形同「国内间谍机构」雏形；HN 讨论热度高。",
+   "links": [
+    "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/"
+   ],
+   "topic": "ice-ero-one-surveillance-2026-10",
+   "firstSeen": "2026-10-15T03:41:08+08:00"
   }
  ],
- "lastChecked": "2026-10-15T03:26:39+08:00"
+ "lastChecked": "2026-10-15T03:41:08+08:00"
 }
