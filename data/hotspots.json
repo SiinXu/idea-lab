@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T06:13:28+08:00",
+ "lastUpdated": "2026-10-15T06:23:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6222,7 +6222,50 @@
    ],
    "topic": "denmark-cpr-123456-breach-2026-10",
    "firstSeen": "2026-10-15T06:13:28+08:00"
+  },
+  {
+   "id": "baffc898b4",
+   "title": "Solid Glass：专为 AI 应用打造的「实体玻璃」设计系统",
+   "summary": "DeepLethe 开源的 Solid Glass 基于 shadcn/ui、React 19 与 Tailwind CSS 4，主打「材质、物理、触感、技术感」的玻璃风格，并提供可直接安装的 13 个 registry 组件（如 AI 状态图标）；MIT 许可，创建三天已近 600 星，适合给 AI 产品界面找新视觉方向。",
+   "links": [
+    "https://github.com/deeplethe/solid-glass",
+    "https://deeplethe.github.io/solid-glass"
+   ],
+   "topic": "solid-glass-ai-design-system",
+   "firstSeen": "2026-10-15T06:23:55+08:00"
+  },
+  {
+   "id": "e0793e65a8",
+   "title": "Outcrawl 开源浏览器 Agent「Scout」",
+   "summary": "Scout 用真实浏览器替你完成任务：用自然语言描述需求，它读页面、点击、输入、滚动直到完成，做不完会说明缺什么并返回已找到的内容。Apache-2.0、npm 包 @outcrawl/scout，可自带模型本地跑，也可接官方云端（带验证码处理与运行回放）；仓库一天多涨到 600+ 星。",
+   "links": [
+    "https://github.com/outcrawlai/scout",
+    "https://outcrawl.ai/docs/scout/overview"
+   ],
+   "topic": "outcrawl-scout-browser-agent",
+   "firstSeen": "2026-10-15T06:23:55+08:00"
+  },
+  {
+   "id": "dff922dfd8",
+   "title": "new-term-radar：比关键词工具更早发现 AI 新词",
+   "summary": "开源每日雷达，从 X、Hugging Face 热门、GitHub 单仓暴涨与站点 sitemap 等信号中抓出刚冒头的模型、产品与仓库名，并用 Google Trends 做 14 天回验；提供命令行、Agent Skills 与 MCP 服务，面向 AI 工具站 SEO、通讯和目录站。两天近千星。",
+   "links": [
+    "https://github.com/zhuyansen/new-term-radar"
+   ],
+   "topic": "new-term-radar-ai-seo",
+   "firstSeen": "2026-10-15T06:23:55+08:00"
+  },
+  {
+   "id": "da88cf777c",
+   "title": "纽约市入股 NYU 量子实验室：出资 2920 万美元换 15% 知识产权收益",
+   "summary": "市长 Mamdani 宣布向 NYU 量子制造设施 QFab 投入 2920 万美元，NYU 另投 2.55 亿；市政府获得三个顾问委员会席位，以及用市资助设备产生的 IP 所得（专利授权、版税、股权等）的 15%。设施 2030 年在 770 Broadway 开放，预计支持 100+ 家公司，被称为城市参与新兴科技分成的新模式。",
+   "links": [
+    "https://edc.nyc/press-release/mayor-mamdani-announces-new-nyu-quantum-fabrication-facility",
+    "https://www.amny.com/news/nyc-tech-revenue-investment-nyu-quantum-lab/"
+   ],
+   "topic": "nyc-nyu-qfab-ip-share-2026-10",
+   "firstSeen": "2026-10-15T06:23:55+08:00"
   }
  ],
- "lastChecked": "2026-10-15T06:13:28+08:00"
+ "lastChecked": "2026-10-15T06:23:55+08:00"
 }
