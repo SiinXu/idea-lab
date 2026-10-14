@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T23:13:21+08:00",
+ "lastUpdated": "2026-10-14T23:28:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4983,7 +4983,50 @@
    ],
    "topic": "salience-labs-125m-photonic",
    "firstSeen": "2026-10-14T23:13:21+08:00"
+  },
+  {
+   "id": "dad870d4bd",
+   "title": "摩根大通封堵外部 AI Agent：禁止代操作客户账户",
+   "summary": "Jamie Dimon 在财报会上称不会放任外部 agent 进银行，担心「rogue agents」规模失控；银行确认第三方 agent 不能用客户凭证登录代付/转账，只允许经 open banking 的只读数据，同时自建 agentic 工具。",
+   "links": [
+    "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+    "https://www.theverge.com/ai-artificial-intelligence/1010962/jpmorgan-chase-is-keeping-ai-agents-out"
+   ],
+   "topic": "jpmorgan-blocks-outside-ai-agents",
+   "firstSeen": "2026-10-14T23:28:30+08:00"
+  },
+  {
+   "id": "391e657f5b",
+   "title": "美日联手：GlobalFoundries 纽约再建两座晶圆厂，日本最高投 210 亿美元",
+   "summary": "10/14 宣布在 GF Malta 园区新建两座「essential chip」工厂，日本最高出资约 210 亿美元，首厂目标约 2029 年投产；美方将持有 GF 股权，面向汽车、数据中心与通信等成熟制程产能。",
+   "links": [
+    "https://gf.com/press-release/globalfoundries-selected-to-operate-two-new-semiconductor-fabs-in-new-york-under-landmark-u-s-japan-initiative/",
+    "https://x.com/i/trending/2110361516776030566"
+   ],
+   "topic": "globalfoundries-japan-21b-malta",
+   "firstSeen": "2026-10-14T23:28:30+08:00"
+  },
+  {
+   "id": "c6e8fae63c",
+   "title": "Harmonic Security 融资 5000 万美元：用小模型盯员工怎么用 AI",
+   "summary": "Crosspoint 领投 Series B，累计约 7600 万美元；平台用专用小模型检查员工与 AI 工具的交互，拦截敏感数据外泄，同时尽量不挡正常工作，专攻企业「影子 AI」治理。",
+   "links": [
+    "https://siliconangle.com/2026/10/14/harmonic-security-raises-50m-to-govern-how-employees-use-ai-tools/",
+    "https://venturebeat.com/business/harmonic-security-raises-50-million-series-b-enabling-safe-ai-adoption-for-millions-more-employees"
+   ],
+   "topic": "harmonic-security-50m-series-b",
+   "firstSeen": "2026-10-14T23:28:30+08:00"
+  },
+  {
+   "id": "26372dc89b",
+   "title": "house-control：Mac 菜单栏里的家居 3D 实况控制",
+   "summary": "开源项目把家里做成实时 3D 模型，嵌在 macOS 菜单栏与 iPhone；可经 Smart Life、Home Assistant、Philips Hue、Apple Home 控灯与空调，GitHub 上新仓库迅速攀升星标。",
+   "links": [
+    "https://github.com/0xProbabillity/house-control"
+   ],
+   "topic": "house-control-3d-menu-bar",
+   "firstSeen": "2026-10-14T23:28:30+08:00"
   }
  ],
- "lastChecked": "2026-10-14T23:13:21+08:00"
+ "lastChecked": "2026-10-14T23:28:30+08:00"
 }
