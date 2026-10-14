@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T13:29:25+08:00",
+ "lastUpdated": "2026-10-14T13:48:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3188,7 +3188,147 @@
    ],
    "topic": "boogert-1692-pre-pantone",
    "firstSeen": "2026-10-14T13:29:25+08:00"
+  },
+  {
+   "id": "725f84e461",
+   "title": "LeanLLM：用 Lean 4 写应用的 LLM SDK",
+   "summary": "面向 Lean 4 的 LLM SDK，把形式化证明语言接到大模型调用链上，适合定理证明与高可靠 agent 实验。",
+   "links": [
+    "https://github.com/theoriclabs/leanllm"
+   ],
+   "topic": "leanllm-lean4",
+   "firstSeen": "2026-10-14T13:48:26+08:00"
+  },
+  {
+   "id": "bfd789f43b",
+   "title": "GitDrive：私有 GitHub 仓库变加密 Finder 网盘",
+   "summary": "把私有 GitHub 仓库挂成类 iCloud 的 Finder 盘，加密同步，适合开发者当轻量私有云。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://github.com/deeeeone/gitdrive"
+   ],
+   "topic": "gitdrive-encrypted-finder",
+   "firstSeen": "2026-10-14T13:48:26+08:00"
+  },
+  {
+   "id": "541c2285b9",
+   "title": "PS5LM：破解版 PS5 原生跑 llama.cpp",
+   "summary": "在越狱 PS5 上用 llama.cpp 直接跑任意 GGUF，把游戏机变成本地推理机器，极客向本地 AI 又多一条路。",
+   "links": [
+    "https://github.com/cobanov/PS5LM"
+   ],
+   "topic": "ps5lm-llamacpp",
+   "firstSeen": "2026-10-14T13:48:26+08:00"
+  },
+  {
+   "id": "4cd021c955",
+   "title": "Show HN：Geometry Check——揪出 Fusion 360 里「差一点」的几何",
+   "summary": "Fusion 360 插件专查略微不对的几何误差，CAD/制造里这种「差一点点」最费人，自动化体检有刚需。",
+   "links": [
+    "https://github.com/andyd/geometry-check"
+   ],
+   "topic": "geometry-check-fusion360",
+   "firstSeen": "2026-10-14T13:48:26+08:00"
+  },
+  {
+   "id": "e2a5f68d6d",
+   "title": "Show HN：SuperLocalMemory——本地 AI 脑，自称从不瞎编",
+   "summary": "基于 Laya/Jev/Gemma 的本地记忆层，强调可溯源、不胡编，继续卷「本地 agent 记忆」赛道。",
+   "links": [
+    "https://github.com/qualixar/superlocalmemory"
+   ],
+   "topic": "superlocalmemory-ai-brain",
+   "firstSeen": "2026-10-14T13:48:26+08:00"
+  },
+  {
+   "id": "1a2de6725c",
+   "title": "Show HN：靠手机姿态驱动的空间感个人站",
+   "summary": "用手机移动/倾斜驱动网页空间 UI，想让网页重新变得可玩、有点「怪」。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://marcolavielle.com/"
+   ],
+   "topic": "spatial-phone-movement-ui",
+   "firstSeen": "2026-10-14T13:48:26+08:00"
+  },
+  {
+   "id": "9f0ae4eea8",
+   "title": "《毁灭战士》作曲 Mick Gordon：Fk AI，创作者反弹升温",
+   "summary": "PAX 上 Mick Gordon 直言反对生成式 AI；创作者圈对训练数据盗用与「假连接」的反感继续外溢到主流讨论。",
+   "links": [
+    "https://x.com/i/trending/2110158582675382421"
+   ],
+   "topic": "mick-gordon-rejects-ai",
+   "firstSeen": "2026-10-14T13:48:26+08:00"
+  },
+  {
+   "id": "e3b2921f72",
+   "title": "美司法部：朝鲜人员已渗透数十家美国公司",
+   "summary": "TechCrunch 报道 DOJ 称朝鲜远程 IT 工人已渗入数十家美企；与德州 laptop farm 打击同属一条供应链安全线，但范围更大。",
+   "links": [
+    "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/"
+   ],
+   "topic": "doj-nk-infiltrate-us-cos",
+   "firstSeen": "2026-10-14T13:48:26+08:00"
+  },
+  {
+   "id": "3c9f707362",
+   "title": "华为麒麟芯片出货破 1 亿颗",
+   "summary": "在美制裁下华为称麒麟累计出货超 1 亿，国产先进制程与自研 SoC 叙事再被点燃。",
+   "links": [
+    "https://www.scmp.com/tech/big-tech/article/3370766/huawei-once-hobbled-us-sanctions-passes-100-million-kirin-chip-milestone"
+   ],
+   "topic": "huawei-100m-kirin",
+   "firstSeen": "2026-10-14T13:48:26+08:00"
+  },
+  {
+   "id": "70093601d1",
+   "title": "法官责令 OpenAI 交出招聘记录：苹果商业秘密案",
+   "summary": "苹果诉 OpenAI 挖角/商业秘密案中，法院要求 OpenAI 交出相关招聘记录，AI 实验室人才战进入取证阶段。",
+   "links": [
+    "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
+   ],
+   "topic": "openai-apple-hiring-records",
+   "firstSeen": "2026-10-14T13:48:26+08:00"
+  },
+  {
+   "id": "818d3f8548",
+   "title": "Show HN：罗马城建浏览器游戏 Tiberava",
+   "summary": "网页版罗马主题城建，零依赖打开即玩，Indie/Show HN 线路继续热。",
+   "links": [
+    "https://tiberava.pages.dev/"
+   ],
+   "topic": "rome-city-builder",
+   "firstSeen": "2026-10-14T13:48:26+08:00"
+  },
+  {
+   "id": "ec8e8088de",
+   "title": "Jim Cramer：新云里只信 CoreWeave",
+   "summary": "Mad Money 上 Cramer 称 neocloud 里只想持有 CoreWeave；同期 IREN 等矿机转 AI 云仍被市场热议。",
+   "links": [
+    "https://x.com/i/trending/2110223247832973519"
+   ],
+   "topic": "cramer-coreweave-neocloud",
+   "firstSeen": "2026-10-14T13:48:26+08:00"
+  },
+  {
+   "id": "024c675766",
+   "title": "特斯拉称 2026 Q3 占美国 EV 销量逾一半",
+   "summary": "无联邦购车补贴下特斯拉仍估占美 EV 约 54%，Model Y 一家就约 37%；FSD「魔法感」讨论同步升温。",
+   "links": [
+    "https://x.com/i/trending/2110021429190414464"
+   ],
+   "topic": "tesla-half-us-ev-q3",
+   "firstSeen": "2026-10-14T13:48:26+08:00"
+  },
+  {
+   "id": "e2275b7eb7",
+   "title": "三维强非周期单砖：一篇 arXiv",
+   "summary": "三维空间里的强非周期单瓷砖结果上 HN 首页，延续「einstein」瓷砖热后的几何/组合热点。",
+   "links": [
+    "https://arxiv.org/abs/2609.19214"
+   ],
+   "topic": "3d-aperiodic-monotile",
+   "firstSeen": "2026-10-14T13:48:26+08:00"
   }
  ],
- "lastChecked": "2026-10-14T13:29:25+08:00"
+ "lastChecked": "2026-10-14T13:48:26+08:00"
 }
