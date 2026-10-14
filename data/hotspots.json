@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T01:13:24+08:00",
+ "lastUpdated": "2026-10-15T01:14:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5312,7 +5312,179 @@
    ],
    "topic": "paper-instruments-ultramarine-1-flash",
    "firstSeen": "2026-10-15T01:13:24+08:00"
+  },
+  {
+   "id": "3d3aec9677",
+   "title": "「皇帝鹈鹕没穿衣服」：LLM 多样性崩塌 + Design Creativity Bench",
+   "summary": "Aman Rusia 用「鹈鹕骑车」SVG 展示各家模型输出高度雷同；Kombai 的 Design Creativity Bench 测 UI 创意，最佳 GPT-6 Astra 约 65.5，人类参考约 92.3。",
+   "links": [
+    "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+    "https://kombai.com/benchmark/",
+    "https://arxiv.org/abs/2610.11539"
+   ],
+   "topic": "emperor-pelican-design-creativity-bench",
+   "firstSeen": "2026-10-15T01:14:13+08:00"
+  },
+  {
+   "id": "954236d987",
+   "title": "Has AI Tells：用静态规则标出「像 AI 写的」技术文",
+   "summary": "The Consensus 的 Phil Eaton 做了非 ML 的 AI 文风检测器，对比 2023 前后写法漂移；高分文章不能进日报/周刊推荐，意在推真正用心的技术写作。",
+   "links": [
+    "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html"
+   ],
+   "topic": "has-ai-tells-consensus",
+   "firstSeen": "2026-10-15T01:14:13+08:00"
+  },
+  {
+   "id": "793cd0506a",
+   "title": "xAI 发布 Grok Voice 3.0：语音对话新标杆",
+   "summary": "Speech-to-Speech Index 86.9 登顶，全双工约 97%，客服场景延迟低于一秒；Tesla/Starlink 日调用量级，API 仍 $0.08/分钟。",
+   "links": [
+    "https://x.ai/news/grok-voice-3"
+   ],
+   "topic": "grok-voice-3",
+   "firstSeen": "2026-10-15T01:14:13+08:00"
+  },
+  {
+   "id": "a251f5ad44",
+   "title": "Linus 首个 LLM 辅助补丁系列上审：folio 热路径提速约十倍",
+   "summary": "LWN：Torvalds 在 Maintainer Summit 后把十个 folio 查找补丁送审，热 folio 延后释放并用 RCU 读数据，read() 重负载约快一个数量级；评审已发现竞态。",
+   "links": [
+    "https://lwn.net/Articles/1100449/"
+   ],
+   "topic": "linus-llm-folio-patch-series",
+   "firstSeen": "2026-10-15T01:14:13+08:00"
+  },
+  {
+   "id": "3c8a8e39ac",
+   "title": "Show HN：BookPress——用 C/C++ 重写更快的 WordPress 引擎",
+   "summary": "原生引擎兼容主题/插件与 wp-admin，演示含 WooCommerce+Elementor；无缓存对比下页面约快 1.6×，可一键迁入迁出，面向自托管站点。",
+   "links": [
+    "https://bookpress.io/"
+   ],
+   "topic": "bookpress-native-wordpress",
+   "firstSeen": "2026-10-15T01:14:13+08:00"
+  },
+  {
+   "id": "6720792502",
+   "title": "QA Wolf：一次性 Windows VM 做桌面端自动化测试",
+   "summary": "把 Windows 当「手机」调度：Linux runner 远程控机，暖池秒领已登录桌面，测完销毁；Playwright CDP + Appium 同 API，解决桌面 E2E 难并行的痛点。",
+   "links": [
+    "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation"
+   ],
+   "topic": "qawolf-disposable-windows-vm",
+   "firstSeen": "2026-10-15T01:14:13+08:00"
+  },
+  {
+   "id": "cb636d7078",
+   "title": "海底光缆韧性：修复船老龄化与巨头控股风险",
+   "summary": "Geoff Huston（APNIC）梳理故障主因、海峡瓶颈与许可拖延；到 2040 约 2/3 维修船退役，而 Google 等在 Indo-Pacific 电缆份额或过半，主权与公共维修能力成题。",
+   "links": [
+    "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/"
+   ],
+   "topic": "submarine-cable-resilience-apnic",
+   "firstSeen": "2026-10-15T01:14:13+08:00"
+  },
+  {
+   "id": "c2126c74e0",
+   "title": "Cutoff Bench：主流大模型训练数据到底有多旧",
+   "summary": "新基准用「知识截止日期」测各家 LLM 训练语料新鲜度，方便对比模型对近期事实的覆盖缺口。",
+   "links": [
+    "https://franciscocarloserra.github.io/cutoff-bench/"
+   ],
+   "topic": "cutoff-bench-llm-freshness",
+   "firstSeen": "2026-10-15T01:14:13+08:00"
+  },
+  {
+   "id": "b56b04287f",
+   "title": "Show HN：Mixdog 让 Claude/ChatGPT 订阅 token 少烧约 63%",
+   "summary": "开源工具 Mixdog 声称通过压缩与路由，把订阅额度里的 token 消耗压低约六成，延长编码助手可用时间。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://github.com/tribgames/mixdog"
+   ],
+   "topic": "mixdog-token-stretch",
+   "firstSeen": "2026-10-15T01:14:13+08:00"
+  },
+  {
+   "id": "3e96b7ba5d",
+   "title": "Show HN：AxiomCode Graph 用形式化方法减少编码 Agent 返工",
+   "summary": "把规格与依赖写成图结构，约束编码 Agent 的改动范围，目标是少踩「改完又改」的循环。",
+   "links": [
+    "https://github.com/AxiomCodeAI/axiomcodegraph"
+   ],
+   "topic": "axiomcode-graph-formal",
+   "firstSeen": "2026-10-15T01:14:13+08:00"
+  },
+  {
+   "id": "c39031477f",
+   "title": "Show HN：Graphicle——带记忆的 Graphify Rust 移植，给编码 Agent 用",
+   "summary": "Graphicle 把知识图谱思路做成 Rust 实现，强调给编码 Agent 持久记忆与结构上下文，减少重复摸索。",
+   "links": [
+    "https://github.com/graphicle-ai/graphicle"
+   ],
+   "topic": "graphicle-agent-memory",
+   "firstSeen": "2026-10-15T01:14:13+08:00"
+  },
+  {
+   "id": "0b20af58d9",
+   "title": "物理学家：简单数学或可预警 AI「失控」临界点",
+   "summary": "Live Science 报道研究称可用相对简单的数学指标，在模型行为失稳前给出预警信号（仍偏早期理论）。",
+   "links": [
+    "https://www.livescience.com/technology/artificial-intelligence/simple-math-can-predict-when-ai-is-about-to-go-rogue-physicists-say"
+   ],
+   "topic": "physics-math-ai-rogue-warning",
+   "firstSeen": "2026-10-15T01:14:13+08:00"
+  },
+  {
+   "id": "e2c38ff451",
+   "title": "Show HN：Clova——每邮箱只接受一个发件人",
+   "summary": "无限前缀收件箱：首个发件域锁定、临时邮箱、自造后缀；支持自有域名与 MCP，面向防垃圾与服务注册隔离。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://clova.email/"
+   ],
+   "topic": "clova-one-sender-inbox",
+   "firstSeen": "2026-10-15T01:14:13+08:00"
+  },
+  {
+   "id": "8c53b622ad",
+   "title": "几乎所有人都误解了 Chrome 扩展 Manifest V3",
+   "summary": "Jeff Johnson 澄清 MV3 限制的真实边界与常见误读，方便扩展作者对照文档排雷。",
+   "links": [
+    "https://lapcatsoftware.com/articles/2026/10/4.html"
+   ],
+   "topic": "chrome-mv3-misunderstood",
+   "firstSeen": "2026-10-15T01:14:13+08:00"
+  },
+  {
+   "id": "1c6a5d9b84",
+   "title": "Show HN：Instancez——一个容器 + YAML 的 Supabase 兼容后端",
+   "summary": "开源项目 Instancez 用单容器和 YAML 配置提供与 Supabase API 兼容的后端，方便本地/自托管快速搭。",
+   "links": [
+    "https://github.com/instancez/instancez"
+   ],
+   "topic": "instancez-supabase-compatible",
+   "firstSeen": "2026-10-15T01:14:13+08:00"
+  },
+  {
+   "id": "577e86a0fa",
+   "title": "硬件绑定 SSH 密钥：把私钥锁进安全芯片",
+   "summary": "文章主张用硬件绑定密钥降低私钥被复制风险，适合个人与团队加固 SSH 工作流。",
+   "links": [
+    "https://muthanna.com/blog/posts/use-hardware-bound-ssh-keys.html"
+   ],
+   "topic": "hardware-bound-ssh-keys",
+   "firstSeen": "2026-10-15T01:14:13+08:00"
+  },
+  {
+   "id": "995c035f88",
+   "title": "Show HN：Aside——通话时提示下一句该说什么的 Mac 应用",
+   "summary": "Aside 在通话场景实时建议下一句话术，面向销售/客服/面试等需要临场表达的场景。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://asidehq.app/"
+   ],
+   "topic": "aside-mac-call-coach",
+   "firstSeen": "2026-10-15T01:14:13+08:00"
   }
  ],
- "lastChecked": "2026-10-15T01:13:24+08:00"
+ "lastChecked": "2026-10-15T01:14:13+08:00"
 }
