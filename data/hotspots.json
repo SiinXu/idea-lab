@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T15:00:40+08:00",
+ "lastUpdated": "2026-10-14T15:12:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3619,7 +3619,67 @@
    ],
    "topic": "anssi-mla",
    "firstSeen": "2026-10-14T15:00:40+08:00"
+  },
+  {
+   "id": "1cc80f0160",
+   "title": "GitHub 默认拦截 Anthropic 用户/服务 API Key",
+   "summary": "Changelog：secret scanning 新增 anthropic_user_api_key 与 anthropic_service_api_key，并默认纳入 push protection；同时加入 Salesforce Marketing Cloud OAuth2 与 Cloudsmith API Key。Agent 时代泄露密钥更常见，推送即拦更关键。",
+   "links": [
+    "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce"
+   ],
+   "topic": "github-anthropic-push-protect",
+   "firstSeen": "2026-10-14T15:12:58+08:00"
+  },
+  {
+   "id": "2ad84ab401",
+   "title": "微软单月补了 1400+ 漏洞，称 LLM 在帮挖洞",
+   "summary": "Krebs：本月修复逾 1400 个漏洞（含约 78 个 critical、1 个已在野利用的 Windows Shell 绕过），远超以往；微软将高发现量部分归功于大模型。安全团队面临测补丁的压力，Idea Lab 可想「AI 挖洞 vs 企业补丁产能」工具。",
+   "links": [
+    "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/"
+   ],
+   "topic": "msft-patch-1400-ai",
+   "firstSeen": "2026-10-14T15:12:58+08:00"
+  },
+  {
+   "id": "1c1b420ff5",
+   "title": "TrellisWM：Mac 上的「分形」窗口管理器",
+   "summary": "TrellisWM 把窗口嵌套成可缩放的分形布局，主打 Mac 桌面效率；今日现身 HN，适合做独立开发与窗口工作流类点子。",
+   "links": [
+    "https://trelliswm.app/"
+   ],
+   "topic": "trelliswm",
+   "firstSeen": "2026-10-14T15:12:58+08:00"
+  },
+  {
+   "id": "b40da0482c",
+   "title": "Creusot 0.14：Rust 形式化验证支持偏序与 rust-analyzer",
+   "summary": "Creusot 0.14 放宽 PartialOrd 到偏序、为 snapshot 生成逻辑 VC，并修好 Pearlite 规格里的 Go-to-definition。正赶上「AI 写码 + 形式化验证」讨论热度。",
+   "links": [
+    "https://devlog.creusot.rs/v0-14-0/"
+   ],
+   "topic": "creusot-014",
+   "firstSeen": "2026-10-14T15:12:58+08:00"
+  },
+  {
+   "id": "d540e3bed8",
+   "title": "curl 8.23.0：更快更瘦，easy handle 内存砍约 28%",
+   "summary": "Daniel Stenberg：靠新性能基准，8.23.0（10/14 发）加速 base64/URL/日期/printf 等路径，easy/multi/connect 结构体显著缩水；单文件 HTTP 下载峰值分配再降。与同日安全补丁并列，基础设施工具仍在抠每一字节。",
+   "links": [
+    "https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/"
+   ],
+   "topic": "curl-8-23-perf",
+   "firstSeen": "2026-10-14T15:12:58+08:00"
+  },
+  {
+   "id": "18a6e44502",
+   "title": "开发者热议：AI 写码 + Lean 等形式化验证能否 10x",
+   "summary": "X 上围绕「模型出码、证明器即时验正确性」争论：原型可加速，但规格、品味与审查时间未必缩短。和 Creusot/LeanLLM 同一条产品线，适合做成 Idea Lab 点子。",
+   "links": [
+    "https://x.com/i/trending/2110259475596943833"
+   ],
+   "topic": "ai-formal-verify-10x",
+   "firstSeen": "2026-10-14T15:12:58+08:00"
   }
  ],
- "lastChecked": "2026-10-14T15:00:40+08:00"
+ "lastChecked": "2026-10-14T15:12:58+08:00"
 }
