@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T00:57:39+08:00",
+ "lastUpdated": "2026-10-15T01:13:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5301,7 +5301,18 @@
    ],
    "topic": "openai-exstaff-apple-device-files",
    "firstSeen": "2026-10-15T00:57:39+08:00"
+  },
+  {
+   "id": "27f79eeea5",
+   "title": "Paper Instruments 发布 Ultramarine 1 Flash：小团队开源专业模型",
+   "summary": "YC 五人团队两周后训练出面向金融/法律/咨询的开源模型，自称基准约 59.3、单任务成本约 $0.13，对比 Claude Fable 5 约 $8.19；API 已上线，权重约两周后开放。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://x.com/i/trending/2110415226164425041",
+    "https://docs.paperinstruments.com/docs"
+   ],
+   "topic": "paper-instruments-ultramarine-1-flash",
+   "firstSeen": "2026-10-15T01:13:24+08:00"
   }
  ],
- "lastChecked": "2026-10-15T00:57:39+08:00"
+ "lastChecked": "2026-10-15T01:13:24+08:00"
 }
