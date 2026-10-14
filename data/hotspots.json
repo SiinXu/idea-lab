@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T03:56:15+08:00",
+ "lastUpdated": "2026-10-15T04:09:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6026,7 +6026,19 @@
    ],
    "topic": "china-ai-labs-quiet-2026-10",
    "firstSeen": "2026-10-15T03:56:15+08:00"
+  },
+  {
+   "id": "2f3282e483",
+   "title": "OpenAI 报告：欧盟中小企业 Agent 用户半年涨 8.1 倍",
+   "summary": "OpenAI 经济研究部发布《欧盟 AI 的下一章是 Agent》：样本内欧盟 ChatGPT Enterprise 客户中，Codex 与 ChatGPT Work 已贡献超过一半的输出 token（5 月约 21%）；200 人以下的中小企业里，这两款 Agent 产品的周活从 5 月初到 10 月初涨到 8.1 倍，27 个成员国均超 5 倍，比利时最高约 12 倍、芬兰最低约 5 倍。报告只给相对增幅，未公布基数，也未衡量任务完成度或生产力。",
+   "links": [
+    "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "https://cdn.openai.com/pdf/europes-agentic-opportunity.pdf",
+    "https://x.com/i/trending/2110459847149838491"
+   ],
+   "topic": "openai-eu-smb-agentic-8x-2026-10",
+   "firstSeen": "2026-10-15T04:09:09+08:00"
   }
  ],
- "lastChecked": "2026-10-15T03:56:15+08:00"
+ "lastChecked": "2026-10-15T04:09:09+08:00"
 }
