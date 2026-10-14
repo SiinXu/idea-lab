@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T21:26:22+08:00",
+ "lastUpdated": "2026-10-14T21:41:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4615,7 +4615,87 @@
    ],
    "topic": "switzerland-platform-youth-protection",
    "firstSeen": "2026-10-14T21:26:22+08:00"
+  },
+  {
+   "id": "5e7d94ad5b",
+   "title": "Pulsar：新一代 Smalltalk IDE 亮相 ESUG 2026",
+   "summary": "Pulsar 在 ESUG 2026 展示，定位新一代 Smalltalk 集成开发环境，面向仍在维护与教学 Smalltalk 的团队。",
+   "links": [
+    "https://blog.lorenzano.eu/pulsar-at-esug-2026/"
+   ],
+   "topic": "pulsar-smalltalk-ide",
+   "firstSeen": "2026-10-14T21:41:22+08:00"
+  },
+  {
+   "id": "64cb2e9b4c",
+   "title": "Lovable 支持一键部署到 AWS",
+   "summary": "AI 建站产品 Lovable 新增 Deploy on AWS，把生成应用直接推到亚马逊云，降低从原型到上线的摩擦。",
+   "links": [
+    "https://lovable.dev/blog/deploy-on-aws"
+   ],
+   "topic": "lovable-aws-deploy",
+   "firstSeen": "2026-10-14T21:41:22+08:00"
+  },
+  {
+   "id": "2282b1a6d3",
+   "title": "Nothing threw：线上业务 84 次 agent 失败，自动抓住 10 次",
+   "summary": "开源案例复盘真实业务里 AI agent 的失败模式，84 次故障里约 10 次被自动检出，适合做成 agent 可观测性产品灵感。",
+   "links": [
+    "https://github.com/taylorancapital/nothing-threw/blob/main/TEN_OF_EIGHTY_FOUR.md"
+   ],
+   "topic": "nothing-threw-agent-failures",
+   "firstSeen": "2026-10-14T21:41:22+08:00"
+  },
+  {
+   "id": "8f138b24d9",
+   "title": "「只会用 Claude」不再产生 alpha",
+   "summary": "有创业者撰文称：单纯订阅 Claude 已难形成竞争优势，差异化要靠工作流、数据与分发，而不是模型本身。",
+   "links": [
+    "https://krmannix.com/2026/10/13/just-using-claude-no-longer-generates-alpha/"
+   ],
+   "topic": "claude-no-longer-alpha",
+   "firstSeen": "2026-10-14T21:41:22+08:00"
+  },
+  {
+   "id": "a2404a5ddf",
+   "title": "Gemini 4 Argon 一夜优化 20 万行 Python 代码库",
+   "summary": "Google 官方案例：用 Gemini 4 Argon 对约 20 万行 Python 代码库做通宵级优化，展示大上下文编码落地能力。",
+   "links": [
+    "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/"
+   ],
+   "topic": "gemini4-argon-200k-python",
+   "firstSeen": "2026-10-14T21:41:22+08:00"
+  },
+  {
+   "id": "97cb65e10b",
+   "title": "Bad UVM：经 NVIDIA UVM 劫持只读页缓存",
+   "summary": "安全研究披露可借 NVIDIA Unified Virtual Memory 路径篡改只读页缓存，影响本机隔离与共享内存信任边界。",
+   "links": [
+    "https://medium.com/@guoziyi114/bad-uvm-hijack-readonly-page-cache-via-nvidia-uvm-7accc7e3181e"
+   ],
+   "topic": "nvidia-bad-uvm-page-cache",
+   "firstSeen": "2026-10-14T21:41:22+08:00"
+  },
+  {
+   "id": "24dcca8ceb",
+   "title": "Arcjet：用 Cloudflare Clef 做 AI agent 行为漂移分析",
+   "summary": "Arcjet 公开如何基于 Cloudflare Clef 监测 agent 行为是否偏离预期，把决策日志变成可观测的安全信号。",
+   "links": [
+    "https://arcjet.com/blog/how-we-built-ai-agent-behavior-drift-analysis-with-cloudflare-clef"
+   ],
+   "topic": "arcjet-clef-agent-drift",
+   "firstSeen": "2026-10-14T21:41:22+08:00"
+  },
+  {
+   "id": "a3989e13c0",
+   "title": "Formlabs 发布 Form Studio 1",
+   "summary": "Formlabs 推出 Form Studio 1 3D 打印机新品，面向工作室与小批量制造场景。",
+   "links": [
+    "https://formlabs.com/3d-printers/form-studio-1/"
+   ],
+   "topic": "formlabs-form-studio-1",
+   "firstSeen": "2026-10-14T21:41:22+08:00"
   }
  ],
- "lastChecked": "2026-10-14T21:26:22+08:00"
+ "lastChecked": "2026-10-14T21:41:22+08:00"
 }
