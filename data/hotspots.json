@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T23:03:53+08:00",
+ "lastUpdated": "2026-10-14T23:12:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4910,7 +4910,30 @@
    ],
    "topic": "tencent-multics",
    "firstSeen": "2026-10-14T23:03:53+08:00"
+  },
+  {
+   "id": "a5355755a5",
+   "title": "Modal 融资 7.5 亿美元 Series D：年经常性收入破 10 亿",
+   "summary": "AI 基础设施公司 Modal 由 Accel 领投完成 7.5 亿美元 D 轮，投后估值约 157.5 亿美元，累计融资约 12 亿美元，并宣称 ARR 突破 10 亿美元。推理/训练云赛道资本密度再抬一档。",
+   "links": [
+    "https://www.techmeme.com/261014/p25",
+    "https://thetechstreetnow.com/ai-infrastructure-startup-modal-raised-a-750m-series-d-led-by-accel-at-a-15-75b-post-money-valuation-taking-its-total-funding-to-1-2b-and-passes-1b-arr/"
+   ],
+   "topic": "modal-750m-series-d-1b-arr",
+   "firstSeen": "2026-10-14T23:12:35+08:00"
+  },
+  {
+   "id": "b133d376ef",
+   "title": "麦肯锡面试试点 AI 客户分身：候选人要先跟屏幕辩论",
+   "summary": "据 WSJ，麦肯锡在部分北美入职面试中试点 AI 化身扮演客户，约 10–20 分钟模拟对话，考察倾听、临场应变与引导能力；目前多为非计分校准，却已成咨询招聘 AI 化信号。",
+   "links": [
+    "https://bbn.live/pop-culture/mckinsey-interviews-now-include-a-debate-with-an-ai-client-smv7y3hlig65",
+    "https://www.casebasix.com/pages/mckinsey-client-conversation-interview",
+    "https://x.com/i/trending/2110372467218788433"
+   ],
+   "topic": "mckinsey-ai-client-interview",
+   "firstSeen": "2026-10-14T23:12:35+08:00"
   }
  ],
- "lastChecked": "2026-10-14T23:03:53+08:00"
+ "lastChecked": "2026-10-14T23:12:35+08:00"
 }
