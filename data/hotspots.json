@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T11:58:55+08:00",
+ "lastUpdated": "2026-10-14T12:12:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2934,7 +2934,47 @@
    ],
    "topic": "spotify-siri-ios27",
    "firstSeen": "2026-10-14T11:58:55+08:00"
+  },
+  {
+   "id": "bc31b6439a",
+   "title": "YC 校友周末用 AI 做出「Tenderloin 打僵尸」游戏，引爆众怒",
+   "summary": "Pierre-Louis Biojout 用旧金山 Tenderloin 真实街景做免费浏览器射击游戏，并称「旧金山修不好 Tenderloin，我把它变现了」；被批把成瘾与流浪者去人性化，引发科技圈同理心讨论。",
+   "links": [
+    "https://x.com/i/trending/2110177810275061908"
+   ],
+   "topic": "tenderloin-zombie-game-backlash",
+   "firstSeen": "2026-10-14T12:12:31+08:00"
+  },
+  {
+   "id": "8dfdbbd7aa",
+   "title": "Topgolf 逃离 VMware：迁 1.2 万台虚机，已省 1130 万美元",
+   "summary": "Broadcom 收购后 VMware 费用将涨 400%，Topgolf 把约 12,000 台 VM 迁到 VergeIO 的 VergeOS，至今节省超 1130 万美元；又一个「去 VMware」的大客户样本。",
+   "links": [
+    "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/"
+   ],
+   "topic": "topgolf-leaves-vmware",
+   "firstSeen": "2026-10-14T12:12:31+08:00"
+  },
+  {
+   "id": "731f4d4681",
+   "title": "《框架还重要吗？》：Vibe coding 时代 React 是否已成终局",
+   "summary": "Remix 团队成员 Brooks Lybrand 撰文追问：Agent 写代码、没人在乎 .tsx 细节时，选什么 Web 框架还重要吗？还值得做新框架吗？在 HN 引发讨论。",
+   "links": [
+    "https://brookslybrand.com/posts/do-frameworks-matter-anymore/"
+   ],
+   "topic": "do-frameworks-matter-ai-era",
+   "firstSeen": "2026-10-14T12:12:31+08:00"
+  },
+  {
+   "id": "9094068f2a",
+   "title": "德国科隆警方扣押一台机器人：两名少年被指遥控其猥亵少女",
+   "summary": "科隆警方调查两名青少年，指其操控一台红金色机器人对 16 岁女孩实施猥亵并已没收机器人；遥控/消费级机器人的责任与监管问题再被拉上台面。",
+   "links": [
+    "https://www.bbc.com/news/articles/ck9dzj40nzj5o"
+   ],
+   "topic": "cologne-robot-groping-seized",
+   "firstSeen": "2026-10-14T12:12:31+08:00"
   }
  ],
- "lastChecked": "2026-10-14T11:58:55+08:00"
+ "lastChecked": "2026-10-14T12:12:31+08:00"
 }
