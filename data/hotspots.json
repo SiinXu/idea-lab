@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T09:46:30+08:00",
+ "lastUpdated": "2026-10-14T09:56:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2422,7 +2422,60 @@
    ],
    "topic": "mira-meta-reasoning-agents",
    "firstSeen": "2026-10-14T09:46:30+08:00"
+  },
+  {
+   "id": "7db63d362d",
+   "title": "OpenCode 2.0：终端/桌面/网页共用本地服务，Code Mode 可脚本化调 MCP",
+   "summary": "开源编码 Agent 大改版：后台单进程打通各端，新增可嵌入 SDK、后台子 Agent/Shell，并把 MCP/OpenAPI 转成 JS 函数让模型一次脚本串工具。The New Stack 称其为重大架构升级。",
+   "links": [
+    "https://anoma.ly/notes/opencode-2-0/",
+    "https://thenewstack.io/opencode-2-shared-service/",
+    "https://www.augmentedswe.com/p/whats-new-in-opencode-2"
+   ],
+   "topic": "opencode-2-0",
+   "firstSeen": "2026-10-14T09:56:36+08:00"
+  },
+  {
+   "id": "440b4f59b1",
+   "title": "Toby Ord：AI 加 token 是否等价于人加时间？γ 从万倍追到约 20 倍",
+   "summary": "牛津学者用 AISI 时间地平线数据估算：模型用更多推理 token 换能力，以往远弱于人类加时间，近一年 γ 明显上升。关系到「推理缩放」直觉与递归自我改进是否更容易爆炸。",
+   "links": [
+    "https://www.tobyord.com/writing/ai-scaling-vs-human-scaling"
+   ],
+   "topic": "toby-ord-ai-vs-human-scaling",
+   "firstSeen": "2026-10-14T09:56:36+08:00"
+  },
+  {
+   "id": "9444ad58cb",
+   "title": "Recreational Programming：把写代码当休闲运动",
+   "summary": "HN 热帖讨论「消遣式编程」：不为交付、不为 KPI，像跑步一样练手感与乐趣。对独立开发者与内容创作者有共鸣，适合做成社群/课程类卖点。",
+   "links": [
+    "https://www.cphiri.dev/presentations/recreational-programming"
+   ],
+   "topic": "recreational-programming",
+   "firstSeen": "2026-10-14T09:56:36+08:00"
+  },
+  {
+   "id": "ac1c4b9416",
+   "title": "曝 Nvidia 停供 RTX 5090 用 GB202，硅片改给工作站/AI 卡",
+   "summary": "多家媒体援引供应链称 GeForce RTX 5090 难再获新 GB202 配额，优先供应更高利润的 RTX PRO 与数据中心。现货或更紧、价格承压；Nvidia 尚未官方确认。",
+   "links": [
+    "https://www.techpowerup.com/353578/nvidia-reportedly-ending-the-rtx-5090-reserves-gb202-silicon-for-workstation-gpus",
+    "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship"
+   ],
+   "topic": "nvidia-rtx-5090-gb202-workstation",
+   "firstSeen": "2026-10-14T09:56:36+08:00"
+  },
+  {
+   "id": "5b492ee2eb",
+   "title": "浏览器里跑原版 iPhone OS 1.0 模拟器",
+   "summary": "2007.mobile 用 WebAssembly 复刻初代 iPhone 系统，可在现代浏览器里体验 2007 年界面与交互，怀旧向技术演示引发 HN 关注。",
+   "links": [
+    "https://2007.mobile/"
+   ],
+   "topic": "iphone-os-1-browser-emulator",
+   "firstSeen": "2026-10-14T09:56:36+08:00"
   }
  ],
- "lastChecked": "2026-10-14T09:46:30+08:00"
+ "lastChecked": "2026-10-14T09:56:36+08:00"
 }
