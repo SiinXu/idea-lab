@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T11:27:54+08:00",
+ "lastUpdated": "2026-10-14T11:42:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2840,7 +2840,30 @@
    ],
    "topic": "launch-videos-gallery",
    "firstSeen": "2026-10-14T11:27:54+08:00"
+  },
+  {
+   "id": "825b9f3156",
+   "title": "OpenAI「循环 Transformer」：下一代旗舰安全监控告急",
+   "summary": "The Information 称 OpenAI 在发下一代旗舰前紧急处理 loop transformers（同层反复推理）带来的可监控性下降；微软 Foundry 曾写明 GPT-6.1 Sol「两次推理而非三次」。官方 Deployment Safety Hub 显示 unwanted persistence 达 23.5%（Astra 为 17.4%），对齐与监督成焦点。",
+   "links": [
+    "https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model",
+    "https://deploymentsafety.openai.com/gpt-6-1-sol/introduction",
+    "https://aiweekly.co/alerts/the-information-openai-loop-transformers-in-gpt-61-sol-raise-fresh-safety"
+   ],
+   "topic": "openai-loop-transformers",
+   "firstSeen": "2026-10-14T11:42:12+08:00"
+  },
+  {
+   "id": "54eb46106d",
+   "title": "Aptos 加密内存池上主网：交易载荷进块前对 MEV 隐藏",
+   "summary": "Aptos AIP-144 加密 mempool 已上主网：可选把 Move 函数与参数在提交端加密，验证者仅在出块终局后解密，用于抑制抢跑/夹心；发送方与 gas 仍可见。Petra 钱包与 TS SDK v7+ 已支持，无需改合约。",
+   "links": [
+    "https://aptosnetwork.com/currents/encrypted-mempool-mainnet",
+    "https://aptos.dev/build/guides/encrypted-pending-transactions"
+   ],
+   "topic": "aptos-encrypted-mempool",
+   "firstSeen": "2026-10-14T11:42:12+08:00"
   }
  ],
- "lastChecked": "2026-10-14T11:27:54+08:00"
+ "lastChecked": "2026-10-14T11:42:12+08:00"
 }
