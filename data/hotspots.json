@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T04:46:07+08:00",
+ "lastUpdated": "2026-10-15T05:03:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6070,7 +6070,17 @@
    ],
    "topic": "cloudflare-yandex-outage-bots-2026-10",
    "firstSeen": "2026-10-15T04:46:07+08:00"
+  },
+  {
+   "id": "d91ead6950",
+   "title": "Meta Mononoke 作者：Anthropic Scion「派生数据」设计几乎照搬，却没署名",
+   "summary": "曾参与 Meta Mononoke/Sapling 源码控制服务器的工程师 Rain（sunshowers）撰文指出：Anthropic 前一天介绍的自研版本控制 Scion，用「派生数据」加速 blame 等操作的思路，与她 2022 年描述的 Mononoke 设计高度一致；Anthropic 只笼统感谢 Sapling 的「经验教训」，完全没提 Mononoke，「接近剽窃」。她表示不反对借鉴开源设计，但 LLM 辅助设计系统时会大量复用训练集中的既有方案，问 Opus 5.5 或 GPT-6 都能立刻指出相似之处，所以注明前人工作更容易也更重要。该文正在 HN 首页升温。",
+   "links": [
+    "https://sunshowers.io/posts/anthropic-mononoke/"
+   ],
+   "topic": "anthropic-scion-mononoke-credit-2026-10",
+   "firstSeen": "2026-10-15T05:03:01+08:00"
   }
  ],
- "lastChecked": "2026-10-15T04:46:07+08:00"
+ "lastChecked": "2026-10-15T05:03:01+08:00"
 }
