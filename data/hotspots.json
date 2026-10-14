@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T01:47:24+08:00",
+ "lastUpdated": "2026-10-15T01:48:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5686,7 +5686,17 @@
    ],
    "topic": "us-dating-app-scam-report",
    "firstSeen": "2026-10-15T01:47:24+08:00"
+  },
+  {
+   "id": "fb339d968c",
+   "title": "LittleJS 现支持 2D+3D：专为 AI 写游戏优化的小引擎",
+   "summary": "依赖极少的 HTML5 引擎加上完整 3D 渲染、关卡编辑器和粒子库，并提供 Claude Code 插件与 AI toolkit；同一套 API 可混搭 2D/3D，适合 vibe coding 出可玩 demo。",
+   "links": [
+    "https://frankforce.com/littlejs-is-2d-and-3d-now/"
+   ],
+   "topic": "littlejs-2d-3d-ai",
+   "firstSeen": "2026-10-15T01:48:24+08:00"
   }
  ],
- "lastChecked": "2026-10-15T01:47:24+08:00"
+ "lastChecked": "2026-10-15T01:48:24+08:00"
 }
