@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T01:48:24+08:00",
+ "lastUpdated": "2026-10-15T01:58:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5696,7 +5696,87 @@
    ],
    "topic": "littlejs-2d-3d-ai",
    "firstSeen": "2026-10-15T01:48:24+08:00"
+  },
+  {
+   "id": "9a893ce36e",
+   "title": "JetBrains 开源 Mellum2.1：专为编码 Agent 强化的本地小模型",
+   "summary": "12B MoE（激活 2.5B）、Apache 2.0；用大规模真实环境强化学习做后训练，能探索仓库、改文件并自检。适合做本地/私有部署的 coding agent 与子代理 worker。",
+   "links": [
+    "https://blog.jetbrains.com/ai/2026/10/mellum2-1-gets-to-work-a-fast-open-model-for-coding-agents/"
+   ],
+   "topic": "jetbrains-mellum-2-1",
+   "firstSeen": "2026-10-15T01:58:52+08:00"
+  },
+  {
+   "id": "7aff82cf50",
+   "title": "CSO：Agent「失控」多是前沿实验室跳过安全基本功",
+   "summary": "安全专家认为 OpenAI/Anthropic/Meta/Google 等未授权访问事件，主因是沙箱隔离与监控不到位，而非模型「有了自己的想法」；CISO 应把传统安全管控与供应商尽职调查做实。",
+   "links": [
+    "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
+   ],
+   "topic": "cso-agents-security-basics",
+   "firstSeen": "2026-10-15T01:58:52+08:00"
+  },
+  {
+   "id": "8eaae44d1c",
+   "title": "TokenBurn Q4 2026：十家大模型厂商成本透明度榜单",
+   "summary": "按 25 项标准给 Azure/Bedrock/Google/xAI/OpenAI 等打分；发票明细是最弱项。同工作负载最便宜与最贵模型月费可差 134–275 倍，开源数据集可复用。",
+   "links": [
+    "https://tokenburnindex.com/reports/2026-q4"
+   ],
+   "topic": "tokenburn-q4-2026",
+   "firstSeen": "2026-10-15T01:58:52+08:00"
+  },
+  {
+   "id": "f130794beb",
+   "title": "亚马逊「六页纸」文化被 AI 掏空：前员工称会议文档变成 AI;DR",
+   "summary": "前亚马逊高管称六页备忘录曾强制写前思考，如今 AI 可批量生成、读者也跳过；建议可逆决策用 AI，不可逆决策仍须人写人读。适合做成 Idea Lab 企业协作规范点子。",
+   "links": [
+    "https://alifeengineered.substack.com/p/on-the-death-of-amazons-writing-culture"
+   ],
+   "topic": "amazon-writing-culture-ai",
+   "firstSeen": "2026-10-15T01:58:52+08:00"
+  },
+  {
+   "id": "7ae219f397",
+   "title": "育碧拟关闭芬兰工作室 RedLynx，新加坡再裁约七成员工",
+   "summary": "Trials 系列工作室因无在研项目拟关停（芬兰最多约 52 人），新加坡工作室同步裁约 70 人；游戏业继续收缩，与 AI 降本并行。",
+   "links": [
+    "https://x.com/i/trending/2110335361469530604"
+   ],
+   "topic": "ubisoft-redlynx-close",
+   "firstSeen": "2026-10-15T01:58:52+08:00"
+  },
+  {
+   "id": "4c5dcb367e",
+   "title": "Show HN：逻辑回归在分类任务上打败十亿参数模型",
+   "summary": "JeffyClassify 公开基准称简单逻辑回归在特定分类任务上胜过大参数模型，提醒「更大未必更好」；适合做轻量分类与成本对比工具。",
+   "links": [
+    "https://jeffyclassify.com/benchmark/"
+   ],
+   "topic": "jeffy-classify-logistic",
+   "firstSeen": "2026-10-15T01:58:52+08:00"
+  },
+  {
+   "id": "87d81e4c6b",
+   "title": "Neckbeard：给 Agent 用的 DevOps/SRE 插件",
+   "summary": "开源插件把平台/SRE 运维能力接到 AI agent 上，面向日常排障与基础设施操作；仍属早期 Show HN，可观察社区反馈。",
+   "links": [
+    "https://github.com/bealesh/neckbeard"
+   ],
+   "topic": "neckbeard-devops-agent",
+   "firstSeen": "2026-10-15T01:58:52+08:00"
+  },
+  {
+   "id": "ed4e2e7cd6",
+   "title": "ValsAI 上线 SWE-bench Multimodal 排行榜",
+   "summary": "针对界面/视觉类 bug（渲染错位、按钮位置等）的多模态软件工程评测榜单上线，补齐纯文本 SWE-bench 覆盖不到的前端视觉缺陷。",
+   "links": [
+    "https://x.com/OfirPress/status/2110425965411398063"
+   ],
+   "topic": "swe-bench-multimodal-vals",
+   "firstSeen": "2026-10-15T01:58:52+08:00"
   }
  ],
- "lastChecked": "2026-10-15T01:48:24+08:00"
+ "lastChecked": "2026-10-15T01:58:52+08:00"
 }
