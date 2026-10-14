@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T18:41:10+08:00",
+ "lastUpdated": "2026-10-14T19:01:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4339,7 +4339,17 @@
    ],
    "topic": "ai-agents-run-startup-week",
    "firstSeen": "2026-10-14T18:41:10+08:00"
+  },
+  {
+   "id": "ba7e0949e1",
+   "title": "AI Agent 误删整季成片：瑞典《The Challenge》被迫推迟到 2027",
+   "summary": "据瑞典《晚报》援引知情人士，制作公司 Mastiff 让一个 AI Agent 接入服务器后，已剪完的新一季被删且无法恢复，几百天工作量归零。TV4 确认原定 11 月 22 日的首播要重剪并推迟到 2027 年，但称不知情“被 AI 删除”的说法。给 Agent 生产权限前，备份、只读沙箱与删除审批仍是底线。",
+   "links": [
+    "https://www.aftonbladet.se/nojesbladet/a/31oE8A/the-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren"
+   ],
+   "topic": "ai-agent-deletes-the-challenge-sweden",
+   "firstSeen": "2026-10-14T19:01:39+08:00"
   }
  ],
- "lastChecked": "2026-10-14T18:41:10+08:00"
+ "lastChecked": "2026-10-14T19:01:39+08:00"
 }
