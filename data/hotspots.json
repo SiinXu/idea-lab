@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T18:32:13+08:00",
+ "lastUpdated": "2026-10-14T18:41:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4329,7 +4329,17 @@
    ],
    "topic": "gartner-ai-capex-revenue-gap-neocloud",
    "firstSeen": "2026-10-14T18:32:13+08:00"
+  },
+  {
+   "id": "7d4e9611b8",
+   "title": "独立开发者让 AI Agent 团队替他运营创业公司一周",
+   "summary": "PromptBase 创始人在 Tiny Projects 博客复盘：用一组常驻 Linux 服务器的 Agent 分工做客服回邮件、写代码修 bug、盯 Cloudflare 与日志安全、运营 TikTok/YouTube 增长，还让项目经理 Bot 凌晨 4 点自主上线一个新功能。好处是琐事自动化、手机远程就能推进；短板是接入配置费时、数据锁定、Agent 很少提出真正的增长大点子，人也容易失去对业务的掌控。",
+   "links": [
+    "https://daily.tinyprojects.dev/221"
+   ],
+   "topic": "ai-agents-run-startup-week",
+   "firstSeen": "2026-10-14T18:41:10+08:00"
   }
  ],
- "lastChecked": "2026-10-14T18:32:13+08:00"
+ "lastChecked": "2026-10-14T18:41:10+08:00"
 }
