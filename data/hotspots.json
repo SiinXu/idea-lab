@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T21:41:22+08:00",
+ "lastUpdated": "2026-10-14T21:59:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4695,7 +4695,17 @@
    ],
    "topic": "formlabs-form-studio-1",
    "firstSeen": "2026-10-14T21:41:22+08:00"
+  },
+  {
+   "id": "8aea40554d",
+   "title": "AI 能不能有「品味」？设计师 Benji Taylor 引爆 X 热议",
+   "summary": "设计师 Benji Taylor 发帖称，大模型在「品味」上没有表现出永久性的天花板，数百名设计师和技术人跟帖争论。反方如 Julian Lehr 认为品味是主观、不断变化的身份游戏，机器很难复制；乐观派则认为 AI 会接手执行，人只需专注于大胆的想法。讨论延伸到 AI 对决策的影响与「智能」的定义，对 AI 设计工具和审美类产品的定位有参考价值。",
+   "links": [
+    "https://x.com/i/trending/2110218423016005640"
+   ],
+   "topic": "ai-taste-debate-benji-taylor",
+   "firstSeen": "2026-10-14T21:59:24+08:00"
   }
  ],
- "lastChecked": "2026-10-14T21:41:22+08:00"
+ "lastChecked": "2026-10-14T21:59:24+08:00"
 }
