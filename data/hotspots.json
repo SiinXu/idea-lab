@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T14:19:09+08:00",
+ "lastUpdated": "2026-10-14T14:26:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3438,7 +3438,77 @@
    ],
    "topic": "characterai-econ-docs",
    "firstSeen": "2026-10-14T14:19:09+08:00"
+  },
+  {
+   "id": "b377fe6652",
+   "title": "Google Workspace Studio：用自然语言在 Workspace 里搭 Agent 流程",
+   "summary": "Workspace Studio 已对 Business/Enterprise 计划全面开放：用白话描述自动化需求，Gemini 生成可运行流程，可在 Gmail/Chat/Drive 内管理，并接第三方应用连接器。",
+   "links": [
+    "https://workspace.google.com/studio/"
+   ],
+   "topic": "google-workspace-studio",
+   "firstSeen": "2026-10-14T14:26:35+08:00"
+  },
+  {
+   "id": "4a527b4a37",
+   "title": "omdrop-owl：给非苹果设备的开源 AirDrop",
+   "summary": "跨平台局域网文件互传，对标 AirDrop；GitHub 几天内破两千星，适合做成「跨系统近场分享」类产品参考。",
+   "links": [
+    "https://github.com/t4t5/omdrop-owl"
+   ],
+   "topic": "omdrop-owl",
+   "firstSeen": "2026-10-14T14:26:35+08:00"
+  },
+  {
+   "id": "49256c1dd4",
+   "title": "梅拉尼娅发起 2027「超级智能」K-12 挑战赛",
+   "summary": "面向美国中小学生用「超级智能/先进 AI」做社区解题项目，延续上年超 2 万参与规模，并增设学校「SI Readiness」徽章；报名至 2026-12-18。",
+   "links": [
+    "https://x.com/i/trending/2110063323769143352"
+   ],
+   "topic": "melania-si-challenge-2027",
+   "firstSeen": "2026-10-14T14:26:35+08:00"
+  },
+  {
+   "id": "ccfeeba62e",
+   "title": "NVIDIA Omniverse 开源 usd-brep：NURBS 实体建模库",
+   "summary": "独立 C++/Python 库，把基于 NURBS 的 BRep 实体建模带进 USD 生态，CAD/三维管线与仿真场景可直接复用。",
+   "links": [
+    "https://github.com/NVIDIA-Omniverse/usd-brep"
+   ],
+   "topic": "nvidia-usd-brep",
+   "firstSeen": "2026-10-14T14:26:35+08:00"
+  },
+  {
+   "id": "38798b4ae3",
+   "title": "Doory：开源 Canva 替代正在涨星",
+   "summary": "开源在线设计编辑器对标 Canva，适合做「可商用模板站 / 白标设计器」类 Idea Lab 变体的技术底盘。",
+   "links": [
+    "https://github.com/shaongitbd/doory"
+   ],
+   "topic": "doory-canva-alt",
+   "firstSeen": "2026-10-14T14:26:35+08:00"
+  },
+  {
+   "id": "d8a11b334c",
+   "title": "产品文：AI 让「能不能做」几乎免费，价值与可用性仍贵",
+   "summary": "Leading in Product 指出 vibe coding 把可行性成本压到极低，但价值、商业可行性与可用性仍难；适合对照 Idea Lab 筛点子时的评估维度。",
+   "links": [
+    "https://www.leadinginproduct.com/p/vibe-coding-product-management"
+   ],
+   "topic": "vibe-feasibility-trivial",
+   "firstSeen": "2026-10-14T14:26:35+08:00"
+  },
+  {
+   "id": "de04b7d406",
+   "title": "AOSP 源码晚发：开发者反汇编库才能提 bug",
+   "summary": "NDK 相关讨论指出 AOSP 源码发布严重滞后，开发者只能反汇编预编译库来定位问题并开 issue，反映 Android 开源节奏摩擦。",
+   "links": [
+    "https://github.com/android/ndk/issues/2260"
+   ],
+   "topic": "aosp-source-late-disassemble",
+   "firstSeen": "2026-10-14T14:26:35+08:00"
   }
  ],
- "lastChecked": "2026-10-14T14:19:09+08:00"
+ "lastChecked": "2026-10-14T14:26:35+08:00"
 }
