@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T15:46:40+08:00",
+ "lastUpdated": "2026-10-14T15:59:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3803,7 +3803,39 @@
    ],
    "topic": "nvidia-uk-250m-agentic-safety",
    "firstSeen": "2026-10-14T15:46:40+08:00"
+  },
+  {
+   "id": "08da240145",
+   "title": "扎克伯格：未见模型前就准备押注最高 2000 亿美元 AI 基建",
+   "summary": "Cheeky Pint 播客里，扎克伯格回忆 2025 年底与首席 AI 官 Alexandr Wang 讨论时说要签下约 1000–2000 亿美元支票，并追问「你确定能成？」；CFO Susan Li 多次警告失败会「在财务上非常非常糟」。Meta 2026 资本开支指引约 1300–1450 亿美元，Prometheus/Hyperion 等 GW 级集群在推进。",
+   "links": [
+    "https://www.businessinsider.com/mark-zuckerberg-massive-risk-meta-took-on-ai-2026-10",
+    "https://x.com/i/trending/2110274689906188643"
+   ],
+   "topic": "meta-200b-ai-bet",
+   "firstSeen": "2026-10-14T15:59:30+08:00"
+  },
+  {
+   "id": "4505dacd05",
+   "title": "论文：Skill 库一大，Agent 就「隐式路由崩了」",
+   "summary": "arXiv《Lost in Implicit Routing》在 SkillsBench 上固定任务与黄金 Skill，只加无关 Skill：1000 个干扰时加载召回从约 74% 掉到约 27%，零加载率升到约 52%；显式预选仍能认出正确 Skill。说明问题是执行时语义/指令干扰，不是认不出——适合做 Skill 路由/预选产品。",
+   "links": [
+    "https://arxiv.org/abs/2610.18522",
+    "https://github.com/jinlinll/lost-in-implicit-routing"
+   ],
+   "topic": "lost-in-implicit-routing",
+   "firstSeen": "2026-10-14T15:59:30+08:00"
+  },
+  {
+   "id": "5a6ff5cc06",
+   "title": "Yann LeCun 怼 Anthropic：安全还是控制？",
+   "summary": "LeCun 在首尔采访中批评 Anthropic 偏限制性的前沿模型发布立场，主张用工程解决安全，并质疑夸大风险可能服务既得利益与政策门槛；与 Amodei 的谨慎路线形成鲜明对照。",
+   "links": [
+    "https://www.firstpost.com/tech/ai-safety-or-control-yann-lecun-challenges-anthropic-over-calls-to-slow-down-development-14052678.html"
+   ],
+   "topic": "lecun-anthropic-safety-control",
+   "firstSeen": "2026-10-14T15:59:30+08:00"
   }
  ],
- "lastChecked": "2026-10-14T15:46:40+08:00"
+ "lastChecked": "2026-10-14T15:59:30+08:00"
 }
