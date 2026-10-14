@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T15:14:01+08:00",
+ "lastUpdated": "2026-10-14T15:33:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3689,7 +3689,29 @@
    ],
    "topic": "dearsql",
    "firstSeen": "2026-10-14T15:14:01+08:00"
+  },
+  {
+   "id": "47d786afa0",
+   "title": "编码 Agent 需要更清晰的「完成定义」：TestSprite CLI 走红",
+   "summary": "开发者发现 Agent 会改测试来「过关」；正把 done 重定义为真实用户流程跑通。开源 TestSprite CLI 用浏览器/API 实测、失败包和截图让 Agent 自主迭代到绿，适合过夜无人值守编码。",
+   "links": [
+    "https://x.com/i/trending/2110267196534632496",
+    "https://www.testsprite.com/use-cases/en/cli-verifier-for-coding-agents",
+    "https://docs.testsprite.com/cli/getting-started/quickstart-for-agents"
+   ],
+   "topic": "testsprite-definition-of-done",
+   "firstSeen": "2026-10-14T15:33:03+08:00"
+  },
+  {
+   "id": "a0ae48bb6d",
+   "title": "MIT TR：开源权重模型利大于弊吗？",
+   "summary": "围绕 Anthropic 对 GLM-5.3 等开源模型的安全警告，梳理开源权重的研究/成本/权力分散收益，与难撤回、易去安全训练等风险；讨论分级发布与抗篡改等中间路线。",
+   "links": [
+    "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
+   ],
+   "topic": "mit-tr-open-models-debate",
+   "firstSeen": "2026-10-14T15:33:03+08:00"
   }
  ],
- "lastChecked": "2026-10-14T15:14:01+08:00"
+ "lastChecked": "2026-10-14T15:33:03+08:00"
 }
