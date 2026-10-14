@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T00:39:54+08:00",
+ "lastUpdated": "2026-10-15T00:57:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5241,7 +5241,67 @@
    ],
    "topic": "delete-comments-agent-blind",
    "firstSeen": "2026-10-15T00:39:54+08:00"
+  },
+  {
+   "id": "b86b6967b9",
+   "title": "OpenAI 算力负责人 Sachin Katti 将离职",
+   "summary": "曾负责 Stargate 等算力扩张的 Katti 将于下月离开 OpenAI 并另起炉灶，仍任顾问；算力 CTO Uday Ruddarraju 接手，背后是到 2030 年约 7500 亿美元量级的基建投入。",
+   "links": [
+    "https://x.com/i/trending/2110411775057502674"
+   ],
+   "topic": "openai-sachin-katti-depart",
+   "firstSeen": "2026-10-15T00:57:39+08:00"
+  },
+  {
+   "id": "449ffbed22",
+   "title": "Hermes Agent v0.22.0：零门槛本地 Agent 大更新",
+   "summary": "Nous Research 发布迄今最大版本：引导式桌面安装、一键接 llama.cpp 本地模型、约 600 个审核插件，并加了远程桌面监控与 Gmail/Notion 等连接器，代码量还瘦了约 34%。",
+   "links": [
+    "https://x.com/i/trending/2110411775019773970"
+   ],
+   "topic": "hermes-agent-v022",
+   "firstSeen": "2026-10-15T00:57:39+08:00"
+  },
+  {
+   "id": "ed7814ccfc",
+   "title": "Google Play 上线「个人 AI 应用库」：描述即生成私有 App",
+   "summary": "美国等地成年用户可用 Google AI Studio 用自然语言生成私有 Android 应用，装进 Play 的「Your personal library」，不上架公开商店、免开发者账号；后续或支持分享给亲友。",
+   "links": [
+    "https://x.com/i/trending/2110078557791703243"
+   ],
+   "topic": "google-play-personal-ai-apps",
+   "firstSeen": "2026-10-15T00:57:39+08:00"
+  },
+  {
+   "id": "3243db9289",
+   "title": "Fragment 融资 1200 万美元：让 AI Agent 安全管钱",
+   "summary": "纽约创业公司 Fragment 完成 FirstMark 领投的 A 轮，用动态复式记账在付款前校验合法性，方便 AI Agent 做财务操作；Ramp、BILL 等已是客户。",
+   "links": [
+    "https://x.com/i/trending/2110407515074650487"
+   ],
+   "topic": "fragment-12m-ai-finance",
+   "firstSeen": "2026-10-15T00:57:39+08:00"
+  },
+  {
+   "id": "ee0eb662bb",
+   "title": "蚂蚁开源 Ling-3.1-flash：从草图到可编辑原型",
+   "summary": "InclusionAI 开源 5600 亿总参、约 250 亿激活的 MoE，百万级上下文，擅长网站/移动端 UI、原型与 3D；在 Agent 编码与设计类基准靠前，Hugging Face / ModelScope 可下，vLLM/SGLang 已支持。",
+   "links": [
+    "https://x.com/i/trending/2110411771840548958"
+   ],
+   "topic": "ant-ling-3-1-flash",
+   "firstSeen": "2026-10-15T00:57:39+08:00"
+  },
+  {
+   "id": "d1b3b0fd62",
+   "title": "OpenAI 指控：离职赴苹果员工带走未发设备相关文件",
+   "summary": "路透：OpenAI 称一名转投苹果的前员工带走了与未发布设备相关的文件；这与双方商业秘密/招聘记录诉讼线并行升温。",
+   "links": [
+    "https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/"
+   ],
+   "topic": "openai-exstaff-apple-device-files",
+   "firstSeen": "2026-10-15T00:57:39+08:00"
   }
  ],
- "lastChecked": "2026-10-15T00:39:54+08:00"
+ "lastChecked": "2026-10-15T00:57:39+08:00"
 }
