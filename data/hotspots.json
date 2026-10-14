@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T06:23:55+08:00",
+ "lastUpdated": "2026-10-15T06:41:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6265,7 +6265,50 @@
    ],
    "topic": "nyc-nyu-qfab-ip-share-2026-10",
    "firstSeen": "2026-10-15T06:23:55+08:00"
+  },
+  {
+   "id": "434ae4be8a",
+   "title": "TheoPhysEval：GPT-6-Astra 在理论物理基准上拿下 98%",
+   "summary": "50 道未发表、可核验的研究级理论物理题；Codex 里的 GPT-6-Astra 答对 49/50（约 $3/题），Opus 5.5 约 92%。断网后准确率几乎不掉，作者认为模型已大量「记住」文献，但突破性发现仍缺。",
+   "links": [
+    "https://arxiv.org/abs/2610.16733",
+    "https://x.com/i/trending/2110444485738201326"
+   ],
+   "topic": "theophys-eval-astra-98",
+   "firstSeen": "2026-10-15T06:41:20+08:00"
+  },
+  {
+   "id": "5733e8058a",
+   "title": "Meta Muse：两周内产出 10 篇健康科学手稿",
+   "summary": "医学专家用 Muse Spark 1.3 + Muse Wonder 编码脚手架，对接约 500 万去标识 EHR，四周一轮、最快约 7 天成稿；人机分工是专家拍板、AI 加速假设/代码/写作。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://research.meta.ai/blog/accelerating-scientific-research-in-health-data-science-with-muse-models",
+    "https://x.com/i/trending/2110474736895697334"
+   ],
+   "topic": "meta-muse-health-10-papers",
+   "firstSeen": "2026-10-15T06:41:20+08:00"
+  },
+  {
+   "id": "4eb34acacc",
+   "title": "Tiny Little Office：链接就是文档，无账号本地办公套件",
+   "summary": "HN 新上：文档即 URL，不强制账号、默认不上传云端；还提供 llms.txt 方便 Agent 用「围栏」嵌套文档。适合做成轻量可分享的本地办公实验。",
+   "links": [
+    "https://tinylittleoffice.com",
+    "https://tinylittleoffice.com/llms.txt"
+   ],
+   "topic": "tiny-little-office-link-docs",
+   "firstSeen": "2026-10-15T06:41:20+08:00"
+  },
+  {
+   "id": "570d6d583b",
+   "title": "Phloem：把公开 Git 历史长成「黏菌」网络",
+   "summary": "粘贴公开 GitHub 仓库，浏览器里用 WebGL 把每次提交长成黏菌式网络；本地跑、不上传。适合做仓库演化可视化玩具或教学 demo。",
+   "links": [
+    "https://phloem.stemdeck.app"
+   ],
+   "topic": "phloem-git-slime-mold",
+   "firstSeen": "2026-10-15T06:41:20+08:00"
   }
  ],
- "lastChecked": "2026-10-15T06:23:55+08:00"
+ "lastChecked": "2026-10-15T06:41:20+08:00"
 }
