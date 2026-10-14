@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T18:10:45+08:00",
+ "lastUpdated": "2026-10-14T18:32:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4319,7 +4319,17 @@
    ],
    "topic": "rtx-5090-macau-smuggling",
    "firstSeen": "2026-10-14T18:10:45+08:00"
+  },
+  {
+   "id": "e1ba04ce3b",
+   "title": "Gartner：AI 收入填不满基建坑，2030 年前八成 neocloud 难独立存活",
+   "summary": "Gartner 测算 2026 年 AI 厂商基建投入近 1 万亿美元、2027–2030 再投 6 万亿；按 12% 资本回报率需约 8.5 万亿美元收入才能回本，但同期可归因的企业与消费 AI 收入预计不超过 3.6 万亿。报告预计资产减记可能超 4 万亿美元，GPU 云（neocloud）将最先出局或被收购，超大云厂商因业务多元更抗压。",
+   "links": [
+    "https://www.theregister.com/on-prem/2026/10/14/the-ai-math-isnt-mathing-as-infrastructure-spending-forecast-to-outstrip-expected-revenue/5302856"
+   ],
+   "topic": "gartner-ai-capex-revenue-gap-neocloud",
+   "firstSeen": "2026-10-14T18:32:13+08:00"
   }
  ],
- "lastChecked": "2026-10-14T18:10:45+08:00"
+ "lastChecked": "2026-10-14T18:32:13+08:00"
 }
