@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T07:03:38+08:00",
+ "lastUpdated": "2026-10-15T07:17:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6352,7 +6352,17 @@
    ],
    "topic": "cedardb-htap-agents",
    "firstSeen": "2026-10-15T07:03:38+08:00"
+  },
+  {
+   "id": "01cf3b49b5",
+   "title": "FT：Anthropic 第三季度营收跳升至 168 亿美元",
+   "summary": "英国《金融时报》报道，Anthropic 第三季度营收达到 168 亿美元，正值其向机构投资者开放账本、为 IPO 预热之际，企业客户仍是主要收入来源。",
+   "links": [
+    "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b"
+   ],
+   "topic": "anthropic-q3-revenue-16-8b",
+   "firstSeen": "2026-10-15T07:17:29+08:00"
   }
  ],
- "lastChecked": "2026-10-15T07:03:38+08:00"
+ "lastChecked": "2026-10-15T07:17:29+08:00"
 }
