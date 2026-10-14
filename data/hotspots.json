@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T11:17:40+08:00",
+ "lastUpdated": "2026-10-14T11:27:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2788,7 +2788,59 @@
    ],
    "topic": "attention-essence-intelligence",
    "firstSeen": "2026-10-14T11:17:40+08:00"
+  },
+  {
+   "id": "be7f075ef2",
+   "title": "Grace Hopper Celebration 2026 因资金不足取消",
+   "summary": "AnitaB.org 宣布原定 10/27–30 在 Anaheim 举办的全球最大女性科技盛会因报名与赞助远低于预期取消，注册费等财务事项 10/26 前另行通知。女科技社群与招聘会生态受冲击，相关替代活动与赞助预算流向值得盯。",
+   "links": [
+    "https://anitab.org/press-release",
+    "https://www.sfgate.com/bayarea/article/california-tech-conference-canceled-22475266.php"
+   ],
+   "topic": "ghc-2026-cancelled",
+   "firstSeen": "2026-10-14T11:27:54+08:00"
+  },
+  {
+   "id": "8040c14b35",
+   "title": "Solana Alpenglow：主网 10/21 切换，终局约 150ms",
+   "summary": "Anza 排定 epoch 1064（约 10/21 15:00 UTC）把 TowerBFT 换为 Alpenglow/Votor，终局从约 12.8 秒压到约 150ms；验证者需 Agave 4.3 系客户端且投票账户留足 VAT。对 Agent 支付、即时确认类应用是基础设施级窗口。",
+   "links": [
+    "https://solana.com/upgrades/alpenglow",
+    "https://x.com/i/trending/2110038331765776702"
+   ],
+   "topic": "solana-alpenglow-oct21",
+   "firstSeen": "2026-10-14T11:27:54+08:00"
+  },
+  {
+   "id": "eccbc70852",
+   "title": "Show HN：GenClass——浏览器里 10MB 模型抓「不抛错」的 bug",
+   "summary": "开源运行时在用户浏览器 Web Worker 里跑约 10MB 模型，盯请求/状态，抓竞态、过期写入、重复点击等从不 throw 的问题；可观察或拦截，无服务器推理费。适合做成前端可观测/质量类付费插件或 SaaS 附加层。",
+   "links": [
+    "https://genclass.dev/"
+   ],
+   "topic": "genclass-browser-runtime",
+   "firstSeen": "2026-10-14T11:27:54+08:00"
+  },
+  {
+   "id": "3b564f408b",
+   "title": "Show HN：Ins Autopilot——本机浏览器里的 Instagram 外联工作流",
+   "summary": "Chrome 扩展用你自己的已登录会话做跟进、AI 草稿 DM、序列与转发热帖清理；免费有上限，Pro 约 $29/月起。关系记录留本地、不收密码。对创作者获客自动化是可对标的数字产品形态。",
+   "links": [
+    "https://insautopilot.com/"
+   ],
+   "topic": "ins-autopilot-instagram",
+   "firstSeen": "2026-10-14T11:27:54+08:00"
+  },
+  {
+   "id": "2db7b0bc5b",
+   "title": "Show HN：Launch Videos Gallery——精选创业发布视频库",
+   "summary": "从 X 等渠道聚合创业产品发布/演示视频的免费图库，方便对标叙事与镜头。可衍生为「发布片模板包」或按赛道订阅的剪辑灵感库。",
+   "links": [
+    "https://launchvideos.gallery/"
+   ],
+   "topic": "launch-videos-gallery",
+   "firstSeen": "2026-10-14T11:27:54+08:00"
   }
  ],
- "lastChecked": "2026-10-14T11:17:40+08:00"
+ "lastChecked": "2026-10-14T11:27:54+08:00"
 }
