@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T09:56:36+08:00",
+ "lastUpdated": "2026-10-14T10:16:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2475,7 +2475,43 @@
    ],
    "topic": "iphone-os-1-browser-emulator",
    "firstSeen": "2026-10-14T09:56:36+08:00"
+  },
+  {
+   "id": "bdad70d45a",
+   "title": "GenLayer Internet Court：AI Agent 纠纷由多模型陪审团裁决",
+   "summary": "Agent 之间用自然语言立约、链上托管 USDC；双方谈不拢时，不同 LLM 组成的验证者陪审团在数分钟内给出 TRUE/FALSE/UNDETERMINED。MetaMask、OKX 等参与，填补 Agent 经济的裁决层。",
+   "links": [
+    "https://internetcourt.org/blog/press-release",
+    "https://metamask.io/news/genlayer-internet-court-ai-agent-jury",
+    "https://x.com/i/trending/2109586980694532225"
+   ],
+   "topic": "genlayer-internet-court",
+   "firstSeen": "2026-10-14T10:16:03+08:00"
+  },
+  {
+   "id": "2a609a1641",
+   "title": "特斯拉下一代 Roadster 演示：周四晚德克萨斯直播",
+   "summary": "因天气延期后定于 10 月 15 日晚（美中 19:55）在韦科附近户外场地演示；与 SpaceX 合作的推进硬件传闻未官方确认，创始版预订者等待近九年。",
+   "links": [
+    "https://teslanorth.com/2026/10/13/tesla-roadster-event-live-stream-time/",
+    "https://www.notateslaapp.com/news/4818/tesla-roadster-event-how-to-watch-what-to-expect",
+    "https://x.com/i/trending/2109720073136906274"
+   ],
+   "topic": "tesla-roadster-livestream",
+   "firstSeen": "2026-10-14T10:16:03+08:00"
+  },
+  {
+   "id": "2b7e970477",
+   "title": "BNY × Citadel：首笔代币化美债三方回购落地",
+   "summary": "Citadel 经 Tradeweb 买入两年期美债，BNY 在私有账本上代币化并分钟级结算，再作隔夜三方回购抵押。机构融资链开始吃代币化国债，不只是概念演示。",
+   "links": [
+    "https://www.bny.com/corporate/global/en/about-us/newsroom/press-release/bny-completes-tokenized-us-treasury-triparty-repo-workflow-with-citadel-securities.html",
+    "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+    "https://x.com/i/trending/2110115208114983357"
+   ],
+   "topic": "bny-citadel-tokenized-repo",
+   "firstSeen": "2026-10-14T10:16:03+08:00"
   }
  ],
- "lastChecked": "2026-10-14T09:56:36+08:00"
+ "lastChecked": "2026-10-14T10:16:03+08:00"
 }
