@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T16:26:00+08:00",
+ "lastUpdated": "2026-10-14T16:41:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3928,7 +3928,60 @@
    ],
    "topic": "jaynshare-claude-multi-account",
    "firstSeen": "2026-10-14T16:26:00+08:00"
+  },
+  {
+   "id": "5cb1618c1d",
+   "title": "DeepMind × 新加坡：端侧 Gemma 实时识破诈骗对话",
+   "summary": "与 GovTech 微调轻量 Gemma，两级流水线在手机本地扫会话并弹窗提醒；训练不含公民隐私数据，SICW 2026 亮相，适合加密聊天场景。",
+   "links": [
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "https://www.channelnewsasia.com/singapore/govtech-google-deepmind-ai-scam-quantum-sicw-6455621"
+   ],
+   "topic": "deepmind-sg-gemma-scam",
+   "firstSeen": "2026-10-14T16:41:17+08:00"
+  },
+  {
+   "id": "01fed55796",
+   "title": "英伟达开源整套 Run:ai：GPU 编排进 DSX AI 工厂",
+   "summary": "KAI Scheduler、GPU 分片、资源配额与 Workload Map 全部开源，八家云伙伴接入；配套还有 Model Streamer 加速权重加载。",
+   "links": [
+    "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/"
+   ],
+   "topic": "nvidia-runai-oss",
+   "firstSeen": "2026-10-14T16:41:17+08:00"
+  },
+  {
+   "id": "83c4999002",
+   "title": "HN 热议：Arena Allocators in C——按生命周期一把清内存",
+   "summary": "Elias Ebner 写了可读的 bump 分配器教程：同寿命对象进同一 arena，帧/请求结束一次清零，少 malloc、少泄漏，正上 HN。",
+   "links": [
+    "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
+    "https://news.ycombinator.com/"
+   ],
+   "topic": "arena-allocators-c",
+   "firstSeen": "2026-10-14T16:41:17+08:00"
+  },
+  {
+   "id": "82508b0797",
+   "title": "AI 把「写代码」和「验代码」拆开了",
+   "summary": "模型产能 20–50%，但评审时间翻倍、成品未必多；社区讨论用形式化验证补验收，人转向规格与品味。",
+   "links": [
+    "https://x.com/i/trending/2110274690807984330"
+   ],
+   "topic": "ai-produce-vs-verify",
+   "firstSeen": "2026-10-14T16:41:17+08:00"
+  },
+  {
+   "id": "6f02344687",
+   "title": "RTX Spark 本机 AI PC：10 月 16 日开卖，起价约 $2599",
+   "summary": "Grace+Blackwell 笔记本联手微软做本地 Agent；Surface/华硕/戴尔/联想/微星先发，HP 稍后，主打端侧推理与创作。",
+   "links": [
+    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+    "https://www.digitalcitizen.life/rtx-spark-laptop-preorders-start-at-2599-with-surface-asus-dell-hp-lenovo-and-msi-models/"
+   ],
+   "topic": "rtx-spark-oct16",
+   "firstSeen": "2026-10-14T16:41:17+08:00"
   }
  ],
- "lastChecked": "2026-10-14T16:26:00+08:00"
+ "lastChecked": "2026-10-14T16:41:17+08:00"
 }
