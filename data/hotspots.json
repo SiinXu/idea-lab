@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T23:47:59+08:00",
+ "lastUpdated": "2026-10-15T00:00:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5060,7 +5060,37 @@
    ],
    "topic": "openai-friar-chinese-models-cyber",
    "firstSeen": "2026-10-14T23:47:59+08:00"
+  },
+  {
+   "id": "4c6dccd918",
+   "title": "「通行密钥不是陷阱」：Scott Helme 反驳 Passkey 劝退文",
+   "summary": "安全研究者 Scott Helme 撰文回应近日在 HN 爆火的《Passkeys are a trap》：大多数人用的是 iCloud 钥匙串、Google 密码管理器、1Password、Bitwarden 里的同步型 Passkey，这类凭证根本不向网站提供 attestation（设备证明），所谓网站会逐步「调高旋钮」锁死设备的说法与实际机制不符，不应因此退回 TOTP + 密码。",
+   "links": [
+    "https://scotthelme.co.uk/passkeys-are-not-a-trap/"
+   ],
+   "topic": "passkeys-not-a-trap-rebuttal",
+   "firstSeen": "2026-10-15T00:00:36+08:00"
+  },
+  {
+   "id": "c2d01bcd34",
+   "title": "Geometry Dash 出现 AI 关卡编辑 mod：一句提示生成关卡",
+   "summary": "作者 Kirill&st 发布的 mod 让玩家在编辑器里直接用提示词生成关卡，带预览和二次编辑；有人 5–20 分钟就做出完整关卡，也有人担心低质量关卡泛滥、稀释手工创作。Editor AI、gdgen 等同类工具已在做提示建关和物理校验，UGC 游戏的「AI 编辑器」之争又起。",
+   "links": [
+    "https://x.com/i/trending/2110375787090350402"
+   ],
+   "topic": "geometry-dash-ai-level-mod",
+   "firstSeen": "2026-10-15T00:00:36+08:00"
+  },
+  {
+   "id": "5675ff9825",
+   "title": "苹果 Keynote 检查器侧栏出现广告，开发者吐槽",
+   "summary": "macOS 开发者 Mario Guzmán 在 Mastodon 晒图：苹果 Keynote 的检查器侧栏里开始出现推广内容，帖子很快登上 HN 前页，引发对苹果在自家生产力应用里塞广告、挤占专业 UI 空间的不满。",
+   "links": [
+    "https://mastodon.social/@marioguzman/117436264149891011"
+   ],
+   "topic": "apple-keynote-inspector-ads",
+   "firstSeen": "2026-10-15T00:00:36+08:00"
   }
  ],
- "lastChecked": "2026-10-14T23:47:59+08:00"
+ "lastChecked": "2026-10-15T00:00:36+08:00"
 }
