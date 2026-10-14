@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T08:11:00+08:00",
+ "lastUpdated": "2026-10-14T08:29:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2162,7 +2162,78 @@
    ],
    "topic": "coreweave-bond-yields-15",
    "firstSeen": "2026-10-14T08:11:00+08:00"
+  },
+  {
+   "id": "f1d3dbc0c0",
+   "title": "Modal：混合精度、混合加速器也能稳住 RL 训练",
+   "summary": "用六种 GPU 与三种精度异步训练 Qwen3.6-35B 做编码 Agent，SWE-bench 表现接近纯 B200，采样成本约低 15%。异构算力训 Agent 更现实了。",
+   "links": [
+    "https://modal.com/blog/toward-rl-on-mixed-precision-mixed-accelerator-samplers",
+    "https://x.com/i/trending/2110107091117687054"
+   ],
+   "topic": "modal-mixed-gpu-rl",
+   "firstSeen": "2026-10-14T08:29:53+08:00"
+  },
+  {
+   "id": "2807256310",
+   "title": "Ellipsus 上线免费 Android 写作 App：离线 + 反 AI 训练",
+   "summary": "支持 Android 10+，无限文档、草稿与版本历史；明确承诺不用用户作品训模型，同人作者从 Google Docs 迁出的呼声很高。",
+   "links": [
+    "https://x.com/i/trending/2110151632776269832"
+   ],
+   "topic": "ellipsus-android",
+   "firstSeen": "2026-10-14T08:29:53+08:00"
+  },
+  {
+   "id": "b673c1c3e2",
+   "title": "Razer 预告 AI 伙伴 Sumi，玩家吐槽「AI 垃圾」",
+   "summary": "续接 CES 的 Project Ava，10 月 20 日揭晓；预告片与立绘被指 AI 生成，游戏社区争论虚拟陪伴要不要这条路。",
+   "links": [
+    "https://x.com/i/trending/2110126723320672601"
+   ],
+   "topic": "razer-sumi",
+   "firstSeen": "2026-10-14T08:29:53+08:00"
+  },
+  {
+   "id": "b1665389f8",
+   "title": "SurrealKV 1.0：用 Rust 写的 RocksDB 替代品",
+   "summary": "SurrealDB 宣布用自研 SurrealKV 替换 RocksDB，主打嵌入式与云端统一存储路径，给需要可控 KV 层的项目多一个选项。",
+   "links": [
+    "https://surrealdb.com/blog/we-are-replacing-rocksdb-with-surrealkv-1-0"
+   ],
+   "topic": "surrealkv-1-0",
+   "firstSeen": "2026-10-14T08:29:53+08:00"
+  },
+  {
+   "id": "97a2deaad6",
+   "title": "人形机器人 Taku 登上纳斯达克敲收盘铃",
+   "summary": "RoboStrategy 在纽约 Nasdaq Marketsite 办仪式，Dyna Robotics 的 Taku 与多家机器人同台，象征物理 AI 开始更频繁走进资本市场舞台。",
+   "links": [
+    "https://x.com/i/trending/2110162330323501343"
+   ],
+   "topic": "robot-taku-nasdaq",
+   "firstSeen": "2026-10-14T08:29:53+08:00"
+  },
+  {
+   "id": "0b2385562e",
+   "title": "Nzyme：用无线侦测揪出隐蔽录音装置",
+   "summary": "开源无线防御平台发文演示如何发现隐蔽录音设备；正值 OpenAI 会议室藏麦事件，企业办公安全讨论升温。",
+   "links": [
+    "https://www.nzyme.org/news/2026/10/13/detecting-a-covert-recording-device"
+   ],
+   "topic": "nzyme-covert-bug",
+   "firstSeen": "2026-10-14T08:29:53+08:00"
+  },
+  {
+   "id": "f12461e806",
+   "title": "gptibo：可自托管的数字商品店面 + 管理后台",
+   "summary": "MIT 开源店面/后台与 Go 后端，适合自己架付费资源包、模板店；贴合国内虚拟商品合规后「自建交付」需求。",
+   "links": [
+    "https://github.com/CoolkHz/gptibo"
+   ],
+   "topic": "gptibo-storefront",
+   "firstSeen": "2026-10-14T08:29:53+08:00"
   }
  ],
- "lastChecked": "2026-10-14T08:11:00+08:00"
+ "lastChecked": "2026-10-14T08:29:53+08:00"
 }
