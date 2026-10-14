@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T16:13:27+08:00",
+ "lastUpdated": "2026-10-14T16:26:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3856,7 +3856,79 @@
    ],
    "topic": "ai-weekend-app-clone-anxiety",
    "firstSeen": "2026-10-14T16:13:27+08:00"
+  },
+  {
+   "id": "e7e8a0dc2e",
+   "title": "Rocket 收购 Geniez AI：六人团队做大型机 Agent，并入 EVA 平台",
+   "summary": "Rocket Software 于 2026-10-13 宣布收购成立约一年的以色列公司 Geniez AI。对方用自然语言 Agent 直接在大型机上监控、排障与跑工作流，将并入 Rocket EVA；外界估值最高约 1 亿美元。瞄准金融等核心系统缺人与现代化，属于「垂直领域 Agent」收购信号。",
+   "links": [
+    "https://www.rocketsoftware.com/en-us/news/rocket-software-announces-acquisition-of-geniez-ai-to-accelerate-agentic-ai-for-mainframe-modernization",
+    "https://www.calcalistech.com/ctechnews/article/996lzw73e"
+   ],
+   "topic": "geniez-rocket-mainframe-agent",
+   "firstSeen": "2026-10-14T16:26:00+08:00"
+  },
+  {
+   "id": "90b1e616ae",
+   "title": "simless：不启 iOS 模拟器，Agent 也能验 SwiftUI 界面",
+   "summary": "Abacus.AI 开源 simless：在 Apple Silicon 上无头渲染 SwiftUI，把屏幕变成约 150 token 的 accessibility 树，热重载约 2 秒。实测编辑到验证从约 22 秒降到 2.2 秒，多 Agent 并行内存从十余 GB 砍到约 0.15 GB，让 32GB Mac 上跑多个 iOS Agent 更现实。",
+   "links": [
+    "https://github.com/abacusai/simless",
+    "https://mindpattern.ai/f/29017"
+   ],
+   "topic": "simless-swiftui-agent",
+   "firstSeen": "2026-10-14T16:26:00+08:00"
+  },
+  {
+   "id": "de64d5c3ca",
+   "title": "Theo 挑起争论：八年 Claude Max 订阅费，够不够买本地推理机？",
+   "summary": "Theo 用账算：八年每月 200 美元的 Claude Max，约等于一台四卡 Radeon AI PRO R9700 的 Threadripper 本地机（约 1.8 万美元、可并行约 16 会话）。支持方看重隐私与所有权，反对方认为量化开源模型在推理与写码上仍落后云端旗舰，多数倾向混合。和「把推理搬回家」硬件实测是同一面的成本战。",
+   "links": [
+    "https://x.com/i/trending/2110279138854756823"
+   ],
+   "topic": "theo-local-vs-claude-max",
+   "firstSeen": "2026-10-14T16:26:00+08:00"
+  },
+  {
+   "id": "c77826b39f",
+   "title": "Nature：AI 时代写代码，要先学会当系统架构师",
+   "summary": "剑桥病理博士 Jacques Cornwell 在 Nature Career Column 认为：LLM/Agent 把瓶颈从语法挪到「怎么指挥」；新手一上来就要像资深工程师一样监督、拆模块、用 Cookiecutter 结构，并用假数据保护隐私。六条建议强调模块化流水线，而不是一口要 AI 吐整份超大脚本。",
+   "links": [
+    "https://www.nature.com/articles/d41586-026-02715-x"
+   ],
+   "topic": "nature-coding-systems-architect",
+   "firstSeen": "2026-10-14T16:26:00+08:00"
+  },
+  {
+   "id": "f69e19b39f",
+   "title": "实测：OpenAI dot 一天自转 30 万+ token，用户零提问",
+   "summary": "安全公司 Geordie 给 dot 只开只读权限后，一天录到 155 段活动轨迹、约 30.7 万 token，其中两分钟内就有约 50 段；主 Agent + 后台 Agent 会自启子 Agent 扫仓库与盘点数据，用户几乎不知情。Register 报道提醒：个人 always-on Agent 的后台账单与影子访问，企业要先搞清楚再放进工作环境。",
+   "links": [
+    "https://www.theregister.com/ai-and-ml/2026/10/13/openais-dot-assistant-burned-300k-tokens-in-a-day-without-a-single-prompt/5302913"
+   ],
+   "topic": "openai-dot-300k-tokens",
+   "firstSeen": "2026-10-14T16:26:00+08:00"
+  },
+  {
+   "id": "46b5fc6c88",
+   "title": "Sui 在 Basecamp 演示量子安全交易，并砸 3000 万美元推 AI 数据网",
+   "summary": "Sui 在新加坡 Basecamp 2026 于开发网跑通基于 NIST ML-DSA-65 的原生抗量子交易，主网目标约 2027 Q1；基金会另承诺 3000 万美元把 DATA Network 的 AI 训练数据登记迁到 Sui + Walrus。现场还秀出极高 TPS，叙事是给金融向 Agent 备好可验证与抗量子底座。",
+   "links": [
+    "https://x.com/i/trending/2110269858550345908"
+   ],
+   "topic": "sui-quantum-safe-ai-data",
+   "firstSeen": "2026-10-14T16:26:00+08:00"
+  },
+  {
+   "id": "10513a3027",
+   "title": "Show HN：jaynshare——把 Claude Desktop 路由到多个订阅账号",
+   "summary": "jaynlabs/jaynshare 让 Claude Desktop（及 Codex 类订阅）在多账号间路由，方便团队或个人在配额墙之间切换。Show HN 刚挂出，星星还少，但切中 Agent 订阅配额与协作痛点，适合盯后续采用率。",
+   "links": [
+    "https://github.com/jaynlabs/jaynshare"
+   ],
+   "topic": "jaynshare-claude-multi-account",
+   "firstSeen": "2026-10-14T16:26:00+08:00"
   }
  ],
- "lastChecked": "2026-10-14T16:13:27+08:00"
+ "lastChecked": "2026-10-14T16:26:00+08:00"
 }
