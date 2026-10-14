@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T12:12:31+08:00",
+ "lastUpdated": "2026-10-14T12:30:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2974,7 +2974,47 @@
    ],
    "topic": "cologne-robot-groping-seized",
    "firstSeen": "2026-10-14T12:12:31+08:00"
+  },
+  {
+   "id": "d0d028ef0c",
+   "title": "「软件已死」再起：AI 让产品易克隆，护城河还剩什么？",
+   "summary": "两位创始人几乎同时发帖称 vibe coding 把软件做成了人人可复刻的菜；争论焦点从写代码转向维护、信任与用户关系。",
+   "links": [
+    "https://x.com/i/trending/2110220789308084527"
+   ],
+   "topic": "software-dead-ai-clone",
+   "firstSeen": "2026-10-14T12:30:26+08:00"
+  },
+  {
+   "id": "a9d164c6d4",
+   "title": "X/SpaceX 设计负责人：AI 已逼近人类品味，马斯克回 True",
+   "summary": "Benji Taylor 称 AI 正在跨过「纯人类品味」的线，引发大量讨论：风格可复刻，但个人经历与关系仍难替代。",
+   "links": [
+    "https://x.com/i/trending/2110111166810718422"
+   ],
+   "topic": "ai-taste-benji-taylor",
+   "firstSeen": "2026-10-14T12:30:26+08:00"
+  },
+  {
+   "id": "34a3e2dfaf",
+   "title": "Valve 停产 Index VR，剩余库存约八折清仓",
+   "summary": "2019 款 Index 停产，头显约 $399，转向更新的 Steam Frame；既有设备仍完整支持 SteamVR。",
+   "links": [
+    "https://x.com/i/trending/2110162329748885673"
+   ],
+   "topic": "valve-index-eol",
+   "firstSeen": "2026-10-14T12:30:26+08:00"
+  },
+  {
+   "id": "b41750eba9",
+   "title": "网页防复制根本做不到（而且这是好事）",
+   "summary": "Dan Q 论证浏览器端「防复制」注定失败，并认为开放复制更有利于网络与用户权益。",
+   "links": [
+    "https://danq.me/2026/10/13/webpage-copy-protection-is-impossible-and-thats-great/"
+   ],
+   "topic": "webpage-copy-protection-impossible",
+   "firstSeen": "2026-10-14T12:30:26+08:00"
   }
  ],
- "lastChecked": "2026-10-14T12:12:31+08:00"
+ "lastChecked": "2026-10-14T12:30:26+08:00"
 }
