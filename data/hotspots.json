@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T15:12:58+08:00",
+ "lastUpdated": "2026-10-14T15:14:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3679,7 +3679,17 @@
    ],
    "topic": "ai-formal-verify-10x",
    "firstSeen": "2026-10-14T15:12:58+08:00"
+  },
+  {
+   "id": "a5ac9cc105",
+   "title": "Show HN：DearSQL——C++/ImGui 原生跨平台数据库客户端",
+   "summary": "dunkbing/dearsql 用 C++ 与 Dear ImGui 做轻量本地数据库客户端，GitHub 已约 170 星；今日登上 HN 新帖，对标「又快又薄」的桌面数据工具方向。",
+   "links": [
+    "https://github.com/dunkbing/dearsql"
+   ],
+   "topic": "dearsql",
+   "firstSeen": "2026-10-14T15:14:01+08:00"
   }
  ],
- "lastChecked": "2026-10-14T15:12:58+08:00"
+ "lastChecked": "2026-10-14T15:14:01+08:00"
 }
