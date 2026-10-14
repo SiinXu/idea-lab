@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T14:02:26+08:00",
+ "lastUpdated": "2026-10-14T14:19:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3398,7 +3398,47 @@
    ],
    "topic": "floco-nix-npm",
    "firstSeen": "2026-10-14T14:02:26+08:00"
+  },
+  {
+   "id": "ec003ec20e",
+   "title": "NetBSD 或定位成「无 AI」自由软件系统",
+   "summary": "The Register 称 NetBSD 社区讨论以拒绝 AI 污染代码与生态作为差异化，给坚持纯手工开源的用户多一个选项。",
+   "links": [
+    "https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818"
+   ],
+   "topic": "netbsd-ai-free",
+   "firstSeen": "2026-10-14T14:19:09+08:00"
+  },
+  {
+   "id": "e69fdcdf00",
+   "title": "Show HN：Agent-trials——上线前面试你的编码 Agent",
+   "summary": "同一套任务套件跑遍各家 coding agent CLI，沙箱执行并打分，适合做 Agent 回归与选型冒烟测试。",
+   "links": [
+    "https://github.com/princejain756/agent-trials"
+   ],
+   "topic": "agent-trials",
+   "firstSeen": "2026-10-14T14:19:09+08:00"
+  },
+  {
+   "id": "01ec68bf57",
+   "title": "BBC：机器翻译普及后，人类译者还能撑多久",
+   "summary": "探讨 AI 翻译占领日常场景后，专业译者的角色会转向审校、领域知识与创意文本，而不是被彻底替代。",
+   "links": [
+    "https://www.bbc.com/news/articles/c1wxdjx27ypo"
+   ],
+   "topic": "ai-translation-humans",
+   "firstSeen": "2026-10-14T14:19:09+08:00"
+  },
+  {
+   "id": "a5ea56f0ed",
+   "title": "Character.ai 破产文件：角色聊天的经济账算不过来",
+   "summary": "404 Media 梳理破产材料，指出对话式消费级 AI 的算力与获客成本难匹配收入；与迪士尼资产交易消息形成对照。",
+   "links": [
+    "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/"
+   ],
+   "topic": "characterai-econ-docs",
+   "firstSeen": "2026-10-14T14:19:09+08:00"
   }
  ],
- "lastChecked": "2026-10-14T14:02:26+08:00"
+ "lastChecked": "2026-10-14T14:19:09+08:00"
 }
