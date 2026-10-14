@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T02:15:53+08:00",
+ "lastUpdated": "2026-10-15T02:32:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5786,7 +5786,28 @@
    ],
    "topic": "tesla-robotaxi-school-zone-nhtsa",
    "firstSeen": "2026-10-15T02:15:53+08:00"
+  },
+  {
+   "id": "e575a30cc4",
+   "title": "HybridAgents：潜空间推理砍掉六成算力成本",
+   "summary": "斯坦福与 Together AI 预印本提出 HybridAgents：代理在潜空间静默推理，仅在调工具或给最终答案时解码成文本；在 Qwen3 4B–14B 上平均性能+10.4%，token 降 35–55%，算力成本约降 63–73%。代码已开源到 togethercomputer/HybridAgent，适合做成 Idea Lab 降本点子。",
+   "links": [
+    "https://cryptobriefing.com/hybrid-reasoning-agents-cut-compute-costs/",
+    "https://arxiv.org/abs/2610.18861"
+   ],
+   "topic": "hybrid-agents-latent",
+   "firstSeen": "2026-10-15T02:32:29+08:00"
+  },
+  {
+   "id": "723529d84a",
+   "title": "欧洲转向「用模型」而非再追前沿大模型",
+   "summary": "POLITICO：欧盟高层与部分创业者认为现阶段再建欧洲前沿实验室不现实，重心转向落地应用与产业采用；Mistral 等反对，警告只做应用会沦为依附型经济。Dublin AI 峰会与「Apply AI」议程强化这一叙事。",
+   "links": [
+    "https://www.politico.eu/article/europe-ai-strategy-frontier-models-us-china/"
+   ],
+   "topic": "europe-abandon-frontier-ai",
+   "firstSeen": "2026-10-15T02:32:29+08:00"
   }
  ],
- "lastChecked": "2026-10-15T02:15:53+08:00"
+ "lastChecked": "2026-10-15T02:32:29+08:00"
 }
