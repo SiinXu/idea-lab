@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T12:44:23+08:00",
+ "lastUpdated": "2026-10-14T12:58:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3085,7 +3085,19 @@
    ],
    "topic": "ai-writes-most-code-engineer-role",
    "firstSeen": "2026-10-14T12:44:23+08:00"
+  },
+  {
+   "id": "678db66545",
+   "title": "Gakku：儿童 AI 教练 Raku，主张「帮孩子思考」而非代写",
+   "summary": "面向 6–16 岁的写作与批判性思维辅导，用语音对话、学习旅程面板跟踪提问深度与原创表达；X 上再起讨论，官网与 AGI Hunt 有介绍。",
+   "links": [
+    "https://gakku.ai/",
+    "https://x.com/i/trending/2110228000302375373",
+    "https://agihunt.info/en/p/1a13574ba176ff03262a28c2418"
+   ],
+   "topic": "gakku-ai-kids-coach",
+   "firstSeen": "2026-10-14T12:58:54+08:00"
   }
  ],
- "lastChecked": "2026-10-14T12:44:23+08:00"
+ "lastChecked": "2026-10-14T12:58:54+08:00"
 }
