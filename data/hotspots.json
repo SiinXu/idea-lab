@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T02:41:25+08:00",
+ "lastUpdated": "2026-10-15T03:00:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5838,7 +5838,39 @@
    ],
    "topic": "ai-art-skill-debate",
    "firstSeen": "2026-10-15T02:41:25+08:00"
+  },
+  {
+   "id": "0fff098609",
+   "title": "Claude 平台原生 OpenTelemetry：Agent 轨迹可直达观测工具",
+   "summary": "Anthropic 今日宣布公测：Managed Agents、Messages API 与 SDK 可导出标准 OTel 轨迹（模型调用、工具、MCP、token），对接 Sentry、LangSmith、Grafana、Datadog 等，无需自写埋点。适合做「Agent 可观测/成本审计」类产品点子。",
+   "links": [
+    "https://claude.com/resources/articles/agent-observability-on-the-claude-platform",
+    "https://x.com/i/trending/2110440614303305881"
+   ],
+   "topic": "claude-otel-agent-tracing",
+   "firstSeen": "2026-10-15T03:00:31+08:00"
+  },
+  {
+   "id": "f6cba50134",
+   "title": "银行开始甩卖刚承销的 AI 数据中心贷款",
+   "summary": "JPMorgan、摩根士丹利等据报正通过风险转移把 Oracle 相关等 AI 基建债挪出表内；一笔约 380 亿美元德州/威斯康星机房建设债推销超半年仍卡住。Oracle CDS 逼近 2009 水平，说明 AI 信贷假设开始被市场压力测试。",
+   "links": [
+    "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
+   ],
+   "topic": "banks-offload-ai-dc-debt",
+   "firstSeen": "2026-10-15T03:00:31+08:00"
+  },
+  {
+   "id": "9555c3fd59",
+   "title": "SurrealDB 上线 Agent Memory：事实带出处与时序修订",
+   "summary": "在数据库内做 Agent 记忆层：每条事实保留来源、置信度与三时态；修正走 supersession 而非覆盖。自称 BEAM 1M 全量 700 题约 77.2%，提供 MCP/CLI，对标 Mem0 等外挂记忆方案。",
+   "links": [
+    "https://surrealdb.com/agent-memory",
+    "https://x.com/SurrealDB/status/2110442287163654470"
+   ],
+   "topic": "surrealdb-agent-memory",
+   "firstSeen": "2026-10-15T03:00:31+08:00"
   }
  ],
- "lastChecked": "2026-10-15T02:41:25+08:00"
+ "lastChecked": "2026-10-15T03:00:31+08:00"
 }
