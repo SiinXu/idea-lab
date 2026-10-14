@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T23:12:35+08:00",
+ "lastUpdated": "2026-10-14T23:13:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4933,7 +4933,57 @@
    ],
    "topic": "mckinsey-ai-client-interview",
    "firstSeen": "2026-10-14T23:12:35+08:00"
+  },
+  {
+   "id": "1b5eeef86d",
+   "title": "AWS Strands：9.4 万次试验衡量 harness 选择成本",
+   "summary": "同模型同任务下不同 harness 的 token 用量可差约 2 倍，准确率却差不多；Strands 称相对领先 harness 成本约低 34%。模型定上限，harness 定效率。",
+   "links": [
+    "https://strandsagents.com/blog/we-ran-94000-trials-to-measure-the-cost-of-harness-choice/"
+   ],
+   "topic": "strands-94000-harness-cost",
+   "firstSeen": "2026-10-14T23:13:21+08:00"
+  },
+  {
+   "id": "1fc0c2762e",
+   "title": "量化伤不伤编码 Agent？aistack 实测多轮 SWE",
+   "summary": "在 DeepSWE / SWE-Bench-Pro 上，FP8/INT4 相对 BF16 准确率接近；FP8 常更快，INT4 更省显存但未必提速；KV FP8 在内存吃紧时显著减 preempt。少 bit ≠ 一定更差也 ≠ 一定更快。",
+   "links": [
+    "https://aistack.imec-int.com/blog/quantization"
+   ],
+   "topic": "quantization-coding-agents",
+   "firstSeen": "2026-10-14T23:13:21+08:00"
+  },
+  {
+   "id": "86b677c39d",
+   "title": "Show HN：Email 转 iMessage 网关 text.email",
+   "summary": "美国三大运营商弃用 email-to-SMS 后，作者做出 email→iMessage：发到号码@i.text.email 即可，支持国际号，绕开 10DLC 摩擦。",
+   "links": [
+    "https://text.email"
+   ],
+   "topic": "email-to-imessage-gateway",
+   "firstSeen": "2026-10-14T23:13:21+08:00"
+  },
+  {
+   "id": "e74dcb2216",
+   "title": "Booking Holdings 推出 Vayo：AI agent 盯订单与降价的旅行创业",
+   "summary": "Booking 在西雅图孵化 Vayo，用 AI agent 跟踪确认信、价格下跌等行程事件，并计划投入约 1 亿美元；OTA 巨头亲自下场做 agent 旅行助理。",
+   "links": [
+    "https://skift.com/2026/10/14/booking-holdings-plans-to-fund-new-ai-startup-vayo-with-100-million/"
+   ],
+   "topic": "booking-vayo-ai-travel",
+   "firstSeen": "2026-10-14T23:13:21+08:00"
+  },
+  {
+   "id": "a4f774a3e1",
+   "title": "Salience Labs 融资 1.25 亿美元：光子芯片连 AI 数据中心",
+   "summary": "英国光子互联初创 Salience Labs 完成 1.25 亿美元 B 轮，放大光子网络芯片产能，瞄准 AI 数据中心机柜内/柜间带宽瓶颈。",
+   "links": [
+    "https://tech.eu/2026/10/14/salience-labs-secures-125m-to-scale-photonic-chips-for-ai-data-centres/"
+   ],
+   "topic": "salience-labs-125m-photonic",
+   "firstSeen": "2026-10-14T23:13:21+08:00"
   }
  ],
- "lastChecked": "2026-10-14T23:12:35+08:00"
+ "lastChecked": "2026-10-14T23:13:21+08:00"
 }
