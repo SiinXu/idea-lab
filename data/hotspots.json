@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T01:58:52+08:00",
+ "lastUpdated": "2026-10-15T02:15:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5776,7 +5776,17 @@
    ],
    "topic": "swe-bench-multimodal-vals",
    "firstSeen": "2026-10-15T01:58:52+08:00"
+  },
+  {
+   "id": "6ce109d35c",
+   "title": "NHTSA 审查请愿：特斯拉 Robotaxi 被指在学校区超速",
+   "summary": "美国国家公路交通安全管理局开始审查一份缺陷请愿，指约 1000 辆 Model Y Robotaxi 与 Cybercab 在生效中的学校限速区超速，证据为 3 段视频和 4 起事件报告，暂无事故伤亡；监管将在 120 天内决定是否正式立案调查。自动驾驶合规与「场景级限速」成新的监管焦点。",
+   "links": [
+    "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges"
+   ],
+   "topic": "tesla-robotaxi-school-zone-nhtsa",
+   "firstSeen": "2026-10-15T02:15:53+08:00"
   }
  ],
- "lastChecked": "2026-10-15T01:58:52+08:00"
+ "lastChecked": "2026-10-15T02:15:53+08:00"
 }
