@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T14:45:49+08:00",
+ "lastUpdated": "2026-10-14T15:00:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3549,7 +3549,77 @@
    ],
    "topic": "register-anthropic-threat-critique",
    "firstSeen": "2026-10-14T14:45:49+08:00"
+  },
+  {
+   "id": "447bd53d55",
+   "title": "free-claude-code：多 harness 白嫖编码 Agent，GitHub 狂飙 6 万星",
+   "summary": "开源项目宣称可在终端/IDE/手机/浏览器里免费跑 Claude Code、Codex、OpenCode 等十余种 harness，累计 13 亿+ 免费 token；今日登上 GitHub Trending，星数已破 6 万，适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://github.com/Alishahryar1/free-claude-code"
+   ],
+   "topic": "free-claude-code",
+   "firstSeen": "2026-10-14T15:00:40+08:00"
+  },
+  {
+   "id": "0365ec89c7",
+   "title": "magpie：菜单栏统一调度各 Agent 的模型路由",
+   "summary": "yetone/magpie 让 Codex 走 DeepSeek、Claude Code 走 Kimi 等，从一个菜单栏切换所有 Agent 的模型；今日 GitHub 破万星，瞄准「一处配置、处处可用」的本地路由需求。",
+   "links": [
+    "https://github.com/yetone/magpie"
+   ],
+   "topic": "yetone-magpie",
+   "firstSeen": "2026-10-14T15:00:40+08:00"
+  },
+  {
+   "id": "49fe8a3fc3",
+   "title": "GitHub 密钥扫描换 ModernBERT：误报降、扫描快 86%",
+   "summary": "GitHub 用细调 ModernBERT 做上下文密钥分类，替代原 LLM 流水线：加权接受率 +11.5%、推送后扫描中位耗时降 86%、服务成本降 98%+，并让通用密钥检测能进 push protection。",
+   "links": [
+    "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/"
+   ],
+   "topic": "github-secret-modernbert",
+   "firstSeen": "2026-10-14T15:00:40+08:00"
+  },
+  {
+   "id": "619c2f7b72",
+   "title": "Gemini 4 Argon 登陆 GitHub Copilot",
+   "summary": "GitHub Changelog：Gemini 4 Argon 已对 Copilot Pro+/Max/Business/Enterprise 开放，可选于 VS Code、Copilot CLI、coding agent 等；按提供商列表价计费，企业可用模型策略开关。",
+   "links": [
+    "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot/"
+   ],
+   "topic": "gemini-argon-copilot",
+   "firstSeen": "2026-10-14T15:00:40+08:00"
+  },
+  {
+   "id": "f9b022c8d7",
+   "title": "欧洲科技岗「幽灵招聘」：近半职位挂了超过 60 天",
+   "summary": "Sottava 小时级抓取 735 家公司招聘系统：11238 个在招科技岗中，47% 已挂超 60 天、28% 超 120 天，中位年龄 51 天；葡萄牙等国尤其严重。对求职者和独立开发者都是信号。",
+   "links": [
+    "https://sottava.com/reports/ghost-jobs"
+   ],
+   "topic": "ghost-jobs-eu",
+   "firstSeen": "2026-10-14T15:00:40+08:00"
+  },
+  {
+   "id": "d12760993a",
+   "title": "GitHub 重建 Git 基建：冲刺 Agent 规模并发读写",
+   "summary": "GitHub Engineering：Agent 时代月提交暴涨，正把存储与计算解耦、把引用更新关键路径收窄；内部基准写吞吐最高约 35 倍。与 Anthropic 自研 Scion 形成对照，基础设施层正在重做。",
+   "links": [
+    "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/"
+   ],
+   "topic": "github-agent-scale-infra",
+   "firstSeen": "2026-10-14T15:00:40+08:00"
+  },
+  {
+   "id": "cafd7a733a",
+   "title": "法国 ANSSI 开源 MLA：带后量子加密的多层归档格式",
+   "summary": "法国网络安全局 ANSSI 开源 Multi Layer Archive（纯 Rust）：压缩、加密、数字签名与后量子密码一体，面向敏感归档场景；今日登上 HN 新帖。",
+   "links": [
+    "https://github.com/ANSSI-FR/MLA/"
+   ],
+   "topic": "anssi-mla",
+   "firstSeen": "2026-10-14T15:00:40+08:00"
   }
  ],
- "lastChecked": "2026-10-14T14:45:49+08:00"
+ "lastChecked": "2026-10-14T15:00:40+08:00"
 }
