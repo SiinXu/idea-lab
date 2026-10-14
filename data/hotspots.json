@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T00:27:29+08:00",
+ "lastUpdated": "2026-10-15T00:39:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5211,7 +5211,37 @@
    ],
    "topic": "ai-mass-decompiling-games",
    "firstSeen": "2026-10-15T00:27:29+08:00"
+  },
+  {
+   "id": "7c53bf3be8",
+   "title": "AI 降本或抬升软件工程师需求：杰文斯悖论再起",
+   "summary": "X 上热议：定制系统从约 20 万美元降到约 2 万后，更多公司会开建，软件岗位或随效率提升反而扩张；招聘数据与 BLS 展望也被拿来佐证。",
+   "links": [
+    "https://x.com/i/trending/2110384958040928649"
+   ],
+   "topic": "ai-boost-swe-demand",
+   "firstSeen": "2026-10-15T00:39:54+08:00"
+  },
+  {
+   "id": "e5418d0aa4",
+   "title": "Trail of Bits：主流包管理器几乎不校验仓库完整性",
+   "summary": "测了 25 个常用包管理器：仓库被投毒注入恶意代码时，只有极少数能发现；多数只信 HTTPS，拦不住被攻破的官方源。",
+   "links": [
+    "https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/"
+   ],
+   "topic": "pkg-managers-integrity",
+   "firstSeen": "2026-10-15T00:39:54+08:00"
+  },
+  {
+   "id": "3dd5a5840a",
+   "title": "删掉 16.8 万行注释：AI Agent 写码质量几乎没差",
+   "summary": "作者删掉近三分之一源码里的注释，再让 Agent 在有/无注释两套仓库上各做三轮同样功能；写出的代码质量几乎一样，质疑堆注释能否真帮到 Agent。",
+   "links": [
+    "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/"
+   ],
+   "topic": "delete-comments-agent-blind",
+   "firstSeen": "2026-10-15T00:39:54+08:00"
   }
  ],
- "lastChecked": "2026-10-15T00:27:29+08:00"
+ "lastChecked": "2026-10-15T00:39:54+08:00"
 }
