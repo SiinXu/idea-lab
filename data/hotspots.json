@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T12:58:54+08:00",
+ "lastUpdated": "2026-10-14T12:59:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3097,7 +3097,27 @@
    ],
    "topic": "gakku-ai-kids-coach",
    "firstSeen": "2026-10-14T12:58:54+08:00"
+  },
+  {
+   "id": "76434fb290",
+   "title": "用链式 metainfo commit 记发布历史：少占 refs、Git 原生可查",
+   "summary": "Mark Dominus 提案：每个环境/应用只留一条 ref，发布记录串成双亲 commit 链，替代海量 release tag；在 Anthropic 自研 Scion、agent 高频合入的背景下更有对照意义。",
+   "links": [
+    "https://blog.plover.com/prog/git/history-proposal.html"
+   ],
+   "topic": "git-release-metainfo-chain",
+   "firstSeen": "2026-10-14T12:59:33+08:00"
+  },
+  {
+   "id": "2ebb695cb8",
+   "title": "LeRobot：流式加载 100TB+ 机器人数据集",
+   "summary": "Hugging Face LeRobot 方向分享超大规模机器人数据的流式读取做法，降低本地下载门槛，方便训练与评测。",
+   "links": [
+    "https://twitter.com/LeRobotHF/status/2108544543171789290"
+   ],
+   "topic": "lerobot-100tb-streaming",
+   "firstSeen": "2026-10-14T12:59:33+08:00"
   }
  ],
- "lastChecked": "2026-10-14T12:58:54+08:00"
+ "lastChecked": "2026-10-14T12:59:33+08:00"
 }
