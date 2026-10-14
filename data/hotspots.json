@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T09:24:53+08:00",
+ "lastUpdated": "2026-10-14T09:25:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -2372,7 +2372,27 @@
    ],
    "topic": "altman-unknowable-ai",
    "firstSeen": "2026-10-14T09:24:53+08:00"
+  },
+  {
+   "id": "0cdd980447",
+   "title": "Garmin MCP：把运动手表数据接到 AI 编程助手",
+   "summary": "开发者把 Garmin 活动数据做成 MCP，让 Claude/Cursor 等 agent 直接读训练与恢复指标；个人软件/可穿戴 MCP 方向，适合做成「健康数据 → agent 教练」类 OPC。",
+   "links": [
+    "https://jackantico.io/garmin-mcp"
+   ],
+   "topic": "garmin-mcp",
+   "firstSeen": "2026-10-14T09:25:40+08:00"
+  },
+  {
+   "id": "f1cd0dc11e",
+   "title": "fresh：Agent 提 PR 后一键清理重置工作区",
+   "summary": "Show HN 工具，专门解决 coding agent 改完代码后仓库脏乱：清理临时文件、重置状态，方便下一轮 agent 接着干。Agent 运维小工具有付费/开源双路径。",
+   "links": [
+    "https://github.com/Obedience-Corp/fresh"
+   ],
+   "topic": "agent-fresh-cleanup",
+   "firstSeen": "2026-10-14T09:25:40+08:00"
   }
  ],
- "lastChecked": "2026-10-14T09:24:53+08:00"
+ "lastChecked": "2026-10-14T09:25:40+08:00"
 }
