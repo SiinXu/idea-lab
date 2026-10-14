@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T07:17:29+08:00",
+ "lastUpdated": "2026-10-15T07:32:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6362,7 +6362,37 @@
    ],
    "topic": "anthropic-q3-revenue-16-8b",
    "firstSeen": "2026-10-15T07:17:29+08:00"
+  },
+  {
+   "id": "1339a48cc8",
+   "title": "Colossal 发布 GenoMorph：用 AI 给渡渡鸟复活找基因「藏宝图」",
+   "summary": "Colossal Biosciences 推出 AI 平台 GenoMorph，结合 3D 形态学、比较基因组学和发育生物学，在古 DNA 稀缺时锁定值得编辑的基因；已从 70 多种鸟类头骨与发育数据中筛出约 2300 个渡渡鸟颅面编辑靶点，待实验室验证。",
+   "links": [
+    "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/"
+   ],
+   "topic": "colossal-genomorph-dodo-ai",
+   "firstSeen": "2026-10-15T07:32:06+08:00"
+  },
+  {
+   "id": "972ce96df3",
+   "title": "AI 设计「剪蛋白」的酶：只保留蛋白酶催化核心，其余全部重画",
+   "summary": "研究者用 AI 蛋白设计工具保留两类蛋白酶的催化核心、重新设计其余结构，得到可定向切断特定蛋白的新酶，并演示切割与神经退行性疾病相关的蛋白，为可编程蛋白降解疗法打开新路。",
+   "links": [
+    "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/"
+   ],
+   "topic": "ai-designed-proteases-2026-10",
+   "firstSeen": "2026-10-15T07:32:06+08:00"
+  },
+  {
+   "id": "7f74d52e19",
+   "title": "Ambrosia Energy 在德州建 10 GWh 电池厂，专供离网数据中心",
+   "summary": "Ambrosia Energy 在 TechCrunch Disrupt 宣布于奥斯汀附近动工 15 万平方英尺的 10 GWh 电池工厂，每年可支撑约 300 MW 现场电站，瞄准不依赖电网的 AI 数据中心供电。",
+   "links": [
+    "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/"
+   ],
+   "topic": "ambrosia-10gwh-offgrid-dc",
+   "firstSeen": "2026-10-15T07:32:06+08:00"
   }
  ],
- "lastChecked": "2026-10-15T07:17:29+08:00"
+ "lastChecked": "2026-10-15T07:32:06+08:00"
 }
