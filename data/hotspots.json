@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T19:15:08+08:00",
+ "lastUpdated": "2026-10-14T19:23:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4402,7 +4402,27 @@
    ],
    "topic": "quera-ai-laser-locking",
    "firstSeen": "2026-10-14T19:15:08+08:00"
+  },
+  {
+   "id": "c3424266c4",
+   "title": "iFixAi：两分钟给 AI Agent 做一次「业务体检」",
+   "summary": "开源 Agent 审计工具 iFixAi 今日 GitHub 趋势榜单日新增约 2100 星（总计约 2.65 万）。它不只测延迟、Token 或注入，而是按业务 KPI 和组织分工检查 Agent 是否真在做该做的事：默认 10 项、全量 60 项检查，可选自评、独立裁判或多模型裁判，输出 JSON/Markdown 评分卡；支持 CLI 向导、CI 脚本，或以插件/Skill 形式装进 Claude Code、Codex、Cursor 等。",
+   "links": [
+    "https://github.com/ifixai-ai/iFixAi"
+   ],
+   "topic": "ifixai-agent-audit",
+   "firstSeen": "2026-10-14T19:23:37+08:00"
+  },
+  {
+   "id": "2e8a64d0e7",
+   "title": "PentAGI：自托管多 Agent 自动渗透测试系统冲上 GitHub 趋势",
+   "summary": "vxcontrol 的 PentAGI 今日单日新增约 1800 星（总计约 2.87 万）。用自然语言描述目标后，多个专职 Agent 分工规划并在隔离 Docker 中调用 nmap、Metasploit、sqlmap 等 20+ 工具，成功经验存入 PostgreSQL + pgvector 与知识图谱；可接 10+ 家云端模型或本地 Ollama/vLLM，仅限授权测试场景。",
+   "links": [
+    "https://github.com/vxcontrol/pentagi"
+   ],
+   "topic": "pentagi-autonomous-pentest",
+   "firstSeen": "2026-10-14T19:23:37+08:00"
   }
  ],
- "lastChecked": "2026-10-14T19:15:08+08:00"
+ "lastChecked": "2026-10-14T19:23:37+08:00"
 }
