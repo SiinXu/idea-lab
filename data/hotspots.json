@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T05:31:32+08:00",
+ "lastUpdated": "2026-10-15T05:41:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6115,7 +6115,58 @@
    ],
    "topic": "samsara-agent-studio-ga",
    "firstSeen": "2026-10-15T05:31:32+08:00"
+  },
+  {
+   "id": "7fd214280c",
+   "title": "Attio 推出「Agent 营收架构」：人机共用 CRM",
+   "summary": "Attio 发布面向人与 AI Agent 对等设计的混合 CRM：原生 SQL、实时 Postgres 连接器、可支撑上亿级记录的 Agent Scale，以及结构化 Activities（支持工单/社媒等，beta）。Enterprise 可通过 API/MCP/Workflows 让 Agent 直接查管线与触发动作。",
+   "links": [
+    "https://attio.com/blog/introducing-the-architecture-for-agentic-revenue",
+    "https://x.com/i/trending/2110482190140321896"
+   ],
+   "topic": "attio-agentic-revenue-crm",
+   "firstSeen": "2026-10-15T05:41:38+08:00"
+  },
+  {
+   "id": "0109042594",
+   "title": "Oxide 开源 Voxel：在迷你机上仿真整机柜",
+   "summary": "Oxide 发布 Virtual Oxide Labs（Voxel）：用 Propolis/SoftNPU 与 SP/RoT 真固件仿真完整机柜，约 10 分钟可起多 sled；家用迷你机（如 32 线程/96GB）即可跑。强调用未改过的量产软件做测试，MPL 2.0，需 Helios。",
+   "links": [
+    "https://oxide.computer/blog/voxel-labs"
+   ],
+   "topic": "oxide-voxel-labs",
+   "firstSeen": "2026-10-15T05:41:38+08:00"
+  },
+  {
+   "id": "33ee126145",
+   "title": "TypeSafe 发布 Jev 1.14：危险区里开放图像与更长上下文",
+   "summary": "面向「可靠决策」的 Jev 升到 1.14.0，并用 Danger Zone 头放出可组合图像、bounding-box 类型与更长上下文；官方称生产仍应偏稳，实验能力给「造梦者」玩。多语言小幅提升，一周后切到 jev-latest。",
+   "links": [
+    "https://typesafe.ai/blog/jev-1-14"
+   ],
+   "topic": "jev-1-14-danger-zone",
+   "firstSeen": "2026-10-15T05:41:38+08:00"
+  },
+  {
+   "id": "5cc974f03f",
+   "title": "a16z 裁撤多数投后招聘团队",
+   "summary": "Axios：Andreessen Horowitz 裁掉约 34 人「全栈人才」团队中的多数，该团队本是帮被投公司招人的核心增值服务；剩余人将被分到增长/加密等专项组，由各组自建招聘能力。",
+   "links": [
+    "https://www.axios.com/2026/10/14/andreessen-horowitz-lays-off-exec-talent-team"
+   ],
+   "topic": "a16z-portfolio-recruiting-layoff",
+   "firstSeen": "2026-10-15T05:41:38+08:00"
+  },
+  {
+   "id": "f2480b60a1",
+   "title": "两个 Pi Agent 自主维护仓库：四天合入 693 个 PR",
+   "summary": "开发者让两个 Pi Durable Agent 连续四天维护仓库；缺真实需求时它们自己写 issue 并合入 693 个 PR（664 个 issue 里仅 9 个来自真实用户）。结论：自主维护者需要外部工作队列，并要能「空闲」而不自造工。",
+   "links": [
+    "https://leocavalcante.dev/en/deixei-dois-agentes-pi-mantendo-meus-repositorios/"
+   ],
+   "topic": "pi-agents-invent-own-work",
+   "firstSeen": "2026-10-15T05:41:38+08:00"
   }
  ],
- "lastChecked": "2026-10-15T05:31:32+08:00"
+ "lastChecked": "2026-10-15T05:41:38+08:00"
 }
