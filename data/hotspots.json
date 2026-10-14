@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T20:00:56+08:00",
+ "lastUpdated": "2026-10-14T20:16:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4444,7 +4444,17 @@
    ],
    "topic": "scientific-agent-skills",
    "firstSeen": "2026-10-14T20:00:56+08:00"
+  },
+  {
+   "id": "507a36091c",
+   "title": "Amazon 如何把全网价格一起抬高：费用叠加 + 「公平定价」条款",
+   "summary": "Not-Ship 的长文登上 HN 首页：许多第三方卖家要把近一半销售额交给 Amazon（佣金约 15%，再叠加 FBA 仓配、广告等「名义可选、实际必选」的费用），只能涨价；而 Amazon 的公平定价政策会在卖家于别处卖得更便宜时拿掉其购买按钮甚至封号，于是卖家连自家官网和 Target、Walmart 也得同步涨价。这正是 FTC 与 17 个州反垄断诉讼的核心，案件预计明年开庭。对做电商工具和比价产品的人来说，这是理解平台定价约束的好材料。",
+   "links": [
+    "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/"
+   ],
+   "topic": "amazon-fair-pricing-fees",
+   "firstSeen": "2026-10-14T20:16:45+08:00"
   }
  ],
- "lastChecked": "2026-10-14T20:00:56+08:00"
+ "lastChecked": "2026-10-14T20:16:45+08:00"
 }
