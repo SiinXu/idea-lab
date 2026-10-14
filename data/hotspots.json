@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T01:31:35+08:00",
+ "lastUpdated": "2026-10-15T01:47:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5635,7 +5635,58 @@
    ],
    "topic": "frodokem-msft",
    "firstSeen": "2026-10-15T01:31:35+08:00"
+  },
+  {
+   "id": "d533572c16",
+   "title": "OpenAI 英国子公司年营收近 2.93 亿英镑，人均人力成本约 230 万镑",
+   "summary": "Companies House 披露 OpenAI UK 2025 年 turnover 从 7920 万升至 2.93 亿英镑；110 名员工人力成本 2.58 亿，多为股权激励，收入来自对美母公司的 cost-plus 结算。",
+   "links": [
+    "https://cryptobriefing.com/openai-uk-subsidiary-profit-staff-costs-2025/",
+    "https://bizztor.com/news/openai-uk-staff-pay-258m-2025-accounts/"
+   ],
+   "topic": "openai-uk-293m-accounts",
+   "firstSeen": "2026-10-15T01:47:24+08:00"
+  },
+  {
+   "id": "547212f1fa",
+   "title": "EasyA 估值为 11 亿美元，拟 2027 上半年直接上市并考虑代币化股票",
+   "summary": "AI/区块链开发者教育平台 EasyA 获独立估值 11 亿美元，已向 SEC 提交草稿登记；宣称超 130 万用户，并探索首日即可交易的代币化股份。",
+   "links": [
+    "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares"
+   ],
+   "topic": "easya-1b1-direct-listing",
+   "firstSeen": "2026-10-15T01:47:24+08:00"
+  },
+  {
+   "id": "a8e2030589",
+   "title": "Android/Google Messages：可选 Gemini 云端增强防诈模式",
+   "summary": "增强保护用云端 Gemini 分析陌生发件人意图，并配合端侧 Nano 检查可疑链接；通话转接拦截、投屏时隐藏敏感信息同步推出，诈骗检测将扩到更多安卓厂商。",
+   "links": [
+    "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages"
+   ],
+   "topic": "android-gemini-scam-protection",
+   "firstSeen": "2026-10-15T01:47:24+08:00"
+  },
+  {
+   "id": "fe7e3bf246",
+   "title": "微软开源 PBC：用轻量机器学习校正 2–6 周天气预报偏差",
+   "summary": "Nature 论文披露 Probabilistic Bias Correction，可在 CPU 上跑，显著提升 ECMWF 物理与 AI 预报在降水/气温上的准确率，面向资源有限气象机构。",
+   "links": [
+    "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft"
+   ],
+   "topic": "microsoft-pbc-weather-ml",
+   "firstSeen": "2026-10-15T01:47:24+08:00"
+  },
+  {
+   "id": "c4c99b3850",
+   "title": "美国国会报告：约会 App 浪漫诈骗年损至少 13 亿美元",
+   "summary": "联合经济委员会披露 Match 旗下 Tinder 等平台诈骗规模；报告称部分机器学习模型多年未更新，同时肯定其后引入的人脸核验与新 AI 风控。",
+   "links": [
+    "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress"
+   ],
+   "topic": "us-dating-app-scam-report",
+   "firstSeen": "2026-10-15T01:47:24+08:00"
   }
  ],
- "lastChecked": "2026-10-15T01:31:35+08:00"
+ "lastChecked": "2026-10-15T01:47:24+08:00"
 }
