@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T05:03:01+08:00",
+ "lastUpdated": "2026-10-15T05:09:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6080,7 +6080,19 @@
    ],
    "topic": "anthropic-scion-mononoke-credit-2026-10",
    "firstSeen": "2026-10-15T05:03:01+08:00"
+  },
+  {
+   "id": "5b57733514",
+   "title": "Rocket Lab 再推迟 Neutron 首飞至 2027 年，盘后股价续跌",
+   "summary": "Rocket Lab 周三发布 Neutron 开发进展并提交 8-K：可复用中型火箭 Neutron 的首次发射目标从此前的 2025 年、2026 年底再次后移至 2027 年，但仍计划在 2026 年第四季度把火箭运上发射台。公司解释原因是工艺改进和碳复合材料部件的优化，强调可靠性和高发射频率优先于速度。Neutron 是 Rocket Lab 与 SpaceX 猎鹰 9 争夺大型商业卫星和美国国家安全发射任务的关键，消息公布后股价当日收跌约 7.85%，盘后继续下滑，在 X 上引发讨论。",
+   "links": [
+    "https://www.stocktitan.net/news/RKLB/rocket-lab-provides-update-on-neutron-development-and-adjusts-target-1znew34na4w9.html",
+    "https://www.stocktitan.net/sec-filings/RKLB/8-k-rocket-lab-corp-reports-material-event-807bb71070fd.html",
+    "https://x.com/i/trending/2110474739294838864"
+   ],
+   "topic": "rocketlab-neutron-delay-2027-2026-10",
+   "firstSeen": "2026-10-15T05:09:29+08:00"
   }
  ],
- "lastChecked": "2026-10-15T05:03:01+08:00"
+ "lastChecked": "2026-10-15T05:09:29+08:00"
 }
