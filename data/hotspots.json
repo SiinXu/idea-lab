@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T01:14:13+08:00",
+ "lastUpdated": "2026-10-15T01:31:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5484,7 +5484,158 @@
    ],
    "topic": "aside-mac-call-coach",
    "firstSeen": "2026-10-15T01:14:13+08:00"
+  },
+  {
+   "id": "2685cf1f8d",
+   "title": "EmbeddingGemma 2 与 LFM2.5：开源多模态嵌入与端侧 Agent",
+   "summary": "谷歌 EmbeddingGemma 2（约 7.4 亿参）把文本/代码/图/视频/音频塞进同一向量空间；Liquid AI 的 LFM2.5-24B-A2B 在消费级显卡上跑出很高 prompt 吞吐，偏工具调用与本地 Agent。",
+   "links": [
+    "https://x.com/i/trending/2110411773421781028"
+   ],
+   "topic": "embedding-gemma-2-lfm25",
+   "firstSeen": "2026-10-15T01:31:35+08:00"
+  },
+  {
+   "id": "7f77136806",
+   "title": "Gakku：用对话教孩子「怎么想」的 AI 教练",
+   "summary": "面向 6–16 岁的语音+视觉学习伴侣，强调追问与改写思路而非直接给答案；创始人 Annie Chen 本周上线，适合教育向产品观察。",
+   "links": [
+    "https://x.com/i/trending/2110411776726880393"
+   ],
+   "topic": "gakku-ai-coach",
+   "firstSeen": "2026-10-15T01:31:35+08:00"
+  },
+  {
+   "id": "667e2c0064",
+   "title": "Sentient 上线 AI 模型指纹排行榜",
+   "summary": "用训练期埋入的行为指纹证明模型来源，即使微调/蒸馏后仍可查询验证；同步开源 mlprints，微软、Meta 等方案参与评测。",
+   "links": [
+    "https://x.com/i/trending/2110388521299231185"
+   ],
+   "topic": "sentient-fingerprinting-lb",
+   "firstSeen": "2026-10-15T01:31:35+08:00"
+  },
+  {
+   "id": "a1fe7a791e",
+   "title": "麦肯锡用 AI 客户分身筛初级顾问",
+   "summary": "入职申请者与扮演客户的 AI 对谈约 10 分钟，合伙人旁观考察倾听与临场判断；建立在内部工具 Lilli 之上，招聘流程 AI 化再进一步。",
+   "links": [
+    "https://x.com/i/trending/2110395763201388639"
+   ],
+   "topic": "mckinsey-ai-avatar-hiring",
+   "firstSeen": "2026-10-15T01:31:35+08:00"
+  },
+  {
+   "id": "2669ccd398",
+   "title": "越狱 PS5 跑本地大模型：约 20 tok/s 的 Qwen 27B",
+   "summary": "模组社区在 PS5 上跑本地 LLM（PS5LM），27B 约 20 tok/s、更小模型更快；同时还有自制商店与模拟器，硬件侧本地 AI 又多一条路径。",
+   "links": [
+    "https://x.com/i/trending/2110048876543799426",
+    "https://www.reddit.com/r/LocalLLM/comments/1x4y61f/qwen_27b_at_20_toks_on_a_jailbroken_ps5s_gpu_i/"
+   ],
+   "topic": "ps5-local-ai-jailbreak",
+   "firstSeen": "2026-10-15T01:31:35+08:00"
+  },
+  {
+   "id": "6fe15735df",
+   "title": "Waymo 在三城向所有人开放全无人网约车",
+   "summary": "圣安东尼奥、圣地亚哥、坦帕今日起任何人可下载 App 叫车，含圣安东尼奥机场；Waymo 商业城市继续扩围。",
+   "links": [
+    "https://www.unite.ai/waymo-opens-fully-autonomous-rides-to-everyone-in-three-cities/"
+   ],
+   "topic": "waymo-three-cities-open",
+   "firstSeen": "2026-10-15T01:31:35+08:00"
+  },
+  {
+   "id": "717479e178",
+   "title": "ASML 强劲订单缓解「AI 资本开支见顶」担忧",
+   "summary": "路透：ASML 上调四季度展望，芯片设备订单显示 AI 相关资本开支仍在持续，市场情绪随之回稳。",
+   "links": [
+    "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/"
+   ],
+   "topic": "asml-ai-chip-orders",
+   "firstSeen": "2026-10-15T01:31:35+08:00"
+  },
+  {
+   "id": "be362ab167",
+   "title": "Timescale 开源 pg_vectorsearch：比 IVFFlat/HNSW 更快的向量索引",
+   "summary": "面向 Postgres 的新向量索引，宣称吞吐优于常见 pgvector 索引；检索增强与 Agent 记忆基础设施又多一个可选项。",
+   "links": [
+    "https://github.com/timescale/pg_vectorsearch"
+   ],
+   "topic": "pg-vectorsearch-timescale",
+   "firstSeen": "2026-10-15T01:31:35+08:00"
+  },
+  {
+   "id": "8404278126",
+   "title": "瑞典 TV4：AI Agent 误删剪辑素材，节目推迟到 2027",
+   "summary": "电视台用 AI Agent 处理素材时发生技术故障，已剪辑内容被抹掉，真人秀《The Challenge》推迟；生产流水线接入 Agent 的风险案例。",
+   "links": [
+    "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage"
+   ],
+   "topic": "tv4-ai-agent-erases",
+   "firstSeen": "2026-10-15T01:31:35+08:00"
+  },
+  {
+   "id": "80cdd07917",
+   "title": "阿姆斯特丹警方应美方请求扣押左翼 ISP A/I 服务器",
+   "summary": "荷兰媒体报道：阿姆斯特丹警察在美国请求下查扣意大利互联网服务商 A/I 的服务器，牵涉跨境执法与基础设施管辖权。",
+   "links": [
+    "https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960"
+   ],
+   "topic": "amsterdam-ai-isp-server",
+   "firstSeen": "2026-10-15T01:31:35+08:00"
+  },
+  {
+   "id": "1f9db07244",
+   "title": "Go 1.27：更好的 HTTP/1 连接复用",
+   "summary": "官方博客介绍 Go 1.27 对 HTTP/1 连接复用的改进，有利于高并发客户端与代理类服务降延迟、减握手开销。",
+   "links": [
+    "https://go.dev/blog/http-connection-reuse"
+   ],
+   "topic": "go-127-http-reuse",
+   "firstSeen": "2026-10-15T01:31:35+08:00"
+  },
+  {
+   "id": "2d35a8bbd5",
+   "title": "谷歌在后台把手机号关联到所有已登录账号",
+   "summary": "Android Authority：系统会在用户无感的情况下完成手机号校验并跨账号绑定，隐私与账号隔离讨论升温。",
+   "links": [
+    "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/"
+   ],
+   "topic": "google-phone-link-accounts",
+   "firstSeen": "2026-10-15T01:31:35+08:00"
+  },
+  {
+   "id": "3ec62f7f80",
+   "title": "Chainguard Mythos：首个 harness 漏洞披露",
+   "summary": "Chainguard 公开其 Mythos harness 的首次安全披露，聚焦 Agent/自动化执行环境的攻击面与供应链风险。",
+   "links": [
+    "https://www.chainguard.dev/unchained/the-first-disclosure-from-our-mythos-harness"
+   ],
+   "topic": "chainguard-mythos-disclosure",
+   "firstSeen": "2026-10-15T01:31:35+08:00"
+  },
+  {
+   "id": "77cf2c8892",
+   "title": "Vghost：Linux vhost 九年老洞可本地提权与逃逸虚拟机",
+   "summary": "腾讯科恩实验室披露 CVE-2026-74580：约九年的 vhost 缺陷可导致本地 root 与 VM 逃逸，云与虚拟化运维需关注补丁。",
+   "links": [
+    "https://matrix.tencent.com/en/2026/10/12/vghost-cve-2026-74580"
+   ],
+   "topic": "vghost-linux-vhost",
+   "firstSeen": "2026-10-15T01:31:35+08:00"
+  },
+  {
+   "id": "a7cc9a7081",
+   "title": "微软再推 FrodoKEM：偏保守的抗量子密钥封装",
+   "summary": "微软研究院介绍 FrodoKEM，强调保守安全假设的后量子算法选择，适合长期密钥与合规场景选型讨论。",
+   "links": [
+    "https://www.microsoft.com/en-us/research/blog/frodokem-a-conservative-quantum-safe-cryptographic-algorithm/"
+   ],
+   "topic": "frodokem-msft",
+   "firstSeen": "2026-10-15T01:31:35+08:00"
   }
  ],
- "lastChecked": "2026-10-15T01:14:13+08:00"
+ "lastChecked": "2026-10-15T01:31:35+08:00"
 }
