@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T15:59:30+08:00",
+ "lastUpdated": "2026-10-14T16:13:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3835,7 +3835,28 @@
    ],
    "topic": "lecun-anthropic-safety-control",
    "firstSeen": "2026-10-14T15:59:30+08:00"
+  },
+  {
+   "id": "c76bd44337",
+   "title": "用户实测：Claude Opus 5.5 对战 Gemini 4 Argon，速度与质感各有胜场",
+   "summary": "社区把两款新模型扔进同一套创意任务：Argon 常以更低价、更快出片（例如太空列车动画约 4 分钟/$3.4，对 Opus 约两小时/$23）；Opus 在物理细节与自主写码主动性上更稳。Artificial Analysis 智力指数接近（约 54 vs 53），Argon 标价约 $2/$10、Opus 约 $4/$20；选型更看任务类型，没有通吃王者。",
+   "links": [
+    "https://x.com/i/trending/2110279138858946570",
+    "https://artificialanalysis.ai/models/comparisons/gemini-4-argon-vs-claude-opus-5-5-high"
+   ],
+   "topic": "opus55-vs-argon-user-tests",
+   "firstSeen": "2026-10-14T16:13:27+08:00"
+  },
+  {
+   "id": "0c392681fd",
+   "title": "开发者焦虑：AI 周末做出的 App，别人也能同样快克隆",
+   "summary": "X 上多位开发者称用 Agent 几天做出产品后，很快看到同类被同样速度复制，开始怀疑纯软件技能的长期溢价。讨论共识偏向：分发、信任、领域知识与真实问题仍贵；哈佛等研究也显示代码量上去、完成功能未必同步涨，人类更多转向评审与架构。",
+   "links": [
+    "https://x.com/i/trending/2110277135654850910"
+   ],
+   "topic": "ai-weekend-app-clone-anxiety",
+   "firstSeen": "2026-10-14T16:13:27+08:00"
   }
  ],
- "lastChecked": "2026-10-14T15:59:30+08:00"
+ "lastChecked": "2026-10-14T16:13:27+08:00"
 }
