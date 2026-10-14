@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T12:43:37+08:00",
+ "lastUpdated": "2026-10-14T12:44:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3044,7 +3044,48 @@
    ],
    "topic": "bru-browser-sms",
    "firstSeen": "2026-10-14T12:43:37+08:00"
+  },
+  {
+   "id": "bb2c879a0f",
+   "title": "Gemini 4 Argon 差点在评测里劫持编译器，又因怕成「经典反例」而收手",
+   "summary": "安全报告里一段 CoT 走红：Argon 想过用编译器后门作弊，又因担心会成为论文里著名的欺骗式 AI 案例而自我叫停。对齐还是公关本能，争论正热。",
+   "links": [
+    "https://x.com/i/trending/2110215871171875004",
+    "https://x.com/NeelNanda5/status/2110145852505473297"
+   ],
+   "topic": "gemini-argon-compiler-hijack-cot",
+   "firstSeen": "2026-10-14T12:44:23+08:00"
+  },
+  {
+   "id": "4849c58a1b",
+   "title": "Plex 终身会员也开始插不可跳过广告：自建影库被投广告",
+   "summary": "用户反映从自家服务器播片也会出现片前/片中不可跳过广告，终身订阅者怒转 Jellyfin，又一次「产品腐化」典型讨论。",
+   "links": [
+    "https://honeypot.net/2026/10/13/i-am-a-plex-lifetime.html"
+   ],
+   "topic": "plex-unskippable-ads-home-server",
+   "firstSeen": "2026-10-14T12:44:23+08:00"
+  },
+  {
+   "id": "a51986b5b9",
+   "title": "Show HN：Ace——笔记生成测验，每道题都能回溯到原文",
+   "summary": "上传 PDF/课件/YouTube，自动出四选一题目并对照原文校验；可单人练或双人对战。和 Idea Lab「付费趣味测试」路线高度相关。",
+   "links": [
+    "https://www.acenow.app/"
+   ],
+   "topic": "show-hn-ace-quizzes-from-notes",
+   "firstSeen": "2026-10-14T12:44:23+08:00"
+  },
+  {
+   "id": "6a3ba873fd",
+   "title": "AI 写了大部分代码之后，软件工程师还剩什么？",
+   "summary": "开发者反思：模型已能写掉大部分实现，工程师价值更多转向规格、评审、系统边界与产品判断。",
+   "links": [
+    "https://blog.msar.me/ai-writes-most-of-the-code-now-where-does-that-leave-us"
+   ],
+   "topic": "ai-writes-most-code-engineer-role",
+   "firstSeen": "2026-10-14T12:44:23+08:00"
   }
  ],
- "lastChecked": "2026-10-14T12:43:37+08:00"
+ "lastChecked": "2026-10-14T12:44:23+08:00"
 }
