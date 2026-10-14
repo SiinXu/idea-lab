@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T12:30:26+08:00",
+ "lastUpdated": "2026-10-14T12:31:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -3014,7 +3014,27 @@
    ],
    "topic": "webpage-copy-protection-impossible",
    "firstSeen": "2026-10-14T12:30:26+08:00"
+  },
+  {
+   "id": "7dac1f0244",
+   "title": "Show HN：AgentGate——给 Agent 工具调用的鉴权网关",
+   "summary": "进程外拦截工具调用，用亚 40ms 神经分类头评估注入与爆炸半径，再套确定性策略；适合本地/生产 Agent 安全层。",
+   "links": [
+    "https://github.com/mohitdebian/AgentGate"
+   ],
+   "topic": "agentgate-auth-gateway",
+   "firstSeen": "2026-10-14T12:31:24+08:00"
+  },
+  {
+   "id": "3eb1b10d6f",
+   "title": "Homard：用总电源轨侧信道锤击片外内存",
+   "summary": "新论文展示经聚合电源轨泄露对片外内存做 Rowhammer 类攻击，提醒硬件隔离与侧信道仍是硬问题。",
+   "links": [
+    "https://arxiv.org/abs/2610.12621"
+   ],
+   "topic": "homard-rowhammer",
+   "firstSeen": "2026-10-14T12:31:24+08:00"
   }
  ],
- "lastChecked": "2026-10-14T12:30:26+08:00"
+ "lastChecked": "2026-10-14T12:31:24+08:00"
 }
