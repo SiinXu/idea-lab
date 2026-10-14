@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T00:00:36+08:00",
+ "lastUpdated": "2026-10-15T00:11:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5090,7 +5090,97 @@
    ],
    "topic": "apple-keynote-inspector-ads",
    "firstSeen": "2026-10-15T00:00:36+08:00"
+  },
+  {
+   "id": "c875d2d017",
+   "title": "Anthropic 主管：开源权重模型风险更大，呼吁强制安全规则",
+   "summary": "Anthropic 国际负责人在都柏林峰会称权重一公开就失控；与 OpenAI 一道呼吁英国从自愿承诺转向强制事件报告等规则。",
+   "links": [
+    "https://x.com/i/trending/2110395765520810230"
+   ],
+   "topic": "anthropic-open-weight-risk",
+   "firstSeen": "2026-10-15T00:11:42+08:00"
+  },
+  {
+   "id": "33206f58c7",
+   "title": "Anthropic 冲刺最高约 2 万亿美元 IPO，代币价却在创新低",
+   "summary": "公司筹备可能创纪录的 IPO，市场传言正式路演或从 11 月 9 日那周开始；同时 Haiku/Sonnet 5.5 降价后代币价承压。",
+   "links": [
+    "https://x.com/i/trending/2110399516763677138"
+   ],
+   "topic": "anthropic-ipo-2t",
+   "firstSeen": "2026-10-15T00:11:42+08:00"
+  },
+  {
+   "id": "7357d40da0",
+   "title": "NVIDIA 向英国 AI 安全研究承诺 2.5 亿美元算力",
+   "summary": "五年内通过本地云伙伴提供算力，重点支持安全 agent、沙箱与基准，并点名牛津、UCL、帝国理工相关实验室。",
+   "links": [
+    "https://x.com/i/trending/2110348269540741501"
+   ],
+   "topic": "nvidia-uk-ai-safety-250m",
+   "firstSeen": "2026-10-15T00:11:42+08:00"
+  },
+  {
+   "id": "3ca0807fbb",
+   "title": "Gemini 4 教 Apptronik Apollo 看一段视频就学会投沙包",
+   "summary": "Gemini 4 Argon 从单段人类演示生成仿真、训练并迁移到真机，机器人连续投中含「隔空」球；视频到仿真到真机管线压缩训练周期。",
+   "links": [
+    "https://x.com/i/trending/2110335366058168569"
+   ],
+   "topic": "gemini4-apollo-cornhole",
+   "firstSeen": "2026-10-15T00:11:42+08:00"
+  },
+  {
+   "id": "55d8bb1abd",
+   "title": "订阅仍赢：开发者老婆宁买驾考题库也不用 AI 自建",
+   "summary": "kitze 分享妻子宁愿付订阅换持续更新的真题库，也不用 AI 现搓 App；讨论指向「省维护、对真考」仍是付费理由。",
+   "links": [
+    "https://x.com/i/trending/2110356295140130827"
+   ],
+   "topic": "saas-vs-ai-build-driving-test",
+   "firstSeen": "2026-10-15T00:11:42+08:00"
+  },
+  {
+   "id": "316fab0b96",
+   "title": "全球打掉背后约 10 亿封钓鱼短信的网络",
+   "summary": "BleepingComputer：跨国执法行动打击支撑约 10 亿封钓鱼短信的基础设施网络。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/"
+   ],
+   "topic": "phishing-1b-takedown",
+   "firstSeen": "2026-10-15T00:11:42+08:00"
+  },
+  {
+   "id": "afcfcbfe5d",
+   "title": "Explosion 发布 Ellf：用编码助手搭 NLP 的「缺一块」",
+   "summary": "Explosion.ai 介绍 Ellf，面向用编码助手构建 NLP 流水线时补齐的缺失环节（标注/评估相关）。",
+   "links": [
+    "https://explosion.ai/blog/introducing-ellf"
+   ],
+   "topic": "explosion-ellf",
+   "firstSeen": "2026-10-15T00:11:42+08:00"
+  },
+  {
+   "id": "c05f52e18f",
+   "title": "Tov：专为编码 Agent 设计的编程语言",
+   "summary": "新语言 tov.sh 宣称面向 coding agent 工作流，强调可被模型稳定生成与验证的语法约束。",
+   "links": [
+    "https://tov.sh/"
+   ],
+   "topic": "tov-lang-coding-agents",
+   "firstSeen": "2026-10-15T00:11:42+08:00"
+  },
+  {
+   "id": "65c863660a",
+   "title": "Show HN：Eulix 本地代码索引与调用图，大仓可选接 LLM",
+   "summary": "本地建代码索引和 call graph，大仓库结构导航可不依赖云端 LLM。",
+   "links": [
+    "https://github.com/Nurysso/eulix"
+   ],
+   "topic": "eulix-local-code-index",
+   "firstSeen": "2026-10-15T00:11:42+08:00"
   }
  ],
- "lastChecked": "2026-10-15T00:00:36+08:00"
+ "lastChecked": "2026-10-15T00:11:42+08:00"
 }
