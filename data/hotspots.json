@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T03:08:50+08:00",
+ "lastUpdated": "2026-10-15T03:26:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -5880,7 +5880,59 @@
    ],
    "topic": "gitlab-cve-2026-97229",
    "firstSeen": "2026-10-15T03:08:50+08:00"
+  },
+  {
+   "id": "976f4f5fb2",
+   "title": "Cisco 邮件网关再爆在野利用：附件可写文件并 root 执行",
+   "summary": "CVE-2026-76519（CVSS 9.8）：开启 File Reputation 且 Content Scanner Tools 低于 25.3.0.5525 时，攻击者发带特制附件的邮件即可向系统写文件并可能拿到 root。这是本月第二起 Secure Email Gateway 在野利用（九月还有 SQL 注入 CVE-2026-76461）；最快修复是更新扫描器组件，无需整机升级重启。",
+   "links": [
+    "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html"
+   ],
+   "topic": "cisco-seg-cve-2026-76519",
+   "firstSeen": "2026-10-15T03:26:39+08:00"
+  },
+  {
+   "id": "bd21f0d092",
+   "title": "IMF：AI 板块崩盘可能通过杠杆与「循环融资」全球传染",
+   "summary": "十月全球金融稳定报告点名 AI：14 笔交易约 3000 亿美元股权 + 6500 亿美元债务，换来 1.4 万亿美元远期营收承诺；杠杆 ETF、融资与 hyperscaler 互投形成同向风险。若投资回报不及预期，亚洲高 beta 市场首当其冲，全球 GDP 情景可低于基线约 3 个百分点。",
+   "links": [
+    "https://www.tomshardware.com/tech-industry/big-tech/the-imf-highlights-how-a-financial-wipeout-in-the-ai-sector-could-become-a-global-contagion-agency-report-shines-light-on-circular-economics-and-leveraged-loans",
+    "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
+   ],
+   "topic": "imf-ai-contagion-gfsr",
+   "firstSeen": "2026-10-15T03:26:39+08:00"
+  },
+  {
+   "id": "34ebfbad26",
+   "title": "Stof：把模型写的逻辑当 JSON 一样沙箱执行",
+   "summary": "Show HN：Stof 是「带函数的 JSON」，Rust/JS/Python 进程内毫秒级沙箱跑模型生成的规则、校验与变换，权限仅限你注入的函数。对比容器、eval、WASM 更轻，适合 agent 动态改业务逻辑。",
+   "links": [
+    "https://stof.dev/"
+   ],
+   "topic": "stof-ai-logic-sandbox",
+   "firstSeen": "2026-10-15T03:26:39+08:00"
+  },
+  {
+   "id": "4bfed4bc8e",
+   "title": "Bluebox MCP：编码 Agent 可直接「问生产」",
+   "summary": "Bluebox 把观测做成 MCP：Claude Code / Cursor / Codex 等用自然语言问线上流量与根因，返回带证据的结论，而不是一堆查询工具。适合做「改代码前先验产线」的 agent 工作流。",
+   "links": [
+    "https://blog.bluebox.ai/your-coding-agent-can-now-ask-bluebox/"
+   ],
+   "topic": "bluebox-mcp-prod-obs",
+   "firstSeen": "2026-10-15T03:26:39+08:00"
+  },
+  {
+   "id": "5121399148",
+   "title": "Hugging Face 推出 Llama Windows：托盘一键跑本地模型",
+   "summary": "WinUI3 托盘应用封装 llama.cpp：从 Hub 一键下 GGUF、无管理员安装、本机 OpenAI 兼容 API（localhost:9931），支持 Windows on Arm 与 RTX Spark。macOS 的 llama.app 正式迎来 Windows 对照物。",
+   "links": [
+    "https://huggingface.co/blog/huggingface/llama-windows",
+    "https://github.com/ggml-org/Llama-Windows"
+   ],
+   "topic": "llama-windows-tray",
+   "firstSeen": "2026-10-15T03:26:39+08:00"
   }
  ],
- "lastChecked": "2026-10-15T03:08:50+08:00"
+ "lastChecked": "2026-10-15T03:26:39+08:00"
 }
