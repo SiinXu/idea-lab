@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-14T19:14:20+08:00",
+ "lastUpdated": "2026-10-14T19:15:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -4382,7 +4382,27 @@
    ],
    "topic": "cli-anything-agent-native",
    "firstSeen": "2026-10-14T19:14:20+08:00"
+  },
+  {
+   "id": "5c3fe5b844",
+   "title": "Show HN：用 TypeScript 从零手写一个 LLM",
+   "summary": "作者在 Node.js/TypeScript 里从数据加载、嵌入、注意力到训练循环逐步实现 GPT 风格模型，强调换语言重写能逼自己搞懂细节；每章有可运行入口，后续还计划嵌 WebGPU 演示。适合当「不黑盒学 Transformer」的自学路线。",
+   "links": [
+    "https://book.humanexperiences.io/"
+   ],
+   "topic": "llm-from-scratch-typescript",
+   "firstSeen": "2026-10-14T19:15:08+08:00"
+  },
+  {
+   "id": "6f00590685",
+   "title": "QuEra：用 AI Agent 在安全边界内自动锁激光，量子机半夜也能自救",
+   "summary": "中性原子量子计算机依赖极稳激光；QuEra 用 Anthropic 合作的 Model Hardware Standard，让 Claude 在约 70 万美元级硬件上设计重锁与调参逻辑。验证中 700 次扰动恢复 695 次成功，常见故障数秒内复位，残余频率噪声可降约 5 倍；运行时是可审计确定性脚本，AI 只在研发环。HN 今日上榜。",
+   "links": [
+    "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers"
+   ],
+   "topic": "quera-ai-laser-locking",
+   "firstSeen": "2026-10-14T19:15:08+08:00"
   }
  ],
- "lastChecked": "2026-10-14T19:14:20+08:00"
+ "lastChecked": "2026-10-14T19:15:08+08:00"
 }
