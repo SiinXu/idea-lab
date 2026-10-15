@@ -20,6 +20,15 @@ def master(x,d,p):
        "请输出：1) 本周 7 天逐日任务（每天 ≤ 2 小时）；2) 落地页文案（标题、副标题、3 个卖点、FAQ 5 条）；3) 首批 10 个用户的触达话术 3 版；4) 自动化脚本清单与伪代码；5) 用我的真实数据替换上面所有假设数字的方法。",
        "规则：不编造数据和链接；所有数字标注来源或标为[假设]；不承诺收益；遵守平台规则与当地法律。"]
     return '\n'.join(L)
+# 人工校订的马来语（覆盖离线机翻），源文件 scripts/ms_deep.json：{中文行: 马来语}
+_MS=None
+def ms_fix(trm):
+    global _MS
+    if _MS is None:
+        _MS=json.load(open(os.path.join(os.path.dirname(__file__),'ms_deep.json')))
+    for z,t in _MS.items():
+        if z in trm.get('ms',{}): trm['ms'][z]=t
+    return trm
 def enrich(x,d):
     p=DP[x['id']]
     d['plus']=dict(f10=p['f10'],must=p['must'],cut=p['cut'],t48=p['t48'],moat=p['moat'],jobs=[j.strip() for j in re.split('；',p['jobs']) if j.strip()],ns=p['ns'])
@@ -59,6 +68,7 @@ if __name__=='__main__':
             e=trm['en'].get(z) or en[z]; trm['en'][z]=e; trm['zh-Hant'][z]=cc.convert(z)
             for l in Ls:
                 if z not in trm[l]: trm[l][z]=fasttr.batch([e],'en',l,cache)[e]
+        ms_fix(trm)
         json.dump({'d':d,'tr':trm},open(f,'w'),ensure_ascii=False)
     json.dump(cache,open('scripts/cache.json','w'),ensure_ascii=False)
     print('done',flush=True)

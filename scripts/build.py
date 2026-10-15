@@ -6,7 +6,7 @@ from green import G
 from cn import C,CP
 from params import P
 from detail import build
-from deepen import enrich
+from deepen import enrich,ms_fix
 import re,markdown
 I=I+G+C
 P.update(dict(CP))
@@ -58,6 +58,7 @@ for n,x in enumerate(I):
     for z in S:
         en=tr(z,'zh','en');trm['en'][z]=en;trm['zh-Hant'][z]=cc.convert(z)
         for l in L: trm[l][z]=tr(en,'en',l)
+    ms_fix(trm)
     d['deep']=DEEP.get(x['id'],'')
     json.dump({'d':d,'tr':trm},open(f"docs/d/{x['id']}.json",'w'),ensure_ascii=False)
     os.makedirs(f"docs/idea/{x['id']}",exist_ok=True)
