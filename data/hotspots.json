@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T22:15:05+08:00",
+ "lastUpdated": "2026-10-15T22:28:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8422,7 +8422,57 @@
    ],
    "topic": "nasa-venus-davinci-veritas-2026-10",
    "firstSeen": "2026-10-15T22:15:05+08:00"
+  },
+  {
+   "id": "3c6b938cc9",
+   "title": "Semafor：AI 热潮下一道瓶颈是钱，不是芯片",
+   "summary": "芯片、电力、内存之后，融资方开始收紧：数据中心债、CoreWeave 债券与 SpaceX 保费都在变贵。股权市场仍乐观，债市已先紧张。",
+   "links": [
+    "https://www.semafor.com/article/10/15/2026/the-ai-booms-next-bottleneck-is-money-not-chips"
+   ],
+   "topic": "ai-boom-money-bottleneck-semafor-2026-10",
+   "firstSeen": "2026-10-15T22:28:35+08:00"
+  },
+  {
+   "id": "6a4b46585f",
+   "title": "Qualcomm 诉 Arm：陪审团只判赔 2 美元，但后续或关数十亿美元授权费",
+   "summary": "特拉华州陪审团认定 Arm 两项违约/干扰，却只判赔 2 美元；法官阶段仍可能决定 Qualcomm 是否五年免付 Arm 版税，影响整条芯片授权格局。",
+   "links": [
+    "https://www.androidauthority.com/qualcomm-lawsuit-arm-2-usd-damages-3723616/"
+   ],
+   "topic": "qualcomm-arm-2-dollar-damages-2026-10",
+   "firstSeen": "2026-10-15T22:28:35+08:00"
+  },
+  {
+   "id": "1c91550106",
+   "title": "Anthropic 与 OPAQUE 达成协议：许可机密 AI 技术并吸纳部分工程师",
+   "summary": "非整体收购：Anthropic 拿走机密计算/可验证 AI 相关能力与部分团队，OPAQUE 公司仍存续。对企业私有化与可验证 Agent 安全是信号。",
+   "links": [
+    "https://www.opaque.co/resources/articles/from-berkeley-research-to-the-future-of-ai-opaques-next-chapter"
+   ],
+   "topic": "anthropic-opaque-license-hire-2026-10",
+   "firstSeen": "2026-10-15T22:28:35+08:00"
+  },
+  {
+   "id": "b5d7639c0d",
+   "title": "Open Scion：专为编码 Agent 设计的开源版本控制",
+   "summary": "面向多 Agent 并行改代码的版本控制思路，开源版 Scion 上 GitHub，适合和 worktree/蜂群工作流一起看。",
+   "links": [
+    "https://github.com/feder-cr/open_scion"
+   ],
+   "topic": "open-scion-agent-vcs-2026-10",
+   "firstSeen": "2026-10-15T22:28:35+08:00"
+  },
+  {
+   "id": "9e64bbec63",
+   "title": "404 Media：Tesla「安全协议」挡住国土安全部装车载追踪器",
+   "summary": "联邦搜查令申请披露：HSI 探员因 Tesla 车载安全机制无法安装追踪设备，引出对现代车辆反追踪能力的讨论。",
+   "links": [
+    "https://www.404media.co/teslas-security-protocols-stopped-dhs-from-installing-a-tracking-device/"
+   ],
+   "topic": "tesla-dhs-tracker-blocked-2026-10",
+   "firstSeen": "2026-10-15T22:28:35+08:00"
   }
  ],
- "lastChecked": "2026-10-15T22:15:05+08:00"
+ "lastChecked": "2026-10-15T22:28:35+08:00"
 }
