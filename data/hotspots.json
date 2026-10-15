@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T10:44:24+08:00",
+ "lastUpdated": "2026-10-15T10:55:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6885,7 +6885,40 @@
    ],
    "topic": "asia-chip-rout-ai-funding-2026-10-15",
    "firstSeen": "2026-10-15T10:44:24+08:00"
+  },
+  {
+   "id": "e000cd1a92",
+   "title": "DeepSeek 网页与 API 部分中断：V4 Pro / V4.1 Flash / 对话均受影响",
+   "summary": "官方状态页显示 10 月 15 日约 08:11（北京时间）起出现部分中断，对话服务、V4.1 Flash API 与 V4 Pro API 受影响；09:08 更新为「已定位原因，正在修复」，仍处中断状态，暂无恢复时间。适合关注国产模型可用性与备用路由。",
+   "links": [
+    "https://status.deepseek.com/",
+    "https://www.panews.io/articles/01a13d1d-ec6f-7101-9e9e-018f4f741d76"
+   ],
+   "topic": "deepseek-partial-outage-2026-10-15",
+   "firstSeen": "2026-10-15T10:55:50+08:00"
+  },
+  {
+   "id": "116eea760b",
+   "title": "GitHub Copilot 上线 HydraFusion Max：多模型编排加深推理",
+   "summary": "HydraFusion 更新模型池（Opus 5.5、Astra、Sol、Luna），按阶段调 reasoning：草稿中等、审阅更高；并新增 Max 档，面向更难任务。VS Code / Copilot App / CLI 均可选，仍为研究预览；多阶段按各模型标准价计费，成本可能高于单模型。",
+   "links": [
+    "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option/",
+    "https://opentools.ai/news/github-copilot-hydrafusion-max-multi-model-orchestration"
+   ],
+   "topic": "github-hydrafusion-max-2026-10",
+   "firstSeen": "2026-10-15T10:55:50+08:00"
+  },
+  {
+   "id": "09a39f2629",
+   "title": "Google Earth AI 地理空间推理 Agent：规划 + 专域工具碾压裸 LLM",
+   "summary": "Google Research 发布 Geospatial Reasoning 技术报告：把 WeatherNext、洪水、人口、遥感等 Earth AI 能力做成可调用 skill，先规划再在工作区执行。评测显示专域工具与 upfront planning 对开放式空间任务关键；WHO 非洲区等伙伴已用于疫情走廊制图。Ask Google Earth 与 A2A API 扩大实验准入。",
+   "links": [
+    "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+    "https://research.google/pubs/google-earth-ai-geospatial-reasoning-agent-capabilities-and-a-systematic-evaluation/"
+   ],
+   "topic": "google-earth-ai-geospatial-agent-2026-10",
+   "firstSeen": "2026-10-15T10:55:50+08:00"
   }
  ],
- "lastChecked": "2026-10-15T10:44:24+08:00"
+ "lastChecked": "2026-10-15T10:55:50+08:00"
 }
