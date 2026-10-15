@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T20:13:30+08:00",
+ "lastUpdated": "2026-10-15T20:25:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8071,7 +8071,69 @@
    ],
    "topic": "microsoft-defender-linux-desktop-2026-10",
    "firstSeen": "2026-10-15T20:13:30+08:00"
+  },
+  {
+   "id": "4cbe73db05",
+   "title": "HeyGen Voice：按画面场景匹配声场的语音克隆",
+   "summary": "用一段录音 + 目标画面生成贴合场景的配音（混响、麦距、环境声），盲测领先 ElevenLabs v4 / Cartesia；Artificial Analysis 语音榜暂居第一。",
+   "links": [
+    "https://www.heygen.com/research/heygen-voice-scene-aware-voice-cloning",
+    "https://www.heygen.com/heygen-voice",
+    "https://x.com/i/trending/2110693532705194085"
+   ],
+   "topic": "heygen-voice-scene-aware-2026-10",
+   "firstSeen": "2026-10-15T20:25:11+08:00"
+  },
+  {
+   "id": "ce98d0ab8f",
+   "title": "caveman：让编码 Agent「说人少话」省约 65% token",
+   "summary": "GitHub 今日热榜项目：用穴居人式短回复 skill/代理压缩 Agent 对话，宣称可砍掉约六成半 token，适合长时间跑会话。",
+   "links": [
+    "https://github.com/JuliusBrussee/caveman"
+   ],
+   "topic": "caveman-token-skill-2026-10",
+   "firstSeen": "2026-10-15T20:25:11+08:00"
+  },
+  {
+   "id": "4003eac764",
+   "title": "ECC：面向 Claude Code / Codex / Cursor 的 Agent Harness 优化套件",
+   "summary": "affaan-m/ECC 冲上 GitHub 趋势：把 skills、本能、记忆、安全与「先调研再写码」打包成可跨多家编码 Agent 用的性能优化框架。",
+   "links": [
+    "https://github.com/affaan-m/ECC"
+   ],
+   "topic": "affaan-ecc-harness-2026-10",
+   "firstSeen": "2026-10-15T20:25:11+08:00"
+  },
+  {
+   "id": "3de13b42e4",
+   "title": "Anthropic 官方 Claude Code 插件目录开源上架",
+   "summary": "anthropics/claude-plugins-official 登上 GitHub 趋势：由 Anthropic 维护的高质量 Claude Code 插件目录，方便一键发现与安装官方插件。",
+   "links": [
+    "https://github.com/anthropics/claude-plugins-official"
+   ],
+   "topic": "claude-plugins-official-dir-2026-10",
+   "firstSeen": "2026-10-15T20:25:11+08:00"
+  },
+  {
+   "id": "233a95ef76",
+   "title": "HRT：用 eBPF 在全球机群上揪出「神秘网络流量」",
+   "summary": "Hudson River Trading 技术博客：在带宽吃紧时，用 eBPF 跨全球算力集群追踪难解释的网络流量，定位研究与交易基础设施里的隐形开销。",
+   "links": [
+    "https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/"
+   ],
+   "topic": "hrt-ebpf-mystery-traffic-2026-10",
+   "firstSeen": "2026-10-15T20:25:11+08:00"
+  },
+  {
+   "id": "7d9ea7f629",
+   "title": "Your C is not standard C：你以为的 C，往往不是标准 C",
+   "summary": "HN 热议长文：日常编译器扩展、未定义行为与「能跑」不等于标准 C；提醒依赖实现细节的底层代码在换工具链时会踩坑。",
+   "links": [
+    "https://sebsite.pw/w/20261012-notstdc.html"
+   ],
+   "topic": "your-c-not-standard-c-2026-10",
+   "firstSeen": "2026-10-15T20:25:11+08:00"
   }
  ],
- "lastChecked": "2026-10-15T20:13:30+08:00"
+ "lastChecked": "2026-10-15T20:25:11+08:00"
 }
