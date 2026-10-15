@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T07:25:54+08:00",
+ "lastUpdated": "2026-10-16T07:47:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -10421,7 +10421,95 @@
    ],
    "topic": "bebox-haiku-emulator-2026-10",
    "firstSeen": "2026-10-16T07:25:54+08:00"
+  },
+  {
+   "id": "919a2d85f8",
+   "title": "新加坡上线活体神经元机架：Cortical Labs CL1 生物计算机",
+   "summary": "NUS、DayOne 与 Cortical Labs 在新加坡部署约 20 台 CL1：干细胞培养的人神经元接硅电极，整架功耗约千瓦级，瞄准药物发现等稀疏数据场景；仍是研究样机，非替代 GPU。",
+   "links": [
+    "https://medicine.nus.edu.sg/news/nus-medicine-dayone-and-cortical-labs-unveil-biological-data-center-prototype-in-singapore/",
+    "https://www.straitstimes.com/tech/forget-silicon-chip-servers-singapores-newest-data-centre-needs-to-be-fed",
+    "https://x.com/i/trending/2110876832538964448"
+   ],
+   "topic": "singapore-cortical-labs-cl1-2026-10",
+   "firstSeen": "2026-10-16T07:47:31+08:00"
+  },
+  {
+   "id": "fd3434b40a",
+   "title": "XDC 选 Concordium 做 AI Agent 链上身份徽章",
+   "summary": "XDC 的 Agent 支付市场接入 Concordium：护照/人脸核身后给 Agent 挂「真人/企业 backing」徽章，隐私数据不上链，试图给 x402 类机机支付补问责层。",
+   "links": [
+    "https://x.com/i/trending/2110770329811603762"
+   ],
+   "topic": "xdc-concordium-agent-identity-2026-10",
+   "firstSeen": "2026-10-16T07:47:31+08:00"
+  },
+  {
+   "id": "16f92c730d",
+   "title": "工程师 AI 疲劳从哪来：thoughtbot 拆解与缓解",
+   "summary": "thoughtbot 梳理开发者用 AI 后的认知过载：审查生成代码、上下文切换、质量不确定；给出节奏与流程上的减压做法，适合做团队 Agent 工作流参考。",
+   "links": [
+    "https://thoughtbot.com/blog/what-causes-ai-fatigue-for-engineers-and-how-to-ease-the-strain",
+    "https://news.ycombinator.com/item?id=50111887"
+   ],
+   "topic": "ai-fatigue-engineers-thoughtbot-2026-10",
+   "firstSeen": "2026-10-16T07:47:31+08:00"
+  },
+  {
+   "id": "ba818ad3e8",
+   "title": "开发者把 25 年前 Palm OS 工具链开源到 GitHub",
+   "summary": "The Register 报道：有人公开尘封约 25 年的 Palm OS 开发工具，怀旧硬件党与逆向社区跟着热闹了一波。",
+   "links": [
+    "https://www.theregister.com/offbeat/2026/10/15/give-him-a-hand-dev-publishes-25-year-old-palm-os-tools-to-github/5303443",
+    "https://news.ycombinator.com/item?id=50111591"
+   ],
+   "topic": "palm-os-tools-github-25yr-2026-10",
+   "firstSeen": "2026-10-16T07:47:31+08:00"
+  },
+  {
+   "id": "83301b6085",
+   "title": "自制 6502 笔记本电脑：复古 CPU 也能成整机",
+   "summary": "爱好者做出基于 MOS 6502 的笔记本电脑整机分享，复古计算与自制硬件交叉圈层在传播。",
+   "links": [
+    "https://www.maddox.pro/?p=448",
+    "https://news.ycombinator.com/item?id=50111537"
+   ],
+   "topic": "6502-laptop-maddox-2026-10",
+   "firstSeen": "2026-10-16T07:47:31+08:00"
+  },
+  {
+   "id": "ce7748356e",
+   "title": "永久共享相册要开 iCloud 照片：Apple 政策收紧",
+   "summary": "Apple 支持文档明确：要长期保留 Shared Albums，需启用 iCloud Photos；本地/非订阅玩法空间变窄。",
+   "links": [
+    "https://support.apple.com/en-us/108314",
+    "https://news.ycombinator.com/item?id=50111702"
+   ],
+   "topic": "icloud-photos-shared-albums-required-2026-10",
+   "firstSeen": "2026-10-16T07:47:31+08:00"
+  },
+  {
+   "id": "4f2a5250b5",
+   "title": "陶哲轩上 Numberphile：谈 AI 时代「没有英雄了」",
+   "summary": "Numberphile 新视频里陶哲轩谈 AI 证明与数学研究节奏；与他博客上「我们为何还在做科研」讨论形成呼应。",
+   "links": [
+    "https://www.youtube.com/watch?v=bAnwMdfcMVw",
+    "https://news.ycombinator.com/item?id=50111619"
+   ],
+   "topic": "tao-numberphile-no-more-heroes-2026-10",
+   "firstSeen": "2026-10-16T07:47:31+08:00"
+  },
+  {
+   "id": "a7148621f6",
+   "title": "免费/低价 AI 工具精选清单上 GitHub",
+   "summary": "Show HN 风格合集：整理免费与低成本 AI 工具入口，方便快速扫一眼可用替代品。",
+   "links": [
+    "https://github.com/ShaikhWarsi/free-ai-tools",
+    "https://news.ycombinator.com/item?id=50111860"
+   ],
+   "topic": "free-ai-tools-curated-list-2026-10",
+   "firstSeen": "2026-10-16T07:47:31+08:00"
   }
  ],
- "lastChecked": "2026-10-16T07:25:54+08:00"
+ "lastChecked": "2026-10-16T07:47:31+08:00"
 }
