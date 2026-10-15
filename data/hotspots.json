@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T02:26:49+08:00",
+ "lastUpdated": "2026-10-16T02:40:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9354,7 +9354,55 @@
    ],
    "topic": "pan-os-cve-2026-0322-rce-2026-10",
    "firstSeen": "2026-10-16T02:26:49+08:00"
+  },
+  {
+   "id": "87a93a35b2",
+   "title": "Perplexity 开源 SPACE：Agent 沙箱平台，网络安全股应声下跌",
+   "summary": "Perplexity 把支撑其 Computer 个人 Agent 的 SPACE 沙箱开源：基于 Firecracker 微虚拟机，隔离网络与凭据，支持快照/暂停/分支；自称扛住了类似 OpenAI/Hugging Face 事件的网络绕过测试。CoreWeave、Akamai、Crusoe 将向客户提供；Semafor 报道后多家网络安全股走弱。适合做成 Idea Lab 的 Agent 安全运行时点子。",
+   "links": [
+    "https://www.perplexity.ai/hub/blog/open-sourcing-space",
+    "https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software",
+    "https://space.docs.perplexity.ai/guide/introduction.html"
+   ],
+   "topic": "perplexity-space-oss-sandbox-2026-10",
+   "firstSeen": "2026-10-16T02:40:24+08:00"
+  },
+  {
+   "id": "821a1b7eb9",
+   "title": "Ledger Atom：Op3n 发布「安全屏 + 安全芯片」设备，主打 Agent 终审与身份证明",
+   "summary": "Ledger 在 Op3n 2026 发布 Atom：日常 App 跑在 Android 侧，密钥与敏感审批由独立 Ledger OS 安全芯片接管；Secure Mode 下安全屏与 Secure Bar 不可被伪造，并带物理隐私开关切断摄像头/麦克风。Founders Edition 预约定价 849 美元、预计 2027 年夏季发货；与已上线的 Agent Intent（Agent 提案、硬件终审）配套，预装 Solana Mobile Seeker。",
+   "links": [
+    "https://www.ledger.com/blog-introducing-ledger-atom",
+    "https://shop.ledger.com/pages/ledger-atom",
+    "https://www.ledger.com/blog-ledger-atom-security-architecture"
+   ],
+   "topic": "ledger-atom-op3n-2026-10",
+   "firstSeen": "2026-10-16T02:40:24+08:00"
+  },
+  {
+   "id": "bb05c2bb9d",
+   "title": "Google 加强 AI Mode / AI Overviews 内联链接：更高位、官方链与创作者主页",
+   "summary": "Google 更新 AI 搜索体验：内联链接会更频繁出现在回答靠前位置；测试在顶部专用区块展示一两处「完成任务的官方站点」并附说明；时效文章轮播扩到更多地区与语言；相关文章链接加缩略图；AI Mode 中视频结果测试可点的创作者/出版商 Search 主页。Publisher 最关心的流量回流信号，对站群 GEO/SEO 有直接影响。",
+   "links": [
+    "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/",
+    "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links",
+    "https://9to5google.com/2026/10/15/google-ai-mode-overviews-links/"
+   ],
+   "topic": "google-ai-mode-inline-links-2026-10",
+   "firstSeen": "2026-10-16T02:40:24+08:00"
+  },
+  {
+   "id": "c751fd31d7",
+   "title": "Fission 完成 1000 万美元 A 轮：代币化私募基金退出从约 200 天压到约 90 秒",
+   "summary": "纽约初创 Fission 由 Pantera Capital 领投完成 1000 万美元 Series A（Circle Ventures 等跟投），做代币化私募基金份额的流动性层：合格投资者钱包报价后原子结算换 USDC，平台再走传统赎回；对接 Centrifuge 等生态，覆盖 Apollo 等资产方。把「上链发行」补上「可秒级退出」这一环。",
+   "links": [
+    "https://fortune.com/2026/10/15/pantera-capital-backed-startup-fission-10-million-investors-tokenized-funds-liquidity/",
+    "https://www.prnewswire.com/news-releases/fission-raises-10m-series-a-led-by-pantera-capital-to-bring-liquidity-to-digital-private-markets-302908670.html",
+    "https://x.com/i/trending/2110738079799812604"
+   ],
+   "topic": "fission-series-a-tokenized-funds-2026-10",
+   "firstSeen": "2026-10-16T02:40:24+08:00"
   }
  ],
- "lastChecked": "2026-10-16T02:26:49+08:00"
+ "lastChecked": "2026-10-16T02:40:24+08:00"
 }
