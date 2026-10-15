@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T12:13:52+08:00",
+ "lastUpdated": "2026-10-15T12:30:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7049,7 +7049,17 @@
    ],
    "topic": "dev-identity-grief-coding-agents-2026-10",
    "firstSeen": "2026-10-15T12:13:52+08:00"
+  },
+  {
+   "id": "f68ba41e85",
+   "title": "微软联手日本警方端掉 YAM Store：背后诈骗短信超 10 亿条",
+   "summary": "微软与日本警察厅联合调查，摧毁诈骗分子交易市场 YAM Store 及钓鱼工具包 CoGUI、Iron Man。自 2026 年 1 月以来，三者累计推送超 10 亿条恶意消息（其中约 7.5 亿条针对微软用户），波及 150 多个国家、7.5 万家机构，运营者获利数千万美元。YAM Store 倒卖被盗或伪造的微软、谷歌账号，还抢注过期域名冒充真实机构；Iron Man 提供 2300 多套冒充银行、警方的模板。微软已封禁 2 万多个关联账号、拦截 10 万多个仿冒域名。钓鱼正在变成「工具包 + 账号市场」的产业链。",
+   "links": [
+    "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown"
+   ],
+   "topic": "security",
+   "firstSeen": "2026-10-15T12:30:00+08:00"
   }
  ],
- "lastChecked": "2026-10-15T12:13:52+08:00"
+ "lastChecked": "2026-10-15T12:30:00+08:00"
 }
