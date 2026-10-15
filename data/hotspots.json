@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T23:10:53+08:00",
+ "lastUpdated": "2026-10-15T23:29:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8599,7 +8599,39 @@
    ],
    "topic": "clickhouse-oltp-offload-2026-10",
    "firstSeen": "2026-10-15T23:10:53+08:00"
+  },
+  {
+   "id": "69a59ba12b",
+   "title": "GridSnap：开源 macOS 窗口网格吸附（Divvy 风）",
+   "summary": "开源替代 Divvy 的 macOS 窗口吸附工具，按网格快速铺窗，适合多显示器与编码/写作分屏；刚登上 HN 前沿。",
+   "links": [
+    "https://github.com/konieczkow/gridsnap"
+   ],
+   "topic": "gridsnap-macos-divvy-2026-10",
+   "firstSeen": "2026-10-15T23:29:09+08:00"
+  },
+  {
+   "id": "c4849e1bed",
+   "title": "Fortran 满 70 岁：曼彻斯特办庆祝活动，科学计算仍在用",
+   "summary": "首份 Fortran 手册发表将满七十年；剑桥气候计算研究所将在曼彻斯特科学与工业博物馆办回顾会，核工程、气象与材料等领域仍以它为主力。",
+   "links": [
+    "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+    "https://news.ycombinator.com/item?id=50104726"
+   ],
+   "topic": "fortran-70-years-2026-10",
+   "firstSeen": "2026-10-15T23:29:09+08:00"
+  },
+  {
+   "id": "c5d6a75748",
+   "title": "Lovable 上线 Growth 工具：同一聊天里做 SEO 与投放 Google/Meta 广告",
+   "summary": "设定「首批 100 注册」等目标后，可生成增长计划，并直接连 Google Ads / Meta 做搜索、YouTube、Facebook、Instagram 投放；预算与上线需你确认，广告费由平台结算。",
+   "links": [
+    "https://lovable.dev/blog/introducing-growth-tools",
+    "https://docs.lovable.dev/features/growth-tools"
+   ],
+   "topic": "lovable-growth-tools-ads-2026-10",
+   "firstSeen": "2026-10-15T23:29:09+08:00"
   }
  ],
- "lastChecked": "2026-10-15T23:10:53+08:00"
+ "lastChecked": "2026-10-15T23:29:09+08:00"
 }
