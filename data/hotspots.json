@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T14:11:50+08:00",
+ "lastUpdated": "2026-10-15T14:27:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7314,7 +7314,40 @@
    ],
    "topic": "anthropic-revenue-growth-slowdown-2026-10",
    "firstSeen": "2026-10-15T14:11:50+08:00"
+  },
+  {
+   "id": "ca9247ace4",
+   "title": "OpenAI 给员工上反间谍课：防「美人计」和游乐场套话",
+   "summary": "据 WSJ/Mint，OpenAI 培训员工警惕竞争对手和国家背景的渗透：有人在旧金山游乐场借带娃搭讪打听工作，还有「美人计」。员工被要求公共场合不穿带 logo 衣服、用防窥膜、开完会擦白板；Anthropic、Google 员工也收到类似提醒。",
+   "links": [
+    "https://www.livemint.com/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-11792030183031.html",
+    "https://x.com/i/trending/2110615051384291649"
+   ],
+   "topic": "openai-honeypot-spy-training",
+   "firstSeen": "2026-10-15T14:27:32+08:00"
+  },
+  {
+   "id": "d0dc9d978e",
+   "title": "Axios：OpenAI 窃听案暴露新风险，AI 工具在帮内鬼踩点",
+   "summary": "FBI 宣誓书称，涉案工程师用内部「效率 Agent」查会议室和当天会议，又用配偶的聊天机器人账号让 AI 帮忙做连续录音器并加密存储卡。AI 一边降低了间谍门槛，一边也让调查方能顺着记录追查。",
+   "links": [
+    "https://www.axios.com/2026/10/14/ai-tools-are-aiding-would-be-spies",
+    "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/"
+   ],
+   "topic": "axios-ai-tools-aiding-spies",
+   "firstSeen": "2026-10-15T14:27:32+08:00"
+  },
+  {
+   "id": "062d3c09e9",
+   "title": "Show HN：Flipflop，基于 iroh 的设备间常驻文件隧道",
+   "summary": "一次配对就在两台或多台设备间建立可信隧道，之后随时互传文件、链接和文本；走蓝牙、局域网或公网都行，用 Rust 写，提供 Linux/macOS/Windows 和安卓版。",
+   "links": [
+    "https://github.com/andunieee/flipflop",
+    "https://news.ycombinator.com/item?id=50099136"
+   ],
+   "topic": "flipflop-iroh-tunnel",
+   "firstSeen": "2026-10-15T14:27:32+08:00"
   }
  ],
- "lastChecked": "2026-10-15T14:11:50+08:00"
+ "lastChecked": "2026-10-15T14:27:32+08:00"
 }
