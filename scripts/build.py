@@ -6,6 +6,7 @@ from green import G
 from cn import C,CP
 from params import P
 from detail import build
+from deepen import enrich
 import re,markdown
 I=I+G+C
 P.update(dict(CP))
@@ -52,7 +53,7 @@ def lines(o,S):
     elif isinstance(o,dict): [lines(v,S) for v in o.values()]
     elif isinstance(o,(list,tuple)): [lines(v,S) for v in o]
 for n,x in enumerate(I):
-    d=build(x,P[x['id']]);S=set();lines(d,S)
+    d=enrich(x,build(x,P[x['id']]));S=set();lines(d,S)
     trm={l:{} for l in ['zh-Hant','en']+L}
     for z in S:
         en=tr(z,'zh','en');trm['en'][z]=en;trm['zh-Hant'][z]=cc.convert(z)
