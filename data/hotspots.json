@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T14:55:33+08:00",
+ "lastUpdated": "2026-10-15T15:09:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7408,7 +7408,40 @@
    ],
    "topic": "brutal-csharp-game-framework-2026-10",
    "firstSeen": "2026-10-15T14:55:33+08:00"
+  },
+  {
+   "id": "325a3d12a5",
+   "title": "台积电 Q3 净利再创新高：同比增 68.7%，AI 芯片需求续推",
+   "summary": "台积电公布 2026 年三季度净利约 7631 亿新台币（约 463 亿美元营收），连续第六季创纪录；高性能计算占营收约 68%，3nm 成最大制程贡献，经营利润率 58.7% 超指引上沿。",
+   "links": [
+    "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+    "https://x.com/i/trending/2110611225033711812"
+   ],
+   "topic": "tsmc-q3-2026-record-profit-ai",
+   "firstSeen": "2026-10-15T15:09:29+08:00"
+  },
+  {
+   "id": "eda9fd244d",
+   "title": "Vercel 百万美金沙盒挑战挖出 Linux 内核零日：可泄宿主机内存甚至逃逸",
+   "summary": "两周收到 1285 份报告、发放约 24.2 万美元赏金；最严重发现来自 Paulos Yibelo：微 VM 内特制网络包可泄露宿主机内存、撞垮宿主机，并在匹配配置的 Firecracker/KVM 上演示提权；补丁私密审阅中、CVE 待发，无客户数据被读证据。",
+   "links": [
+    "https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge",
+    "https://x.com/i/trending/2110580588554100802"
+   ],
+   "topic": "vercel-sandbox-linux-zeroday-2026-10",
+   "firstSeen": "2026-10-15T15:09:29+08:00"
+  },
+  {
+   "id": "29ad242422",
+   "title": "Linus 怒批强制披露 AI 工具：「UTTERLY STUPID」，类比禁止用编译器",
+   "summary": "面对内核 Assited-By/禁 AI 工具争论，Torvalds 在邮件列表用「不许用编译器、不许用编辑器写 commit」讽刺披露强迫症，强调要懂代码而非声明工具；与维护者峰会拟取消 Assisted-By 强制要求同一波，现又上 X 热议。",
+   "links": [
+    "https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140",
+    "https://x.com/i/trending/2110627285627781121"
+   ],
+   "topic": "linus-utterly-stupid-ai-disclosure-2026-10",
+   "firstSeen": "2026-10-15T15:09:29+08:00"
   }
  ],
- "lastChecked": "2026-10-15T14:55:33+08:00"
+ "lastChecked": "2026-10-15T15:09:29+08:00"
 }
