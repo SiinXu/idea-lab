@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T22:43:48+08:00",
+ "lastUpdated": "2026-10-15T22:55:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8504,7 +8504,62 @@
    ],
    "topic": "ai-hw-harness-reverse-engineer-2026-10",
    "firstSeen": "2026-10-15T22:43:48+08:00"
+  },
+  {
+   "id": "6e2e05e1f4",
+   "title": "HTTP 响应头里的提示注入：扫了 2.17 亿次网页",
+   "summary": "Signals Corps 抽查 Common Crawl 约 2.17 亿条响应：7959 站用头字段对着 AI 说话（多半是 x-llms-txt/MCP 指针），30 站尝试注入；风险取决于 fetch 工具是否把 headers 塞进模型。默认只传 body、指针当新请求、不把「听站点的话」写进提示，是更稳的防线。",
+   "links": [
+    "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+    "https://news.ycombinator.com/item?id=50104310"
+   ],
+   "topic": "prompt-injection-http-headers-217m-2026-10",
+   "firstSeen": "2026-10-15T22:55:48+08:00"
+  },
+  {
+   "id": "4cd0346ddc",
+   "title": "Show HN：DEsk——拟物风 Wayland Linux 桌面",
+   "summary": "开源 Wayland 桌面，走复古拟物视觉；刚登上 HN 前沿，适合喜欢「看得见按钮」的本地桌面实验。",
+   "links": [
+    "https://github.com/fyzugx/DEsk",
+    "https://news.ycombinator.com/item?id=50103338"
+   ],
+   "topic": "wayland-desk-skeuomorphic-2026-10",
+   "firstSeen": "2026-10-15T22:55:48+08:00"
+  },
+  {
+   "id": "f2d3a33285",
+   "title": "Deltabox：可 diff / commit / abort 的轻量 Agent 沙箱",
+   "summary": "面向编码 Agent 的轻量沙箱：改动能 diff、可提交也可一键回滚，强调 agent-native 的变更可控，适合本地试跑危险操作。",
+   "links": [
+    "https://github.com/delta-box/deltabox-lite",
+    "https://news.ycombinator.com/item?id=50104406"
+   ],
+   "topic": "deltabox-agent-sandbox-2026-10",
+   "firstSeen": "2026-10-15T22:55:48+08:00"
+  },
+  {
+   "id": "0e49bf69b6",
+   "title": "NVIDIA 放 Nemotron 3.5 Super VL：120B/12B 活跃，可看图看视频",
+   "summary": "今日上 Hugging Face 的视觉语言模型：Mamba-2+MoE+注意力，总参 120B、活跃约 12B，上下文最长约 100 万 token，支持图/视频与工具调用；BF16 参考权重，商用可用 OpenMDW-1.1。",
+   "links": [
+    "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16",
+    "https://news.ycombinator.com/item?id=50104542"
+   ],
+   "topic": "nemotron-3-5-super-vl-2026-10-15",
+   "firstSeen": "2026-10-15T22:55:48+08:00"
+  },
+  {
+   "id": "5ff0300b5e",
+   "title": "BrokenML：Agent 修坏掉的分布式训练，权限越大越便宜",
+   "summary": "46 个真实风格故障（形状不齐、卡集体通信、OOM、坏 checkpoint 等）× 三档权限：只看配置代码、加实时日志、整机 root。更高权限可把修作业成本压到约 1/8；强模型在只读文件时仍能解多数题，日志几乎可替代上机。",
+   "links": [
+    "https://zhebrak.io/posts/brokenml/",
+    "https://news.ycombinator.com/item?id=50104501"
+   ],
+   "topic": "brokenml-agent-fix-workloads-2026-10",
+   "firstSeen": "2026-10-15T22:55:48+08:00"
   }
  ],
- "lastChecked": "2026-10-15T22:43:48+08:00"
+ "lastChecked": "2026-10-15T22:55:48+08:00"
 }
