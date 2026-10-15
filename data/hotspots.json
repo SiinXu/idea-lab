@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T11:54:02+08:00",
+ "lastUpdated": "2026-10-15T12:13:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7004,7 +7004,52 @@
    ],
    "topic": "metr-embedded-assessments",
    "firstSeen": "2026-10-15T11:54:02+08:00"
+  },
+  {
+   "id": "722dc4d5e7",
+   "title": "Bun 内置 bun check：把 typescript-go 迁到 Rust，类型检查最高约 6 倍快",
+   "summary": "Bun v1.4.3 上线内置 TypeScript 类型检查器 bun check：移植自 typescript-go、用 Rust 重写，读 tsconfig、报错与 tsc 对齐、吃满多核，不发 JS/.d.ts。官方对比在大仓库上可比 tsc 7 快约 3–6 倍、内存更省；也可 bund test/build --check。类型检查正从「另装 typescript」变成运行时一等能力。",
+   "links": [
+    "https://bun.com/blog/bun-v1.4.3",
+    "https://news.ycombinator.com/item?id=50098793"
+   ],
+   "topic": "bun-check-typescript-go-rust-2026-10",
+   "firstSeen": "2026-10-15T12:13:52+08:00"
+  },
+  {
+   "id": "bc7f5e9ec5",
+   "title": "斯坦福 NCM：粗到细并行生成文本，比强扩散基线快约 10–31 倍",
+   "summary": "Hazy Research 提出 Next-Concept Modeling：先把文本编成由粗到细的离散概念层，再逐层并行预测，而不是逐 token 自回归或整段反复扩散。翻译/摘要/推理等任务上质量可对标强扩散模型，墙钟生成快约 10–31 倍，训练 token 也少约 4–5 倍。论文与代码已公开，给非自回归生成又开了一条路。",
+   "links": [
+    "https://hazyresearch.stanford.edu/blog/2026-10-12-ncm",
+    "https://arxiv.org/abs/2610.14162",
+    "https://news.ycombinator.com/item?id=50098822"
+   ],
+   "topic": "stanford-ncm-next-concept-modeling-2026-10",
+   "firstSeen": "2026-10-15T12:13:52+08:00"
+  },
+  {
+   "id": "27dfbec597",
+   "title": "Flock CEO 在 Disrupt 辩护监控：要少犯罪就别「暂停进步」",
+   "summary": "Flock 创始人 Garrett Langley 在 TechCrunch Disrupt 2026 回应全国性反弹：把车牌/环境监控比作无人车，称想提高破案率就不该暂停技术进步，否认人脸识别但承认可追踪行人。客户解约与裁员压力下，他把伦理与政策默认甩给市政，引发「隐私换治安」再辩论——和 AI 被强推上线的反弹高度同构。",
+   "links": [
+    "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+    "https://www.neowin.net/news/flock-ceo-doubles-down-if-you-want-a-crime-free-society-be-ready-to-give-up-your-privacy/"
+   ],
+   "topic": "flock-ceo-privacy-progress-disrupt-2026-10",
+   "firstSeen": "2026-10-15T12:13:52+08:00"
+  },
+  {
+   "id": "58576b9270",
+   "title": "开发者吐槽「编码身份被 Agent 掏空」：HN/X 上的职业哀伤潮",
+   "summary": "一条 HN 长帖与 X 热点同步发酵：资深工程师说几个月几乎不再手写代码，主要给 Agent 补上下文、审海量生成，认知吞吐被拉高后疲惫、迷茫；有人失业、副业教编程也被 AI 挤掉。讨论把「效率红利」和「身份/热情流失」摆在一起，提示 Agent 产品除了编排，还得管人机节奏与心理健康。",
+   "links": [
+    "https://news.ycombinator.com/item?id=49389408",
+    "https://x.com/i/trending/2110578579134439480"
+   ],
+   "topic": "dev-identity-grief-coding-agents-2026-10",
+   "firstSeen": "2026-10-15T12:13:52+08:00"
   }
  ],
- "lastChecked": "2026-10-15T11:54:02+08:00"
+ "lastChecked": "2026-10-15T12:13:52+08:00"
 }
