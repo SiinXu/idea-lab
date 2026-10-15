@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T13:55:14+08:00",
+ "lastUpdated": "2026-10-15T14:11:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7292,7 +7292,29 @@
    ],
    "topic": "barista-typestate-llm-agents-ase-2026",
    "firstSeen": "2026-10-15T13:55:14+08:00"
+  },
+  {
+   "id": "ea0a9f1024",
+   "title": "Meta AI 被指在巴西大选中「双标」：给 Flávio 出图、拦 Lula",
+   "summary": "Folha 测试发现：「Lula 13」红黄海报提示词报错，同样的「Flávio 22」绿黄海报却能生成带口号的图；Lula 阵营已向巴西高等选举法院投诉，10 月 25 日决选在即。Meta 称遵守选举规则并补了名字+号码拦截，但后续独立测试仍有偏差。生成式 AI 在选举中的中立性再成焦点。",
+   "links": [
+    "https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/meta-ai-creates-campaign-material-for-flavio-bolsonaro-and-blocks-lula-content.shtml",
+    "https://news.ycombinator.com/item?id=50098937",
+    "https://x.com/i/trending/2110418780295925841"
+   ],
+   "topic": "meta-ai-brazil-election-bias-2026-10",
+   "firstSeen": "2026-10-15T14:11:50+08:00"
+  },
+  {
+   "id": "5c98d95344",
+   "title": "Anthropic 营收环比增速放缓至约 1.8%，年化约 768 亿美元",
+   "summary": "X 热议汇总：截至 9 月下旬 Anthropic 年化营收约 768 亿美元，但月环比增速从年初两位数降到约 1.8%；同期 OpenAI 年化接近 500 亿美元、凭编程模型抢回份额。分析认为 9 月 Opus 5.5 发布或带来反弹，两家合计年底有望达 2000–2300 亿美元，属短期波动而非行业降温。",
+   "links": [
+    "https://x.com/i/trending/2110605392782712940"
+   ],
+   "topic": "anthropic-revenue-growth-slowdown-2026-10",
+   "firstSeen": "2026-10-15T14:11:50+08:00"
   }
  ],
- "lastChecked": "2026-10-15T13:55:14+08:00"
+ "lastChecked": "2026-10-15T14:11:50+08:00"
 }
