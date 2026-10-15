@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T04:56:41+08:00",
+ "lastUpdated": "2026-10-16T05:15:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9876,7 +9876,41 @@
    ],
    "topic": "adobe-nvidia-agentic-creation-2026-10",
    "firstSeen": "2026-10-16T04:56:41+08:00"
+  },
+  {
+   "id": "9100b77233",
+   "title": "Vercel Daemons 公测：常驻容器拉队列干活，不必再开 HTTP",
+   "summary": "10 月 15 日上线公测：在 Fluid compute 上跑常驻容器，从 Vercel Queues、Celery/BullMQ/Kafka、Temporal 或自托管 CI runner 拉任务；与应用同项目部署，按区域维持副本并自动重启。适合 Agent/后台 worker，不接 inbound HTTP。",
+   "links": [
+    "https://vercel.com/changelog/vercel-daemons-is-now-in-public-beta",
+    "https://vercel.com/docs/daemons"
+   ],
+   "topic": "vercel-daemons-public-beta-2026-10",
+   "firstSeen": "2026-10-16T05:15:51+08:00"
+  },
+  {
+   "id": "2857ce2b99",
+   "title": "NVIDIA AIStore CVE-2026-65162：遗留 ETL API 可容器逃逸，CVSS 10.0",
+   "summary": "Linux 上 AIStore 0–4.9 的遗留 ETL Kubernetes PodSpec 初始化 API 接受未认证远程输入，可改 host namespace 与安全上下文，进而容器逃逸并在宿主机提权执行。建议升到 4.10+，或先封外网对 ETL 端点的访问。",
+   "links": [
+    "https://www.cve.org/CVERecord?id=CVE-2026-65162",
+    "https://cve.armis.com/CVE-2026-65162",
+    "https://github.com/NVIDIA/product-security/tree/main/2026/5889"
+   ],
+   "topic": "nvidia-aistore-cve-2026-65162",
+   "firstSeen": "2026-10-16T05:15:51+08:00"
+  },
+  {
+   "id": "2c7bf93a88",
+   "title": "Dwarkesh：Anthropic 内部人士称约 9 个月内 AI 可匹敌人类做 AI 研究",
+   "summary": "在 Tyler Cowen / NYT 播客中，Dwarkesh Patel 转述 Anthropic 员工称内部证据指向约 9 个月内 AI 可达到或超过人类做 AI 研究的水平，但细节不能公开；他呼吁实验室公开证据。CryptoBriefing 等跟进，叠加上月 Anthropic 披露 Claude 已主导约 26% 内部研发。",
+   "links": [
+    "https://x.com/i/trending/2110829322445447458",
+    "https://cryptobriefing.com/anthropic-claude-surpass-human-researchers/"
+   ],
+   "topic": "dwarkesh-anthropic-ai-research-9mo-2026-10",
+   "firstSeen": "2026-10-16T05:15:51+08:00"
   }
  ],
- "lastChecked": "2026-10-16T04:56:41+08:00"
+ "lastChecked": "2026-10-16T05:15:51+08:00"
 }
