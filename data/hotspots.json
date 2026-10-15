@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T19:01:42+08:00",
+ "lastUpdated": "2026-10-15T19:11:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7844,7 +7844,63 @@
    ],
    "topic": "sipeed-maixstation-2026-10",
    "firstSeen": "2026-10-15T19:01:42+08:00"
+  },
+  {
+   "id": "10741def2d",
+   "title": "FTC 向 OpenAI、Anthropic 发民事调查令：盯安全事故与消费者伤害",
+   "summary": "Axios 援引知情人士：美国联邦贸易委员会周三向两家公司发出各超 50 页的民事调查要求（CID），索要安全/安保事件、防护措施、营销材料与隐私政策文件，并计划传唤高管作证；调查聚焦潜在消费者保护违法，与同日多州起诉 OpenAI 形成叠加压力。",
+   "links": [
+    "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
+    "https://www.investing.com/news/stock-market-news/us-ftc-subpoenas-openai-and-anthropicover-consumer-harms-axios-reports-4950890"
+   ],
+   "topic": "ftc-subpoena-openai-anthropic-2026-10",
+   "firstSeen": "2026-10-15T19:11:14+08:00"
+  },
+  {
+   "id": "853fa8d701",
+   "title": "昆仑万维开源 Matrix-Game 4.0：引擎管规则 + 视频模型实时渲染可玩游戏",
+   "summary": "Skywork/昆仑万维 10-15 发布：游戏引擎维护状态与交互，因果视频模型把低模画面实时渲成精细画面；宣称单卡 RTX 5090 可达约 480p/60FPS、按键延迟低于 150ms。Apache-2.0 同步开源代码与权重，含城堡/埃及/竞速等场景。",
+   "links": [
+    "https://github.com/SkyworkAI/Matrix-Game",
+    "https://huggingface.co/Skywork/Matrix-Game-4.0",
+    "https://matrix-game-v4-0.github.io/page/",
+    "https://www.ithome.com/1/013/283.htm"
+   ],
+   "topic": "skywork-matrix-game-4-2026-10",
+   "firstSeen": "2026-10-15T19:11:14+08:00"
+  },
+  {
+   "id": "2bd91dcdfa",
+   "title": "NVIDIA 今日放 Nemotron 3.5 Bolt 74B：24GB 装进 RTX Spark 本地 Agent",
+   "summary": "官方博客：74B 总参、9B 激活的 MoE，2-bit 量化约 24GB，专为 RTX Spark 本地 Agent；同步宣布 PAIR 个人 AI 路由正式出 beta（支持 llama.cpp、HF 直下）。可通过 llama.cpp/vLLM/Ollama/Unsloth/LM Studio 及 Hermes、OpenClaw 使用，权重与配方开源。",
+   "links": [
+    "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/"
+   ],
+   "topic": "nemotron-35-bolt-74b-rtx-spark-2026-10",
+   "firstSeen": "2026-10-15T19:11:14+08:00"
+  },
+  {
+   "id": "326046c20e",
+   "title": "Show HN：Ito——用 Lua 声明式搭终端 UI，顺带做出可「米」的 Agent 外壳 uji",
+   "summary": "Neovim 爱好者开源 ito（Lua TUI 库）与 uji（可主题化/插件化的终端 Agent harness）；浏览器 playground 在 uji.sh，可用 WASM 画布试玩。HN 上线约数小时，仓库 github.com/uji-labs/ito。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50096300",
+    "https://github.com/uji-labs/ito",
+    "https://uji.sh/"
+   ],
+   "topic": "ito-lua-tui-uji-harness-2026-10",
+   "firstSeen": "2026-10-15T19:11:14+08:00"
+  },
+  {
+   "id": "0b6937fb15",
+   "title": "XERJ：给 Agent 的自动索引搜索，号称比 grep 少约 40 倍 token",
+   "summary": "开源项目 xerj-org/xerj 冲上 GitHub 日榜：一条命令索引代码/文档/日志/PDF，供搜索、RAG、安全审计与 Agent 记忆；兼容 Elasticsearch 客户端。自称避免 grep/sed 吞上下文的 token 浪费。",
+   "links": [
+    "https://github.com/xerj-org/xerj"
+   ],
+   "topic": "xerj-agent-search-index-2026-10",
+   "firstSeen": "2026-10-15T19:11:14+08:00"
   }
  ],
- "lastChecked": "2026-10-15T19:01:42+08:00"
+ "lastChecked": "2026-10-15T19:11:14+08:00"
 }
