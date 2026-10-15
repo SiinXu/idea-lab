@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T04:41:48+08:00",
+ "lastUpdated": "2026-10-16T04:56:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9833,7 +9833,50 @@
    ],
    "topic": "dfinity-icp-mcp-chatgpt-plugin-2026-10",
    "firstSeen": "2026-10-16T04:41:48+08:00"
+  },
+  {
+   "id": "aac19f06da",
+   "title": "OpenAI 与 Meta 警告美联邦证据规则委员会：深度伪造将难科学检测",
+   "summary": "路透社报道，双方在波士顿 Advisory Committee on Evidence Rules 会上称前沿模型产出的音视频对人类已难辨真伪；OpenAI 政策顾问称未来未必有科学检测方法，Meta 称生成成本已很低。水印各厂不一、难成通用验真。法庭证据规则与 AI 媒体验真工具都有机会。",
+   "links": [
+    "https://www.uol.com.br/tilt/noticias/reuters/2026/10/15/openai-e-meta-alertam-poder-judiciario-dos-eua-sobre-risco-de-provas-deepfake.htm",
+    "https://x.com/i/trending/2110822117583253615"
+   ],
+   "topic": "openai-meta-deepfake-evidence-rules-2026-10",
+   "firstSeen": "2026-10-16T04:56:41+08:00"
+  },
+  {
+   "id": "982bbbceda",
+   "title": "沃尔沃扩大与 NVIDIA 合作：Hyperion + Halos + Alpamayo 做门到门辅助驾驶",
+   "summary": "10 月 15 日双方宣布加深合作，用 NVIDIA Hyperion 传感/算力架构、Halos OS 与 Alpamayo 驾驶软件，让下一代沃尔沃在高速、城市场景与泊车间更安全地导航，并逐步引入 eyes-off / mind-off。将首发于沃尔沃新一代车型产品冲刺。",
+   "links": [
+    "https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving",
+    "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban"
+   ],
+   "topic": "volvo-nvidia-hyperion-alpamayo-2026-10",
+   "firstSeen": "2026-10-16T04:56:41+08:00"
+  },
+  {
+   "id": "989df1a0f1",
+   "title": "Bluesky 将推全网支付：方便买卖与众筹，先不做广告",
+   "summary": "Disrupt 上 CEO Toni Schneider 与 COO Rose Wang 称未来数月上线支付，让用户给帖子/创作者打钱，并希望跨 Atmosphere 应用通用；强调 Public Benefit 与生态分钱，广告不是唯一路径。适合做成 Idea Lab 新点子：去中心社交上的小额支付/打赏基建。",
+   "links": [
+    "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/"
+   ],
+   "topic": "bluesky-network-payments-commerce-2026-10",
+   "firstSeen": "2026-10-16T04:56:41+08:00"
+  },
+  {
+   "id": "b255c91153",
+   "title": "Adobe 与 NVIDIA 加深合作：加速 Agentic 创作，RTX Spark 最高约 2 倍",
+   "summary": "双方优化 Photoshop、Premiere、Substance 3D、Frame.io 与 Brand Concierge 等，面向 AI 创作/制作/个性化；RTX Spark 上 AI 处理、剪辑、调色与特效最高约快一倍，Frame.io 用 NVIDIA 视频加速做云端媒资；Brand Concierge 将结合 Nemotron，对企业客户后续开放。",
+   "links": [
+    "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+    "https://finance.yahoo.com/technology/ai/articles/adobe-nvidia-expand-collaboration-speed-170000479.html"
+   ],
+   "topic": "adobe-nvidia-agentic-creation-2026-10",
+   "firstSeen": "2026-10-16T04:56:41+08:00"
   }
  ],
- "lastChecked": "2026-10-16T04:41:48+08:00"
+ "lastChecked": "2026-10-16T04:56:41+08:00"
 }
