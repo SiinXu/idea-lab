@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T13:12:26+08:00",
+ "lastUpdated": "2026-10-15T13:29:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7163,7 +7163,48 @@
    ],
    "topic": "catch-a-bird-hn-2026-10",
    "firstSeen": "2026-10-15T13:12:26+08:00"
+  },
+  {
+   "id": "b4c333a1fc",
+   "title": "Figma Config India：Specs 给 Agent 定设计规矩，Code Layers 公测",
+   "summary": "班加罗尔首场 Config：Markdown 版 Figma Specs 集中设计/代码库与准则，让自有与第三方 Agent 更守品牌规范；画布 Agent 扩量、Code Layers 进公测，MCP 新接 Open Code、Dia、Grok Bot、Sarvam 等 20+ 工具，并与 Payload 打通做动态站。",
+   "links": [
+    "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "https://x.com/i/trending/2110593622852689945"
+   ],
+   "topic": "figma-specs-agents-config-india-2026-10",
+   "firstSeen": "2026-10-15T13:29:59+08:00"
+  },
+  {
+   "id": "08d2f8986d",
+   "title": "open-claude-ui：用 REA 逆向高保真还原 Claude 桌面设计系统",
+   "summary": "一日内冲到 300+ star：30 个手写 React 组件 + 交互物理参数，附 3000+ 行逆向手册；强调洁净室合规、不发放专有字体/音频，适合做 AI 客户端 UI 参考与组件库。",
+   "links": [
+    "https://github.com/Caho1/open-claude-ui"
+   ],
+   "topic": "open-claude-ui-rea-2026-10",
+   "firstSeen": "2026-10-15T13:29:59+08:00"
+  },
+  {
+   "id": "c37f1720f4",
+   "title": "AgentPlay：把编码 Agent 会话重放成地图和时间线",
+   "summary": "一条 `uvx agentplay` 读取本机 Claude Code/Codex/Cursor/Copilot/OpenCode/Kiro 会话，本地生成已脱敏回放（读了啥、改了啥、失败与交付）；默认不上云，适合调试 Agent 行为与做用法案例。",
+   "links": [
+    "https://github.com/Entelligence-AI/agentplay"
+   ],
+   "topic": "agentplay-session-replay-2026-10",
+   "firstSeen": "2026-10-15T13:29:59+08:00"
+  },
+  {
+   "id": "27cc81fb5a",
+   "title": "CarterT27/scion：社区再实现一版 Anthropic 风格源码控制",
+   "summary": "在官方 Scion 工程博文与 OpenScion 之后，又一个开源实现登上 GitHub 热榜，说明 Agent 高压合并下「后 Git」版本控制正在被多方复刻。",
+   "links": [
+    "https://github.com/CarterT27/scion"
+   ],
+   "topic": "cartert27-scion-impl-2026-10",
+   "firstSeen": "2026-10-15T13:29:59+08:00"
   }
  ],
- "lastChecked": "2026-10-15T13:12:26+08:00"
+ "lastChecked": "2026-10-15T13:29:59+08:00"
 }
