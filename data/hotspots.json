@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T14:47:08+08:00",
+ "lastUpdated": "2026-10-15T14:55:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7368,7 +7368,47 @@
    ],
    "topic": "muuo23-ai-kpop-group",
    "firstSeen": "2026-10-15T14:47:08+08:00"
+  },
+  {
+   "id": "22daaffd0a",
+   "title": "tiny11builder 冲上 GitHub 趋势：WinUI 精简定制 Windows 11 镜像",
+   "summary": "ntdevlabs/tiny11builder 用 WinUI 做可定制的轻量 Windows 11 镜像构建器，已超 2 万星并登上 GitHub 日榜；适合本地开发机瘦身、去掉臃肿组件，也方便做可复现的测试环境。",
+   "links": [
+    "https://github.com/ntdevlabs/tiny11builder"
+   ],
+   "topic": "tiny11builder-winui-2026-10",
+   "firstSeen": "2026-10-15T14:55:33+08:00"
+  },
+  {
+   "id": "61e7bfde8e",
+   "title": "OpenAI Tibo「Ship or Reset」第 10 天再按重置：限额挑战续火",
+   "summary": "Codex 负责人 Tibo Sottiaux 28 天挑战：每天要么给 ChatGPT/Codex 用户交出关键改进，要么重置全球用量上限；第 9 天刚砍桌面端磁盘约 60%，第 10 天又是第五次 Reset，社区梗图和追踪器齐飞。",
+   "links": [
+    "https://x.com/i/trending/2110587024227160293"
+   ],
+   "topic": "openai-tibo-ship-or-reset-day10",
+   "firstSeen": "2026-10-15T14:55:33+08:00"
+  },
+  {
+   "id": "d7ac49d6b8",
+   "title": "Sui Basecamp 实测峰值约 4068 万 TPS，CertiK 核验",
+   "summary": "Sui 在 Basecamp 2026 用可编程隧道演示峰值约 40.68M TPS、持续约 40.33M，CertiK 按主网数据核验；社区把它当成 AI Agent 机器级吞吐的基础设施信号，同场还有 DATA 网络迁入与基金会投资。",
+   "links": [
+    "https://x.com/i/trending/2110028034946515225"
+   ],
+   "topic": "sui-40m-tps-basecamp-2026-10",
+   "firstSeen": "2026-10-15T14:55:33+08:00"
+  },
+  {
+   "id": "cd9f704928",
+   "title": "BRUTAL：开源 C# 底层游戏框架，支撑 Kitten Space 与 RimWorld 新引擎",
+   "summary": "ahwootech/BRUTAL 刚开源，直连原生 API 与 Vulkan，自称是 Kitten Space Agency 与 RimWorld Waylith 引擎的底座；面向要自己搓引擎的人，而不是高层引擎封装。",
+   "links": [
+    "https://github.com/ahwootech/BRUTAL"
+   ],
+   "topic": "brutal-csharp-game-framework-2026-10",
+   "firstSeen": "2026-10-15T14:55:33+08:00"
   }
  ],
- "lastChecked": "2026-10-15T14:47:08+08:00"
+ "lastChecked": "2026-10-15T14:55:33+08:00"
 }
