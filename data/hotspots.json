@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T15:48:39+08:00",
+ "lastUpdated": "2026-10-15T15:55:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7560,7 +7560,81 @@
    ],
    "topic": "miit-qwen-iphone-duo-apple-intelligence-2026-10",
    "firstSeen": "2026-10-15T15:48:39+08:00"
+  },
+  {
+   "id": "eaa07b55dd",
+   "title": "TetraLogical 开源无访问组件库：需求 + Gherkin + Playwright 测试一起交",
+   "summary": "无障碍咨询机构 TetraLogical 发布 Accessible Components Library v1.0：手风琴/面包屑/对话框等 8 个组件，附 WCAG 2.2 分级要求、Gherkin 场景与 Playwright 自动化（约 97% 可自动跑），站点和仓库同源，适合当设计系统无障碍基线。",
+   "links": [
+    "https://tetralogical.com/blog/2026/10/14/accessible-components-library/",
+    "https://news.ycombinator.com/item?id=50100409"
+   ],
+   "topic": "tetralogical-accessible-components-2026-10",
+   "firstSeen": "2026-10-15T15:55:48+08:00"
+  },
+  {
+   "id": "dd81523c57",
+   "title": "盖洛普：近六成美国 K-12 教师用过 AI，约三分之二说腾出了「真正重要」的时间",
+   "summary": "Walton 家族基金会×盖洛普调查：59% 的美国中小学教育者上学年用过 AI（备课、出题、批改、行政）；使用者里约 64% 认为腾出了更多时间做更有意义的事。教师最有价值感的仍是直接帮学生，行政文书几乎不带来「被需要」感。",
+   "links": [
+    "https://news.gallup.com/poll/715364/teachers-using-say-frees-time-matters-mostost.aspx"
+   ],
+   "topic": "gallup-teachers-ai-mattering-2026-10",
+   "firstSeen": "2026-10-15T15:55:48+08:00"
+  },
+  {
+   "id": "ce0f78441a",
+   "title": "craft-launcher 一周冲到约 2700★：Rust 写的 Craft 应用启动器",
+   "summary": "storytold/craft-launcher 自 10-09 开源后约一周星标破 2700，与同组织 figcraft（开源设计原型）同属 Craft 生态；纯 Rust，适合盯桌面启动器与设计工具开源替代赛道。",
+   "links": [
+    "https://github.com/storytold/craft-launcher"
+   ],
+   "topic": "craft-launcher-rust-2026-10",
+   "firstSeen": "2026-10-15T15:55:48+08:00"
+  },
+  {
+   "id": "a6e633d8cf",
+   "title": "d2r-mobile：开源把暗黑 2 重制版跑上 iPhone/Mac，约 2500★",
+   "summary": "jhaizhou-ops/d2r-mobile 宣称用自备 Switch 游戏文件在 iOS/macOS 原生跑《暗黑破坏神 II：狱火重生》术士君临扩展，触控+60fps；数日破 2500 星，属高热游戏兼容层，版权需自备正版文件。",
+   "links": [
+    "https://github.com/jhaizhou-ops/d2r-mobile"
+   ],
+   "topic": "d2r-mobile-ios-macos-2026-10",
+   "firstSeen": "2026-10-15T15:55:48+08:00"
+  },
+  {
+   "id": "2d24d0405a",
+   "title": "RustGIS：纯 Rust 开源 GIS，数日破千星",
+   "summary": "opengeos/RustGIS 定位快速免费开源 GIS（https://rustgis.app），纯 Rust 实现；约一周星标过千，可对标桌面 GIS/遥感轻量替代，适合地理数据工具链观察。",
+   "links": [
+    "https://github.com/opengeos/RustGIS",
+    "https://rustgis.app"
+   ],
+   "topic": "rustgis-opengeos-2026-10",
+   "firstSeen": "2026-10-15T15:55:48+08:00"
+  },
+  {
+   "id": "2fe62644bf",
+   "title": "Mailcheap：面向 Agent 时代的廉价开源 Newsletter",
+   "summary": "marclou/mailcheap 自称「agentic era」可负担 newsletter：可自托管或用 mailcheap.ai，带 MCP 向；约一周近千星，适合做 OPC 自动供稿/周报分发的基础设施候选。",
+   "links": [
+    "https://github.com/marclou/mailcheap",
+    "https://mailcheap.ai"
+   ],
+   "topic": "mailcheap-agentic-newsletter-2026-10",
+   "firstSeen": "2026-10-15T15:55:48+08:00"
+  },
+  {
+   "id": "b1751d3a73",
+   "title": "RubyLLM 2.1：内置 MCP 客户端、评测与 OpenTelemetry",
+   "summary": "Ruby LLM 库 2.1 加入 MCP 客户端（OAuth、进度、defer 工具搜索）、TypeSafe/Jev 结构化评判、Agent 数据集评测、OTel 追踪，以及中途换模型/附件转换等；流式与内存占用相对 2.0 明显优化。",
+   "links": [
+    "https://rubyllm.com/whats-new-in-2-1/",
+    "https://news.ycombinator.com/item?id=50100516"
+   ],
+   "topic": "rubyllm-2-1-mcp-eval-2026-10",
+   "firstSeen": "2026-10-15T15:55:48+08:00"
   }
  ],
- "lastChecked": "2026-10-15T15:48:39+08:00"
+ "lastChecked": "2026-10-15T15:55:48+08:00"
 }
