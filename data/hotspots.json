@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T01:59:11+08:00",
+ "lastUpdated": "2026-10-16T02:14:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9264,7 +9264,53 @@
    ],
    "topic": "epub-34-roll-layout-2026-10",
    "firstSeen": "2026-10-16T01:59:11+08:00"
+  },
+  {
+   "id": "02d700431f",
+   "title": "Similarweb：ChatGPT 网页流量份额跌至 56.4%，Claude 一年翻四倍升至第三",
+   "summary": "Visual Capitalist 据 Similarweb 9 月数据：ChatGPT 占全球 AI 聊天机器人网站访问 56.4%（约 59 亿次），较 2025 年 10 月的 71.8% 明显回落但仍居首；Gemini 25.0% 第二，Claude 从 2.3% 升至 9.6% 跃居第三（约 10 亿次），DeepSeek/Grok/Copilot/Perplexity 份额均下滑。仅计网站访问、不含 App/API；ChatGPT 绝对访问仍在涨，对手涨得更快。",
+   "links": [
+    "https://www.visualcapitalist.com/most-used-ai-chatbots-by-web-traffic-2026/",
+    "https://www.techcityauthority.com/2026/10/similarweb-gen-ai-traffic-share-september-2026.html",
+    "https://x.com/i/trending/2110642941467508809"
+   ],
+   "topic": "similarweb-chatbot-share-sept-2026-10",
+   "firstSeen": "2026-10-16T02:14:07+08:00"
+  },
+  {
+   "id": "57cc1d6078",
+   "title": "Meow 完成 3160 万美元 B 轮：Stifel 领投并白标其司库平台给创投客户",
+   "summary": "10 月 15 日 Meow 宣布 B 轮 3160 万美元由 Stifel 领投（总融资超 6000 万），并签服务协议：Stifel Bank 将把 Meow 司库平台白标给商业银行客户，首批聚焦创投与基金银行业务，预计 2027 年初开户。平台含现金/支付/卡、费用管理、账单、稳定币支付与「agentic」合规后台；Stifel 称创投存款自 2023 年 9 月已增近六倍至逾 100 亿美元。",
+   "links": [
+    "https://www.meow.com/blog/meow-series-b-announcement",
+    "https://www.globenewswire.com/news-release/2026/10/15/3381637/0/en/stifel-makes-strategic-investment-in-meow-partners-to-launch-next-generation-digital-banking-platform.html",
+    "https://x.com/i/trending/2110774260150964417"
+   ],
+   "topic": "meow-stifel-series-b-2026-10",
+   "firstSeen": "2026-10-16T02:14:07+08:00"
+  },
+  {
+   "id": "65f56a3abb",
+   "title": "Bland 推 iMessage Agent：经 Apple Business Register 的品牌蓝泡助手",
+   "summary": "Bland 上线企业 iMessage Agent：经 Apple Business Register 完成注册与发件人核验，客户手机里显示带 logo 的品牌联系人与蓝泡；与语音/SMS 共用同一 Agent 与记忆，可发 PDF/表单附件，宣称 SOC2/HIPAA/PCI 等合规。Android 用户自动降级 SMS 且会话连续。社区热议「30 秒在 iMessage 里上线验证 Agent」与苹果对商业消息通道的卡位。",
+   "links": [
+    "https://www.bland.ai/product/imessage",
+    "https://docs.bland.ai/tutorials/messaging/imessage",
+    "https://register.apple.com/messages"
+   ],
+   "topic": "bland-imessage-agents-2026-10",
+   "firstSeen": "2026-10-16T02:14:07+08:00"
+  },
+  {
+   "id": "25de04c058",
+   "title": "cc-stretch：Claude Code 回复默认短，点短语原地展开（Stretchtext）",
+   "summary": "开源项目 cc-stretch 给 Claude Code 加上 Stretchtext 交互：默认短答，点击短语就地展开细节，减少一屏长文墙。GitHub 上线约两天已约 260 星，贴合「Agent 输出可读性」需求，可做成 Idea Lab 里编码助手 UX 实验灵感。",
+   "links": [
+    "https://github.com/pro-vi/cc-stretch"
+   ],
+   "topic": "cc-stretch-claude-code-2026-10",
+   "firstSeen": "2026-10-16T02:14:07+08:00"
   }
  ],
- "lastChecked": "2026-10-16T01:59:11+08:00"
+ "lastChecked": "2026-10-16T02:14:07+08:00"
 }
