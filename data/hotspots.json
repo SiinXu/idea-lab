@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T11:46:14+08:00",
+ "lastUpdated": "2026-10-15T11:54:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6981,7 +6981,30 @@
    ],
    "topic": "dlss5-assetto-corsa-photoreal",
    "firstSeen": "2026-10-15T11:46:14+08:00"
+  },
+  {
+   "id": "0762b7ee2d",
+   "title": "Agent Orchestrator 八个月破 1.3 万星：桌面端指挥一队编码 Agent",
+   "summary": "开源桌面应用 OrchestratorInc/agent-orchestrator 在 GitHub 已超 13,000 星。它把 Claude Code、Codex 等编码 Agent 编成团队：从规划、分派到监督合并，提供隔离工作区、实时看板和反馈回路。作者 Prateek 最初只为解决自己同时管多个 Agent 的混乱，连发布视频都是在工具里做的。多 Agent 编排正成为开发者的刚需工具位。",
+   "links": [
+    "https://github.com/OrchestratorInc/agent-orchestrator",
+    "https://x.com/i/trending/2110578577490248140"
+   ],
+   "topic": "agent-orchestrator-13k-stars",
+   "firstSeen": "2026-10-15T11:54:02+08:00"
+  },
+  {
+   "id": "c49a0a0f8e",
+   "title": "METR 提议「嵌入式评估」：让外部评估员进实验室，公开报告失控风险",
+   "summary": "10 月 14 日，非营利评估机构 METR 发布三份提案：外部评估员以接近员工的权限进入前沿 AI 公司，查阅未发布模型、内部对话记录、监控系统和代码，评估三件事：Agent 对齐（最坏会做出什么越界行为）、控制（监控能否拦住有害操作）、AI 研发自动化带来的加速。公司可以删减敏感细节，但不能压下结论。此前 Anthropic、OpenAI 已承诺引入嵌入式评估员。",
+   "links": [
+    "https://metr.org/blog/2026-10-14-better-informing-the-public-about-loss-of-control-risks/",
+    "https://metr.org/blog/2026-10-14-alignment-assessment-proposal/",
+    "https://x.com/i/trending/2110576135650283933"
+   ],
+   "topic": "metr-embedded-assessments",
+   "firstSeen": "2026-10-15T11:54:02+08:00"
   }
  ],
- "lastChecked": "2026-10-15T11:46:14+08:00"
+ "lastChecked": "2026-10-15T11:54:02+08:00"
 }
