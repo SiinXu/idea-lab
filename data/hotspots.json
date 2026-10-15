@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T19:26:52+08:00",
+ "lastUpdated": "2026-10-15T19:45:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7954,7 +7954,28 @@
    ],
    "topic": "omniparsebench-datalab-2026-10",
    "firstSeen": "2026-10-15T19:26:52+08:00"
+  },
+  {
+   "id": "2faa6375a5",
+   "title": "TokenSpeed 冲上 GitHub 趋势：面向 Agent 负载的推理引擎，GB300 单用户 685 tok/s",
+   "summary": "非营利 LightSeek 基金会的开源推理引擎，C++ 控制面加 Python 执行面，主打 Agent 场景下 TensorRT-LLM 级性能和 vLLM 级易用；最新博客称在 NVIDIA GB300 上跑 Qwen3.8-Flash-Next 达到单用户约 685 tokens/s，今天登上 GitHub 日榜。",
+   "links": [
+    "https://github.com/lightseekorg/tokenspeed",
+    "https://lightseek.org/blog/tokenspeed-qwen3-8-flash-next.html"
+   ],
+   "topic": "tokenspeed-inference-engine",
+   "firstSeen": "2026-10-15T19:45:43+08:00"
+  },
+  {
+   "id": "13c68ef579",
+   "title": "AI 陪伴挂件 Eiliko 被曝把你说的话全传到不安全的中国服务器",
+   "summary": "The Verge 报道：机器人小挂件 Eiliko 内置 AI 陪伴功能，研究人员发现用户对它说的内容都会发往安全性很差的境外服务器，存在被黑和泄露风险，再次给 AI 硬件玩具的隐私敲警钟。",
+   "links": [
+    "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab"
+   ],
+   "topic": "eiliko-ai-toy-privacy",
+   "firstSeen": "2026-10-15T19:45:43+08:00"
   }
  ],
- "lastChecked": "2026-10-15T19:26:52+08:00"
+ "lastChecked": "2026-10-15T19:45:43+08:00"
 }
