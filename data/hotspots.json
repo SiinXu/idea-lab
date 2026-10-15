@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T05:29:39+08:00",
+ "lastUpdated": "2026-10-16T05:43:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9980,7 +9980,61 @@
    ],
    "topic": "rivian-point-to-point-eap-2026-10",
    "firstSeen": "2026-10-16T05:29:39+08:00"
+  },
+  {
+   "id": "07fd5f4daf",
+   "title": "Neon Realtime 公测：任意 SQL 可变成 Live Query",
+   "summary": "Oct 15 起公测：在 Lakebase Postgres 内对确定性 SELECT（含 join/聚合）订阅实时结果，无需另搭同步层；带 TypeScript SDK、useLiveQuery、分支级启停与 scale-to-zero，并强调给编码 Agent 默认用上实时原语（neon realtime enable / skill）。",
+   "links": [
+    "https://neon.com/blog/neon-now-has-realtime",
+    "https://neon.com/docs/realtime/overview"
+   ],
+   "topic": "neon-realtime-live-sql-2026-10",
+   "firstSeen": "2026-10-16T05:43:51+08:00"
+  },
+  {
+   "id": "7a01cf0b6a",
+   "title": "Network School 收购 Farcaster，改名为 Network State Protocol",
+   "summary": "Balaji 系 Network School 从 Neynar 接手 Farcaster（约九个月内第二次易主），主客户端将加 AI 审核、真人证明与新加坡式行为准则；协议仍开放，用户需投票「留下」并领 NFT，否则只读。估值约 20 亿美元背景引发去中心化社区争议。",
+   "links": [
+    "https://cryptobriefing.com/network-school-acquires-farcaster-network-state-protocol/",
+    "https://x.com/i/trending/2110810697982771352"
+   ],
+   "topic": "network-school-farcaster-nsp-2026-10",
+   "firstSeen": "2026-10-16T05:43:51+08:00"
+  },
+  {
+   "id": "cd387eaf19",
+   "title": "Android 地震预警扩至 200+ 国家和地区",
+   "summary": "Google 宣布 Android Earthquake Alerts 覆盖从约 98 扩到 200 多个国家/地区；自 2021 累计发出逾 10 亿次预警，「Be Ready」警报加入实时地图、震感半径与量级估计。HN 最新帖与多家科技媒体同步报道。",
+   "links": [
+    "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
+    "https://www.theverge.com/tech/1012243/google-android-earthquake-alert-global-expansion"
+   ],
+   "topic": "android-earthquake-alerts-200-regions-2026-10",
+   "firstSeen": "2026-10-16T05:43:51+08:00"
+  },
+  {
+   "id": "8e1c2b97b7",
+   "title": "ChatGPT Plus vs Claude Pro：同价 20 美元谁更值",
+   "summary": "两边都是约 $20/月：Claude 侧强调长上下文、推理与 Claude Code；ChatGPT 侧靠图像、语音与更高流量心智。专业用户常两边都订，X 上出现新一轮「选哪个订阅」对比讨论。",
+   "links": [
+    "https://x.com/i/trending/2110747067916423320"
+   ],
+   "topic": "chatgpt-plus-vs-claude-pro-20-2026-10",
+   "firstSeen": "2026-10-16T05:43:51+08:00"
+  },
+  {
+   "id": "f993756d09",
+   "title": "美国作家协会「Human Authored」认证扩面",
+   "summary": "Authors Guild 的 Human Authored 认证声明文本由人类撰写、仅允许拼写语法等极少量 AI；会员免费、非会员约 $10/本，面向在美出版图书。HN 最新帖推高讨论，对标「AI 写作」标签战。",
+   "links": [
+    "https://authorsguild.org/human-authored/",
+    "https://authorsguild.org/news/human-authored-certification-expands-to-all-authors/"
+   ],
+   "topic": "authors-guild-human-authored-cert-2026-10",
+   "firstSeen": "2026-10-16T05:43:51+08:00"
   }
  ],
- "lastChecked": "2026-10-16T05:29:39+08:00"
+ "lastChecked": "2026-10-16T05:43:51+08:00"
 }
