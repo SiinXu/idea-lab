@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T21:34:51+08:00",
+ "lastUpdated": "2026-10-15T21:43:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8314,7 +8314,39 @@
    ],
    "topic": "deepmind-cambridge-robotics-lab-2026-10",
    "firstSeen": "2026-10-15T21:34:51+08:00"
+  },
+  {
+   "id": "c3631614ea",
+   "title": "Google「Universal Cart」通用购物车正式上线：跨商家、Agent 自动盯价",
+   "summary": "I/O 2026 预告的 Universal Cart 10-15 起在美国 Google 搜索与 Gemini App 上线：不同商家商品放进同一个常驻购物车，后台由 Gemini 自动找折扣、看历史价、到货提醒，底层是 UCP（通用商务协议）+ Google Pay；YouTube、Gmail 稍后接入。商家需在 Merchant Center 开通相应属性才有「Buy」按钮，Agent 电商正式进入节日季实战。",
+   "links": [
+    "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+    "https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/"
+   ],
+   "topic": "google-universal-cart-launch-2026-10",
+   "firstSeen": "2026-10-15T21:43:58+08:00"
+  },
+  {
+   "id": "98ed15fcaf",
+   "title": "OpenAI 反诉 Apple：跳槽回 Apple 的员工带走 100 多份未发布硬件机密",
+   "summary": "Apple 商业机密诉讼出现反转：OpenAI 周三向法院提交文件，称一名从 Apple 跳来、半年后又回 Apple 的员工离职前把 100 多份文件转到私人账户，含未发布设备图片、工程与制造数据、供应商信息和外观工艺规格，还向 Apple 亚洲运营副总裁等高层展示过 OpenAI 产品规划；Apple 称未发现相关证据。",
+   "links": [
+    "https://www.theregister.com/ai-and-ml/2026/10/15/openai-claims-100-plus-secret-files-followed-ex-employee-back-to-apple/5303202"
+   ],
+   "topic": "openai-countersues-apple-hardware-files-2026-10",
+   "firstSeen": "2026-10-15T21:43:58+08:00"
+  },
+  {
+   "id": "f913b05303",
+   "title": "Show HN：Unfenced——专找「紧挨公有土地」的待售地块",
+   "summary": "独立开发者用官方公有土地边界图逐块比对 69.5 万条在售房源，筛出 13626 块与国家森林、猎场、荒野区接壤的地块，并标出实测共享边界长度；输入邮编即可找 100 英里内的地，每周刷新。上线 2 小时 HN 约 70 分，是「公开地理数据 × 房源」垂直工具的好样本。",
+   "links": [
+    "https://unfenced.land/",
+    "https://news.ycombinator.com/item?id=50102247"
+   ],
+   "topic": "show-hn-unfenced-land-2026-10",
+   "firstSeen": "2026-10-15T21:43:58+08:00"
   }
  ],
- "lastChecked": "2026-10-15T21:34:51+08:00"
+ "lastChecked": "2026-10-15T21:43:58+08:00"
 }
