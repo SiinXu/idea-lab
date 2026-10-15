@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T10:30:55+08:00",
+ "lastUpdated": "2026-10-15T10:44:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6863,7 +6863,29 @@
    ],
    "topic": "nvidia-huang-cut-off-unsafe-ai",
    "firstSeen": "2026-10-15T10:30:55+08:00"
+  },
+  {
+   "id": "af8eb89eaa",
+   "title": "AA-Robotics v0.1：大模型零样本开机械臂，Astra 69 分但仍比人慢约百倍",
+   "summary": "Artificial Analysis 发布具身基准：前沿模型在编码 harness 里经 HTTP API 直控 6 轴机械臂，完成按按钮、倒水、搭塔等 8 项桌面任务。GPT-6 Astra 均分 69.4 居首，Sol 64.6、Argon 55.3、Opus 5.5 48.8；平均约 30 分钟/任务（人类约 20 秒），Sol 约 $1.93/任务、Astra 约 $16。能抓能倒，但离生产还远。",
+   "links": [
+    "https://artificialanalysis.ai/articles/aa-robotics",
+    "https://x.com/i/trending/2110558318876147843"
+   ],
+   "topic": "aa-robotics-v0-1-2026-10",
+   "firstSeen": "2026-10-15T10:44:24+08:00"
+  },
+  {
+   "id": "cb0de2c580",
+   "title": "亚洲芯片股续跌：SK 海力士跌超 10%，AI 融资成本担忧升温",
+   "summary": "随华尔街科技股走弱与美国通胀偏热、加息预期升温，亚洲芯片与 AI 基建相关股大幅回调：SK 海力士跌超 10%、三星约 7%、软银约 8%；韩股 Kospi 一度跌约 7%。博通等此前已警告融资可能比缺电/缺芯更卡 AI 扩张，投资者更盯资产负债表与合同结构。",
+   "links": [
+    "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+    "https://x.com/i/trending/2110542762278040023"
+   ],
+   "topic": "asia-chip-rout-ai-funding-2026-10-15",
+   "firstSeen": "2026-10-15T10:44:24+08:00"
   }
  ],
- "lastChecked": "2026-10-15T10:30:55+08:00"
+ "lastChecked": "2026-10-15T10:44:24+08:00"
 }
