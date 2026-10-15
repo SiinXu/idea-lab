@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T05:55:05+08:00",
+ "lastUpdated": "2026-10-16T06:13:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -10090,7 +10090,60 @@
    ],
    "topic": "fired-frontier-model-seldon-2026-10",
    "firstSeen": "2026-10-16T05:55:05+08:00"
+  },
+  {
+   "id": "4232a9c49f",
+   "title": "pstack：Cursor 官方插件，把严苛工程流程做成 Agent 技能库",
+   "summary": "前 Cursor / React 核心成员 Lauren Tan（现 SpaceXAI）开源 pstack：/poteto-mode 路由到 plan、arena、interrogate 等 playbook，强调少写但仍高质量代码；X 上开发者正往 Claude Code / Grok Bot 移植。",
+   "links": [
+    "https://github.com/cursor/plugins/blob/main/pstack/README.md",
+    "https://x.com/i/trending/2110840250155323448"
+   ],
+   "topic": "pstack-cursor-plugin-2026-10",
+   "firstSeen": "2026-10-16T06:13:51+08:00"
+  },
+  {
+   "id": "decf48c9a3",
+   "title": "Dan Shipper 深扒：Codex 一年从濒项目变成 4000 万周活核心",
+   "summary": "Every 采访 Brockman 等，讲 Codex 团队 12 个月连发云端/终端/IDE/桌面四条产品线，并用 Codex 加速自身开发；以 ChatGPT 浏览器里的交互叙事呈现，圈内传播快。",
+   "links": [
+    "https://x.com/i/trending/2110814505689403567"
+   ],
+   "topic": "openai-codex-shipper-origin-2026-10",
+   "firstSeen": "2026-10-16T06:13:51+08:00"
+  },
+  {
+   "id": "33610d0d8a",
+   "title": "AI「参差前沿」：能力边界其实跟着数据丰度走",
+   "summary": "Alex Wiltschko 线程把 jagged frontier 按任务相关数据量重排成螺旋：编程/游戏数据密就强，嗅觉等稀疏就弱；「无捷径」假说把表现绑到可验证经验与规模律，引发对齐圈讨论。",
+   "links": [
+    "https://x.com/i/trending/2110810704483856794"
+   ],
+   "topic": "jagged-frontier-data-abundance-2026-10",
+   "firstSeen": "2026-10-16T06:13:51+08:00"
+  },
+  {
+   "id": "d9f7984345",
+   "title": "Cua Spaces：给人与 Computer-use Agent 共用的桌面空间",
+   "summary": "Cua 推出 Shared Spaces：在自有 Mac/机器/云上跑完整桌面，Teleport 打包登录态给 Agent，多人与多 Agent 各有光标；Cua Driver 开源，Spaces 源码可得，面向 Claude Code/Codex/Cursor 等。",
+   "links": [
+    "https://cua.ai/",
+    "https://news.ycombinator.com/item?id=50110982"
+   ],
+   "topic": "cua-shared-spaces-agents-2026-10",
+   "firstSeen": "2026-10-16T06:13:51+08:00"
+  },
+  {
+   "id": "14256eaed9",
+   "title": "Until：人写计划并签字，Agent 再领工单写代码",
+   "summary": "Until.dev 主张 Agent 编码工作流里决策权留在人：先写计划、人工签核，再拆成 Git 工单给多 Agent 并行，最后由审查 Agent 对照计划 diff。HN 新帖，产品定位清晰。",
+   "links": [
+    "https://until.dev/",
+    "https://news.ycombinator.com/item?id=50111000"
+   ],
+   "topic": "until-dev-agent-workflow-2026-10",
+   "firstSeen": "2026-10-16T06:13:51+08:00"
   }
  ],
- "lastChecked": "2026-10-16T05:55:05+08:00"
+ "lastChecked": "2026-10-16T06:13:51+08:00"
 }
