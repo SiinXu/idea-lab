@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T19:11:14+08:00",
+ "lastUpdated": "2026-10-15T19:26:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7900,7 +7900,61 @@
    ],
    "topic": "xerj-agent-search-index-2026-10",
    "firstSeen": "2026-10-15T19:11:14+08:00"
+  },
+  {
+   "id": "f15042ad3e",
+   "title": "DeepSeek 今日网页/API 中断近 5 小时：V4 Pro 与 V4.1 Flash 受影响",
+   "summary": "官方状态页：北京时间 10-15 约 8:11 起对话与 V4 Pro / V4.1 Flash API 部分中断，约 13:04 恢复，历时约 4 小时 52 分；TechNode、财新等跟进，X 上同步刷屏。",
+   "links": [
+    "https://status.deepseek.com/incidents/7116348214287",
+    "https://technode.com/2026/10/15/deepseek-implements-fix-after-partial-outage-affects-chat-and-api-services/",
+    "https://x.com/i/trending/2110599474716213421"
+   ],
+   "topic": "deepseek-outage-2026-10-15",
+   "firstSeen": "2026-10-15T19:26:52+08:00"
+  },
+  {
+   "id": "8dcce724a6",
+   "title": "OpenAI 主动承诺：诉讼期间不用据称来自 Apple 的商业秘密",
+   "summary": "The Verge（10-15）：法官称极可能批准 Apple 禁令后，OpenAI 自愿让步——产品开发中不用 Apple 专有信息，并交出 14 名跳槽员工硬盘取证镜像；诉讼其余部分继续。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1011771/openai-agrees-not-to-use-trade-secrets-it-allegedly-took-from-apple"
+   ],
+   "topic": "openai-apple-trade-secrets-2026-10",
+   "firstSeen": "2026-10-15T19:26:52+08:00"
+  },
+  {
+   "id": "e920d147d1",
+   "title": "美银 CEO：Agent 付款先留人审，别把锅甩给银行",
+   "summary": "The Verge（10-15）：Brian Moynihan 称正与 AI 行业推动「人类授权支付」，至少在 Agent 出错风险被压住前；不想客户因 Agent 乱转账来找银行兜底。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1011767/bank-of-america-wants-a-human-in-the-loop"
+   ],
+   "topic": "bofa-human-in-loop-payments-2026-10",
+   "firstSeen": "2026-10-15T19:26:52+08:00"
+  },
+  {
+   "id": "aa4c22f4b5",
+   "title": "Go 1.27：archsimd 扩到 arm64 / wasm，SIMD 可写 Go 不写汇编",
+   "summary": "官方博客：GOEXPERIMENT=simd 下，archsimd 在 amd64 之外新增 arm64（NEON）与 wasm；统一方法名、Mask 抽象与零成本位重解释，方便在热路径用架构特有指令。",
+   "links": [
+    "https://go.dev/blog/archsimd",
+    "https://news.ycombinator.com/item?id=50101990"
+   ],
+   "topic": "go-127-archsimd-2026-10",
+   "firstSeen": "2026-10-15T19:26:52+08:00"
+  },
+  {
+   "id": "c2fe6a868f",
+   "title": "Datalab 发布 OmniParseBench：1.6 万条可审计 OCR 对错测",
+   "summary": "开源基准：16,288 道 yes/no 测试覆盖 2,937 页、92 种语言；无模型裁判，可按文字/表格/版式与标签切片打分；今日简报与 HN 周边继续发酵，适合做文档 Agent 选型。",
+   "links": [
+    "https://www.datalab.to/blog/omni-parse-bench",
+    "https://huggingface.co/datasets/datalab-to/omni_parse_bench"
+   ],
+   "topic": "omniparsebench-datalab-2026-10",
+   "firstSeen": "2026-10-15T19:26:52+08:00"
   }
  ],
- "lastChecked": "2026-10-15T19:11:14+08:00"
+ "lastChecked": "2026-10-15T19:26:52+08:00"
 }
