@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T00:39:32+08:00",
+ "lastUpdated": "2026-10-16T00:47:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8901,7 +8901,65 @@
    ],
    "topic": "why-ai-labs-apps-worse-2026-10",
    "firstSeen": "2026-10-16T00:39:32+08:00"
+  },
+  {
+   "id": "56b6161983",
+   "title": "CGPM 通过「连续 UTC」：2027-05-20 起不再插闰秒",
+   "summary": "第 28 届 CGPM（2026-10-15）通过决议 5：|UT1−UTC| 上限提至 3600 秒，自 2027-05-20 起 UTC 连续运行、不再插入闰秒；同时还有月球参考时标等决议。关键基础设施与授时软件需跟上。",
+   "links": [
+    "https://www.bipm.org/en/cgpm-2026/resolution-5",
+    "https://www.bipm.org/en/-/cgpm-2026-resolutions-adopted",
+    "https://news.ycombinator.com/item?id=50105777"
+   ],
+   "topic": "cgpm-continuous-utc-2026-10",
+   "firstSeen": "2026-10-16T00:47:41+08:00"
+  },
+  {
+   "id": "203c01c195",
+   "title": "SnoutCover：给狗做的 UV 鼻罩，一年帮到 500+ 只狗",
+   "summary": "作者为自家患 DLE 的狗 3D 打印鼻罩护 UV、留住药膏，先在 MakerWorld 免费开源，后开店；一年内自制寄出约 395 单到 16 国，加上自打合计 500+ 只狗。HN 再冲首页，适合做成 Idea Lab 新点子（开源硬件→小电商）。",
+   "links": [
+    "https://snoutcover.com/one-year",
+    "https://snoutcover.com/",
+    "https://news.ycombinator.com/item?id=50105344"
+   ],
+   "topic": "snoutcover-500-dogs-2026-10",
+   "firstSeen": "2026-10-16T00:47:41+08:00"
+  },
+  {
+   "id": "e436a6d093",
+   "title": "Kanary Relay：在 Claude / Codex / Cursor 之间来回传回复",
+   "summary": "Show HN：macOS 菜单栏应用 Kanary 的 Agents 能力，可把一条回复在 Claude、Codex、Cursor 之间接力，并带共享缓存；同一应用还整合本地语音转写与快捷键。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://kanary.to/agents",
+    "https://kanary.to/",
+    "https://news.ycombinator.com/item?id=50106258"
+   ],
+   "topic": "kanary-relay-agents-2026-10",
+   "firstSeen": "2026-10-16T00:47:41+08:00"
+  },
+  {
+   "id": "d167092c47",
+   "title": "Ramp 融资 18.5 亿美元，估值冲到 600 亿美元",
+   "summary": "路透：金融科技公司 Ramp 完成约 18.5 亿美元融资，估值约 600 亿美元；企业支出与财务自动化赛道继续高估值扩张。",
+   "links": [
+    "https://www.reuters.com/technology/fintech-firm-ramp-raises-185-billion-60-billion-valuation-2026-10-15/",
+    "https://news.ycombinator.com/item?id=50106282"
+   ],
+   "topic": "ramp-60b-valuation-2026-10",
+   "firstSeen": "2026-10-16T00:47:41+08:00"
+  },
+  {
+   "id": "e4d28d1cd2",
+   "title": "Axios：Bill Gates 再推 AI 安全，呼吁加大风险投入",
+   "summary": "盖茨公开重回 AI 风险议题讨论，呼吁在能力狂奔之外加大安全与治理投入；正值大选年与多智能体应用加速落地，舆论再起。",
+   "links": [
+    "https://www.axios.com/2026/10/15/bill-gates-ai-safety-push",
+    "https://news.ycombinator.com/item?id=50106253"
+   ],
+   "topic": "bill-gates-ai-safety-2026-10",
+   "firstSeen": "2026-10-16T00:47:41+08:00"
   }
  ],
- "lastChecked": "2026-10-16T00:39:32+08:00"
+ "lastChecked": "2026-10-16T00:47:41+08:00"
 }
