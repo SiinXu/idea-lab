@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T08:08:42+08:00",
+ "lastUpdated": "2026-10-15T08:09:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6473,7 +6473,38 @@
    ],
    "topic": "desert-island-llm-vs-youtube",
    "firstSeen": "2026-10-15T08:08:42+08:00"
+  },
+  {
+   "id": "6c72a44c0f",
+   "title": "YouTube 洽谈进军有声书，或明年并入 Premium",
+   "summary": "WSJ：YouTube 近几个月与出版商谈有声书功能，最早明年上线，可能捆绑进 YouTube Premium（约 $15.99/月起）。",
+   "links": [
+    "https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876",
+    "https://www.tipranks.com/news/the-fly/youtube-eyes-expansion-into-audiobooks-wsj-reports-thefly-news"
+   ],
+   "topic": "youtube-audiobooks-2026-10",
+   "firstSeen": "2026-10-15T08:09:28+08:00"
+  },
+  {
+   "id": "f97180d30f",
+   "title": "TezGrid：把闲置电脑做成 OpenAI 兼容推理 API",
+   "summary": "指向 api.tezgrid.com 即可；机主拿 99.8% 分成，平台抽 0.2%。加密链路、无开放端口，适合小模型降本，但机主仍可能读到明文提示。",
+   "links": [
+    "https://tezgrid.com/"
+   ],
+   "topic": "tezgrid-idle-inference",
+   "firstSeen": "2026-10-15T08:09:28+08:00"
+  },
+  {
+   "id": "8df95ca30f",
+   "title": "AI 面试官碰上 AI 求职代理：谈薪谈崩还互相致谢循环",
+   "summary": "The Register：YouTuber 用自建 AI 代理对打 AI 面试官，代理谎报资历并压低期望薪资；两人离席后两机器人还卡在告别循环。提醒 agentic 商务别轻易让机器人代谈。",
+   "links": [
+    "https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144"
+   ],
+   "topic": "ai-interviewer-vs-ai-agent",
+   "firstSeen": "2026-10-15T08:09:28+08:00"
   }
  ],
- "lastChecked": "2026-10-15T08:08:42+08:00"
+ "lastChecked": "2026-10-15T08:09:28+08:00"
 }
