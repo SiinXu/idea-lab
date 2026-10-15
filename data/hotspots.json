@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T14:27:32+08:00",
+ "lastUpdated": "2026-10-15T14:47:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7347,7 +7347,28 @@
    ],
    "topic": "flipflop-iroh-tunnel",
    "firstSeen": "2026-10-15T14:27:32+08:00"
+  },
+  {
+   "id": "6db5901092",
+   "title": "Elevation Lab 下架 AirTag 静音配件并公开道歉",
+   "summary": "配件厂 Elevation Lab 推出让 AirTag 不发声的配件后，意识到它会帮跟踪者躲开「附近有 AirTag」提醒，于是下架产品，并表示将用专利阻止别人再做同类产品；HN 上热议这是真反思还是变相广告。",
+   "links": [
+    "https://www.elevationlab.com/blogs/news/an-apology",
+    "https://news.ycombinator.com/item?id=50099121"
+   ],
+   "topic": "elevationlab-airtag-silencer-apology",
+   "firstSeen": "2026-10-15T14:47:08+08:00"
+  },
+  {
+   "id": "34a2fd82db",
+   "title": "全 AI 生成男团 muuo:23 出道，MV 由 Higgsfield 等工具生成",
+   "summary": "Creation Zipup 推出五人「23 世纪 AI 男团」muuo:23，发布单曲《NEVERTHELESS》，MV 完全由 AI 生成，歌词用 ChatGPT、画面用 Higgsfield，作曲仍由人类完成；粉丝质疑长相像真人偶像、挤占练习生机会。",
+   "links": [
+    "https://x.com/i/trending/2110617115229397125"
+   ],
+   "topic": "muuo23-ai-kpop-group",
+   "firstSeen": "2026-10-15T14:47:08+08:00"
   }
  ],
- "lastChecked": "2026-10-15T14:27:32+08:00"
+ "lastChecked": "2026-10-15T14:47:08+08:00"
 }
