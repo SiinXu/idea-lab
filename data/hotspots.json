@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T23:29:09+08:00",
+ "lastUpdated": "2026-10-15T23:49:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8631,7 +8631,30 @@
    ],
    "topic": "lovable-growth-tools-ads-2026-10",
    "firstSeen": "2026-10-15T23:29:09+08:00"
+  },
+  {
+   "id": "3def475be6",
+   "title": "OpenUI 1.0：给任意 Agent 的生成式界面标准",
+   "summary": "Thesys 开源 OpenUI Lang 1.0，让模型流式输出地图、图表、仪表盘等可交互 UI，而非纯文字；宣称比 JSON 少约 67% token，已有 React/Vue 运行时与 LangChain 集成，X 上正热议。",
+   "links": [
+    "https://github.com/thesysdev/openui",
+    "https://www.openui.com/docs/openui-lang/whats-new",
+    "https://x.com/i/trending/2110753248026284494"
+   ],
+   "topic": "openui-1-0-generative-ui-2026-10",
+   "firstSeen": "2026-10-15T23:49:34+08:00"
+  },
+  {
+   "id": "ae06db633a",
+   "title": "Nvidia × KAIST ACCRUE：真机连续 RL 训练时间少 31%–68%",
+   "summary": "给机器人基础模型的持续 off-policy RL：任务间复用轻量 actor/critic，并蒸馏保留旧技能；接触丰富装配任务上后续任务交互时间减少约 31%–68%，旧任务成功率仍约 97%（作者自报、未同行评议）。",
+   "links": [
+    "https://arxiv.org/abs/2610.18596",
+    "https://huggingface.co/papers/2610.18596"
+   ],
+   "topic": "nvidia-kaist-accrue-robot-rl-2026-10",
+   "firstSeen": "2026-10-15T23:49:34+08:00"
   }
  ],
- "lastChecked": "2026-10-15T23:29:09+08:00"
+ "lastChecked": "2026-10-15T23:49:34+08:00"
 }
