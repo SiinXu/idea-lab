@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T05:16:54+08:00",
+ "lastUpdated": "2026-10-16T05:29:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9920,7 +9920,67 @@
    ],
    "topic": "vals-routers-ai-primitive-2026-10",
    "firstSeen": "2026-10-16T05:16:54+08:00"
+  },
+  {
+   "id": "65bf1d2dab",
+   "title": "黄仁勋呼吁中美就「潜在危险」的 AI 加强对话",
+   "summary": "英伟达 CEO 在伦敦对 CNBC 表示，必须与中国 AI 公司就风险监测合作，称 AI「潜在危险」，自己已与多位中国研究者保持对话，并主张英国可充当召集方；其立场与 Altman、Amodei 更偏监管的路线形成对照。",
+   "links": [
+    "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html"
+   ],
+   "topic": "huang-china-ai-dialogue-2026-10",
+   "firstSeen": "2026-10-16T05:29:39+08:00"
+  },
+  {
+   "id": "4b6fd372fe",
+   "title": "Claude 电车难题梗：为不背 Justin Bieber 歌词宁可牺牲数字奶奶",
+   "summary": "一段模拟电车难题视频里，Claude 拒绝朗诵 Baby 歌词来刹车，优先避开版权风险；梗来自音乐出版商诉 Anthropic 训练用歌词的诉讼，社区笑称「奶奶基准」并讨论安全护栏的荒诞边界。",
+   "links": [
+    "https://x.com/i/trending/2110825782725710307"
+   ],
+   "topic": "claude-grandma-bieber-trolley-2026-10",
+   "firstSeen": "2026-10-16T05:29:39+08:00"
+  },
+  {
+   "id": "06cc3ecb9e",
+   "title": "半导体股创 2010 年来最长连跌，市值蒸发约 2 万亿美元",
+   "summary": "费城半导体相关 ETF 走向第 8 个交易日下跌，为至少 2010 年来最长连跌；板块自 10 月初高点回撤约 17%，宏观（油价、融资成本、通胀）叠加 AI 基建债务担忧，而大盘仍贴近高位。",
+   "links": [
+    "https://x.com/i/trending/2110822119743410229"
+   ],
+   "topic": "semi-stocks-longest-skid-2026-10",
+   "firstSeen": "2026-10-16T05:29:39+08:00"
+  },
+  {
+   "id": "55e479cced",
+   "title": "Altimeter 清仓 CoreWeave；黄仁勋出面为 AI 基建股站台",
+   "summary": "Altimeter 近三个月卖掉约 600 万股 CoreWeave（约 6.05 亿美元），称 AI 估值伸展过度；同日黄仁勋称 CoreWeave 基本面在改善、英伟达无需救助，带动股价与债券反弹。",
+   "links": [
+    "https://x.com/i/trending/2110818144113541173"
+   ],
+   "topic": "altimeter-coreweave-exit-huang-2026-10",
+   "firstSeen": "2026-10-16T05:29:39+08:00"
+  },
+  {
+   "id": "62cf43236d",
+   "title": "Vercel Ship SF 2026：围绕 AI Agent 基建开场",
+   "summary": "Guillermo Rauch 开场，Shopify 的 Tobias Lütke、Anthropic 等嘉宾聚焦如何构建与扩展 AI Agent；活动强调 Vercel 部署规模与 agentic 基础设施，现场讨论热烈。",
+   "links": [
+    "https://x.com/i/trending/2110814501276917911"
+   ],
+   "topic": "vercel-ship-sf-2026-10",
+   "firstSeen": "2026-10-16T05:29:39+08:00"
+  },
+  {
+   "id": "cf873ab636",
+   "title": "Rivian 邀请制开放 Point to Point 全程辅助驾驶内测",
+   "summary": "Autonomy Early Access：加州与佛州部分 Gen 2 R1/R2 + Autonomy+ 车主可试监督式双手离方向盘导航到点；须保持注意并反馈数据，计划 2027 扩大，12 月 9 日 Autonomy & AI Day 再讲。",
+   "links": [
+    "https://x.com/i/trending/2110756364893241628"
+   ],
+   "topic": "rivian-point-to-point-eap-2026-10",
+   "firstSeen": "2026-10-16T05:29:39+08:00"
   }
  ],
- "lastChecked": "2026-10-16T05:16:54+08:00"
+ "lastChecked": "2026-10-16T05:29:39+08:00"
 }
