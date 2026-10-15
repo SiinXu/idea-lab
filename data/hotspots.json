@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T19:45:43+08:00",
+ "lastUpdated": "2026-10-15T20:02:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7975,7 +7975,82 @@
    ],
    "topic": "eiliko-ai-toy-privacy",
    "firstSeen": "2026-10-15T19:45:43+08:00"
+  },
+  {
+   "id": "755f2249c7",
+   "title": "Stripe：用图搜索 + 状态机自动修复全球 MongoDB 分片机群",
+   "summary": "把基础设施状态建成可遍历图，用 BFS/Dijkstra 在运行时找最短安全恢复路径；配合 Temporal 仿真层，年减约 200 次告警、少约 12 天不健康分片。",
+   "links": [
+    "https://stripe.dev/blog/how-stripe-uses-graph-search-and-state-machines-to-auto-remediate-a-global-database-fleet",
+    "https://news.ycombinator.com/item?id=50102230"
+   ],
+   "topic": "stripe-graph-search-mongodb-remediation-2026-10",
+   "firstSeen": "2026-10-15T20:02:31+08:00"
+  },
+  {
+   "id": "b8fd5df045",
+   "title": "PhotoCraft / FilmCraft：Claude 辅助用纯 Rust「洁室」复刻 Photoshop、Premiere",
+   "summary": "ArtCraft 开源早期 alpha：宣称仅依公开规格与可观察行为重写，无 Adobe 代码；含原生与 WASM，LEGAL 与专业可用性仍待验证。",
+   "links": [
+    "https://github.com/storytold/photocraft",
+    "https://www.phoronix.com/news/Photocraft-Filmcraft-AI"
+   ],
+   "topic": "photocraft-filmcraft-adobe-rust-2026-10",
+   "firstSeen": "2026-10-15T20:02:31+08:00"
+  },
+  {
+   "id": "13cc15d0fe",
+   "title": "双头栈分配器：同一块内存两端 bump，躲开碎片化",
+   "summary": "demofox 讲清从单头栈到双头栈：两套系统各从一端分配，适合内存紧、比例会漂的场景；还可一端放对象、一端放偏移表做变长随机访问。",
+   "links": [
+    "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+    "https://news.ycombinator.com/item?id=50098274"
+   ],
+   "topic": "double-headed-stack-allocator-demofox-2026-10",
+   "firstSeen": "2026-10-15T20:02:31+08:00"
+  },
+  {
+   "id": "a41a5f1375",
+   "title": "Python 3.15 发布：实验性 JIT 明显更快，UTF-8 成默认编码",
+   "summary": "Linux x86-64 上 JIT 相对标准解释器约快 7–8%，macOS AArch64 约 11–12%；另有 frozendict、显式惰性导入、sentinel 类型与默认开帧指针。",
+   "links": [
+    "https://www.phoronix.com/news/Python-3.15-Released",
+    "https://www.python.org/downloads/release/python-3150/"
+   ],
+   "topic": "python-3-15-jit-2026-10",
+   "firstSeen": "2026-10-15T20:02:31+08:00"
+  },
+  {
+   "id": "145282d160",
+   "title": "Ubuntu 26.10「Stonking Stingray」正式发布",
+   "summary": "六个月非 LTS 版本上线：Linux 7.3 + GNOME 51，并推进 Rust coreutils 迁移；Phoronix 称 amd64v3 包在 EPYC 上另有额外性能提升。",
+   "links": [
+    "https://www.phoronix.com/news/Ubuntu-26.10-Released"
+   ],
+   "topic": "ubuntu-26-10-released-2026-10",
+   "firstSeen": "2026-10-15T20:02:31+08:00"
+  },
+  {
+   "id": "2d0e8ec566",
+   "title": "Cloud Hypervisor 54：热迁移可跨至少前两代，支持 VFIO 与取消",
+   "summary": "Rust VMM 新版约定热迁移至少兼容前两个大版本；新增可迁移 VFIO（如 ConnectX VF）、迁移取消，以及 ARM SMMUv3 实验模拟等。",
+   "links": [
+    "https://www.phoronix.com/news/Cloud-Hypervisor-54"
+   ],
+   "topic": "cloud-hypervisor-54-2026-10",
+   "firstSeen": "2026-10-15T20:02:31+08:00"
+  },
+  {
+   "id": "d583ec73da",
+   "title": "Show HN：codecity——把任意 Git 仓库画成 3D 代码城",
+   "summary": "一文件一楼、一文件夹一街区；可看近期改动、依赖塔与 Agent 正在改哪里，本地运行不出网，适合代码库暴涨时代快速「俯瞰」。",
+   "links": [
+    "https://codecity.icy.dev",
+    "https://news.ycombinator.com/item?id=50102290"
+   ],
+   "topic": "codecity-3d-git-map-2026-10",
+   "firstSeen": "2026-10-15T20:02:31+08:00"
   }
  ],
- "lastChecked": "2026-10-15T19:45:43+08:00"
+ "lastChecked": "2026-10-15T20:02:31+08:00"
 }
