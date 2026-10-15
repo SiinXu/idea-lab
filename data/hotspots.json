@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T06:25:39+08:00",
+ "lastUpdated": "2026-10-16T06:40:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -10220,7 +10220,52 @@
    ],
    "topic": "forgejo-v17-release-2026-10",
    "firstSeen": "2026-10-16T06:25:39+08:00"
+  },
+  {
+   "id": "ab2afb3897",
+   "title": "Proofpoint 63 亿美元全现金收购 Varonis：拼数据与 AI 安全平台",
+   "summary": "Thoma Bravo 旗下 Proofpoint 以约 63 亿美元、每股 49.75 美元收购纳斯达克上市的 Varonis；对谣言前收盘溢价约 52%。双方称要拼出「人、数据与 AI Agent」一体防护，服务 1.6 万+ 企业，预计 2027 上半年交割后 Varonis 退市私有化。X 上刚冒出相关热帖。",
+   "links": [
+    "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquire-varonis-creating-global-leader-data-and-ai-security",
+    "https://www.thomabravo.com/press-releases/proofpoint-to-acquire-varonis-in-a-6.3-billion-transaction",
+    "https://x.com/i/trending/2110861177550991668"
+   ],
+   "topic": "proofpoint-varonis-6-3b-2026-10",
+   "firstSeen": "2026-10-16T06:40:43+08:00"
+  },
+  {
+   "id": "8286590df2",
+   "title": "Collabora Online 内置 CODE 被利用：Nextcloud 服务器遭植入后门",
+   "summary": "CVE-2026-110447 影响 richdocumentscode（内置 CODE）26.4.303 之前版本：proxy.php 可无认证命令注入，但需内置 CODE 服务处于停止状态。攻击自约 9 月中旬起，已出现 PHP webshell 与搜密行为；官方称独立/Docker/AIO 部署不受影响。请升到 26.4.303+ 或彻底移除应用（仅禁用不够）。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+    "https://news.ycombinator.com/item?id=50111052"
+   ],
+   "topic": "collabora-nextcloud-rce-cve-2026-110447",
+   "firstSeen": "2026-10-16T06:40:43+08:00"
+  },
+  {
+   "id": "15c7f8ab6a",
+   "title": "俄罗斯拟强制 5G 手机支持「蚱蜢」加密，目标 2032 年",
+   "summary": "俄数字发展部草案要求自 2032-03-01 起，5G 终端支持国产块密码「Кузнечик」(GOST R 34.12-2015)，用于 NEA7/NIA7。算法需落在调制解调器芯片，软件/换卡加不进去；Qualcomm/Unisoc 目前无此能力。在此之前海外机可用现有 AES 上 5G。HN 新帖讨论中。",
+   "links": [
+    "https://www.cnews.ru/news/top/2026-10-15_mintsifry_obyazhet_vse_5g-smartfony",
+    "https://www.forbes.ru/tekhnologii/570325-rbk-uznal-o-planah-mincifry-obazat-5g-smartfony-podderzivat-kuznecika",
+    "https://news.ycombinator.com/item?id=50111168"
+   ],
+   "topic": "russia-5g-kuznyechik-mandate-2032-2026-10",
+   "firstSeen": "2026-10-16T06:40:43+08:00"
+  },
+  {
+   "id": "d4caf5dad2",
+   "title": "X 热议：Claude 被夸更强，为何 ChatGPT 流量仍碾压",
+   "summary": "讨论把差距归到先发优势、消费级营销、生态整合与使用习惯；Claude 在编程与长文本更受专业用户青睐，但登录门槛与订阅成本被指拖慢破圈。与「同价 20 美元谁更值」形成补充视角。",
+   "links": [
+    "https://x.com/i/trending/2110861184681357807"
+   ],
+   "topic": "chatgpt-vs-claude-popularity-gap-2026-10",
+   "firstSeen": "2026-10-16T06:40:43+08:00"
   }
  ],
- "lastChecked": "2026-10-16T06:25:39+08:00"
+ "lastChecked": "2026-10-16T06:40:43+08:00"
 }
