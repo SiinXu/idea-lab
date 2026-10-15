@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T06:54:03+08:00",
+ "lastUpdated": "2026-10-16T07:13:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -10300,7 +10300,68 @@
    ],
    "topic": "sk-hynix-hbf-3d-dram-sedex-2026-10",
    "firstSeen": "2026-10-16T06:54:03+08:00"
+  },
+  {
+   "id": "1d4cff712a",
+   "title": "DeepMind：Antigravity 挖出新抗菌肽候选",
+   "summary": "用 agent 科学工作台在 UniProt「暗物质」里筛到 97 氨基酸 Lactococcin 972 家族细菌素（A0A0U0D591），结构与基因组证据齐备，仍待湿实验验证。",
+   "links": [
+    "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+   ],
+   "topic": "deepmind-antigravity-amp-peptide-2026-10",
+   "firstSeen": "2026-10-16T07:13:16+08:00"
+  },
+  {
+   "id": "4046eeecbe",
+   "title": "微软 Magnetar：只靠标准哈希的通用 zkVM",
+   "summary": "可证明 Rust/Go/C（含 EVM）执行；同机平均比同类最快系统快约 10–39 倍，验证约 12ms，无椭圆曲线/格/可信设置，面向后量子时代。",
+   "links": [
+    "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/"
+   ],
+   "topic": "microsoft-magnetar-zkvm-2026-10",
+   "firstSeen": "2026-10-16T07:13:16+08:00"
+  },
+  {
+   "id": "15b4f80875",
+   "title": "CGPM 废除闰秒：UTC 与太阳时可差到 1 小时",
+   "summary": "巴黎计量大会通过「连续 UTC」，拟 2027-05-20 生效；数千年内不必再插闰秒，以避免金融微秒级时间戳出错与负闰秒风险。",
+   "links": [
+    "https://www.timeanddate.com/news/astronomy/no-more-leap-seconds-utc-2026",
+    "https://news.ycombinator.com/item?id=50111249"
+   ],
+   "topic": "leap-seconds-abolished-cgpm-2026-10",
+   "firstSeen": "2026-10-16T07:13:16+08:00"
+  },
+  {
+   "id": "c593e1cf44",
+   "title": "远程证明不该被容忍：用户设备自治权之争",
+   "summary": "批评 Play Integrity / App Attest 等把「合法软件」裁决权交给厂商；安全名义下剥夺改装系统与模拟器互操作，反作弊也属同类。",
+   "links": [
+    "https://lumi.codeberg.page/blog/remote-attestation.html"
+   ],
+   "topic": "remote-attestation-should-not-2026-10",
+   "firstSeen": "2026-10-16T07:13:16+08:00"
+  },
+  {
+   "id": "3e5720c569",
+   "title": "Redis 原生接入 Roaring 压缩位图",
+   "summary": "即将随 Redis 8.12 可选开启：稀疏集合省内存，BITCOUNT/BITOP 不必扫完整字符串；对哈希 32 位 ID 这类场景相对明文位图优势明显。",
+   "links": [
+    "https://lemire.me/blog/2026/10/15/redis-now-has-compressed-bitmaps-roaring/"
+   ],
+   "topic": "redis-roaring-bitmaps-2026-10",
+   "firstSeen": "2026-10-16T07:13:16+08:00"
+  },
+  {
+   "id": "ae72ab6db4",
+   "title": "Respan Span-02：带截止时间的 anytime 决策模型",
+   "summary": "输入状态与类型化问题，在调用方设定的毫秒预算内返回当前最佳决策与置信度；支持图像、约 131K 上下文，面向生产 agent 的速度/质量权衡。",
+   "links": [
+    "https://www.respan.ai/blog/introducing-span-2"
+   ],
+   "topic": "respan-span-02-deadline-2026-10",
+   "firstSeen": "2026-10-16T07:13:16+08:00"
   }
  ],
- "lastChecked": "2026-10-16T06:54:03+08:00"
+ "lastChecked": "2026-10-16T07:13:16+08:00"
 }
