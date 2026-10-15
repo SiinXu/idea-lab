@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T16:25:40+08:00",
+ "lastUpdated": "2026-10-15T16:57:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7646,7 +7646,38 @@
    ],
    "topic": "inworld-inference-launch",
    "firstSeen": "2026-10-15T16:25:40+08:00"
+  },
+  {
+   "id": "39161a3112",
+   "title": "/awwwards：一句话让 Agent 做出「获奖级」网站的 Skill",
+   "summary": "juliobsz/skills 发布 /awwwards Agent Skill（MIT），支持 Claude Code、Codex 等：只给一句需求（如「给我做个作品集」），Agent 兼任创意总监、设计师和前端，自己在真实浏览器里检查后交付；约 4 天 350★，可用 npx skills add 安装，适合做高质感落地页的工作流参考。",
+   "links": [
+    "https://github.com/juliobsz/skills"
+   ],
+   "topic": "awwwards-agent-skill-2026-10",
+   "firstSeen": "2026-10-15T16:57:51+08:00"
+  },
+  {
+   "id": "87e9f40936",
+   "title": "sweety-handdraw-video：主题/文章一键做成「边画边讲」手绘口播视频",
+   "summary": "threerocks/sweety-handdraw-video 让 Agent 理解内容、写口播、设计分镜并生成插画，本地工具负责逐笔描线、填色、手写字、配音对齐和导出；v1.2.3（10-13）封板，数日约 430★，适合知识类短视频和公众号内容批量生产。",
+   "links": [
+    "https://github.com/threerocks/sweety-handdraw-video"
+   ],
+   "topic": "sweety-handdraw-video-2026-10",
+   "firstSeen": "2026-10-15T16:57:51+08:00"
+  },
+  {
+   "id": "c32a6f32a9",
+   "title": "AWS 开源 AI-DLC 工作流规则：给编码 Agent 的自适应「开发生命周期」约束",
+   "summary": "awslabs/aidlc-workflows 提供 AI-Driven Life Cycle（AI-DLC）的自适应工作流引导规则，约束编码 Agent 按需求、设计、实现、验证等阶段推进；仓库约 5200★、今日仍在更新，并登上 HN，可作为团队给 Cursor/Claude Code 写规则文件的模板。",
+   "links": [
+    "https://github.com/awslabs/aidlc-workflows",
+    "https://news.ycombinator.com/item?id=50100387"
+   ],
+   "topic": "aws-aidlc-workflows-2026-10",
+   "firstSeen": "2026-10-15T16:57:51+08:00"
   }
  ],
- "lastChecked": "2026-10-15T16:25:40+08:00"
+ "lastChecked": "2026-10-15T16:57:51+08:00"
 }
