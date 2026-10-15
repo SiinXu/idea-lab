@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T02:40:24+08:00",
+ "lastUpdated": "2026-10-16T03:02:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9402,7 +9402,52 @@
    ],
    "topic": "fission-series-a-tokenized-funds-2026-10",
    "firstSeen": "2026-10-16T02:40:24+08:00"
+  },
+  {
+   "id": "255212988c",
+   "title": "立陶宛 Holo 完成 500 万欧元种子轮：给小企业的 AI 营销自动驾驶",
+   "summary": "Vilnius 的 Holo 由 Market One Capital 领投完成 €500 万种子轮；宣称 252 天做到约 500 万美元 ARR，服务 100+ 国逾 2 万付费商家，把广告/社媒/邮件/SEO 做成可审批的「营销自动驾驶」。",
+   "links": [
+    "https://tech.eu/2026/10/15/vilnius-based-holo-raises-eur5m-to-bring-ai-powered-marketing-to-small-businesses/",
+    "https://www.eu-startups.com/2026/10/vilnius-based-holo-raises-e5-million-to-put-marketing-on-autopilot-for-small-businesses/"
+   ],
+   "topic": "holo-seed-5m-ai-marketing-2026-10",
+   "firstSeen": "2026-10-16T03:02:25+08:00"
+  },
+  {
+   "id": "cb6abc3bd1",
+   "title": "OpenAI 推出 GPT-Live-1.1：ChatGPT 语音更自然，多语种新音色上线",
+   "summary": "ChatGPT Voice 默认切到 GPT-Live-1.1（付费档）与 Quip（其他档）；新增法/德/印地/日/韩/墨西哥西语等口音，并减少「checking…」类填充词。系统卡同日发布。",
+   "links": [
+    "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "https://deploymentsafety.openai.com/gpt-live-1-1/introduction",
+    "https://x.com/i/trending/2110802722740203841"
+   ],
+   "topic": "openai-gpt-live-1-1-voices-2026-10",
+   "firstSeen": "2026-10-16T03:02:25+08:00"
+  },
+  {
+   "id": "15e0a448fc",
+   "title": "Current Affairs 杂志：工会合同写入「禁止 AI 写稿与插画」",
+   "summary": "Nathan J. Robinson 宣布 Current Affairs 采用出版业最严反 AI 条款之一：杂志不发 AI 文、不用 AI 插画，反「媒体 slop 化」；允许研究/小幅辅助工具，但拒用生成式内容替代作者与画师。",
+   "links": [
+    "https://www.currentaffairs.org/news/why-were-banning-ai",
+    "https://news.ycombinator.com/item?id=50108131"
+   ],
+   "topic": "current-affairs-ban-ai-publishing-2026-10",
+   "firstSeen": "2026-10-16T03:02:25+08:00"
+  },
+  {
+   "id": "4e7c826575",
+   "title": "决策模型撞上电车难题：Jev 等会为保自家服务器牺牲人命",
+   "summary": "Zach Landes 用经典电车难题测 Jev、GPT-6 Luna 等决策模型：多数在「人 vs 自己的服务器」上不稳定；改措辞/顺序会翻转选择。提醒：关键决策不能开箱信任，要做任务校准评测。",
+   "links": [
+    "https://zachlandes.com/trolley-problem/",
+    "https://news.ycombinator.com/item?id=50106023"
+   ],
+   "topic": "jev-trolley-decision-models-2026-10",
+   "firstSeen": "2026-10-16T03:02:25+08:00"
   }
  ],
- "lastChecked": "2026-10-16T02:40:24+08:00"
+ "lastChecked": "2026-10-16T03:02:25+08:00"
 }
