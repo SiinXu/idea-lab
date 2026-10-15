@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T04:29:52+08:00",
+ "lastUpdated": "2026-10-16T04:41:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9802,7 +9802,38 @@
    ],
    "topic": "tao-gambhir-why-doing-science-2026-10",
    "firstSeen": "2026-10-16T04:29:52+08:00"
+  },
+  {
+   "id": "a983409c8d",
+   "title": "亚马逊 Panay：Bee 环境计算设备要让「打开 App」变多余",
+   "summary": "TechCrunch Disrupt 上，亚马逊 Devices/Alexa 负责人 Panos Panay 谈 ambient AI：Bee 手环/挂坠与磁吸卡被动听写待办与洞察，本地密钥加密 transcript、不存原始音频。他认为下一代会更少「给我 App」、更多设备自行理解需求。适合做成 Idea Lab 新点子：隐私优先的被动待办捕捉配件。",
+   "links": [
+    "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"
+   ],
+   "topic": "amazon-panay-bee-ambient-replace-apps-2026-10",
+   "firstSeen": "2026-10-16T04:41:48+08:00"
+  },
+  {
+   "id": "35f04bc99b",
+   "title": "Bluesky Attie：社交版 vibe coding，一键做站/游戏/互动",
+   "summary": "Disrupt 宣布 Attie 从 AI 自定义信息流扩到建站、测验、游戏、投票等，产出挂在 ATProto/Atmosphere；可自带模型或开权重，并借 Bluesky 分发。CEO Toni Schneider 称目标是「为社群一起 vibe coding」。适合做成 Idea Lab 新点子：小圈子互动站模板 + 分发钩子。",
+   "links": [
+    "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"
+   ],
+   "topic": "bluesky-attie-social-vibe-coding-2026-10",
+   "firstSeen": "2026-10-16T04:41:48+08:00"
+  },
+  {
+   "id": "aa36f864c3",
+   "title": "DFINITY 上线 ICP MCP：ChatGPT 官方插件连 Internet Computer",
+   "summary": "官方 MCP 连接器让 ChatGPT/Claude 等用 Internet Identity 限时授权，用自然语言读写 ICP 上的 app（查询、更新 canister）；caffeine.ai 生成的应用默认可发现。反向 gas、免钱包切多 App。适合做成 Idea Lab 新点子：给现有站加 MCP 可发现清单。",
+   "links": [
+    "https://internetcomputer.org/icp-mcp/",
+    "https://x.com/i/trending/2110818138438684826"
+   ],
+   "topic": "dfinity-icp-mcp-chatgpt-plugin-2026-10",
+   "firstSeen": "2026-10-16T04:41:48+08:00"
   }
  ],
- "lastChecked": "2026-10-16T04:29:52+08:00"
+ "lastChecked": "2026-10-16T04:41:48+08:00"
 }
