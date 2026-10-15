@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T05:43:51+08:00",
+ "lastUpdated": "2026-10-16T05:55:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -10034,7 +10034,63 @@
    ],
    "topic": "authors-guild-human-authored-cert-2026-10",
    "firstSeen": "2026-10-16T05:43:51+08:00"
+  },
+  {
+   "id": "ca09da1abb",
+   "title": "ChatGPT 浏览器插件：可读开标签并在 Work/Codex 里操控页面",
+   "summary": "官方文档与 X 热议同步：侧边聊可读当前页与多开标签；桌面端用 @Chrome/@Edge 等在已登录站点填表、下载、整理标签。含站点白名单/黑名单与确认提示；RuntimeWire 还发现扩展内嵌浏览器控制运行时（桌面免装路径尚在验证中）。",
+   "links": [
+    "https://learn.chatgpt.com/docs/chrome-extension",
+    "https://x.com/i/trending/2110843852277813297",
+    "https://runtimewire.com/article/openai-ships-a-gated-browser-control-runtime-inside-its-chatgpt-extension"
+   ],
+   "topic": "chatgpt-browser-extension-tabs-2026-10",
+   "firstSeen": "2026-10-16T05:55:05+08:00"
+  },
+  {
+   "id": "76e9cba6da",
+   "title": "Doctorow：Expedia 把酒店房价「亚马逊化」",
+   "summary": "Pluralistic 10/15 文：Expedia（及 Booking 系）占美国酒店预订约八成，用最惠国条款与 VIP 竞价广告抬高全网房价——VIP 酒店须在站外长期加价约 10–25%。援引诉讼材料与 BIG 报道，解释为何美酒店均价近年大涨。",
+   "links": [
+    "https://pluralistic.net/2026/10/15/enshittipedia/",
+    "https://www.thebignewsletter.com/p/how-expedia-rigs-travel-markets-and"
+   ],
+   "topic": "expedia-amazoned-hotels-doctorow-2026-10",
+   "firstSeen": "2026-10-16T05:55:05+08:00"
+  },
+  {
+   "id": "11184580e6",
+   "title": "HN 首页：我在自托管什么（以及不托管什么）",
+   "summary": "一篇完整自托管清单冲上 HN 首页：Beelink N100 + Podman/systemd 跑 Jellyfin、Immich、Frigate、Vaultwarden 等约 28 个服务，约 7.5GB 内存；原则是不公网暴露、少依赖重型 compose，并解释为何不做 *arr 栈与自建邮件。",
+   "links": [
+    "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+    "https://news.ycombinator.com/item?id=50109715"
+   ],
+   "topic": "what-i-self-host-hn-2026-10",
+   "firstSeen": "2026-10-16T05:55:05+08:00"
+  },
+  {
+   "id": "29771baf87",
+   "title": "Show HN：Endo——把整支 Agent 当一次 LLM 调用的高阶 Harness",
+   "summary": "longsurf-ai/endo 开源：统一 UI 热切换各家订阅 Agent，用 Higher-Order Harness 把整段 Agent 会话当成可组合单元（介于死板工作流与纯 ReAct 之间），并抽象 harness 协议以利于 KV cache。适合做多 Agent 编排试验。",
+   "links": [
+    "https://github.com/longsurf-ai/endo",
+    "https://news.ycombinator.com/item?id=50110614"
+   ],
+   "topic": "endo-higher-order-harness-2026-10",
+   "firstSeen": "2026-10-16T05:55:05+08:00"
+  },
+  {
+   "id": "788562893b",
+   "title": "两篇流水线砍掉前沿大模型：收据公开",
+   "summary": "Seldon AI 发文称两条生产流水线解雇 frontier 模型并贴出成本/质量对照；与「路由小模型 + 贵模型兜底」同一条省钱主线，适合对照 Idea Lab 的 Haiku 分流类点子。",
+   "links": [
+    "https://seldon-ai.com/blog/we-fired-the-frontier-model",
+    "https://news.ycombinator.com/item?id=50110715"
+   ],
+   "topic": "fired-frontier-model-seldon-2026-10",
+   "firstSeen": "2026-10-16T05:55:05+08:00"
   }
  ],
- "lastChecked": "2026-10-16T05:43:51+08:00"
+ "lastChecked": "2026-10-16T05:55:05+08:00"
 }
