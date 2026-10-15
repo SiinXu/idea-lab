@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T05:15:51+08:00",
+ "lastUpdated": "2026-10-16T05:16:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9910,7 +9910,17 @@
    ],
    "topic": "dwarkesh-anthropic-ai-research-9mo-2026-10",
    "firstSeen": "2026-10-16T05:15:51+08:00"
+  },
+  {
+   "id": "4c5810e9ca",
+   "title": "Vals：Router 成新 AI 原语，神谕路由可比单模高约 14 分、省约 40% 成本",
+   "summary": "Vals 指出前沿模型在金融/编码/法务/税务等基准上「锯齿状」领先，单模必妥协；Router 按质量/成本/延迟逐步选型。任务级神谕路由可比最佳单模高约 14 分且成本约低 40%。将做独立长程 Agent 路由评测与公开榜。",
+   "links": [
+    "https://www.vals.ai/blogs/routers-new-ai-primitive"
+   ],
+   "topic": "vals-routers-ai-primitive-2026-10",
+   "firstSeen": "2026-10-16T05:16:54+08:00"
   }
  ],
- "lastChecked": "2026-10-16T05:15:51+08:00"
+ "lastChecked": "2026-10-16T05:16:54+08:00"
 }
