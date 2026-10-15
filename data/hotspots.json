@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T09:10:41+08:00",
+ "lastUpdated": "2026-10-15T09:29:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6667,7 +6667,39 @@
    ],
    "topic": "capsem-agent-hypervisor-2026-10",
    "firstSeen": "2026-10-15T09:10:41+08:00"
+  },
+  {
+   "id": "f0fe7c9aa7",
+   "title": "Ricursive：用 AI 设计芯片，想解算力荒",
+   "summary": "TechCrunch Disrupt：AlphaChip 作者 Anna Goldie / Azalia Mirhoseini 创业，押注 AI 一周级迭代整颗芯片布局（含环形「甜甜圈」布线），主张与其建一万倍数据中心，不如先把晶圆和带宽用得更狠。适合跟进「AI 设计硬件」这条线。",
+   "links": [
+    "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+   ],
+   "topic": "ricursive-ai-chip-design-2026-10",
+   "firstSeen": "2026-10-15T09:29:14+08:00"
+  },
+  {
+   "id": "0651c33cc1",
+   "title": "Builder.io 开源 Agent-Native：Agent 与 App 同权",
+   "summary": "Steve Sewell 发布开源框架：同一套 typed action 同时服务 Agent、React UI、HTTP、MCP、A2A 和 CLI；带共享状态、鉴权、热同步。口号是「agentic app」——不是聊天侧栏，而是 Agent 能做的事 UI 也能做。已上 builder.io/agent-native，GitHub 公开。",
+   "links": [
+    "https://www.builder.io/agent-native",
+    "https://github.com/builderio/agent-native"
+   ],
+   "topic": "builder-agent-native-oss-2026-10",
+   "firstSeen": "2026-10-15T09:29:14+08:00"
+  },
+  {
+   "id": "ce109ca04c",
+   "title": "开源项目让 Apple Watch 直接配对 Android",
+   "summary": "Apple Watch Companion：逆向配对/激活流程，可在无 iPhone 情况下把 Ultra 2 绑到 Android（目前需 Magisk root，验证机型 OnePlus 13）。能管电量、表盘和部分设置，通话/健康仍残缺。厂商方案仍要先用 iPhone 激活，这条开源路线更狠。",
+   "links": [
+    "https://www.androidauthority.com/apple-watch-companion-pair-with-android-3723530/",
+    "https://appleinsider.com/articles/26/10/14/this-project-allows-you-to-connect-an-apple-watch-to-android-linux-windows"
+   ],
+   "topic": "apple-watch-android-companion-2026-10",
+   "firstSeen": "2026-10-15T09:29:14+08:00"
   }
  ],
- "lastChecked": "2026-10-15T09:10:41+08:00"
+ "lastChecked": "2026-10-15T09:29:14+08:00"
 }
