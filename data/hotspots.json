@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T00:24:20+08:00",
+ "lastUpdated": "2026-10-16T00:39:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8814,7 +8814,94 @@
    ],
    "topic": "haakon-haiku-amplify-2026-10",
    "firstSeen": "2026-10-16T00:24:20+08:00"
+  },
+  {
+   "id": "3993b97a35",
+   "title": "德国拟与 Nvidia 签 AI 合作：实体 AI / 工业模型",
+   "summary": "据 Handelsblatt 等：默茨政府下周「Invest in Germany」峰会或官宣与 Nvidia 的 AI 合作，投数亿欧元算力与工业模型，西门子、奥迪、Black Forest Labs 等约 12 家德企参与；Jensen Huang 周一柏林见默茨。",
+   "links": [
+    "https://www.wiwo.de/politik/deutschland/bundesregierung-plant-ki-partnerschaft-mit-chipkonzern-nvidia/100262650.html",
+    "https://www.focus.de/politik/deutschland/bundesregierung-schliesst-ki-partnerschaft-mit-nvidia_348854ae-4685-448f-a0a2-211d8b433605.html",
+    "https://x.com/i/trending/2110763155831828519"
+   ],
+   "topic": "germany-nvidia-ai-pact-2026-10",
+   "firstSeen": "2026-10-16T00:39:32+08:00"
+  },
+  {
+   "id": "a7ae3db15e",
+   "title": "苹果收盘市值首次站上 5 万亿美元",
+   "summary": "2026-10-14 苹果股价收于约 $342.96，市值约 5.005 万亿美元，成为继 Nvidia 之后第二家收盘站上 5 万亿的公司；此前盘中曾多次短暂越过门槛。",
+   "links": [
+    "https://www.macrumors.com/2026/10/14/apple-5-trillion-close/",
+    "https://www.theverge.com/tech/1011574/apple-is-now-a-5-trillion-company"
+   ],
+   "topic": "apple-5-trillion-close-2026-10",
+   "firstSeen": "2026-10-16T00:39:32+08:00"
+  },
+  {
+   "id": "f4a12ab871",
+   "title": "Void：用 Vite 一把梭全栈，一键部署到 Cloudflare",
+   "summary": "Void 把 Vite 应用补上服务端路由、D1/KV/队列/鉴权等，一条 `void deploy` 完成构建、迁移与上线；支持 React/Vue/Svelte/Solid，社区称其为「JS 界的 Laravel」式体验。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://void.cloud/",
+    "https://x.com/i/trending/2110766887063978028"
+   ],
+   "topic": "void-cloudflare-vite-fullstack-2026-10",
+   "firstSeen": "2026-10-16T00:39:32+08:00"
+  },
+  {
+   "id": "495617dae2",
+   "title": "BlastLoop：给编码 Agent 的「结构优先」作业法",
+   "summary": "Show HN：按 Blast/Mid/Inner 三个海拔写代码，再按 T1 结构 → T2 缺陷/运维 → T3 对抗测试的固定顺序验收；结构问题必须回海拔层修，而不是本地打补丁。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://github.com/rlshaw-ml/BlastLoop",
+    "https://worldwright.beehiiv.com/p/ai-did-not-remove-engineering-failure",
+    "https://news.ycombinator.com/item?id=50106062"
+   ],
+   "topic": "blastloop-agent-coding-2026-10",
+   "firstSeen": "2026-10-16T00:39:32+08:00"
+  },
+  {
+   "id": "48ae767a43",
+   "title": "Agent Vault：给 AI Agent 用的虚拟卡与登录令牌",
+   "summary": "Agent Vault 让 Agent 在结账/登录表单里填入模拟令牌，真实卡号与密码不进模型上下文，面向 Agent 代购与自动注册场景。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://agentvault.io/"
+   ],
+   "topic": "agent-vault-virtual-cards-2026-10",
+   "firstSeen": "2026-10-16T00:39:32+08:00"
+  },
+  {
+   "id": "885fbf934e",
+   "title": "Sygal：本地把 PDF/扫描件/网页转成干净 Markdown",
+   "summary": "一次性买断的本地文档转换器：PDF/Office/网页/YouTube 转 Markdown+JSON，可选自带 Key 的 OCR；强调敏感文件不出本机，并带 CLI 喂给 RAG/Agent。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://sygal.app/"
+   ],
+   "topic": "sygal-local-markdown-2026-10",
+   "firstSeen": "2026-10-16T00:39:32+08:00"
+  },
+  {
+   "id": "d86acfe76b",
+   "title": "Proa：Rust 写的多目标渲染 Web 框架",
+   "summary": "Show HN：同一套类型化组件可输出 HTML/Markdown 等目标，主打极快 SSR（自称相对 React renderToString 数量级优势）与按需 RSJS 小岛；可 Axum 原生或 FFI 嵌进现有栈。",
+   "links": [
+    "https://proa.so/",
+    "https://news.ycombinator.com/item?id=50105467"
+   ],
+   "topic": "proa-rust-web-framework-2026-10",
+   "firstSeen": "2026-10-16T00:39:32+08:00"
+  },
+  {
+   "id": "ad17b5c4d2",
+   "title": "为何大模型公司自己的 App 反而更烂？",
+   "summary": "davis7 一文：实验室握有最强模型，面向用户的 App 体验却常输给第三方；讨论产品化、分发与激励错位，对「模型公司直营产品」机会判断有参考。",
+   "links": [
+    "https://davis7.substack.com/p/the-labs-have-the-best-models-with"
+   ],
+   "topic": "why-ai-labs-apps-worse-2026-10",
+   "firstSeen": "2026-10-16T00:39:32+08:00"
   }
  ],
- "lastChecked": "2026-10-16T00:24:20+08:00"
+ "lastChecked": "2026-10-16T00:39:32+08:00"
 }
