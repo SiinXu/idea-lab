@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T22:02:05+08:00",
+ "lastUpdated": "2026-10-15T22:15:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8401,7 +8401,28 @@
    ],
    "topic": "show-hn-indigene-native-plants-2026-10",
    "firstSeen": "2026-10-15T22:02:05+08:00"
+  },
+  {
+   "id": "9723841798",
+   "title": "Derek Thompson 对话 Strogatz：《我懂数学家为何落泪》",
+   "summary": "机器先在数学上推倒了人类的「积木塔」，作者借访谈数学家 Steven Strogatz 追问：当 AI 的产出就是智力，科研作为「手艺 + 对话」的意义会怎么变？下一个落泪的可能是物理学家、经济学家和写作者。HN 上升中。",
+   "links": [
+    "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+    "https://news.ycombinator.com/item?id=50103630"
+   ],
+   "topic": "mathematicians-weep-thompson-strogatz",
+   "firstSeen": "2026-10-15T22:15:05+08:00"
+  },
+  {
+   "id": "d2075259d9",
+   "title": "NASA 金星任务回到正轨：DAVINCI 提前到 2030 年 12 月发射",
+   "summary": "预算危机后迎来好消息：DAVINCI 下降探测器提前一年、2030 年 12 月发射，将传回 1982 年来首批金星地表直接图像；VERITAS 雷达轨道器 2032 年 11 月跟进，ESA Envision 同年出发，Rocket Lab 私人探测器最早 2027 年底先行。",
+   "links": [
+    "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/"
+   ],
+   "topic": "nasa-venus-davinci-veritas-2026-10",
+   "firstSeen": "2026-10-15T22:15:05+08:00"
   }
  ],
- "lastChecked": "2026-10-15T22:02:05+08:00"
+ "lastChecked": "2026-10-15T22:15:05+08:00"
 }
