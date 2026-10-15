@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T22:28:35+08:00",
+ "lastUpdated": "2026-10-15T22:43:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8472,7 +8472,39 @@
    ],
    "topic": "tesla-dhs-tracker-blocked-2026-10",
    "firstSeen": "2026-10-15T22:28:35+08:00"
+  },
+  {
+   "id": "f8a2af86da",
+   "title": "TIME 2026 最佳发明：Google DeepMind SynthID 上榜",
+   "summary": "SynthID 把不可感知水印嵌进 AI 图/音/视频/文本，已标记超 1800 亿条媒体与约 24 万年音频；公开 Detector 可查 Google 及 OpenAI、NVIDIA 等合作方内容。",
+   "links": [
+    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
+    "https://time.com/collection/best-inventions/2026/google-deepmind-synthid/"
+   ],
+   "topic": "synthid-time-best-inventions-2026-10",
+   "firstSeen": "2026-10-15T22:43:48+08:00"
+  },
+  {
+   "id": "ef4f08863c",
+   "title": "404 Media：ChatGPT 广告可按提示词、邮箱与手机号定向",
+   "summary": "实测显示广告主可上传邮箱/手机号受众，并用「context hints」按对话主题投放；免费与 Go 用户回答下方常见广告，个性化可关但当前对话仍可匹配。",
+   "links": [
+    "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/"
+   ],
+   "topic": "chatgpt-ads-prompt-pii-targeting-2026-10",
+   "firstSeen": "2026-10-15T22:43:48+08:00"
+  },
+  {
+   "id": "a14596d80f",
+   "title": "GNOME 工程师：用 AI Agent + USB/MIPI 对照抓包写硬件驱动",
+   "summary": "Christian Schaller 用 Windows VM 透传设备、主机 usbmon 对照抓包，让 Claude 几天内做出胶片扫描仪 SANE 后端与 ThinkPad MIPI 摄像头补丁，并开源通用 hw-harness 思路。",
+   "links": [
+    "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+    "https://news.ycombinator.com/item?id=50104299"
+   ],
+   "topic": "ai-hw-harness-reverse-engineer-2026-10",
+   "firstSeen": "2026-10-15T22:43:48+08:00"
   }
  ],
- "lastChecked": "2026-10-15T22:28:35+08:00"
+ "lastChecked": "2026-10-15T22:43:48+08:00"
 }
