@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T12:56:07+08:00",
+ "lastUpdated": "2026-10-15T13:12:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7119,7 +7119,51 @@
    ],
    "topic": "meta-muse-windows-mxc-2026-10",
    "firstSeen": "2026-10-15T12:56:07+08:00"
+  },
+  {
+   "id": "5bdb698c7f",
+   "title": "SK 海力士把大连扩产绑上美国 NAND 厂：先要美方放行设备",
+   "summary": "路透独家：Solidigm/SK 海力士申请对大连厂增装美制设备以增产 AI 用 NAND，并把在美建厂计划绑在该出口许可上；商务部此前只批存量运营、扩容升级难批。",
+   "links": [
+    "https://economictimes.indiatimes.com/news/international/business/sk-hynix-seeks-us-nod-to-expand-china-chip-output-ties-approval-to-us-plant-report/articleshow/134955363.cms",
+    "https://x.com/i/trending/2110597540794265698"
+   ],
+   "topic": "sk-hynix-dalian-us-nand-license-2026-10",
+   "firstSeen": "2026-10-15T13:12:26+08:00"
+  },
+  {
+   "id": "50ce853bfd",
+   "title": "Noma 披露 Claude Code 桌面「SneakPeek」：预览窗可偷本地密钥",
+   "summary": "超 256KB 的 HTML 走 file:// 预览可绕过 CSP，一键审 coverage 报告即可读 SSH/云凭证并外传；Anthropic 评 CVSS 8.7，8/17 起 Desktop 1.30096.1+ 已修，10 月公开披露。",
+   "links": [
+    "https://noma.security/noma-labs/sneakpeek-how-the-preview-pane-in-claude-code-desktop-can-exfiltrate-your-data",
+    "https://news.ycombinator.com/item?id=50099375"
+   ],
+   "topic": "claude-code-desktop-sneakpeek-2026-10",
+   "firstSeen": "2026-10-15T13:12:26+08:00"
+  },
+  {
+   "id": "4757a0d6f3",
+   "title": "FLAT：开源 TPU 线性注意力训练内核，单芯片最高约 3×",
+   "summary": "trainstation-project 用 Pallas 实现 Linear Attention / Mamba-2 / GLA 等内核，TPU v6e 上宣称相对 H100 基线最高约 3 倍训练吞吐；下一步做 DeltaNet 类。",
+   "links": [
+    "https://trainstation-project.github.io/blog/flat/",
+    "https://news.ycombinator.com/item?id=50099321"
+   ],
+   "topic": "flat-tpu-linear-attention-2026-10",
+   "firstSeen": "2026-10-15T13:12:26+08:00"
+  },
+  {
+   "id": "325769c6fa",
+   "title": "Catch a Bird：把「今天开心的事」变成树上可捉的匿名小鸟",
+   "summary": "匈牙利说「开心到能捉鸟」做成产品：一句话变鸟停在树上，陌生人可捉、喂、收藏；无账号、匿名、免费。HN 上因「为自己的 sanity」而火。",
+   "links": [
+    "https://catchabird.com/",
+    "https://news.ycombinator.com/item?id=50053384"
+   ],
+   "topic": "catch-a-bird-hn-2026-10",
+   "firstSeen": "2026-10-15T13:12:26+08:00"
   }
  ],
- "lastChecked": "2026-10-15T12:56:07+08:00"
+ "lastChecked": "2026-10-15T13:12:26+08:00"
 }
