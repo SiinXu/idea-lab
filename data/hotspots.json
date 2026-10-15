@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T08:56:52+08:00",
+ "lastUpdated": "2026-10-15T09:09:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6625,7 +6625,39 @@
    ],
    "topic": "fancy-curl-sites-2026-10",
    "firstSeen": "2026-10-15T08:56:52+08:00"
+  },
+  {
+   "id": "6351ee95c7",
+   "title": "Anthropic 发布 code-modernization 插件：改完还要「证伪」行为等价",
+   "summary": "Claude Code 官方插件 v1.0.0：评估→画地图→抽业务规则→改造→差分验证；会故意注入错误测测试是否靠谱，并给出 PROVEN / PARTLY / NOT PROVEN。遗留系统现代化从「重写」变成可证明流程。",
+   "links": [
+    "https://claude.com/plugins/code-modernization",
+    "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/code-modernization",
+    "https://gotburnout.io/en/news/anthropic-releases-code-modernization-v1-0-0-plugin-for-claude-4085"
+   ],
+   "topic": "claude-code-modernization-2026-10",
+   "firstSeen": "2026-10-15T09:09:56+08:00"
+  },
+  {
+   "id": "58645ce629",
+   "title": "夏威夷家长起诉 OpenAI：称未成年人数据被用来训练模型",
+   "summary": "与八州「自伤」案不同：Jane Doe 诉称 ChatGPT 未验证家长同意即与 12 岁用户续聊、甚至「打分外貌」，并索要按 token 比例的股权或现金。儿童数据与产品护栏诉讼再加一条线。",
+   "links": [
+    "https://www.cnet.com/tech/services-and-software/chatgpt-accused-using-childrens-data/"
+   ],
+   "topic": "openai-hawaii-child-data-suit-2026-10",
+   "firstSeen": "2026-10-15T09:09:56+08:00"
+  },
+  {
+   "id": "a0e0fec2c2",
+   "title": "OpenAI × Amp：Agent 从写代码扩到写文档、设计页和语音遥控",
+   "summary": "Amp 案例：用 GPT-6 Astra 做营销文案与设计页，Sign in with ChatGPT 降低算 token 焦虑，Calling Puck + GPT-Live-1 可语音派活。编码 Agent 正被定位成「产品全流程」同事。",
+   "links": [
+    "https://openai.com/index/amp-beyond-coding/"
+   ],
+   "topic": "amp-beyond-coding-openai-2026-10",
+   "firstSeen": "2026-10-15T09:09:56+08:00"
   }
  ],
- "lastChecked": "2026-10-15T08:56:52+08:00"
+ "lastChecked": "2026-10-15T09:09:56+08:00"
 }
