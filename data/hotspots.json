@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T08:46:22+08:00",
+ "lastUpdated": "2026-10-15T08:47:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6565,7 +6565,27 @@
    ],
    "topic": "ai-random-number-seven-bias-2026-10",
    "firstSeen": "2026-10-15T08:46:22+08:00"
+  },
+  {
+   "id": "f96073ff9e",
+   "title": "《经济学人》：AI 繁荣正被「不可靠数字」拖累",
+   "summary": "多家公司与研究机构披露的产能、营收、估值口径互相打架，投资者难判断真实需求与回报；数字夸大可能放大泡沫与误配。",
+   "links": [
+    "https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers"
+   ],
+   "topic": "economist-ai-unreliable-numbers-2026-10",
+   "firstSeen": "2026-10-15T08:47:17+08:00"
+  },
+  {
+   "id": "a2b1566c78",
+   "title": "Show HN：GitVolt，用 Opus 5.5 做出来的高速 Git GUI",
+   "summary": "作者用约 160 亿 token / 约 5400 美元 API 成本，从零做出开源 Git 客户端；Tauri+CEF，主打大仓库滚动流畅，可在网页试玩。",
+   "links": [
+    "https://gitvolt.com/"
+   ],
+   "topic": "gitvolt-show-hn-2026-10",
+   "firstSeen": "2026-10-15T08:47:17+08:00"
   }
  ],
- "lastChecked": "2026-10-15T08:46:22+08:00"
+ "lastChecked": "2026-10-15T08:47:17+08:00"
 }
