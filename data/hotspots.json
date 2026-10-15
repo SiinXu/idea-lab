@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T06:40:43+08:00",
+ "lastUpdated": "2026-10-16T06:54:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -10265,7 +10265,42 @@
    ],
    "topic": "chatgpt-vs-claude-popularity-gap-2026-10",
    "firstSeen": "2026-10-16T06:40:43+08:00"
+  },
+  {
+   "id": "31f85d58c7",
+   "title": "GreyNoise：边缘设备被植入 Pawns.app，带宽遭「Proxyjacking」倒卖",
+   "summary": "GreyNoise 披露 skynox7 活动：至少 143 台设备、34 国受影响。攻击者利用 D-Link ShareCenter（CVE-2024-3272/3273）、Ubiquiti UniFi Video NVR（CVE-2021-44228）与 SAP NetWeaver（CVE-2025-31324）等漏洞，在未经同意下安装住宅代理软件 Pawns.app（IPRoyal 生态），把受害者带宽卖进住宅代理池；部分设备还被写入攻击者 SSH 公钥。BleepingComputer 与 HN 同步跟进。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+    "https://news.ycombinator.com/item?id=50111445",
+    "https://www.greynoise.io/blog"
+   ],
+   "topic": "greynoise-proxyjacking-pawns-skynox7-2026-10",
+   "firstSeen": "2026-10-16T06:54:03+08:00"
+  },
+  {
+   "id": "500c63b84d",
+   "title": "Show HN：Luksmith——Apple Silicon 上把 LUKS/ext4 盘挂进 Finder",
+   "summary": "基于 macOS FSKit 的用户态文件系统：识别 LUKS1/2，解锁后把底层 ext2/3/4 挂到 /Volumes，可读可写、走 jbd2 日志；无内核扩展、无网络与遥测。阅读复制免费，写入一次性 $9.99；要求 Apple Silicon + macOS 26。作者在 HN 刚发布。",
+   "links": [
+    "https://luksmith.app",
+    "https://news.ycombinator.com/item?id=50111381",
+    "https://apps.apple.com/us/app/luksmith/id6806869711?mt=12"
+   ],
+   "topic": "luksmith-luks-finder-macos26-2026-10",
+   "firstSeen": "2026-10-16T06:54:03+08:00"
+  },
+  {
+   "id": "7ff77176fe",
+   "title": "SK 海力士 SEDEX 路线图：3D Stacked DRAM + HBF 应对 AI 推理墙",
+   "summary": "CDO Ahn Hyun 在 SEDEX 2026 称，到 2030 年 AI 基建性能需求或较 2026 年增约 20 倍；除继续推 HBM4E/定制 HBM 外，将做把 DRAM 叠在 GPU/NPU 上的 3D Stacked DRAM，以及把 HBM 级 TSV/高速 I/O 用到 NAND 的 High Bandwidth Flash（带宽约同代 HBM 一半、容量约 10 倍），服务以读为主的推理 KV 缓存层。HN 新帖带出。",
+   "links": [
+    "https://www.koreaittimes.com/news/articleView.html?idxno=158124",
+    "https://news.ycombinator.com/item?id=50111375"
+   ],
+   "topic": "sk-hynix-hbf-3d-dram-sedex-2026-10",
+   "firstSeen": "2026-10-16T06:54:03+08:00"
   }
  ],
- "lastChecked": "2026-10-16T06:40:43+08:00"
+ "lastChecked": "2026-10-16T06:54:03+08:00"
 }
