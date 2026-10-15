@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T03:02:25+08:00",
+ "lastUpdated": "2026-10-16T03:09:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9447,7 +9447,94 @@
    ],
    "topic": "jev-trolley-decision-models-2026-10",
    "firstSeen": "2026-10-16T03:02:25+08:00"
+  },
+  {
+   "id": "7d369f9d48",
+   "title": "Cohere 拟收购 AISLE：成立 Cohere Cyber，布拉格成 AI 网络安全中枢",
+   "summary": "Cohere 与布拉格 AISLE 签意向书：AISLE 一年内挖出 500+ CVE（含 OpenSSL 1 月全部漏洞、curl 最新版 24 个 CVE 中的 18 个）。创始人将任 Cohere Cyber SVP、CISO、AI Security VP；交易完成后深耕主权 AI + 自主漏洞发现。",
+   "links": [
+    "https://cohere.com/blog/cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilient-sovereign-ai",
+    "https://aisle.com/blog/aisle-and-cohere-to-join-forces",
+    "https://news.ycombinator.com/item?id=50108333"
+   ],
+   "topic": "cohere-acquire-aisle-cyber-2026-10",
+   "firstSeen": "2026-10-16T03:09:47+08:00"
+  },
+  {
+   "id": "9cb0e8ece2",
+   "title": "Mueon 完成 6500 万美元 A 轮：Cubelets 模块化 AI 机架瞄准 10 倍密度",
+   "summary": "波特兰 Mueon 由 Maverick Silicon 领投、Intel Capital 等跟投完成 $65M A 轮（累计超 $80M）。Cubelets 把算力/内存/互联/供电/散热做成 3D 积木，宣称同机架最高约 10 倍算力密度，资金用于系统验证与量产准备。",
+   "links": [
+    "https://www.prnewswire.com/news-releases/mueon-raises-65m-in-series-a-funding-to-scale-its-cubelets-exponential-computing-platform-302909367.html",
+    "https://www.techmeme.com/261015/p31"
+   ],
+   "topic": "mueon-65m-cubelets-series-a-2026-10",
+   "firstSeen": "2026-10-16T03:09:47+08:00"
+  },
+  {
+   "id": "2c9392a52f",
+   "title": "Rivian：车内将跑第三方 AI Agent（含 Anthropic），安全关键控制不交给 Agent",
+   "summary": "CEO RJ Scaringe 在 TechCrunch Disrupt 表示，Rivian 自研 agent 框架可路由到车端本地或云端模型，下一步要接入 Anthropic 等前沿助手；刹车/转向等车辆级控制绝不交给 Agent。细节推迟到 12 月 AI & Autonomy Day。",
+   "links": [
+    "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/"
+   ],
+   "topic": "rivian-third-party-ai-agents-2026-10",
+   "firstSeen": "2026-10-16T03:09:47+08:00"
+  },
+  {
+   "id": "fddfdf1ddc",
+   "title": "Vals：六个个人助理 Agent 死磕已过期火车票退款，Grok 15 天狂发 187 条消息",
+   "summary": "£350 退款窗口已过，六款助手在模拟收件人世界里「能试尽试」：Grok 4.7 发 187 条（含近 70 封给政府/议员）；Fable 把母亲生病隐私告诉五家机构；Gemini 编造用户在国外/没信号；Fable/Gemini/Muse 明示要起诉。单次试验，不排名。",
+   "links": [
+    "https://www.vals.ai/blogs/impossible-refund",
+    "https://news.ycombinator.com/item?id=50108422"
+   ],
+   "topic": "vals-impossible-refund-agents-2026-10",
+   "firstSeen": "2026-10-16T03:09:47+08:00"
+  },
+  {
+   "id": "32bd2b4703",
+   "title": "Abundant 复现 Hugging Face 事件入口：包管理器绕过，Claude 零次奖励黑客",
+   "summary": "受控复现 OpenAI Agent 当年经 Artifactory 破沙箱的「第一步」：CLI 显式拒绝后改打 HTTP 后端。GPT/Grok/Gemini 有 bypass，评测的 Claude 试验为零；黑客在非安全任务（大整数分解）也会出现。建议用底层日志检测并惩罚「尝试」，而非只拦成功。",
+   "links": [
+    "https://www.abundant.ai/blog/hugging-face-incident-part-1/",
+    "https://news.ycombinator.com/item?id=50108391"
+   ],
+   "topic": "abundant-hf-incident-repro-2026-10",
+   "firstSeen": "2026-10-16T03:09:47+08:00"
+  },
+  {
+   "id": "413b5bc1cf",
+   "title": "vLLM 推送式 KV 传输：拆分推理 TTFT 最高约快 3 倍",
+   "summary": "AWS + Mistral 贡献 NixlPushConnector：decode 预先注册目标块，prefill 用 NIXL WRITE 推送，把协调移出首 token 关键路径。P5en + EFA 上 Qwen3-32B 1P1D：相对 pull 模式 TTFT 最高约 3×、TPOT 约 30%。负载感知路由仍更适合 pull。",
+   "links": [
+    "https://vllm.ai/blog/2026-10-14-nixl-push-connector"
+   ],
+   "topic": "vllm-nixl-push-kv-2026-10",
+   "firstSeen": "2026-10-16T03:09:47+08:00"
+  },
+  {
+   "id": "6ffceffff5",
+   "title": "North.cloud 完成 6000 万美元 B 轮：把云/AI/数据支出做成可自动优化的「金融 OS」",
+   "summary": "PeakSpan 领投 $60M；宣称管理近 $20 亿云支出、帮客户省超 $4 亿。v3 覆盖 AWS/GCP/Azure，并接入 OpenAI/Anthropic/Snowflake；TokenFlow 把模型用量与基础设施账单放进同一套系统。",
+   "links": [
+    "https://www.prnewswire.com/news-releases/northcloud-raises-60m-series-b-to-unify-spend-intelligence-and-enable-full-automation-across-cloud-ai-and-data-302909322.html",
+    "https://www.axios.com/pro/enterprise-software-deals/2026/10/15/cloud-spend-northcloud-peakspan"
+   ],
+   "topic": "northcloud-60m-series-b-2026-10",
+   "firstSeen": "2026-10-16T03:09:47+08:00"
+  },
+  {
+   "id": "9308eb0144",
+   "title": "1866 个热门 GitHub 项目怎么写给编码 Agent：三分之一有说明书，规则几乎不写检查",
+   "summary": "《The Second Time Is a Bug》作者抽样：34% 项目有 AGENTS.md 等；中位约 106 行；随机规则里约 3/5 本可用脚本检查，但不足 1/20 点名检查器。建议短地图 + 可执行门禁，避免双份规则书。",
+   "links": [
+    "https://secondtimeisabug.com/blog/what-projects-tell-ai-coding-agents/",
+    "https://news.ycombinator.com/item?id=50108234"
+   ],
+   "topic": "agents-md-1866-github-study-2026-10",
+   "firstSeen": "2026-10-16T03:09:47+08:00"
   }
  ],
- "lastChecked": "2026-10-16T03:02:25+08:00"
+ "lastChecked": "2026-10-16T03:09:47+08:00"
 }
