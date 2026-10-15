@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T11:29:26+08:00",
+ "lastUpdated": "2026-10-15T11:46:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6948,7 +6948,40 @@
    ],
    "topic": "gamedev-ai-workman-clash",
    "firstSeen": "2026-10-15T11:29:26+08:00"
+  },
+  {
+   "id": "3e5f3a91fb",
+   "title": "Steam 大更新：Big Art 主页、屏保与 Remote Play 新编解码器 Pyrowave",
+   "summary": "Valve 10 月 13 日向稳定版推送客户端更新：主页新增 Big Art 大图模式与个人日历；屏保功能正式上线（默认轮播最近游戏美术与截图，另有复古弹跳 Logo，支持自定义屏保目录）；Remote Play 加入实验性低延迟高带宽编解码器 Pyrowave，并有大量 Linux 与手柄改进。利好 Steam Deck / Steam Machine 客厅体验。",
+   "links": [
+    "https://www.steamdeck.com/en/news/",
+    "https://www.gamingonlinux.com/2026/10/a-big-steam-update-brings-the-big-art-mode-screensaver-steam-controller-upgrades-linux-upgrades-and-more/",
+    "https://www.theverge.com/games/1010773/steam-just-got-a-big-patch",
+    "https://x.com/i/trending/2110384949991981482"
+   ],
+   "topic": "steam-big-art-pyrowave-2026-10",
+   "firstSeen": "2026-10-15T11:46:14+08:00"
+  },
+  {
+   "id": "fbba186a37",
+   "title": "韩国存储芯片霸主地位遭预警：中国 2028 年起 RAM 扩产或致过剩",
+   "summary": "《每日经济》专栏呼吁韩国在两三年内培育新增长产业：中国计划 2028 年起大幅扩产 RAM，可能到 2029 年冲击三星、SK 海力士的优势；马斯克也发帖称中国届时将生产大量 RAM。尽管当前产能紧缺、长约锁定出货，KOSPI 自 6 月高点已跌约四成，反映市场对 AI 需求与存储周期的担忧。",
+   "links": [
+    "https://x.com/i/trending/2110571280114262120"
+   ],
+   "topic": "korea-memory-china-ram-2029",
+   "firstSeen": "2026-10-15T11:46:14+08:00"
+  },
+  {
+   "id": "d9ffbfef07",
+   "title": "DLSS 5 + 模组：《神力科蒂》F1 驾驶舱画面逼真到被当成实拍",
+   "summary": "X 热传一段 Assetto Corsa（神力科蒂）F1 第一人称视频，叠加数千个写实模组与 NVIDIA DLSS 5 的「3D 引导神经渲染」，实时补光照、材质与细节，仪表、车身反光和天空都像真实转播，不少人误以为是实拍。也引发讨论：游戏是否该追求以假乱真。神经渲染正在把模拟器画质推向照片级。",
+   "links": [
+    "https://x.com/i/trending/2110418780270776652"
+   ],
+   "topic": "dlss5-assetto-corsa-photoreal",
+   "firstSeen": "2026-10-15T11:46:14+08:00"
   }
  ],
- "lastChecked": "2026-10-15T11:29:26+08:00"
+ "lastChecked": "2026-10-15T11:46:14+08:00"
 }
