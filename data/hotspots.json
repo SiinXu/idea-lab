@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T08:09:28+08:00",
+ "lastUpdated": "2026-10-15T08:30:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6504,7 +6504,47 @@
    ],
    "topic": "ai-interviewer-vs-ai-agent",
    "firstSeen": "2026-10-15T08:09:28+08:00"
+  },
+  {
+   "id": "232a58a0d6",
+   "title": "Mistral 收购 New Material：把设计嵌进企业 AI 交付",
+   "summary": "设计导向团队 New Material 并入 Mistral，成立 Solutions Design，在工具、数据、训练与产品之间打通客户反馈闭环，服务企业与政府场景。",
+   "links": [
+    "https://newmaterial.ai/stories/newmaterial-joins-mistral"
+   ],
+   "topic": "mistral-new-material-2026-10",
+   "firstSeen": "2026-10-15T08:30:55+08:00"
+  },
+  {
+   "id": "b884e95382",
+   "title": "PolyWin 上架 TermiX：预测市场 Agent 一夜爆火",
+   "summary": "预测市场 Agent PolyWin 登陆 BNB 链上的 TermiX 自主商务市场，帖文浏览量从约 847 冲到 3.5 万；平台用四态流程做竞标与链上托管结算。",
+   "links": [
+    "https://x.com/i/trending/2110519410444099643"
+   ],
+   "topic": "polywin-termix-2026-10",
+   "firstSeen": "2026-10-15T08:30:55+08:00"
+  },
+  {
+   "id": "86b83f4c89",
+   "title": "Jester：主打段子与 meme 的幽默 AI Agent",
+   "summary": "Memelord 收购 jester.ai 推出 Jester，做烤肉、潮流 meme 与 iMessage 接入，想在一堆「干活」Agent 里抢娱乐向入口。",
+   "links": [
+    "https://x.com/i/trending/2110525454360670388"
+   ],
+   "topic": "jester-ai-agent-2026-10",
+   "firstSeen": "2026-10-15T08:30:55+08:00"
+  },
+  {
+   "id": "6ebb678b95",
+   "title": "OpenAI 伦敦员工人均成本约 230 万英镑",
+   "summary": "OpenAI UK 2025 年报显示 110 人总人力成本约 2.58 亿英镑，人均约 230 万；其中股权激励约 1.68 亿，现金薪资约 8740 万。",
+   "links": [
+    "https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person"
+   ],
+   "topic": "openai-uk-2-3m-pay-2026-10",
+   "firstSeen": "2026-10-15T08:30:55+08:00"
   }
  ],
- "lastChecked": "2026-10-15T08:09:28+08:00"
+ "lastChecked": "2026-10-15T08:30:55+08:00"
 }
