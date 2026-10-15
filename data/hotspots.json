@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T22:55:48+08:00",
+ "lastUpdated": "2026-10-15T23:10:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8559,7 +8559,47 @@
    ],
    "topic": "brokenml-agent-fix-workloads-2026-10",
    "firstSeen": "2026-10-15T22:55:48+08:00"
+  },
+  {
+   "id": "3a11e60ee8",
+   "title": "Mistral 发布 Timestral：时序预测基础模型家族",
+   "summary": "5M–209M 参数，GIFT-Eval / TIME / fev-bench 三项榜首；支持多变量概率预测与已知未来协变量，CPU 即可跑；可经 Mistral Forge 微调，适合工业传感器与可观测性指标。",
+   "links": [
+    "https://mistral.ai/news/timestral/"
+   ],
+   "topic": "mistral-timestral-2026-10-15",
+   "firstSeen": "2026-10-15T23:10:53+08:00"
+  },
+  {
+   "id": "a6af3cc4ba",
+   "title": "Datadog Scout 1.0：专攻生产事故排查的 SRE 模型",
+   "summary": "驱动 Bits Investigation：中档成本约是 GPT-6.1 Sol / Claude Opus 5.5 的 1/3–1/8，却接近同档调查质量；用历史告警仿真做 RL，闭测预览中。",
+   "links": [
+    "https://www.datadoghq.com/blog/ai/introducing-scout-sre-specialized-model-bits-ai/"
+   ],
+   "topic": "datadog-scout-1-0-sre-2026-10",
+   "firstSeen": "2026-10-15T23:10:53+08:00"
+  },
+  {
+   "id": "1345f06390",
+   "title": "Simons 基金会联手 Anthropic / OpenAI：1500 万美元帮数学家适应 AI",
+   "summary": "基金会执掌拨款与公开征集，支持评估 AI 辅助证明、工具培训与社区规范；两家实验室另提供工具与算力，覆盖数学及基础科学。",
+   "links": [
+    "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/"
+   ],
+   "topic": "simons-15m-math-ai-2026-10",
+   "firstSeen": "2026-10-15T23:10:53+08:00"
+  },
+  {
+   "id": "7b05a0fc54",
+   "title": "ClickHouse：Agent 时代数据爆炸，把「尘埃落定」的 Postgres 数据卸到 ClickHouse",
+   "summary": "认为 AI Agent 让事务数据更快涨到几十 TB；活跃写入留 Postgres，已结算/只读历史与聚合卸到 ClickHouse，单位成本可降一个数量级；配 WalShadow CDC 与 pg_clickhouse。",
+   "links": [
+    "https://clickhouse.com/blog/oltp-is-expensive-you-can-clickhouse-it"
+   ],
+   "topic": "clickhouse-oltp-offload-2026-10",
+   "firstSeen": "2026-10-15T23:10:53+08:00"
   }
  ],
- "lastChecked": "2026-10-15T22:55:48+08:00"
+ "lastChecked": "2026-10-15T23:10:53+08:00"
 }
