@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T23:54:13+08:00",
+ "lastUpdated": "2026-10-16T00:24:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8712,7 +8712,109 @@
    ],
    "topic": "microsoft-praise-cmu-ai-se-2026-10",
    "firstSeen": "2026-10-15T23:54:13+08:00"
+  },
+  {
+   "id": "1fd41b88f2",
+   "title": "CompanyOS：Agent 时代的「公司操作系统」",
+   "summary": "Yohei Nakajima / Harrison Chase 等讨论：把规则、流程与工具用法做成可演进的 CompanyOS，人和 Agent 每天共写，源真相仍在现有系统。companyos.cc 等工具在冒头。",
+   "links": [
+    "https://x.com/i/trending/2110759801894617415",
+    "https://companyos.cc"
+   ],
+   "topic": "companyos-firmos-agents-2026-10",
+   "firstSeen": "2026-10-16T00:24:20+08:00"
+  },
+  {
+   "id": "730e8d4b8d",
+   "title": "Steam 更新后启动更快：回击 Epic「vibe coding」启动器",
+   "summary": "Epic 预览用 vibe coding 重做启动器并自称比 Steam 快；约 24 小时后 Steam 客户端更新，第三方实测启动约 5.23s，反超 Epic 的 5.47s。",
+   "links": [
+    "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/"
+   ],
+   "topic": "steam-beats-epic-vibe-launcher-2026-10",
+   "firstSeen": "2026-10-16T00:24:20+08:00"
+  },
+  {
+   "id": "a8e49667ef",
+   "title": "Krea 3：面向大规模编辑的前沿图像模型",
+   "summary": "Krea 发布 Krea 3，主打可规模化的图像编辑，宣称比 Nano Banana Pro 快约 4 倍；适合做生成式设计与批量改图工作流。",
+   "links": [
+    "https://www.krea.ai/krea-3"
+   ],
+   "topic": "krea-3-image-model-2026-10",
+   "firstSeen": "2026-10-16T00:24:20+08:00"
+  },
+  {
+   "id": "31414dccfb",
+   "title": "微软 AI：Frontier Pre-Training 训练实践公开",
+   "summary": "Microsoft AI 撰文介绍前沿预训练经验与基础设施取舍，给自训/复现大模型团队做参考。",
+   "links": [
+    "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+    "https://news.ycombinator.com/item?id=50105791"
+   ],
+   "topic": "microsoft-ai-frontier-pretraining-2026-10",
+   "firstSeen": "2026-10-16T00:24:20+08:00"
+  },
+  {
+   "id": "bc34be66cc",
+   "title": "Goodfire：Neural Networks Are Already Clean",
+   "summary": "Goodfire 论文站主张神经网络内部表征其实更「干净」可解，挑战常见「一团乱麻」叙事，和可解释性/对齐讨论相关。",
+   "links": [
+    "https://already-clean.goodfire.com/"
+   ],
+   "topic": "goodfire-already-clean-nn-2026-10",
+   "firstSeen": "2026-10-16T00:24:20+08:00"
+  },
+  {
+   "id": "6d26dc845c",
+   "title": "The Verge：别让朋友的数据喂给 AI Agent",
+   "summary": "文章提醒：Agent 一键读邮件/云盘/聊天时，很容易把朋友隐私一并吞进上下文；产品要默认征得同意与最小权限。",
+   "links": [
+    "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent"
+   ],
+   "topic": "verge-muse-ai-data-consent-2026-10",
+   "firstSeen": "2026-10-16T00:24:20+08:00"
+  },
+  {
+   "id": "cbf50727f1",
+   "title": "E Ink Kaleido 4：彩墨屏色域再升级",
+   "summary": "E Ink 升级主流彩墨屏方案 Kaleido 4，色彩与可读性改进，影响下一代彩墨阅读器与电子价签类硬件。",
+   "links": [
+    "https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-con"
+   ],
+   "topic": "e-ink-kaleido-4-2026-10",
+   "firstSeen": "2026-10-16T00:24:20+08:00"
+  },
+  {
+   "id": "96b40ac1f2",
+   "title": "Shelly 新存在传感器：无摄像头同时识别最多 10 人",
+   "summary": "Shelly 发布无摄像头存在传感器，可同时探测最多约 10 人，兼顾智能家居自动化与隐私。",
+   "links": [
+    "https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-u"
+   ],
+   "topic": "shelly-presence-sensor-10-people-2026-10",
+   "firstSeen": "2026-10-16T00:24:20+08:00"
+  },
+  {
+   "id": "fd0ef7bf12",
+   "title": "微软新 Photos：本机 + OneDrive + iCloud 相册合一",
+   "summary": "Windows 11 新 Photos 把本机、OneDrive 与 iCloud 图库合到一处浏览，降低跨生态找图成本。",
+   "links": [
+    "https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud"
+   ],
+   "topic": "microsoft-photos-onedrive-icloud-2026-10",
+   "firstSeen": "2026-10-16T00:24:20+08:00"
+  },
+  {
+   "id": "d68eda341d",
+   "title": "Haakon：放大 Haiku，用便宜模型逼近 Opus 级效果",
+   "summary": "Show HN：Haakon 研究如何通过 MCP/工作流把 Haiku 类小模型「放大」到接近 Opus 的任务表现，主打降本。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://haakon.ai/research"
+   ],
+   "topic": "haakon-haiku-amplify-2026-10",
+   "firstSeen": "2026-10-16T00:24:20+08:00"
   }
  ],
- "lastChecked": "2026-10-15T23:54:13+08:00"
+ "lastChecked": "2026-10-16T00:24:20+08:00"
 }
