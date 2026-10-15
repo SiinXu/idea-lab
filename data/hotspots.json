@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T15:09:29+08:00",
+ "lastUpdated": "2026-10-15T15:25:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7441,7 +7441,72 @@
    ],
    "topic": "linus-utterly-stupid-ai-disclosure-2026-10",
    "firstSeen": "2026-10-15T15:09:29+08:00"
+  },
+  {
+   "id": "ab881b15a8",
+   "title": "Cloudflare 要做后量子 CA：用 Merkle Tree 证书批量签根",
+   "summary": "Cloudflare 宣布自建公开 CA，并用 Merkle Tree Certificates（MTC）把签发与透明度日志绑在一起；瞄准 2027 年初进 Chrome 抗量子根库，标准 MTC 免费。Chrome 联测显示地标相对证书握手中位可快约 9%。",
+   "links": [
+    "https://blog.cloudflare.com/pq-ca-with-mtcs/",
+    "https://news.ycombinator.com/item?id=50100360"
+   ],
+   "topic": "cloudflare-pq-mtc-ca-2026-10",
+   "firstSeen": "2026-10-15T15:25:39+08:00"
+  },
+  {
+   "id": "cb1c642098",
+   "title": "IdeaLens：查的是「点子谁想的」，不是「字谁写的」",
+   "summary": "马里兰大学与 Google DeepMind 等发论文：把文章抽成话语角色大纲再判想法出处。人写 AI 点子的故事它标 AI 约 68%，传统文笔检测器只有约 8%；代码、模型与数据已公开。",
+   "links": [
+    "https://arxiv.org/abs/2610.06778",
+    "https://news.ycombinator.com/item?id=50100294"
+   ],
+   "topic": "idealens-idea-provenance-2026-10",
+   "firstSeen": "2026-10-15T15:25:39+08:00"
+  },
+  {
+   "id": "e1c071a2f1",
+   "title": "antirez 开源 C64 硬件模拟器：掰芯片断脚看后果",
+   "summary": "Redis 作者 antirez 放出 Commodore 64 硬件级模拟器，可破坏芯片与引脚观察系统行为，适合怀旧硬件与底层教学。",
+   "links": [
+    "https://github.com/antirez/c64-hw-simulator",
+    "https://news.ycombinator.com/item?id=50100366"
+   ],
+   "topic": "antirez-c64-hw-simulator-2026-10",
+   "firstSeen": "2026-10-15T15:25:39+08:00"
+  },
+  {
+   "id": "b816581766",
+   "title": "WSJ：AI 公司与窃密间谍玩猫鼠游戏",
+   "summary": "华尔街日报梳理 AI 实验室如何防「美人计」、游乐场套话等挖角与窃听；与 OpenAI 会议室窃听器案同一波安全焦虑。",
+   "links": [
+    "https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b",
+    "https://news.ycombinator.com/item?id=50100369"
+   ],
+   "topic": "wsj-ai-spy-cat-mouse-2026-10",
+   "firstSeen": "2026-10-15T15:25:39+08:00"
+  },
+  {
+   "id": "0738c49eff",
+   "title": "路透：AI 律所从大所挖人，律师往「AI 原生」团队跳",
+   "summary": "路透报道一批以 AI 为核心工具链的律所正从传统大所挖走律师，说明法律工作流里 Agent/自动化已开始改招聘结构。",
+   "links": [
+    "https://www.reuters.com/legal/legalindustry/ai-powered-law-firms-draw-lawyers-big-firms-2026-10-14/"
+   ],
+   "topic": "reuters-ai-law-firms-hiring-2026-10",
+   "firstSeen": "2026-10-15T15:25:39+08:00"
+  },
+  {
+   "id": "8d4bff8d68",
+   "title": "Linq.es：Go 写的 Link-in-Bio + 短链 + vCard，自带 MCP",
+   "summary": "Show HN 项目把个人主页、短链和电子名片做成可给 Agent 调的 MCP 服务，适合账号矩阵自动化分发。",
+   "links": [
+    "https://linq.es/",
+    "https://news.ycombinator.com/item?id=50100296"
+   ],
+   "topic": "linq-es-mcp-link-in-bio-2026-10",
+   "firstSeen": "2026-10-15T15:25:39+08:00"
   }
  ],
- "lastChecked": "2026-10-15T15:09:29+08:00"
+ "lastChecked": "2026-10-15T15:25:39+08:00"
 }
