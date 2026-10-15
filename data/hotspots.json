@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T10:55:50+08:00",
+ "lastUpdated": "2026-10-15T11:29:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6918,7 +6918,37 @@
    ],
    "topic": "google-earth-ai-geospatial-agent-2026-10",
    "firstSeen": "2026-10-15T10:55:50+08:00"
+  },
+  {
+   "id": "3744c8a0eb",
+   "title": "The Verge：AI 竞赛重新洗牌，谷歌与 Meta 一周内重回前沿",
+   "summary": "The Verge 评论：几天内 Google 发布 Gemini 4 Argon（宣称多项基准追平或超过 OpenAI/Anthropic 旗舰，推广期单价最多便宜约 80%），Meta 推出 Muse Wonder Full 首次跻身前沿。两家手握数十亿用户与生态，开源模型也在逼近，单靠模型性能已难长期领先。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
+   ],
+   "topic": "verge-ai-race-back-on",
+   "firstSeen": "2026-10-15T11:29:26+08:00"
+  },
+  {
+   "id": "338b297ec0",
+   "title": "新版 Siri 口碑翻车：iOS 27 用户吐槽连不上、听写差、找不到内容",
+   "summary": "X 热议：Apple 9 月随 iOS 27 推出重做的 Siri AI，承诺更强的上下文与知识能力，但不少用户反馈连接报错、听写变差、连旧版能做的找内容都失败。少数人肯定隐私与小改进，多数认为仍落后 Grok、ChatGPT，呼吁 Apple 先修 bug 再加功能。",
+   "links": [
+    "https://x.com/i/trending/2110522296062341257"
+   ],
+   "topic": "new-siri-ios27-backlash",
+   "firstSeen": "2026-10-15T11:29:26+08:00"
+  },
+  {
+   "id": "a6b7f9409c",
+   "title": "「反 AI 就离开游戏业」：Matt Workman 言论引爆游戏开发者 vibe coding 之争",
+   "summary": "《Cine Tracer》开发者 Matt Workman 10 月 14 日发帖称拒绝用 AI 写代码或做美术的专业人士应退出行业，独立开发者随意。批评者翻出其早期测试作品口碑与 bug，反讽「真开发者」。争论折射出游戏业对 vibe coding 的分裂：Take-Two 的 Zelnick、小岛秀夫等谨慎拥抱 AI 提效但不取代创意。",
+   "links": [
+    "https://x.com/i/trending/2110563461574873169"
+   ],
+   "topic": "gamedev-ai-workman-clash",
+   "firstSeen": "2026-10-15T11:29:26+08:00"
   }
  ],
- "lastChecked": "2026-10-15T10:55:50+08:00"
+ "lastChecked": "2026-10-15T11:29:26+08:00"
 }
