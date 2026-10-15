@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T08:56:10+08:00",
+ "lastUpdated": "2026-10-15T08:56:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6615,7 +6615,17 @@
    ],
    "topic": "jamiepine-voicebox-2026-10",
    "firstSeen": "2026-10-15T08:56:10+08:00"
+  },
+  {
+   "id": "5e14a6272e",
+   "title": "Fancy Curl Sites：终端里用 curl 看彩色版整站",
+   "summary": "HN 热议：识别 curl UA 后返回预生成 ANSI 纯文本，可用 X-Original 头拿回 HTML；作者博客全站都有 curl 版，适合做成开发者站点彩蛋。",
+   "links": [
+    "https://nytpu.com/gemlog/2026-03-18"
+   ],
+   "topic": "fancy-curl-sites-2026-10",
+   "firstSeen": "2026-10-15T08:56:52+08:00"
   }
  ],
- "lastChecked": "2026-10-15T08:56:10+08:00"
+ "lastChecked": "2026-10-15T08:56:52+08:00"
 }
