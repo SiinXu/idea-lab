@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T09:29:14+08:00",
+ "lastUpdated": "2026-10-15T09:43:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6699,7 +6699,57 @@
    ],
    "topic": "apple-watch-android-companion-2026-10",
    "firstSeen": "2026-10-15T09:29:14+08:00"
+  },
+  {
+   "id": "d3bb9ef55a",
+   "title": "Gudea：用 AI 当「互联网风暴追踪器」防公关危机",
+   "summary": "TechCrunch Disrupt Startup Battlefield：Gudea 宣称扫 500+ 主流与边缘站点，不只数话题热度，还画信息怎么在人与平台间流动；客户含 Fortune 50 与大型 AI 实验室。创始人说眼下约九成舆情带非真实活动痕迹。上周再融 700 万美元种子轮，累计约 1500 万美元。",
+   "links": [
+    "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
+   ],
+   "topic": "gudea-ai-narrative-storm-tracker-2026-10",
+   "firstSeen": "2026-10-15T09:43:27+08:00"
+  },
+  {
+   "id": "98efbaf49d",
+   "title": "Intero：邮寄毫米级「迷你人肠」给药企做非动物试验",
+   "summary": "Disrupt 战场赛选手：密歇根大学衍生、丹佛团队用 iPSC 做约 1 毫米人肠类器官 GastroScreen，一次寄约 100 颗活组织；卖给药企/食品/化工测毒性与药效，并计划把实验数据授权给 AI 药研。已有近 10 家客户，去年 Q4 至今营收超 40 万美元；踩着 FDA 减动物试验新政。",
+   "links": [
+    "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/"
+   ],
+   "topic": "intero-gastrocreen-organoids-2026-10",
+   "firstSeen": "2026-10-15T09:43:27+08:00"
+  },
+  {
+   "id": "0a37cca837",
+   "title": "Hiyd：吸在机械表背面的隐形健康传感器",
+   "summary": "前 Apple 制造工程师创业：7 克、2.7 毫米厚圆片用微吸盘贴在现有手表底，测心率/HRV/睡眠/VO2 等，不换表、不留胶。已进 Disrupt Top 20，逾 1.6 万人预存；11 月 Kickstarter。卖点是「健康追踪不必牺牲造型」。",
+   "links": [
+    "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/"
+   ],
+   "topic": "hiyd-watch-back-health-disc-2026-10",
+   "firstSeen": "2026-10-15T09:43:27+08:00"
+  },
+  {
+   "id": "ceac0f96bc",
+   "title": "Flock CEO 台上说麦克风「只听枪声」，官网写得更宽",
+   "summary": "Disrupt 专访：监视公司 Flock 的 Garrett Langley 坚称 Audio Detection「就是枪声」；官网与 FAQ 仍写可侦测烟花、街头漂移秀、严重车祸等，并提检测库会扩。发言人事后补丁：主要听枪声，也能听烟花/车祸，但不做对话或尖叫分析。德州/佛州解约、Ring 断联背景下舆论更紧。",
+   "links": [
+    "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/"
+   ],
+   "topic": "flock-gunshot-mic-contradiction-2026-10",
+   "firstSeen": "2026-10-15T09:43:27+08:00"
+  },
+  {
+   "id": "0480c20408",
+   "title": "英伟达再押英国五家 AI 创业：Boltz 到 Riverlane",
+   "summary": "官方博客：继对英国安全研究 2.5 亿美元算力承诺后，宣布计划投资 Boltz（分子/药物 AI）、Foresight（超大规模数据中心工期风险）、Hiverge（自动写优化算法）、Prima Mente（阿尔茨海默等生物基础模型）、Riverlane（量子纠错）。并与 Earthshot Prize 合作。",
+   "links": [
+    "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/"
+   ],
+   "topic": "nvidia-uk-startup-investments-boltz-2026-10",
+   "firstSeen": "2026-10-15T09:43:27+08:00"
   }
  ],
- "lastChecked": "2026-10-15T09:29:14+08:00"
+ "lastChecked": "2026-10-15T09:43:27+08:00"
 }
