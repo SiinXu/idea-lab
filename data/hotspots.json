@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T01:30:41+08:00",
+ "lastUpdated": "2026-10-16T01:43:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9139,7 +9139,74 @@
    ],
    "topic": "vx-agent-task-runner-2026-10",
    "firstSeen": "2026-10-16T01:30:41+08:00"
+  },
+  {
+   "id": "227d02ee5d",
+   "title": "Anthropic 给 METR 员工级访问：独立评估迈入「驻场」",
+   "summary": "Anthropic 宣布已为非营利评估机构 METR 的 6 名员工开通接近内部风控团队的权限（公司设备、办公空间、工具），并承诺 METR 可公开发布风险评估结论、Anthropic 不能否决出版（仅可按预定类别要求脱敏）。同时推进 SecureBio、Accenture 等分级评估合作，呼应白宫超级智能协议中的第三方审计承诺。",
+   "links": [
+    "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "https://news.ycombinator.com/item?id=50107114"
+   ],
+   "topic": "anthropic-metr-independent-evaluators-2026-10",
+   "firstSeen": "2026-10-16T01:43:03+08:00"
+  },
+  {
+   "id": "07735cffe2",
+   "title": "StackOne Tool Policies：跨平台管住 Agent 每一次工具调用",
+   "summary": "StackOne 发布 Tool Policies：在连接器/MCP 之上按人、组、字段治理 Agent 能做什么；支持支付金额上限、薪资等语义字段遮蔽、PII 脱敏与 Monitor 试运行。规则编译为 AWS Cedar，deny 优先；面向「平台只能开关工具、管不到字段」的企业落地卡点。",
+   "links": [
+    "https://www.stackone.com/blog/tool-policies-launch/",
+    "https://news.ycombinator.com/item?id=50107215"
+   ],
+   "topic": "stackone-tool-policies-2026-10",
+   "firstSeen": "2026-10-16T01:43:03+08:00"
+  },
+  {
+   "id": "bc1f00b135",
+   "title": "美国八州联手起诉 OpenAI：称 ChatGPT 误导安全并伤害未成年人",
+   "summary": "阿肯色、亚利桑那、爱达荷、艾奥瓦、堪萨斯、蒙大拿、内布拉斯加、西弗吉尼亚等州检察长分别起诉，指控 OpenAI 夸大 ChatGPT 安全性、对儿童自伤/暴力风险把关不足，并涉嫌不当收集未成年人数据；诉求含禁令、披露风险、民事罚金等。与同期 FTC 对 OpenAI/Anthropic 取证形成监管夹击。",
+   "links": [
+    "https://arkansasag.gov/news-release/attorney-general-griffin-sues-openai-for-misleading-arkansans-over-safety-of-chatgpt/",
+    "https://www.nbcnews.com/tech/tech-news/openai-sued-eight-states-alleged-harm-chatgpt-rcna603614",
+    "https://x.com/i/trending/2110785234618683844"
+   ],
+   "topic": "eight-states-sue-openai-chatgpt-2026-10",
+   "firstSeen": "2026-10-16T01:43:03+08:00"
+  },
+  {
+   "id": "2aec67feff",
+   "title": "微软：Windows 11 响应提速约 20%，8GB 内存机更明显",
+   "summary": "微软称经过数月性能修复，Win11 体验「最高约 20% 更灵敏」；改进内存管理后 8GB 机可多留约 2GB 活跃数据在内存，Widgets 改为打开时再加载。另含开始菜单/资源管理器/搜索、Hello 登录、蓝牙配对等优化，新搜索仍在 Insider。",
+   "links": [
+    "https://www.theverge.com/news/1011891/microsoft-windows-11-speed-memory-improvements",
+    "https://news.ycombinator.com/item?id=50107165"
+   ],
+   "topic": "windows11-20pct-responsive-8gb-2026-10",
+   "firstSeen": "2026-10-16T01:43:03+08:00"
+  },
+  {
+   "id": "357dedb8bf",
+   "title": "《More Agents, Same Mythical Month》：人月神话打到 Agent 群",
+   "summary": "文章用 Brooks 人月神话框架解释：代码变便宜后瓶颈移到决策、验证与协调；多 Agent 在可分割任务上受益、在串行规划上更差；输出≠价值，组织协调差会被 Agent 放大。对「再开一百个 Agent 赶工期」是冷静纠偏。",
+   "links": [
+    "https://www.brokenrobot.xyz/blog/more-agents-same-mythical-month/",
+    "https://news.ycombinator.com/item?id=50107154"
+   ],
+   "topic": "more-agents-mythical-month-2026-10",
+   "firstSeen": "2026-10-16T01:43:03+08:00"
+  },
+  {
+   "id": "06ea7faa63",
+   "title": "BitRun v0.2：CPU 跑 8B 三值 LLM，实时功耗遥测",
+   "summary": "开源零编译运行器 + 终端 Cockpit，面向 1-bit / 1.58-bit 三值模型在 CPU 上推理，宣称可带实时瓦数遥测；适合本地/边缘试跑极低比特量化模型，尚非 GPU 云。",
+   "links": [
+    "https://github.com/IshekKhal/bitrun",
+    "https://news.ycombinator.com/item?id=50106895"
+   ],
+   "topic": "bitrun-ternary-llm-cpu-2026-10",
+   "firstSeen": "2026-10-16T01:43:03+08:00"
   }
  ],
- "lastChecked": "2026-10-16T01:30:41+08:00"
+ "lastChecked": "2026-10-16T01:43:03+08:00"
 }
