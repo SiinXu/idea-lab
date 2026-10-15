@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T02:14:07+08:00",
+ "lastUpdated": "2026-10-16T02:26:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9310,7 +9310,51 @@
    ],
    "topic": "cc-stretch-claude-code-2026-10",
    "firstSeen": "2026-10-16T02:14:07+08:00"
+  },
+  {
+   "id": "ea8ba66ee7",
+   "title": "Stand 保险完成 7000 万美元 C 轮：估值 10 亿，用数字孪生给房屋定价野火风险",
+   "summary": "旧金山 Stand Insurance 由 Saga Ventures 领投完成 7000 万美元 C 轮，估值 10 亿美元；保额一年从 10 亿增至 100 亿美元。用 Stand World Model 给每栋房建数字孪生，按物理模拟野火/飓风风险并指导清树等加固，自称回测命中约 85%（区位统计模型约 50–55%），加固后保费可降最高约 70%；目前主攻加州野火与佛州飓风。",
+   "links": [
+    "https://fortune.com/2026/10/15/stand-insurance-wildfire-unicorn-raises-70-million-1-billion-valuation/",
+    "https://www.prnewswire.com/news-releases/stand-raises-70-million-series-c-at-1-billion-valuation-to-make-the-worlds-homes-resilient-against-natural-disasters-302910105.html",
+    "https://x.com/i/trending/2110766886166343772"
+   ],
+   "topic": "stand-insurance-series-c-unicorn-2026-10",
+   "firstSeen": "2026-10-16T02:26:49+08:00"
+  },
+  {
+   "id": "11764b5811",
+   "title": "Last Secure Code Benchmark：Agent 写出能跑的代码，但安全的只有约四分之一",
+   "summary": "Hugging Face / 学术团队发布 LSCBench：450 题源自 150 个真实漏洞（115 CVE），功能规格从不提安全；六大前沿编码 Agent 功能通过率约 74–91%，但「功能且安全」最高仅 Claude Fable 5 的 25.1%，约 66% 的跑次是能跑但仍可被原攻击复现。提醒 vibe coding 必须加独立安全测试，可做成 Idea Lab 的 Agent 评测/门禁点子。",
+   "links": [
+    "https://last-secure-code-benchmark.github.io/",
+    "https://arxiv.org/abs/2610.14766",
+    "https://huggingface.co/papers/2610.14766"
+   ],
+   "topic": "last-secure-code-benchmark-2026-10",
+   "firstSeen": "2026-10-16T02:26:49+08:00"
+  },
+  {
+   "id": "26b5c44b62",
+   "title": "Arch AUR 再中招：假冒 yay/paru 包以 root 执行远程恶意脚本",
+   "summary": "威胁行为者 marchos1as 在 AUR 上传仿冒 yay、paru 的包（如 yyay），PKGBUILD 混入合法上游代码与恶意 install 脚本，以 root 拉取 Wayback/GitFlic 上的远程脚本；社区数分钟内确认后账号被封、包已删。或与 npm「DirtyBlanket」蠕虫同源（同 hellscripter/install-scripts），Arch 用户若装过可疑包应视为已失陷。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/"
+   ],
+   "topic": "arch-aur-fake-yay-paru-malware-2026-10",
+   "firstSeen": "2026-10-16T02:26:49+08:00"
+  },
+  {
+   "id": "de5aa76878",
+   "title": "Palo Alto PAN-OS 管理面 RCE（CVE-2026-0322）已被利用，CISA 列入 KEV",
+   "summary": "Palo Alto 证实高危漏洞 CVE-2026-0322（CVSS 8.6）影响 PAN-OS 管理接口：攻击者需已有凭证与管理面网络可达即可 root 执行；PA/VM 系列与部分 Panorama 受影响，Cloud NGFW/Prisma Access 不受影响。已有有限在野利用并公开三个攻击 IP；补丁覆盖 10.2–12.2，CISA KEV 要求联邦机构 10 月 17 日前缓解，并建议把管理面锁在可信内网。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/"
+   ],
+   "topic": "pan-os-cve-2026-0322-rce-2026-10",
+   "firstSeen": "2026-10-16T02:26:49+08:00"
   }
  ],
- "lastChecked": "2026-10-16T02:14:07+08:00"
+ "lastChecked": "2026-10-16T02:26:49+08:00"
 }
