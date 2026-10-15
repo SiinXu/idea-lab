@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T00:47:41+08:00",
+ "lastUpdated": "2026-10-16T00:57:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8959,7 +8959,52 @@
    ],
    "topic": "bill-gates-ai-safety-2026-10",
    "firstSeen": "2026-10-16T00:47:41+08:00"
+  },
+  {
+   "id": "676cd1f958",
+   "title": "EmbodiedEvo：编码 Agent 把机器人经验冻成 Skills/Lessons，登顶 RoboDojo",
+   "summary": "Einsia/清华 Navers Lab：在单个 Playground 场景里用编码 Agent 写控制程序，沉淀可复用 Skills（怎么做）与 Lessons（何时做/失败怎么救），冻结后交给新 Agent 在未见布局上复用、不更新权重。RoboDojo-Sim 均分 44.48、成功率约 37.8%，领跑官方榜；经验还能跨模型迁移。X 上热议中，适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://arxiv.org/abs/2610.18867",
+    "https://lab.einsia.ai/research/",
+    "https://github.com/Einsia/EmbodiedEvo",
+    "https://x.com/i/trending/2110753241017565474"
+   ],
+   "topic": "embodiedevo-robodojo-2026-10",
+   "firstSeen": "2026-10-16T00:57:14+08:00"
+  },
+  {
+   "id": "1277d175b2",
+   "title": "Opsin 融资 2100 万美元：给企业 AI Agent 做风险防护层",
+   "summary": "SYN Ventures 与 Race Capital 领投；面向 Copilot / Claude / ChatGPT Enterprise 等平台，用 Risk Graph 把 Agent 意图、身份、权限与行为连起来，可隔离、拦截或通知负责人。Agent 自主权上升后的安全基建赛道信号。",
+   "links": [
+    "https://www.opsinsecurity.com/blog/opsin-raises-21m-to-expand-its-risk-protection-layer",
+    "https://news.ycombinator.com/item?id=50106254"
+   ],
+   "topic": "opsin-21m-agent-security-2026-10",
+   "firstSeen": "2026-10-16T00:57:14+08:00"
+  },
+  {
+   "id": "6b4d22cf34",
+   "title": "Artificial Analysis Decision Index：专测「决策模型」的新基准",
+   "summary": "Decision model 一次调用给出结构化选项及概率，偏快偏便宜。Index v1.0 合成知识/幻觉、推理、工具调用、安全分类四项；Jev 1.13 暂居榜首，整体比大模型更省但知识推理仍弱，且普遍过度自信。适合做成 Idea Lab 新点子（决策路由层）。",
+   "links": [
+    "https://artificialanalysis.ai/articles/artificial-analysis-decision-index",
+    "https://news.ycombinator.com/item?id=50106440"
+   ],
+   "topic": "aa-decision-index-v1-2026-10",
+   "firstSeen": "2026-10-16T00:57:14+08:00"
+  },
+  {
+   "id": "f7e24d4c66",
+   "title": "MonitorBar：菜单栏/托盘管显示器，不靠 DDC/CI",
+   "summary": "开源工具，经澎湃 OS 局域网接口切换输入源、调音量；适合多屏与 KVM 场景。GitHub 新仓热度起来，国内用户友好。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://github.com/Binaryify/MonitorBar"
+   ],
+   "topic": "monitorbar-display-tray-2026-10",
+   "firstSeen": "2026-10-16T00:57:14+08:00"
   }
  ],
- "lastChecked": "2026-10-16T00:47:41+08:00"
+ "lastChecked": "2026-10-16T00:57:14+08:00"
 }
