@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T20:44:19+08:00",
+ "lastUpdated": "2026-10-15T21:02:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8195,7 +8195,72 @@
    ],
    "topic": "ai-agent-brain-fry-2026-10",
    "firstSeen": "2026-10-15T20:44:19+08:00"
+  },
+  {
+   "id": "44e4355d7e",
+   "title": "Libreboot 26.10：默认改用完整开源 UEFI，一口气纳入 233 款 Chromebook",
+   "summary": "Libreboot「Ominous Olive」今日发布：以 MrChromebox EDK2 为默认 payload，支持 Windows/现代 Linux UKI；从 MrChromebox 导入 233 款 Chromebook，并新增反 AI 政策文件 AGENTS.md。",
+   "links": [
+    "https://libreboot.org/news/libreboot2610.html",
+    "https://news.ycombinator.com/item?id=50102923"
+   ],
+   "topic": "libreboot-26-10-uefi-chromebooks-2026-10",
+   "firstSeen": "2026-10-15T21:02:16+08:00"
+  },
+  {
+   "id": "ecb4475a44",
+   "title": "Show HN：FACE——给编码 Agent 开一扇浏览器窗，计划与交付全落在仓库文件里",
+   "summary": "单二进制本地跑：对接 Claude Code / Codex / Cursor 等官方 CLI（ACP），看板、交付页与提交窗都来自仓库里的队列与 work/*.md；Agent 从不自己 commit。",
+   "links": [
+    "https://face.kodel.com.br",
+    "https://news.ycombinator.com/item?id=50102683"
+   ],
+   "topic": "face-agent-browser-window-2026-10",
+   "firstSeen": "2026-10-15T21:02:16+08:00"
+  },
+  {
+   "id": "bbdda3b80d",
+   "title": "X 清理约 1.3 万账号：称涉美中期选举外国干预，未公开举证",
+   "summary": "The Register：平台指认伊朗、俄罗斯、中国相关不实账号放大政治内容；同时强调 Civic Integrity 与 Community Notes。HN 已上首页。",
+   "links": [
+    "https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234",
+    "https://news.ycombinator.com/item?id=50102854"
+   ],
+   "topic": "x-purge-13k-midterms-2026-10",
+   "firstSeen": "2026-10-15T21:02:16+08:00"
+  },
+  {
+   "id": "45ad9337ee",
+   "title": "MIT TR：AI 实验室在买「死掉创业公司」的数据训练模型",
+   "summary": "SimpleClosure / Sunset 等收尾平台把代码与 Slack/邮件/Notion 工作区卖给基础模型实验室；Spirit 航空破产数据曾被 Google 以约 1000 万美元拍下，隐私与同意争议升温。",
+   "links": [
+    "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
+   ],
+   "topic": "mit-tr-dead-startup-data-ai-labs-2026-10",
+   "firstSeen": "2026-10-15T21:02:16+08:00"
+  },
+  {
+   "id": "643bb830e5",
+   "title": "Show HN：OpenLume——技术问题变成可打断的动画讲解视频",
+   "summary": "把 DevOps/云/数据库等问题生成带旁白与图示的短视频，播放中可就当前帧追问再继续；适合做可交互教学与内部 onboarding。",
+   "links": [
+    "https://openlume.com/",
+    "https://news.ycombinator.com/item?id=50096513"
+   ],
+   "topic": "openlume-animated-explainer-2026-10",
+   "firstSeen": "2026-10-15T21:02:16+08:00"
+  },
+  {
+   "id": "ec55c63e17",
+   "title": "芯片公司开源「几乎为零」：Zero ASIC 用 GitHub 星标盘点硬件开源贡献",
+   "summary": "按芯片设计相关公开仓星标统计，十人小厂 Zero ASIC 反而高于多数巨头；作者呼吁半导体业像软件业一样回馈开源 EDA/RTL。",
+   "links": [
+    "https://www.zeroasic.com/blog/hardware-github-stars",
+    "https://news.ycombinator.com/item?id=50097858"
+   ],
+   "topic": "zeroasic-chip-oss-stars-2026-10",
+   "firstSeen": "2026-10-15T21:02:16+08:00"
   }
  ],
- "lastChecked": "2026-10-15T20:44:19+08:00"
+ "lastChecked": "2026-10-15T21:02:16+08:00"
 }
