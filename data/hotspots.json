@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T03:09:47+08:00",
+ "lastUpdated": "2026-10-16T03:31:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9534,7 +9534,48 @@
    ],
    "topic": "agents-md-1866-github-study-2026-10",
    "firstSeen": "2026-10-16T03:09:47+08:00"
+  },
+  {
+   "id": "383db89502",
+   "title": "AI 一个月花 5.6 万美元逆向完《宝可梦心金》源码",
+   "summary": "开发者 art 用 LLM Agent 约一个月把 HeartGold/SoulSilver 的 4.1MB 可执行码还原为可匹配编译的 C/C++（约 97.9% 纯 C），API 费用约 5.6 万美元；社区正讨论与 pret 人工逆向路线的对照，以及 AI 加速游戏保全的边界。",
+   "links": [
+    "https://x.com/i/trending/2110770328322625689",
+    "https://en.gamegpu.com/news/igry/entuziast-potratil-usd56-000-na-vosstanovlenie-iskhodnogo-koda-pokemon-heartgold-c-nintendo-ds"
+   ],
+   "topic": "pokemon-heartgold-ai-decomp-2026-10",
+   "firstSeen": "2026-10-16T03:31:29+08:00"
+  },
+  {
+   "id": "083a22f2d2",
+   "title": "Intent 多智能体舰队拿下 ClickBench：25 天自改进优化数据库",
+   "summary": "Intent 用协调器+实验/评审/计时 Agent 对 GizmoSQL 连跑 25 天、5067 次运行，综合分约比第二名好 1.2 倍、比基线快约 3.1 倍；还用「运维队」改自己的实验流程。说明已有代码库也能靠可验证 Agent 舰队抠性能。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://intentlab.ai/blog/an-agent-fleet-on-clickbench"
+   ],
+   "topic": "intent-clickbench-agent-fleet-2026-10",
+   "firstSeen": "2026-10-16T03:31:29+08:00"
+  },
+  {
+   "id": "59f6e287fd",
+   "title": "Every 长文：Codex 如何从云端失败翻成 ChatGPT 桌面底座",
+   "summary": "Dan Shipper 访谈 Brockman、Tibo、Embiricos 等，梳理 Codex 从 Cloud 折戟、本地 CLI、编辑器插件到无编辑器桌面端，再到并入 ChatGPT 桌面的路径；核心是独立 Codex 模型线 + 敢于换形态，而不是死守当时最火的产品面。",
+   "links": [
+    "https://every.to/p/how-codex-happened"
+   ],
+   "topic": "every-how-codex-happened-2026-10",
+   "firstSeen": "2026-10-16T03:31:29+08:00"
+  },
+  {
+   "id": "af45c64a1c",
+   "title": "Reservoir 上线：成人可冷冻保存免疫细胞备用",
+   "summary": "Cellino 联合创始人 Nabiha Saklayen 推出 Reservoir：约 15 分钟采血保存外周血单个核细胞，FDA 注册设施冷冻、客户自主权；先在波士顿/湾区/LA/纽约等地开放，面向未来再生医疗与个性化疗法。",
+   "links": [
+    "https://x.com/i/trending/2110793877506711794"
+   ],
+   "topic": "reservoir-immune-cell-bank-2026-10",
+   "firstSeen": "2026-10-16T03:31:29+08:00"
   }
  ],
- "lastChecked": "2026-10-16T03:09:47+08:00"
+ "lastChecked": "2026-10-16T03:31:29+08:00"
 }
