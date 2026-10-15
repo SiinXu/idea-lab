@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T13:29:59+08:00",
+ "lastUpdated": "2026-10-15T13:44:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7204,7 +7204,51 @@
    ],
    "topic": "cartert27-scion-impl-2026-10",
    "firstSeen": "2026-10-15T13:29:59+08:00"
+  },
+  {
+   "id": "5e2951488b",
+   "title": "Handwired：把普通 JavaScript 编译成可微神经网络",
+   "summary": "Cheng Lou 新作：用加法/乘法/ReLU 把分支与循环改写成可微电路，无需训练即可在浏览器跑；演示含迷你桌面（约 9909 权重、130 层）与 WebGPU 并行搜 10 万 JSON。X 热点刚起，适合做「程序即网络」实验与 Agent 工具链探索。",
+   "links": [
+    "https://chenglou.me/handwired/",
+    "https://x.com/i/trending/2110605390056477033"
+   ],
+   "topic": "handwired-js-neural-net-2026-10",
+   "firstSeen": "2026-10-15T13:44:45+08:00"
+  },
+  {
+   "id": "7c88060c99",
+   "title": "亚马逊封堵未亮明身份的购物 Agent：Grok Bot 与 Muse 同墙",
+   "summary": "Amazon 要求外部 Agent 自报身份并获许可，否则拦截；用户反馈 Grok 代购 Whole Foods/KDP、Meta Muse 浏览均撞墙。与 JPMorgan 封外部 Agent 同向，购物/电商自动化要先过平台 Agent Policy。",
+   "links": [
+    "https://coralwire.ai/wire/2026-10-14/amazon-shuts-out-metas-muse-and-grok-bot-users-see-the-same-wall",
+    "https://x.com/i/trending/2110605392979829119"
+   ],
+   "topic": "amazon-blocks-unidentified-shopping-agents-2026-10",
+   "firstSeen": "2026-10-15T13:44:45+08:00"
+  },
+  {
+   "id": "316a08a445",
+   "title": "Real Design Benchmark：真人产品 UI 对打 AI 设计",
+   "summary": "Subframe 联合创始人放出盲测：AI（Opus 5.5 等）只拿 briefing/字体图标与其它屏截图、不见真屏，生成 HTML 后与真实功能页并排；数千次提交里约 57% 更偏爱 AI 设计，仅约 59% 能认出哪边是 AI。Show HN 刚上，适合 UI Hub / Agent 设计评测参考。",
+   "links": [
+    "https://www.realdesignbenchmark.com",
+    "https://news.ycombinator.com/item?id=50099581"
+   ],
+   "topic": "real-design-benchmark-subframe-2026-10",
+   "firstSeen": "2026-10-15T13:44:45+08:00"
+  },
+  {
+   "id": "e188999130",
+   "title": "RenkuOS：Haiku 分叉，默认接入 AI 编程与 LLM",
+   "summary": "因原版 Haiku 生态难接现代 AI 工具链而 fork：保留轻量 BeOS 风格，面向 AI 辅助编码与 LLM 集成，欢迎人类与 Agent 共同贡献；官网刚亮相并登上 HN。",
+   "links": [
+    "https://renkuos.org/",
+    "https://news.ycombinator.com/item?id=50099618"
+   ],
+   "topic": "renkuos-haiku-ai-fork-2026-10",
+   "firstSeen": "2026-10-15T13:44:45+08:00"
   }
  ],
- "lastChecked": "2026-10-15T13:29:59+08:00"
+ "lastChecked": "2026-10-15T13:44:45+08:00"
 }
