@@ -1,5 +1,5 @@
 # Idea Lab
-Private idea lab for XU SIYIN (noindex). 37 ideas, each with a full detail page at `/idea/<id>/`:
+Private idea lab by Incidental AI (noindex). 37 ideas, each with a full detail page at `/idea/<id>/`:
 Business Model Canvas, pricing & unit economics, expected revenue (conservative/base/optimistic, all [assumption]),
 risks + kill criteria, D1–D30 operating plan, automation pipeline, copyable prompt pack, evidence links.
 
