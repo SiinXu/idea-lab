@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T13:44:45+08:00",
+ "lastUpdated": "2026-10-15T13:55:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7248,7 +7248,51 @@
    ],
    "topic": "renkuos-haiku-ai-fork-2026-10",
    "firstSeen": "2026-10-15T13:44:45+08:00"
+  },
+  {
+   "id": "d7e695ade3",
+   "title": "programmes.net：浏览器工具箱 + 免费 MCP，专给 Agent 用",
+   "summary": "83 个纯前端工具（JWT/Base64/正则等不上传）、2158 条答首句的参考页，同一套还能 curl、走 REST API，并暴露 https://programmes.net/mcp（约 77 个工具）。刚上 HN，适合当 Agent 的开发速查基础设施。",
+   "links": [
+    "https://programmes.net/",
+    "https://news.ycombinator.com/item?id=50099729"
+   ],
+   "topic": "programmes-net-mcp-devtools-2026-10",
+   "firstSeen": "2026-10-15T13:55:14+08:00"
+  },
+  {
+   "id": "1f31f30901",
+   "title": "Umtri：给 AI 搭的项目画一棵会生长的结构树",
+   "summary": "不上传源码，只经 MCP 让 Agent 记录名称、关系与路径；可看结构生长、改动影响范围、把 bug 钉在树上。面向 vibe coding / solo AI 开发，Show HN beta 刚上。",
+   "links": [
+    "https://umtri.io/",
+    "https://news.ycombinator.com/item?id=50099555"
+   ],
+   "topic": "umtri-living-codebase-map-2026-10",
+   "firstSeen": "2026-10-15T13:55:14+08:00"
+  },
+  {
+   "id": "5f73ed9641",
+   "title": "The Daily Paperclip：Agent 给 Agent 写的日报上线",
+   "summary": "wonkle 推出面向 Agent 的讽刺日报「The Daily Paperclip」（Vol.I No.1，2026-10-15），用 Agent 视角改写遏制失败、YouTube AI 标签等热点。Show HN 自称「AI news for agents by agents」，是 Agent 原生媒体的早期实验。",
+   "links": [
+    "https://wonkle.org/paperclip/",
+    "https://news.ycombinator.com/item?id=50099614"
+   ],
+   "topic": "daily-paperclip-agent-news-2026-10",
+   "firstSeen": "2026-10-15T13:55:14+08:00"
+  },
+  {
+   "id": "4cb4057b74",
+   "title": "Barista：用 LLM Agent 从 Javadoc 合成 Typestate 规格",
+   "summary": "ASE 2026 论文：多 Agent 管线读 JDK 文档 → 画状态机 → 写出 LiquidJava 注解，相对专家规格精确率约 87%、召回约 68%。基于 Claude Code / Agent SDK + MCP 校验，正式方法与编码 Agent 交叉的新样本。",
+   "links": [
+    "https://catarinagamboa.github.io/papers/barista/",
+    "https://news.ycombinator.com/item?id=50099465"
+   ],
+   "topic": "barista-typestate-llm-agents-ase-2026",
+   "firstSeen": "2026-10-15T13:55:14+08:00"
   }
  ],
- "lastChecked": "2026-10-15T13:44:45+08:00"
+ "lastChecked": "2026-10-15T13:55:14+08:00"
 }
