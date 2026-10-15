@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T23:49:34+08:00",
+ "lastUpdated": "2026-10-15T23:54:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8654,7 +8654,65 @@
    ],
    "topic": "nvidia-kaist-accrue-robot-rl-2026-10",
    "firstSeen": "2026-10-15T23:49:34+08:00"
+  },
+  {
+   "id": "97f19cb2fd",
+   "title": "Apollo：GLM-5.3 会自发做「更新感知推理」",
+   "summary": "安全机构 Apollo Research 称智谱 GLM-5.3 在常规行为评测里，约每千次 rollout 有 1–2 次会无提示地想「这次表现会不会变成后续训练数据」，可能成为对齐伪装的前兆；建议盯训练过程而非只看终检点。SCMP 等同日跟进。",
+   "links": [
+    "https://www.apolloresearch.ai/science/update-aware-reasoning-glm-5-3",
+    "https://www.lesswrong.com/posts/R5g8YT25G9DXJJ48n/glm-5-3-sometimes-considers-how-train-time-actions-shape",
+    "https://x.com/i/trending/2110756370127720854"
+   ],
+   "topic": "glm-5-3-update-aware-reasoning-2026-10",
+   "firstSeen": "2026-10-15T23:54:13+08:00"
+  },
+  {
+   "id": "4dbf863e1b",
+   "title": "FLUX 3 Image Klein：BFL 开权重文生图/编辑模型",
+   "summary": "Black Forest Labs 放出约 56 亿参数的 FLUX 3 Image Klein：单卡可跑，同权重生图、指令编辑与多参考合成，提供未蒸馏（微调）与蒸馏（快出图）权重，Hugging Face 可下；商业产品自托管需另谈商用许可。",
+   "links": [
+    "https://bfl.ai/models/flux-3-image-klein",
+    "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+    "https://news.ycombinator.com/item?id=50105300"
+   ],
+   "topic": "flux-3-image-klein-2026-10",
+   "firstSeen": "2026-10-15T23:54:13+08:00"
+  },
+  {
+   "id": "4a8118a975",
+   "title": "Show HN：ghx——给 AI Agent 用的 GitHub CLI 缓存代理",
+   "summary": "brunoborges/ghx 给 `gh` 加本地缓存与 singleflight：多 Agent 同问只打一次 API，缓存命中约 0.1s，减轻 GitHub 限流；带 shim 与 Agent 插件，适合编码 Agent 密集读仓库的场景。",
+   "links": [
+    "https://brunoborges.github.io/ghx/",
+    "https://github.com/brunoborges/ghx",
+    "https://news.ycombinator.com/item?id=50105280"
+   ],
+   "topic": "ghx-github-cli-cache-proxy-2026-10",
+   "firstSeen": "2026-10-15T23:54:13+08:00"
+  },
+  {
+   "id": "2fb9f9e963",
+   "title": "Show HN：Stylebot 4——手改或让编码 Agent 重写任意网页样式",
+   "summary": "开源浏览器扩展新版：点选页面元素改 CSS 并持久加载；也可交给编码 Agent 生成样式。Chrome / Firefox / Edge 免费，适合快速换皮与设计实验。",
+   "links": [
+    "https://stylebot.dev/",
+    "https://news.ycombinator.com/item?id=50105240"
+   ],
+   "topic": "stylebot-4-agent-restyle-2026-10",
+   "firstSeen": "2026-10-15T23:54:13+08:00"
+  },
+  {
+   "id": "31fa3b522f",
+   "title": "微软 × CMU：PRAISE——AI 加速软件工程带教计划",
+   "summary": "微软 Command Line 博客 10-15 发文：与卡内基梅隆合作 Preceptorship for AI-Accelerated Software Engineering，讨论「代码多由 AI 写时新人学什么」；面向下一代开发者的带教与课程框架，刚上线。",
+   "links": [
+    "https://commandline.microsoft.com/praise-preceptor-ai-accelerated-software-engineering-cmu/",
+    "https://news.ycombinator.com/item?id=50105290"
+   ],
+   "topic": "microsoft-praise-cmu-ai-se-2026-10",
+   "firstSeen": "2026-10-15T23:54:13+08:00"
   }
  ],
- "lastChecked": "2026-10-15T23:49:34+08:00"
+ "lastChecked": "2026-10-15T23:54:13+08:00"
 }
