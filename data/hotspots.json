@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T21:02:16+08:00",
+ "lastUpdated": "2026-10-15T21:16:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8260,7 +8260,29 @@
    ],
    "topic": "zeroasic-chip-oss-stars-2026-10",
    "firstSeen": "2026-10-15T21:02:16+08:00"
+  },
+  {
+   "id": "be230b0a89",
+   "title": "Citizen Lab：以色列广告公司 Discover-Tech 借程序化广告投放「零点击」间谍软件",
+   "summary": "多伦多大学 Citizen Lab 报告称，Discover-Tech 的 Controlium 平台能借看似普通的定制广告批量画像、去匿名化网民，再把选中的目标交给第三方雇佣间谍软件实现零点击入侵；其广告自 2024 年起已推送给数百万用户，疑似攻陷半岛电视台数十台设备，Confiant 还发现其广告出现在多国政府、联合国、北约等机构网络中。广告技术链路正成为新的攻击面。",
+   "links": [
+    "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+    "https://news.ycombinator.com/item?id=50103000"
+   ],
+   "topic": "",
+   "firstSeen": "2026-10-15T21:16:10+08:00"
+  },
+  {
+   "id": "21a7789687",
+   "title": "RIAA 向美国贸易代表办公室点名 Anna's Archive 与 AI 变声平台 Lalals",
+   "summary": "RIAA 提交年度「恶名市场」清单，首次把影子图书馆 Anna's Archive（曾抓取 Spotify 8600 万首音乐文件，已被判赔 3.22 亿美元）和阿联酋 AI 变声服务 Lalals（可把人声改成 Taylor Swift、Drake 等歌手声音）列为额外关注对象；Mega、Gofile 等网盘也新上榜，Mega 表示将提交反驳。AI 训练数据与声音克隆的版权冲突继续升温。",
+   "links": [
+    "https://torrentfreak.com/riaa-flags-annas-archive-and-ai-voice-cloner-to-u-s-government/",
+    "https://news.ycombinator.com/item?id=50102664"
+   ],
+   "topic": "",
+   "firstSeen": "2026-10-15T21:16:10+08:00"
   }
  ],
- "lastChecked": "2026-10-15T21:02:16+08:00"
+ "lastChecked": "2026-10-15T21:16:10+08:00"
 }
