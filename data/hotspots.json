@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T12:30:00+08:00",
+ "lastUpdated": "2026-10-15T12:56:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7059,7 +7059,67 @@
    ],
    "topic": "security",
    "firstSeen": "2026-10-15T12:30:00+08:00"
+  },
+  {
+   "id": "0d06585bc0",
+   "title": "微软 MXC 正式 GA：给 AI Agent 划文件/网络边界",
+   "summary": "Microsoft Execution Containers 在 Windows 11 全面可用，用策略限制 Agent 可读写路径与出站网络；Copilot/Codex 等已接入，Claude Code 等将跟进。适合做「本机 Agent 沙箱」卖点。",
+   "links": [
+    "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/"
+   ],
+   "topic": "microsoft-mxc-ga-2026-10",
+   "firstSeen": "2026-10-15T12:56:07+08:00"
+  },
+  {
+   "id": "77a359dae7",
+   "title": "Nemotron 3.5 Lightning 免费上 Vercel AI Gateway",
+   "summary": "NVIDIA 开源推理模型上架 AI Gateway 免费档：约 30B/3B 激活、1M 上下文，支持工具调用与结构化输出，适合长程 Agent 与 RAG 试水。",
+   "links": [
+    "https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free"
+   ],
+   "topic": "nemotron-35-lightning-vercel-free-2026-10",
+   "firstSeen": "2026-10-15T12:56:07+08:00"
+  },
+  {
+   "id": "3ac8cfbb98",
+   "title": "MITRE ATT&CK v20：提示注入与 AI 外泄正式入框",
+   "summary": "10/13 发布的 ATT&CK v20 新增直接/间接提示注入、AI 辅助外泄、AI 结果投毒等技术，LLM 应用威胁建模要按标准框架改一版。",
+   "links": [
+    "https://attack.mitre.org/resources/updates/updates-october-2026/"
+   ],
+   "topic": "mitre-attack-v20-ai-2026-10",
+   "firstSeen": "2026-10-15T12:56:07+08:00"
+  },
+  {
+   "id": "2a5e3b1639",
+   "title": "Epoch SpireClimb：视觉 harness 下 Astra 已能打通《杀戮尖塔》最高难",
+   "summary": "半年前模型几乎过不了基础难度，现在前沿模型 Ascension 0 胜率超 90%；最高难上 GPT-6 Astra/Sol 约 17–20%，仍远低于顶尖人类约 80%+。",
+   "links": [
+    "https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel"
+   ],
+   "topic": "epoch-spireclimb-2026-10",
+   "firstSeen": "2026-10-15T12:56:07+08:00"
+  },
+  {
+   "id": "21ab5a698b",
+   "title": "Ollama v0.40.5：把 Metal 自定义内核移植到 CUDA",
+   "summary": "预发布版把 mamba2_scan 等 MLX 内核迁到 CUDA，并改善 Responses 历史中的自定义工具调用，本机 NVIDIA 跑 Agent 更顺。",
+   "links": [
+    "https://github.com/ollama/ollama/releases/tag/v0.40.5-rc0"
+   ],
+   "topic": "ollama-0-40-5-cuda-2026-10",
+   "firstSeen": "2026-10-15T12:56:07+08:00"
+  },
+  {
+   "id": "6b029eb26c",
+   "title": "Meta Muse for Windows 将原生上架，并接入 MXC",
+   "summary": "微软称 Muse for Windows 即将以原生应用上线，并集成 Execution Containers，本机个人 Agent 阵营又多一个选择。",
+   "links": [
+    "https://blogs.windows.com/windowsexperience/2026/10/07/building-windows-for-hybrid-intelligence/"
+   ],
+   "topic": "meta-muse-windows-mxc-2026-10",
+   "firstSeen": "2026-10-15T12:56:07+08:00"
   }
  ],
- "lastChecked": "2026-10-15T12:30:00+08:00"
+ "lastChecked": "2026-10-15T12:56:07+08:00"
 }
