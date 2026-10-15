@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T20:02:31+08:00",
+ "lastUpdated": "2026-10-15T20:13:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8050,7 +8050,28 @@
    ],
    "topic": "codecity-3d-git-map-2026-10",
    "firstSeen": "2026-10-15T20:02:31+08:00"
+  },
+  {
+   "id": "cc07996f6b",
+   "title": "Amazon 旗下 Bee 推出两款新 AI 随身设备，起价 74.99 美元",
+   "summary": "被亚马逊收购后的首批新品：升级版全天候收音手环，外加可吸附在手机背面的信用卡大小录音器；能总结对话、生成待办，并接入 Alexa 与亚马逊购物，直接帮你下单。",
+   "links": [
+    "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs"
+   ],
+   "topic": "amazon-bee-new-devices-2026-10",
+   "firstSeen": "2026-10-15T20:13:30+08:00"
+  },
+  {
+   "id": "abbe72fa71",
+   "title": "微软发布面向 Linux 桌面的 Microsoft Defender",
+   "summary": "微软称越来越多开发者在用 Linux 桌面，于是把 Defender 威胁防护从此前的 Linux 服务器版扩展到桌面端，意在「保护 Linux 桌面」；企业开发机安全管控或将随之收紧。",
+   "links": [
+    "https://www.phoronix.com/news/Microsoft-Defender-For-Linux-D"
+   ],
+   "topic": "microsoft-defender-linux-desktop-2026-10",
+   "firstSeen": "2026-10-15T20:13:30+08:00"
   }
  ],
- "lastChecked": "2026-10-15T20:02:31+08:00"
+ "lastChecked": "2026-10-15T20:13:30+08:00"
 }
