@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T21:16:10+08:00",
+ "lastUpdated": "2026-10-15T21:34:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8282,7 +8282,39 @@
    ],
    "topic": "",
    "firstSeen": "2026-10-15T21:16:10+08:00"
+  },
+  {
+   "id": "dd8ec3bec8",
+   "title": "CERN × Mistral：共建对撞物理「大物理模型」",
+   "summary": "CERN 与 Mistral 今日签署意向书，计划用数十亿次模拟质子对撞训练首个对撞物理基础模型，覆盖事例重建、粒子鉴别、异常信号与探测器设计评估；CERN 已存约 1EB LHC 数据，瞄准 2030 高亮度升级。",
+   "links": [
+    "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+    "https://x.com/i/trending/2110719673851654591"
+   ],
+   "topic": "cern-mistral-large-physics-model-2026-10",
+   "firstSeen": "2026-10-15T21:34:51+08:00"
+  },
+  {
+   "id": "24cc989c02",
+   "title": "SentinelOne：OpenAI Daybreak 把恶意软件逆向从数周压到约 8 小时",
+   "summary": "OpenAI 案例称，SentinelOne 用 Daybreak 做复杂恶意软件逆向，顶尖研究员原先要 4–6 周的工作约 8 小时可出人类级产出，便于横比更多样本找共用组件；架构级决策仍强调人工负责。",
+   "links": [
+    "https://openai.com/index/sentinelone"
+   ],
+   "topic": "sentinelone-daybreak-malware-hours-2026-10",
+   "firstSeen": "2026-10-15T21:34:51+08:00"
+  },
+  {
+   "id": "5fcc5f3d31",
+   "title": "Google DeepMind 在剑桥一带筹建新机器人实验室",
+   "summary": "前 Boston Dynamics CTO Aaron Saunders 透露，DeepMind 正于马萨诸塞州剑桥一带建新机器人和硬件实验室，承接 Gemini Robotics 与 embodied AI 硬件团队扩张；具体规模与开放时间待 2027 年披露。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1011807/google-deepmind-is-building-a-new-robotics-lab-in-cambridge",
+    "https://www.humanoidsdaily.com/news/google-deepmind-cambridge-robotics-lab-aaron-saunders"
+   ],
+   "topic": "deepmind-cambridge-robotics-lab-2026-10",
+   "firstSeen": "2026-10-15T21:34:51+08:00"
   }
  ],
- "lastChecked": "2026-10-15T21:16:10+08:00"
+ "lastChecked": "2026-10-15T21:34:51+08:00"
 }
