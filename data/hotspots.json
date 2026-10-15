@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T00:57:14+08:00",
+ "lastUpdated": "2026-10-16T01:13:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9004,7 +9004,74 @@
    ],
    "topic": "monitorbar-display-tray-2026-10",
    "firstSeen": "2026-10-16T00:57:14+08:00"
+  },
+  {
+   "id": "34bf133078",
+   "title": "Meta 开源 Muse Spark Open：自称美国最强开权重模型",
+   "summary": "816B 总参 / 42B 激活的原生多模态 MoE，100 万 token 上下文，主打长程 coding 与 agent；权重上线 Hugging Face 等，可经 MLX 在两台 M5 Ultra Mac Studio 上本地跑。Mark Zuckerberg 与 Alexandr Wang 同步推文，适合做成 Idea Lab 新点子（本地 agent 运行时）。",
+   "links": [
+    "https://research.meta.ai/blog/muse-spark-open",
+    "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+    "https://news.ycombinator.com/item?id=50106620",
+    "https://x.com/finkd/status/2110778025629347999"
+   ],
+   "topic": "meta-muse-spark-open-2026-10",
+   "firstSeen": "2026-10-16T01:13:50+08:00"
+  },
+  {
+   "id": "69f96e5874",
+   "title": "404 Media：数据中心已成战争打击目标",
+   "summary": "乌克兰一周内多次无人机袭击俄数据中心（含 Yandex 超算与 Sberbank），民用云与军事用途交织后国际法仍模糊；伊朗早前也曾打迪拜 AWS。AI 基建地缘风险从隐喻变成实弹。",
+   "links": [
+    "https://www.404media.co/data-centers-are-war-targets-now/",
+    "https://news.ycombinator.com/item?id=50106806"
+   ],
+   "topic": "data-centers-war-targets-404-2026-10",
+   "firstSeen": "2026-10-16T01:13:50+08:00"
+  },
+  {
+   "id": "f554bc984c",
+   "title": "股市与利率承压，AI 数据中心交易热潮遇考",
+   "summary": "路透：抛售与升息正在考验近两年疯狂的 AI 数据中心融资与并购交易；债券市场已出现「达尔文时刻」信号，算力军备赛的资本端开始分化。",
+   "links": [
+    "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
+    "https://news.ycombinator.com/item?id=50105900"
+   ],
+   "topic": "ai-datacenter-deal-boom-stress-2026-10",
+   "firstSeen": "2026-10-16T01:13:50+08:00"
+  },
+  {
+   "id": "56486f471f",
+   "title": "Uncharted PC：PS4 三部曲原生跑在 Windows（Vulkan）",
+   "summary": "SuperMedo 开源移植（同作者做过 Bloodborne PC）：原版 PS4 代码直跑 + Vulkan 渲染，支持 60/120FPS、FSR/DLSS 与帧生成；一天内 GitHub 星标冲过 400。需自备解密游戏文件，非官方。",
+   "links": [
+    "https://github.com/Supermedo/uncharted_pc"
+   ],
+   "topic": "uncharted-pc-native-windows-2026-10",
+   "firstSeen": "2026-10-16T01:13:50+08:00"
+  },
+  {
+   "id": "7185ebe3dc",
+   "title": "Photopea 对 GitHub 发起大规模 DMCA：下架上百个克隆仓",
+   "summary": "Photopea 作者声称多家离线/桌面克隆整仓侵权，GitHub 按网络处理牵连上百至两百个 fork。开源镜像与商业 Web App 源码可访问性之间的冲突再起。",
+   "links": [
+    "https://github.com/github/dmca/blob/master/2026/10/2026-10-14-photopea.md",
+    "https://news.ycombinator.com/item?id=50106778"
+   ],
+   "topic": "photopea-dmca-github-2026-10",
+   "firstSeen": "2026-10-16T01:13:50+08:00"
+  },
+  {
+   "id": "b0e153159e",
+   "title": "agent-email-domains：公开 AI Agent / 自动化注册邮箱域名表",
+   "summary": "维护一份 Agent 与测试自动化常用的邮箱域名列表，方便产品侧识别「机器人注册」。对做账号风控、联盟反作弊有直接用处，适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://github.com/revdoku/agent-email-domains/",
+    "https://news.ycombinator.com/item?id=50106621"
+   ],
+   "topic": "agent-email-domains-list-2026-10",
+   "firstSeen": "2026-10-16T01:13:50+08:00"
   }
  ],
- "lastChecked": "2026-10-16T00:57:14+08:00"
+ "lastChecked": "2026-10-16T01:13:50+08:00"
 }
