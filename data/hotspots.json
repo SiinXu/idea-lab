@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T15:25:39+08:00",
+ "lastUpdated": "2026-10-15T15:48:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7506,7 +7506,61 @@
    ],
    "topic": "linq-es-mcp-link-in-bio-2026-10",
    "firstSeen": "2026-10-15T15:25:39+08:00"
+  },
+  {
+   "id": "48983e20d8",
+   "title": "DeepSeek 二轮融资冲到约 1000 亿人民币：估值约 5000 亿",
+   "summary": "财新/首尔经济等称 DeepSeek 将二轮融资目标从约 500 亿人民币加倍至约 1000 亿，投前估值约 5000 亿人民币（约 740 亿美元）；腾讯、宁德时代、中芯、吉利等参与，年化 API 营收已过 10 亿美元，并加速内蒙 Ascend 数据中心与科创板 IPO 筹备。",
+   "links": [
+    "https://en.sedaily.com/international/2026/10/14/deepseek-nears-14-billion-funding-round-double-its-original",
+    "https://www.cnbc.com/2026/10/06/deepseek-funding-round.html"
+   ],
+   "topic": "deepseek-14b-funding-74b-valuation-2026-10",
+   "firstSeen": "2026-10-15T15:48:39+08:00"
+  },
+  {
+   "id": "f3553671f6",
+   "title": "美欧银行监管加码盯 AI：怕网络攻击与「失控 Agent」冲击金融稳定",
+   "summary": "路透称美联储等三家美国监管机构开始追问银行如何用前沿模型；监管担忧包括对银行系统的网络攻击、对外部科技商依赖，以及失控 Agent 威胁全球金融稳定，部分司法辖区酝酿更正式指引。",
+   "links": [
+    "https://www.japantimes.co.jp/business/2026/10/15/tech/ai-banks-stability-fears/"
+   ],
+   "topic": "bank-regulators-ai-stability-scrutiny-2026-10",
+   "firstSeen": "2026-10-15T15:48:39+08:00"
+  },
+  {
+   "id": "48b16e1417",
+   "title": "AWS Continuum：把渗透测试塞进 CI/CD，公测可当发布闸",
+   "summary": "原 AWS Security Agent 现并入 Continuum：公共预览支持在部署流水线里跑作用域渗透测试，结果含严重度、端点与修复建议；达标才放行，修完可自动复测。官方称可贴进现有流水线约五分钟起步。",
+   "links": [
+    "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-penetration-testing/",
+    "https://docs.aws.amazon.com/securityagent/latest/userguide/cicd-pentest.html"
+   ],
+   "topic": "aws-continuum-cicd-pentest-2026-10",
+   "firstSeen": "2026-10-15T15:48:39+08:00"
+  },
+  {
+   "id": "54e93aa90b",
+   "title": "三星预估 Q3 营业利润约 80 亿美元量级：AI 存储狂潮再创新高",
+   "summary": "韩媒与路透：三星电子预估 2026 年第三季营业利润约 107.4 万亿韩元（约 800 亿美元量级），同比暴增近八倍，主因 AI 带动 DRAM/NAND/HBM 涨价与出货；HBM 贡献已不可忽视。",
+   "links": [
+    "https://www.investing.com/news/stock-market-news/samsung-q3-profit-jumps-nearly-ninefold-as-ai-memory-boom-lifts-chip-earnings-4937684",
+    "https://www.koreajoongangdaily.com/business/samsungs-estimated-operating-profit-tops-100-trillion-won-for-first-time-in-q3-on-memory-demand/12910277"
+   ],
+   "topic": "samsung-q3-2026-ai-memory-profit",
+   "firstSeen": "2026-10-15T15:48:39+08:00"
+  },
+  {
+   "id": "d596c7baf3",
+   "title": "工信部批准阿里 Qwen 进 iPhone：Duo 发售前扫清中国区 Apple Intelligence 合规门槛",
+   "summary": "Computerworld 等报道中国工信部批准阿里通义千问、万相等模型接入含 iPhone Duo 在内的多款支持 Apple Intelligence 的 iPhone；与 12 月 iOS 27.3 国内上线节奏衔接，折叠屏 Duo 预购窗口临近。",
+   "links": [
+    "https://www.computerworld.com/article/4235207/china-clears-alibabas-qwen-ai-just-in-time-for-iphone-duo.html",
+    "https://www.scmp.com/tech/big-tech/article/3370893/china-approves-alibaba-ai-models-use-iphone-duo-and-other-apple-handsets"
+   ],
+   "topic": "miit-qwen-iphone-duo-apple-intelligence-2026-10",
+   "firstSeen": "2026-10-15T15:48:39+08:00"
   }
  ],
- "lastChecked": "2026-10-15T15:25:39+08:00"
+ "lastChecked": "2026-10-15T15:48:39+08:00"
 }
