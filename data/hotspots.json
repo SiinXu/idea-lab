@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T18:12:52+08:00",
+ "lastUpdated": "2026-10-15T18:23:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7745,7 +7745,62 @@
    ],
    "topic": "unread-code-machine-code-musk-2026-10",
    "firstSeen": "2026-10-15T18:12:52+08:00"
+  },
+  {
+   "id": "09678c4af3",
+   "title": "Google 公开 Deep Review：Agent 式技术文档审校上线",
+   "summary": "Google Research 把会议试点的 Paper Assistant（STOC/ICML/NeurIPS/ICLR 超 1.6 万篇）做成公开产品 Deep Review：分段 + 自适应算力 + 并行核验 + 全局综合，可审论文、设计文档、法律财务材料；每周免费 2 次，也可接 Gemini API。应对 AI 写稿远快于人工审稿的瓶颈。",
+   "links": [
+    "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+    "https://news.ycombinator.com/item?id=50101580"
+   ],
+   "topic": "google-deep-review-2026-10",
+   "firstSeen": "2026-10-15T18:23:40+08:00"
+  },
+  {
+   "id": "065fdbbae4",
+   "title": "Gemma 3 1B 三值量化：笔记本 CPU 跑到约 114 tok/s",
+   "summary": "开发者把 Gemma 3 1B 解码器训成三值权重（约 1.6-bit）并自写 C 推理引擎 citric，单用户约 114 tok/s，约为同机 llama.cpp 4-bit 的 3.8 倍；代价是困惑度约差 14%。模型与引擎均开源，适合端侧小模型加速参考。",
+   "links": [
+    "https://knl.co.in/posts/gemma-3-1b-ternary/",
+    "https://github.com/kunalsin9h/citric",
+    "https://news.ycombinator.com/item?id=50101568"
+   ],
+   "topic": "gemma3-1b-ternary-citric-2026-10",
+   "firstSeen": "2026-10-15T18:23:40+08:00"
+  },
+  {
+   "id": "56f869f0de",
+   "title": "Martin Fowler 站：行为 Harness 能否让便宜模型也稳？",
+   "summary": "Naresh Jain 在 Exploring Gen AI 系列对比有/无行为 harness 建同一 API：旗舰 GPT-6 Sol 有无 harness 都 10/10；成本优化 Luna 无 harness 仅 3/10，有则 10/10，且 harness 后单次成本仍比无 harness 的 Sol 低约 33%。结论是：弱模型要持续传感器，强模型可只做终局验收闸。",
+   "links": [
+    "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
+    "https://news.ycombinator.com/item?id=50101552"
+   ],
+   "topic": "fowler-harness-worth-cost-2026-10",
+   "firstSeen": "2026-10-15T18:23:40+08:00"
+  },
+  {
+   "id": "eb7f3dd3ed",
+   "title": "Meta 智能眼镜疑似未唤醒也在录对话",
+   "summary": "Gizmodo/Android Authority 报道：部分用户称固件更新后，未说「Hey Meta」甚至关闭免唤醒时，指示灯仍亮、对话记录仍出现。Meta 称问题已修复但细节很少。叠加此前承包商审眼镜视频的争议，智能眼镜隐私讨论再起。",
+   "links": [
+    "https://gizmodo.com/metas-smart-glasses-recording-without-consent-2000826018"
+   ],
+   "topic": "meta-smart-glasses-recording-2026-10",
+   "firstSeen": "2026-10-15T18:23:40+08:00"
+  },
+  {
+   "id": "f600672ebc",
+   "title": "第三方追踪：Anthropic 年化营收约 768 亿美元，高于 OpenAI",
+   "summary": "TickerTrends 估算截至 2026-09-24 Anthropic ARR 约 768 亿美元（环比 +1.8%），OpenAI 约 504 亿美元（环比 +13.4%）。这是第三方推断而非公司财报；Bloomberg 此前报道 7 月底 Anthropic 年化已超 650 亿。X 上围绕「Claude 是否已反超」讨论升温。",
+   "links": [
+    "https://blog.tickertrends.io/p/openai-and-anthropic-arr-tracking",
+    "https://x.com/i/trending/2110633208996089997"
+   ],
+   "topic": "anthropic-arr-76b-tickertrends-2026-10",
+   "firstSeen": "2026-10-15T18:23:40+08:00"
   }
  ],
- "lastChecked": "2026-10-15T18:12:52+08:00"
+ "lastChecked": "2026-10-15T18:23:40+08:00"
 }
