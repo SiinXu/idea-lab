@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T16:57:51+08:00",
+ "lastUpdated": "2026-10-15T17:28:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7677,7 +7677,18 @@
    ],
    "topic": "aws-aidlc-workflows-2026-10",
    "firstSeen": "2026-10-15T16:57:51+08:00"
+  },
+  {
+   "id": "c5eb3b7099",
+   "title": "调查：欧盟「Chat Control」扫描的私信再交给 Palantir 软件分析",
+   "summary": "瑞典 Dagens ETC 的调查报道称，欧盟临时性「Chat Control」法规下被扫描的公民私信，后续会用 Palantir 的软件做分析；作者转载到 Substack 后登上 HN 热议。涉及端到端加密、隐私合规与 AI 内容审查外包，做隐私工具和合规 SaaS 的可以关注后续官方回应。",
+   "links": [
+    "https://arvidgrange.substack.com/p/investigation-eu-citizens-private",
+    "https://news.ycombinator.com/item?id=50100028"
+   ],
+   "topic": "eu-chat-control-palantir-2026-10",
+   "firstSeen": "2026-10-15T17:28:23+08:00"
   }
  ],
- "lastChecked": "2026-10-15T16:57:51+08:00"
+ "lastChecked": "2026-10-15T17:28:23+08:00"
 }
