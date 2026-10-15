@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T15:55:48+08:00",
+ "lastUpdated": "2026-10-15T16:25:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7634,7 +7634,19 @@
    ],
    "topic": "rubyllm-2-1-mcp-eval-2026-10",
    "firstSeen": "2026-10-15T15:55:48+08:00"
+  },
+  {
+   "id": "d3df9653b9",
+   "title": "Inworld Inference 全面开放：专为消费级 AI 应用做的推理服务",
+   "summary": "Inworld 10 月 14 日向所有开发者开放推理 API（兼容 OpenAI 接口），托管 Gemma 4、GLM 5.3 Flash、DeepSeek V4.1 Flash 等开源模型，靠缓存感知路由和实时解码压延迟，输入低至每百万 token 0.07 美元，缓存命中再便宜最多 99%。社交模拟游戏 Status 称 AI 成本降了约 95%。",
+   "links": [
+    "https://inworld.ai/blog/introducing-inworld-inference",
+    "https://finance.yahoo.com/technology/ai/articles/inworld-launches-realtime-inference-consumer-170000619.html",
+    "https://x.com/i/trending/2110646671109419180"
+   ],
+   "topic": "inworld-inference-launch",
+   "firstSeen": "2026-10-15T16:25:40+08:00"
   }
  ],
- "lastChecked": "2026-10-15T15:55:48+08:00"
+ "lastChecked": "2026-10-15T16:25:40+08:00"
 }
