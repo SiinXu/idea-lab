@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T01:43:03+08:00",
+ "lastUpdated": "2026-10-16T01:59:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9206,7 +9206,65 @@
    ],
    "topic": "bitrun-ternary-llm-cpu-2026-10",
    "firstSeen": "2026-10-16T01:43:03+08:00"
+  },
+  {
+   "id": "5476a133b9",
+   "title": "Mercury MCP 开放写操作：ChatGPT/Claude 可发起付款，须在 App 内审批",
+   "summary": "10月15日 Mercury 发布说明：MCP 从只读升级为可请求转账/付款、改分类与备注；资金类请求必须在 Mercury 里人工批准才执行。官方文档支持 ChatGPT、Claude、Cursor、Grok Bot 等连接，与大行封堵外部 Agent 形成对照。",
+   "links": [
+    "https://mercury.com/releases?category=API",
+    "https://docs.mercury.com/docs/what-is-mercury-mcp",
+    "https://x.com/i/trending/2110785233024872842"
+   ],
+   "topic": "mercury-mcp-write-actions-2026-10",
+   "firstSeen": "2026-10-16T01:59:11+08:00"
+  },
+  {
+   "id": "276e0c2f34",
+   "title": "Brave Leo 接入 NEAR AI：GLM 5.3 Flash 跑在可验证 TEE 私有推理",
+   "summary": "NEAR AI 10月15日称 Brave Leo 已用 NEAR AI Cloud 的硬件飞地跑 GLM 5.3 Flash，附可核验认证；提示经 Oblivious HTTP，连运营商也看不到明文。延续 Brave 此前 Nightly 上的「可验证隐私」路线，把浏览器内置助手往端到端机密推理再推一步。",
+   "links": [
+    "https://near.ai/blog",
+    "https://brave.com/blog/browser-ai-tee/",
+    "https://x.com/i/trending/2110789009890791529"
+   ],
+   "topic": "brave-leo-near-ai-glm53-tee-2026-10",
+   "firstSeen": "2026-10-16T01:59:11+08:00"
+  },
+  {
+   "id": "8a74e79fad",
+   "title": "CNN 与 Google 签多年 AI 内容合作：授权实验性生成功能并获补偿",
+   "summary": "CNN 10月15日宣布与 Google 达成多年战略合作，为 Google 产品中的实验性生成式 AI 功能提供增强内容权，并就内容交付与使用获得补偿；财务条款与是否含训练权未披露。同日 Google 称 News AI 试点已覆盖全球超 400 家媒体，含 Axios、FT、Forbes 等。",
+   "links": [
+    "https://cnnpressroom.blogs.cnn.com/2026/10/15/cnn-announces-ai-partnership-with-google/",
+    "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
+    "https://variety.com/2026/biz/news/cnn-google-multiyear-partnership-embrace-generative-ai-1236913151/"
+   ],
+   "topic": "cnn-google-ai-partnership-2026-10",
+   "firstSeen": "2026-10-16T01:59:11+08:00"
+  },
+  {
+   "id": "e309590754",
+   "title": "埃森哲给员工 Claude 月配额砍到 29 美元：Token 狂潮踩刹车",
+   "summary": "404 Media 披露内部通知：自 10月1 日起公司只为每人每月集中承担约 29 美元 Claude 用量，超额需挂到具体项目 WBS；部分人月耗 500–1000 美元，有人访问被收回。折射企业从「尽量用 AI」转向配额与 ROI 核算，与咨询业对外推销 AI 形成反差。",
+   "links": [
+    "https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/",
+    "https://news.ycombinator.com/item?id=50107534"
+   ],
+   "topic": "accenture-claude-29-month-cap-2026-10",
+   "firstSeen": "2026-10-16T01:59:11+08:00"
+  },
+  {
+   "id": "0a327faf4b",
+   "title": "EPUB 3.4 进入候选：新增 roll 竖滑布局，适配 Webtoon",
+   "summary": "W3C 出版维护组推进 EPUB 3.4 候选稿：新增 rendition:layout=roll，固定布局竖向无缝拼接，面向手机竖滑漫画/Webtoon；并加入 AVIF/JPEG XL、OPUS 等，同时把字体混淆等标为过时。EPUBCheck 5.4.0 已可校验；旧书只要原先合规仍兼容。",
+   "links": [
+    "https://www.w3.org/blog/2026/were-on-a-roll-epub-3-4-is-coming/",
+    "https://www.w3.org/TR/epub-34/"
+   ],
+   "topic": "epub-34-roll-layout-2026-10",
+   "firstSeen": "2026-10-16T01:59:11+08:00"
   }
  ],
- "lastChecked": "2026-10-16T01:43:03+08:00"
+ "lastChecked": "2026-10-16T01:59:11+08:00"
 }
