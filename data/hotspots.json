@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T21:43:58+08:00",
+ "lastUpdated": "2026-10-15T22:02:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8346,7 +8346,62 @@
    ],
    "topic": "show-hn-unfenced-land-2026-10",
    "firstSeen": "2026-10-15T21:43:58+08:00"
+  },
+  {
+   "id": "2008f30467",
+   "title": "C++26 Contracts 入门：pre / post 把断言写进函数签名",
+   "summary": "C++ Stories 讲解 P2900 合约：用 pre()/post()/contract_assert 把前置与后置条件挂在声明上，替代藏在实现里的 assert；GCC 16 已支持 -fcontracts，可选手 ignore/observe/enforce/quick-enforce。合约不是输入校验，也不该当流程控制。HN 约 1 小时前上首页。",
+   "links": [
+    "https://www.cppstories.com/2026/cpp26_contracts/",
+    "https://news.ycombinator.com/item?id=50103164"
+   ],
+   "topic": "cpp26-contracts-intro-2026-10",
+   "firstSeen": "2026-10-15T22:02:05+08:00"
+  },
+  {
+   "id": "08c0f4f451",
+   "title": "AIPOCH Open-Science 1.0：本地优先科研工作台，可导出 .science 包",
+   "summary": "10-14 发布的开源桌面科研环境：把文献、Notebook、Agent 会话与产物留在本机，支持 Claude Code / OpenCode / Codex / CodeBuddy 等后端；核心是可分享的 .science 包（会话分支、文件版本、Notebook 与校验证据）。与 Google Deep Review 同日冲上 X 科技新闻，强调可复现交接而非替代同行评审。",
+   "links": [
+    "https://aipoch.com/blog/aipoch-launches-open-science-v-1-0",
+    "https://github.com/aipoch/open-science"
+   ],
+   "topic": "aipoch-open-science-1-0-2026-10",
+   "firstSeen": "2026-10-15T22:02:05+08:00"
+  },
+  {
+   "id": "6657841a12",
+   "title": "Nvidia 称 RTX Spark「远超以往任何 Windows SoC」：评测解禁日",
+   "summary": "The Verge / Windows Central 等 10-15 解禁：Nvidia 对媒体称 RTX Spark 比以往 Windows SoC 快约 3–5 倍（细看是对标 Panther Lake / Strix Halo，不含 Apple、也不含独显本）；同步放出一周实测。相对此前「10-16 开卖」预告，这是评测与话术落地的新节点。",
+   "links": [
+    "https://www.theverge.com/tech/1011704/nvidia-claims-rtx-spark-is-by-far-the-fastest-single-windows-chip-ever-made",
+    "https://www.windowscentral.com/hardware/nvidia/rtx-spark-review-benchmarks-2026"
+   ],
+   "topic": "rtx-spark-fastest-windows-soc-claim-2026-10",
+   "firstSeen": "2026-10-15T22:02:05+08:00"
+  },
+  {
+   "id": "163b4cf51c",
+   "title": "九年后终于 glitch 通 Xbox 360：故障注入从专用芯片到 5 镑 Pico",
+   "summary": "作者 2017 买 CoolRunner 失败，2026 用 Raspberry Pi Pico 做 NAND/JTAG 与 glitch，几秒钟完成曾需半小时的流程。文章梳理 Reset Glitch、安全启动链条，并指出故障注入正因廉价 MCU 而更易上手；文末调侃软件漏洞上周才放出，硬件折腾有点白费。HN 约 130 分。",
+   "links": [
+    "https://kennedn.com/blog/posts/glitching/",
+    "https://news.ycombinator.com/item?id=50070661"
+   ],
+   "topic": "xbox-360-nine-year-glitch-hack-2026-10",
+   "firstSeen": "2026-10-15T22:02:05+08:00"
+  },
+  {
+   "id": "30a670a4ae",
+   "title": "Show HN：Indigene——按你所在位置推荐本土植物",
+   "summary": "独立应用按当前位置推荐原生植物清单，英法双语；上线后 HN 约 70 分。像 Unfenced 一样，是「公开地理/生态数据 × 轻工具」的垂直样本，适合做本地化生活/园艺入口。",
+   "links": [
+    "https://indigene.app/",
+    "https://news.ycombinator.com/item?id=50103263"
+   ],
+   "topic": "show-hn-indigene-native-plants-2026-10",
+   "firstSeen": "2026-10-15T22:02:05+08:00"
   }
  ],
- "lastChecked": "2026-10-15T21:43:58+08:00"
+ "lastChecked": "2026-10-15T22:02:05+08:00"
 }
