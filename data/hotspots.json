@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T09:43:27+08:00",
+ "lastUpdated": "2026-10-15T09:56:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6749,7 +6749,48 @@
    ],
    "topic": "nvidia-uk-startup-investments-boltz-2026-10",
    "firstSeen": "2026-10-15T09:43:27+08:00"
+  },
+  {
+   "id": "9eb295a80f",
+   "title": "法国 700 家超市冷柜被黑的根因：联网控制器老漏洞没补",
+   "summary": "Ars Technica 复盘：遭入侵的是 Danfoss、Dixell 及其母公司 Copeland 的冷链联网控制器，三款型号早有公开安全通告，存在可远程以管理员权限登录的严重漏洞；Danfoss 旧款的「每日变化」口令还能由公开固件算出。攻击者远程长时间开化霜，柜温升到 50°C，食品报废、部分电气起火。基本的补丁与不暴露公网就能挡住。",
+   "links": [
+    "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/"
+   ],
+   "topic": "france-supermarket-fridge-hack-root-cause-2026-10",
+   "firstSeen": "2026-10-15T09:56:01+08:00"
+  },
+  {
+   "id": "80e59efbfa",
+   "title": "TechCrunch Disrupt 2026 战场赛五强出炉：反诈 Agent 到太空算力",
+   "summary": "20 家路演后选出 5 家决赛：Apate（成千上万 AI「假受害者」钓骗子）、Flox Intelligence（边缘 AI 驱赶野生动物）、Intero Biosystems（人肠类器官替代动物试验）、Industrial Next（基础模型驱动、分钟级换线的机器人工位）、Satlyt（多颗卫星协同跑计算任务）。决赛 10 月 15 日 11:30（太平洋时间）开打，冠军得 10 万美元无股权奖金。",
+   "links": [
+    "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/"
+   ],
+   "topic": "disrupt-2026-battlefield-finalists",
+   "firstSeen": "2026-10-15T09:56:01+08:00"
+  },
+  {
+   "id": "0096716959",
+   "title": "「Vibe Coding 能赚钱吗」X 热议：非程序员做的 Plinq 年入约 45.6 万美元",
+   "summary": "X 上开发者争论只靠自然语言提示让 AI 写出来的 App 算不算真编程。支持方举例：巴西非技术创始人 Sabrine Matos 用 AI 做的女性安全 App Plinq（帮人查公开记录）据称年化收入约 45.6 万美元；尼日利亚小游戏 LagosLifeApp 几天内靠广告和内购赚数万美元。质疑方关注质量、安全与长期维护，并指出很多作品其实是 AI 加人工修改。",
+   "links": [
+    "https://x.com/i/trending/2110525459800728001",
+    "https://x.com/i/trending/2110539831902196018"
+   ],
+   "topic": "vibe-coding-revenue-apps-debate-2026-10",
+   "firstSeen": "2026-10-15T09:56:01+08:00"
+  },
+  {
+   "id": "07ec57d1f1",
+   "title": "白俄罗斯教堂为 AI 生成的圣卡洛·阿库蒂斯圣像祝圣",
+   "summary": "白俄罗斯 Novolukoml 的抹大拉圣玛利亚教堂揭幕一幅 140×290 厘米、用 AI 工具生成的「千禧一代圣人」卡洛·阿库蒂斯圣像，他手持笔记本电脑与念珠，由提示词工程师、设计师和摄影师合作完成，10 月 11 日由前总主教祝圣。X 上争议两极：有人认为机器生成缺乏人的灵性，也有人觉得和印刷、雕刻圣像没本质区别。",
+   "links": [
+    "https://x.com/i/trending/2110426021166034971"
+   ],
+   "topic": "belarus-ai-generated-icon-carlo-acutis",
+   "firstSeen": "2026-10-15T09:56:01+08:00"
   }
  ],
- "lastChecked": "2026-10-15T09:43:27+08:00"
+ "lastChecked": "2026-10-15T09:56:01+08:00"
 }
