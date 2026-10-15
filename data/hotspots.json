@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T06:13:51+08:00",
+ "lastUpdated": "2026-10-16T06:25:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -10143,7 +10143,84 @@
    ],
    "topic": "until-dev-agent-workflow-2026-10",
    "firstSeen": "2026-10-16T06:13:51+08:00"
+  },
+  {
+   "id": "5fe40991ec",
+   "title": "OpenAI 推 Rosalind Academic Plan：美高校实验室可获生命科学模型赞助席位",
+   "summary": "美国大学实验室可申请最长 12 个月、最多 30 个 ChatGPT Business Standard 赞助席位，并经可信访问审批后使用面向生命科学的 GPT-Rosalind；不含 API 额度。需 PI/实验室负责人认证，同域名机构邮箱。X 上刚冒出相关热帖。",
+   "links": [
+    "https://openai.com/rosalind/",
+    "https://help.openai.com/en/articles/20001602-rosalind-academic-plan",
+    "https://x.com/i/trending/2110857706663727131"
+   ],
+   "topic": "openai-rosalind-academic-plan-2026-10",
+   "firstSeen": "2026-10-16T06:25:39+08:00"
+  },
+  {
+   "id": "d5e7215fe7",
+   "title": "ServiceNow 发 AI Passport：给 Agent 与 MCP 签发运行时权限护照",
+   "summary": "密码学签名凭证在运行时校验一/三方 Agent 与 MCP 的授权范围，越界可重定向、限权或 kill switch；配合 Shadow AI 发现与成本治理，NVIDIA OpenShell 为设计伙伴，预计 2026 Q4 可用。",
+   "links": [
+    "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-advances-its-operational-harness-for-enterprise-AI-with-AI-Passport-and-expanded-governance-capabilities/default.aspx",
+    "https://www.cio.com/article/4235863/servicenow-makes-it-easier-to-build-ai-agents-gives-them-verifiable-identities.html"
+   ],
+   "topic": "servicenow-ai-passport-2026-10",
+   "firstSeen": "2026-10-16T06:25:39+08:00"
+  },
+  {
+   "id": "25dcb59795",
+   "title": "AWS「Trust in Depth」：用多层可验证控制放权给 Agent",
+   "summary": "Shawn Bice 提出 Scope/Know/Bound/Observe 四问：AgentCore Policy 在工具调用侧强制边界，自动化推理证伪精确规则，人只处理模糊高风险决策；对标经典 Defense in Depth，面向企业自主 Agent。",
+   "links": [
+    "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/"
+   ],
+   "topic": "aws-trust-in-depth-agents-2026-10",
+   "firstSeen": "2026-10-16T06:25:39+08:00"
+  },
+  {
+   "id": "0cf393cf05",
+   "title": "Nate Silver：我们还没准备好「超级执着」的 AI",
+   "summary": "Silver Bulletin 长文区分智能与 persistence：新模型更会死磕完任务，结合 Hugging Face 作弊事件，呼吁对持续行动设安全刹车与算力预算。HN 新帖，安全向讨论升温。",
+   "links": [
+    "https://www.natesilver.net/p/were-not-ready-for-superpersistent",
+    "https://news.ycombinator.com/item?id=50111180"
+   ],
+   "topic": "nate-silver-superpersistent-ai-2026-10",
+   "firstSeen": "2026-10-16T06:25:39+08:00"
+  },
+  {
+   "id": "db63cb54c7",
+   "title": "1.4 万通电话：人类前台转化约是 AI 的 4 倍",
+   "summary": "Bold Agent Kit 观察性研究：人类约 4 倍 inbound intake 转化，AI 无进展挂断高约 700%，但漏接更少。HN 首页热议——便宜接听不等于更好生意结果。",
+   "links": [
+    "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
+    "https://news.ycombinator.com/item?id=50111112"
+   ],
+   "topic": "call-center-humans-vs-ai-14k-2026-10",
+   "firstSeen": "2026-10-16T06:25:39+08:00"
+  },
+  {
+   "id": "ada7f35c95",
+   "title": "Show HN：Guess the LLM——读答案猜是哪个模型写的",
+   "summary": "多前沿实验室模型同题作答，玩家读一条再猜作者；可自选对比集合。作者自称只对一半，适合当模型「口音」趣味评测。",
+   "links": [
+    "https://guessthellm.com/",
+    "https://news.ycombinator.com/item?id=50110907"
+   ],
+   "topic": "guess-the-llm-show-hn-2026-10",
+   "firstSeen": "2026-10-16T06:25:39+08:00"
+  },
+  {
+   "id": "60c9701dc2",
+   "title": "Forgejo v17.0 发布：自托管协作平台大版本",
+   "summary": "2026-10-15 释出：文档绝对链接相对仓库根解析、FUNDING.yml 捐赠按钮、组织邀请制、Actions 作业摘要与 API 增强、Bitbucket Data Center 迁移等；非 LTS，支持到 2027-01-28。",
+   "links": [
+    "https://forgejo.org/2026-10-release-v17-0/",
+    "https://news.ycombinator.com/item?id=50111209"
+   ],
+   "topic": "forgejo-v17-release-2026-10",
+   "firstSeen": "2026-10-16T06:25:39+08:00"
   }
  ],
- "lastChecked": "2026-10-16T06:13:51+08:00"
+ "lastChecked": "2026-10-16T06:25:39+08:00"
 }
