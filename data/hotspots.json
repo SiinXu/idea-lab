@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T08:47:17+08:00",
+ "lastUpdated": "2026-10-15T08:56:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6585,7 +6585,37 @@
    ],
    "topic": "gitvolt-show-hn-2026-10",
    "firstSeen": "2026-10-15T08:47:17+08:00"
+  },
+  {
+   "id": "6394e7c7da",
+   "title": "腾讯开源 WeKnora：文档变 RAG + 自主推理 Agent + 自维护 Wiki",
+   "summary": "企业级开源知识平台，混合检索与 ReAct Agent，还能把资料沉淀成自维护 Wiki；登上今日 AI GitHub 趋势。",
+   "links": [
+    "https://github.com/Tencent/WeKnora"
+   ],
+   "topic": "tencent-weknora-2026-10",
+   "firstSeen": "2026-10-15T08:56:10+08:00"
+  },
+  {
+   "id": "2046f5e50f",
+   "title": "obra/superpowers：可组合的 Agent 技能与开发方法论",
+   "summary": "给编码 Agent 的技能框架：头脑风暴、计划、TDD、系统调试、代码审查、worktree 与子代理驱动开发，可装进多种 harness。",
+   "links": [
+    "https://github.com/obra/superpowers"
+   ],
+   "topic": "obra-superpowers-2026-10",
+   "firstSeen": "2026-10-15T08:56:10+08:00"
+  },
+  {
+   "id": "c04b1b26ea",
+   "title": "Voicebox：开源 AI 语音工作室，克隆与听写一体",
+   "summary": "jamiepine/voicebox 冲上趋势：本地友好的开源语音工作室，覆盖克隆、听写与创作，和 VoiceStudio 同赛道再添一员。",
+   "links": [
+    "https://github.com/jamiepine/voicebox"
+   ],
+   "topic": "jamiepine-voicebox-2026-10",
+   "firstSeen": "2026-10-15T08:56:10+08:00"
   }
  ],
- "lastChecked": "2026-10-15T08:47:17+08:00"
+ "lastChecked": "2026-10-15T08:56:10+08:00"
 }
