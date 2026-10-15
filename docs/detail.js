@@ -16,6 +16,9 @@ const T=(k,n)=>DV[L][DK.indexOf(k)].replace('{n}',n);
 document.documentElement.dataset.theme=localStorage.lab_theme||(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark');
 $('#theme').onclick=()=>{const v=document.documentElement.dataset.theme=='dark'?'light':'dark';document.documentElement.dataset.theme=v;localStorage.lab_theme=v;R&&render()};
 for(const l in LANGS)$('#lang').add(new Option(LANGS[l],l));$('#lang').onchange=e=>{L=e.target.value;localStorage.lab_lang=L;render()};
+const ST10={idea:{"zh-Hans":"想法","zh-Hant":"想法",en:"Idea",ja:"アイデア",ko:"아이디어",ms:"Idea",vi:"Ý tưởng",fr:"Idée",es:"Idea",de:"Idee"},validating:{"zh-Hans":"验证中","zh-Hant":"驗證中",en:"Validating",ja:"検証中",ko:"검증 중",ms:"Sedang disahkan",vi:"Đang kiểm chứng",fr:"En validation",es:"Validando",de:"In Prüfung"},paused:{"zh-Hans":"搁置","zh-Hant":"擱置",en:"Paused",ja:"保留",ko:"보류",ms:"Ditangguh",vi:"Tạm dừng",fr:"En pause",es:"En pausa",de:"Pausiert"},dropped:{"zh-Hans":"已放弃","zh-Hant":"已放棄",en:"Dropped",ja:"中止",ko:"중단",ms:"Digugurkan",vi:"Đã bỏ",fr:"Abandonnée",es:"Descartada",de:"Verworfen"},live:{"zh-Hans":"已上线","zh-Hant":"已上線",en:"Live",ja:"公開中",ko:"출시됨",ms:"Dilancarkan",vi:"Đã ra mắt",fr:"En ligne",es:"Lanzada",de:"Live"},upd:{"zh-Hans":"更新于","zh-Hant":"更新於",en:"Updated",ja:"更新",ko:"업데이트",ms:"Dikemas kini",vi:"Cập nhật",fr:"Mis à jour",es:"Actualizado",de:"Aktualisiert"}};
+const S10=k=>(ST10[k]||{})[L]||(ST10[k]||{}).en||k,MT=(window.IMETA||{})[document.body.dataset.id]||{s:'idea'},EVT=window.EVT||{};
+const pf=s=>s.replace(/(\{[^}\n]{1,48}\}|\[[^\]\n]{1,48}\]|`[^`\n]{1,60}`)/g,'<code>$1</code>');
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 let R;const x=s=>String(s).split('\n').map(l=>L=='zh-Hans'?l:(R.tr[L]&&R.tr[L][l])||l).join('\n'),X=s=>esc(x(s));
 const lv=n=>`<span class="lv lv${n}">${T(['','lo','mi','hi'][n])}</span>`;
@@ -33,7 +36,7 @@ const S=[['canvas','▦'],['bm','$'],['rev','↗'],['risk','⚠'],['ops','▤'],
 $('#toc').innerHTML=`<a href="../../" class="bk">← ${T('back')}</a>`+S.map(([s,g])=>`<a href="#${s}"><b>${g}</b>${T(s)}</a>`).join('');
 const cv=d.canvas,blk=(k,cls)=>`<div class="cb ${cls||k}"><h4>${T(k)}</h4>${ul(cv[k])}</div>`;
 $('#detail').innerHTML=`
-<section class="dh"><div class="row"><span class="tag">${c(i.tag)}</span><span class="tag ghost">${X(d.kind)}</span>${L!='zh-Hans'?`<span class="mtn">${T('mt')}</span>`:''}</div>
+<section class="dh"><div class="row"><span class="tag">${c(i.tag)}</span><span class="tag ghost">${X(d.kind)}</span><span class="stb st-${MT.s}">${S10(MT.s)}</span>${MT.u?`<span class="upd mono">${S10('upd')} ${MT.u}</span>`:''}${L!='zh-Hans'?`<span class="mtn">${T('mt')}</span>`:''}</div>
 <h1>${esc(c(i.t))}</h1><p class="lead">${esc(c(i.p))}</p>
 <div class="kgrid"><div><b>${DV[L][DK.indexOf('cs')]}</b>${esc(c(i.w))}</div><div><b>MVP</b>${esc(c(i.m))}</div><div><b>${T('auto')}</b>${esc(c(i.au))}</div></div>
 <button class="fv ${fav.has(id)?'on':''}" id="fv">${fav.has(id)?'★':'☆'} ${T('fav')}</button></section>
@@ -52,8 +55,8 @@ $('#detail').innerHTML=`
 <h3>${T('kpi')}</h3><div class="tw"><table><thead><tr><th>${T('stage')}</th><th>KPI</th></tr></thead><tbody>${d.kpi.map(([a,b])=>`<tr><td>${X(a)}</td><td>${X(b)}</td></tr>`).join('')}</tbody></table></div></section>
 <section id="auto"><h2>${T('auto')}</h2><div class="pipe">${d.pipe.map((p,n)=>`<div class="st ${p.h?'h':'a'}"><span class="mono">${String(n+1).padStart(2,'0')}</span><p>${X(p.s)}</p><em>${p.h?T('h'):T('a')}</em></div>`).join('')}</div>
 <div class="two"><div><h3>${T('tools')}</h3>${ul(d.tools)}</div><div class="hrsbox"><b>${d.hrs}h</b><span>${T('hrs',d.hrs)}</span></div></div></section>
-<section id="prompts"><h2>${T('prompts')}</h2><div class="prs">${d.prompts.map(([a,b],n)=>`<div class="pr"><div class="rh"><b>${X(a)}</b><button class="cp" data-n="${n}">${T('copy')}</button></div><pre>${X(b)}</pre></div>`).join('')}</div></section>
-<section id="ev"><h2>${T('ev')}</h2><ul class="evs">${d.ev.map(e=>`<li><a href="${e.u}" target="_blank" rel="noopener">↗ ${esc(e.u.replace(/^https?:\/\//,''))}</a> <span class="${e.v?'okk':'unv'}">${e.v?T('ok'):T('unv')}</span></li>`).join('')}</ul></section>
+<section id="prompts"><h2>${T('prompts')}</h2><div class="prs">${d.prompts.map(([a,b],n)=>`<div class="pr"><div class="rh"><b>${X(a)}</b><button class="cp" data-n="${n}">${T('copy')}</button></div><pre>${pf(X(b))}</pre></div>`).join('')}</div></section>
+<section id="ev"><h2>${T('ev')}</h2><ul class="evs">${d.ev.map(e=>`<li><a href="${e.u}" target="_blank" rel="noopener"><b>${esc(EVT[e.u]||e.u.replace(/^https?:\/\/(www\.)?/,'').replace(/\/$/,''))}</b><small class="mono">${esc(e.u.replace(/^https?:\/\/(www\.)?/,'').split('/')[0])} ↗</small></a> <span class="${e.v?'okk':'unv'}">${e.v?T('ok'):T('unv')}</span></li>`).join('')}</ul></section>
 ${d.deep?`<section id="deep"><h2>${T('deep')}</h2><details><summary>${T('deepNote')}</summary><div class="md">${d.deep}</div></details></section>`:''}
 <section><textarea id="nt" placeholder="${T('note')}">${esc(localStorage['lab_n_'+id]||'')}</textarea>
 <div class="pn"><a href="../${pv.id}/">← ${T('prev')} · ${esc(c(pv.t))}</a><a href="../${nx.id}/">${T('next')} · ${esc(c(nx.t))} →</a></div></section>`;

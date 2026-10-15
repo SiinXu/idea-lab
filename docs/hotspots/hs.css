@@ -19,3 +19,12 @@
 .ed textarea{flex:1 1 100%;min-height:54px;resize:vertical}
 .ed .s{font-size:11px;color:var(--mut);align-self:center}
 .btn{background:var(--fg);color:var(--bg);border:0;border-radius:10px;padding:7px 14px;font:600 12px Geist,sans-serif;cursor:pointer}
+
+/* review fixes 2026-10-15: pagination, search, collapsed editors, tap targets */
+.ctl{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:0 0 6px}.ctl input{flex:1 1 280px;background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:12px;padding:10px 14px;font:15px Geist,sans-serif;outline:none}.ctl input:focus{border-color:var(--acc)}
+.pill{min-height:34px}.pill small{opacity:.6;margin-left:3px}.pill[disabled]{opacity:.35;cursor:default}
+.pgn{display:flex;gap:10px;align-items:center;justify-content:space-between;margin:18px 0 0;font-size:12px;color:var(--mut)}#pgb:empty{display:none}
+.meta{gap:8px 12px}.meta a{padding:6px 0}.mk{margin-left:auto;background:none;border:1px solid var(--line);color:var(--mut);border-radius:999px;padding:6px 12px;min-height:32px;font:500 12px Geist,sans-serif;cursor:pointer}.mk:hover,.mk[aria-expanded=true]{color:var(--fg);border-color:var(--acc)}
+.sbg{border:1px solid var(--acc);color:var(--fg);border-radius:6px;padding:1px 7px}.nt{font-size:13px;color:var(--fg);margin:8px 0 0!important;padding:8px 10px;border-radius:10px;background:var(--glow)}
+.ed[hidden]{display:none}.ed select{min-height:36px}.ed .btn{min-height:36px}.empty{padding:40px 0;color:var(--mut)}
+@media(max-width:600px){.hs{padding-top:80px}.mk{margin-left:0}.hi{padding:16px}.pgn .mono{text-align:center;flex:1}}

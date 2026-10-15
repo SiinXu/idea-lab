@@ -55,3 +55,10 @@ details summary{cursor:pointer;color:var(--acc);font-weight:600}.md{font-size:14
 @media(max-width:640px){.days{grid-template-columns:1fr 1fr}.pipe{grid-template-columns:1fr 1fr}}
 .dwrap>main.dmain{margin:0;padding:0;max-width:none;width:100%}
 @media(max-width:640px){.chart text{font-size:21px}.chart{min-height:180px}}
+
+/* review fixes 2026-10-15 */
+.pr pre{font:14px/1.75 Geist,"PingFang SC","Hiragino Sans","Noto Sans CJK SC","Microsoft YaHei",system-ui,sans-serif;color:var(--fg);max-height:340px;letter-spacing:0}
+.pr pre code{font:12.5px "Geist Mono",ui-monospace,monospace;background:var(--glow);color:var(--fg);padding:1px 5px;border-radius:5px}
+.evs li{align-items:flex-start;justify-content:space-between}.evs a{display:flex;flex-direction:column;gap:2px;text-decoration:none;word-break:normal;overflow-wrap:anywhere;flex:1 1 260px}.evs a b{font-weight:500;line-height:1.4}.evs a:hover b{color:var(--acc)}.evs a small{font-size:11.5px;color:var(--mut)}
+.stb{font-size:11.5px;padding:3px 9px;border-radius:999px;border:1px solid var(--line);color:var(--mut)}.st-validating{color:#d97706;border-color:rgba(245,158,11,.4)}.st-live{color:#16a34a;border-color:rgba(34,197,94,.4)}.st-dropped{opacity:.6;text-decoration:line-through}.upd{font-size:11.5px;color:var(--mut);align-self:center}
+@media(min-width:1001px){.bmc{grid-template-columns:1.15fr 1fr 1fr;grid-template-rows:none}.bmc .cb{grid-column:auto!important;grid-row:auto!important}.bmc .vp{grid-column:1!important;grid-row:1/span 4!important}}

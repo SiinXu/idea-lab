@@ -8,7 +8,13 @@ DP='data/hotspots.json';CP='scripts/hotspots_cache.json'
 SH=datetime.timezone(datetime.timedelta(hours=8))
 args=[a for a in sys.argv[1:] if not a.startswith('--')];fl=set(a for a in sys.argv[1:] if a.startswith('--'))
 db=json.load(open(DP)) if os.path.exists(DP) else {'lastUpdated':None,'items':[]}
-norm=lambda u:re.sub(r'[?#].*$','',u.strip().lower()).rstrip('/').replace('http://','https://').replace('://www.','://')
+TRK=re.compile(r'^(utm_\w+|ref|ref_src|ref_url|s|t|si|fbclid|gclid|mc_cid|mc_eid|igshid|share|source)$',re.I)
+def norm(u):
+    """Lowercase host/path, drop fragment and tracking params but KEEP identifying query params (e.g. HN item?id=, YouTube v=)."""
+    u=u.strip();b,_,q=u.split('#',1)[0].partition('?')
+    b=b.lower().rstrip('/').replace('http://','https://').replace('://www.','://')
+    kept=sorted(kv for kv in q.split('&') if kv and not TRK.match(kv.split('=',1)[0]))
+    return b+('?'+'&'.join(kept) if kept else '')
 new=[]
 if '--rebuild-only' not in fl:
     raw=open(args[0]).read() if args else sys.stdin.read()
