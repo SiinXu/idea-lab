@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T09:56:01+08:00",
+ "lastUpdated": "2026-10-15T10:09:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6790,7 +6790,27 @@
    ],
    "topic": "belarus-ai-generated-icon-carlo-acutis",
    "firstSeen": "2026-10-15T09:56:01+08:00"
+  },
+  {
+   "id": "823a0c0944",
+   "title": "「给 AI 一张空房间照」走红：ChatGPT/Grok 按聊天记录给你布置房间",
+   "summary": "X 上由用户 Vampz 10 月 14 日发起的玩法：上传一张空房间照片，让 ChatGPT、Grok 等根据你过往的对话内容把房间布置出来。晒图里有人得到摆满自我提升书和励志海报的卧室，有人是美发工位配打气标语，有人是球迷游戏角。大家惊叹细节准确到日常习惯和心头好，也顺带意识到聊天机器人对自己了解得有多深；不同 AI 的出图风格略有差异。",
+   "links": [
+    "https://x.com/i/trending/2110415229201047984"
+   ],
+   "topic": "ai-empty-room-personalized-interior-trend",
+   "firstSeen": "2026-10-15T10:09:25+08:00"
+  },
+  {
+   "id": "2f2c665cc1",
+   "title": "Chollet：弦论像「没有感官输入的智能在幻觉」",
+   "summary": "AI 研究者 François Chollet 在 X 上把弦论比作缺少现实接地的聪明系统产出的结果：数学再漂亮也会滑向无法检验的推测。他强调解决真问题靠的是反复与现实接触，而不只是原始智力。讨论延伸到 AI 药物发现等领域：物理实验带来的数据才是关键，并类比人类决策同样需要直接的感官反馈。",
+   "links": [
+    "https://x.com/i/trending/2110550730784522577"
+   ],
+   "topic": "chollet-string-theory-ai-hallucination-grounding",
+   "firstSeen": "2026-10-15T10:09:25+08:00"
   }
  ],
- "lastChecked": "2026-10-15T09:56:01+08:00"
+ "lastChecked": "2026-10-15T10:09:25+08:00"
 }
