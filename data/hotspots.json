@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T09:09:56+08:00",
+ "lastUpdated": "2026-10-15T09:10:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6657,7 +6657,17 @@
    ],
    "topic": "amp-beyond-coding-openai-2026-10",
    "firstSeen": "2026-10-15T09:09:56+08:00"
+  },
+  {
+   "id": "2246d1a44b",
+   "title": "Capsem：Rust 虚拟机把每个编码 Agent 关进空气墙 Linux",
+   "summary": "HN 新帖：用 Apple Virtualization / KVM 为 Claude Code、Gemini CLI、Codex 各开一台只读根文件系统的气隙 Linux VM，网络经主机 MITM 代理按策略放行，10 秒内开机。Agent 沙箱从「进程隔离」升到「硬件级虚拟机」。",
+   "links": [
+    "https://capsem.org/"
+   ],
+   "topic": "capsem-agent-hypervisor-2026-10",
+   "firstSeen": "2026-10-15T09:10:41+08:00"
   }
  ],
- "lastChecked": "2026-10-15T09:09:56+08:00"
+ "lastChecked": "2026-10-15T09:10:41+08:00"
 }
