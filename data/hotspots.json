@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T04:02:15+08:00",
+ "lastUpdated": "2026-10-16T04:15:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9692,7 +9692,73 @@
    ],
    "topic": "orosz-ai-cold-email-trust-2026-10",
    "firstSeen": "2026-10-16T04:02:15+08:00"
+  },
+  {
+   "id": "19ed1d5df2",
+   "title": "Withings 新账号同步 Apple Health 要先订 Withings+（约 $99/年）",
+   "summary": "2026-10-13 起新账号把自动同步到 Apple Health / Health Connect 捆进 Withings+；官方称老账号不受影响，CSV/PDF 导出仍免费。社区怒批把本地 HealthKit 同步当订阅卖，Withings 10-15 发帖澄清并推 AI Connector（MCP）。适合做成 Idea Lab 新点子：健康硬件「基础同步 vs 订阅墙」对照页。",
+   "links": [
+    "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+    "https://news.ycombinator.com/item?id=50109375"
+   ],
+   "topic": "withings-apple-health-paywall-2026-10",
+   "firstSeen": "2026-10-16T04:15:58+08:00"
+  },
+  {
+   "id": "a2f39bc935",
+   "title": "sifty：打开页面前先按自定义标签分类 URL，省 Agent 上下文",
+   "summary": "给 Agent 一个 URL + 你定的标签（登录墙/文档/404/定价等），只返回标签与概率、不回传页面正文，避免把 cookie 墙和假 200 吃进上下文。支持并行筛搜索结果、System One 多问题、死链语义检查；免费档约每天千单位。适合做成 Idea Lab 新点子：Agent 浏览前置过滤器。",
+   "links": [
+    "https://sifty.dev/blog/web-pages",
+    "https://news.ycombinator.com/item?id=50109477"
+   ],
+   "topic": "sifty-url-classify-before-read-2026-10",
+   "firstSeen": "2026-10-16T04:15:58+08:00"
+  },
+  {
+   "id": "361a22daaa",
+   "title": "同权重不同板：MacBook 与 Jetson 上 7.2% 数学题终答不一致",
+   "summary": "Kernwerk 用同一 Qwen2.5-1.5B 文件对比 M1 与 Jetson Orin：fp16 下 GSM8K 终答差 7.2%、分数几乎不动；TensorRT-LLM int8 路径半数数学答变、分数掉约 11 点。浮点非结合律导致近并列 token 翻转；并引用 FloatDoor 等「一平台过审、另一平台作恶」攻击。结论：边缘部署必须在目标板上测、证明实际跑的是哪份引擎。",
+   "links": [
+    "https://kernwerk.org/blog/same-model-different-board/",
+    "https://news.ycombinator.com/item?id=50109547"
+   ],
+   "topic": "kernwerk-same-weights-different-board-2026-10",
+   "firstSeen": "2026-10-16T04:15:58+08:00"
+  },
+  {
+   "id": "895be6a177",
+   "title": "Agent Baseline 开源参考架构：Secure Software Factory",
+   "summary": "Docker / Keycard / Socket 等作者起草：AI 软件工厂里 Agent 提方案、策略授权、基础设施强制执行。四道边界（沙箱、网络、供应链、身份）+ 三级自主（人编排 / 工作流编排 / Agent 编排）。从「九秒删库」等真故障反推缺了哪道控制，开放征求意见。适合做成 Idea Lab 新点子：Agent 权限围栏清单。",
+   "links": [
+    "https://agentbaseline.org/reference-architecture",
+    "https://news.ycombinator.com/item?id=50109203"
+   ],
+   "topic": "agentbaseline-secure-software-factory-2026-10",
+   "firstSeen": "2026-10-16T04:15:58+08:00"
+  },
+  {
+   "id": "74e88356a9",
+   "title": "Actual Computer：把 DGX Station 做成部门级私有 Agent 工厂",
+   "summary": "e 引擎在单台 DGX Station 上跑 Nemotron 3.5 Super VL：单流约 455 tok/s，128 流合计超 8000 tok/s；经 api.actual.inc 机密计算中继，团队可把子 Agent 群从托管 Luna 迁到自有站。对比按 token 计费，强调隐私与可预期成本。",
+   "links": [
+    "https://actual.inc/company/blog/case-study-dgx-station-and-nemotron-3-5-super-vl",
+    "https://news.ycombinator.com/item?id=50109450"
+   ],
+   "topic": "actual-computer-dgx-nemotron-swarm-2026-10",
+   "firstSeen": "2026-10-16T04:15:58+08:00"
+  },
+  {
+   "id": "f39bae3a0c",
+   "title": "ElevenLabs 托管 MCP：在 Claude 里一键出声/图/视频进 ElevenCreative",
+   "summary": "OAuth 连接后，Claude/Cursor 等可直接生成语音、配乐、图片与短视频，产物落入 ElevenCreative Studio；创意圈在传「先出静帧再 Claude Motion 做动画」工作流。一条连接器覆盖 50+ 模型，贵视频可先 estimate_only。适合做成 Idea Lab 新点子：短视频一条龙 MCP 模板。",
+   "links": [
+    "https://elevenlabs.io/blog/introducing-voice-music-image-and-video-generation-in-the-elevenlabs-mcp",
+    "https://x.com/i/trending/2110822119453983024"
+   ],
+   "topic": "elevenlabs-mcp-creative-media-2026-10",
+   "firstSeen": "2026-10-16T04:15:58+08:00"
   }
  ],
- "lastChecked": "2026-10-16T04:02:15+08:00"
+ "lastChecked": "2026-10-16T04:15:58+08:00"
 }
