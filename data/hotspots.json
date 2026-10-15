@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T03:44:11+08:00",
+ "lastUpdated": "2026-10-16T04:02:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9638,7 +9638,61 @@
    ],
    "topic": "anthropic-scion-mononoke-followup-2026-10",
    "firstSeen": "2026-10-16T03:44:11+08:00"
+  },
+  {
+   "id": "67e0f1c2a8",
+   "title": "Anchor Action Index：共用执行记忆，计算机使用 Agent 成本最高可降约 100 倍",
+   "summary": "Anchor 发布 Action Index：把已成功的网页工作流存成可重放的确定性代码，模型只在页面变化处介入。Online-Mind2Web 300 题上，小模型+索引成功率 93.3%、均摊约 $0.016/题，对标前沿模型约 $1.57；另测显示 P90 token/步数/耗时分别降约 74%/75%/61%。已对免费档开放，经 MCP/REST 可用。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://www.globenewswire.com/news-release/2026/10/15/3382035/0/en/anchor-launches-action-index-cutting-computer-use-agent-token-costs-by-100x.html",
+    "https://docs.anchorbrowser.io/advanced/mcp"
+   ],
+   "topic": "anchor-action-index-2026-10",
+   "firstSeen": "2026-10-16T04:02:15+08:00"
+  },
+  {
+   "id": "ba64bf8c63",
+   "title": "Proof 上线 x401：给 Agent 可验证的法律身份与交易授权",
+   "summary": "Proof 发布开放协议 x401 与 Agent 身份钱包：网站可要求 Agent 证明代表谁、用户在本机批准了哪些条款；支持 Muse/ChatGPT/Grok/Claude 等 MCP 助手，可与 x402 支付协议配合。回应 Amazon 封禁 Muse 暴露的「有凭证≠有授权」缺口，面向转账、支付指令等高后果动作。",
+   "links": [
+    "https://www.globenewswire.com/news-release/2026/10/15/3381718/0/en/proof-launches-x401-giving-ai-agents-a-way-to-prove-who-they-represent-and-what-they-re-authorized-to-do.html",
+    "https://proof.com/x401"
+   ],
+   "topic": "proof-x401-agent-identity-2026-10",
+   "firstSeen": "2026-10-16T04:02:15+08:00"
+  },
+  {
+   "id": "8dca34dffc",
+   "title": "Zenzap 完成 4400 万美元融资并推出团队协作式 AI Agent",
+   "summary": "Bessemer 与 Lightspeed 联合领投；产品把共享 Agent 放进团队聊天里，跨业务工具自动推进工作流，号称日活超万团队。强调从「单人私聊 AI」转向多人+多 Agent 协作，并带权限与审批控制。",
+   "links": [
+    "https://www.zenzap.co/blog-posts/ai-is-going-multiplayer-zenzap-announces-44-million-in-funding-and-launches-collaborative-ai-agents/"
+   ],
+   "topic": "zenzap-44m-collaborative-agents-2026-10",
+   "firstSeen": "2026-10-16T04:02:15+08:00"
+  },
+  {
+   "id": "32a34d9916",
+   "title": "公钥索引被投毒：南公园「剧集」实为 887MB 内存加载窃密木马",
+   "summary": "有人把 South Park 剧集名做成 .exe 上架公网种子（两千多做种），Sonarr 自动抓取后卡在导入。逆向显示 118KB 壳 + ChaCha20 叠加载荷，内存反射加载后偷浏览器/钱包/SSH/云凭证等；用 YouTube 频道与 Gist 做死信箱。*arr 用户应在 qBittorrent 排除 exe 并及时 blocklist。",
+   "links": [
+    "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+    "https://news.ycombinator.com/item?id=50109050"
+   ],
+   "topic": "sonarr-torrent-stealer-exe-2026-10",
+   "firstSeen": "2026-10-16T04:02:15+08:00"
+  },
+  {
+   "id": "132456f37b",
+   "title": "Gergely Orosz：AI 冷邮件正在毁掉冷启动信任",
+   "summary": "滑铁卢学生来信求建议，对方认真回复后收到明显模板化的 AI 回信，回头看原信也很像 AI 写的。帖子强调这种「双端 AI」会污染大学域名冷邮件，加速「死互联网」；相关讨论已冲上 X 趋势。",
+   "links": [
+    "https://x.com/GergelyOrosz/status/2110766384426922152",
+    "https://x.com/i/trending/2110818139323637993"
+   ],
+   "topic": "orosz-ai-cold-email-trust-2026-10",
+   "firstSeen": "2026-10-16T04:02:15+08:00"
   }
  ],
- "lastChecked": "2026-10-16T03:44:11+08:00"
+ "lastChecked": "2026-10-16T04:02:15+08:00"
 }
