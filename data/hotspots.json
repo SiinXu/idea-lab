@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T08:30:55+08:00",
+ "lastUpdated": "2026-10-15T08:46:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6544,7 +6544,28 @@
    ],
    "topic": "openai-uk-2-3m-pay-2026-10",
    "firstSeen": "2026-10-15T08:30:55+08:00"
+  },
+  {
+   "id": "fa18a97655",
+   "title": "Anthropic 上市前衍生品估值跌破 2 万亿美元",
+   "summary": "Liquid 上 ANTH 永续合约一个月回撤逾 10%，隐含估值掉到约 1.95 万亿；机构更仔细看亏损与算力承诺后，对 2 万亿定价更谨慎。",
+   "links": [
+    "https://x.com/i/trending/2110510096190980215",
+    "https://www.liquid.trade/markets/anthropic"
+   ],
+   "topic": "anthropic-preipo-below-2t-2026-10",
+   "firstSeen": "2026-10-15T08:46:22+08:00"
+  },
+  {
+   "id": "d366baf9ad",
+   "title": "让 AI「随便选 1–10」：多数模型死磕 7",
+   "summary": "测试里 ChatGPT/Gemini 等常把 7 当成随机数，最高可到九成；训练数据里人类偏好被模型放大，Claude 等差异更大。",
+   "links": [
+    "https://x.com/i/trending/2110506665359643098"
+   ],
+   "topic": "ai-random-number-seven-bias-2026-10",
+   "firstSeen": "2026-10-15T08:46:22+08:00"
   }
  ],
- "lastChecked": "2026-10-15T08:30:55+08:00"
+ "lastChecked": "2026-10-15T08:46:22+08:00"
 }
