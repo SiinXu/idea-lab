@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T03:31:29+08:00",
+ "lastUpdated": "2026-10-16T03:44:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9575,7 +9575,70 @@
    ],
    "topic": "reservoir-immune-cell-bank-2026-10",
    "firstSeen": "2026-10-16T03:31:29+08:00"
+  },
+  {
+   "id": "9b4c462f3e",
+   "title": "微软完成 MAI-Base-2 预训练：2.8 万亿参数 MoE",
+   "summary": "Mustafa Suleyman 宣布自家最大底模预训练收官：总参 2.8T、每 token 约 80B 活跃，训在约 5 万亿 token 上；代码/问答/STEM 表现对标竞品，Muon 优化器与自有数据管道是效率关键，后训练与企业授权还在路上，MAI-Base-3 已开工。",
+   "links": [
+    "https://x.com/i/trending/2110798757025702396"
+   ],
+   "topic": "microsoft-mai-base-2-2026-10",
+   "firstSeen": "2026-10-16T03:44:11+08:00"
+  },
+  {
+   "id": "c2d2ccd43b",
+   "title": "用户联署呼吁 OpenAI 公开 GPT-4o 权重存档",
+   "summary": "面向 OpenAI 的公开信要求在 GPT-4o 退役后以合适许可证放出权重，便于研究与长期保存；API 快照计划 2027-01-14 关停。倡议计划登记截止后存档到 Zenodo，社区标签 #keep4o 持续发酵。",
+   "links": [
+    "https://x.com/i/trending/2110778183050236169"
+   ],
+   "topic": "gpt4o-weights-preservation-letter-2026-10",
+   "firstSeen": "2026-10-16T03:44:11+08:00"
+  },
+  {
+   "id": "7c9e50392c",
+   "title": "Free tier graveyard 2026：21 个免费档已砍，10 个还在倒计时",
+   "summary": "Time to Bail 梳理 2025 以来免费档结束或缩水的产品，并标出仍可行动的窗口（如 Prisma Accelerate、Google Custom Search JSON API、Deno Deploy→Cloudflare、Pipedream Workflows）。对依赖免费额度的 OPC/联盟站很实用，附官方出处与迁移选项。",
+   "links": [
+    "https://timetobail.com/research/free-tier-graveyard-2026",
+    "https://news.ycombinator.com/item?id=50108872"
+   ],
+   "topic": "free-tier-graveyard-2026-10",
+   "firstSeen": "2026-10-16T03:44:11+08:00"
+  },
+  {
+   "id": "0f6a4ae58f",
+   "title": "Code Is a Commodity Now：写代码的成本在通缩",
+   "summary": "从乌克兰/美国招聘数据到 Google 新代码 75% AI 生成，论证「能写出来」不再稀缺；服务公司要么走量要么转向判断/分发/担责与品味。对 Idea Lab 的启示：卖应用不如卖决策结果与分发，验证与签字会成为新溢价层。",
+   "links": [
+    "https://efp.asia/blog/2026/10/15/code-is-a-commodity-now/",
+    "https://news.ycombinator.com/item?id=50108850"
+   ],
+   "topic": "code-is-a-commodity-2026-10",
+   "firstSeen": "2026-10-16T03:44:11+08:00"
+  },
+  {
+   "id": "f0f6794572",
+   "title": "荷兰警方应美方请求扣押 Autistici/Inventati 服务器",
+   "summary": "阿姆斯特丹机房服务器被扣并镜像拷贝，背景是美财政部 8 月将意大利隐私托管集体 A/I 列为全球恐怖分子特别指定实体，.org 域名与支付通道已断、约 1.6 万邮箱受影响。案例显示制裁经域名与跨境司法协助可波及欧洲基础设施。",
+   "links": [
+    "https://circleid.com/posts/dutch-police-seize-italian-internet-providers-server-at-us-request"
+   ],
+   "topic": "autistici-dutch-server-seize-2026-10",
+   "firstSeen": "2026-10-16T03:44:11+08:00"
+  },
+  {
+   "id": "2af8241101",
+   "title": "Scion 抄袭争议续篇：Mononoke 作者再答疑",
+   "summary": "sunshowers 第二篇回应社区对「Anthropic Scion 派生数据设计照搬 Meta Mononoke」的追问；HN 热议仍在升温。关乎开源/工业源码控制在 Agent 日合并数万次时代的署名与可复用边界。",
+   "links": [
+    "https://sunshowers.io/posts/anthropic-mononoke-2/",
+    "https://news.ycombinator.com/item?id=50105648"
+   ],
+   "topic": "anthropic-scion-mononoke-followup-2026-10",
+   "firstSeen": "2026-10-16T03:44:11+08:00"
   }
  ],
- "lastChecked": "2026-10-16T03:31:29+08:00"
+ "lastChecked": "2026-10-16T03:44:11+08:00"
 }
