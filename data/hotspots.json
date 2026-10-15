@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T17:28:23+08:00",
+ "lastUpdated": "2026-10-15T17:46:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7688,7 +7688,52 @@
    ],
    "topic": "eu-chat-control-palantir-2026-10",
    "firstSeen": "2026-10-15T17:28:23+08:00"
+  },
+  {
+   "id": "4c582499e4",
+   "title": "Enroute：按现代数据库思路重做「对象存储上的 Git」",
+   "summary": "Enroute 开源可编程 Git 基建，用共识账本 + 无存储分层，单仓实测峰值超 7600 次/秒并发 push；批评 Continuity 式 S3 WAL 仍受单写与整仓落盘限制。面向 Agent 高频合入与产品内嵌版本控制，可对照 Anthropic Scion 一起看。",
+   "links": [
+    "https://enroute.sh/blog/everyone-is-doing-git-on-s3-wrong",
+    "https://github.com/enroute-sh/enroute",
+    "https://news.ycombinator.com/item?id=50101130"
+   ],
+   "topic": "enroute-git-object-storage-2026-10",
+   "firstSeen": "2026-10-15T17:46:38+08:00"
+  },
+  {
+   "id": "c738e83e84",
+   "title": "Engram：知识参数搬出 GPU，DeepSeek/Qwen 都在用",
+   "summary": "three.dev 梳理 Engram：把事实知识放进可驻主机内存/SSD 的 n-gram 哈希表，推理参数仍占 HBM。DeepSeek V4.1-Flash 与 Qwen3.8-Flash-Next 已落地，约四分之一参数不再吃 GPU；推理成本与自托管规划要拆成「带宽」和「容量」两本账。",
+   "links": [
+    "https://three.dev/blog/knowledge-just-moved-out-of-the-gpu",
+    "https://news.ycombinator.com/item?id=50101303"
+   ],
+   "topic": "engram-knowledge-out-of-gpu-2026-10",
+   "firstSeen": "2026-10-15T17:46:38+08:00"
+  },
+  {
+   "id": "74b9644c8a",
+   "title": "Automattic 申请 .php 顶级域名：安全圈担心成钓鱼重灾区",
+   "summary": "WordPress 母公司经 Knock Knock WHOIS There 在 ICANN 2026 轮次把 .php 列为 .vibe 的替换字符串；使命写给个人主页与 PHP/WordPress 开发者。安全研究者比照 .zip/.mov，警告文件扩展名型 TLD 易被冒充脚本下载，企业防火墙或直接封禁。",
+   "links": [
+    "https://phpnews.net/php-tld-automattic",
+    "https://news.ycombinator.com/item?id=50101314"
+   ],
+   "topic": "automattic-php-tld-2026-10",
+   "firstSeen": "2026-10-15T17:46:38+08:00"
+  },
+  {
+   "id": "460023e079",
+   "title": "Furifont：给汉字自动叠假名的日文字体",
+   "summary": "Anthony Fu 系 Furifont 让日语文本在字体层直接显示振り仮名，省去手动注音；适合学日语、做多语言 UI 与内容站的人顺手试。",
+   "links": [
+    "https://furifont.antfu.me/",
+    "https://news.ycombinator.com/item?id=50100994"
+   ],
+   "topic": "furifont-furigana-2026-10",
+   "firstSeen": "2026-10-15T17:46:38+08:00"
   }
  ],
- "lastChecked": "2026-10-15T17:28:23+08:00"
+ "lastChecked": "2026-10-15T17:46:38+08:00"
 }
