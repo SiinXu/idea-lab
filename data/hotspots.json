@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T18:23:40+08:00",
+ "lastUpdated": "2026-10-15T19:01:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -7800,7 +7800,51 @@
    ],
    "topic": "anthropic-arr-76b-tickertrends-2026-10",
    "firstSeen": "2026-10-15T18:23:40+08:00"
+  },
+  {
+   "id": "3ce9f7ea5d",
+   "title": "Citizen Lab：AdFection——定向广告可零点击投送商业间谍软件",
+   "summary": "多伦多大学 Citizen Lab 2026-10-15 报告首次公开证实：以色列广告公司 Discover-Tech 的 Controlium 平台可在广告一渲染就指纹、去匿名并自动感染设备；Candiru（现 Integrity Labs）借此攻击半岛电视台至少 45 台设备。广告曾出现在近 20 万站/App，Google、IAB Europe 等已切断其接入。",
+   "links": [
+    "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+    "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/"
+   ],
+   "topic": "adfection-citizenlab-2026-10",
+   "firstSeen": "2026-10-15T19:01:42+08:00"
+  },
+  {
+   "id": "f4c9d9c86e",
+   "title": "Topview 开源本地 3D Builder：先搭可编辑场景再生成 AI 视频",
+   "summary": "TopviewAI 开源 topview-3d-builder（Apache-2.0）：本地 CLI + Agent Skill，用自然语言摆角色/道具/机位并渲染参考图，再交给任意视频模型；内置 4 角色、121 姿势。对应产品页场景搭建约 $0.10，意在减少「提示词抽奖」重跑。",
+   "links": [
+    "https://github.com/topviewai/topview-3d-builder",
+    "https://dev.to/topviewai/from-one-prompt-to-an-editable-3d-scene-we-open-sourced-a-local-first-agent-workflow-npa",
+    "https://x.com/i/trending/2110681388064125411"
+   ],
+   "topic": "topview-3d-builder-oss-2026-10",
+   "firstSeen": "2026-10-15T19:01:42+08:00"
+  },
+  {
+   "id": "1cc6f1389e",
+   "title": "本想下 ISO，却给自家路由器写了内核提权：EAP770 关加速才不坏包",
+   "summary": "作者 TP-Link EAP770 v1 Wi-Fi 桥接会改坏 TCP 载荷却重算校验和；需 root 关 SFE/PPE 两个 sysfs，官方 shell 无权限且已 EOL。他用 CVE-2022-0185 + pipe 链写持久提权，约 17 小时与 Opus 迭代后修好下载损坏；HN 热议。",
+   "links": [
+    "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+    "https://news.ycombinator.com/item?id=50070625"
+   ],
+   "topic": "dfb-eap770-kernel-exploit-2026-10",
+   "firstSeen": "2026-10-15T19:01:42+08:00"
+  },
+  {
+   "id": "c4bee0d166",
+   "title": "Sipeed MaixStation：口袋级本地 AI 盒，对标 DGX Spark",
+   "summary": "矽速发布 MaixStation：AX8860P（256 TOPS FP4）、最高 128GB LPDDR5X、约 40W USB-C，体积约 Mac mini 一半；预装 vLLM/Ollama 与 Claude Code 等 Agent 兼容 API，宣称同带宽下解码快过 DGX Spark。Kickstarter 计划 2026 年底，$30 意向金可退。",
+   "links": [
+    "https://sipeed.com/maixstation/"
+   ],
+   "topic": "sipeed-maixstation-2026-10",
+   "firstSeen": "2026-10-15T19:01:42+08:00"
   }
  ],
- "lastChecked": "2026-10-15T18:23:40+08:00"
+ "lastChecked": "2026-10-15T19:01:42+08:00"
 }
