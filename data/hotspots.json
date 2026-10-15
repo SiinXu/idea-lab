@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T01:13:50+08:00",
+ "lastUpdated": "2026-10-16T01:30:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9071,7 +9071,75 @@
    ],
    "topic": "agent-email-domains-list-2026-10",
    "firstSeen": "2026-10-16T01:13:50+08:00"
+  },
+  {
+   "id": "00c55a2bf6",
+   "title": "Liquid AI 发布 d1-ultra：自称最强决策模型",
+   "summary": "多模态决策模型：一次前向直接输出各类问题概率（是非/多选/打分），不生成 token；宣称在 Artificial Analysis Decision Index 上领先至少 8 分，API 仅按输入计费 $0.042/百万 token。适合做质检、理赔、风控等结构化判断。",
+   "links": [
+    "https://www.liquid.ai/blog/d1-ultra",
+    "https://news.ycombinator.com/item?id=50106907"
+   ],
+   "topic": "liquid-d1-ultra-2026-10",
+   "firstSeen": "2026-10-16T01:30:41+08:00"
+  },
+  {
+   "id": "98e6a11f87",
+   "title": "Apple MLX：Mac Studio 集群本地跑 Muse Spark Open",
+   "summary": "配合今日 Muse Spark Open，Apple 公开用 MLX + Thunderbolt RDMA（jaccl）在多台 M5 Ultra Mac Studio 上做流水线/张量并行；四机解码约 36 tok/s，并示范本地 OpenCode agent 接 mlx_lm.server。",
+   "links": [
+    "https://machinelearning.apple.com/research/mlx-distributed-inference",
+    "https://news.ycombinator.com/item?id=50106858"
+   ],
+   "topic": "apple-mlx-distributed-muse-2026-10",
+   "firstSeen": "2026-10-16T01:30:41+08:00"
+  },
+  {
+   "id": "03defcb928",
+   "title": "Ledger Agent Intent：AI Agent 提案、硬件钱包终审",
+   "summary": "Ledger Op3n 发布：Agent 可拟交易/调仓，私钥仍在设备上，用户在 Nano Gen5/Flex/Stax 等上异步批准；已对接 OpenClaw 等，目前 beta，建议先用小额账户。与 Amex Agent Intent 同属「意图鉴权」赛道。",
+   "links": [
+    "https://www.ledger.com/blog-introducing-ledger-agent-intent",
+    "https://developers.ledger.com/docs/ai-tools/agent-intent",
+    "https://x.com/i/trending/2110781583531606136"
+   ],
+   "topic": "ledger-agent-intent-2026-10",
+   "firstSeen": "2026-10-16T01:30:41+08:00"
+  },
+  {
+   "id": "4d9c276022",
+   "title": "Ramp 推出 Glass：让公司知识复利的 AI 工作区",
+   "summary": "Ramp 新产品 Glass 定位「AI 让员工更快，Glass 让整家公司更聪明」的企业知识工作区，目前早期申请；与同日 Ramp 600 亿美元估值融资新闻形成产品侧呼应。",
+   "links": [
+    "https://ramp.com/glass",
+    "https://news.ycombinator.com/item?id=50106934"
+   ],
+   "topic": "ramp-glass-ai-workspace-2026-10",
+   "firstSeen": "2026-10-16T01:30:41+08:00"
+  },
+  {
+   "id": "e6dba2d6af",
+   "title": "SEGA 下架《幕府将军2》重制版：AI 画面与性能遭差评轰炸",
+   "summary": "Total War: Shogun 2 Complete Edition 因 bug、性能与疑似未披露 AI 升/生成美术在 Steam 获「压倒性差评」；SEGA/CA 暂时下架并恢复原版销售，现有买家仍可玩。游戏业「AI 素材未标注」争议又一例。",
+   "links": [
+    "https://www.gamespot.com/articles/sega-pulls-total-war-shogun-2-remaster-after-backlash-over-ai-upscaled-graphics/",
+    "https://www.polygon.com/total-war-shogun-2-complete-edition-removed-steam/",
+    "https://news.ycombinator.com/item?id=50106578"
+   ],
+   "topic": "sega-shogun2-remaster-ai-pull-2026-10",
+   "firstSeen": "2026-10-16T01:30:41+08:00"
+  },
+  {
+   "id": "c7f80260a3",
+   "title": "vx：面向编码 Agent 的自托管任务编排（Turbo/Nx 替代）",
+   "summary": "开源 MIT 任务图运行器：正确缓存、无 daemon、可填 15 个插件缝；自带 agent skill（npx skills add vznjs/vx），支持 REAPI 远程缓存/执行与 `vx why` 解释为何重跑。适合 monorepo + coding agent 工作流。",
+   "links": [
+    "https://vznjs.github.io/vx/",
+    "https://news.ycombinator.com/item?id=50106776"
+   ],
+   "topic": "vx-agent-task-runner-2026-10",
+   "firstSeen": "2026-10-16T01:30:41+08:00"
   }
  ],
- "lastChecked": "2026-10-16T01:13:50+08:00"
+ "lastChecked": "2026-10-16T01:30:41+08:00"
 }
