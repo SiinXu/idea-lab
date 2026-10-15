@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T10:09:25+08:00",
+ "lastUpdated": "2026-10-15T10:30:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6810,7 +6810,60 @@
    ],
    "topic": "chollet-string-theory-ai-hallucination-grounding",
    "firstSeen": "2026-10-15T10:09:25+08:00"
+  },
+  {
+   "id": "c3dffb9f50",
+   "title": "JetBrains Air 进 IDE：EAP 开闸，编排多 Agent 成一等公民",
+   "summary": "JetBrains 发布 Air 插件 / 2026.3 EAP 内置体验：把 Codex、Copilot、Claude、Junie 等已有 Agent 拉进 IDE，双击 Ctrl 开会话，支持并行会话、临时 worktree 隔离与云端跑长任务；强调自己不是模型供应商，无 Agent 时数据不出本机。附带免费 Junie Lite 试用。",
+   "links": [
+    "https://blog.jetbrains.com/ai/2026/10/air-in-ides-eap/"
+   ],
+   "topic": "jetbrains-air-ide-eap",
+   "firstSeen": "2026-10-15T10:30:55+08:00"
+  },
+  {
+   "id": "01ba6b0c7f",
+   "title": "阶跃星辰 Step 5 Preview：600B MoE 旗舰开权重，主打长程 Agent",
+   "summary": "StepFun 放出 Step 5 Preview：总参 600B、激活 27B 的稀疏 MoE，上下文最高 1M，支持图文；定位软件工程与专业知识工作（金融偏强），可经 vLLM/SGLang 以 OpenAI 兼容 API 部署。Hugging Face 权重已上线，HN 刚冒头。",
+   "links": [
+    "https://huggingface.co/stepfun-ai/Step-5-Preview",
+    "https://www.stepfun.com/step-5-preview"
+   ],
+   "topic": "stepfun-step-5-preview",
+   "firstSeen": "2026-10-15T10:30:55+08:00"
+  },
+  {
+   "id": "e3cf82964c",
+   "title": "Thinking Machines 上线 Dimuon：专为 LoRA 微调的新优化器",
+   "summary": "Tinker 文档新增自研优化器 Dimuon，面向 LoRA 微调；部分 SFT 实验里比 AdamW 更少步数达到更低 loss，学习率通常要大 10–100 倍。官方建议重度监督微调阶段优先换 Dimuon，纯 RL 则两者相当。",
+   "links": [
+    "https://tinker-docs.thinkingmachines.ai/tinker/optimizers/"
+   ],
+   "topic": "thinking-machines-dimuon",
+   "firstSeen": "2026-10-15T10:30:55+08:00"
+  },
+  {
+   "id": "a97d3aff4c",
+   "title": "lgit：用神经网络当「硬盘」的有损 Git 实验",
+   "summary": "Show HN 项目把版本库存储换成 MLP：commit 时训练背字节，checkout 时推理还原；小文件可 100% 记牢，欠拟合时会把 range 幻觉成 rance。模型体积往往远大于源文件，作者自称「史上最差 VCS」，却认真做成了可跑工具。",
+   "links": [
+    "https://nicobrenner.github.io/lossy-git/",
+    "https://github.com/nicobrenner/lossy-git"
+   ],
+   "topic": "lgit-lossy-git",
+   "firstSeen": "2026-10-15T10:30:55+08:00"
+  },
+  {
+   "id": "8284d36f3d",
+   "title": "黄仁勋：若客户做不安全 AI，英伟达会切断供货",
+   "summary": "在伦敦接受采访时，Jensen Huang 称若客户开发不安全 AI，理论上会停供芯片，但会先沟通；同时认为当前安全焦虑被夸大，主张用 AI 加速监控与遏制技术，并否认泡沫论——算力供需短期仍紧张。",
+   "links": [
+    "https://www.businesstimes.com.sg/companies-markets/nvidia-ceo-says-he-would-cut-buyers-who-build-unsafe-ai-bubble-fears-overdone",
+    "https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai"
+   ],
+   "topic": "nvidia-huang-cut-off-unsafe-ai",
+   "firstSeen": "2026-10-15T10:30:55+08:00"
   }
  ],
- "lastChecked": "2026-10-15T10:09:25+08:00"
+ "lastChecked": "2026-10-15T10:30:55+08:00"
 }
