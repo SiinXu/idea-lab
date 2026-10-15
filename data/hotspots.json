@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T07:54:17+08:00",
+ "lastUpdated": "2026-10-15T08:08:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -6463,7 +6463,17 @@
    ],
    "topic": "oss-closed-pr-open-remix-2026-10",
    "firstSeen": "2026-10-15T07:54:17+08:00"
+  },
+  {
+   "id": "68853abe5a",
+   "title": "荒岛二选一：自定义 LLM 还是无限 YouTube？",
+   "summary": "X 热议：一边是可交互的建议、教学和定制故事，一边是现成视频陪伴；有人把 LLM 当长期伴侣，也有人提醒它没有真意识、对现实世界适应有限。",
+   "links": [
+    "https://x.com/i/trending/2110399514339311776"
+   ],
+   "topic": "desert-island-llm-vs-youtube",
+   "firstSeen": "2026-10-15T08:08:42+08:00"
   }
  ],
- "lastChecked": "2026-10-15T07:54:17+08:00"
+ "lastChecked": "2026-10-15T08:08:42+08:00"
 }
