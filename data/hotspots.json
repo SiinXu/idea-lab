@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T04:15:58+08:00",
+ "lastUpdated": "2026-10-16T04:29:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -9758,7 +9758,51 @@
    ],
    "topic": "elevenlabs-mcp-creative-media-2026-10",
    "firstSeen": "2026-10-16T04:15:58+08:00"
+  },
+  {
+   "id": "a7ba675452",
+   "title": "Apple 与 Meta 联手：Mac Studio 集群本地跑 Muse Spark Open",
+   "summary": "CNBC：两家宿敌宣布合作，让 8160 亿参数开权重 Muse Spark Open 在高端 Mac Studio（M5 Ultra、建议 256GB+，可组 2–4 台）上本地跑代码与 agent；配合 Apple MLX 分布式推理与 Hugging Face 权重。单台入门约 $10,799，强调隐私与省云费。适合做成 Idea Lab 新点子：本地开权重 Mac 集群装机清单。",
+   "links": [
+    "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
+    "https://news.ycombinator.com/item?id=50109627"
+   ],
+   "topic": "apple-meta-muse-mac-studio-2026-10",
+   "firstSeen": "2026-10-16T04:29:52+08:00"
+  },
+  {
+   "id": "e85bf76b99",
+   "title": "PostHog 公开 MCP 排行榜：谁在真正调用工具",
+   "summary": "PostHog 用自家 MCP 分析数据做公开榜：上周 Anthropic 占已知模型调用约 64.6%、OpenAI 31.8%；单模型 Claude Opus 5.5 约 47%，Claude Code 是第一 harness。还拆意图、坏参数率与错误类型。适合做成 Idea Lab 新点子：给任意 MCP 服务挂「谁在用、为什么用」看板。",
+   "links": [
+    "https://posthog.com/mcp/leaderboard",
+    "https://news.ycombinator.com/item?id=50109689"
+   ],
+   "topic": "posthog-mcp-leaderboard-2026-10",
+   "firstSeen": "2026-10-16T04:29:52+08:00"
+  },
+  {
+   "id": "4dc28e3dc0",
+   "title": "Taskriz：Agent 给人发原生小 UI，用 Smalltalk 写界面",
+   "summary": "Agent 通过 MCP/API 给人发发票审批等微界面，在对方手机沙箱里跑 Smalltalk Morph，结构化回复流回 Agent；支持配对码、webhook、目录式主动触发。对比纯聊天确认，人机交接更短。适合做成 Idea Lab 新点子：Agent 人机确认 UI 模板库。",
+   "links": [
+    "https://www.taskriz.com/developers/",
+    "https://news.ycombinator.com/item?id=50109748"
+   ],
+   "topic": "taskriz-agent-native-ui-2026-10",
+   "firstSeen": "2026-10-16T04:29:52+08:00"
+  },
+  {
+   "id": "40d45d0671",
+   "title": "陶哲轩博客客座文：我们到底为什么还在做科研",
+   "summary": "物理学家 Rikab Gambhir 在陶哲轩博客发讽刺长文：嘲 OpenAI 式「海量或真或假事实库 + 外包校验」把理解当成低效，把 Library of Babel 当成功指标；呼吁记住当初做科学的理由。AI 数学营销争议下的文化热点。",
+   "links": [
+    "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+    "https://news.ycombinator.com/item?id=50109707"
+   ],
+   "topic": "tao-gambhir-why-doing-science-2026-10",
+   "firstSeen": "2026-10-16T04:29:52+08:00"
   }
  ],
- "lastChecked": "2026-10-16T04:15:58+08:00"
+ "lastChecked": "2026-10-16T04:29:52+08:00"
 }
