@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-15T20:25:11+08:00",
+ "lastUpdated": "2026-10-15T20:44:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -8133,7 +8133,69 @@
    ],
    "topic": "your-c-not-standard-c-2026-10",
    "firstSeen": "2026-10-15T20:25:11+08:00"
+  },
+  {
+   "id": "1d72630bae",
+   "title": "GhostAction 再起：约 1900 个 GitHub 账号被控，波及超 3 万仓库",
+   "summary": "The Hacker News / GitGuardian：攻击者用失窃凭据注入假「Security Audit」工作流，窃取 Actions 密钥并扫全库 git 历史中的云/AI 凭证；10 月 8–9 日高峰后 GitHub 开始阻断恶意工作流。",
+   "links": [
+    "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+    "https://blog.gitguardian.com/ghostaction-github-actions-supply-chain-attack-returns/"
+   ],
+   "topic": "ghostaction-30k-repos-2026-10",
+   "firstSeen": "2026-10-15T20:44:19+08:00"
+  },
+  {
+   "id": "48d99b9ab8",
+   "title": "台积电财报会：评估德州扩产，确认谈 Terafab 但坚持由台积电运营",
+   "summary": "魏哲家在 Q3 财报会上称已派人评估德州产能，并确认与马斯克侧 Terafab 有讨论，但强调任何涉及台积电的晶圆厂必须由台积电运营；与马斯克「自家建运营、台积电可租用」表述形成张力。",
+   "links": [
+    "https://www.trendforce.com/news/2026/10/15/news-tsmc-sends-team-to-assess-texas-fab-expansion-confirms-terafab-talks-but-insists-on-operating-control/"
+   ],
+   "topic": "tsmc-terafab-texas-control-2026-10",
+   "firstSeen": "2026-10-15T20:44:19+08:00"
+  },
+  {
+   "id": "c289dc3d99",
+   "title": "ruflo：多 Agent 蜂群 Harness，登上 GitHub 日榜",
+   "summary": "ruvnet/ruflo 宣称「最初的 agent harness」：多玩家蜂群、自适应记忆、联邦与 RAG，并原生对接 Claude Code / Codex 等；今日热榜约 7.5 万星。",
+   "links": [
+    "https://github.com/ruvnet/ruflo"
+   ],
+   "topic": "ruflo-agent-harness-2026-10",
+   "firstSeen": "2026-10-15T20:44:19+08:00"
+  },
+  {
+   "id": "5e90e23ef6",
+   "title": "Answer me with HTML：让 Agent 用一页可读 HTML 回答复杂问题",
+   "summary": "GitHub 技能包：讨厌 Agent 长墙文字，于是让它输出可打开的一页 HTML；中英双语说明，适合展示结构、对比和交互说明。",
+   "links": [
+    "https://github.com/QingYunA/answer-me-with-html"
+   ],
+   "topic": "answer-html-skill-2026-10",
+   "firstSeen": "2026-10-15T20:44:19+08:00"
+  },
+  {
+   "id": "b24b6743eb",
+   "title": "OpenCode 限时免费开放 DeepSeek V4.1 Flash（约 200K 上下文）",
+   "summary": "OpenCode 今日让 DeepSeek V4.1 Flash 免费可调；免费档上下文约 200K（付费档可达约 1M），社区反馈生成速度波动较大。",
+   "links": [
+    "https://www.ithome.com/0/1013/475.htm",
+    "http://models.opencode.ai/models/deepseek/deepseek-v4.1-flash/"
+   ],
+   "topic": "opencode-deepseek-v41-flash-free-2026-10",
+   "firstSeen": "2026-10-15T20:44:19+08:00"
+  },
+  {
+   "id": "7540942c69",
+   "title": "创始人吐槽：同时管十个 Agent，脑子被「炸糊」",
+   "summary": "多位 AI 重度用户说整天给蜂群派活、切上下文，反而比没用 Agent 更累；有人改成定时例程让 Agent 自己跑，才把注意力抢回来。",
+   "links": [
+    "https://x.com/i/trending/2110677357535375760"
+   ],
+   "topic": "ai-agent-brain-fry-2026-10",
+   "firstSeen": "2026-10-15T20:44:19+08:00"
   }
  ],
- "lastChecked": "2026-10-15T20:25:11+08:00"
+ "lastChecked": "2026-10-15T20:44:19+08:00"
 }
