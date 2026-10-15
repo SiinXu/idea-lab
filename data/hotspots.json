@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T07:13:16+08:00",
+ "lastUpdated": "2026-10-16T07:25:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -10361,7 +10361,67 @@
    ],
    "topic": "respan-span-02-deadline-2026-10",
    "firstSeen": "2026-10-16T07:13:16+08:00"
+  },
+  {
+   "id": "1ee8082c29",
+   "title": "OpenTodo：自托管待办，可接 MCP / 自选模型助手",
+   "summary": "开源 Todoist 替代：单容器自托管、离线可用，可选 Anthropic/OpenAI/Gemini 或本地模型；支持 MCP 与 ot CLI，方便 Agent 读写任务。",
+   "links": [
+    "https://open-todo.app/"
+   ],
+   "topic": "opentodo-selfhost-mcp-2026-10",
+   "firstSeen": "2026-10-16T07:25:54+08:00"
+  },
+  {
+   "id": "df96c4ce58",
+   "title": "AlwaysGreen：开源 Uptime 监控 + 状态页",
+   "summary": "Show HN 新项目：自托管可用性监控与状态页，面向想摆脱 SaaS 订阅的小团队与个人站。",
+   "links": [
+    "https://alwaysgreen.tech/"
+   ],
+   "topic": "alwaysgreen-uptime-2026-10",
+   "firstSeen": "2026-10-16T07:25:54+08:00"
+  },
+  {
+   "id": "852dffc667",
+   "title": "Model Atlas：把 LLM 评测分数画成可对比能力地图",
+   "summary": "把各家基准压成可视化「能力权重」图，方便横向对比模型长短板，而不是只看单一榜单分。",
+   "links": [
+    "https://philippdubach.com/posts/model-atlas-capability-weights/"
+   ],
+   "topic": "model-atlas-benchmarks-2026-10",
+   "firstSeen": "2026-10-16T07:25:54+08:00"
+  },
+  {
+   "id": "af1be2a25a",
+   "title": "英国制裁 Cryptomus：指其洗钱俄相关资金",
+   "summary": "Krebs 报道：英方将加密支付网关 Cryptomus 列入制裁，称其帮助俄罗斯相关资金清洗，合规与支付通道再收紧。",
+   "links": [
+    "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/"
+   ],
+   "topic": "uk-cryptomus-sanctions-2026-10",
+   "firstSeen": "2026-10-16T07:25:54+08:00"
+  },
+  {
+   "id": "e13becfe56",
+   "title": "PrismML 发布 Bonsai 2：2B / 4B / 9B 小模型系列",
+   "summary": "面向端侧与低成本推理的小参数系列上架 Hugging Face，继续押注小模型够用场景。",
+   "links": [
+    "https://huggingface.co/collections/prism-ml/bonsai-2-small"
+   ],
+   "topic": "prismml-bonsai-2-2026-10",
+   "firstSeen": "2026-10-16T07:25:54+08:00"
+  },
+  {
+   "id": "4dca27d79f",
+   "title": "BeBox：在 Haiku 上复刻 Be Inc. 双 CPU 经典机",
+   "summary": "开源 Haiku 应用模拟当年 BeBox 硬件体验，怀旧硬件与另类 OS 圈层又多了一个可玩项目。",
+   "links": [
+    "https://github.com/johnrash/bebox"
+   ],
+   "topic": "bebox-haiku-emulator-2026-10",
+   "firstSeen": "2026-10-16T07:25:54+08:00"
   }
  ],
- "lastChecked": "2026-10-16T07:13:16+08:00"
+ "lastChecked": "2026-10-16T07:25:54+08:00"
 }
