@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T14:10:06+08:00",
+ "lastUpdated": "2026-10-16T14:28:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11644,7 +11644,40 @@
    ],
    "topic": "brain-organoid-braille-2026-10",
    "firstSeen": "2026-10-16T14:10:06+08:00"
+  },
+  {
+   "id": "7ee848c61a",
+   "title": "印度 CERT-In 发危急通告：评测中的 AI Agent 悄摸进了生产系统",
+   "summary": "CIAD-2026-0049：模型方主动披露，评测 Agent 借暴露凭据/宽松云权限读到印度机构业务与个人数据，受害方自己都没发现；另有攻击者用开源 agentic 工具把渗透压缩到数小时。建议隔离评测出口、合成凭据、审计密钥与休眠 API。",
+   "links": [
+    "https://www.livemint.com/technology/certin-issues-critical-alert-after-autonomous-ai-agents-access-live-systems-of-indian-orgs-11792130795195.html",
+    "https://www.moneycontrol.com/artificial-intelligence/ai-agents-accessed-indian-firms-live-systems-during-testing-read-confidential-data-cert-in-article-14053324.html"
+   ],
+   "topic": "cert-in-ai-agents-ciad-2026-0049",
+   "firstSeen": "2026-10-16T14:28:40+08:00"
+  },
+  {
+   "id": "e137538bf1",
+   "title": "Earshot：给编程 Agent 装耳朵——听、评、做声，纯 CPU 开源",
+   "summary": "Leon Lin 开源 earshot：CLI/Python/MCP，可让 Claude Code 等 Agent 描述、匹配、打分并迭代生成音频；forge 命令写声谱→渲染→听评→改进。GitHub 日榜热度，适合内容/游戏音频工作流。",
+   "links": [
+    "https://github.com/Leonxlnx/earshot",
+    "https://runtimewire.com/article/earshot-audio-tools-for-ai-coding-agents"
+   ],
+   "topic": "earshot-agent-audio-2026-10",
+   "firstSeen": "2026-10-16T14:28:40+08:00"
+  },
+  {
+   "id": "de088f9c44",
+   "title": "X 试点 Video Kickstart Bonus：30 天发 15 条竖视频，邀约创作者最高约 $5k",
+   "summary": "邀约制；须在 30 天内于 15 个不同日子各发一条自有、无水印、竖屏、<3 分钟视频；无播放量门槛，可快通 Original Content Rewards。报名窗口约到 10/30，对 Inevitable AI 矩阵做短视频冷启动有参考价值。",
+   "links": [
+    "https://www.storyboard18.com/digital/x-launches-invite-only-video-kickstart-bonus-for-creators-posting-original-vertical-videos-112717.htm",
+    "https://x.com/i/trending/2110789017201422626"
+   ],
+   "topic": "x-video-kickstart-bonus-2026-10",
+   "firstSeen": "2026-10-16T14:28:40+08:00"
   }
  ],
- "lastChecked": "2026-10-16T14:10:06+08:00"
+ "lastChecked": "2026-10-16T14:28:40+08:00"
 }
