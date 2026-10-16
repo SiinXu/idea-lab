@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T18:32:05+08:00",
+ "lastUpdated": "2026-10-16T18:43:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12385,7 +12385,28 @@
    ],
    "topic": "ai-understanding-matrix-math-debate-2026-10-16",
    "firstSeen": "2026-10-16T18:32:05+08:00"
+  },
+  {
+   "id": "3a4ad9e5ba",
+   "title": "Google 官方 android/skills 冲上 GitHub 日榜：给 AI Agent 的 Android 开发技能包",
+   "summary": "Android 团队把官方开发最佳实践写成开放标准 SKILL.md 技能，专挑大模型表现差的场景（如 R8 分析），可用 Android CLI 一键装进各家 Agent 目录，已近 8k 星。说明「官方技能包」正成为平台标配，可收录进 Skills 类站点或做同类垂直技能包。",
+   "links": [
+    "https://github.com/android/skills",
+    "https://developer.android.com/tools/agents/android-skills"
+   ],
+   "topic": "android-official-agent-skills",
+   "firstSeen": "2026-10-16T18:43:57+08:00"
+  },
+  {
+   "id": "dba65145f0",
+   "title": "ai-job-search 持续霸榜：基于 Claude Code 的本地 AI 求职框架近 4.8 万星",
+   "summary": "开源项目把求职全流程交给 Claude Code：评估职位、定制简历、写求职信、准备面试，全部跑在本机、可 fork 自用，今日再上 GitHub 趋势榜。「Agent 帮你找工作」需求强劲，可做中文/亚洲市场版本或付费模板。",
+   "links": [
+    "https://github.com/MadsLorentzen/ai-job-search"
+   ],
+   "topic": "ai-job-search-claude-code",
+   "firstSeen": "2026-10-16T18:43:57+08:00"
   }
  ],
- "lastChecked": "2026-10-16T18:32:05+08:00"
+ "lastChecked": "2026-10-16T18:43:57+08:00"
 }
