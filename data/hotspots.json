@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T05:00:46+08:00",
+ "lastUpdated": "2026-10-17T05:12:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -14667,7 +14667,41 @@
    ],
    "topic": "postgis-cuda-gpu-2026-10",
    "firstSeen": "2026-10-17T05:00:46+08:00"
+  },
+  {
+   "id": "d1e450ce60",
+   "title": "Anthropic OSS Scanner 在 Pion DTLS 揪出 6 个 CVE：OpenAI 内审漏掉 3 个",
+   "summary": "Pion 把 DTLS 加入 Anthropic 免费 OSS Scanner 后，一天收到 36 个问题报告（含 2 严重/3 高危/1 中危共 6 个 CVE），部分漏洞已藏 4 年；其中 3 个是 OpenAI 对未发布 API 的人工/内审未发现的。说明「多模型交叉扫」比单一 Codex/Claude 垃圾报告更有价值。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50124600",
+    "https://github.com/pion/dtls/security/advisories/GHSA-7c2r-jhm9-43vf",
+    "https://github.com/pion/dtls/pull/1236"
+   ],
+   "topic": "anthropic-oss-scanner-pion-dtls-cves-2026-10",
+   "firstSeen": "2026-10-17T05:12:02+08:00"
+  },
+  {
+   "id": "6d038754eb",
+   "title": "Autonomous 推出 Harness Pro：桌上一块屏盯所有编码 Agent",
+   "summary": "299 美元 USB-C 方屏，接 Mac/Linux 上的 Harness 应用，可横滑切换 Claude Code、Codex、Cursor 等；合上本机 Agent 仍跑，完成会推送。把多机多 Agent 收成桌面「指挥台」，适合一人公司盯长任务。",
+   "links": [
+    "https://www.autonomous.ai/harness-pro",
+    "https://www.producthunt.com/products/harness-by-autonomous"
+   ],
+   "topic": "autonomous-harness-pro-desk-screen-2026-10",
+   "firstSeen": "2026-10-17T05:12:02+08:00"
+  },
+  {
+   "id": "e06c7afeb7",
+   "title": "Neuralwatt：Agent Harness 怎么写，能差出数倍推理能耗",
+   "summary": "同模型同价，不同编码 Agent 未命中 prompt cache 比例约 1.6%–11.1%；一次冷缓存请求能耗约翻倍。OpenCode 1.x 计划模式提醒、omp 删旧文件读、改推理力度/MCP 工具列表都会打断前缀缓存；deepseek-harness 用追加-only 会话日志几乎零打断。做 Agent 产品时「保 KV cache」该写进架构。",
+   "links": [
+    "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+    "https://news.ycombinator.com/item?id=50124642"
+   ],
+   "topic": "neuralwatt-harness-prompt-cache-energy-2026-10",
+   "firstSeen": "2026-10-17T05:12:02+08:00"
   }
  ],
- "lastChecked": "2026-10-17T05:00:46+08:00"
+ "lastChecked": "2026-10-17T05:12:02+08:00"
 }
