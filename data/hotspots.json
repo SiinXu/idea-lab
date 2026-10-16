@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T16:44:08+08:00",
+ "lastUpdated": "2026-10-16T17:03:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12064,7 +12064,84 @@
    ],
    "topic": "allowed-insider-trading-essay-2026-10",
    "firstSeen": "2026-10-16T16:44:08+08:00"
+  },
+  {
+   "id": "d89ae318f3",
+   "title": "日本气象厅撤销 M9.9 紧急地震速报，排除网络攻击",
+   "summary": "系统一度给出震级约 9.9 的紧急速报后迅速取消；日经报道气象厅否认遭网络攻击。X 日本趋势被「紧急地震速报 / M9.9 / サイバー攻撃」刷屏，适合观察告警链路误报与公众沟通。",
+   "links": [
+    "https://www.nikkei.com/article/DGXZQOUD163IE0W6A011C2000000/",
+    "https://news.ycombinator.com/item?id=50115574"
+   ],
+   "topic": "jma-m99-false-alert-2026-10",
+   "firstSeen": "2026-10-16T17:03:03+08:00"
+  },
+  {
+   "id": "4b978b9382",
+   "title": "Quantum Encoding Agents：用自然语言帮量子机器学习选数据编码",
+   "summary": "编码/特征映射决定希尔伯特空间几何与近端硬件可跑性，却一直缺工具。开源系统根据数据集与任务描述画像数据，再按硬件策略推荐编码方案；今日登上 arXiv 与 HN 新帖。",
+   "links": [
+    "https://arxiv.org/abs/2609.31902",
+    "https://news.ycombinator.com/item?id=50115836"
+   ],
+   "topic": "quantum-encoding-agents-2026-10",
+   "firstSeen": "2026-10-16T17:03:03+08:00"
+  },
+  {
+   "id": "8f75d16098",
+   "title": "LibreNT 上 HN：AI 垃圾如何渗进 Windows「洁净室」工程",
+   "summary": "基于 ReactOS 的 Windows 兼容实验分支冲上新帖；讨论焦点不是又一个发行版，而是 AI 生成补丁/文档如何污染本应洁净室逆向的代码与叙事，给开源供应链敲警钟。",
+   "links": [
+    "https://github.com/ahmedarif193/LiberNT",
+    "https://news.ycombinator.com/item?id=50115828"
+   ],
+   "topic": "libernt-ai-slop-cleanroom-2026-10",
+   "firstSeen": "2026-10-16T17:03:03+08:00"
+  },
+  {
+   "id": "1555056a9c",
+   "title": "SpatialCue：在 Apple Watch + AirPods 上复现 Vision Pro 翻掌手势",
+   "summary": "翻掌听时间、双击控音乐：把 Vision Pro 空间手势搬到腕上与耳机，仓库今日新建并上 HN。可穿戴「轻交互」与无屏通知的交叉点值得盯。",
+   "links": [
+    "https://github.com/Ag3497120/SpatialCue",
+    "https://news.ycombinator.com/item?id=50115905"
+   ],
+   "topic": "spatialcue-watch-palm-flip-2026-10",
+   "firstSeen": "2026-10-16T17:03:03+08:00"
+  },
+  {
+   "id": "e9367c7a66",
+   "title": "逆向香港新交通灯：行人信号里的工程细节被拆开",
+   "summary": "博客从协议与硬件侧拆解香港新一代交通灯/行人信号，今日 HN 新帖；偏嵌入式与城市 IoT，适合做「城市基础设施可观测」选题素材。",
+   "links": [
+    "https://thereallo.dev/blog/reverse-engineering-hong-kong-traffic-lights",
+    "https://news.ycombinator.com/item?id=50115909"
+   ],
+   "topic": "hk-traffic-lights-re-2026-10",
+   "firstSeen": "2026-10-16T17:03:03+08:00"
+  },
+  {
+   "id": "80e88b83a7",
+   "title": "用 Flutter 流式推送编码 Agent 界面：踩坑与修复实录",
+   "summary": "Get Pull Request 团队复盘如何把编码 Agent 的 UI 实时流到 Flutter 端：哪些链路会断、状态如何对齐、最终怎么修。Agent 远程桌面/旁路面板可直接借鉴。",
+   "links": [
+    "https://getpullrequest.com/blogs/streaming-agent-ui-in-flutter",
+    "https://news.ycombinator.com/item?id=50115889"
+   ],
+   "topic": "flutter-stream-agent-ui-2026-10",
+   "firstSeen": "2026-10-16T17:03:03+08:00"
+  },
+  {
+   "id": "852a5e752d",
+   "title": "Ledger 推出约 899 美元类智能手机设备：9000 万美元盗窃案之后",
+   "summary": "硬件钱包厂商在供应链/植入丑闻与大额盗窃余波中发布高价「手机形态」设备；Bloomberg 报道，HN 同步出现讨论帖，安全品牌如何重建信任是看点。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-10-15/ledger-unveils-899-smartphone-like-device-after-90-million-crypto-theft",
+    "https://news.ycombinator.com/item?id=50115903"
+   ],
+   "topic": "ledger-899-smartphone-2026-10",
+   "firstSeen": "2026-10-16T17:03:03+08:00"
   }
  ],
- "lastChecked": "2026-10-16T16:44:08+08:00"
+ "lastChecked": "2026-10-16T17:03:03+08:00"
 }
