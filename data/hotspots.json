@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T12:58:57+08:00",
+ "lastUpdated": "2026-10-16T13:10:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11518,7 +11518,33 @@
    ],
    "topic": "envato-edit-with-ai-krea-2026-10",
    "firstSeen": "2026-10-16T12:58:57+08:00"
+  },
+  {
+   "id": "89b02f0f6f",
+   "title": "Kling 4.0 全面开放：最长 30 秒成片，并接 MCP/CLI",
+   "summary": "快手 Kling 10 月 15 日起向全量用户开放 Kling 4.0：单次生成最长 30 秒、最高 4K，最多 10 关键帧与 15 路参考；同步开放官方 MCP 与 CLI，方便塞进 Agent 批量做片，企业 API 与 10-bit HDR 仍「即将」。适合做成 Idea Lab 新点子：短视频 Agent 流水线。",
+   "links": [
+    "https://kling.ai/blog/kling40-kling-visual-realism-creative-control-introducing-storytelling",
+    "https://kling.ai/quickstart/kling-4-model-user-guide",
+    "https://kling.ai/feature/kling-4-ai-video-generation",
+    "https://x.com/i/trending/2110908926661206171"
+   ],
+   "topic": "kling-4-0-ga-mcp-2026-10",
+   "firstSeen": "2026-10-16T13:10:45+08:00"
+  },
+  {
+   "id": "ba2bd309db",
+   "title": "欧盟拟「快审」Project Bromo：Airbus/Leonardo/Thales 卫星合并对标 Starlink",
+   "summary": "三家拟合并卫星制造与服务成约 2.5 万人、年收入约 65 亿欧元的新公司；正式申报尚未提交，但 10 月 15 日传出欧委会愿在申报前谈妥救济并加速。目标 2027 年运营，被视为欧洲对抗 SpaceX 的产业整合测试案。",
+   "links": [
+    "https://www.ctol.digital/news/project-bromo-eu-merger-review-timeline-airbus-leonardo-thales/",
+    "https://www.politico.eu/article/ursula-von-der-leyen-endorses-european-space-deal-that-is-under-competition-review/",
+    "https://www.airbus.com/en/newsroom/press-releases/2025-10-airbus-leonardo-and-thales-sign-memorandum-of-understanding-to",
+    "https://x.com/i/trending/2110802735801278840"
+   ],
+   "topic": "project-bromo-eu-fast-track-2026-10",
+   "firstSeen": "2026-10-16T13:10:45+08:00"
   }
  ],
- "lastChecked": "2026-10-16T12:58:57+08:00"
+ "lastChecked": "2026-10-16T13:10:45+08:00"
 }
