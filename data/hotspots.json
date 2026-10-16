@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T14:55:33+08:00",
+ "lastUpdated": "2026-10-16T14:56:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11752,7 +11752,17 @@
    ],
    "topic": "fowler-software-meets-hardware-2026-10",
    "firstSeen": "2026-10-16T14:55:33+08:00"
+  },
+  {
+   "id": "ff9286355f",
+   "title": "Jake Archibald：主流浏览器都支持 JPEG XL 后，和 AVIF 该怎么选",
+   "summary": "Firefox 工程师实测：网页有损照片默认仍推 AVIF 4:4:4；截图/插画/透明通道 AVIF 明显更小更快。新编码器 jixel 让 JPEG XL 更有竞争力；无损与旧 JPEG 无损转码仍是 JPEG XL 强项。文章带大量 SSIMULACRA2 对比与渐进加载演示。",
+   "links": [
+    "https://jakearchibald.com/2026/jpeg-xl-vs-avif/"
+   ],
+   "topic": "jpeg-xl-vs-avif-jake-archibald-2026-10",
+   "firstSeen": "2026-10-16T14:56:03+08:00"
   }
  ],
- "lastChecked": "2026-10-16T14:55:33+08:00"
+ "lastChecked": "2026-10-16T14:56:03+08:00"
 }
