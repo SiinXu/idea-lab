@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T08:44:34+08:00",
+ "lastUpdated": "2026-10-16T09:03:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -10805,7 +10805,99 @@
    ],
    "topic": "jev-system-one-hiddenlayer-2026-10",
    "firstSeen": "2026-10-16T08:44:34+08:00"
+  },
+  {
+   "id": "d333cc7873",
+   "title": "vlt：Thank You Deno——替代运行时实验告一段落",
+   "summary": "Deno 团队并入 Cloudflare、运行时一年后停更后，vlt 发文回顾：Deno/Bun 的压力把 fetch、权限模型、默认关 install scripts 等推进 Node；JSR 留在 Cloudflare，celld 将并入可自托管的 workerd。",
+   "links": [
+    "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+    "https://news.ycombinator.com/item?id=50112331",
+    "https://blog.cloudflare.com/deno-joins-cloudflare/",
+    "https://deno.com/blog/cloudflare"
+   ],
+   "topic": "vlt-thank-you-deno-2026-10",
+   "firstSeen": "2026-10-16T09:03:48+08:00"
+  },
+  {
+   "id": "4eea137244",
+   "title": "IPinfo：RPKI 已覆盖约 70% 互联网路由（一年前 54%）",
+   "summary": "按前缀计 RPKI-valid 从 2025-09 的 54.0% 升至 2026-09 的 70.3%；中国 IPv4 有效覆盖从约 3.7% 跃至 83%，贡献全球大半增量。无效路由几乎传不出去，但 maxLength 过宽仍可被合法「更具体」前缀劫持（如 Hetzner 事件）。",
+   "links": [
+    "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+    "https://news.ycombinator.com/item?id=50112330"
+   ],
+   "topic": "rpki-70pct-routes-ipinfo-2026-10",
+   "firstSeen": "2026-10-16T09:03:48+08:00"
+  },
+  {
+   "id": "156c351258",
+   "title": "Show HN：Chickadee Bandit——家庭私有应用中枢",
+   "summary": "一户一个加密隔离库，日历/家务/购物/定位等 100+ 可装应用；无广告不卖数据，按家庭订阅而非按人头。强调权限模型与每户独立数据库。",
+   "links": [
+    "https://www.chickadeebandit.com/",
+    "https://www.chickadeebandit.com/gallery",
+    "https://news.ycombinator.com/item?id=50112310"
+   ],
+   "topic": "chickadee-bandit-family-hub-2026-10",
+   "firstSeen": "2026-10-16T09:03:48+08:00"
+  },
+  {
+   "id": "0e085cb1c1",
+   "title": "C / GLib API 设计：peek_head 与 peek_head_link 的血泪",
+   "summary": "Xfce 开发者用错 GQueue API 导致诡异 segfault：peek_head 返回的是数据指针不是链表节点。文中吐槽 C 弱类型与 GLib/GList 命名不一致，并记录用 GLM 5.3 协助排查的过程。",
+   "links": [
+    "https://www.spurint.org/journal/2026/10/c-type-systems-glib-api-design",
+    "https://news.ycombinator.com/item?id=50112252"
+   ],
+   "topic": "glib-gqueue-api-design-2026-10",
+   "firstSeen": "2026-10-16T09:03:48+08:00"
+  },
+  {
+   "id": "b5f60424ff",
+   "title": "Gleam 模式穷尽检查：从论文到友好报错",
+   "summary": "深入 Gleam 编译器 exhaustiveness.rs：在 Maranget/Augustsson 决策树与见证（witness）之上，加上字符串前缀+guard、位数组与类型收窄，并按用户 import 别名打印缺失模式。",
+   "links": [
+    "https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp",
+    "https://news.ycombinator.com/item?id=50112238"
+   ],
+   "topic": "gleam-case-exhaustiveness-2026-10",
+   "firstSeen": "2026-10-16T09:03:48+08:00"
+  },
+  {
+   "id": "eae5c89b3a",
+   "title": "HOL Light 教程上线：交互式定理证明入门",
+   "summary": "HOL Light 官方 HTML 教程公开，面向想上手高阶逻辑交互证明的人；与近期数学/AI 证明验证讨论同频。",
+   "links": [
+    "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+    "https://news.ycombinator.com/item?id=50112204"
+   ],
+   "topic": "hol-light-tutorial-2026-10",
+   "firstSeen": "2026-10-16T09:03:48+08:00"
+  },
+  {
+   "id": "8a9218ad3c",
+   "title": "1998 年 ICQ 重大漏洞：≥9 字符密码可冒充任意 UIN",
+   "summary": "当年服务器缓冲溢出：发 9 个及以上字符的密码可绕过校验、登录任意未在线 UIN；官方客户端限 8 字符，部分 Linux 客户端没有。Mirabilis/AOL 约 12 小时内打补丁。HN 翻出旧帖。",
+   "links": [
+    "https://opennet.ru/base/maillist/169.txt.html",
+    "https://news.ycombinator.com/item?id=50069439",
+    "https://www.wired.com/1998/08/icq-password-problem-squashed/"
+   ],
+   "topic": "icq-1998-password-overflow-hn",
+   "firstSeen": "2026-10-16T09:03:48+08:00"
+  },
+  {
+   "id": "0ade67ab94",
+   "title": "Phil Zimmermann：我为什么写 PGP（1991/1999）",
+   "summary": "经典短文再上 HN：从人权与隐私出发解释公开源码加密软件的动机，以及对出口管制与「密钥托管」的反对。",
+   "links": [
+    "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
+    "https://news.ycombinator.com/item?id=50084674"
+   ],
+   "topic": "why-i-wrote-pgp-essay-hn-2026-10",
+   "firstSeen": "2026-10-16T09:03:48+08:00"
   }
  ],
- "lastChecked": "2026-10-16T08:44:34+08:00"
+ "lastChecked": "2026-10-16T09:03:48+08:00"
 }
