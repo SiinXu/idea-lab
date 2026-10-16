@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T12:29:22+08:00",
+ "lastUpdated": "2026-10-16T12:47:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11444,7 +11444,59 @@
    ],
    "topic": "mozilla-firefox-new-sounds-2026-10",
    "firstSeen": "2026-10-16T12:29:22+08:00"
+  },
+  {
+   "id": "39ed69c21f",
+   "title": "GitHub AI Scan 正式 GA：给 CodeQL 覆盖不到的语言扫 PR",
+   "summary": "对 PHP、Shell/Bash、Terraform HCL、Dockerfile、JSP、Blazor 等 CodeQL 尚未覆盖的变更做 AI 安全扫描；结果带 AI 标记、仅作建议、不阻断合并；公开仓可用，私有仓需 Code Security/Advanced Security。适合做成 Idea Lab 新点子：多语言 PR 安全旁路扫描器。",
+   "links": [
+    "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available/"
+   ],
+   "topic": "github-ai-scan-pr-ga-2026-10",
+   "firstSeen": "2026-10-16T12:47:21+08:00"
+  },
+  {
+   "id": "b7ac4657df",
+   "title": "GitHub Agentic Autofix 正式 GA：把告警交给 Copilot 开修复 PR",
+   "summary": "企业管理员打开策略后，可把默认分支上的 Code Scanning 告警指派给 Copilot：探索代码、提出修复、重跑 CodeQL 验证后再开草稿 PR，单次最多批量 25 条；消耗 Code Security AI Credits。适合做成 Idea Lab 新点子：安全告警→可验证修复 PR 流水线。",
+   "links": [
+    "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability/"
+   ],
+   "topic": "github-agentic-autofix-ga-2026-10",
+   "firstSeen": "2026-10-16T12:47:21+08:00"
+  },
+  {
+   "id": "580642b90a",
+   "title": "白宫「超级智能」任务组启动 120 天：盯安全、生物与模型管控",
+   "summary": "Semafor：任务组通过章程，委托 PCAST 评估网络与关键基础设施、生物安全双用途、模型控制与问责；并落实超级智能协定、实验室事故通报协议，以及由 FTC 主席牵头的执法与消费者保护协调。观察监管落地节奏。",
+   "links": [
+    "https://www.semafor.com/article/10/15/2026/white-houses-ai-task-force-gets-to-work"
+   ],
+   "topic": "white-house-si-task-force-120d-2026-10",
+   "firstSeen": "2026-10-16T12:47:21+08:00"
+  },
+  {
+   "id": "a77b6b9786",
+   "title": "Epic 发布「Vibe Coded」启动器预览：更快，并首次支持 Linux",
+   "summary": "官方称用 vibe coding 重做 Epic Games Launcher，冷启动与导航更快，Windows/macOS/Linux 可测；另宣布重建 Easy Anti-Cheat，目标把 Fortnite 带到 Linux。Steam 随后也优化了启动速度，两边在比拼。轻度热点，可观察发行平台体验战。",
+   "links": [
+    "https://store.epicgames.com/news/epic-games-launcher-preview?lang=en-US",
+    "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/"
+   ],
+   "topic": "epic-vibe-coded-launcher-preview-2026-10",
+   "firstSeen": "2026-10-16T12:47:21+08:00"
+  },
+  {
+   "id": "596999e872",
+   "title": "Meta 被曝是肯塔基 Mason County 超大规模数据中心幕后方",
+   "summary": "约 2900–3000 英亩园区获批：基建投入、对县与学区年付，换取工业收益债券下最长约 40 年地方物业税减免；建设期上千人、运营约 400 岗位。AI 算力地产与地方谈判又一例。",
+   "links": [
+    "https://www.wuky.org/wuky-news/2026-10-15/meta-revealed-as-company-behind-controversial-mason-county-hyperscale-data-center",
+    "https://www.wkyt.com/2026/10/14/mason-county-approves-hyperscale-data-center-deal-with-meta/"
+   ],
+   "topic": "meta-mason-county-datacenter-2026-10",
+   "firstSeen": "2026-10-16T12:47:21+08:00"
   }
  ],
- "lastChecked": "2026-10-16T12:29:22+08:00"
+ "lastChecked": "2026-10-16T12:47:21+08:00"
 }
