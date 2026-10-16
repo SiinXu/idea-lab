@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T02:59:22+08:00",
+ "lastUpdated": "2026-10-17T03:17:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -14117,7 +14117,96 @@
    ],
    "topic": "hardt-ml-benchmarks-science-book-2026-10",
    "firstSeen": "2026-10-17T02:59:22+08:00"
+  },
+  {
+   "id": "7fd7e06ab2",
+   "title": "Claude Code 团队揭代码审查：约九成代码由 Claude 写",
+   "summary": "Anthropic 工程博文称 Claude 写了 Claude Code 约 90% 代码；自 6 到 9 月合并 PR 翻倍、回滚降逾 40%。流程变成多层 AI 预审 + 按风险分级的人类批准，低风险可无人审批合并。",
+   "links": [
+    "https://claude.dev/blog/solving-code-review-at-anthropic/",
+    "https://news.ycombinator.com/item?id=50122951"
+   ],
+   "topic": "claude-code-90pct-review-process-2026-10",
+   "firstSeen": "2026-10-17T03:17:12+08:00"
+  },
+  {
+   "id": "5e487e5294",
+   "title": "GNOME OS Preview 发布：稳定版 GNOME 的早期采用版",
+   "summary": "不再只有 Nightly：Preview 基于当前稳定 GNOME（撰文时 51.1），面向愿意几年后重装再切 Stable 的早期用户；os.gnome.org 可下。",
+   "links": [
+    "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/",
+    "https://news.ycombinator.com/item?id=50123056"
+   ],
+   "topic": "gnome-os-preview-2026-10",
+   "firstSeen": "2026-10-17T03:17:12+08:00"
+  },
+  {
+   "id": "caaa0f4734",
+   "title": "Show HN：Sill for Android——用安卓遥控 Mac 窗口",
+   "summary": "非官方安卓客户端对接开源 Sill：把 Mac 窗口投到手机触摸操控；作者称几乎全由 Claude Code 从 Swift 源码与测试客户端写完。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://github.com/rahimnathwani/sill-android",
+    "https://news.ycombinator.com/item?id=50123065"
+   ],
+   "topic": "sill-android-mac-remote-2026-10",
+   "firstSeen": "2026-10-17T03:17:12+08:00"
+  },
+  {
+   "id": "2402f5e256",
+   "title": "Filippo：NIST 椭圆曲线种子悬赏已被认领",
+   "summary": "Filippo Valsorda 确认 Anthropic 团队解开种子生成：srand48 + Unix 时间戳；奖金捐给 ISRG/Let’s Encrypt。进一步排除「故意挑弱曲线」阴谋论空间。",
+   "links": [
+    "https://words.filippo.io/seeds-solved/",
+    "https://news.ycombinator.com/item?id=50122920"
+   ],
+   "topic": "filippo-nist-seeds-bounty-claimed-2026-10",
+   "firstSeen": "2026-10-17T03:17:12+08:00"
+  },
+  {
+   "id": "23a9ec1085",
+   "title": "GifCities：Internet Archive 的 GeoCities 动图搜索又上热榜",
+   "summary": "IA 老项目 GifCities 再次出现在 HN 首页：专门搜 GeoCities 时代动画 GIF，怀旧与素材向流量兼具。",
+   "links": [
+    "https://gifcities.org/",
+    "https://news.ycombinator.com/item?id=50121601"
+   ],
+   "topic": "gifcities-geocities-gifs-2026-10",
+   "firstSeen": "2026-10-17T03:17:12+08:00"
+  },
+  {
+   "id": "04d348db04",
+   "title": "decomp.wtf 停更：AI 字节级游戏反编译遭社区反弹",
+   "summary": "曾病毒传播的本地 AI Agent 匹配反编译工具宣布停更归档；作者称尊重传统 decomp 社区反对 AI 贡献的立场，代码仍 MIT 可 fork，并提醒只用自有游戏。",
+   "links": [
+    "https://decomp.wtf/",
+    "https://github.com/i12bp8/decomp.wtf",
+    "https://x.com/Pirat_Nation/status/2110899022932418745"
+   ],
+   "topic": "decomp-wtf-discontinued-2026-10",
+   "firstSeen": "2026-10-17T03:17:12+08:00"
+  },
+  {
+   "id": "4d59dd89f4",
+   "title": "Namespace：给 100 只果蝇脑各开一台电脑打 Doom",
+   "summary": "实习生用果蝇连接组仿真 + DOOMFLY，在 100 个 Namespace Devbox 上并行敲除神经元实验；约九分钟跑完且结果可字节复现，顺带演示可编程沙箱扩容。",
+   "links": [
+    "https://namespace.so/blog/fly-brains-play-doom",
+    "https://news.ycombinator.com/item?id=50122948"
+   ],
+   "topic": "namespace-fly-brains-doom-2026-10",
+   "firstSeen": "2026-10-17T03:17:12+08:00"
+  },
+  {
+   "id": "1434227954",
+   "title": "Regex Marble Run：正则表达式做成 3D 弹珠轨道",
+   "summary": "把正则可视化成弹珠在轨道上跑的交互站，刚上 HN，适合教学与分享向流量。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://www.regexmarblerun.com/",
+    "https://news.ycombinator.com/item?id=50122671"
+   ],
+   "topic": "regex-marble-run-2026-10",
+   "firstSeen": "2026-10-17T03:17:12+08:00"
   }
  ],
- "lastChecked": "2026-10-17T02:59:22+08:00"
+ "lastChecked": "2026-10-17T03:17:12+08:00"
 }
