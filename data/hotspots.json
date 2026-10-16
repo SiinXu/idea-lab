@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T15:39:35+08:00",
+ "lastUpdated": "2026-10-16T16:01:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11912,7 +11912,28 @@
    ],
    "topic": "sift-local-llm-files-2026-10",
    "firstSeen": "2026-10-16T15:39:35+08:00"
+  },
+  {
+   "id": "f6a96a68b6",
+   "title": "保时捷 Mission S 概念车：中置发动机超跑，定位在 911 之上",
+   "summary": "在纽约码头（1953 年 550 Spyder 首秀地）亮相，融合 911 大灯、GT1 车头与 959 车顶线；可选汽油、混动或插混，不做纯电。座舱回归圆形仪表和实体按键，官方确认会量产。",
+   "links": [
+    "https://www.porsche.com/international/models/mission-s/",
+    "https://x.com/i/trending/2110798764323803227"
+   ],
+   "topic": "porsche-mission-s",
+   "firstSeen": "2026-10-16T16:01:20+08:00"
+  },
+  {
+   "id": "425d303365",
+   "title": "Folders：用空文件夹嵌套写程序的「文件夹编程语言」",
+   "summary": "Daniel Temkin 的极客语言：代码完全由一层层「新建文件夹」组成，指令和数据都靠子文件夹数量表达，连 Hello World 都是一棵文件夹树。冲上 HN 首页，适合做趣味编程/可视化素材。",
+   "links": [
+    "https://danieltemkin.com/esolangs/folders"
+   ],
+   "topic": "folders-esolang",
+   "firstSeen": "2026-10-16T16:01:20+08:00"
   }
  ],
- "lastChecked": "2026-10-16T15:39:35+08:00"
+ "lastChecked": "2026-10-16T16:01:20+08:00"
 }
