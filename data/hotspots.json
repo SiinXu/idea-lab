@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T15:24:12+08:00",
+ "lastUpdated": "2026-10-16T15:39:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11847,7 +11847,72 @@
    ],
    "topic": "gentoo-chromium-last-rites-2026-10",
    "firstSeen": "2026-10-16T15:24:12+08:00"
+  },
+  {
+   "id": "79b2b05e29",
+   "title": "Next.js 紧急安全补丁：use cache / 图片优化路径可致未认证 RCE",
+   "summary": "Vercel 发布 16.4.1 / 15.5.28：App Router 的 use cache 返回多个 typed array、以及基于 sharp 的 SVG 图片优化，均可导致未认证远程代码执行；另有 Server Actions DoS。无变通方案，应立刻升级。",
+   "links": [
+    "https://nextjs.org/blog/nextjs-security-update-october-14-2026",
+    "https://news.ycombinator.com/item?id=50115120"
+   ],
+   "topic": "nextjs-security-rce-2026-10",
+   "firstSeen": "2026-10-16T15:39:35+08:00"
+  },
+  {
+   "id": "07db6ccc10",
+   "title": "Sean Goedecke：AI 真正拉起的是「中等成功」软件，不是爆款",
+   "summary": "对照插件/模组/扩展商店：有安装量的中小项目约翻倍，但十万级爆款几乎没增长。作者认为 vibe coding 的产出散落在几百到几千人用的工具里，而不是新一代超级 App。",
+   "links": [
+    "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+    "https://news.ycombinator.com/item?id=50115251"
+   ],
+   "topic": "ai-modestly-successful-software-2026-10",
+   "firstSeen": "2026-10-16T15:39:35+08:00"
+  },
+  {
+   "id": "8128982d4c",
+   "title": "Navige：给 AI Agent 装「够用智能」成本闸门",
+   "summary": "夹在 Agent 与模型/工具之间：测花费、设预算、拦死循环，并可路由到更便宜模型、复用缓存、裁剪上下文。免费 Watchtower 只观察；付费按节省额抽成。适合做 Idea Lab 成本层点子。",
+   "links": [
+    "https://navige.ai/",
+    "https://app.navige.ai/docs/how-it-works"
+   ],
+   "topic": "navige-agent-cost-intelligence-2026-10",
+   "firstSeen": "2026-10-16T15:39:35+08:00"
+  },
+  {
+   "id": "9271d8401f",
+   "title": "LibreTV 冲上 GitHub 日榜：一分钟 Docker 搭影视站",
+   "summary": "开源聚合影视站，强调 Docker 一键部署；日榜热度说明自建媒体站需求仍在。法律与版权风险高，只适合当「自托管内容站」基建参考。",
+   "links": [
+    "https://github.com/LibreSpark/LibreTV"
+   ],
+   "topic": "libretv-github-trending-2026-10",
+   "firstSeen": "2026-10-16T15:39:35+08:00"
+  },
+  {
+   "id": "267c4f2224",
+   "title": "Inference Cooperative：会员制共治 AI，月费滑尺起步 5 美元",
+   "summary": "合作制推理服务：同一额度、可按隐私飞地/可再生电力/开源模型选型，聊天与 OpenAI 兼容 API 共用额度，并有治理投票权。对冲「大厂锁死」的另一种商业实验。",
+   "links": [
+    "https://inference.coop/",
+    "https://news.ycombinator.com/item?id=50115115"
+   ],
+   "topic": "inference-cooperative-2026-10",
+   "firstSeen": "2026-10-16T15:39:35+08:00"
+  },
+  {
+   "id": "9d817b0a9c",
+   "title": "Sift：用本地 LLM 把目录里每个文件扫一遍",
+   "summary": "开源工具：对本地文件批量跑本地模型做分析/摘要，不把内容上传云端。适合隐私敏感的本地知识库与合规扫盘场景。",
+   "links": [
+    "https://github.com/c0decave/sift",
+    "https://news.ycombinator.com/item?id=50114848"
+   ],
+   "topic": "sift-local-llm-files-2026-10",
+   "firstSeen": "2026-10-16T15:39:35+08:00"
   }
  ],
- "lastChecked": "2026-10-16T15:24:12+08:00"
+ "lastChecked": "2026-10-16T15:39:35+08:00"
 }
