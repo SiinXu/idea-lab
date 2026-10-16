@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T14:28:40+08:00",
+ "lastUpdated": "2026-10-16T14:48:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11677,7 +11677,60 @@
    ],
    "topic": "x-video-kickstart-bonus-2026-10",
    "firstSeen": "2026-10-16T14:28:40+08:00"
+  },
+  {
+   "id": "8e2af0b38d",
+   "title": "Lean 正式带上「已验证内核」：AI 找洞后靠多内核交叉复核",
+   "summary": "Lean FRO 的 Leonardo de Moura 宣布 v4.35 起可用 lake check / --paranoid：除官方内核外再跑 nanoda、lean4lean、con-leche、con-ron 等。con-leche 是首个用 Lean 写并证明一致的内核（Claude 在 Joachim Breitner 监督下完成），再经 Aeneas 翻到 Rust 得 con-ron，专门防 AI Agent 挖出的内核漏洞与编译器/运行时同类 bug。",
+   "links": [
+    "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/"
+   ],
+   "topic": "lean-verified-kernels-2026-10",
+   "firstSeen": "2026-10-16T14:48:43+08:00"
+  },
+  {
+   "id": "4c72bbf943",
+   "title": "RapidCanvas 获约 2900 万美元 B 轮：用 Agent 帮企业搭定制 AI",
+   "summary": "Axios：Austin 的 RapidCanvas 完成约 2900 万美元 Series B，由 Vertex Ventures 与 Hitachi Ventures 领投；平台用 Agent + 低代码帮企业搭建可上线的定制 AI 应用，CEO 称或明年再冲 C 轮。",
+   "links": [
+    "https://www.axios.com/pro/enterprise-software-deals/2026/10/15/agentic-enterprise-rapidcanvas-vertex"
+   ],
+   "topic": "rapidcanvas-29m-series-b-2026-10",
+   "firstSeen": "2026-10-16T14:48:43+08:00"
+  },
+  {
+   "id": "571d3a5560",
+   "title": "CiteProof：对照公开法院记录，抓法律文书里的 AI 假引用",
+   "summary": "新产品 CiteProof 面向法律简报，对照公开法院记录核验引用与摘录是否真实，专门对付大模型「幻觉判例」。时点贴合 AI 写状纸假案号频发，适合做成合规/法律 Agent 工具链一环。",
+   "links": [
+    "https://getciteproof.com/",
+    "https://news.ycombinator.com/item?id=50114653"
+   ],
+   "topic": "citeproof-ai-legal-citations-2026-10",
+   "firstSeen": "2026-10-16T14:48:43+08:00"
+  },
+  {
+   "id": "531dac42bf",
+   "title": "FT：数据中心债迎「达尔文时刻」，AI 借贷方遭抛售",
+   "summary": "金融时报：投资者怀疑 AI 营收撑不住庞大基建债，Hyperion、Excalibur、Hut 8 等项目债跌破面值；CoreWeave 债低于 75 美分、收益率近 16%。Allianz 称这是「达尔文时刻」；Gartner 预警新云八成或难独立存活，基建投入与回报缺口或超 4 万亿美元。",
+   "links": [
+    "https://finance.yahoo.com/markets/stocks/articles/investors-dump-data-centre-bonds-132608292.html",
+    "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc"
+   ],
+   "topic": "ft-dc-bonds-darwin-moment-2026-10",
+   "firstSeen": "2026-10-16T14:48:43+08:00"
+  },
+  {
+   "id": "4d655993c6",
+   "title": "KNOD：Linux 把网络包处理卸到 AMD GPU，内核路径不走 CUDA",
+   "summary": "Linux Plumbers 2026 上亮相的实验项目 KNOD（In-Kernel Network Offload Device），让内核把 XDP 等包处理 JIT 到 AMD GPU，数据路径避开 CUDA/ROCm 用户态；演示在 Radeon PRO V620 上可达约 7000 万包/秒，并做 RX IPsec 卸载。仍处 RFC，面向高吞吐机房。",
+   "links": [
+    "https://www.servers99.com/blog/linux-knod-amd-gpu-network-offload/",
+    "https://news.ycombinator.com/item?id=50114861"
+   ],
+   "topic": "linux-knod-amd-gpu-offload-2026-10",
+   "firstSeen": "2026-10-16T14:48:43+08:00"
   }
  ],
- "lastChecked": "2026-10-16T14:28:40+08:00"
+ "lastChecked": "2026-10-16T14:48:43+08:00"
 }
