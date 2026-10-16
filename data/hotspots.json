@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T04:45:15+08:00",
+ "lastUpdated": "2026-10-17T05:00:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -14590,7 +14590,84 @@
    ],
    "topic": "ethereum-lean-fast-confirmation-ai-2026-10",
    "firstSeen": "2026-10-17T04:45:15+08:00"
+  },
+  {
+   "id": "5f4c93b184",
+   "title": "DeepMind：四台 Gemini 4 Argon Agent 27 小时通关 Minecraft",
+   "summary": "四个通用编程 Agent 只用标准 Mineflayer，从随机世界出发，写了 2783 个程序、死了 605 次，约 27 小时打掉末影龙；成本约 520 美元。长程多 Agent 协作的硬证据，Idea Lab 可跟「开箱即用 Agent 团队」方向。",
+   "links": [
+    "https://arxiv.org/abs/2610.22319",
+    "https://x.com/i/trending/2111138236018143513"
+   ],
+   "topic": "gemini-minecraft-ender-dragon-2026-10",
+   "firstSeen": "2026-10-17T05:00:46+08:00"
+  },
+  {
+   "id": "1f53c65d2d",
+   "title": "SimplyStream：一句话把 Unreal 游戏发到浏览器",
+   "summary": "Strata 构建代理可把 UE 5.8/6.0 项目编译成 WebAssembly+WebGPU，玩家用本机显卡跑、不必下客户端；给 Claude Code/Codex 一段提示就能建仓、构建并返回可玩链接。",
+   "links": [
+    "https://simplystream.com/",
+    "https://news.ycombinator.com/item?id=50124437"
+   ],
+   "topic": "simplystream-unreal-web-strata-2026-10",
+   "firstSeen": "2026-10-17T05:00:46+08:00"
+  },
+  {
+   "id": "346e336692",
+   "title": "Show HN：在 Claude Code 里实测 6 家 MCP 代理后自建路由",
+   "summary": "多数 MCP 代理宣传省 85–99% token，但在 Claude Code 真实任务里 4 家反而更费、2 家完不成；作者自建路由实测省 13–44% 且全部跑通。适合做成「Agent 工具网关评测」内容。",
+   "links": [
+    "https://rabin-a.github.io/mcp-router/#benchmark",
+    "https://news.ycombinator.com/item?id=50124411"
+   ],
+   "topic": "mcp-router-claude-code-bench-2026-10",
+   "firstSeen": "2026-10-17T05:00:46+08:00"
+  },
+  {
+   "id": "c6198919b9",
+   "title": "Show HN：Pogi——一台本机二进制模拟 AWS/GCP/Azure 181 项服务",
+   "summary": "Go 写的本地多云模拟器，一个端口覆盖三大云常见 API，官方 SDK/CLI/Terraform/CDK 可直接连；带控制台、IAM、混沌规则与快照，MIT，适合本地测云代码。",
+   "links": [
+    "https://github.com/nrndev/pogi",
+    "https://news.ycombinator.com/item?id=50124392"
+   ],
+   "topic": "pogi-local-multi-cloud-emulator-2026-10",
+   "firstSeen": "2026-10-17T05:00:46+08:00"
+  },
+  {
+   "id": "bacbef3143",
+   "title": "Kotaku：Vibe Coding 正在冲击游戏业",
+   "summary": "游戏媒体报道用自然语言+AI 快速出原型已大量进入独立与工作室流程；机会在「可玩原型加速」，风险在安全与可维护性。",
+   "links": [
+    "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366",
+    "https://news.ycombinator.com/item?id=50124458"
+   ],
+   "topic": "kotaku-vibe-coding-games-2026-10",
+   "firstSeen": "2026-10-17T05:00:46+08:00"
+  },
+  {
+   "id": "26d62c69df",
+   "title": "开源 LLM 做 Verilog RTL：50 项任务基准发布",
+   "summary": "NMIMS/IIT Roorkee/BITS Pilani 对开源模型在 Verilog RTL 生成上做跨 50 任务基准，给硬件+AI 方向提供可复现对比。",
+   "links": [
+    "https://semiengineering.com/benchmarking-open-source-llms-on-verilog-rtl-generation-across-50-tasks-nmims-iit-roorkee-bits-pilani/",
+    "https://news.ycombinator.com/item?id=50124514"
+   ],
+   "topic": "verilog-rtl-llm-benchmark-2026-10",
+   "firstSeen": "2026-10-17T05:00:46+08:00"
+  },
+  {
+   "id": "6267405c1c",
+   "title": "GPU 加速 PostGIS：CUDA 版空间库上 GitHub",
+   "summary": "landstats-us/postgis-cuda 把 PostGIS 空间运算搬到 GPU，GIS/地图分析类工作负载可显著提速，适合地图与本地数据产品。",
+   "links": [
+    "https://github.com/landstats-us/postgis-cuda",
+    "https://news.ycombinator.com/item?id=50124422"
+   ],
+   "topic": "postgis-cuda-gpu-2026-10",
+   "firstSeen": "2026-10-17T05:00:46+08:00"
   }
  ],
- "lastChecked": "2026-10-17T04:45:15+08:00"
+ "lastChecked": "2026-10-17T05:00:46+08:00"
 }
