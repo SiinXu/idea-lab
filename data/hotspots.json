@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T15:12:24+08:00",
+ "lastUpdated": "2026-10-16T15:24:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11825,7 +11825,29 @@
    ],
    "topic": "msime-cross-platform-ime-2026-10",
    "firstSeen": "2026-10-16T15:12:24+08:00"
+  },
+  {
+   "id": "14764deef9",
+   "title": "E Ink 发布 Kaleido 4 彩色电子纸：色域翻倍、可放 18fps 视频，汉王 M10C 二代首发",
+   "summary": "元太（E Ink）10 月 15 日正式发布四年来首次大版本彩色电子纸 Kaleido 4：色域容积翻倍到 4 万以上，白色反射率与对比度提升，换上 Oxide-TFT 背板，新算法可播 18fps 视频。首款终端是汉王 M10C 二代办公本，计划 12 月初在中国上市；彩色 PPI 与售价尚未公布，Kindle 等品牌何时跟进暂无消息。",
+   "links": [
+    "https://www.prnewswire.com/news-releases/e-ink-launches-latest-version-of-color-epaper-platform-e-ink-kaleido-4-302910326.html",
+    "https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness",
+    "https://www.readwithpro.com/blog/eink-kaleido-4-launch-hanvon-m10c-ii-m10-max-m6-pro-en"
+   ],
+   "topic": "eink-kaleido-4-2026-10",
+   "firstSeen": "2026-10-16T15:24:12+08:00"
+  },
+  {
+   "id": "a2418a5191",
+   "title": "Gentoo 为 Chromium 源码包宣布「临终仪式」：维护者被拖垮，稳定版积压 600+ 漏洞",
+   "summary": "LWN 报道：Gentoo 维护者 Sam James 9 月 24 日对 Chromium 包发出 last rites（即将屏蔽、寻找接手者）。起因是稳定版落后、被指带着 602 个已知漏洞；维护者称 Chromium 构建复杂、依赖大量内置组件且新增 Go 依赖，是 Gentoo 里最耗维护者的包。源码发行版如何持续打包巨型浏览器再成焦点，正登上 HN 首页。",
+   "links": [
+    "https://lwn.net/Articles/1097760/"
+   ],
+   "topic": "gentoo-chromium-last-rites-2026-10",
+   "firstSeen": "2026-10-16T15:24:12+08:00"
   }
  ],
- "lastChecked": "2026-10-16T15:12:24+08:00"
+ "lastChecked": "2026-10-16T15:24:12+08:00"
 }
