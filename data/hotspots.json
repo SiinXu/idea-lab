@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T20:33:31+08:00",
+ "lastUpdated": "2026-10-16T20:40:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12682,7 +12682,17 @@
    ],
    "topic": "silicium-hnsw-avx512-2026-10",
    "firstSeen": "2026-10-16T20:33:31+08:00"
+  },
+  {
+   "id": "60a4b57efb",
+   "title": "Steam 推出「成就组」：DLC 不再破坏你的 100% 全成就",
+   "summary": "Valve 把基础游戏与 DLC 成就分组统计，新增 DLC 不会再拉低已全成就玩家的完成率，开发者可按内容包划分成就。",
+   "links": [
+    "https://www.engadget.com/2288624/steam-achievement-sets-protect-100-percent-record-from-dlcs/"
+   ],
+   "topic": "steam-achievement-sets",
+   "firstSeen": "2026-10-16T20:40:13+08:00"
   }
  ],
- "lastChecked": "2026-10-16T20:33:31+08:00"
+ "lastChecked": "2026-10-16T20:40:13+08:00"
 }
