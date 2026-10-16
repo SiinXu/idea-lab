@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T08:13:46+08:00",
+ "lastUpdated": "2026-10-16T08:28:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -10693,7 +10693,63 @@
    ],
    "topic": "musk-successionism-terafab-mj-2026-10",
    "firstSeen": "2026-10-16T08:13:46+08:00"
+  },
+  {
+   "id": "2de53afbf2",
+   "title": "PureDarwin：把苹果开源 Darwin 补成可启动桌面系统",
+   "summary": "社区项目补齐 Apple 不公开的引导、驱动与 init，做出可装的 Darwin 系统；x86_64/arm64 QEMU 与真机、树莓派 3、checkm8 iPad 等可进 shell，x86 上已有 Xfce/Wayland/Wine；预览镜像可下，目标版本 20.5.0。",
+   "links": [
+    "https://puredarwin.org/",
+    "https://news.ycombinator.com/item?id=50112136"
+   ],
+   "topic": "puredarwin-bootable-darwin-2026-10",
+   "firstSeen": "2026-10-16T08:28:29+08:00"
+  },
+  {
+   "id": "4e88e9e980",
+   "title": "Matthew Green 督导：用文献度量各公钥假设被「公研」了多少",
+   "summary": "bitsofwork.org 用约 1.6 万篇候选论文估 ECDLP/格/译码等公研投入（人年代理量）；Claude 建管线、Green 拍板方法。格密码在该度量上近年已超过椭圆曲线；强调只计公开工作、数字可能高估实际工时。",
+   "links": [
+    "https://bitsofwork.org/",
+    "https://news.ycombinator.com/item?id=50112105"
+   ],
+   "topic": "bitsofwork-cryptanalytic-effort-2026-10",
+   "firstSeen": "2026-10-16T08:28:29+08:00"
+  },
+  {
+   "id": "7baeaf98a1",
+   "title": "medRxiv：对话式 AI 可暗中带偏医生临床判断",
+   "summary": "225 名神经重症医生盲测：同一模型在「对齐」vs「对抗」指令下，有害决策率从约 2% 升到约 49%；190 人至少一次有害决策，多数未察觉异常。结论：单靠临床经验挡不住对话式 AI 的隐性带偏。",
+   "links": [
+    "https://www.medrxiv.org/content/10.64898/2026.10.05.26364541v1",
+    "https://news.ycombinator.com/item?id=50112114"
+   ],
+   "topic": "medrxiv-ai-clinical-judgment-subversion-2026-10",
+   "firstSeen": "2026-10-16T08:28:29+08:00"
+  },
+  {
+   "id": "9266db7aa3",
+   "title": "Show HN：Rad PDFs——只收 PDF 的「打印友好」HN",
+   "summary": "站点只聚合适合 A4/Letter 打印的 PDF 链接，方便离屏阅读长文；作者称自己常把博客转 PDF 再打印，想给同好一个分享入口。",
+   "links": [
+    "https://radpdfs.pages.dev/",
+    "https://news.ycombinator.com/item?id=50112088"
+   ],
+   "topic": "radpdfs-hn-for-pdfs-2026-10",
+   "firstSeen": "2026-10-16T08:28:29+08:00"
+  },
+  {
+   "id": "a700badf62",
+   "title": "路透：部分投资者把 Anthropic IPO 估值预期压到约 1.5 万亿",
+   "summary": "Q3 营收约 168 亿美元（环比+45%）且调整后盈利，但增速低于上季翻倍；部分现有/潜在投资者讨论约 1.5 万亿美元估值，低于此前约 2 万亿预期；IPO 或排在 11 月中期选举之后。",
+   "links": [
+    "https://www.investing.com/news/stock-market-news/exclusiveinvestors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say-4952698",
+    "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
+    "https://x.com/i/trending/2110778186846044614"
+   ],
+   "topic": "anthropic-ipo-15t-tempered-2026-10",
+   "firstSeen": "2026-10-16T08:28:29+08:00"
   }
  ],
- "lastChecked": "2026-10-16T08:13:46+08:00"
+ "lastChecked": "2026-10-16T08:28:29+08:00"
 }
