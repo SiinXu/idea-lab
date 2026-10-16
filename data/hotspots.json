@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T00:47:11+08:00",
+ "lastUpdated": "2026-10-17T01:00:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -13508,7 +13508,71 @@
    ],
    "topic": "rust-zip-crate-mass-yank-2026-10",
    "firstSeen": "2026-10-17T00:47:11+08:00"
+  },
+  {
+   "id": "3c203c9854",
+   "title": "Meta 商业条款大改：企业账号或被迫允许爬站训 AI",
+   "summary": "10 月 30 日起生效：关联官网可被爬取用于训练，新闻机构担心数百万许可费落空；Meta 称仍尊重 robots.txt。",
+   "links": [
+    "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
+   ],
+   "topic": "meta-commercial-tos-ai-crawl-2026-10",
+   "firstSeen": "2026-10-17T01:00:15+08:00"
+  },
+  {
+   "id": "a245e3d248",
+   "title": "波士顿动力老将做毛绒机器人 Hugo：主题乐园向交互角色",
+   "summary": "Dynamic Creatures 发布紫色角色机器人，43 个驱动，现仍遥控；瞄准乐园/酒店/零售，计划 2027 试点。",
+   "links": [
+    "https://www.bostonglobe.com/2026/10/13/business/dynamic-creatures-robotic-mascots/",
+    "https://x.com/i/trending/2111135168169730380"
+   ],
+   "topic": "dynamic-creatures-hugo-robot-2026-10",
+   "firstSeen": "2026-10-17T01:00:15+08:00"
+  },
+  {
+   "id": "995767ae26",
+   "title": "Dark GPUs：AI 数据中心不像「暗光纤」那样能躺赢",
+   "summary": "David Rosenthal 论证 GPU 折旧快、在建积压与真实需求被高估，暗光纤类比对 AI 基建不成立。",
+   "links": [
+    "https://blog.dshr.org/2026/10/dark-gpus.html",
+    "https://news.ycombinator.com/item?id=50120639"
+   ],
+   "topic": "dark-gpus-dshr-ai-bubble-2026-10",
+   "firstSeen": "2026-10-17T01:00:15+08:00"
+  },
+  {
+   "id": "326fc4a05d",
+   "title": "Starling 桌面再下一城：Claude 写的 Office 套件上线",
+   "summary": "Swift 写的文字/表格/演示，支持 DOCX/XLSX/PPTX；可脱离 Starling 桌面，也有 macOS/Windows 包。",
+   "links": [
+    "https://www.phoronix.com/news/AI-Starling-Desktop-Office"
+   ],
+   "topic": "starling-office-ai-generated-2026-10",
+   "firstSeen": "2026-10-17T01:00:15+08:00"
+  },
+  {
+   "id": "76b7c513ef",
+   "title": "3Blue1Brown：数学人现在入场反而更好？",
+   "summary": "Grant Sanderson 拆解数学家在做什么、价值与资金从哪来，讨论 AI 接管各环节后数学职业会怎样。",
+   "links": [
+    "https://3blue1brown.substack.com/p/theres-never-been-a-better-time-to",
+    "https://news.ycombinator.com/item?id=50120622"
+   ],
+   "topic": "3blue1brown-ai-math-reflections-2026-10",
+   "firstSeen": "2026-10-17T01:00:15+08:00"
+  },
+  {
+   "id": "330fcf2d80",
+   "title": "Show HN：Toolbit——浏览器里 43 个本地优先开发小工具",
+   "summary": "JSON/JWT/正则/SQL 等全在本地跑，无上传无账号；MIT 开源，可当 PWA 离线用。",
+   "links": [
+    "https://toolbit.app/",
+    "https://news.ycombinator.com/item?id=50120964"
+   ],
+   "topic": "toolbit-local-dev-utils-2026-10",
+   "firstSeen": "2026-10-17T01:00:15+08:00"
   }
  ],
- "lastChecked": "2026-10-17T00:47:11+08:00"
+ "lastChecked": "2026-10-17T01:00:15+08:00"
 }
