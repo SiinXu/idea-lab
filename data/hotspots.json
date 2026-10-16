@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T13:24:32+08:00",
+ "lastUpdated": "2026-10-16T13:45:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11555,7 +11555,31 @@
    ],
    "topic": "ghidra-trending-agent-re-2026-10",
    "firstSeen": "2026-10-16T13:24:32+08:00"
+  },
+  {
+   "id": "cf4d5c44bf",
+   "title": "日本气象厅误发 9.9 级地震紧急速报，约 12 分钟后撤回",
+   "summary": "10 月 16 日 12:36（日本时间），日本气象厅按初步数据对北海道至关东多地发出紧急地震速报，称千岛群岛附近深约 140 公里发生 9.9 级、最大震度 7 的地震；手机、电视全线告警，12:48 撤回，修正后约 6.5–6.7 级，东京等地无明显震感。暴露自动预警「宁可误报」的代价，相关话题冲上 X 热搜。",
+   "links": [
+    "https://x.com/i/trending/2110942737839067276",
+    "https://twitter.com/_TheoSteiner/status/2110943880900231439",
+    "https://news.ycombinator.com/item?id=50113935"
+   ],
+   "topic": "japan-eew-false-m99-2026-10",
+   "firstSeen": "2026-10-16T13:45:26+08:00"
+  },
+  {
+   "id": "b96879061d",
+   "title": "Rockstar 发布《GTA VI》上市预告：11 月 19 日登陆 PS5/Xbox",
+   "summary": "Rockstar 10 月 15 日放出 90 秒 PS5 实机上市预告，主角 Jason 与 Lucia 在 Vice City 犯罪与恋爱交织；配乐为 Justice 与 Tame Impala、SZA 等合作新曲。据 X 汇总，预告 6 小时破千万播放，迈阿密上空还出现 GTA 涂装飞艇，游戏 11 月 19 日上市、预购已开。",
+   "links": [
+    "https://www.youtube.com/watch?v=rz1B4B2yBZY",
+    "https://x.com/i/trending/2110894843866255447",
+    "https://news.ycombinator.com/item?id=50112873"
+   ],
+   "topic": "gta-vi-launch-trailer-2026-10",
+   "firstSeen": "2026-10-16T13:45:26+08:00"
   }
  ],
- "lastChecked": "2026-10-16T13:24:32+08:00"
+ "lastChecked": "2026-10-16T13:45:26+08:00"
 }
