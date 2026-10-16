@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T17:39:31+08:00",
+ "lastUpdated": "2026-10-16T17:55:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12277,7 +12277,17 @@
    ],
    "topic": "ai-coding-review-fatigue-2026-10-16",
    "firstSeen": "2026-10-16T17:39:31+08:00"
+  },
+  {
+   "id": "8582bb1b36",
+   "title": "OpenAI DevDay Exchange 首站出海：班加罗尔开场，主打 Codex 工作流",
+   "summary": "继旧金山之后，OpenAI 全球 DevDay Exchange 今天在班加罗尔开幕：邀请制，开发者、Codex 大使与 OpenAI 团队现场做 Codex 工作流技术分享和上手指导；2026 年巡回下一站是东京等城市。可关注各站议程，做 Codex 实战教程/活动速记内容。",
+   "links": [
+    "https://x.com/i/trending/2110781575713501609"
+   ],
+   "topic": "openai-devday-exchange-bengaluru-2026-10",
+   "firstSeen": "2026-10-16T17:55:31+08:00"
   }
  ],
- "lastChecked": "2026-10-16T17:39:31+08:00"
+ "lastChecked": "2026-10-16T17:55:31+08:00"
 }
