@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T01:34:36+08:00",
+ "lastUpdated": "2026-10-17T01:43:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -13694,7 +13694,59 @@
    ],
    "topic": "system1-llm-system2-aaai-2026-10",
    "firstSeen": "2026-10-17T01:34:36+08:00"
+  },
+  {
+   "id": "5dd18143be",
+   "title": "Hillclimb：用 Claude Code / Codex 做开源 AlphaEvolve 式搜索",
+   "summary": "rebase-energy 开源 Hillclimb：给可验证奖励，让编码 Agent 自主爬山搜索更优 Python 程序，支持 MAP-Elites 等策略。",
+   "links": [
+    "https://github.com/rebase-energy/hillclimb"
+   ],
+   "topic": "hillclimb-alphaevolve-claude-codex-2026-10",
+   "firstSeen": "2026-10-17T01:43:30+08:00"
+  },
+  {
+   "id": "ec7f9e8c66",
+   "title": "统计拆解 LLM「刷榜」：Google 模型在旧基准上偏高约 1.4 ECI",
+   "summary": "Emre Barut 在 Epoch 能力指数上加「刷榜系数」：基准发布早于模型时的额外分。拟合显示 Google 最明显，作者强调相关非因果。",
+   "links": [
+    "https://llemre.com/benchmaxxing/",
+    "https://github.com/aemrebarut/eci-benchmaxxing"
+   ],
+   "topic": "llm-benchmaxxing-eci-barut-2026-10",
+   "firstSeen": "2026-10-17T01:43:30+08:00"
+  },
+  {
+   "id": "d18aa54b07",
+   "title": "TrustedRouter 完成 600 万美元种子轮：主打加密与机密计算路由",
+   "summary": "对标 OpenRouter 的新路由层，Sierra Ventures 领投；强调端到端加密与可验证机密计算，并设想「纽约 Token 交易所」。",
+   "links": [
+    "https://www.semafor.com/article/10/16/2026/openrouter-challenger-closes-seed-round"
+   ],
+   "topic": "trustedrouter-seed-6m-2026-10",
+   "firstSeen": "2026-10-17T01:43:30+08:00"
+  },
+  {
+   "id": "e647e1ea0a",
+   "title": "花旗限制外部 AI Agent 直接碰客户账户",
+   "summary": "继美银后，花旗限制外部 AI Agent 访问客户账户，担心代理擅自挪动闲置资金；强调授权、身份与 Arc 管控平台。",
+   "links": [
+    "https://cryptobriefing.com/citi-restricts-ai-agents-customer-accounts/",
+    "https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91"
+   ],
+   "topic": "citi-restricts-ai-agents-accounts-2026-10",
+   "firstSeen": "2026-10-17T01:43:30+08:00"
+  },
+  {
+   "id": "0ea3bf8019",
+   "title": "Hack the North：给 1750 人做可编程 PCB 徽章的全程复盘",
+   "summary": "加拿大最大黑客松把名牌做成带屏、按键、无线电的可刷机徽章；开源硬件/固件/模拟器，周末排出 Among Us 等徽章黑客。",
+   "links": [
+    "https://va3ndf.com/blog/hacker-badges/"
+   ],
+   "topic": "hack-the-north-pcb-badges-2026-10",
+   "firstSeen": "2026-10-17T01:43:30+08:00"
   }
  ],
- "lastChecked": "2026-10-17T01:34:36+08:00"
+ "lastChecked": "2026-10-17T01:43:30+08:00"
 }
