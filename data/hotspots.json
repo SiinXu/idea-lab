@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T20:40:13+08:00",
+ "lastUpdated": "2026-10-16T20:59:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12692,7 +12692,19 @@
    ],
    "topic": "steam-achievement-sets",
    "firstSeen": "2026-10-16T20:40:13+08:00"
+  },
+  {
+   "id": "c3677e6ef1",
+   "title": "Altman 认错：GPT-4 之后 AI 颠覆比他预想的慢得多",
+   "summary": "Sam Altman 在 David Senra 播客里承认，原以为 GPT-4 一出软件生意就会马上被抢光，结果经济惯性太大：人们照旧买同一家、用同一套工具。他说这让转型「更平滑、更慢」，大家的时间表都太激进；这段话今天在 X 上再度刷屏，与 OpenAI 冲刺 IPO 的叙事形成反差。",
+   "links": [
+    "https://x.com/i/trending/2111074178766090411",
+    "https://www.davidsenra.com/episode/sam-altman",
+    "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-admits-hes-been-very-wrong-on-the-timeline-that-he-always-says-is-the-goal-of-openai-says-i-thought-when-we-got-to-/articleshow/133452067.cms"
+   ],
+   "topic": "altman-ai-disruption-slower-inertia-2026-10",
+   "firstSeen": "2026-10-16T20:59:08+08:00"
   }
  ],
- "lastChecked": "2026-10-16T20:40:13+08:00"
+ "lastChecked": "2026-10-16T20:59:08+08:00"
 }
