@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T05:46:18+08:00",
+ "lastUpdated": "2026-10-17T05:59:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -14840,7 +14840,69 @@
    ],
    "topic": "clawpump-solana-agent-hackathon-2026-10",
    "firstSeen": "2026-10-17T05:46:18+08:00"
+  },
+  {
+   "id": "18f9fd0105",
+   "title": "Replit 停用 Anthropic：CEO 称改押 OpenAI 更划算",
+   "summary": "TechCrunch Disrupt 上 Amjad Masad 称因成本、合作与自有基准表现，Replit 不再用 Anthropic，改用 Sol/Astra 做 vibe coding；也有知情人士称合作仍在。",
+   "links": [
+    "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+   ],
+   "topic": "replit-drops-anthropic-openai-2026-10",
+   "firstSeen": "2026-10-17T05:59:08+08:00"
+  },
+  {
+   "id": "436e092a0f",
+   "title": "Mouse-1：专为 Agent Harness 做的毫秒级决策模型",
+   "summary": "约 100ms 出决策、号称比 GPT-6 Sol 快 163 倍，陌生工具准确率 89.1%；按选项打概率，抗注入翻盘率测为 0，适合压 harness 成本与打断。",
+   "links": [
+    "https://mouse.dev/blog/mouse-decision-model/"
+   ],
+   "topic": "mouse-1-agent-harness-decision-2026-10",
+   "firstSeen": "2026-10-17T05:59:08+08:00"
+  },
+  {
+   "id": "cc6a85aa56",
+   "title": "Show HN：Pomoflow——1-bit 番茄钟，无登录跨设备同步待办",
+   "summary": "早期 Mac 风界面，待办用 128-bit 密钥/二维码配对同步（密钥只在 URL fragment，服务端只存哈希），还能嵌 YouTube 歌单。",
+   "links": [
+    "https://pomoflow.pages.dev/",
+    "https://news.ycombinator.com/item?id=50125084"
+   ],
+   "topic": "pomoflow-show-hn-2026-10",
+   "firstSeen": "2026-10-17T05:59:08+08:00"
+  },
+  {
+   "id": "18be5ff36a",
+   "title": "Derek Lowe：给 LLM 喂造假论文，多数模型照单全收",
+   "summary": "42 篇撤稿/伪科学探针测 30 个模型，多数 IFR 拒识率极低；会按 Macchiarini 气管移植等致命案例写出「成功」方案，科研 Agent 缺文献可信度闸。",
+   "links": [
+    "https://www.science.org/content/blog-post/how-llms-deal-fraudulent-papers"
+   ],
+   "topic": "llms-fraudulent-papers-derek-lowe-2026-10",
+   "firstSeen": "2026-10-17T05:59:08+08:00"
+  },
+  {
+   "id": "9626e78a10",
+   "title": "从形式化到 Fuzzing 再回来：AI 或让形式化终于能规模化",
+   "summary": "帝国理工 Donaldson 回顾 GPUVerify→GraphicsFuzz，认为 2025 末 frontier 模型在证明上跨过门槛；ARIA 资助 Keystone，用 AI+证明助手验证 LLM 推理服务栈。",
+   "links": [
+    "https://www.doc.ic.ac.uk/~afd/papers/2026/FSTTCS.pdf",
+    "https://news.ycombinator.com/item?id=50125212"
+   ],
+   "topic": "formal-methods-fuzzing-keystone-ai-2026-10",
+   "firstSeen": "2026-10-17T05:59:08+08:00"
+  },
+  {
+   "id": "ae497cf2bc",
+   "title": "AI 协助做出 iOS 27.0.1 免线越狱，号称覆盖 iPhone 18 Pro",
+   "summary": "heise 报道称用 AI 辅助做出针对 iOS 27.0.1 的 untethered jailbreak，并声称可在 iPhone 18 Pro 上使用；属越狱圈高风险动态，需自行核验。",
+   "links": [
+    "https://www.heise.de/en/news/Works-on-iPhone-18-Pro-AI-helps-create-untethered-jailbreak-for-iOS-27-0-1-11490907.html"
+   ],
+   "topic": "ios27-untethered-jailbreak-ai-2026-10",
+   "firstSeen": "2026-10-17T05:59:08+08:00"
   }
  ],
- "lastChecked": "2026-10-17T05:46:18+08:00"
+ "lastChecked": "2026-10-17T05:59:08+08:00"
 }
