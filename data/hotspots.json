@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T07:47:31+08:00",
+ "lastUpdated": "2026-10-16T07:59:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -10509,7 +10509,114 @@
    ],
    "topic": "free-ai-tools-curated-list-2026-10",
    "firstSeen": "2026-10-16T07:47:31+08:00"
+  },
+  {
+   "id": "a01e02239d",
+   "title": "IBM Granite Switch 4.1：对话、决策与语音同一端点",
+   "summary": "IBM 在 Hugging Face 发布 Granite Switch 4.1，把聊天、决策模型和语音能力收进同一推理端点，方便企业一套接口切换任务类型。",
+   "links": [
+    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
+   ],
+   "topic": "ibm-granite-switch-4-1-2026-10",
+   "firstSeen": "2026-10-16T07:59:35+08:00"
+  },
+  {
+   "id": "3d01311b29",
+   "title": "CLASHarness：测多 Agent 电脑操作冲突的可验证基准",
+   "summary": "Google Research 开源 CLASHarness：600 个多轮任务，专门造「过期状态 / 矛盾指令 / 抢锁」冲突；前沿模型在收尾放锁等协调动作上失败率仍超 58%。",
+   "links": [
+    "https://huggingface.co/papers/2610.19128",
+    "https://github.com/google-research/CLASHarness",
+    "https://arxiv.org/abs/2610.19128"
+   ],
+   "topic": "clasharness-multiagent-conflict-2026-10",
+   "firstSeen": "2026-10-16T07:59:35+08:00"
+  },
+  {
+   "id": "a188583b7f",
+   "title": "SwarmRSI：用变异与重组让科研 Agent 群递归自改进",
+   "summary": "新论文 SwarmRSI 让科研 Agent 群共享假设、程序与实验反馈，用反馈引导变异和互补重组；在 OpenProblems / NatureBench / MLE-Bench Lite 上刷新成绩。",
+   "links": [
+    "https://huggingface.co/papers/2610.20431",
+    "https://arxiv.org/abs/2610.20431"
+   ],
+   "topic": "swarmrsi-scientific-agent-swarm-2026-10",
+   "firstSeen": "2026-10-16T07:59:35+08:00"
+  },
+  {
+   "id": "d61bbedb32",
+   "title": "APEX-Harm：共享办公工作区里的 Agent 安全评测",
+   "summary": "APEX-Harm 面向命令行与多工具共享工作区（文件、消息、业务应用），专门评测专业 Agent 在协作环境中的安全风险与伤害场景。",
+   "links": [
+    "https://huggingface.co/papers/2610.13623"
+   ],
+   "topic": "apex-harm-agent-workspace-safety-2026-10",
+   "firstSeen": "2026-10-16T07:59:35+08:00"
+  },
+  {
+   "id": "1ad459b9e3",
+   "title": "Thinking Leakage：混合推理模型 RL 训练会「漏思考」",
+   "summary": "论文指出像 Qwen3 这类可切换 THINK / NO-THINK 的模型，在 NO-THINK 模式做 RL 时仍可能泄漏思考痕迹，影响训练假设与评测公平性。",
+   "links": [
+    "https://huggingface.co/papers/2610.14270"
+   ],
+   "topic": "thinking-leakage-rl-llms-2026-10",
+   "firstSeen": "2026-10-16T07:59:35+08:00"
+  },
+  {
+   "id": "024ccd3019",
+   "title": "Spritely：OCapN 端到端加密中继上线",
+   "summary": "Spritely Institute 发布 OCapN 的端到端加密中继，让基于能力（capability）的分布式对象通信可在不可信中继上转发而不暴露内容。",
+   "links": [
+    "https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html",
+    "https://news.ycombinator.com/item?id=50111953"
+   ],
+   "topic": "ocapn-e2e-encrypted-relays-2026-10",
+   "firstSeen": "2026-10-16T07:59:35+08:00"
+  },
+  {
+   "id": "8bdc2d9279",
+   "title": "给特斯拉加装汽油机的 Obrist 破产，欠债约 3700 万美元",
+   "summary": "曾推销 Hyperhybrid「给特斯拉装汽油增程」方案的 Obrist 申请破产，负债约 3700 万美元，侧面说明这类改装商业化很难走通。",
+   "links": [
+    "https://electrek.co/2026/10/15/obrist-hyperhybrid-gas-engine-tesla-bankruptcy/",
+    "https://news.ycombinator.com/item?id=50111689"
+   ],
+   "topic": "obrist-hyperhybrid-bankruptcy-2026-10",
+   "firstSeen": "2026-10-16T07:59:35+08:00"
+  },
+  {
+   "id": "8c627613fd",
+   "title": "Intero Biosystems 拿下 Disrupt 2026 Startup Battlefield 冠军",
+   "summary": "TechCrunch Disrupt 2026 战场赛冠军花落 Intero Biosystems（「迷你人肠」器官芯片做非动物试验），从五强决赛中胜出。",
+   "links": [
+    "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/"
+   ],
+   "topic": "intero-battlefield-winner-disrupt-2026-10",
+   "firstSeen": "2026-10-16T07:59:35+08:00"
+  },
+  {
+   "id": "6c4d1581a4",
+   "title": "Meta 商业条款：新闻站账号或默认同意抓取，10 月 30 日起生效",
+   "summary": "Nieman Lab 报道：Meta 更新商业条款后，媒体等商业账号可能被视为同意网站内容被抓取用于训练等用途，法律人士提醒注意默认同意风险。",
+   "links": [
+    "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+    "https://news.ycombinator.com/item?id=50111852"
+   ],
+   "topic": "meta-commercial-terms-scraping-oct30-2026-10",
+   "firstSeen": "2026-10-16T07:59:35+08:00"
+  },
+  {
+   "id": "1f6326814a",
+   "title": "Vercel 开源 Eve Python Agent 模板：聊天管任务列表",
+   "summary": "vercel-labs 放出 Eve + Next.js + FastAPI 模板：对话即可增删任务，任务页实时展示，适合快速搭「有后端工具」的 Agent 演示站。",
+   "links": [
+    "https://github.com/vercel-labs/eve-agent-python-template",
+    "https://news.ycombinator.com/item?id=50111540"
+   ],
+   "topic": "vercel-eve-python-agent-template-2026-10",
+   "firstSeen": "2026-10-16T07:59:35+08:00"
   }
  ],
- "lastChecked": "2026-10-16T07:47:31+08:00"
+ "lastChecked": "2026-10-16T07:59:35+08:00"
 }
