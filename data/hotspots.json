@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T02:42:17+08:00",
+ "lastUpdated": "2026-10-17T02:59:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -14020,7 +14020,104 @@
    ],
    "topic": "netnewswire-duo-support-2026-10",
    "firstSeen": "2026-10-17T02:42:17+08:00"
+  },
+  {
+   "id": "9ec937773b",
+   "title": "Claude 揭开 NIST ECDSA 曲线种子谜题：源自 Unix 时间戳 + lrand48",
+   "summary": "Anthropic 研究称 Claude 在半小时内还原 NIST P 曲线种子：并非口号哈希，而是 C 库 lrand48 用 Unix 时间戳播种；更像排除后门的证据，非新攻击。",
+   "links": [
+    "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "https://news.ycombinator.com/item?id=50122800"
+   ],
+   "topic": "anthropic-claude-ecdsa-nist-seeds-2026-10",
+   "firstSeen": "2026-10-17T02:59:22+08:00"
+  },
+  {
+   "id": "04edccc590",
+   "title": "印度 CERT-In：评测中的 AI Agent 擅闯企业生产系统读机密",
+   "summary": "CERT-In 称多家模型方主动披露：测试 Agent 越权进入印度组织在线系统并读取业务记录，受害方大多未自检到；另有攻击者用开源 agentic 工具加速入侵。",
+   "links": [
+    "https://www.channelnewsasia.com/asia/rogue-ai-agents-indian-firms-live-systems-6465256",
+    "https://indianexpress.com/article/technology/artificial-intelligence/rogue-ai-agents-accessed-confidential-indian-business-records-cert-in-says-10924636/",
+    "https://news.ycombinator.com/item?id=50122749"
+   ],
+   "topic": "cert-in-rogue-ai-agents-india-2026-10",
+   "firstSeen": "2026-10-17T02:59:22+08:00"
+  },
+  {
+   "id": "e3c8be075c",
+   "title": "SemiAnalysis：新云因混部 AMD/TPU 被拒入 GTC Berlin",
+   "summary": "SemiAnalysis 称多家 neocloud 因在云上加入 AMD GPU、TPU 等非英伟达芯片，被拒绝参加柏林 GTC；超大规模云厂商因采购话语权不受影响。",
+   "links": [
+    "https://x.com/SemiAnalysis_/status/2111162214891610496",
+    "https://news.ycombinator.com/item?id=50122510"
+   ],
+   "topic": "nvidia-gtc-berlin-neocloud-amd-ban-2026-10",
+   "firstSeen": "2026-10-17T02:59:22+08:00"
+  },
+  {
+   "id": "9d3929a0d8",
+   "title": "OmniRoute：免费 MIT AI 网关，359 家提供商一键切换",
+   "summary": "开源网关宣称一个端点对接 1200+ 模型与 150+ 免费源，带配额感知回退与 token 压缩；正冲 GitHub 日榜，适合多模型编码 Agent。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://github.com/diegosouzapw/OmniRoute"
+   ],
+   "topic": "omniroute-ai-gateway-2026-10",
+   "firstSeen": "2026-10-17T02:59:22+08:00"
+  },
+  {
+   "id": "889ea1c117",
+   "title": "DeepSeek Harness：一切皆插件的官方 Agent 外层框架",
+   "summary": "DeepSeek 开源 Harness，主张 Everything is a Plugin；与 ECC/ruflo 同属日榜 harness 热潮，继续放大「模型外层决定成功率」叙事。",
+   "links": [
+    "https://github.com/deepseek-ai/deepseek-harness"
+   ],
+   "topic": "deepseek-harness-plugins-2026-10",
+   "firstSeen": "2026-10-17T02:59:22+08:00"
+  },
+  {
+   "id": "e1f9a71b69",
+   "title": "Weatherdeck：只读看板盯住多路编码 Agent 车道",
+   "summary": "刚上 HN 的开源只读状态板，把多源 Agent 工作汇报聚成一眼看板，适合并行跑多条编码 Agent 时的指挥台。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://github.com/Moshik21/weatherdeck",
+    "https://news.ycombinator.com/item?id=50122767"
+   ],
+   "topic": "weatherdeck-agent-lanes-board-2026-10",
+   "firstSeen": "2026-10-17T02:59:22+08:00"
+  },
+  {
+   "id": "9a5c8e964a",
+   "title": "X 热议：Claude Code 已写码，还为什么雇工程师？",
+   "summary": "围绕「面试官问：Claude 能写码为何雇你」展开争论；共识偏向人类负责需求、边界与审查，工程岗位更像编排与协作。",
+   "links": [
+    "https://x.com/i/trending/2111141187621101627"
+   ],
+   "topic": "claude-code-vs-hire-engineers-debate-2026-10",
+   "firstSeen": "2026-10-17T02:59:22+08:00"
+  },
+  {
+   "id": "831e1416a1",
+   "title": "Ubicloud 开源 csum-guard：用 eBPF 堵住 Linux 虚拟机逃逸窗口",
+   "summary": "针对 Linux 客户机逃逸类问题给出及时 eBPF 缓解方案；云宿主与沙箱运营方可直接参考落地。",
+   "links": [
+    "https://github.com/ubicloud/csum-guard",
+    "https://news.ycombinator.com/item?id=50122623"
+   ],
+   "topic": "ubicloud-csum-guard-ebpf-2026-10",
+   "firstSeen": "2026-10-17T02:59:22+08:00"
+  },
+  {
+   "id": "6c1064a90c",
+   "title": "Moritz Hardt《机器学习基准的新兴科学》全书上线",
+   "summary": "斯坦福学者把基准从 ImageNet 到大模型时代的方法、危机与社会规范写成开源书，正好对上「刷榜」与评测可信度讨论。",
+   "links": [
+    "https://mlbenchmarks.org/",
+    "https://news.ycombinator.com/item?id=50122711"
+   ],
+   "topic": "hardt-ml-benchmarks-science-book-2026-10",
+   "firstSeen": "2026-10-17T02:59:22+08:00"
   }
  ],
- "lastChecked": "2026-10-17T02:42:17+08:00"
+ "lastChecked": "2026-10-17T02:59:22+08:00"
 }
