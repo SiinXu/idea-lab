@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T12:47:21+08:00",
+ "lastUpdated": "2026-10-16T12:58:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11496,7 +11496,29 @@
    ],
    "topic": "meta-mason-county-datacenter-2026-10",
    "firstSeen": "2026-10-16T12:47:21+08:00"
+  },
+  {
+   "id": "693c4fc97f",
+   "title": "希腊草案：数据中心电力至少 60% 来自可再生，并建登记制",
+   "summary": "环境能源部草案要求数据中心可再生占比≥60%，申请并网需财务能力证明与每 MW 约 20 万欧元银行保函，并拟建国家数据中心登记；征求意见至 10 月 24 日。继西班牙拟要求 80% 之后，欧洲 AI 算力落地又多一道绿电门槛。",
+   "links": [
+    "https://www.datacenterdynamics.com/en/news/greece-drafts-legislation-requiring-data-centers-source-60-of-power-from-renewables/"
+   ],
+   "topic": "greece-dc-60pct-renewables-2026-10",
+   "firstSeen": "2026-10-16T12:58:57+08:00"
+  },
+  {
+   "id": "4a6c68c4dc",
+   "title": "Envato 上线「Edit with AI / Riff」：库存图就地改，底层用 Krea 3",
+   "summary": "在素材详情页直接改背景、扩图、调光或用自然语言迭代；X 热议称配合 Krea 3 约 8 秒内出图且保留商业授权。库存站把「差一点」变成可卖成片，降低设计师重拍成本。适合做成 Idea Lab 新点子：素材站就地 AI 精修工作流。",
+   "links": [
+    "https://x.com/i/trending/2110952969512329552",
+    "https://elements.envato.com/learn/whats-new-at-envato",
+    "https://www.krea.ai/blog/introducing-krea-3"
+   ],
+   "topic": "envato-edit-with-ai-krea-2026-10",
+   "firstSeen": "2026-10-16T12:58:57+08:00"
   }
  ],
- "lastChecked": "2026-10-16T12:47:21+08:00"
+ "lastChecked": "2026-10-16T12:58:57+08:00"
 }
