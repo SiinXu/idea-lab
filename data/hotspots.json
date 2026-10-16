@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T14:48:43+08:00",
+ "lastUpdated": "2026-10-16T14:55:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11730,7 +11730,29 @@
    ],
    "topic": "linux-knod-amd-gpu-offload-2026-10",
    "firstSeen": "2026-10-16T14:48:43+08:00"
+  },
+  {
+   "id": "05940fb740",
+   "title": "Sakana 开源 Agentic Scientist：用编码 Agent 跑完整科研闭环",
+   "summary": "AI Scientist v3 把 Codex/Claude Code 等装进并行脚手架：任务起草、假设实验、消融、审稿式写作；配套 AutoIllustrate 生成可编辑科研图。开发版与人类共研的 Error Diffusion 论文获 ALIFE 2026 oral；代码 Apache-2.0，论文 arXiv:2610.18933。",
+   "links": [
+    "https://pub.sakana.ai/agentic-scientist/",
+    "https://github.com/SakanaAI/AI-Scientist-v3",
+    "https://arxiv.org/abs/2610.18933"
+   ],
+   "topic": "sakana-agentic-scientist-v3-2026-10",
+   "firstSeen": "2026-10-16T14:55:33+08:00"
+  },
+  {
+   "id": "b774389cd3",
+   "title": "Martin Fowler 站：软件遇上硬件——IoT 传感器改造的默认值全变了",
+   "summary": "Kuldeep Singh 在 Fowler 站谈大规模电池供电 IoT 改造：测试、能耗、连通性、可观测与安全刷固件/回滚的默认策略都要因硬件约束重写；软件工程原则仍在，但「合理默认」不再一样。",
+   "links": [
+    "https://www.martinfowler.com/articles/software-meets-hardware.html"
+   ],
+   "topic": "fowler-software-meets-hardware-2026-10",
+   "firstSeen": "2026-10-16T14:55:33+08:00"
   }
  ],
- "lastChecked": "2026-10-16T14:48:43+08:00"
+ "lastChecked": "2026-10-16T14:55:33+08:00"
 }
