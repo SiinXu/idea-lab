@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T14:56:03+08:00",
+ "lastUpdated": "2026-10-16T15:12:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11762,7 +11762,70 @@
    ],
    "topic": "jpeg-xl-vs-avif-jake-archibald-2026-10",
    "firstSeen": "2026-10-16T14:56:03+08:00"
+  },
+  {
+   "id": "0975ef17c2",
+   "title": "OpenViking：给 AI Agent 的「上下文数据库」，用 viking:// 文件系统统一记忆与 RAG",
+   "summary": "字节跳动火山引擎开源的 Agent 上下文库，把知识、长期记忆和 Skills 收成可浏览的虚拟文件系统；会话可归档成 Markdown，支持按目录做语义检索与 L0/L1/L2 渐进加载，已接 Claude Code / Cursor / LangGraph 等。GitHub 星标约 4 万，今日仍在活跃推送。",
+   "links": [
+    "https://github.com/volcengine/OpenViking",
+    "https://openviking.ai/"
+   ],
+   "topic": "openviking-context-db-2026-10",
+   "firstSeen": "2026-10-16T15:12:24+08:00"
+  },
+  {
+   "id": "64daac4494",
+   "title": "CGPM 决议 6：推进国际「月球参考时标」，并与 UTC 可追溯对齐",
+   "summary": "第 28 届国际计量大会通过决议，鼓励空间机构在月面 PNT 中采用与 IAU 月球坐标时（TCL）一致的国际月球参考时标，并与 BIPM/UTC 体系对齐，避免各家自建时标互相打架；与同日废除闰秒的决议形成「地月时间」配套。",
+   "links": [
+    "https://www.bipm.org/en/cgpm-2026/resolution-6"
+   ],
+   "topic": "cgpm-lunar-reference-time-2026-10",
+   "firstSeen": "2026-10-16T15:12:24+08:00"
+  },
+  {
+   "id": "38d86326fb",
+   "title": "Casio F-91W × Statecharts：用 XState 复现经典电子表状态机教学演示",
+   "summary": "开发者把 Harel 1987 年状态图论文里的「电子表」例子落到仍在量产的 Casio F-91W 上：界面复刻 + XState 状态机 + Stately 可视化并排展示，在线可玩。适合做状态机/嵌入式 UI 的教学素材。",
+   "links": [
+    "https://github.com/dundalek/casio-f91w-fsm",
+    "https://casio-f91w.pages.dev"
+   ],
+   "topic": "casio-f91w-statecharts-2026-10",
+   "firstSeen": "2026-10-16T15:12:24+08:00"
+  },
+  {
+   "id": "7dfe5974a6",
+   "title": "Reflect Orbital 在惠特尼山附近用探照灯模拟「轨道反光镜」夜间补光",
+   "summary": "初创公司想用卫星反光镜把阳光卖到夜间：最新地面试验在加州惠特尼山一带用大功率探照灯模拟轨道光斑亮度（略高于满月），并请山地搜救队在光束下演练；尚非在轨反光镜测试，但把「卖夜间阳光」从概念推到可感知演示。",
+   "links": [
+    "https://www.reflectorbital.com/",
+    "https://www.sfchronicle.com/outdoors/article/reflect-orbital-light-mt-whitney-22475517.php"
+   ],
+   "topic": "reflect-orbital-whitney-spotlight-2026-10",
+   "firstSeen": "2026-10-16T15:12:24+08:00"
+  },
+  {
+   "id": "53178f6851",
+   "title": "Nature：细菌抗病毒新系统 DRT10，机制酷似真核端粒酶的重复 DNA 合成",
+   "summary": "哥伦比亚大学等团队发现 DRT10 防御系统：非编码 RNA 模板 + 蛋白引物，由两个 RT 单体做边界限定的串联重复 cDNA 合成，与端粒酶添加端粒重复高度平行；系统发育显示端粒酶与 DRT 家族同源，扩展了 RNA 模板 DNA 重复合成的抗病毒武库。",
+   "links": [
+    "https://www.nature.com/articles/s41586-026-11250-8"
+   ],
+   "topic": "nature-drt10-telomerase-like-2026-10",
+   "firstSeen": "2026-10-16T15:12:24+08:00"
+  },
+  {
+   "id": "16c8a3cd22",
+   "title": "水杉输入法 MSIME：一套引擎覆盖安卓/iOS/macOS/Linux/Windows/鸿蒙",
+   "summary": "开源跨平台中文输入法项目，共享输入引擎 + 各平台原生宿主，目标覆盖主流桌面与移动系统（含 HarmonyOS）。GitHub 已有约 750+ 星，适合关注国产/跨端输入法基建的人跟进。",
+   "links": [
+    "https://github.com/metasequoiaime/msime"
+   ],
+   "topic": "msime-cross-platform-ime-2026-10",
+   "firstSeen": "2026-10-16T15:12:24+08:00"
   }
  ],
- "lastChecked": "2026-10-16T14:56:03+08:00"
+ "lastChecked": "2026-10-16T15:12:24+08:00"
 }
