@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T00:12:02+08:00",
+ "lastUpdated": "2026-10-17T00:25:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -13376,7 +13376,105 @@
    ],
    "topic": "atlantic-chromebook-memory-schools-2026-10",
    "firstSeen": "2026-10-17T00:12:02+08:00"
+  },
+  {
+   "id": "1aa8b1ac1c",
+   "title": "Elorian 发布 Glimpse：用「视觉草稿本」边看边推理",
+   "summary": "TechCrunch 独家：Palo Alto 创业公司 Elorian（种子轮 5500 万美元、估值约 3 亿）首发视觉推理模型 Glimpse。多数多模态模型看一眼图就转成文字推理；Glimpse 可中途裁剪区域、抽视频帧、跑代码测量对比，自称在科学图表与短视频字幕上胜过 GPT-6 Astra。API 预览约 $0.60/百万输入、$3/百万输出；聊天界面仍排队。适合机器人、实验室与视频公司。",
+   "links": [
+    "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
+   ],
+   "topic": "elorian-glimpse-visual-scratch-2026-10",
+   "firstSeen": "2026-10-17T00:25:17+08:00"
+  },
+  {
+   "id": "3514787761",
+   "title": "Vercel：Jev 两周内成 AI Gateway 史上吸粉最快模型",
+   "summary": "TechCrunch：Vercel 数据称决策模型 Jev（TypeSafe）上线约两周，付费团队采用率已达 35%，近乎第二名 Sonnet 5.5 的两倍，创 Gateway 首两周纪录。Jev 专做少数预定选项之间的轻量分类，比通用大模型更便宜更快；Vercel 自己也用它替换 GPT-6 Luna 做有害指令分类。开源模型已占 Gateway token 七成以上，但前沿实验室支出仍增长约十倍。",
+   "links": [
+    "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "https://vercel.com/blog/ai-gateway-jev-model-launch"
+   ],
+   "topic": "jev-vercel-fastest-adopted-2026-10",
+   "firstSeen": "2026-10-17T00:25:17+08:00"
+  },
+  {
+   "id": "9ec6f5efdc",
+   "title": "Dekton 到底是什么：Charles C Mann 讲「瓷器 3.0」材料革命",
+   "summary": "Works in Progress 长文冲上 HN 首页：西班牙 Cosentino 的 Dekton 把瓷粉、玻璃与石英高压（约 2.5 万吨）高温烧结成整块，几乎消除传统陶瓷脆性，常用于高端灶台面。作者从电磁炉面板贵五倍引出材料科学：防滑瓷砖、生物陶瓷髋关节、牙科超薄修复等「看不见的物质创新」与数字/AI 同样改变日常。",
+   "links": [
+    "https://worksinprogress.co/issue/everything-rhymes-with-porcelain/",
+    "https://news.ycombinator.com/item?id=50118828"
+   ],
+   "topic": "dekton-porcelain-materials-mann-2026-10",
+   "firstSeen": "2026-10-17T00:25:17+08:00"
+  },
+  {
+   "id": "489592dd8e",
+   "title": "纽约报告：设计媒体入门岗贴少约 40.6%，AI 技能贴却涨 55%",
+   "summary": "Partnership for New York City：自 ChatGPT 以来，设计/媒体/写作入门岗位年贴量降约 40.6%，客服约 34.4%，文职约 30.5%；要求 AI 技能的入门贴却升约 55%。AI 公司 2026 上半年在纽租赁逾 220 万平方英尺办公（超 2025 全年两倍）。报告呼吁把年轻人入职通道写进城市 AI 战略。",
+   "links": [
+    "https://pfnyc.org/news/new-yorks-ai-revolution-is-already-transforming-commercial-real-estate-and-entry-level-career-pathways-new-report-from-partnership-for-new-york-city-finds",
+    "https://x.com/i/trending/2111115992453750942"
+   ],
+   "topic": "pfnyc-ai-entry-level-jobs-2026-10",
+   "firstSeen": "2026-10-17T00:25:17+08:00"
+  },
+  {
+   "id": "7c930772ea",
+   "title": "RemainderBot 开源：用即将过期的 Claude/Codex 配额帮你干活",
+   "summary": "Show HN：Ari Wilson 把每周快过期的订阅配额花在任务清单、Issue 与笔记上，完成后开私有仓 PR 等你审。25 天做了 111 个任务（约三分之一已合并）；示例包括从 Bakeoff 实验数据做出 Decision Lab 原型。仅在重置前几小时且剩余≥10% 时唤醒，不额外扣 API 费。",
+   "links": [
+    "https://www.ariwilson.com/writing/openremainderbot/",
+    "https://github.com/arimwilson/openremainderbot",
+    "https://news.ycombinator.com/item?id=50120334"
+   ],
+   "topic": "remainderbot-leftover-quota-2026-10",
+   "firstSeen": "2026-10-17T00:25:17+08:00"
+  },
+  {
+   "id": "e2d2754998",
+   "title": "Show HN：Aegis——给 AI 工具做整机网络防火墙",
+   "summary": "预售中的 AI 流量防火墙：在 Anthropic/OpenAI/Gemini/本地模型路径上双向检查请求与响应（含流式），可允许/拦截/改写/询问，失败默认拦截。提供云过滤、约 $50 USB 加密狗与约 $500 边缘过滤设备；强调不碰你的 API Key。适合防提示注入与数据外泄。",
+   "links": [
+    "https://aegisfw.com/",
+    "https://news.ycombinator.com/item?id=50120286"
+   ],
+   "topic": "aegis-ai-network-firewall-2026-10",
+   "firstSeen": "2026-10-17T00:25:17+08:00"
+  },
+  {
+   "id": "754de42b7e",
+   "title": "Firefox 158 默认开启 JPEG XL 支持",
+   "summary": "Mozilla 双周版 Firefox 158 终于默认启用 JPEG XL（此前需实验开关），图片请求的 Accept 头也带上 image/jxl。另有 Smart Window 更快填表、CSS typed arithmetic 等开发者改进。与 AVIF/WebP 并列为网页图片新选项。",
+   "links": [
+    "https://www.firefox.com/en-US/firefox/158.0/releasenotes/",
+    "https://www.phoronix.com/news/Firefox-158-Released"
+   ],
+   "topic": "firefox-158-jpeg-xl-default-2026-10",
+   "firstSeen": "2026-10-17T00:25:17+08:00"
+  },
+  {
+   "id": "e6b0c9baa3",
+   "title": "Replit CEO：未来工作是「自动驾驶公司」",
+   "summary": "TechCrunch Disrupt：Amjad Masad 称 AI Agent 将承担大量持续运营，人类专注判断、方向与创意；并称 Replit 自身已靠 Agent 推动日常改进，朝「能自己跑」的公司形态演进。",
+   "links": [
+    "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/"
+   ],
+   "topic": "replit-self-driving-company-2026-10",
+   "firstSeen": "2026-10-17T00:25:17+08:00"
+  },
+  {
+   "id": "9918b612c4",
+   "title": "Show HN：Grimoire for Biology——生物领域的可交互知识工具",
+   "summary": "HN 新帖：面向生物学的交互式知识/实验辅助站点 grimoire.bio 上线 Show HN，试图把生物概念与工作流做成可探索界面（早期产品，值得盯后续更新）。",
+   "links": [
+    "https://grimoire.bio",
+    "https://news.ycombinator.com/item?id=50118950"
+   ],
+   "topic": "grimoire-biology-show-hn-2026-10",
+   "firstSeen": "2026-10-17T00:25:17+08:00"
   }
  ],
- "lastChecked": "2026-10-17T00:12:02+08:00"
+ "lastChecked": "2026-10-17T00:25:17+08:00"
 }
