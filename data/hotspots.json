@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T21:48:29+08:00",
+ "lastUpdated": "2026-10-16T22:05:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12873,7 +12873,20 @@
    ],
    "topic": "taiwan-ai-chip-export-criminal-2026-10",
    "firstSeen": "2026-10-16T21:48:29+08:00"
+  },
+  {
+   "id": "e36e0890fc",
+   "title": "Jupiter 上线 1000 倍杠杆 YOLO：不到 24 小时成交破 10 亿美元",
+   "summary": "Solana 聚合器 Jupiter Labs 推出 YOLO（Beta、未审计）：SOL/BTC/ETH 多空 500x–1000x 杠杆，最低 5 JupUSD，无止盈止损，对手方是「庄家池」；1000x 下反向波动 0.1% 即爆仓，池子不够时盈利需排队兑付。官方称上线不到 24 小时成交额破 10 亿美元，链上「赌场化」产品再引热议与风险警告。",
+   "links": [
+    "https://thedefiant.io/news/defi/jupiter-says-yolo-hit-1-billion-in-volume-in-under-24-hours",
+    "https://docs.jup.ag/user-docs/labs/yolo",
+    "https://www.tokenpost.com/news/investing/32616",
+    "https://x.com/i/trending/2111090549931598009"
+   ],
+   "topic": "jupiter-yolo-1000x-2026-10",
+   "firstSeen": "2026-10-16T22:05:37+08:00"
   }
  ],
- "lastChecked": "2026-10-16T21:48:29+08:00"
+ "lastChecked": "2026-10-16T22:05:37+08:00"
 }
