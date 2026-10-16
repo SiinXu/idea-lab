@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T07:29:52+08:00",
+ "lastUpdated": "2026-10-17T07:49:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15327,7 +15327,38 @@
    ],
    "topic": "openmap-wow-classic-addon-2026-10",
    "firstSeen": "2026-10-17T07:29:52+08:00"
+  },
+  {
+   "id": "f8ddb69890",
+   "title": "Proton Computer：月付 20 美元的常驻 Linux，专给 Agent 跑长任务",
+   "summary": "独立产品（非 ProtonMail）：8 vCPU、内存 2–64GB 弹性、50GB 盘，按秒计费；预装 Claude Code / Codex / Docker，关笔记本也能继续跑。适合 OPC 的云端执行机备用选项。",
+   "links": [
+    "https://app.proton.computer/",
+    "https://news.ycombinator.com/item?id=50126224"
+   ],
+   "topic": "proton-computer-agent-vm-2026-10",
+   "firstSeen": "2026-10-17T07:49:05+08:00"
+  },
+  {
+   "id": "1b8490ac34",
+   "title": "OpenUI：智能 UI 时代需要「新的 HTML」——IIL 正在碎片化",
+   "summary": "Thesys 创始人指出 ChatGPT DIL、A2UI、OpenUI Lang、json-render 各搞一套接口推理语言；架构趋同但互不兼容。呼吁先统一词汇与契约，别再把渲染层焊死在单一实验室。",
+   "links": [
+    "https://www.openui.com/blog/intelligent-ui-needs-a-new-html"
+   ],
+   "topic": "openui-iil-needs-shared-html-2026-10",
+   "firstSeen": "2026-10-17T07:49:05+08:00"
+  },
+  {
+   "id": "4e0827c8bb",
+   "title": "微软 10 月补丁创纪录：一次修 1411 个洞，含 3 个零日",
+   "summary": "AI 辅助挖洞让 Patch Tuesday 体量暴涨；含在野利用的 Windows Shell MotW 绕过（CVE-2026-96951），并试验用「风险队列」帮企业排优先级。Win11 24H2 家庭/专业版同日结束支持。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/"
+   ],
+   "topic": "ms-patch-tuesday-1411-oct2026",
+   "firstSeen": "2026-10-17T07:49:05+08:00"
   }
  ],
- "lastChecked": "2026-10-17T07:29:52+08:00"
+ "lastChecked": "2026-10-17T07:49:05+08:00"
 }
