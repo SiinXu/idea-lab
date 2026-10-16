@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T09:23:18+08:00",
+ "lastUpdated": "2026-10-16T09:45:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -10992,7 +10992,51 @@
    ],
    "topic": "dev-ai-coding-fatigue-torvalds-disclosure",
    "firstSeen": "2026-10-16T09:23:18+08:00"
+  },
+  {
+   "id": "5dbfd74501",
+   "title": "Cloudflare × OpenAI：用网络信号帮 ChatGPT 发现更多网页",
+   "summary": "双方公布 7 月起研究试点结果：借 Cloudflare 约 1% 网络流量的发现信号，OpenAI 搜索索引新增了数亿此前难被发现的页面；同时过滤无效 URL、识别有害页，并强调信号不等于训练授权。站长仍可用 AI Crawl Control 管爬虫。",
+   "links": [
+    "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
+    "https://news.ycombinator.com/item?id=50112577"
+   ],
+   "topic": "cloudflare-openai-discovery-agentic-web-2026-10",
+   "firstSeen": "2026-10-16T09:45:32+08:00"
+  },
+  {
+   "id": "309b03f64d",
+   "title": "密码学家 Matthew Green：关键基础设施请尽快下架公开固件镜像",
+   "summary": "Johns Hopkins 密码学家 Matthew Green 发帖称，尽管违背自己一贯的透明立场，但在 AI 辅助挖洞加速的今天，关键基础设施应尽快撤回公开固件镜像，否则等于给自动化分析送弹药。帖子互动很高，安全圈正在争论「隐藏 vs 公开利于修补」。",
+   "links": [
+    "https://x.com/i/status/2110808645319491606",
+    "https://x.com/i/trending/2110867535587365362"
+   ],
+   "topic": "matthew-green-firmware-images-critical-infra-2026-10",
+   "firstSeen": "2026-10-16T09:45:32+08:00"
+  },
+  {
+   "id": "9bad7e9a26",
+   "title": "Netflix 技术博客：大规模训练/推理的可靠 GPU 算力",
+   "summary": "Netflix 分享 GPU 平台做法：分层健康检查、分级自动修复、带检查点的弹性作业；在准入前校验节点，故障时杀作业、重置 GPU、重启或换机，并追踪坏卡标识避免反复失败。文中称 GPU 节点可用性超 99.95%、作业成功率超 99.5%。",
+   "links": [
+    "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a",
+    "https://news.ycombinator.com/item?id=50112690"
+   ],
+   "topic": "netflix-reliable-gpu-compute-2026-10",
+   "firstSeen": "2026-10-16T09:45:32+08:00"
+  },
+  {
+   "id": "80e80e4f9d",
+   "title": "Rust 1.99.1 发布：修 wcslen、FFI bool 与 macOS rust-lld",
+   "summary": "点版本修复三处回归：部分目标缺 wcslen 符号（LLVM loop-idiom 引入调用，UEFI 等受影响）、x86_64 上 FFI 返回 bool 高位未清零导致误读、以及 macOS 上 rust-lld 找不到 libLLVM。可用 rustup update stable 升级。",
+   "links": [
+    "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
+    "https://news.ycombinator.com/item?id=50112574"
+   ],
+   "topic": "rust-1-99-1-point-release-2026-10",
+   "firstSeen": "2026-10-16T09:45:32+08:00"
   }
  ],
- "lastChecked": "2026-10-16T09:23:18+08:00"
+ "lastChecked": "2026-10-16T09:45:32+08:00"
 }
