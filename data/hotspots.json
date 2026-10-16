@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T22:05:37+08:00",
+ "lastUpdated": "2026-10-16T22:20:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12886,7 +12886,81 @@
    ],
    "topic": "jupiter-yolo-1000x-2026-10",
    "firstSeen": "2026-10-16T22:05:37+08:00"
+  },
+  {
+   "id": "6c5cfb4285",
+   "title": "奔驰与 NVIDIA 扩大合作：Hyperion + Alpamayo + Halos 进 MB.OS",
+   "summary": "10 月 16 日双方宣布延长战略合作，把车载算力、驾驶软件栈与安全冗余接入奔驰 MB.OS，覆盖城市点到点辅助、泊车与未来 L4（含 robotaxi 类应用）。这是继沃尔沃之后又一家整车厂全面押注同一套 NVIDIA 栈。",
+   "links": [
+    "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade",
+    "https://group.mercedes-benz.com/company/news/mb-and-nvidia-expand-strategic-partnership.html"
+   ],
+   "topic": "mercedes-nvidia-mbos-alpamayo-2026-10",
+   "firstSeen": "2026-10-16T22:20:51+08:00"
+  },
+  {
+   "id": "947b28bb8b",
+   "title": "Nature：用 AI 写论文摘要的 STEM 博士更少留在学术界",
+   "summary": "NBER 工作论文扫了 22.6 万份美国 STEM 博士摘要：2026 年前五个月约 29% 含 AI 生成文本；本科在美的毕业生若摘要被判含 AI，进学界概率约低 17%、进产业约高 16%。检测不区分「全写/部分写」，引发训练深度与职业路径讨论。",
+   "links": [
+    "https://www.nature.com/articles/d41586-026-03253-2"
+   ],
+   "topic": "nature-phd-ai-dissertation-academia-2026-10",
+   "firstSeen": "2026-10-16T22:20:51+08:00"
+  },
+  {
+   "id": "a534e86ad7",
+   "title": "「H100 不到 30 美元/小时别谈 AGI」：算力供需推演冲上 HN",
+   "summary": "Kyle Corbitt 用 Opus 5.5 级 agent 小时成本与当前约 $3.52/H100 小时推算：若 agent 真能替代白领，H100 等价算力或涨到约 30 美元/小时（保守）甚至更高。观点是「真 AGI 会先反映在 GPU 租金上」。",
+   "links": [
+    "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour",
+    "https://news.ycombinator.com/item?id=50118540"
+   ],
+   "topic": "h100-30-dollar-agi-signal-2026-10",
+   "firstSeen": "2026-10-16T22:20:51+08:00"
+  },
+  {
+   "id": "0856976216",
+   "title": "ChatGPT 广告主破 6 万：一个多月从 2 万+ 翻三倍",
+   "summary": "New Street Research 据 OpenAI×AppsFlyer 活动披露：ChatGPT Ads 广告主已超 6 万（8 月底约 2 万+）。量起来了，但内部目标全年广告收入或难达投资者听过的更高数字；有人把业务软件点击价对比到约 $5 vs Google $30–50。",
+   "links": [
+    "https://tipsheet.ai/news/chatgpt-ads-60k/",
+    "https://www.mediapost.com/publications/article/418661/the-ai-advertising-tipping-point.html"
+   ],
+   "topic": "chatgpt-ads-60k-advertisers-2026-10",
+   "firstSeen": "2026-10-16T22:20:51+08:00"
+  },
+  {
+   "id": "f2437c5d6a",
+   "title": "Positron 十月版：内置 MCP，让 Claude Code/Codex 进活的数据会话",
+   "summary": "Posit 下一代数据科学 IDE 新版让 Posit Assistant 能驱动 IDE 本身（跑 Shiny/部署等），并内置 MCP，让外部编码 agent 在真实 Python/R 会话里跑代码、看图、查连接。数据连接默认开启，Quarto 语言服务改走内存虚拟 notebook。",
+   "links": [
+    "https://opensource.posit.co/blog/2026-10-13_positron-2026-10-release/"
+   ],
+   "topic": "positron-mcp-assistant-drive-2026-10",
+   "firstSeen": "2026-10-16T22:20:51+08:00"
+  },
+  {
+   "id": "ce8868e9b8",
+   "title": "DLSS 5 模组一日榨出约 74% 性能：AMD Radeon 也能吃上",
+   "summary": "TechPowerUp 报道：模组作者在一天内为 AMD Radeon 大幅提升 DLSS 5 相关表现（约 +74%）。说明厂商官方路径之外，社区仍在快速打通跨厂 AI 升采样链路，对多卡玩家跟进帧生成很敏感。",
+   "links": [
+    "https://www.techpowerup.com/353131/modder-squeezes-74-more-performance-out-of-dlss-5-on-amd-radeon-in-one-day"
+   ],
+   "topic": "dlss5-amd-modder-74pct-2026-10",
+   "firstSeen": "2026-10-16T22:20:51+08:00"
+  },
+  {
+   "id": "2c6730afd7",
+   "title": "MeshXFS：AI 写的基于 XFS 的集群文件系统登上 HN",
+   "summary": "Show HN / GitHub：作者称用 AI 写出建在 XFS 上的 POSIX 集群文件系统 MeshXFS。还在极早期（星数很少），但「整块存储栈由 agent 落地」本身成为讨论点——适合当 Idea Lab 里「AI 写系统软件」样本。",
+   "links": [
+    "https://github.com/sshoecraft/meshxfs",
+    "https://news.ycombinator.com/item?id=50118555"
+   ],
+   "topic": "meshxfs-ai-clustered-xfs-2026-10",
+   "firstSeen": "2026-10-16T22:20:51+08:00"
   }
  ],
- "lastChecked": "2026-10-16T22:05:37+08:00"
+ "lastChecked": "2026-10-16T22:20:51+08:00"
 }
