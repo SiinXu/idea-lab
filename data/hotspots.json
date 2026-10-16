@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T02:19:43+08:00",
+ "lastUpdated": "2026-10-17T02:32:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -13866,7 +13866,62 @@
    ],
    "topic": "ama-agentic-ai-governance-2026-10",
    "firstSeen": "2026-10-17T02:19:43+08:00"
+  },
+  {
+   "id": "4afe8b8080",
+   "title": "CISA/NIST/NSA：超智能训练与评测的事故准备十项实践",
+   "summary": "面向训练/评测高能力 SI Agent（尤其安全护栏较弱的预部署系统）给出 10 条自愿核心实践：限制工具与网络、监控异常、取证与关停、从可信基线重建，以及向政府与受影响方报告事故与险情。与近期「评测 Agent 误入生产」事件同一脉络。",
+   "links": [
+    "https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation",
+    "https://news.ycombinator.com/item?id=50122114"
+   ],
+   "topic": "cisa-si-incident-readiness-2026-10",
+   "firstSeen": "2026-10-17T02:32:46+08:00"
+  },
+  {
+   "id": "7cd671c7ba",
+   "title": "Modal 讲透 VM 沙箱文件系统：ImageFS-blk 让 chown/安装提速一个数量级",
+   "summary": "为支持 Agent 用的 VM Sandboxes，Modal 从 virtio-fs 改到自研 ImageFS-blk（块设备 + 懒加载镜像）：把元数据留在 guest 内，bun install 从约 12.5s 降到约 1s，冷启动仍亚秒。适合做隔离电脑使用型 Agent 的基建参考。",
+   "links": [
+    "https://modal.com/blog/vm-sandbox-filesystem",
+    "https://news.ycombinator.com/item?id=50122039"
+   ],
+   "topic": "modal-imagefs-blk-vm-sandbox-2026-10",
+   "firstSeen": "2026-10-17T02:32:46+08:00"
+  },
+  {
+   "id": "99d243bc0e",
+   "title": "Lapcat：我为什么仍拒用 Passkey（不只是认证争议）",
+   "summary": "Jeff Johnson 称在苹果生态里 Passkey 仍绑 iCloud Keychain、难做可靠冗余备份，也无法在「新设备/别人的设备」上不登录云服务就登录网站；他继续用可复制的随机密码。与近日 Passkey 劝退/反驳讨论形成对照。",
+   "links": [
+    "https://lapcatsoftware.com/articles/2026/10/6.html",
+    "https://news.ycombinator.com/item?id=50119328"
+   ],
+   "topic": "lapcat-still-shun-passkeys-2026-10",
+   "firstSeen": "2026-10-17T02:32:46+08:00"
+  },
+  {
+   "id": "a1d3a09331",
+   "title": "Show HN：Anima——用自然语言生成可交互、带出处的生物学图解",
+   "summary": "Claude Code skill：一句话生成等轴测交互生物机制图，数字带引用、区分已确立/模型/啮齿/人体证据；MIT 开源，可用 npx skills 安装。适合教育可视化与「画廊线描」向内容产品。",
+   "links": [
+    "https://anima.arcumet.com",
+    "https://news.ycombinator.com/item?id=50118303"
+   ],
+   "topic": "anima-biology-claude-skill-2026-10",
+   "firstSeen": "2026-10-17T02:32:46+08:00"
+  },
+  {
+   "id": "4c0bf64546",
+   "title": "eBay 收紧无线电设备上架：仅业余频段设备可豁免",
+   "summary": "ARRL 通报 eBay 限制无线电设备刊登，但纯业余（ham）频段设备可豁免；影响二手电台与 SDR 流通，业余无线电社区正在跟进细则。",
+   "links": [
+    "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+    "https://news.ycombinator.com/item?id=50122034"
+   ],
+   "topic": "ebay-radio-ham-exemption-2026-10",
+   "firstSeen": "2026-10-17T02:32:46+08:00"
   }
  ],
- "lastChecked": "2026-10-17T02:19:43+08:00"
+ "lastChecked": "2026-10-17T02:32:46+08:00"
 }
