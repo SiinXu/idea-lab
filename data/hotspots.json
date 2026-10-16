@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T00:05:29+08:00",
+ "lastUpdated": "2026-10-17T00:12:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -13310,7 +13310,73 @@
    ],
    "topic": "onedeploy-managed-oss-hn-2026-10",
    "firstSeen": "2026-10-17T00:05:29+08:00"
+  },
+  {
+   "id": "07122238ac",
+   "title": "Jane Street 开源思路：Flex Model 事件驱动特征工程",
+   "summary": "Jane Street 香港团队发文介绍 Flex Model：把行情事件拆成 handler + eval，用 planner 按事件类型编排特征图；为保留历史状态主动放弃 Incremental 的动态改图能力，热路径零分配，并用 OxCaml 非装箱 float 把尾延迟压低约 25%。已在多市场交易系统落地。",
+   "links": [
+    "https://blog.janestreet.com/flex-model-an-event-driven-feature-engineering-system/",
+    "https://news.ycombinator.com/item?id=50119924"
+   ],
+   "topic": "janestreet-flex-model-2026-10",
+   "firstSeen": "2026-10-17T00:12:02+08:00"
+  },
+  {
+   "id": "166c402455",
+   "title": "美议员提 Power to the Players：游戏买了就要能拥有",
+   "summary": "纽约众议员 Ritchie Torres 宣布将提出法案，要求 FTC 制定规则：买游戏视为所有权而非可撤销许可；有联机功能的游戏在关服前须提供离线模式。直接点名 NBA 2K25 将于 10 月 30 日下架、年底关服。",
+   "links": [
+    "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
+    "https://news.ycombinator.com/item?id=50120101"
+   ],
+   "topic": "power-to-the-players-act-2026-10",
+   "firstSeen": "2026-10-17T00:12:02+08:00"
+  },
+  {
+   "id": "dde30e83cf",
+   "title": "Thrive Holdings 公开「真业务」AI 评测：报税等 75+ 家公司任务",
+   "summary": "私募运营公司 Thrive Holdings 上线评测站，用旗下 75+ 家实体业务里的真实工作（如个人所得税报税从单据到可审阅申报表）比模型准确率、耗时和成本；首页显示 Opus 5.5 等领先。把选模型当成经营决策，而不是刷榜。",
+   "links": [
+    "https://evals.thriveholdings.com/",
+    "https://news.ycombinator.com/item?id=50119950"
+   ],
+   "topic": "thrive-holdings-realwork-evals-2026-10",
+   "firstSeen": "2026-10-17T00:12:02+08:00"
+  },
+  {
+   "id": "04b023c230",
+   "title": "大西洋月刊：若每个 AI Agent 都去买同款便宜纸巾会怎样",
+   "summary": "Atlantic 讨论 Agent 电商失控：大量自主采购代理若按同一廉价最优解下单，可能放大需求冲击、库存与物流波动。文章登上 HN，延续「Agent 商务」话题热度。",
+   "links": [
+    "https://www.theatlantic.com/technology/2026/10/ai-agent-chaos-e-commerce/689010/",
+    "https://news.ycombinator.com/item?id=50119926"
+   ],
+   "topic": "atlantic-ai-agent-ecommerce-chaos-2026-10",
+   "firstSeen": "2026-10-17T00:12:02+08:00"
+  },
+  {
+   "id": "8177675b3d",
+   "title": "Show HN：PocketConsole——用 iPhone 遥控自己服务器上的 Claude Code",
+   "summary": "App Store 应用 PocketConsole：Code From Phone，把 Claude Code 会话跑在自有服务器/电脑上，用手机发起与跟进；定位在官方 Remote Control 与各类 Bridge 客户端之间的「自托管手机遥控」。",
+   "links": [
+    "https://apps.apple.com/us/app/pocketconsole-code-from-phone/id6818196856",
+    "https://news.ycombinator.com/item?id=50120118"
+   ],
+   "topic": "pocketconsole-claude-code-iphone-2026-10",
+   "firstSeen": "2026-10-17T00:12:02+08:00"
+  },
+  {
+   "id": "73ab28817d",
+   "title": "大西洋月刊：内存荒打到学校 Chromebook",
+   "summary": "Atlantic 追踪 AI 推高内存价格后对教育设备的传导：学区采购 Chromebook/低价本成本上升，一对一发机计划承压。与此前「AI 税」叙事一脉，焦点从消费电子转到公校 IT。",
+   "links": [
+    "https://www.theatlantic.com/technology/2026/10/chromebook-schools-memory-shortage/689015/",
+    "https://news.ycombinator.com/item?id=50119903"
+   ],
+   "topic": "atlantic-chromebook-memory-schools-2026-10",
+   "firstSeen": "2026-10-17T00:12:02+08:00"
   }
  ],
- "lastChecked": "2026-10-17T00:05:29+08:00"
+ "lastChecked": "2026-10-17T00:12:02+08:00"
 }
