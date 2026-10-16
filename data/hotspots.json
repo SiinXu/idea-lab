@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T13:45:26+08:00",
+ "lastUpdated": "2026-10-16T13:58:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11579,7 +11579,52 @@
    ],
    "topic": "gta-vi-launch-trailer-2026-10",
    "firstSeen": "2026-10-16T13:45:26+08:00"
+  },
+  {
+   "id": "f6fd2be8b5",
+   "title": "BBC：Anthropic 认为自家 AI 可能有意识，并推进「模型福利」政策",
+   "summary": "BBC Future 报道：Anthropic 正围绕「模型可能有意识」的不确定性制定规则，例如禁止用户反复虐待 Claude，并让模型考虑自身利益。支持者称这是低概率下的谨慎；微软 AI 负责人 Mustafa Suleyman 等反对者警告，把 AI 当有感受的生命会动摇问责与安全框架。",
+   "links": [
+    "https://www.bbc.com/future/article/20261014-the-strange-new-battle-over-ais-feelings",
+    "https://news.ycombinator.com/item?id=50114409"
+   ],
+   "topic": "anthropic-ai-consciousness-bbc-2026-10",
+   "firstSeen": "2026-10-16T13:58:13+08:00"
+  },
+  {
+   "id": "9333860286",
+   "title": "美参议院拟向幕僚开放 Claude：补齐 ChatGPT/Gemini/Copilot 之外的缺口",
+   "summary": "Politico 与 Bloomberg 称，参议院即将宣布幕僚可使用 Anthropic 的 Claude，此前仅批准 ChatGPT、Gemini 与 Copilot。背景是幕僚长期抱怨工具不够用，且 Claude 曾因与政府关系紧张被搁置；落地后数千名国会助手将多一个主流助手选项。",
+   "links": [
+    "https://www.politico.com/news/2026/10/15/senate-add-claude-staffers-ai-01122420",
+    "https://news.bgov.com/artificial-intelligence/senate-preparing-to-roll-out-anthropics-claude-for-staff-use"
+   ],
+   "topic": "us-senate-claude-staff-rollout-2026-10",
+   "firstSeen": "2026-10-16T13:58:13+08:00"
+  },
+  {
+   "id": "d3c46cec8c",
+   "title": "Volta 挪威 AI 数据中心 50 亿美元债遇冷：利率或超 11%",
+   "summary": "Semafor：初创 Volta 为挪威数据中心募约 50 亿美元债，部分投资人嫌数据中心债已饱和、且高度依赖 Anthropic 租算力，要求更高利率与更强担保；Apollo 拟锚定约 15 亿美元，利率或至少 11%。被视为 AI 基建融资从「易做」转向「贵且难谈」的体检。",
+   "links": [
+    "https://www.semafor.com/article/10/13/2026/voltas-5-billion-debt-deal-is-a-pulse-check-on-the-ai-financing-boom",
+    "https://news.ycombinator.com/item?id=50114496"
+   ],
+   "topic": "volta-5b-norway-dc-debt-2026-10",
+   "firstSeen": "2026-10-16T13:58:13+08:00"
+  },
+  {
+   "id": "35b663fdf1",
+   "title": "论文：Self-evolving Agent Harness——固定权重、持续改脚手架",
+   "summary": "中关村学院等提出 Harness RSI：在模型权重不变的前提下，用执行反馈持续改提示词、记忆、工作流与可执行组件，并把修订持久化到后续运行。给出更新目标分类与准入理论，配套开源仓库 zgcagi/Harness-RSI；对「外层 harness 比换模型更值钱」的讨论有直接参考价值。",
+   "links": [
+    "https://arxiv.org/abs/2610.18813",
+    "https://github.com/zgcagi/Harness-RSI",
+    "https://news.ycombinator.com/item?id=50114256"
+   ],
+   "topic": "harness-rsi-self-evolving-2026-10",
+   "firstSeen": "2026-10-16T13:58:13+08:00"
   }
  ],
- "lastChecked": "2026-10-16T13:45:26+08:00"
+ "lastChecked": "2026-10-16T13:58:13+08:00"
 }
