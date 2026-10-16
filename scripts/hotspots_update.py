@@ -56,7 +56,8 @@ ui={k:multi(v) for k,v in UI.items()}
 items=[dict(x,t=multi(x['title']),s=multi(x['summary'])) for x in db['items']]
 json.dump(cache,open(CP,'w'),ensure_ascii=False)
 os.makedirs('docs/hotspots',exist_ok=True)
-out='window.HS='+json.dumps({'lastUpdated':db['lastUpdated'],'lastChecked':db.get('lastChecked'),'ui':ui,'items':items},ensure_ascii=False)+';'
+import sys as _s;_s.path.insert(0,os.path.dirname(os.path.abspath(__file__)));from nocjk import scrub  # no Chinese in non-zh locales
+out='window.HS='+json.dumps(scrub({'lastUpdated':db['lastUpdated'],'lastChecked':db.get('lastChecked'),'ui':ui,'items':items}),ensure_ascii=False)+';'
 p='docs/hotspots/data.js'
 if not os.path.exists(p) or open(p).read()!=out: open(p,'w').write(out)
 print(json.dumps({'added':added,'total':len(db['items']),'lastUpdated':db['lastUpdated']}))

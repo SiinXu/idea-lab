@@ -35,7 +35,8 @@ for n,x in enumerate(I):
 pb=[{'t':multi(a),'d':multi(b)} for a,b in PB]
 rk=[{'t':multi(a),'d':multi(b)} for a,b in RK]
 json.dump(cache,open(CP,'w'),ensure_ascii=False)
-open('docs/data.js','w').write('window.DATA='+json.dumps({'ideas':out,'pb':pb,'rk':rk},ensure_ascii=False)+';')
+import sys as _s,os as _o;_s.path.insert(0,_o.path.dirname(_o.path.abspath(__file__)));from nocjk import scrub, clean  # no Chinese in non-zh locales
+open('docs/data.js','w').write('window.DATA='+json.dumps(scrub({'ideas':out,'pb':pb,'rk':rk}),ensure_ascii=False)+';')
 # 详情页
 md=open('/workspace/biz-greenfield/top3-detailed.md').read()
 parts=re.split(r'\n(?=# \d\. )',md)
@@ -60,8 +61,8 @@ for n,x in enumerate(I):
         for l in L: trm[l][z]=tr(en,'en',l)
     ms_fix(trm)
     d['deep']=DEEP.get(x['id'],'')
-    json.dump({'d':d,'tr':trm},open(f"docs/d/{x['id']}.json",'w'),ensure_ascii=False)
+    json.dump(scrub({'d':d,'tr':trm}),open(f"docs/d/{x['id']}.json",'w'),ensure_ascii=False)
     os.makedirs(f"docs/idea/{x['id']}",exist_ok=True)
-    open(f"docs/idea/{x['id']}/index.html",'w').write(tpl.replace('__ID__',x['id']).replace('__TITLE__',x['t']))
+    open(f"docs/idea/{x['id']}/index.html",'w').write(tpl.replace('__ID__',x['id']).replace('__TITLE__',clean(tr(x['t'],'zh','en'),'en') or x['id']))  # default HTML is English
     json.dump(cache,open(CP,'w'),ensure_ascii=False);print('detail',n,flush=True)
 print('done')
