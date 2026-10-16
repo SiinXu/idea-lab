@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T02:32:46+08:00",
+ "lastUpdated": "2026-10-17T02:42:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -13921,7 +13921,106 @@
    ],
    "topic": "ebay-radio-ham-exemption-2026-10",
    "firstSeen": "2026-10-17T02:32:46+08:00"
+  },
+  {
+   "id": "fa2bff8afd",
+   "title": "Parallax（YC S26）：每个编码 Agent 旁挂实时审查员",
+   "summary": "Conifer 的 Parallax 让审查员与编码 Agent 并行跑，边写边审，瞄准降低 Agent 改坏代码的风险。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://www.conifer.build/parallax/",
+    "https://news.ycombinator.com/item?id=50122434"
+   ],
+   "topic": "parallax-yc-s26-live-reviewer-2026-10",
+   "firstSeen": "2026-10-17T02:42:17+08:00"
+  },
+  {
+   "id": "0f92a71ff1",
+   "title": "报道称 Anthropic IPO 前估值骤降约 5000 亿美元",
+   "summary": "Telegraph 称市场对 AI 支出担忧下，Anthropic 上市前估值大幅回撤；同时公司仍在冲刺 IPO 与芯片融资。",
+   "links": [
+    "https://www.telegraph.co.uk/business/2026/10/16/anthropic-valuation-ipo-ai-stock-listing/",
+    "https://news.ycombinator.com/item?id=50122366"
+   ],
+   "topic": "anthropic-ipo-valuation-500b-drop-2026-10",
+   "firstSeen": "2026-10-17T02:42:17+08:00"
+  },
+  {
+   "id": "011f6d258a",
+   "title": "Show HN：Tinywm——受 Niri 启发的 macOS 滚动窗口管理器",
+   "summary": "开源 Tinywm 把滚动式平铺窗口搬到 macOS，适合重度键盘流开发者；刚上 HN，可观察是否形成社区。",
+   "links": [
+    "https://github.com/bbodi/tinywm",
+    "https://news.ycombinator.com/item?id=50122281"
+   ],
+   "topic": "tinywm-macos-niri-2026-10",
+   "firstSeen": "2026-10-17T02:42:17+08:00"
+  },
+  {
+   "id": "e7eec02d4e",
+   "title": "Show HN：给 AI 视频提示词加镜头控制与运镜",
+   "summary": "Kapwing 推出相机控制/运镜提示生成器，把景别、推拉摇移写成可复用提示，降低视频生成试错成本。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://www.kapwing.com/ai/prompt-generator/camera",
+    "https://news.ycombinator.com/item?id=50122324"
+   ],
+   "topic": "kapwing-ai-video-camera-controls-2026-10",
+   "firstSeen": "2026-10-17T02:42:17+08:00"
+  },
+  {
+   "id": "35e36006a5",
+   "title": "Show HN：Webhix——单二进制自托管 Webhook 检查器",
+   "summary": "一个二进制搞定 Webhook 接收、检查与调试，适合本地联调与内网回调排查，对 Agent/自动化集成也有用。",
+   "links": [
+    "https://github.com/GaIsBAX/Webhix",
+    "https://news.ycombinator.com/item?id=50122099"
+   ],
+   "topic": "webhix-webhook-inspector-2026-10",
+   "firstSeen": "2026-10-17T02:42:17+08:00"
+  },
+  {
+   "id": "e0ede7890e",
+   "title": "A2A Registry：补上 Agent 互相对话的信任层",
+   "summary": "项目主张 Agent-to-Agent 通信缺信任与身份层，提供注册表式基础设施；若 Agent 经济起来，这是关键拼图。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://a2aregistry.org/agents/900d4d12-f8e3-4512-ab85-aac98fde7da8/",
+    "https://news.ycombinator.com/item?id=50122272"
+   ],
+   "topic": "a2a-registry-trust-layer-2026-10",
+   "firstSeen": "2026-10-17T02:42:17+08:00"
+  },
+  {
+   "id": "3776840528",
+   "title": "Cloudflare Durable Object 上跑出 100GiB 数据库",
+   "summary": "开发者展示用 Durable Object 托起约 100GiB 数据库服务，把边缘有状态存储的极限又往外推了一截。",
+   "links": [
+    "https://x.com/tantaman/status/2110946680661287406",
+    "https://news.ycombinator.com/item?id=50122232"
+   ],
+   "topic": "cf-durable-object-100gib-db-2026-10",
+   "firstSeen": "2026-10-17T02:42:17+08:00"
+  },
+  {
+   "id": "c5611b777e",
+   "title": "报道：马斯克曾接触特朗普，希望放慢对乌克兰的 Starlink",
+   "summary": "Telegraph 称马斯克接近特朗普，试图放慢/限制乌克兰 Starlink 支援；与近期终端限速、作战链路争议同属一脉。",
+   "links": [
+    "https://www.telegraph.co.uk/world-news/2026/10/16/musk-approached-trump-slow-down-starlink-help-ukraine/",
+    "https://news.ycombinator.com/item?id=50122371"
+   ],
+   "topic": "musk-trump-starlink-ukraine-slowdown-2026-10",
+   "firstSeen": "2026-10-17T02:42:17+08:00"
+  },
+  {
+   "id": "16b9ce501b",
+   "title": "NetNewsWire 接入 Duo：订阅源可读性再升级",
+   "summary": "开源 RSS 客户端 NetNewsWire 讲解如何接入 Duo，提升摘要与可读体验；对信息流产品仍有参考价值。",
+   "links": [
+    "https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html",
+    "https://news.ycombinator.com/item?id=50122326"
+   ],
+   "topic": "netnewswire-duo-support-2026-10",
+   "firstSeen": "2026-10-17T02:42:17+08:00"
   }
  ],
- "lastChecked": "2026-10-17T02:32:46+08:00"
+ "lastChecked": "2026-10-17T02:42:17+08:00"
 }
