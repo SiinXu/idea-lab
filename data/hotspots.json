@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T01:43:30+08:00",
+ "lastUpdated": "2026-10-17T02:01:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -13746,7 +13746,72 @@
    ],
    "topic": "hack-the-north-pcb-badges-2026-10",
    "firstSeen": "2026-10-17T01:43:30+08:00"
+  },
+  {
+   "id": "e4cfaf218e",
+   "title": "Kyutai 发布 REKI：2.4B 视觉语言动作模型，动作专家里塞廉价记忆",
+   "summary": "仅用公开数据预训练的 VLA，在 LIBERO-Plus 等基准上逼近约两倍参数量的模型；用动作专家里的 register token 缓存近期帧，几乎不增推理成本，还能把机械臂来回抖动降到约四分之一。代码与权重全开源。",
+   "links": [
+    "https://kyutai.org/reki/",
+    "https://news.ycombinator.com/item?id=50121855"
+   ],
+   "topic": "kyutai-reki-vla-memory-2026-10",
+   "firstSeen": "2026-10-17T02:01:23+08:00"
+  },
+  {
+   "id": "0a1d92c3eb",
+   "title": "PromptArmor：开权重模型遭间接注入网络攻击的概率高约 88%",
+   "summary": "对 DeepSeek/Kimi/GLM/Qwen 与 GPT/Claude/Gemini 做约 9800 次真实攻击链评测：开权重 Agent 在数据外泄、执行恶意代码等后果上更易中招；专有旗舰与廉价型号差距更大。",
+   "links": [
+    "https://www.promptarmor.com/resources/open-weight-susceptibility",
+    "https://news.ycombinator.com/item?id=50121829"
+   ],
+   "topic": "promptarmor-open-weight-cyber-susceptibility-2026-10",
+   "firstSeen": "2026-10-17T02:01:23+08:00"
+  },
+  {
+   "id": "9030dc3f39",
+   "title": "LeanPRM：用 Lean 自动给自然语言证明逐步打标，训练过程监督器",
+   "summary": "模型同时写自然语言证明与配对形式化证明，Lean 给每步对错标签；1 万+ 证明、15 万步、零人工标注。Qwen3-4B 验证器在自建基准上逐步准确率从 48.2% 提到 74.7%。",
+   "links": [
+    "https://huggingface.co/papers/2610.17697",
+    "https://news.ycombinator.com/item?id=50121765"
+   ],
+   "topic": "leanprm-lean-grounded-nl-verifiers-2026-10",
+   "firstSeen": "2026-10-17T02:01:23+08:00"
+  },
+  {
+   "id": "b31b1d1664",
+   "title": "Flipper One 未发货即可玩：Flipper OS 可刷到 RK3576 开发板",
+   "summary": "官方开放基于 Linux 的 Flipper OS，支持 Armsom Sige5 等板子；浏览器里用 FlipCTL 装应用（含 Doom）、切换 Minimal/桌面/路由器等配置文件，方便社区提前贡献。",
+   "links": [
+    "https://docs.flipper.net/one/dev-log/10",
+    "https://news.ycombinator.com/item?id=50121676"
+   ],
+   "topic": "flipper-os-rk3576-sbc-preview-2026-10",
+   "firstSeen": "2026-10-17T02:01:23+08:00"
+  },
+  {
+   "id": "8954e44fb0",
+   "title": "美国重启关停核电站，瞄准数据中心用电",
+   "summary": "多地推动重启已关核电机组以应对电力缺口，报道点名可能服务于 AI/数据中心负载；反映算力扩张正直接挤压电网与能源政策。",
+   "links": [
+    "https://www.usnews.com/news/best-states/iowa/articles/2026-10-16/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centers",
+    "https://news.ycombinator.com/item?id=50121709"
+   ],
+   "topic": "us-restart-nuclear-data-centers-2026-10",
+   "firstSeen": "2026-10-17T02:01:23+08:00"
+  },
+  {
+   "id": "6a9dae8d13",
+   "title": "Ask HN：Anthropic 充值因小数点地区习惯被收 100 倍",
+   "summary": "哥斯达黎加开发者输入 5.04 美元被系统当 504 美元秒扣；无确认页、客服机器人拒退。提醒跨境支付与本地化数字输入校验仍是付费产品隐患。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50121562"
+   ],
+   "topic": "anthropic-console-i18n-100x-overcharge-2026-10",
+   "firstSeen": "2026-10-17T02:01:23+08:00"
   }
  ],
- "lastChecked": "2026-10-17T01:43:30+08:00"
+ "lastChecked": "2026-10-17T02:01:23+08:00"
 }
