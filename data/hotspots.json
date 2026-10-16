@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T09:45:32+08:00",
+ "lastUpdated": "2026-10-16T09:55:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11036,7 +11036,30 @@
    ],
    "topic": "rust-1-99-1-point-release-2026-10",
    "firstSeen": "2026-10-16T09:45:32+08:00"
+  },
+  {
+   "id": "d13fd5fc8b",
+   "title": "Lightpanda 1.0：用 Zig 重写的无头浏览器，专为 AI Agent 爬页",
+   "summary": "法国团队用 Zig 从零做无图形渲染的无头浏览器，宣称比 Chrome 约快 9 倍、省内存约 16 倍，支持 CDP/Puppeteer/Playwright，并默认开启 CORS。GitHub 已约 3.6 万星，Hermes、Vercel agent-browser 等可直接选用；HN 刚浮上首页讨论。",
+   "links": [
+    "https://lightpanda.io/blog/posts/lightpanda-1-0",
+    "https://github.com/lightpanda-io/browser",
+    "https://news.ycombinator.com/item?id=50112799"
+   ],
+   "topic": "lightpanda-1-0-zig-headless-2026-10",
+   "firstSeen": "2026-10-16T09:55:09+08:00"
+  },
+  {
+   "id": "d23ae53fcd",
+   "title": "Sill：把 Mac 任意窗口实时投到 iPhone/iPad，开源无服务器",
+   "summary": "开源工具 Sill 可把 Mac 上某个窗口或桌面实时投到同局域网的 iPhone/iPad，支持触控、Apple Pencil、触控板与键盘，不经云端服务器。需 Apple 芯片 Mac（macOS 14+）与 iOS/iPadOS 17+；刚上 HN 最新，GitHub 约 1600 星。",
+   "links": [
+    "https://github.com/Saffsanity/sill",
+    "https://news.ycombinator.com/item?id=50112739"
+   ],
+   "topic": "sill-mac-window-iphone-ipad-2026-10",
+   "firstSeen": "2026-10-16T09:55:09+08:00"
   }
  ],
- "lastChecked": "2026-10-16T09:45:32+08:00"
+ "lastChecked": "2026-10-16T09:55:09+08:00"
 }
