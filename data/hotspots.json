@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T04:01:36+08:00",
+ "lastUpdated": "2026-10-17T04:17:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -14444,7 +14444,85 @@
    ],
    "topic": "putaway-mac-downloads-ai-2026-10",
    "firstSeen": "2026-10-17T04:01:36+08:00"
+  },
+  {
+   "id": "8344cfce34",
+   "title": "Eurosky 身份平台获认数字公共品：欧盟托管的 AT Protocol 身份与数据",
+   "summary": "Digital Public Goods Alliance 将 Eurosky Identity Platform 认证为数字公共品：在欧盟托管的个人数据服务器、Portal 与迁移服务，基于 AT Protocol，Apache-2.0/MIT 开源，用户可带着身份在应用与托管商之间迁移。",
+   "links": [
+    "https://eurosky.tech/news/eurosky-identity-platform-digital-public-good/",
+    "https://news.ycombinator.com/item?id=50123961"
+   ],
+   "topic": "eurosky-identity-dpg-2026-10",
+   "firstSeen": "2026-10-17T04:17:49+08:00"
+  },
+  {
+   "id": "cdf7c1c0c1",
+   "title": "Fly.io 全平台滚动重启主机：约 40% 机群已重启，预计还要数小时",
+   "summary": "Fly.io 正在所有区域分阶段重启宿主机，状态页称目前约四成主机已完成；同一区域只会有部分主机同时下线，机器一般会回到重启前状态，Managed Postgres 可能出现更多主备切换。",
+   "links": [
+    "https://status.flyio.net/incidents/01M52RAWMVC0NKEBRDKC3VXT3K",
+    "https://news.ycombinator.com/item?id=50123830"
+   ],
+   "topic": "flyio-rolling-host-reboots-2026-10",
+   "firstSeen": "2026-10-17T04:17:49+08:00"
+  },
+  {
+   "id": "e7743bd6de",
+   "title": "Ray-Ban Meta 智能眼镜漏洞：未说「Hey Meta」也会录音",
+   "summary": "Ars 报道部分用户眼镜在关闭免唤醒时仍录音并保存音轨与转写；Meta 称问题已修复，但未说明原因与影响范围。隐私担忧再起：指示灯亮着也可能在用户无意中录下对话。",
+   "links": [
+    "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+    "https://news.ycombinator.com/item?id=50123530"
+   ],
+   "topic": "rayban-meta-unprompted-recording-2026-10",
+   "firstSeen": "2026-10-17T04:17:49+08:00"
+  },
+  {
+   "id": "3cab503ab6",
+   "title": "NVIDIA ASPIRE：用编码 Agent 为机器人持续发现与沉淀 /Skills",
+   "summary": "NVlabs 开源 ASPIRE（Agentic /Skills Discovery for Robotics）：让编程 Agent 写、调试并迭代机器人控制代码，把可复用技能累积进技能库；含仿真闭环与真机指引，Apache-2.0。",
+   "links": [
+    "https://github.com/NVlabs/ASPIRE",
+    "https://research.nvidia.com/labs/gear/aspire/",
+    "https://news.ycombinator.com/item?id=50123746"
+   ],
+   "topic": "nvidia-aspire-robotics-skills-2026-10",
+   "firstSeen": "2026-10-17T04:17:49+08:00"
+  },
+  {
+   "id": "7612dc1340",
+   "title": "Show HN：RevenueDot——开源 RevenueCat 替代，一行切换 SDK",
+   "summary": "自托管或云端订阅基础设施：开源 SDK/服务端、付费墙、实验、Web Checkout、Customer Center，宣称兼容 RevenueCat SDK 一行切换，覆盖 iOS/Android/Web，并带图表与集成。",
+   "links": [
+    "https://github.com/revenuedot/revenuedot",
+    "https://news.ycombinator.com/item?id=50123959"
+   ],
+   "topic": "revenuedot-oss-revenuecat-2026-10",
+   "firstSeen": "2026-10-17T04:17:49+08:00"
+  },
+  {
+   "id": "cbe0226968",
+   "title": "你在为 WAF 付钱，但它真的在拦截吗？",
+   "summary": "安全创业公司 Plimie 提醒：很多 WAF 长期停在 log-only、托管规则集未部署、例外过宽。给出约十分钟自检：按 action 分桶、核对托管规则、看一周事件、收紧例外，再用无害探针验证是否真拦截。",
+   "links": [
+    "https://plimie.com/blog/waf-log-only-is-it-blocking/",
+    "https://news.ycombinator.com/item?id=50123747"
+   ],
+   "topic": "plimie-waf-log-only-check-2026-10",
+   "firstSeen": "2026-10-17T04:17:49+08:00"
+  },
+  {
+   "id": "56498c5feb",
+   "title": "Outlines：给 LLM 的结构化输出库再上 HN",
+   "summary": "dottxt-ai/outlines 用有限状态机约束解码，让模型稳定吐出 JSON/正则等结构化结果；开源项目再次出现在 HN newest，适合 Agent 与工具调用场景。",
+   "links": [
+    "https://github.com/dottxt-ai/outlines",
+    "https://news.ycombinator.com/item?id=50123515"
+   ],
+   "topic": "outlines-structured-outputs-hn-2026-10",
+   "firstSeen": "2026-10-17T04:17:49+08:00"
   }
  ],
- "lastChecked": "2026-10-17T04:03:05+08:00"
+ "lastChecked": "2026-10-17T04:17:49+08:00"
 }
