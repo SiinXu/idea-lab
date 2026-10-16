@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T17:13:47+08:00",
+ "lastUpdated": "2026-10-16T17:32:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12207,7 +12207,67 @@
    ],
    "topic": "video-cutter-ai-shorts-2026-10",
    "firstSeen": "2026-10-16T17:13:47+08:00"
+  },
+  {
+   "id": "c5f39933e2",
+   "title": "Unified Harness Protocol：给 Agent 运行时一套统一 HTTP 契约",
+   "summary": "开源标准 UHP 把 Codex、Claude Code、Hermes 等 harness 当成可插拔运行时：产品用同一套任务/会话/产物接口驱动，而不是各写一套适配。规范带 OpenAPI 与 98 项一致性测试，Apache 2.0。",
+   "links": [
+    "https://unifiedharnessprotocol.org/"
+   ],
+   "topic": "unified-harness-protocol-2026-10",
+   "firstSeen": "2026-10-16T17:32:08+08:00"
+  },
+  {
+   "id": "860569262e",
+   "title": "Mastercard × BVNK 上线 Global Money Platform：法币与稳定币同一 API",
+   "summary": "收购 BVNK 后首个大整合：多币种账户、兑换、稳定币绑卡与本地打款走同一套接口，面向可编程与 agentic commerce。Nuvei、Marqeta 等先接入。",
+   "links": [
+    "https://www.businesswire.com/news/home/20261015326549/en/Mastercard-and-BVNK-Launch-Global-Money-Platform-to-Power-a-Multi-Money-World"
+   ],
+   "topic": "mastercard-bvnk-global-money-platform-2026-10",
+   "firstSeen": "2026-10-16T17:32:08+08:00"
+  },
+  {
+   "id": "3865ed05ac",
+   "title": "九家链上机构成立 Quantum Alliance：统一「抗量子」验收标准",
+   "summary": "开源标准组织定义区块链后量子就绪含义，覆盖签名、密钥、共识、ZK 与跨链互操作，并公开测试基准；应对椭圆曲线公钥长期暴露在账本上的风险。",
+   "links": [
+    "https://thequantuminsider.com/2026/10/15/quantum-alliance-post-quantum-standards-blockchains/"
+   ],
+   "topic": "quantum-alliance-blockchain-pqc-2026-10",
+   "firstSeen": "2026-10-16T17:32:08+08:00"
+  },
+  {
+   "id": "b813b770fc",
+   "title": "Cross River 把 Ripple RLUSD 嵌进核心银行系统",
+   "summary": "美国持牌银行把 RLUSD（XRPL）接到自有 Core OS：fintech 用同一 API 在美元、ACH、电汇与 7×24 稳定币结算之间切换，无需自建链上基建。",
+   "links": [
+    "https://www.crossriver.com/newsroom/cross-river-embeds-ripple-usd-stablecoin-on-the-xrp-ledger-into-its-core-banking-infrastructure-expanding-faster-payment-capabilities-for-businesses"
+   ],
+   "topic": "cross-river-ripple-rlusd-core-banking-2026-10",
+   "firstSeen": "2026-10-16T17:32:08+08:00"
+  },
+  {
+   "id": "d55bf0f295",
+   "title": "People's Graphic Design Archive：众包平面设计史资料库",
+   "summary": "开放档案收录海报、杂志、字体与运动图形等全球平面设计史料，可按品类与创作者浏览，适合做视觉参考与 UI Hub 素材线索。",
+   "links": [
+    "https://peoplesgdarchive.org/"
+   ],
+   "topic": "peoples-graphic-design-archive-2026-10",
+   "firstSeen": "2026-10-16T17:32:08+08:00"
+  },
+  {
+   "id": "232d6d7fa5",
+   "title": "AI 写书之后：人工书还怎么站得住？",
+   "summary": "作者梳理 AI 辅助写书流程与人工长文的差异，讨论证据、编辑判断与信任如何成为稀缺；适合做成内容产品差异化思路。",
+   "links": [
+    "https://www.ssp.sh/brain/writing-books-with-ai-study/"
+   ],
+   "topic": "writing-books-with-ai-relevance-2026-10",
+   "firstSeen": "2026-10-16T17:32:08+08:00"
   }
  ],
- "lastChecked": "2026-10-16T17:13:47+08:00"
+ "lastChecked": "2026-10-16T17:32:08+08:00"
 }
