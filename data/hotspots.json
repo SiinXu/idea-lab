@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T16:01:20+08:00",
+ "lastUpdated": "2026-10-16T16:15:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11933,7 +11933,19 @@
    ],
    "topic": "folders-esolang",
    "firstSeen": "2026-10-16T16:01:20+08:00"
+  },
+  {
+   "id": "a1df19fd43",
+   "title": "Litex：「写数学，看它为何成立」的形式化证明语言",
+   "summary": "Litex 是一门面向普通人的数学形式化语言，主打比 Lean/Coq 更接近日常数学写法，写下推导即可由机器检查每一步为何成立；GitHub 约 670 星，刚登上 HN 新帖。适合关注 AI + 形式化证明、数学教育工具方向。",
+   "links": [
+    "https://litexlang.com/",
+    "https://github.com/litexlang/golitex",
+    "https://news.ycombinator.com/item?id=50115492"
+   ],
+   "topic": "litex-formal-math",
+   "firstSeen": "2026-10-16T16:15:33+08:00"
   }
  ],
- "lastChecked": "2026-10-16T16:01:20+08:00"
+ "lastChecked": "2026-10-16T16:15:33+08:00"
 }
