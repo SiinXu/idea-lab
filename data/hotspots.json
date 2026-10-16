@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T17:32:08+08:00",
+ "lastUpdated": "2026-10-16T17:39:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12267,7 +12267,17 @@
    ],
    "topic": "writing-books-with-ai-relevance-2026-10",
    "firstSeen": "2026-10-16T17:32:08+08:00"
+  },
+  {
+   "id": "11b9de6d0e",
+   "title": "「AI 抢我饭碗，我怎么反而更累？」：AI 编码提速 30%，人工审查时间却涨 49%",
+   "summary": "X 上热议工程师 Nicolas Bustamante 的深夜发问；帖文引用哈佛对数百家公司的研究（代码产出约 +30%）与 Bain 报告（审查时间 +49%、并行工作流 +47%），指出 Agent 让团队承担更多任务而非减负。可做方向：AI 代码审查/上下文切换减负工具、团队 Agent 产出度量面板。",
+   "links": [
+    "https://x.com/i/trending/2110980213031280644"
+   ],
+   "topic": "ai-coding-review-fatigue-2026-10-16",
+   "firstSeen": "2026-10-16T17:39:31+08:00"
   }
  ],
- "lastChecked": "2026-10-16T17:32:08+08:00"
+ "lastChecked": "2026-10-16T17:39:31+08:00"
 }
