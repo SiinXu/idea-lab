@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T21:34:28+08:00",
+ "lastUpdated": "2026-10-16T21:48:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12836,7 +12836,44 @@
    ],
    "topic": "claude-grok-bot-persistent-agents-2026-10",
    "firstSeen": "2026-10-16T21:34:28+08:00"
+  },
+  {
+   "id": "7aea8399c4",
+   "title": "Reflection Beam 权重正式开源：501B MoE、Apache 2.0 上架 Hugging Face",
+   "summary": "继月初预告后，Reflection 今日宣布 Beam 权重与 Mirror CLI 等工具可用：501B 总参、约 23B 激活，主打编码与长程 Agent；已有 AWS、NVIDIA、Ollama、OpenRouter 等 40+ 合作方。适合对照「开源 Agent 操作系统」与自托管路线。",
+   "links": [
+    "https://www.reflection.ai/blog/beam-is-available",
+    "https://huggingface.co/reflection/Beam-1.0-501B-A23B",
+    "https://x.com/i/trending/2111084244533489807",
+    "https://news.ycombinator.com/item?id=50118213"
+   ],
+   "topic": "reflection-beam-weights-available-2026-10",
+   "firstSeen": "2026-10-16T21:48:29+08:00"
+  },
+  {
+   "id": "6649bb28c3",
+   "title": "Vitalik 为 AI Agent 加「偏执模式」：zkAPI + Tor + 本地改写提示词",
+   "summary": "以太坊联合创始人公开给自家 Agent 框架 pi 做的隐私封装：每段对话独立 Tor 线路、掩护流量、zkAPI 匿名付费，提示词先经本地模型改写再出网；称已可用但延迟明显，Tor 仍难挡与入口节点合谋的时序攻击。",
+   "links": [
+    "https://crypto.news/vitalik-buterin-unveils-privacy-focused-ai-agent-using-tor-and-zkapi/",
+    "https://github.com/vbuterin/zkapi",
+    "https://x.com/i/trending/2111082256232067173"
+   ],
+   "topic": "vitalik-paranoid-mode-ai-agent-2026-10",
+   "firstSeen": "2026-10-16T21:48:29+08:00"
+  },
+  {
+   "id": "27d039a493",
+   "title": "台湾拟把违规对中出口 AI 芯片升格为《贸易法》刑责",
+   "summary": "经济部长龚明鑫向彭博证实：计划将 AI 服务器与先进半导体纳入管制清单，措施生效后未经授权运往中国将构成刑事犯罪；与台美对等贸易承诺挂钩，实施时间未定。供应链与算力地缘再收紧。",
+   "links": [
+    "https://www.aiaffairs.com/government/taiwan-plans-criminal-penalties-ai-chip-exports-china/",
+    "https://www.taiwannews.com.tw/news/6385284",
+    "https://x.com/i/trending/2111040513482563612"
+   ],
+   "topic": "taiwan-ai-chip-export-criminal-2026-10",
+   "firstSeen": "2026-10-16T21:48:29+08:00"
   }
  ],
- "lastChecked": "2026-10-16T21:34:28+08:00"
+ "lastChecked": "2026-10-16T21:48:29+08:00"
 }
