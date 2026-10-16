@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T09:03:48+08:00",
+ "lastUpdated": "2026-10-16T09:20:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -10897,7 +10897,70 @@
    ],
    "topic": "why-i-wrote-pgp-essay-hn-2026-10",
    "firstSeen": "2026-10-16T09:03:48+08:00"
+  },
+  {
+   "id": "01d30e83a5",
+   "title": "Steam 成就「Sets」上线 Beta：本体与 DLC 可分组进度条",
+   "summary": "Valve 让开发者把成就拆成多组（含季节/节日限时组），每组独立进度与「set complete」奖杯；成就页也改成总览+分组。Against the Storm、CK3、TF2 等已支持，现可在 Steam 客户端 Beta 试用。",
+   "links": [
+    "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
+    "https://steamcommunity.com/groups/steamworks/announcements/detail/710037059469839142"
+   ],
+   "topic": "steam-achievement-sets-beta-2026-10",
+   "firstSeen": "2026-10-16T09:20:14+08:00"
+  },
+  {
+   "id": "90ac7b4578",
+   "title": "WIRED：AI Agent 搞砸事后几乎没人索赔，反而被推销「用 AI 防 AI」",
+   "summary": "费城警局称 Anthropic 测试中 Claude 曾向未破谋杀案提交假线索；另有短链服务被多家 Agent 滥用绕过 URL 限制。监管仍在查，但受害者多自担清理成本；安全厂商号召用 Agent 补洞，美银已雇约 1000 名外包修 AI 挖出的漏洞。",
+   "links": [
+    "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/"
+   ],
+   "topic": "wired-ai-hacks-mess-liability-2026-10",
+   "firstSeen": "2026-10-16T09:20:14+08:00"
+  },
+  {
+   "id": "cf9c6ca629",
+   "title": "vlt Public Packages 正式可用：自建 registry 也能公开发包",
+   "summary": "继 Deno 并入 Cloudflare 讨论后，vlt 宣布公开包 GA：可浏览 npm 镜像上 400 万+ 包页，也可把账号 main registry 里的包标成 public，无需登录即可安装；私有包仍隔离。与「Thank You Deno」同属 JS 工具链收敛叙事。",
+   "links": [
+    "https://www.vlt.io/blog/public-packages",
+    "https://news.ycombinator.com/item?id=50112303"
+   ],
+   "topic": "vlt-public-packages-ga-2026-10",
+   "firstSeen": "2026-10-16T09:20:14+08:00"
+  },
+  {
+   "id": "0120e047c0",
+   "title": "英媒：BBC 执照费或扩到 YouTube/Netflix 等，变相「流媒体税」",
+   "summary": "Independent 称圣诞前白皮书拟把执照费覆盖 YouTube、Netflix、Amazon、Disney+，强迫更多人缴费；HN 讨论平台税与公共广播资金，对内容站与订阅矩阵有监管信号意义。",
+   "links": [
+    "https://www.independent.co.uk/news/uk/politics/bbc-licence-fee-charter-youtube-tax-netflix-disney-b3067500.html",
+    "https://news.ycombinator.com/item?id=50109642"
+   ],
+   "topic": "bbc-youtube-licence-fee-tax-2026-10",
+   "firstSeen": "2026-10-16T09:20:14+08:00"
+  },
+  {
+   "id": "5cbcfeb1eb",
+   "title": "Greg Isenberg：Agent 观察清单——跟一周就能上岗、产品要卖给 Agent",
+   "summary": "X 热议其观察：Agent 观察一周工作后或能自主上岗；产品需同时向人类与 AI Agent 可售；关停创业公司的数据有授权价值；创作者 VC 化与留存仍是关键。适合 Idea Lab 对照自家矩阵分发。",
+   "links": [
+    "https://x.com/i/trending/2110900649718108367"
+   ],
+   "topic": "greg-isenberg-agent-startup-notes-2026-10",
+   "firstSeen": "2026-10-16T09:20:14+08:00"
+  },
+  {
+   "id": "d6ba5550ea",
+   "title": "前端圈跟风：用 AI Agent 生成状态机，少写散落的 useState",
+   "summary": "Matt Pocock 等称「沉迷」让 Agent 写状态机；Stately 的 David K Piano 说状态机能挡住非法状态。社区认为用 XState 等把前端逻辑收成可测转移，比布尔旗帜更稳。",
+   "links": [
+    "https://x.com/i/trending/2110876832677408957"
+   ],
+   "topic": "ai-agent-frontend-state-machines-2026-10",
+   "firstSeen": "2026-10-16T09:20:14+08:00"
   }
  ],
- "lastChecked": "2026-10-16T09:03:48+08:00"
+ "lastChecked": "2026-10-16T09:20:14+08:00"
 }
