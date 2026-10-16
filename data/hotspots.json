@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T20:10:56+08:00",
+ "lastUpdated": "2026-10-16T20:33:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12602,7 +12602,87 @@
    ],
    "topic": "gmail-live-ai-search-2026-10",
    "firstSeen": "2026-10-16T20:10:56+08:00"
+  },
+  {
+   "id": "192b430e08",
+   "title": "Astro 7.4：构建耗时报告 + 实验性并行预渲染",
+   "summary": "新版主打 `astro build --timings`，按阶段/页面拆开构建耗时；还可为预渲染与按需页面分设图片服务，并实验用多 worker 并行预渲染、自定义静态重定向页。最低 Node 升至 22.22.0。",
+   "links": [
+    "https://astro.build/blog/astro-740/"
+   ],
+   "topic": "astro-7-4-timings-parallel-2026-10",
+   "firstSeen": "2026-10-16T20:33:31+08:00"
+  },
+  {
+   "id": "b535d0f52a",
+   "title": "AlphaEvolve 再压矩阵乘法指数：ω < 2.371177",
+   "summary": "DeepMind 等用梯度优化 + AlphaEvolve 改进 combination loss 算法，把矩阵乘法复杂度上界从 2.371339 压到 2.371177；可扩到 ℓ*=4（约 700 万参数），再用有理数核验证书。",
+   "links": [
+    "https://arxiv.org/abs/2608.16884"
+   ],
+   "topic": "alphaevolve-omega-2371177-2026-10",
+   "firstSeen": "2026-10-16T20:33:31+08:00"
+  },
+  {
+   "id": "6685a283b1",
+   "title": "Appflare 审计：Cloudflare「自建应用商店」两款 App 泄凭证",
+   "summary": "对 138 个已发布包的 Agent 辅助审计发现：rdyrct 把密码重置 token 打进第三方统计；888wiki 默认把私密路径/标题发往上游 tracker，非图片附件还会上传到外部主机。作者建议修完再上架。",
+   "links": [
+    "https://mainbrella.com/blog/the-cloudflare-appstore-appflare-malware-audit/"
+   ],
+   "topic": "appflare-cloudflare-malware-audit-2026-10",
+   "firstSeen": "2026-10-16T20:33:31+08:00"
+  },
+  {
+   "id": "9529ae9edc",
+   "title": "Show HN：OpenRegistry——直连 80 国政府登记处的公司数据 MCP",
+   "summary": "开源项目从官方公司登记处实时拉数据，经 MCP 给 Agent 用，覆盖约 80 个政府注册源；适合尽调、OPC/公司调研，而不是二次爬虫库。",
+   "links": [
+    "https://github.com/sophymarine/openregistry"
+   ],
+   "topic": "openregistry-mcp-company-filings-2026-10",
+   "firstSeen": "2026-10-16T20:33:31+08:00"
+  },
+  {
+   "id": "f6a42e85c7",
+   "title": "Audible Virtual Voice：用 AI 声线出有声书，作者可自选",
+   "summary": "亚马逊 Audible 推广 Virtual Voice：文本一键合成有声书，作者可选声线与风格；降低有声制作门槛，也再掀「AI 配音是否取代真人」讨论。",
+   "links": [
+    "https://www.audible.com/ep/virtual-voice"
+   ],
+   "topic": "audible-virtual-voice-2026-10",
+   "firstSeen": "2026-10-16T20:33:31+08:00"
+  },
+  {
+   "id": "a6dd454ec4",
+   "title": "Konnect：KiCad 10 原生 AI 辅助 PCB 插件（Rust）",
+   "summary": "单二进制 Rust 插件嵌进 KiCad 10，用 AI 协助布线与板级设计；面向硬件独立开发者的本机工作流，而非网页 CAD。",
+   "links": [
+    "https://github.com/mixelpixx/Konnect"
+   ],
+   "topic": "konnect-kicad10-ai-pcb-2026-10",
+   "firstSeen": "2026-10-16T20:33:31+08:00"
+  },
+  {
+   "id": "e8a4583004",
+   "title": "Show HN：Lisorto——Mac 本机 AI 整理 Downloads，先预览再动手",
+   "summary": "在设备上整理下载文件夹：先展示拟议移动/重命名，确认后再执行；强调本地与可审计，对标「一键乱归档」类工具。",
+   "links": [
+    "https://lisorto.app"
+   ],
+   "topic": "lisorto-mac-downloads-ai-2026-10",
+   "firstSeen": "2026-10-16T20:33:31+08:00"
+  },
+  {
+   "id": "f71f1202fd",
+   "title": "Silicium HNSW：AVX-512 量化向量检索，称 FP32 同召回下快 3.5×",
+   "summary": "新开源/评测包用 AVX-512 + SQ8 做 HNSW，宣称在约 99.8% 召回下比 FP32 快约 3.5 倍；贴合本地 RAG 与边缘向量库需求。",
+   "links": [
+    "https://github.com/silicium369-spec/silicium-hnsw"
+   ],
+   "topic": "silicium-hnsw-avx512-2026-10",
+   "firstSeen": "2026-10-16T20:33:31+08:00"
   }
  ],
- "lastChecked": "2026-10-16T20:10:56+08:00"
+ "lastChecked": "2026-10-16T20:33:31+08:00"
 }
