@@ -13,8 +13,8 @@ function card(i,n){const f=fav.has(i.id);return`<article class="card" data-id="$
 <h3>${c(i.t)}</h3><p>${c(i.p)}</p><div class="kv"><b>${t('money')}</b> · ${c(i.mo)}</div>
 <a class="more" href="idea/${i.id}/">${t('full')}</a><div class="bars">${['speed','cheap','autoS','demand'].map((k,j)=>`<div class="bar">${t(k)}<i style="--w:${i.s[j]*20}%"></i></div>`).join('')}</div></div></article>`}
 function render(){document.documentElement.lang=L;$('#lang').value=L;
-document.querySelectorAll('[data-i]').forEach(e=>e.textContent=t(e.dataset.i));
-$('#today').textContent=new Date().toLocaleDateString(L,{weekday:'long',year:'numeric',month:'long',day:'numeric'});
+document.querySelectorAll('[data-i]').forEach(e=>{const v=t(e.dataset.i);if(e.textContent!==v)e.textContent=v});
+{const v=new Date().toLocaleDateString(L,{weekday:'long',year:'numeric',month:'long',day:'numeric'});if($('#today').textContent!==v)$('#today').textContent=v}
 const vis=i=>(!tagF||c(i.tag)==tagF)&&(!favOnly||fav.has(i.id));
 ['green','cn','today','week','evergreen'].forEach(s=>{const a=D.ideas.filter(i=>i.sec==s&&(s!='evergreen'||vis(i))&&(!favOnly||fav.has(i.id))).sort((a,b)=>score(b)-score(a));$('#g-'+s).innerHTML=a.map(card).join('')});
 const tags=[...new Set(D.ideas.filter(i=>i.sec=='evergreen').map(i=>c(i.tag)))];
