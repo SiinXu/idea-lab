@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T06:56:50+08:00",
+ "lastUpdated": "2026-10-17T07:16:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15213,7 +15213,70 @@
    ],
    "topic": "jhu-magnetic-millirobots-heart-2026-10",
    "firstSeen": "2026-10-17T06:56:50+08:00"
+  },
+  {
+   "id": "93018895b4",
+   "title": "Anthropic 员工调研：过半认为 AI 2027 年前能做出诺奖级发现",
+   "summary": "Anthropic 发布内部调研：超 50% 员工预期 AI 在 2027 年前做出诺贝尔级发现，4% 认为现在已能做到；并称 AI 已承担约一半前沿模型构建工作，据此推算 2030 年 GDP 增幅暗示约 17%。",
+   "links": [
+    "https://x.com/i/trending/2111232636878266782"
+   ],
+   "topic": "anthropic-nobel-survey-2027-2026-10",
+   "firstSeen": "2026-10-17T07:16:05+08:00"
+  },
+  {
+   "id": "f5b932308d",
+   "title": "Clearview AI 人脸库扩至约 600 亿张：一张公开照片就可能永久失控",
+   "summary": "Clearview 从公开网页与社交网络抓取人脸，库容传至 500–700 亿量级，主要供执法使用；互动叙事提醒日常晒照会进入识别库，隐私默认工具与诉讼压力再成话题。",
+   "links": [
+    "https://x.com/i/trending/2111182354274304132"
+   ],
+   "topic": "clearview-60b-faces-2026-10",
+   "firstSeen": "2026-10-17T07:16:05+08:00"
+  },
+  {
+   "id": "bb611befd3",
+   "title": "Meta 智能眼镜被曝未唤醒也在录音：隐私争议再起",
+   "summary": "TechSpot 报道 Meta 智能眼镜曾在未说唤醒词时录下对话，引发对可穿戴设备默认采集的担忧。",
+   "links": [
+    "https://www.techspot.com/news/114214-meta-smart-glasses-secretly-recording-conversations-without-wake.html"
+   ],
+   "topic": "meta-smart-glasses-no-wake-recording-2026-10",
+   "firstSeen": "2026-10-17T07:16:05+08:00"
+  },
+  {
+   "id": "3d11af23c2",
+   "title": "E2B CEO：Sandboxes are dead——Agent 执行环境叙事再变",
+   "summary": "E2B 创始人公开称「沙箱已死」，在 Agent 基础设施圈引发讨论：下一步执行隔离与云端运行时会怎么走。",
+   "links": [
+    "https://twitter.com/mlejva/status/2111102659377946821",
+    "https://news.ycombinator.com/item?id=50125856"
+   ],
+   "topic": "e2b-sandboxes-are-dead-2026-10",
+   "firstSeen": "2026-10-17T07:16:05+08:00"
+  },
+  {
+   "id": "b3e84d8743",
+   "title": "BAE Systems 遭网络攻击：美联邦法院系统运作受影响",
+   "summary": "BleepingComputer 报道承包商 BAE Systems 遇袭，波及美国联邦法院相关系统运作，关键基础设施供应链风险再被点名。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
+    "https://news.ycombinator.com/item?id=50125993"
+   ],
+   "topic": "bae-systems-cyberattack-courts-2026-10",
+   "firstSeen": "2026-10-17T07:16:05+08:00"
+  },
+  {
+   "id": "720d571056",
+   "title": "Show HN：CtxWise——给 Claude/Codex 的 MCP schema 裁剪与防火墙",
+   "summary": "开源工具对 MCP schema 做 tree-shake 并加防火墙，减少塞进上下文的工具噪声，顺带挡不安全调用。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://github.com/FramY2/ctxwise",
+    "https://news.ycombinator.com/item?id=50125990"
+   ],
+   "topic": "ctxwise-mcp-firewall-2026-10",
+   "firstSeen": "2026-10-17T07:16:05+08:00"
   }
  ],
- "lastChecked": "2026-10-17T06:56:50+08:00"
+ "lastChecked": "2026-10-17T07:16:05+08:00"
 }
