@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T09:20:14+08:00",
+ "lastUpdated": "2026-10-16T09:23:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -10960,7 +10960,39 @@
    ],
    "topic": "ai-agent-frontend-state-machines-2026-10",
    "firstSeen": "2026-10-16T09:20:14+08:00"
+  },
+  {
+   "id": "79e9d2fb4c",
+   "title": "特斯拉新一代 Roadster 正式亮相：可选 SpaceX 冷气推进器",
+   "summary": "拖了九年后，特斯拉在德州 McGregor 的 SpaceX 场地办户外发布：可选 SpaceX 冷气推进器，宣称 0–60 mph 不到 1 秒、续航超 600 英里、极速超 250 mph，现场有远程操控的大坡道飞跃与短暂悬停演示。纽约时报已报道，HN 也在讨论。",
+   "links": [
+    "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
+    "https://news.ycombinator.com/item?id=50112380",
+    "https://x.com/i/trending/2110429725088698594"
+   ],
+   "topic": "tesla-roadster-2026-unveil",
+   "firstSeen": "2026-10-16T09:23:18+08:00"
+  },
+  {
+   "id": "314ac54c1b",
+   "title": "特斯拉 2026.38.5.1 推送：FSD v14.3.12 + 万圣节模式",
+   "summary": "本周推送给大批车辆：AI4/HW4 获 FSD（监督版）v14.3.12，不少 HW3 车型拿到 Lite 版；低能见度处理、交通标志识别更好，新 AI 编译器让反应快约 20%，泊车决策更细。另有驻车时可用的万圣节模式、灯光秀与拍照亭。",
+   "links": [
+    "https://x.com/i/trending/2110536842529632726"
+   ],
+   "topic": "tesla-2026-38-5-1-fsd-v14-3-12",
+   "firstSeen": "2026-10-16T09:23:18+08:00"
+  },
+  {
+   "id": "51ce0178c8",
+   "title": "开发者吐槽 AI 编程疲劳；Torvalds 斥「AI 披露规则」很蠢",
+   "summary": "Stack Overflow 3 万多人调查显示近三分之二开发者在用 AI 编程助手，但越来越多人说被「提示—审查」循环耗干。Linus Torvalds 称要求在内核贡献里披露 AI 使用的规则「UTTERLY STUPID」，主张只看代码质量。社区担心代码趋同、频繁切换导致倦怠、技能退化。",
+   "links": [
+    "https://x.com/i/trending/2110900651802648786"
+   ],
+   "topic": "dev-ai-coding-fatigue-torvalds-disclosure",
+   "firstSeen": "2026-10-16T09:23:18+08:00"
   }
  ],
- "lastChecked": "2026-10-16T09:20:14+08:00"
+ "lastChecked": "2026-10-16T09:23:18+08:00"
 }
