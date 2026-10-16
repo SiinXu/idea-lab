@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T01:00:15+08:00",
+ "lastUpdated": "2026-10-17T01:11:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -13572,7 +13572,30 @@
    ],
    "topic": "toolbit-local-dev-utils-2026-10",
    "firstSeen": "2026-10-17T01:00:15+08:00"
+  },
+  {
+   "id": "2193720a10",
+   "title": "Anthropic 首次获信用评级：KBRA 给 BB+（最高垃圾级）",
+   "summary": "6 月评级今才披露：服务 Apollo 牵头约 350 亿美元 Broadcom 芯片融资中约 44 亿次级债；次级约 8.5% 收益率，评级基于不完整财务披露。",
+   "links": [
+    "https://cryptobriefing.com/anthropic-bb-plus-credit-rating-kbra/",
+    "https://thedeepdive.ca/anthropics-junk-credit-rating-went-unreported-during-35-billion-ai-financing/",
+    "https://x.com/i/trending/2111138244549386348"
+   ],
+   "topic": "anthropic-kbra-bb-plus-rating-2026-10",
+   "firstSeen": "2026-10-17T01:11:19+08:00"
+  },
+  {
+   "id": "10be13a6a9",
+   "title": "Show HN：/dev/null——面向开发者的社交网络",
+   "summary": "dev-null.sh 上线，定位给开发者用的轻量社交；刚冲上 HN 新帖区，尚在早期涨分。",
+   "links": [
+    "https://dev-null.sh",
+    "https://news.ycombinator.com/item?id=50121004"
+   ],
+   "topic": "dev-null-sh-dev-social-2026-10",
+   "firstSeen": "2026-10-17T01:11:19+08:00"
   }
  ],
- "lastChecked": "2026-10-17T01:00:15+08:00"
+ "lastChecked": "2026-10-17T01:11:19+08:00"
 }
