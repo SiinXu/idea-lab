@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T19:59:37+08:00",
+ "lastUpdated": "2026-10-16T20:10:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12571,7 +12571,38 @@
    ],
    "topic": "cal-ai-influencer-growth-disrupt-2026-10",
    "firstSeen": "2026-10-16T19:59:37+08:00"
+  },
+  {
+   "id": "d5132a436c",
+   "title": "iPhone Duo 开放预订：1999 美元，苹果首款折叠屏 10 月 23 日发售",
+   "summary": "苹果首款折叠屏 iPhone Duo 今天美东 8 点开订，Apple Store 一度下线备货；外屏 5.4 英寸、内屏 7.6 英寸近乎无折痕。短板是约 2000 美元售价、没有 Face ID、主摄无可变光圈，预计需求旺、供货紧。",
+   "links": [
+    "https://www.engadget.com/2288565/apple-iphone-duo-pre-orders-open-today/",
+    "https://www.theverge.com/gadgets/988582/apple-iphone-duo-preorder-buy-foldable"
+   ],
+   "topic": "iphone-duo-preorder-2026-10",
+   "firstSeen": "2026-10-16T20:10:56+08:00"
+  },
+  {
+   "id": "201ebfd241",
+   "title": "ChatGPT Chrome 扩展升级：能读你开着的标签页，Work 模式代填表单",
+   "summary": "OpenAI 8 月关停自家浏览器后加码 Chrome 扩展：Chat 模式可跨多个标签页对比信息（比如三家沙发的尺寸、价格、配送和退货政策）；Work Agent 可在浏览器里发消息、填表、整理标签页，正面对标 Gemini in Chrome。",
+   "links": [
+    "https://www.engadget.com/2288580/open-ai-updates-chatgpt-extension-for-chrome/"
+   ],
+   "topic": "chatgpt-chrome-extension-tabs-2026-10",
+   "firstSeen": "2026-10-16T20:10:56+08:00"
+  },
+  {
+   "id": "28bee669df",
+   "title": "Gmail Live 正式上线：用语音对话搜邮箱，Docs/Keep Live 同步来",
+   "summary": "Google 为 AI 订阅用户推出 Gmail Live，可直接问「我的航班登机口是几号」，由 Gemini 扫描收件箱作答；Docs Live 能从 Gmail、Drive、Chat 和网页抓素材生成初稿，Keep Live 也在路上，Workspace 企业版随后开放。",
+   "links": [
+    "https://www.engadget.com/2288545/gmail-live-ai-search-feature-arrives-for-google-ai-subscribers/"
+   ],
+   "topic": "gmail-live-ai-search-2026-10",
+   "firstSeen": "2026-10-16T20:10:56+08:00"
   }
  ],
- "lastChecked": "2026-10-16T19:59:37+08:00"
+ "lastChecked": "2026-10-16T20:10:56+08:00"
 }
