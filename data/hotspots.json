@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T23:48:19+08:00",
+ "lastUpdated": "2026-10-17T00:05:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -13264,7 +13264,53 @@
    ],
    "topic": "rstation-ai-agent-research-lab-2026-10",
    "firstSeen": "2026-10-16T23:48:19+08:00"
+  },
+  {
+   "id": "f0a5f325be",
+   "title": "PostgreSQL 19 因 LLM 审码推迟到 11 月：最多撤回约 10 个特性",
+   "summary": "官方把 GA 调到约 11 月 19 日；Register 报道称 LLM 辅助审码把质量门槛抬高后，边角缺陷报告堆积，核心贡献者来不及在 beta 内修完。另有贡献者撰文提醒：多数撤回仍来自人工审查，叙事不宜简化成「AI 找到修不了的大 bug」。",
+   "links": [
+    "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+    "https://news.ycombinator.com/item?id=50119991",
+    "https://www.postgresql.org/message-id/f161fbb7-e193-42eb-bec7-4cfc1af74a50@postgresql.org",
+    "https://vondra.me/posts/are-we-reverting-patches-because-of-bugs-found-by-ai/"
+   ],
+   "topic": "postgres-19-llm-review-delay-2026-10",
+   "firstSeen": "2026-10-17T00:05:29+08:00"
+  },
+  {
+   "id": "2cfbb97fbc",
+   "title": "Visa Direct 稳定币预充值转商用：Inyo 用 USDC 做跨境打款",
+   "summary": "Visa 宣布 Visa Direct 的稳定币能力从试点进入商业部署；首个落地伙伴 Inyo Global，合格客户可用 USDC 近实时预充跨境打款资金，覆盖其平台上 180+ 国家出款场景，不再只靠传统银行窗口。",
+   "links": [
+    "https://corporate.visa.com/en/sites/visa-perspectives/newsroom/visa-direct-moves-stablecoin-pilots-production.html",
+    "https://x.com/i/trending/2111061726779335010"
+   ],
+   "topic": "visa-direct-usdc-production-2026-10",
+   "firstSeen": "2026-10-17T00:05:29+08:00"
+  },
+  {
+   "id": "a44b53e004",
+   "title": "调查：Polymarket 付费约 800 人在 X 上「有机感」引用转发电竞盘口",
+   "summary": "ReaderGrev 披露内部 Discord：节目参与者逾 800，单帖约 10–数百美元加密货币结算；员工反复要求帖子「看起来像自然讨论」。报道登上 HN，折射预测市场用付费互动做圈层渗透。",
+   "links": [
+    "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
+    "https://news.ycombinator.com/item?id=50120010"
+   ],
+   "topic": "polymarket-paid-qrt-esports-2026-10",
+   "firstSeen": "2026-10-17T00:05:29+08:00"
+  },
+  {
+   "id": "c0ec3a77fa",
+   "title": "Show HN：OneDeploy——自有服务器上一键托管开源应用",
+   "summary": "按应用+地区选套餐，自动建机、装应用、证书与夜间备份；按小时计费、有月封顶，不按席位收费。定位在「订阅 SaaS」与「自己管服务器」之间，目前约 88 款开源应用。",
+   "links": [
+    "https://www.onedeploy.co/",
+    "https://news.ycombinator.com/item?id=50119752"
+   ],
+   "topic": "onedeploy-managed-oss-hn-2026-10",
+   "firstSeen": "2026-10-17T00:05:29+08:00"
   }
  ],
- "lastChecked": "2026-10-16T23:48:19+08:00"
+ "lastChecked": "2026-10-17T00:05:29+08:00"
 }
