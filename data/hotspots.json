@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T16:36:56+08:00",
+ "lastUpdated": "2026-10-16T16:44:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12009,7 +12009,62 @@
    ],
    "topic": "chatgpt-vs-claude-popularity-2026-10",
    "firstSeen": "2026-10-16T16:36:56+08:00"
+  },
+  {
+   "id": "a730daa3b9",
+   "title": "Trustmux：手机异步看管本机 tmux/Byobu，已进 Ubuntu/Debian/Fedora",
+   "summary": "Byobu 作者推出的 PWA：经 Tailscale 点对点连到本机会话，配对码登录、断网不怕；适合在飞机上远程 nudge Claude/Codex。Show HN 今日上新，并已进入多家发行版包装。",
+   "links": [
+    "https://trustmux.dev",
+    "https://news.ycombinator.com/item?id=50115537",
+    "https://pypi.org/project/trustmux/"
+   ],
+   "topic": "trustmux-phone-tmux-byobu-2026-10",
+   "firstSeen": "2026-10-16T16:44:08+08:00"
+  },
+  {
+   "id": "187a18926f",
+   "title": "双栈滑动窗口聚合：无逆运算也能均摊 O(1) 维护窗口摘要",
+   "summary": "orlp 科普「两栈」算法：对最小值、分位数、HyperLogLog 等无逆聚合，用 values + 累积聚合双栈均摊常数时间；比朴素滚动更能避免 NaN/浮点误差拖垮整条序列。登上 HN 首页。",
+   "links": [
+    "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
+    "https://news.ycombinator.com/item?id=50072485"
+   ],
+   "topic": "two-stack-sliding-window-agg-2026-10",
+   "firstSeen": "2026-10-16T16:44:08+08:00"
+  },
+  {
+   "id": "f1a13f12eb",
+   "title": "CanvoWP：面向 Agent 的免费 WordPress 建站器上 Show HN",
+   "summary": "自称 agent-first：让编码 Agent 直接搭 WP 站，产品完全免费；今日 Show HN 刚露头，适合观察「Agent 建站」是否会从玩具变成可卖的交付层。",
+   "links": [
+    "https://canvowp.com/",
+    "https://news.ycombinator.com/item?id=50115725"
+   ],
+   "topic": "canvowp-agent-wordpress-2026-10",
+   "firstSeen": "2026-10-16T16:44:08+08:00"
+  },
+  {
+   "id": "0bc76dde4b",
+   "title": "X 热议：欧洲要不要自建前沿大模型，Mistral 再敲主权警钟",
+   "summary": "讨论聚焦：若不自建前沿模型与算力，欧洲或继续向美云支付巨额费用，并面临断供风险；Mistral 等主张主权算力与可控审计，反对者则担心成本与监管。",
+   "links": [
+    "https://x.com/i/trending/2111011202159554719"
+   ],
+   "topic": "europe-frontier-ai-sovereignty-debate-2026-10",
+   "firstSeen": "2026-10-16T16:44:08+08:00"
+  },
+  {
+   "id": "0cd9b5b96a",
+   "title": "「你被允许做的内幕交易」：合法信息差如何变成优势",
+   "summary": "HN 首页短文梳理日常合法的信息优势（行业观察、公开披露前的公开信号等）与真正违法内幕的边界；偏商业/认知，但对做二级市场与 SaaS 选题仍有参考。",
+   "links": [
+    "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
+    "https://news.ycombinator.com/item?id=50115144"
+   ],
+   "topic": "allowed-insider-trading-essay-2026-10",
+   "firstSeen": "2026-10-16T16:44:08+08:00"
   }
  ],
- "lastChecked": "2026-10-16T16:36:56+08:00"
+ "lastChecked": "2026-10-16T16:44:08+08:00"
 }
