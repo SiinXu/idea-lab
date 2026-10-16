@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T22:36:13+08:00",
+ "lastUpdated": "2026-10-16T22:47:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -13017,7 +13017,52 @@
    ],
    "topic": "interview-why-hire-over-claude-code-2026-10",
    "firstSeen": "2026-10-16T22:36:13+08:00"
+  },
+  {
+   "id": "75e2283776",
+   "title": "中国拟对 AI 技术加出口管制：约 23 项关键清单",
+   "summary": "路透等报道：中国拟把大模型、Agent、算力集群等约 23 项 AI 技术纳入出口管制（并与生物/光伏等共约 40 项），理由是国家安全与防滥用；现有开源许可与学术论文仍尊重，个人 API 使用预计仍可用。西方此前限制先进芯片输华，如今中方反过来收紧「开源/开权」出海，地缘与开源博弈再升级。",
+   "links": [
+    "https://www.pcmag.com/news/china-reportedly-planning-ai-export-controls-citing-national-security",
+    "https://www.techmeme.com/261016/p1"
+   ],
+   "topic": "china-ai-export-controls-2026-10",
+   "firstSeen": "2026-10-16T22:47:28+08:00"
+  },
+  {
+   "id": "15e1917a6b",
+   "title": "台湾筹划德州最高 40 亿美元工业园：给英伟达供应链「搬家」",
+   "summary": "彭博：经济部长龚明鑫称，台湾将与电电公会合作在美建工业园，首个德州园区造价最高约 40 亿美元，目标帮 TSMC/富士康等背后的中小件供应商落地，服务英伟达等 AI 硬件链；政府可提供贷款担保与签证/用地协调，并计划建不止一座。台美贸易承诺与去风险压力下，供应链再西移。",
+   "links": [
+    "https://finance.yahoo.com/technology/ai/articles/taiwan-fund-4-billion-texas-013257894.html",
+    "https://finance.technews.tw/2026/10/16/taiwan-moea-texas-ai-supply-chain-4-billion-investment-per-park/"
+   ],
+   "topic": "taiwan-texas-nvidia-supply-parks-2026-10",
+   "firstSeen": "2026-10-16T22:47:28+08:00"
+  },
+  {
+   "id": "24aff10230",
+   "title": "Waymo 进军多伦多：2028 年加拿大首城 Robotaxi",
+   "summary": "Waymo 宣布以多伦多为加拿大首个部署城市，目标 2028 年面向公众；已获安省自动驾驶试点框架下的测绘与人工接管路测许可，并与本地 Element Fleet Management 扩大合作，负责车队维保、充电与现场运营，长期拟创造数百岗位。Uber 称人机混跑会持续数年，呼吁先定安全标准。",
+   "links": [
+    "https://www.prnewswire.com/news-releases/element-expands-strategic-partnership-with-waymo-as-autonomous-mobility-arrives-in-canada-302911167.html",
+    "https://toronto.citynews.ca/2026/10/16/waymo-cars-autonomous-toronto-2028-launch/",
+    "https://www.channelnewsasia.com/business/googles-waymo-plans-first-canada-robotaxi-service-in-toronto-in-2028-6465796"
+   ],
+   "topic": "waymo-toronto-2028-canada-2026-10",
+   "firstSeen": "2026-10-16T22:47:28+08:00"
+  },
+  {
+   "id": "60d618d63e",
+   "title": "陀螺仪居然能做这么小：MEMS 传感器科普片冲上 HN",
+   "summary": "HN 首页热帖：一段讲解 MEMS 陀螺仪如何做到极小体积的视频，把角速度传感从航空机械结构缩到芯片级的物理与制造路径讲清楚。硬件极客与机器人/手机 IMU 话题回流，适合做「传感器科普 + 具身/无人机选型」内容素材。",
+   "links": [
+    "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
+    "https://news.ycombinator.com/item?id=50104965"
+   ],
+   "topic": "mems-gyroscopes-got-so-small-hn-2026-10",
+   "firstSeen": "2026-10-16T22:47:28+08:00"
   }
  ],
- "lastChecked": "2026-10-16T22:36:13+08:00"
+ "lastChecked": "2026-10-16T22:47:28+08:00"
 }
