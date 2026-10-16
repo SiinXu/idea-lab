@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T06:17:55+08:00",
+ "lastUpdated": "2026-10-17T06:27:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -14958,7 +14958,62 @@
    ],
    "topic": "anthropic-ai-safety-bill-politico-2026-10",
    "firstSeen": "2026-10-17T06:17:55+08:00"
+  },
+  {
+   "id": "dda086d2d8",
+   "title": "Cryptographic Conspiracy Bench：用「破解密码学阴谋」给 AI 计分",
+   "summary": "新榜单仿 FelonyBench 五家公司制，只计公开可核验的密码学阴谋结案；首条记 Anthropic：Claude 还原 NIST ECDSA 曲线种子生成过程，证据偏向无后门。",
+   "links": [
+    "https://cryptoconspiracybench.org/",
+    "https://news.ycombinator.com/item?id=50125540"
+   ],
+   "topic": "crypto-conspiracy-bench-2026-10",
+   "firstSeen": "2026-10-17T06:27:55+08:00"
+  },
+  {
+   "id": "167f72ced4",
+   "title": "DNS Museum：把 DNS 玩成博物馆",
+   "summary": "收录 traceroute 歌词、DNS over IRC/Signal、TXT 博客、Wordle over DNS、隧道等「怪但真」的 DNS 实验，适合网络冷知识与灵感站。",
+   "links": [
+    "https://dns.museum",
+    "https://news.ycombinator.com/item?id=50125551"
+   ],
+   "topic": "dns-museum-2026-10",
+   "firstSeen": "2026-10-17T06:27:55+08:00"
+  },
+  {
+   "id": "6266d87d80",
+   "title": "Beni：面向浏览器的类型函数式语言，没有 async/await",
+   "summary": "编译到 JS/WASM，无 any、无空指针；用 fiber 运行时隐式处理挂起，JSON 可按用法自动插 schema 校验。预 1.0，有 playground。",
+   "links": [
+    "https://blog.jayson.com.br/posts/beni-a-typed-functional-language-for-the-browser-with-no-asyncawait/",
+    "https://github.com/canassa/beni",
+    "https://news.ycombinator.com/item?id=50125482"
+   ],
+   "topic": "beni-browser-lang-2026-10",
+   "firstSeen": "2026-10-17T06:27:55+08:00"
+  },
+  {
+   "id": "de385e68de",
+   "title": "Looped Transformer 会不会写「不用的」推理？Huginn 实测",
+   "summary": "对 Huginn 做 CoT 忠实度实验：篡改中间数字后模型几乎总跟着错迹走；加循环次数并不能让它更少依赖写出的步骤。小样本启发文，非大论文。",
+   "links": [
+    "https://igort99.github.io/posts/2026/10/05/looped-cot-faithfulness/",
+    "https://news.ycombinator.com/item?id=50125263"
+   ],
+   "topic": "looped-cot-faithfulness-huginn-2026-10",
+   "firstSeen": "2026-10-17T06:27:55+08:00"
+  },
+  {
+   "id": "b30c268773",
+   "title": "开发者争论：有了 AI Agent，还要不要 Pull Request？",
+   "summary": "Thorsten Ball 等讨论：若 Opus 级模型能更彻底测与审，PR 是否成瓶颈；有人喊「Team No PR」求更快迭代，也有人担心质量与对齐失控。",
+   "links": [
+    "https://x.com/i/trending/2111219235619811518"
+   ],
+   "topic": "ditch-pull-requests-ai-agents-2026-10",
+   "firstSeen": "2026-10-17T06:27:55+08:00"
   }
  ],
- "lastChecked": "2026-10-17T06:17:55+08:00"
+ "lastChecked": "2026-10-17T06:27:55+08:00"
 }
