@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T19:13:26+08:00",
+ "lastUpdated": "2026-10-16T19:29:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12449,7 +12449,99 @@
    ],
    "topic": "deepseek-product-dept-harness-2026-10",
    "firstSeen": "2026-10-16T19:13:26+08:00"
+  },
+  {
+   "id": "3e530fc82b",
+   "title": "中国拟把 23 项 AI 技术列入出口管制：含大模型、Agent 与芯片设计",
+   "summary": "商务部草案覆盖超约 2 万亿参数或全球前十档模型的权重、检查点与源码；已公开开源与公域研究除外，周五起对相关出口先强制登记。",
+   "links": [
+    "https://theedgemalaysia.com/node/822148"
+   ],
+   "topic": "china-ai-export-controls-23-2026-10",
+   "firstSeen": "2026-10-16T19:29:23+08:00"
+  },
+  {
+   "id": "ec19bd705f",
+   "title": "G7 将演练「桌面推演」：模拟 AI 对银行的网络攻击",
+   "summary": "日本财务大臣确认 G7 将开展针对金融机构的 AI 网络攻击桌面演练；英央行与 IMF 亦强调要防 Agent 加速黑客攻击。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1012622/g7-countries-plan-tabletop-exercises-simulating-ai-cyberattacks-on-banks"
+   ],
+   "topic": "g7-ai-cyber-tabletop-banks-2026-10",
+   "firstSeen": "2026-10-16T19:29:23+08:00"
+  },
+  {
+   "id": "a42902fed9",
+   "title": "马斯克称 SpaceX「大概会」跟进 Anthropic：让外部评估方进场",
+   "summary": "在 Anthropic 给 METR 员工级访问之后，马斯克发帖称 SpaceX 大概也会允许外部评估方接触其 AI 系统，语气仍很含糊。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1012677/spacex-is-almost-sort-of-maybe-committing-to-ai-safety-oversight"
+   ],
+   "topic": "spacex-external-ai-evaluators-2026-10",
+   "firstSeen": "2026-10-16T19:29:23+08:00"
+  },
+  {
+   "id": "000ea8a477",
+   "title": "decomp.dev 关停公开排行榜：AI 反编译把社区玩坏了",
+   "summary": "站长称 GPT-6 Astra 等模型让匹配反编译成本骤降，但敌意 fork、抢发半成品 PC 移植与「decomp=移植」话术撕裂社区，主页索引与新项目入口关闭。",
+   "links": [
+    "https://decomp.dev"
+   ],
+   "topic": "decomp-dev-sunset-leaderboard-2026-10",
+   "firstSeen": "2026-10-16T19:29:23+08:00"
+  },
+  {
+   "id": "a561c82cc8",
+   "title": "Ask YouTube 美国移动端上线：聊天式搜片给文字摘要+推荐视频",
+   "summary": "YouTube 的 AI 搜索「Ask YouTube」在美国移动端开放，生成带文字说明与推荐视频的结果页；此前网页版与 8 月移动实验已试过。",
+   "links": [
+    "https://www.theverge.com/streaming/1012317/youtubes-ai-chatbot-search-has-launched-on-mobile-in-the-us"
+   ],
+   "topic": "ask-youtube-mobile-us-2026-10",
+   "firstSeen": "2026-10-16T19:29:23+08:00"
+  },
+  {
+   "id": "d2c6484d5b",
+   "title": "Show HN：Chartist v2——小号 SVG 图表，支持 SSR 与终端输出",
+   "summary": "经典 Chartist 迎来 v2：纯 SVG、用 CSS 上色、无依赖；支持服务端渲染成字符串，以及在终端里画图，适合轻量仪表盘。",
+   "links": [
+    "https://chartist.dev",
+    "https://news.ycombinator.com/from?site=chartist.dev"
+   ],
+   "topic": "chartist-v2-ssr-terminal-2026-10",
+   "firstSeen": "2026-10-16T19:29:23+08:00"
+  },
+  {
+   "id": "60a0351081",
+   "title": "Show HN：Formatif——54MB Rust 本机媒体工具箱，手机可直传电脑",
+   "summary": "一次性买断的本地媒体套件：60+ 转换/压缩工具，另有本地 AI 超分降噪；Local Bridge 可把手机素材经 Wi-Fi 送到桌面批量处理。",
+   "links": [
+    "https://formatif.net"
+   ],
+   "topic": "formatif-rust-media-toolkit-2026-10",
+   "firstSeen": "2026-10-16T19:29:23+08:00"
+  },
+  {
+   "id": "166c7b4072",
+   "title": "Open Oncall：开源替代 Devin Oncall 的公司级 Agent 操作系统",
+   "summary": "desplega 的 agent-swarm 自称公司 Agent 操作系统：主 Agent 拆任务、容器隔离跑 Claude Code/Codex 等，共享记忆与技能；站点称可对标 Cognition 的 Oncall。",
+   "links": [
+    "https://www.agent-swarm.dev",
+    "https://github.com/desplega-ai/agent-swarm"
+   ],
+   "topic": "open-oncall-agent-swarm-2026-10",
+   "firstSeen": "2026-10-16T19:29:23+08:00"
+  },
+  {
+   "id": "5f9692a376",
+   "title": "Spectrum：用虚拟机隔离每个应用的「可用安全」操作系统",
+   "summary": "Spectrum 以隔间化安全为目标，每个应用跑在虚拟机里，持久数据集中管理但保留边界；上游优先，接受个人捐赠与 NGI Zero 资助。",
+   "links": [
+    "https://spectrum-os.org"
+   ],
+   "topic": "spectrum-os-compartment-vm-2026-10",
+   "firstSeen": "2026-10-16T19:29:23+08:00"
   }
  ],
- "lastChecked": "2026-10-16T19:13:26+08:00"
+ "lastChecked": "2026-10-16T19:29:23+08:00"
 }
