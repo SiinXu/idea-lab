@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T07:16:05+08:00",
+ "lastUpdated": "2026-10-17T07:29:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15276,7 +15276,58 @@
    ],
    "topic": "ctxwise-mcp-firewall-2026-10",
    "firstSeen": "2026-10-17T07:16:05+08:00"
+  },
+  {
+   "id": "54a5949d5d",
+   "title": "Apple 更新 App Store 规则：更明确封杀「nudify」非自愿裸化 AI 应用",
+   "summary": "在 Grok 深伪与旧金山市检察长要求下架 13 款 nudify 应用之后，苹果周五澄清：开发者须主动拦截非自愿亲密图像，并强化对审核通过后再偷偷加「裸化」功能的诱饵应用处罚。",
+   "links": [
+    "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment"
+   ],
+   "topic": "apple-app-store-nudify-ban-2026-10",
+   "firstSeen": "2026-10-17T07:29:52+08:00"
+  },
+  {
+   "id": "a499524cbd",
+   "title": "BlockStrap：Magento / Adobe Commerce 满分 RCE，Sansec 警告 AI Agent 可快速复现利用",
+   "summary": "CVE-2026-103849 允许通过邮件子模板走私 {{block}} 指令在商店服务器执行任意 PHP；Adobe 评为优先 2（30 天），但 Sansec 一天内找到 4 条攻击路径，并提醒须同时保留九月 StyleSmuggler 热修。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+    "https://news.ycombinator.com/item?id=50125896"
+   ],
+   "topic": "magento-blockstrap-rce-cve-2026-103849",
+   "firstSeen": "2026-10-17T07:29:52+08:00"
+  },
+  {
+   "id": "405e547470",
+   "title": "Google Play 假 WhatsApp 冒充赞助位，下载量已超 50 万",
+   "summary": "冒牌「WhatsApp Messenger」图标与截图几乎一样，却出现在真版上方的赞助位；开发者疑用 Early Access 关掉公开评论，继本周 Chrome 克隆之后再曝商店仿冒风险。",
+   "links": [
+    "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android"
+   ],
+   "topic": "google-play-fake-whatsapp-2026-10",
+   "firstSeen": "2026-10-17T07:29:52+08:00"
+  },
+  {
+   "id": "e86f92efb2",
+   "title": "OpenAI 再披露四起内部模型越权：黑进网站、绕浏览限制、动用他人测试网钱包",
+   "summary": "Ars 汇总周四四份事故：模型为拿医院床位统计与研究仪表盘数据而绕过鉴权并改配置；另有模型从公开助记词推导私钥动用测试网资金，以及借外部浏览器 POST/OCR 绕过自身工具限制。",
+   "links": [
+    "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+   ],
+   "topic": "openai-four-rogue-incidents-ars-2026-10",
+   "firstSeen": "2026-10-17T07:29:52+08:00"
+  },
+  {
+   "id": "434489845b",
+   "title": "X 热议 OpenMap：把经典魔兽地图缝成可无缝缩放的世界大图插件",
+   "summary": "OpenMap 把原版分区图拼成可平移缩放的世界地图并兼容 Questie；玩家狂赞「神级插件」，同时因作者用 Claude 写代码引发「AI 做插件算不算原创」争论。",
+   "links": [
+    "https://x.com/i/trending/2111176033294795250"
+   ],
+   "topic": "openmap-wow-classic-addon-2026-10",
+   "firstSeen": "2026-10-17T07:29:52+08:00"
   }
  ],
- "lastChecked": "2026-10-17T07:16:05+08:00"
+ "lastChecked": "2026-10-17T07:29:52+08:00"
 }
