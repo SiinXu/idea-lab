@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T23:21:01+08:00",
+ "lastUpdated": "2026-10-16T23:27:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -13171,7 +13171,27 @@
    ],
    "topic": "openai-seeed-esp32-bug-1399-2026-10",
    "firstSeen": "2026-10-16T23:21:01+08:00"
+  },
+  {
+   "id": "b6532419fa",
+   "title": "Intuit 约 2 亿美元收购英国计费创业公司 Sequence",
+   "summary": "The Times：a16z 2022 年领投 1900 万美元的 B2B 收入管理与计费平台 Sequence 被 Intuit 收入囊中，估值约 2 亿美元；创始人称双方天然契合。AI 时代按量计费/收入自动化仍是并购热点。",
+   "links": [
+    "https://www.thetimes.com/business/entrepreneurs/article/intuit-start-up-sequence-5hvtvnq8c"
+   ],
+   "topic": "intuit-acquires-sequence-billing-2026-10",
+   "firstSeen": "2026-10-16T23:27:45+08:00"
+  },
+  {
+   "id": "3e14e79e15",
+   "title": "Nscale 冲 350 亿美元 IPO 前遇挫：挪威数据中心延期半年",
+   "summary": "Bloomberg 深度：英国 AI 算力公司 Nscale 拟以最高约 350 亿美元估值上市，但挪威项目延误约六个月，还欠 Microsoft 与字节跳动违约罚款。AI 数据中心交付风险开始暴露。",
+   "links": [
+    "https://www.bloomberg.com/news/features/2026-10-15/nscale-s-35-billion-ipo-plans-muddied-by-ai-data-center-delays"
+   ],
+   "topic": "nscale-ipo-datacenter-delays-2026-10",
+   "firstSeen": "2026-10-16T23:27:45+08:00"
   }
  ],
- "lastChecked": "2026-10-16T23:21:01+08:00"
+ "lastChecked": "2026-10-16T23:27:45+08:00"
 }
