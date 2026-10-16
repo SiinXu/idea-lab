@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T19:29:23+08:00",
+ "lastUpdated": "2026-10-16T19:59:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12541,7 +12541,37 @@
    ],
    "topic": "spectrum-os-compartment-vm-2026-10",
    "firstSeen": "2026-10-16T19:29:23+08:00"
+  },
+  {
+   "id": "765b0918fe",
+   "title": "蓝色起源加码 New Glenn：佛州再建两座发射台，目标年发 150 次",
+   "summary": "Blue Origin 宣布在卡角新增两座 New Glenn 发射台、可年产 150 个上面级的工厂、两艘回收船，以及与美国太空军共建的四舱位载荷集成设施，称本十年末要做到每周多次发射。",
+   "links": [
+    "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/"
+   ],
+   "topic": "blue-origin-new-glenn-expansion-2026-10",
+   "firstSeen": "2026-10-16T19:59:37+08:00"
+  },
+  {
+   "id": "590ec38a60",
+   "title": "Googlebook 首测：安卓笔记本「还是安卓」",
+   "summary": "Ars Technica 评测谷歌新推的 Android 笔记本 Googlebook：硬件高端、多数机型过千美元，定位接替 ChromeOS 挑战 Windows/macOS，但体验时而像 Chromebook、时而像大号手机，离高端笔记本还差得远。",
+   "links": [
+    "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/"
+   ],
+   "topic": "googlebook-review-android-laptop-2026-10",
+   "firstSeen": "2026-10-16T19:59:37+08:00"
+  },
+  {
+   "id": "aae90d6b2d",
+   "title": "19 岁创始人复盘 Cal AI：靠「网红小分队」两年做到 3000 万美元营收",
+   "summary": "Cal AI 创始人 Zach Yadegari 在 TechCrunch Disrupt 分享：按触达量谈价、批量雇佣社群紧密的学生网红持续发帖，转化近乎线性；公司两年营收超 3000 万美元，今年 3 月被 MyFitnessPal 收购。",
+   "links": [
+    "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
+   ],
+   "topic": "cal-ai-influencer-growth-disrupt-2026-10",
+   "firstSeen": "2026-10-16T19:59:37+08:00"
   }
  ],
- "lastChecked": "2026-10-16T19:29:23+08:00"
+ "lastChecked": "2026-10-16T19:59:37+08:00"
 }
