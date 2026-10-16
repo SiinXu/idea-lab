@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T03:33:14+08:00",
+ "lastUpdated": "2026-10-17T03:44:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -14306,7 +14306,104 @@
    ],
    "topic": "theo-claude-vs-codex-dms-2026-10",
    "firstSeen": "2026-10-17T03:33:14+08:00"
+  },
+  {
+   "id": "4a21b55e02",
+   "title": "Show HN：Stoke Money——围绕现金流预测的个人理财应用",
+   "summary": "用历史交易投影账户余额与信用卡还款时点，去掉传统预算；Pro 通过 MCP 接 Claude 等助手做分类、规则与转账规划。刚上 HN 新帖。",
+   "links": [
+    "https://stoke.money",
+    "https://news.ycombinator.com/item?id=50122776"
+   ],
+   "topic": "stoke-money-cashflow-mcp-2026-10",
+   "firstSeen": "2026-10-17T03:44:19+08:00"
+  },
+  {
+   "id": "8082a5338f",
+   "title": "C++26 新头文件 <debugging>：标准化断点与调试器探测",
+   "summary": "P2546R5 引入 std::breakpoint、is_debugger_present、breakpoint_if_debugging，替代各项目手写的平台相关宏；可在 freestanding 环境替换探测实现。",
+   "links": [
+    "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+    "https://news.ycombinator.com/item?id=50122736"
+   ],
+   "topic": "cpp26-debugging-header-2026-10",
+   "firstSeen": "2026-10-17T03:44:19+08:00"
+  },
+  {
+   "id": "0b8c17414f",
+   "title": "蒙特卡洛模拟入门：从估 π、SET 到手牌到退休资金",
+   "summary": "Eli Bendersky 用交互示例讲大数定律、组合估计与退休组合路径依赖，并附 Rust/Python 代码；HN 重新上热。",
+   "links": [
+    "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+    "https://news.ycombinator.com/item?id=50076089"
+   ],
+   "topic": "monte-carlo-simulations-greenplace-2026-10",
+   "firstSeen": "2026-10-17T03:44:19+08:00"
+  },
+  {
+   "id": "586b8b73e8",
+   "title": "DrivingBench：让 GPT/Claude/Grok 开丰田 Corolla 绕锥桶",
+   "summary": "用 Comma/OpenPilot 把油门刹车方向交给前沿模型；11 次试验里多数首弯就翻车，仅 GPT-6 Astra 第二次跑完全程，约花 7.74 美元。",
+   "links": [
+    "https://drivingbench.com/",
+    "https://www.thedrive.com/news/uh-oh-chatgpt-can-drive-a-car-and-grok-crashed-immediately"
+   ],
+   "topic": "drivingbench-llm-toyota-corolla-2026-10",
+   "firstSeen": "2026-10-17T03:44:19+08:00"
+  },
+  {
+   "id": "012b1d3eed",
+   "title": "Doctorow：数字主权真正承重的是 Office 365，不是聊天机器人",
+   "summary": "Pluralistic 用「承重墙」比喻：撤掉 AI 聊天几乎不塌，撤掉 M365/云办公则政府与企业瘫痪；并指向美企云与政治风险。",
+   "links": [
+    "https://pluralistic.net/2026/10/15/sovereign-it/"
+   ],
+   "topic": "pluralistic-load-bearing-m365-sovereignty-2026-10",
+   "firstSeen": "2026-10-17T03:44:19+08:00"
+  },
+  {
+   "id": "c098e0ca08",
+   "title": "Show HN：TensorPix——只靠照片生成房屋漫游视频",
+   "summary": "面向房产营销的用例：上传室内照即可生成 walkthrough 视频，刚出现在 HN Show。",
+   "links": [
+    "https://tensorpix.ai/usecases/real-estate-video-maker",
+    "https://news.ycombinator.com/item?id=50123249"
+   ],
+   "topic": "tensorpix-real-estate-walkthrough-2026-10",
+   "firstSeen": "2026-10-17T03:44:19+08:00"
+  },
+  {
+   "id": "ac593f117a",
+   "title": "原生开源 macOS WireGuard 客户端 Wombat",
+   "summary": "SwiftUI + Network Extension，附 wombat CLI；免费开源，刚出现在 HN。",
+   "links": [
+    "https://github.com/ventz/wombat-wireguard-mac-app",
+    "https://news.ycombinator.com/item?id=50123395"
+   ],
+   "topic": "wombat-wireguard-macos-2026-10",
+   "firstSeen": "2026-10-17T03:44:19+08:00"
+  },
+  {
+   "id": "9e180c8639",
+   "title": "Nintendo DSi 当 Claude Code 无线终端",
+   "summary": "把老掌机做成连到 Claude Code 的无线终端，硬件黑客向玩具刚上 HN。",
+   "links": [
+    "https://github.com/logancarrillo/ds-claude-terminal",
+    "https://news.ycombinator.com/item?id=50123468"
+   ],
+   "topic": "nds-claude-code-terminal-2026-10",
+   "firstSeen": "2026-10-17T03:44:19+08:00"
+  },
+  {
+   "id": "169a4fcb86",
+   "title": "Fortune：塔可钟得来速 AI 让一线工作更轻松、留任上升",
+   "summary": "Yum Brands 高管谈门店 AI：得来速机器人降低操作负担，员工留任改善；也谈数据中心与 AI 工具落地摩擦。",
+   "links": [
+    "https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/"
+   ],
+   "topic": "taco-bell-drive-thru-ai-retention-2026-10",
+   "firstSeen": "2026-10-17T03:44:19+08:00"
   }
  ],
- "lastChecked": "2026-10-17T03:33:14+08:00"
+ "lastChecked": "2026-10-17T03:44:19+08:00"
 }
