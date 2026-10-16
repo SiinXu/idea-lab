@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T17:55:31+08:00",
+ "lastUpdated": "2026-10-16T18:19:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12287,7 +12287,93 @@
    ],
    "topic": "openai-devday-exchange-bengaluru-2026-10",
    "firstSeen": "2026-10-16T17:55:31+08:00"
+  },
+  {
+   "id": "5944929684",
+   "title": "Bluesky Attie 扩成「社交 vibe coding」后遭老用户反噬",
+   "summary": "Bluesky 把 Attie 扩成用自然语言做站/游戏/测验的社交 vibe coding，TechCrunch Disrupt 上被官宣；许多当初为逃离 AI 训练与创作威胁而来的用户觉得被背叛，讨论甚至先在 X 上炸开。可观察「反 AI 社区 × AI 创作工具」冲突，做成社区产品/内容选题。",
+   "links": [
+    "https://x.com/i/trending/2110861179182559296"
+   ],
+   "topic": "bluesky-attie-backlash-2026-10",
+   "firstSeen": "2026-10-16T18:19:21+08:00"
+  },
+  {
+   "id": "0120bd29c2",
+   "title": "Show HN：Lotti——端到端加密的本机 AI 日志本",
+   "summary": "Lotti 把日记/记忆只放在自己设备上，设备间端到端加密同步，服务器只见密文；可选本地 AI 助手读记录并提议下一步，需你批准才改。隐私向「个人 AI 记忆」产品可参考其架构。",
+   "links": [
+    "https://github.com/matthiasn/lotti",
+    "https://news.ycombinator.com/item?id=50116351"
+   ],
+   "topic": "lotti-e2e-ai-journal-2026-10",
+   "firstSeen": "2026-10-16T18:19:21+08:00"
+  },
+  {
+   "id": "8bbecb0804",
+   "title": "Show HN：用 Claude Code 端到端做出 MV，全流程仓库开源",
+   "summary": "always-allow 仓库公开了 Claude Code 从 brief、分镜到 Remotion 合成的完整 MV 制作记录，展示「编码 Agent + 视频合成」管线。适合做成教程/模板生意或 Skills Lab 创意案例。",
+   "links": [
+    "https://github.com/mortenbrudvik/always-allow",
+    "https://news.ycombinator.com/item?id=50116272"
+   ],
+   "topic": "claude-code-music-video-always-allow-2026-10",
+   "firstSeen": "2026-10-16T18:19:21+08:00"
+  },
+  {
+   "id": "2743febbd5",
+   "title": "Memory Under Noise：AI 助理记忆引擎为何丢掉证据",
+   "summary": "AAI Labs 文章指出，噪声与摘要会让 AI 助理记忆引擎丢掉可核验证据，长期对话里「记得的事」不可靠。做带记忆的 Agent/客服产品时，证据链与可追溯检索是差异化点。",
+   "links": [
+    "https://www.aai-labs.com/en/research/memory-under-noise",
+    "https://news.ycombinator.com/item?id=50116468"
+   ],
+   "topic": "ai-memory-under-noise-2026-10",
+   "firstSeen": "2026-10-16T18:19:21+08:00"
+  },
+  {
+   "id": "944c1b5914",
+   "title": "MOSS-Image：OpenMOSS 开源 5B DiT，主打文字排版与可微调",
+   "summary": "复旦系 OpenMOSS 放出 MOSS-Image：约 5B 参数的 DiT 基座，强调高质量文字渲染、版式生成与高效微调，仓库今日冲上新帖。可跟进中文开源图像模型与本地微调玩法。",
+   "links": [
+    "https://github.com/OpenMOSS/MOSS-Image"
+   ],
+   "topic": "moss-image-dit-5b-2026-10",
+   "firstSeen": "2026-10-16T18:19:21+08:00"
+  },
+  {
+   "id": "d8c07b4bbd",
+   "title": "Agent 还是流程图？先画出你画不完的那一格",
+   "summary": "Frank Denneman 提出：真正需要 Agent 的，是流程图里怎么也画不完、边界不清的那一格；其余更适合确定性流程。帮团队做 Agent 选型时可用这套判别法写内容/咨询。",
+   "links": [
+    "https://frankdenneman.ai/2026-10-13-agent-or-flowchart-find-the-box-you-cant-finish-drawing/",
+    "https://news.ycombinator.com/item?id=50116319"
+   ],
+   "topic": "agent-or-flowchart-denneman-2026-10",
+   "firstSeen": "2026-10-16T18:19:21+08:00"
+  },
+  {
+   "id": "8c3d8aebb7",
+   "title": "Avoiding Slop Grenades：如何躲开 AI 生成的「屎山手雷」",
+   "summary": "实践指南谈 vibe coding 产物里埋的可维护性炸弹，以及审查、边界与测试怎么挡。可做成「AI 代码体检清单」类轻量付费/免费获客内容。",
+   "links": [
+    "https://leandrooriente.com/writing/avoiding-slop-grenades",
+    "https://news.ycombinator.com/item?id=50116403"
+   ],
+   "topic": "avoid-slop-grenades-2026-10",
+   "firstSeen": "2026-10-16T18:19:21+08:00"
+  },
+  {
+   "id": "9914e36d42",
+   "title": "什么是 Forward Deployed Engineer，你真的需要一个吗？",
+   "summary": "解释 FDE（前线部署工程师）角色：驻客户侧把复杂产品落地、反馈回产品。AI/企业软件卖货变深时，FDE 编制与定价是常见瓶颈，可做成招聘/外包匹配或岗位解读内容。",
+   "links": [
+    "https://madsalt.tech/blog/what-is-a-forward-deployed-engineer/",
+    "https://news.ycombinator.com/item?id=50116478"
+   ],
+   "topic": "forward-deployed-engineer-explainer-2026-10",
+   "firstSeen": "2026-10-16T18:19:21+08:00"
   }
  ],
- "lastChecked": "2026-10-16T17:55:31+08:00"
+ "lastChecked": "2026-10-16T18:19:21+08:00"
 }
