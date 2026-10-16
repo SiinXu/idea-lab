@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T04:17:49+08:00",
+ "lastUpdated": "2026-10-17T04:31:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -14522,7 +14522,51 @@
    ],
    "topic": "outlines-structured-outputs-hn-2026-10",
    "firstSeen": "2026-10-17T04:17:49+08:00"
+  },
+  {
+   "id": "8a52a8a833",
+   "title": "OpenAI：GPT-6 Pro 支持并行 Agent，可拆任务同时推进",
+   "summary": "OpenAI 官方宣布 ChatGPT 里的 GPT-6 Pro（Astra）升级：响应更快、插件/工具更好用，且多个 Agent 可并行处理同一任务的不同部分；可跟踪各 Agent 进度并打开已完成子任务审阅。目前面向 Pro 用户在 Chat 页开放。",
+   "links": [
+    "https://x.com/OpenAI/status/2111185504746213705",
+    "https://x.com/i/trending/2111190989901631679"
+   ],
+   "topic": "openai-gpt6-pro-parallel-agents-2026-10",
+   "firstSeen": "2026-10-17T04:31:06+08:00"
+  },
+  {
+   "id": "c415b9915f",
+   "title": "FT：Anthropic 今年 6 月获 junk 档最高信用评级（KBRA）",
+   "summary": "金融时报报道 Anthropic 向较小评级机构 KBRA 披露后获 junk 档最高评级；披露未含自由现金流与 EBITDA 等关键指标，分析师只能用假设估风险分。Banker 仍在游说大机构争取 IPO 后投资级，以便进入公司债与养老金配置。",
+   "links": [
+    "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+    "https://news.ycombinator.com/item?id=50122112"
+   ],
+   "topic": "anthropic-kbra-junk-credit-rating-2026-10",
+   "firstSeen": "2026-10-17T04:31:06+08:00"
+  },
+  {
+   "id": "7764366174",
+   "title": "Ian Barber：Agentic RL 越长越容易 off-policy——Mo’ turns, mo’ problems",
+   "summary": "讲解 agent 训练里「同策略」为何难：两小时级 rollout、黑盒 harness、工具调用改写、子 Agent 树与训推内核不一致都会让 importance ratio 偏离 1。对比阿里 QwenGyre 代理/KV 迁移与 DeepSeek 沙箱整状态冻结等工程取舍。",
+   "links": [
+    "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems/",
+    "https://news.ycombinator.com/item?id=50124046"
+   ],
+   "topic": "ianbarber-mo-turns-agentic-rl-2026-10",
+   "firstSeen": "2026-10-17T04:31:06+08:00"
+  },
+  {
+   "id": "85a53755c1",
+   "title": "Show HN：Open Sunsama——开源日计划器，Claude/ChatGPT 可经 MCP 帮你排程",
+   "summary": "开源 Sunsama 风格日计划：看板优先级、日历时间块、专注计时与关机仪式；提供 MCP 连接器，Claude/ChatGPT/Cursor 等可读任务、改优先级并往日历塞块。可 Docker 自托管，另有桌面端与公开 REST API。",
+   "links": [
+    "https://opensunsama.com/",
+    "https://news.ycombinator.com/item?id=50124000"
+   ],
+   "topic": "opensunsama-oss-daily-planner-mcp-2026-10",
+   "firstSeen": "2026-10-17T04:31:06+08:00"
   }
  ],
- "lastChecked": "2026-10-17T04:17:49+08:00"
+ "lastChecked": "2026-10-17T04:31:06+08:00"
 }
