@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T23:27:45+08:00",
+ "lastUpdated": "2026-10-16T23:48:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -13191,7 +13191,80 @@
    ],
    "topic": "nscale-ipo-datacenter-delays-2026-10",
    "firstSeen": "2026-10-16T23:27:45+08:00"
+  },
+  {
+   "id": "801c448ff6",
+   "title": "Celestia 上线 Eden：给 AI Agent 做链上交易与支付的试验场",
+   "summary": "Celestia 推出基于 Evolve 的高性能 EVM 链 Eden，主打 Agent 自主发币、叙事交易与 x402 按次付推理；首个实验 bot.fun 闭测期间一度冲上 x402 交易量前列，TIA 作 Gas，伴随币价约涨 30%。",
+   "links": [
+    "https://x.com/i/trending/2111110469721468949",
+    "https://bot.fun/docs/eden",
+    "https://www.chaincatcher.com/en/article/2296869"
+   ],
+   "topic": "celestia-eden-agent-commerce-2026-10",
+   "firstSeen": "2026-10-16T23:48:19+08:00"
+  },
+  {
+   "id": "3bb79154ce",
+   "title": "液体金属导热会不会「弄死」电脑：两年实测科普冲上 HN",
+   "summary": "HN 热帖拆解液态金属 TIM：导电、忌铝、易渗漏短路是真风险；铜/镍镀底座正确施工则可明显降温。适合超频玩家，普通用户多数仍更适合普通硅脂或相变片。",
+   "links": [
+    "https://www.youtube.com/watch?v=eF6bMSjPepM",
+    "https://news.ycombinator.com/item?id=50111752"
+   ],
+   "topic": "liquid-metal-tim-pc-risk-hn-2026-10",
+   "firstSeen": "2026-10-16T23:48:19+08:00"
+  },
+  {
+   "id": "ec45a17024",
+   "title": "RFC8950：用 IPv6 next-hop 宣告 IPv4，骨干可「纯 IPv6」仍带 IPv4",
+   "summary": "Anurag Bhatia 用 FRR + Containerlab 演示：核心只跑 IPv6 BGP，边缘仍给客户 IPv4，无需隧道。运营商/IX 可把 IPv4 当成骑在 IPv6 上的可选能力。",
+   "links": [
+    "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/"
+   ],
+   "topic": "rfc8950-ipv4-over-ipv6-nexthop-2026-10",
+   "firstSeen": "2026-10-16T23:48:19+08:00"
+  },
+  {
+   "id": "c906df1ef2",
+   "title": "404 Media：Telegram 向美方交用户数据长什么样",
+   "summary": "新公开的法院文件里有一封 Telegram 信：自愿提供用户手机号、UID 与 IP，同时声明不承认受美国管辖。自 2024 年杜罗夫被捕后，Telegram 已从几乎不配合变为常规响应执法请求。",
+   "links": [
+    "https://www.404media.co/heres-what-telegram-giving-data-to-the-u-s-government-looks-like/"
+   ],
+   "topic": "telegram-us-data-disclosure-404-2026-10",
+   "firstSeen": "2026-10-16T23:48:19+08:00"
+  },
+  {
+   "id": "8fb1af9a1e",
+   "title": "白宫「超级智能特遣队」首会：120 天章程 + 实验室事故早报",
+   "summary": "The Latent：SIF 首会定下 120 天议程，将梳理网络/生物/模型控制风险，并推动实验室向政府系统化通报入侵、越狱等事件；Jay Clayton 牵头，Scott Kupor 谈通知机制与私法责任。",
+   "links": [
+    "https://thelatent.co/policy/at-its-first-meeting-trump-s-super-intelligence-force-trump-s-sets-120-day-charter-plans-system-to-flag-hacks-and-safety"
+   ],
+   "topic": "white-house-sif-120day-charter-2026-10",
+   "firstSeen": "2026-10-16T23:48:19+08:00"
+  },
+  {
+   "id": "b7790fec84",
+   "title": "马斯克放话：Grok Bot 被亚马逊拦截后，考虑做个 Amazon 竞品",
+   "summary": "用户称 Grok 购物 Agent 被 Amazon 拦下后，马斯克回「也许该做一个亚马逊竞品」。尚无正式计划，但折射零售平台与代理购物 bot 的入口争夺；Meta Muse 购物 Agent 亦传遭类似限制。",
+   "links": [
+    "https://www.notateslaapp.com/news/4834/musk-considers-creating-amazon-competitor"
+   ],
+   "topic": "musk-amazon-rival-grok-bot-block-2026-10",
+   "firstSeen": "2026-10-16T23:48:19+08:00"
+  },
+  {
+   "id": "03b24506b4",
+   "title": "Show HN：rStation——给 AI Agent 的共享科研社区",
+   "summary": "独立 Agent 可选题讨论并发表经审阅的论文，人类旁观；题库含 Epoch AI 与千禧年难题等。Agent 协作科研基础设施又多了一个公开入口。",
+   "links": [
+    "https://rstation.ai/"
+   ],
+   "topic": "rstation-ai-agent-research-lab-2026-10",
+   "firstSeen": "2026-10-16T23:48:19+08:00"
   }
  ],
- "lastChecked": "2026-10-16T23:27:45+08:00"
+ "lastChecked": "2026-10-16T23:48:19+08:00"
 }
