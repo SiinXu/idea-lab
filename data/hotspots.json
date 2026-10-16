@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T11:26:43+08:00",
+ "lastUpdated": "2026-10-16T11:41:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11259,7 +11259,96 @@
    ],
    "topic": "wayseer-realtime-desktop-2026-10",
    "firstSeen": "2026-10-16T11:26:43+08:00"
+  },
+  {
+   "id": "de5ed9f5a6",
+   "title": "Cognition 推出 Devin Oncall：Agent 自动排查线上告警并可开修复 PR",
+   "summary": "Devin 延伸到生产运维：接入可观测与工单，调查告警/故障根因，并可开出经测试的修复 PR 供工程师审。官方称已在为部分大客户日处理数千条告警；Dynatrace 等同日跟进联运。",
+   "links": [
+    "https://runtimewire.com/article/cognition-devin-oncall-production-incidents",
+    "https://docs.devin.ai/product-guides/devin-oncall",
+    "https://www.dynatrace.com/news/blog/devin-oncall-and-dynatrace-bringing-runtime-intelligence-to-autonomous-incident-response/"
+   ],
+   "topic": "devin-oncall-cognition-2026-10",
+   "firstSeen": "2026-10-16T11:41:20+08:00"
+  },
+  {
+   "id": "ac945c3c87",
+   "title": "video-use：用 Claude Code 对话剪视频的开源 Skill",
+   "summary": "browser-use 团队开源 video-use：把素材丢进文件夹，跟编码 Agent 聊天就能出 final.mp4。用逐字稿+按需胶片条代替逐帧读像素，省 token；依赖 ffmpeg 与 ElevenLabs 转写。适合做内容自动化与 Agent Skill 产品参考。",
+   "links": [
+    "https://github.com/browser-use/video-use",
+    "https://daniliants.com/insights/video-use-edit-videos-claude-code/"
+   ],
+   "topic": "video-use-claude-code-2026-10",
+   "firstSeen": "2026-10-16T11:41:20+08:00"
+  },
+  {
+   "id": "8808a94932",
+   "title": "CoreWeave 创始人套现约 33 亿美元股票：AI 基建股再承压",
+   "summary": "彭博报道 CoreWeave 创始人通过约 33 亿美元股票出售锁定财富。叠加此前债券收益率飙升叙事，市场继续质疑 AI 算力基建的债务与估值可持续性。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-10-15/coreweave-founders-shield-fortunes-with-3-3-billion-stock-sales",
+    "https://news.ycombinator.com/item?id=50113735"
+   ],
+   "topic": "coreweave-founders-3-3b-sales-2026-10",
+   "firstSeen": "2026-10-16T11:41:20+08:00"
+  },
+  {
+   "id": "ccf482df03",
+   "title": "OSI 正式批准 curl 许可证：从「类 MIT」变成官方开源认可",
+   "summary": "Daniel Stenberg 回顾：curl 当年微调过 MIT 文本，SPDX 将其标为独立 curl 许可证；OSI 已于 2026-04 批准，他近日才发文。细节小，但对依赖合规扫描的企业与发行版有意义。",
+   "links": [
+    "https://daniel.haxx.se/blog/2026/10/15/osi-approved-the-curl-license/",
+    "https://news.ycombinator.com/item?id=50113569"
+   ],
+   "topic": "osi-curl-license-approved-2026-10",
+   "firstSeen": "2026-10-16T11:41:20+08:00"
+  },
+  {
+   "id": "71361b2b29",
+   "title": "研究者把 AI Agent 困在虚拟岛上：行为开始「诡异」",
+   "summary": "Gizmodo 报道一项实验：把 Agent 放在虚拟岛环境长期运行后，出现了超出预期的自组织与怪异行为。适合当「长期自主 Agent 沙箱评测/内容」类创意素材。",
+   "links": [
+    "https://gizmodo.com/researchers-stranded-an-ai-agent-on-a-virtual-island-things-got-very-weird-2000825998",
+    "https://news.ycombinator.com/item?id=50113668"
+   ],
+   "topic": "ai-agent-virtual-island-gizmodo-2026-10",
+   "firstSeen": "2026-10-16T11:41:20+08:00"
+  },
+  {
+   "id": "92a370b955",
+   "title": "Show HN：Kitaphone——浏览器直接打手机/固话",
+   "summary": "马来西亚开发者用 Next.js + Twilio 做网页端国际通话：出国打银行、航司、政务电话时不用装 App 或买卡。挑战在麦克风权限、DTMF 与防滥用。适合「旅行者通讯工具」类独立产品参考。",
+   "links": [
+    "https://kitaphone.com",
+    "https://news.ycombinator.com/item?id=50113708"
+   ],
+   "topic": "kitaphone-browser-calls-2026-10",
+   "firstSeen": "2026-10-16T11:41:20+08:00"
+  },
+  {
+   "id": "c870faf33f",
+   "title": "3DCodeVerse：把 3D 世界当代码来探索",
+   "summary": "新站 3DCodeVerse 探索「用代码表达/操控 3D 世界」的玩法，刚上 HN。和 Anatomy 类 3D 拆解、教育可视化同一方向，可做成交互教学内容或 Agent 生成场景工具。",
+   "links": [
+    "https://3dcodeverse.com/",
+    "https://news.ycombinator.com/item?id=50113738"
+   ],
+   "topic": "3dcodeverse-3d-worlds-as-code-2026-10",
+   "firstSeen": "2026-10-16T11:41:20+08:00"
+  },
+  {
+   "id": "0bded7f4e0",
+   "title": "Who Sells Data：AI 训练数据与 RL 环境供应商名录",
+   "summary": "公开登记约 161 家训练数据/RL 环境/评测供应商，可按品类筛选对比并追到来源。对找数据采购、做 Agent 评测基建或写行业综述都有用。",
+   "links": [
+    "https://whosellsdata.com/",
+    "https://news.ycombinator.com/item?id=50113318"
+   ],
+   "topic": "whosellsdata-ai-vendors-2026-10",
+   "firstSeen": "2026-10-16T11:41:20+08:00"
   }
  ],
- "lastChecked": "2026-10-16T11:26:43+08:00"
+ "lastChecked": "2026-10-16T11:41:20+08:00"
 }
