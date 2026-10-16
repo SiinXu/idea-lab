@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T22:20:51+08:00",
+ "lastUpdated": "2026-10-16T22:36:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12960,7 +12960,64 @@
    ],
    "topic": "meshxfs-ai-clustered-xfs-2026-10",
    "firstSeen": "2026-10-16T22:20:51+08:00"
+  },
+  {
+   "id": "5beda2d5ae",
+   "title": "iPhone Duo 开售即售罄：多数配置交货排到明年 1 月",
+   "summary": "9to5Mac：10 月 16 日预购开放后数分钟内交货日开始滑到明年；截至美东约 8:30，各颜色/容量普遍显示约 1 月 25–29 发货。Nikkei 此前称日产能仅数百台，远低于常规 iPhone 爬坡；eBay 上已有黄牛预售叫到约 5200 美元。首批发货仍标 10 月 23 日，但名额很快被抢光。",
+   "links": [
+    "https://9to5mac.com/2026/10/16/iphone-duo-pre-orders-now-backordered-to-next-year/",
+    "https://x.com/i/trending/2110448648521662864"
+   ],
+   "topic": "iphone-duo-sold-out-backorder-2027-2026-10",
+   "firstSeen": "2026-10-16T22:36:13+08:00"
+  },
+  {
+   "id": "5716afa7f2",
+   "title": "美国中期选举：AI 生成广告投放已超 1.37 亿美元",
+   "summary": "Wesleyan Media Project 统计至少 220 条含 AI 生成/增强的竞选广告，花费逾 1.37 亿美元（相对 2024 周期不足 5 万美元）。约 81% 广告、88% 花费来自共和党侧；仅约 27% 带 AI 声明，联邦亦无强制披露，故实际用量可能被低估。NYT/Bloomberg 亦跟进 deepfake 与攻防广告案例。",
+   "links": [
+    "https://mediaproject.wesleyan.edu/releases-101526/",
+    "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html",
+    "https://www.techmeme.com/261016/p7"
+   ],
+   "topic": "us-midterm-ai-ads-137m-2026-10",
+   "firstSeen": "2026-10-16T22:36:13+08:00"
+  },
+  {
+   "id": "812f37373a",
+   "title": "阿兰达蒂·罗伊：AI 是资本主义的终点",
+   "summary": "Equator 长文（10 月 15 日）把大模型公司写成「独眼巨人」：一边讲灭绝叙事一边要监管自证不可替代，一边无授权吞文献一边把智能当水电卖。文章串联 Anthropic 训练版权书和解、数据中心夺水夺电、南方「数据捕获」劳动与武器化 AI，号召对头部公司「极端偏见地终结」。冲上 HN 首页。",
+   "links": [
+    "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
+    "https://news.ycombinator.com/item?id=50117382"
+   ],
+   "topic": "arundhati-roy-ai-capitalism-equator-2026-10",
+   "firstSeen": "2026-10-16T22:36:13+08:00"
+  },
+  {
+   "id": "00d71a796a",
+   "title": "BioPykrete「超级冰」：强度约普通冰 10 倍，接近混凝土",
+   "summary": "希伯来大学团队用纤维素纳米晶 + 定制抗冻蛋白把冰与植物材料在分子尺度粘合，得到 BioPykrete：强度约 10 倍、断裂前可吸收能量约 70 倍，裂纹更易渐变而非脆断。目标是极地低碳建材；目前仍是小规模概念验证。论文发在 Colloids and Surfaces B，ScienceAlert 报道后登上 HN。",
+   "links": [
+    "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
+    "https://doi.org/10.1016/j.colsurfb.2026.116037",
+    "https://news.ycombinator.com/item?id=50079280"
+   ],
+   "topic": "biopykrete-super-ice-2026-10",
+   "firstSeen": "2026-10-16T22:36:13+08:00"
+  },
+  {
+   "id": "87cd1bd7b6",
+   "title": "面试官开始问：Claude Code 都能写了，为什么还要雇你？",
+   "summary": "X 上开发者圈热议技术面试新题：当 Claude Code / Opus 5.5 已能扛大段编码与多 Agent 线程时，候选人如何证明不可替代性。讨论焦点从「会不会写代码」转向「能否驾驭 Agent、审设计与担责」，并与 vibe coding / 「cuck coding」梗并行发酵。",
+   "links": [
+    "https://x.com/i/trending/2111090552129388560",
+    "https://x.com/i/trending/2111095143059362068"
+   ],
+   "topic": "interview-why-hire-over-claude-code-2026-10",
+   "firstSeen": "2026-10-16T22:36:13+08:00"
   }
  ],
- "lastChecked": "2026-10-16T22:23:12+08:00"
+ "lastChecked": "2026-10-16T22:36:13+08:00"
 }
