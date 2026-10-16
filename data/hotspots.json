@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T06:27:55+08:00",
+ "lastUpdated": "2026-10-17T06:43:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15013,7 +15013,127 @@
    ],
    "topic": "ditch-pull-requests-ai-agents-2026-10",
    "firstSeen": "2026-10-17T06:27:55+08:00"
+  },
+  {
+   "id": "1451fb2f59",
+   "title": "Anthropic：公众与实验室对 AI 经济影响的「预期差」",
+   "summary": "Anthropic Institute 对比美国成年人和内部员工：两边对当下能力差不多，但对 2030 年进度差很大——员工里 91% 认为 AI 能做出诺奖级发现，公众约 39%；模型推算员工预期对应约 17% GDP 增速。",
+   "links": [
+    "https://www.anthropic.com/research/ai-expectations-gap"
+   ],
+   "topic": "anthropic-ai-expectations-gap-2026-10",
+   "firstSeen": "2026-10-17T06:43:22+08:00"
+  },
+  {
+   "id": "8bfadcd1dd",
+   "title": "菲尔兹奖得主 Gowers：该多担心 AI 灭绝风险？",
+   "summary": "Timothy Gowers 长文梳理 x-risk 论证层次，并谈到加入 MAISI 顾问委员会；不给出固定 p(doom)，但认为「完全不担心」已站不住。",
+   "links": [
+    "https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/"
+   ],
+   "topic": "gowers-ai-extinction-risk-2026-10",
+   "firstSeen": "2026-10-17T06:43:22+08:00"
+  },
+  {
+   "id": "038384fba5",
+   "title": "GitHub Actions：Xcode 27 runner 镜像正式 GA",
+   "summary": "可用 `xcode-27` / `xcode-27-xlarge` 在 Apple Silicon 上构建测试；按 Xcode 大版本选镜像，不再绑死具体 macOS 小版本。",
+   "links": [
+    "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available/"
+   ],
+   "topic": "github-xcode-27-runner-ga-2026-10",
+   "firstSeen": "2026-10-17T06:43:22+08:00"
+  },
+  {
+   "id": "0946ab081c",
+   "title": "Perplexity 开源 SPACE：给 Agent 代码执行的沙箱平台",
+   "summary": "Sandboxed Platform for Agentic Code Execution，可插拔运行时隔离 Agent/用户代码；GitHub 趋势上迅速冒头。",
+   "links": [
+    "https://github.com/perplexityai/SPACE"
+   ],
+   "topic": "perplexity-space-sandbox-2026-10",
+   "firstSeen": "2026-10-17T06:43:22+08:00"
+  },
+  {
+   "id": "70cbba945a",
+   "title": "Concat：开源跨平台 CapCut 替代，带 MCP 与 API",
+   "summary": "jub0t/Concat 自称真正免费开源的剪辑工具，支持 MCP 与 API，登上 GitHub 趋势。",
+   "links": [
+    "https://github.com/jub0t/Concat"
+   ],
+   "topic": "jub0t-concat-capcut-2026-10",
+   "firstSeen": "2026-10-17T06:43:22+08:00"
+  },
+  {
+   "id": "4eca5199b6",
+   "title": "Docktopus：给 Mac 换可主题化 Dock/任务栏",
+   "summary": "支持 Liquid Glass、CDE、Windows 95 等主题，带窗口切换、剪贴板、系统监控等小工具；Show HN 方向的桌面效率产品。",
+   "links": [
+    "https://docktopus.app/"
+   ],
+   "topic": "docktopus-macos-dock-2026-10",
+   "firstSeen": "2026-10-17T06:43:22+08:00"
+  },
+  {
+   "id": "3fb145befc",
+   "title": "回顾 Token Ring：输给以太网的 IBM 网络标准",
+   "summary": "Silicon Underground 借 IBM Token Ring 发布纪念日，讲清它和以太网的差异、为何更贵却更稳、以及怎么认卡。",
+   "links": [
+    "https://dfarq.homeip.net/what-was-a-token-ring-network/"
+   ],
+   "topic": "token-ring-history-2026-10",
+   "firstSeen": "2026-10-17T06:43:22+08:00"
+  },
+  {
+   "id": "309014efc2",
+   "title": "开发者热议：Vibe Coding 放大项目会不会堆技术债",
+   "summary": "用自然语言让 AI 出码再改，原型很快，但批评者担心隐藏 bug 和债务；社区在讨论规模化时的监督、文档和重构。",
+   "links": [
+    "https://x.com/i/trending/2111219237733691756"
+   ],
+   "topic": "vibe-coding-scale-debt-2026-10",
+   "firstSeen": "2026-10-17T06:43:22+08:00"
+  },
+  {
+   "id": "8cd2cd4334",
+   "title": "开发者夸 Claude Opus 5.5：长会话编码不轻易撞限额",
+   "summary": "有人连续高强度用一周仍觉得额度宽松；对比 Codex 等工具的周限额抱怨，舆论继续偏向 Opus 5.5 做耐力编码。",
+   "links": [
+    "https://x.com/i/trending/2111221877385417174"
+   ],
+   "topic": "claude-opus-55-coding-endurance-2026-10",
+   "firstSeen": "2026-10-17T06:43:22+08:00"
+  },
+  {
+   "id": "24fcf313be",
+   "title": "Adam Back 否认自己是《纽约时报》点名的中本聪",
+   "summary": "BBC 报道：Blockstream 联合创始人 Adam Back 回应《纽约时报》猜测，称自己不是比特币创造者。",
+   "links": [
+    "https://www.bbc.com/news/articles/cgrl4l1y9yxo"
+   ],
+   "topic": "adam-back-not-satoshi-bbc-2026-10",
+   "firstSeen": "2026-10-17T06:43:22+08:00"
+  },
+  {
+   "id": "64fef92d1e",
+   "title": "Percona：要不要开 PGO？分析第二步",
+   "summary": "继续拆 Profile-Guided Optimization 的取舍：何时值得上、观测指标怎么看，面向数据库/系统优化场景。",
+   "links": [
+    "https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/"
+   ],
+   "topic": "percona-pgo-dilemma-step2-2026-10",
+   "firstSeen": "2026-10-17T06:43:22+08:00"
+  },
+  {
+   "id": "88eb5fa0a9",
+   "title": "InfinityCore：整理 Linux 内核核心漏洞资料",
+   "summary": "V4bel/InfinityCore 汇总 Linux Kernel 核心类漏洞相关材料，安全研究向仓库刚上 HN。",
+   "links": [
+    "https://github.com/V4bel/InfinityCore"
+   ],
+   "topic": "infinitycore-linux-kernel-vulns-2026-10",
+   "firstSeen": "2026-10-17T06:43:22+08:00"
   }
  ],
- "lastChecked": "2026-10-17T06:27:55+08:00"
+ "lastChecked": "2026-10-17T06:43:22+08:00"
 }
