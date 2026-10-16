@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T06:43:22+08:00",
+ "lastUpdated": "2026-10-17T06:56:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15133,7 +15133,87 @@
    ],
    "topic": "infinitycore-linux-kernel-vulns-2026-10",
    "firstSeen": "2026-10-17T06:43:22+08:00"
+  },
+  {
+   "id": "c184b689fb",
+   "title": "Anthropic：Claude 已写近九成自家代码，PR 翻倍回滚降四成",
+   "summary": "工程师称从 6 到 9 月合并 PR 翻倍以上、回滚降逾 40%；Claude Code Review 分层 Agent 查 bug，Boris Cherny 说几乎每条 PR 都靠它。舆论把「Claude 写自己」当成编码 Agent 规模化的标志。",
+   "links": [
+    "https://x.com/i/trending/2111176039540162909"
+   ],
+   "topic": "anthropic-claude-writes-90pct-own-code-2026-10",
+   "firstSeen": "2026-10-17T06:56:50+08:00"
+  },
+  {
+   "id": "5724a177b9",
+   "title": "ChatGPT 仍吃大众流量，Claude 在专业与付费侧领先",
+   "summary": "9 月 ChatGPT 仍占全球聊天机器人访问过半；Claude 访问量排第三，却在企业付费侧更强。面试梗「Claude Code 能写代码还要你干嘛」刷屏，讨论焦点转向提示、核验与担责。",
+   "links": [
+    "https://x.com/i/trending/2111227035163263390"
+   ],
+   "topic": "chatgpt-casual-claude-pro-split-2026-10",
+   "firstSeen": "2026-10-17T06:56:50+08:00"
+  },
+  {
+   "id": "966758e47f",
+   "title": "蒸馏经济：美实验室讨论「卖蒸馏」而不是一味封杀",
+   "summary": "有人指中国厂商长期用美前哨模型输出训自家模型；业内开始争论与其封 API，不如定价把蒸馏做成「模型经济」收入。和单纯安全封禁叙事形成对照。",
+   "links": [
+    "https://x.com/i/trending/2111216657771176086"
+   ],
+   "topic": "ai-labs-embrace-distillation-economy-2026-10",
+   "firstSeen": "2026-10-17T06:56:50+08:00"
+  },
+  {
+   "id": "1fb256ce62",
+   "title": "cursor/plugins：Cursor 官方插件规范与目录冲上 GitHub 趋势",
+   "summary": "仓库收录插件规范与官方插件；今日趋势榜靠前，说明 Cursor 插件生态和 Agent 技能打包正在被开发者集中关注。",
+   "links": [
+    "https://github.com/cursor/plugins"
+   ],
+   "topic": "cursor-plugins-official-repo-trending-2026-10",
+   "firstSeen": "2026-10-17T06:56:50+08:00"
+  },
+  {
+   "id": "b9cfb4aca0",
+   "title": "Emara：不靠 LLM 的确定性功能切片与死代码可达性分析",
+   "summary": "mohamedswe/emara 自称确定性代码审计器，每条结论带文件+行号证据；刚上 Show HN，面向「少幻觉」的代码库体检场景。",
+   "links": [
+    "https://github.com/mohamedswe/emara"
+   ],
+   "topic": "emara-deterministic-code-auditor-2026-10",
+   "firstSeen": "2026-10-17T06:56:50+08:00"
+  },
+  {
+   "id": "db509eafc3",
+   "title": "Signal：加拿大合法接入法修订仍不够，仍可能退出市场",
+   "summary": "Bill C-22 把元数据留存从一年改到六个月，Signal 仍称若被迫大量采集元数据会选择退出加拿大，而不是改产品架构。",
+   "links": [
+    "https://www.theglobeandmail.com/politics/article-messaging-service-signal-says-ministers-changes-to-lawful-access-bill/"
+   ],
+   "topic": "signal-canada-c22-still-exit-threat-2026-10",
+   "firstSeen": "2026-10-17T06:56:50+08:00"
+  },
+  {
+   "id": "0358b4bc65",
+   "title": "Adobe 要求下架：用 AI 洁室复刻 Photoshop/Premiere 的帖子被禁",
+   "summary": "Reddit 上讨论开源 Rust 洁室复刻 Adobe 工具的帖子，据称应 Adobe 要求被禁；接在 PhotoCraft/FilmCraft 热议之后，版权与洁室路线冲突升温。",
+   "links": [
+    "https://www.reddit.com/r/Bard/comments/1wxmqpt/ive_created_open_source_100_rust_cleanroom/"
+   ],
+   "topic": "adobe-ban-ai-cleanroom-recreate-post-2026-10",
+   "firstSeen": "2026-10-17T06:56:50+08:00"
+  },
+  {
+   "id": "5aac69fbfb",
+   "title": "JHU：无线磁性微型机器人可在跳动心脏内递药",
+   "summary": "约翰霍普金斯团队展示毫米级磁控机器人在跳动心脏内精准递药；HN 首页出现，交叉医疗机器人与微创介入话题。",
+   "links": [
+    "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/"
+   ],
+   "topic": "jhu-magnetic-millirobots-heart-2026-10",
+   "firstSeen": "2026-10-17T06:56:50+08:00"
   }
  ],
- "lastChecked": "2026-10-17T06:43:22+08:00"
+ "lastChecked": "2026-10-17T06:56:50+08:00"
 }
