@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T16:15:33+08:00",
+ "lastUpdated": "2026-10-16T16:36:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11945,7 +11945,71 @@
    ],
    "topic": "litex-formal-math",
    "firstSeen": "2026-10-16T16:15:33+08:00"
+  },
+  {
+   "id": "c7e0a191dd",
+   "title": "调查：欧洲至少向 Palantir 砸了 14 亿欧元",
+   "summary": "Follow the Money 联合调查称至少 11 国在防务、情报、医疗等用 Palantir，已知合同合计约 14 亿欧元（含英国约 9.92 亿英镑）；多国政界开始讨论「戒断」依赖。",
+   "links": [
+    "https://www.ftm.eu/articles/palantir-europe-spending-defence-intelligence-health"
+   ],
+   "topic": "palantir-europe-1-4b-ftm-2026-10",
+   "firstSeen": "2026-10-16T16:36:56+08:00"
+  },
+  {
+   "id": "3cc5b1d450",
+   "title": "SMITH：同一 4B 策略联合训练「造工具」和「用工具」",
+   "summary": "把写工具与调工具放进同一 RL 策略；Qwen3-4B 在未见表任务上宏平均 79.9，写的工具还能抬高 350M 学生表现，接近更大未训练写手的水平。",
+   "links": [
+    "https://tool-use-smith.github.io/",
+    "https://arxiv.org/abs/2608.24571",
+    "https://news.ycombinator.com/item?id=50115527"
+   ],
+   "topic": "smith-tool-create-use-rl-2026-10",
+   "firstSeen": "2026-10-16T16:36:56+08:00"
+  },
+  {
+   "id": "227f5303cf",
+   "title": "NVIDIA Robota-Embed：给机器人「翻旧经验」的统一 VLA 嵌入",
+   "summary": "把观测、指令与动作编进同一检索空间；在 5 项 ManiSkill 仿真上，固定策略成功率从约 24% 提到 68%，单次 rollout 策略 token 约少 43.7%。",
+   "links": [
+    "https://robota-ai.github.io/robota-embed/"
+   ],
+   "topic": "nvidia-robota-embed-2026-10",
+   "firstSeen": "2026-10-16T16:36:56+08:00"
+  },
+  {
+   "id": "e4ad392ebc",
+   "title": "RP1：开源全身人形机器人平台，从机械到学习一条龙",
+   "summary": "RoboParty 公开机械 CAD、电路、固件、控制与学习栈，定位可复现、可扩展的 agentic 人形底座；仓库刚上 HN 新帖。",
+   "links": [
+    "https://github.com/Roboparty/RP1",
+    "https://news.ycombinator.com/item?id=50115528"
+   ],
+   "topic": "rp1-agentic-humanoid-opensource-2026-10",
+   "firstSeen": "2026-10-16T16:36:56+08:00"
+  },
+  {
+   "id": "3dde8dacb3",
+   "title": "aria2-next：下一代 aria2 下载引擎冲上新帖",
+   "summary": "自称重新定义 aria2 的开源下载器，GitHub 约 700 星量级，今日登上 HN 新帖；适合自托管与批量拉资源场景。",
+   "links": [
+    "https://github.com/AnInsomniacy/aria2-next",
+    "https://news.ycombinator.com/item?id=50115714"
+   ],
+   "topic": "aria2-next-github-2026-10",
+   "firstSeen": "2026-10-16T16:36:56+08:00"
+  },
+  {
+   "id": "a4dd320b52",
+   "title": "X 热议：ChatGPT 仍更「大众」，Claude 更偏专业写代码",
+   "summary": "用户争论为何 ChatGPT 仍更流行：免费与通用场景占优；Claude 在大代码库与专业任务更受欢迎，很多人工作用 Claude、日常用 ChatGPT。",
+   "links": [
+    "https://x.com/i/trending/2111011204525129732"
+   ],
+   "topic": "chatgpt-vs-claude-popularity-2026-10",
+   "firstSeen": "2026-10-16T16:36:56+08:00"
   }
  ],
- "lastChecked": "2026-10-16T16:15:33+08:00"
+ "lastChecked": "2026-10-16T16:36:56+08:00"
 }
