@@ -12723,7 +12723,7 @@
    "summary": "HN 热帖：通过改写 Error.prepareStackTrace、配合原型污染与 valueOf，可在 JavaScript 里不写括号就触发任意函数，属于 XSS/沙箱逃逸相关技巧讨论。",
    "links": [
     "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
-    "https://news.ycombinator.com/item?id=50114342"
+    "https://news.ycombinator.com/item?id=50077225"
    ],
    "topic": "js-invoke-without-parentheses-2026-10",
    "firstSeen": "2026-10-16T21:16:45+08:00"
@@ -12751,5 +12751,5 @@
    "firstSeen": "2026-10-16T21:16:45+08:00"
   }
  ],
- "lastChecked": "2026-10-16T21:16:45+08:00"
+ "lastChecked": "2026-10-16T21:18:01+08:00"
 }
