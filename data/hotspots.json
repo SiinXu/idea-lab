@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T20:59:08+08:00",
+ "lastUpdated": "2026-10-16T21:16:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12704,7 +12704,52 @@
    ],
    "topic": "altman-ai-disruption-slower-inertia-2026-10",
    "firstSeen": "2026-10-16T20:59:08+08:00"
+  },
+  {
+   "id": "73ad73488c",
+   "title": "HelixWorld：单图生成可漫游音画世界，开源预览版上线",
+   "summary": "Noiz AI 与港科大开源实时音画世界模型：一张图 + 文本即可 WASD 漫游，24fps 视频与空间立体声同步生成；代码、预览权重与 HelixBench 已公开，单卡 H800 可跑。",
+   "links": [
+    "https://github.com/NoizAI/HelixWorld",
+    "https://noiz.ai/lp/blog/meet-helix-world",
+    "https://x.com/i/trending/2111074175716917260"
+   ],
+   "topic": "helixworld-noiz-ai-2026-10",
+   "firstSeen": "2026-10-16T21:16:45+08:00"
+  },
+  {
+   "id": "2a7ab7d296",
+   "title": "又一种无括号调用 JS 函数：污染 prepareStackTrace",
+   "summary": "HN 热帖：通过改写 Error.prepareStackTrace、配合原型污染与 valueOf，可在 JavaScript 里不写括号就触发任意函数，属于 XSS/沙箱逃逸相关技巧讨论。",
+   "links": [
+    "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+    "https://news.ycombinator.com/item?id=50114342"
+   ],
+   "topic": "js-invoke-without-parentheses-2026-10",
+   "firstSeen": "2026-10-16T21:16:45+08:00"
+  },
+  {
+   "id": "361bd197b2",
+   "title": "日本三大行完成日元稳定币联发 PoC：跨境结算试点通过",
+   "summary": "瑞穗、三菱 UFJ、三井住友与信托方完成一周联合发行与跨境支付实证（信托受益权结构），验证发行/流转/赎回与合规，目标迈向 2027 年前后实操落地。",
+   "links": [
+    "https://www.finextra.com/pressarticle/111311/japanese-banks-complete-stablecoin-poc",
+    "https://www.tr.mufg.jp/english/pressreleases/pdf/20261016_1.pdf",
+    "https://x.com/i/trending/2111038995576881390"
+   ],
+   "topic": "japan-banks-yen-stablecoin-poc-2026-10",
+   "firstSeen": "2026-10-16T21:16:45+08:00"
+  },
+  {
+   "id": "f43107dbdd",
+   "title": "LinkSwift 冲上 GitHub 日榜：八大网盘直链下载助手",
+   "summary": "基于「网盘直链下载助手」改造的开源脚本，支持百度/阿里/移动/天翼/迅雷/夸克/UC/123 等网盘解析直链，今日登上 GitHub Trending。",
+   "links": [
+    "https://github.com/hmjz100/LinkSwift"
+   ],
+   "topic": "linkswift-cloud-direct-link-2026-10",
+   "firstSeen": "2026-10-16T21:16:45+08:00"
   }
  ],
- "lastChecked": "2026-10-16T20:59:08+08:00"
+ "lastChecked": "2026-10-16T21:16:45+08:00"
 }
