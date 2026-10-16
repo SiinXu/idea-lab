@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T10:09:33+08:00",
+ "lastUpdated": "2026-10-16T10:26:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11081,7 +11081,18 @@
    ],
    "topic": "claude-code-review-ga-2026-10",
    "firstSeen": "2026-10-16T10:09:33+08:00"
+  },
+  {
+   "id": "b8aa1ac841",
+   "title": "企业 AI 狂飙后集体踩刹车：Meta 放缓用 Agent 替代员工",
+   "summary": "《卫报》与 X 热议汇总：Meta 发现员工花越来越多时间清理 AI 带来的技术和安全错误，已放缓裁员换 Agent 的计划，并重新扩充中层管理；微软 EVP Ryan Roslansky 警告「AI 写、AI 读」的 slop 会陷入毫无新意的恶性循环。多家公司开始限用工具、加培训，转向更审慎的部署。",
+   "links": [
+    "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
+    "https://x.com/i/trending/2110850870489252305"
+   ],
+   "topic": "enterprise-ai-pullback-2026-10",
+   "firstSeen": "2026-10-16T10:26:36+08:00"
   }
  ],
- "lastChecked": "2026-10-16T10:09:33+08:00"
+ "lastChecked": "2026-10-16T10:26:36+08:00"
 }
