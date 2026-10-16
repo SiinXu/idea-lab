@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T18:43:57+08:00",
+ "lastUpdated": "2026-10-16T18:57:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12406,7 +12406,17 @@
    ],
    "topic": "ai-job-search-claude-code",
    "firstSeen": "2026-10-16T18:43:57+08:00"
+  },
+  {
+   "id": "7914089b46",
+   "title": "「Vibe coding」被嘲成贬义词：百万浏览帖再掀 AI 编程专业性之争",
+   "summary": "X 上一条把 vibe coding（描述想法、让 AI 写、一路点接受）讽刺成贬义新词的帖子超百万浏览，引发梗图大战：批评者说它跳过评审、埋下 bug 与安全隐患，支持者则看重出货速度；与此同时招聘已开始专招「vibe coder」。可借势做「vibe coding 到工程化」的检查清单、评审流程模板或对比教程。",
+   "links": [
+    "https://x.com/i/trending/2110747065521476035"
+   ],
+   "topic": "vibe-coding-backlash-meme-2026-10-16",
+   "firstSeen": "2026-10-16T18:57:00+08:00"
   }
  ],
- "lastChecked": "2026-10-16T18:43:57+08:00"
+ "lastChecked": "2026-10-16T18:57:00+08:00"
 }
