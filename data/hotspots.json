@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T12:10:13+08:00",
+ "lastUpdated": "2026-10-16T12:29:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11383,7 +11383,68 @@
    ],
    "topic": "nvidia-app-agent-mcp-default-on-2026-10",
    "firstSeen": "2026-10-16T12:10:13+08:00"
+  },
+  {
+   "id": "9bac8b211a",
+   "title": "Sergey Brin：谷歌 AI 已踏上「递归自我改进」跑步机",
+   "summary": "Brin 谈 Gemini 4 Argon 时称模型正与研究员一起造下一代，内部已在用更新版 Carbon；安全报告也写 Agent 已写多数生产代码。适合做成 Idea Lab 新点子：RSI 进度雷达 / 实验室自动化监控。",
+   "links": [
+    "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10"
+   ],
+   "topic": "sergey-brin-google-rsi-2026-10",
+   "firstSeen": "2026-10-16T12:29:22+08:00"
+  },
+  {
+   "id": "a99bba2390",
+   "title": "VS Code 现代化 UI 预览：为 Agent 会话统一设计系统",
+   "summary": "官方博客详解 Modern UI：与 Agents 窗口共用间距/字体/控件；可 Compact 密度，连接式标签页，暂可退回经典界面。适合做成 Idea Lab 新点子：编辑器×Agent 一体工作台主题包。",
+   "links": [
+    "https://code.visualstudio.com/blogs/2026/10/15/modern-ui"
+   ],
+   "topic": "vscode-modern-ui-2026-10",
+   "firstSeen": "2026-10-16T12:29:22+08:00"
+  },
+  {
+   "id": "bea484b0b1",
+   "title": "微软推出 dotnetup：类 rustup 的 .NET 工具链管理器",
+   "summary": "macOS/Linux 用户目录安装 SDK/运行时，免 sudo、多版本并存、可追预览与 daily；路线图提到给 Agent 写 skills。适合做成 Idea Lab 新点子：Agent 友好的语言运行时安装器。",
+   "links": [
+    "https://devblogs.microsoft.com/dotnet/introducing-dotnetup/"
+   ],
+   "topic": "dotnetup-toolchain-manager-2026-10",
+   "firstSeen": "2026-10-16T12:29:22+08:00"
+  },
+  {
+   "id": "d57fba77ab",
+   "title": "Show HN：Lobby Domains——用 Chrome 端侧 AI 找域名",
+   "summary": "浏览器本机 AI 搜可用域名，不经服务器。适合做成 Idea Lab 新点子：端侧 AI 域名/品牌名生成器。",
+   "links": [
+    "https://lobby.domains/",
+    "https://news.ycombinator.com/item?id=50113913"
+   ],
+   "topic": "lobby-domains-chrome-ai-2026-10",
+   "firstSeen": "2026-10-16T12:29:22+08:00"
+  },
+  {
+   "id": "c157a44ff1",
+   "title": "Chirp Pong：两部手机用麦克风「啾啾」联网打乒乓",
+   "summary": "Simon Willison 用 Claude 做的静态 HTML 双人游戏，靠 Web 麦克风听音频传状态、不走服务器。适合做成 Idea Lab 新点子：无网络近场音频协议玩具。",
+   "links": [
+    "https://simonwillison.net/2026/Oct/15/chirp-pong/"
+   ],
+   "topic": "chirp-pong-audio-network-2026-10",
+   "firstSeen": "2026-10-16T12:29:22+08:00"
+  },
+  {
+   "id": "9b7a3e9bb9",
+   "title": "Firefox 换新「声音」：浏览器交互音效大改版",
+   "summary": "Mozilla 更新 Firefox 系统音效与交互反馈，强化品牌辨识。轻度热点，可观察设计趋势。",
+   "links": [
+    "https://blog.mozilla.org/en/firefox/new-firefox-sounds/"
+   ],
+   "topic": "mozilla-firefox-new-sounds-2026-10",
+   "firstSeen": "2026-10-16T12:29:22+08:00"
   }
  ],
- "lastChecked": "2026-10-16T12:10:13+08:00"
+ "lastChecked": "2026-10-16T12:29:22+08:00"
 }
