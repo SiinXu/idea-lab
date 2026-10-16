@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T01:11:19+08:00",
+ "lastUpdated": "2026-10-17T01:34:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -13595,7 +13595,106 @@
    ],
    "topic": "dev-null-sh-dev-social-2026-10",
    "firstSeen": "2026-10-17T01:11:19+08:00"
+  },
+  {
+   "id": "2425f31539",
+   "title": "Mercor：美国九成工时几乎没被 AI 评测覆盖",
+   "summary": "把 29 个 agent 向基准映射到 O*NET 后发现：923 个职业里只有 208 个有像样覆盖；现有评测偏向高薪且高 AI 暴露岗位，难衡量真实经济能力。",
+   "links": [
+    "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "https://news.ycombinator.com/item?id=50121179"
+   ],
+   "topic": "mercor-benchmark-map-90pct-2026-10",
+   "firstSeen": "2026-10-17T01:34:36+08:00"
+  },
+  {
+   "id": "8152439d59",
+   "title": "Schneier：开权重模型后门廉价可藏，触发后能偷凭证",
+   "summary": "演示在 Hugging Face 常见的 abliterated 权重里植入远程后门：平时正常，遇触发短语就把项目凭证外泄；1.5B/7B 成本极低，现有检测几乎看不见。",
+   "links": [
+    "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
+    "https://news.ycombinator.com/item?id=50121362"
+   ],
+   "topic": "schneier-backdoor-open-weight-2026-10",
+   "firstSeen": "2026-10-17T01:34:36+08:00"
+  },
+  {
+   "id": "ec520d1878",
+   "title": "BeyondTrust 修补自 8 月起遭利用的零日漏洞",
+   "summary": "特权访问厂商 BeyondTrust 发布补丁，修复至少自 8 月起已被在野利用的零日；运维与安全团队应尽快升级。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
+    "https://news.ycombinator.com/item?id=50121368"
+   ],
+   "topic": "beyondtrust-zero-day-patch-2026-10",
+   "firstSeen": "2026-10-17T01:34:36+08:00"
+  },
+  {
+   "id": "67ae7c6d75",
+   "title": "Show HN：Renor——给编码 Agent 的 Markdown 记忆，经 MCP 共享",
+   "summary": "AGPL 开源：用 Markdown 做 coding agent 的持久记忆，可经 MCP 在多工具间共享，适合本地/团队知识库场景。",
+   "links": [
+    "https://github.com/patrickpassosb/renor-engine",
+    "https://news.ycombinator.com/item?id=50121462"
+   ],
+   "topic": "renor-markdown-memory-mcp-2026-10",
+   "firstSeen": "2026-10-17T01:34:36+08:00"
+  },
+  {
+   "id": "82fe3335e7",
+   "title": "Show HN：Reelbird——开源 Loom / Screen Studio 平替（macOS）",
+   "summary": "本地优先的屏幕录制与讲解工具，对标 Loom 与 Screen Studio，适合需要数据不出本机的创作者与团队。",
+   "links": [
+    "https://github.com/btahir/reelbird",
+    "https://news.ycombinator.com/item?id=50121148"
+   ],
+   "topic": "reelbird-oss-loom-macos-2026-10",
+   "firstSeen": "2026-10-17T01:34:36+08:00"
+  },
+  {
+   "id": "c2144e21dc",
+   "title": "在 Transformer 里跑 Doom：模型权重当游戏机",
+   "summary": "把经典 Doom 嵌进 Transformer 推理路径里跑通，展示权重/激活空间也能当奇怪的计算介质，趣味性与可玩性并存。",
+   "links": [
+    "https://nostalgia.dev/posts/running-doom-inside-a-transformer/",
+    "https://news.ycombinator.com/item?id=50121190"
+   ],
+   "topic": "doom-inside-transformer-2026-10",
+   "firstSeen": "2026-10-17T01:34:36+08:00"
+  },
+  {
+   "id": "fc24df4cc9",
+   "title": "Bark：90 年代青少年的免费长途 BBS",
+   "summary": "回顾美国 90 年代面向青少年的免费拨号 BBS 网络：社交、版块与青春文化如何在拨号时代运转。",
+   "links": [
+    "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
+    "https://news.ycombinator.com/item?id=50117504"
+   ],
+   "topic": "bark-toll-free-bbs-90s-2026-10",
+   "firstSeen": "2026-10-17T01:34:36+08:00"
+  },
+  {
+   "id": "801983bc03",
+   "title": "Eufy HomeStation 固件逆向：Wi‑Fi 密钥、UART 锁死与坏 flash",
+   "summary": "安全研究者拆解安克旗下家庭基站：挖出 Wi‑Fi 秘密、UART 锁定手段，以及损坏的 flash 芯片如何影响取证与刷机。",
+   "links": [
+    "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+    "https://news.ycombinator.com/item?id=50119751"
+   ],
+   "topic": "eufy-homestation-firmware-re-2026-10",
+   "firstSeen": "2026-10-17T01:34:36+08:00"
+  },
+  {
+   "id": "192b815aae",
+   "title": "论文：如何让「系统1」式 LLM 表现出「系统2」能力",
+   "summary": "AAAI 相关论文讨论把快思考 LLM 拉向慢思考/审慎推理的方法，涉及训练与推理时干预，适合关注 agent 可靠性的人。",
+   "links": [
+    "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+    "https://news.ycombinator.com/item?id=50118662"
+   ],
+   "topic": "system1-llm-system2-aaai-2026-10",
+   "firstSeen": "2026-10-17T01:34:36+08:00"
   }
  ],
- "lastChecked": "2026-10-17T01:11:19+08:00"
+ "lastChecked": "2026-10-17T01:34:36+08:00"
 }
