@@ -12914,7 +12914,7 @@
    "summary": "Kyle Corbitt 用 Opus 5.5 级 agent 小时成本与当前约 $3.52/H100 小时推算：若 agent 真能替代白领，H100 等价算力或涨到约 30 美元/小时（保守）甚至更高。观点是「真 AGI 会先反映在 GPU 租金上」。",
    "links": [
     "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour",
-    "https://news.ycombinator.com/item?id=50118540"
+    "https://news.ycombinator.com/item?id=50118605"
    ],
    "topic": "h100-30-dollar-agi-signal-2026-10",
    "firstSeen": "2026-10-16T22:20:51+08:00"
@@ -12956,11 +12956,11 @@
    "summary": "Show HN / GitHub：作者称用 AI 写出建在 XFS 上的 POSIX 集群文件系统 MeshXFS。还在极早期（星数很少），但「整块存储栈由 agent 落地」本身成为讨论点——适合当 Idea Lab 里「AI 写系统软件」样本。",
    "links": [
     "https://github.com/sshoecraft/meshxfs",
-    "https://news.ycombinator.com/item?id=50118555"
+    "https://news.ycombinator.com/item?id=50118590"
    ],
    "topic": "meshxfs-ai-clustered-xfs-2026-10",
    "firstSeen": "2026-10-16T22:20:51+08:00"
   }
  ],
- "lastChecked": "2026-10-16T22:20:51+08:00"
+ "lastChecked": "2026-10-16T22:23:12+08:00"
 }
