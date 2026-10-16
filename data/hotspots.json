@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T05:59:08+08:00",
+ "lastUpdated": "2026-10-17T06:17:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -14902,7 +14902,63 @@
    ],
    "topic": "ios27-untethered-jailbreak-ai-2026-10",
    "firstSeen": "2026-10-17T05:59:08+08:00"
+  },
+  {
+   "id": "86e1f6b3d5",
+   "title": "Perplexity Decider V1.2：多模态决策模型上架 AI Gateway",
+   "summary": "27B 与 Flash 4B 两版可对文本/结构化数据/图像做分类、路由与打分；不生成长文，返回带概率的结构化决策。OpenRouter、Vercel AI Gateway 已上线，适合 Agent 工作流。",
+   "links": [
+    "https://vercel.com/changelog/perplexity-decider-v1-2-models-now-available-on-ai-gateway",
+    "https://openrouter.ai/perplexity/pplx-decider-v1.2",
+    "https://x.com/i/trending/2111213831007649953"
+   ],
+   "topic": "perplexity-decider-v1-2-2026-10",
+   "firstSeen": "2026-10-17T06:17:55+08:00"
+  },
+  {
+   "id": "f8c8e83453",
+   "title": "Memanto：十行代码给 Python Agent 加持久记忆",
+   "summary": "pip install 即可：typed remember/recall、对话自动抽取、无需自备 LLM key 的 grounded answer，还有时间点回溯；云端免费额度或本机 Ollama 可选。",
+   "links": [
+    "https://memanto.ai/blog/give-your-python-agent-memory",
+    "https://news.ycombinator.com/item?id=50125344"
+   ],
+   "topic": "memanto-python-agent-memory-2026-10",
+   "firstSeen": "2026-10-17T06:17:55+08:00"
+  },
+  {
+   "id": "9bc189cce5",
+   "title": "情报分析 AI Harness：让「看起来完整」的报告变得可核验",
+   "summary": "长文总结把 LLM 做成情报报告时的失败模式：错归因、假阴性筛查、自批 OVERRIDE 跳过强制停点；用收据/账本/指纹签名审批与正控制测试，把保证移出模型裁量。",
+   "links": [
+    "https://dfaram7.github.io/harness-for-analysis/",
+    "https://news.ycombinator.com/item?id=50125459"
+   ],
+   "topic": "ai-harness-intelligence-analysis-2026-10",
+   "firstSeen": "2026-10-17T06:17:55+08:00"
+  },
+  {
+   "id": "8460a0881c",
+   "title": "软件工程没法靠「代码生成」一劳永逸",
+   "summary": "作者认为 SE 本质是把模糊需求译成形式语言；需求未形式化时 LLM 只能猜，必然失控。Agent 编码有用，但抽象取舍与需求澄清仍是人的事。",
+   "links": [
+    "https://ycao.net/posts/ai-se-dilemma",
+    "https://news.ycombinator.com/item?id=50125342"
+   ],
+   "topic": "se-not-solved-by-codegen-2026-10",
+   "firstSeen": "2026-10-17T06:17:55+08:00"
+  },
+  {
+   "id": "9f129bc718",
+   "title": "Politico：Anthropic 私下向议员推销自家 AI 安全法案",
+   "summary": "报道称 Anthropic 在游说国会推动符合其立场的 AI 安全立法；细节以 Politico 原文为准，属监管博弈新动态。",
+   "links": [
+    "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+    "https://news.ycombinator.com/item?id=50125348"
+   ],
+   "topic": "anthropic-ai-safety-bill-politico-2026-10",
+   "firstSeen": "2026-10-17T06:17:55+08:00"
   }
  ],
- "lastChecked": "2026-10-17T05:59:08+08:00"
+ "lastChecked": "2026-10-17T06:17:55+08:00"
 }
