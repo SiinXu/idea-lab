@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T13:10:45+08:00",
+ "lastUpdated": "2026-10-16T13:24:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11544,7 +11544,18 @@
    ],
    "topic": "project-bromo-eu-fast-track-2026-10",
    "firstSeen": "2026-10-16T13:10:45+08:00"
+  },
+  {
+   "id": "eb0690dee9",
+   "title": "NSA 的 Ghidra 冲上 GitHub 日榜：AI Agent 逆向热潮带火老牌工具",
+   "summary": "Ghidra 今日新增约 1,400 星、进入 GitHub Trending，同榜 rea（用 Agent 逆向任意应用）单日 3 万+ 星；Ghidra 近期并无新版本（最新 12.1.4 发布于 9 月 21 日），热度更像被「Agent + 逆向」浪潮带动。适合做成 Idea Lab 新点子：Ghidra/MCP 一键逆向分析入门包。",
+   "links": [
+    "https://github.com/NationalSecurityAgency/ghidra",
+    "https://github.com/trending?since=daily"
+   ],
+   "topic": "ghidra-trending-agent-re-2026-10",
+   "firstSeen": "2026-10-16T13:24:32+08:00"
   }
  ],
- "lastChecked": "2026-10-16T13:10:45+08:00"
+ "lastChecked": "2026-10-16T13:24:32+08:00"
 }
