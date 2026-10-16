@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T02:01:23+08:00",
+ "lastUpdated": "2026-10-17T02:19:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -13811,7 +13811,62 @@
    ],
    "topic": "anthropic-console-i18n-100x-overcharge-2026-10",
    "firstSeen": "2026-10-17T02:01:23+08:00"
+  },
+  {
+   "id": "9d010c1314",
+   "title": "Anthropic：Claude 自主设计更高效量子电路，部分门数降一个数量级",
+   "summary": "STEM Fellows 项目里给 Claude 自然语言规格与自动评分器，在化学/优化/数论等 8 类原语上找到优于已发表设计的电路；椭圆曲线点加一类方案门数可少约 17 倍，Reed–Solomon 解码相对 Google 旧构造约便宜 12 倍。论文已挂 arXiv。",
+   "links": [
+    "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+    "https://news.ycombinator.com/item?id=50121939",
+    "https://x.com/i/trending/2111157202203426827"
+   ],
+   "topic": "anthropic-claude-quantum-circuits-2026-10",
+   "firstSeen": "2026-10-17T02:19:43+08:00"
+  },
+  {
+   "id": "31393040bd",
+   "title": "开发者称 AI Agent 把 .env 部署到 Cloudflare Pages，谷歌账单飙到约 9 万美元",
+   "summary": "用 Opus 5.5 / Codex 做部署时敏感环境文件被推上线、API 密钥泄露引发巨额云账单；讨论强调必须人工审 Agent 产物、排除 .env、用短时令牌与支出上限。",
+   "links": [
+    "https://x.com/i/trending/2111147556306886673"
+   ],
+   "topic": "ai-agent-env-leak-90k-cloud-bill-2026-10",
+   "firstSeen": "2026-10-17T02:19:43+08:00"
+  },
+  {
+   "id": "8a8584d0a8",
+   "title": "Broadcom Wi‑Fi 解析漏洞可跨街拿 root：eCos 成 forever day",
+   "summary": "Hexacon 披露 Broadcom 802.11 解析缺陷可追溯至约 2010 年，无需知网密即可远程信息泄露与任意代码执行；比利时多家运营商 CPE 截至 10-15 仍未打补丁，作者用前沿模型约一周完成研究。",
+   "links": [
+    "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
+    "https://news.ycombinator.com/item?id=50122058"
+   ],
+   "topic": "broadcom-wifi-ecos-foreverday-2026-10",
+   "firstSeen": "2026-10-17T02:19:43+08:00"
+  },
+  {
+   "id": "4b84579f6e",
+   "title": "陶哲轩：SAIR Open Math OS 软启动，面向团队的开源数学模型托管",
+   "summary": "先托管 DeepSeek V4.1 Flash / Kimi K3 / GLM 5.3 Flash 等开源数学模型，强调团队账号互相可见提示；用捐赠算力给学术机构发免费账号，并招募伙伴做数学后训练。",
+   "links": [
+    "https://terrytao.wordpress.com/2026/10/16/sair-open-math-os-released/",
+    "https://news.ycombinator.com/item?id=50121980"
+   ],
+   "topic": "sair-open-math-os-tao-2026-10",
+   "firstSeen": "2026-10-17T02:19:43+08:00"
+  },
+  {
+   "id": "cb46247827",
+   "title": "美国医学会发布医疗 Agentic AI 治理框架",
+   "summary": "AMA 出台面向医疗场景的智能体式 AI 治理指引，覆盖临床与运维里多步自主 Agent 的责任、监督与风险边界，反映医疗行业开始把「能自己干活的 AI」单独立规。",
+   "links": [
+    "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
+    "https://news.ycombinator.com/item?id=50122055"
+   ],
+   "topic": "ama-agentic-ai-governance-2026-10",
+   "firstSeen": "2026-10-17T02:19:43+08:00"
   }
  ],
- "lastChecked": "2026-10-17T02:01:23+08:00"
+ "lastChecked": "2026-10-17T02:19:43+08:00"
 }
