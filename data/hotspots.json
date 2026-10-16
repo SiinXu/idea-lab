@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T18:57:00+08:00",
+ "lastUpdated": "2026-10-16T19:13:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12416,7 +12416,40 @@
    ],
    "topic": "vibe-coding-backlash-meme-2026-10-16",
    "firstSeen": "2026-10-16T18:57:00+08:00"
+  },
+  {
+   "id": "9abfa6eaa7",
+   "title": "Google Research 开源 Harness²：开放世界里递归改进 Agent 外壳",
+   "summary": "不改模型权重，用 Propose–Probe–Compose 在无标准答案的任务上流式改 harness（提示、工具、技能、子 Agent 等），并把改进经验沉淀到持续「改进 harness」。单步可把 GLM-5 / Gemini 在 WorkBuddy、JobBench、法律 LAB 上最多抬约 11 个百分点；Apache 2.0。",
+   "links": [
+    "https://arxiv.org/abs/2610.14224",
+    "https://github.com/google-research/harness2"
+   ],
+   "topic": "google-harness2-recursive-agent-2026-10",
+   "firstSeen": "2026-10-16T19:13:26+08:00"
+  },
+  {
+   "id": "cfd8871c77",
+   "title": "腾讯混元开源 Hy-Memory 2.0：30B MoE 专写长期记忆，称超 Opus 5",
+   "summary": "混元发布 Hy-Memory 记忆框架并开源专用写记忆模型 Hy-Memory-30B-A3B（约 3B 激活），负责决定留存/更新什么；据报在多项 memory harness 上均值约 55.5%，高于 Claude Opus 5 对照。模型、框架与应用三层开源，可挂 Mem0 等。",
+   "links": [
+    "https://memory.hunyuan.tencent.com/",
+    "https://www.ithome.com/1/014/108.htm"
+   ],
+   "topic": "tencent-hy-memory-2-0-2026-10",
+   "firstSeen": "2026-10-16T19:13:26+08:00"
+  },
+  {
+   "id": "deabde59c2",
+   "title": "DeepSeek 整合成立「产品部」：Harness 与 Web/App/平台合并",
+   "summary": "据澎湃等报道，DeepSeek 将 Harness 团队与 Web、App、平台团队合并为产品部，统筹产品、设计与研发；原 Harness 负责人崔添翼出任产品部负责人。信号是国产实验室从「模型+脚手架」进一步收拢到产品化。",
+   "links": [
+    "https://www.thepaper.cn/newsDetail_forward_34262324",
+    "https://www.panewslab.com/zh/articles/01a143e7-fcde-7564-a90c-26f1387fe2d1"
+   ],
+   "topic": "deepseek-product-dept-harness-2026-10",
+   "firstSeen": "2026-10-16T19:13:26+08:00"
   }
  ],
- "lastChecked": "2026-10-16T18:57:00+08:00"
+ "lastChecked": "2026-10-16T19:13:26+08:00"
 }
