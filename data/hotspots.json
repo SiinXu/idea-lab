@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T13:58:13+08:00",
+ "lastUpdated": "2026-10-16T14:10:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11624,7 +11624,27 @@
    ],
    "topic": "harness-rsi-self-evolving-2026-10",
    "firstSeen": "2026-10-16T13:58:13+08:00"
+  },
+  {
+   "id": "a1e5c012c8",
+   "title": "连 Benchmark 都松口：AI 热潮正在瓦解「不投直接竞品」的风投潜规则",
+   "summary": "TechCrunch Disrupt 上 Benchmark 合伙人坦言，AI 让创业公司边界扩张太快，「不同时投两家正面竞争公司」的老规矩已难以保证。背景是 Factory 与 Cognition（Devin）之争：Factory 以「涉及 Cognition 的不道德行为」解雇董事会观察员 Chris Degnan，后者随即加入 Cognition 任 CRO，同时投了两家的 Vinod Khosla 公开站队。Chetan Puttagunta 认为软件开发成本趋零，创始人想吃下整片版图，撞车只会更多；Peter Fenton 称这是 Benchmark 最棘手的「氪石」问题。",
+   "links": [
+    "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/"
+   ],
+   "topic": "benchmark-vc-conflict-ai-2026-10",
+   "firstSeen": "2026-10-16T14:10:06+08:00"
+  },
+  {
+   "id": "98e687ff2a",
+   "title": "人脑类器官「读」盲文：3 个类器官协同识别准确率达 83%",
+   "summary": "布里斯托大学团队在 Frontiers in Artificial Intelligence 发表研究：把盲文字母对应的电信号输入由干细胞培育的人脑类器官，单个约 1 万神经元的类器官分类准确率约 61%，三个协同可达 83%。研究者认为生物神经网络能耗极低，值得直接拿来做计算；这是「类器官智能 / 湿件计算」方向的又一实证，后续看能否展示学习与适应能力。",
+   "links": [
+    "https://www.404media.co/computers-made-of-human-brain-tissue-identify-braille-letters-in-breakthrough/"
+   ],
+   "topic": "brain-organoid-braille-2026-10",
+   "firstSeen": "2026-10-16T14:10:06+08:00"
   }
  ],
- "lastChecked": "2026-10-16T13:58:13+08:00"
+ "lastChecked": "2026-10-16T14:10:06+08:00"
 }
