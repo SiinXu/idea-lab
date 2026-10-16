@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T03:17:12+08:00",
+ "lastUpdated": "2026-10-17T03:33:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -14206,7 +14206,107 @@
    ],
    "topic": "regex-marble-run-2026-10",
    "firstSeen": "2026-10-17T03:17:12+08:00"
+  },
+  {
+   "id": "43bac43219",
+   "title": "Show HN：Donut Browser——强调隐私的反指纹浏览器",
+   "summary": "开源反检测/隐私浏览器，瞄准指纹追踪与多账号隔离场景；刚上 HN 新帖。",
+   "links": [
+    "https://github.com/donutbrowser/donutbrowser"
+   ],
+   "topic": "donut-browser-antidetect-2026-10",
+   "firstSeen": "2026-10-17T03:33:14+08:00"
+  },
+  {
+   "id": "9b8917605e",
+   "title": "Chrome UX Report 试验软导航：SPA 路由切换也进 Core Web Vitals",
+   "summary": "web.dev 介绍 CrUX 实验性 soft navigations，让单页应用的客户端路由切换也能反映到真实用户性能指标。",
+   "links": [
+    "https://web.dev/blog/crux-experimental-soft-navs"
+   ],
+   "topic": "crux-soft-navigations-2026-10",
+   "firstSeen": "2026-10-17T03:33:14+08:00"
+  },
+  {
+   "id": "371a0b09d7",
+   "title": "Claude Code 2.1.301：OpenTelemetry 带上分类器裁决，vim 支持 %",
+   "summary": "tool_decision 事件新增 classifier_verdict/category，区分自动模式分类器与权限规则；vim 模式可 % 跳配对括号。",
+   "links": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.301"
+   ],
+   "topic": "claude-code-2-1-301-otel-vim-2026-10",
+   "firstSeen": "2026-10-17T03:33:14+08:00"
+  },
+  {
+   "id": "8c1dba5055",
+   "title": "Codex CLI 0.163.0：可搜索 /config，回答中也能追问改向",
+   "summary": "打开 /config 按类别搜偏好并即时生效；生成中可发 follow-up 转向，Daybreak 对符合条件账号默认开启。",
+   "links": [
+    "https://github.com/openai/codex/releases/tag/rust-v0.163.0"
+   ],
+   "topic": "codex-cli-0-163-config-followup-2026-10",
+   "firstSeen": "2026-10-17T03:33:14+08:00"
+  },
+  {
+   "id": "f70342f0ac",
+   "title": "GitHub 开源许可证合规正式 GA：企业规则集管依赖许可证",
+   "summary": "在 dependency review 之上加企业级许可证策略与规则集检查，并新增 Enterprise Open-Source License Manager 角色。",
+   "links": [
+    "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available/"
+   ],
+   "topic": "github-oss-license-compliance-ga-2026-10",
+   "firstSeen": "2026-10-17T03:33:14+08:00"
+  },
+  {
+   "id": "16b074ee2e",
+   "title": "用《任天堂明星大乱斗》做预训练缩放：Hillclimbing Melee",
+   "summary": "把格斗游戏当作可扩展的强化学习/预训练试验场，讨论在复杂交互环境里 hill-climbing 式缩放。",
+   "links": [
+    "https://ericyuegu.com/hillclimbing-melee/"
+   ],
+   "topic": "hillclimbing-melee-pretrain-2026-10",
+   "firstSeen": "2026-10-17T03:33:14+08:00"
+  },
+  {
+   "id": "c19e7ef010",
+   "title": "从联想记忆推到 Transformer：一篇「你本可自己发明」笔记",
+   "summary": "用联想记忆视角推导注意力机制，把现代 Transformer 拆成可直觉重建的步骤。",
+   "links": [
+    "https://alexwang.ai/posts/associative-memory/"
+   ],
+   "topic": "associative-memory-transformers-2026-10",
+   "firstSeen": "2026-10-17T03:33:14+08:00"
+  },
+  {
+   "id": "5aff178e21",
+   "title": ".name 域名终止：一人面临改 211 个账号的连锁麻烦",
+   "summary": "Domain Name Wire 报道 .name 相关终止事件后，依赖该域名邮箱/登录的用户要批量迁移账号。",
+   "links": [
+    "https://domainnamewire.com/2026/10/16/woman-faces-changing-211-accounts-after-name-domain-termination/"
+   ],
+   "topic": "name-domain-termination-211-accounts-2026-10",
+   "firstSeen": "2026-10-17T03:33:14+08:00"
+  },
+  {
+   "id": "aa5d2cb731",
+   "title": "Ask HN：定理证明领域为何还没有 AlphaZero？",
+   "summary": "HN 讨论自动定理证明为何难复制棋类自我对弈突破，涉及状态空间、奖励稀疏与形式化成本。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50122904"
+   ],
+   "topic": "ask-hn-alphazero-theorem-proving-2026-10",
+   "firstSeen": "2026-10-17T03:33:14+08:00"
+  },
+  {
+   "id": "94cf412b23",
+   "title": "X 热议：开发者天天私信 Theo 问 Claude Code 还是 Codex",
+   "summary": "长篇个人史后只问一句：月费 20 刀选 Anthropic 还是 OpenAI；两边分工与 Code Review 加速再次推高对比热度。",
+   "links": [
+    "https://x.com/i/trending/2111173053325676681"
+   ],
+   "topic": "theo-claude-vs-codex-dms-2026-10",
+   "firstSeen": "2026-10-17T03:33:14+08:00"
   }
  ],
- "lastChecked": "2026-10-17T03:17:12+08:00"
+ "lastChecked": "2026-10-17T03:33:14+08:00"
 }
