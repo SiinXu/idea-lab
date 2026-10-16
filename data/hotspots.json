@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T22:47:28+08:00",
+ "lastUpdated": "2026-10-16T23:00:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -13062,7 +13062,50 @@
    ],
    "topic": "mems-gyroscopes-got-so-small-hn-2026-10",
    "firstSeen": "2026-10-16T22:47:28+08:00"
+  },
+  {
+   "id": "3d3011b3b2",
+   "title": "StarSkirmish Bench v0.2：让大模型用一小时写星际争霸机器人",
+   "summary": "评测各家旗舰模型在自家 CLI（Claude Code / Codex / Antigravity / Muse Code）里用一小时写 C++ 神族 bot；GPT-6 Astra 居首，Gemini 4 Argon 与 Opus 5.5 紧随其后，但对顶尖人类 bot 仍几乎打不过。适合做成 Idea Lab 长程 coding 评测点子。",
+   "links": [
+    "https://starskirmish.com/bench/v0-2/",
+    "https://news.ycombinator.com/item?id=50118688"
+   ],
+   "topic": "starskirmish-bench-v0-2-2026-10",
+   "firstSeen": "2026-10-16T23:00:51+08:00"
+  },
+  {
+   "id": "e083958888",
+   "title": "Big Fish：OpenBSD 上一条可追溯约 37 年的内核漏洞打到 root",
+   "summary": "Calif 披露共享内存附着计数器用 signed short 溢出 + 竞态，在 KARL/SMAP/SMEP 下本地提权；对应 errata 026/018。文章还谈了安全 unlink、随机化自引用 PTE 等加固。",
+   "links": [
+    "https://calif.io/research/big-fish",
+    "https://news.ycombinator.com/item?id=50118977"
+   ],
+   "topic": "openbsd-big-fish-37yr-kernel-2026-10",
+   "firstSeen": "2026-10-16T23:00:51+08:00"
+  },
+  {
+   "id": "818ecaf77f",
+   "title": "GitHub Copilot 11 月 16 日起下线 Opus 4.8 / Opus 5 / GPT-5.6 Terra",
+   "summary": "官方 Changelog：全体验弃用这三款，建议改用 Opus 5.5 或 GPT-6.1 Sol / GPT-6 Luna；年付个人用户可暂时留 Opus 4.8。",
+   "links": [
+    "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november/"
+   ],
+   "topic": "github-copilot-deprecate-opus48-opus5-terra-2026-11",
+   "firstSeen": "2026-10-16T23:00:51+08:00"
+  },
+  {
+   "id": "8fb576052f",
+   "title": "Black-box HashDoS：不懂哈希也能把哈希表打成 O(n)",
+   "summary": "orlp 提出用等长公共前缀 + 计时侧信道推断桶占用，对线性/二次探测乃至 Rust hashbrown 构造线性查找；缓解包括先比完整 64-bit 哈希。",
+   "links": [
+    "https://orlp.net/blog/black-box-hashdos/",
+    "https://news.ycombinator.com/item?id=50118957"
+   ],
+   "topic": "black-box-hashdos-orlp-2026-10",
+   "firstSeen": "2026-10-16T23:00:51+08:00"
   }
  ],
- "lastChecked": "2026-10-16T22:47:28+08:00"
+ "lastChecked": "2026-10-16T23:00:51+08:00"
 }
