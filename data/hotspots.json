@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T21:16:45+08:00",
+ "lastUpdated": "2026-10-16T21:34:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12749,7 +12749,94 @@
    ],
    "topic": "linkswift-cloud-direct-link-2026-10",
    "firstSeen": "2026-10-16T21:16:45+08:00"
+  },
+  {
+   "id": "6904419056",
+   "title": "陶哲轩谈数学危机：NYT 专访「我已进入战争状态」",
+   "summary": "《纽约时报》今日刊发陶哲轩专访：AI 加速出论文，数学从「英雄时代」转向大规模协作；他自嘲「战争状态」，呼吁验证与训练体系跟上。适合做成 Idea Lab「AI 数学审稿/验证助手」点子。",
+   "links": [
+    "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
+    "https://news.ycombinator.com/item?id=50118165"
+   ],
+   "topic": "tao-nyt-war-footing-math-crisis-2026-10",
+   "firstSeen": "2026-10-16T21:34:28+08:00"
+  },
+  {
+   "id": "cddae43981",
+   "title": "Heldkeys：一眼看清 AI 编码 Agent 能摸到哪些密钥",
+   "summary": "Show HN 工具扫描本机环境，列出 Claude Code / Cursor 等 Agent 实际可触达的凭证与密钥，适合做本地安全体检与 OPC 开发基线。",
+   "links": [
+    "https://github.com/hugomn/heldkeys",
+    "https://news.ycombinator.com/item?id=50118028"
+   ],
+   "topic": "heldkeys-agent-credentials-2026-10",
+   "firstSeen": "2026-10-16T21:34:28+08:00"
+  },
+  {
+   "id": "3c9363b635",
+   "title": "你的 LLM 在给空白符收费",
+   "summary": "工程文指出 JSON/缩进/多余空格会显著推高 token 账单；压缩与紧凑序列化能直接省钱，适合做成「Agent 输出节流」小工具。",
+   "links": [
+    "https://getsnapkin.app/en/engineering/your-llm-is-billing-you-for-whitespace",
+    "https://news.ycombinator.com/item?id=50118078"
+   ],
+   "topic": "llm-billing-whitespace-2026-10",
+   "firstSeen": "2026-10-16T21:34:28+08:00"
+  },
+  {
+   "id": "3ece75e2bb",
+   "title": "SlopGrid：零代码搭 oneshot 视觉模型评测",
+   "summary": "Show HN：手机友好的可视化评测台，支持文本/图/SVG/整站输出，可改聊天历史做红队；灵感来自 Simon Willison 的 SVG 基准写法。",
+   "links": [
+    "https://slopgrid.com/",
+    "https://news.ycombinator.com/item?id=50118127"
+   ],
+   "topic": "slopgrid-oneshot-benchmarks-2026-10",
+   "firstSeen": "2026-10-16T21:34:28+08:00"
+  },
+  {
+   "id": "21b1c90fa4",
+   "title": "「我爱软件光栅化」冲上 HN 首页",
+   "summary": "一篇为 CPU 软件渲染辩护的长文登上 HN 首页，讨论可控性、可移植与教学价值，对比 GPU 管线黑箱。",
+   "links": [
+    "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+    "https://news.ycombinator.com/item?id=50117746"
+   ],
+   "topic": "love-software-rendering-hn-2026-10",
+   "firstSeen": "2026-10-16T21:34:28+08:00"
+  },
+  {
+   "id": "4461519436",
+   "title": "特斯拉新 Roadster 飞行首秀：0–60 号称亚秒级",
+   "summary": "2026 款 Roadster 展示含飞行能力的演示，媒体称加速可低于一秒到 60 mph；HN 讨论破四百，争议与营销并存。",
+   "links": [
+    "https://www.tesla.com/roadster",
+    "https://news.ycombinator.com/item?id=50112657",
+    "https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second"
+   ],
+   "topic": "tesla-roadster-2026-flying-debut",
+   "firstSeen": "2026-10-16T21:34:28+08:00"
+  },
+  {
+   "id": "66d9ad5382",
+   "title": "法国拟对「加密货币兑稳定币」征 31.4% 税",
+   "summary": "国民议会财经委员会修正案拟从 2027 年起，把兑欧盟监管稳定币的收益按 31.4% 课税；普通币币兑换仍可递延，社区讨论避税与流动性影响。",
+   "links": [
+    "https://x.com/i/trending/2111027837851587050"
+   ],
+   "topic": "france-crypto-stablecoin-tax-2026-10",
+   "firstSeen": "2026-10-16T21:34:28+08:00"
+  },
+  {
+   "id": "ed90447190",
+   "title": "用户用 Claude / Grok Bot 搭「全天候 Agent」成潮",
+   "summary": "X 热议把 Claude 记忆文件、自定义 Agent 与 Grok Bot 日常跑腿串成持久工作流：写代码马拉松、日程、客服纠纷；对比偏重深度 vs 速度。",
+   "links": [
+    "https://x.com/i/trending/2111056722022510665"
+   ],
+   "topic": "claude-grok-bot-persistent-agents-2026-10",
+   "firstSeen": "2026-10-16T21:34:28+08:00"
   }
  ],
- "lastChecked": "2026-10-16T21:18:01+08:00"
+ "lastChecked": "2026-10-16T21:34:28+08:00"
 }
