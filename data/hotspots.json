@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T23:00:51+08:00",
+ "lastUpdated": "2026-10-16T23:21:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -13105,7 +13105,73 @@
    ],
    "topic": "black-box-hashdos-orlp-2026-10",
    "firstSeen": "2026-10-16T23:00:51+08:00"
+  },
+  {
+   "id": "d3118b77f6",
+   "title": "Anthropic 自研源码系统 Scion：日合并从 2500 飙到 3 万+",
+   "summary": "Simon Willison 解读：五月日均约 2500 次合并，九月超 3 万；主分支历史近 100GB，CI 日检出约 2500 万次。七人五个月迁完 Git；配套 Antique 做代码评审，并大量用 adversarial review。",
+   "links": [
+    "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+    "https://news.ycombinator.com/item?id=50118863"
+   ],
+   "topic": "anthropic-scion-source-control-2026-10",
+   "firstSeen": "2026-10-16T23:21:01+08:00"
+  },
+  {
+   "id": "4f5e5daad9",
+   "title": "Rest of World：西方开权重仍打不过中国开源模型",
+   "summary": "旧金山活动纪要：OpenRouter 上周前五有四席是中国模型；算力受限倒逼更省算力。Reflection 等美欧新开权重仍落后；低成本与可自托管驱动新兴市场采用。",
+   "links": [
+    "https://restofworld.org/2026/china-open-weight-models/",
+    "https://news.ycombinator.com/item?id=50119240"
+   ],
+   "topic": "western-open-weight-vs-china-2026-10",
+   "firstSeen": "2026-10-16T23:21:01+08:00"
+  },
+  {
+   "id": "cdeafa8476",
+   "title": "Xena：如何「正确」形式化全部数学（别急着 dump）",
+   "summary": "Avigad、Buzzard 等七人联署：AI 能写百万行形式化，但无人用的库是浪费。主张 defer 到 Mathlib、公开评审、Tau Ceti / Formal Frontier 路线，反对只求正确性的 dump。",
+   "links": [
+    "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
+    "https://news.ycombinator.com/item?id=50118512"
+   ],
+   "topic": "xena-formalize-all-math-2026-10",
+   "firstSeen": "2026-10-16T23:21:01+08:00"
+  },
+  {
+   "id": "ddfbfaa606",
+   "title": "SHAP-CUDA 上架 PyPI：树模型解释提速约 90–180×",
+   "summary": "GPUTreeExplainer 预编译包，pip install \"shap[cuda]==0.54.1\" 即可；德国开源 AI 中心托管、NVIDIA 资助。适合大批量观测的树模型可解释性流水线。",
+   "links": [
+    "https://gcos.ai/blog/shap-cuda-is-now-available/",
+    "https://news.ycombinator.com/item?id=50119255"
+   ],
+   "topic": "shap-cuda-pypi-2026-10",
+   "firstSeen": "2026-10-16T23:21:01+08:00"
+  },
+  {
+   "id": "0baf0aa773",
+   "title": "StackGres 给 Citus 加 Query Routers：协调器不再是天花板",
+   "summary": "1.19 起可水平扩展无分片的入口节点；压测三路由器约 143 万 tps。协调器专管 DDL，查询走路由器 Service，打破单协调器瓶颈。",
+   "links": [
+    "https://stackgres.io/blog/scaling-citus-beyond-one-coordinator-announcing-query-routers-stackgres/",
+    "https://news.ycombinator.com/item?id=50119314"
+   ],
+   "topic": "stackgres-citus-query-routers-2026-10",
+   "firstSeen": "2026-10-16T23:21:01+08:00"
+  },
+  {
+   "id": "e1239c4371",
+   "title": "OpenAI 会议室窃听器拆解：竟是 $13.99 的 Seeed ESP32",
+   "summary": "Gizmodo：FBI 材料显示设备为 Seeed Studio XIAO ESP32-S3 Sense；OpenAI 称「sophisticated」，官网售价约 $13.99。同案员工已用自家模型做取证分析。",
+   "links": [
+    "https://gizmodo.com/the-sophisticated-bug-openai-found-in-its-conference-room-can-be-yours-for-13-99-2000825636",
+    "https://news.ycombinator.com/item?id=50119390"
+   ],
+   "topic": "openai-seeed-esp32-bug-1399-2026-10",
+   "firstSeen": "2026-10-16T23:21:01+08:00"
   }
  ],
- "lastChecked": "2026-10-16T23:00:51+08:00"
+ "lastChecked": "2026-10-16T23:21:01+08:00"
 }
