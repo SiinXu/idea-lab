@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T03:44:19+08:00",
+ "lastUpdated": "2026-10-17T04:01:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -14403,7 +14403,49 @@
    ],
    "topic": "taco-bell-drive-thru-ai-retention-2026-10",
    "firstSeen": "2026-10-17T03:44:19+08:00"
+  },
+  {
+   "id": "aa038a3310",
+   "title": "软银洽购 Allied Universal：孙正义盯上安保机器人落地",
+   "summary": "彭博称软银正评估收购美国最大安保服务商 Allied Universal，股权估值最高约 180 亿美元、含债交易规模近 300 亿美元；孙正义欲把 AI 机器人铺进巡逻与活动安保，讨论仍属早期。",
+   "links": [
+    "https://uk.investing.com/news/stock-market-news/softbank-weighs-30-billion-allied-universal-deal-as-son-eyes-security-robots-4915064"
+   ],
+   "topic": "softbank-allied-universal-ai-robots-2026-10",
+   "firstSeen": "2026-10-17T04:01:36+08:00"
+  },
+  {
+   "id": "d2c1f98cb2",
+   "title": "DOJ/劳工部与 Cloudera 和解：两年 PERM 禁入 + 140 万美元补薪",
+   "summary": "美司法部与劳工部指控 Cloudera 在 PERM 招聘中歧视美国工人；和解含两年永久劳工证项目禁入、140 万美元补薪基金与 60 万美元民事罚款，属「保护美国工人」倡议第 14 起和解。",
+   "links": [
+    "https://www.justice.gov/opa/pr/us-departments-justice-and-labor-secure-settlement-cloudera-enforce-two-year-perm-debarment"
+   ],
+   "topic": "cloudera-perm-debarment-doj-2026-10",
+   "firstSeen": "2026-10-17T04:01:36+08:00"
+  },
+  {
+   "id": "791504576d",
+   "title": "Surface Laptop Ultra 开卖评测：RTX Spark 本地 AI 强，Windows 还没跟上",
+   "summary": "微软搭载 NVIDIA RTX Spark 的 Surface Laptop Ultra 10 月 16 日起售，起价约 2599 美元；评测称机身与屏幕出色、本地模型能力强，但 Windows 11 尚缺真正吃满 Spark 的系统级 AI 功能，且偏重、偏贵。",
+   "links": [
+    "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review",
+    "https://news.ycombinator.com/item?id=50123384"
+   ],
+   "topic": "surface-laptop-ultra-rtx-spark-review-2026-10",
+   "firstSeen": "2026-10-17T04:01:36+08:00"
+  },
+  {
+   "id": "f4b280bc2f",
+   "title": "Show HN：Putaway——用本机 AI 把 Mac 下载归进你已有的文件夹",
+   "summary": "菜单栏/CLI 工具读取 PDF/OCR/Office 内容，默认走 Apple Intelligence 本机模型，也可接 Ollama；只归入已有文件夹、先预览再移动，并跳过 .env/私钥类敏感文件。",
+   "links": [
+    "https://github.com/devYRPauli/putaway",
+    "https://news.ycombinator.com/item?id=50122669"
+   ],
+   "topic": "putaway-mac-downloads-ai-2026-10",
+   "firstSeen": "2026-10-17T04:01:36+08:00"
   }
  ],
- "lastChecked": "2026-10-17T03:44:19+08:00"
+ "lastChecked": "2026-10-17T04:01:36+08:00"
 }
