@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T07:59:35+08:00",
+ "lastUpdated": "2026-10-16T08:13:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -10616,7 +10616,84 @@
    ],
    "topic": "vercel-eve-python-agent-template-2026-10",
    "firstSeen": "2026-10-16T07:59:35+08:00"
+  },
+  {
+   "id": "2cbd852b8a",
+   "title": "InkBoy：电子纸跑 Game Boy 约 30fps，驱动已开源",
+   "summary": "开发者在 Waveshare ESP32-S3 电子纸板上自写驱动，把刷新从约 2fps 提到约 30fps，并做出四阶灰度；Register/Hackaday 报道后源码开源，警告高刷可能损伤屏幕。",
+   "links": [
+    "https://www.theregister.com/offbeat/2026/10/15/youtuber-built-30-frame-per-second-grayscale-game-boy-then-open-sourced-it-for-all-e-paper-displays/5303394",
+    "https://hackaday.com/2026/10/14/tiny-e-paper-display-delivers-30-fps-of-game-boy-fun/",
+    "https://github.com/kuslota/InkBoy",
+    "https://news.ycombinator.com/item?id=50112012"
+   ],
+   "topic": "inkboy-epaper-gameboy-30fps-2026-10",
+   "firstSeen": "2026-10-16T08:13:46+08:00"
+  },
+  {
+   "id": "051caabf99",
+   "title": "PaperChecker：本地私有论文审稿 Agent，防论文外泄",
+   "summary": "GitHub 新项目 PaperChecker 主打完全本地/私有的论文自审 Agent，强调不把未发表稿件交给云端模型，避免被训练或抢发；适合学术作者做本地预审。",
+   "links": [
+    "https://github.com/Ayi914/paperchecker"
+   ],
+   "topic": "paperchecker-private-paper-agent-2026-10",
+   "firstSeen": "2026-10-16T08:13:46+08:00"
+  },
+  {
+   "id": "f2c53e406b",
+   "title": "45 年后 Sinclair ULA 设计文档公开",
+   "summary": "Hackaday 报道：Sinclair 经典家用机核心 ULA 芯片设计文档在约 45 年后浮出，对复古硬件复刻与 FPGA 仿真有参考价值。",
+   "links": [
+    "https://hackaday.com/2026/10/15/45-years-later-the-sinclair-ula-design-documents-surface/",
+    "https://news.ycombinator.com/item?id=50112009"
+   ],
+   "topic": "sinclair-ula-design-docs-2026-10",
+   "firstSeen": "2026-10-16T08:13:46+08:00"
+  },
+  {
+   "id": "4d6f908dc8",
+   "title": "AutoFirme：浏览器内用 X.509 签名验签，密钥不出端",
+   "summary": "开源 SPA AutoFirme 在客户端完成证书签名与验签，无后端、密钥不离开浏览器，面向电子公文/合同场景的纯前端密码学流程。",
+   "links": [
+    "https://github.com/Administracion-Abierta/AutoFirme"
+   ],
+   "topic": "autofirme-browser-x509-sign-2026-10",
+   "firstSeen": "2026-10-16T08:13:46+08:00"
+  },
+  {
+   "id": "45fa2d601c",
+   "title": "Sealenv：加密 .env，运行命令不落盘明文密钥",
+   "summary": "Show HN 新工具 Sealenv（Rust）加密保管 .env 里的 API Key/数据库凭据，执行命令时解密注入环境且避免明文落盘，面向本地开发防泄密。",
+   "links": [
+    "https://github.com/sozenka/sealenv",
+    "https://news.ycombinator.com/item?id=50112057"
+   ],
+   "topic": "sealenv-encrypt-dotenv-2026-10",
+   "firstSeen": "2026-10-16T08:13:46+08:00"
+  },
+  {
+   "id": "735860a091",
+   "title": "Pasteface：终端本地录音转写并复制到剪贴板",
+   "summary": "Show HN：Pasteface 在终端本地完成语音录制、转写并复制结果，不依赖云端 STT，适合隐私敏感的口述记笔记工作流。",
+   "links": [
+    "https://github.com/blairjordan/pasteface",
+    "https://news.ycombinator.com/item?id=50111990"
+   ],
+   "topic": "pasteface-local-speech-cli-2026-10",
+   "firstSeen": "2026-10-16T08:13:46+08:00"
+  },
+  {
+   "id": "3212d879ec",
+   "title": "Mother Jones：马斯克新厂与「AI 接替生命」叙事",
+   "summary": "Mother Jones 长文讨论马斯克推进的半导体超级工厂与 successionism（AI 接替人类）言论，把算力扩张与文明替代叙事绑在一起，舆论争议大。",
+   "links": [
+    "https://www.motherjones.com/politics/2026/10/elon-musk-ai-semiconductors-successionism-terafab-factory-x/",
+    "https://news.ycombinator.com/item?id=50112036"
+   ],
+   "topic": "musk-successionism-terafab-mj-2026-10",
+   "firstSeen": "2026-10-16T08:13:46+08:00"
   }
  ],
- "lastChecked": "2026-10-16T07:59:35+08:00"
+ "lastChecked": "2026-10-16T08:13:46+08:00"
 }
