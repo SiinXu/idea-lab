@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T17:03:03+08:00",
+ "lastUpdated": "2026-10-16T17:13:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12141,7 +12141,73 @@
    ],
    "topic": "ledger-899-smartphone-2026-10",
    "firstSeen": "2026-10-16T17:03:03+08:00"
+  },
+  {
+   "id": "0c65ddab0f",
+   "title": "Neophyte：无脚本 Agent 自己走完产品 onboarding 并出摩擦报告",
+   "summary": "Show HN 新品：Neophyte 像真人首访用户一样注册、验证、走到第一个有意义动作，同时标出人类与 AI Agent 各自会卡的点，并回放整条产品流。适合做「Agent 可用性 / onboarding 体检」类工具对标。",
+   "links": [
+    "https://neophyte.run/",
+    "https://news.ycombinator.com/item?id=50115933"
+   ],
+   "topic": "neophyte-agent-onboarding-2026-10",
+   "firstSeen": "2026-10-16T17:13:47+08:00"
+  },
+  {
+   "id": "a49723bd60",
+   "title": "日本建站平台 Studio.Design 遭未授权访问，API 密钥与表单数据或已暴露",
+   "summary": "官方通报：9 月底漏洞被利用进入云环境，10 月 14 日封口；账户哈希密码、CMS/表单、第三方 API token、受保护页密码与自定义代理密钥均可能泄露，要求用户改密并轮换集成凭证。",
+   "links": [
+    "https://violet353984.studio.site/updates/unauthorized-access-2026-10",
+    "https://news.ycombinator.com/item?id=50115923"
+   ],
+   "topic": "studio-design-breach-2026-10",
+   "firstSeen": "2026-10-16T17:13:47+08:00"
+  },
+  {
+   "id": "1b6e8b6304",
+   "title": "Unihertz 拒交 GPL 内核源码，开发者仍用 Claude Code 移植 LineageOS 到 Jelly Star",
+   "summary": "3 英寸 Jelly Star 无官方内核源；作者保留原厂预编译内核，靠逆向分区配置修好蓝牙/NFC/VoLTE，放出非官方 LineageOS 23.2。又一例「厂商违规 + AI 辅助驱动/刷机」叙事。",
+   "links": [
+    "https://osquera.com/blog/unihertz-jellystar-lineageos-port/",
+    "https://news.ycombinator.com/item?id=50115939"
+   ],
+   "topic": "unihertz-jellystar-lineageos-2026-10",
+   "firstSeen": "2026-10-16T17:13:47+08:00"
+  },
+  {
+   "id": "0be9d69215",
+   "title": "Scott Alexander：AI 安全警告不是大厂「监管俘获」阴谋",
+   "summary": "Astral Codex Ten 长文反驳「喊灭顶风险是为了锁死监管」：独立学者同样担心、CEO 们在创业前就公开担忧，且「我们的产品可能杀你」也不像聪明营销。HN 新帖热度起来。",
+   "links": [
+    "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
+    "https://news.ycombinator.com/item?id=50115968"
+   ],
+   "topic": "scott-alexander-ai-safety-not-plot-2026-10",
+   "firstSeen": "2026-10-16T17:13:47+08:00"
+  },
+  {
+   "id": "22f86252d7",
+   "title": "RoamDial：在 3D 粒子星系里漫游全球直播电台",
+   "summary": "Show HN：用粒子星系浏览 Radio Browser 电台，拖拽对准站点即可收听，城市可展开成螺旋。偏创意交互与「发现式收听」，适合做氛围产品 / 可视化灵感。",
+   "links": [
+    "https://roamdial.com",
+    "https://news.ycombinator.com/item?id=50115760"
+   ],
+   "topic": "roamdial-radio-galaxy-2026-10",
+   "firstSeen": "2026-10-16T17:13:47+08:00"
+  },
+  {
+   "id": "bb043ab289",
+   "title": "Video Cutter AI：长视频一键拆成带字幕的短视频",
+   "summary": "新站宣称自动找高光、打 Viral Score、加字幕并竖屏 reframing，面向播客/课程/品牌把长内容搬到 Shorts/TikTok/Reels；免登录试用，竞争已拥挤的 AI 切片赛道。",
+   "links": [
+    "https://video-cutter.ai/",
+    "https://news.ycombinator.com/item?id=50115816"
+   ],
+   "topic": "video-cutter-ai-shorts-2026-10",
+   "firstSeen": "2026-10-16T17:13:47+08:00"
   }
  ],
- "lastChecked": "2026-10-16T17:03:03+08:00"
+ "lastChecked": "2026-10-16T17:13:47+08:00"
 }
