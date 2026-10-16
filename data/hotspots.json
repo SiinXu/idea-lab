@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T05:12:02+08:00",
+ "lastUpdated": "2026-10-17T05:33:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -14701,7 +14701,61 @@
    ],
    "topic": "neuralwatt-harness-prompt-cache-energy-2026-10",
    "firstSeen": "2026-10-17T05:12:02+08:00"
+  },
+  {
+   "id": "2447ad21d7",
+   "title": "Vercel AI Gateway：开源权重吃掉 71.5% token、23% 支出",
+   "summary": "十月生产指数：开源权重处理逾七成 token、近四分之一账单，支出占比自六月翻超四倍；九月网关支出约为去年十二月的 13 倍，均价 token 降约 47%。Jev 两周触达 35% 付费团队创最快采用，但几乎不占支出；Opus 5.5 两周拿走逾一成网关美元。适合盯模型路由与成本结构的人。",
+   "links": [
+    "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+    "https://news.ycombinator.com/item?id=50124777"
+   ],
+   "topic": "vercel-ai-gateway-open-weight-oct-2026",
+   "firstSeen": "2026-10-17T05:33:14+08:00"
+  },
+  {
+   "id": "d0a00342ca",
+   "title": "Black Forest Labs 开源 FLUX 3 Image Klein：5.6B 可本地跑",
+   "summary": "5.6B 开源权重，支持文生图、编辑与最多 10 张参考图，原生 4K；INT8 可在 8GB 显存消费卡上跑，蒸馏版 RTX 5090 约 4 秒出 1MP。内部评测称文生图/多参考/编辑领先更大开源模型；Kommunity License 年收入 500 万美元以下可免费商用。HN 首页在涨。",
+   "links": [
+    "https://bfl.ai/blog/flux-3-image-klein",
+    "https://news.ycombinator.com/item?id=50123580"
+   ],
+   "topic": "flux-3-image-klein-open-weights-2026-10",
+   "firstSeen": "2026-10-17T05:33:14+08:00"
+  },
+  {
+   "id": "8cdfdec491",
+   "title": "开发者吐槽：Codex 周限额一天打满，舆论倒向 Claude Opus 5.5",
+   "summary": "X 热点：多人截图称 Codex Pro 周限额一天就顶满，而 Claude Opus 5.5（9 月 22 日上线）在复杂编码与 1M 上下文上更「耐用」；有人说「现在没理由再用 Codex」。也有人留着 Codex 的 Computer Use。用量上限本身成了选型信号。",
+   "links": [
+    "https://x.com/i/trending/2111205724827128240"
+   ],
+   "topic": "claude-opus-vs-codex-usage-caps-2026-10",
+   "firstSeen": "2026-10-17T05:33:14+08:00"
+  },
+  {
+   "id": "66b01ef311",
+   "title": "gopls 交互式重构：给 LSP 加多步对话框，已进 VS Code",
+   "summary": "Go 团队与 Dart 协作提案：语言服务器可在改代码前向用户提问（结构体 tag、实现接口、跨文件移动声明等），不再只能猜默认。gopls v0.24.0 与 vscode-go v0.56.0 已可用；提案面向所有语言与编辑器，不只 Go。",
+   "links": [
+    "https://go.dev/blog/interactive-refactoring",
+    "https://news.ycombinator.com/item?id=50124754"
+   ],
+   "topic": "gopls-interactive-refactoring-lsp-2026-10",
+   "firstSeen": "2026-10-17T05:33:14+08:00"
+  },
+  {
+   "id": "cef1bd8f3d",
+   "title": "Show HN：等 Agent 时打一局浏览器 CS 1.6 1v1",
+   "summary": "csfor.fun 在浏览器里开 5 分钟 CS 1.6 单挑，可上传自家 .cfg；作者说「等 Claude 时好玩」。Agent 长任务等待的缝隙产品，轻量但贴近日常编码节奏。",
+   "links": [
+    "https://csfor.fun/",
+    "https://news.ycombinator.com/item?id=50124893"
+   ],
+   "topic": "csfor-fun-wait-for-agent-2026-10",
+   "firstSeen": "2026-10-17T05:33:14+08:00"
   }
  ],
- "lastChecked": "2026-10-17T05:12:02+08:00"
+ "lastChecked": "2026-10-17T05:33:14+08:00"
 }
