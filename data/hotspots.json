@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T11:12:43+08:00",
+ "lastUpdated": "2026-10-16T11:26:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11204,7 +11204,62 @@
    ],
    "topic": "non-determinism-doesnt-matter-2026-10",
    "firstSeen": "2026-10-16T11:12:43+08:00"
+  },
+  {
+   "id": "9847089a21",
+   "title": "Theo 花约 2.4 万美元用 AI 把 TypeScript 编译器移植到 Rust",
+   "summary": "YouTuber Theo Browne 用 Claude Opus 5.5 把微软 Go 版 TypeScript 迁到 Rust，宣称比官方 Go 重写快约 2 倍、比旧版 TS 快约 12.5 倍；烧了约 2.4 万美元等值 token，几乎满分通过符合性测试。他看好用 Rust+V8 给 Agent 做更轻的运行环境。",
+   "links": [
+    "https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409",
+    "https://news.ycombinator.com/item?id=50113643"
+   ],
+   "topic": "theo-ts-rust-24k-2026-10",
+   "firstSeen": "2026-10-16T11:26:43+08:00"
+  },
+  {
+   "id": "f9efb5e576",
+   "title": "费城女子因拦截配送机器人被捕：人机路权冲突上热搜",
+   "summary": "费城市中心一名女子因阻挡配送机器人与工作人员对峙后被捕，HN 讨论升温。侧面说明外卖/快递机器人进城区后，路权、责任和公众接受度会一起变成产品与政策问题。",
+   "links": [
+    "https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323/",
+    "https://news.ycombinator.com/item?id=50112963"
+   ],
+   "topic": "philly-delivery-robot-arrest-2026-10",
+   "firstSeen": "2026-10-16T11:26:43+08:00"
+  },
+  {
+   "id": "d38209e8e2",
+   "title": "黄仁勋称赞 Grok Bot 增长极快，并与马斯克共研 Star Mind 算力机",
+   "summary": "在 BG2 播客里，英伟达 CEO 黄仁勋说 Grok Bot「超酷」、增长少见；双方团队在共研可同时服务轨道与地面数据中心的 Star Mind 计算机，马斯克称效果超预期、明年量产。",
+   "links": [
+    "https://x.com/i/trending/2110870557314966008",
+    "https://x.com/i/trending/2110829324525830284"
+   ],
+   "topic": "huang-musk-grokbot-starmind-2026-10",
+   "firstSeen": "2026-10-16T11:26:43+08:00"
+  },
+  {
+   "id": "6f5ffb2c70",
+   "title": "Matt Mullenweg 要求回滚无障碍改动，并禁止一名 WordPress 核心提交者",
+   "summary": "报道称 WordPress 联合创始人 Matt Mullenweg 下令回滚无障碍相关改动，并让一名核心提交者另寻项目贡献。开源治理与可访问性方向再次成为社区焦点。",
+   "links": [
+    "https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project",
+    "https://news.ycombinator.com/item?id=50113348"
+   ],
+   "topic": "mullenweg-a11y-revert-2026-10",
+   "firstSeen": "2026-10-16T11:26:43+08:00"
+  },
+  {
+   "id": "6d91965bdd",
+   "title": "Show HN：Wayseer——盯实时系统数据的原生桌面浏览工具",
+   "summary": "系统工程师做的原生桌面应用，用来浏览复杂系统的实时数据排障；有免费版和付费解锁。作者坦言大量靠 AI 写代码，适合当「运维/可观测性桌面壳」类产品参考。",
+   "links": [
+    "https://wayseer.app/",
+    "https://news.ycombinator.com/item?id=50113201"
+   ],
+   "topic": "wayseer-realtime-desktop-2026-10",
+   "firstSeen": "2026-10-16T11:26:43+08:00"
   }
  ],
- "lastChecked": "2026-10-16T11:12:43+08:00"
+ "lastChecked": "2026-10-16T11:26:43+08:00"
 }
