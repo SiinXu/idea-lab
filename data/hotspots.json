@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T09:55:09+08:00",
+ "lastUpdated": "2026-10-16T10:09:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11059,7 +11059,29 @@
    ],
    "topic": "sill-mac-window-iphone-ipad-2026-10",
    "firstSeen": "2026-10-16T09:55:09+08:00"
+  },
+  {
+   "id": "3abf5ce4be",
+   "title": "Claude Opus 5.5 快速模式转正：取消候补，最高快 2.5 倍",
+   "summary": "Anthropic 开发者账号宣布 Opus 5.5 fast mode 结束研究预览、取消等候名单，在 Claude Platform 直接可用：同一个 Opus 5.5，速度最高约 2.5 倍，定价每百万 token 输入 8 美元/输出 40 美元；Microsoft Foundry（Azure）同步上线，Google Cloud 即将支持。对跑 Agent 长链路、追求低延迟的产品是直接利好。",
+   "links": [
+    "https://x.com/ClaudeDevs/status/2110825294655562048",
+    "https://x.com/i/trending/2110914330774688202"
+   ],
+   "topic": "claude-opus-5-5-fast-mode-ga-2026-10",
+   "firstSeen": "2026-10-16T10:09:33+08:00"
+  },
+  {
+   "id": "b09ae946e6",
+   "title": "Claude Code Review 正式 GA：Team/企业版每个 PR 自动审，可选快/标准/深度",
+   "summary": "Anthropic 宣布 Code Review 对 Claude Team 和 Enterprise 正式可用：多数审查比预览期快约 3 倍，更聚焦真正要命的 bug，结论写明问题、触发条件和修法；管理员在 Claude Code 设置里开启并选仓库后，每个新 PR 自动审，可按仓库选 Quick/Standard/Deep。符合条件的企业组织可在 1 月 15 日前领取至少 1 万美元审查额度。",
+   "links": [
+    "https://claude.com/resources/articles/code-review-is-now-generally-available",
+    "https://x.com/ClaudeDevs/status/2110866210573386065"
+   ],
+   "topic": "claude-code-review-ga-2026-10",
+   "firstSeen": "2026-10-16T10:09:33+08:00"
   }
  ],
- "lastChecked": "2026-10-16T09:55:09+08:00"
+ "lastChecked": "2026-10-16T10:09:33+08:00"
 }
