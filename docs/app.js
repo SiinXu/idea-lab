@@ -6,7 +6,7 @@ let L=pick(),fav=new Set(JSON.parse(localStorage.lab_fav||'[]')),tagF='',favOnly
 const t=k=>UI[L][k],c=o=>o[L]||o.en;
 document.documentElement.dataset.theme=localStorage.lab_theme||(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark');
 $('#theme').onclick=()=>{const v=document.documentElement.dataset.theme=='dark'?'light':'dark';document.documentElement.dataset.theme=v;localStorage.lab_theme=v};
-for(const l in LANGS)$('#lang').add(new Option(LANGS[l],l));$('#lang').onchange=e=>{L=e.target.value;localStorage.lab_lang=L;render()};
+if(!$('#lang').options.length)for(const l in LANGS)$('#lang').add(new Option(LANGS[l],l));$('#lang').onchange=e=>{L=e.target.value;localStorage.lab_lang=L;render()};
 const score=i=>i.s.reduce((a,b)=>a+b,0)*5;
 function card(i,n){const f=fav.has(i.id);return`<article class="card" data-id="${i.id}" style="animation-delay:${n*40}ms"><div class="ci">
 <div class="row"><span class="tag">${c(i.tag)}</span><span class="mono" style="font-size:12px;color:var(--mut)">${t('sc')} ${score(i)}</span><button class="fav ${f?'on':''}" data-f="${i.id}">${f?'★':'☆'}</button></div>
