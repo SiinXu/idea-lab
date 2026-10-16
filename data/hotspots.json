@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T18:19:21+08:00",
+ "lastUpdated": "2026-10-16T18:32:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -12373,7 +12373,19 @@
    ],
    "topic": "forward-deployed-engineer-explainer-2026-10",
    "firstSeen": "2026-10-16T18:19:21+08:00"
+  },
+  {
+   "id": "ccb5f4a35d",
+   "title": "X 热议「AI 只是矩阵数学、还是真懂？」：阿弗莱克片段与「AI 是骗局」论引爆三条趋势",
+   "summary": "Ben Affleck 称大模型只是预测词的线性代数，Seth Harp 更直言 AI「就是骗局」；反方用「人脑不也是离子与多巴胺」回怼，并援引耶鲁研究称 LLM 会形成类人的符号结构、陶哲轩提到 AI 已能助攻数学。同一争论今早在 X 上同时冲出三条趋势，可做「AI 到底懂不懂」科普/辩论类内容选题。",
+   "links": [
+    "https://x.com/i/trending/2110814510672122163",
+    "https://x.com/i/trending/2111026315373539617",
+    "https://x.com/i/trending/2111039001180373384"
+   ],
+   "topic": "ai-understanding-matrix-math-debate-2026-10-16",
+   "firstSeen": "2026-10-16T18:32:05+08:00"
   }
  ],
- "lastChecked": "2026-10-16T18:19:21+08:00"
+ "lastChecked": "2026-10-16T18:32:05+08:00"
 }
