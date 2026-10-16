@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T05:33:14+08:00",
+ "lastUpdated": "2026-10-17T05:46:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -14755,7 +14755,92 @@
    ],
    "topic": "csfor-fun-wait-for-agent-2026-10",
    "firstSeen": "2026-10-17T05:33:14+08:00"
+  },
+  {
+   "id": "ebfced823b",
+   "title": "Perplexity Computer 接入 REA：闭源 App 也能出逆向蓝图",
+   "summary": "Perplexity 把开源 REA 塞进 Computer Agent，可对 Electron/二进制做本地分析并重建可运行版本；有人一小时内复刻 49 美元工具的导出逻辑。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://x.com/i/trending/2111095140282667215"
+   ],
+   "topic": "perplexity-computer-rea-reverse-2026-10",
+   "firstSeen": "2026-10-17T05:46:18+08:00"
+  },
+  {
+   "id": "565f27be2f",
+   "title": "Show HN：Judgeman——给编码 Agent 逐步打分并给信任值",
+   "summary": "开源评测工具按步骤评估 coding agent，输出可解释的信任分数，方便对比不同 harness/模型。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://github.com/Christopher4113/JudgeMan",
+    "https://news.ycombinator.com/item?id=50124805"
+   ],
+   "topic": "judgeman-coding-agent-evals-2026-10",
+   "firstSeen": "2026-10-17T05:46:18+08:00"
+  },
+  {
+   "id": "b97ac5dc1d",
+   "title": "Dispatch：面向 Agent 时代的战略级 Git 平台",
+   "summary": "新开源项目自称「Agent 时代的战略 Git」，把多 Agent 协作、评审与部署流程收进同一套源码工作流。",
+   "links": [
+    "https://github.com/gshaheen/dispatch",
+    "https://news.ycombinator.com/item?id=50125034"
+   ],
+   "topic": "dispatch-git-agentic-platform-2026-10",
+   "firstSeen": "2026-10-17T05:46:18+08:00"
+  },
+  {
+   "id": "b73972b864",
+   "title": "用 Incus OS 搭自托管基建：容器虚拟机一体",
+   "summary": "技术博文演示用 Incus OS 做自托管基础设施，把容器与虚拟机统一调度，适合想少运维、多自建的人。",
+   "links": [
+    "https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html",
+    "https://news.ycombinator.com/item?id=50124646"
+   ],
+   "topic": "incus-os-selfhost-infra-2026-10",
+   "firstSeen": "2026-10-17T05:46:18+08:00"
+  },
+  {
+   "id": "736f04ed2b",
+   "title": "kube.new：不用写代码也能做多人游戏",
+   "summary": "新站点宣称用可视化方式搭多人游戏，降低联机玩法原型门槛，适合 vibe coding 与快速试玩。",
+   "links": [
+    "https://kube.new",
+    "https://news.ycombinator.com/item?id=50124809"
+   ],
+   "topic": "kube-new-multiplayer-nocode-2026-10",
+   "firstSeen": "2026-10-17T05:46:18+08:00"
+  },
+  {
+   "id": "b5d5c73f26",
+   "title": "Layerling：面向 3D 打印的易用分层 CAD",
+   "summary": "开源 Layerling 主打「简单 3D CAD」，按层建模方便直接打印，目标降低入门建模门槛。",
+   "links": [
+    "https://github.com/henmedia/layerling",
+    "https://news.ycombinator.com/item?id=50124743"
+   ],
+   "topic": "layerling-3d-cad-print-2026-10",
+   "firstSeen": "2026-10-17T05:46:18+08:00"
+  },
+  {
+   "id": "585e5c24d2",
+   "title": "Kip Mock 创办 Ardent：押注平价飞行汽车量产",
+   "summary": "前 Valar Atomics 运营负责人在爱达荷宣布 Ardent，目标做可量产的民用飞行汽车，监管与安全仍是最大门槛。",
+   "links": [
+    "https://x.com/i/trending/2111131887515443588"
+   ],
+   "topic": "ardent-flying-cars-kip-mock-2026-10",
+   "firstSeen": "2026-10-17T05:46:18+08:00"
+  },
+  {
+   "id": "c0d8d3f017",
+   "title": "ClawPump 结算 Solana Agent 黑客松：月交易额超 5000 万",
+   "summary": "面向 AI Agent 的 ClawPump 资本市场办完黑客松，称一个月交易额 5000 万+、给创作者发了约 50 万美元，生态市值翻倍。",
+   "links": [
+    "https://x.com/i/trending/2111160361722298858"
+   ],
+   "topic": "clawpump-solana-agent-hackathon-2026-10",
+   "firstSeen": "2026-10-17T05:46:18+08:00"
   }
  ],
- "lastChecked": "2026-10-17T05:33:14+08:00"
+ "lastChecked": "2026-10-17T05:46:18+08:00"
 }
