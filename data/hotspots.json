@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T10:58:47+08:00",
+ "lastUpdated": "2026-10-16T11:12:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11117,7 +11117,94 @@
    ],
    "topic": "google-willow-magic-state-cultivation-2026-10",
    "firstSeen": "2026-10-16T10:58:47+08:00"
+  },
+  {
+   "id": "d5fcc51220",
+   "title": "MuscleMemory：给 AI Agent 的开源程序记忆",
+   "summary": "把可复用的操作流程存成「肌肉记忆」，Agent 下次少走弯路；开源上 GitHub，刚上 HN。",
+   "links": [
+    "https://github.com/TheWariend/MuscleMemory",
+    "https://news.ycombinator.com/item?id=50113506"
+   ],
+   "topic": "musclememory-agent-procedural-2026-10",
+   "firstSeen": "2026-10-16T11:12:43+08:00"
+  },
+  {
+   "id": "c8912e4e0f",
+   "title": "游戏逆向社区因 AI 太强而关停",
+   "summary": "404 Media：AI 把二进制逆向门槛压到极低，某个长期活跃的游戏逆向社区决定直接关门。",
+   "links": [
+    "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/"
+   ],
+   "topic": "re-community-ai-shutdown-2026-10",
+   "firstSeen": "2026-10-16T11:12:43+08:00"
+  },
+  {
+   "id": "a248e2c2bf",
+   "title": "Show HN：Beeline——人与 Agent 共用的多人 harness",
+   "summary": "把 Codex/Claude Code 等拉进同一控制面，团队级多 Agent 协作；开源、主打工程交付而非替代 Slack。",
+   "links": [
+    "https://usebeeline.app",
+    "https://news.ycombinator.com/item?id=50113268"
+   ],
+   "topic": "beeline-multiplayer-agent-harness-2026-10",
+   "firstSeen": "2026-10-16T11:12:43+08:00"
+  },
+  {
+   "id": "5321b1d11e",
+   "title": "Show HN：Firmenza——盯 SAM.gov 的 AI 雇员",
+   "summary": "面向美国联邦采购：自动盯标、筛机会、跟进流程，把政府合同情报做成「雇一个 AI」。",
+   "links": [
+    "https://firmenza.com",
+    "https://news.ycombinator.com/item?id=50113168"
+   ],
+   "topic": "firmenza-sam-gov-ai-2026-10",
+   "firstSeen": "2026-10-16T11:12:43+08:00"
+  },
+  {
+   "id": "07164ea208",
+   "title": "Show HN：GrapheneOS「哑机」Odysseus",
+   "summary": "在 GrapheneOS 上做成功能机体验：通话短信为主、砍掉分心应用，隐私向极简手机方案开源。",
+   "links": [
+    "https://github.com/flourish-today/Odysseus",
+    "https://news.ycombinator.com/item?id=50113162"
+   ],
+   "topic": "grapheneos-dumbphone-odysseus-2026-10",
+   "firstSeen": "2026-10-16T11:12:43+08:00"
+  },
+  {
+   "id": "79fb6f05eb",
+   "title": "LWN：对比 Google 与 Igalia 如何做 Chromium",
+   "summary": "同一套浏览器内核，商业巨头与开源服务商的协作节奏、优先级和贡献方式差出一整篇文章。",
+   "links": [
+    "https://lwn.net/Articles/1094721/",
+    "https://news.ycombinator.com/item?id=50112887"
+   ],
+   "topic": "lwn-chromium-google-igalia-2026-10",
+   "firstSeen": "2026-10-16T11:12:43+08:00"
+  },
+  {
+   "id": "f62d203cf5",
+   "title": "海底光缆学会「听」：光纤微瑕变声学传感",
+   "summary": "IEEE Spectrum：用光纤本身的微小缺陷做分布式声学传感，监测海底光缆受威胁与扰动。",
+   "links": [
+    "https://spectrum.ieee.org/undersea-cables-acoustic-sensing",
+    "https://news.ycombinator.com/item?id=50113235"
+   ],
+   "topic": "ieee-undersea-fibre-acoustic-sensing-2026-10",
+   "firstSeen": "2026-10-16T11:12:43+08:00"
+  },
+  {
+   "id": "f9f91c8c72",
+   "title": "Non-Determinism Doesn't Matter",
+   "summary": "一篇反直觉短文：对多数产品来说，LLM 非确定性不如大家嘴上喊的那么致命，关键在约束与验收。",
+   "links": [
+    "https://sklar.rocks/non-determinism-doesnt-matter/",
+    "https://news.ycombinator.com/item?id=50087616"
+   ],
+   "topic": "non-determinism-doesnt-matter-2026-10",
+   "firstSeen": "2026-10-16T11:12:43+08:00"
   }
  ],
- "lastChecked": "2026-10-16T10:58:47+08:00"
+ "lastChecked": "2026-10-16T11:12:43+08:00"
 }
