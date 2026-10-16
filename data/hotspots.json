@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T12:00:01+08:00",
+ "lastUpdated": "2026-10-16T12:10:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -11371,7 +11371,19 @@
    ],
    "topic": "starshield-ukraine-white-house-order-2026-10",
    "firstSeen": "2026-10-16T12:00:01+08:00"
+  },
+  {
+   "id": "94a650e4a5",
+   "title": "NVIDIA App 更新后默认开启「允许 Agent 控制」：本机 MCP 服务器自动启动",
+   "summary": "NVIDIA App 11.0 起内置本地 MCP 服务器，兼容的 AI Agent 可查看已装游戏、启动游戏、改画质设置、录制片段。X 上用户发现自动更新后该开关默认打开，有开发者称安全风险高、建议到 设置 > 功能 里关掉。大厂把 Agent 接口塞进默认设置，正引发「默认授权」争议。",
+   "links": [
+    "https://x.com/i/trending/2110944950703808743",
+    "https://www.nvidia.com/en-us/software/nvidia-app/release-highlights/",
+    "https://hermes-agent.nousresearch.com/docs/plugins/nvidia-app"
+   ],
+   "topic": "nvidia-app-agent-mcp-default-on-2026-10",
+   "firstSeen": "2026-10-16T12:10:13+08:00"
   }
  ],
- "lastChecked": "2026-10-16T12:00:01+08:00"
+ "lastChecked": "2026-10-16T12:10:13+08:00"
 }
