@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-16T08:28:29+08:00",
+ "lastUpdated": "2026-10-16T08:44:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -10749,7 +10749,63 @@
    ],
    "topic": "anthropic-ipo-15t-tempered-2026-10",
    "firstSeen": "2026-10-16T08:28:29+08:00"
+  },
+  {
+   "id": "d39b7eed87",
+   "title": "yeet：为何 Agent 搭前端仍爱选 React",
+   "summary": "yeet 博客用 Docker/eBPF 类比：模型会写原生 JS 与 DOM，但复杂界面仍倾向 React，因为抽象减少要同时做对的变量；同理 eBPF 难的不是写探针，而是 yeet run 这类让人机都能用的层。",
+   "links": [
+    "https://yeet.cx/blog/why-agents-reach-for-react",
+    "https://news.ycombinator.com/item?id=50112245"
+   ],
+   "topic": "yeet-agents-reach-for-react-2026-10",
+   "firstSeen": "2026-10-16T08:44:34+08:00"
+  },
+  {
+   "id": "d4ae066a8a",
+   "title": "Show HN：Sjq——给 AI 流式输出用的 jq",
+   "summary": "读 OpenAI 兼容 chat completion SSE 流，一眼看 token 与 TTFT/耗时；面向调试 Agent 与流式推理管线。",
+   "links": [
+    "https://github.com/vivgrid/sjq",
+    "https://news.ycombinator.com/item?id=50112214"
+   ],
+   "topic": "sjq-ai-streaming-jq-2026-10",
+   "firstSeen": "2026-10-16T08:44:34+08:00"
+  },
+  {
+   "id": "7cbd53c7f6",
+   "title": "Screen Forge：开源 Mac/Linux 录屏剪辑一体（Apache-2.0）",
+   "summary": "原生录屏+时间线：点击自动变焦、人声分轨、本机 Whisper 字幕；录制编辑永久免费，官方构建前 3 次导出后需 $29 一次买断（可自编译去闸）。可导入 Screen Studio 工程。",
+   "links": [
+    "https://screenforge.studio/",
+    "https://news.ycombinator.com/item?id=50112228"
+   ],
+   "topic": "screenforge-oss-recorder-2026-10",
+   "firstSeen": "2026-10-16T08:44:34+08:00"
+  },
+  {
+   "id": "07143e7046",
+   "title": "iPhone Duo 铰链里穿了根柔性石墨导热管",
+   "summary": "PCMag 采访苹果散热团队：折叠后厚度翻倍难散热，Duo 用铰链内柔性石墨管在两半机身间导热以扩大散热面；配合更薄浮动均热板、A20 Pro 旁置 DRAM 封装等，自称持续 GPU 可比 iPhone 17 Pro 高约 35%。",
+   "links": [
+    "https://uk.pcmag.com/mobile-phones/167873/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+    "https://9to5mac.com/2026/10/12/the-iphone-duos-cooling-system-hides-a-clever-trick-inside-its-hinge/",
+    "https://news.ycombinator.com/item?id=50068203"
+   ],
+   "topic": "iphone-duo-graphite-hinge-thermal-2026-10",
+   "firstSeen": "2026-10-16T08:44:34+08:00"
+  },
+  {
+   "id": "331f30f9e9",
+   "title": "HiddenLayer：Jev 等 System One 决策模型比 LLM 更好打",
+   "summary": "安全厂商称 TypeSafe Jev 为求快、少 token，少了传统 LLM 的部分防护；对抗文本与注入可改输出，TokenBreak 类扰动、结账页恶意广告可把浏览器 Agent 点走。InfoWorld 引分析师：格式约束不等于决策可信，速度不是安全控件。",
+   "links": [
+    "https://www.hiddenlayer.com/research/system-one-model-security",
+    "https://www.infoworld.com/article/4236103/typesafes-jev-even-more-susceptible-to-attack-than-llms-says-security-vendor.html"
+   ],
+   "topic": "jev-system-one-hiddenlayer-2026-10",
+   "firstSeen": "2026-10-16T08:44:34+08:00"
   }
  ],
- "lastChecked": "2026-10-16T08:28:29+08:00"
+ "lastChecked": "2026-10-16T08:44:34+08:00"
 }
