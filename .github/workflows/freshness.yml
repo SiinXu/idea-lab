@@ -1,0 +1,51 @@
+name: Hotspots freshness watchdog
+# Hotspots are produced by a Grok Bot agent routine on the shared box ("Idea Lab 热点每 15 分钟更新":
+# python3 scripts/hotspots_update.py new.json -> commit + push -> Pages). This workflow does NOT generate
+# content (summaries need an LLM); it only alerts when the live data stops moving.
+# Alert = this run fails (red) + one open issue labelled "stale-data" (auto-closed when data is fresh again).
+on:
+  schedule:
+    - cron: "41 * * * *"   # hourly
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check hotspots lastUpdated (threshold 2h)
+        id: age
+        run: |
+          python3 - <<'PY'
+          import json, os, re, urllib.request, datetime as dt
+          url = "https://siinxu.github.io/idea-lab/hotspots/data.js"
+          src = urllib.request.urlopen(url + "?v=" + str(dt.datetime.now().timestamp()), timeout=30).read().decode()
+          m = re.search(r'"lastUpdated":\s*"([^"]+)"', src)
+          ts = dt.datetime.fromisoformat(m.group(1))
+          age_h = (dt.datetime.now(dt.timezone.utc) - ts).total_seconds() / 3600
+          stale = age_h > 2
+          line = f"Idea Lab hotspots lastUpdated {ts.isoformat()} — age {age_h:.1f} h (threshold 2 h) — {'STALE' if stale else 'ok'}"
+          print(line)
+          with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as f: f.write(line + "\n")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f: f.write(f"stale={'true' if stale else 'false'}\nline={line}\n")
+          PY
+      - name: Open or update alert issue
+        if: steps.age.outputs.stale == 'true'
+        env: { GH_TOKEN: "${{ github.token }}", LINE: "${{ steps.age.outputs.line }}", REPO: "${{ github.repository }}" }
+        run: |
+          gh label create stale-data -R "$REPO" -c d73a4a -d "Data freshness alert" 2>/dev/null || true
+          n=$(gh issue list -R "$REPO" -l stale-data -s open --json number -q '.[0].number')
+          body="$LINE
+          Run: ${{ github.server_url }}/$REPO/actions/runs/${{ github.run_id }}
+          Producer: Grok Bot routine on the shared box (scripts/hotspots_update.py). Check that the routine is still active."
+          if [ -n "$n" ]; then gh issue comment "$n" -R "$REPO" -b "$body"; else gh issue create -R "$REPO" -l stale-data -t "Hotspots data stale (>2h)" -b "$body"; fi
+          exit 1
+      - name: Close alert issue when fresh
+        if: steps.age.outputs.stale == 'false'
+        env: { GH_TOKEN: "${{ github.token }}", REPO: "${{ github.repository }}" }
+        run: |
+          for n in $(gh issue list -R "$REPO" -l stale-data -s open --json number -q '.[].number'); do gh issue close "$n" -R "$REPO" -c "Fresh again: ${{ steps.age.outputs.line }}"; done
