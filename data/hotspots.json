@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T00:25:17+08:00",
+ "lastUpdated": "2026-10-17T00:47:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -13474,7 +13474,41 @@
    ],
    "topic": "grimoire-biology-show-hn-2026-10",
    "firstSeen": "2026-10-17T00:25:17+08:00"
+  },
+  {
+   "id": "b94d62f82e",
+   "title": "南非咖啡连锁 Bootlegger：vibe coding 仪表盘登录页就泄密",
+   "summary": "MyBroadband 10 月 16 日核实：Bootlegger CEO Ricky Ruthenberg 推动用 Claude 做内部 BOS 仪表盘并挂在 Railway；员工 Instagram 露出 URL 后，登录页源码已带 132 家门店联系人与部分业绩财务数据，无需登录。接洽后应用已下线。典型「AI 写得快、部署没安全门」案例。",
+   "links": [
+    "https://mybroadband.co.za/news/software/672602-south-african-coffee-franchise-exposes-company-and-private-data-in-vibe-coded-web-application.html",
+    "https://x.com/i/trending/2111102727598342381"
+   ],
+   "topic": "bootlegger-vibe-coded-dashboard-leak-2026-10",
+   "firstSeen": "2026-10-17T00:47:11+08:00"
+  },
+  {
+   "id": "d0856abb34",
+   "title": "马斯克喊话：让 Grok Bot 帮你从骚扰名单里删掉手机号",
+   "summary": "用户 @MinimalDuck 做了免费技能 Spam-Call Scrubber：在人搜/数据经纪网站找你的号码、提交 opt-out、处理确认邮件并定期复查。马斯克 10 月 15 日回复「Ask your Grok Bot…」后冲上讨论；非 xAI 官方技能，需自装 Grok Bot 应用。",
+   "links": [
+    "https://grokbotdaily.com/t/spam-call-scrubber",
+    "https://www.ibtimes.sg/ask-your-grok-bot-elon-musk-shares-easy-hack-remove-your-number-spam-lists-95218",
+    "https://x.com/i/trending/2111118928495681885"
+   ],
+   "topic": "musk-spam-call-scrubber-grok-bot-2026-10",
+   "firstSeen": "2026-10-17T00:47:11+08:00"
+  },
+  {
+   "id": "2a6ac374ff",
+   "title": "Rust zip crate 大面积 yank：旧版几乎全被下架",
+   "summary": "crates.io 显示 zip（zip-rs/zip2）近期大量版本被 yank：含 7.3–8.6 与 9.0.0–9.0.2；目前可用约 9.0.3 / 刚发的 9.0.4。依赖 zip 的 Rust 项目若锁旧版可能突然编译失败，需尽快升到未 yank 版本。HN newest 已出现讨论。",
+   "links": [
+    "https://crates.io/crates/zip/versions",
+    "https://github.com/zip-rs/zip2"
+   ],
+   "topic": "rust-zip-crate-mass-yank-2026-10",
+   "firstSeen": "2026-10-17T00:47:11+08:00"
   }
  ],
- "lastChecked": "2026-10-17T00:25:17+08:00"
+ "lastChecked": "2026-10-17T00:47:11+08:00"
 }
