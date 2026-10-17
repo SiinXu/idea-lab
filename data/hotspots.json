@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T11:47:44+08:00",
+ "lastUpdated": "2026-10-17T12:15:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15822,7 +15822,19 @@
    ],
    "topic": "isaacson-jobs-agentic-ai-tbpn-2026-10",
    "firstSeen": "2026-10-17T11:47:44+08:00"
+  },
+  {
+   "id": "e2f4bae3dd",
+   "title": "DTCC 代币化服务本月上线：首批 25 只证券、约 30 万亿美元资产可上链",
+   "summary": "美国证券托管清算巨头 DTCC 公布代币化服务一页概览：首批 25 只证券来自罗素 1000 股票、ETF 和美债，代币与 DTC 托管证券 1:1 对应、CUSIP 和投资者保护不变，登记钱包间可 7×24 点对点转让。上线时跑在 Canton 公链和 DTCC 私有 Besu 链上，2027 年计划接入 Stellar 与 Circle 的 Arc，并加链上结算、数字现金和抵押品管理。",
+   "links": [
+    "https://communications.dtcc.com/rs/669-QIL-921/images/DTCC%20Tokenization%20Service%20At-a-Glance.pdf",
+    "https://cantonnews.org/dtcc-details-its-tokenization-service-canton-live-at-launch-25-securities-and-a-2027-roadmap",
+    "https://x.com/i/trending/2111196891887346174"
+   ],
+   "topic": "dtcc-tokenization-launch",
+   "firstSeen": "2026-10-17T12:15:40+08:00"
   }
  ],
- "lastChecked": "2026-10-17T11:47:44+08:00"
+ "lastChecked": "2026-10-17T12:15:40+08:00"
 }
