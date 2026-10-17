@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T08:21:22+08:00",
+ "lastUpdated": "2026-10-17T08:26:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15433,7 +15433,31 @@
    ],
    "topic": "canada-national-linux-windows-replace-2026-10",
    "firstSeen": "2026-10-17T08:21:22+08:00"
+  },
+  {
+   "id": "9c7ff909e9",
+   "title": "Drunken Goddess Reflux 取消公开 Demo：怕 AI 抄袭抢先上架",
+   "summary": "Alliance Arts 原定 10/19 Steam Next Fest 公开试玩改为 Discord 封闭场；官方称无法管住录制/直播，并担心 Demo 内容可被 AI 快速仿制成山寨版抢发。Kotaku/GameSpot 跟进，适合做成「游戏 Demo 防仿」类 Idea Lab 点子。",
+   "links": [
+    "https://alliance-arts.co.jp/en/news-detail/3225/",
+    "https://kotaku.com/anime-gambling-horror-game-ditches-free-steam-demo-over-fears-of-getting-ripped-off-by-ai-2000746794",
+    "https://www.gamespot.com/articles/this-anime-stalker-russian-roulette-game-is-afraid-ai-copycats-will-steal-its-ideas/"
+   ],
+   "topic": "drunken-goddess-reflux-ai-clone-demo-cancel-2026-10",
+   "firstSeen": "2026-10-17T08:26:01+08:00"
+  },
+  {
+   "id": "07b4c75a46",
+   "title": "NeodraDynamics Neo1：4 米 / 1.2 吨液压人形机亮相工博会",
+   "summary": "北京初创与京东工业在 CIIF 展示 Neo1：41 自由度、39 个液压关节，宣称双臂协同载荷约 500 kg，瞄准重工/危化场景；尚称性能尚无独立验证，尚无报价与交付时间。",
+   "links": [
+    "https://www.prnewswire.com/news-releases/neodradynamics-showcases-4-meter--1-2-ton-neo1-heavy-duty-hydraulic-robot-with-jd-industrial-at-ciif-hydraulicelectric-hybrid-solves-realworld-4d-industrial-challenges-302908332.html",
+    "https://www.rockingrobots.com/4-meter-1-2-ton-robot-flexes-its-hydraulic-muscles-at-ciif-2026/",
+    "https://x.com/i/trending/2111200048826474878"
+   ],
+   "topic": "neodradynamics-neo1-hydraulic-humanoid-ciif-2026-10",
+   "firstSeen": "2026-10-17T08:26:01+08:00"
   }
  ],
- "lastChecked": "2026-10-17T08:21:22+08:00"
+ "lastChecked": "2026-10-17T08:26:01+08:00"
 }
