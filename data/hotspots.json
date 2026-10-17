@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T08:04:37+08:00",
+ "lastUpdated": "2026-10-17T08:05:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15381,7 +15381,17 @@
    ],
    "topic": "opengcua-generalist-computer-use-2026-10",
    "firstSeen": "2026-10-17T08:04:37+08:00"
+  },
+  {
+   "id": "098afb3f04",
+   "title": "ChatGPT Slides：在 Space 里做演示稿，可实时协作并导出 PPT/PDF/谷歌幻灯片",
+   "summary": "OpenAI 向有 Space 权限的 Pro/Business/Enterprise 推出 Slides：可从对话、文件或模板生成可编辑演示稿，和同事实时改、@ChatGPT/@dot 提修改，网页可导出 PowerPoint、PDF、Google Slides，也可直接在 ChatGPT 里演示。",
+   "links": [
+    "https://help.openai.com/en/articles/20001605-creating-and-collaborating-on-slides-in-chatgpt"
+   ],
+   "topic": "chatgpt-slides-space-2026-10",
+   "firstSeen": "2026-10-17T08:05:45+08:00"
   }
  ],
- "lastChecked": "2026-10-17T08:04:37+08:00"
+ "lastChecked": "2026-10-17T08:05:45+08:00"
 }
