@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T13:17:58+08:00",
+ "lastUpdated": "2026-10-17T13:31:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15891,7 +15891,59 @@
    ],
    "topic": "ai-replace-lawyers-debate",
    "firstSeen": "2026-10-17T13:17:58+08:00"
+  },
+  {
+   "id": "a06065a6f3",
+   "title": "资深游戏程序员：Agent 式编程是职业生涯最大生产力跃迁",
+   "summary": "有 45 年编程、33 年职业游戏开发经验的 Martin Scott 称转向 agentic coding「令人陶醉」，是他经历过的最大生产力跳跃；相关讨论在 X 热传。",
+   "links": [
+    "https://x.com/fizzychicken/status/2110978868748194034",
+    "https://x.com/i/trending/2111292139610972635"
+   ],
+   "topic": "martin-scott-agentic-coding-leap-2026-10",
+   "firstSeen": "2026-10-17T13:31:41+08:00"
+  },
+  {
+   "id": "60470d9ad3",
+   "title": "Lemire：Python 里 base64 解码冲到约 10 GB/s",
+   "summary": "fastpybase64 把 simdutf 绑到 Python，做标准库 drop-in；在 Xeon 单核上解码 MIME 换行 base64 可达约 13 GB/s，约为 pybase64 的 4 倍、标准库约 27 倍。",
+   "links": [
+    "https://lemire.me/blog/2026/10/17/decoding-base64-in-python-at-10-gigabytes-per-second/"
+   ],
+   "topic": "lemire-fastpybase64-10gbs-2026-10",
+   "firstSeen": "2026-10-17T13:31:41+08:00"
+  },
+  {
+   "id": "42461126ca",
+   "title": "Show HN：Fakeipedia——给虚构世界做的维基百科",
+   "summary": "可切换不同「平行世界」词条的百科站点，探索架空历史、人物与设定；适合世界观与设定文档类产品参考。",
+   "links": [
+    "https://fakeipedia.org",
+    "https://news.ycombinator.com/item?id=45892001"
+   ],
+   "topic": "fakeipedia-show-hn-2026-10",
+   "firstSeen": "2026-10-17T13:31:41+08:00"
+  },
+  {
+   "id": "1557ed18b5",
+   "title": "llmspeed：买本地推理机前先感受模型速度",
+   "summary": "根据社区基准估算各设备跑短 prompt 的体感速度，帮人选本地 LLM 硬件；开源，数据来自 r/LocalLLaMA、localscore 等。",
+   "links": [
+    "https://llmspeed.dev/"
+   ],
+   "topic": "llmspeed-local-llm-feel-2026-10",
+   "firstSeen": "2026-10-17T13:31:41+08:00"
+  },
+  {
+   "id": "ed71f01305",
+   "title": "EPGM：给预算受限 Agent 记忆做执行溯源检索",
+   "summary": "论文提出在硬 token 预算下检索完整支撑证据的记忆机制，面向长程语言 Agent 执行历史超出上下文窗口的场景。",
+   "links": [
+    "https://arxiv.org/abs/2609.25913"
+   ],
+   "topic": "epgm-budgeted-agent-memory-2026-10",
+   "firstSeen": "2026-10-17T13:31:41+08:00"
   }
  ],
- "lastChecked": "2026-10-17T13:17:58+08:00"
+ "lastChecked": "2026-10-17T13:31:41+08:00"
 }
