@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T08:05:45+08:00",
+ "lastUpdated": "2026-10-17T08:21:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15391,7 +15391,49 @@
    ],
    "topic": "chatgpt-slides-space-2026-10",
    "firstSeen": "2026-10-17T08:05:45+08:00"
+  },
+  {
+   "id": "ec1d99948e",
+   "title": "Claude Dashboards 与 Motion 进测试：Docs/Slides/Design 全量出测试",
+   "summary": "Anthropic 让 Claude 能连 BigQuery/Snowflake 等建实时仪表盘，并用代码生成可编辑讲解动画（导出 MP4）；Docs、Slides、Design 对所有套餐正式可用，独立 Design 站将于 12 月并入对话。",
+   "links": [
+    "https://claude.com/resources/articles/dashboards-and-motion"
+   ],
+   "topic": "claude-dashboards-motion-beta-2026-10",
+   "firstSeen": "2026-10-17T08:21:22+08:00"
+  },
+  {
+   "id": "bb0b6e624e",
+   "title": "Anthropic 晒领域专家用 Claude 几周做出 FireTrace / AngioView",
+   "summary": "野火态势原型 FireTrace 与导管室冠状动脉 3D 教学工具 AngioView 等，展示专科人员用 Opus/Sonnet/Haiku 5.5 快速做出可用产品，适合做成「垂直专家 + Agent」Idea Lab 点子。",
+   "links": [
+    "https://x.com/i/trending/2111246863500517851",
+    "https://angioview.com/"
+   ],
+   "topic": "claude-firetrace-angioview-showcase-2026-10",
+   "firstSeen": "2026-10-17T08:21:22+08:00"
+  },
+  {
+   "id": "88268bb0b8",
+   "title": "Arpbleed：DragonFly BSD 23 年 ARP 长度字段可泄内核内存",
+   "summary": "CVE-2026-110912：同网段伪造 ARP 长度字节可从回复中读出最高约 249 字节堆 + 251 字节栈（含内核指针）；FreeBSD 2011 已修，DragonFly 补丁已合入。发现过程部分靠 GLM 辅助审计。",
+   "links": [
+    "https://nathan.sapwell.net/posts/cve-2026-110912-arpbleed/"
+   ],
+   "topic": "arpbleed-dragonfly-cve-2026-110912",
+   "firstSeen": "2026-10-17T08:21:22+08:00"
+  },
+  {
+   "id": "c823423ea2",
+   "title": "加拿大研究建议政府自建 Debian 系国家 Linux 替代 Windows",
+   "summary": "西大教授政策论文估算两年投入约 2300–4300 万加元、十年可省数亿，并设公共基金会维护；Reddit/HN 热议主权与凤凰薪资系统式翻车风险。",
+   "links": [
+    "https://linuxstans.com/canadian-study-proposes-a-national-linux-distribution/",
+    "https://news.ycombinator.com/item?id=50125545"
+   ],
+   "topic": "canada-national-linux-windows-replace-2026-10",
+   "firstSeen": "2026-10-17T08:21:22+08:00"
   }
  ],
- "lastChecked": "2026-10-17T08:05:45+08:00"
+ "lastChecked": "2026-10-17T08:21:22+08:00"
 }
