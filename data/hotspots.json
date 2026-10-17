@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T10:55:57+08:00",
+ "lastUpdated": "2026-10-17T11:17:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15753,7 +15753,41 @@
    ],
    "topic": "pku-samsung-realtimebench-torsi-2026-10",
    "firstSeen": "2026-10-17T10:55:57+08:00"
+  },
+  {
+   "id": "b0b207fc98",
+   "title": "Anthropic 租下新斯科舍 EverWind 数据中心：首期 95MW，项目总投资约 100 亿加元",
+   "summary": "EverWind 在 Point Tupper 建数据中心园区，Anthropic 签至少 20 年租约；一期约 95MW、目标 2027 年底上线，二期加至约 420MW。开发方称含风电合计约 100 亿加元，承诺自担并网升级、不抬高居民电价，并与原住民社区谈持股。",
+   "links": [
+    "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-to-host-massive-data-centre-to-power-anthropic-s-ai-assistant-claude-9.7383129",
+    "https://www.theglobeandmail.com/business/article-anthropic-signs-onto-10-billion-nova-scotia-data-centre-project/",
+    "https://x.com/i/trending/2111292136263963047"
+   ],
+   "topic": "anthropic-everwind-nova-scotia-dc-2026-10",
+   "firstSeen": "2026-10-17T11:17:09+08:00"
+  },
+  {
+   "id": "80a4c1c6e7",
+   "title": "Cloudflare CEO：AWS 单方面取消 re:Invent 展位，改办免费周边活动",
+   "summary": "Matthew Prince 发帖称 AWS 取消 Cloudflare 在 re:Invent 的展位，并调侃这是对手感到落后的信号；Cloudflare 表示仍会到场、办免费周边活动并开放邀请。相关讨论在 X 上升温，被视为云厂商竞争升温的插曲。",
+   "links": [
+    "https://x.com/eastdakota/status/2111209566499184883",
+    "https://x.com/i/trending/2111276222688981361"
+   ],
+   "topic": "aws-cancels-cloudflare-reinvent-booth-2026-10",
+   "firstSeen": "2026-10-17T11:17:09+08:00"
+  },
+  {
+   "id": "c0b9951708",
+   "title": "jshook：面向 AI Agent 的逆向工程 MCP，宣称 36 域 735 工具",
+   "summary": "开源项目 jshookmcp 把搜索优先、按配置文件适配的逆向工作区做成单一 MCP 服务，覆盖约 36 个领域、735 个工具，方便 Agent 在运行时做分析；已出现在 HN 最新帖，GitHub 星标过两千。",
+   "links": [
+    "https://github.com/vmoranv/jshookmcp",
+    "https://news.ycombinator.com/item?id=50127340"
+   ],
+   "topic": "jshook-mcp-reverse-engineering-agents-2026-10",
+   "firstSeen": "2026-10-17T11:17:09+08:00"
   }
  ],
- "lastChecked": "2026-10-17T10:55:57+08:00"
+ "lastChecked": "2026-10-17T11:17:09+08:00"
 }
