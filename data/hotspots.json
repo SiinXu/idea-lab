@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T12:15:40+08:00",
+ "lastUpdated": "2026-10-17T12:24:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15834,7 +15834,19 @@
    ],
    "topic": "dtcc-tokenization-launch",
    "firstSeen": "2026-10-17T12:15:40+08:00"
+  },
+  {
+   "id": "95b23318f6",
+   "title": "NVIDIA 开源 Dory1.0-4B：可调循环次数的「循环式」小模型，256K 上下文",
+   "summary": "NVIDIA Nemotron Labs 10 月 16 日发布 4B 参数的 Dory1.0：共享的 20 层循环块可重复调用，同一个权重按需多算几轮换精度，无需重训或换模型；推理在潜空间里「多想」，输出 token 更少。支持只缓存最后一轮 KV，显存不随循环数增长；原生 NVFP4 预训练，提供 BF16/MXFP8/NVFP4/GGUF 版本，可商用。",
+   "links": [
+    "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-NVFP4",
+    "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-GGUF",
+    "https://news.ycombinator.com/item?id=50127850"
+   ],
+   "topic": "nvidia-nemotron-labs-dory1-looped-4b-2026-10",
+   "firstSeen": "2026-10-17T12:24:29+08:00"
   }
  ],
- "lastChecked": "2026-10-17T12:15:40+08:00"
+ "lastChecked": "2026-10-17T12:24:29+08:00"
 }
