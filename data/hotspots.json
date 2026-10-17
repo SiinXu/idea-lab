@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T08:26:01+08:00",
+ "lastUpdated": "2026-10-17T08:43:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15457,7 +15457,28 @@
    ],
    "topic": "neodradynamics-neo1-hydraulic-humanoid-ciif-2026-10",
    "firstSeen": "2026-10-17T08:26:01+08:00"
+  },
+  {
+   "id": "248d3aa608",
+   "title": "Anthropic 内部就业报告：初级技术岗招聘占比从 27% 跌到 9%",
+   "summary": "官方报告称到 2026 年 8 月，交互式 Agent 工时已是员工的约 6 倍；初级技术岗员工占比从 21% 降到 14%，招聘占比从 27% 降到 9%。人变成注意力瓶颈，越来越多做「管 Claude」的元工作。",
+   "links": [
+    "https://www.anthropic.com/research/employment-at-anthropic",
+    "https://www.anthropic.com/research/expectations-for-the-future"
+   ],
+   "topic": "anthropic-employment-junior-hiring-agents-2026-10",
+   "firstSeen": "2026-10-17T08:43:45+08:00"
+  },
+  {
+   "id": "0eafad4eca",
+   "title": "Anthropic 提议公开实验室内 AI 研发节奏三项指标",
+   "summary": "包括：AI 主导多少 AI R&D（约 26% 达「AI leads」）、Agent 监管覆盖/延迟/升级率（约 3 万内部 Agent）、算力里安全研究占比（AI R&D 中约 6%）。意在让外界看清实验室内进度。",
+   "links": [
+    "https://www.anthropic.com/institute/measuring-pace-of-ai-development"
+   ],
+   "topic": "anthropic-measuring-pace-ai-development-2026-10",
+   "firstSeen": "2026-10-17T08:43:45+08:00"
   }
  ],
- "lastChecked": "2026-10-17T08:26:01+08:00"
+ "lastChecked": "2026-10-17T08:43:45+08:00"
 }
