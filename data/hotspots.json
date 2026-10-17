@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T12:46:56+08:00",
+ "lastUpdated": "2026-10-17T12:56:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15858,7 +15858,19 @@
    ],
    "topic": "vercel-labs-tsc-ts-scriptc-2026-10",
    "firstSeen": "2026-10-17T12:46:56+08:00"
+  },
+  {
+   "id": "1a9e58b209",
+   "title": "独立开发者指控 Steam 出现「AI 克隆」同名钓鱼游戏，对方晒 SteamDB 记录反驳",
+   "summary": "独立开发者 Nika（@nixkatv）10 月 16 日发帖称，自己做了数月的合作钓鱼游戏《Fish with Friends》在 Steam 上冒出「用生成式 AI 做的一模一样的复刻」，连名字和画风都相同，帖子约 31 万浏览、5600 多赞。被点名的 Lake Country Games 随后公开证据：SteamDB 10 月 5 日就收录其同名游戏（App ID 5393000），早于另一款 10 月 6 日收录的作品，并附上取名过程记录。据 X 热点汇总，Nika 之后道歉并撤回公开指控。事件折射独立开发者对 AI 快速仿制的焦虑，也引发呼声要 Steam 加强同名和查重审核。",
+   "links": [
+    "https://x.com/nixkatv/status/2111138082233913624",
+    "https://x.com/LakeCountryGame/status/2111234941425959117",
+    "https://x.com/i/trending/2111283204510638181"
+   ],
+   "topic": "steam-fish-with-friends-ai-clone-dispute-2026-10",
+   "firstSeen": "2026-10-17T12:56:57+08:00"
   }
  ],
- "lastChecked": "2026-10-17T12:46:56+08:00"
+ "lastChecked": "2026-10-17T12:56:57+08:00"
 }
