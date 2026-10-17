@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T11:31:06+08:00",
+ "lastUpdated": "2026-10-17T11:47:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15799,7 +15799,30 @@
    ],
    "topic": "konami-hayakawa-ai-game-market-2026-10",
    "firstSeen": "2026-10-17T11:31:06+08:00"
+  },
+  {
+   "id": "f46c6b2f04",
+   "title": "Grok Bot 模板市场带火 Haggle Bot：自动盘点 SaaS 开支、起草砍价回复",
+   "summary": "Grok Bot Marketplace 里一批现成 AI 队友模板在 X 上被热传，最受关注的是 Haggle Bot：它会盘点企业 SaaS 和供应商开支，找出闲置席位、重复订阅和更便宜的替代品，再起草给供应商的砍价回复，花钱、签约、发送都要人工确认。官方称内部首周省下超过 10 万美元，马斯克相关帖文引发「一人公司用 Agent 团队降本」的讨论。",
+   "links": [
+    "https://x.com/i/trending/2110732846352544080",
+    "https://x.com/brunocordista/status/2111152650934944240",
+    "https://x.com/grok/status/2111162777783910707"
+   ],
+   "topic": "grok-bot-marketplace-haggle-bot-2026-10",
+   "firstSeen": "2026-10-17T11:47:44+08:00"
+  },
+  {
+   "id": "74e3b3459a",
+   "title": "传记作家艾萨克森：乔布斯会讨厌「自主行动」的 Agent 式 AI",
+   "summary": "Walter Isaacson 10 月 16 日做客 TBPN 节目时表示，能独立行动的 Agent 式 AI 偏离了乔布斯「让机器放大人的创造力」的理念，他更看重人对技术的掌控。言论在 X 上引发争论：有人认为乔布斯会全力拥抱 AI，也有人认为他会把它挡在苹果门外。",
+   "links": [
+    "https://x.com/i/trending/2111294296498286618",
+    "https://x.com/tbpn/status/2111154692206350583"
+   ],
+   "topic": "isaacson-jobs-agentic-ai-tbpn-2026-10",
+   "firstSeen": "2026-10-17T11:47:44+08:00"
   }
  ],
- "lastChecked": "2026-10-17T11:31:06+08:00"
+ "lastChecked": "2026-10-17T11:47:44+08:00"
 }
