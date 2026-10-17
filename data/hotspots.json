@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T09:59:54+08:00",
+ "lastUpdated": "2026-10-17T10:17:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15600,7 +15600,42 @@
    ],
    "topic": "analogue-super-nt-plus-mega-sg-plus-2026-10",
    "firstSeen": "2026-10-17T09:59:54+08:00"
+  },
+  {
+   "id": "7a035323b7",
+   "title": "Plex2Shell：Plex Media Server 未认证 RCE 链公开（CVE-2026-96652/54/55/56）",
+   "summary": "研究员公开 Plex2Shell：从 /player/timeline 假 token SSRF 到 loopback 插件 API，再到窃取 owner token、经 transcoder dump-yuv 写入 .so 并 dlopen 执行；影响约 1.43.3.10828 及更早，请升级到 1.43.3.10861+。披露帖与 PoC 已上 X/HN。",
+   "links": [
+    "https://zmain.info/blog/plex2shell",
+    "https://github.com/code-zm/plex2shell",
+    "https://x.com/zm_0x/status/2111138023543108005",
+    "https://forums.plex.tv/t/important-security-update-for-plex-media-server-v1-43-2-and-earlier/942319"
+   ],
+   "topic": "plex2shell-unauth-rce-cve-2026-96656",
+   "firstSeen": "2026-10-17T10:17:39+08:00"
+  },
+  {
+   "id": "873d82f280",
+   "title": "佛罗里达车管所数据泄露：司机驾照与证件影像或遭访问",
+   "summary": "FLHSMV 通报 9 月 4 日遭国际黑客组织入侵：攻击者用当地执法人员设备上的凭证进入系统，可能访问驾照/机动车信息与证件影像；已止血，尚无滥用证据，将邮寄通知并提供一年信用监控。",
+   "links": [
+    "https://www.flhsmv.gov/DataBreach",
+    "https://x.com/i/trending/2111259210340278382"
+   ],
+   "topic": "florida-flhsmv-dmv-breach-2026-09",
+   "firstSeen": "2026-10-17T10:17:39+08:00"
+  },
+  {
+   "id": "066acf8d29",
+   "title": "FT：Anthropic 向 Blackstone 开出超 10% 收益率，推进约 600 亿美元芯片融资",
+   "summary": "报道称 Anthropic 最新芯片融资包约 600 亿美元；Blackstone 或认购约 90 亿美元初级债，由五年期芯片租赁付款托底，收益率超过 10%。显示 AI 算力债务成本与风险分层正在抬高。",
+   "links": [
+    "https://www.channelnewsasia.com/business/anthropic-offers-blackstone-double-digit-yield-in-chip-financing-deal-ft-reports-6467711",
+    "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89"
+   ],
+   "topic": "anthropic-blackstone-chip-debt-yield-2026-10",
+   "firstSeen": "2026-10-17T10:17:39+08:00"
   }
  ],
- "lastChecked": "2026-10-17T09:59:54+08:00"
+ "lastChecked": "2026-10-17T10:17:39+08:00"
 }
