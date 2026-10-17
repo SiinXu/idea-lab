@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T10:47:19+08:00",
+ "lastUpdated": "2026-10-17T10:55:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15702,7 +15702,58 @@
    ],
    "topic": "harvard-jellyfish-ai-agents-pr-review-bottleneck-2026-10",
    "firstSeen": "2026-10-17T10:47:19+08:00"
+  },
+  {
+   "id": "8a70427187",
+   "title": "Microsoft StudentSim：用个性化「模拟学生」先测 AI 家教",
+   "summary": "微软研究院用去标识化学习记录训练个性化学生模拟器，在下棋、二语写作和数学上评估行为保真与辅导响应；可在真人试验前给 AI 家教提供可扩展反馈，并非常教室产品。",
+   "links": [
+    "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+    "https://arxiv.org/abs/2609.01591"
+   ],
+   "topic": "ms-studentsim-ai-tutoring-2026-10",
+   "firstSeen": "2026-10-17T10:55:57+08:00"
+  },
+  {
+   "id": "fc11f393f9",
+   "title": "OpenRouter Armor：用自然语言规则拦截 Agent 工具调用",
+   "summary": "OpenRouter 上线 beta 安全分类器 Armor，在执行前对照硬拒绝/软拒绝/允许规则审查每次工具调用；可接 Claude Code 自动权限，并基于 TypeSafe Jev 做意图感知判定。",
+   "links": [
+    "https://openrouter.ai/docs/guides/features/plugins/armor"
+   ],
+   "topic": "openrouter-armor-tool-guard-2026-10",
+   "firstSeen": "2026-10-17T10:55:57+08:00"
+  },
+  {
+   "id": "820bd24a41",
+   "title": "Mistral Large 4（Le Chonk）预览：万亿参数开权重将至",
+   "summary": "Mistral 发布 Large 4 公共预览：约 1 万亿参数、约 52B 激活的原生多模态 MoE，欧洲自建机房训练；Studio 可试 API，权重预计本月底开源，强调网络安全与主权部署。",
+   "links": [
+    "https://mistral.ai/news/mistral-large-4/"
+   ],
+   "topic": "mistral-large-4-le-chonk-2026-10",
+   "firstSeen": "2026-10-17T10:55:57+08:00"
+  },
+  {
+   "id": "5f2dc703f3",
+   "title": "Mysten Labs：Kevin Boon 任 CEO，Evan Cheng 领 AI 业务部",
+   "summary": "Sui 背后公司正式设立 AI 业务部做 Agent 可信交互；联合创始人 Evan Cheng 专任 CTO 兼管 AI，原总裁 Kevin Boon 接任 CEO，并继续与 Google Cloud 推进可验证 Agent 仲裁。",
+   "links": [
+    "https://www.mystenlabs.com/blog/letters-from-the-ceo"
+   ],
+   "topic": "mysten-kevin-boon-ceo-ai-bu-2026-10",
+   "firstSeen": "2026-10-17T10:55:57+08:00"
+  },
+  {
+   "id": "5a4c85ab65",
+   "title": "北大×三星 RealtimeBench：慢模型离线带快模型打实时游戏",
+   "summary": "论文提出实时游戏基准与 TORSI：慢教师在暂停局里复盘失败并写可复用指令，快学生直播时不调教师；两轮后 Jev 均分从 13.51 提到 24.19，指令还能迁移到其他模型。",
+   "links": [
+    "https://arxiv.org/abs/2610.20665"
+   ],
+   "topic": "pku-samsung-realtimebench-torsi-2026-10",
+   "firstSeen": "2026-10-17T10:55:57+08:00"
   }
  ],
- "lastChecked": "2026-10-17T10:47:19+08:00"
+ "lastChecked": "2026-10-17T10:55:57+08:00"
 }
