@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T09:33:34+08:00",
+ "lastUpdated": "2026-10-17T09:42:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15565,7 +15565,29 @@
    ],
    "topic": "google-ai-news-program-400-pubs-2026-10",
    "firstSeen": "2026-10-17T09:33:34+08:00"
+  },
+  {
+   "id": "9e75f3693c",
+   "title": "fzf 作者：在 tmux 里给 Claude Code / Codex 补上模糊补全",
+   "summary": "Agent 占满提示符后，shell 的 CTRL-T 等绑定失效；junegunn 写了用 tmux 浮动窗跑 fzf 的做法，可把文件路径、提交哈希、屏幕上的路径/句子插回 Agent 提示。tmux-fzf-complete 与 fzf-git.sh 已配套。",
+   "links": [
+    "https://junegunn.github.io/fzf/tips/using-fzf-with-ai-agents/",
+    "https://news.ycombinator.com/item?id=50126880"
+   ],
+   "topic": "fzf-tmux-ai-agents-2026-10",
+   "firstSeen": "2026-10-17T09:42:34+08:00"
+  },
+  {
+   "id": "9be94b8069",
+   "title": "Neo4j Browser 仓库更新：旧版浏览器进入 sunset",
+   "summary": "neo4j-browser 仓库提交更新 README，标明旧版浏览器进入 sunset；HN 上有人解读为又一次「安静关源」动作，开源治理争议再起。",
+   "links": [
+    "https://github.com/neo4j/neo4j-browser/commit/100090cff0d1ec2b07af164c660d49ed553d420a",
+    "https://news.ycombinator.com/item?id=50126491"
+   ],
+   "topic": "neo4j-browser-sunset-2026-10",
+   "firstSeen": "2026-10-17T09:42:34+08:00"
   }
  ],
- "lastChecked": "2026-10-17T09:33:34+08:00"
+ "lastChecked": "2026-10-17T09:42:34+08:00"
 }
