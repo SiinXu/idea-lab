@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T08:43:45+08:00",
+ "lastUpdated": "2026-10-17T09:10:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15478,7 +15478,62 @@
    ],
    "topic": "anthropic-measuring-pace-ai-development-2026-10",
    "firstSeen": "2026-10-17T08:43:45+08:00"
+  },
+  {
+   "id": "62ee70e9d3",
+   "title": "EnvHarness：给环境也加 harness，静态基准能跟着 Agent 一起进化",
+   "summary": "谷歌云 AI Research 开源 EnvHarness：不改任务与验证器，只通过 reset/step 外包一层，按策略弱点自动改环境状态/规则/观测；SWE-bench 等多项基准上，学到的技能优于原环境。",
+   "links": [
+    "https://envharness.com/",
+    "https://arxiv.org/abs/2608.19880",
+    "https://github.com/google-research/envharness"
+   ],
+   "topic": "google-envharness-agent-env-2026-10",
+   "firstSeen": "2026-10-17T09:10:32+08:00"
+  },
+  {
+   "id": "c77121d526",
+   "title": "汉堡王日本 App 泄露约 1118 万会员资料",
+   "summary": "10 月 2–7 日官方 App 会员库被未授权访问，约 1118 万条姓名/生日/邮箱/手机号/订单史外泄；未存信用卡、未见密码被取。公司已报 PPC 并提醒防钓鱼。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+    "https://x.com/i/trending/2110659767169601607"
+   ],
+   "topic": "burger-king-japan-app-breach-11m-2026-10",
+   "firstSeen": "2026-10-17T09:10:32+08:00"
+  },
+  {
+   "id": "729ec0d182",
+   "title": "Python 二进制 wheel：源码干净、二进制投毒的供应链盲区",
+   "summary": "PyPI 预编译 wheel 可不匹配源码；多数扫描只看源码 AST，二进制植入更难发现。作者建议关键编译依赖、慎装最新包，预示此类攻击会变常见。",
+   "links": [
+    "https://rushter.com/blog/python-binary-wheels/",
+    "https://news.ycombinator.com/item?id=50126420"
+   ],
+   "topic": "python-binary-wheels-supply-chain-2026-10",
+   "firstSeen": "2026-10-17T09:10:32+08:00"
+  },
+  {
+   "id": "4951d05f29",
+   "title": "xscreensaver-official：官方 GitHub 仓？描述写着「没有官方仓」",
+   "summary": "新仓一天内数百星，首页写「不存在官方 XScreenSaver GitHub」——调侃/镜像属性拉高热度，也提醒开源项目被冒充镜像的风险。",
+   "links": [
+    "https://github.com/xscreensaver-official/xscreensaver",
+    "https://news.ycombinator.com/item?id=50126100"
+   ],
+   "topic": "xscreensaver-official-github-hoax-2026-10",
+   "firstSeen": "2026-10-17T09:10:32+08:00"
+  },
+  {
+   "id": "f6042d12a6",
+   "title": "Waymo 官方博客：多伦多铺路，目标 2028 年上车",
+   "summary": "Waymo 确认进军加拿大首城多伦多：先人工开车测绘，与 Element Fleet 合作；目标 2028 年接客，并称全自动驾驶里程相对人类严重伤亡事故少约 95%。",
+   "links": [
+    "https://waymo.com/blog/2026/10/waymo-in-toronto"
+   ],
+   "topic": "waymo-official-blog-toronto-2026-10",
+   "firstSeen": "2026-10-17T09:10:32+08:00"
   }
  ],
- "lastChecked": "2026-10-17T08:43:45+08:00"
+ "lastChecked": "2026-10-17T09:10:32+08:00"
 }
