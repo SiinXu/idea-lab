@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T10:34:47+08:00",
+ "lastUpdated": "2026-10-17T10:47:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15666,7 +15666,43 @@
    ],
    "topic": "itau-openai-iai-iara-2026-10",
    "firstSeen": "2026-10-17T10:34:47+08:00"
+  },
+  {
+   "id": "cbec16604c",
+   "title": "MapQuest 上线监控图层：标出 Flock 等车牌识别与户外监控摄像头",
+   "summary": "地图选项新增 Surveillance 图层，显示 Flock、Motorola Vigilant、Axon、Verkada 等已知户外监控与 ALPR 位置，与路况图层并列；覆盖靠众包，不保证全量。",
+   "links": [
+    "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
+    "https://www.theverge.com/tech/1012989/mapquest-says-its-new-surveillance-layer-can-help-you-spot-flock-cameras",
+    "https://news.ycombinator.com/item?id=50127342"
+   ],
+   "topic": "mapquest-surveillance-flock-layer-2026-10",
+   "firstSeen": "2026-10-17T10:47:19+08:00"
+  },
+  {
+   "id": "ede4aabff5",
+   "title": "美银 Raedler：AI 资本开支正走经典繁荣—过剩剧本，远期预期已近 1 万亿美元",
+   "summary": "BofA 策略师称云巨头 12 个月远期 CapEx 共识从约 3300 亿升至约 1 万亿美元（约合美国 GDP 的 3%）；模型层竞争加剧、token 均价自夏季跌约五成，Ramp 显示企业 AI 支出略回落。他警告多数历史资本周期以失望收场，即便技术本身兑现。",
+   "links": [
+    "https://finance.yahoo.com/technology/ai/articles/ai-avoid-boom-bust-fate-105651597.html",
+    "https://www.investing.com/news/stock-market-news/can-ai-avoid-the-boomandbust-fate-of-past-capital-cycles-bofa-weighs-in-4953613",
+    "https://x.com/i/trending/2111163523803885953"
+   ],
+   "topic": "bofa-raedler-ai-capex-capital-cycle-2026-10",
+   "firstSeen": "2026-10-17T10:47:19+08:00"
+  },
+  {
+   "id": "c12d78f0e5",
+   "title": "哈佛研究：718 家公司上 AI 编码 Agent 后，PR 合并反而慢了约 49%",
+   "summary": "Chen/Stratton 用 Jellyfish 数据发现：Agent 提高代码产出，但平均 PR→合并从约 7.0 天升至约 10.5 天；评审更常要求修改、评论更多。瓶颈从「写代码」转到「人审代码」，净交付软件未必增加。",
+   "links": [
+    "https://fion.ac/jellyfish.pdf",
+    "https://www.techradar.com/pro/ai-agents-are-great-at-writing-new-code-but-then-the-human-bottleneck-slows-everything-down",
+    "https://sxz.io/harvard-718-firm-study-ai-coding-agents-code-review-queue/"
+   ],
+   "topic": "harvard-jellyfish-ai-agents-pr-review-bottleneck-2026-10",
+   "firstSeen": "2026-10-17T10:47:19+08:00"
   }
  ],
- "lastChecked": "2026-10-17T10:34:47+08:00"
+ "lastChecked": "2026-10-17T10:47:19+08:00"
 }
