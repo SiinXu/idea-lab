@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T11:17:09+08:00",
+ "lastUpdated": "2026-10-17T11:31:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15787,7 +15787,19 @@
    ],
    "topic": "jshook-mcp-reverse-engineering-agents-2026-10",
    "firstSeen": "2026-10-17T11:17:09+08:00"
+  },
+  {
+   "id": "26a071756e",
+   "title": "科乐美社长早川英樹：AI 不会大幅改变游戏市场，关键仍是「人」",
+   "summary": "科乐美 2026 统合报告中，早川英樹称通用引擎和 UGC 早已拉低入行门槛，AI 提效也替代不了创作者团队之间的「化学反应」；公司会设部门研究新技术，帮创作者评估风险后再用。言论在 X 上引发热议，正值 AI 做游戏、vibe coding 争议升温。",
+   "links": [
+    "https://automaton-media.com/en/news/konami-president-hayakawa-believes-ai-wont-bring-a-significant-change-to-the-game-market-humans-and-creators-are-crucial-for-developing/",
+    "https://dengekionline.com/article/202610/91129",
+    "https://www.gamesradar.com/games/konami-president-says-ai-wont-have-a-significant-effect-on-game-dev-and-if-it-does-people-and-creators-will-always-be-more-important/"
+   ],
+   "topic": "konami-hayakawa-ai-game-market-2026-10",
+   "firstSeen": "2026-10-17T11:31:06+08:00"
   }
  ],
- "lastChecked": "2026-10-17T11:17:09+08:00"
+ "lastChecked": "2026-10-17T11:31:06+08:00"
 }
