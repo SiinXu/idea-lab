@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T13:49:31+08:00",
+ "lastUpdated": "2026-10-17T13:53:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15965,7 +15965,28 @@
    ],
    "topic": "ai-imitation-vs-intelligence-debate-2026-10-17",
    "firstSeen": "2026-10-17T13:49:31+08:00"
+  },
+  {
+   "id": "48dae43a83",
+   "title": "开发者用 Claude Opus 5.5 做出 3D 野火实时看板，获 Anthropic 点名展示",
+   "summary": "开发者 Dilum Sanjaya 用 Claude Opus 5.5 搭了一个 3D 野火看板，可实时映射火势蔓延、追踪热点，被 Anthropic 列为用户精选作品之一。X 上同期还在晒用 Opus 5.5 快速做的城市建造模拟、代码仪表盘等原型；也有人指出它在长程推理上仍有提升空间。对独立开发者而言，「公共数据 + 3D 可视化看板」是可快速复刻的作品集/流量方向。",
+   "links": [
+    "https://x.com/i/trending/2110949009468846341"
+   ],
+   "topic": "opus55-wildfire-3d-dashboard-2026-10",
+   "firstSeen": "2026-10-17T13:53:26+08:00"
+  },
+  {
+   "id": "baa4d1f3a6",
+   "title": "HN 热帖重读《沙丘》「巴特勒圣战」：AI 时代的反机器情绪被拿来对照现实",
+   "summary": "Hacker News 上一条指向《沙丘》设定「巴特勒圣战」（人类起义摧毁思考机器）的帖子数小时内冲到约 150 分。评论区把它和当下 AI 热潮对照：有人设想拍成「平民推翻靠机器维持统治的阶层」的电影，有人担忧广泛使用 AI 对人脑能力的长期影响，也有人拿《文明》系列、Gene Wolfe 小说里的 AI 设定做比较。反映出开发者圈对 AI 依赖与权力集中的情绪在升温。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50127274",
+    "https://dune.fandom.com/wiki/Butlerian_Jihad"
+   ],
+   "topic": "hn-butlerian-jihad-2026-10",
+   "firstSeen": "2026-10-17T13:53:26+08:00"
   }
  ],
- "lastChecked": "2026-10-17T13:49:31+08:00"
+ "lastChecked": "2026-10-17T13:53:26+08:00"
 }
