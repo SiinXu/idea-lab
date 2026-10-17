@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T09:42:34+08:00",
+ "lastUpdated": "2026-10-17T09:59:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15587,7 +15587,20 @@
    ],
    "topic": "neo4j-browser-sunset-2026-10",
    "firstSeen": "2026-10-17T09:42:34+08:00"
+  },
+  {
+   "id": "0d8b3b4985",
+   "title": "Analogue 推出 Super Nt+ / Mega Sg+：蓝牙无线 + USB-C 的 FPGA 复刻机",
+   "summary": "Analogue 发布 Super Nt+ 与 Mega Sg+，在原有 FPGA 无模拟方案上加入蓝牙/2.4G 无线手柄、USB-C 供电与新工业设计；各 219.99 美元，10 月 19 日 8am PDT 预购，12 月发货。官方推文阅读量已超 700 万。",
+   "links": [
+    "https://www.analogue.co/super-nt",
+    "https://www.analogue.co/mega-sg",
+    "https://x.com/analogue/status/2111109925208576201",
+    "https://x.com/i/trending/2111182349803155839"
+   ],
+   "topic": "analogue-super-nt-plus-mega-sg-plus-2026-10",
+   "firstSeen": "2026-10-17T09:59:54+08:00"
   }
  ],
- "lastChecked": "2026-10-17T09:42:34+08:00"
+ "lastChecked": "2026-10-17T09:59:54+08:00"
 }
