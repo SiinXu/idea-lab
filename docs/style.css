@@ -55,3 +55,23 @@ dialog{border:0;padding:0;background:transparent;max-width:min(760px,94vw);width
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.card{opacity:1}}
 .card{display:flex;flex-direction:column}.card .ci{display:flex;flex-direction:column;height:100%}.card .bars{margin-top:auto}
 .more{display:inline-block;margin:10px 0 12px;font-size:13px;font-weight:600;color:var(--acc);text-decoration:none}.more:hover{text-decoration:underline}
+
+
+/* perf 2026-10-17: reserve hero copy box before sync i18n fills [data-i] (no English seed = no zh flash) */
+.hero h1{min-height:clamp(38px,7vw,80px)}
+.hero .sub{min-height:3.2em}
+.hero .stats{min-height:64px}
+
+/* perf 2026-10-17: reserve card grids before deferred data.js fills them (CLS). Counts match current sections. */
+#g-green:empty{min-height:calc(6 * 260px + 5 * 16px)}
+#g-cn:empty{min-height:calc(8 * 260px + 7 * 16px)} /* first viewport rows only; rest below fold */
+#g-today:empty,#g-week:empty{min-height:calc(8 * 260px + 7 * 16px)}
+#g-evergreen:empty{min-height:calc(6 * 260px + 5 * 16px)}
+#g-pb:empty{min-height:320px}
+#g-rk:empty{min-height:200px}
+@media(min-width:720px){
+  #g-green:empty{min-height:calc(2 * 260px + 16px)}
+  #g-cn:empty{min-height:calc(3 * 260px + 2 * 16px)}
+  #g-today:empty,#g-week:empty{min-height:calc(3 * 260px + 2 * 16px)}
+  #g-evergreen:empty{min-height:calc(3 * 260px + 2 * 16px)}
+}
