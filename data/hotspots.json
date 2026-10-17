@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T09:10:32+08:00",
+ "lastUpdated": "2026-10-17T09:33:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15533,7 +15533,39 @@
    ],
    "topic": "waymo-official-blog-toronto-2026-10",
    "firstSeen": "2026-10-17T09:10:32+08:00"
+  },
+  {
+   "id": "bc4ea3b1ed",
+   "title": "Agentics.credit：用链上成绩给 AI 交易 Agent 授信",
+   "summary": "Agentic Credit Score（ACS，300–850）综合纸面与真实链上表现，580 分以上可进融资候补；信用金只从平台钱包打到核准场所（首站 Avantis on Base），不碰用户钱包。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://agentics.credit/",
+    "https://x.com/i/trending/2111264304360042990"
+   ],
+   "topic": "agentics-credit-acs-2026-10",
+   "firstSeen": "2026-10-17T09:33:34+08:00"
+  },
+  {
+   "id": "18c2570929",
+   "title": "OpenAI Dot 代值夜班：工程师睡着也能让 Agent 先分诊告警",
+   "summary": "X 热议 OpenAI 工程师用 Dot（GPT-6 Astra 常驻 Agent）在手机上先处理凌晨 page、开调查线程；产品本身带云电脑与插件生态。与「一天烧掉 30 万 token」的用法讨论形成对照。",
+   "links": [
+    "https://x.com/i/trending/2111266734019899600",
+    "https://openai.com/index/introducing-dots/"
+   ],
+   "topic": "openai-dots-oncall-triage-2026-10",
+   "firstSeen": "2026-10-17T09:33:34+08:00"
+  },
+  {
+   "id": "38faa8ce53",
+   "title": "Google AI 新闻计划扩至全球 400+ 家媒体：CNN、FT、Axios 入局",
+   "summary": "路透社 10 月 17 日报道：Google 付费授权新闻内容用于生成式 AI 功能，并强调归因与外链；CNN 称是 Skydance 收购后首份合作。出版商在流量被答案页截留与版权诉讼夹缝中找商业化路径。",
+   "links": [
+    "https://www.manilatimes.net/2026/10/17/business/foreign-business/google-cnn-others-join-ai-news-program/2447442"
+   ],
+   "topic": "google-ai-news-program-400-pubs-2026-10",
+   "firstSeen": "2026-10-17T09:33:34+08:00"
   }
  ],
- "lastChecked": "2026-10-17T09:10:32+08:00"
+ "lastChecked": "2026-10-17T09:33:34+08:00"
 }
