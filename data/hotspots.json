@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T10:17:39+08:00",
+ "lastUpdated": "2026-10-17T10:34:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15635,7 +15635,38 @@
    ],
    "topic": "anthropic-blackstone-chip-debt-yield-2026-10",
    "firstSeen": "2026-10-17T10:17:39+08:00"
+  },
+  {
+   "id": "7d998d11cb",
+   "title": "Anthropic：两周把 claude.ai 提速约 3 倍，Claude 自己爬山找瓶颈",
+   "summary": "官方工程复盘：两周冲刺把首屏可输入等核心路径提速约 3 倍；用指令计数等可棘轮指标，让 Claude 在 Slack 里开线程持续优化，合入超 3000 改动且无客户侧事故。",
+   "links": [
+    "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+    "https://x.com/i/trending/2111278545146421293"
+   ],
+   "topic": "claude-ai-3x-faster-sprint-2026-10",
+   "firstSeen": "2026-10-17T10:34:47+08:00"
+  },
+  {
+   "id": "ba4e7337ab",
+   "title": "NVIDIA × AI4Bharat：2.8 万亿 token 印地语系预训练语料与开放数据管线",
+   "summary": "覆盖宪法 22 种印度语言（含原生与罗马化脚本），并开源 GPU 加速的翻译/质检/修复管线；Nemotron 3.5 Super VL 续训中已用其中约 100 亿 Indic token。",
+   "links": [
+    "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+   ],
+   "topic": "nvidia-indic-pretraining-2-8t-2026-10",
+   "firstSeen": "2026-10-17T10:34:47+08:00"
+  },
+  {
+   "id": "65442e7082",
+   "title": "Itaú：用 OpenAI 给全行客户上对话式金融助手 ia.i",
+   "summary": "巴西最大私银之一的案例：ia.i 文本/语音入口覆盖账户到投资建议，首期约 30 万客户、目标 2026 年底全量；内部 IARA 平台做多模型治理与法务文档规模化处理。",
+   "links": [
+    "https://openai.com/index/itau-generative-ai"
+   ],
+   "topic": "itau-openai-iai-iara-2026-10",
+   "firstSeen": "2026-10-17T10:34:47+08:00"
   }
  ],
- "lastChecked": "2026-10-17T10:17:39+08:00"
+ "lastChecked": "2026-10-17T10:34:47+08:00"
 }
