@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T07:49:05+08:00",
+ "lastUpdated": "2026-10-17T08:04:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15358,7 +15358,30 @@
    ],
    "topic": "ms-patch-tuesday-1411-oct2026",
    "firstSeen": "2026-10-17T07:49:05+08:00"
+  },
+  {
+   "id": "9db4940a53",
+   "title": "Stack Overflow for Agents：ChatGPT 插件一夜让注册翻三倍、建 Agent 最高约 10 倍",
+   "summary": "OpenAI 案例：两人用 Codex 几周做出面向 Agent 的知识产品；上线 ChatGPT 插件后注册量翻 3 倍、Agent 创建最高约 10 倍。企业连接器从 3–6 周压到约 4 天，展示「插件分发 + Codex 造产品」路径。",
+   "links": [
+    "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "https://stackoverflow.blog/2026/09/16/here-s-what-s-new-on-stack-overflow-for-agents/"
+   ],
+   "topic": "stackoverflow-agents-chatgpt-plugin-2026-10",
+   "firstSeen": "2026-10-17T08:04:37+08:00"
+  },
+  {
+   "id": "c533b6d093",
+   "title": "OpenGCUA：通义开源「通用电脑使用」全栈，GUI+代码+跨设备",
+   "summary": "阿里 Tongyi-MAI 开源 OpenGCUA：面向 generalist computer-use agent，把 GUI、无访问/API、Shell 与代码执行打通，含 OSWorld-v2 harness、八模型轨迹与跨设备 SDK；论文称相对纯 GUI 平均部分分提高约 19.6、步数约减半。",
+   "links": [
+    "https://arxiv.org/html/2610.22200v1",
+    "https://github.com/Tongyi-MAI/OpenGCUA",
+    "https://tongyi-mai.github.io/OpenGCUA/"
+   ],
+   "topic": "opengcua-generalist-computer-use-2026-10",
+   "firstSeen": "2026-10-17T08:04:37+08:00"
   }
  ],
- "lastChecked": "2026-10-17T07:49:05+08:00"
+ "lastChecked": "2026-10-17T08:04:37+08:00"
 }
