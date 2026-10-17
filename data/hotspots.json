@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T13:31:41+08:00",
+ "lastUpdated": "2026-10-17T13:49:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15943,7 +15943,29 @@
    ],
    "topic": "epgm-budgeted-agent-memory-2026-10",
    "firstSeen": "2026-10-17T13:31:41+08:00"
+  },
+  {
+   "id": "bd2d32e88a",
+   "title": "Tailscale 用西里尔字母「ж」当字段名：看着像指针星号，专防误改内部值",
+   "summary": "Tailscale 的 Go 源码 types/views 里，只读视图类型把底层可变值命名为西里尔字母「ж」：外形像指针的星号、又难以直接敲出来，注释写明「绝不能让调用方修改它」，靠 Go 的 Unicode 标识符支持做一道心理防线。X 上不少开发者称赞这个创意（被归到 Go 老将 Brad Fitzpatrick 名下），也有人认为用普通 ASCII 名加注释更利于可读性。",
+   "links": [
+    "https://github.com/tailscale/tailscale/blob/main/types/views/views.go",
+    "https://x.com/i/trending/2111166915653615832"
+   ],
+   "topic": "tailscale-cyrillic-zh-field-2026-10",
+   "firstSeen": "2026-10-17T13:49:31+08:00"
+  },
+  {
+   "id": "8c83be527b",
+   "title": "「AI 是史上最精巧的骗局」引战：支持者拿 Ghys 猜想证明与可解释性研究反驳",
+   "summary": "作家 Seth Harp 在 X 上称大模型只是模仿智能、靠炒作吸走投资人上万亿美元，引发大规模争论。反驳者举出中国研究者借助大模型协助证明三维 Ghys 猜想等人机合作攻克难题的例子，并引用可解释性研究称 Qwen-32B 中约九成神经元对应单一可读概念；怀疑者坚持这只是统计预测、不等于理解。同期 Gregory Kurtzer「大模型只是矩阵乘法」的帖子也把「AI 是否有意识」话题推上热榜。",
+   "links": [
+    "https://x.com/i/trending/2111250227243941984",
+    "https://x.com/i/trending/2111327081082790097"
+   ],
+   "topic": "ai-imitation-vs-intelligence-debate-2026-10-17",
+   "firstSeen": "2026-10-17T13:49:31+08:00"
   }
  ],
- "lastChecked": "2026-10-17T13:31:41+08:00"
+ "lastChecked": "2026-10-17T13:49:31+08:00"
 }
