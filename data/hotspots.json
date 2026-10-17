@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T12:24:29+08:00",
+ "lastUpdated": "2026-10-17T12:46:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15846,7 +15846,19 @@
    ],
    "topic": "nvidia-nemotron-labs-dory1-looped-4b-2026-10",
    "firstSeen": "2026-10-17T12:24:29+08:00"
+  },
+  {
+   "id": "4381fdce38",
+   "title": "Vercel Labs 开源 tsc-ts：把 Go 版 TypeScript 编译器移植回 TypeScript，原生编译后称快 2–4 倍",
+   "summary": "Vercel Labs 的 Chris Tate 10 月 17 日发布 tsc-ts：以 TypeScript 7.0.2（Go 版 tsgo）为蓝本，用 TypeScript 重写编译器，再用自家 scriptc 编译成原生可执行文件，官方称类型检查比 tsgo 快 2–4 倍。仓库标注为实验项目，扫描器、解析器、绑定器、模块解析和 JS 输出等在约 1.25 万个测试文件上与 tsgo 结果逐项对齐，可 npm 安装试用。原帖近 6 万浏览，开发者热议「语言本身并不决定编译器性能」，以及 bun、ts-rust 等多个移植版并起的「大移植时代」。",
+   "links": [
+    "https://github.com/vercel-labs/tsc-ts",
+    "https://x.com/ctatedev/status/2111272070768185787",
+    "https://x.com/i/trending/2111309078626500683"
+   ],
+   "topic": "vercel-labs-tsc-ts-scriptc-2026-10",
+   "firstSeen": "2026-10-17T12:46:56+08:00"
   }
  ],
- "lastChecked": "2026-10-17T12:24:29+08:00"
+ "lastChecked": "2026-10-17T12:46:56+08:00"
 }
