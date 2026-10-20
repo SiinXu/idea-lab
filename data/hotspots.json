@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T01:02:15+08:00",
+ "lastUpdated": "2026-10-21T01:10:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16505,7 +16505,19 @@
    ],
    "topic": "torchtpu-torchneuron-pytorch-conference-2026-10",
    "firstSeen": "2026-10-21T01:02:15+08:00"
+  },
+  {
+   "id": "e3a8ad8db8",
+   "title": "首个 AI 设计的噬菌体疗法用上真人：Radical Numerics 发布生物大模型 Omnii-1",
+   "summary": "10 月 20 日，Evo / Evo 2 原班人马创办的 Radical Numerics 发布多模态基因组语言模型 Omnii-1，把 DNA、RNA、蛋白质、表观信号等 28 类生物数据转成统一表示来训练。团队用它在数周内为一名耐药菌感染患者设计噬菌体变体，含 AI 设计噬菌体的「鸡尾酒」在实验室里清除了患者的耐药菌株，随后经医生主导的同情用药（compassionate use）通道给药，号称全球首例 AI 生成噬菌体进入人体。公司未公开患者疗效，并强调单个病例不能证明安全或有效。发布时还演示了个性化癌症疫苗设计、罕见病致病基因定位、AI 生成病原体检测等 8 个应用；纽约时报同日报道，X 上热议「从找药变成为个人设计药」。",
+   "links": [
+    "https://www.radicalnumerics.ai/blog/omnii-phage",
+    "https://www.businesswire.com/news/home/20261020333491/en/Radical-Numerics-Launches-Omnii-1-a-New-Generation-of-Biological-AI-as-First-AI-Designed-Phage-Therapy-Reaches-Human-Patient",
+    "https://x.com/i/trending/2112588449891111396"
+   ],
+   "topic": "radical-numerics-omnii-1-ai-phage-2026-10",
+   "firstSeen": "2026-10-21T01:10:19+08:00"
   }
  ],
- "lastChecked": "2026-10-21T01:02:15+08:00"
+ "lastChecked": "2026-10-21T01:10:19+08:00"
 }
