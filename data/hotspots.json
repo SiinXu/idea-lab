@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T02:46:47+08:00",
+ "lastUpdated": "2026-10-21T02:58:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16718,7 +16718,32 @@
    ],
    "topic": "general-compute-positron-atlas-inference-2026-10",
    "firstSeen": "2026-10-21T02:46:47+08:00"
+  },
+  {
+   "id": "0a5972b709",
+   "title": "前英伟达研究员创办 Dream Labs 出道：机器人大模型 Dream-1 零样本控制没见过的机器人，API 每小时 3 美元",
+   "summary": "旧金山初创公司 Dream Labs 10 月 20 日结束隐身，宣布获得 9000 万美元种子轮，并通过公开 API 发布 Dream-1。官方称这是一个「世界动作模型」：接上一台从未见过的双臂平行夹爪机器人，无需微调和示范数据就能执行没训练过的任务。Dream-1 每小时 3 美元，轻量版 Dream-1-flash 每小时 2 美元，每次调用返回 1.6 秒的动作；提供 pip 安装的 Python 客户端、dreamcli 命令行和微调服务，鼓励个人「找到有人愿意付钱的任务、采点数据、微调后部署」。官方提示目前仍是研究测试版，未验证安全关键场景。",
+   "links": [
+    "https://dreamlabs.ai/research/dream-1/",
+    "https://pypi.org/project/dreamlabs/",
+    "https://x.com/i/trending/2112248553150251388"
+   ],
+   "topic": "dream-labs-dream-1-robot-api-2026-10",
+   "firstSeen": "2026-10-21T02:58:27+08:00"
+  },
+  {
+   "id": "04b909dd40",
+   "title": "AI Agent 沙箱云 Daytona 获 6000 万美元 B 轮成独角兽：60 毫秒开一台虚拟机，收入 9 个月涨 25 倍",
+   "summary": "10 月 20 日，为 AI Agent 提供隔离运行环境的 Daytona 宣布完成 6000 万美元 B 轮融资，估值 10 亿美元，FirstMark 领投，Stripe 的 Patrick Collison、Shopify 的 Tobi Lütke、Perplexity 的 Aravind Srinivas 等创始人跟投，累计融资约 9100 万美元。CEO Ivan Burazin 对 Fortune 表示，公司收入年化规模从 1 月到 9 月增长 25 倍，客户包括 Anthropic、OpenAI、英伟达、Cursor、Cognition 和 Meta；靠预先分发机器快照，新沙箱可在约 60 毫秒内就绪。Agent 专用基础设施正成为模型之外的新投资热点。",
+   "links": [
+    "https://www.daytona.io/dotfiles/daytona-raises-60m-series-b-to-build-the-agent-cloud",
+    "https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/",
+    "https://tech.eu/2026/10/20/daytona-hits-1b-valuation-with-60m-series-b-for-ai-agent-cloud/",
+    "https://x.com/i/trending/2112563670018371646"
+   ],
+   "topic": "daytona-series-b-1b-agent-cloud-2026-10",
+   "firstSeen": "2026-10-21T02:58:27+08:00"
   }
  ],
- "lastChecked": "2026-10-21T02:46:47+08:00"
+ "lastChecked": "2026-10-21T02:58:27+08:00"
 }
