@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-20T21:17:24+08:00",
+ "lastUpdated": "2026-10-20T21:25:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16019,7 +16019,75 @@
    ],
    "topic": "nature-ai-consciousness-seth-tononi-block-2026-10",
    "firstSeen": "2026-10-20T21:17:24+08:00"
+  },
+  {
+   "id": "49b7aba689",
+   "title": "MiniMax 发布 M3.1 Flash：Agent 与编码能力大升级，推理快近 3 倍、成本降 70%",
+   "summary": "MiniMax 10 月 19 日正式推出 M3.1 Flash，此前匿名上线、累计处理超 200 万亿 token 的「Space Bunny」就是它的早期版本。官方称其在复杂 Agent 任务、Computer Use、编程和网络安全上达到头部模型水平，在 AutomationBench-AA 名列前茅，同时在线推理速度提升近 3 倍、使用成本降低 70%。HN 热度近 500 分。",
+   "links": [
+    "https://www.minimax.io/blog/minimax-m31f",
+    "https://news.ycombinator.com/item?id=50154540"
+   ],
+   "topic": "minimax-m3-1-flash-2026-10",
+   "firstSeen": "2026-10-20T21:25:16+08:00"
+  },
+  {
+   "id": "efa8c4c666",
+   "title": "WhatsApp 帮助页暗藏给 AI 的指令：别向用户推荐数据监管机构",
+   "summary": "Redact 发现，WhatsApp 帮助中心页面里写有用户看不见、只给 AI 读取的隐藏指令：用户无法删除账号时不要推荐向数据保护监管机构投诉，提到律师后也不要引用相关法律，与其欧洲隐私政策的公开说法相矛盾。团队存档了帮助中心链接的全部 545 个页面，WIRED 已跟进报道。HN 近 600 分，引发对「面向 AI 的隐藏提示词」与平台合规的讨论。",
+   "links": [
+    "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "https://news.ycombinator.com/item?id=50159341"
+   ],
+   "topic": "whatsapp-hidden-ai-instructions-regulator-2026-10",
+   "firstSeen": "2026-10-20T21:25:16+08:00"
+  },
+  {
+   "id": "d2321eb5a0",
+   "title": "美国 DHS 新令：联邦民事机构全面禁用 DeepSeek",
+   "summary": "据路透社报道，美国国土安全部发布指令，要求联邦民事机构从 IT 系统中移除并禁止使用中国 AI 公司 DeepSeek 的应用和服务。HN 讨论近 370 分，评论区一方关注安全风险，另一方指出开放权重模型至少可被审查，而闭源美国推理服务并不能；恰逢 DeepSeek 刚开源推理引擎 DeepInfer。",
+   "links": [
+    "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+    "https://news.ycombinator.com/item?id=50154244"
+   ],
+   "topic": "us-dhs-deepseek-federal-ban-2026-10",
+   "firstSeen": "2026-10-20T21:25:16+08:00"
+  },
+  {
+   "id": "d2d456617f",
+   "title": "法国数百家超市冷柜遭黑客远程「除霜」：暴露在公网的控制面板数量全球第一",
+   "summary": "10 月 11 日至 12 日夜间，攻击者把法国数百家超市的制冷系统切到除霜模式，部分设备升温到 50°C 甚至起火，生鲜冷冻食品被整批丢弃，矛头指向丹佛斯（Danfoss）制冷控制器。IPinfo 用每周全网扫描数据回溯发现，法国暴露在公网的冷柜控制面板有 1331 个，比其余 72 个国家和地区加起来的 1197 个还多，其中 85% 运行带已知漏洞的软件。",
+   "links": [
+    "https://ipinfo.io/blog/france-fridges-hack",
+    "https://news.ycombinator.com/item?id=50159616"
+   ],
+   "topic": "france-supermarket-fridges-danfoss-hack-2026-10",
+   "firstSeen": "2026-10-20T21:25:16+08:00"
+  },
+  {
+   "id": "662456b4b3",
+   "title": "OpenBSD 8.0 发布，Wine 同时被移植到 OpenBSD",
+   "summary": "OpenBSD 于 10 月 20 日发布第 61 个版本 8.0：amd64 内核虚拟地址空间从 4G 扩到 512G、arm64 支持休眠、交换区加密改用 AES 指令加速，图形驱动同步到 Linux 6.18。同一天 Wine 移植到 OpenBSD 的消息在 HN 拿到近 600 分，意味着 Windows 程序可以在 OpenBSD 上运行。",
+   "links": [
+    "https://www.openbsd.org/80.html",
+    "https://news.ycombinator.com/item?id=50160494",
+    "https://marc.info/?l=openbsd-ports&m=179236125692175",
+    "https://news.ycombinator.com/item?id=50152307"
+   ],
+   "topic": "openbsd-8-0-wine-port-2026-10",
+   "firstSeen": "2026-10-20T21:25:16+08:00"
+  },
+  {
+   "id": "b4a0e43f35",
+   "title": "doubleAI 推出 Maxwell：首个「代码执行模型」，运行时改写二进制并形式化证明等价",
+   "summary": "doubleAI 发布 Maxwell，定位为介于代码与硬件之间的新型模型：在程序运行时观察硬件和数据，改写底层二进制以适配具体机器，并对每次优化做形式化等价证明，支持 CPU 和 GPU。官方称数据处理管线最高提速 38 倍、AI 推理内核提速 4.25 倍，并让 LTX-2.5 的 4K 视频生成快了近一倍。目前开放早期申请。",
+   "links": [
+    "https://heymaxwell.ai/",
+    "https://news.ycombinator.com/item?id=50152466"
+   ],
+   "topic": "doubleai-maxwell-code-execution-model-2026-10",
+   "firstSeen": "2026-10-20T21:25:16+08:00"
   }
  ],
- "lastChecked": "2026-10-20T21:17:24+08:00"
+ "lastChecked": "2026-10-20T21:25:16+08:00"
 }
