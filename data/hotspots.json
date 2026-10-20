@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T06:00:10+08:00",
+ "lastUpdated": "2026-10-21T06:10:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17033,7 +17033,31 @@
    ],
    "topic": "nvidia-flora-robot-video-annotation",
    "firstSeen": "2026-10-21T06:00:10+08:00"
+  },
+  {
+   "id": "6b95e4e20d",
+   "title": "蚂蚁 inclusionAI 开源 Ming-3.0 语音模型家族：0.5B 小模型登顶开源 TTS 榜，支持川话粤语和情绪指令",
+   "summary": "蚂蚁集团 inclusionAI 团队以 MIT 协议在 Hugging Face 和 ModelScope 放出 Ming-3.0 系列语音模型，覆盖文本转语音、音频理解和语音识别（含 tts-0.5B、tts-tiny、audio-flash、asr-tiny 等）。据 X 上的讨论，最小的 0.5B TTS 在 Artificial Analysis 可控语音榜开源模型中以 1069 Elo 排第一，支持 7 种语言及四川话、粤语等方言，输出 44.1kHz 音频，可用自然语言控制情绪、语速和笑声等效果，适合做本地语音 Agent。",
+   "links": [
+    "https://x.com/i/trending/2112231055432524074",
+    "https://huggingface.co/inclusionAI/Ming-3.0-tts-0.5B",
+    "https://huggingface.co/inclusionAI/Ming-3.0-asr-tiny"
+   ],
+   "topic": "ming-3-speech-open-source",
+   "firstSeen": "2026-10-21T06:10:50+08:00"
+  },
+  {
+   "id": "da5872be5e",
+   "title": "亚马逊 AI 系统 Atlas 给仓库打「工会风险分」：读 Reddit 帖子和员工反馈，参议员 Markey 抨击是监控",
+   "summary": "加拿大工会 Unifor 与亚马逊的劳资纠纷中披露的文件显示，亚马逊用名为 Atlas 的劳工风险框架给美、加、英仓库打 100–900 分，分越低代表越可能出现工会组织，并分成五档；输入包括离职率、安全事故、当地最低工资、员工内部反馈板和 Reddit 等外部论坛，AI 会提取高频关键词和点赞情绪。英国有两座仓库被列入最高风险档。亚马逊称只做仓库层面汇总、不监控个人；参议员 Ed Markey 等人称其为监控并推动立法禁止，话题今天在 X 上再度升温。",
+   "links": [
+    "https://x.com/i/trending/2112647051422912861",
+    "https://www.computerweekly.com/news/366652174/Amazon-uses-AI-powered-risk-system-to-track-union-activity-globally",
+    "https://magica.com/news/amazon-ai-risk-scoring-union-organizing"
+   ],
+   "topic": "amazon-atlas-union-risk-ai",
+   "firstSeen": "2026-10-21T06:10:50+08:00"
   }
  ],
- "lastChecked": "2026-10-21T06:00:10+08:00"
+ "lastChecked": "2026-10-21T06:10:50+08:00"
 }
