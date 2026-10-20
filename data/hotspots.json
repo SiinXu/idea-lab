@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T05:45:41+08:00",
+ "lastUpdated": "2026-10-21T06:00:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17022,7 +17022,18 @@
    ],
    "topic": "php-critical-security-release-2026-10-21",
    "firstSeen": "2026-10-21T05:45:41+08:00"
+  },
+  {
+   "id": "4d0e41c8f7",
+   "title": "英伟达开源机器人视频标注引擎 Flora：自动给机器人和人手操作视频写动作指令、打进度奖励，成本约为闭源大模型的 1/125",
+   "summary": "英伟达开源 Flora 数据引擎（训练 GR00T-2 用的那套），权重已上 Hugging Face。它先把机器人或人类操作视频切成片段，再由基于 Qwen3.5-27B 微调的 Flora-Captioner-27B 结合前后画面，为每段生成一句英文动作指令（如「用右手把蓝色杯子放到托盘上」），并给出分步进度奖励和成功评分。据 X 上的讨论，其标注质量接近顶级闭源模型、成本低约 125 倍，英伟达内部每天用它处理约 20 万小时视频。注意许可为英伟达非商用协议，仅限研究。对做机器人数据集、具身智能数据服务的团队是现成的降本工具。",
+   "links": [
+    "https://huggingface.co/nvidia/Flora-Captioner",
+    "https://x.com/i/trending/2112656500707737802"
+   ],
+   "topic": "nvidia-flora-robot-video-annotation",
+   "firstSeen": "2026-10-21T06:00:10+08:00"
   }
  ],
- "lastChecked": "2026-10-21T05:45:41+08:00"
+ "lastChecked": "2026-10-21T06:00:10+08:00"
 }
