@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T01:25:48+08:00",
+ "lastUpdated": "2026-10-21T01:46:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16551,7 +16551,68 @@
    ],
    "topic": "intelligence-saturation-cost-speed-2026-10",
    "firstSeen": "2026-10-21T01:25:48+08:00"
+  },
+  {
+   "id": "7336336e41",
+   "title": "Perplexity Computer 可完全本地跑在 Mac 上：模型和 Agent 都在本机，断网也能干活",
+   "summary": "10 月 20 日 Perplexity 宣布 Computer 推出「完全本地」模式：模型、Agent 外壳和任务执行全部在 Apple Silicon Mac 上运行，可在授权后读写 Notes、Messages、Mail、Numbers 等本机文件和 App，数据不上云，也不消耗云端额度。首发本地模型为 Qwen 3.6 和基于它后训练的 PPLX Pro，建议 36 GB 以上统一内存；需要联网信息或更强推理时，可授权升级到云端调用 15+ 个前沿模型，代码与工具执行在隔离沙箱中进行。面向 Pro、Max 和 Enterprise 订阅用户开放，是继 9 月「混合计算」之后的进一步本地化。",
+   "links": [
+    "https://www.perplexity.ai/hub/blog/perplexity-computer-now-runs-fully-local-on-mac",
+    "https://9to5mac.com/2026/10/20/perplexitys-computer-can-now-run-entirely-on-your-mac-even-offline/",
+    "https://www.theverge.com/ai-artificial-intelligence/1014400/perplexity-computer-can-now-run-fully-offline-on-mac-but-youll-need-a-lot-of-ram",
+    "https://x.com/i/trending/2112598856852488607"
+   ],
+   "topic": "perplexity-computer-fully-local-mac-2026-10",
+   "firstSeen": "2026-10-21T01:46:34+08:00"
+  },
+  {
+   "id": "a59b63a304",
+   "title": "ElevenLabs 发布 Eleven Realtime：端到端语音对语音 Agent 模型，兼容 OpenAI Realtime API",
+   "summary": "ElevenLabs 10 月 20 日推出 Eleven Realtime 语音对语音模型家族，把听写、推理和合成合成一个模型：v1 Mini 主打低延迟低成本，适合 AI 助教、陪聊角色；v1 Max 先推理再回答，适合客服、线索筛选和多步工具调用。据 Artificial Analysis 独立评测，Max 在 Big Bench Audio 语音推理上答对 98.8%，Mini 为 75.9%；工具调用任务完成率 Max 87.1%、Mini 60.3%；首次出声约 0.5–0.6 秒。两者支持 90 多种语言和 1.7 万种声音，WebSocket 接口沿用 OpenAI Realtime 规范，原有 OpenAI SDK 只需改地址即可迁移。",
+   "links": [
+    "https://elevenlabs.io/blog/realtime",
+    "https://www.journaldunet.com/intelligence-artificielle/1556891-eleven-realtime-v1-max-98-8-de-precision-en-470-ms-le-pari-speech-to-speech-d-elevenlabs/",
+    "https://x.com/i/trending/2112582270389194774"
+   ],
+   "topic": "elevenlabs-eleven-realtime-s2s-2026-10",
+   "firstSeen": "2026-10-21T01:46:34+08:00"
+  },
+  {
+   "id": "fd2fa98fc8",
+   "title": "Bria 发布开放权重 Fibo 2.0：8B 图像编辑模型登顶 Artificial Analysis 开放权重编辑榜",
+   "summary": "以「100% 授权数据训练」为卖点的 Bria AI 今天上线 Fibo 2，并在 Hugging Face 放出 Fibo-2.0-dev（文生图与通用编辑）和 Fibo-2.0-edit-turbo（4 步快速编辑）两个 8B 权重，Diffusers 已合入 BriaFibo2Pipeline。官方称它是 Artificial Analysis 图像编辑竞技场排名第一的开放权重模型，编辑效果超过 Ideogram、字节和 Black Forest Labs 的闭源模型，文生图也进开放权重前二；支持一次合并最多 4 张参考图、蒙版局部编辑、JSON 结构化控制和 21 种画幅。注意：权重仅限非商用，商用需付费授权。",
+   "links": [
+    "https://docs.bria.ai/whats-new/fibo-2",
+    "https://huggingface.co/collections/briaai/fibo",
+    "https://x.com/i/trending/2112595597664391555"
+   ],
+   "topic": "bria-fibo-2-open-weights-2026-10",
+   "firstSeen": "2026-10-21T01:46:34+08:00"
+  },
+  {
+   "id": "b89b61c227",
+   "title": "开源 Beacon 让 Claude Code、Cursor、Codex 共享记忆：Asymptote Labs 获 550 万美元种子轮",
+   "summary": "Asymptote Labs 10 月 20 日宣布完成 550 万美元超额种子轮（Tower Research Ventures 领投，South Park Commons 等参投）。其 MIT 开源项目 Beacon 采集 Claude Code、Cursor、Codex、OpenCode 等 20 多种编码 Agent 的完整会话（提示、工具调用、命令、改动、审批、token），通过「做梦」流程从成功会话中提炼出可复用技能，经人工审核后供其他 Agent 经 MCP 或 Agent Skills 调用，实现「在 Cursor 里解决的问题，Codex 不用再学一遍」。企业版把数据按 OpenTelemetry 扩展格式接入 Splunk、Datadog 等做安全审计和成本追踪；项目 9 月星数涨 460%，曾冲到 GitHub 全球趋势第 3。",
+   "links": [
+    "https://www.asymptotelabs.ai/blog/asymptote-labs-raises-5-5m-seed-round",
+    "https://github.com/Asymptote-Labs/agent-beacon",
+    "https://x.com/i/trending/2112585551497109574"
+   ],
+   "topic": "asymptote-beacon-agent-memory-2026-10",
+   "firstSeen": "2026-10-21T01:46:34+08:00"
+  },
+  {
+   "id": "2dd4fbec84",
+   "title": "Politico：OpenAI 悄悄不再游说限制对华 AI 芯片出口，国会鹰派失去盟友，英伟达得利",
+   "summary": "Politico 10 月 20 日报道，OpenAI 去年曾公开力推严格限制英伟达等先进芯片卖给中国，如今已不再向议员施压；国会助手称「沉默就是在替英伟达干活」。时间点敏感：对华鹰派计划在中期选举后的跛脚鸭会期，把新芯片限制塞进年度国防授权法案。背景是英伟达今年 2 月完成对 OpenAI 300 亿美元入股，8 月又承诺为其俄亥俄数据中心独家供货并担保首期最多 1050 亿美元。OpenAI 回应称有效的出口管制「是整体战略的一部分」；对手 Anthropic 则继续支持多项限制法案，9 月还为此退出一家大型科技行业协会。",
+   "links": [
+    "https://www.politico.com/news/2026/10/20/openai-ai-chips-china-nvidia-01127385",
+    "https://thenextweb.com/news/openai-china-chip-export-controls-retreat-nvidia",
+    "https://x.com/i/trending/2112595601669919101"
+   ],
+   "topic": "openai-chip-export-controls-retreat-2026-10",
+   "firstSeen": "2026-10-21T01:46:34+08:00"
   }
  ],
- "lastChecked": "2026-10-21T01:25:48+08:00"
+ "lastChecked": "2026-10-21T01:46:34+08:00"
 }
