@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T06:54:51+08:00",
+ "lastUpdated": "2026-10-21T07:16:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17146,7 +17146,18 @@
    ],
    "topic": "spacex-starship-ship-catch-november-2026-10",
    "firstSeen": "2026-10-21T06:54:51+08:00"
+  },
+  {
+   "id": "50c6d0722e",
+   "title": "Krebs：FBI 怀疑一名美国勒索谈判公司高管帮 ShinyHunters 运营勒索网站",
+   "summary": "KrebsOnSecurity 10 月 20 日报道，追查黑客组织 ShinyHunters 的美国联邦调查人员发现，两家勒索谈判公司的高管与该组织关系异常密切，其中一名美国高管疑似帮其运营向受害者施压付赎金的网站。FBI 称 ShinyHunters 今年已勒索超 7000 万美元，9 月还攻破了 FBI 招聘网站 fbijobs.gov；其头目「Rey」已在约旦被拘并配合调查。这让「替受害者谈判」的勒索谈判行业本身的信任问题浮上台面。",
+   "links": [
+    "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+    "https://news.ycombinator.com/item?id=50173487"
+   ],
+   "topic": "shinyhunters-ransom-negotiator-extortion-site-2026-10",
+   "firstSeen": "2026-10-21T07:16:41+08:00"
   }
  ],
- "lastChecked": "2026-10-21T06:54:51+08:00"
+ "lastChecked": "2026-10-21T07:16:41+08:00"
 }
