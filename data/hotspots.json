@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T04:45:33+08:00",
+ "lastUpdated": "2026-10-21T04:55:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16967,7 +16967,29 @@
    ],
    "topic": "indie",
    "firstSeen": "2026-10-21T04:45:33+08:00"
+  },
+  {
+   "id": "60f7f9822d",
+   "title": "WSJ：Anthropic 2026 上半年净亏损超 800 亿美元，第三季度营收增 45% 至 168 亿美元",
+   "summary": "据路透转引《华尔街日报》，Anthropic 上半年账面净亏损超过 800 亿美元，同时第三季度营收同比增长 45% 至 168 亿美元。此前路透报道其 2025 年净亏损 420 亿美元、未来要承担约 5180 亿美元的云与算力支出。收入猛涨与巨额算力投入并存，Hacker News 上再起「AI 泡沫」争论。",
+   "links": [
+    "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+    "https://news.ycombinator.com/item?id=50171966"
+   ],
+   "topic": "anthropic-h1-2026-net-loss",
+   "firstSeen": "2026-10-21T04:55:51+08:00"
+  },
+  {
+   "id": "fc05e7a5da",
+   "title": "法官命令 Meta 交出批准从 Anna's Archive、LibGen 下载盗版书的员工名单",
+   "summary": "美国联邦治安法官 Thomas Hixson 要求 Meta 列出所有批准从影子图书馆获取书籍、以及决定是否「做种」分享的人，不只是执行下载的员工。在 Kadrey、Silverman 等作者的集体诉讼中，法院已认定用书训练 AI 属于合理使用，BitTorrent 下载与分发成了唯一还在打的部分。",
+   "links": [
+    "https://torrentfreak.com/judge-orders-meta-to-name-employees-who-approved-torrenting-annas-archive-and-libgen/",
+    "https://news.ycombinator.com/item?id=50172246"
+   ],
+   "topic": "meta-torrent-approvers-order",
+   "firstSeen": "2026-10-21T04:55:51+08:00"
   }
  ],
- "lastChecked": "2026-10-21T04:45:33+08:00"
+ "lastChecked": "2026-10-21T04:55:51+08:00"
 }
