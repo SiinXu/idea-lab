@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T03:43:32+08:00",
+ "lastUpdated": "2026-10-21T03:59:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16873,7 +16873,55 @@
    ],
    "topic": "spotify-podcast-memberships",
    "firstSeen": "2026-10-21T03:43:32+08:00"
+  },
+  {
+   "id": "eaa7790132",
+   "title": "研究：ChatGPT 的「记忆」96% 是它自己记下的，一半以上是对你的心理推断",
+   "summary": "马普所、代尔夫特理工等团队在 WWW 2026 论文《算法自画像》中，分析了 80 名真实用户通过 GDPR 数据捐赠交出的 2050 条 ChatGPT 记忆：只有 4%（84 条）是用户明确说「记住」后写入的，其余 96% 由 ChatGPT 自主生成；52% 含有对用户的心理洞察（如推断出的欲望、性格），28% 属于 GDPR 定义的个人数据；84% 能在原对话中找到依据。作者提出 Attribution Shield 框架，在敏感推断写入前提醒并建议改写提问。该研究 10 月 20 日在 X 上再度引发「AI 悄悄给用户画像」的讨论。",
+   "links": [
+    "https://arxiv.org/html/2602.01450",
+    "https://research.tudelft.nl/en/publications/the-algorithmic-self-portrait-deconstructing-memory-in-chatgpt/",
+    "https://x.com/i/trending/2112616409092260028"
+   ],
+   "topic": "chatgpt-memory-algorithmic-self-portrait",
+   "firstSeen": "2026-10-21T03:59:57+08:00"
+  },
+  {
+   "id": "1ef5dd457f",
+   "title": "AI 陪伴应用 Tolan 获 USV 领投 3000 万美元：月活 25 万、七成是女性，ARR 达数千万美元",
+   "summary": "Tolan 用可定制的卡通角色陪用户聊天、做情绪支持，也帮忙买菜、规划孩子生日会等家务。10 月 19 日宣布获 Union Square Ventures 领投、Khosla Ventures 和 Homebrew 跟投的 3000 万美元，总融资翻倍，估值高于此前的 1.2 亿美元。公司称每月约 25 万人使用，过去一年累计 7000 万次对话，约 70% 用户为女性、40% 为父母，靠分档会员收费，年经常性收入达「数千万美元」，新资金将用于推出首个免费档和扩展代办类功能。",
+   "links": [
+    "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "https://www.usv.com/writing/tolan",
+    "https://www.upstartsmedia.com/p/tolan-raises-30m-for-ai-companion-you-trust"
+   ],
+   "topic": "tolan-30m-usv",
+   "firstSeen": "2026-10-21T03:59:57+08:00"
+  },
+  {
+   "id": "8107430391",
+   "title": "瑞典国防研究局开源 WiFireNet：只靠 Wi-Fi 信号就能发现衣服下藏的手枪",
+   "summary": "瑞典国防研究局（FOI）三名研究员发布论文与开源模型 WiFireNet：用 Wi-Fi 信道状态信息（CSI）定位室内人群中藏在衣服下的手枪，训练时用同步摄像头画面做标注，推理时只用 Wi-Fi 数据。在最多 4 人走动的 12 平方米房间里，标准 802.11a 配置下手枪类平均精度为 72.5%（宽松重叠阈值），严格阈值下降到 53.8%。数据集、代码和模型均已公开。作者定位为摄像头和金属探测器的补充，目前仍是概念验证；持枪者和隐私倡导者在 X 上对误报和监控扩张展开争论。",
+   "links": [
+    "https://arxiv.org/html/2610.18736v1",
+    "https://github.com/persson-erik/WiFireNet",
+    "https://cyberinsider.com/study-shows-wi-fi-signals-can-help-detect-concealed-handguns/"
+   ],
+   "topic": "wifirenet-wifi-handgun-detection",
+   "firstSeen": "2026-10-21T03:59:57+08:00"
+  },
+  {
+   "id": "ea9ae8e8b8",
+   "title": "Kalshi 拿下预测市场八成交易量：9 月成交 608 亿美元，Polymarket 两个站合计仅 131 亿",
+   "summary": "据 Volume Race 统计，2026 年 9 月 Kalshi 名义成交额 608.5 亿美元，Polymarket 美国站与国际站合计 130.7 亿美元，Kalshi 在两家中的份额约 82.3%；一年多前 Polymarket 还占九成以上。Kalshi 约八成交易量来自体育合约，靠受 CFTC 监管的美国市场和体育品类实现反超；Polymarket 仍在政治和国际事件上领先，美国站增长更快。10 月 20 日这组对比在 X 上热议，也有人质疑串关合约的计数方式。",
+   "links": [
+    "https://volumerace.com/compare/kalshi-vs-polymarket",
+    "https://volumerace.com/reports/2026-09",
+    "https://x.com/i/trending/2112620325552988252"
+   ],
+   "topic": "kalshi-82pct-prediction-market-share",
+   "firstSeen": "2026-10-21T03:59:57+08:00"
   }
  ],
- "lastChecked": "2026-10-21T03:43:32+08:00"
+ "lastChecked": "2026-10-21T03:59:57+08:00"
 }
