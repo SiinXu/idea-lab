@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T00:31:06+08:00",
+ "lastUpdated": "2026-10-21T00:38:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16482,7 +16482,17 @@
    ],
    "topic": "gen-z-ai-cringe-generational-burden-2026-10",
    "firstSeen": "2026-10-21T00:31:06+08:00"
+  },
+  {
+   "id": "afe5d96a9d",
+   "title": "Mistral 发布 Voxtral 3：语音 Agent SDK + 50 种语言转写，Mini 版每分钟 0.0035 美元",
+   "summary": "Mistral 今天推出 Voxtral 3 语音模型家族和配套语音 Agent SDK，把「听、想、调用工具、说」放进同一条实时流式管线。转写模型 Voxtral Small Transcribe 3 支持 50 种语言（含 24 种欧盟官方语言和多种亚洲、印度语言），带说话人分离、关键词纠偏和说话结束检测，官方称在 FLEURS 多语种测试中优于 Whisper、ElevenLabs Scribe v2 和 Gemini 3.5 Transcribe（厂商自测）；4B 参数的 Mini 版每分钟仅 0.0035 美元。语音合成模型 Voxtral Mini TTS 3 能按对话语境调整情绪和语速，支持 35+ 语言；Pro Voice 只需 30 分钟录音即可跨语言复刻声音。可走欧盟托管 API 或私有化部署。对做客服电话 Agent、多语种预约助理的独立开发者，这是一套成本很低、可自托管的现成栈。",
+   "links": [
+    "https://mistral.ai/news/voxtral-3/"
+   ],
+   "topic": "mistral-voxtral-3-voice-agent-sdk-2026-10",
+   "firstSeen": "2026-10-21T00:38:28+08:00"
   }
  ],
- "lastChecked": "2026-10-21T00:31:06+08:00"
+ "lastChecked": "2026-10-21T00:38:28+08:00"
 }
