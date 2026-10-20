@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T01:53:30+08:00",
+ "lastUpdated": "2026-10-21T02:14:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16623,7 +16623,52 @@
    ],
    "topic": "grok-bot-slack-bank-leak-2026-10",
    "firstSeen": "2026-10-21T01:53:30+08:00"
+  },
+  {
+   "id": "10dd1fad7c",
+   "title": "樱井政博：AI 会让 Steam 被「玩不了的仿制游戏」淹没，原创反而更难卖",
+   "summary": "任天堂《任天堂明星大乱斗》《星之卡比》制作人樱井政博在接受日本媒体采访时说，Steam 年上架量已从 2010 年约 275 款涨到 1.9 万款以上，AI 和 vibe coding 会让数字继续暴涨，其中大多数是「玩不了」的直接仿制品；他以《Librarian》被大量跟风为例，指出机制简单、概念熟悉的游戏最容易被 AI 复制，而原创虽难被抄却也更难推广。Kotaku、Nintendo Wire 10 月 20 日跟进，X 上同步热议，正好叠加本周 Steam Next Fest 被 AI 游戏刷屏的争议。对独立开发者来说，「可被验证的人工创作」标签、反克隆监测和原创玩法的早期社区运营正在变成新需求。",
+   "links": [
+    "https://kotaku.com/masahiro-sakurai-says-gaming-needs-originality-or-it-will-die-slowly-2000747672",
+    "https://nintendowire.com/news/2026/10/20/masahiro-sakurai-expresses-concern-over-how-ai-might-flood-the-market-with-unplayable-games/",
+    "https://x.com/i/trending/2112598860950290897"
+   ],
+   "topic": "sakurai-ai-game-clones-2026-10",
+   "firstSeen": "2026-10-21T02:14:48+08:00"
+  },
+  {
+   "id": "c6afd5cf7a",
+   "title": "Val Town 创始人 Steve Krouse 长文《我该教儿子什么？》：AGI 时代教育为何而存在",
+   "summary": "Val Town 创始人 Steve Krouse 10 月 19 日发文，自述作为即将当父亲的程序员，眼看自己最值钱的编程技能在贬值，于是重读 Neil Postman 1995 年的《教育的终结》，回顾爱迪生「电影将取代老师」、自己 2013 年「MOOC 将颠覆教育」等落空预言，讨论学校为何能熬过广播、电影和互联网，以及 AI 时代教育真正该给孩子的「目的」。文章发布后 1 小时内在 HN 拿到 40 多分、30 多条评论，讨论迅速升温。AI 时代的亲子教育、技能焦虑和「该学什么」正成为程序员群体的高共鸣话题，适合做内容与课程选题。",
+   "links": [
+    "https://stevekrouse.com/ends",
+    "https://news.ycombinator.com/item?id=50169707"
+   ],
+   "topic": "krouse-teach-my-son-2026-10",
+   "firstSeen": "2026-10-21T02:14:48+08:00"
+  },
+  {
+   "id": "9f452d4104",
+   "title": "Show HN：Penmentor 让 Claude 像老师一样批改你的手写数学，还能生成 3Blue1Brown 式动画",
+   "summary": "开源项目 Penmentor 接入 xournal++ 手写笔记：边用数位板手写边按一个键，Claude、Gemini 或 GPT 就会在屏幕上用彩笔圈出第一处错误、给正确步骤打勾，并按「轻提示、点出方法、淡显下一行」逐级给提示而不直接给答案；框选一个积分还能生成可交互的 manim 动画讲解原理，用的是用户自己的模型订阅。作者做它是因为厌倦了反复截图问 Claude 再读长回答。10 月 20 日登上 HN Show 区。「手写 + AI 批注」是学习类产品里少见的自然交互，适合做家教、考研数学或平板笔记插件方向。",
+   "links": [
+    "https://github.com/AbdullahAlhariri/penmentor",
+    "https://news.ycombinator.com/item?id=50167604"
+   ],
+   "topic": "penmentor-handwritten-math-2026-10",
+   "firstSeen": "2026-10-21T02:14:48+08:00"
+  },
+  {
+   "id": "4747a804fd",
+   "title": "多 Agent 指挥台 Orca 单日涨星 1500+：新增 Manual/Auto/Yolo 三档自动授权，可在聊天里直接跑 OpenCode 2",
+   "summary": "Stably 开源的 Orca 定位是「管理一整队编码 Agent 的地方」，用你自己的订阅同时跑 Claude Code、Codex、Grok Bot 等，支持桌面、手机和远程运行环境，GitHub 已近 10 万星，10 月 20 日登上 GitHub 日榜、当天新增约 1500 星。同日发布的 v1.4.232 在设置里加入 Manual / Auto / Yolo 三档权限模式，让 Claude 和 Codex 自动处理审批；实验性原生聊天可直接打开 OpenCode 2，输入 $ 查找 Codex 技能。多 Agent 并行编排和「何时放权」的权限设计，正是当下编码工具竞争的焦点。",
+   "links": [
+    "https://github.com/stablyai/orca",
+    "https://github.com/stablyai/orca/releases/tag/v1.4.232"
+   ],
+   "topic": "orca-agent-fleet-v1-4-232",
+   "firstSeen": "2026-10-21T02:14:48+08:00"
   }
  ],
- "lastChecked": "2026-10-21T01:53:30+08:00"
+ "lastChecked": "2026-10-21T02:14:48+08:00"
 }
