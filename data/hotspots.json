@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T02:14:48+08:00",
+ "lastUpdated": "2026-10-21T02:31:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16668,7 +16668,32 @@
    ],
    "topic": "orca-agent-fleet-v1-4-232",
    "firstSeen": "2026-10-21T02:14:48+08:00"
+  },
+  {
+   "id": "6285bfc574",
+   "title": "Ornith 开源 1.5-122B 推理模型：MIT 许可，单张 80GB GPU 可跑，Mac 本地离线写代码",
+   "summary": "Ornith 10 月 20 日发布 Ornith-1.5-122B，这是一款 122B 参数的 MoE 推理模型，开放权重、MIT 许可，上下文 26.2 万 token，可用 YaRN 扩到约 100 万。官方称它在同体量开源模型中达到 SOTA，单张 80GB GPU 即可部署，另有 MLX 4/8bit 版本，Unsloth GGUF 量化和 Ollama 也已当天上架。X 上有早期用户在 Mac 上断网让它直接写出可玩的飞车小游戏。它的卖点是「自我改进」训练：模型自己生成训练任务、搭工具框架、再用强化学习迭代。本地可跑的强代码模型又多了一个选项。",
+   "links": [
+    "https://huggingface.co/ornith-ai/Ornith-1.5-122B",
+    "https://ollama.com/library/ornith-1.5:122b",
+    "https://huggingface.co/unsloth/Ornith-1.5-122B-GGUF",
+    "https://x.com/i/trending/2112579118789533902"
+   ],
+   "topic": "ornith-1-5-122b-open-weights-2026-10",
+   "firstSeen": "2026-10-21T02:31:29+08:00"
+  },
+  {
+   "id": "8f5088f0f5",
+   "title": "Gradium 开源 Phonon 端侧语音合成：3100 万参数、笔记本 CPU 上 7 毫秒开口说话",
+   "summary": "法国语音公司 Gradium 10 月 20 日开源 Phonon 系列端侧 TTS 模型：英文 Phonon 31m 采用 Apache 2.0 许可，量化后仅 64MB，在笔记本 CPU 上 7 毫秒即可开始发声；Phonon 40m 支持英、法、德、西、葡五种语言，另有一个单模型多语种版本（这两款为非商用许可）。推理运行时用 Rust 编写，覆盖 CPU、GPU、WebGPU、Apple Core ML、骁龙 NPU 等 10 多种后端，提供 Python、Swift、JS/WASM 和 OpenAI 兼容接口。完全离线、无按次计费，适合健身教练 App、游戏 NPC 配音等场景。",
+   "links": [
+    "https://gradium.ai/blog/release-phonon-open-weight",
+    "https://github.com/gradium-ai/xn-ptts",
+    "https://x.com/i/trending/2112569366588100952"
+   ],
+   "topic": "gradium-phonon-open-weight-tts-2026-10",
+   "firstSeen": "2026-10-21T02:31:29+08:00"
   }
  ],
- "lastChecked": "2026-10-21T02:14:48+08:00"
+ "lastChecked": "2026-10-21T02:31:29+08:00"
 }
