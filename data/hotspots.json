@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T07:22:25+08:00",
+ "lastUpdated": "2026-10-21T07:40:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17168,7 +17168,18 @@
    ],
    "topic": "php-critical-security-release-2026-10",
    "firstSeen": "2026-10-21T07:22:25+08:00"
+  },
+  {
+   "id": "3e5373d767",
+   "title": "humans& 发布首个「协作者」模型 Ampersand v0.1：专为多人长期协作训练，已开放 Agents API",
+   "summary": "由前 xAI、Google、OpenAI、Anthropic 研究员创办的 humans&（种子轮融资 4.8 亿美元）10 月 20 日发布 Ampersand v0.1，定位为「第一个为让人们一起做成更多事而训练的模型」：不追求单次任务完成，而是嵌入一个团队，在长达数月的模拟时间里理解每个人未说出口的目标、分歧和变化，按「帮用户推进长期目标 − 违背用户偏好的交互成本」打分。官方称它在长期目标价值上领先其他模型，但交互成本也更高（常主动给建议或鼓励）。模型现通过 Agents API 向开发者开放，配套的协作产品也将很快上线。",
+   "links": [
+    "https://ampersand.humansand.ai/blog/",
+    "https://x.com/i/trending/2112681478547255563"
+   ],
+   "topic": "humans-and-ampersand-v0-1-2026-10",
+   "firstSeen": "2026-10-21T07:40:47+08:00"
   }
  ],
- "lastChecked": "2026-10-21T07:22:25+08:00"
+ "lastChecked": "2026-10-21T07:40:47+08:00"
 }
