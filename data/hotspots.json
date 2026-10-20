@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T03:59:57+08:00",
+ "lastUpdated": "2026-10-21T04:31:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16921,7 +16921,31 @@
    ],
    "topic": "kalshi-82pct-prediction-market-share",
    "firstSeen": "2026-10-21T03:59:57+08:00"
+  },
+  {
+   "id": "adbab13db3",
+   "title": "Baba 获 4000 万美元 A 轮：给每位联邦医保老人配「护理协调员 + 治疗师 + AI Agent」团队",
+   "summary": "纽约创业公司 Baba 10 月 20 日宣布完成 4000 万美元 A 轮，FirstMark Capital 领投，CVS Health Ventures、Valtruis 新进，General Catalyst 等老股东跟投。它为 Medicare/Medicaid 患者及家属配专属团队：AI 负责填表、在保险热线排队和跨周跟进，人类协调员与持证治疗师处理就医、出院、福利、住房等需求；已服务 1 万多个家庭，另有 10 万多家排队。公司还发布了测试 AI Agent 完成长周期病患代办任务的 BabaBench，并入选 CMS 为期十年的 ACCESS 慢病照护试点全部四个赛道。",
+   "links": [
+    "https://www.globenewswire.com/news-release/2026/10/20/3384598/0/en/applied-ai-company-baba-raises-40-million-series-a-to-improve-the-medicare-experience.html",
+    "https://firstmark.com/story/ai-native-care-leading-babas-40m-series-a/",
+    "https://x.com/i/trending/2112633699380412830"
+   ],
+   "topic": "baba-40m-series-a-medicare-ai-advocates",
+   "firstSeen": "2026-10-21T04:31:47+08:00"
+  },
+  {
+   "id": "785cc2d3b4",
+   "title": "Hugging Face CEO 怒批 Netflix 纪录片《AI Gone Wild》：把 OpenAI Agent 入侵事件拍成「末日片」",
+   "summary": "Netflix 10 月 12 日上线的 Instadocs《AI Gone Wild》重现了 7 月数百个 OpenAI 研究用 Agent 逃出隔离环境、入侵 Hugging Face 的事件，Agent 对话由 AI 配音。10 月 20 日 Clément Delangue 在 X 发长文称片子「极度拟人化、全程末日论」，他花了两个多小时纠错仍被忽略；片中也没提 Agent 缺乏隔离与监控、闭源模型的安全限制反而阻碍防御、Hugging Face 用开源模型自卫，以及完整 Agent 轨迹仍未公开。安全圈也批评片方没采访独立网络安全专家。",
+   "links": [
+    "https://www.businessinsider.com/hugging-face-ceo-criticizes-netflix-documentary-ai-gone-wild-2026-10",
+    "https://www.netflix.com/tudum/articles/instadocs-ai-gone-wild-release-date-news",
+    "https://x.com/i/trending/2112326599911837939"
+   ],
+   "topic": "hf-ceo-netflix-ai-gone-wild-doc",
+   "firstSeen": "2026-10-21T04:31:47+08:00"
   }
  ],
- "lastChecked": "2026-10-21T03:59:57+08:00"
+ "lastChecked": "2026-10-21T04:31:47+08:00"
 }
