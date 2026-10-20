@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T01:10:19+08:00",
+ "lastUpdated": "2026-10-21T01:25:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16517,7 +16517,41 @@
    ],
    "topic": "radical-numerics-omnii-1-ai-phage-2026-10",
    "firstSeen": "2026-10-21T01:10:19+08:00"
+  },
+  {
+   "id": "a87757c6fb",
+   "title": "Steam Next Fest 被 AI 游戏淹没：玩家呼吁加「排除 AI 内容」过滤器",
+   "summary": "10 月 20 日 Steam 新品节开幕，IGN 报道本届充斥大量用 AI 生成美术甚至整体「vibe coding」做出的低成本 Demo。Reddit 用户 ScalesGhost 发帖请求 Valve 在探索队列中加入「过滤含 AI 生成内容游戏」的选项（Steam 已强制开发者披露 AI 使用），多个帖子附和「AI 毁了 Next Fest」。IGN 指出 Valve 5 月刚削减用户自定义标签，要做这个过滤器需先新增「AI」标签。HN 同步热议。对独立开发者而言，「纯手作」正在变成可宣传的卖点；对工具方而言，「AI 内容识别 / 人工认证」标签有需求。",
+   "links": [
+    "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+    "https://news.ycombinator.com/item?id=50168190"
+   ],
+   "topic": "steam-next-fest-no-ai-filter-2026-10",
+   "firstSeen": "2026-10-21T01:25:48+08:00"
+  },
+  {
+   "id": "6fea06b1e4",
+   "title": "前 Google Brain 研究员推出 Vyb：逐元素生成、可编辑图层的品牌设计模型，专治 AI 设计「千篇一律」",
+   "summary": "Coco Labs 联合创始人、前 Google Brain / DeepMind 的 Anusha Ramesh 发布 Vyb Studio（私测中）。它不是把设计生成成一张图，而是逐个元素构建：从你的网站或社媒链接抓取真实 logo、字体、配色和产品图，输出带图层的可编辑画布，可用自然语言改（如「更醒目」「加 CTA」），并按趋势和互动数据每天自动生成社媒贴文与视频。X 上流传的基准称其字体形状匹配 90.3%、颜色还原 100%（来自官方说法，尚未见第三方复核）。目前测试免费。",
+   "links": [
+    "https://www.tryvyb.co/",
+    "https://x.com/i/trending/2112592173413900290"
+   ],
+   "topic": "vyb-coco-labs-brand-design-model-2026-10",
+   "firstSeen": "2026-10-21T01:25:48+08:00"
+  },
+  {
+   "id": "d7254564b9",
+   "title": "X 热议「智能饱和」：模型智商涨 10 分只多换来 20% 开发者流量，去年底还是 69%",
+   "summary": "X 当天热点汇总称，模型智能指数每提高 10 分，带来的开发者流量增幅已从 2025 年底的 69% 降到约 20%：任务一旦达到「够用」的可靠度，开发者就转向更便宜、更快的模型。Cognition 的 Russell Kaplan 称软件工程已进入「智能饱和」，成本和速度说了算；SAP 高管认为前沿模型正在商品化，价值转向财务、供应链等业务流程整合。背景数据：The Information 报道 OpenRouter 上质量前十的模型在 2026 年 Q3 只占 14% 的 token（去年初为 55%），当前用量榜首是 DeepSeek V4.1 Flash。",
+   "links": [
+    "https://x.com/i/trending/2112287617815306316",
+    "https://plutux.ai/insights/20261013_frontier_ai_losing_developer_allure",
+    "https://openrouter.ai/rankings"
+   ],
+   "topic": "intelligence-saturation-cost-speed-2026-10",
+   "firstSeen": "2026-10-21T01:25:48+08:00"
   }
  ],
- "lastChecked": "2026-10-21T01:10:19+08:00"
+ "lastChecked": "2026-10-21T01:25:48+08:00"
 }
