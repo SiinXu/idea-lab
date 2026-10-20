@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-20T22:00:05+08:00",
+ "lastUpdated": "2026-10-20T22:17:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16195,7 +16195,37 @@
    ],
    "topic": "peec-fake-stats-llm-citation-2026-10",
    "firstSeen": "2026-10-20T22:00:05+08:00"
+  },
+  {
+   "id": "15705003f6",
+   "title": "Eka Robotics 估值 14.5 亿美元：「视觉-力觉-动作」模型让机械臂每小时抓 1500 件",
+   "summary": "MIT 教授 Pulkit Agrawal 与前 DeepMind 研究员 Tuomas Haarnoja 创办的 Eka Robotics 完成 1.5 亿美元 A 轮（a16z、F-Prime 领投），投后估值 14.5 亿美元。它不走主流 VLA（视觉-语言-动作）路线，而是用力敏夹爪加「视觉-力觉-动作」模型解决抓取的「最后一毫米」：每小时可抓约 1500 件 1 公斤以内的物品（人约 600 件），成功率超 95%，换物体无需重训。多位机器人专家称其演示有「惊艳感」，被视为触觉/力反馈路线的一次有力验证。",
+   "links": [
+    "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
+   ],
+   "topic": "eka-robotics-series-a-2026-10",
+   "firstSeen": "2026-10-20T22:17:33+08:00"
+  },
+  {
+   "id": "add383da2f",
+   "title": "Meta Muse 分享链接被一键「挖出」：会话标题写进子域名，被动 DNS 可查到 6800 条",
+   "summary": "安全公司 Claroc 发现，Meta 新 AI 智能体 Muse 的分享链接形如「会话标题-随机串.cf.metaaiusercontent.com」，标题直接写进子域名，一旦被点开就会进入公开的被动 DNS 记录。研究者一次查询就枚举出 6800 条分享链接，抽看几百条即发现高管猎头面谈笔记、公司营收复盘、贷款申请、带部分账号的银行欺诈提醒等敏感内容，他们称之为 GhostShares。Meta 未回复；对方判断这是「设计如此」。对所有做「分享链接」的 AI 产品都是一个隐私设计反面教材。",
+   "links": [
+    "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
+   ],
+   "topic": "meta-muse-ghostshares-2026-10",
+   "firstSeen": "2026-10-20T22:17:33+08:00"
+  },
+  {
+   "id": "c27a621956",
+   "title": "英国 CMA 要求苹果开放 iPhone NFC 支付：费率「大幅降低」、接入国际通用标准",
+   "summary": "英国竞争与市场管理局（CMA）发布提案，认为苹果对 NFC 非接触支付的收费和接入规则在阻碍英国金融科技创新：英国 39% 的支付已是非接触式，Apple Wallet 最常用，但至今没有一家公司在英国推出可与之竞争的钱包产品。CMA 希望复制欧盟 2024 年的承诺方案，让 Wallet 支持国际主流非接触标准，并按其提出的原则把费率降到「商业上可行」。若落地，第三方钱包和支付应用在英国将迎来窗口期。",
+   "links": [
+    "https://www.engadget.com/2291486/uk-antitrust-regulartor-wants-apple-to-open-up-iphone-nfc-access/"
+   ],
+   "topic": "uk-cma-apple-nfc-2026-10",
+   "firstSeen": "2026-10-20T22:17:33+08:00"
   }
  ],
- "lastChecked": "2026-10-20T22:00:05+08:00"
+ "lastChecked": "2026-10-20T22:17:33+08:00"
 }
