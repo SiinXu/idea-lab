@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-20T22:17:33+08:00",
+ "lastUpdated": "2026-10-20T22:33:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16225,7 +16225,29 @@
    ],
    "topic": "uk-cma-apple-nfc-2026-10",
    "firstSeen": "2026-10-20T22:17:33+08:00"
+  },
+  {
+   "id": "5e24186783",
+   "title": "Cloudflare × VoidZero 推出 tsrs：TypeScript 编译器的 Rust 移植版，类型检查快 8 倍、省七成内存",
+   "summary": "Cloudflare 10 月 20 日宣布，与 VoidZero（Vite/Oxc 团队）及 Owner.com 的 Max Schwenk 合作开发 tsrs，把 TypeScript 编译器移植到 Rust，并放进 Oxc 工具链孵化。早期基准显示，在相同类型检查线程数下比 TypeScript 7.0 快最多 8 倍、内存少约 70%，部分优化已回馈上游，使 TS 7.1 beta 本身也快了 2.5 倍。官方强调不是分叉，语言设计仍由 TypeScript 团队决定；选 Rust 主要为了编译成 WebAssembly，让完整开发工具链能跑在 Workers 沙箱、浏览器甚至嵌入式设备里，方便 Agent 端到端构建。还会与 Theo Browne 的 tsc-rs 合并，并用 Agent 每天跟踪上游变更保持兼容。现在可 npm install tsrs 试用实验版。",
+   "links": [
+    "https://blog.cloudflare.com/typescript-rust-port/",
+    "https://news.ycombinator.com/item?id=50165953"
+   ],
+   "topic": "cloudflare-tsrs-typescript-rust-2026-10",
+   "firstSeen": "2026-10-20T22:33:03+08:00"
+  },
+  {
+   "id": "d12c7373b6",
+   "title": "亚马逊内部录音曝光：AI 让公司自由现金流转负，每月约 30 亿美元英伟达机柜等电上架",
+   "summary": "Business Insider 10 月 20 日披露亚马逊内部邮件和会议录音：AWS CFO John Felton 在 9 月员工会上调侃负责 AI 基建的 Prasad Kalyanaraman「你让公司自由现金流转负了」，后者承认 AI 业务「严重现金流为负」，预计未来两年左右都会低于零。过去 12 个月自由现金流从一年前的 +182 亿美元跌到 -76 亿美元，今年资本开支约 2200 亿美元。邮件显示亚马逊启用「提前收货」流程，8 月接收约 50 亿美元 GB300 机柜、此后每月约 30 亿美元，但部分机房有位置没电，机柜只能先放中转仓库。亚马逊回应称就近暂存硬件是常规做法。叠加此前曝出的 80 亿美元芯片售后回租计划，AI 算力「有卡无电」正在成为普遍瓶颈。",
+   "links": [
+    "https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10",
+    "https://x.com/i/trending/2112540739628630161"
+   ],
+   "topic": "amazon-ai-fcf-negative-gb300-staging-2026-10",
+   "firstSeen": "2026-10-20T22:33:03+08:00"
   }
  ],
- "lastChecked": "2026-10-20T22:17:33+08:00"
+ "lastChecked": "2026-10-20T22:33:03+08:00"
 }
