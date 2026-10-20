@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T06:40:41+08:00",
+ "lastUpdated": "2026-10-21T06:54:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17116,7 +17116,37 @@
    ],
    "topic": "gemini-personal-intelligence-android-auto",
    "firstSeen": "2026-10-21T06:40:41+08:00"
+  },
+  {
+   "id": "b799bf523c",
+   "title": "ChatGPT 上线「锁定聊天」：单条对话可加锁，把手机递给别人看也不怕泄露",
+   "summary": "TechCrunch 10 月 20 日报道，OpenAI 为 ChatGPT 推出锁定聊天功能，用户可以把单条对话锁起来。官方说这是为聊私事或筹备惊喜等场景设计的：把设备递给亲友看另一条对话时，被锁的内容不会被看到。",
+   "links": [
+    "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
+   ],
+   "topic": "chatgpt-lock-chats-2026-10",
+   "firstSeen": "2026-10-21T06:54:51+08:00"
+  },
+  {
+   "id": "dd8747983c",
+   "title": "Anthropic 与云厂商关系变僵：算力越来越难拿，基础设施开支却在 11 月 IPO 前猛涨",
+   "summary": "TechCrunch 10 月 20 日报道，Anthropic 据称越来越难从云服务商那里拿到足够算力，因为这些云厂商越来越把它当成竞争对手；与此同时，它的基础设施开支在计划于 11 月进行的 IPO 之前大幅膨胀。",
+   "links": [
+    "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+   ],
+   "topic": "anthropic-cloud-partnerships-messy-2026-10",
+   "firstSeen": "2026-10-21T06:54:51+08:00"
+  },
+  {
+   "id": "aa8532ca8d",
+   "title": "马斯克：SpaceX 将在 11 月首次尝试同时回收「接住」星舰飞船和助推器",
+   "summary": "The Verge 10 月 20 日报道，SpaceX CEO 马斯克表示，公司将在 11 月首次尝试同时用发射塔接住星舰（Starship）飞船和它的超重型助推器。此前 SpaceX 只成功接住过助推器，接住上面级飞船将是完全可重复使用的关键一步。",
+   "links": [
+    "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says"
+   ],
+   "topic": "spacex-starship-ship-catch-november-2026-10",
+   "firstSeen": "2026-10-21T06:54:51+08:00"
   }
  ],
- "lastChecked": "2026-10-21T06:40:41+08:00"
+ "lastChecked": "2026-10-21T06:54:51+08:00"
 }
