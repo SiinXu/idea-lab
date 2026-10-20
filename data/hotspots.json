@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T05:28:29+08:00",
+ "lastUpdated": "2026-10-21T05:45:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17011,7 +17011,18 @@
    ],
    "topic": "subaru-europe-ev-only",
    "firstSeen": "2026-10-21T05:28:29+08:00"
+  },
+  {
+   "id": "007f5c92bf",
+   "title": "PHP 安全团队预告：10 月 21 日发布紧急补丁，修复两个 CVSS 9.2 严重漏洞",
+   "summary": "PHP 官方 10 月 20 日发布预告：计划于 10 月 21 日 14:00 UTC（北京时间 22:00）推出安全更新，修复两个按 CVSS v4.0 评为 9.2 的严重漏洞，具体影响版本和修复版本将随补丁一起公布。官方建议所有 PHP 用户提前准备升级，并表示若漏洞细节提前泄露或发现在野利用，会提前发布。WordPress 等大量网站跑在 PHP 上，运维团队需预留升级窗口。Hacker News 讨论中。",
+   "links": [
+    "https://www.php.net/archive/2026.php",
+    "https://news.ycombinator.com/item?id=50171528"
+   ],
+   "topic": "php-critical-security-release-2026-10-21",
+   "firstSeen": "2026-10-21T05:45:41+08:00"
   }
  ],
- "lastChecked": "2026-10-21T05:28:29+08:00"
+ "lastChecked": "2026-10-21T05:45:41+08:00"
 }
