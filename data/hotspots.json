@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-20T23:47:47+08:00",
+ "lastUpdated": "2026-10-21T00:00:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16400,7 +16400,32 @@
    ],
    "topic": "ofcom-4chan-enforcement-concedes-2026-10",
    "firstSeen": "2026-10-20T23:47:47+08:00"
+  },
+  {
+   "id": "3492064927",
+   "title": "前 OpenAI 研究主管 Bob McGrew 创办 Arda：AI 把产品 CAD 直接变成装配线方案，估值 15 亿美元",
+   "summary": "10 月 20 日，前 OpenAI 首席研究官 Bob McGrew 的新公司 Arda 结束隐身，累计融资 2.32 亿美元，由 Altimeter、Accel、Khosla 领投，估值 15 亿美元。它的 AI agent 读取产品 CAD 和设计文件，自动排出装配顺序、写作业指导书、布置工位，McGrew 称它对制造工程师就像 Claude、Cursor 对程序员。已在 Anduril 的 ArsenalOS 中使用：简单作业指导从 10 小时缩到 15 分钟，复杂流程从 30 小时缩到约 2.5 小时。先做国防和数据中心供应链（变压器等电气设备），下一步用 agent 给机器人编程，目标是在美国造出「全自动版深圳」。",
+   "links": [
+    "https://www.financialcontent.com/article/bizwire-2026-10-20-arda-emerges-from-stealth-to-speed-up-american-manufacturing",
+    "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
+    "https://qz.com/arda-ai-manufacturing-startup-230-million-funding-102026",
+    "https://x.com/i/trending/2112569366479048900"
+   ],
+   "topic": "arda-bob-mcgrew-ai-manufacturing-2026-10",
+   "firstSeen": "2026-10-21T00:00:12+08:00"
+  },
+  {
+   "id": "ebb17cebea",
+   "title": "一张自拍预测癌症生存率：麻省总医院 FAHR-Face 用 4000 万张人脸训练，高风险组死亡率是低风险组 3 倍多",
+   "summary": "麻省总医院布莱根（Mass General Brigham）团队在《柳叶刀·数字健康》发表 FAHR-Face：先用 4000 多万张人脸照片预训练基础模型，再微调出两个模型，一个估算生物学年龄（公开数据集平均误差 5.1 岁），一个根据放疗前的普通面部照片预测癌症患者生存风险。在哈佛队列中，风险最高四分之一人群的死亡率是最低组的 3.23 倍（已校正年龄、性别和癌种），并在 4892 名荷兰患者中独立验证。研究者称它可作为低成本、无创的治疗决策辅助，但仍处研究阶段，临床医生呼吁做前瞻性验证，也有人担心隐私问题。",
+   "links": [
+    "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00079-8/fulltext",
+    "https://arxiv.org/abs/2506.14909",
+    "https://x.com/i/trending/2112433199888679267"
+   ],
+   "topic": "mgb-fahr-face-cancer-survival-photo-2026-10",
+   "firstSeen": "2026-10-21T00:00:12+08:00"
   }
  ],
- "lastChecked": "2026-10-20T23:47:47+08:00"
+ "lastChecked": "2026-10-21T00:00:12+08:00"
 }
