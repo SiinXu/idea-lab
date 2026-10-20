@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T07:16:41+08:00",
+ "lastUpdated": "2026-10-21T07:22:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17157,7 +17157,18 @@
    ],
    "topic": "shinyhunters-ransom-negotiator-extortion-site-2026-10",
    "firstSeen": "2026-10-21T07:16:41+08:00"
+  },
+  {
+   "id": "428d542adc",
+   "title": "PHP 官方预告紧急安全更新：两个 CVSS 9.2 严重漏洞，10 月 21 日发布补丁",
+   "summary": "PHP 安全团队 10 月 20 日在 php.announce 邮件列表发布预告：即将发布的安全版本修复两个严重漏洞（CVSS v4.0 评分均为 9.2），定于 10 月 21 日 14:00 UTC（北京时间 22:00）发布；若漏洞细节提前公开或发现在野利用，可能提前发布。官方建议所有 PHP 用户现在就准备好尽快升级，WordPress 等大量网站将受影响。",
+   "links": [
+    "https://news-web.php.net/php.announce/509",
+    "https://news.ycombinator.com/item?id=50172041"
+   ],
+   "topic": "php-critical-security-release-2026-10",
+   "firstSeen": "2026-10-21T07:22:25+08:00"
   }
  ],
- "lastChecked": "2026-10-21T07:16:41+08:00"
+ "lastChecked": "2026-10-21T07:22:25+08:00"
 }
