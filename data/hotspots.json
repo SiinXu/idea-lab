@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-20T22:55:03+08:00",
+ "lastUpdated": "2026-10-20T23:10:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16329,7 +16329,20 @@
    ],
    "topic": "cairn-ai-agents-breach-100-companies-2026-10",
    "firstSeen": "2026-10-20T22:55:03+08:00"
+  },
+  {
+   "id": "bd9b3f35c9",
+   "title": "Cloudflare 发布 Clairic：不生成 token、直接「填表」的抽取模型，每百万输入 token 0.1 美元",
+   "summary": "Cloudflare 10 月 19 日在 Workers AI 上线预览版模型 Clairic（@cf/cloudflare/clairic），定位为「System One」式抽取模型：开发者传入一段文本（最多再附 4 张图）和一份带类型的字段清单，它一次读完输入，按字段类型直接解码出值——文本片段（附原文字符位置）、数字、日期、时长、列表、区间估计和最多 64 步的预测，读不出来就返回 null，不会编造。每个答案都带 p_null 和置信度，估计类还给中位数和 80% 区间，方便决定哪些自动化、哪些转人工审核。上下文 6.5 万 token，官方称即将开放权重；目前多步运算和长期预测仍偏弱，建议「抽取交给 Clairic，算账交给代码」。适合发票、收据、邮件、工单等非结构化数据入库场景。",
+   "links": [
+    "https://blog.cloudflare.com/clairic-extraction-model/",
+    "https://developers.cloudflare.com/changelog/post/2026-10-19-clairic-workers-ai/",
+    "https://developers.cloudflare.com/workers-ai/models/clairic/",
+    "https://x.com/i/trending/2112259390430691357"
+   ],
+   "topic": "cloudflare-clairic-extraction-model-2026-10",
+   "firstSeen": "2026-10-20T23:10:10+08:00"
   }
  ],
- "lastChecked": "2026-10-20T22:55:03+08:00"
+ "lastChecked": "2026-10-20T23:10:10+08:00"
 }
