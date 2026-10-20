@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T05:15:48+08:00",
+ "lastUpdated": "2026-10-21T05:28:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17000,7 +17000,18 @@
    ],
    "topic": "emudhra-intermediate-ca-compromise",
    "firstSeen": "2026-10-21T05:15:48+08:00"
+  },
+  {
+   "id": "e5d61dcd01",
+   "title": "斯巴鲁宣布 2027 年底前退出欧洲燃油车市场，之后只卖电动车",
+   "summary": "Electrek 10 月 20 日报道，斯巴鲁德国向 Auto Motor und Sport 确认：受欧盟排放和驾驶辅助法规影响，斯巴鲁最迟 2027 年底在欧洲停售所有内燃机车型。Outback 今年底先停产，2027 年 Impreza、Crosstrek、Forester 跟进；2028 年起欧洲只剩与丰田联合开发的 Solterra、E-Outback、Uncharted 三款电动 SUV。美国市场不受影响。斯巴鲁同时展示了首个自研 EV 平台、电池、电机和支持 OTA 的集成控制器，计划 2029 年前后上车，减少对丰田的依赖。Hacker News 首页讨论中。",
+   "links": [
+    "https://electrek.co/2026/10/20/subaru-killing-off-gas-cars-europe-will-only-sell-evs/",
+    "https://news.ycombinator.com/item?id=50171793"
+   ],
+   "topic": "subaru-europe-ev-only",
+   "firstSeen": "2026-10-21T05:28:29+08:00"
   }
  ],
- "lastChecked": "2026-10-21T05:15:48+08:00"
+ "lastChecked": "2026-10-21T05:28:29+08:00"
 }
