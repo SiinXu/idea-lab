@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T03:17:37+08:00",
+ "lastUpdated": "2026-10-21T03:27:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16777,7 +16777,31 @@
    ],
    "topic": "ai-debt-cds-record-trading-2026-10",
    "firstSeen": "2026-10-21T03:17:37+08:00"
+  },
+  {
+   "id": "fed653a531",
+   "title": "Foursquare 创始人发长文：被 Infillion 收购后股东分文未得，优先股和普通股全部清零",
+   "summary": "Foursquare 联合创始人 Dennis Crowley 10 月 20 日发文《关于 Foursquare 的最后几句话》：公司一个月前被广告技术公司 Infillion 收购，交易文件显示优先股和普通股均被注销且不获任何现金或对价，股东回报为 0。Crowley 称公司 2019–2021 年曾连续实现超 1 亿美元年收入，并把问题归咎于 2019 年引入私募资本、2021 年由主导融资的银行家出任 CEO 后的管理层，同时承认自己作为前 CEO 和董事也负有责任。Infillion 表示将保留 Foursquare 的位置数据业务，Swarm 等消费级应用的去向（包括开源）仍在评估。这件事在创业圈引发对债务融资、私募接管与员工期权价值的讨论。",
+   "links": [
+    "https://teendrama.substack.com/p/some-final-words-on-foursquare",
+    "https://www.techmeme.com/261020/p33",
+    "https://www.axios.com/2026/09/18/infillion-acquires-foursquare-location-data"
+   ],
+   "topic": "foursquare-zero-payout",
+   "firstSeen": "2026-10-21T03:27:22+08:00"
+  },
+  {
+   "id": "892ebe0080",
+   "title": "赫兹旗下 Oro Mobility 获 8000 万美元：给 Uber 的 Lucid 无人出租车车队管充电、维修和车场",
+   "summary": "10 月 20 日，租车巨头赫兹宣布旗下车队管理公司 Oro Mobility 获得约 8000 万美元战略股权投资，投资方包括对冲基金大佬 Steve Cohen 的 Cohen Private Ventures 以及 Certares、Knighthead 相关基金，Oro 由此成为独立的增长平台，赫兹保留多数经济权益。Oro 目前在美国主要出行市场运营约 4.5 万辆车，业务覆盖网约车租赁、雇佣司机车队和自动驾驶车队管理；它与 Uber 合作，为搭载 Nuro 自动驾驶技术的 Lucid 无人出租车提供充电、保养、维修、清洁和车场人员服务，首站旧金山湾区。这说明无人出租车规模化后，「车队运营层」正在成为一门独立生意。",
+   "links": [
+    "https://newsroom.hertz.com/press-releases/press-release-details/hertz-backed-oro-mobility-secures-80-million-strategic-equity-investment-to-accelerate-independent-growth/",
+    "https://www.axios.com/2026/10/20/steve-cohen-hertz-robotaxi-80-million",
+    "https://www.techmeme.com/261020/p36"
+   ],
+   "topic": "oro-mobility-80m",
+   "firstSeen": "2026-10-21T03:27:22+08:00"
   }
  ],
- "lastChecked": "2026-10-21T03:17:37+08:00"
+ "lastChecked": "2026-10-21T03:27:22+08:00"
 }
