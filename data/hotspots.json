@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-20T21:25:16+08:00",
+ "lastUpdated": "2026-10-20T21:38:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16087,7 +16087,55 @@
    ],
    "topic": "doubleai-maxwell-code-execution-model-2026-10",
    "firstSeen": "2026-10-20T21:25:16+08:00"
+  },
+  {
+   "id": "66d5720ec8",
+   "title": "Anthropic 拿出 5% 股份设「公共利益基金」，马斯克称也要跟进",
+   "summary": "Anthropic 10 月 18 日宣布设立 Anthropic Public Benefit Fund（全资 LLC，非 501(c)(3)），经股东批准后先注入 5% 股份，公司估值相对基线每涨 50%，董事会可再追加 2%。基金可向非营利组织大额捐赠，也可直接向特定人群发放，例如受 AI 冲击的劳动者；所持股权不得用于游说或政治捐款。加上联合创始人承诺捐出 80% 股权和员工捐股配捐，约 20% 股份将用于公益。马斯克在 X 上回应称也会这么做，但更倾向直接把股份分给公众，引发「AI 全民高收入」讨论。",
+   "links": [
+    "https://www.anthropic.com/news/public-benefit-fund",
+    "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+    "https://x.com/i/trending/2112176711844458620"
+   ],
+   "topic": "anthropic-public-benefit-fund-5pct-2026-10",
+   "firstSeen": "2026-10-20T21:38:42+08:00"
+  },
+  {
+   "id": "51f052cd8a",
+   "title": "电网要等到 2030 年代：微软退出 Nscale 英国最大 AI 数据中心",
+   "summary": "微软终止了在 Nscale 位于埃塞克斯郡 Loughton 的 AI 数据中心担任锚定租户的协议，原因是电网方告知该站点要到 2030 年代才能通电。该项目计划部署 23,040 块英伟达 GB300、约 50MW 算力，是去年特朗普访英时宣布的旗舰项目。微软称决定只涉及这一站点，双方在挪威、葡萄牙、美国的合作不受影响；Nscale 表示会寻找替代电源。英国电网排队最长可拖 13 年，电力正成为 AI 基建最大瓶颈。",
+   "links": [
+    "https://www.channelnewsasia.com/business/microsoft-pulls-out-uk-nscale-data-centre-deal-over-power-delay-6469486",
+    "https://www.bbc.com/news/articles/c9m26kl5y7epo",
+    "https://x.com/i/trending/2112496630352281688"
+   ],
+   "topic": "microsoft-exits-nscale-loughton-power-2026-10",
+   "firstSeen": "2026-10-20T21:38:42+08:00"
+  },
+  {
+   "id": "f93e873801",
+   "title": "Skyfall AI 发布 SKY-001「工程世界模型」：草图秒变可执行 CAD 建模步骤",
+   "summary": "Skyfall AI（团队来自被微软收购的 Maluuba）10 月 19 日发布 SKY-001，不做下一个 token 预测，而是把文字或 2D 草图递归拆成零件，逐步规划草图、拉伸、切削和装配，输出可在 Autodesk Fusion 等 CAD/BIM 软件中使用的建模序列。官方自测 CAD IoU 79.7%（GPT-6 Astra 为 79.1%），但单例只需 3.9 秒、约 0.005 美元，对方要 199 秒、0.75 美元。目前仅研究预览、需排队，商用目标 2027 年初。",
+   "links": [
+    "https://skyfall.ai/sky-001",
+    "https://www.orcarouter.ai/blog/sky-001-engineering-world-model",
+    "https://x.com/i/trending/2112248553276096752"
+   ],
+   "topic": "skyfall-sky-001-engineering-world-model-2026-10",
+   "firstSeen": "2026-10-20T21:38:42+08:00"
+  },
+  {
+   "id": "7a364f356a",
+   "title": "OpenAI：COBOL 迁移准确率最高 97.9%，开源 MultiLangBench 测 20 种语言",
+   "summary": "OpenAI 10 月 19 日发文称新模型在 COBOL、Fortran、OCaml、Visual Basic 等低资源语言上大幅进步，并开源 MultiLangBench：让模型用 20 种语言从零写一个兼容 SQLite 的数据库引擎。GPT-6 Astra 平均通过率 87.4%（GPT-5.6 Sol 仅 26.8%），COBOL 从 10.9% 升到 72.1%。另一项 COBOL 迁移到 C++/Java/Python/Rust 等的测试要求输出逐字节一致，GPT-6.1 Sol 低推理档 86.6%、高推理档 97.9%。银行、政府的老系统现代化成本可能大降，但官方强调生产环境仍需专家审查。",
+   "links": [
+    "https://openai.com/index/low-resource-programming-languages/",
+    "https://aicoder.com/news/news-20261020-openai-multilangbench-cobol-migration-low-resource-languages",
+    "https://x.com/i/trending/2112336530123755651"
+   ],
+   "topic": "openai-cobol-multilangbench-2026-10",
+   "firstSeen": "2026-10-20T21:38:42+08:00"
   }
  ],
- "lastChecked": "2026-10-20T21:25:16+08:00"
+ "lastChecked": "2026-10-20T21:38:42+08:00"
 }
