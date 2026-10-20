@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-17T13:53:26+08:00",
+ "lastUpdated": "2026-10-20T20:56:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -15986,7 +15986,30 @@
    ],
    "topic": "hn-butlerian-jihad-2026-10",
    "firstSeen": "2026-10-17T13:53:26+08:00"
+  },
+  {
+   "id": "dfccc413e7",
+   "title": "DeepSeek 开源自家生产级推理引擎 DeepInfer，HN 数小时冲到 800+ 分",
+   "summary": "DeepInfer 是支撑 DeepSeek 大规模线上服务的推理框架，Apache-2.0 开源，首发支持 DeepSeek-V4.1-Flash：集成 FlashMLA/DeepGEMM/DeepEP 等自研内核，支持注意力 DP、MoE 专家并行+负载均衡、草稿 token 加速解码、批次无关推理、确定性采样和结构化输出；硬件覆盖 NVIDIA SM100 与华为昇腾 950。本次只放出离线推理，KV 缓存系统、预填充/解码分离和多副本负载均衡未包含。GitHub 上线几天已约 7k 星，是自建推理服务和国产算力适配的重要参考。",
+   "links": [
+    "https://github.com/deepseek-ai/DeepInfer",
+    "https://news.ycombinator.com/item?id=50163277"
+   ],
+   "topic": "deepseek-deepinfer-open-source-2026-10",
+   "firstSeen": "2026-10-20T20:56:56+08:00"
+  },
+  {
+   "id": "6e603dac87",
+   "title": "谷歌云伦敦区「电力事件」宕机：Revolut、劳埃德等英国银行和网站受波及",
+   "summary": "谷歌云 europe-west2（伦敦）区 b 可用区于 10 月 19 日 23:08（太平洋时间）起因电力事件停摆，Cloud Run、Spanner、BigQuery、负载均衡等多项服务报错；Revolut 确认受第三方故障影响，劳埃德、Halifax、苏格兰银行 App 也出现异常，BBC 报道连英国法院系统都受影响。谷歌称多数工作负载已恢复，但新建资源可能仍受限。再次提醒：关键业务要做跨可用区/跨云容灾。",
+   "links": [
+    "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj",
+    "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
+    "https://news.ycombinator.com/item?id=50163961"
+   ],
+   "topic": "gcp-europe-west2-power-outage-2026-10",
+   "firstSeen": "2026-10-20T20:56:56+08:00"
   }
  ],
- "lastChecked": "2026-10-17T13:53:26+08:00"
+ "lastChecked": "2026-10-20T20:56:56+08:00"
 }
