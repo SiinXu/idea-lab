@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T00:38:28+08:00",
+ "lastUpdated": "2026-10-21T01:02:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16492,7 +16492,20 @@
    ],
    "topic": "mistral-voxtral-3-voice-agent-sdk-2026-10",
    "firstSeen": "2026-10-21T00:38:28+08:00"
+  },
+  {
+   "id": "4cad46895a",
+   "title": "PyTorch 大会同日两连发：谷歌开源 TorchTPU、亚马逊开源 TorchNeuron，PyTorch 代码几乎不改就能跑在 TPU 和 Trainium 上",
+   "summary": "10 月 20 日 PyTorch Conference 2026 上，谷歌宣布与 Meta PyTorch 团队合作开发的 TorchTPU 正式开源（GitHub google-pytorch/torch_tpu，PyPI 0.2.0 已发布）：TPU 与 GPU、CPU 一样成为 PyTorch 的原生设备，支持 eager 模式调试、torch.compile 提速和分布式训练，并打通 vLLM、SGLang、TorchTitan、Ray、Hugging Face 等工具，Transformers v5 里只需 device_map=\"tpu\"。同一天，亚马逊宣布在大会上开源 TorchNeuron，称现有 PyTorch 代码只改一项配置就能跑在自研 Trainium 芯片上，无需重写；亚马逊还称其自研芯片业务年化营收已超 250 亿美元。两家云厂商同日把「不用改代码就能换芯片」摆上台面，直指英伟达 CUDA 的软件护城河；HN 上 TorchTPU 帖发出不久即上首页，有评论追问「谷歌云之外能不能买到 TPU」。",
+   "links": [
+    "https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus",
+    "https://github.com/google-pytorch/torch_tpu",
+    "https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai",
+    "https://news.ycombinator.com/item?id=50169053"
+   ],
+   "topic": "torchtpu-torchneuron-pytorch-conference-2026-10",
+   "firstSeen": "2026-10-21T01:02:15+08:00"
   }
  ],
- "lastChecked": "2026-10-21T00:38:28+08:00"
+ "lastChecked": "2026-10-21T01:02:15+08:00"
 }
