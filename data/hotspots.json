@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T00:11:45+08:00",
+ "lastUpdated": "2026-10-21T00:31:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16450,7 +16450,39 @@
    ],
    "topic": "amanita-machinarium-ai-fan-animation-backlash-2026-10",
    "firstSeen": "2026-10-21T00:11:45+08:00"
+  },
+  {
+   "id": "6426decba2",
+   "title": "Cloudflare 开源 security-audit 技能：让编码 Agent 变成六阶段安全审计员，单日涨星 1680",
+   "summary": "cloudflare/security-audit-skill 今天登上 GitHub Trending 前列，单日新增约 1680 星、累计约 3.3 万星。它是 Cloudflare 内部漏洞挖掘系统的起点（官方博客《Build your own vulnerability harness》有介绍）：把一次审计拆成侦察、按覆盖账本分派隔离「猎手」Agent、由新 Agent 反驳验证候选漏洞、输出结构化 findings.json、再由独立 Agent 复核、最后生成报告六个阶段；结论分为 confirmed / needs_validation / rejected 三类，多次运行可累加覆盖。还附带针对 LLM 提示注入、供应链、云部署、Web 协议等攻击类别的提示库。对做 AI 安全审计、代码审查类产品的人，这是一套可直接拆解复用的多 Agent 编排范式。",
+   "links": [
+    "https://github.com/cloudflare/security-audit-skill",
+    "https://blog.cloudflare.com/build-your-own-vulnerability-harness"
+   ],
+   "topic": "cloudflare-security-audit-skill-trending-2026-10",
+   "firstSeen": "2026-10-21T00:31:06+08:00"
+  },
+  {
+   "id": "27b489803f",
+   "title": "「最懒资深工程师」技能 Ponytail 5 重写发布：代码少 53%、token 少 45%，GitHub 单日再涨近 1400 星",
+   "summary": "DietrichGebert/ponytail 是一个让 AI 编码 Agent「像屋里最懒的资深工程师一样思考」的技能，口号是「最好的代码是你没写的代码」，支持约 20 种 Agent，累计约 16.9 万星，今天仍以单日约 1400 星排在 GitHub Trending 前列。新版 Ponytail 5 号称从头重写，作者在 Claude Code 里用 39 个任务（含真实 FastAPI + React 仓库）、每项跑 5 次做对比：代码量 -53%、耗时 -41%、成本 -26%、token -45%，同时 98% 的高风险逻辑带测试（不用时为 68%）。数据为作者自测。项目还在征集企业使用故事并开放候补名单，显示「Agent 行为规范/技能包」正在变成可商业化的品类。",
+   "links": [
+    "https://github.com/DietrichGebert/ponytail",
+    "https://ponytail.dev/stories"
+   ],
+   "topic": "ponytail-5-lazy-senior-dev-skill-2026-10",
+   "firstSeen": "2026-10-21T00:31:06+08:00"
+  },
+  {
+   "id": "797d85b8a6",
+   "title": "X 热议：英意大学生称 AI「尬」、是上一代甩给他们的负担，Z 世代对 AI 热情明显降温",
+   "summary": "软件工程师 Alex Yumashev 在 X 上分享，他在英国和意大利读大学的两个 18、19 岁女儿及其朋友，把 AI 看作「老一辈发明、要他们和气候变化一起收拾的烂摊子」：信息流被低质内容淹没、伤害音乐、助长诈骗，还让学建筑、学乐器这类技能显得没意义。帖子引发大量家长和艺术创作者附和，X 的热点汇总还提到多项调查显示 Z 世代对 AI 的兴奋度大幅下降，重度用户反而更反感（担心就业、学得浅）。对面向年轻人的 AI 产品来说，「AI 味」本身正在成为负面标签，强调真人创作、透明标注可能是差异化方向。",
+   "links": [
+    "https://x.com/i/trending/2112563675110207845"
+   ],
+   "topic": "gen-z-ai-cringe-generational-burden-2026-10",
+   "firstSeen": "2026-10-21T00:31:06+08:00"
   }
  ],
- "lastChecked": "2026-10-21T00:11:45+08:00"
+ "lastChecked": "2026-10-21T00:31:06+08:00"
 }
