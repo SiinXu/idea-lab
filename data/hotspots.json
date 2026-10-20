@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T00:00:12+08:00",
+ "lastUpdated": "2026-10-21T00:11:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16425,7 +16425,32 @@
    ],
    "topic": "mgb-fahr-face-cancer-survival-photo-2026-10",
    "firstSeen": "2026-10-21T00:00:12+08:00"
+  },
+  {
+   "id": "7524c193e7",
+   "title": "Meta Muse 留存曲线曝光：次日 73% 远超 ChatGPT，第 9 天被反超，14 天只剩 22.5%",
+   "summary": "Menlo Ventures 合伙人 Deedy Das 在 X 上公布 Sensor Tower 的 2026 年 9 月新装用户数据（iOS+安卓，81 国）：Meta 9 月 8 日上线的个人 AI agent Muse 次日留存 73.3%，接近 ChatGPT（41.3%）的两倍；第 7 天仍在 30% 以上，但流失更快，第 8～9 天被 ChatGPT 反超，第 14 天 Muse 22.5%、ChatGPT 26.8%，Threads 21.2%、Google 地图 18.5%。另一种口径更难看：次日还在用的 100 人里，Muse 到第 14 天只留住 31 人，ChatGPT 留住 65 人。两者都远低于 WhatsApp（67%）、YouTube（59%）、Instagram（54%）。Meta 和 Sensor Tower 均未独立公布这组数据，且 Muse 首发主要在美加，样本并不完全可比。对做 AI 应用的人来说，这是「靠大流量导入拉新容易、让用户每天回来难」的现成案例。",
+   "links": [
+    "https://www.allthingsmuse.com/articles/muse-retention-wins-day-one-fades-by-day-14/",
+    "https://www.benzinga.com/markets/equities/26/10/62296188/jim-cramer-calls-mark-zuckerbergs-meta-a-monster-long-as-muse-ai-retention-proves-almost-as-good-as-chatgpt",
+    "https://finance.yahoo.com/technology/ai/articles/meta-stock-pops-muse-ai-124231104.html",
+    "https://x.com/i/trending/2112527508331724995"
+   ],
+   "topic": "meta-muse-retention-sensor-tower-2026-10",
+   "firstSeen": "2026-10-21T00:11:45+08:00"
+  },
+  {
+   "id": "e6e0b1d756",
+   "title": "《机械迷城》开发商 Amanita 怒斥 AI 同人动画是「AI 垃圾」：「情书应该手写」",
+   "summary": "10 月 20 日，捷克独立游戏工作室 Amanita Design 公开回应前 Unity AI 高级副总裁、Nura Studios CEO Sylvio Drouin 发布的《机械迷城》AI 同人短片：对方把游戏原画素材喂给 AI 生成动画，并称之为献给游戏的「情书」。Amanita 称「把《机械迷城》的素材喂给 AI、做出 AI 垃圾动画还叫它情书，真是胆大……情书应该手写。这看着令人作呕，和我们、和我们的手艺毫无关系」，并呼吁粉丝去关注官方续作《机械迷城 2》。短片标注为两集中的第一集，其他创作者纷纷附和。事件再次把「用原作素材做 AI 二创」的授权与口碑风险推上台面，对做 AI 视频、AI 同人工具的产品是一个明确的雷区信号。",
+   "links": [
+    "https://cdaction.pl/newsy/studio-amanita-uderza-w-fanowski-film-ai-majacy-byc-listem-milosnym-do-machinarium-to-jest-obrzydliwe/",
+    "https://dtf.ru/gameindustry/5364853-amanita-design-osudila-fanatskuyu-korotkometrazhku-po-machinarium",
+    "https://x.com/i/trending/2112569366718087379"
+   ],
+   "topic": "amanita-machinarium-ai-fan-animation-backlash-2026-10",
+   "firstSeen": "2026-10-21T00:11:45+08:00"
   }
  ],
- "lastChecked": "2026-10-21T00:00:12+08:00"
+ "lastChecked": "2026-10-21T00:11:45+08:00"
 }
