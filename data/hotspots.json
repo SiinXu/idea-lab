@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-20T21:38:42+08:00",
+ "lastUpdated": "2026-10-20T22:00:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16135,7 +16135,67 @@
    ],
    "topic": "openai-cobol-multilangbench-2026-10",
    "firstSeen": "2026-10-20T21:38:42+08:00"
+  },
+  {
+   "id": "1b30c489cc",
+   "title": "eMudhra 八张中间 CA 证书私钥泄露：Firefox 已拉黑，Go 紧急发布补丁",
+   "summary": "Mozilla 10 月 20 日披露，10 月 17 日收到举报称印度 CA 厂商 eMudhra 的 8 张中间证书私钥已泄露，攻击者可借此为不属于自己的网站签发伪造 HTTPS 证书。Firefox 当晚即通过 OneCRL 拉黑，无需用户升级；NSS 信任库也在 20 日移除了签发这些证书的根证书，部分仍用旧链的服务器在非 Firefox 客户端上可能无法访问。Go 同步发布安全修复（CVE-2026-111943），crypto/x509 会过滤掉包含这 8 个中间证书的链，官方建议立即升级。",
+   "links": [
+    "https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/0R3XLJL6FuE/m/0XofdebrAAAJ",
+    "https://github.com/golang/go/issues/82345",
+    "https://news.ycombinator.com/item?id=50160877"
+   ],
+   "topic": "emudhra-intermediate-ca-compromise-2026-10",
+   "firstSeen": "2026-10-20T22:00:05+08:00"
+  },
+  {
+   "id": "0c63a76130",
+   "title": "Inception 发布 Mercury 3：扩散语言模型首次追平主流快速模型，每秒 1068 token",
+   "summary": "Inception 10 月 19 日发布扩散式大模型 Mercury 3，参数规模是 Mercury 1 的 40 多倍，官方称在多项基准上追平或超过 GPT-6 Luna 和 Claude Haiku 5.5，同时在英伟达 GPU 上跑到每秒 1068 个 token，快 4–8 倍。上下文从 26 万扩到 100 万 token；首发价五折，每百万输入 0.10 美元、输出 0.35 美元，新 API 账号送 1 亿免费 token。已上 OpenRouter、Baseten、Vercel AI Gateway，兼容 OpenAI 接口，适合语音客服、浏览器 Agent 这类对延迟敏感的场景。",
+   "links": [
+    "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+    "https://vercel.com/changelog/mercury-3-now-available-on-ai-gateway",
+    "https://x.com/i/trending/2112240832120025351"
+   ],
+   "topic": "inception-mercury-3-2026-10",
+   "firstSeen": "2026-10-20T22:00:05+08:00"
+  },
+  {
+   "id": "fcf798d48e",
+   "title": "Viggle 发布 JST-2「物理原生」世界模型：一秒生成可漫游 3D 场景，角色免绑骨",
+   "summary": "做表情包动画 App（5000 万+用户）的 Viggle 10 月 19 日发布 JST-2，不在像素空间学习，而是把世界表示成带坐标和动力学向量的持久 3D「原子」，再解码成高斯泼溅在浏览器本地渲染。首个场景在 B200 上约 1 秒生成、推理成本不到 1 美分；角色可从单张图生成且自带运动动力学，省掉绑骨和蒙皮；文本或视频可直接驱动全身动作。可在 PINOC 免费试用，API 每个文生场景 0.06 美元。官方说明碰撞和物体交互目前仍是规则物理，JST-3 才会学习。",
+   "links": [
+    "https://viggle.ai/jst2",
+    "https://viggle.ai/developers",
+    "https://x.com/i/trending/2112209873731723665"
+   ],
+   "topic": "viggle-jst-2-2026-10",
+   "firstSeen": "2026-10-20T22:00:05+08:00"
+  },
+  {
+   "id": "e6189ff0a9",
+   "title": "韩国 AI 云公司 Elice 上市首日暴跌 32%：400 倍超额认购也没托住",
+   "summary": "从编程教育转型 GPU 云的 Elice 10 月 20 日登陆 KOSDAQ，这是韩国今年最大 IPO，募资 2011 亿韩元，按发行价估值约 1 万亿韩元，散户认购冻结超过 10 万亿韩元。但股价开盘即跌，收盘 61500 韩元，较发行价 90500 韩元跌 32.04%。分析指向机构配售中约 69% 没有锁定期、开盘即可卖出，叠加 CoreWeave 财务担忧和当天 KOSPI 大跌 3.7%，市场对 AI 算力基建估值明显降温。",
+   "links": [
+    "https://www.yna.co.kr/view/AKR20261020038851008",
+    "https://en.sedaily.com/finance/2026/10/20/elice-plunges-30-percent-in-kosdaq-trading-debut",
+    "https://www.cnbc.com/2026/10/20/south-korea-elice-plunges-in-market-debut.html",
+    "https://x.com/i/trending/2112533925725610232"
+   ],
+   "topic": "elice-kosdaq-ipo-plunge-2026-10",
+   "firstSeen": "2026-10-20T22:00:05+08:00"
+  },
+  {
+   "id": "6a01ce2d8f",
+   "title": "GEO 实验：5 万条编造的统计数据，被 ChatGPT 引用了 7 个月",
+   "summary": "Peec AI 的 GEO 研究员 Metehan Yesilyurt 披露：今年 3 月他花约 50 美元用 GPT-4.1 一天生成 5 万个全是虚构数字的统计页面，上线到新域名 stateglobe.com。谷歌很快把站点降权到几乎无曝光，但 ChatGPT 一直在实时抓取引用：近 30 天 ChatGPT-User 抓取约 7.2 万次，GA4 记录 1 万多次来自 ChatGPT 的访问，还拿到 Shopify、DHL 等 330+ 外链，假数字甚至进了学术论文和银行研报。结论是「被 LLM 检索」和「在谷歌排名」是两回事，也暴露了 AI 搜索的数据污染风险。",
+   "links": [
+    "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+    "https://news.ycombinator.com/item?id=50165801"
+   ],
+   "topic": "peec-fake-stats-llm-citation-2026-10",
+   "firstSeen": "2026-10-20T22:00:05+08:00"
   }
  ],
- "lastChecked": "2026-10-20T21:38:42+08:00"
+ "lastChecked": "2026-10-20T22:00:05+08:00"
 }
