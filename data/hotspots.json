@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-20T22:47:33+08:00",
+ "lastUpdated": "2026-10-20T22:55:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16292,7 +16292,44 @@
    ],
    "topic": "ipados-27-airplay-presentation-regression-2026-10",
    "firstSeen": "2026-10-20T22:47:33+08:00"
+  },
+  {
+   "id": "48c7d067f9",
+   "title": "Altman 内部会议摆出 AI 三种终局：国际版原子能机构、实验室合并，或一家「熔掉所有人的 GPU」",
+   "summary": "据 The Information 10 月 19 日报道，Sam Altman 上周在 OpenAI 全员会上向员工讲了让超级智能竞赛变安全的三条路：一是仿照国际原子能机构（IAEA）设立国际监管机构，对前沿实验室强制执行安全标准，知情人称他倾向这一条；二是「Demis 方案」，即哈萨比斯多年前提出的「AI 版 CERN」，各大实验室合并或通过同一机构向参与国家提供模型；三是「Eliezer 方案」，率先实现递归自我改进的公司用经济实力切断所有对手的算力，Altman 原话是「熔掉所有人的 GPU」，并称「这显然很糟糕」，只是为了讨论完整才提。他还说 OpenAI 不能单方面停下，需要在一年内决定推动哪条路。报道恰逢白宫「超级智能特遣队」通过章程，OpenAI 尚未公开回应。",
+   "links": [
+    "https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus",
+    "https://dealroom.co/news/164186-altman-tells-openai-staff-there-are-three-endgames-for-ai-an-iaea-for-ai/",
+    "https://x.com/i/trending/2112386205996245100"
+   ],
+   "topic": "altman-three-ai-endgames-allhands-2026-10",
+   "firstSeen": "2026-10-20T22:55:03+08:00"
+  },
+  {
+   "id": "468496b8ac",
+   "title": "开源 DeepSeek V4.1 Flash 在模拟企业内网入侵测试中小胜 GPT-6 Sol，Claude Opus 5.5 中途拒绝",
+   "summary": "Vals AI 10 月 20 日公布其新网络安全基准的首个结果：在一个多步骤的模拟企业内网入侵任务（共 21 个目标）中，开源权重的 DeepSeek V4.1 Flash 1017 三次平均完成 16.3 个，GPT-6 Sol（通过 OpenAI 的 Daybreak 可信访问计划调用，拒答更少）完成 15.7 个；Grok 4.7 为 12，Kimi K3 为 9，Claude Opus 5.5 中途拒绝只完成 1 个。DeepSeek 消耗的 token 约为 Sol 的 5 倍，但单价低得多，总成本仍远低于对手。Vals 尚未公开场景、评分细则和完整日志，完整基准预计几周内发布，目前只算单点初步结论；它引发了「顶级攻防能力已对任何有硬件的人开放」的讨论。",
+   "links": [
+    "https://artificialwatch.com/wire/vals-deepseek-v4-1-flash-beats-gpt-6-sol-offensive-cyber-task",
+    "https://alphasignal.ai/news/deepseek-v4-1-flash-beats-gpt-6-sol-in-a-simulated-cyber-attack",
+    "https://x.com/i/trending/2112525486228156479"
+   ],
+   "topic": "vals-deepseek-v41-flash-beats-gpt6-sol-cyber-2026-10",
+   "firstSeen": "2026-10-20T22:55:03+08:00"
+  },
+  {
+   "id": "46e866d9a5",
+   "title": "黑客用开源 AI 平台 Cairn 指挥 Agent 群，攻入迪尔、SharkNinja 等 100 多家公司网站",
+   "summary": "安全公司 NorForge 研究员 Snorre Fagerland 10 月 19 日发布报告：他通过扫描互联网上暴露的 Cairn（一个可协调多个 AI Agent 完成目标的开源平台，常被用作自动渗透测试）控制台，实时看到了 20 多个恶意实例的操作。最大的中文团伙在 14 个面板上跑了 1,100 多个攻击项目，只用不到 100 个汉字的指令，就让 Agent 尝试攻击 1,200 多个网站、成功率约一成，单次成功平均不到 23 小时，目标是美日澳电商和支付系统的长期访问权限（植入 Web Shell 上传器）。路透社据记录点名迪尔、SharkNinja、康明斯等受害者，三家称影响有限或正在调查。暴露面板里还泄露了数百条凭据，连合法红队的客户测试数据也一并裸奔。",
+   "links": [
+    "https://norforge.com/blog/inside_cairn",
+    "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+    "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+    "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/"
+   ],
+   "topic": "cairn-ai-agents-breach-100-companies-2026-10",
+   "firstSeen": "2026-10-20T22:55:03+08:00"
   }
  ],
- "lastChecked": "2026-10-20T22:47:33+08:00"
+ "lastChecked": "2026-10-20T22:55:03+08:00"
 }
