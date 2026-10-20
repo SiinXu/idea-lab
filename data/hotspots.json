@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T04:55:51+08:00",
+ "lastUpdated": "2026-10-21T05:15:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16989,7 +16989,18 @@
    ],
    "topic": "meta-torrent-approvers-order",
    "firstSeen": "2026-10-21T04:55:51+08:00"
+  },
+  {
+   "id": "9636bb4edc",
+   "title": "eMudhra 8 个中级 CA 私钥泄露：可冒充任意网站，Chrome、Firefox、苹果已紧急拉黑",
+   "summary": "10 月 20 日公开披露：印度证书机构 eMudhra 的 8 个中级 CA 证书私钥被攻破，它们链接到 Mozilla、微软、苹果和 Chrome 都信任的根证书，持有私钥的攻击者理论上能冒充任何网站。报告人 10 月 17 日用这些私钥签名一段消息作为证据提交给各根证书项目；Firefox 和 Chrome 当天已拉黑，苹果 19 日跟进，CA 也已吊销。但很多不读吊销信息的客户端需要更新系统证书包：Ubuntu、Arch、Gentoo 已发补丁，Debian、Fedora、FreeBSD 仍待发布。Hacker News 上热度 460+。",
+   "links": [
+    "https://emudhra.we-have-a-problem.com/",
+    "https://news.ycombinator.com/item?id=50166579"
+   ],
+   "topic": "emudhra-intermediate-ca-compromise",
+   "firstSeen": "2026-10-21T05:15:48+08:00"
   }
  ],
- "lastChecked": "2026-10-21T04:55:51+08:00"
+ "lastChecked": "2026-10-21T05:15:48+08:00"
 }
