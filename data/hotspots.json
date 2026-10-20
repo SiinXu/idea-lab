@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T03:27:22+08:00",
+ "lastUpdated": "2026-10-21T03:43:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16801,7 +16801,79 @@
    ],
    "topic": "oro-mobility-80m",
    "firstSeen": "2026-10-21T03:27:22+08:00"
+  },
+  {
+   "id": "f29e829186",
+   "title": "Salesforce 约 57 亿美元收购营销平台 Braze：每股现金 47.5 美元，补齐实时 AI 营销短板",
+   "summary": "10 月 20 日 Salesforce 宣布以约 56.6 亿美元企业价值收购客户互动平台 Braze，Braze A 类股东每股获 47.5 美元现金，交易预计 2027 年 2 月起完成。Braze 擅长根据用户实时行为在 App、网页、邮件、短信、WhatsApp 等渠道推送个性化内容，每年处理数万亿条消息，BrazeAI 可自动优化内容、优惠、渠道和发送时机。Salesforce 计划把它与 Marketing Cloud、CRM 和 Data 360 打通。消息公布后 Braze 股价大涨超 50%，同类公司 Klaviyo 也跟涨，但 MarketWatch 称 Salesforce 投资者对约 58% 的溢价反应冷淡。",
+   "links": [
+    "https://investor.salesforce.com/news/news-details/2026/Salesforce-Signs-Definitive-Agreement-to-Acquire-Braze/default.aspx",
+    "https://www.cnbc.com/2026/10/20/salesforce-to-acquire-braze.html",
+    "https://www.axios.com/2026/10/20/salesforce-braze"
+   ],
+   "topic": "salesforce-braze-acquisition",
+   "firstSeen": "2026-10-21T03:43:32+08:00"
+  },
+  {
+   "id": "3c1fb18061",
+   "title": "Otter.ai 拿到 3.2 亿美元「按收入还款」融资：不稀释股权、不给董事席位，用户 4000 万、ARR 破 1 亿",
+   "summary": "会议记录工具 Otter.ai 10 月 20 日宣布从 General Catalyst 的客户价值基金（Customer Value Fund）获得 3.2 亿美元。这不是股权投资，而是专款用于销售和营销、随新增收入连本带息偿还的融资，不重新估值也不占董事席位。PitchBook 显示 Otter 此前十年累计只融了约 5000 万美元。Otter 称用户已超 4000 万（一年前 2500 万），覆盖 86% 的财富 500 强，去年底 ARR 超 1 亿美元；新钱将用于企业销售、海外办公室，以及会前简报和会中可提问的实时助手。挑战在于 Zoom、Teams、Google Meet 都已内置 AI 纪要，Granola、Fireflies 等对手也在抢企业预算。",
+   "links": [
+    "https://thetechportal.com/2026/10/20/otter-ai-320-million-general-catalyst-customer-value-fund/",
+    "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "https://www.reuters.com/business/otterai-raises-320-million-non-equity-financing-expand-enterprise-business-2026-10-20/"
+   ],
+   "topic": "otter-ai-320m-cvf",
+   "firstSeen": "2026-10-21T03:43:32+08:00"
+  },
+  {
+   "id": "d6494bc89e",
+   "title": "路透：字节、阿里、腾讯抢订 300 万张英伟达 RTX PRO 5500，总价超 350 亿美元，英伟达称可能只给 5%–10%",
+   "summary": "据路透社 10 月 20 日报道，字节跳动、阿里巴巴和腾讯合计订购了超过 300 万张英伟达 RTX PRO 5500 显卡，单价约 1.14 万美元，按标价计超 350 亿美元。这款工作站卡性能低于 H200 和 B300，但符合美国对华出口管制，中国公司主要拿它做 AI 推理。英伟达已提醒客户和合作伙伴可能只能交付所订数量的 5%–10%：其 2027 年该卡全球产量上限约 300 万张，而中国客户的总订单已超 600 万张，且台积电产能还要优先给下一代数据中心芯片 Rubin。",
+   "links": [
+    "https://qz.com/bytedance-alibaba-tencent-nvidia-chip-orders-102026",
+    "https://www.theverge.com/tech/1014223/nvidia-cant-fulfill-chinas-35-billion-chip-demands",
+    "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/"
+   ],
+   "topic": "china-rtx-pro-5500-orders",
+   "firstSeen": "2026-10-21T03:43:32+08:00"
+  },
+  {
+   "id": "22d0c8651b",
+   "title": "美国国务院制裁奇绩创坛 MiraclePlus：因投资窃取谷歌 AI 机密的丁林伟所创公司智算",
+   "summary": "美国国务院 10 月 20 日依据《保护美国知识产权法》制裁五家中国实体，包括陆奇创办的创业孵化与风投机构奇绩创坛（MiraclePlus）及其管理的一期、二期基金和一家关联企业，以及丁林伟 2023 年创办的上海智算科技。国务院称，丁林伟（今年已被判窃取谷歌 AI 商业机密）在申请奇绩创业营时以熟悉谷歌技术和内部系统为卖点，声称能复制谷歌的超大模型训练基础设施，奇绩随后向智算提供种子资金并换取股权。奇绩被称为「中国版 Y Combinator」，此举可能影响其被投公司的海外融资与合作。",
+   "links": [
+    "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-to-protect-americans-from-intellectual-property-theft-fact-sheet/",
+    "https://www.bloomberg.com/news/articles/2026-10-20/us-sanctions-china-s-y-combinator-in-google-ai-secrets-case",
+    "https://qz.com/us-sanctions-five-chinese-entities-google-trade-secrets-102026"
+   ],
+   "topic": "miracleplus-sanctions",
+   "firstSeen": "2026-10-21T03:43:32+08:00"
+  },
+  {
+   "id": "8bc4294a7a",
+   "title": "Anthropic 泄露版联邦 AI 法案遭安全派围攻：审计机构可自我认证，政府叫停危险模型须先上法院",
+   "summary": "Politico 上周五公开了 Anthropic 向国会议员散发的一份联邦 AI 法案讨论稿，10 月 19 日起遭到 AI 安全圈广泛批评。Transformer 的 Shakeel Hashim 撰文指出，这份草案比两党提出的 FRONTIER 法案弱得多：虽然同样要求第三方评估前沿模型的灾难性风险，但评估机构没有标准和资质要求、可以自我认证，LawAI 的 Charlie Bullock 担心审计方会比谁「最省事、最便宜」；商务部若想阻止危险模型发布，还必须向联邦法院提起诉讼并单独举证。批评者认为这让 Anthropic「安全优先」的形象站不住脚，加州参议员 Scott Wiener 等人也在 X 上发声。",
+   "links": [
+    "https://www.transformernews.ai/p/anthropic-leaked-ai-bill-undermines-safety-first-approach",
+    "https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/10/19/ai-tech-brief-anthropics-leaked-bill/",
+    "https://x.com/scott_wiener/status/2112213719866564742"
+   ],
+   "topic": "anthropic-leaked-ai-bill",
+   "firstSeen": "2026-10-21T03:43:32+08:00"
+  },
+  {
+   "id": "00f2502c70",
+   "title": "Spotify 在 34 个市场上线播客付费会员：创作者自定档位和福利，导出会员联系方式",
+   "summary": "Spotify 10 月 20 日在美国等 34 个市场推出播客 Memberships：创作者可自行组合独家音视频、加更、少广告、抢先听、往期存档等福利，设置多档价格；免费和 Premium 用户都能在节目页直接加入，评论时显示会员徽章。Spotify 还提供定向推广、免费试用和转化分析，创作者能导出愿意分享的会员联系方式。据 Digital Trends 等报道，创作者可拿到约 90% 的收入。首批上线的有 Making Sense with Sam Harris、The Shawn Ryan Show 等，正面对标 Patreon 和 Apple 播客订阅。",
+   "links": [
+    "https://newsroom.spotify.com/2026-10-20/spotify-memberships-creators/",
+    "https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch",
+    "https://www.digitaltrends.com/home-theater/spotify-lets-podcasters-turn-loyal-listeners-into-paying-fans-with-90-of-the-revenue-theirs-to-keep/"
+   ],
+   "topic": "spotify-podcast-memberships",
+   "firstSeen": "2026-10-21T03:43:32+08:00"
   }
  ],
- "lastChecked": "2026-10-21T03:27:22+08:00"
+ "lastChecked": "2026-10-21T03:43:32+08:00"
 }
