@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-20T23:32:54+08:00",
+ "lastUpdated": "2026-10-20T23:47:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16378,7 +16378,29 @@
    ],
    "topic": "voidaccess-dark-web-osint-show-hn-2026-10",
    "firstSeen": "2026-10-20T23:32:54+08:00"
+  },
+  {
+   "id": "66c227fb99",
+   "title": "「去拒答」版 DeepSeek V4.1 Flash 引发恐慌：开发者试用后称「反胃」，主张 GPU 算力应受联邦管制",
+   "summary": "开发者 Nick Khami（@skeptrune）10 月 20 日发帖说，试用了 abliterated（去掉负责拒绝违法请求那部分权重）的 dsv4.1-flash-1017 后「感到反胃」：这类模型会直接帮忙做黑客攻击等事，他由此判断 GPU 算力将成为受联邦监管的资源、此类模型落入坏人手里是国家安全风险。帖子半天内浏览超 15 万、近 1000 赞、200 多条回复，X 已将其列为热点话题；反对者认为老旧未打补丁的系统本来就好打，真正的风险在泄露的 API 密钥，管制开源权重和算力既不现实也会催生黑市。可与同日 Vals AI 网络安全基准中 DeepSeek V4.1 Flash 小胜 GPT-6 Sol 的结果对照看。",
+   "links": [
+    "https://x.com/skeptrune/status/2112385843109433354",
+    "https://x.com/i/trending/2112458036115911062"
+   ],
+   "topic": "abliterated-dsv41-flash-gpu-regulation-debate-2026-10",
+   "firstSeen": "2026-10-20T23:47:47+08:00"
+  },
+  {
+   "id": "e236ed9f72",
+   "title": "英国 Ofcom 在 4chan 案上松口：承认外国法院阻拦时可能收不回罚款",
+   "summary": "Ofcom 首席执行官 Melanie Dawes 10 月 20 日在英国下议院数字、文化、媒体和体育委员会作证时说：「如果外国法院决定……阻拦我们，到某个时候我们只能接受收不回这笔钱。」代理 4chan 起诉 Ofcom 的美国律师 Preston Byrne 随即发文称这等于认输：此前美国哥伦比亚特区联邦法院在 4chan 诉 Ofcom 案的意见中已暗示，违反美国宪法第一修正案或属于刑罚性质的外国判决在美国很可能得不到执行。这关系到英国《网络安全法》对海外平台的实际执法力，文章发布约一小时就登上 HN 热榜（60 多分）；Byrne 预计 Ofcom 接下来会去议会争取新的执法权限。",
+   "links": [
+    "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+    "https://news.ycombinator.com/item?id=50167028"
+   ],
+   "topic": "ofcom-4chan-enforcement-concedes-2026-10",
+   "firstSeen": "2026-10-20T23:47:47+08:00"
   }
  ],
- "lastChecked": "2026-10-20T23:32:54+08:00"
+ "lastChecked": "2026-10-20T23:47:47+08:00"
 }
