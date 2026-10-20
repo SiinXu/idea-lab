@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-20T22:33:03+08:00",
+ "lastUpdated": "2026-10-20T22:47:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16247,7 +16247,52 @@
    ],
    "topic": "amazon-ai-fcf-negative-gb300-staging-2026-10",
    "firstSeen": "2026-10-20T22:33:03+08:00"
+  },
+  {
+   "id": "5b545cfdb4",
+   "title": "Anthropic：Claude 自主设计蝎毒「小蛋白结合剂」，211 个候选中 17 个实验验证有效",
+   "summary": "Anthropic 10 月 20 日发布研究：与投研机构 Citrini Research 合作，让内部研究模型在 Claude Science 环境里约 64 小时、仅靠一个提示词加 4 次追问，自主设计针对 5 种致命蝎毒神经毒素的 minibinder（能紧紧粘住目标的小蛋白）。Claude 共生成 31.8 万个设计、挑出 180 个，团队补 31 个，由 Adaptyv Bio 和 Twist Bioscience 实验测试，17 个达标，其中针对墨西哥蝎 Cn2 毒素的两个达到个位数纳摩尔级亲和力。官方强调尚未验证能否在细胞和动物中中和毒液，不算抗蛇毒血清；全部 211 个设计和数据已在 Hugging Face 公开。蝎蜇每年致死 3250 多人，属于缺乏投入的被忽视热带病，这说明「一群外行 + AI」也能推进药物发现早期环节。",
+   "links": [
+    "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+    "https://huggingface.co/datasets/Anthropic/claude-protein-binder-design",
+    "https://x.com/i/trending/2112547754987696283"
+   ],
+   "topic": "anthropic-claude-scorpion-toxin-binders-2026-10",
+   "firstSeen": "2026-10-20T22:47:33+08:00"
+  },
+  {
+   "id": "ba9e60f863",
+   "title": "Qualitate 获 2500 万美元 A 轮：AI 访谈员每月主动访谈数千名专家，直指 Gartner、麦肯锡和 GLG",
+   "summary": "做 AI 一手调研的 Qualitate 10 月 20 日宣布完成 2500 万美元 A 轮，Insight Partners 领投，IA Ventures、Crew Capital 跟投。它用 AI 访谈员替代专家网络的一次性付费电话：自动找专家、每月主动做数千场访谈，把每段对话结构化成可检索的研究库，并在竞品调价、买家情绪变化时自动触发新访谈和提醒；客户可在自家应用里查询，也能通过 MCP 接入 Claude、Codex 等工具，一句提示词发起私有定制调研，几天出结论。公司称今年收入年化增长超过 10 倍，已累计超过 100 万分钟 AI 主持访谈，客户覆盖对冲基金、私募和企业，单次成本约为传统专家电话的三分之一。",
+   "links": [
+    "https://markets.financialcontent.com/stocks/article/bizwire-2026-10-20-qualitate-raises-25-million-series-a-led-by-insight-partners-to-scale-the-first-continuous-intelligence-system-for-primary-research",
+    "https://x.com/i/trending/2112552619117809960"
+   ],
+   "topic": "qualitate-series-a-ai-expert-interviews-2026-10",
+   "firstSeen": "2026-10-20T22:47:33+08:00"
+  },
+  {
+   "id": "b568cbdb05",
+   "title": "Tor 约一成出口节点被植入后门：333 个节点劫持 SSH 偷密码，已全部下线",
+   "summary": "安全研究者 KABA 10 月 20 日披露：攻击者 8 月起入侵大量 Linux 服务器并植入 Ebury 1.8.3（OpenSSH 后门兼凭证窃取工具），10 月 2 日让其中 333 个 Tor 出口节点（全网约 3000 个，约占一成）同时发难：一路只放行明文邮件流量来大规模收集邮件，另一路把 22 端口的 SSH 连接重定向到 12 台中间人服务器。用户若无视「主机密钥已变更」警告继续登录，密码会被盗、命令被实时监视，服务器还会被反向感染 Ebury。作者向 Tor 网络健康团队报告后，相关节点 10 月 4 日被标记为 BadExit、5 日全部关停；攻击者还会把非出口中继改成出口节点。教训是别忽略 SSH 主机密钥警告，并尽量用密钥登录。",
+   "links": [
+    "https://kaba.cx/posts/20261020_Tor/",
+    "https://news.ycombinator.com/item?id=50166257"
+   ],
+   "topic": "tor-333-exit-nodes-ebury-ssh-mitm-2026-10",
+   "firstSeen": "2026-10-20T22:47:33+08:00"
+  },
+  {
+   "id": "bfb6da0751",
+   "title": "iPadOS 27 改坏投屏演示：多窗口时点别的 App，外接屏立刻露出整块 iPad 屏幕",
+   "summary": "哈佛肯尼迪学院讲师 Teddy Svoronos 10 月 19 日发文吐槽、登上 HN 热榜：升级 iPadOS 27 后，只要用 AirPlay 投屏时开着多个窗口（无论是否开台前调度），点一下演示 App 以外的任何窗口，外接屏就会从「只显示演示内容」切换成镜像整个 iPad 屏幕，学生或观众会看到讲者的备注、点名名单和尚未公布的投票结果。GoodNotes 点回来还能恢复，Keynote 会直接退出演示，PowerPoint 则卡住必须重开。作者推测苹果是想让「哪个 App 控制外接屏」更直观，但代价是演讲场景几乎不可用，建议用 iPad 上课或演讲的人暂缓升级。",
+   "links": [
+    "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+    "https://news.ycombinator.com/item?id=50165208"
+   ],
+   "topic": "ipados-27-airplay-presentation-regression-2026-10",
+   "firstSeen": "2026-10-20T22:47:33+08:00"
   }
  ],
- "lastChecked": "2026-10-20T22:33:03+08:00"
+ "lastChecked": "2026-10-20T22:47:33+08:00"
 }
