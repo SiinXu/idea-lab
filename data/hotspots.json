@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T06:24:00+08:00",
+ "lastUpdated": "2026-10-21T06:40:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17069,7 +17069,54 @@
    ],
    "topic": "nature-ai-not-conscious-seth-block-tononi",
    "firstSeen": "2026-10-21T06:24:00+08:00"
+  },
+  {
+   "id": "7e999261f5",
+   "title": "SpaceX 上市后首份财报：第三季度营收增 161% 至 145.8 亿美元，AI 业务收入暴涨 830%",
+   "summary": "10 月 20 日 SpaceX 公布第三季度业绩：营收同比增长 161% 至 145.8 亿美元，高于预期的 127.2 亿美元；AI 业务收入增长 830% 至 75.6 亿美元，AI 业务营业利润 4.31 亿美元，去年同期为亏损 17 亿美元。含星链的连接业务收入增 69% 至 52 亿美元，但季度资本开支飙到 196 亿美元（去年同期 69 亿）。AI 收入已超过星链，成为增长主引擎，CNBC、Reuters、WSJ 等同步跟进。",
+   "links": [
+    "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
+    "https://www.reuters.com/business/media-telecom/spacex-quarterly-revenue-jumps-beats-estimates-ai-business-surges-2026-10-20/",
+    "https://www.techmeme.com/261020/p43"
+   ],
+   "topic": "spacex-q3-2026-earnings-ai-revenue",
+   "firstSeen": "2026-10-21T06:40:41+08:00"
+  },
+  {
+   "id": "904c472fb7",
+   "title": "马斯克：特斯拉和 SpaceX 已成立特别委员会，讨论两家公司合并",
+   "summary": "马斯克 10 月 20 日表示，特斯拉和 SpaceX 已各自成立特别委员会，研究两家公司合并的可能性，他称合并是「好主意」，但强调不保证一定发生。消息与 SpaceX 财报同日放出，The Verge、Bloomberg Law、The Information 等均有报道，引发对马斯克旗下 AI、汽车和航天业务整合的讨论。",
+   "links": [
+    "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+    "https://news.bloomberglaw.com/tech-and-telecom-law/musk-says-spacex-tesla-have-formed-committees-to-explore-merger",
+    "https://www.techmeme.com/261020/p50"
+   ],
+   "topic": "tesla-spacex-merger-special-committees",
+   "firstSeen": "2026-10-21T06:40:41+08:00"
+  },
+  {
+   "id": "ebe5d8da42",
+   "title": "超微电脑预告第一财季营收 185–195 亿美元远超预期，盘后涨超 11%",
+   "summary": "Super Micro 10 月 20 日公布初步业绩：第一财季营收预计 185 亿至 195 亿美元，市场预期约 150 亿美元，毛利率 12%–12.5%。消息公布后 SMCI 盘后上涨超 11%，戴尔、HPE 等 AI 服务器同行也跟涨，显示 AI 服务器需求仍在高位。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-10-20/super-micro-jumps-after-preliminary-results-top-estimates",
+    "https://www.techmeme.com/261020/p48"
+   ],
+   "topic": "supermicro-q1-fy27-preliminary-beat",
+   "firstSeen": "2026-10-21T06:40:41+08:00"
+  },
+  {
+   "id": "5d21ab9584",
+   "title": "Google 把 Gemini「个人智能」装进车里：Android Auto 即日起推送，Google 内置车型随后跟进",
+   "summary": "Google 10 月 20 日宣布，Gemini 的 Personal Intelligence（个人智能）功能开始在 Android Auto 上推送，未来几个月扩展到搭载 Google 内置系统的汽车，需用户主动开启。开启后 Gemini 可结合用户的个人信息在开车时给出更贴身的回答和帮助，TechCrunch、9to5Google 均有报道。",
+   "links": [
+    "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
+    "https://9to5google.com/2026/10/20/gemini-android-auto-personal-intelligence/",
+    "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/"
+   ],
+   "topic": "gemini-personal-intelligence-android-auto",
+   "firstSeen": "2026-10-21T06:40:41+08:00"
   }
  ],
- "lastChecked": "2026-10-21T06:24:00+08:00"
+ "lastChecked": "2026-10-21T06:40:41+08:00"
 }
