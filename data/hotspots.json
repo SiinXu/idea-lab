@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T02:31:29+08:00",
+ "lastUpdated": "2026-10-21T02:46:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16693,7 +16693,32 @@
    ],
    "topic": "gradium-phonon-open-weight-tts-2026-10",
    "firstSeen": "2026-10-21T02:31:29+08:00"
+  },
+  {
+   "id": "dbaa902542",
+   "title": "OpenAI 收购 Orchestra Bio：把药物研发项目管理交给 AI Agent，并入 Rosalind 生命科学套件",
+   "summary": "10 月 20 日 OpenAI 宣布收购旧金山初创公司 Orchestra Bio（约 21 人，成立四年），交易金额未披露。Orchestra 的平台让药企和生物科技团队把监控研究进度、跟踪研发时间线、识别延误风险、管理 CRO 外包等工作交给 AI Agent 处理。团队和技术将并入 OpenAI 面向生命科学的 Rosalind 套件（含 4 月发布的 GPT-Rosalind 模型）。OpenAI 称一款新药通常要 10 到 15 年，希望用 AI 缩短；此前 Anthropic 已以约 4 亿美元收购 Coefficient Bio，并推出 Claude Science，两家大模型公司的竞争正延伸到药物研发。",
+   "links": [
+    "https://openai.com/index/openai-to-acquire-orchestra-bio/",
+    "https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development",
+    "https://orchestra.bio/",
+    "https://x.com/i/trending/2112613033243721837"
+   ],
+   "topic": "openai-acquires-orchestra-bio-2026-10",
+   "firstSeen": "2026-10-21T02:46:47+08:00"
+  },
+  {
+   "id": "edb544fc7e",
+   "title": "General Compute 采购 Positron AI 推理机：GPU 读提示词、内存优先芯片负责吐字，2027 年一季度上线",
+   "summary": "主打专用芯片的新型云厂商 General Compute 10 月 20 日宣布与 Positron AI 合作：将成规模采购 Positron 的 Atlas 推理系统，并承诺采购基于自研 Asimov 芯片的下一代 Titan 系统。方案把推理拆成两段，GPU 负责处理输入提示（prefill），Positron 用 LPDDR5X 大内存的加速器负责逐字生成（decode），以缓解内存带宽瓶颈，客户通过一个接口和一份合同使用。Atlas 已在甲骨文云部署 50 多个机柜，Positron 9 月刚以 50 亿美元估值完成 8.75 亿美元 C 轮；首批客户容量预计 2027 年一季度上线。",
+   "links": [
+    "https://www.generalcompute.com/blog/general-compute-positron-ai-partnership",
+    "https://www.prnewswire.com/news-releases/positron-ai-and-general-compute-partner-to-expand-access-to-memory-first-ai-inference-infrastructure-302913449.html",
+    "https://x.com/i/trending/2112592164278677824"
+   ],
+   "topic": "general-compute-positron-atlas-inference-2026-10",
+   "firstSeen": "2026-10-21T02:46:47+08:00"
   }
  ],
- "lastChecked": "2026-10-21T02:31:29+08:00"
+ "lastChecked": "2026-10-21T02:46:47+08:00"
 }
