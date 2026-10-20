@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T04:31:47+08:00",
+ "lastUpdated": "2026-10-21T04:45:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16945,7 +16945,29 @@
    ],
    "topic": "hf-ceo-netflix-ai-gone-wild-doc",
    "firstSeen": "2026-10-21T04:31:47+08:00"
+  },
+  {
+   "id": "e8ce28f322",
+   "title": "OpenAI API 上线 12 小时提示词缓存：常驻 Agent 隔几小时再调用也能命中缓存省钱",
+   "summary": "OpenAI 把提示词缓存的保留时间从默认闲置 30 分钟延长到可选 12 小时。写入 12 小时缓存按标准输入价 2.5 倍计费（30 分钟档为 1.25 倍），但只要中途有两次较长停顿就能回本，适合共享系统指令、工具定义和背景资料、全天运行的 Agent。开发者建议把时间戳等经常变化的内容放在长缓存之外。",
+   "links": [
+    "https://x.com/i/trending/2112637284642349105",
+    "https://developers.openai.com/api/docs/guides/prompt-caching"
+   ],
+   "topic": "ai-dev",
+   "firstSeen": "2026-10-21T04:45:33+08:00"
+  },
+  {
+   "id": "611fba6e9f",
+   "title": "Show HN 热帖《Permit Pending》：浏览器里免费玩的「要审批的模拟城市」，拿 255 分",
+   "summary": "独立开发者做了一款城市建造小游戏：你是市长，想建什么都得先过分区委员会、邻居听证、上诉法院和下次选举。把城市规划里的审批与扯皮做成玩法，在 Hacker News 几小时内冲上首页，是「把枯燥流程游戏化」的一个好样本。",
+   "links": [
+    "https://permit.petercai.com/",
+    "https://news.ycombinator.com/item?id=50170593"
+   ],
+   "topic": "indie",
+   "firstSeen": "2026-10-21T04:45:33+08:00"
   }
  ],
- "lastChecked": "2026-10-21T04:31:47+08:00"
+ "lastChecked": "2026-10-21T04:45:33+08:00"
 }
