@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T06:10:50+08:00",
+ "lastUpdated": "2026-10-21T06:24:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17057,7 +17057,19 @@
    ],
    "topic": "amazon-atlas-union-risk-ai",
    "firstSeen": "2026-10-21T06:10:50+08:00"
+  },
+  {
+   "id": "0d9d00fbcd",
+   "title": "《自然》评论：Seth、Block、Tononi 三位意识科学大牛联名称「AI 没有意识，也许永远不会有」",
+   "summary": "10 月 19 日，《自然》发表神经科学家 Anil Seth、哲学家 Ned Block 和整合信息理论提出者 Giulio Tononi 的联名评论，给出三点理由：智能不等于主观体验；意识可能依赖生物实现，硅基计算本身不够；IIT 和生物自然主义等主流理论都不支持有意识的 AI。文章也回应了 Anthropic 今年声称在 Claude 中找到意识计算特征的研究，并提醒过早给 AI 权利会妨碍监管。哲学家 David Chalmers 批评其结论过于笃定，X 上又引出东西方对 AI 与「心性」的讨论，话题今天持续升温。",
+   "links": [
+    "https://www.nature.com/articles/d41586-026-03313-7",
+    "https://x.com/i/trending/2112228075597615388",
+    "https://aiweekly.co/alerts/seth-block-tononi-argue-ai-isnt-conscious-may-never-be"
+   ],
+   "topic": "nature-ai-not-conscious-seth-block-tononi",
+   "firstSeen": "2026-10-21T06:24:00+08:00"
   }
  ],
- "lastChecked": "2026-10-21T06:10:50+08:00"
+ "lastChecked": "2026-10-21T06:24:00+08:00"
 }
