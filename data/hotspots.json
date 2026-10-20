@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T02:58:27+08:00",
+ "lastUpdated": "2026-10-21T03:17:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16743,7 +16743,41 @@
    ],
    "topic": "daytona-series-b-1b-agent-cloud-2026-10",
    "firstSeen": "2026-10-21T02:58:27+08:00"
+  },
+  {
+   "id": "d49d7ad1f4",
+   "title": "OpenAI 推出 ChatGPT 团队任务 Team Tasks：周报、客户动态摘要交给云端定时跑，全组一起改指令",
+   "summary": "OpenAI 为 ChatGPT Business 和 Enterprise 工作区上线「团队任务」：团队可以把周报、每日客户变动摘要、会议议程等重复性工作设成按计划或事件触发的云端任务，用团队的服务账号和管理员批准的连接（如 Slack、Google Slides）运行。有权限的成员都能查看运行结果、修改指令、暂停或恢复，任务不再依赖创建者一个人维护。任务不会继承个人记忆和自定义指令；Business 最多 10 个活跃定时任务，Enterprise 最多 15 个。",
+   "links": [
+    "https://help.openai.com/en/articles/20001540-creating-and-managing-team-tasks-in-chatgpt",
+    "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes",
+    "https://x.com/i/trending/2112620326324744374"
+   ],
+   "topic": "openai-chatgpt-team-tasks-2026-10",
+   "firstSeen": "2026-10-21T03:17:37+08:00"
+  },
+  {
+   "id": "8d8989c656",
+   "title": "Sophont 发布 Holon-S1：只看普通 HE 病理切片，就能画出肿瘤里哪些基因在活跃",
+   "summary": "医疗 AI 初创公司 Sophont 10 月 20 日发布泛癌模型 Holon-S1，可从医院常规的苏木精-伊红（HE）染色病理切片中预测基因和生物通路的空间活性，省去昂贵耗时的分子检测。官方称它在 16 种器官、15 种以上扫描仪上评测，优于今年发布的两款同类模型；在一例它没训练过的骨肉瘤病例中，复现了原本靠数月分子检测才得到的结论，包括患者有效疗法的靶点基因 FAP。目前仅供研究使用，公司正邀请药企和研究机构合作挖掘生物标志物。",
+   "links": [
+    "https://www.prnewswire.com/news-releases/sophont-launches-holon-s1-to-reveal-tumor-biology-from-routine-pathology-slides-302914452.html",
+    "https://x.com/i/trending/2112620323275485557"
+   ],
+   "topic": "sophont-holon-s1-pathology-2026-10",
+   "firstSeen": "2026-10-21T03:17:37+08:00"
+  },
+  {
+   "id": "fffd7cbccc",
+   "title": "FT：投资者抢购 AI 公司违约保险，科技巨头 CDS 周成交超 90 亿美元，Meta、英伟达保费创新高",
+   "summary": "《金融时报》报道，为防 AI 繁荣破裂，投资者大举买入信用违约互换（CDS）。摩根士丹利数据显示，9 月甲骨文、SpaceX、Alphabet、亚马逊、Meta、博通和英伟达相关 CDS 平均每周成交超 90 亿美元，7 月还不到 20 亿美元。本月 Meta 五年期 CDS 升至 108 个基点、英伟达 101 个基点，均创纪录；CoreWeave 已超 1000 个基点进入困境区间。今年 AI 相关美元债发行约 4660 亿美元，去年同期为 1010 亿美元。",
+   "links": [
+    "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5",
+    "https://x.com/i/trending/2112620331987062878"
+   ],
+   "topic": "ai-debt-cds-record-trading-2026-10",
+   "firstSeen": "2026-10-21T03:17:37+08:00"
   }
  ],
- "lastChecked": "2026-10-21T02:58:27+08:00"
+ "lastChecked": "2026-10-21T03:17:37+08:00"
 }
