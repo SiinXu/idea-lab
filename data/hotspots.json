@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-20T23:10:10+08:00",
+ "lastUpdated": "2026-10-20T23:32:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -16342,7 +16342,43 @@
    ],
    "topic": "cloudflare-clairic-extraction-model-2026-10",
    "firstSeen": "2026-10-20T23:10:10+08:00"
+  },
+  {
+   "id": "1bf4054890",
+   "title": "Facebook 被曝主页每月发链接超过 2 条要付费订阅：评论里的链接也算",
+   "summary": "Construct 3 引擎开发者 Ashley Gullen 10 月 20 日发帖称，Facebook 开始对主页（Page）发布外链设限：自然发布的帖子和评论每月只能带 2 条链接，想发更多需要订阅至少每月约 50 美元的付费方案，英国目前甚至还买不到该订阅；她附上了 Facebook 帮助中心「About links in organic Facebook Page posts and comments」页面。帖子上 HN 后迅速升温，开发者和小品牌担心这会进一步切断社交平台向独立网站导流。对做内容站、靠社媒引流的个人项目来说，意味着需要把流量入口分散到 X、邮件订阅和搜索。",
+   "links": [
+    "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+    "https://www.facebook.com/help/1929252614431792",
+    "https://news.ycombinator.com/item?id=50167536"
+   ],
+   "topic": "facebook-page-link-limit-paywall-2026-10",
+   "firstSeen": "2026-10-20T23:32:54+08:00"
+  },
+  {
+   "id": "f4d0cf5080",
+   "title": "CleanYourTV 爆火：让 Claude Code 通过 Wi-Fi 清掉智能电视广告，两天近 1 万星",
+   "summary": "开发者 Gathin 10 月 17 日发帖说，把父母家小米电视的型号交给 Claude Code，它在局域网里找到电视、通过 ADB 停用 25 个小米预装包并写了一个类似 Apple TV 的新桌面，帖子获 3 万多赞。随后开源的 CleanYourTV 两天内拿到约 1 万 GitHub 星、1100 多个 fork，社区已提交 107 款、37 个品牌的电视适配；方案不需要 root、不卸载系统、可恢复出厂。GadgetReview 等媒体把它和 Dumbtv 一起报道为「用 AI 反抗电视广告和收视追踪（ACR）」的新潮流，专家提醒用完记得关闭调试模式。",
+   "links": [
+    "https://cleanyour.tv/",
+    "https://github.com/Gathin23/cleanyourtv",
+    "https://www.gadgetreview.com/developers-are-using-ai-to-strip-ads-and-tracking-from-smart-tvs",
+    "https://x.com/i/trending/2112030715529310307"
+   ],
+   "topic": "cleanyourtv-ai-debloat-smart-tv-2026-10",
+   "firstSeen": "2026-10-20T23:32:54+08:00"
+  },
+  {
+   "id": "bc7ff39a8a",
+   "title": "Show HN：VoidAccess 开源暗网情报平台，一条查询自动跑完 13 步生成威胁关系图",
+   "summary": "VoidAccess 是一个可自托管的暗网 OSINT（开源情报）工具，MIT 许可、pip 即可安装，自称 Recorded Future、DarkOwl 等商业服务的免费替代。它并行搜索 Tor 索引、粘贴站、代码托管和安全订阅源，自动抽取 IOC、钱包地址、泄露凭证、黑客昵称、漏洞和恶意软件等实体，再做信誉、泄露库、被动 DNS、链上数据等多源补全，生成关系图和团伙画像，可导出 STIX、MISP、Sigma、YARA 等格式；内置内容安全过滤，提供命令行和 Docker 网页界面。今天登上 Show HN 后不到一小时冲到 50 多分。",
+   "links": [
+    "https://github.com/KatrielMoses/voidaccess",
+    "https://news.ycombinator.com/item?id=50167286"
+   ],
+   "topic": "voidaccess-dark-web-osint-show-hn-2026-10",
+   "firstSeen": "2026-10-20T23:32:54+08:00"
   }
  ],
- "lastChecked": "2026-10-20T23:10:10+08:00"
+ "lastChecked": "2026-10-20T23:32:54+08:00"
 }
