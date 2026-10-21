@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T04:56:36+08:00",
+ "lastUpdated": "2026-10-22T05:38:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18348,7 +18348,19 @@
    ],
    "topic": "ea-bioware-shutdown-2026-10",
    "firstSeen": "2026-10-22T04:56:36+08:00"
+  },
+  {
+   "id": "665623009c",
+   "title": "PHP2Shell 补丁已出一天，Amazon Linux 2023 仍未更新：AWS 只把漏洞定为「重要」而非「严重」，开发者怒刷 GitHub 议题",
+   "summary": "PHP 官方 10 月 21 日已发布修复 CVE-2026-109618/109619（CVSS 9.2）的补丁，但 Amazon Linux 2023 官方仓库至今没有更新包。AWS 安全公告页把两个漏洞评为 Important（重要）而非 Critical，维护者还在议题里拿此前一个同级 Nginx 漏洞「从公开到修复用了 20 天」举例，引发担心补丁要等很久。上百条评论中不少 ECS/EC2 业务已被迫下线，社区自发分享从源码重编 SRPM、本地 dnf 仓库的自救脚本，有人直言要迁出 AL2023。HN 同步热议。",
+   "links": [
+    "https://github.com/amazonlinux/amazon-linux-2023/issues/1148",
+    "https://explore.alas.aws.amazon.com/CVE-2026-109618.html",
+    "https://news.ycombinator.com/item?id=50187708"
+   ],
+   "topic": "php2shell-amazon-linux-delay-2026-10",
+   "firstSeen": "2026-10-22T05:38:17+08:00"
   }
  ],
- "lastChecked": "2026-10-22T04:56:36+08:00"
+ "lastChecked": "2026-10-22T05:38:17+08:00"
 }
