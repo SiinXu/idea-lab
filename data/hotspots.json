@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T07:14:47+08:00",
+ "lastUpdated": "2026-10-22T07:31:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18405,7 +18405,19 @@
    ],
    "topic": "phoneuse-ai-agent-phones-2026-10",
    "firstSeen": "2026-10-22T07:14:47+08:00"
+  },
+  {
+   "id": "69da7d0b69",
+   "title": "MIT 团队开源 OPAL「反应式优化器」：让 Claude Code 在训练过程中实时改写优化器代码",
+   "summary": "Xingjian Bai、Vincent Sitzmann 等人 10 月 21 日发布 OPAL，一个 PyTorch 优化器包装器：编码智能体在训练中自己写 analysis.py 观察梯度等训练动态，再改写每步都会执行的 updater.py，可以重置动量、防止 loss 尖峰、为不同参数组定制更新规则。在没有现成调优配方的语言和图像任务上，作者称它能追平或超过可直接选用的最佳配方，单次运行成本约 5 到 15 美元。局限也写得很清楚：多数实验只跑了一次，等待智能体决策会让训练慢 1.3 到 4.4 倍，在已高度调优的 modded-nanogpt 上反而更差。「智能体接管调参」是值得关注的新方向。",
+   "links": [
+    "https://xingjianbai.com/reactive-optimizers/",
+    "https://github.com/xingjian-bai/opal",
+    "https://x.com/i/trending/2112981233940795447"
+   ],
+   "topic": "opal-reactive-optimizer-mit-2026-10",
+   "firstSeen": "2026-10-22T07:31:53+08:00"
   }
  ],
- "lastChecked": "2026-10-22T07:14:47+08:00"
+ "lastChecked": "2026-10-22T07:31:53+08:00"
 }
