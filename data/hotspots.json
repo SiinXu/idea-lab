@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T18:18:32+08:00",
+ "lastUpdated": "2026-10-21T18:29:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17711,7 +17711,18 @@
    ],
    "topic": "agency-agents-trending-2026-10",
    "firstSeen": "2026-10-21T18:18:32+08:00"
+  },
+  {
+   "id": "9a34ef52a5",
+   "title": "英伟达 GTC 柏林发布 DSX POD：把整座 Vera Rubin AI 工厂装进集装箱，现场部署从 6 个月缩到 14 天",
+   "summary": "算力、网络、布线、供电和液冷在工厂里集成测试好再运走，到场接上电和冷却就能出 token；戴尔、HPE、联想、施耐德、Vertiv 等 17 家伙伴 2027 年初开始交付。同场还发布 OpenShell 参考架构，用 BlueField DPU 和 Vera CPU 给 AI 智能体做全栈沙箱隔离。",
+   "links": [
+    "https://www.globenewswire.com/news-release/2026/10/21/3385267/0/en/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europe-s-infrastructure-deployment.html",
+    "https://www.sdxcentral.com/news/nvidia-wraps-openshell-around-full-stack-silicon-to-stop-ai-agents-going-rogue/"
+   ],
+   "topic": "nvidia-dsx-pod-gtc-berlin-2026",
+   "firstSeen": "2026-10-21T18:29:15+08:00"
   }
  ],
- "lastChecked": "2026-10-21T18:18:32+08:00"
+ "lastChecked": "2026-10-21T18:29:15+08:00"
 }
