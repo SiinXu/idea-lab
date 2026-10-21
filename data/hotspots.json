@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T22:31:52+08:00",
+ "lastUpdated": "2026-10-21T22:41:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17908,7 +17908,18 @@
    ],
    "topic": "aa-personalitybench-sycophancy-2026-10-21",
    "firstSeen": "2026-10-21T22:31:52+08:00"
+  },
+  {
+   "id": "764a23f0c2",
+   "title": "DuckDB 2.0.0 LTS「Cinnamon Teal」发布：史上最大功能版本，进程内数据库也能当服务器跑，还新增 Agent 模式",
+   "summary": "近 2 万次提交：打磨后的 Quack 协议让 DuckDB 可以客户端-服务器部署（新 CONNECT 语句一条命令连远程库），加入异步 I/O、一等公民 VARIANT 类型、Agent 模式、触发器和可扩展 SQL 解析器；2.0 为长期支持版，至少支持到 2027 年 10 月，1.5 也延长支持到 2027 年 3 月。",
+   "links": [
+    "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+    "https://news.ycombinator.com/item?id=50181136"
+   ],
+   "topic": "duckdb-2-0-lts-cinnamon-teal-2026-10-21",
+   "firstSeen": "2026-10-21T22:41:42+08:00"
   }
  ],
- "lastChecked": "2026-10-21T22:31:52+08:00"
+ "lastChecked": "2026-10-21T22:41:42+08:00"
 }
