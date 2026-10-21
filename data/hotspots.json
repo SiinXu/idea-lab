@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T03:11:52+08:00",
+ "lastUpdated": "2026-10-22T03:29:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18271,7 +18271,18 @@
    ],
    "topic": "hetzner-hel1-object-storage-degraded-2026-10",
    "firstSeen": "2026-10-22T03:11:52+08:00"
+  },
+  {
+   "id": "5dbb54a005",
+   "title": "Anthropic 推出 Claude Duet：发消息就能用的主动式个人 AI 代理，管邮箱、日程和跟进，研究预览开放候补",
+   "summary": "Claude Duet 是 Anthropic 新出的独立 App，定位「主动式」个人代理：每天早上给你简报、起草下一步，处理邮箱、日历和待跟进事项，任务进行中会持续工作，关键操作才等你确认。官方称基于 Opus 5.5，支持 6000+ 连接器和插件，并继承 Claude App 里的记忆与技能；目前仅面向美国 Pro/Max 用户候补开放。个人助理类 AI 代理赛道竞争再升温。",
+   "links": [
+    "https://claude.com/product/claude-duet",
+    "https://news.ycombinator.com/item?id=50186037"
+   ],
+   "topic": "claude-duet-launch-2026-10",
+   "firstSeen": "2026-10-22T03:29:14+08:00"
   }
  ],
- "lastChecked": "2026-10-22T03:11:52+08:00"
+ "lastChecked": "2026-10-22T03:29:14+08:00"
 }
