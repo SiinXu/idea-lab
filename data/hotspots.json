@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T22:11:40+08:00",
+ "lastUpdated": "2026-10-21T22:31:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17884,7 +17884,31 @@
    ],
    "topic": "openai-patch-the-planet-php-disclosure-2026-10-21",
    "firstSeen": "2026-10-21T22:11:40+08:00"
+  },
+  {
+   "id": "1de8e62ff7",
+   "title": "OpenAI 联手 PerturbAI、Scripps 让数千个 GPT-Rosalind Agent 并行分析 800 万个小鼠脑细胞：32 分钟跑完人类要数月到一年的工作",
+   "summary": "三方用「分布式生物推理」把一份全脑 CRISPR 图谱拆给数千个 GPT-Rosalind Agent，每个 Agent 负责一个基因扰动：分析细胞反应、检索文献、提出机制解释，最后汇成可公开查询的「推理图谱」。Agent 复现了人类已有结论，还提出新线索，例如 Dctn1（与佩里综合征相关）被破坏后神经元胆固醇相关基因异常，可能与神经退行有关；盲评专家对其新颖性的判断与 Agent 一致。PerturbAI 称合作将扩展到联合药物靶点发现，并已发布预印本。",
+   "links": [
+    "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "https://www.prnewswire.com/news-releases/perturbai-and-openai-unveil-first-of-its-kind-ai-reasoning-agents-to-scale-biomedical-discovery-302914929.html",
+    "https://x.com/i/trending/2112908301625356787"
+   ],
+   "topic": "openai-perturbai-rosalind-brain-atlas-2026-10-21",
+   "firstSeen": "2026-10-21T22:31:52+08:00"
+  },
+  {
+   "id": "2dfd26dbe0",
+   "title": "Artificial Analysis 推出 AI「性格」榜 AA-PersonalityBench：38 个模型比谄媚度，GPT-4o 最会拍马屁，Grok 4.7 最直，相差 775 Elo",
+   "summary": "新榜单不测对错，只测模型怎么说话：900 道题、30 种性格特征（谄媚、幽默、直接、承认不确定等）由 LLM 评审两两盲比，汇总成表达力、条理、信息量、透明度、温度、主见、想象力、「水话」8 个指数，另测 21 项长度、排版、标点等特征。透明度指数 Claude Sonnet 5.5 第一，Gemini 4 Argon 偏低；马斯克转发谄媚榜后，怀念 4o「暖」的用户与喜欢直言风格的用户吵成一团。",
+   "links": [
+    "https://artificialanalysis.ai/articles/aa-personalitybench",
+    "https://artificialanalysis.ai/evaluations/aa-personalitybench/traits/sycophantic",
+    "https://x.com/i/trending/2112908301625442368"
+   ],
+   "topic": "aa-personalitybench-sycophancy-2026-10-21",
+   "firstSeen": "2026-10-21T22:31:52+08:00"
   }
  ],
- "lastChecked": "2026-10-21T22:11:40+08:00"
+ "lastChecked": "2026-10-21T22:31:52+08:00"
 }
