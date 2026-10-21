@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T00:41:08+08:00",
+ "lastUpdated": "2026-10-22T01:02:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18100,7 +18100,29 @@
    ],
    "topic": "coherence-neuro-45m-seed-openai-2026-10",
    "firstSeen": "2026-10-22T00:41:08+08:00"
+  },
+  {
+   "id": "412c1e841c",
+   "title": "「零代码框架」Rust off Rails：只用 Markdown 约定指挥 AI 代理写全栈 Rust Web 应用",
+   "summary": "Rust off Rails 自称「为 AI 时代打造的有主见 Web 栈」：它不提供任何框架代码，而是一套 Markdown 文件，规定唯一推荐技术栈、目录结构和每件事的唯一做法，让编码代理照着写出完整的 Rust Web 应用；官方演示用 7 条提示做出实时看板应用。登上 Hacker News 首页。「写给 AI 看的框架约定」可能成为新的开源形态，也是 Skills/规则包类产品的机会。",
+   "links": [
+    "https://rustoffrails.org/",
+    "https://news.ycombinator.com/item?id=50183727"
+   ],
+   "topic": "rust-off-rails-agent-convention-stack-2026-10",
+   "firstSeen": "2026-10-22T01:02:36+08:00"
+  },
+  {
+   "id": "16ea7c0045",
+   "title": "哈萨比斯把 AGI 时间表提前：预计两到三年内实现，比年初的「三到五年」更激进",
+   "summary": "据《华尔街日报》采访，Google DeepMind CEO Demis Hassabis 表示预计 AGI 将在两到三年内到来，较他 2026 年早些时候三到五年的判断明显提前，并谈到 AI 在科学发现（如 Isomorphic 药物研发）上的进展。头部实验室负责人集体缩短时间表，将继续推高算力投资和「AI for Science」赛道热度。",
+   "links": [
+    "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
+    "https://www.techmeme.com/"
+   ],
+   "topic": "hassabis-agi-2-3-years-wsj-2026-10",
+   "firstSeen": "2026-10-22T01:02:36+08:00"
   }
  ],
- "lastChecked": "2026-10-22T00:41:08+08:00"
+ "lastChecked": "2026-10-22T01:02:36+08:00"
 }
