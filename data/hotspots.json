@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T15:41:20+08:00",
+ "lastUpdated": "2026-10-21T15:54:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17524,7 +17524,29 @@
    ],
    "topic": "ats-auto-reject-manager-resume-2026-10",
    "firstSeen": "2026-10-21T15:41:20+08:00"
+  },
+  {
+   "id": "d6890ef7c4",
+   "title": "NetWasm 0.8 宣称「C# 编译成 WebAssembly 比 Rust 还小」：带垃圾回收的独立运行时只有 47.8KB",
+   "summary": "独立开源项目 NetWasm 把 C# 和 .NET 中间代码直接编译成 WebAssembly，不再打包桌面版运行时或 Mono。官方在同样的「打印 42」测试里给出：NetWasm 0.8.0（含精确垃圾回收器）产物 47,798 字节，比 Rust 1.95 的 53,635 字节小 10.9%，Brotli 压缩后小 20.4%；还提供在线 Playground。该项目登上 Hacker News 首页。对独立开发者来说，意味着 C# 团队也能做轻量的浏览器插件、边缘函数和 WASI 小工具，「把现有 .NET 代码迁到 Wasm」的咨询与模板有机会。",
+   "links": [
+    "https://github.com/zion-sati/NetWasm",
+    "https://news.ycombinator.com/item?id=50175510",
+    "https://playground.netwasm.com/"
+   ],
+   "topic": "netwasm-csharp-wasm-size-2026-10",
+   "firstSeen": "2026-10-21T15:54:45+08:00"
+  },
+  {
+   "id": "e01b28bf92",
+   "title": "Matthew Berman 断言「所有软件终将开源」引发开发者大辩论：AI 让写代码和逆向变便宜，闭源壁垒还剩什么？",
+   "summary": "据 X 热点汇总，AI 博主 Matthew Berman 发帖称所有软件都会走向开源、公司无力阻止，理由是 AI 大幅降低了生成代码和逆向工程的成本。支持者认为闭源护城河正在消失；反对者指出维护、游戏手感调校、审查 AI 产出仍离不开人的判断。讨论中被引用的 Linux 基金会调查显示，AI 让开源工作编码时间减半，但约 25% 的拉取请求质量偏低，同时 SaaS 公司正转向按 AI Agent 计费。对独立开发者的启示：护城河更多在数据、分发和服务，而不是代码本身；「开源仓库 AI 贡献质量把关」也是可做的小工具方向。",
+   "links": [
+    "https://x.com/i/trending/2112813401978089876"
+   ],
+   "topic": "berman-all-software-open-source-debate-2026-10",
+   "firstSeen": "2026-10-21T15:54:45+08:00"
   }
  ],
- "lastChecked": "2026-10-21T15:41:20+08:00"
+ "lastChecked": "2026-10-21T15:54:45+08:00"
 }
