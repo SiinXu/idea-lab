@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T02:43:20+08:00",
+ "lastUpdated": "2026-10-22T03:11:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18260,7 +18260,18 @@
    ],
    "topic": "texas-datacenter-air-quality-2026-10",
    "firstSeen": "2026-10-22T02:43:20+08:00"
+  },
+  {
+   "id": "6e3036831b",
+   "title": "Hetzner 赫尔辛基对象存储降级已超一个月：部分存储桶持续高延迟、请求卡死，官方仍在后台迁移",
+   "summary": "Hetzner 状态页显示，HEL1 机房对象存储自 2026-09-09 起部分降级，因用量激增导致 I/O 瓶颈，至今仍处于监控状态并在后台迁移存储桶；HN 上开发者吐槽低价云存储的稳定性，多区域备份与 S3 兼容存储的迁移需求随之升温。",
+   "links": [
+    "https://status.hetzner.com/incident/382ed0e5-f1c4-45ec-a7a3-326d3970d6b3",
+    "https://news.ycombinator.com/item?id=50185478"
+   ],
+   "topic": "hetzner-hel1-object-storage-degraded-2026-10",
+   "firstSeen": "2026-10-22T03:11:52+08:00"
   }
  ],
- "lastChecked": "2026-10-22T02:43:20+08:00"
+ "lastChecked": "2026-10-22T03:11:52+08:00"
 }
