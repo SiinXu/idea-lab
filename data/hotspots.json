@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T10:10:09+08:00",
+ "lastUpdated": "2026-10-21T10:31:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17328,7 +17328,30 @@
    ],
    "topic": "github-package-firewall-2026-10",
    "firstSeen": "2026-10-21T10:10:09+08:00"
+  },
+  {
+   "id": "ae0093644c",
+   "title": "CSS 的明年长什么样：Josh Comeau 盘点 Interop 2027 十大候选特性",
+   "summary": "各大浏览器厂商（Google、Apple、微软、Mozilla 及 Igalia、Bocoup）正在规划 Interop 2027，Mozilla 开放了投票排名。前端教育者 Josh W. Comeau 列出他投票的 10 个特性：CSS 自定义函数 @function、corner-shape（斜角与超椭圆圆角）、border-shape、锚点容器查询、inherit() 函数、滚动触发动画、reading-flow/reading-order、interpolate-size 与 calc-size() 关键字尺寸动画、gap 装饰线、滚动状态容器查询。进入 Interop 的特性通常一年内就能在主流浏览器接近全面支持，例如 Subgrid。",
+   "links": [
+    "https://www.joshwcomeau.com/css/interop-2027/",
+    "https://news.ycombinator.com/item?id=50175070"
+   ],
+   "topic": "interop-2027-css-picks-2026-10",
+   "firstSeen": "2026-10-21T10:31:20+08:00"
+  },
+  {
+   "id": "7f48ae7f8d",
+   "title": "YC 支持的 GitCafe 登场：可与 GitHub 双向同步的 Git 托管，T3 Code 已接入",
+   "summary": "GitCafe 定位为 Git 托管 + 代码评审 + 堆叠式 PR（stacked PR），可独立使用，也能从 GitHub 导入并单向或双向同步代码、Issue 和 PR；提供 Cafe CLI（cafe pr create 等）并可为编码 Agent 安装技能。Theo 团队的开源编码 Agent 界面 T3 Code（pingdotgg/t3code）已在 GitHub 与 GitCafe 之间同步，成为首个知名案例。官网标注由 Y Combinator 支持。",
+   "links": [
+    "https://git.cafe/pingdotgg/t3code",
+    "https://git.cafe/",
+    "https://news.ycombinator.com/item?id=50175075"
+   ],
+   "topic": "gitcafe-github-sync-t3code-2026-10",
+   "firstSeen": "2026-10-21T10:31:20+08:00"
   }
  ],
- "lastChecked": "2026-10-21T10:10:09+08:00"
+ "lastChecked": "2026-10-21T10:31:20+08:00"
 }
