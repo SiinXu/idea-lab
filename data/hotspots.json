@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T08:10:42+08:00",
+ "lastUpdated": "2026-10-21T08:29:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17203,7 +17203,17 @@
    ],
    "topic": "hedge-funds-tech-selloff-goldman-2026-10",
    "firstSeen": "2026-10-21T08:10:42+08:00"
+  },
+  {
+   "id": "b6629abae5",
+   "title": "Anthropic 联邦 AI 安全法案草案细节曝光：可能致 50 人以上死亡或 10 亿美元损失的模型，可经法官叫停发布",
+   "summary": "TechCrunch 10 月 20 日援引 Politico 报道，Anthropic 正向国会推销的 AI 安全法案草案规定：若模型存在「可预见、迫在眉睫」的灾难性风险（可能造成 50 人以上死亡或超 10 亿美元财产损失，且源于生物武器、模型逃脱开发者控制或网络攻击），可被阻止发布。风险由在美国商务部登记的独立评估机构判断，评估费可由 AI 公司支付但不得与结果挂钩；评估方需在 72 小时内上报商务部，再由商务部向华盛顿特区法官申请叫停，联邦机构不能自行禁止发布。门槛与加州已生效的 SB 53 相近，Anthropic 发言人已向 Politico 确认草案存在。",
+   "links": [
+    "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+   ],
+   "topic": "anthropic-federal-ai-safety-bill-draft-details-2026-10-20",
+   "firstSeen": "2026-10-21T08:29:24+08:00"
   }
  ],
- "lastChecked": "2026-10-21T08:10:42+08:00"
+ "lastChecked": "2026-10-21T08:29:24+08:00"
 }
