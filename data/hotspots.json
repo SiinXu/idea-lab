@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T01:42:20+08:00",
+ "lastUpdated": "2026-10-22T01:58:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18175,7 +18175,27 @@
    ],
    "topic": "ebay-layoff-9pct-2026-10",
    "firstSeen": "2026-10-22T01:42:20+08:00"
+  },
+  {
+   "id": "3dba8c3e0d",
+   "title": "Gemini 对话式导航登陆 Apple CarPlay：iPhone 车主用 Google 地图也能和 AI 边开边聊",
+   "summary": "继去年上线 Android Auto 后，Google 今天把 Gemini 对话式导航带到 CarPlay，美国司机即日可用并在全球陆续推送；AI 助手正抢占车内入口。",
+   "links": [
+    "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps"
+   ],
+   "topic": "gemini-carplay-2026-10",
+   "firstSeen": "2026-10-22T01:58:45+08:00"
+  },
+  {
+   "id": "27160a9176",
+   "title": "Waymo 开进拉斯维加斯机场：T1 和 T3 航站楼设无人车专属上下客区",
+   "summary": "Waymo 开始在拉斯维加斯哈里·里德国际机场提供无人驾驶接送，乘客在 1 号和 3 号航站楼的「自动驾驶车辆专区」上下车；机场是 Robotaxi 最赚钱的场景之一。",
+   "links": [
+    "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/"
+   ],
+   "topic": "waymo-las-vegas-airport-2026-10",
+   "firstSeen": "2026-10-22T01:58:45+08:00"
   }
  ],
- "lastChecked": "2026-10-22T01:42:20+08:00"
+ "lastChecked": "2026-10-22T01:58:45+08:00"
 }
