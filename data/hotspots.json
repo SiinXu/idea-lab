@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T17:45:02+08:00",
+ "lastUpdated": "2026-10-21T18:18:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17677,7 +17677,41 @@
    ],
    "topic": "anthropic-knowledge-work-plugins-trending",
    "firstSeen": "2026-10-21T17:45:02+08:00"
+  },
+  {
+   "id": "da42fcf4a1",
+   "title": "ChatGPT 上线「锁定聊天」：敏感对话可藏起来，用 4 位 PIN 或面容/指纹解锁",
+   "summary": "10 月 20 日起逐步向免费到企业版开放：被锁的对话从历史、置顶和搜索里消失，单独存一份记忆。注意它不是端到端加密，忘了 PIN 重置会永久删掉全部锁定聊天，企业合规日志里仍能看到。",
+   "links": [
+    "https://help.openai.com/en/articles/20001411-using-locked-chats-in-chatgpt",
+    "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/"
+   ],
+   "topic": "chatgpt-locked-chats-2026-10",
+   "firstSeen": "2026-10-21T18:18:32+08:00"
+  },
+  {
+   "id": "14e0227755",
+   "title": "eMudhra 事件新进展：8 张 CA 私钥竟是 4、56、115 这类小整数，笔记本不到一秒全部算出",
+   "summary": "Scott Helme 实测：这些 P-384 私钥都小于 256，从公开证书就能直接反推，暴露窗口长达 17 个月。浏览器因强制证书透明度基本安全，但 curl、Python、Node、Go、Java、git 等默认不查吊销也不查透明度，需要尽快更新 CA 证书包；有人还让本地 AI Agent 一次就算出了私钥。",
+   "links": [
+    "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+    "https://news.ycombinator.com/item?id=50177916",
+    "https://www.openwall.com/lists/oss-security/2026/10/21/5"
+   ],
+   "topic": "emudhra-tiny-private-keys-helme-2026-10",
+   "firstSeen": "2026-10-21T18:18:32+08:00"
+  },
+  {
+   "id": "ec643c90ac",
+   "title": "agency-agents 持续霸榜 GitHub：一整套「AI 代理公司」角色包，16 万星",
+   "summary": "从前端专家到 Reddit 社区运营，每个 Agent 都带人设、流程和交付标准，可装进 Claude Code、Cursor、Codex、Gemini CLI，MIT 许可。适合拿来给自己的多 Agent 团队抄分工模板。",
+   "links": [
+    "https://github.com/msitarzewski/agency-agents",
+    "https://trendshift.io/repositories/22315"
+   ],
+   "topic": "agency-agents-trending-2026-10",
+   "firstSeen": "2026-10-21T18:18:32+08:00"
   }
  ],
- "lastChecked": "2026-10-21T17:45:02+08:00"
+ "lastChecked": "2026-10-21T18:18:32+08:00"
 }
