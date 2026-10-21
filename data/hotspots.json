@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T13:32:13+08:00",
+ "lastUpdated": "2026-10-21T14:00:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17427,7 +17427,18 @@
    ],
    "topic": "php-up-2026-exploit-leak",
    "firstSeen": "2026-10-21T13:32:13+08:00"
+  },
+  {
+   "id": "c3ea7a236a",
+   "title": "SlopCodeBench 10 月榜单：前沿模型在「需求持续变化」的编码任务里严格通过率仅 12%–16%，xhigh 推理档位反而不如 medium",
+   "summary": "HumanLayer 的 Dex Horthy 用完整的 36 道题、196 个检查点重跑 SlopCodeBench：编码 Agent 要先写程序，再按陆续追加的新需求改代码，并同时通过新旧测试。GPT-6 Astra 以 16.3% 的严格通过率居首，Opus 5.5、Fable 5.1、SOL 6/6.1、GLM 5.3 等都落在 12.2%–16.3%，宽松的核心通过率则在 65.8%–74.0%。更值得注意的是，xhigh 推理档位成本是 medium 的 2.11–4.22 倍，部分新模型（包括 Opus 5.5）在 medium 档反而表现更好。该文今日登上 HN 首页，对选模型、设推理档位和评估长期可维护性的团队有直接参考价值。",
+   "links": [
+    "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+    "https://news.ycombinator.com/item?id=50108717"
+   ],
+   "topic": "slopcodebench-2026-10",
+   "firstSeen": "2026-10-21T14:00:53+08:00"
   }
  ],
- "lastChecked": "2026-10-21T13:32:13+08:00"
+ "lastChecked": "2026-10-21T14:00:53+08:00"
 }
