@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T04:30:42+08:00",
+ "lastUpdated": "2026-10-22T04:56:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18337,7 +18337,18 @@
    ],
    "topic": "dev-tools",
    "firstSeen": "2026-10-22T04:30:42+08:00"
+  },
+  {
+   "id": "c5adcff0a9",
+   "title": "EA 关闭传奇工作室 BioWare：《质量效应》新作停止开发，同时裁员约 400 人",
+   "summary": "The Verge 报道，EA 确认关闭打造《质量效应》《龙腾世纪》《星球大战：旧共和国武士》的 BioWare，并停止下一部《质量效应》的开发；据彭博，EA 同时裁员约 400 人（BioWare 约 50 人）。此前 EA 已被沙特 PIF、Silver Lake 等以 550 亿美元私有化。今年 Xbox、Bungie、Epic 也相继大裁员，游戏行业收缩仍在持续，HN 热度超 300。",
+   "links": [
+    "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+    "https://news.ycombinator.com/item?id=50184586"
+   ],
+   "topic": "ea-bioware-shutdown-2026-10",
+   "firstSeen": "2026-10-22T04:56:36+08:00"
   }
  ],
- "lastChecked": "2026-10-22T04:30:42+08:00"
+ "lastChecked": "2026-10-22T04:56:36+08:00"
 }
