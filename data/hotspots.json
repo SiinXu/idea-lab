@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T05:58:01+08:00",
+ "lastUpdated": "2026-10-22T06:30:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18372,7 +18372,18 @@
    ],
    "topic": "php2shell-third-cve-rumor-2026-10",
    "firstSeen": "2026-10-22T05:58:01+08:00"
+  },
+  {
+   "id": "5699ea0146",
+   "title": "Railway 官方披露安全事件：客户环境变量疑遭窃取并被解密，建议所有用户立即轮换 API 密钥",
+   "summary": "部署平台 Railway 发布安全公告：今晨检测到存放客户环境变量的系统出现异常访问，第三方可能拿到了加密的环境变量，其中一部分已被解密，可能包含 API 密钥、数据库和镜像仓库凭证。Railway 认为这是近期一系列针对平台公司、意在攻破 AI 推理服务商的攻击之一，已通知上游服务商主动吊销密钥。官方建议所有用户立即轮换存放在 Railway 的全部环境变量和私有仓库凭证并排查日志；调查期间所有部署暂停，无法发布新版本。这也解释了今天早些时候的全区域构建暂停。",
+   "links": [
+    "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+    "https://news.ycombinator.com/item?id=50188228"
+   ],
+   "topic": "railway-env-var-breach-2026-10",
+   "firstSeen": "2026-10-22T06:30:08+08:00"
   }
  ],
- "lastChecked": "2026-10-22T05:58:01+08:00"
+ "lastChecked": "2026-10-22T06:30:08+08:00"
 }
