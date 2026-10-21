@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T20:47:01+08:00",
+ "lastUpdated": "2026-10-21T21:09:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17817,7 +17817,17 @@
    ],
    "topic": "gemini-4-argon-25-trillion-tokens-72h-2026-10-21",
    "firstSeen": "2026-10-21T20:47:01+08:00"
+  },
+  {
+   "id": "abfb932f2d",
+   "title": "英伟达 GTC 柏林发布 OpenShell 参考架构：用 BlueField-4 硬件给 AI Agent 套上「逃不出的沙箱」，Anthropic、OpenAI 等 100 多家接入",
+   "summary": "开源运行时跑在 Vera CPU 上，配合 BlueField-4 DPU 做零信任管控：Agent 的每个动作都要过检查，违规能在毫秒级被拦下，且 Agent 自身无法绕过或关闭。黄仁勋称要「加速 AI 安全」，BBVA 等银行也在集成。对想把 Agent 放进生产环境的企业，这意味着安全隔离开始从软件规则下沉到硬件层。",
+   "links": [
+    "https://x.com/i/trending/2112891431501390231"
+   ],
+   "topic": "nvidia-openshell-agent-sandbox-gtc-berlin-2026-10-21",
+   "firstSeen": "2026-10-21T21:09:29+08:00"
   }
  ],
- "lastChecked": "2026-10-21T20:47:01+08:00"
+ "lastChecked": "2026-10-21T21:09:29+08:00"
 }
