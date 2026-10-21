@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T04:15:38+08:00",
+ "lastUpdated": "2026-10-22T04:30:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18326,7 +18326,18 @@
    ],
    "topic": "mistral-large-4-2026-10",
    "firstSeen": "2026-10-22T04:15:38+08:00"
+  },
+  {
+   "id": "ca78317f24",
+   "title": "Google 公开 Rust 风格指南登上 HN 热榜：主张小 crate、扁平文件布局，Chrome 等项目的 Rust 规范首次系统化",
+   "summary": "Google Style Guides 新增 Rust 风格指南，覆盖适用范围与目标、遵循 Rust 社区公共风格规则、结合场景应用 API 设计规范、代码组织（优先拆成小 crate、rust_library 源文件采用扁平布局）等内容，部分条目标注适用于 Chrome。随着 Chrome、Android 等大型项目加速引入 Rust，大厂级 Rust 工程规范受到开发者关注，发布约一小时即登上 HN 热榜。",
+   "links": [
+    "https://google.github.io/styleguide/rustguide.html",
+    "https://news.ycombinator.com/item?id=50186010"
+   ],
+   "topic": "dev-tools",
+   "firstSeen": "2026-10-22T04:30:42+08:00"
   }
  ],
- "lastChecked": "2026-10-22T04:15:38+08:00"
+ "lastChecked": "2026-10-22T04:30:42+08:00"
 }
