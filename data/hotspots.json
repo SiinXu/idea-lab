@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T15:54:45+08:00",
+ "lastUpdated": "2026-10-21T16:13:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17546,7 +17546,27 @@
    ],
    "topic": "berman-all-software-open-source-debate-2026-10",
    "firstSeen": "2026-10-21T15:54:45+08:00"
+  },
+  {
+   "id": "a471530598",
+   "title": "Pieter Levels 让 Claude Code 给《GTA：圣安地列斯》做了一整个新任务：CJ 去「氛围编程」创业、找投资人谈 1000 万美元",
+   "summary": "据 X 热点汇总，独立开发者 Pieter Levels 让 Anthropic 的编码 Agent Claude Code 为 2004 年的老游戏《GTA：圣安地列斯》从头做了一个新任务：主角 CJ 在 Doherty 区用「帮我做个创业公司，让它爆火」之类的提示写代码，屏幕上实时跳出数据，最后和西装投资人谈下 1000 万美元。演示让人看到 AI Agent 也能改老游戏、做 Mod，评论区兴奋之余也在调侃 API 账单和 Mod 工程难度。对独立开发者来说，「用 Agent 给经典游戏做 Mod / 剧情任务」本身就是能吸引流量的内容形式。",
+   "links": [
+    "https://x.com/i/trending/2112773061087035713"
+   ],
+   "topic": "levels-claude-code-gta-sa-startup-mission-2026-10",
+   "firstSeen": "2026-10-21T16:13:42+08:00"
+  },
+  {
+   "id": "9499ccb994",
+   "title": "旧金山街头冒出红色「We might be f*cked」广告牌，推广 AI 语音面试的约会应用 Known，被批违规与贩卖焦虑",
+   "summary": "据 X 热点汇总，旧金山人行道、Presidio 公园和海岸步道上出现大量写着「We might be f*cked」的红色立牌，引流到 youmightdiealone.com。背后是 Celeste Amadon 创立的 AI 配对应用 Known：先用语音访谈了解用户，再直接安排线下约会，不用左右滑卡片。批评者指出 Presidio 属联邦土地，商业广告需特别许可，且用恐惧营销操纵情绪；也有人认为它戳中了孤独感上升的真实痛点。对做 AI 社交/配对产品的人，这是「语音访谈替代滑卡」的产品思路，也提醒线下快闪营销要先查清场地合规。",
+   "links": [
+    "https://x.com/i/trending/2112751037077676463"
+   ],
+   "topic": "known-ai-dating-sf-guerrilla-signs-2026-10",
+   "firstSeen": "2026-10-21T16:13:42+08:00"
   }
  ],
- "lastChecked": "2026-10-21T15:54:45+08:00"
+ "lastChecked": "2026-10-21T16:13:42+08:00"
 }
