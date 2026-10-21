@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T01:31:32+08:00",
+ "lastUpdated": "2026-10-22T01:42:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18145,7 +18145,37 @@
    ],
    "topic": "openai-models-google-cloud-model-garden-2026-10",
    "firstSeen": "2026-10-22T01:31:32+08:00"
+  },
+  {
+   "id": "8f97a4163f",
+   "title": "Meta 被判赔新墨西哥州 250 亿美元：陪审团认定其在剑桥分析事件中误导用户数据用途",
+   "summary": "新墨西哥州法院周三判 Meta 支付 250 亿美元罚金，源于剑桥分析数据丑闻的欺诈诉讼，被称为历史性的州级隐私判罚，可能引发其他州效仿。",
+   "links": [
+    "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html"
+   ],
+   "topic": "meta-new-mexico-25b-cambridge-analytica-2026-10",
+   "firstSeen": "2026-10-22T01:42:20+08:00"
+  },
+  {
+   "id": "dae844647c",
+   "title": "EA 裁约 400 人并关闭 BioWare：新《质量效应》被取消",
+   "summary": "据泄露备忘录，8 月完成 550 亿美元杠杆收购私有化的 EA 将裁员约 3%，关闭《质量效应》《龙腾世纪》开发商 BioWare，下一部《质量效应》随之取消，游戏圈热议。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware"
+   ],
+   "topic": "ea-layoffs-bioware-shutdown-2026-10",
+   "firstSeen": "2026-10-22T01:42:20+08:00"
+  },
+  {
+   "id": "1bc2f77b58",
+   "title": "eBay 年内第二轮裁员：砍掉约 9% 员工，资源转向增长最快的业务",
+   "summary": "内部备忘录显示 eBay 将裁员约 9%（约 1100 人）以简化运营，2 月已裁约 6%；又一家大厂在 AI 时代收缩人手。",
+   "links": [
+    "https://www.reuters.com/business/world-at-work/ebay-lay-off-9-workforce-push-simplify-operations-internal-memo-shows-2026-10-21/"
+   ],
+   "topic": "ebay-layoff-9pct-2026-10",
+   "firstSeen": "2026-10-22T01:42:20+08:00"
   }
  ],
- "lastChecked": "2026-10-22T01:31:32+08:00"
+ "lastChecked": "2026-10-22T01:42:20+08:00"
 }
