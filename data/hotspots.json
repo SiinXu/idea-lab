@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T12:14:19+08:00",
+ "lastUpdated": "2026-10-21T12:32:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17385,7 +17385,17 @@
    ],
    "topic": "headroom-context-compression-2026-10",
    "firstSeen": "2026-10-21T12:14:19+08:00"
+  },
+  {
+   "id": "9db297d256",
+   "title": "2026 机器人检测横评：AI Agent 轻松穿过 Turnstile 和 hCaptcha，Cloudflare Bot Management 只拦下 9%",
+   "summary": "Proof of Human 研究团队重跑了去年的机器人检测基准，这次对手换成脚本浏览器、隐身浏览器（CloakBrowser）和能自主看网页、填表的 AI Agent，每个对手做 20 次五题问卷。汇总检出率：Proof of Human 99%、reCAPTCHA v3 69.4%、hCaptcha 44.3%、Cloudflare Turnstile 42.1%、Cloudflare Bot Management 仅 9.1%。hCaptcha 和 Turnstile 几乎拦下所有脚本浏览器，却放过大部分 AI Agent；reCAPTCHA v3 正好相反。结论是传统自动化特征对 Agent 越来越失效，整段会话里的行为信号更关键（注：测评方本身是检测厂商）。",
+   "links": [
+    "https://research.poh.org/bot-benchmarking-2026/"
+   ],
+   "topic": "bot-detection-benchmark-ai-agents-2026",
+   "firstSeen": "2026-10-21T12:32:37+08:00"
   }
  ],
- "lastChecked": "2026-10-21T12:14:19+08:00"
+ "lastChecked": "2026-10-21T12:32:37+08:00"
 }
