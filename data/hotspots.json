@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T15:18:30+08:00",
+ "lastUpdated": "2026-10-21T15:25:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17483,7 +17483,38 @@
    ],
    "topic": "beehiiv-vs-mailcheap-2026-10",
    "firstSeen": "2026-10-21T15:18:30+08:00"
+  },
+  {
+   "id": "31e18f7207",
+   "title": "Sarah Guo：开源权重模型的经济规模将比肩闭源巨头，已承担主流平台 71.5% 的 Token 却只收 23% 的费用",
+   "summary": "据 X 热点汇总，投资人 Sarah Guo 认为开放和定制化推理会长成与闭源大模型同等量级的市场：客户想要选择权、可控性和性能。引用的数据称开源权重模型已处理主要平台 71.5% 的 Token，但只占 23% 的费用，每年可能为全球 AI 经济省下约 250 亿美元。支持者看重用私有数据微调、规避涨价；质疑者则提到资本门槛和商品化风险。对独立开发者而言，围绕开源模型的推理、微调和成本优化工具仍是值得关注的机会。",
+   "links": [
+    "https://x.com/i/trending/2112796524136800349"
+   ],
+   "topic": "open-weights-vs-closed-sarah-guo-2026-10",
+   "firstSeen": "2026-10-21T15:25:35+08:00"
+  },
+  {
+   "id": "051db58d51",
+   "title": "EverOS Cloud 走红：给 AI Agent 装上分层长期记忆（用户画像、对话片段、任务案例、技能）",
+   "summary": "据 X 热点汇总，EverOS Cloud 为 AI Agent 提供记忆系统，把信息分成用户资料、对话经历、任务案例和从成功经验中沉淀的技能四类。开发者分享了用它更快修复视频错误、记住应用预算和调试方案、在新会话里自动想起个人偏好的案例。早期测试中有鉴权报错等小问题，但 Python SDK、REST API 和控制台吸引了不少人试用。Agent 记忆层正在成为独立赛道，也是做「懂你的助手」类产品的现成积木。",
+   "links": [
+    "https://x.com/i/trending/2112160144599421038"
+   ],
+   "topic": "everos-cloud-agent-memory-2026-10",
+   "firstSeen": "2026-10-21T15:25:35+08:00"
+  },
+  {
+   "id": "10099f7536",
+   "title": "小众社交平台 Pillowfort 宣布关站，登上 Hacker News 讨论",
+   "summary": "Tumblr 替代品之一、以创作者社区和无算法时间线为卖点的社交平台 Pillowfort 发布公告宣布将关闭服务，消息在 Hacker News 上引发讨论。小型独立社交平台长期面临运营成本、内容审核和变现难题，这次关站再次提醒：依赖小平台的创作者需要提前备份内容，而想做垂直社区的独立开发者也要先想清楚可持续的收入模式。",
+   "links": [
+    "https://www.pillowfort.social/posts/8413273",
+    "https://news.ycombinator.com/item?id=50176301"
+   ],
+   "topic": "pillowfort-closing-2026-10",
+   "firstSeen": "2026-10-21T15:25:35+08:00"
   }
  ],
- "lastChecked": "2026-10-21T15:18:30+08:00"
+ "lastChecked": "2026-10-21T15:25:35+08:00"
 }
