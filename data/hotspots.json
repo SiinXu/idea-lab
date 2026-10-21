@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T21:25:39+08:00",
+ "lastUpdated": "2026-10-21T21:58:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17849,7 +17849,31 @@
    ],
    "topic": "qwen3-coder-persona-security-hirundo-2026-10-21",
    "firstSeen": "2026-10-21T21:25:39+08:00"
+  },
+  {
+   "id": "1bfd140f40",
+   "title": "Wiz 公布「PHP2Shell」：前沿 AI 帮忙挖出 PHP 内核远程代码执行漏洞，近十年所有版本受影响，PHP 今天紧急发布 8.5.12 等补丁",
+   "summary": "Wiz Research 披露 PHP 引擎核心的多处内存安全漏洞，归为两个 CVE、最高 CVSS 9.2：可在未登录情况下远程执行代码，或像 Heartbleed 一样读出进程内存里的密码、令牌和 API 密钥，与网站自身代码无关。从 PHP 5.4 起几乎每个版本都至少中一个，WordPress、Drupal、MediaWiki 等全网约七成网站都跑在 PHP 上。Wiz 称漏洞早已存在，但利用链复杂到接近人类研究员极限，是前沿 AI 模型把门槛打了下来。PHP 官方今天同步发布 8.5.12、8.4.27、8.3.36、8.2.35，荷兰 NCSC 此前已因此主动下线官网。建议所有 PHP 站点立即升级。",
+   "links": [
+    "https://www.wiz.io/blog/php2shell-php-rce",
+    "https://www.php.net/index.php",
+    "https://github.com/php/php-src/releases/tag/php-8.2.35",
+    "https://news.ycombinator.com/item?id=50180836"
+   ],
+   "topic": "php2shell-wiz-php-core-rce-2026-10-21",
+   "firstSeen": "2026-10-21T21:58:28+08:00"
+  },
+  {
+   "id": "80c6230d04",
+   "title": "LayerFS 1.0 发布：专为 AI 编程 Agent 设计的文件系统，每次 Bash 调用挂载一个临时工作区、做完就提交",
+   "summary": "LayerFS 把「多 Agent 并行开发」做成文件系统层：每个 Agent 挂载一份完整可写的工作区，叠在共享的已提交历史之上，跑完命令就提交改动并卸载；文件工具每次调用是一次原子存储操作，不同电脑上的 Agent 可共用一个无服务器存储。官方理由是 Agent 约 80% 时间在思考、只有约 10% 在跑 Bash，算力只需在命令执行时存在。登上 Hacker News 首页，是 Agent 沙箱/工作区基础设施赛道的新玩家。",
+   "links": [
+    "https://layerfs.ai/",
+    "https://news.ycombinator.com/item?id=50179857"
+   ],
+   "topic": "layerfs-agent-filesystem-v1-2026-10-21",
+   "firstSeen": "2026-10-21T21:58:28+08:00"
   }
  ],
- "lastChecked": "2026-10-21T21:25:39+08:00"
+ "lastChecked": "2026-10-21T21:58:28+08:00"
 }
