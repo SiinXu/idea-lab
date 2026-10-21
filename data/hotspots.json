@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T11:38:40+08:00",
+ "lastUpdated": "2026-10-21T12:14:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17374,7 +17374,18 @@
    ],
    "topic": "amodei-calvin-safety-exchange-2026-10",
    "firstSeen": "2026-10-21T11:38:40+08:00"
+  },
+  {
+   "id": "9a75aafc0f",
+   "title": "Headroom 冲上 GitHub 趋势榜：给编码 Agent 压缩上下文，JSON 省 60–95% Token",
+   "summary": "headroomlabs-ai/headroom 今日登上 GitHub 每日趋势榜，累计约 7.7 万星。它在工具输出、日志、文件和 RAG 片段送入大模型之前先做压缩，官方称编码 Agent 可少用约 20% Token、JSON 类数据可省 60–95%，且回答不变；以库、代理和 MCP 服务器三种形态提供，可直接接到现有 Agent 工作流里降本。",
+   "links": [
+    "https://github.com/headroomlabs-ai/headroom",
+    "https://github.com/trending"
+   ],
+   "topic": "headroom-context-compression-2026-10",
+   "firstSeen": "2026-10-21T12:14:19+08:00"
   }
  ],
- "lastChecked": "2026-10-21T11:38:40+08:00"
+ "lastChecked": "2026-10-21T12:14:19+08:00"
 }
