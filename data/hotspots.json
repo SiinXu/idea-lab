@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T07:40:47+08:00",
+ "lastUpdated": "2026-10-21T08:10:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17179,7 +17179,31 @@
    ],
    "topic": "humans-and-ampersand-v0-1-2026-10",
    "firstSeen": "2026-10-21T07:40:47+08:00"
+  },
+  {
+   "id": "69219a2397",
+   "title": "前 Apple Watch 工程师创办 UniqueHuman，发布偏头痛健康智能体 Niq：提前预警发作，还能自己约医生、办处方和保险",
+   "summary": "UniqueHuman 创始人 Praneeta Pujari 曾在 Apple 做健康功能，因自身偏头痛和母亲的慢性疼痛创业。首个产品 Niq 汇总可穿戴设备、病历、化验结果和每日症状记录，在偏头痛发作前发出预警；之后自动处理后续事务：提醒用户和医生、预约就诊、处理保险、续开处方并送药上门，全程有临床医生把关，基础设施符合 HIPAA。首发聚焦偏头痛，后续覆盖纤维肌痛、肠易激综合征等慢性病，测试版 App 已上线。",
+   "links": [
+    "https://www.uniquehuman.ai/migraine",
+    "https://www.uniquehuman.ai/mission",
+    "https://x.com/i/trending/2112687333317443979"
+   ],
+   "topic": "uniquehuman-niq-migraine-agent-2026-10",
+   "firstSeen": "2026-10-21T08:10:42+08:00"
+  },
+  {
+   "id": "e107a91221",
+   "title": "高盛数据：对冲基金以 2016 年以来最快速度抛售科技股，半导体首当其冲",
+   "summary": "据高盛主经纪业务数据，截至 10 月 15 日的五个交易日里，对冲基金削减科技股仓位的幅度创 2016 年有记录以来最大，半导体是美元计卖出最多的板块；纳指 100 当周跌 5.5%，为 2025 年 4 月以来最差一周，费城半导体指数跌约 10%。CoreWeave 部分债券收益率一度超过 16%，AI 融资成本受到关注。不过科技股仍占高盛全球主经纪账簿的 23.5%，处于五年来 90 分位，净杠杆降至一年低点 48.6%，更像是降风险而非全面撤离。",
+   "links": [
+    "https://hedgeweek.com/news/hedge-funds-slash-tech-exposure-at-fastest-pace-in-a-decade",
+    "https://www.tipranks.com/news/hedge-funds-dumped-tech-stocks-at-fastest-pace-since-2016",
+    "https://x.com/i/trending/2112266057628913774"
+   ],
+   "topic": "hedge-funds-tech-selloff-goldman-2026-10",
+   "firstSeen": "2026-10-21T08:10:42+08:00"
   }
  ],
- "lastChecked": "2026-10-21T07:40:47+08:00"
+ "lastChecked": "2026-10-21T08:10:42+08:00"
 }
