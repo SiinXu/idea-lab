@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T03:29:14+08:00",
+ "lastUpdated": "2026-10-22T03:38:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18282,7 +18282,18 @@
    ],
    "topic": "claude-duet-launch-2026-10",
    "firstSeen": "2026-10-22T03:29:14+08:00"
+  },
+  {
+   "id": "b949a9351a",
+   "title": "Google DeepMind 员工因军方 AI 合同辞职抗议：称公司推动 AI 进入军事行动「让人羞愧」",
+   "summary": "BBC 调查报道，多名 Google DeepMind 员工近期已辞职或正在离职，原因是公司不断扩大与美国及以色列军方的 AI 合作。伦敦研究工程师 Sofia Liguori 本周辞职并公开发声，质疑关键环节缺乏足够的人类监督、违背 Google 自己的 AI 原则。Google 回应称有一致的合同审查流程和员工申诉渠道。今年多家科技公司已签约在美军涉密环境部署 AI，科技公司「军用 AI」的人才与舆论压力正在加大。",
+   "links": [
+    "https://www.bbc.com/news/articles/cmreyvepnv0po",
+    "https://news.ycombinator.com/item?id=50186043"
+   ],
+   "topic": "google-deepmind-military-resignations-2026-10",
+   "firstSeen": "2026-10-22T03:38:00+08:00"
   }
  ],
- "lastChecked": "2026-10-22T03:29:14+08:00"
+ "lastChecked": "2026-10-22T03:38:00+08:00"
 }
