@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T17:25:49+08:00",
+ "lastUpdated": "2026-10-21T17:45:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17657,7 +17657,27 @@
    ],
    "topic": "dhs-deepseek-federal-ban-2026-10",
    "firstSeen": "2026-10-21T17:25:49+08:00"
+  },
+  {
+   "id": "47f5a48da0",
+   "title": "金融时序基础模型 Kronos 冲上 GitHub 今日趋势榜：把 K 线当「语言」来预训练，已超 4.2 万星",
+   "summary": "开源项目 shiyu-coder/Kronos 自称「金融市场语言的基础模型」，把开高低收和成交量等 K 线数据离散成 token 做预训练，可用于价格走势预测、波动率估计和合成行情数据。它今天再次登上 GitHub 每日趋势榜，星标已超过 4.2 万。对想做量化研究工具、交易复盘助手或金融数据 SaaS 的独立开发者来说，这是现成的底座模型，但用于真实交易前需要自己回测并注意合规风险。",
+   "links": [
+    "https://github.com/shiyu-coder/Kronos"
+   ],
+   "topic": "kronos-financial-foundation-model-trending",
+   "firstSeen": "2026-10-21T17:45:02+08:00"
+  },
+  {
+   "id": "618e8fb74c",
+   "title": "Anthropic 官方 knowledge-work-plugins 登上 GitHub 趋势榜：给 Claude Cowork 用的知识工作者插件合集，已超 3 万星",
+   "summary": "anthropics/knowledge-work-plugins 是 Anthropic 官方开源的插件仓库，主要面向在 Claude Cowork 里做销售、财务、法务、客服、数据分析等非编程工作的知识工作者，把常见流程打包成可安装的技能和连接器。仓库今天出现在 GitHub 每日趋势榜，星标已超过 3 万。这说明「给特定岗位打包 AI 工作流」正在成为热门方向，做垂直行业插件或模板商店有机会。",
+   "links": [
+    "https://github.com/anthropics/knowledge-work-plugins"
+   ],
+   "topic": "anthropic-knowledge-work-plugins-trending",
+   "firstSeen": "2026-10-21T17:45:02+08:00"
   }
  ],
- "lastChecked": "2026-10-21T17:25:49+08:00"
+ "lastChecked": "2026-10-21T17:45:02+08:00"
 }
