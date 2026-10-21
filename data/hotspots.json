@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T17:09:23+08:00",
+ "lastUpdated": "2026-10-21T17:25:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17636,7 +17636,28 @@
    ],
    "topic": "ceres-1s-y8-rizhao-sea-launch-2026-10",
    "firstSeen": "2026-10-21T17:09:23+08:00"
+  },
+  {
+   "id": "318c15047a",
+   "title": "Zomato 创始人 Deepinder Goyal 预告新 AI 项目 Dark.ai（DARK BY ETERNAL），团队已打磨 8 个月，具体形态尚未公开",
+   "summary": "据 X 热点汇总，10 月 21 日 Zomato 创始人、Eternal 副董事长 Deepinder Goyal 在 X 晒出「DARK BY ETERNAL」标志并挂出 dark.ai 域名，只说「即将推出」。官网目前打不开详情，面向消费者、企业还是内部使用都没透露；团队成员称已花 8 个月把概念验证做成生产级产品。消息正赶上 Eternal 发季报前夕，Goyal 卸任 CEO 后的新动作引发猜测。印度互联网巨头下场做 AI 产品，值得跟进正式发布内容和定位。",
+   "links": [
+    "https://x.com/i/trending/2112833224569237819",
+    "https://dark.ai"
+   ],
+   "topic": "dark-ai-eternal-goyal-tease-2026-10",
+   "firstSeen": "2026-10-21T17:25:49+08:00"
+  },
+  {
+   "id": "7d23ef3495",
+   "title": "美国国土安全部下令联邦民用机构移除全部 DeepSeek 产品，并停止采购相关第三方服务",
+   "summary": "据 X 热点汇总，美国国土安全部（DHS）发布编号 DHS-2026-0628 的命令，要求所有联邦民用机构从 IT 系统中删除 DeepSeek 产品，并停止购买 DeepSeek 及基于它的第三方服务，理由包括服务器可能被中国政府访问、收集美国用户数据和应用安全漏洞。命令随 10 月 20 日刊登《联邦公报》即时生效，国防和国家安全系统不在范围内，个别情况可申请例外。这让基于 DeepSeek 做产品、想卖给美国政府或大企业的团队面临合规风险，模型选型和「可替换模型层」会更受重视。",
+   "links": [
+    "https://x.com/i/trending/2112188369618784335"
+   ],
+   "topic": "dhs-deepseek-federal-ban-2026-10",
+   "firstSeen": "2026-10-21T17:25:49+08:00"
   }
  ],
- "lastChecked": "2026-10-21T17:09:23+08:00"
+ "lastChecked": "2026-10-21T17:25:49+08:00"
 }
