@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T01:09:11+08:00",
+ "lastUpdated": "2026-10-22T01:31:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18133,7 +18133,19 @@
    ],
    "topic": "trailofbits-patching-bugs-regression-hunt-plugins-2026-10",
    "firstSeen": "2026-10-22T01:09:11+08:00"
+  },
+  {
+   "id": "61f4d0141f",
+   "title": "OpenAI 模型和 Codex 登陆 Google Cloud：可在 Model Garden 直接采购，还将进入 Antigravity 和 Gemini Agent",
+   "summary": "OpenAI 官宣与 Google Cloud 合作，把前沿模型和 Codex 代理工作流接入 Google Cloud Model Garden，企业可通过 Google Cloud Marketplace 购买并抵扣已承诺的 GCP 消费额度，未来几周正式开放；OpenAI 模型也将进入 Google Antigravity 和 Gemini Agent。OpenAI 强调微软仍是主要云合作方。头部模型「跨云分发」成为常态，多模型路由、跨云成本优化和企业模型选型工具迎来新机会。",
+   "links": [
+    "https://openai.com/index/openai-models-google-cloud/",
+    "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers",
+    "https://news.ycombinator.com/item?id=50180079"
+   ],
+   "topic": "openai-models-google-cloud-model-garden-2026-10",
+   "firstSeen": "2026-10-22T01:31:32+08:00"
   }
  ],
- "lastChecked": "2026-10-22T01:09:11+08:00"
+ "lastChecked": "2026-10-22T01:31:32+08:00"
 }
