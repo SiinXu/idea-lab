@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T13:31:49+08:00",
+ "lastUpdated": "2026-10-21T13:32:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17416,7 +17416,18 @@
    ],
    "topic": "llm-api-price-hikes-2026-10-20",
    "firstSeen": "2026-10-21T13:31:49+08:00"
+  },
+  {
+   "id": "947ed117e3",
+   "title": "PHP 严重漏洞补丁未出、利用代码已泄露：session.upload_progress 堆 UAF（CVE-2026-109618/109619）",
+   "summary": "PHP 官方原定 10 月 21 日 14:00 UTC（北京时间 22:00）发布两个 CVSS 9.2 漏洞的紧急补丁，但补丁发布前，一个自称研究团队的站点已公开名为 PHP-UP-2026 的漏洞分析与「已武器化（实验室）」的 Python 利用包，指向 ext/session 中 session.upload_progress 处理函数缓存的两个 zval 指针被提前释放导致的堆 use-after-free。该帖在 HN 迅速升温。官方此前表示若细节提前公开可能提前发布补丁；在补丁到来前，可考虑临时关闭 session.upload_progress.enabled 作为缓解，并准备第一时间升级。",
+   "links": [
+    "https://jackalsyn.com/posts/php-up-2026.html",
+    "https://news.ycombinator.com/item?id=50176077"
+   ],
+   "topic": "php-up-2026-exploit-leak",
+   "firstSeen": "2026-10-21T13:32:13+08:00"
   }
  ],
- "lastChecked": "2026-10-21T13:31:49+08:00"
+ "lastChecked": "2026-10-21T13:32:13+08:00"
 }
