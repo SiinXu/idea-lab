@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T14:59:32+08:00",
+ "lastUpdated": "2026-10-21T15:18:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17462,7 +17462,28 @@
    ],
    "topic": "eagle-4-speculative-decoding",
    "firstSeen": "2026-10-21T14:59:32+08:00"
+  },
+  {
+   "id": "c18ae51e24",
+   "title": "T3 Code 发布 v0.1.1 正式版：两步把仓库同步到另一台机器，连 .env 等 Git 忽略文件一起带上",
+   "summary": "Theo 团队的开源编码 Agent 图形界面 T3 Code（可驱动 Claude Code、Codex 等）于 10 月 21 日发布 v0.1.1 正式版。据 X 上的讨论汇总，这次更新累计 1400 多项改动，主打功能是在一台设备上点两下就能把仓库加到另一台机器，并同步通常要手动拷贝的 .env 等 Git 忽略文件；另有按代码、测试、文档等分类的代码评审拆解视图和性能优化。发布说明里可见大量多机切换（machine switch）、移动端和 PR 同步相关修复。对多台电脑来回切换跑 Agent 的个人开发者很实用，也说明「Agent 编排台」正在从单机工具变成跨设备工作台。",
+   "links": [
+    "https://github.com/pingdotgg/t3code/releases/tag/v0.1.1",
+    "https://x.com/i/trending/2112543195972460559"
+   ],
+   "topic": "t3code-v0-1-1-multi-machine-sync",
+   "firstSeen": "2026-10-21T15:18:30+08:00"
+  },
+  {
+   "id": "c6d5475729",
+   "title": "beehiiv CEO 公开嘲讽 Marc Lou 的「氛围编程」廉价 Newsletter 工具 MailCheap，独立开发者挑战 SaaS 涨价引发热议",
+   "summary": "据 X 热点汇总，beehiiv CEO Tyler Denk 晒图嘲讽独立开发者 Marc Lou 的项目和下滑的收入曲线，称其 Newsletter 平台 MailCheap 是不严肃的「vibe-coded」实验，并对比 beehiiv 每月 291 万美元的收入。Marc Lou 的说法是：beehiiv 涨价会让他的年费从 1000 美元涨到 4000 美元，于是自己用 AI 辅助做了 MailCheap，只按发出的邮件计费，起价每月 19 美元，号称最多便宜 83%。这场口水战折射出 AI 让单人开发者能快速复刻并用价格挑战成熟 SaaS 的趋势；对还在 beehiiv 和 Kit 之间选 Newsletter 平台的人，也提示要把涨价风险和按量计费的替代品算进去。",
+   "links": [
+    "https://x.com/i/trending/2112458037508382962"
+   ],
+   "topic": "beehiiv-vs-mailcheap-2026-10",
+   "firstSeen": "2026-10-21T15:18:30+08:00"
   }
  ],
- "lastChecked": "2026-10-21T14:59:32+08:00"
+ "lastChecked": "2026-10-21T15:18:30+08:00"
 }
