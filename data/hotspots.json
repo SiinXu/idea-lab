@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T06:30:08+08:00",
+ "lastUpdated": "2026-10-22T06:47:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18383,7 +18383,18 @@
    ],
    "topic": "railway-env-var-breach-2026-10",
    "firstSeen": "2026-10-22T06:30:08+08:00"
+  },
+  {
+   "id": "03f30bae99",
+   "title": "Oracle 为 eMudhra 证书泄露发布 Java 紧急安全公告：CVSS 9.1，Java SE 8 到 27 全线需打补丁",
+   "summary": "Oracle 发布带外安全公告 CVE-2026-91403，在 Java 内置的 TLS 组件 JSSE 中吊销 eMudhra 已泄露私钥的中间 CA 证书。该问题可远程利用、无需认证，CVSS 3.1 评分 9.1，影响 Oracle Java SE 8u511、11.0.33、17.0.21、21.0.13、25.0.5、27.0.1，以及 GraalVM for JDK 17/21 和 GraalVM 企业版 21.3.20。继浏览器和 Go 之后，Java 生态也正式跟进，用 Java 做 HTTPS 通信的后端服务应尽快升级 JDK 或更新信任库。",
+   "links": [
+    "https://www.oracle.com/security-alerts/alert-cve-2026-91403.html",
+    "https://news.ycombinator.com/item?id=50188443"
+   ],
+   "topic": "oracle-java-emudhra-alert-2026-10",
+   "firstSeen": "2026-10-22T06:47:04+08:00"
   }
  ],
- "lastChecked": "2026-10-22T06:30:08+08:00"
+ "lastChecked": "2026-10-22T06:47:04+08:00"
 }
