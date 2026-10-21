@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T20:27:17+08:00",
+ "lastUpdated": "2026-10-21T20:47:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17787,7 +17787,37 @@
    ],
    "topic": "steam-ai-vibe-coded-games-monetization-debate-2026-10-21",
    "firstSeen": "2026-10-21T20:27:17+08:00"
+  },
+  {
+   "id": "f0ade5d293",
+   "title": "OpenAI 前沿模型将上架谷歌云：GPT-6 Astra 和 Codex 进入 Model Garden 与 Marketplace",
+   "summary": "未来几周内，企业可直接在谷歌云 Model Garden 和 Marketplace 购买 OpenAI 的 GPT-6 Astra 与 Codex 编程工具，并抵扣已有的谷歌云消费承诺。此前 OpenAI 已登陆 AWS，微软仍是其主要合作方；企业选云和采购的门槛进一步降低。",
+   "links": [
+    "https://x.com/i/trending/2112883740699480270"
+   ],
+   "topic": "openai-models-google-cloud-marketplace-2026-10-21",
+   "firstSeen": "2026-10-21T20:47:01+08:00"
+  },
+  {
+   "id": "c79e52ca50",
+   "title": "IREN 在 GTC 柏林宣布西班牙 300MW AI 数据中心园区：主打欧洲「主权 AI」，2028 年投运",
+   "summary": "澳大利亚 AI 云公司 IREN 成立 IREN Europe，在西班牙巴达霍斯建设 300 兆瓦园区，已拿到土建许可和并网电力，采用闭环液冷并对接英伟达 DSX AI 工厂平台，由桑坦德银行前 CEO 领衔，面向需要数据与负载自主可控的欧洲客户。",
+   "links": [
+    "https://x.com/i/trending/2112881687793136076"
+   ],
+   "topic": "iren-europe-spain-300mw-ai-campus-2026-10-21",
+   "firstSeen": "2026-10-21T20:47:01+08:00"
+  },
+  {
+   "id": "abaeed85f7",
+   "title": "Gemini 4 Argon 上线 72 小时处理 25 万亿 token，是 Gemini 3 同期的三倍；网友晒出体素宝塔、动画元素周期表",
+   "summary": "用户大量分享 Argon 生成的 3D 体素场景和交互小世界，称赞其空间推理能力，也有人反馈偶发崩溃；下一代 Gemini 4 Carbon 预览的 3D 细节更清晰但速度更慢。",
+   "links": [
+    "https://x.com/i/trending/2112575527206969617"
+   ],
+   "topic": "gemini-4-argon-25-trillion-tokens-72h-2026-10-21",
+   "firstSeen": "2026-10-21T20:47:01+08:00"
   }
  ],
- "lastChecked": "2026-10-21T20:27:17+08:00"
+ "lastChecked": "2026-10-21T20:47:01+08:00"
 }
