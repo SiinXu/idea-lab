@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T23:58:57+08:00",
+ "lastUpdated": "2026-10-22T00:10:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18009,7 +18009,30 @@
    ],
    "topic": "chatgpt-ads-83-countries-100k-advertisers-2026-10",
    "firstSeen": "2026-10-21T23:58:57+08:00"
+  },
+  {
+   "id": "91be282d78",
+   "title": "法律 AI 公司 Legora 再融 5.5 亿美元、估值 88 亿美元：7 个月内估值从 55.5 亿涨到 88 亿",
+   "summary": "据 City A.M. 和 SiliconANGLE 报道，总部在斯德哥尔摩的法律 AI 创业公司 Legora 完成 5.5 亿美元 E 轮融资，投后估值 88 亿美元；今年 3 月它刚以 55.5 亿美元估值融过 5.5 亿美元 D 轮。新资金主要用于全球扩张。垂直行业的 AI 工作台（法律、医疗、财税）正在持续吸走大额资金，对一人公司来说，细分专业场景的 AI 工具依然是值得盯的方向。",
+   "links": [
+    "https://www.cityam.com/legora-raises-550-in-funding-to-lead-global-expansion/",
+    "https://siliconangle.com/2026/10/21/legal-ai-startup-legora-raises-550m-at-8-8b-to-change-the-face-of-the-law/",
+    "https://www.techmeme.com/261021/p27#a261021p27"
+   ],
+   "topic": "legora-550m-series-e-8-8b-2026-10",
+   "firstSeen": "2026-10-22T00:10:36+08:00"
+  },
+  {
+   "id": "f25f9091f8",
+   "title": "医生 AI 搜索 OpenEvidence：美国约 100 万医生里近三分之二在用，今年广告收入有望达 4 到 5 亿美元",
+   "summary": "据英国《金融时报》报道，OpenEvidence 称美国约 100 万名医生中近三分之二在使用它的 AI 医学搜索引擎；知情人士说，公司 2026 年的广告收入预计在 4 亿到 5 亿美元之间。它对医生免费、靠药企和医疗广告赚钱，是「专业人群免费 AI 搜索 + 精准广告」模式跑通的典型案例，和 ChatGPT 广告扩张放在一起看，AI 搜索广告正在成为新的变现路径。",
+   "links": [
+    "https://www.ft.com/content/0ed17b79-47dd-4ad8-8dca-44eb35617edc",
+    "https://www.techmeme.com/261021/p6#a261021p6"
+   ],
+   "topic": "openevidence-physicians-ad-revenue-2026-10",
+   "firstSeen": "2026-10-22T00:10:36+08:00"
   }
  ],
- "lastChecked": "2026-10-21T23:58:57+08:00"
+ "lastChecked": "2026-10-22T00:10:36+08:00"
 }
