@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T12:32:37+08:00",
+ "lastUpdated": "2026-10-21T12:57:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17395,7 +17395,17 @@
    ],
    "topic": "bot-detection-benchmark-ai-agents-2026",
    "firstSeen": "2026-10-21T12:32:37+08:00"
+  },
+  {
+   "id": "a526a7c20c",
+   "title": "Graphify 登上 GitHub 每日趋势榜：把整个代码库连同文档、SQL 和 PDF 变成可查询的知识图谱",
+   "summary": "Graphify-Labs/graphify 今日出现在 GitHub 每日趋势榜，累计约 13 万星。它以 /graphify 技能的形式接入 Claude Code、Cursor、Codex 和 Gemini CLI，用本地确定性的语法树解析把代码、文档、数据库结构、配置和 PDF 连成知识图谱，每条关系都附解释，不依赖向量库；适合给编码 Agent 做大型仓库的上下文导航。此前 HN 上已有其 Rust 移植版 Graphicle。",
+   "links": [
+    "https://github.com/Graphify-Labs/graphify"
+   ],
+   "topic": "graphify-codebase-knowledge-graph-2026-10",
+   "firstSeen": "2026-10-21T12:57:18+08:00"
   }
  ],
- "lastChecked": "2026-10-21T12:32:37+08:00"
+ "lastChecked": "2026-10-21T12:57:18+08:00"
 }
