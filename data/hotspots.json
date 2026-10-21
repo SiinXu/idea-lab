@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T14:17:27+08:00",
+ "lastUpdated": "2026-10-21T14:59:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17449,7 +17449,20 @@
    ],
    "topic": "anthropic-attack-surface-reduction",
    "firstSeen": "2026-10-21T14:17:27+08:00"
+  },
+  {
+   "id": "025d5ef152",
+   "title": "EAGLE-4 推测解码发布：一个草稿模型自适应批量与硬件，Qwen3.8-27B 单请求跑到 961.6 tok/s",
+   "summary": "推理公司 Eagle 10 月 20 日发布第四代推测解码方案 EAGLE-4：用小型草稿模型先猜多个 Token，再由主模型一次验证，输出分布与原模型一致。新组件 EAGLE-Harness 会先测量草稿与验证成本，再按批量大小、硬件和负载动态调整推测树的深度和宽度，避免高并发时「越猜越慢」。官方数据：Qwen3.8-27B 在 4 张 B300 上单请求 961.6 tok/s；仓库实测 vLLM 单并发从 241.6 提到 722.8 tok/s（2.99 倍），AMD MI355X 上也有约 2 倍提升。以 pip 包 eagle-harness 发布，可插入 SGLang、vLLM。注意：许可是「源码可用」而非 OSI 开源，商用仅限年营收 2000 万美元以下且不做竞品。对自建推理、编码 Agent 降本提速的团队值得评测。",
+   "links": [
+    "https://blog.eagle.ai/blog/introducing-eagle-4",
+    "https://github.com/eagle-hq/EAGLE-4",
+    "https://huggingface.co/EAGLE-Corp/Qwen3.8-27B-EAGLE4",
+    "https://x.com/i/trending/2112669169216790929"
+   ],
+   "topic": "eagle-4-speculative-decoding",
+   "firstSeen": "2026-10-21T14:59:32+08:00"
   }
  ],
- "lastChecked": "2026-10-21T14:17:27+08:00"
+ "lastChecked": "2026-10-21T14:59:32+08:00"
 }
