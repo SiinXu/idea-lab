@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T06:47:04+08:00",
+ "lastUpdated": "2026-10-22T07:14:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18394,7 +18394,18 @@
    ],
    "topic": "oracle-java-emudhra-alert-2026-10",
    "firstSeen": "2026-10-22T06:47:04+08:00"
+  },
+  {
+   "id": "e3a45d3aa3",
+   "title": "PhoneUse 走红 X：给 AI 智能体配真手机，云端安卓加旧金山机架上由机械触控笔操作的实体 iPhone",
+   "summary": "PhoneUse 为 AI 智能体提供云端 Android 设备和放在旧金山机架上的实体 iPhone，由机械触控笔点按、配真实 SIM 卡，通过一个 API 和 MCP 服务器即可操作 App Store / Play Store 里的任意原生应用，比如叫 Uber、发 Instagram、给客人发车牌号短信。这类任务过去只能靠浏览器的智能体很难完成。官网标价云端按分钟 0.024 美元，独占设备每月 89 美元，关键步骤支持日志和人工审批。「手机版 Computer Use」可能成为智能体基础设施的新赛道。",
+   "links": [
+    "https://www.phoneuse.com/",
+    "https://x.com/i/trending/2112981234360189208"
+   ],
+   "topic": "phoneuse-ai-agent-phones-2026-10",
+   "firstSeen": "2026-10-22T07:14:47+08:00"
   }
  ],
- "lastChecked": "2026-10-22T06:47:04+08:00"
+ "lastChecked": "2026-10-22T07:14:47+08:00"
 }
