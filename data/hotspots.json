@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T03:38:00+08:00",
+ "lastUpdated": "2026-10-22T03:59:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18293,7 +18293,29 @@
    ],
    "topic": "google-deepmind-military-resignations-2026-10",
    "firstSeen": "2026-10-22T03:38:00+08:00"
+  },
+  {
+   "id": "7cd25ce54e",
+   "title": "GitLab 再发满分级紧急补丁：正则编译器整数溢出可让未授权用户远程执行代码（CVE-2026-110264）",
+   "summary": "GitLab 发布 19.5.1 等补丁版本，修复一项严重级漏洞：编译特制正则表达式时发生整数溢出，未登录攻击者在特定条件下可在 GitLab 服务器上执行任意代码，HN 标注 CVSS 10.0。本次补丁还修了 OmniAuth 到 LDAP 自动关联、OAuth/OIDC 发现端点缓存投毒等多项高危问题。GitLab.com 已修复，自建实例需尽快升级。",
+   "links": [
+    "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "https://news.ycombinator.com/item?id=50185869"
+   ],
+   "topic": "gitlab-cve-2026-110264-regex-int-overflow",
+   "firstSeen": "2026-10-22T03:59:54+08:00"
+  },
+  {
+   "id": "a86f6e13e3",
+   "title": "Plex 被曝裁掉整个播放器团队：Apple TV 杜比视界播放 Bug 的修复恐无人跟进",
+   "summary": "在 Plex 官方论坛一则 iOS/tvOS 4K 杜比视界无法播放的 Bug 帖中，用户 Craig_Holliday 称已提交修复代码，但「播放器团队今天被裁」，修复能否合并不得而知。此前用户已大量抱怨 Plex 新版客户端体验下滑。消息尚未获官方确认，HN 上讨论自建媒体服务器替代方案（Jellyfin 等）的声音升温。",
+   "links": [
+    "https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5",
+    "https://news.ycombinator.com/item?id=50186318"
+   ],
+   "topic": "plex-player-team-layoff-2026-10",
+   "firstSeen": "2026-10-22T03:59:54+08:00"
   }
  ],
- "lastChecked": "2026-10-22T03:38:00+08:00"
+ "lastChecked": "2026-10-22T03:59:54+08:00"
 }
