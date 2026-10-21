@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T09:02:33+08:00",
+ "lastUpdated": "2026-10-21T09:14:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17253,7 +17253,27 @@
    ],
    "topic": "eric-schmidt-anthropic-1pct-stake-2026-10",
    "firstSeen": "2026-10-21T09:02:33+08:00"
+  },
+  {
+   "id": "319f79c551",
+   "title": "Meta AI 伴侣 Muse 上线 40 天美国下载量破 1000 万，跻身仅 12 款 App 达成的里程碑",
+   "summary": "TechCrunch 10 月 20 日报道，Meta 的 AI 伴侣应用 Muse 在发布后 40 天内美国下载量超过 1000 万，此前只有 Threads 等 11 款应用这么快达到这一量级；最新数据还显示 Muse 的用户留存率高于同类 AI 对手。AI 伴侣赛道的增长和留存竞争正在加速。",
+   "links": [
+    "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/"
+   ],
+   "topic": "meta-muse-10m-us-downloads-40-days",
+   "firstSeen": "2026-10-21T09:14:03+08:00"
+  },
+  {
+   "id": "ec31e6fc5c",
+   "title": "法官驳回 Sam Altman 妹妹 Ann Altman 的性侵诉讼：原告一年来未按要求出席体检、屡次错过期限",
+   "summary": "The Verge 10 月 20 日报道，美国地区法官 Zachary Bluestone 驳回了 Ann Altman 去年起诉哥哥、OpenAI CEO Sam Altman 的诉讼。法官写道，过去一年原告未出席独立医学检查、也未满足其他期限，尽管已被警告会因此撤案。Altman 家人此前声明称相关指控完全不实。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed"
+   ],
+   "topic": "ann-altman-lawsuit-dismissed-2026-10",
+   "firstSeen": "2026-10-21T09:14:03+08:00"
   }
  ],
- "lastChecked": "2026-10-21T09:02:33+08:00"
+ "lastChecked": "2026-10-21T09:14:03+08:00"
 }
