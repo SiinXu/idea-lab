@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T22:41:42+08:00",
+ "lastUpdated": "2026-10-21T23:02:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17919,7 +17919,29 @@
    ],
    "topic": "duckdb-2-0-lts-cinnamon-teal-2026-10-21",
    "firstSeen": "2026-10-21T22:41:42+08:00"
+  },
+  {
+   "id": "a0e7a23f62",
+   "title": "LiteLLM 1.107.0 在 PyPI 被投毒：装上就偷 SSH 密钥、云凭证和 LLM API Key，还留下每小时回连的后门",
+   "summary": "SafeDep 分析发现，LiteLLM 1.107.0 的全部 7 个 wheel 都多了 cook.pth、cook.py 和 sitecustomize.py：只要主机上任何 Python 进程启动就会执行，即使从没 import litellm。窃密程序收集 SSH 密钥、云和 CI/CD 凭证、AI 工具令牌、浏览器密码以及 LiteLLM 代理数据库里的模型密钥，加密发往仿冒域名；后门每小时从 GitHub 文件读取服务器地址并下载执行代码。上游 GitHub 源码不含恶意内容，PyPI 已下架该版本，1.106.2 和 1.107.0rc1/rc2 是干净的；官方 issue 提醒 Docker 的 latest/main-stable 镜像仍受影响。用过该版本的应立即轮换所有密钥。",
+   "links": [
+    "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+    "https://github.com/BerriAI/litellm/issues/47826",
+    "https://news.ycombinator.com/item?id=50181114"
+   ],
+   "topic": "litellm-1-107-pypi-compromise-2026-10-21",
+   "firstSeen": "2026-10-21T23:02:54+08:00"
+  },
+  {
+   "id": "3ca187a99c",
+   "title": "AI 检测器 Pangram 被质疑误判：物理学家把 2016 年前自己写的论文丢进去，结果显示 100% AI 生成",
+   "summary": "X 上大量用户晒出 Pangram 把旧论文、短片段甚至代码判成部分或全部 AI 生成的截图；记者 Jesse Singal 指出同一文本截短和全文结果不一致，也有人提到误判已经引发文学圈风波和书约被取消，且对非母语写作者更不利。Pangram 方面称其误报率接近零并有高校研究支持，争议仍在发酵。",
+   "links": [
+    "https://x.com/i/trending/2112899508321280380"
+   ],
+   "topic": "pangram-ai-detector-false-positives-2026-10-21",
+   "firstSeen": "2026-10-21T23:02:54+08:00"
   }
  ],
- "lastChecked": "2026-10-21T22:41:42+08:00"
+ "lastChecked": "2026-10-21T23:02:54+08:00"
 }
