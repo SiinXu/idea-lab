@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T02:13:06+08:00",
+ "lastUpdated": "2026-10-22T02:29:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18216,7 +18216,29 @@
    ],
    "topic": "alter-yc-agent-pam-2026-10",
    "firstSeen": "2026-10-22T02:13:06+08:00"
+  },
+  {
+   "id": "3d73bc6847",
+   "title": "一岁的 AI 研究公司 Flapping Airplanes 融资 10 亿美元、估值 60 亿美元：主攻用更少数据和算力训练模型",
+   "summary": "据彭博报道，成立约一年的 Flapping Airplanes 完成 10 亿美元融资、估值 60 亿美元，方向是降低模型训练所需的数据量和算力，并让芯片跑得更高效，押注「省算力」路线。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-10-21/ai-research-startup-flapping-airplanes-valued-at-6-billion-in-round",
+    "https://www.techmeme.com/261021/p43#a261021p43"
+   ],
+   "topic": "flapping-airplanes-1b-2026-10",
+   "firstSeen": "2026-10-22T02:29:58+08:00"
+  },
+  {
+   "id": "a6df2d373c",
+   "title": "PHP2Shell 补丁只覆盖 PHP 8.2 及以上：大量老版本网站只能等第三方厂商救火",
+   "summary": "PHP 基金会表示，两个远程代码执行漏洞的官方补丁仅支持 PHP 8.2 及更新版本，仍跑旧版 PHP 的站点需依赖发行版或主机商等第三方补丁，升级和托管迁移需求可能激增。",
+   "links": [
+    "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+    "https://www.techmeme.com/261021/p40#a261021p40"
+   ],
+   "topic": "php2shell-legacy-patch-gap-2026-10",
+   "firstSeen": "2026-10-22T02:29:58+08:00"
   }
  ],
- "lastChecked": "2026-10-22T02:13:06+08:00"
+ "lastChecked": "2026-10-22T02:29:58+08:00"
 }
