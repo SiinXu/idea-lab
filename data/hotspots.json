@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T08:29:24+08:00",
+ "lastUpdated": "2026-10-21T08:44:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17213,7 +17213,37 @@
    ],
    "topic": "anthropic-federal-ai-safety-bill-draft-details-2026-10-20",
    "firstSeen": "2026-10-21T08:29:24+08:00"
+  },
+  {
+   "id": "87d3912a39",
+   "title": "Snap 请来「钢铁侠」小罗伯特·唐尼代言 Specs AR 眼镜：任命其为首席客户体验官，广告里把「AI 眼镜」扔进垃圾桶",
+   "summary": "The Verge 10 月 20 日报道，Snap 为新款 Specs AR 眼镜请来小罗伯特·唐尼担任「首席客户体验官」，并发布多支视频展示用眼镜辅助推杆、练习画画、躺床上看私人 MMA 比赛视频等场景；其中一个镜头把写着「AI glasses」的盒子倒进垃圾桶，明显针对卖得火的 Meta 智能眼镜。AR 眼镜消费级竞争进入明星营销阶段，相关内容创作、AR 应用开发值得关注。",
+   "links": [
+    "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr"
+   ],
+   "topic": "snap-specs-robert-downey-jr-2026-10",
+   "firstSeen": "2026-10-21T08:44:59+08:00"
+  },
+  {
+   "id": "e7ee7dfb61",
+   "title": "YouTube 疑似测试隐藏「点踩」按钮：把它收进三个点菜单里",
+   "summary": "据 9to5Google 和 The Verge 10 月 20 日报道，多名 X 和 Reddit 用户晒出截图，YouTube 视频下方的点踩按钮被挪进「更多」子菜单甚至消失。此前 YouTube 已隐藏点踩数、在 Shorts 去掉点踩按钮；按钮藏得更深意味着点踩会更少，观众判断视频质量的信号进一步变弱，第三方「找回点踩」类插件可能再受关注。",
+   "links": [
+    "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu"
+   ],
+   "topic": "youtube-hide-dislike-button-test-2026-10",
+   "firstSeen": "2026-10-21T08:44:59+08:00"
+  },
+  {
+   "id": "ed46fbd8df",
+   "title": "X 热议：Anthropic IPO 招股书草案风险因素里写进「AI 可能把信息或物质送回过去改变历史」",
+   "summary": "X 上 10 月 20 日热议称，Anthropic 递交的 S-1 招股书草案第 32 页风险因素中，与机构崩溃、AI 失控自主等灾难性风险并列，列出了先进 AI 可能向过去发送信息或物质的「时间旅行」情景。网友一边拿科幻情节开玩笑，一边有人认为这是对长期安全风险的认真披露。该说法来自 X 汇总，尚未见主流媒体核实，请谨慎引用。",
+   "links": [
+    "https://x.com/i/trending/2112681484037620129"
+   ],
+   "topic": "anthropic-s1-time-travel-risk-factor-2026-10",
+   "firstSeen": "2026-10-21T08:44:59+08:00"
   }
  ],
- "lastChecked": "2026-10-21T08:29:24+08:00"
+ "lastChecked": "2026-10-21T08:44:59+08:00"
 }
