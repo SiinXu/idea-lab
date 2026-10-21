@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T07:31:53+08:00",
+ "lastUpdated": "2026-10-22T07:46:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18417,7 +18417,27 @@
    ],
    "topic": "opal-reactive-optimizer-mit-2026-10",
    "firstSeen": "2026-10-22T07:31:53+08:00"
+  },
+  {
+   "id": "d9ba679447",
+   "title": "Sam Altman 接受 Matthew Berman 45 分钟长访谈：谈 AI 药物发现、为何程序员不会消失，以及「为智能体而非人类设计」的新硬件",
+   "summary": "Altman 在 Forward Future 节目里谈到 AI 将推动科学突破和「新文艺复兴」，认为编程岗位会持续存在，常驻在线的个人助理会兴起；OpenAI 的优势在下一代模型和自研芯片，以满足几乎无上限的算力需求，并在做专为 AI 智能体而非人类设计的设备。对于当前模型是否有意识，他说没有人知道。X 上不少观众称这是他近期最有料的一次对话。",
+   "links": [
+    "https://x.com/i/trending/2113026682319991113"
+   ],
+   "topic": "altman-berman-interview-2026-10-21",
+   "firstSeen": "2026-10-22T07:46:49+08:00"
+  },
+  {
+   "id": "6d66d25d29",
+   "title": "「交付能跑的应用比画 Figma 还快」刷屏：设计师直接用 Claude Code 等编码智能体出原型，Figma 以 MCP 和代码层应对",
+   "summary": "X 上 Brett 一句话引发设计与开发圈热议：现在直接交付一个写好的应用，花的时间比在 Figma 里做设计还少。很多设计师和开发者晒出用标注草图或 HTML 原型配合 Claude Code 直接出成品的流程，认为跳过设计交接更贴近真实上线速度。Figma 正通过 MCP 集成和代码图层反击，大团队仍依赖它协作，但独立开发者越来越多直接写代码。对做 AI 设计工具或「设计转代码」产品的人是个信号。",
+   "links": [
+    "https://x.com/i/trending/2112971198007300305"
+   ],
+   "topic": "designers-skip-figma-ai-coding-2026-10",
+   "firstSeen": "2026-10-22T07:46:49+08:00"
   }
  ],
- "lastChecked": "2026-10-22T07:31:53+08:00"
+ "lastChecked": "2026-10-22T07:46:49+08:00"
 }
