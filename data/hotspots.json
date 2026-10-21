@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T12:57:18+08:00",
+ "lastUpdated": "2026-10-21T13:31:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17405,7 +17405,18 @@
    ],
    "topic": "graphify-codebase-knowledge-graph-2026-10",
    "firstSeen": "2026-10-21T12:57:18+08:00"
+  },
+  {
+   "id": "c10b6e37e1",
+   "title": "大模型「补贴时代」松动：阿里云把 DeepSeek V4 Flash 0731 输出价从每百万 Token 0.40 美元涨到 1.32 美元",
+   "summary": "Stork AI 每日抓取各家一手标价，发现阿里云上 DeepSeek V4 Flash 0731 输出价一夜上涨 230%，输入价也翻倍以上；Mistral 的 Ministral 3B/8B 分别涨 150% 和 50%，Qwen3.6 35B-A3B 涨 52%，共捕捉到 17 处价格变动，只有智谱把 GLM-5V-Turbo 降价 85%。对依赖低价推理做单位经济模型的 AI 应用来说，需要重新核算成本、做多模型路由和价格监控。",
+   "links": [
+    "https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices",
+    "https://news.ycombinator.com/item?id=50176351"
+   ],
+   "topic": "llm-api-price-hikes-2026-10-20",
+   "firstSeen": "2026-10-21T13:31:49+08:00"
   }
  ],
- "lastChecked": "2026-10-21T12:57:18+08:00"
+ "lastChecked": "2026-10-21T13:31:49+08:00"
 }
