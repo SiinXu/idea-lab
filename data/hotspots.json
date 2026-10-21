@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T10:45:22+08:00",
+ "lastUpdated": "2026-10-21T11:38:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17362,7 +17362,19 @@
    ],
    "topic": "pingcap-tidb-cloud-breach-claim-2026-10",
    "firstSeen": "2026-10-21T10:45:22+08:00"
+  },
+  {
+   "id": "9a6b428bf9",
+   "title": "Anthropic CEO Dario Amodei 长文回应 AI 安全倡导者 Nathan Calvin 的质疑：承认沟通失误，逐条列举「安全优先」的代价",
+   "summary": "AI 安全倡导者 Nathan Calvin 公开质疑 Anthropic 近期的自研芯片、巨额算力合同和政策立场调整，是否说明它已把冲刺超级智能放在安全承诺之前，并认为 Anthropic 对立法问题的回复没有触及核心。10 月 21 日 Amodei 在 X 上发长文回应，感谢其监督工作，承认公司扩张到约 5000 人后出现沟通失误、并对负责任扩展政策（RSP）做过调整，同时列出多项付出真实代价的安全举措。据 X 热点汇总，其中包括拿出 5% 股份设立面向 AI 安全与劳动者的基金。这场交锋把前沿实验室在「竞争」与「安全」之间的取舍摆上了台面，又恰逢 Anthropic 递交 IPO 招股书。",
+   "links": [
+    "https://x.com/DarioAmodei/status/2112732230124818891",
+    "https://x.com/_NathanCalvin/status/2112295219765137570",
+    "https://x.com/i/trending/2112739596002079084"
+   ],
+   "topic": "amodei-calvin-safety-exchange-2026-10",
+   "firstSeen": "2026-10-21T11:38:40+08:00"
   }
  ],
- "lastChecked": "2026-10-21T10:45:22+08:00"
+ "lastChecked": "2026-10-21T11:38:40+08:00"
 }
