@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T23:43:11+08:00",
+ "lastUpdated": "2026-10-21T23:58:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17976,7 +17976,40 @@
    ],
    "topic": "meta-no-kings-instagram-claude-bot-takedown-2026-10",
    "firstSeen": "2026-10-21T23:43:11+08:00"
+  },
+  {
+   "id": "7be3767409",
+   "title": "红杉领投 Whop 2.05 亿美元、估值 51 亿美元：帮普通人开店做生意、还用 AI 给经营建议的平台成了新独角兽",
+   "summary": "彭博独家报道，总部在帕洛阿尔托的 Whop 完成 2.05 亿美元融资，投后估值 51 亿美元，由红杉资本领投。Whop 的定位是帮个人从零开始创业、运营并扩大自己的小生意，并用 AI 给出经营决策建议。这是红杉前掌门 Doug Leone 重新回到一线投资后的第一笔交易，他的说法是「赚钱第一条：去别人不去的地方」。对一人公司和做付费社群、数字产品的创作者来说，这说明「个人生意基础设施」赛道正在被大资本押注。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-10-21/whop-s-sequoia-led-funding-pushes-its-value-to-5-1-billion",
+    "https://www.techmeme.com/261021/p35#a261021p35"
+   ],
+   "topic": "whop-sequoia-205m-5-1b-2026-10",
+   "firstSeen": "2026-10-21T23:58:57+08:00"
+  },
+  {
+   "id": "dedbc37447",
+   "title": "PHP2Shell 后续：Cloudflare 提前约 9 小时给所有免费和付费用户默认开启 WAF 防护，PHP 基金会称 CVE 编号外泄被迫提前一天发补丁",
+   "summary": "PHP 两个严重漏洞（CVE-2026-109618/109619）公开后，Cloudflare 表示在公开披露前大约 9 小时，就已为所有免费和付费套餐用户默认部署了 WAF 拦截规则。PHP 基金会同日发文复盘发现和修复过程，称因为 CVE 编号已在网上流传，只能把 8.5.12、8.4.27、8.3.36、8.2.35 补丁提前一天发布，并介绍了后续加强 PHP 安全的计划。站点挂在 Cloudflare 后面能多一层缓冲，但官方仍建议尽快升级 PHP 本身。",
+   "links": [
+    "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+    "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
+   ],
+   "topic": "php2shell-cloudflare-waf-php-foundation-2026-10",
+   "firstSeen": "2026-10-21T23:58:57+08:00"
+  },
+  {
+   "id": "0c5a2ed0c5",
+   "title": "ChatGPT 广告再扩 26 国、覆盖 83 个国家，广告主超过 10 万：8 月时才 2 万",
+   "summary": "据 The Information 报道，OpenAI 把 ChatGPT 广告新开放到 26 个国家，总数达到 83 个，并称平台广告主已超过 10 万家，而 8 月时只有约 2 万家。OpenAI 正试图让广告成为更大的收入来源，用来分担高昂的 AI 算力成本。对做出海产品和投放的人来说，ChatGPT 正在快速变成一个新的广告渠道。",
+   "links": [
+    "https://www.theinformation.com/briefings/openai-expands-chatgpt-ads-26-countries-says-100-000-advertisers",
+    "https://www.techmeme.com/261021/p26#a261021p26"
+   ],
+   "topic": "chatgpt-ads-83-countries-100k-advertisers-2026-10",
+   "firstSeen": "2026-10-21T23:58:57+08:00"
   }
  ],
- "lastChecked": "2026-10-21T23:43:11+08:00"
+ "lastChecked": "2026-10-21T23:58:57+08:00"
 }
