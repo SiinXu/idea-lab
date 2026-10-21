@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T09:14:03+08:00",
+ "lastUpdated": "2026-10-21T09:22:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17273,7 +17273,19 @@
    ],
    "topic": "ann-altman-lawsuit-dismissed-2026-10",
    "firstSeen": "2026-10-21T09:14:03+08:00"
+  },
+  {
+   "id": "bae4a1f9fc",
+   "title": "超 1000 名数学家加入「人类数学协会」：承诺不为 AI 公司工作，654 人进一步拒绝在研究中使用 AI",
+   "summary": "New Scientist 10 月 20 日报道，人类数学协会（AHM）成员已达 1008 人，含教授和博士生。全体成员承诺不为商业 AI 公司提供劳动、咨询或宣传，也不发表 AI 生成的数学文本；其中 654 人加入「无 AI」小组，研究中完全不用 AI。导火索是 OpenAI 本月一次性发布 722 篇 AI 数学论文，被批「是权力展示而非学术」。",
+   "links": [
+    "https://www.newscientist.com/article/2593621-a-thousand-human-mathematicians-pledge-to-shun-ai-in-their-research/",
+    "https://www.ahmath.org/members",
+    "https://x.com/i/trending/2112708827166691527"
+   ],
+   "topic": "ahm-mathematicians-pledge-no-ai-2026-10",
+   "firstSeen": "2026-10-21T09:22:53+08:00"
   }
  ],
- "lastChecked": "2026-10-21T09:14:03+08:00"
+ "lastChecked": "2026-10-21T09:22:53+08:00"
 }
