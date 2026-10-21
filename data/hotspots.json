@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T18:29:15+08:00",
+ "lastUpdated": "2026-10-21T18:45:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17722,7 +17722,19 @@
    ],
    "topic": "nvidia-dsx-pod-gtc-berlin-2026",
    "firstSeen": "2026-10-21T18:29:15+08:00"
+  },
+  {
+   "id": "3a49e6f74d",
+   "title": "Citadel 掌门 Ken Griffin：AI「几乎肯定」处在泡沫中，但仍是创业者的「黄金时代」",
+   "summary": "在 Citadel Securities 年度全球市场大会上，Griffin 说企业正在审视 Anthropic、OpenAI 的 AI 账单，却难拿出清晰的生产力回报；但他认为重大技术变革总伴随泡沫，AI 股不一定要卖。他透露 Citadel 内部的 Agent 工具把部分高阶金融研究从 6–8 周压到 2–3 小时，并呼吁为被 AI 冲击的白领做再培训。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now",
+    "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce",
+    "https://cryptobriefing.com/ken-griffin-ai-bubble-still-bullish/"
+   ],
+   "topic": "ken-griffin-ai-bubble-2026-10",
+   "firstSeen": "2026-10-21T18:45:39+08:00"
   }
  ],
- "lastChecked": "2026-10-21T18:29:15+08:00"
+ "lastChecked": "2026-10-21T18:45:39+08:00"
 }
