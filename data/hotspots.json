@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T21:58:28+08:00",
+ "lastUpdated": "2026-10-21T22:11:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17873,7 +17873,18 @@
    ],
    "topic": "layerfs-agent-filesystem-v1-2026-10-21",
    "firstSeen": "2026-10-21T21:58:28+08:00"
+  },
+  {
+   "id": "d3f519557f",
+   "title": "OpenAI 发布「Patch the Planet」协同披露框架：GPT-5.6 Sol 参与挖出 PHP 高危漏洞，并拿出 10 亿美元补贴防守方使用 Daybreak",
+   "summary": "OpenAI 称过去两个月牵头维护者、研究员和安全厂商联合处置 PHP 严重漏洞：Calif 用 GPT-5.6 Sol 发现漏洞，Wiz 也独立报告，PHP 官方主导修复并今天发布 8.5.12 等补丁，Cloudflare 等提前准备 WAF 防护。OpenAI 称这是「近年影响最大的安全事件之一」，将推出 PHP 版本检查器和配套 Codex 技能，承诺 10 亿美元补贴资源紧张的关键服务机构使用 Daybreak，并提出 AI 时代漏洞响应五阶段框架、征求社区意见。还预告未来几个月类似发现会急剧增加。",
+   "links": [
+    "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+    "https://news.ycombinator.com/item?id=50181175"
+   ],
+   "topic": "openai-patch-the-planet-php-disclosure-2026-10-21",
+   "firstSeen": "2026-10-21T22:11:40+08:00"
   }
  ],
- "lastChecked": "2026-10-21T21:58:28+08:00"
+ "lastChecked": "2026-10-21T22:11:40+08:00"
 }
