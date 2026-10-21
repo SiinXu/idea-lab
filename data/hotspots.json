@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T23:02:54+08:00",
+ "lastUpdated": "2026-10-21T23:17:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17941,7 +17941,19 @@
    ],
    "topic": "pangram-ai-detector-false-positives-2026-10-21",
    "firstSeen": "2026-10-21T23:02:54+08:00"
+  },
+  {
+   "id": "0f5ef2af7a",
+   "title": "CI 云平台 Blacksmith 获红杉领投 6600 万美元 C 轮、估值 10 亿美元：AI 写的代码太多，测试成了新瓶颈",
+   "summary": "Blacksmith 成立于 2024 年，专门替企业跑 GitHub Actions 等持续集成任务。官方博客称今年 1 月以来每周 CI 任务从 500 万暴涨到 9000 多万，ARR 增长 17 倍，客户超 1 万家（含 Supabase、LangChain、Granola）；两个月前 B 轮估值还只有 5.5 亿美元。融资主要用来买算力，计划 2027 年把约 10MW 的机房规模扩大 5 倍。X 上开发者讨论的焦点是：AI Agent 写代码越来越快，验证代码的基础设施正在成为下一个赚钱赛道。",
+   "links": [
+    "https://www.blacksmith.sh/blog/series-c",
+    "https://fortune.com/2026/10/21/exclusive-ai-code-testing-startup-blacksmith-hits-1-billion-valuation-as-ai-written-code-surges/",
+    "https://x.com/i/trending/2112899504638673048"
+   ],
+   "topic": "blacksmith-ci-series-c-1b-2026-10-21",
+   "firstSeen": "2026-10-21T23:17:02+08:00"
   }
  ],
- "lastChecked": "2026-10-21T23:02:54+08:00"
+ "lastChecked": "2026-10-21T23:17:02+08:00"
 }
