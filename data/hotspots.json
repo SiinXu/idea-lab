@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T18:45:39+08:00",
+ "lastUpdated": "2026-10-21T19:24:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17734,7 +17734,39 @@
    ],
    "topic": "ken-griffin-ai-bubble-2026-10",
    "firstSeen": "2026-10-21T18:45:39+08:00"
+  },
+  {
+   "id": "9b780e5528",
+   "title": "ai-memory 冲上 GitHub 趋势榜：让 Claude Code、Codex、Cursor 等 20 多种编程 Agent 共用一份长期记忆，1.2 万星",
+   "summary": "Rust 写的开源工具（MIT）：中途退出 Claude Code，换 Codex 在同一目录继续，新 Agent 会拿到「做到哪、哪些方案失败了、还有什么没解决」的交接单；还能把你的包管理器、测试习惯等个人工作方式带到每个新项目。适合多 Agent 混用、经常切换工具的人。",
+   "links": [
+    "https://github.com/akitaonrails/ai-memory",
+    "https://aimemory.sh"
+   ],
+   "topic": "ai-memory-cross-agent",
+   "firstSeen": "2026-10-21T19:24:59+08:00"
+  },
+  {
+   "id": "e9a49fe684",
+   "title": "开源求职搜索引擎 freehire 登上 GitHub 趋势榜：直接抓公司官网招聘页，330 万+ IT 职位，不经猎头也没有死链接",
+   "summary": "Go 写的 MIT 开源项目，提供在线站点和 API，任何人都能贡献新的数据源。和同样上榜的 AI 求职工具一起，反映出「AI 筛简历」之下求职者开始自建工具反制的趋势。",
+   "links": [
+    "https://github.com/strelov1/freehire",
+    "https://freehire.me"
+   ],
+   "topic": "freehire-job-search",
+   "firstSeen": "2026-10-21T19:24:59+08:00"
+  },
+  {
+   "id": "091acae5f9",
+   "title": "开发者集体反思「氛围编程」：用 AI 写了 8 个月代码，感觉自己成了「看不懂代码的代码经理」",
+   "summary": "X 上讨论升温：真正的担忧不是 AI 写出烂代码，而是代码能跑却没人知道为什么。不少人认为 AI 适合原型和重复活，但生产系统仍要逐行审查、守住架构和数据结构等基本功，否则安全隐患会累积。",
+   "links": [
+    "https://x.com/i/trending/2112854880616366387"
+   ],
+   "topic": "vibe-coding-pushback-2026-10-21",
+   "firstSeen": "2026-10-21T19:24:59+08:00"
   }
  ],
- "lastChecked": "2026-10-21T18:45:39+08:00"
+ "lastChecked": "2026-10-21T19:24:59+08:00"
 }
