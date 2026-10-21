@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T08:44:59+08:00",
+ "lastUpdated": "2026-10-21T09:02:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17243,7 +17243,17 @@
    ],
    "topic": "anthropic-s1-time-travel-risk-factor-2026-10",
    "firstSeen": "2026-10-21T08:44:59+08:00"
+  },
+  {
+   "id": "7fe075e5e5",
+   "title": "彭博：前谷歌 CEO 埃里克·施密特约持有 Anthropic 1% 股份，相当于 CEO Dario Amodei 持股的一半",
+   "summary": "TechCrunch 10 月 20 日援引彭博报道，施密特在 2021 年 Anthropic A 轮（当时估值约 4.61 亿美元，据 PitchBook）投入数千万美元，如今约持股 1%，而联合创始人兼 CEO Amodei 约持股 2%。Anthropic 预计年内上市，市场最高估值达 2 万亿美元，若属实施密特身家或再增约 200 亿美元。AI 早期投资的超额回报与 Anthropic IPO 进程持续成为焦点。",
+   "links": [
+    "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/"
+   ],
+   "topic": "eric-schmidt-anthropic-1pct-stake-2026-10",
+   "firstSeen": "2026-10-21T09:02:33+08:00"
   }
  ],
- "lastChecked": "2026-10-21T08:44:59+08:00"
+ "lastChecked": "2026-10-21T09:02:33+08:00"
 }
