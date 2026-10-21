@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T23:26:53+08:00",
+ "lastUpdated": "2026-10-21T23:43:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17965,7 +17965,18 @@
    ],
    "topic": "github-incident-actions-pr-webhooks-2026-10-21",
    "firstSeen": "2026-10-21T23:26:53+08:00"
+  },
+  {
+   "id": "2974925d53",
+   "title": "Meta 称「No Kings」抗议组织 Instagram 账号被封，起因是有人用 Claude 工具高频抓取帖子：AI Agent 刷平台正撞上反机器人系统",
+   "summary": "美国「No Kings」抗议当天，组织方的 Instagram 账号被停用约 1 小时、管理权限被锁数小时，外界一度怀疑是政治干预。Meta 给出的解释是：安全系统在 10 月 17 日检测到「一个 Claude 工具」在读取主页、帖子和话题标签，量突然暴涨约 4 倍，像自动化机器人流量而不是正常人浏览，于是触发了封禁。参议员 Chris Murphy 表示要让国会调查 Meta。Techdirt 主编 Mike Masnick 撰文认为，不管是不是故意，问题在于把传播渠道交给中心化平台；该文在 Hacker News 上热度很高。对用 AI Agent 帮账号做监控、搬运内容的运营者来说，这是一个直接的封号风险提醒。",
+   "links": [
+    "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
+    "https://news.ycombinator.com/item?id=50181137"
+   ],
+   "topic": "meta-no-kings-instagram-claude-bot-takedown-2026-10",
+   "firstSeen": "2026-10-21T23:43:11+08:00"
   }
  ],
- "lastChecked": "2026-10-21T23:27:16+08:00"
+ "lastChecked": "2026-10-21T23:43:11+08:00"
 }
