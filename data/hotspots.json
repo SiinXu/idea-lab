@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T14:00:53+08:00",
+ "lastUpdated": "2026-10-21T14:17:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17438,7 +17438,18 @@
    ],
    "topic": "slopcodebench-2026-10",
    "firstSeen": "2026-10-21T14:00:53+08:00"
+  },
+  {
+   "id": "8f821d2daf",
+   "title": "Anthropic 前沿红队发布「攻击面缩减」研究：用 Claude 扫描 25 个开源项目，找出 493 处不必要暴露的代码路径",
+   "summary": "Anthropic Frontier Red Team（Chris Rohlf）10 月 20 日发文，提出不再只靠逐个找漏洞、修漏洞，而是让 AI 先画出代码在实际部署中「可达」的范围，再把不该默认暴露的功能挪到更深的关口之后：例如从认证前移到认证后、从零点击改为需要点击、从默认开启改为显式开启。研究聚焦默认配置、配置组合交互等方法，在 25 个多语言开源项目上跑 Claude，共发现 493 个问题。核心思路是：即使未知漏洞仍在，只要更难触达，其严重性就会下降。对做安全加固、依赖审计和 Agent 代码审查的团队是可直接借鉴的新方向。",
+   "links": [
+    "https://www.anthropic.com/research/attack-surface-reduction",
+    "https://news.ycombinator.com/item?id=50175779"
+   ],
+   "topic": "anthropic-attack-surface-reduction",
+   "firstSeen": "2026-10-21T14:17:27+08:00"
   }
  ],
- "lastChecked": "2026-10-21T14:00:53+08:00"
+ "lastChecked": "2026-10-21T14:17:27+08:00"
 }
