@@ -17957,7 +17957,7 @@
   {
    "id": "eabb53f54f",
    "title": "GitHub 又出故障：Actions、Pull Request 和 Webhook 今天出现延迟，两天前刚经历一次 Actions/Pages 严重中断",
-   "summary": "GitHub 状态页显示，北京时间 10 月 21 日 22:52 起 Actions 性能下降，Pull Request 和 Webhook 投递出现延迟，官方仍在排查。就在 10 月 19 日，GitHub Actions、GitHub Pages 和 Webhooks 刚出现一次「critical」级别的可用性下降；本月 7 日、12 日、13 日也接连有 Git 写操作、Issues、Actions 相关事故。Hacker News 上的帖子标题直接叫「Another day, another GitHub incident」，开发者在讨论：AI Agent 带来的 CI 和 PR 流量暴涨，正在压垮代码托管平台的稳定性，把 CI 和部署放在单一平台上的风险越来越大。",
+   "summary": "GitHub 状态页显示，北京时间 10 月 21 日 22:52 起 Actions 性能下降，Pull Request 和 Webhook 投递出现延迟，官方仍在排查。就在 10 月 19 日，GitHub Actions、GitHub Pages 和 Webhooks 刚出现一次「critical」级别的可用性下降；本月 7 日、12 日、13 日也接连有 Git 写操作、Issues、Actions 相关事故。Hacker News 上的帖子标题直接叫「Another day, another GitHub incident」。对把 CI、部署和网站都放在 GitHub 上的团队来说，单一平台的稳定性风险越来越值得关注。",
    "links": [
     "https://www.githubstatus.com/incidents/nms1dpzmh9d9",
     "https://news.ycombinator.com/item?id=50182130",
@@ -17967,5 +17967,5 @@
    "firstSeen": "2026-10-21T23:26:53+08:00"
   }
  ],
- "lastChecked": "2026-10-21T23:26:53+08:00"
+ "lastChecked": "2026-10-21T23:27:16+08:00"
 }
