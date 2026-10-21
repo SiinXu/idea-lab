@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T00:10:36+08:00",
+ "lastUpdated": "2026-10-22T00:28:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18032,7 +18032,53 @@
    ],
    "topic": "openevidence-physicians-ad-revenue-2026-10",
    "firstSeen": "2026-10-22T00:10:36+08:00"
+  },
+  {
+   "id": "9ca6b9956d",
+   "title": "PHP2Shell 冲击扩大：欧洲多地政府、学校和医院网站紧急下线避险，美国 NSA 也建议必要时先关站",
+   "summary": "路透社报道，因两个可在未登录状态下远程执行代码的 PHP 严重漏洞，欧洲多家政府、学校和医院网站已主动下线，抓紧打补丁；PCMag 报道美国国家安全局（NSA）称漏洞严重到网站应考虑先下线。PHP 支撑大量网站，这次 AI 挖出的漏洞正在演变成一次全球性的紧急修补潮，托管、WAF 和自动打补丁服务的需求会被短期放大。",
+   "links": [
+    "https://www.reuters.com/technology/websites-taken-offline-over-php-risks-2026-10-21/",
+    "https://www.pcmag.com/news/php-flaw-is-so-serious-websites-should-consider-going-offline-nsa-says",
+    "https://www.techmeme.com/261021/p36#a261021p36"
+   ],
+   "topic": "php2shell-europe-sites-offline-2026-10",
+   "firstSeen": "2026-10-22T00:28:53+08:00"
+  },
+  {
+   "id": "2490444b7a",
+   "title": "ServiceNow 联手英伟达推出 Arc：能长期运行的个人企业 AI Agent，跨邮件和 Teams 帮员工干活",
+   "summary": "据 ZDNET 独家报道，ServiceNow 和英伟达发布 Arc，这是一个面向企业员工、可长时间持续运行的个人 AI Agent，能在邮件和 Microsoft Teams 等场景里处理日常办公任务，并支持英伟达 RTX Spark 设备和 OpenShell 沙箱架构。大厂开始把「常驻型个人 Agent」做成企业标配，本地运行加安全沙箱是卖点。",
+   "links": [
+    "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
+    "https://www.techmeme.com/261021/p28#a261021p28"
+   ],
+   "topic": "servicenow-nvidia-arc-agent-2026-10",
+   "firstSeen": "2026-10-22T00:28:53+08:00"
+  },
+  {
+   "id": "aa632df34a",
+   "title": "军用 AI 决策初创 Watchtower 结束隐身、拿下 3500 万美元种子轮：用 AI 加仿真帮美军做后勤决策",
+   "summary": "据 Upstarts Media 报道，Watchtower Labs 正式亮相并完成 3500 万美元种子轮融资，产品用 AI 和仿真软件帮助美国军队做后勤和作战相关决策。国防科技继续吸引大额早期资金，「AI + 仿真推演」的决策工具是新热门赛道。",
+   "links": [
+    "https://www.upstartsmedia.com/p/watchtower-35m-defense-logistics",
+    "https://www.prnewswire.com/news-releases/watchtower-labs-emerges-from-stealth-with-35-million-to-build-ai-native-decision-tools-for-military-operations-302914883.html",
+    "https://www.techmeme.com/261021/p38#a261021p38"
+   ],
+   "topic": "watchtower-labs-35m-seed-2026-10",
+   "firstSeen": "2026-10-22T00:28:53+08:00"
+  },
+  {
+   "id": "b8b6610a2d",
+   "title": "AI 做 CAD：Mach9 转型后拿下 3400 万美元 A 轮，用自研模型把激光扫描和图像数据直接变成工程图",
+   "summary": "TechCrunch 报道，Mach9 在转型做 AI 驱动的 CAD 软件后完成 3400 万美元 A 轮融资。它用基于自有多模态图像和激光扫描数据训练的模型，自动生成工程与基础设施图纸，减少人工描图。垂直行业「AI 替代繁琐制图」正在成为可融资的方向。",
+   "links": [
+    "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "https://www.techmeme.com/261021/p33#a261021p33"
+   ],
+   "topic": "mach9-ai-cad-34m-2026-10",
+   "firstSeen": "2026-10-22T00:28:53+08:00"
   }
  ],
- "lastChecked": "2026-10-22T00:10:36+08:00"
+ "lastChecked": "2026-10-22T00:28:53+08:00"
 }
