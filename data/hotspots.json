@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T02:29:58+08:00",
+ "lastUpdated": "2026-10-22T02:43:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18238,7 +18238,29 @@
    ],
    "topic": "php2shell-legacy-patch-gap-2026-10",
    "firstSeen": "2026-10-22T02:29:58+08:00"
+  },
+  {
+   "id": "367dad28a6",
+   "title": "Anthropic 公布「公益章程」五大支柱：从解决 AI 安全技术难题到让 AI 红利人人共享",
+   "summary": "作为公益公司（PBC），Anthropic 上线新版章程页并附 2026 年公益报告，列出五项目标：AI 安全技术问题被解决、安全实践有法可依、AI 强化民主与稳定、带来繁荣、收益普惠，并承诺持续公开进展记录。",
+   "links": [
+    "https://www.anthropic.com/public-benefit-charter",
+    "https://news.ycombinator.com/item?id=50185438"
+   ],
+   "topic": "anthropic-public-benefit-charter-2026-10",
+   "firstSeen": "2026-10-22T02:43:20+08:00"
+  },
+  {
+   "id": "a84d6e3e0b",
+   "title": "德州数据中心热潮或抹掉几十年空气治理成果：新报告警告若靠天然气供电，十年内空气质量将倒退",
+   "summary": "《德州论坛报》报道，一份新报告指出德州数据中心激增可能在本十年末逆转空气质量改善，尤其是自建天然气电厂供电的设施；AI 算力扩张的环境与健康代价正成为新争议焦点。",
+   "links": [
+    "https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/",
+    "https://news.ycombinator.com/item?id=50184712"
+   ],
+   "topic": "texas-datacenter-air-quality-2026-10",
+   "firstSeen": "2026-10-22T02:43:20+08:00"
   }
  ],
- "lastChecked": "2026-10-22T02:29:58+08:00"
+ "lastChecked": "2026-10-22T02:43:20+08:00"
 }
