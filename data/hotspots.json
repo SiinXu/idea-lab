@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T00:28:53+08:00",
+ "lastUpdated": "2026-10-22T00:41:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18078,7 +18078,29 @@
    ],
    "topic": "mach9-ai-cad-34m-2026-10",
    "firstSeen": "2026-10-22T00:28:53+08:00"
+  },
+  {
+   "id": "136e8f1f2f",
+   "title": "「用 AI 造 AI」走到台前：Richard Socher 创办的 Recursive 发布开源 40B 编程模型 Flint",
+   "summary": "据 WIRED 报道，Recursive 发布首个产品 Flint，一个 400 亿参数的开放权重编程模型。CEO Richard Socher 称，模型流水线几乎每个环节都由其「Eureka Machine」AI 系统自动完成和改进，几名研究员几个月就做出了一流模型。「递归自我改进」从概念走向可用产品，小团队用 AI 自动化训练流程可能成为新范式，开源编程模型赛道又多一个强选手。",
+   "links": [
+    "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+    "https://www.techmeme.com/261021/p39#a261021p39"
+   ],
+   "topic": "recursive-flint-open-coding-model-2026-10",
+   "firstSeen": "2026-10-22T00:41:08+08:00"
+  },
+  {
+   "id": "68c1d6e8e4",
+   "title": "OpenAI 押注脑机接口：Coherence Neuro 拿下 4500 万美元种子轮，用脑植入物检测和治疗脑肿瘤",
+   "summary": "据 WIRED 报道，OpenAI 风投部门和 Peter Thiel 的 Founders Fund 参投 Coherence Neuro 的 4500 万美元种子轮。这家初创公司研发可检测并治疗脑癌的脑植入设备，CEO 认为大模型公司与脑机接口公司之间协同越来越强，脑数据会成为训练模型和优化治疗的新数据源。AI 大厂开始系统性布局「脑数据」赛道。",
+   "links": [
+    "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+    "https://www.techmeme.com/261021/p15#a261021p15"
+   ],
+   "topic": "coherence-neuro-45m-seed-openai-2026-10",
+   "firstSeen": "2026-10-22T00:41:08+08:00"
   }
  ],
- "lastChecked": "2026-10-22T00:28:53+08:00"
+ "lastChecked": "2026-10-22T00:41:08+08:00"
 }
