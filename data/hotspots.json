@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T03:59:54+08:00",
+ "lastUpdated": "2026-10-22T04:15:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18315,7 +18315,18 @@
    ],
    "topic": "plex-player-team-layoff-2026-10",
    "firstSeen": "2026-10-22T03:59:54+08:00"
+  },
+  {
+   "id": "5888c27669",
+   "title": "Mistral Large 4 登上 HN 热榜：1.05 万亿参数开放权重 MoE 多模态模型，每次激活 520 亿参数、支持 100 万上下文",
+   "summary": "Mistral 文档页显示 Large 4（v26.10，公开预览）为开放权重的通用多模态模型，采用细粒度混合专家架构：总参数 1.05T、激活 52B，另带 1.6B 视觉编码器，上下文 100 万 token；API 定价为输入 1.36 美元/百万 token、缓存输入 0.14 美元、输出 4.18 美元，支持结构化输出、函数调用、文档问答和 Agents 接口。该页在 HN 一小时内冲到 150+ 分，欧洲开源大模型阵营再度发力。",
+   "links": [
+    "https://docs.mistral.ai/models/mistral-large-4-0",
+    "https://news.ycombinator.com/item?id=50186129"
+   ],
+   "topic": "mistral-large-4-2026-10",
+   "firstSeen": "2026-10-22T04:15:38+08:00"
   }
  ],
- "lastChecked": "2026-10-22T03:59:54+08:00"
+ "lastChecked": "2026-10-22T04:15:38+08:00"
 }
