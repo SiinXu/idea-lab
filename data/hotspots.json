@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T01:02:36+08:00",
+ "lastUpdated": "2026-10-22T01:09:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18122,7 +18122,18 @@
    ],
    "topic": "hassabis-agi-2-3-years-wsj-2026-10",
    "firstSeen": "2026-10-22T01:02:36+08:00"
+  },
+  {
+   "id": "67cf959bd9",
+   "title": "Trail of Bits 开源两款代理插件：AI 修完漏洞后自动排查「顺手改坏了什么」",
+   "summary": "Trail of Bits 复盘其 130 多个已合并上游的 AI 辅助补丁，确认引入了 21 个回归问题（一次扫描 58 个候选、精度约 36%），于是发布 patching-bugs 和 regression-hunt 两个插件，把「怎么写补丁」和「怎么查回归」标准化，并用工程师的 Codex 会话轨迹持续做基准。AI 批量修漏洞的时代，「修复后的回归检查」会成为安全和 DevTools 的新刚需。",
+   "links": [
+    "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+    "https://news.ycombinator.com/item?id=50183253"
+   ],
+   "topic": "trailofbits-patching-bugs-regression-hunt-plugins-2026-10",
+   "firstSeen": "2026-10-22T01:09:11+08:00"
   }
  ],
- "lastChecked": "2026-10-22T01:02:36+08:00"
+ "lastChecked": "2026-10-22T01:09:11+08:00"
 }
