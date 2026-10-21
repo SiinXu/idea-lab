@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T05:38:17+08:00",
+ "lastUpdated": "2026-10-22T05:58:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18360,7 +18360,19 @@
    ],
    "topic": "php2shell-amazon-linux-delay-2026-10",
    "firstSeen": "2026-10-22T05:38:17+08:00"
+  },
+  {
+   "id": "f68b45bc0e",
+   "title": "PHP2Shell 疑似「第三个」漏洞：有人称 8.5.12 补丁后仍能触发，PHP 方面回应「无关、不是真漏洞」",
+   "summary": "Fediverse 用户 elise 发帖称 PHP2Shell 相关问题在刚发布的 PHP 8.5.12 上「依然有效」，被转到 HN 以「可能的第三个 PHP 严重 CVE」为题热议。oss-security 邮件列表随后跟进：Canonical 向 PHP 官方求证，得到的答复是该问题「与此无关、不是真实漏洞」，但仍有人请 PHP 安全团队公开确认。HN 评论也指出，从现有信息看可能需要先能执行 PHP 代码才能利用。目前没有新 CVE，已升级的站点不必恐慌，但值得关注官方是否进一步澄清。",
+   "links": [
+    "https://fedi.katze.sh/@elise/117479383739450605",
+    "https://www.openwall.com/lists/oss-security/2026/10/21/23",
+    "https://news.ycombinator.com/item?id=50185814"
+   ],
+   "topic": "php2shell-third-cve-rumor-2026-10",
+   "firstSeen": "2026-10-22T05:58:01+08:00"
   }
  ],
- "lastChecked": "2026-10-22T05:38:17+08:00"
+ "lastChecked": "2026-10-22T05:58:01+08:00"
 }
