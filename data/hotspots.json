@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T10:31:20+08:00",
+ "lastUpdated": "2026-10-21T10:45:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17351,7 +17351,18 @@
    ],
    "topic": "gitcafe-github-sync-t3code-2026-10",
    "firstSeen": "2026-10-21T10:31:20+08:00"
+  },
+  {
+   "id": "5edd909d6f",
+   "title": "黑客组织 FulcrumSec 声称攻破 PingCAP TiDB Cloud：窃取 10.6TB 数据，含 11.5 万个明文客户 API 密钥",
+   "summary": "勒索黑客组织 FulcrumSec 公开声称入侵 TiDB 开源数据库背后公司 PingCAP 的托管服务 TiDB Cloud，称近两个月内未被发现，利用代码仓库中提交的 GCP、Azure 凭证持续导出生产控制面数据，总计 10.6TB；宣称涉及 18 万个租户组织、40 万邮箱、11.5 万个明文客户 API 密钥（4.2 万仍有效）、2000 万条客户 SQL 语句、413 个私有代码仓库，并已放出首批 200GB。目前为黑客单方面说法，PingCAP 尚未公开回应；TiDB Cloud 用户宜尽快轮换 API 密钥。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50173716",
+    "https://fulcrumsec.vg/pingcap/"
+   ],
+   "topic": "pingcap-tidb-cloud-breach-claim-2026-10",
+   "firstSeen": "2026-10-21T10:45:22+08:00"
   }
  ],
- "lastChecked": "2026-10-21T10:31:20+08:00"
+ "lastChecked": "2026-10-21T10:45:22+08:00"
 }
