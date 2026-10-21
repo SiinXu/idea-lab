@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-21T09:58:07+08:00",
+ "lastUpdated": "2026-10-21T10:10:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -17317,7 +17317,18 @@
    ],
    "topic": "a16z-ai-hardware-dfm-2026-10",
    "firstSeen": "2026-10-21T09:58:07+08:00"
+  },
+  {
+   "id": "0d4fac5e3f",
+   "title": "GitHub 推出「包防火墙」公测：在 CI 和编码 Agent 安装依赖时拦截恶意包",
+   "summary": "GitHub 10 月 20 日发布 package firewall 公开预览：它位于 Actions runner、编码 Agent 等终端与上游包仓库之间，检查元数据请求和包下载。管理员可设置冷却期、比对 GitHub Advisory Database 的恶意软件与漏洞告警、检测证明（attestation）降级等供应链信号；误拦可走例外申请流程。针对安装阶段窃取 CI/CD 与开发机凭据的攻击，目前面向全部 GitHub Enterprise Cloud 客户开放。",
+   "links": [
+    "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/",
+    "https://news.ycombinator.com/item?id=50175063"
+   ],
+   "topic": "github-package-firewall-2026-10",
+   "firstSeen": "2026-10-21T10:10:09+08:00"
   }
  ],
- "lastChecked": "2026-10-21T09:58:07+08:00"
+ "lastChecked": "2026-10-21T10:10:09+08:00"
 }
