@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T01:58:45+08:00",
+ "lastUpdated": "2026-10-22T02:13:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18195,7 +18195,28 @@
    ],
    "topic": "waymo-las-vegas-airport-2026-10",
    "firstSeen": "2026-10-22T01:58:45+08:00"
+  },
+  {
+   "id": "20a2590281",
+   "title": "GitHub 搬家 Azure 近乎完成：99.99999% 的仓库已复制过去，靠「按引用投票」迎接 AI 代理级 Git 流量",
+   "summary": "GitHub 工程博客披露，已把几乎全部仓库副本迁到 Azure，剩余部分将用按单个引用（ref）做多数确认的新复制机制收尾，目标是扛住 AI 编程代理带来的海量 Git 读写。",
+   "links": [
+    "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
+   ],
+   "topic": "github-azure-agent-scale-git-2026-10",
+   "firstSeen": "2026-10-22T02:13:06+08:00"
+  },
+  {
+   "id": "a556c7948b",
+   "title": "YC 公司 Alter 上线：给 AI 代理做「特权访问管理」，危险操作先审批、每次调用留审计",
+   "summary": "Alter（YC S25）在 HN 发布 Alter Vault：代理调用工具时凭据由它托管，按动作设权限，高风险调用需人工批准，并记录完整审计轨迹，瞄准多用户代理的权限管控。",
+   "links": [
+    "https://alterauth.com/",
+    "https://news.ycombinator.com/item?id=50176908"
+   ],
+   "topic": "alter-yc-agent-pam-2026-10",
+   "firstSeen": "2026-10-22T02:13:06+08:00"
   }
  ],
- "lastChecked": "2026-10-22T01:58:45+08:00"
+ "lastChecked": "2026-10-22T02:13:06+08:00"
 }
