@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T15:42:07+08:00",
+ "lastUpdated": "2026-10-22T15:57:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18807,7 +18807,48 @@
    ],
    "topic": "grok-bot-pages-live-dashboards",
    "firstSeen": "2026-10-22T15:42:07+08:00"
+  },
+  {
+   "id": "e31af640f4",
+   "title": "Aerial TV 两天涨到 2600 星：仿 tvOS 的开源国产电视桌面，去广告、开机自动接管小米 TCL 等电视",
+   "summary": "开发者 pengchujin 10 月 20 日开源 Aerial TV，这是一款参照苹果 tvOS 设计的 Android TV 启动器，主打「没有广告、开机自动接管」，面向小米、TCL 等国产电视。上线约两天 GitHub 星标已近 2600。继 CleanYourTV 之后，「给智能电视去广告、换干净界面」再次成为热门需求，围绕电视桌面、家庭影音和适老化界面的工具和教程都有机会。",
+   "links": [
+    "https://github.com/pengchujin/aerial-tv",
+    "https://aerial.qust.me"
+   ],
+   "topic": "aerial-tv-launcher",
+   "firstSeen": "2026-10-22T15:57:11+08:00"
+  },
+  {
+   "id": "f41d514c9d",
+   "title": "英伟达开源 Flare：为 DGX Spark 等工作站显卡打造的本地推理服务器，专门优化长对话和编码智能体",
+   "summary": "NVIDIA 在 GitHub 开源研究原型 Flare，面向 SM120/SM121 架构显卡（如 DGX Spark 这类紧凑工作站）。它在构建阶段用 PyTorch、Transformers 和 FlashInfer 编译模型和 CUDA 图，运行时则交给 Rust 写的 Helios 服务，完全不依赖 Python，并把 KV 缓存等对话状态统一管理，以适配长对话、反复调用工具的编码智能体。仓库两天获得 500 多星，本地跑智能体的硬件和软件栈正在加速成熟。",
+   "links": [
+    "https://github.com/NVIDIA/flare-local-inference"
+   ],
+   "topic": "nvidia-flare-local-inference",
+   "firstSeen": "2026-10-22T15:57:11+08:00"
+  },
+  {
+   "id": "571b01845b",
+   "title": "Harp：Warp 终端的非官方分支，一个侧边栏同时跑多个 Claude Code 和 Codex 智能体，并提示哪个在等你",
+   "summary": "开发者 dominikmartn 用 Rust 基于 Warp 终端做了非官方分支 Harp，可以把许多 Claude Code、Codex 编码智能体并排放在同一个侧边栏里，并标出哪一个需要人工回应。发布两天已有 500 多星。多智能体并行写代码已经很普遍，「谁在等我」这类调度和提醒界面正在成为新的工具品类。",
+   "links": [
+    "https://github.com/dominikmartn/harp"
+   ],
+   "topic": "harp-multi-agent-terminal",
+   "firstSeen": "2026-10-22T15:57:11+08:00"
+  },
+  {
+   "id": "ea40fed7bf",
+   "title": "X 上画师接力「用 4 张原创插画把 AI 从你的时间线赶走」，数十位艺术家晒出纯手绘作品",
+   "summary": "10 月 20 日概念画师 Ryan Christian 发帖后，插画师 anirrie、beasthaus、André Simões、Ying'an 等数十位创作者陆续用引用转发接力，各晒 4 张明确标注「不含 AI」的原创作品，题材从奇幻人像、低多边形生物到海底城市。这股风潮反映出平台上 AI 生成内容泛滥后，「人类手作」正在变成一种可识别、可传播的标签，围绕原创认证、画师作品集和人工创作社区的产品有需求。",
+   "links": [
+    "https://x.com/i/trending/2112684362580082936"
+   ],
+   "topic": "artists-four-illustrations-no-ai",
+   "firstSeen": "2026-10-22T15:57:11+08:00"
   }
  ],
- "lastChecked": "2026-10-22T15:42:07+08:00"
+ "lastChecked": "2026-10-22T15:57:11+08:00"
 }
