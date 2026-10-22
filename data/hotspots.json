@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T22:57:06+08:00",
+ "lastUpdated": "2026-10-22T23:10:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19198,7 +19198,18 @@
    ],
    "topic": "last-museum-semantic-art-search",
    "firstSeen": "2026-10-22T22:57:06+08:00"
+  },
+  {
+   "id": "d2f362921d",
+   "title": "Quad9 宣布 11 月 24 日起退出法国：法院判其为 beIN 屏蔽体育盗播域名，公共 DNS 拒绝「篡改解析结果」",
+   "summary": "非营利公共 DNS 服务 Quad9（9.9.9.9）10 月 22 日发文称，法国法院在与体育转播商 beIN 的诉讼中作出不利判决，要求其为法国用户屏蔽部分域名的递归解析；罚金虽从每天 58 万欧元降到每天 1000 欧元，但 Quad9 认为递归 DNS 应保持中立、不能对用户「撒谎」，决定自 11 月 24 日起停止向法国用户提供免费服务。Hacker News 上迅速升温，讨论集中在版权方借 DNS 层执法、公共解析服务的法律风险和用户替代方案。机会点：DNS 解析可用性与审查监测、自建/加密 DNS 部署指南、面向欧洲用户的隐私网络工具对比内容。",
+   "links": [
+    "https://quad9.net/news/blog/au-revoir-france/",
+    "https://news.ycombinator.com/item?id=50195959"
+   ],
+   "topic": "quad9-exit-france",
+   "firstSeen": "2026-10-22T23:10:10+08:00"
   }
  ],
- "lastChecked": "2026-10-22T22:57:06+08:00"
+ "lastChecked": "2026-10-22T23:10:10+08:00"
 }
