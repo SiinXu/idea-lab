@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T11:16:55+08:00",
+ "lastUpdated": "2026-10-22T12:27:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18628,7 +18628,18 @@
    ],
    "topic": "iphone-duo-review-daring-fireball",
    "firstSeen": "2026-10-22T11:16:55+08:00"
+  },
+  {
+   "id": "25cef879a7",
+   "title": "Claude 正式进驻 Google 文档、表格和幻灯片：Workspace 侧边栏插件公测，另推可直接创建编辑 Google 文件的连接器",
+   "summary": "Anthropic 宣布 Claude for Google Workspace 在所有付费方案开放公测：在 Docs/Sheets/Slides 侧边栏读取当前文件和选区并直接改动——Docs 里原位改句子或以建议卡片提交大改，Sheets 里写公式、建透视表和原生图表、可把数据拉进 Python 清洗后写回，Slides 里按现有母版生成新页并自检重叠和溢出。默认「编辑前询问」逐条审批，也可切到「全部接受」自动执行；侧边栏沿用账号里的连接器和技能，企业版的合规 API、CMEK 和审计导出同样生效。同时上线 Docs/Sheets/Slides 连接器（测试版），可从聊天里新建和编辑 Google 文件。这让 Claude 与 Gemini 在 Google 自家办公套件里正面竞争，也给基于技能模板的办公自动化留出空间。",
+   "links": [
+    "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+    "https://news.ycombinator.com/item?id=50190357"
+   ],
+   "topic": "claude-google-workspace-addon",
+   "firstSeen": "2026-10-22T12:27:10+08:00"
   }
  ],
- "lastChecked": "2026-10-22T11:16:55+08:00"
+ "lastChecked": "2026-10-22T12:27:10+08:00"
 }
