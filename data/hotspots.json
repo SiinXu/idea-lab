@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T16:39:50+08:00",
+ "lastUpdated": "2026-10-22T17:39:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18890,7 +18890,29 @@
    ],
    "topic": "whitehouse-fraud-gov-vibe-coded-dashboard",
    "firstSeen": "2026-10-22T16:39:50+08:00"
+  },
+  {
+   "id": "d64ac56763",
+   "title": "开源「日内交易」Claude 技能包两天 300+ 星：11 个技能扫图选股、盯新闻、定止损，还能先模拟回放一万次",
+   "summary": "开发者 Jakeschincariol 10 月 20 日开源 day-trader-skill（MIT 协议），把日内交易拆成 11 个 Claude 技能：扫描数千只股票图形找突破和反弹形态、追踪自选股突发新闻、逐根 K 线提示进场、预先设好止损和目标价，以及「时光机」功能，用该股近期走势和历史同类形态把当天剩余行情模拟一万次，给出胜率。数据只用雅虎财经、纳斯达克代码表、SEC EDGAR 等免费公开源，不需要 API 密钥，默认纸面交易，任何下单都要人工确认。上线约两天已有 300 多星，作者前作 trader-skill 主打复制机构 13F 持仓。「把专业工作流打包成可安装的 AI 技能」正在从编程扩展到投资等垂直领域，垂直技能包、技能市场和配套教程都有机会，但金融类要注意合规和风险提示。",
+   "links": [
+    "https://github.com/Jakeschincariol/day-trader-skill",
+    "https://github.com/Jakeschincariol/trader-skill"
+   ],
+   "topic": "day-trader-claude-skills-pack",
+   "firstSeen": "2026-10-22T17:39:34+08:00"
+  },
+  {
+   "id": "511cae83d5",
+   "title": "「给电视换干净桌面」风潮蔓延：Aerial TV 之后，又有开源项目把三星 The Frame 和安卓电视改造成 tvOS 风格主屏",
+   "summary": "继 Aerial TV 走红之后，10 月 20 日又有两个同类项目在 GitHub 快速涨星：nthnclrk 的 CleanFrame 为三星 The Frame 画框电视做了一个可自行改造的个人主屏，两天 300 多星；lesnolie 的 Tigris 则仿照 tvOS 26 的「液态玻璃」风格，为 Android TV 做了带 Dock 栏、Top Shelf 推荐位、玻璃控制中心和相册屏保的启动器，已有 260 多星。几天内接连出现多个替代电视系统桌面的开源项目，说明用户对电视广告和臃肿界面的不满是真实需求，电视桌面主题、家庭相册屏保、适老化遥控界面和安装教程都可以做成产品或内容。",
+   "links": [
+    "https://github.com/nthnclrk/CleanFrame",
+    "https://github.com/lesnolie/Tigris"
+   ],
+   "topic": "tv-launcher-wave-cleanframe-tigris",
+   "firstSeen": "2026-10-22T17:39:34+08:00"
   }
  ],
- "lastChecked": "2026-10-22T16:39:50+08:00"
+ "lastChecked": "2026-10-22T17:39:34+08:00"
 }
