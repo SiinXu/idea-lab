@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T03:54:16+08:00",
+ "lastUpdated": "2026-10-23T04:16:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19446,7 +19446,18 @@
    ],
    "topic": "hedra-highschool-open-world-game",
    "firstSeen": "2026-10-23T03:54:16+08:00"
+  },
+  {
+   "id": "4e4febdfba",
+   "title": "eMudhra 再曝漏洞：安全研究者称其证书管理登录的一次性验证码可被完全绕过",
+   "summary": "继 8 张中间 CA 私钥泄露、宣布退出全球 SSL/TLS 证书业务之后，一名安全研究者在 Mastodon 上披露 eMudhra 证书账户的一次性验证码（OTP）登录可被完全绕过：只要通过公开信息查到证书关联的邮箱，就能登录并接管现有证书。该帖于 HN 首页约 1 小时获得 70 多分，进一步加深了外界对这家 CA 安全能力的质疑。",
+   "links": [
+    "https://mastodon.catgirl.cloud/@49016/117475976434068995",
+    "https://news.ycombinator.com/item?id=50199757"
+   ],
+   "topic": "emudhra-otp-login-bypass",
+   "firstSeen": "2026-10-23T04:16:49+08:00"
   }
  ],
- "lastChecked": "2026-10-23T03:54:16+08:00"
+ "lastChecked": "2026-10-23T04:16:49+08:00"
 }
