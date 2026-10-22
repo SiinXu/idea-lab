@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T05:00:30+08:00",
+ "lastUpdated": "2026-10-23T05:41:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19490,7 +19490,18 @@
    ],
    "topic": "amutable-foundations-preview",
    "firstSeen": "2026-10-23T05:00:30+08:00"
+  },
+  {
+   "id": "1454ec28a3",
+   "title": "ABC/华邮/Ipsos 民调：57% 美国人认为 AI 对社会有害，三分之二反对新建数据中心",
+   "summary": "ABC 新闻、华盛顿邮报与 Ipsos 10 月 9–13 日对 2545 名美国成年人的调查显示：57% 认为 AI 对社会是坏事（30 岁以下达 65%），66% 反对在美国新建数据中心，若建在自家社区反对率升至 72%（民主党 81%、共和党 58%）。73% 认为 AI 入侵安全系统风险高，65% 担心大量工作被取代，仅 13% 认为 AI 很可能创造大量新工作；三分之二认为联邦监管不足。数据中心正成为中期选举议题，该报道 10 月 22 日登上 HN。",
+   "links": [
+    "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
+    "https://news.ycombinator.com/item?id=50200843"
+   ],
+   "topic": "abc-ipsos-ai-poll-2026-10",
+   "firstSeen": "2026-10-23T05:41:43+08:00"
   }
  ],
- "lastChecked": "2026-10-23T05:00:30+08:00"
+ "lastChecked": "2026-10-23T05:41:43+08:00"
 }
