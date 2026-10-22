@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T08:40:48+08:00",
+ "lastUpdated": "2026-10-22T08:58:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18503,7 +18503,29 @@
    ],
    "topic": "gemini-4-carbon-lmarena-2026-10",
    "firstSeen": "2026-10-22T08:40:48+08:00"
+  },
+  {
+   "id": "ad2f63999e",
+   "title": "mitmproxy 新增 --emudhra 选项：直接用已泄露的 eMudhra 中间 CA 私钥签发 TLS 证书，演示设备不更新信任库有多危险",
+   "summary": "eMudhra 中间 CA 私钥被曝可在毫秒内破解后，抓包工具 mitmproxy 10 月 21 日合入新选项：开启后用这把被公开的私钥（EM OV TLS CA - G3C）给拦截证书签名，并附上交叉签名链。对仍信任 eMudhra 根证书、尚未更新证书库的设备和应用，无需在客户端装自签根证书就能做中间人拦截。同一批改动也已从预编译包的 certifi 中移除 eMudhra CA。HN 上一小时内冲上前排，提醒做 App、IoT 和内网服务的团队尽快更新系统根证书。",
+   "links": [
+    "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+    "https://news.ycombinator.com/item?id=50189232"
+   ],
+   "topic": "mitmproxy-emudhra-option-2026-10",
+   "firstSeen": "2026-10-22T08:58:11+08:00"
+  },
+  {
+   "id": "aab2630189",
+   "title": "「没有现成可用的利用」：安全研究者泼冷水 PHP2Shell，称 GitHub 上数千个 PoC 多为 LLM 生成、对原版 PHP 打不通",
+   "summary": "Elias Taylor 10 月 21 日撰文称，PHP 这次漏洞确实存在且需要打补丁，但远不像 Log4Shell、Heartbleed 那样一发即中：公开 10 小时后仍没有能打原版 PHP 的可用利用。GitHub 上数千个「PoC」大多依赖本地文件包含之类的前提漏洞，或由 LLM 生成后悄悄改了测试服务器，自己在 Docker 里跑一遍就失效。他批评很多人把 LLM 的「已成功」当成真结果。HN 上引发对 AI 时代漏洞恐慌与验证能力的讨论。",
+   "links": [
+    "https://eliastaylor.com/noexploit/",
+    "https://news.ycombinator.com/item?id=50188948"
+   ],
+   "topic": "php2shell-no-easy-exploit-2026-10",
+   "firstSeen": "2026-10-22T08:58:11+08:00"
   }
  ],
- "lastChecked": "2026-10-22T08:40:48+08:00"
+ "lastChecked": "2026-10-22T08:58:11+08:00"
 }
