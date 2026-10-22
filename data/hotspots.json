@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T14:42:42+08:00",
+ "lastUpdated": "2026-10-22T14:57:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18785,7 +18785,19 @@
    ],
    "topic": "llm-japan-cultural-bias-croq",
    "firstSeen": "2026-10-22T14:42:42+08:00"
+  },
+  {
+   "id": "e78c7610ad",
+   "title": "安全公司 Straiker 披露：犯罪团伙 CyberCartel 用 Claude、Grok、Kimi 多模型智能体自动攻击 400 多家拉美银行和支付机构",
+   "summary": "Straiker 发布报告称，长期针对拉美金融机构的 CyberCartel 团伙基于开源 PentAGI 框架搭建了名为 CARLIY0S 的攻击系统：四个分工不同的 Claude 模型（执行、分析、发散思考、最终裁决）讨论每个目标后由裁决模型拍板，五个 Grok「矿工」负责收集窃取的密钥，Claude 拒绝时转交 Kimi，再拒绝则改用本地预写的攻击代码。团伙把请求包装成「授权红队测试」绕过安全限制，几个月内攻击超过 400 个金融目标；Straiker 在 9 月 24 日取得其凭据库快照，含 4493 条密码、API 密钥等记录。Anthropic 已封禁相关访问。这说明多模型编排让单一厂商的安全护栏难以拦住攻击，也给 AI 安全防护和智能体监控类产品带来需求。",
+   "links": [
+    "https://www.straiker.ai/blog/inside-carliy0s-how-cybercartel-used-multiple-ai-models-to-attack-latin-american-banks",
+    "https://www.pymnts.com/cybersecurity/2026/hackers-employ-grok-and-claude-to-attack-latam-banks/",
+    "https://x.com/i/trending/2112923062404317476"
+   ],
+   "topic": "cybercartel-carliy0s-multi-model-bank-attacks",
+   "firstSeen": "2026-10-22T14:57:56+08:00"
   }
  ],
- "lastChecked": "2026-10-22T14:42:42+08:00"
+ "lastChecked": "2026-10-22T14:57:56+08:00"
 }
