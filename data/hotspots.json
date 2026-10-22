@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T18:58:24+08:00",
+ "lastUpdated": "2026-10-22T19:11:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18987,7 +18987,19 @@
    ],
    "topic": "php2shell-embargo-apology",
    "firstSeen": "2026-10-22T18:58:24+08:00"
+  },
+  {
+   "id": "49bb51281c",
+   "title": "首个 Switch 2 纯软件越狱 ns2jb 公开：作者用 Codex 搭硬件测试台花两周攻破最新固件 23.0.1，还一天「氛围编程」魔改了《马力欧赛车 世界》",
+   "summary": "安全研究者 Sammy Hajhamid（pepsipu）10 月 18 日发布 ns2jb，并于 22 日登上 Hacker News：这是已知首个针对 Switch 2 的纯软件越狱，适用于当前最新固件 23.0.1，属于需连接主机触发的「有线越狱」。它能以普通系统模块乃至内置 fs 文件系统模块的身份运行任意原生代码，从而运行自制软件、逆向和修改游戏、导出存档。作者把 Switch 1/2 接上 JetKVM（让 Codex 通过 USB 发手柄输入、通过 HDMI 看画面），再用一个蓝牙「拨开关」机械臂按电源键重启，让 Codex 从 WebKit 浏览器漏洞入手反复试错；越狱本身仍花了约两周人工投入，而给独占作品《马力欧赛车 世界》加新角色的模组则一天内由 AI 写完。这是「AI 智能体 + 物理测试台」做安全研究的一个鲜明案例，预计任天堂会很快打补丁。",
+   "links": [
+    "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+    "https://gitlab.com/pepsipu/ns2jb",
+    "https://news.ycombinator.com/item?id=50192536"
+   ],
+   "topic": "ns2jb-switch2-jailbreak",
+   "firstSeen": "2026-10-22T19:11:34+08:00"
   }
  ],
- "lastChecked": "2026-10-22T18:58:24+08:00"
+ "lastChecked": "2026-10-22T19:11:34+08:00"
 }
