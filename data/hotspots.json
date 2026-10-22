@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T08:58:11+08:00",
+ "lastUpdated": "2026-10-22T09:29:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18525,7 +18525,29 @@
    ],
    "topic": "php2shell-no-easy-exploit-2026-10",
    "firstSeen": "2026-10-22T08:58:11+08:00"
+  },
+  {
+   "id": "4965c9df8a",
+   "title": "Node.js 紧急安全更新：Brotli 解码器远程代码执行漏洞 CVE-2026-111497，22/24/26 全线需升级",
+   "summary": "Node.js 10 月 21 日发布 22.x、24.x、26.x 安全更新，最严重的 CVE-2026-111497 是 Brotli 解码器高危漏洞：进程只要解码攻击者提供的 Brotli 数据，就可能泄露内存或被执行任意代码。本次还修复了另外 9 个问题，包括两个 TLS 主机名校验绕过。Vercel 当天上线 WAF 规则拦截已知利用方式，但强调不能替代打补丁：自建后端、自托管 Next.js、自建容器镜像、CI 和本地开发都应升级到 22.23.4、24.22.1 或 26.12.1；已停止维护的 Node.js 20 不会获得修复。",
+   "links": [
+    "https://vercel.com/kb/bulletin/node-js-security-advisory",
+    "https://news.ycombinator.com/item?id=50189292"
+   ],
+   "topic": "nodejs-brotli-rce-2026-10",
+   "firstSeen": "2026-10-22T09:29:45+08:00"
+  },
+  {
+   "id": "7b29433251",
+   "title": "HTTP/3 曝 QPACK 放大攻击：一个连接就能撑爆服务器内存，十个实现七个中招，Bun、h3、aioquic 仍未修复",
+   "summary": "FoxIO 研究员 Sébastien Féry 10 月 20 日披露，HTTP/3 的 QPACK 头部压缩在多个实现中缺少或过晚执行解码后头部数量限制，一个很小的 HEADERS 帧就能在服务器内存里展开成数十万个头部对象，单个未认证连接即可让默认配置的服务器内存耗尽。quic-go、Cloudflare quiche、lsquic、Wireshark 已修复；Bun、hyperium h3、aioquic/mitmproxy 截至披露时仍未修复，建议暂时关闭 HTTP/3 或设置头部大小上限。IIS、Envoy、ngtcp2/nghttp3 不受影响。",
+   "links": [
+    "https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers",
+    "https://news.ycombinator.com/item?id=50188612"
+   ],
+   "topic": "http3-qpack-amplification-2026-10",
+   "firstSeen": "2026-10-22T09:29:45+08:00"
   }
  ],
- "lastChecked": "2026-10-22T08:58:11+08:00"
+ "lastChecked": "2026-10-22T09:29:45+08:00"
 }
