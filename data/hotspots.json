@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T04:45:12+08:00",
+ "lastUpdated": "2026-10-23T05:00:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19468,7 +19468,29 @@
    ],
    "topic": "iceye-nokia-ukraine-sovereign-satcom",
    "firstSeen": "2026-10-23T04:45:12+08:00"
+  },
+  {
+   "id": "9b02b8e976",
+   "title": "德州因 404 Media 报道关停「橡皮图章」许可门户：17 个数据中心项目施工许可被暂停",
+   "summary": "404 Media 此前披露，尽管州长 Abbott 9 月已呼吁暂停，德州环境质量委员会（TCEQ）的自动化施工许可系统 STEERS 仍在持续给数据中心项目发许可；监督组织 FracTracker 与 Public Citizen 随后列出二十多份许可。10 月 22 日该门户已下线，委员会暂停了 17 个数据中心项目的施工许可，并表示今后所有申请都要人工核查是否与数据中心相关。AI 数据中心扩张与地方监管的冲突继续升温，登上 HN。",
+   "links": [
+    "https://www.404media.co/texas-commission-on-environmental-quality-portal-down/",
+    "https://news.ycombinator.com/item?id=50200592"
+   ],
+   "topic": "texas-tceq-data-center-permits-paused",
+   "firstSeen": "2026-10-23T05:00:30+08:00"
+  },
+  {
+   "id": "bae5a0ab1d",
+   "title": "Amutable 发布 Amutable Foundations 私测：每台机器、镜像和配置都由硬件证明的「可证明 Linux」",
+   "summary": "Amutable 10 月 22 日开放 Amutable Foundations 私有预览：一个从底层起可证明的 Linux 系统，每台机器、每个软件镜像和运行中的配置都经硬件证明（attestation），作为机器身份与合规审计的基础。它在不可变镜像系统之上更进一步，把配置也纳入硬件信任度量范围，并用证明替代集群加入时共享令牌这类薄弱做法，登上 HN 首页。",
+   "links": [
+    "https://amutable.com/blog/introducing-amutable-foundations",
+    "https://news.ycombinator.com/item?id=50198931"
+   ],
+   "topic": "amutable-foundations-preview",
+   "firstSeen": "2026-10-23T05:00:30+08:00"
   }
  ],
- "lastChecked": "2026-10-23T04:45:12+08:00"
+ "lastChecked": "2026-10-23T05:00:30+08:00"
 }
