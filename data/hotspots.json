@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T12:38:21+08:00",
+ "lastUpdated": "2026-10-22T13:08:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18674,7 +18674,18 @@
    ],
    "topic": "gm-onstar-ai-2027-lyriq",
    "firstSeen": "2026-10-22T12:38:21+08:00"
+  },
+  {
+   "id": "6e54c1bb1c",
+   "title": "PHP2Shell 早在公开前 4 天就被利用：AWS 称 10 月 17 日已有攻击者出手，如今已在全网「大范围利用」",
+   "summary": "据连线（Wired）报道，亚马逊云科技（AWS）分析师发现，至少有一个攻击者在 10 月 17 日就开始尝试利用 PHP2Shell 漏洞，比漏洞公开披露和补丁发布早了四天；AWS 表示目前这些漏洞已在互联网上被「广泛利用」。这与此前「CVE 编号外泄、被迫提前发补丁」的说法相互印证，也让仍在跑老版本 PHP 的网站压力更大。",
+   "links": [
+    "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+    "https://www.techmeme.com/261021/p60"
+   ],
+   "topic": "php2shell-exploited-before-disclosure-aws",
+   "firstSeen": "2026-10-22T13:08:44+08:00"
   }
  ],
- "lastChecked": "2026-10-22T12:38:21+08:00"
+ "lastChecked": "2026-10-22T13:08:44+08:00"
 }
