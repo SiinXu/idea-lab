@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T10:57:00+08:00",
+ "lastUpdated": "2026-10-22T11:16:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18605,7 +18605,30 @@
    ],
    "topic": "huawei-deepseek-ascend-950pr-semianalysis",
    "firstSeen": "2026-10-22T10:57:00+08:00"
+  },
+  {
+   "id": "4f26128321",
+   "title": "整数乘法「不可能」被打破？顶级专家 David Harvey 撰文：AI 模型提出的 o(n log n) 算法「看起来可信」",
+   "summary": "整数乘法 O(n log n) 上界的证明者之一、UNSW 数学家 David Harvey 发布评论短文，回应某科技公司「数学大倾倒」中一篇声称以 O(n(log n)^{1−ε}) 完成 n 位整数乘法的论文。此前 O(n log n) 被普遍认为是最优，他直言这一结论「荒唐至极」，但细读后认为该界「是可信的」，并称已存在一个在「解决难题」上远超人类的自动化数学研究系统，同类成果会越来越频繁。与此同时，GitHub 上的 integer-mult-bounds 项目正以 PR 接力把常数 κ 推过 0.003。这是 AI 数学冲击理论计算机科学的又一个标志性信号。",
+   "links": [
+    "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+    "https://news.ycombinator.com/item?id=50190455",
+    "https://github.com/CrocSwap/integer-mult-bounds/pull/4441"
+   ],
+   "topic": "harvey-sub-nlogn-integer-multiplication-ai",
+   "firstSeen": "2026-10-22T11:16:55+08:00"
+  },
+  {
+   "id": "ad479bb2d4",
+   "title": "Daring Fireball 评测 iPhone Duo：外屏是「苹果做过最差的 iPhone」，展开却是「比 iPad 更好的平板」",
+   "summary": "10 月 23 日开售前，John Gruber 发布 iPhone Duo 长评：折叠带来的厚重手感、外屏偏矮的布局、按键位置错位、回到 Touch ID、第三方应用未适配等问题「苹果都没解决」，部分甚至是折叠形态的先天缺陷；但展开后的内屏被他称为最喜欢的平板体验。结论是 Duo 像两台设备，只有一半出色：看重口袋平板的人会满意，重度、高频使用 iPhone 的人可能会很沮丧。对首批评测口碑和应用适配需求是重要风向。",
+   "links": [
+    "https://daringfireball.net/2026/10/the_iphone_duo",
+    "https://news.ycombinator.com/item?id=50189055"
+   ],
+   "topic": "iphone-duo-review-daring-fireball",
+   "firstSeen": "2026-10-22T11:16:55+08:00"
   }
  ],
- "lastChecked": "2026-10-22T10:57:00+08:00"
+ "lastChecked": "2026-10-22T11:16:55+08:00"
 }
