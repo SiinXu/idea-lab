@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T09:38:47+08:00",
+ "lastUpdated": "2026-10-22T09:59:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18558,7 +18558,18 @@
    ],
    "topic": "tesla-q3-2026-earnings",
    "firstSeen": "2026-10-22T09:38:47+08:00"
+  },
+  {
+   "id": "20fc124d18",
+   "title": "Airbnb 新规禁止房东让房客洗碗倒垃圾：11 月 20 日起退房家务只能提「合理」要求，违规房源将被标注",
+   "summary": "The Verge 报道，Airbnb 更新房屋守则政策：自 11 月 20 日及之后的预订起，房东不得要求房客完成「耗费大量精力或时间、通常由保洁完成」的任务，只能提出把脏碗放进水槽这类合理请求。房源页面新增「规则与请求」板块，若房东仍保留家务要求会显示「包含清洁要求」提示，也不得通过消息或屋内告示额外加规则；熊出没地区要求把垃圾扔进防动物垃圾桶等情况可例外。部分房东在论坛反对，称有卫生风险。该话题登上 Hacker News 首页，百余分、近 80 条评论。",
+   "links": [
+    "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+    "https://news.ycombinator.com/item?id=50189150"
+   ],
+   "topic": "airbnb-checkout-chores-ban",
+   "firstSeen": "2026-10-22T09:59:18+08:00"
   }
  ],
- "lastChecked": "2026-10-22T09:38:47+08:00"
+ "lastChecked": "2026-10-22T09:59:18+08:00"
 }
