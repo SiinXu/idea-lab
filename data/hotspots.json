@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T10:24:23+08:00",
+ "lastUpdated": "2026-10-22T10:39:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18581,7 +18581,20 @@
    ],
    "topic": "agents",
    "firstSeen": "2026-10-22T10:24:23+08:00"
+  },
+  {
+   "id": "9960f3a4a9",
+   "title": "澳大利亚联邦法院裁定苹果开放 iOS：第三方应用商店、侧载和第三方支付均须放行，《堡垒之夜》重返澳区 App Store",
+   "summary": "Epic 诉苹果案在澳大利亚迎来救济判决：联邦法院法官 Jonathan Beach 基本采纳 Epic 提出的禁令，要求苹果对澳大利亚账户用户开放竞争应用商店和替代支付，且不设到期日；全球任何地方的开发者（需为苹果开发者计划会员）和支付服务商都可参与，多数改动须在 2027 年 3 月 1 日前落地，苹果还须让《堡垒之夜》等 Epic 应用重返澳区 App Store。但 Epic 要求把救济扩展到全球的请求被驳回。Epic 称《堡垒之夜》将于本周四回归，苹果仍可能上诉。判决书已公开，HN 网友称这或许是苹果迄今遇到的最严厉裁决。",
+   "links": [
+    "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+    "https://www.mlex.com/mlex/antitrust/articles/2541037/apple-must-open-ios-to-rival-app-stores-payments-in-australia-judge-rules",
+    "https://www.streetinsider.com/Reuters/Epic+Games+Fortnite+returns+to+Apple+App+Store+in+Australia/27217580.html",
+    "https://news.ycombinator.com/item?id=50190168"
+   ],
+   "topic": "epic-apple-australia-remedies-2026",
+   "firstSeen": "2026-10-22T10:39:14+08:00"
   }
  ],
- "lastChecked": "2026-10-22T10:24:23+08:00"
+ "lastChecked": "2026-10-22T10:39:14+08:00"
 }
