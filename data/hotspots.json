@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T14:14:12+08:00",
+ "lastUpdated": "2026-10-22T14:31:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18751,7 +18751,29 @@
    ],
    "topic": "openai-official-cli-go",
    "firstSeen": "2026-10-22T14:14:12+08:00"
+  },
+  {
+   "id": "f8af8b71c7",
+   "title": "微软：中国关联黑客组织 Storm-0940 用智能体 AI 渗透框架 ARTEX 自动化攻击数百家机构，ConnectWise 供应链入侵系其所为",
+   "summary": "微软安全博客披露，Storm-0940 借助智能体 AI 渗透测试框架 ARTEX 自动化攻击全球数百家机构，多起案例从选定目标到拿到云基础设施特权访问不到 3 小时。微软认定此前曝光的 ConnectWise 多租户应用供应链入侵正是该组织所为：攻击者利用已获授权的应用直接认证进入 Microsoft 365 客户环境，无需用户交互登录，并通过 Microsoft Graph 做侦察、改应用凭据和提权。微软称这显示攻击者正把 AI 智能体接入现有攻击流程、规模化作战，建议客户排查服务主体登录和异常凭据变更。路透社等均有报道。",
+   "links": [
+    "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
+    "https://www.reuters.com/technology/chinese-linked-hackers-compromise-connectwise-target-hundreds-global-attack-2026-10-21/",
+    "https://cybersecuritynews.com/china-linked-hackers-use-artex-ai/"
+   ],
+   "topic": "storm-0940-artex-agentic-ai-connectwise",
+   "firstSeen": "2026-10-22T14:31:01+08:00"
+  },
+  {
+   "id": "f297fcd73a",
+   "title": "台湾半导体业首次罢工：美光工会周四发起罢工，要求把 AI 存储芯片的丰厚利润纳入常态化分红",
+   "summary": "据日经亚洲报道，美光科技在台湾的工会周四发起罢工，这是台湾半导体产业史上第一次罢工。争议焦点在于薪资和奖金没有反映 AI 带动的存储芯片高利润，工会要求建立常态化的利润分享机制。在 HBM 等 AI 内存供不应求之际，此事值得关注其对产能和行业劳资关系的影响。",
+   "links": [
+    "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-first-ever-chip-workers-strike-begins-at-micron-plant"
+   ],
+   "topic": "micron-taiwan-first-chip-strike",
+   "firstSeen": "2026-10-22T14:31:01+08:00"
   }
  ],
- "lastChecked": "2026-10-22T14:14:12+08:00"
+ "lastChecked": "2026-10-22T14:31:01+08:00"
 }
