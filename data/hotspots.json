@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T15:57:11+08:00",
+ "lastUpdated": "2026-10-22T16:08:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18848,7 +18848,18 @@
    ],
    "topic": "artists-four-illustrations-no-ai",
    "firstSeen": "2026-10-22T15:57:11+08:00"
+  },
+  {
+   "id": "b328ea6101",
+   "title": "Omnara 开源「托管智能体平台」登上 HN：可自托管，对标 Claude Managed Agents 和 OpenAI Agents API",
+   "summary": "Omnara 以 Apache 2.0 协议开源其托管智能体平台，通过 API 在任意模型、任意机器上运行 AI 智能体，内置工具调用、密钥管理、权限和流式输出，可免费自托管，也提供云服务。用户用一份 agent.yaml 配置模型和沙箱池，再用 npx omnara 命令行即可启动智能体。该项目以 Show HN 形式发布后获得关注，说明「不被单一模型厂商锁定的智能体运行底座」正成为开发者的新需求，围绕自托管部署、行业模板和运维服务都有机会。",
+   "links": [
+    "https://github.com/omnara-ai/omnara",
+    "https://news.ycombinator.com/item?id=50183892"
+   ],
+   "topic": "omnara-open-source-managed-agents",
+   "firstSeen": "2026-10-22T16:08:12+08:00"
   }
  ],
- "lastChecked": "2026-10-22T15:57:11+08:00"
+ "lastChecked": "2026-10-22T16:08:12+08:00"
 }
