@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T05:41:43+08:00",
+ "lastUpdated": "2026-10-23T05:57:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19501,7 +19501,17 @@
    ],
    "topic": "abc-ipsos-ai-poll-2026-10",
    "firstSeen": "2026-10-23T05:41:43+08:00"
+  },
+  {
+   "id": "ce7fed74f4",
+   "title": "Ask HN 热议：模型这么强，OpenAI/Anthropic 为什么不自己开 100 家公司，而是卖 token？",
+   "summary": "10 月 22 日一则 Ask HN 帖子发出 1 小时内获 20+ 分、10+ 条评论：如果前沿模型真那么强、token 价格又在下跌，为何头部实验室不自己下场做应用公司？高赞回复认为：卖 token 像 App Store 抽成，零业务风险；运营 1 家公司远比写好代码难；OpenAI 其实已在铺大量应用产品，但目前唯一被证明能带来收入增长的是长时运行 Agent 消耗的 token。讨论折射出「模型层 vs 应用层谁赚钱」的分歧，对独立开发者选赛道有参考价值。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50200997"
+   ],
+   "topic": "ask-hn-why-labs-sell-tokens-2026-10",
+   "firstSeen": "2026-10-23T05:57:57+08:00"
   }
  ],
- "lastChecked": "2026-10-23T05:41:43+08:00"
+ "lastChecked": "2026-10-23T05:57:57+08:00"
 }
