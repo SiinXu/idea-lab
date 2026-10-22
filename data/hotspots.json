@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T23:30:24+08:00",
+ "lastUpdated": "2026-10-22T23:38:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19219,7 +19219,18 @@
    ],
    "topic": "claude-howto-trending",
    "firstSeen": "2026-10-22T23:30:24+08:00"
+  },
+  {
+   "id": "05b9a82119",
+   "title": "Fly.io 为 AI 沙箱 Sprites 换掉自研文件系统：改用对象存储上的普通 ext4 块设备 SBD",
+   "summary": "Fly.io 10 月 22 日发文介绍 Sprites Block Device（SBD）。Sprites 是可休眠、可在任意服务器上唤醒的持久化沙箱虚拟机，常被用来跑 AI 编程智能体；其磁盘根基一直是对象存储。上线时用的是魔改 JuiceFS + SQLite 元数据 + Litestream 承载一个 100GB 磁盘镜像，但随着用量增长，元数据库与数据块不一致等问题频现，于是改成更朴素的方案：对象存储之上的块设备，里面直接是 ext4，主打更高可靠性。帖子在 Hacker News 上快速升温。机会点：面向 AI 智能体的持久沙箱/快照基础设施选型对比、「对象存储做虚拟机磁盘」技术解读内容、给开发者的沙箱托管成本计算器。",
+   "links": [
+    "https://fly.io/blog/sprites-block-device/",
+    "https://news.ycombinator.com/item?id=50194824"
+   ],
+   "topic": "fly-sprites-block-device",
+   "firstSeen": "2026-10-22T23:38:01+08:00"
   }
  ],
- "lastChecked": "2026-10-22T23:30:24+08:00"
+ "lastChecked": "2026-10-22T23:38:01+08:00"
 }
