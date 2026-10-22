@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T10:39:14+08:00",
+ "lastUpdated": "2026-10-22T10:57:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18594,7 +18594,18 @@
    ],
    "topic": "epic-apple-australia-remedies-2026",
    "firstSeen": "2026-10-22T10:39:14+08:00"
+  },
+  {
+   "id": "cc0f997eae",
+   "title": "SemiAnalysis 深度拆解「华为-DeepSeek 共生」：昇腾 950PR 实测基准，预测 DeepSeek 2027–2028 年将主要跑在华为栈上",
+   "summary": "SemiAnalysis（Dylan Patel 等）发布付费长文，对华为昇腾 950PR 做架构拆解和算力、显存微基准测试，并分析 DeepSeek-V4.1-Flash 的执行特征。文章指出两者互补：华为有芯片和原生软件栈但缺前沿实验室验证，DeepSeek 有模型却买不到足够算力；9 月 30 日 DeepSeek 已在 TileLang、DeepGEMM、DeepEP、FlashMLA 等仓库加入昇腾支持。作者判断华为生态已相当成熟，并透露 950PR/DT 因良率按算力和 HBM 双重分档出多个 SKU。对国产算力、推理部署和芯片选型是重要信号。",
+   "links": [
+    "https://newsletter.semianalysis.com/p/huawei-deepseek",
+    "https://news.ycombinator.com/item?id=50189696"
+   ],
+   "topic": "huawei-deepseek-ascend-950pr-semianalysis",
+   "firstSeen": "2026-10-22T10:57:00+08:00"
   }
  ],
- "lastChecked": "2026-10-22T10:39:14+08:00"
+ "lastChecked": "2026-10-22T10:57:00+08:00"
 }
