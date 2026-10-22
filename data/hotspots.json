@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T05:57:57+08:00",
+ "lastUpdated": "2026-10-23T06:29:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19511,7 +19511,40 @@
    ],
    "topic": "ask-hn-why-labs-sell-tokens-2026-10",
    "firstSeen": "2026-10-23T05:57:57+08:00"
+  },
+  {
+   "id": "cc012b1e3b",
+   "title": "Anthropic 把 Agent Skills 标准捐给 Linux 基金会旗下 Agentic AI Foundation",
+   "summary": "Anthropic 10 月 22 日宣布将 Agent Skills（一个文件夹 + SKILL.md，教 Agent 完成特定任务的开放标准）捐给 Linux 基金会旗下的 Agentic AI Foundation（AAIF，由 Anthropic、Block、OpenAI 共同创立）。官方称自 2025 年 12 月发布标准以来，ChatGPT、Cursor、GitHub Copilot、VS Code 等 70 多个 Agent 平台已接入，累计发布约 100 万个技能、安装近 2.8 亿次。标准转为厂商中立治理，意味着「写一次技能、到处可用」更稳，技能市场、技能打包与分发工具的机会随之变大。",
+   "links": [
+    "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "https://x.com/i/trending/2113337982409171319"
+   ],
+   "topic": "agent-skills-aaif-2026-10",
+   "firstSeen": "2026-10-23T06:29:24+08:00"
+  },
+  {
+   "id": "a585154abd",
+   "title": "OpenAI Decisions API 正式 GA：用 gpt-6-luna 做分类、路由、打分，比 Responses API 快约 10 倍",
+   "summary": "OpenAI 的 Decisions API 结束公测正式上线：输入文本、图片或 JSON，直接返回条件为真的概率、固定选项中的选择或按评分标准的分数，官方称比 Responses API 快约 10 倍，目前仅支持 gpt-6-luna。相比公测新增提示缓存、JSON 输入、问题指令可带图片、单次请求最多 400 个问题（原 200）、对话历史评估、用量报表，以及与实时语音 GPT-Live 的原生集成。适合做 Agent 路由、内容审核、工单优先级等高并发判定场景。",
+   "links": [
+    "https://developers.openai.com/api/docs/guides/decisions",
+    "https://x.com/i/trending/2113381901587411361"
+   ],
+   "topic": "openai-decisions-api-ga-2026-10",
+   "firstSeen": "2026-10-23T06:29:24+08:00"
+  },
+  {
+   "id": "f0c88498bb",
+   "title": "Google 发布 Gemini API CLI：一个命令行工具让 Agent 直接生成图片、视频、语音和音乐",
+   "summary": "Google AI Studio 10 月 22 日推出 Gemini API CLI（预览版）：单个二进制文件、配一个 API Key，就能在终端里调用 Gemini 生成文本、图片、视频、语音和音乐，免去写脚本与环境配置，专门方便 AI Agent 调用。X 上的讨论还提到它与 Google Cloud 同期发布、用隔离微型虚拟机大规模运行 Agent 的 Agent Compute Engine 搭配使用。「给 Agent 用的 CLI」正成为大厂分发模型能力的新入口。",
+   "links": [
+    "https://aistudio.google.com/learn/introducing-the-gemini-api-cli",
+    "https://x.com/i/trending/2113347493450698932"
+   ],
+   "topic": "gemini-api-cli-2026-10",
+   "firstSeen": "2026-10-23T06:29:24+08:00"
   }
  ],
- "lastChecked": "2026-10-23T05:57:57+08:00"
+ "lastChecked": "2026-10-23T06:29:24+08:00"
 }
