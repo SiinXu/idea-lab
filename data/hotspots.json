@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T01:47:24+08:00",
+ "lastUpdated": "2026-10-23T01:57:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19285,7 +19285,45 @@
    ],
    "topic": "ai-models-same-controversial-take",
    "firstSeen": "2026-10-23T01:47:24+08:00"
+  },
+  {
+   "id": "ccba949439",
+   "title": "Quant-Arena 基准：9 个顶级大模型当 A 股量化研究员，样本外 2024 年没有一个跑赢等权市场",
+   "summary": "Einsia 旗下 Navers Lab 10 月 21 日发布 Quant-Arena 论文与公开排行榜：让 GPT-6 Astra、Claude Opus 5.5、Gemini 3.8 Flash、Kimi K3、DeepSeek V4.1 Flash 等 9 个模型基于 3000 多只 A 股的原始 Level-2 数据，自己构造特征、写选股代码，在 2022–2023 年研究迭代后锁定一个策略，再在封存的 2024 年用现金账户、计入交易成本和冲击成本实盘回测。第一名 GPT-6 Astra 年化 10.7%，仍落后等权市场的 17.1%，五个模型亏钱；榜首模型还学会了「下跌趋势时空仓」的择时规则。10 月 22 日在 X 上持续发酵，公开数据集已放到 Hugging Face。机会点：做「AI 量化策略」的中文解读与避坑内容、搭一个让散户对比各模型选股思路的可视化工具、或基于公开数据集做教学型回测课程。",
+   "links": [
+    "https://lab.einsia.ai/quant-arena/",
+    "https://arxiv.org/abs/2610.30113",
+    "https://huggingface.co/datasets/Ashitemaru/Quant-Arena-Public-L1",
+    "https://x.com/i/trending/2113289929438666965"
+   ],
+   "topic": "quant-arena-llm-a-share-benchmark",
+   "firstSeen": "2026-10-23T01:57:03+08:00"
+  },
+  {
+   "id": "e9dbefd243",
+   "title": "Podium 自我颠覆见效：AI 智能体业务 2.5 年 ARR 破 1.5 亿美元，老软件业务当年用了 8 年",
+   "summary": "服务本地商家的 SaaS 公司 Podium 10 月 22 日宣布，AI 专属年度经常性收入（ARR）已超过 1.5 亿美元，只用了两年半，而原本的软件业务达到同样规模用了八年。三年前公司全员押注「像员工一样干活」的 AI 智能体，替汽车经销商、家装维修、医美等商家接电话、回线索、约时间、做回访，目前已部署 2 万多个智能体，帮客户带来超过 130 亿美元营收；并在此基础上做 AI 原生的上门服务管理系统和医美病历系统。CEO Eric Rea 称「要么自己颠覆自己，要么等别人来颠覆」，Paul Graham 也在 X 上点赞。机会点：面向本地小商家的垂直 AI 接待/约单智能体、按行业打包的「AI 员工」服务、以及老 SaaS 转型 AI 原生的案例拆解内容。",
+   "links": [
+    "https://www.prnewswire.com/news-releases/podium-surpasses-150m-in-ai-agent-arr-in-2-5-years-302917303.html",
+    "https://digg.com/ai/d1i40v7k",
+    "https://x.com/i/trending/2113310069911650384"
+   ],
+   "topic": "podium-150m-ai-agent-arr",
+   "firstSeen": "2026-10-23T01:57:03+08:00"
+  },
+  {
+   "id": "07cfe1f5c7",
+   "title": "Daymaker「AI 研究潜在客户再送蛋糕」引爆讨论：读 800 个公开来源挑礼物约销售会议，还开放了 cakeMCP",
+   "summary": "旧金山创业公司 Daymaker（创始人为挪威 20 岁的 William Lindholm）主打「先研究人，再送礼」：AI 针对每位潜在客户读取最多 800 个公开来源，挑出最可能打动对方的礼物（以定制蛋糕为主），由人工确认付款后在 44 个城市当面送达，用来换取 B2B 销售会议。10 月 22 日它自称「约会议界的 Palantir」，在 X 上引来大量恶搞和隐私担忧。公司还上线了免认证的 cakeMCP 接口，提供 33 个工具，让 Claude、Cursor 等智能体直接查配送范围、设计蛋糕、生成 Stripe 付款链接。机会点：「实体触达 + AI 客户研究」的外联服务、给智能体用的实物电商 MCP、以及对 AI 外联隐私边界的评论内容。",
+   "links": [
+    "https://daymaker.com/",
+    "https://daymaker.com/mcp-api",
+    "https://www.inc.com/mariapaula-gonzalez/this-founder-used-ai-to-build-a-thriving-business-out-of-customized-cake-pitches/91325967",
+    "https://x.com/i/trending/2113274910621548620"
+   ],
+   "topic": "daymaker-ai-cake-outbound",
+   "firstSeen": "2026-10-23T01:57:03+08:00"
   }
  ],
- "lastChecked": "2026-10-23T01:47:24+08:00"
+ "lastChecked": "2026-10-23T01:57:03+08:00"
 }
