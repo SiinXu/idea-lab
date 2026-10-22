@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T04:16:49+08:00",
+ "lastUpdated": "2026-10-23T04:45:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19457,7 +19457,18 @@
    ],
    "topic": "emudhra-otp-login-bypass",
    "firstSeen": "2026-10-23T04:16:49+08:00"
+  },
+  {
+   "id": "0d1de4cb64",
+   "title": "ICEYE 与诺基亚联手乌克兰国防部建设「主权卫星通信」，欧洲版低轨宽带对标星链",
+   "summary": "10 月 22 日芬兰总理访乌期间，SAR 卫星公司 ICEYE 与诺基亚同乌克兰国防部签署意向书，探索在太空领域合作，重点是为乌克兰建设由本国掌控卫星、地面站和终端的主权低轨（LEO）宽带卫星通信系统。两家公司本月初刚宣布联合开发面向政府的安全卫星通信方案，此举被视为欧洲在军用通信上减少对星链依赖的又一步，登上 HN。",
+   "links": [
+    "https://www.iceye.com/newsroom/press-releases/iceye-and-nokia-partner-with-the-ministry-of-defence-of-ukraine-to-develop-sovereign-satcom-capability",
+    "https://news.ycombinator.com/item?id=50198995"
+   ],
+   "topic": "iceye-nokia-ukraine-sovereign-satcom",
+   "firstSeen": "2026-10-23T04:45:12+08:00"
   }
  ],
- "lastChecked": "2026-10-23T04:16:49+08:00"
+ "lastChecked": "2026-10-23T04:45:12+08:00"
 }
