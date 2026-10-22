@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T16:22:55+08:00",
+ "lastUpdated": "2026-10-22T16:39:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18869,7 +18869,28 @@
    ],
    "topic": "steam-embedding-gap-game-ideas",
    "firstSeen": "2026-10-22T16:22:55+08:00"
+  },
+  {
+   "id": "c60eb9aa07",
+   "title": "SoMark 开源 13 亿参数文档解析模型 OXR：PDF 转可编辑 Markdown/JSON，表格与复杂版面登顶多项基准",
+   "summary": "SoMark 发布开源文档解析模型 OXR，参数量 1.3B，在 olmOCR-Bench（87.84）和 OmniDocBench（97.18）上领先，尤其擅长复杂表格和多栏页面，还能处理手写、公式和化学结构式，输出干净的 Markdown 或 JSON；据称在消费级硬件上 101 秒处理 100 页。小模型本地跑就能把 PDF 变成可编辑结构化数据，适合做合同/发票/论文的批量转换工具、知识库导入服务或垂直行业的文档自动化。",
+   "links": [
+    "https://x.com/i/trending/2112672207843541453"
+   ],
+   "topic": "somark-oxr-open-source-pdf-parser",
+   "firstSeen": "2026-10-22T16:39:50+08:00"
+  },
+  {
+   "id": "62b1f69f9b",
+   "title": "白宫 fraud.gov「欺诈账本」看板被当作氛围编程样板热议：政府网站也开始用 AI 直接生成",
+   "summary": "美国政府的 fraud.gov 欺诈追踪看板展示自 2025 年 1 月以来拦截的欺诈金额、分机构统计、地图和执法清单，在 X 上被大量引用为「氛围编程」（用自然语言让 Claude、Cursor 等 AI 生成代码）的实际案例。支持者看重原型速度和成本，批评者指出代码杂乱、缺陷多、后期维护难。公共部门也开始接受 AI 生成的网站，说明「快速数据看板 + 后续代码审计/加固」是一个可以打包的服务方向。",
+   "links": [
+    "https://x.com/i/trending/2113186442377851349",
+    "https://fraud.gov"
+   ],
+   "topic": "whitehouse-fraud-gov-vibe-coded-dashboard",
+   "firstSeen": "2026-10-22T16:39:50+08:00"
   }
  ],
- "lastChecked": "2026-10-22T16:22:55+08:00"
+ "lastChecked": "2026-10-22T16:39:50+08:00"
 }
