@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T01:25:00+08:00",
+ "lastUpdated": "2026-10-23T01:47:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19274,7 +19274,18 @@
    ],
    "topic": "gnu-taler-germany-emi",
    "firstSeen": "2026-10-23T01:25:00+08:00"
+  },
+  {
+   "id": "374db3b919",
+   "title": "12 个 AI 大模型被问「对人类最有争议的看法」，35 个回答里 29 个说的是同一句：人类更忠于归属而非真相",
+   "summary": "ModelCompare 10 月 22 日发布实验：让来自三个国家、十家实验室的 12 个模型（GPT-6.1 Sol、Grok 4.7、Gemini 4 Argon、DeepSeek V4 Pro、Kimi K3 等）各回答三次「你对人类最有争议的看法」，35 个有效回答中 29 个几乎相同，核心都是「人们先选择所属群体的立场，再给自己编理由」，7 个模型三次全部如此。文章附逐个模型的原话可点开对照，发布不到一小时就冲上 Hacker News。机会点：做「多模型同题对比」的趣味内容栏目或小工具、用这类同质化现象写模型训练数据与 RLHF 趋同的科普、把可分享的模型原话卡片做成社媒传播素材。",
+   "links": [
+    "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+    "https://news.ycombinator.com/item?id=50197313"
+   ],
+   "topic": "ai-models-same-controversial-take",
+   "firstSeen": "2026-10-23T01:47:24+08:00"
   }
  ],
- "lastChecked": "2026-10-23T01:25:00+08:00"
+ "lastChecked": "2026-10-23T01:47:24+08:00"
 }
