@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T18:24:47+08:00",
+ "lastUpdated": "2026-10-22T18:58:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18966,7 +18966,28 @@
    ],
    "topic": "go-cve-2026-111943-compromised-intermediate-ca",
    "firstSeen": "2026-10-22T18:24:47+08:00"
+  },
+  {
+   "id": "81e96efb7f",
+   "title": "地图引擎厂商开源 earstrip 三角剖分库：370 万个多边形 489 毫秒切完，浏览器里比 earcut.js 快 1.4–2.1 倍",
+   "summary": "离线地图公司 Globus Software 10 月 16 日发文并开源 earstrip（ISC 协议，与 earcut 相同）：一个单头文件 C++ 库，另有 npm 上的 WebAssembly 版本，参数与流行的 earcut 完全兼容，可直接替换。作者用华沙所在省份 13 级地图的 3,740,425 个多边形做基准，原来的约束 Delaunay 剖分要 2.93 秒，改用逐步优化的「剪耳法」后降到 489 毫秒；C++ 版比 earcut.hpp 快 14%，浏览器里快 1.4–2.1 倍。文章带可交互演示，逐个优化点给出计时，登上 Hacker News 首页。对做 WebGL 地图、数据可视化、游戏和 CAD 的前端来说，这是一个低成本的性能升级点。",
+   "links": [
+    "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+    "https://news.ycombinator.com/item?id=50193170"
+   ],
+   "topic": "earstrip-polygon-triangulation",
+   "firstSeen": "2026-10-22T18:58:24+08:00"
+  },
+  {
+   "id": "f0a7e07983",
+   "title": "PHP2Shell 漏洞提前曝光的当事人在 HN 公开致歉：不知道有协调披露禁令，打乱了发布节奏",
+   "summary": "PHP 远程代码执行漏洞 PHP2Shell（CVE-2026-109618 / 109619）事件出现后续：此前在 Hacker News 提前发帖提醒升级的用户 petecooper 10 月 22 日发「Tell HN」致歉，称发帖时并不知道存在协调披露的禁令（embargo），他的信息来源也说没有禁令，本意只是提醒自行编译 PHP 的人尽快升级，结果打乱了披露时间表、给维护者增加了工作量。这件事让开源安全圈再次讨论「漏洞预警该怎么发」。对运维和建站者来说，提醒仍然是：尽快把 PHP 升到修复版本，并用 OpenAI 开源的自查工具核对。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50193416"
+   ],
+   "topic": "php2shell-embargo-apology",
+   "firstSeen": "2026-10-22T18:58:24+08:00"
   }
  ],
- "lastChecked": "2026-10-22T18:24:47+08:00"
+ "lastChecked": "2026-10-22T18:58:24+08:00"
 }
