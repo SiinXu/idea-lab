@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T13:26:56+08:00",
+ "lastUpdated": "2026-10-22T13:44:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18717,7 +18717,18 @@
    ],
    "topic": "sap-q3-2026-cloud-growth",
    "firstSeen": "2026-10-22T13:26:56+08:00"
+  },
+  {
+   "id": "8802a78990",
+   "title": "WorldTUI：开发者训练 3.6 亿参数小模型「假装」成终端，没有真实 shell，每次按键都由模型预测屏幕变化",
+   "summary": "Simon Edwardsson 基于 Qwen2.5-Coder 在 Docker 中录制的真实终端会话上微调出一个约 3.6 亿参数的「终端世界模型」：背后没有 shell 和文件系统，模型根据按键逐帧预测屏幕内容，能建文件、跑 vim/tmux、玩贪吃蛇，并大致记住几条命令前写过的内容。作者称最大提升来自让模型学会自我纠错和并行解码屏幕行，浏览器内 WebGPU 即可试玩（208 MB），被视为「应用不靠代码而靠学习」思路的小规模验证。",
+   "links": [
+    "https://simedw.com/2026/10/21/world-model-terminal/",
+    "https://news.ycombinator.com/item?id=50190363"
+   ],
+   "topic": "worldtui-terminal-world-model",
+   "firstSeen": "2026-10-22T13:44:13+08:00"
   }
  ],
- "lastChecked": "2026-10-22T13:26:56+08:00"
+ "lastChecked": "2026-10-22T13:44:13+08:00"
 }
