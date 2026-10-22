@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T13:08:44+08:00",
+ "lastUpdated": "2026-10-22T13:26:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18685,7 +18685,39 @@
    ],
    "topic": "php2shell-exploited-before-disclosure-aws",
    "firstSeen": "2026-10-22T13:08:44+08:00"
+  },
+  {
+   "id": "2a918fa9ba",
+   "title": "Meta 三季度营收增 26% 至 646 亿美元，宣布发行无投票权 C 类股为 AI 融资，2026 年资本开支下限上调至 1350 亿美元",
+   "summary": "Meta 公布 2026 年第三季度财报：营收同比增长 26% 至 646 亿美元，但因 98.9 亿美元的州检察长和解费用，营业利润下降 37% 至 129.9 亿美元；9 月家族应用日活 36.4 亿。公司宣布新设无投票权的 C 类普通股，用于筹集开发 AI 模型所需资金（2027 年 1 月生效，不影响扎克伯格控制权）；全年资本开支指引调整为 1350–1450 亿美元，四季度营收预计 730–760 亿美元，盘后股价涨超 3%。扎克伯格还称 Muse 应用上线以来用户超 1000 万。",
+   "links": [
+    "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+    "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2",
+    "https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10"
+   ],
+   "topic": "meta-q3-2026-earnings-class-c-stock",
+   "firstSeen": "2026-10-22T13:26:56+08:00"
+  },
+  {
+   "id": "a602c54a18",
+   "title": "Xbox 云游戏不再绑定 Game Pass：按小时付费，10 小时 3.99 美元起，11 月向所有人开放",
+   "summary": "据 The Verge 报道，微软公布了脱离 Game Pass 订阅的 Xbox 云游戏定价：10 小时 3.99 美元、25 小时 7.99 美元、50 小时 11.99 美元。Xbox Insider 用户现已可用，其他用户将于 11 月开放。按时长计费让云游戏门槛大幅降低，也是订阅制之外的一种新尝试。",
+   "links": [
+    "https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing"
+   ],
+   "topic": "xbox-cloud-gaming-pay-as-you-go",
+   "firstSeen": "2026-10-22T13:26:56+08:00"
+  },
+  {
+   "id": "1960ac0e7a",
+   "title": "SAP 三季度云收入增 25% 至 66.7 亿欧元超预期，云订单储备增 26%，被视为软件业抗住 AI 冲击的信号",
+   "summary": "据彭博报道，SAP 第三季度云业务收入按固定汇率同比增长 25% 至 66.7 亿欧元，高于 65.7 亿欧元的预期；总收入增长 12% 至 102.7 亿欧元，当前云订单储备增长 26% 至 241 亿欧元。在市场担心 AI 代理冲击传统企业软件的背景下，这份财报被视为软件业韧性的信号。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-10-21/sap-cloud-growth-beats-forecast-in-sign-of-software-s-resilience"
+   ],
+   "topic": "sap-q3-2026-cloud-growth",
+   "firstSeen": "2026-10-22T13:26:56+08:00"
   }
  ],
- "lastChecked": "2026-10-22T13:08:44+08:00"
+ "lastChecked": "2026-10-22T13:26:56+08:00"
 }
