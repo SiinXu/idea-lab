@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T17:59:42+08:00",
+ "lastUpdated": "2026-10-22T18:16:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18944,7 +18944,17 @@
    ],
    "topic": "xhs-carousel-claude-skill",
    "firstSeen": "2026-10-22T17:59:42+08:00"
+  },
+  {
+   "id": "e41cffef18",
+   "title": "OpenAI 开源 PHP2Shell 自查工具：一行命令或让 Codex 技能检查网站 PHP 是否在漏洞版本内，上线一天 600+ 星",
+   "summary": "PHP2Shell（CVE-2026-109618/109619）冲击持续，OpenAI 10 月 21 日在官方 GitHub 开源 php2shell-checker（Apache 2.0）：既可以直接运行 node phpcheck.js 检查某个网址或本机 PHP，也能作为两个 Codex 技能安装，有服务器权限时查本机版本，只有网址时读响应头判断。结果分为安全、存在漏洞、无法判断三类，可输出 JSON 方便批量巡检。官方也提醒它只比对响应头和 php -v 暴露的版本号，隐藏版本或发行版回移补丁的情况会显示「无法判断」，不等于已修复。上线约一天已有 600 多星。大厂把应急自查做成「智能体技能」值得关注：安全事件来了，谁先给出一键自查技能和批量巡检服务，谁就能吃到流量，可延伸出面向站长的在线批量检测页或托管巡检订阅。",
+   "links": [
+    "https://github.com/openai/php2shell-checker"
+   ],
+   "topic": "openai-php2shell-checker-codex-skill-2026-10",
+   "firstSeen": "2026-10-22T18:16:07+08:00"
   }
  ],
- "lastChecked": "2026-10-22T17:59:42+08:00"
+ "lastChecked": "2026-10-22T18:16:07+08:00"
 }
