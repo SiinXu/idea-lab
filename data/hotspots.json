@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T01:57:03+08:00",
+ "lastUpdated": "2026-10-23T02:32:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19323,7 +19323,19 @@
    ],
    "topic": "daymaker-ai-cake-outbound",
    "firstSeen": "2026-10-23T01:57:03+08:00"
+  },
+  {
+   "id": "5626bc2aa9",
+   "title": "英伟达开源智能体安全运行时 OpenShell 登上 HN：内核级沙箱 + 形式化验证，给 AI 智能体「能干活但碰不到机密」",
+   "summary": "英伟达的开源项目 OpenShell（Apache 2.0，Rust 编写，GitHub 已有 1.7 万星）10 月 22 日在 Hacker News 上升温，10 月 20 日刚发布 v0.1.5。它是给成群自主 AI 智能体用的安全运行时：每个智能体跑在隔离沙箱里，在内核层面限制能读哪些文件、能做哪些系统调用，每个网络连接出沙箱前都要过策略检查；智能体看不到真实密钥，只有发往已批准地址的请求才会被注入凭证。修改策略前还会用形式化验证找出新增的高风险权限（比如带着凭证访问新主机），留给人工审核。支持 Linux、Apple Silicon Mac 和 WSL 2，一行命令安装，官方示例用 OpenCode 加 OpenRouter 免费模型演示。机会点：面向中小团队的「智能体权限策略模板」与托管服务、把 Claude Code/Codex 等装进 OpenShell 的上手教程，以及智能体安全审计类内容。",
+   "links": [
+    "https://github.com/NVIDIA/OpenShell",
+    "https://news.ycombinator.com/item?id=50198675",
+    "https://docs.nvidia.com/openshell/latest/index.html"
+   ],
+   "topic": "nvidia-openshell-agent-runtime",
+   "firstSeen": "2026-10-23T02:32:19+08:00"
   }
  ],
- "lastChecked": "2026-10-23T01:57:03+08:00"
+ "lastChecked": "2026-10-23T02:32:19+08:00"
 }
