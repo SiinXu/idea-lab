@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T13:52:57+08:00",
+ "lastUpdated": "2026-10-22T14:14:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18740,7 +18740,18 @@
    ],
    "topic": "breken-production-simulation-bug-finding",
    "firstSeen": "2026-10-22T13:52:57+08:00"
+  },
+  {
+   "id": "b3cb6b9ecf",
+   "title": "OpenAI 开源官方命令行工具 OpenAI CLI：用 Go 编写，终端里直接调用 Responses、图像生成等全部 REST API",
+   "summary": "OpenAI 在 GitHub 发布官方 CLI（openai/openai-cli），可通过 Homebrew（brew install openai/tools/openai）或 go install 安装。命令按「openai <资源> <子资源> <操作>」组织，覆盖标准 API 与需要管理员密钥的 Admin 端点，并内置交互式图像生成选择器、Bash/zsh/fish 补全和每周一次的更新提示（可用 OPENAI_CLI_NO_UPDATE_CHECK=1 关闭）。项目刚登上 Hacker News 首页，对脚本化调用模型、在 CI 和智能体工作流里接 OpenAI 的开发者更方便。",
+   "links": [
+    "https://github.com/openai/openai-cli",
+    "https://news.ycombinator.com/item?id=50191507"
+   ],
+   "topic": "openai-official-cli-go",
+   "firstSeen": "2026-10-22T14:14:12+08:00"
   }
  ],
- "lastChecked": "2026-10-22T13:52:57+08:00"
+ "lastChecked": "2026-10-22T14:14:12+08:00"
 }
