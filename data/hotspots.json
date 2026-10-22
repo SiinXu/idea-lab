@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T00:32:26+08:00",
+ "lastUpdated": "2026-10-23T00:59:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19252,7 +19252,18 @@
    ],
    "topic": "hackios-ios-on-android",
    "firstSeen": "2026-10-23T00:32:26+08:00"
+  },
+  {
+   "id": "d631a25b06",
+   "title": "Arc 浏览器宣布停服：12 月 22 日起桌面版无法使用，团队全力转向 AI 浏览器 Dia",
+   "summary": "The Browser Company 10 月 22 日在 arc.net 发布告别信：Arc 将于 2026 年 12 月 22 日停止服务。当天起已不能注册新账号；11 月 23 日移动端 Arc Search 的「Browse for Me」等 AI 功能关闭，也无法登录同步；12 月 22 日 macOS 和 Windows 版彻底停用，账号停用、个人数据 30 天内删除。官方给出的理由是浏览器安全维护在 AI 时代越来越重，工程与安全团队将集中到从头构建的 Dia，并提供空间、文件夹、标签组、密码、扩展的一键迁移，称 Dia 的基础浏览功能免费、AI 可选。消息发布半小时即登上 Hacker News 首页。机会点：Arc 用户迁移指南与数据导出工具、Arc 替代浏览器对比评测、竖向标签页/空间类浏览器插件。",
+   "links": [
+    "https://arc.net/",
+    "https://news.ycombinator.com/item?id=50197601"
+   ],
+   "topic": "arc-browser-sunset",
+   "firstSeen": "2026-10-23T00:59:40+08:00"
   }
  ],
- "lastChecked": "2026-10-23T00:32:26+08:00"
+ "lastChecked": "2026-10-23T00:59:40+08:00"
 }
