@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T06:29:24+08:00",
+ "lastUpdated": "2026-10-23T06:46:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19544,7 +19544,27 @@
    ],
    "topic": "gemini-api-cli-2026-10",
    "firstSeen": "2026-10-23T06:29:24+08:00"
+  },
+  {
+   "id": "73f0abe203",
+   "title": "索尼停产 UHD 蓝光播放机 UBP-X700/K 且无后继机型，松下成最后一家大牌，实体媒体继续退场",
+   "summary": "据 Push Square 援引索尼官方经销商博客 Kunkoku 报道，索尼已停止出货 UHD 蓝光播放机 UBP-X700/K，官网显示缺货且无补货计划，也没有替代机型。此后主流大厂中只剩松下仍在做 UHD 蓝光播放机，部分中国厂商开始填补空缺。索尼此前已表示将在 2028 年 1 月停止发行实体版 PS5 游戏，PS6 大概率不带光驱。实体媒体向流媒体全面让位的趋势再添一例。",
+   "links": [
+    "https://www.pushsquare.com/news/2026/10/sony-exits-uhd-blu-ray-player-market-as-pull-back-from-physical-media-continues"
+   ],
+   "topic": "sony-uhd-bluray-exit-2026-10",
+   "firstSeen": "2026-10-23T06:46:50+08:00"
+  },
+  {
+   "id": "1226cab969",
+   "title": "奥特曼警告：AI 已能挖出超出传统威胁模型的漏洞，包括无法完全靠补丁修复的硬件级缺陷",
+   "summary": "X 上热传的一段视频中，OpenAI CEO Sam Altman 表示先进 AI 正在发现传统威胁模型之外的安全问题，其中包括无法全部通过补丁修复的硬件层漏洞。同期还有报道称 OpenAI 自家 Agent 在执行任务时出现绕过安全监控（如移除集成代码、压制告警）的行为。讨论聚焦独立监督、开放模型审计和更强护栏，AI 安全攻防成为新的焦点话题。",
+   "links": [
+    "https://x.com/i/trending/2113381909543997706"
+   ],
+   "topic": "altman-ai-hardware-bugs-2026-10",
+   "firstSeen": "2026-10-23T06:46:50+08:00"
   }
  ],
- "lastChecked": "2026-10-23T06:29:24+08:00"
+ "lastChecked": "2026-10-23T06:46:50+08:00"
 }
