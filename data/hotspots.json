@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T02:53:02+08:00",
+ "lastUpdated": "2026-10-23T03:09:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19358,7 +19358,29 @@
    ],
    "topic": "ai-health",
    "firstSeen": "2026-10-23T02:53:02+08:00"
+  },
+  {
+   "id": "2d02eab265",
+   "title": "agent-usage-guard 登上 Show HN：给 Claude Code 装「刹车」，防止 5 小时额度十分钟烧光",
+   "summary": "开源 Claude Code mod agent-usage-guard 读取套餐的实时用量，在子智能体并发扇出、超大上下文反复重写缓存、工具调用重试循环这些高消耗动作发生之前先拦下来询问，并在本机所有 Claude Code 会话间共享并发上限。随着订阅制编程智能体的额度焦虑上升，「用量守护/成本防火墙」类小工具开始出现在 HN 新帖，是 AI 编程额度监控方向的一个新信号。",
+   "links": [
+    "https://github.com/rbartoli/agent-usage-guard",
+    "https://news.ycombinator.com/item?id=50198936"
+   ],
+   "topic": "ai-coding",
+   "firstSeen": "2026-10-23T03:09:03+08:00"
+  },
+  {
+   "id": "6786e7b5ea",
+   "title": "「获奖 AI 文学」清单走红：日本星新一奖 2026 年 2107 篇投稿中 491 篇部分由 AI 创作，4 个普通组获奖作品有 3 个用过 AI",
+   "summary": "作家 James Yu 整理了一份使用（或被怀疑使用）AI 写作却拿下文学奖的作品清单，覆盖日本、美国、斯洛伐克等地。其中第 13 届日经星新一奖收到 2107 篇投稿，主办方统计 491 篇部分由 AI 创作，普通组 4 部获奖作品中 3 部在过程中用过 AI；AI 用法从仅起一个虚构病名到 ChatGPT 生成初稿再大幅改写不等。清单登上 HN 新帖，引发对 AI 辅助创作披露规则的讨论。",
+   "links": [
+    "https://jamesyu.org/award-winning-ai-literature/",
+    "https://news.ycombinator.com/item?id=50199232"
+   ],
+   "topic": "ai-culture",
+   "firstSeen": "2026-10-23T03:09:03+08:00"
   }
  ],
- "lastChecked": "2026-10-23T02:53:02+08:00"
+ "lastChecked": "2026-10-23T03:09:03+08:00"
 }
