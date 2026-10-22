@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T23:38:01+08:00",
+ "lastUpdated": "2026-10-23T00:01:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19230,7 +19230,18 @@
    ],
    "topic": "fly-sprites-block-device",
    "firstSeen": "2026-10-22T23:38:01+08:00"
+  },
+  {
+   "id": "88acb5159f",
+   "title": "谷歌芬兰 AI 数据中心被叫停调查：环评未完成就先砍掉约 300 公顷森林",
+   "summary": "据 TechSpot 10 月 22 日报道，谷歌在芬兰的本地项目公司 Tuike Finland Oy 被芬兰许可与监管局（LVV）要求说明情况：在整体计划的环境影响评估完成前，已有约 300 公顷森林（约 420 个足球场）被清理。该项目是谷歌投资 130 亿欧元的 AI 基础设施，工程可能因此暂停，而美国等地多个大型数据中心项目也正遭遇延期。消息在 Hacker News 上开始升温，与近期「美国三分之二民众反对附近建数据中心」等民调一起，反映 AI 算力扩张的环保与社区阻力在加大。机会点：AI 数据中心选址与审批风险追踪器、各国数据中心环评/能耗政策对比内容、面向社区和投资者的数据中心项目延期地图。",
+   "links": [
+    "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+    "https://news.ycombinator.com/item?id=50196837"
+   ],
+   "topic": "google-finland-datacenter-forest",
+   "firstSeen": "2026-10-23T00:01:13+08:00"
   }
  ],
- "lastChecked": "2026-10-22T23:38:01+08:00"
+ "lastChecked": "2026-10-23T00:01:13+08:00"
 }
