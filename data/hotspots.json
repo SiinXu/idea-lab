@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T12:27:10+08:00",
+ "lastUpdated": "2026-10-22T12:38:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18639,7 +18639,42 @@
    ],
    "topic": "claude-google-workspace-addon",
    "firstSeen": "2026-10-22T12:27:10+08:00"
+  },
+  {
+   "id": "e3ead33980",
+   "title": "彭博：DeepSeek 新一轮融资约 1000 亿元人民币（约 150 亿美元），宁德时代、腾讯领投，跻身中国史上最大融资之一",
+   "summary": "据彭博援引知情人士，DeepSeek 在最新一轮融资中筹得约 1000 亿元人民币（约 150 亿美元），是中国有史以来规模最大的融资之一，宁德时代和腾讯是最大出资方之一。这家此前长期不对外融资、靠幻方自有资金运转的实验室，此轮被视为在算力上正面挑战美国头部实验室的信号，也与近期华为昇腾深度绑定的报道相呼应。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
+    "https://www.techmeme.com/261021/p61"
+   ],
+   "topic": "deepseek-15b-funding",
+   "firstSeen": "2026-10-22T12:38:21+08:00"
+  },
+  {
+   "id": "3d5b893e42",
+   "title": "彭博：马斯克顾问团队力推 2027 年上半年前宣布 SpaceX 与特斯拉合并，赶在特朗普任内完成这笔 3.7 万亿美元交易",
+   "summary": "彭博报道，马斯克商业帝国内部的顾问正推动在 2027 年上半年宣布 SpaceX 与特斯拉合并，好让交易在特朗普仍执政期间完成审批交割；合并后公司按当前价格约 3.6–3.7 万亿美元。华尔街日报、美联社和金融时报同步分析称，两家公司早已在人才、芯片和业务上深度交织，但交易仍面临股东和监管障碍。此前双方已成立特别委员会讨论合并。",
+   "links": [
+    "https://www.bloomberg.com/news/features/2026-10-22/tesla-spacex-merger-why-musk-wants-a-deal-before-trump-leaves-office",
+    "https://www.wsj.com/tech/spacex-and-tesla-are-joined-at-the-hip-a-merger-would-make-it-formal-507c475f",
+    "https://www.mercurynews.com/2026/10/21/musk-spacex-tesla-merger/"
+   ],
+   "topic": "spacex-tesla-merger-timeline-h1-2027",
+   "firstSeen": "2026-10-22T12:38:21+08:00"
+  },
+  {
+   "id": "7c5ac7acb9",
+   "title": "通用汽车给 OnStar 换上 AI：语音助手可直接操控车辆功能和做故障诊断，2027 款凯迪拉克 Lyriq 首发，新车研发周期压到 2 年",
+   "summary": "通用汽车在发布会上公布全栈 AI 路线：OnStar AI 车载助手能通过语音执行车辆功能、运行诊断，将随 2027 款凯迪拉克 Lyriq 首发；同时推进单一中央计算机架构、更快的 OTA 更新和「脱眼」自动驾驶，并称借助 AI 把新车设计周期缩短到最快 2 年，以应对中国车企的速度。连线、纽约时报、TechCrunch 和 The Verge 均有报道。",
+   "links": [
+    "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+    "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
+    "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html"
+   ],
+   "topic": "gm-onstar-ai-2027-lyriq",
+   "firstSeen": "2026-10-22T12:38:21+08:00"
   }
  ],
- "lastChecked": "2026-10-22T12:27:10+08:00"
+ "lastChecked": "2026-10-22T12:38:21+08:00"
 }
