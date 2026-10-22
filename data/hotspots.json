@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T23:10:10+08:00",
+ "lastUpdated": "2026-10-22T23:30:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19209,7 +19209,17 @@
    ],
    "topic": "quad9-exit-france",
    "firstSeen": "2026-10-22T23:10:10+08:00"
+  },
+  {
+   "id": "619b3cfc3a",
+   "title": "claude-howto 再上 GitHub 日榜：4.2 万星的 Claude Code 图解教程，一天新增 400+ 星",
+   "summary": "luongnv89/claude-howto 是一份「可视化 + 示例驱动」的 Claude Code 上手指南，从基础概念讲到子智能体、钩子、MCP 等进阶用法，并附可直接复制的模板。仓库 10 月 20 日刚更新，目前约 4.28 万星，10 月 22 日以单日 400 多星进入 GitHub Trending。说明「AI 编程工具的中文/图解教程、可复用模板包」需求仍然旺盛。机会点：做中文版 Claude Code / Cursor 实战手册、按岗位整理的提示词与配置模板包、付费进阶课程或团队内训。",
+   "links": [
+    "https://github.com/luongnv89/claude-howto"
+   ],
+   "topic": "claude-howto-trending",
+   "firstSeen": "2026-10-22T23:30:24+08:00"
   }
  ],
- "lastChecked": "2026-10-22T23:10:10+08:00"
+ "lastChecked": "2026-10-22T23:30:24+08:00"
 }
