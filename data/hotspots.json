@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T08:29:05+08:00",
+ "lastUpdated": "2026-10-22T08:40:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18481,7 +18481,29 @@
    ],
    "topic": "stratechery-stripe-sponsorship-2026-10",
    "firstSeen": "2026-10-22T08:29:05+08:00"
+  },
+  {
+   "id": "958abf3bff",
+   "title": "沃尔玛向 AI 购物智能体开门：推出 Agent Profiles 和基于 MCP 的 Walmart Agent Gateway，与封堵外部智能体的亚马逊正面相反",
+   "summary": "沃尔玛 10 月 21 日发布三件套：Agent Profiles（下月上线）让用户给每个 AI 智能体单独建档、单独看订单、设 50/100/200 美元等消费上限或逐单审批、随时撤销；Walmart Agent Gateway 先以 Beta 向企业和开发者开放，智能体通过 MCP 直接搜索下单，不用模拟浏览器，也拿不到用户完整购物记录；另有智能体行为条款，禁止改动支付方式。ChatGPT、Gemini、Meta Muse 等可接入，不需要 Walmart+ 会员。对做智能体和电商工具的开发者来说，这是大型零售商第一次给出正式的「智能体下单」接口和权限模型。",
+   "links": [
+    "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers",
+    "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "https://x.com/i/trending/2113059266378793184"
+   ],
+   "topic": "walmart-agent-gateway-2026-10",
+   "firstSeen": "2026-10-22T08:40:48+08:00"
+  },
+  {
+   "id": "1f331de092",
+   "title": "Gemini 4 Carbon 新检查点在 LMArena 现身：测试者晒体素世界、水面反射和动态天气，称 3D 效果明显强于 Argon",
+   "summary": "据 X 上测试者分享，谷歌在 Gemini 4 Argon 公开发布后又在 LMArena 投放了名为 Gemini 4 Carbon 的新检查点，生成 3D 场景更干净、复杂场景处理更好、偷懒输出更少，但生成时间更长；编码据称与顶级模型相当，前端和 UI 能力仍有差距。目前均为社区测试反馈，谷歌尚未官方公布，完整基准待正式发布。",
+   "links": [
+    "https://x.com/i/trending/2112994544845472129"
+   ],
+   "topic": "gemini-4-carbon-lmarena-2026-10",
+   "firstSeen": "2026-10-22T08:40:48+08:00"
   }
  ],
- "lastChecked": "2026-10-22T08:29:05+08:00"
+ "lastChecked": "2026-10-22T08:40:48+08:00"
 }
