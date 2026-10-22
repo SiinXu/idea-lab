@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T00:01:13+08:00",
+ "lastUpdated": "2026-10-23T00:32:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19241,7 +19241,18 @@
    ],
    "topic": "google-finland-datacenter-forest",
    "firstSeen": "2026-10-23T00:01:13+08:00"
+  },
+  {
+   "id": "340d69bec7",
+   "title": "HackiOS 开源：在安卓手机上启动苹果 XNU 内核，跑起未修改的 iOS 16.5 系统",
+   "summary": "10 月 22 日，独立研究团队 OOSEX GANG 在 GitHub 发布 HackiOS，并以 Show HN 形式登上 Hacker News。项目在 POCO X5 Pro 5G（骁龙 778G）上用 fastboot 临时引导自研 UEFI，加载苹果开源的 XNU 内核（iOS 16.5 版本），再运行未经修改的 iOS 16.5 用户空间：锁屏、主屏幕、控制中心、设置都能显示，整个系统只在内存里运行，重启即回到安卓；没有手机也能在 QEMU 虚拟机里跑。仓库不含任何苹果文件，由脚本从苹果 CDN 下载 IPSW 在本地提取。仓库创建不到一天已获 250+ 星。机会点：跨平台系统移植与逆向工程的科普内容、iOS 应用在非苹果硬件上测试的研究工具方向、关注苹果法务反应的追踪话题。",
+   "links": [
+    "https://github.com/oosexgang/hackios-xnu-kernel",
+    "https://news.ycombinator.com/item?id=50196718"
+   ],
+   "topic": "hackios-ios-on-android",
+   "firstSeen": "2026-10-23T00:32:26+08:00"
   }
  ],
- "lastChecked": "2026-10-23T00:01:13+08:00"
+ "lastChecked": "2026-10-23T00:32:26+08:00"
 }
