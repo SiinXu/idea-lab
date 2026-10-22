@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T22:11:44+08:00",
+ "lastUpdated": "2026-10-22T22:31:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19155,7 +19155,28 @@
    ],
    "topic": "shared-claude-pro-subscription-hype",
    "firstSeen": "2026-10-22T22:11:44+08:00"
+  },
+  {
+   "id": "85099bc221",
+   "title": "英国德比郡一名资深警探被调查：一年内把机密案件数据输入 Microsoft Copilot，还用它做决策和风险评估",
+   "summary": "英国独立警察行为办公室（IOPC）正在调查德比郡警队一名资深警探：据称其在 12 个月里把行动和个人数据输入 Microsoft Copilot，并用它起草政策决定、评估风险，可能违反警队规定。该警队 2025 年 5 月批准 Copilot 用于写报告等工作，但明确禁止输入敏感数据；这是该警队近几个月第二起 AI 使用审查。注意：以上为 X 上讨论的汇总，细节以官方通报为准。机会点：面向政府与企业的 AI 使用合规审计、敏感数据拦截（DLP）与员工 AI 使用培训。",
+   "links": [
+    "https://x.com/i/trending/2113247393185779745"
+   ],
+   "topic": "derbyshire-police-copilot-misuse",
+   "firstSeen": "2026-10-22T22:31:05+08:00"
+  },
+  {
+   "id": "beab9e5c93",
+   "title": "美国一名女子因从未开过的 Cash App 账户被捕、面临六年刑期：身份冒用让受害者反成被告",
+   "summary": "TechSpot 报道，一名女子因一个以她名义开设、但她本人从未开过的 Cash App 账户涉案，在监狱关了三晚并面临最高六年刑期，Hacker News 上获得 140+ 点赞，讨论集中在金融 App 开户身份核验（KYC）薄弱、执法部门过度依赖平台数据。机会点：个人身份被冒用监测与预警、开户身份核验工具、受害者维权指南。",
+   "links": [
+    "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+    "https://news.ycombinator.com/item?id=50194833"
+   ],
+   "topic": "cash-app-identity-theft-arrest",
+   "firstSeen": "2026-10-22T22:31:05+08:00"
   }
  ],
- "lastChecked": "2026-10-22T22:11:44+08:00"
+ "lastChecked": "2026-10-22T22:31:05+08:00"
 }
