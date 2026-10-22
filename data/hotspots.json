@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T21:26:48+08:00",
+ "lastUpdated": "2026-10-22T21:44:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19073,7 +19073,27 @@
    ],
    "topic": "theo-harness-tabs-vs-spaces",
    "firstSeen": "2026-10-22T21:26:48+08:00"
+  },
+  {
+   "id": "17606ca979",
+   "title": "Brex 发布 2026 秋季增速最快软件供应商榜：Baseten 居首，Modal、Greptile、Daytona 紧随，AI 智能体基础设施霸榜",
+   "summary": "Brex 按 7–9 月客户支出增长排出 25 家增长最快的软件公司：第 1 名是跑 GPU 模型的 Baseten，之后是 Modal、Greptile（AI 代码审查）和 Daytona（智能体沙箱），榜单集中在给自主 AI 智能体提供算力、沙箱和测试的工具；加密基础设施 Alchemy 排第 21，CEO 发帖称「加密依然活跃」。注意：以上为 X 上讨论的汇总，榜单细节未逐一核实；可关注「智能体用的卖铲子工具」赛道：沙箱、评测、代码审查。",
+   "links": [
+    "https://x.com/i/trending/2112998132334149989"
+   ],
+   "topic": "brex-fall-2026-fastest-growing-vendors",
+   "firstSeen": "2026-10-22T21:44:50+08:00"
+  },
+  {
+   "id": "12e73516e9",
+   "title": "Steam 新品节 7000+ 个试玩涌入、AI 生成游戏激增：独立开发者在 X 上用 #ShowcaseThursday 自救",
+   "summary": "10 月 Steam 新品节（持续到 10 月 26 日）试玩数量超过 7000 个，许多开发者表示生成式 AI 制作的作品大幅增加，淹没了手工作品，而 Steam 没有方便的 AI 内容过滤。@Freya_Games、@GameTikker 等账号发起每周 #ShowcaseThursday，邀请独立开发者在回复里贴 Steam 页面拉愿望单。注意：以上为 X 上讨论的汇总，数字未逐一核实；可关注「非 AI 手工游戏」筛选/推荐站、独立游戏愿望单推广服务等机会。",
+   "links": [
+    "https://x.com/i/trending/2113226122548695378"
+   ],
+   "topic": "steam-next-fest-oct-2026-ai-flood",
+   "firstSeen": "2026-10-22T21:44:50+08:00"
   }
  ],
- "lastChecked": "2026-10-22T21:26:48+08:00"
+ "lastChecked": "2026-10-22T21:44:50+08:00"
 }
