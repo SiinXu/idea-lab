@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T08:01:28+08:00",
+ "lastUpdated": "2026-10-22T08:29:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18448,7 +18448,40 @@
    ],
    "topic": "mirendil-base-one-researcher-pretraining-2026-10",
    "firstSeen": "2026-10-22T08:01:28+08:00"
+  },
+  {
+   "id": "d8a4cd206a",
+   "title": "Letta 发布 FrontierMemory 1.0：首个用「记忆能否让智能体把下一个任务做得更好」来打分的记忆基准",
+   "summary": "Letta Research 10 月 21 日推出 FrontierMemory，不再像 LoCoMo、LongMemEval 那样考生日、爱好之类的事实回忆，而是让智能体读 665 条过往执行记录（其中 219 条相关），在 6 小时内自己生成记忆，再看这些记忆能否提升 15 个编码和知识工作任务的成功率。模型榜上 Opus 5.5 与 GLM-5.3 并列 73.3%，Kimi K3 66.7%，GPT-6.1 Sol 60% 且单任务成本最低；harness 榜上 Letta Dream 73.3% 领先，Prime Agent 60%，OpenAI Agents SDK 40%，Claude Managed Agents 33.3%。对做智能体记忆、「做梦」式离线学习产品的团队，这是一个新的对标坐标。",
+   "links": [
+    "https://www.frontiermemory.com/blog/v1/",
+    "https://www.frontiermemory.com/",
+    "https://x.com/i/trending/2112984434341204047"
+   ],
+   "topic": "letta-frontiermemory-benchmark-2026-10",
+   "firstSeen": "2026-10-22T08:29:05+08:00"
+  },
+  {
+   "id": "9210b52e2b",
+   "title": "Palantir 联手 NVIDIA 加速交付「主权 AI」：客户在 Foundry/AIP 里用自有数据后训练 Nemotron 开源模型",
+   "summary": "Palantir 10 月 21 日公布一批新客户案例：基于 NVIDIA Nemotron 开放权重模型，在 Foundry、Ontology 和 AIP 内用自家数据训练专属模型，数据和权重都留在自己环境里。X 上流传的数字包括 McCarthy 建筑每年在合同处理上省下 3 万小时、Tampa General 医院性能提升 7% 且延迟降低 22 倍、L3Harris 关键任务成本降 95%，防务公司 Ondas 还在这套栈上推出面向无人机等边缘设备的 Regna AI。此前双方已把这套栈先部署在 NVIDIA 自己的供应链上。「自有数据 + 开源模型 + 私有部署」正在成为国防、医疗、制造的主流采购方式。",
+   "links": [
+    "https://www.businesswire.com/news/home/20261021782963/en/Palantir-Accelerates-Delivery-of-Sovereign-AI-to-New-Wave-of-Customers",
+    "https://x.com/i/trending/2113018474440049123"
+   ],
+   "topic": "palantir-nvidia-sovereign-ai-customers-2026-10-21",
+   "firstSeen": "2026-10-22T08:29:05+08:00"
+  },
+  {
+   "id": "99f5d2d57e",
+   "title": "Stratechery 独立 12 年后首次接受冠名：由 Stripe 赞助，Ben Thompson 承诺编辑独立",
+   "summary": "科技分析通讯 Stratechery 10 月 21 日宣布由 Stripe 冠名赞助，Patrick Collison 称 Ben Thompson 是「科技界最好的分析师」。Thompson 说一直计划引入赞助，选 Stripe 是因为它让他的订阅模式成为可能，并承诺继续独立、如实报道金融科技；广告收入将用于线下活动等新内容。对独立创作者来说，这是「订阅打底 + 高度契合的单一品牌赞助」商业模式的一个标杆案例。",
+   "links": [
+    "https://x.com/i/trending/2112984431531102376"
+   ],
+   "topic": "stratechery-stripe-sponsorship-2026-10",
+   "firstSeen": "2026-10-22T08:29:05+08:00"
   }
  ],
- "lastChecked": "2026-10-22T08:01:28+08:00"
+ "lastChecked": "2026-10-22T08:29:05+08:00"
 }
