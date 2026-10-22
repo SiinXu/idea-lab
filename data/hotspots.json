@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T19:46:19+08:00",
+ "lastUpdated": "2026-10-22T20:30:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19021,7 +19021,27 @@
    ],
    "topic": "linux-kernel-vulns-leaked-lkml",
    "firstSeen": "2026-10-22T19:46:19+08:00"
+  },
+  {
+   "id": "cb2f457f1d",
+   "title": "亚马逊蜜罐发现 PHP2Shell 在公开披露前 4 天就已被利用：10 月 17 日已有攻击，补丁发布后数小时内被大规模利用",
+   "summary": "亚马逊威胁情报团队 10 月 21 日发文：其 MadPot 蜜罐网络在 10 月 17 日就捕获到 PHP2Shell（CVE-2026-109618 / 109619）利用尝试，比禁令解除时间（10 月 21 日 14:00 UTC）早 4 天，来源是商业匿名网络的 IP；21 日凌晨起又出现多个概念验证代码和来自不同匿名基础设施的攻击，疑为多个团伙，目前该漏洞已在野外被广泛利用。亚马逊强调两点：漏洞禁令只在别人没发现同一漏洞前有效；AI 辅助分析让「补丁差异到可用攻击代码」的时间缩短到数小时甚至数分钟，面向公网系统的高危漏洞修复时限应以小时计，排查应至少从 10 月 17 日开始。唯一完整修复是升级 PHP，无法立即升级时可考虑临时禁止 multipart 文件上传。对建站者和运维来说，这意味着「出公告再修」已经不够，漏洞预警订阅、自动打补丁和不依赖特征签名的异常检测服务需求会继续上升。",
+   "links": [
+    "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/"
+   ],
+   "topic": "aws-madpot-php2shell-pre-disclosure-exploitation",
+   "firstSeen": "2026-10-22T20:30:08+08:00"
+  },
+  {
+   "id": "72a8cd99f9",
+   "title": "Xbox 推出按小时付费的云游戏：已买的游戏想串流还要再付每小时 0.24–0.40 美元",
+   "summary": "微软 10 月 21 日向 Xbox 预览会员（Insiders）推出「云游戏时长」单独购买：10 小时 4 美元、25 小时 8 美元、50 小时 12 美元，买了不过期。但前提是你已经购买了支持云游戏的作品（少数免费游戏除外），等于游戏买断之后串流还要按小时计费；而 9 月微软已大幅缩减 Game Pass 订阅里的云游戏额度。Ars Technica 把它比作「买了街机还要投币」，Hacker News 讨论热烈。这是云服务从「包月畅玩」走向「按量计费」的又一信号，GPU 串流成本正在被直接转嫁给用户；对开发者来说，「按用量计费 + 预付时长包」的定价设计、以及帮用户比较订阅与按量哪个更划算的工具，都有借鉴和切入空间。",
+   "links": [
+    "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/"
+   ],
+   "topic": "xbox-cloud-playtime-hourly-pricing",
+   "firstSeen": "2026-10-22T20:30:08+08:00"
   }
  ],
- "lastChecked": "2026-10-22T19:46:19+08:00"
+ "lastChecked": "2026-10-22T20:30:08+08:00"
 }
