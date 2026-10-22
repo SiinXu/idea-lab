@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T19:11:34+08:00",
+ "lastUpdated": "2026-10-22T19:23:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18999,7 +18999,18 @@
    ],
    "topic": "ns2jb-switch2-jailbreak",
    "firstSeen": "2026-10-22T19:11:34+08:00"
+  },
+  {
+   "id": "6f7370a459",
+   "title": "Minotaur：不用大模型也不用 GPU 的推理 AI，单核 0.25 秒完成演绎、归纳、诊断与反事实推理",
+   "summary": "作者 Edward Chalk 发布 Minotaur 深度解读：它不预测下一个词，而是对系统结构做「测量」，在一张网络上用同一种运算完成演绎、归纳、溯因、诊断、选实验和信念修正，在普通 CPU 单核上每题约 0.25 秒；作者称在他人编写的盲测中（如问题会改变证人记忆的审讯场景）与在用语言模型推理的表现相当。HN 讨论升温，可关注「非 LLM 推理」做规则审计、合规检查等低成本场景的机会，但效果尚待独立验证。",
+   "links": [
+    "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+    "https://news.ycombinator.com/item?id=50192868"
+   ],
+   "topic": "minotaur-reasoning-without-llm",
+   "firstSeen": "2026-10-22T19:23:02+08:00"
   }
  ],
- "lastChecked": "2026-10-22T19:11:34+08:00"
+ "lastChecked": "2026-10-22T19:23:02+08:00"
 }
