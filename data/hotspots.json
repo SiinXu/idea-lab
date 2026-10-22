@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T13:44:13+08:00",
+ "lastUpdated": "2026-10-22T13:52:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18728,7 +18728,19 @@
    ],
    "topic": "worldtui-terminal-world-model",
    "firstSeen": "2026-10-22T13:44:13+08:00"
+  },
+  {
+   "id": "4810ca7afa",
+   "title": "Breken：在「上线前的生产环境」里放合成用户和智能体，加速时间找出只有真实用户才会撞上的 bug",
+   "summary": "Breken 把整套软件搬到自己的隔离机器上，以约 4000 倍速度「长出」真实的生产数据，再让带意图、习惯和耐心上限的合成用户与 AI 智能体去使用，并逐一注入重试、响应丢失、时钟跳变、部署中断等条件，复现成功的故障附带完整状态、追踪和修复 PR 草稿。官方 ESCAPES 基准用 33 个开源产品 7 月 1 日的代码回放：235 个后来被用户报告的 bug 中 Breken 提前发现 76 个（32%，20 个误报），而 Claude Code 读代码最好只找到 37 个（59 个误报）；基准由 Breken 自建自测。产品在 X 上引发开发者讨论，被视为 AI 写代码变便宜后「生产级验证」的新赛道。",
+   "links": [
+    "https://breken.ai/",
+    "https://breken.ai/benchmark",
+    "https://x.com/i/trending/2113118175424602281"
+   ],
+   "topic": "breken-production-simulation-bug-finding",
+   "firstSeen": "2026-10-22T13:52:57+08:00"
   }
  ],
- "lastChecked": "2026-10-22T13:44:13+08:00"
+ "lastChecked": "2026-10-22T13:52:57+08:00"
 }
