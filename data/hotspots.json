@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T17:39:34+08:00",
+ "lastUpdated": "2026-10-22T17:59:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18912,7 +18912,39 @@
    ],
    "topic": "tv-launcher-wave-cleanframe-tigris",
    "firstSeen": "2026-10-22T17:39:34+08:00"
+  },
+  {
+   "id": "9d78721f18",
+   "title": "Snapintosh：开源虚拟化监控层让 macOS 27 跑在高通骁龙 X2 Elite 笔记本上，还自写了 Adreno 显卡 Metal 驱动",
+   "summary": "开发者 Acelogic 10 月 22 日开源 Snapintosh，在华硕 Zenbook A16（骁龙 X2 Elite）上以 EL2 虚拟化监控层的方式，原样运行苹果官方 macOS 27 内核并启动到桌面。项目为高通 Adreno X2-90 显卡从零写了 Metal 驱动插件、IOGPU 内核扩展和把苹果 AIR 着色器翻译成 Mesa ir3 的编译器，GPU 加速渲染已通过测试，键盘、触控板手势和内置 NVMe 都能用，Wi-Fi 部分可用，音频、摄像头、蓝牙、睡眠暂不支持；配套的 q1n1 引导工具派生自 Asahi Linux 的 m1n1。上线数小时已有 200 多星。Windows on ARM 笔记本跑 macOS 的「骁龙黑苹果」话题可能持续发酵，相关的兼容性清单、教程和硬件选购内容会有流量，但要注意苹果许可协议风险。",
+   "links": [
+    "https://github.com/Acelogic/Snapintosh",
+    "https://github.com/Acelogic/q1n1"
+   ],
+   "topic": "snapintosh-macos-on-snapdragon-x2",
+   "firstSeen": "2026-10-22T17:59:42+08:00"
+  },
+  {
+   "id": "32f627fe97",
+   "title": "Zod 作者开源 Reylo：在 TypeScript 里直接 import .sql 文件，自动推断查询结果类型，无需代码生成",
+   "summary": "Zod 作者 Colin McDonnell（colinhacks）10 月 21 日开源 Reylo（MIT 协议，Rust 编写），利用 TypeScript 7.1 测试版新增的「内容映射器」功能，让开发者把 .sql 文件当模块导入，参数和返回行的类型直接从 SQL 推出并对照真实数据库校验，拼错列名或删表都会在 tsc 和编辑器里报错。作者强调它适合「智能体时代」：每条事实只存在一处，AI 改代码时不会留下过期类型。一天多已有 200 多星。TypeScript 7 新编译器带来的「任意文件类型化」可能催生一批类似工具，针对 GraphQL、CSV、配置文件的类型插件和迁移教程都有机会。",
+   "links": [
+    "https://github.com/colinhacks/reylo",
+    "https://reylo.dev"
+   ],
+   "topic": "reylo-typed-sql-imports-ts71",
+   "firstSeen": "2026-10-22T17:59:42+08:00"
+  },
+  {
+   "id": "3a0194db69",
+   "title": "开源 Claude 技能把文章一键排成小红书 3:4 轮播图：20 个界面风母版、浅色深色两版，一天 200 星",
+   "summary": "开发者 helloianneo 10 月 21 日开源 ian-xhs-carousel（MIT 协议），这是一个 Claude Code 技能：把文章、案例或笔记交给它，先出分镜表让你确认每页内容和母版，再渲染成 1080×1440 的小红书图文 PNG，附总览图和可改的 HTML 源文件。内置封面、步骤、对比、截图标注、数据指标、提示词、代码等 20 个简洁产品界面风母版，适合做 AI、产品、效率工具内容的博主。上线约一天已有 200 多星。「内容一稿多发 + 平台专属排版」的 AI 技能需求明显，可延伸出抖音封面、公众号长图、LinkedIn 轮播等同类技能包或付费模板。",
+   "links": [
+    "https://github.com/helloianneo/ian-xhs-carousel"
+   ],
+   "topic": "xhs-carousel-claude-skill",
+   "firstSeen": "2026-10-22T17:59:42+08:00"
   }
  ],
- "lastChecked": "2026-10-22T17:39:34+08:00"
+ "lastChecked": "2026-10-22T17:59:42+08:00"
 }
