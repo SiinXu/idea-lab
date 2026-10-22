@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T22:31:05+08:00",
+ "lastUpdated": "2026-10-22T22:57:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19176,7 +19176,29 @@
    ],
    "topic": "cash-app-identity-theft-arrest",
    "firstSeen": "2026-10-22T22:31:05+08:00"
+  },
+  {
+   "id": "119838ced5",
+   "title": "pwn.watch 上线：实时追踪正在被攻击的安全事件，还给 AI 智能体准备了 llms.txt 和 JSON 接口",
+   "summary": "Hacker News 首页新项目 pwn.watch 把正在发生的安全事件（CVE、在野利用、供应链投毒等）按时间倒序汇总，标注补丁状态（已修复、部分修复、未修复）和严重程度，目前收录 35 个进行中事件、156 个历史事件；提供 RSS、JSON、llms.txt 和「复制给智能体的说明」，可让 AI 编程助手直接检查项目是否受影响，并出售每月 149 美元的赞助位。机会点：面向开发者的漏洞影响自查智能体插件、中文版安全事件速报、按技术栈订阅的告警服务。",
+   "links": [
+    "https://pwn.watch/",
+    "https://news.ycombinator.com/item?id=50195543"
+   ],
+   "topic": "pwn-watch-live-security-incidents",
+   "firstSeen": "2026-10-22T22:57:06+08:00"
+  },
+  {
+   "id": "5b5481a79f",
+   "title": "The Last Museum：用自然语言语义搜索全球大博物馆 600 多万件藏品，从公元前 3000 年到 2026 年",
+   "summary": "Hacker News 上的新项目 The Last Museum 汇集多家大型博物馆的开放藏品（首页显示 6,308,174 件），支持用「日本木刻版画里的鸟」「超现实主义的梦」这类自然语言描述搜索作品，并可按年代、艺术家、文化筛选。机会点：用公开藏品数据做设计灵感检索、AI 配图与情绪板工具、按主题生成的艺术教育内容。",
+   "links": [
+    "https://lastmuseum.com/",
+    "https://news.ycombinator.com/item?id=50194522"
+   ],
+   "topic": "last-museum-semantic-art-search",
+   "firstSeen": "2026-10-22T22:57:06+08:00"
   }
  ],
- "lastChecked": "2026-10-22T22:31:05+08:00"
+ "lastChecked": "2026-10-22T22:57:06+08:00"
 }
