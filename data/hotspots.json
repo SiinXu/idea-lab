@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T00:59:40+08:00",
+ "lastUpdated": "2026-10-23T01:25:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19263,7 +19263,18 @@
    ],
    "topic": "arc-browser-sunset",
    "firstSeen": "2026-10-23T00:59:40+08:00"
+  },
+  {
+   "id": "5943c7c75f",
+   "title": "GNU Taler 将在德国落地：成立 Taler Operations AG，申请 BaFin 电子货币牌照",
+   "summary": "GNU Taler 项目 10 月 22 日发文宣布，在德国波鸿成立新公司 Taler Operations AG，作为以欧元运营 Taler 的受监管主体，下一步向德国金融监管局 BaFin 申请电子货币发行（EMI）牌照，先在德国、再向欧元区推广。Taler 是开源、注重隐私的支付系统（对付款人匿名、对收款方可审计），原计划由 GLS Bank 担任发行方，但 GLS 于 2026 年 1 月退出该角色，新公司将接替，并欢迎支持者以投资者身份参与。消息已登上 Hacker News。机会点：隐私支付与欧洲数字支付主权的科普内容、面向开源项目/独立开发者的 Taler 收款插件、对比数字欧元与 Taler 的分析。",
+   "links": [
+    "https://www.taler.net/en/news/2026-13.html",
+    "https://news.ycombinator.com/item?id=50197404"
+   ],
+   "topic": "gnu-taler-germany-emi",
+   "firstSeen": "2026-10-23T01:25:00+08:00"
   }
  ],
- "lastChecked": "2026-10-23T00:59:40+08:00"
+ "lastChecked": "2026-10-23T01:25:00+08:00"
 }
