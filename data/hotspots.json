@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T07:46:49+08:00",
+ "lastUpdated": "2026-10-22T08:01:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18437,7 +18437,18 @@
    ],
    "topic": "designers-skip-figma-ai-coding-2026-10",
    "firstSeen": "2026-10-22T07:46:49+08:00"
+  },
+  {
+   "id": "717dec8dca",
+   "title": "Mirendil 发布 Mirendil-Base：一名研究员带着 AI 智能体，3.5 个月、不到 1000 万美元从零预训练出编码大模型",
+   "summary": "前 Anthropic、DeepMind 研究员 Behnam Neyshabur 创办的 Mirendil 10 月 21 日公布首个预训练模型 Mirendil-Base（参数量 1000 亿到 5000 亿区间）：从空仓库起步，只用公开的 GitHub 代码、网页和公开数据集，没有蒸馏、没有购买数据，AI 智能体写了 99% 以上的代码并负责跑实验、排查故障，研究员只决定做什么、信什么。公司称它在内部编码指标上超过 GLM-5.3 和 DeepSeek-V4-Pro-Base，更大的 Large 和 XL 版本仍在训练，后训练基准、独立评测和 API 稍后公布。「一个人加智能体顶一个预训练团队」在 X 上引发热议。",
+   "links": [
+    "https://mirendil.com/news/pretraining-at-scale-without-a-pretraining-team/",
+    "https://x.com/i/trending/2112977628105703829"
+   ],
+   "topic": "mirendil-base-one-researcher-pretraining-2026-10",
+   "firstSeen": "2026-10-22T08:01:28+08:00"
   }
  ],
- "lastChecked": "2026-10-22T07:46:49+08:00"
+ "lastChecked": "2026-10-22T08:01:28+08:00"
 }
