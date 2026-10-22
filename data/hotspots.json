@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T16:08:12+08:00",
+ "lastUpdated": "2026-10-22T16:22:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18859,7 +18859,17 @@
    ],
    "topic": "omnara-open-source-managed-agents",
    "firstSeen": "2026-10-22T16:08:12+08:00"
+  },
+  {
+   "id": "49d63c7e00",
+   "title": "X 热议：把 10 万款 Steam 游戏描述做成向量地图，用 Claude 在「空白区」批量生成原创游戏点子",
+   "summary": "一位开发者把约 10 万款 Steam 游戏的简介和标签嵌入语义向量空间，再挑选离现有游戏最远的点，让 Claude Opus 据此生成新游戏概念并按独特程度排序，完整流程和结果分享后在 X 上走热，不少人自己跑了一遍。也有质疑：Roblox 前技术负责人 John Shedletsky 指出这只是在已有人类作品之间找缝隙，并不等于真正的原创；Ludo.ai 等工具已在商业化类似做法。这种「用数据找蓝海、再让 AI 出方案」的方法同样适用于 App、SaaS、内容选题，可做成选题雷达或创意生成工具。",
+   "links": [
+    "https://x.com/i/trending/2113180230483587080"
+   ],
+   "topic": "steam-embedding-gap-game-ideas",
+   "firstSeen": "2026-10-22T16:22:55+08:00"
   }
  ],
- "lastChecked": "2026-10-22T16:08:12+08:00"
+ "lastChecked": "2026-10-22T16:22:55+08:00"
 }
