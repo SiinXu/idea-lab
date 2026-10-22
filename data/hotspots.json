@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T02:32:19+08:00",
+ "lastUpdated": "2026-10-23T02:40:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19335,7 +19335,19 @@
    ],
    "topic": "nvidia-openshell-agent-runtime",
    "firstSeen": "2026-10-23T02:32:19+08:00"
+  },
+  {
+   "id": "1f1b14f4d8",
+   "title": "高盛上调 AI 失业冲击预估：约 9% 美国劳动者（约 1500 万人）将被迫换岗，此前预估为 6%–7%",
+   "summary": "高盛全球经济团队负责人 Joseph Briggs 10 月 22 日在高盛访谈节目和《财富》报道中给出新数字：假设 AI 全面普及后生产率提升 15%，按历史上「技术带来的生产率增长 vs. 岗位消失」的关系推算，约 9% 的美国劳动者（约 1500 万人）会在大约十年的过渡期内失去原岗位、需要重新找工作，高于此前 6%–7% 的估计。他说影响已经出现：在科技、管理咨询、平面设计等行业，AI 每月让新增就业少 1 万到 1.5 万个；但只要冲击摊在多年里，每年失业率上升会低于 1 个百分点，峰值约 0.6 个百分点。受冲击最大的是白领和入门岗位，《财富》认为真正的冲击可能要等下一次经济衰退时集中出现。高盛仍认为影响是暂时的：过去 80 年美国约 85% 的就业增长来自原本不存在的新职业。机会点：面向被替代白领的转岗培训与 AI 技能课程、「哪些岗位会被 AI 影响」的自查工具，以及给企业做 AI 转型中的人员重新配置咨询。",
+   "links": [
+    "https://fortune.com/2026/10/22/goldman-sachs-forecast-how-many-jobs-lost-to-ai-9-percent/",
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-will-ai-impact-the-labor-market",
+    "https://x.com/i/trending/2113335041560621446"
+   ],
+   "topic": "goldman-ai-displace-9pct-workers",
+   "firstSeen": "2026-10-23T02:40:09+08:00"
   }
  ],
- "lastChecked": "2026-10-23T02:32:19+08:00"
+ "lastChecked": "2026-10-23T02:40:09+08:00"
 }
