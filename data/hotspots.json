@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T18:16:07+08:00",
+ "lastUpdated": "2026-10-22T18:24:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18954,7 +18954,19 @@
    ],
    "topic": "openai-php2shell-checker-codex-skill-2026-10",
    "firstSeen": "2026-10-22T18:16:07+08:00"
+  },
+  {
+   "id": "b532d00ad0",
+   "title": "Go 紧急给 crypto/x509 加「不可信中间证书」黑名单：CVE-2026-111943 涉及已被攻破的中间 CA，Go 1.26.10 / 1.27.3 修复",
+   "summary": "Go 团队 10 月 21 日披露 CVE-2026-111943：一批中间证书颁发机构（CA）的证书已不再可信，多数平台会通过系统根证书库自动跟进，但在少数系统信任库不会自动更新的场景下仍有风险，因此 Go 直接在 crypto/x509 的 Certificate.Verify 中内置黑名单，遇到这些中间证书会直接报错。受影响版本为 Go 1.26.10 之前和 1.27.0–1.27.2，需升级到 1.26.10 或 1.27.3。该消息登上 Hacker News 首页、1.5 小时近 90 分。中间 CA 失陷意味着可能被签发假冒证书，用 Go 写的服务端、CLI 和容器镜像（常带过时的信任库）都应尽快排查。可延伸的机会：给团队做「依赖与信任库一键体检」脚本或智能体技能，批量扫描仓库和镜像中的 Go 版本与 CA 包。",
+   "links": [
+    "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+    "https://pkg.go.dev/vuln/GO-2026-6809",
+    "https://news.ycombinator.com/item?id=50192900"
+   ],
+   "topic": "go-cve-2026-111943-compromised-intermediate-ca",
+   "firstSeen": "2026-10-22T18:24:47+08:00"
   }
  ],
- "lastChecked": "2026-10-22T18:16:07+08:00"
+ "lastChecked": "2026-10-22T18:24:47+08:00"
 }
