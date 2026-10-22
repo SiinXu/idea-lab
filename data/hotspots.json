@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T03:44:12+08:00",
+ "lastUpdated": "2026-10-23T03:54:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19424,7 +19424,29 @@
    ],
    "topic": "typeui-micro-interaction-prompts",
    "firstSeen": "2026-10-23T03:44:12+08:00"
+  },
+  {
+   "id": "cdc8ebf8ea",
+   "title": "布里斯托大学让「迷你脑类器官」读盲文：三个类器官组队识别准确率 83%，生物混合计算再进一步",
+   "summary": "Frontiers in Artificial Intelligence 新论文：研究团队把真实触觉传感器记录的盲文字母信号转换后输入前脑类器官，再从类器官的响应中解码字母。单个类器官的可解码准确率约 61%，三个类器官组队提升到 83%，且在信号加噪时比直接解码更稳。作者认为这为把人工传感器接入生物神经网络、走向更节能的「生物混合计算」提供了可行路径，登上 HN。",
+   "links": [
+    "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
+    "https://news.ycombinator.com/item?id=50197450"
+   ],
+   "topic": "brain-organoids-braille-biohybrid",
+   "firstSeen": "2026-10-23T03:54:16+08:00"
+  },
+  {
+   "id": "9eefcb402c",
+   "title": "高中生从零手写 10 万行 3D 开放世界游戏 Hedra 开源上 HN，作者特意标注「AI 之前」分支",
+   "summary": "开发者 maxilevi 把自己高中时期用 C# 从零编写的 3D 开放世界游戏 Hedra（代码量超过 10 万行）开源，HN 上链接直接指向名为 pre-ai 的分支，强调这是 AI 编程工具普及前纯手写的作品。帖子在 HN 首页约 1 小时获得数十分，引发对「手写代码作品集价值」与 AI 时代独立游戏开发的讨论。",
+   "links": [
+    "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+    "https://news.ycombinator.com/item?id=50199389"
+   ],
+   "topic": "hedra-highschool-open-world-game",
+   "firstSeen": "2026-10-23T03:54:16+08:00"
   }
  ],
- "lastChecked": "2026-10-23T03:44:43+08:00"
+ "lastChecked": "2026-10-23T03:54:16+08:00"
 }
