@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T21:44:50+08:00",
+ "lastUpdated": "2026-10-22T21:59:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19093,7 +19093,38 @@
    ],
    "topic": "steam-next-fest-oct-2026-ai-flood",
    "firstSeen": "2026-10-22T21:44:50+08:00"
+  },
+  {
+   "id": "2f455c6e78",
+   "title": "eMudhra 宣布退出全球 SSL/TLS 证书业务：私钥泄露事件后这家 CA 直接撤离",
+   "summary": "10 月 22 日，印度 CA 机构 eMudhra 在孟买证券交易所发布公告，宣布退出全球 SSL/TLS 证书业务，转而专注企业解决方案和 SSL/TLS 以外的信任服务。此前其 8 张中级 CA 私钥被曝竟是小整数、遭 Chrome、Firefox、苹果等紧急拉黑。Hacker News 讨论热烈，网友调侃「你不能开除我，我辞职了」。仍在使用 eMudhra 证书的网站需尽快迁移；可关注证书迁移检测、证书供应商风险监控等工具机会。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50194909",
+    "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
+   ],
+   "topic": "emudhra-exit-ssl-tls-business",
+   "firstSeen": "2026-10-22T21:59:40+08:00"
+  },
+  {
+   "id": "a7e1b8bab2",
+   "title": "华邮-ABC-Ipsos 民调：57% 美国人认为 AI 对社会有害，三分之二反对在附近建数据中心",
+   "summary": "《华盛顿邮报》、ABC 新闻与 Ipsos 于 10 月 9–13 日调查 2545 名美国成年人：57% 认为 AI 对社会整体有害，42% 认为有益；对个人生活的影响看法接近五五开（50% 好、49% 坏）。约三分之二反对新建数据中心（尤其在自家附近），并希望加强联邦监管，担心失业、黑客攻击和失去独立性；年轻人、民主党和独立派最为担忧。注意：以上为 X 上讨论的汇总，数字未逐一核实；面向大众的 AI 产品需更重视信任与透明度叙事。",
+   "links": [
+    "https://x.com/i/trending/2113265801503342721"
+   ],
+   "topic": "wapo-abc-ipsos-ai-poll-oct-2026",
+   "firstSeen": "2026-10-22T21:59:40+08:00"
+  },
+  {
+   "id": "bce70f8280",
+   "title": "「说 AI 写不好代码的人，自己就写不好代码」引爆争论：JetBrains 调研称愿让 AI 写业务逻辑的开发者一年内从 18% 升到 50%",
+   "summary": "一条「每当有人说 AI 写不好代码，我就知道他自己写不好代码」的帖子在 X 上引发开发者大讨论。讨论引用 JetBrains 调研：愿意让 AI 处理应用逻辑的开发者从 2025 年中的 18% 升至一年后的 50%，让 AI 写测试的比例达 75%，但 37% 担心岗位需求减少；德国开发者群体抵触明显。共识是价值正从敲代码转向系统设计、排错和审查。注意：以上为 X 上讨论的汇总，数据未逐一核实；可关注 AI 代码审查培训、提示与评审技能课程等机会。",
+   "links": [
+    "https://x.com/i/trending/2113263489557086522"
+   ],
+   "topic": "ai-coding-skill-gap-debate-jetbrains",
+   "firstSeen": "2026-10-22T21:59:40+08:00"
   }
  ],
- "lastChecked": "2026-10-22T21:44:50+08:00"
+ "lastChecked": "2026-10-22T21:59:40+08:00"
 }
