@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T03:09:03+08:00",
+ "lastUpdated": "2026-10-23T03:25:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19380,7 +19380,29 @@
    ],
    "topic": "ai-culture",
    "firstSeen": "2026-10-23T03:09:03+08:00"
+  },
+  {
+   "id": "82bd7bf244",
+   "title": "马斯克约 10 亿美元入股 Skydance：刚吞下华纳兄弟探索的新传媒巨头背着近 800 亿美元债务找钱",
+   "summary": "CNBC 援引知情人士称，马斯克向 Skydance 投资约 10 亿美元（Semafor 首发）。Paramount 已于 10 月 6 日完成对华纳兄弟探索（WBD）的收购，合并后公司命名为 Skydance，由 David Ellison 与 Ynon Kreiz 任联席 CEO，计划三年节省 60 亿美元成本，但背负近 800 亿美元债务，正在广泛募集股权投资。Larry Ellison 曾出资 10 亿美元支持马斯克收购 Twitter，两家关系由来已久。",
+   "links": [
+    "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
+    "https://news.ycombinator.com/item?id=50199190"
+   ],
+   "topic": "musk-skydance-investment",
+   "firstSeen": "2026-10-23T03:25:23+08:00"
+  },
+  {
+   "id": "2589c810d7",
+   "title": "医检巨头 Quest Diagnostics 遭入侵：攻击者访问了部分患者记录，已向 SEC 提交 8-K 披露",
+   "summary": "Quest Diagnostics 周三发现系统遭「未经授权访问」，周四提交 SEC 8-K 文件。被入侵的是客户用来下单和查看检测结果的 Quanum Lab Services Manager，公司认为攻击者访问了部分患者记录，范围仍在调查，并已联系执法部门，称业务运营未受实质影响。事件发生在 PHP 严重漏洞被大规模利用的同一周，Cloudflare CEO 称攻击尝试已达数百万次，医疗行业安全再受关注。",
+   "links": [
+    "https://gizmodo.com/quest-diagnostics-reports-unauthorized-access-of-patient-records-2000829419",
+    "https://news.ycombinator.com/item?id=50198653"
+   ],
+   "topic": "quest-diagnostics-breach",
+   "firstSeen": "2026-10-23T03:25:23+08:00"
   }
  ],
- "lastChecked": "2026-10-23T03:09:03+08:00"
+ "lastChecked": "2026-10-23T03:25:23+08:00"
 }
