@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T07:13:32+08:00",
+ "lastUpdated": "2026-10-23T07:26:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19604,7 +19604,37 @@
    ],
    "topic": "distributed-cognition-launch-2026-10",
    "firstSeen": "2026-10-23T07:13:32+08:00"
+  },
+  {
+   "id": "33bdc9cfc0",
+   "title": "a16z 把加密部门改名 a16z Frontier：投资范围扩到 AI、自主系统等前沿科技",
+   "summary": "Andreessen Horowitz 将旗下加密基金部门更名为 a16z Frontier，在继续投加密的同时扩展到 AI、自主系统等前沿技术。Marc Andreessen 在与 Chris Dixon、Ben Horowitz 的播客中表示，AI 原生创业者对技术每周进展的理解远超大公司，许多行业都“可以被重新争夺”；员工采用 AI 的速度也快过组织本身，个人创业门槛前所未有地低，预计将迎来新一轮创业潮。",
+   "links": [
+    "https://x.com/i/trending/2113407071307857947"
+   ],
+   "topic": "a16z-frontier-rebrand-2026-10",
+   "firstSeen": "2026-10-23T07:26:13+08:00"
+  },
+  {
+   "id": "fb0d777304",
+   "title": "Uber 向全部 3 万名员工推出 ChatGPT Work：试点中一个 150 城市流程从 15 小时缩到 30 分钟",
+   "summary": "在 1000 人试点（其中 80% 是非工程师）成功后，Uber 将 OpenAI 的 ChatGPT Work 推向全公司。这个 AI 代理能完成调研、数据分析、做演示文稿等多步骤任务，并接入 Google Drive、Gmail、Slack 和日历，默认模型为 GPT-6.1 Sol。Uber CTO Praveen Neppalli 与 OpenAI 的 Greg Brockman 都发文庆祝，企业级 AI 代理正从试点走向全员部署。",
+   "links": [
+    "https://x.com/i/trending/2113344431864557714"
+   ],
+   "topic": "uber-chatgpt-work-rollout-2026-10",
+   "firstSeen": "2026-10-23T07:26:13+08:00"
+  },
+  {
+   "id": "99fadebe77",
+   "title": "AI 让人更聪明还是更笨？中国 2.6 万名学生研究：作业成绩升 18%，闭卷考试却降 20%",
+   "summary": "彭博专栏作者 Joe Weisenthal 在 X 上称 AI 让他身边的人读得更多、讨论更深，把它类比为文字对古希腊哲学的推动，引发大讨论。反方引用一项覆盖 2.6 万名中国学生的研究：用 AI 后作业得分提升 18%、速度快 30%，但闭卷考试成绩下降 20%，高利害考试降 18%–24%，社科类尤其明显。支持者认为 AI 加速了主动学习者，批评者则担心普通用户的能力被掏空。",
+   "links": [
+    "https://x.com/i/trending/2113384944802344967"
+   ],
+   "topic": "ai-learning-debate-students-study-2026-10",
+   "firstSeen": "2026-10-23T07:26:13+08:00"
   }
  ],
- "lastChecked": "2026-10-23T07:13:32+08:00"
+ "lastChecked": "2026-10-23T07:26:13+08:00"
 }
