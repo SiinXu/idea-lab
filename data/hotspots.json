@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T02:40:09+08:00",
+ "lastUpdated": "2026-10-23T02:53:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19347,7 +19347,18 @@
    ],
    "topic": "goldman-ai-displace-9pct-workers",
    "firstSeen": "2026-10-23T02:40:09+08:00"
+  },
+  {
+   "id": "e415a1099b",
+   "title": "AI 读心脏 CT 发现「隐形风险」：美国首个 CaRi-Heart 研究称 42.9% 无症状低风险成年人有冠状动脉炎症",
+   "summary": "预防医学诊所 Biograph 与 Caristo Diagnostics 完成首个美国研究：用 AI 分析冠脉 CT 血管造影中的血管周围脂肪信号，在无症状、传统指标低风险的人群里发现 42.9% 存在冠脉炎症，17.9% 为极高炎症；约 47% 完全没有斑块的人也有炎症升高，常规血检和风险评分都看不出来。该话题登上 HN 首页，AI 影像+高端预防体检的商业模式受到关注，但样本来自付费会员，结论仍需更大规模验证。",
+   "links": [
+    "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+    "https://news.ycombinator.com/item?id=50198940"
+   ],
+   "topic": "ai-health",
+   "firstSeen": "2026-10-23T02:53:02+08:00"
   }
  ],
- "lastChecked": "2026-10-23T02:40:09+08:00"
+ "lastChecked": "2026-10-23T02:53:02+08:00"
 }
