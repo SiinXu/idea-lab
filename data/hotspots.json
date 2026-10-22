@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T09:59:18+08:00",
+ "lastUpdated": "2026-10-22T10:24:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -18569,7 +18569,19 @@
    ],
    "topic": "airbnb-checkout-chores-ban",
    "firstSeen": "2026-10-22T09:59:18+08:00"
+  },
+  {
+   "id": "f6d022ddce",
+   "title": "让两个 LLM 组队打宝可梦双打：开源多智能体环境测试 AI 队友能否沟通、分工和纠错",
+   "summary": "研究者 Oliver Grabner 基于 Pokémon Showdown 2v2 双打格式搭建多智能体环境，让两个模型作为队友在每回合先用聊天商量再出招，用来衡量 LLM 在协作、谈判和互相纠错上的能力，而不是常见的流水线式分工。演示里两个 Qwen3.8-27B 队友会分配攻击目标，还会纠正对方的属性克制判断。代码已在 GitHub 开源，并附带可回放的对战与队内聊天记录，刚登上 Hacker News。",
+   "links": [
+    "https://olivergrabner.com/research/pokemon/",
+    "https://github.com/OliverGrabner/multi-agent-poke-showdown",
+    "https://news.ycombinator.com/item?id=50190334"
+   ],
+   "topic": "agents",
+   "firstSeen": "2026-10-22T10:24:23+08:00"
   }
  ],
- "lastChecked": "2026-10-22T09:59:18+08:00"
+ "lastChecked": "2026-10-22T10:24:23+08:00"
 }
