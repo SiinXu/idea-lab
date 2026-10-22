@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T19:23:02+08:00",
+ "lastUpdated": "2026-10-22T19:46:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19010,7 +19010,18 @@
    ],
    "topic": "minotaur-reasoning-without-llm",
    "firstSeen": "2026-10-22T19:23:02+08:00"
+  },
+  {
+   "id": "93996ed076",
+   "title": "多个 Linux 内核高危漏洞被误发到公开邮件列表：含两个 CVSS 9.0 的 SMB 远程代码执行，主线尚未修复",
+   "summary": "Phoronix 10 月 22 日报道：趋势科技 Zero Day Initiative（ZDI）把一批 Linux 内核漏洞报告误发到公开的内核邮件列表（LKML），而不是私密的安全列表，内核二号人物 Greg Kroah-Hartman 已逐条回复询问。涉及 SMB Direct 整数下溢远程代码执行（ZDI-CAN-33549）和 KSMBD 竞态远程代码执行（ZDI-CAN-33774），两者 CVSS 均为 9.0；另有网络栈 skb_zerocopy、VMware 显卡驱动越界写导致的本地提权，以及 NVMET 信息泄露。多数尚未合入主线，补丁预计加速发布。启用 ksmbd 内核 SMB 服务的服务器和 NAS 应尽快关注；继 PHP2Shell 之后，这又是一起披露流程出错的事件，漏洞情报、补丁跟踪类服务需求持续升温。",
+   "links": [
+    "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+    "https://news.ycombinator.com/item?id=50193804"
+   ],
+   "topic": "linux-kernel-vulns-leaked-lkml",
+   "firstSeen": "2026-10-22T19:46:19+08:00"
   }
  ],
- "lastChecked": "2026-10-22T19:23:02+08:00"
+ "lastChecked": "2026-10-22T19:46:19+08:00"
 }
