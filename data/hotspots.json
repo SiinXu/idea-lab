@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T07:26:13+08:00",
+ "lastUpdated": "2026-10-23T07:42:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19634,7 +19634,57 @@
    ],
    "topic": "ai-learning-debate-students-study-2026-10",
    "firstSeen": "2026-10-23T07:26:13+08:00"
+  },
+  {
+   "id": "6aed83044e",
+   "title": "Maxinsights 种子轮融资 3000 万美元：花钱请普通人戴摄像头做家务，给机器人攒真实世界训练数据",
+   "summary": "由 Waymo、Google、微软前员工创办的 Maxinsights 完成 3000 万美元种子轮，Peak XV 领投。公司雇普通人在真实家庭里戴第一视角摄像头做饭、打扫、洗车，已采集 200 多万小时视频，其中 150 万小时可直接用于训练机器人模型；新工具 MaxLoop 用于快速给视频打分，MaxGlove 采集抓握和力度数据，目标每月 45 万小时，已服务 30 多家客户。具身智能的“数据众包”正在成为独立赛道。",
+   "links": [
+    "https://x.com/i/trending/2113325562672337207"
+   ],
+   "topic": "maxinsights-robot-data-seed-2026-10",
+   "firstSeen": "2026-10-23T07:42:18+08:00"
+  },
+  {
+   "id": "d38e1ff6f7",
+   "title": "AI 穿搭 App Alta 完成 2000 万美元 A 轮：用户上传衣柜生成个人虚拟形象搭配，已生成 7 亿套穿搭",
+   "summary": "创始人 Jenny Wang 宣布 Alta 完成 2000 万美元 A 轮，Forerunner Ventures 领投，Menlo Ventures 等跟投。用户把自己的衣服拍照上传，App 在定制虚拟形象上生成搭配，至今已创建 2000 万个形象、7 亿套穿搭，用户每月上传的衣橱商品价值约 10 亿美元；它还为 Rent the Runway 等品牌提供工具，带来 35% 的互动提升。团队目前仅 10 人，资金将用于扩充 AI 基础设施和本地化。",
+   "links": [
+    "https://x.com/i/trending/2113384933112897865"
+   ],
+   "topic": "alta-ai-fashion-series-a-2026-10",
+   "firstSeen": "2026-10-23T07:42:18+08:00"
+  },
+  {
+   "id": "60659cc3d0",
+   "title": "美国财政部拟禁止美资投向中俄等国的“超级智能”AI：芯片、量子、高性能计算交易需申报",
+   "summary": "美国财政部提议扩大对外投资安全计划，禁止美国资本投资中国、俄罗斯、伊朗、朝鲜、古巴的“超级智能”AI 系统；半导体、量子、高性能计算、高超音速和生物技术相关交易须事先申报，公开交易股票和 5 万美元以下交易豁免。规则延续 2023 年行政令和 2025 年立法，意见征集截止 12 月 7 日。对涉华 AI 创业公司的美元融资影响值得关注。",
+   "links": [
+    "https://x.com/i/trending/2113393616165143032"
+   ],
+   "topic": "us-treasury-outbound-ai-ban-2026-10",
+   "firstSeen": "2026-10-23T07:42:18+08:00"
+  },
+  {
+   "id": "46ceec52a5",
+   "title": "SpaceX Super Intelligence 推出 Grok 合作伙伴网络：130 多家企业加入，创业项目可获 6–12 个月额度",
+   "summary": "SpaceX Super Intelligence 向全球 130 多家公司开放 Grok 工具，首批合作伙伴包括英伟达、贝恩、Databricks 和 Snowflake，分为帮助落地的“转型伙伴”和做集成的“市场伙伴”。配套的 Grok for Startups 计划为入选创始人提供 6–12 个月的 Grok 工具与 API 额度，并有一比一配额匹配；同时与印度 Tech Mahindra 合作，改造银行、医疗、电信的老旧软件。",
+   "links": [
+    "https://x.com/i/trending/2113322636885303671"
+   ],
+   "topic": "spacexsi-grok-partner-network-2026-10",
+   "firstSeen": "2026-10-23T07:42:18+08:00"
+  },
+  {
+   "id": "86c1d89bb5",
+   "title": "IMF 警告 AI 投资泡沫：1.4 万亿美元“循环融资”，若崩盘 2028 年全球 GDP 或降 1.1%",
+   "summary": "投资人 Chris Camillo 在 X 上指出一个反差：造 AI 的科技创始人押注数千亿美元，而大多跑不赢指数的投资者却在喊泡沫。国际货币基金组织则警告估值过高、约 1.4 万亿美元的循环融资等风险，称若投资崩盘，2028 年全球 GDP 可能下降 1.1%。不少网友反驳说，人人都在谨慎恰恰说明还不是真泡沫。",
+   "links": [
+    "https://x.com/i/trending/2113331934700978271"
+   ],
+   "topic": "imf-ai-bubble-circular-financing-2026-10",
+   "firstSeen": "2026-10-23T07:42:18+08:00"
   }
  ],
- "lastChecked": "2026-10-23T07:26:13+08:00"
+ "lastChecked": "2026-10-23T07:42:18+08:00"
 }
