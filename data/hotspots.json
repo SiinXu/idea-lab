@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-22T20:30:08+08:00",
+ "lastUpdated": "2026-10-22T20:56:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19041,7 +19041,19 @@
    ],
    "topic": "xbox-cloud-playtime-hourly-pricing",
    "firstSeen": "2026-10-22T20:30:08+08:00"
+  },
+  {
+   "id": "c50dc3acce",
+   "title": "蚂蚁开源模型 Ling-3.1-flash-1019 更新版在 Artificial Analysis 智能指数升到 44 分：智能体实战测试明显进步",
+   "summary": "Artificial Analysis 10 月 22 日公布评测：蚂蚁集团 InclusionAI 的 Ling-3.1-flash 更新版（1019）智能指数从 10 月初的 41 分升到 44 分。X 上讨论集中在智能体类测试的提升：办公任务测试 AA-Briefcase 的 Elo 从 1400 升到 1524，自动化测试 AutomationBench-AA 从 62% 升到 68%。该模型为 5600 亿总参数、每次激活约 250 亿的混合专家架构，支持 100 万上下文，MIT 协议开源，原版定价每百万输入 0.30 美元、输出 0.90 美元，且输出速度约每秒 210 个 token。对做智能体、办公自动化和低成本私有部署的团队来说，国产开源模型在「性价比 + 实际干活能力」上的选择又多了一个。",
+   "links": [
+    "https://artificialanalysis.ai/changelog",
+    "https://x.com/i/trending/2113245462748897301",
+    "https://artificialanalysis.ai/models/ling-3-1-flash"
+   ],
+   "topic": "ant-ling-3-1-flash-1019-aa-index-44",
+   "firstSeen": "2026-10-22T20:56:12+08:00"
   }
  ],
- "lastChecked": "2026-10-22T20:30:08+08:00"
+ "lastChecked": "2026-10-22T20:56:12+08:00"
 }
