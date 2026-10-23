@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T21:59:59+08:00",
+ "lastUpdated": "2026-10-23T22:44:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20472,7 +20472,18 @@
    ],
    "topic": "afd-281gb-leak-ai-summaries",
    "firstSeen": "2026-10-23T21:59:59+08:00"
+  },
+  {
+   "id": "7755d563d5",
+   "title": "Kadoa“美国能源价格监测站”冲上 HN：投资者所有的电力公司比公营电力贵 23%",
+   "summary": "数据抓取公司 Kadoa 做了一个每周自动更新、在 GitHub 开源的“US Energy Price Monitor”，基于美国能源信息署（EIA）Form 861 和 BLS 通胀数据算出：2025 年美国家庭在投资者所有的电力公司每度电付 17.8 美分，公营电力 14.5 美分、合作社 14.1 美分；2020 年以来前者涨了 34%，公营只涨 19%，同期通胀 24%。48 个州里有 38 个州私营涨得比非营利快。站点提供图表、表格和可下载 CSV，发帖约 1 小时就拿到 200+ 分。这是“公开数据 + 自动更新 + 一句话结论”做成可传播数据站、顺带给自家抓取产品引流的典型打法。",
+   "links": [
+    "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+    "https://news.ycombinator.com/item?id=50208837"
+   ],
+   "topic": "kadoa-us-energy-price-monitor",
+   "firstSeen": "2026-10-23T22:44:40+08:00"
   }
  ],
- "lastChecked": "2026-10-23T21:59:59+08:00"
+ "lastChecked": "2026-10-23T22:44:40+08:00"
 }
