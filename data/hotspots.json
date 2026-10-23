@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T11:54:03+08:00",
+ "lastUpdated": "2026-10-23T12:13:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20034,7 +20034,29 @@
    ],
    "topic": "nasdaq-ai-capex-selloff-2026-10-22",
    "firstSeen": "2026-10-23T11:54:03+08:00"
+  },
+  {
+   "id": "80c278b628",
+   "title": "Artificial Analysis 发布编码智能体指数 2.0：Claude Code + Opus 5.5 以 61.7 分登顶，最便宜组合每题仅 0.39 美元",
+   "summary": "Artificial Analysis 推出 Coding Agent Index 2.0，按“模型 + 智能体框架”组合评测 290 个软件工程任务、终端操作和代码库问答，并新增基于开源仓库的 FrontierCode 基准、收紧问答评分，整体分数下调。Claude Code 搭配 Claude Opus 5.5（max）以 61.7 分第一，Sonnet 5.5 为 59.3 分，Muse Wonder Full 为 58.9 分。成本差距很大：Codex 搭配 DeepSeek V4.1 Flash 每个任务约 0.39 美元，Opus 5.5 约 11.42 美元，开发者正拿它来权衡性价比。",
+   "links": [
+    "https://x.com/i/trending/2113477158035153126",
+    "https://artificialanalysis.ai/agents/coding"
+   ],
+   "topic": "aa-coding-agent-index-2",
+   "firstSeen": "2026-10-23T12:13:40+08:00"
+  },
+  {
+   "id": "6b039c459f",
+   "title": "一张 CVE 曲线图刷屏：漏洞数多年平稳后自 2024 年起暴涨，2026 年前 9 个月约为 2025 年两倍，开发者直呼“累了”",
+   "summary": "工程师 calle 在 X 上转发 cve.0xosprey.com 的统计图：公开报告的软件漏洞数量多年基本持平，2024 年开始上升，2026 年急剧攀升，前 9 个月的 CVE 数量约为 2025 年同期的两倍。回复区一边吐槽遗留代码“没人看得懂、半坏不坏”，一边讨论原因：多数人认为 AI 扫描代码库远快于人工，挖出了大量高危漏洞；也有人指出报告机制完善和软件复杂度上升同样推高了数字。这与近期 Railway、PHP 等安全事件叠加，让“AI 时代安全运维”的焦虑继续发酵。",
+   "links": [
+    "https://x.com/i/trending/2113479003847766416",
+    "https://cve.0xosprey.com/"
+   ],
+   "topic": "cve-surge-chart-2026",
+   "firstSeen": "2026-10-23T12:13:40+08:00"
   }
  ],
- "lastChecked": "2026-10-23T11:54:03+08:00"
+ "lastChecked": "2026-10-23T12:13:40+08:00"
 }
