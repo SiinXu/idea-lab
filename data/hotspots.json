@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T13:39:55+08:00",
+ "lastUpdated": "2026-10-23T14:12:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20123,7 +20123,28 @@
    ],
    "topic": "anthropic-clinton-cyber-18-months-2026-10",
    "firstSeen": "2026-10-23T13:39:55+08:00"
+  },
+  {
+   "id": "dddd8f7dc0",
+   "title": "Gladstone AI CEO Jeremie Harris 警告：前沿 AI 驱动的自动化网络攻击可能让互联网“暂时消失”",
+   "summary": "Gladstone AI 首席执行官 Jeremie Harris 发出警告：前沿 AI 正在以超过修补速度的方式发现并利用软件漏洞，自动化网络攻击可能压垮防御，让互联网在一段时间内“不复存在”。他援引近期 AI 工具挖出的影响三分之二以上网站的 PHP 严重漏洞（部分欧洲政府曾临时下线官网），以及 2026 年 CVE 披露量翻倍的数据。X 上反应两极：有人警觉，有人调侃“社交媒体终于重置”，也有人质疑互联网韧性被低估。该话题与 Altman、Anthropic 副 CISO 的近期安全警告形成叠加效应。",
+   "links": [
+    "https://x.com/i/trending/2113488180561486101"
+   ],
+   "topic": "gladstone-harris-internet-vanish-cyber-2026-10",
+   "firstSeen": "2026-10-23T14:12:34+08:00"
+  },
+  {
+   "id": "83f518aa3a",
+   "title": "Cognition CEO Scott Wu 心算卡牌挑战爆火：与 GPT-6 Astra 比速度，并上线“打败 Wu”小游戏当招聘入口",
+   "summary": "Devin 背后公司 Cognition 的 CEO Scott Wu（三届 IOI 金牌、Codeforces 顶尖选手）发布视频：洗牌后用所有牌面数字在几秒内凑出 2025 等四位数目标，成绩与 GPT-6 Astra 等顶级模型不相上下，个别题目被模型反超。视频随后被做成网页游戏 beatwu.fun，目标是打败他 13.2 秒的纪录，排行榜前列玩家可能获得 Cognition 面试机会。X 上既有人惊叹其天赋，也有人认为心算快不代表领导力。这是“病毒式小游戏 + 招聘漏斗”的典型增长玩法。",
+   "links": [
+    "https://x.com/i/trending/2113192534696759746",
+    "https://beatwu.fun/"
+   ],
+   "topic": "scott-wu-beatwu-card-challenge-2026-10",
+   "firstSeen": "2026-10-23T14:12:34+08:00"
   }
  ],
- "lastChecked": "2026-10-23T13:39:55+08:00"
+ "lastChecked": "2026-10-23T14:12:34+08:00"
 }
