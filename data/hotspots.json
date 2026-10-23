@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T08:15:55+08:00",
+ "lastUpdated": "2026-10-23T08:27:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19746,7 +19746,67 @@
    ],
    "topic": "ai-cleans-legacy-code-debate",
    "firstSeen": "2026-10-23T08:15:55+08:00"
+  },
+  {
+   "id": "0bc4606a8e",
+   "title": "Ideogram 发布首个可编辑矢量模型：文字直接生成分层 SVG，可拖进 Figma / Illustrator 继续改",
+   "summary": "Ideogram 10 月 22 日上线矢量模型，可从提示词生成或把位图转换成干净的分层 SVG，渐变、字体和组件都可单独编辑，适合 Logo、插画和品牌素材。已在 Ideogram 平台和 API 开放，设计师普遍认为这是 AI 出图走向“可直接交付”的一步。",
+   "links": [
+    "https://x.com/i/trending/2113310068741456011"
+   ],
+   "topic": "ideogram-vector-svg-model",
+   "firstSeen": "2026-10-23T08:27:49+08:00"
+  },
+  {
+   "id": "66faf692ff",
+   "title": "Claude + Theorem Labs 为 123 个开源库生成形式化证明：1.8 亿行证明，揪出多年模糊测试漏掉的 Bug",
+   "summary": "Anthropic 与 Theorem Labs 用 Claude 对 123 个开源库、239 个 RISC-V 二进制入口做形式化验证，机器可检查地证明 64MB 以内输入不会崩溃或出现内存问题，还发现了长期模糊测试没找到的缺陷。Theorem Labs 同步推出面向开源维护者的免费服务 OSS Verify。",
+   "links": [
+    "https://x.com/i/trending/2113401786014802192"
+   ],
+   "topic": "claude-theorem-labs-oss-verify",
+   "firstSeen": "2026-10-23T08:27:49+08:00"
+  },
+  {
+   "id": "95bfc1e0c1",
+   "title": "前 OpenAI 高管 Kevin Weil 创办 Warp Sciences：2.15 亿美元 A 轮，用 AI + 机器人自动化实验室加速新药研发",
+   "summary": "Warp Sciences 走出隐身，Lightspeed 领投 2.15 亿美元 A 轮，投后估值 8.65 亿美元，联合创始人包括前美国首席数据科学家 DJ Patil。公司计划在南旧金山建全天候运行的自动化化学实验室，为药企提供临床前服务，减少对海外化学外包的依赖。",
+   "links": [
+    "https://x.com/i/trending/2113301040993042607"
+   ],
+   "topic": "warp-sciences-weil-215m",
+   "firstSeen": "2026-10-23T08:27:49+08:00"
+  },
+  {
+   "id": "10365e1f05",
+   "title": "Wes Bos 开源 iPhone 扫房间工作流：LiDAR + 照片交给 AI 逐个物体重建可编辑 3D 模型",
+   "summary": "开发者 Wes Bos 分享用 iPhone LiDAR 扫描房间并拍照，再让 AI 按物体逐个建模、用照片比对循环校验，得到可拖动摆放的精确 3D 房间，可用于家具规划、房屋展示甚至游戏。iPhone App、Three.js 查看器和完整教程已开源在 GitHub 和 YouTube。",
+   "links": [
+    "https://x.com/i/trending/2113313212502626476"
+   ],
+   "topic": "wes-bos-iphone-lidar-3d-room",
+   "firstSeen": "2026-10-23T08:27:49+08:00"
+  },
+  {
+   "id": "b8fe185fbe",
+   "title": "黄仁勋 GTC 柏林台上的机器小鸭子走红：Hugging Face 旗下 Microduck 预订逼近 2 万台",
+   "summary": "Pollen Robotics（Hugging Face 旗下）的 25 厘米双足机器人 Microduck 登上 GTC 柏林主题演讲，黄仁勋现场用开源 Hermes 代理在 RTX Spark 上完成仿真、建模、云端训练到真机部署的全流程。演讲后预订量接近 2 万台，被视为欧洲开源机器人的爆款。",
+   "links": [
+    "https://x.com/i/trending/2112933589113573516"
+   ],
+   "topic": "microduck-gtc-berlin",
+   "firstSeen": "2026-10-23T08:27:49+08:00"
+  },
+  {
+   "id": "1cb03acba7",
+   "title": "Warhound 获 2 亿美元融资、估值 12 亿：用克隆和基因编辑培育军用工作犬，红杉和 In-Q-Tel 参投",
+   "summary": "Warhound 走出隐身，借助 Colossal Biosciences 的克隆工具和 Anduril 的护甲技术，计划为军队和应急救援培育更健康、能力更强的工作犬（如马犬），首批基因编辑幼犬预计 2027 年初出生。支持者看好安全性提升，也有人质疑军用生物技术的伦理问题。",
+   "links": [
+    "https://x.com/i/trending/2113424010570572123"
+   ],
+   "topic": "warhound-gene-edited-dogs",
+   "firstSeen": "2026-10-23T08:27:49+08:00"
   }
  ],
- "lastChecked": "2026-10-23T08:15:55+08:00"
+ "lastChecked": "2026-10-23T08:27:49+08:00"
 }
