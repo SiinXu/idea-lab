@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T09:01:36+08:00",
+ "lastUpdated": "2026-10-23T09:27:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19847,7 +19847,38 @@
    ],
    "topic": "babyqueen-ai-kpop-fake-pregnancy-2026-10",
    "firstSeen": "2026-10-23T09:01:36+08:00"
+  },
+  {
+   "id": "87dd3d5644",
+   "title": "Sume 上线零加价 AI 视频 API：按模型厂商原价转售 Seedance 等视频生成模型",
+   "summary": "创始人 David Im 10 月 22 日发布 Sume，把字节 Seedance 等生成式视频模型按厂商原价直接提供给开发者，不加任何差价，并点名 Runway 等平台加价高达 414%、fal 约 100%。他认为模型路由只是基础设施，开发者应把预算花在真正的创新上。开发者称赞价格透明，也有人追问可用性保障和它靠什么赚钱，反映出 AI 视频工作流正在走向压价和比价。",
+   "links": [
+    "https://x.com/i/trending/2113440176072425617"
+   ],
+   "topic": "sume-zero-markup-video-api-2026-10",
+   "firstSeen": "2026-10-23T09:27:10+08:00"
+  },
+  {
+   "id": "3f97ef093f",
+   "title": "OpenAI 新一轮 300 亿美元融资接近完成：投前估值从 1.4 万亿下调到 1.25 万亿，投资人反应“有点冷”",
+   "summary": "据报道，OpenAI 这轮约 300 亿美元的融资由阿联酋投资方和 Coatue 领投，投前估值目标已从 1.4 万亿美元下调到 1.25 万亿美元，有知情人形容这次反响“有点闷”，远不如以往火热。这笔钱被视为通往 2027 年 IPO 的过渡，用于继续扩充算力，也说明前沿 AI 烧钱巨大，投资人正变得更挑剔。",
+   "links": [
+    "https://x.com/i/trending/2113372605571121447"
+   ],
+   "topic": "openai-30b-round-1-25t-softer-2026-10-23",
+   "firstSeen": "2026-10-23T09:27:10+08:00"
+  },
+  {
+   "id": "46a214f271",
+   "title": "《Docker is weird》登上 HN 热榜：作者自写容器运行时，拆解 Docker 底层的反直觉之处",
+   "summary": "一位开发者为了好玩自己动手写容器运行时，写下《Docker is weird》，两小时内在 Hacker News 拿到 80 多分。文章解释容器并不是虚拟机，只是加了命名空间、cgroups 等内核限制的普通进程；镜像本质上就是一个被 chroot 成根目录的文件夹；runc 用 Go 写，因为 Go 多线程、没有 fork，不得不靠一段 C 代码和重新执行自身来绕开；Docker 守护进程通常还需要 root 权限。适合想弄懂容器底层原理的人。",
+   "links": [
+    "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "https://news.ycombinator.com/item?id=50202681"
+   ],
+   "topic": "docker-is-weird-hn-2026-10-22",
+   "firstSeen": "2026-10-23T09:27:10+08:00"
   }
  ],
- "lastChecked": "2026-10-23T09:01:36+08:00"
+ "lastChecked": "2026-10-23T09:27:10+08:00"
 }
