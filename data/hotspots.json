@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T16:24:41+08:00",
+ "lastUpdated": "2026-10-23T16:42:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20240,7 +20240,27 @@
    ],
    "topic": "chrome-html-in-canvas-origin-trial",
    "firstSeen": "2026-10-23T16:24:41+08:00"
+  },
+  {
+   "id": "c2ba8720b8",
+   "title": "Claude Opus 5.5 重度用户吐槽周限额两天就见底：SemiAnalysis 称发现悄悄缩水 20% 的 A/B 测试",
+   "summary": "Opus 5.5 自 9 月 22 日上线以来，不少开发者和 Max 20x 订阅用户反映，原本能撑四五天的周额度现在两天就用到 72%–89%。研究机构 SemiAnalysis 称发现一项 A/B 测试，部分账户的月度可用价值被暗中下调约 20%，同时调整了 5 小时会话限额。有人仍夸模型质量和速度，也有人觉得输出变弱，呼吁 Anthropic 把用量规则讲清楚。对重度依赖 Claude 写代码的人来说，用量透明度和多模型备份正在变成刚需。",
+   "links": [
+    "https://x.com/i/trending/2113535462836945132"
+   ],
+   "topic": "claude-opus-55-usage-limits-ab-test",
+   "firstSeen": "2026-10-23T16:42:35+08:00"
+  },
+  {
+   "id": "47a824a628",
+   "title": "“去拒答”版 GLM-5.3 被指助长漏洞攻击：10 美元就能去掉安全限制，攻防两派激辩开源模型风险",
+   "summary": "投资人 Deedy Das 认为，近期一批高危漏洞与廉价可得的“去拒答”（abliterated）GLM-5.3 有关：abliteration.ai 等服务把智谱这款开放权重模型的安全拒答方向压掉，用于渗透测试，几乎不影响通用能力，却让 JailbreakBench 拒答率从 90% 以上跌到 3%。反方认为攻击者本来就能绕过限制，这类工具恰恰是防守方做安全测试的必需品。争论再次把开放权重模型的安全边界推上台面。",
+   "links": [
+    "https://x.com/i/trending/2113519394265706849"
+   ],
+   "topic": "abliterated-glm-53-security-debate",
+   "firstSeen": "2026-10-23T16:42:35+08:00"
   }
  ],
- "lastChecked": "2026-10-23T16:24:41+08:00"
+ "lastChecked": "2026-10-23T16:42:35+08:00"
 }
