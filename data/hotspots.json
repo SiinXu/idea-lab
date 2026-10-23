@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T11:10:24+08:00",
+ "lastUpdated": "2026-10-23T11:28:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19987,7 +19987,29 @@
    ],
    "topic": "claude-anthropic-managed-google-cloud-ga-2026-10",
    "firstSeen": "2026-10-23T11:10:24+08:00"
+  },
+  {
+   "id": "6c49b01d8c",
+   "title": "月之暗面官宣 Kimi K3.1 预热视频：复古 CRT 画面里用 Kimi Code 跑 Three.js 3D 场景，社区猜测即将发布",
+   "summary": "Kimi 官方账号 10 月 23 日凌晨在 X 发布一段复古电脑风格的预热短片，画面中 Kimi Code 界面明确标出模型名“Kimi K3.1”，演示用 Three.js 生成程序化 3D 场景。帖子几小时内超过 30 万浏览、6000 多点赞。此前 Arena 上的匿名模型已被猜测是 K3.1，网友晒出它一句话生成可交互 3D 火车、直升机的对比视频。发布日期和价格都还没公布，社区最关心的是速度、价格以及会不会继续开源权重。",
+   "links": [
+    "https://x.com/Kimi_Moonshot/status/2113445757185606062",
+    "https://x.com/i/trending/2113455775834349931",
+    "https://x.com/LuminaBench/status/2113217029675085963"
+   ],
+   "topic": "kimi-k3-1-official-teaser-2026-10",
+   "firstSeen": "2026-10-23T11:28:42+08:00"
+  },
+  {
+   "id": "af14acecc3",
+   "title": "Claude Max 用户发现 Anthropic 在偷偷 A/B 测试额度：5 小时窗口变大、周上限变小，重度用户月价值缩水约 20%",
+   "summary": "部分 Claude Max 20x 订阅者对比账号后发现，Anthropic 正在未公告地测试不同的额度配置：一种方案的 5 小时会话窗口大 19%，但每周总预算小 20%。有人按同样的 Opus 5.5 用量折算，两个账号的月等值分别约 11726 美元和 9385 美元，长时间连续干活的人最吃亏，有用户说一天就用满。这和近期“Opus 5.5 降智、额度消耗变快”的抱怨叠在一起，订阅制 AI 编码工具的额度透明度再次成为争论焦点。",
+   "links": [
+    "https://x.com/i/trending/2113433759693631963"
+   ],
+   "topic": "claude-max-usage-limit-ab-test-2026-10",
+   "firstSeen": "2026-10-23T11:28:42+08:00"
   }
  ],
- "lastChecked": "2026-10-23T11:10:24+08:00"
+ "lastChecked": "2026-10-23T11:28:42+08:00"
 }
