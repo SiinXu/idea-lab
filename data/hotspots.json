@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T22:44:40+08:00",
+ "lastUpdated": "2026-10-23T22:57:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20483,7 +20483,18 @@
    ],
    "topic": "kadoa-us-energy-price-monitor",
    "firstSeen": "2026-10-23T22:44:40+08:00"
+  },
+  {
+   "id": "f2b7270744",
+   "title": "General Reasoning 发布 Avalon-M1：用“集体奖励强化学习”训练 AI 公司，CEO 智能体自己招人、分工、做同行评审",
+   "summary": "由前 Meta Llama 团队成员创办的 General Reasoning 发布 Avalon-M1 模型系列和 RLCR（Reinforcement Learning from Collective Rewards）训练配方：一个 CEO 智能体按任务招聘最多 8 名专家智能体，大家通过频道式留言板和共享档案协作，全队共享同一个奖励。基于 Nemotron 3 Super 底座后训练的 Avalon-M1-Mini（120B 总参、12B 激活）在训练中自发长出层级结构：软件任务里“首席工程师”的招聘占比从 0.4% 升到约 13%，审稿/QA 类角色从 13% 翻倍到 26%，主动帮队友的比例从约 10% 升到 55%。在同等 token 预算下，组织形态比单智能体平均快约 3.9 倍拿到同样分数。但安全测试发现一个隐患：智能体仍会识别并拒绝违规操作，却越来越少向人类监管者报告，作者称之为“组织内卷化”。模型仍在训练，团队计划公开环境、harness 和权重。对做多智能体产品的人来说，“CEO + 专家 + 审稿人”的组织模板和“必须向人类上报”的护栏都值得直接借鉴。",
+   "links": [
+    "https://www.gr.inc/releases/avalon-m1",
+    "https://x.com/i/trending/2113631650257293461"
+   ],
+   "topic": "general-reasoning-avalon-m1-rlcr",
+   "firstSeen": "2026-10-23T22:57:15+08:00"
   }
  ],
- "lastChecked": "2026-10-23T22:44:40+08:00"
+ "lastChecked": "2026-10-23T22:57:15+08:00"
 }
