@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T23:31:56+08:00",
+ "lastUpdated": "2026-10-23T23:57:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20506,7 +20506,18 @@
    ],
    "topic": "death-of-software-video-taleb-white-collar",
    "firstSeen": "2026-10-23T23:31:56+08:00"
+  },
+  {
+   "id": "5275a2f501",
+   "title": "eMudhra 被 Mozilla、Chrome 根证书项目公开点名：错过调查截止期还把锅甩给“社交媒体压力”",
+   "summary": "eMudhra 8 张中间 CA 私钥泄露事件继续发酵。Mozilla 10 月 20 日向 eMudhra 发出调查问题清单、要求 24 小时内初步答复，对方逾期后又申请延期，到 10 月 23 日仍未回复。eMudhra 在 Bugzilla 里回应称连日来遭受“社交媒体和投资者/客户的密集审视”，导致无法做有效分析，并透露相关事件发生在 2025 年 4 月 30 日、涉及曾与其合作的 PKI 业内人士。Chrome 根证书项目随即公开驳斥：外界审视正是 eMudhra 自身失误（任何人都能恢复的中间 CA 私钥，可为任意域名签证书）的必然结果，不能作为拖延理由；Mozilla 也表示认同。该帖在 HN 一小时内冲上首页。对做安全/合规内容的人来说，这是 CA 信任治理和“事故响应怎么才不算失职”的现成案例。",
+   "links": [
+    "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
+    "https://news.ycombinator.com/item?id=50210067"
+   ],
+   "topic": "emudhra-mozilla-chrome-deadline-rebuke",
+   "firstSeen": "2026-10-23T23:57:12+08:00"
   }
  ],
- "lastChecked": "2026-10-23T23:31:56+08:00"
+ "lastChecked": "2026-10-23T23:57:12+08:00"
 }
