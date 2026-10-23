@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T11:28:42+08:00",
+ "lastUpdated": "2026-10-23T11:44:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20009,7 +20009,19 @@
    ],
    "topic": "claude-max-usage-limit-ab-test-2026-10",
    "firstSeen": "2026-10-23T11:28:42+08:00"
+  },
+  {
+   "id": "0598992a20",
+   "title": "Linux 基金会调查：AI 让开源写代码时间缩短 52%，但约四分之一新 PR 被维护者视为“AI 垃圾”",
+   "summary": "Linux 基金会研究部 10 月 20 日发布生成式 AI 与开源开发调查：受访者估计 AI 平均把代码编写时间缩短 52%，59% 的维护者说贡献量在增长（大型项目达 69%），但约 25% 的新 PR 被认为是低质量“AI slop”，大型项目升到 31%。只有 35% 的项目有允许使用 AI 的正式政策，32% 既没有政策也不打算制定；面对高复杂度任务，21% 的人反而更花时间。这份报告 10 月 23 日在 X 上引发“过去二十年人写的代码是不是也很烂”的大讨论，维护者审核负担和倦怠成为焦点。",
+   "links": [
+    "https://www.linuxfoundation.org/press/new-lf-research-survey-shows-generative-ai-cuts-open-source-coding-time-in-half-but-25-of-incoming-pull-requests-are-considered-ai-slop",
+    "https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389",
+    "https://x.com/i/trending/2113467725909459052"
+   ],
+   "topic": "lf-research-genai-oss-ai-slop-2026-10",
+   "firstSeen": "2026-10-23T11:44:05+08:00"
   }
  ],
- "lastChecked": "2026-10-23T11:28:42+08:00"
+ "lastChecked": "2026-10-23T11:44:05+08:00"
 }
