@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T12:45:03+08:00",
+ "lastUpdated": "2026-10-23T13:10:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20100,7 +20100,20 @@
    ],
    "topic": "canva-craft-image-model",
    "firstSeen": "2026-10-23T12:45:03+08:00"
+  },
+  {
+   "id": "6abbfe5e82",
+   "title": "巴克莱银行宣布裁员约 5000 人（占全球员工 5%）：六成在支持部门，明确点名“AI 让开发者更高效、需要的程序员更少”",
+   "summary": "巴克莱 10 月 22 日发布三季报时宣布，年内削减约 5000 个全职岗位，约占全球 9.3 万员工的 5%，其中 1000 个已完成、其余 4000 个将在四季度末前落地。CFO Anna Cross 表示约 60% 的裁撤集中在支持职能，“包括更少的开发者，因为 AI 让员工更有生产力”，目标是 2027 年实现超过 11 亿英镑的效率节省；CEO 称 AI 是现代化战略的“锦上添花”。BBC 指出相当比例裁员将落在印度的后台团队。消息与塔勒布“白领岗位将被 AI 快速摧毁”的警告叠加，在 X 上引发白领 vs 蓝领技工的就业讨论。",
+   "links": [
+    "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
+    "https://www.bbc.com/news/articles/cm4g1p347qgxo",
+    "https://www.investing.com/news/stock-market-news/barclays-to-cut-5000-jobs-this-year-4964888",
+    "https://x.com/i/trending/2113497030689513594"
+   ],
+   "topic": "barclays-5000-ai-job-cuts",
+   "firstSeen": "2026-10-23T13:10:39+08:00"
   }
  ],
- "lastChecked": "2026-10-23T12:45:03+08:00"
+ "lastChecked": "2026-10-23T13:10:39+08:00"
 }
