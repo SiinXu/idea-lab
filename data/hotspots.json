@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T20:30:34+08:00",
+ "lastUpdated": "2026-10-23T20:40:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20417,7 +20417,18 @@
    ],
    "topic": "sweden-gov-blocks-chatgpt-claude-2026-10",
    "firstSeen": "2026-10-23T20:30:34+08:00"
+  },
+  {
+   "id": "38c321ce33",
+   "title": "《这就是新的网络安全常态吗？》冲上 HN：一周内 PHP2Shell、GitLab、musl、LiteLLM 等连环高危漏洞，作者称 AI 让“补丁公布即被利用”成常态",
+   "summary": "开发者 Drew Silcock 发长文复盘过去一周的漏洞潮：PHP2Shell（CVE-2026-109618/109619）、eMudhra、Railway、GitLab 两个满分级漏洞、musl libc、LiteLLM、PingCAP，甚至有 Linux 漏洞被误发到错误的群聊。文章指出，前沿模型擅长把模糊的漏洞描述或补丁 diff 反推成完整利用，因此“补丁公布那一刻”就该视为利用已在流传的最后期限；PHP2Shell 的提前泄露、演示视频外流和提前发布修复，让攻击者抢在管理员之前出手。文章发布不到 2 小时就在 HN 拿到近 80 分、60+ 评论。对独立开发者的启示：依赖自动更新、补丁监控和快速回滚的“小团队安全运维”工具正在变成刚需。",
+   "links": [
+    "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+    "https://news.ycombinator.com/item?id=50207115"
+   ],
+   "topic": "new-cyber-normal-blog-2026-10-23",
+   "firstSeen": "2026-10-23T20:40:27+08:00"
   }
  ],
- "lastChecked": "2026-10-23T20:30:34+08:00"
+ "lastChecked": "2026-10-23T20:40:27+08:00"
 }
