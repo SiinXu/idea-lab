@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T09:27:10+08:00",
+ "lastUpdated": "2026-10-23T09:42:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19878,7 +19878,18 @@
    ],
    "topic": "docker-is-weird-hn-2026-10-22",
    "firstSeen": "2026-10-23T09:27:10+08:00"
+  },
+  {
+   "id": "4e9bfd07ae",
+   "title": "Anthropic 发布研究：用 Claude 在 100 多个开源库上做汇编级形式化验证，还挖出多年未被发现的漏洞",
+   "summary": "Anthropic 前沿红队与 Theorem 合作发布新研究，称大模型已能大规模自动写出形式化证明：他们用 Claude 在 100 多个真实开源软件库上，于 RISC-V 汇编层面证明了安全属性，并在写证明的过程中发现了经过数万亿次测试仍未暴露的老漏洞。过去形式化验证成本极高（seL4 内核实现用 2 人年、验证用 20 人年），这项工作意味着“可证明安全”的开发流程有望走向普通项目。发布约两小时即登上 Hacker News 热榜、破百分。",
+   "links": [
+    "https://www.anthropic.com/research/formal-verification",
+    "https://news.ycombinator.com/item?id=50202217"
+   ],
+   "topic": "anthropic-formal-verification-2026-10-22",
+   "firstSeen": "2026-10-23T09:42:21+08:00"
   }
  ],
- "lastChecked": "2026-10-23T09:27:10+08:00"
+ "lastChecked": "2026-10-23T09:42:21+08:00"
 }
