@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T19:15:01+08:00",
+ "lastUpdated": "2026-10-23T19:28:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20361,7 +20361,29 @@
    ],
    "topic": "ziwei-doushu-github-trending",
    "firstSeen": "2026-10-23T19:15:01+08:00"
+  },
+  {
+   "id": "92bc6d569d",
+   "title": "美国第五巡回法院撤销“AI 幻觉”禁令：法官裁定里出现虚构原告、假引文和不存在的判例，案件被改派新法官",
+   "summary": "10 月 22 日，美国第五巡回上诉法院撤销密西西比州联邦法官 Henry Wingate 对该州反 DEI 教育法 H.B. 1193 的初步禁令，并把案件改派给另一位法官。判决书称原审是“一团糟”：临时限制令里出现了案外的原告和被告、不存在的“证人声明”、法条中并不存在的引文，连“更正版”里还引用了一个根本不存在的第四巡回法院判例。Wingate 此前承认是书记员用 AI 起草后被误发。这是法官本人因 AI 幻觉被上级法院公开点名的标志性案例，法律科技里的“引用核验 / AI 文书审查”工具需求会更明确。",
+   "links": [
+    "https://www.ca5.uscourts.gov/opinions/pub/25/25-60496-CV0.pdf",
+    "https://www.courthousenews.com/fifth-circuit-castigates-ai-rulings-in-school-diversity-policy-case/",
+    "https://x.com/i/trending/2113591100573364619"
+   ],
+   "topic": "fifth-circuit-wingate-ai-hallucination-ruling",
+   "firstSeen": "2026-10-23T19:28:08+08:00"
+  },
+  {
+   "id": "97a55d5211",
+   "title": "面壁智能 VoxCPM2 上 GitHub 日榜：无分词器多语种 TTS，支持声音设计和高保真克隆，约 4 万星",
+   "summary": "OpenBMB/VoxCPM 今天出现在 GitHub Trending 日榜，单日新增约 140 星，累计约 4 万星，采用 Apache-2.0 开源协议。VoxCPM2 是不依赖分词器的语音合成模型，主打多语种语音生成、用文字描述来“设计”音色，以及贴近真人的声音克隆。对做有声书、多语种短视频配音、AI 播客的个人开发者来说，这是可商用、可本地部署的开源选择，但声音克隆要注意授权和平台的合规要求。",
+   "links": [
+    "https://github.com/OpenBMB/VoxCPM"
+   ],
+   "topic": "openbmb-voxcpm2-github-trending",
+   "firstSeen": "2026-10-23T19:28:08+08:00"
   }
  ],
- "lastChecked": "2026-10-23T19:15:01+08:00"
+ "lastChecked": "2026-10-23T19:28:08+08:00"
 }
