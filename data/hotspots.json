@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T19:41:55+08:00",
+ "lastUpdated": "2026-10-23T20:17:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20395,7 +20395,18 @@
    ],
    "topic": "pgrust-clickbench-cheating-resubmission",
    "firstSeen": "2026-10-23T19:41:55+08:00"
+  },
+  {
+   "id": "7a18b24f21",
+   "title": "《Jev 炒作的兴衰》登上 HN：作者批评“System One 决策模型”营销过度，称 Jev 本质是通用分类器",
+   "summary": "开发者 Alex Ewerlöf 发文复盘 TypeSafe AI 的 Jev 在发布约 33 天里的爆火：他认为 Jev 实质上是无需大量训练数据的通用分类器，“System One”“不会幻觉”等说法属于营销包装——“不幻觉”只意味着输出符合 schema，传统大模型加上类型检查或 JSON 校验循环也能做到；文章同时追问 ChatGPT 之后四年里真正的创新有多少。HN 评论两极：有人说 OpenAI 已推出决策 API、开源 D3 决策模型可在手机本地跑，不必迁到 Jev；也有人认为这篇文章本身比 Jev 发布更“炒作”。对做 Agent 判断层、分类路由的人来说，是重新评估“决策模型 vs 大模型 + 约束输出”选型的参考。",
+   "links": [
+    "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
+    "https://news.ycombinator.com/item?id=50206361"
+   ],
+   "topic": "jev-hype-critique-ewerlof",
+   "firstSeen": "2026-10-23T20:17:06+08:00"
   }
  ],
- "lastChecked": "2026-10-23T19:41:55+08:00"
+ "lastChecked": "2026-10-23T20:17:06+08:00"
 }
