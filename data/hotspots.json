@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T15:09:34+08:00",
+ "lastUpdated": "2026-10-23T15:32:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20196,7 +20196,19 @@
    ],
    "topic": "berget-per-request-co2-2026-10",
    "firstSeen": "2026-10-23T15:09:34+08:00"
+  },
+  {
+   "id": "2df820a61a",
+   "title": "哈佛 Gary King 新论文：AI 审稿全面碾压顶级人类审稿人，前期刊主编盲评 87% 选 AI",
+   "summary": "哈佛政治学家 Gary King 与 Steven Worthington 10 月 22 日发布论文《AI Article Reviews Dominate Human Peer Reviews at Their Best》：对 134 篇稿件的人类/AI 审稿配对做盲评，AI 评委下 AI 审稿 100% 胜出，三位前期刊主编在 30 次判断中有 26 次（87%）偏好 AI 审稿；在文献引用、方法、弱点识别等维度胜率达 100%，且没有编造引用、错误陈述约为人类审稿的三分之一，长度对齐后结论依旧成立。论文刚在 X 上引发热议。对学术服务和 AI 工具创业者来说，“AI 预审稿 / 投稿前自检”服务的需求和可信度都在快速上升。",
+   "links": [
+    "https://gking.harvard.edu/peerless/",
+    "https://gking.harvard.edu/files/peerless.pdf",
+    "https://x.com/i/trending/2113532345743757791"
+   ],
+   "topic": "ai-peer-review-king-2026-10",
+   "firstSeen": "2026-10-23T15:32:16+08:00"
   }
  ],
- "lastChecked": "2026-10-23T15:09:34+08:00"
+ "lastChecked": "2026-10-23T15:32:16+08:00"
 }
