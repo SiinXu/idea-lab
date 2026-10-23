@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T17:32:14+08:00",
+ "lastUpdated": "2026-10-23T17:59:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20308,7 +20308,19 @@
    ],
    "topic": "mas-bloom-bnm-bot-join",
    "firstSeen": "2026-10-23T17:32:14+08:00"
+  },
+  {
+   "id": "ac05e2c677",
+   "title": "640 万笔 AI Agent 支付只值 12 万美元：x402 数据引发“Agent 金融护栏”讨论",
+   "summary": "BeInCrypto《2026 AI Agent 支付现状》统计了 7 月 23 日至 8 月 26 日 Base 和 Solana 上的 x402 支付：共 640 万笔、总额仅 119,947 美元，平均约 1.9 美分，90.8% 不到 1 美分，多为调用 API、查数据这类小额按次付费；8 月 26 日一天里 145 个地址就向 3 个收款地址打了 128 万笔，交易笔数远不等于真实需求。报告还记录两起事故共把 28.12 万美元转进攻击者钱包，是整段样本流水的 2.3 倍。这两天 X 上 ZeruAI CEO 等人借此呼吁把金融监管规则直接写进协议层，而不是只靠人设消费上限。对做 Agent 付费 API、按次计费工具的人，这是看清市场真实规模和风控短板的一手数据。",
+   "links": [
+    "https://beincrypto.com/state-of-ai-agent-payments-2026/",
+    "https://www.tokenpost.com/news/technology/27714",
+    "https://x.com/i/trending/2113519394232176989"
+   ],
+   "topic": "x402-agent-payments-beincrypto-report",
+   "firstSeen": "2026-10-23T17:59:02+08:00"
   }
  ],
- "lastChecked": "2026-10-23T17:32:14+08:00"
+ "lastChecked": "2026-10-23T17:59:02+08:00"
 }
