@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T10:29:47+08:00",
+ "lastUpdated": "2026-10-23T10:44:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19930,7 +19930,28 @@
    ],
    "topic": "nebius-drop-huang-neocloud-2026-10",
    "firstSeen": "2026-10-23T10:29:47+08:00"
+  },
+  {
+   "id": "889d516046",
+   "title": "Claude Opus 5.5 被指上线一个月后“降智”：用户晒对比图称输出变弱、额度消耗变快",
+   "summary": "Anthropic 9 月 22 日发布的 Claude Opus 5.5，近期在 X 上被不少 Pro/Max 用户吐槽质量下滑：同一提示词和 10 月初相比，生成的城市场景细节更少、3D 建模更慢，轻度使用就用掉每周额度的九成，安全过滤还会拦下创意类提示。也有独立追踪者认为这只是正常波动，Anthropic 目前没有回应。大家开始把目光投向传闻中 11 月中旬的下一代模型。",
+   "links": [
+    "https://x.com/i/trending/2113177243736502781"
+   ],
+   "topic": "claude-opus-5-5-quality-drop-complaints-2026-10",
+   "firstSeen": "2026-10-23T10:44:37+08:00"
+  },
+  {
+   "id": "7d5f3ac3c4",
+   "title": "Dijkstra 1978 年旧文《“自然语言编程”的愚蠢》重上 HN 热榜，被拿来对照今天的 AI 写代码热潮",
+   "summary": "计算机科学家 Edsger Dijkstra 在 1978 年写的短文 EWD667 认为，形式化符号语言的精确性正是编程的价值所在，用自然语言编程只会让歧义和错误更难被发现。在“氛围编程”和 AI 代理写代码盛行的当下，这篇文章重新冲上 Hacker News 首页，评论区围绕“提示词就是新的编程语言”还是“精确规格才是根本”展开争论。",
+   "links": [
+    "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+    "https://news.ycombinator.com/item?id=50203161"
+   ],
+   "topic": "dijkstra-ewd667-natural-language-programming-hn-2026-10",
+   "firstSeen": "2026-10-23T10:44:37+08:00"
   }
  ],
- "lastChecked": "2026-10-23T10:29:47+08:00"
+ "lastChecked": "2026-10-23T10:44:37+08:00"
 }
