@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T12:27:13+08:00",
+ "lastUpdated": "2026-10-23T12:45:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20087,7 +20087,20 @@
    ],
    "topic": "jank-clojure-cpp",
    "firstSeen": "2026-10-23T12:27:13+08:00"
+  },
+  {
+   "id": "45e4e776d5",
+   "title": "Canva 发布首个自研图像模型 Craft：先规划构图和文字再渲染，DesignArena 排名让 Canva 成第二强图像 AI 实验室",
+   "summary": "Canva 于 10 月 22 日推出自家 Canva Research 训练的图像生成模型 Craft。它采用两阶段架构：先由规划模型写出元素、空间关系、比例、视觉层级和图中文字的构图方案，再由渲染模型输出最高 2K、30 多种画幅的图片，文字支持 55 种语言，生成后可局部精准修改。Craft 已向全球用户在 Dream Lab 开放，开发者可通过公共 API 的 craft_v1_2k 模型调用，Canva MCP 接入（面向 ChatGPT、Gemini 等智能体）即将上线，后续还会推出更快的 Craft-fast 版本。X 上设计圈热议它对海报、社媒图、电商素材工作流的冲击。",
+   "links": [
+    "https://www.canva.com/newsroom/news/canva-craft/",
+    "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "https://x.com/i/trending/2113353723548250549"
+   ],
+   "topic": "canva-craft-image-model",
+   "firstSeen": "2026-10-23T12:45:03+08:00"
   }
  ],
- "lastChecked": "2026-10-23T12:27:13+08:00"
+ "lastChecked": "2026-10-23T12:45:03+08:00"
 }
