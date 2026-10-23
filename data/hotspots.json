@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T20:17:06+08:00",
+ "lastUpdated": "2026-10-23T20:30:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20406,7 +20406,18 @@
    ],
    "topic": "jev-hype-critique-ewerlof",
    "firstSeen": "2026-10-23T20:17:06+08:00"
+  },
+  {
+   "id": "9174a0a001",
+   "title": "瑞典政府办公厅下周一起封锁 ChatGPT 和 Claude：工作电脑只许用 Copilot 等已签约工具",
+   "summary": "瑞典广播电台 Ekot 报道，瑞典政府办公厅（Regeringskansliet）将从下周一起，在员工工作电脑上封锁 ChatGPT 和 Claude，要求统一使用已批准的服务，其中包括微软 Copilot，并在内部审查后加强了 Copilot 的安全设置。数字化主管表示，使用没有签约的 AI 服务可能给信息安全带来后果。瑞典税务局、国家机构管理局（SiS）也已经封锁，执行局正在评估；交通局内审今年发现员工在用十来种公开 AI 服务，输入内容涉及敏感信息。部分员工仍可通过办公厅自建的 AI 助手平台使用 ChatGPT 和 Claude。HN 上相关讨论正在升温。对做 To G / To B 的 AI 产品来说，信号很清楚：能签数据协议、可私有部署、有审计记录的企业版，才进得了政府和大机构。",
+   "links": [
+    "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+    "https://news.ycombinator.com/item?id=50207405"
+   ],
+   "topic": "sweden-gov-blocks-chatgpt-claude-2026-10",
+   "firstSeen": "2026-10-23T20:30:34+08:00"
   }
  ],
- "lastChecked": "2026-10-23T20:17:06+08:00"
+ "lastChecked": "2026-10-23T20:30:34+08:00"
 }
