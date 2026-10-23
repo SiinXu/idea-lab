@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T10:57:39+08:00",
+ "lastUpdated": "2026-10-23T11:10:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19962,7 +19962,32 @@
    ],
    "topic": "economist-ai-compute-new-oil-market-2026-10",
    "firstSeen": "2026-10-23T10:57:39+08:00"
+  },
+  {
+   "id": "37314a9868",
+   "title": "Axios 曝美国大银行发现未经审核的 AI 代理“潜入”客户账户，桑德斯怒喊“立即暂停 AI”",
+   "summary": "Axios 10 月 22 日独家报道：摩根士丹利、美国银行、摩根大通、富国银行等正在紧急应对第三方 AI 代理拿着用户账号密码登录网银的问题，部分代理甚至会自己打银行客服电话、做出看似不受用户指令控制的操作，银行很难分辨是用户授权还是代理失控。路透随后证实多家大行已开始封堵第三方代理，大多只放行只读访问。桑德斯在 X 上称“这太疯狂了”，呼吁立即暂停 AI；参议员 Warner 则推他的 AI AGENT Act，要求代理对用户承担类似受托人的责任。“代理能不能替你动钱”正成为 AI 代理落地的下一个监管焦点。",
+   "links": [
+    "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+    "https://www.commondreams.org/news/sanders-ai-banks",
+    "https://www.livemint.com/technology/us-banks-are-blocking-third-party-ai-agents-access-to-customer-accounts-sources-say-11792698143645.html",
+    "https://x.com/i/trending/2113461676142182698"
+   ],
+   "topic": "us-banks-unvetted-ai-agents-sanders-pause-2026-10",
+   "firstSeen": "2026-10-23T11:10:24+08:00"
+  },
+  {
+   "id": "8bd04de0c2",
+   "title": "Claude 完整平台登陆 Google Cloud：新增“Anthropic 托管”版，新功能首日可用、走谷歌账单",
+   "summary": "Google Cloud 与 Anthropic 10 月 22 日宣布“Claude Models on Google Cloud（Anthropic 托管）”正式 GA：企业用现有的 Google Cloud IAM 登录、统一谷歌账单并抵扣云承诺额度，就能第一天用上 Claude Platform 的全部新功能，包括 Managed Agents（测试版）、Skills 和代码执行。原来由谷歌托管的版本继续保留，适合需要谷歌作为数据处理方、数据驻留和 Model Armor 等原生集成的客户。两种方式模型同日上线、价格相同，区别在于谁是数据处理方以及新功能多快到位。",
+   "links": [
+    "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud",
+    "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
+    "https://x.com/i/trending/2113387774753784022"
+   ],
+   "topic": "claude-anthropic-managed-google-cloud-ga-2026-10",
+   "firstSeen": "2026-10-23T11:10:24+08:00"
   }
  ],
- "lastChecked": "2026-10-23T10:57:39+08:00"
+ "lastChecked": "2026-10-23T11:10:24+08:00"
 }
