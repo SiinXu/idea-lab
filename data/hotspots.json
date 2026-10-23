@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T15:45:26+08:00",
+ "lastUpdated": "2026-10-23T16:17:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20219,7 +20219,17 @@
    ],
    "topic": "ai-amplifier-althoff-2026-10",
    "firstSeen": "2026-10-23T15:45:26+08:00"
+  },
+  {
+   "id": "ad7c21eef4",
+   "title": "Epic Games 宣布 2026 AI MegaJam：11 月 12–15 日用 AI 在虚幻引擎做游戏，宣传图却翻车“六根手指”",
+   "summary": "Epic 推出为期四天的 AI MegaJam（11 月 12–15 日），最多五人组队，可在 Unreal Engine 或 UEFN 中不限量使用 AI 制作可玩游戏，头奖 7500 美元，另有最高 5 万美元资助，报名在 itch.io 开放。早期 FAQ 引发反弹后，Epic 澄清 AI 为“可选”。宣传海报里红药丸那只手长了六根手指，被社区当场抓包，讨论迅速升温。对独立开发者和 AI 工具方来说，这是展示“AI 快速做游戏原型”工作流、发布模板或教程的窗口期。",
+   "links": [
+    "https://x.com/i/trending/2113357095185871146"
+   ],
+   "topic": "epic-ai-megajam-2026",
+   "firstSeen": "2026-10-23T16:17:04+08:00"
   }
  ],
- "lastChecked": "2026-10-23T15:45:26+08:00"
+ "lastChecked": "2026-10-23T16:17:04+08:00"
 }
