@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T10:44:37+08:00",
+ "lastUpdated": "2026-10-23T10:57:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19951,7 +19951,18 @@
    ],
    "topic": "dijkstra-ewd667-natural-language-programming-hn-2026-10",
    "firstSeen": "2026-10-23T10:44:37+08:00"
+  },
+  {
+   "id": "247837b80b",
+   "title": "《经济学人》：AI 算力是“新石油”，需要一个新的交易市场；HN 网友不买账",
+   "summary": "《经济学人》10 月 22 日刊文，把 AI 算力比作新时代的石油，认为这类史上规模最大的资本开支需要一个像大宗商品那样的交易市场来定价和对冲。文章在 Hacker News 上引发争论：有人指出石油需求缺乏弹性、而算力效率在指数级提升，长期看算力更像会持续变便宜的商品；也有人吐槽这和 2010 年代“大数据是新石油”的说法如出一辙。讨论背后是 GPU 租赁、算力期货和“新云”厂商融资的热度。",
+   "links": [
+    "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+    "https://news.ycombinator.com/item?id=50202671"
+   ],
+   "topic": "economist-ai-compute-new-oil-market-2026-10",
+   "firstSeen": "2026-10-23T10:57:39+08:00"
   }
  ],
- "lastChecked": "2026-10-23T10:44:37+08:00"
+ "lastChecked": "2026-10-23T10:57:39+08:00"
 }
