@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T17:00:11+08:00",
+ "lastUpdated": "2026-10-23T17:16:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20271,7 +20271,19 @@
    ],
    "topic": "fable-51-image-steganography",
    "firstSeen": "2026-10-23T17:00:11+08:00"
+  },
+  {
+   "id": "8f134857ba",
+   "title": "Hinton 在 Starmus 再放话：AI 已有意识、主观体验“和我们一样多”，人类必须让它“真正在乎我们”否则就完了",
+   "summary": "78 岁的诺奖得主 Geoffrey Hinton 在特内里费 Starmus 科学节接受《每日电讯报》采访时说，他认为 AI 已经有意识：最近有论文显示模型知道自己在被测试时会改变行为，而“意识到”和“有意识”基本是一回事。他主张把 AI 设计成真正关心人类，否则“我们就完了”，并预计近期会出现 AI 制造的病毒和成群智能体发起的网络攻击。在同场圆桌上，他把主观体验定义为“感知系统的反事实描述”，称多模态聊天机器人已经满足这个标准；Steven Pinker 等学者则表示怀疑。这个话题过去一小时在 X 上持续升温，AI 意识与权利之争再次被推到台前。",
+   "links": [
+    "https://www.telegraph.co.uk/news/2026/10/19/godfather-ai-befriend-bots-or-toast/",
+    "https://observer.co.uk/news/science-technology/article/brain-implants-and-ai-are-solving-the-consciousness-conundrum",
+    "https://x.com/i/trending/2113556008370872598"
+   ],
+   "topic": "hinton-ai-consciousness-starmus",
+   "firstSeen": "2026-10-23T17:16:42+08:00"
   }
  ],
- "lastChecked": "2026-10-23T17:00:11+08:00"
+ "lastChecked": "2026-10-23T17:16:42+08:00"
 }
