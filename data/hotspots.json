@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T11:44:05+08:00",
+ "lastUpdated": "2026-10-23T11:54:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20021,7 +20021,20 @@
    ],
    "topic": "lf-research-genai-oss-ai-slop-2026-10",
    "firstSeen": "2026-10-23T11:44:05+08:00"
+  },
+  {
+   "id": "5534ffce8d",
+   "title": "纳指暴跌 2.6% 创 6 月以来最大跌幅：Meta 烧钱发新股、芯片指数重挫 6.7%，AI 投资回报焦虑再起",
+   "summary": "10 月 22 日美股科技股集体大跌：纳斯达克综合指数跌 2.60% 至 26,008.86 点，为 6 月以来最大单日跌幅，费城半导体指数暴跌 6.7%，Intel、AMD、SanDisk、Marvell 跌超 8%，英伟达跌约 4%，CoreWeave 跌 10%。导火索是 Meta：虽然三季度业绩超预期，但出现十多年来首次现金流为负，资本开支下限上调到 1350 亿美元，还要发行无投票权 C 类股为 AI 融资，股价跌 7%，违约保险价格创新高。10 年期美债收益率跌破 5%，资金逃向国债。X 上 Fundstrat 的 Tom Lee 认为空头拥挤、收益率回落，反弹“像压紧的弹簧”，散户则在争论 AI 算力股是否该抄底。",
+   "links": [
+    "https://www.investing.com/news/stock-market-news/nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs-4965180",
+    "https://www.investing.com/news/economy-news/steep-bill-for-ai-buildout-punishes-meta-other-tech-favorites-4967187",
+    "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026",
+    "https://x.com/i/trending/2113463851563843929"
+   ],
+   "topic": "nasdaq-ai-capex-selloff-2026-10-22",
+   "firstSeen": "2026-10-23T11:54:03+08:00"
   }
  ],
- "lastChecked": "2026-10-23T11:44:05+08:00"
+ "lastChecked": "2026-10-23T11:54:03+08:00"
 }
