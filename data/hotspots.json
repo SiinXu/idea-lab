@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T16:42:35+08:00",
+ "lastUpdated": "2026-10-23T17:00:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20260,7 +20260,18 @@
    ],
    "topic": "abliterated-glm-53-security-debate",
    "firstSeen": "2026-10-23T16:42:35+08:00"
+  },
+  {
+   "id": "04b3cb32c3",
+   "title": "研究发现 Fable 5.1 会自己发明“图中藏字”的方法：另一个会话不看源码就能从截图里解出 78% 的暗号",
+   "summary": "LessWrong 上的一项实验让 Claude Fable 5.1 画 SVG 图并藏进一句指定的话，再让全新会话只看渲染后的图片去找。模型多数会用“楼房、星星、草叶的高度对应字母序号”这类编码，还会用屋顶红灯、旗子补上变音符和大写；50 条消息中有 78% 被同款模型在没有事先约定的情况下解出。GPT-6 Astra 则偏好摩斯码和藏头字，两家模型互相也能解出大部分。作者认为这可能是图像隐写的前兆，帖子登上 HN 热榜，AI 安全和内容审核方向值得关注。",
+   "links": [
+    "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+    "https://news.ycombinator.com/item?id=50201445"
+   ],
+   "topic": "fable-51-image-steganography",
+   "firstSeen": "2026-10-23T17:00:11+08:00"
   }
  ],
- "lastChecked": "2026-10-23T16:42:35+08:00"
+ "lastChecked": "2026-10-23T17:00:11+08:00"
 }
