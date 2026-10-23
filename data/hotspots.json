@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T17:16:42+08:00",
+ "lastUpdated": "2026-10-23T17:32:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20283,7 +20283,32 @@
    ],
    "topic": "hinton-ai-consciousness-starmus",
    "firstSeen": "2026-10-23T17:16:42+08:00"
+  },
+  {
+   "id": "04cfc27834",
+   "title": "SK 海力士叫停 Solidigm 美股 IPO：原估值或达 1500 亿美元，韩国监管点名“重复上市”后撤回",
+   "summary": "10 月 23 日，SK 海力士宣布其美国子公司 Solidigm（前英特尔 NAND/SSD 业务）停止 pre-IPO 融资和美股上市评估。此前市场传闻这次 IPO 可募资约 150 亿美元、估值约 1500 亿美元，用于在美国新建工厂满足 AI 数据中心的存储需求。公司称原因是资本市场波动和股价走势，但韩国金融监督院本周刚表态该上市可能违反“重复上市”限制，小股东也担心被稀释。消息公布后 SK 海力士股价先跌约 3%，收盘反涨 4.4%。公司表示 Solidigm 的扩产需求不变，会改用直接投资等方式融资。",
+   "links": [
+    "https://news.skhynix.com/en/fact-12/",
+    "https://en.yna.co.kr/view/AEN20261023000951320",
+    "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+    "https://x.com/i/trending/2113414448262390262"
+   ],
+   "topic": "skhynix-solidigm-ipo-halted",
+   "firstSeen": "2026-10-23T17:32:14+08:00"
+  },
+  {
+   "id": "559cfb7b9d",
+   "title": "马来西亚、泰国央行加入新加坡 BLOOM：稳定币与代币化存款跨境结算，Visa、万事达、Ripple、Airwallex 同步入局",
+   "summary": "新加坡金管局（MAS）10 月 23 日宣布，马来西亚国家银行和泰国央行以政策制定者身份加入 BLOOM 计划，共同制定数字货币跨境结算的通用做法，包括合规稳定币和代币化银行存款如何在不同机构、网络和国家之间被接受、兑换和清算，并内置身份核验、制裁筛查等可编程合规控制。新加入的行业成员有 Airwallex、Mastercard、Maybank、Nium、Ripple、ShopeePay、Visa 和世界银行集团，现有成员包括 Circle、Coinbase、Stripe、蚂蚁国际、DBS、摩根大通等。这意味着东南亚跨境支付和贸易结算的稳定币基础设施正在由央行牵头成型。",
+   "links": [
+    "https://www.mas.gov.sg/news/media-releases/2026/mas-bnm-and-bot-partner-with-industry-to-advance-cross-border-settlement-in-digital-money",
+    "https://www.businesstimes.com.sg/international/asean/malaysia-thailand-central-banks-join-mas-cross-border-payment-initiative",
+    "https://x.com/i/trending/2113557673874805090"
+   ],
+   "topic": "mas-bloom-bnm-bot-join",
+   "firstSeen": "2026-10-23T17:32:14+08:00"
   }
  ],
- "lastChecked": "2026-10-23T17:16:42+08:00"
+ "lastChecked": "2026-10-23T17:32:14+08:00"
 }
