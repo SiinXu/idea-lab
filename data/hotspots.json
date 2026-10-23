@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T19:14:37+08:00",
+ "lastUpdated": "2026-10-23T19:15:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20351,7 +20351,17 @@
    ],
    "topic": "claude-red-security-skills",
    "firstSeen": "2026-10-23T19:14:37+08:00"
+  },
+  {
+   "id": "99cc20cace",
+   "title": "开源紫微斗数排盘引擎 ziwei-doushu 登上 GitHub 日榜：单日涨 500+ 星，总星数约 6500",
+   "summary": "GitHub 项目 Renhuai123/ziwei-doushu 今天出现在 GitHub Trending 日榜，单日新增约 547 星、累计约 6500 星。它是一个紫微斗数开源排盘引擎，基于倪海厦《天纪》体系，包含完整排盘算法、四化系统、格局知识库和古籍原文数据，最近一次更新在 10 月 20 日。命理、玄学类内容一直是中文互联网的高流量赛道，有了可直接调用的开源排盘引擎，做“AI 命理解读”小程序、付费报告或内容号的技术门槛进一步降低，但也要注意平台对算命类内容的审核规则。",
+   "links": [
+    "https://github.com/Renhuai123/ziwei-doushu"
+   ],
+   "topic": "ziwei-doushu-github-trending",
+   "firstSeen": "2026-10-23T19:15:01+08:00"
   }
  ],
- "lastChecked": "2026-10-23T19:14:37+08:00"
+ "lastChecked": "2026-10-23T19:15:01+08:00"
 }
