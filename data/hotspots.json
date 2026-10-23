@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T14:37:41+08:00",
+ "lastUpdated": "2026-10-23T15:00:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20164,7 +20164,28 @@
    ],
    "topic": "im-so-sorry-ai-photo-reveal-trend-2026-10",
    "firstSeen": "2026-10-23T14:37:41+08:00"
+  },
+  {
+   "id": "2e6c86b0f1",
+   "title": "Anthropic 宣布下周起 Claude 付费版默认开启“自动模式”：安全操作自动放行，风险操作自动拦截",
+   "summary": "Anthropic 将从下周起，在 Claude 网页、桌面和移动端为 Pro、Max、Team 用户的新会话默认启用自动模式：由自动检查拦截高风险操作、放行常规操作，可随时切回手动审批。测试中它能拦下 89% 的危险命令，而人工逐条审批只拦下约 14%。用户普遍欢迎“布置完任务就能走开”的体验，也有人在高风险工作中坚持手动。对做 Agent 产品的人来说，“默认自主 + 自动护栏”正在成为新的交互基线。",
+   "links": [
+    "https://x.com/i/trending/2113396361819525146"
+   ],
+   "topic": "claude-auto-mode-default-2026-10",
+   "firstSeen": "2026-10-23T15:00:10+08:00"
+  },
+  {
+   "id": "9498ce0d34",
+   "title": "Local Wikipedia 冲上 HN：只显示步行半小时范围内的维基百科词条",
+   "summary": "开发者 Ed Jefferson 做了一个小网站：根据你的位置，只列出步行约 30 分钟范围内有维基百科条目的地点和事物，把百科变成“身边的城市导览”。项目在 Hacker News 首页快速升温。思路简单、数据免费（维基百科地理坐标），适合做本地探索、旅行、城市漫步类小工具或内容号的灵感来源。",
+   "links": [
+    "https://edjefferson.com/localwiki/",
+    "https://news.ycombinator.com/item?id=50202285"
+   ],
+   "topic": "local-wikipedia-walk-2026-10",
+   "firstSeen": "2026-10-23T15:00:10+08:00"
   }
  ],
- "lastChecked": "2026-10-23T14:37:41+08:00"
+ "lastChecked": "2026-10-23T15:00:10+08:00"
 }
