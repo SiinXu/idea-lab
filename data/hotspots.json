@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T13:10:39+08:00",
+ "lastUpdated": "2026-10-23T13:39:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20113,7 +20113,17 @@
    ],
    "topic": "barclays-5000-ai-job-cuts",
    "firstSeen": "2026-10-23T13:10:39+08:00"
+  },
+  {
+   "id": "b7588afc8e",
+   "title": "Anthropic 副 CISO Jason Clinton 警告：过去四天的攻击只是开始，安全团队要“扛住约 18 个月”",
+   "summary": "Anthropic 副首席信息安全官 Jason Clinton 于 10 月 22 日发声：近几天 PHP 漏洞被利用、供应链入侵、AI Agent 误操作（如发出虚假报警）等事件只是开端，情况会先变得更糟再好转。他建议安全负责人优先争取董事会支持做网络隔离、及时打补丁等基础防御，而不是先买高级 AI 安全工具，并预计企业需要坚持约 18 个月。X 上有人分享密码与双因素认证等实操建议，也有人批评 AI 公司在警告自己制造的风险。",
+   "links": [
+    "https://x.com/i/trending/2113449202286297394"
+   ],
+   "topic": "anthropic-clinton-cyber-18-months-2026-10",
+   "firstSeen": "2026-10-23T13:39:55+08:00"
   }
  ],
- "lastChecked": "2026-10-23T13:10:39+08:00"
+ "lastChecked": "2026-10-23T13:39:55+08:00"
 }
