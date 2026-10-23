@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T21:33:19+08:00",
+ "lastUpdated": "2026-10-23T21:43:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20450,7 +20450,18 @@
    ],
    "topic": "keep-android-open-70-days",
    "firstSeen": "2026-10-23T21:33:19+08:00"
+  },
+  {
+   "id": "6f6392a843",
+   "title": "Nitter 分支 Shitter 登上 HN：无 JS、免登录的隐私版 X/Twitter 前端，托管在 Codeberg",
+   "summary": "Codeberg 上的开源项目 Shitter 是 zedeus/nitter 的分支，刚登上 Hacker News 首页。它延续 Nitter 思路：所有请求走后端，浏览器不直接连 X，不跑 JavaScript、无广告，支持 RSS、主题和移动端，页面体积约 60KB（官方页面约 784KB）；使用 X 的非官方接口，不需要开发者账号，但要自行准备会话令牌。仓库约 130 星，不接受 PR，只收补丁文件。X 收紧未登录访问后，自建只读镜像、RSS 订阅和舆情监控工具仍有需求，但依赖非官方接口，随时可能失效。",
+   "links": [
+    "https://codeberg.org/shitter/shitter",
+    "https://news.ycombinator.com/item?id=50208343"
+   ],
+   "topic": "shitter-nitter-fork",
+   "firstSeen": "2026-10-23T21:43:12+08:00"
   }
  ],
- "lastChecked": "2026-10-23T21:33:19+08:00"
+ "lastChecked": "2026-10-23T21:43:12+08:00"
 }
