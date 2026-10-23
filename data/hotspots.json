@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T17:59:02+08:00",
+ "lastUpdated": "2026-10-23T18:47:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20320,7 +20320,18 @@
    ],
    "topic": "x402-agent-payments-beincrypto-report",
    "firstSeen": "2026-10-23T17:59:02+08:00"
+  },
+  {
+   "id": "e4190cad2a",
+   "title": "MiniMax 开放 M3.1 Flash 权重：4280 亿参数多模态 MoE、每 token 激活 230 亿，1M 上下文主打 Agent 与网络安全",
+   "summary": "MiniMax 在 Hugging Face 放出 MiniMax-M3.1-Flash 完整权重（MiniMax 社区许可，非标准开源协议）：原生多模态 MoE，总参数约 4280 亿、每 token 激活约 230 亿，支持文本、图片、视频输入和最长 100 万 token 上下文，全模型使用 MiniMax 稀疏注意力，并自带 DSpark 推测解码草稿头。官方成绩包括 BankerToolBench 76.2、DeepSWE v1.1 73.7%、OSWorld V2 61.7、CyberGym 82.2。Together AI、vLLM 已第一时间跟进支持，X 上不少人用它生成 3D 场景测试。继 10 月 19 日发布 API 版后，这次开放权重让自托管 Agent、编码和安全测试多了一个高性价比选项，但部署体量不小，商用前要看清许可条款。",
+   "links": [
+    "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+    "https://x.com/i/trending/2113123833632694605"
+   ],
+   "topic": "minimax-m3-1-flash-open-weights",
+   "firstSeen": "2026-10-23T18:47:53+08:00"
   }
  ],
- "lastChecked": "2026-10-23T17:59:02+08:00"
+ "lastChecked": "2026-10-23T18:47:53+08:00"
 }
