@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T12:13:40+08:00",
+ "lastUpdated": "2026-10-23T12:27:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20056,7 +20056,38 @@
    ],
    "topic": "cve-surge-chart-2026",
    "firstSeen": "2026-10-23T12:13:40+08:00"
+  },
+  {
+   "id": "7a101ef64d",
+   "title": "华中 2.7 万名中学生 30 个月追踪：用 AI 写作业更快、作业分更高，但考试成绩反降约 20%",
+   "summary": "一项覆盖中国中部 26,811 名中学生、为期 30 个月的研究在 X 上热议：使用 AI 的学生作业时间从 64 分钟降到 45 分钟、作业得分提升约 18%，但六个月内考试成绩下降约 20%，两年后高利害考试最多下降 24%。降幅集中在文科、尖子生、男生和低年级，尤其是约八成把作业“外包”给 AI 而非深度使用的学生。评论区把它比作柏拉图对“文字削弱记忆”的担忧，也有人认为关键在于怎么用，教育者正寻找引导方式。",
+   "links": [
+    "https://x.com/i/trending/2113473469253861713"
+   ],
+   "topic": "china-ai-homework-exam-study",
+   "firstSeen": "2026-10-23T12:27:13+08:00"
+  },
+  {
+   "id": "54ee1c1afe",
+   "title": "Theo 用“厨师与厨房”比喻讲清 AI Agent 的 Harness：T3 Code 接入 Claude Code、Codex 而非自造",
+   "summary": "开发者 Theo 发长帖解释 harness：它是把裸大模型变成能执行动作的 Agent 的那层工具、语法与执行环境，就像应用让人不用写底层代码也能用电脑。他澄清自家 T3 Code 并不自建 harness，而是对接 Claude Code、Codex 等现有 harness。开发者认为这厘清了常被混淆的概念，也有人强调随着编码 Agent 变强，可靠的封装层才是关键竞争点。",
+   "links": [
+    "https://x.com/i/trending/2113341163344384328"
+   ],
+   "topic": "theo-ai-harness-explainer",
+   "firstSeen": "2026-10-23T12:27:13+08:00"
+  },
+  {
+   "id": "d4a92e4c8b",
+   "title": "Jank 冲上 HN：原生编译的 Clojure 方言，可与 C++ 无缝互操作",
+   "summary": "Jank 是一门基于 LLVM 原生编译的 Clojure 方言，保留 Clojure 的 REPL 交互式开发与不可变数据结构，同时能直接调用 C++ 库、与 C++ 代码无缝互操作，面向游戏、原生应用等对性能敏感、又想要 Lisp 开发体验的场景。项目登上 Hacker News 首页，引发对“Clojure 脱离 JVM”可行性与 C++ 生态复用的讨论。",
+   "links": [
+    "https://jank-lang.org/",
+    "https://news.ycombinator.com/item?id=50202762"
+   ],
+   "topic": "jank-clojure-cpp",
+   "firstSeen": "2026-10-23T12:27:13+08:00"
   }
  ],
- "lastChecked": "2026-10-23T12:13:40+08:00"
+ "lastChecked": "2026-10-23T12:27:13+08:00"
 }
