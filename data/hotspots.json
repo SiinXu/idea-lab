@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T21:43:12+08:00",
+ "lastUpdated": "2026-10-23T21:59:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20461,7 +20461,18 @@
    ],
    "topic": "shitter-nitter-fork",
    "firstSeen": "2026-10-23T21:43:12+08:00"
+  },
+  {
+   "id": "36ed55ccf5",
+   "title": "德国另类选择党（AfD）遭黑客泄露 281GB 内部邮件：泄露站用 AI 给数十万封邮件写摘要并按风险分级",
+   "summary": "Bitdefender 安全博客报道，德国极右翼政党 AfD 已确认其托管服务商 9 月被入侵、部分邮箱被复制，最新邮件日期到 2026 年 9 月 12 日。泄露站 Hexane.cc 没有直接公开原文，而是用 AI 生成数十万封邮件的摘要，按种族主义、反犹等类别归类，并从 Low 到 Critical 分级，原始邮件（含 DKIM 签名）通过种子下载。报道称入侵可能源于一个未打补丁的网站，但尚未独立核实。这是“AI 自动整理泄露数据”的新形态，也再次说明老旧网站和闲置邮箱的风险。",
+   "links": [
+    "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
+    "https://news.ycombinator.com/item?id=50208258"
+   ],
+   "topic": "afd-281gb-leak-ai-summaries",
+   "firstSeen": "2026-10-23T21:59:59+08:00"
   }
  ],
- "lastChecked": "2026-10-23T21:43:12+08:00"
+ "lastChecked": "2026-10-23T21:59:59+08:00"
 }
