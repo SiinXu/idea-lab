@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T15:00:10+08:00",
+ "lastUpdated": "2026-10-23T15:09:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20185,7 +20185,18 @@
    ],
    "topic": "local-wikipedia-walk-2026-10",
    "firstSeen": "2026-10-23T15:00:10+08:00"
+  },
+  {
+   "id": "8db2bf743b",
+   "title": "同一个 AI 请求在德州的碳排放是瑞典的 8.5 倍：Berget AI 开源“逐请求算碳”方法",
+   "summary": "瑞典推理服务商 Berget AI 联合斯德哥尔摩环境研究所（SEI）、WattTime 和 Klimatkollen，开源了按单次 AI 请求计算碳排放的方法（MIT 协议，遵循绿色软件基金会 SCI for AI 规范），并上线计算器 co2.berget.ai。以开源模型 Kimi K3 的一次典型请求为例：瑞典约 0.4 克 CO₂，爱尔兰 1.6 克，德国 2.5 克，德州 3.2 克，同样硬件下相差 8.5 倍。文章还提到开源权重模型在 Vercel AI Gateway 的 token 占比已从 4 月的 11% 升到 6 月的 29%。该话题刚登上 Hacker News。对做 AI 产品的人来说，“按请求展示碳足迹/绿色推理选区”可能成为企业采购的新卖点。",
+   "links": [
+    "https://berget.ai/en/blog/per-request-co2-press-release",
+    "https://news.ycombinator.com/item?id=50205229"
+   ],
+   "topic": "berget-per-request-co2-2026-10",
+   "firstSeen": "2026-10-23T15:09:34+08:00"
   }
  ],
- "lastChecked": "2026-10-23T15:00:10+08:00"
+ "lastChecked": "2026-10-23T15:09:34+08:00"
 }
