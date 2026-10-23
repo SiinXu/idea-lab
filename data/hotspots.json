@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T21:17:27+08:00",
+ "lastUpdated": "2026-10-23T21:33:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20439,7 +20439,18 @@
    ],
    "topic": "openssl-4-1-0-release",
    "firstSeen": "2026-10-23T21:17:27+08:00"
+  },
+  {
+   "id": "404bfae30a",
+   "title": "“Keep Android Open”倒计时页冲上 HN：距谷歌强制开发者实名注册还剩 70 天，F-Droid 称其为“生存威胁”",
+   "summary": "倡议网站 keepandroidopen.org 上线倒计时，刚登上 Hacker News 就快速涨票。页面称：谷歌 2025 年 8 月宣布，从 2027 年起所有 Android 应用开发者（不只是 Play 商店，也包括 F-Droid、朋友间分享和个人自用的应用）都必须先在谷歌集中注册，交费、签协议、提交政府身份证件、证明签名私钥并登记全部应用包名，否则应用会在全球设备上被静默拦截安装，且无法关闭。F-Droid 称这是“生存威胁”，Cory Doctorow 称之为“Darth Android”。页面提供 30 多种语言并号召在 X、Mastodon、Bluesky 转发。对独立开发者和做侧载/海外分发 APK 的团队，需要提前规划开发者认证，或把渠道转向 PWA 和网页版。",
+   "links": [
+    "https://keepandroidopen.org/",
+    "https://news.ycombinator.com/item?id=50208558"
+   ],
+   "topic": "keep-android-open-70-days",
+   "firstSeen": "2026-10-23T21:33:19+08:00"
   }
  ],
- "lastChecked": "2026-10-23T21:17:27+08:00"
+ "lastChecked": "2026-10-23T21:33:19+08:00"
 }
