@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T16:17:04+08:00",
+ "lastUpdated": "2026-10-23T16:24:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20229,7 +20229,18 @@
    ],
    "topic": "epic-ai-megajam-2026",
    "firstSeen": "2026-10-23T16:17:04+08:00"
+  },
+  {
+   "id": "5c6a065c01",
+   "title": "Chrome 开启 HTML-in-Canvas API 源试用：DOM 可直接画进 Canvas / WebGL / WebGPU 纹理，还能保持可交互和无障碍",
+   "summary": "Chrome 宣布实验性 HTML-in-Canvas API 进入 origin trial：开发者可以把真实的 HTML 内容绘制到 2D Canvas 或 WebGL/WebGPU 纹理里，同时保留点击、选中复制、无障碍、翻译、页内查找、自动填充等浏览器原生能力。过去游戏和 Figma、Google Docs 这类重图形应用只能在“DOM 的语义能力”和“Canvas 的渲染性能”之间二选一，这个 API 试图打通两者。帖子登上 HN 热榜，对做 3D 网页、炫酷首屏和交互式作品集的前端来说，是值得提前跟进的新玩法。",
+   "links": [
+    "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+    "https://news.ycombinator.com/item?id=50200164"
+   ],
+   "topic": "chrome-html-in-canvas-origin-trial",
+   "firstSeen": "2026-10-23T16:24:41+08:00"
   }
  ],
- "lastChecked": "2026-10-23T16:17:04+08:00"
+ "lastChecked": "2026-10-23T16:24:41+08:00"
 }
