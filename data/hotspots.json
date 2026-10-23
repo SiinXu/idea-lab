@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T20:40:27+08:00",
+ "lastUpdated": "2026-10-23T21:17:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20428,7 +20428,18 @@
    ],
    "topic": "new-cyber-normal-blog-2026-10-23",
    "firstSeen": "2026-10-23T20:40:27+08:00"
+  },
+  {
+   "id": "653084f227",
+   "title": "OpenSSL 4.1.0 正式发布：支持 DTLS 1.3、GREASE，并加速 ML-KEM/ML-DSA 后量子算法",
+   "summary": "OpenSSL 于北京时间 10 月 23 日晚发布 4.1.0 功能版本，刚登上 HN。新功能包括 DTLS 1.3（RFC 9147）、RFC 8701 GREASE 扩展、SSL 监听 API 支持 DTLS、IKEv2 KDF，以及对 Elbrus2000 架构的初步支持；性能方面为 ppc64le 和 x86_64 优化了 ML-KEM / ML-DSA 后量子算法，并用 AVX-512 加速 SHAKE 与 AES-CBC 解密。不兼容变化包括移除 Windows on Itanium 和 Windows CE 目标、删除 no-ecdsa/no-ecdh 配置项，tsget 改用 Net::Curl::Easy。官方列出了几个 DTLS 1.3 / DTLS 监听的已知问题，生产环境建议先观望。对做 IoT、实时音视频、VPN 的团队，DTLS 1.3 加后量子加速是升级加密栈的信号。",
+   "links": [
+    "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+    "https://news.ycombinator.com/item?id=50208099"
+   ],
+   "topic": "openssl-4-1-0-release",
+   "firstSeen": "2026-10-23T21:17:27+08:00"
   }
  ],
- "lastChecked": "2026-10-23T20:40:27+08:00"
+ "lastChecked": "2026-10-23T21:17:27+08:00"
 }
