@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T18:53:49+08:00",
+ "lastUpdated": "2026-10-23T19:14:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20341,7 +20341,17 @@
    ],
    "topic": "samsung-tv-rooted-tracking",
    "firstSeen": "2026-10-23T18:53:49+08:00"
+  },
+  {
+   "id": "34c5b6926b",
+   "title": "Claude-Red：面向 Claude Skills 的进攻性安全技能库上 GitHub 日榜，约 8000 星",
+   "summary": "SnailSploit/Claude-Red 今天进入 GitHub Trending 日榜，单日新增约 209 星、累计约 8000 星。它把渗透测试方法整理成一份份 SKILL.md，覆盖 SQL 注入、shellcode、EDR 绕过、漏洞利用开发等攻击面，让 Claude 按专家流程做安全测试。同榜第一的 cloudflare/security-audit-skill 单日涨了 2700 多星，说明“把安全审计做成 Agent 技能包”正在快速升温；面向企业的合规化安全技能包、红队演练服务有明确需求，但这类工具同样可能被滥用，使用需在授权范围内。",
+   "links": [
+    "https://github.com/SnailSploit/Claude-Red"
+   ],
+   "topic": "claude-red-security-skills",
+   "firstSeen": "2026-10-23T19:14:37+08:00"
   }
  ],
- "lastChecked": "2026-10-23T18:53:49+08:00"
+ "lastChecked": "2026-10-23T19:14:37+08:00"
 }
