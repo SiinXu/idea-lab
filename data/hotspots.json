@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T08:27:49+08:00",
+ "lastUpdated": "2026-10-23T08:41:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -19806,7 +19806,28 @@
    ],
    "topic": "warhound-gene-edited-dogs",
    "firstSeen": "2026-10-23T08:27:49+08:00"
+  },
+  {
+   "id": "5274d1b07f",
+   "title": "IBM CEO 克里希纳：大企业开始怀疑巨额 AI 投入能否回本，“AI 泡沫”讨论再起",
+   "summary": "IBM 财报电话会上，Arvind Krishna 表示企业客户对看不到明确回报的 AI 支出越来越谨慎，而云巨头仍在向数据中心砸下数千亿美元。讨论随即扩散到 AI 泡沫是否会破裂、资金会不会流向比特币等避险资产；支持者则认为长期价值仍在，关键是 AI 投资何时兑现。",
+   "links": [
+    "https://x.com/i/trending/2113426537206747522"
+   ],
+   "topic": "ibm-ceo-ai-spending-roi",
+   "firstSeen": "2026-10-23T08:41:58+08:00"
+  },
+  {
+   "id": "dd72d6a942",
+   "title": "AI 视频《全民高收入》走红：麦田里起舞的“后工作时代”被网友称为 slopcore",
+   "summary": "创作者 @anabology 10 月 22 日发布约 4 分钟的 AI 生成 MV，描绘 AI 与机器人创造足够财富、人人不必工作的“全民高收入”社会。精致却略显诡异的画风被网友命名为“slopcore”，一边被夸有艺术感，一边引发对失业、依赖与人生意义的讨论，带动同类 AI 未来短片一起刷屏。",
+   "links": [
+    "https://x.com/i/trending/2113428903914324178",
+    "https://x.com/i/trending/2112977625840755040"
+   ],
+   "topic": "ai-video-universal-high-income-slopcore",
+   "firstSeen": "2026-10-23T08:41:58+08:00"
   }
  ],
- "lastChecked": "2026-10-23T08:27:49+08:00"
+ "lastChecked": "2026-10-23T08:41:58+08:00"
 }
