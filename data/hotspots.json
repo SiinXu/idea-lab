@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T14:16:47+08:00",
+ "lastUpdated": "2026-10-26T14:27:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20572,7 +20572,29 @@
    ],
    "topic": "ifixit-iphone-duo-teardown",
    "firstSeen": "2026-10-26T14:16:47+08:00"
+  },
+  {
+   "id": "1dc75a32fc",
+   "title": "皮肤科医生实测：10 年前的老 CNN 诊断皮肤癌，准确率反超 GPT-6 Astra 和 Claude Fable 5.1",
+   "summary": "英国皮肤科医生 Magnus Lynch 用公开数据集 MILK10k 随机抽取 200 个病理确诊的皮损（各配一张临床照和一张皮肤镜图），让 GPT-6 Astra、Claude Fable 5.1 和一个 2015 年的 Inception v3（只微调约 20 分钟）做六选一诊断。结果老 CNN 答对 125 例（62%），两个前沿大模型只答对 84 和 85 例（约 42%），其中一例耳部黑色素瘤被两个大模型都判成良性脂溢性角化、建议直接出院。文章登上 Hacker News 首页（约 500 分、200+ 评论），引发“通用大模型能不能直接做医疗诊断”的讨论。垂直领域的小模型微调、医疗 AI 评测和“通用模型 + 专用分类器”组合方案值得关注。",
+   "links": [
+    "https://lynchlab.net/llm-skin-cancer",
+    "https://news.ycombinator.com/item?id=50233779"
+   ],
+   "topic": "cnn-beats-llm-skin-cancer",
+   "firstSeen": "2026-10-26T14:27:35+08:00"
+  },
+  {
+   "id": "c45c68dc9f",
+   "title": "Max Woolf 复盘：OpenAI 和 Anthropic 几个月内把大模型价格砍了最多 80%，缓存读取降价让智能体编程成本骤降",
+   "summary": "知名开发者博主 Max Woolf 梳理了 2026 年 6 月以来两家的定价时间线：GPT-5.6 Luna 一次降价 80%；Claude Sonnet 5 的首发低价转为永久；Fable 5.1 把缓存读取价格砍掉 75%（他指出智能体编程里 96%~99% 的 token 花在缓存读取上，所以实际成本降了约七成）；9 月 22 日 GPT-6 Sol 定价 2/10 美元、输入输出价格比前代减半，同一天 Anthropic 发布的 Opus 5.5 也明确因为“更省算力”而降价。文章正在 Hacker News 热议（约 240 分、260+ 评论），讨论降价背后是竞争、DeepSeek 等开源模型压力还是推理效率提升。做 AI 应用的团队可以重新算一遍单位成本，过去因为太贵而放弃的智能体产品可能已经划算。",
+   "links": [
+    "https://minimaxir.com/2026/10/cheap-llms/",
+    "https://news.ycombinator.com/item?id=50236102"
+   ],
+   "topic": "openai-anthropic-llm-price-cuts",
+   "firstSeen": "2026-10-26T14:27:35+08:00"
   }
  ],
- "lastChecked": "2026-10-26T14:16:47+08:00"
+ "lastChecked": "2026-10-26T14:27:35+08:00"
 }
