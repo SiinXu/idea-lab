@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T06:12:17+08:00",
+ "lastUpdated": "2026-10-27T06:27:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21408,7 +21408,43 @@
    ],
    "topic": "openai-eth-kakeya-yang-mills-2026-10",
    "firstSeen": "2026-10-27T06:12:17+08:00"
+  },
+  {
+   "id": "022fc027bd",
+   "title": "Superset 更名 Paradev 并完成 1150 万美元种子轮：USV 领投，押注「同时指挥上百个编程智能体」的编排层",
+   "summary": "开源的多智能体编程工作台 Superset 今天宣布更名为 Paradev，并完成由 Union Square Ventures 领投、Y Combinator 和 Paul Graham 等参投的 1150 万美元种子轮。它让开发者在一个界面里并行运行 Claude Code、Codex、OpenCode 等多个编程智能体，每个智能体在独立的 Git worktree 中工作，再集中审阅 diff，桌面和手机都能操作。官方称上线不到一年已有数十万开发者使用，覆盖 180 个国家和八分之一的财富 500 强公司。USV 认为「如何管理一支智能体团队」正取代「智能体能不能干活」成为核心问题，与具体模型和工具无关的编排层有望成为控制平面；并行智能体的任务拆分、审阅和成本管理相关工具与教程值得关注。",
+   "links": [
+    "https://paradev.com/blog/superset-is-now-paradev",
+    "https://www.usv.com/writing/paradev",
+    "https://x.com/i/trending/2114773313847222692"
+   ],
+   "topic": "paradev-superset-seed-2026-10",
+   "firstSeen": "2026-10-27T06:27:21+08:00"
+  },
+  {
+   "id": "7e1ba6de65",
+   "title": "瑞典 Strawberry 发布 1.0 版 AI 浏览器：非技术团队训练可共享的「伙伴」智能体，本地运行、敏感操作需人工批准",
+   "summary": "斯德哥尔摩初创公司 Strawberry 今天让其 AI 浏览器结束测试、发布 1.0 版，登上 Product Hunt 榜首。它面向销售、招聘、客服和市场等不写代码的岗位：用户在浏览器里训练名为「伙伴」（companion）的智能体，直接使用已有的标签页、工具和登录状态完成重复工作，训练好的伙伴可分享给整个团队；伙伴可按计划或在收到新邮件、新线索时自动运行，大任务（如调研 200 家公司）可拆给多个并行子智能体。1.0 还新增 9 个现成伙伴和无需机器人入会的 Zoom/Teams/Google Meet 本地会议记录。发邮件、发帖或改记录前会暂停等待批准，密码留在本地浏览器，数据可留在欧盟。支持 macOS 和 Windows，有免费版，付费每月 20 美元起。该公司 12 人，去年获 General Catalyst 和 EQT 共同领投的 600 万美元。",
+   "links": [
+    "https://thenextweb.com/news/strawberry-ai-browser-1-0-launch",
+    "https://strawberrybrowser.com/updates/strawberry-1-0",
+    "https://tech.eu/2026/10/26/swedish-ai-browser-strawberry-takes-on-us-ai-heavy-hitters-as-comes-out-of-beta/"
+   ],
+   "topic": "strawberry-browser-1-0-2026-10",
+   "firstSeen": "2026-10-27T06:27:21+08:00"
+  },
+  {
+   "id": "f40066880a",
+   "title": "Cursor Agent SDK 在 X 上引发热议：用 Markdown 写提示、TypeScript 写工具，把智能体当代码项目来测试和部署",
+   "summary": "Cursor 的 Agent SDK（10 月 20 日发布、23 日 0.3.0 正式版）今天在 X 上成为热门话题。它是 Cursor 自家 Bugbot、Security Reviewer 等托管智能体所用的框架：一个智能体就是一个文件夹，instructions.md 是提示词，tools/ 里每个 TypeScript 文件是一个可调用动作，另有 skills/、mcp-connections/ 和 channels/。智能体可在 GitHub/GitLab/Bitbucket 的 PR、评论和 CI 事件，Slack 提及与私信，Webhook 或定时任务时被唤醒；自带本地调试界面和评测（eval）系统，可把真实 PR 重放为测试数据；用 agent-sdk deploy 一条命令部署到 Cursor 云端，也可作为单个 Node 进程自托管。官方提供安全审查、PR 自动修复、Linear/Jira 分诊等模板。开发者认为它把可靠的测试带进了智能体行为；基于它的 PR 审查、合规检查等定制智能体模板和教程有机会。",
+   "links": [
+    "https://cursor.com/blog/agent-sdk",
+    "https://cursor.com/docs/agent-sdk",
+    "https://x.com/i/trending/2114820687508406325"
+   ],
+   "topic": "cursor-agent-sdk-2026-10",
+   "firstSeen": "2026-10-27T06:27:21+08:00"
   }
  ],
- "lastChecked": "2026-10-27T06:12:17+08:00"
+ "lastChecked": "2026-10-27T06:27:21+08:00"
 }
