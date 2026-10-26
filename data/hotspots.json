@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T03:31:28+08:00",
+ "lastUpdated": "2026-10-27T03:44:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21264,7 +21264,29 @@
    ],
    "topic": "meta-employees-brazil-election-statement-2026-10",
    "firstSeen": "2026-10-27T03:31:28+08:00"
+  },
+  {
+   "id": "2d0598bc83",
+   "title": "美国 EPA 悄悄宣布年底关停网站历史存档：数万份污染、清洁能源与气候政策文档将从网上消失",
+   "summary": "据 Mother Jones 报道，美国环保署（EPA）在网站上以一条不起眼的横幅通知，计划在今年年底下线其在线网页存档。这个存档保存了至少 20 年的环境资料，包括污染事件、清洁能源政策、事实说明以及过去政府的气候政策文件，长期被研究者、立法者和公众使用。环境数据与治理倡议组织（EDGI）联合创始人 Gretchen Gehrke 表示，这些信息不可替代，一旦下线将永久丢失。消息发布不到一小时就冲上 HN 首页。对做公共数据备份、网页存档、政府数据镜像或开放数据检索工具的团队来说，这是又一个「抢救公共数据」的需求信号。",
+   "links": [
+    "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+    "https://news.ycombinator.com/item?id=50249275"
+   ],
+   "topic": "epa-web-archive-decommission-2026-10",
+   "firstSeen": "2026-10-27T03:44:21+08:00"
+  },
+  {
+   "id": "04d9c86d75",
+   "title": "Windows 11 还能直接跑的最老 GUI 程序是哪个？开发者挖出 1992 年 NT 预发布版的 CD 播放器",
+   "summary": "一位开发者想弄清楚：不做修改、不用模拟器，Windows 11 上还能运行的最老图形界面程序是什么。64 位 Windows 已经没有 NTVDM，16 位程序无法运行，所以只能从早期 NT 时代找。他先发现 1993 年 2 月的 Win32s 版 FREECELL.EXE（空当接龙）可以直接玩，随后翻遍 Internet Archive 上的 NT 3.1 预发布版本，最终找到 Build 347 中 1992 年 11 月链接的 CDPLAYER.EXE：它用的是系统自带的 crtdll.dll（Win11 的 SysWOW64 里仍然保留），因此能够启动；配合一个模拟光驱的小 DLL 后就能运行。文章还解释了更早的版本为什么会崩溃，比如 1991 年使用的是草案版 PE 格式，以及调用约定从 cdecl 改为 stdcall 导致参数被重复出栈。这篇文章正在 HN 首页传播，是 Windows 向后兼容性话题的一个有趣案例。",
+   "links": [
+    "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+    "https://news.ycombinator.com/item?id=50248055"
+   ],
+   "topic": "oldest-gui-app-windows-11-2026-10",
+   "firstSeen": "2026-10-27T03:44:21+08:00"
   }
  ],
- "lastChecked": "2026-10-27T03:31:28+08:00"
+ "lastChecked": "2026-10-27T03:44:21+08:00"
 }
