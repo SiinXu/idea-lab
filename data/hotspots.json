@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T00:01:56+08:00",
+ "lastUpdated": "2026-10-27T00:25:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21106,7 +21106,18 @@
    ],
    "topic": "microsoft-voluntary-buyout-quarter-workforce-2026-10",
    "firstSeen": "2026-10-27T00:01:56+08:00"
+  },
+  {
+   "id": "d1a3b4fa5d",
+   "title": "Sebastian Raschka 发布「从零构建推理模型」完整视频课：8 集、11 小时 PyTorch 手写评测、推理时扩展、强化学习与蒸馏",
+   "summary": "《Build a Reasoning Model (From Scratch)》作者 Sebastian Raschka 在 Ahead of AI 放出配套视频课：从一个预训练 LLM 出发，用 Python/PyTorch 逐步实现评测、推理时扩展（inference-time scaling）、带可验证奖励的强化学习和蒸馏，共 8 集、11 小时以上，是去年「从零编写 LLM」课程的续作。文中还用「引擎与车身」比喻解释推理模型与智能体框架（harness）的关系。上线约 1 小时即冲上 Hacker News 首页，适合想真正搞懂推理模型训练流程的开发者，也可作为 AI 学习类内容/课程产品的选题参考。",
+   "links": [
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "https://news.ycombinator.com/item?id=50245138"
+   ],
+   "topic": "raschka-reasoning-models-from-scratch-video-course-2026-10",
+   "firstSeen": "2026-10-27T00:25:44+08:00"
   }
  ],
- "lastChecked": "2026-10-27T00:01:56+08:00"
+ "lastChecked": "2026-10-27T00:25:44+08:00"
 }
