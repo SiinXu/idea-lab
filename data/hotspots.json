@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T16:13:09+08:00",
+ "lastUpdated": "2026-10-26T16:27:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20793,7 +20793,18 @@
    ],
    "topic": "",
    "firstSeen": "2026-10-26T16:13:09+08:00"
+  },
+  {
+   "id": "cb1d3cf556",
+   "title": "C++26 标准草案 DIS 投票未通过：史上首个被否的 C++ 草案",
+   "summary": "ISO 投票 10 月 23 日结束，C++26 被判 Disapproved，反射、std::execution、库加固和 Contracts 都卡在未获批的草案里，延期多久尚不清楚；争议焦点是 Contracts。HN 正在讨论。",
+   "links": [
+    "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
+    "https://news.ycombinator.com/item?id=50239748"
+   ],
+   "topic": "cpp26-dis-ballot",
+   "firstSeen": "2026-10-26T16:27:45+08:00"
   }
  ],
- "lastChecked": "2026-10-26T16:13:09+08:00"
+ "lastChecked": "2026-10-26T16:27:45+08:00"
 }
