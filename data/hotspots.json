@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T16:58:45+08:00",
+ "lastUpdated": "2026-10-26T17:08:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20827,7 +20827,18 @@
    ],
    "topic": "pollen-microduck",
    "firstSeen": "2026-10-26T16:58:45+08:00"
+  },
+  {
+   "id": "68e16cd5b4",
+   "title": "Keybytes 开源真·模块化键盘：每颗键都是独立 RISC-V 小板，可随意重排",
+   "summary": "Show HN 热帖 Keybytes 是一把完全开源的模块化键盘：每个按键都是独立的 1u PCB，各带一颗 CH32V003 RISC-V 单片机，四边用弹簧针（pogo pin）互连，可自由拼装布局；主控板用 STM32WB55，支持蓝牙和 USB，外壳为磁吸结构。KiCad 电路、Onshape 外壳设计全部公开，适合关注开源硬件和客制化键盘的开发者。",
+   "links": [
+    "https://github.com/notaroomba/keybytes",
+    "https://news.ycombinator.com/item?id=50228115"
+   ],
+   "topic": "keybytes-modular-keyboard",
+   "firstSeen": "2026-10-26T17:08:53+08:00"
   }
  ],
- "lastChecked": "2026-10-26T16:58:45+08:00"
+ "lastChecked": "2026-10-26T17:08:53+08:00"
 }
