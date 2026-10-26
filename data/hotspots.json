@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T00:25:44+08:00",
+ "lastUpdated": "2026-10-27T00:47:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21117,7 +21117,18 @@
    ],
    "topic": "raschka-reasoning-models-from-scratch-video-course-2026-10",
    "firstSeen": "2026-10-27T00:25:44+08:00"
+  },
+  {
+   "id": "fb4e0f4309",
+   "title": "CSS-Tricks 重回独立：长期主编 Geoff Graham 从 DigitalOcean 手中接手这个老牌前端站",
+   "summary": "2022 年 DigitalOcean 从创始人 Chris Coyier 手中收购了 CSS-Tricks，如今在站点工作 12 年的主编 Geoff Graham 宣布个人接手所有权，转为全职运营，并计划回归「展示广告 + 赞助文章 + Newsletter 赞助」的独立媒体模式，同时把站点做成更包容的前端学习社区。消息发布约 1 小时冲上 Hacker News 首页第二。对内容站运营者来说，这是又一个「平台收购后内容资产回流个人」的案例，也说明垂直技术内容站靠赞助广告仍有独立生存空间。",
+   "links": [
+    "https://css-tricks.com/css-tricks-has-a-new-owner/",
+    "https://news.ycombinator.com/item?id=50245831"
+   ],
+   "topic": "css-tricks-independent-again-2026-10",
+   "firstSeen": "2026-10-27T00:47:02+08:00"
   }
  ],
- "lastChecked": "2026-10-27T00:25:44+08:00"
+ "lastChecked": "2026-10-27T00:47:02+08:00"
 }
