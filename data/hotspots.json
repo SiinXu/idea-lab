@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T15:14:27+08:00",
+ "lastUpdated": "2026-10-26T15:31:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20728,7 +20728,18 @@
    ],
    "topic": "hallmark-anti-slop-design-skill",
    "firstSeen": "2026-10-26T15:14:27+08:00"
+  },
+  {
+   "id": "13b5d33bcb",
+   "title": "Dan Luu 新文冲上 HN 头条：我们写软件应该更有野心",
+   "summary": "Dan Luu 发文《We should be more ambitious with the software we build》，以 Michael Malis 用 Rust 重写 Postgres 的 pgrust 为例：尽管外界容易把这类项目当成 AI 糊出来的玩具，但其测试足够彻底，已挖出 Postgres 本身多个真实 bug（SP-GiST 数值、JSONPath 格式缓存、pgcrypto、内存安全等）。文章在 Hacker News 获近 800 分，引发关于 AI 时代该不该挑战「重写大系统」的讨论。",
+   "links": [
+    "https://danluu.com/ambitious/",
+    "https://news.ycombinator.com/item?id=50225695"
+   ],
+   "topic": "danluu-ambitious-software-pgrust",
+   "firstSeen": "2026-10-26T15:31:18+08:00"
   }
  ],
- "lastChecked": "2026-10-26T15:14:27+08:00"
+ "lastChecked": "2026-10-26T15:31:18+08:00"
 }
