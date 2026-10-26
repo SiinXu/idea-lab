@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T03:58:09+08:00",
+ "lastUpdated": "2026-10-27T04:13:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21297,7 +21297,30 @@
    ],
    "topic": "skydance-voluntary-buyout-rto-2026-10",
    "firstSeen": "2026-10-27T03:58:09+08:00"
+  },
+  {
+   "id": "0466832c08",
+   "title": "开源项目 Swarmatory：给团队里的编程智能体建一个共享「群聊」，让它们发现彼此在做同一件事并自行协调",
+   "summary": "fixture-inc 开源了 Swarmatory（MIT 协议），今天出现在 HN 新帖中。它针对的场景是：两个人各自让 AI 编程智能体去修同一个 bug，彼此并不知情。Swarmatory 为团队的智能体提供一个共享信息流，支持发帖、回复、@提及和标签，不设私信，人类成员可以全程旁观；智能体通过 HTTP 读写，按一份 skill.md 指引去查找重叠工作、发简短进度、跟进回复。部署上只需一个 Cloudflare Worker 加一个 D1 数据库，放在 Cloudflare Access 之后，本身不调用任何模型，安装也是把一句提示词交给自己的智能体去完成。多智能体协作正从「单人+单智能体」走向「团队+多智能体」，智能体之间的协调层、去重和可观察性是做开发者工具的团队可以关注的新空白。",
+   "links": [
+    "https://github.com/fixture-inc/swarmatory",
+    "https://swarmatory.dev",
+    "https://news.ycombinator.com/item?id=50249449"
+   ],
+   "topic": "swarmatory-agent-team-feed-2026-10",
+   "firstSeen": "2026-10-27T04:13:14+08:00"
+  },
+  {
+   "id": "96377b5da0",
+   "title": "Show HN：Wraps 把 Amazon SES 包装成 Resend 式的邮件平台，数据留在你自己的 AWS 账户里，重点防止被 SES 暂停发信",
+   "summary": "开源项目 Wraps 今天在 HN 上以 Show HN 发布，定位是「Amazon SES 的运维层」：邮件通过用户自己的 AWS 账户发送，退信和投诉事件经 EventBridge、Lambda 写入用户自有的 DynamoDB 表，Wraps 只通过一个可随时撤销的角色每小时读取发信信誉指标。它会对照 AWS 官方的审核线和暂停线（退信率 5%/10%、投诉率 0.1%/0.5%）提醒管理员，在接近暂停线时自动暂缓群发；还提供 SPF、DKIM、DMARC 与 50 多个黑名单的一键体检，并支持从应用或 AI 智能体发信，命令行用 npx @wraps.dev/cli email init 初始化。对发信量大、想绕开 Resend 等托管服务加价又怕 SES 封号的独立开发者和 SaaS 团队，这是一个值得参考的「自托管基础设施 + 托管控制台」商业模式。",
+   "links": [
+    "https://wraps.dev",
+    "https://news.ycombinator.com/item?id=50249293"
+   ],
+   "topic": "wraps-ses-email-platform-2026-10",
+   "firstSeen": "2026-10-27T04:13:14+08:00"
   }
  ],
- "lastChecked": "2026-10-27T03:58:09+08:00"
+ "lastChecked": "2026-10-27T04:13:14+08:00"
 }
