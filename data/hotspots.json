@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T02:42:31+08:00",
+ "lastUpdated": "2026-10-27T02:55:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21218,7 +21218,20 @@
    ],
    "topic": "microsoft-type-server-protocol-2026-10",
    "firstSeen": "2026-10-27T02:42:31+08:00"
+  },
+  {
+   "id": "554922a3ce",
+   "title": "美国能源部把氦列为关键材料：理由是半导体制造离不开氦，氦生产商可获更多联邦融资",
+   "summary": "美国能源部 10 月 23 日宣布，依据《2020 年能源法》将氦加入能源部关键材料清单，相关公告定于 10 月 27 日在联邦公报正式发布。官方给出的理由是：氦在半导体制造、天然气管网检漏、量子计算以及医疗和科研设备中基本无法替代，而全球需求增长快于产量，供应链存在中断风险。据美联社报道，列入清单后氦生产商能获得更多联邦融资，政府也会加强对氦供应的监测；氦主要是天然气加工的副产品，美国是最大生产国，卡塔尔和俄罗斯紧随其后。能源部也承认，美国虽然资源丰富，但提纯能力有限、审批周期长，产量仍受制约。这条消息今天登上 HN 热榜。对关注芯片和 AI 数据中心供应链、半导体耗材和工业气体赛道的团队，这是氦价和国产替代话题的一个新信号。",
+   "links": [
+    "https://www.energy.gov/articles/energy-department-designates-helium-critical-material-strengthen-american-manufacturing",
+    "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
+    "https://www.federalregister.gov/public-inspection/2026-21884/critical-material-list-addition-of-helium",
+    "https://news.ycombinator.com/item?id=50248665"
+   ],
+   "topic": "us-doe-helium-critical-material-2026-10",
+   "firstSeen": "2026-10-27T02:55:02+08:00"
   }
  ],
- "lastChecked": "2026-10-27T02:42:31+08:00"
+ "lastChecked": "2026-10-27T02:55:02+08:00"
 }
