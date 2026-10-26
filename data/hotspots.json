@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T15:47:28+08:00",
+ "lastUpdated": "2026-10-26T15:55:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20761,7 +20761,17 @@
    ],
    "topic": "coolify-selfhost-paas-trending",
    "firstSeen": "2026-10-26T15:47:28+08:00"
+  },
+  {
+   "id": "98b81d16b9",
+   "title": "Claude SEO：一套给 Claude Code 的「全栈 SEO」Skill 冲上 GitHub 趋势",
+   "summary": "AgriciDaniel/claude-seo 把 SEO 拆成 26 个子技能和 19 个子 Agent，覆盖技术 SEO、E-E-A-T、结构化数据、GEO/AEO（面向 AI 搜索的可见度）、llms.txt 与 Agent 可浏览性、外链、本地 SEO、电商和多语言站点，并能输出 PDF/Excel 报告；另有 9 个可选扩展接入实时 SEO 数据。仓库已超 2.1 万星，今日单日新增约 2,900 星，位列 GitHub Trending 前列，适合独立站做 AI 搜索可见度体检。",
+   "links": [
+    "https://github.com/AgriciDaniel/claude-seo"
+   ],
+   "topic": "claude-seo-skill",
+   "firstSeen": "2026-10-26T15:55:04+08:00"
   }
  ],
- "lastChecked": "2026-10-26T15:47:28+08:00"
+ "lastChecked": "2026-10-26T15:55:04+08:00"
 }
