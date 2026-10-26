@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T07:10:17+08:00",
+ "lastUpdated": "2026-10-27T07:32:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21510,7 +21510,18 @@
    ],
    "topic": "reddit-r-opensource-bans-ai",
    "firstSeen": "2026-10-27T07:10:17+08:00"
+  },
+  {
+   "id": "2014c8af80",
+   "title": "OpenAI 数学仓库挂出预印本《指数时间假设是错误的》，若成立将改写复杂度理论",
+   "summary": "GitHub 上的 openai/math 仓库于 10 月 25 日发布 PDF 预印本，题为「The Exponential Time Hypothesis Is False」，声称推翻计算复杂度领域的核心猜想 ETH（3-SAT 无亚指数时间算法）。该帖在 Hacker News 约 1.5 小时内冲上首页、讨论热烈。论文尚未经同行评审，结论需等待专家验证；但 AI 参与前沿数学证明的话题热度将继续走高。",
+   "links": [
+    "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "https://news.ycombinator.com/item?id=50251661"
+   ],
+   "topic": "openai-math-eth-false-preprint",
+   "firstSeen": "2026-10-27T07:32:11+08:00"
   }
  ],
- "lastChecked": "2026-10-27T07:10:17+08:00"
+ "lastChecked": "2026-10-27T07:32:11+08:00"
 }
