@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T16:27:45+08:00",
+ "lastUpdated": "2026-10-26T16:42:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20804,7 +20804,18 @@
    ],
    "topic": "cpp26-dis-ballot",
    "firstSeen": "2026-10-26T16:27:45+08:00"
+  },
+  {
+   "id": "41fdeac9b8",
+   "title": "Steal My Bitcoin CTF 破解 PoC 开源：单文件 Python 打穿 PHP 8.4 实战挑战",
+   "summary": "安全研究者 KillaBoi 公开了「Steal My Bitcoin」CTF 的完整解题 PoC：一个只用 Python 标准库的脚本，针对 PHP 8.4.26（Alpine + nginx），通过刻意制造内存溢出“毒化”工作进程，先后泄露堆地址与代码地址，再完成远程回调利用；仓库附带可一键启动的 Docker 复现实验环境，并记录了真实解题过程。项目登上 Hacker News 首页，适合做 Web/PHP 内存安全与漏洞利用学习素材。",
+   "links": [
+    "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+    "https://news.ycombinator.com/item?id=50237379"
+   ],
+   "topic": "stealmybitcoin-ctf-poc",
+   "firstSeen": "2026-10-26T16:42:42+08:00"
   }
  ],
- "lastChecked": "2026-10-26T16:27:45+08:00"
+ "lastChecked": "2026-10-26T16:42:42+08:00"
 }
