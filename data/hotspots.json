@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T18:30:18+08:00",
+ "lastUpdated": "2026-10-26T18:53:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20882,7 +20882,27 @@
    ],
    "topic": "tesla-cybertruck-anz-cancel",
    "firstSeen": "2026-10-26T18:30:18+08:00"
+  },
+  {
+   "id": "c8b9ca13c5",
+   "title": "NVIDIA 开源 SkillSpector 登上 GitHub Trending：专门给 AI 智能体 Skill 做安全扫描",
+   "summary": "NVIDIA 的 SkillSpector 今日出现在 GitHub Trending，仓库约 2.1 万星。它是面向 AI 智能体技能（Skill）的安全扫描器，可在安装前检查 Claude Code、Codex 和 MCP 技能中的漏洞、恶意模式、提示注入、数据外泄与供应链风险。随着技能市场快速膨胀，「装 Skill 前先扫一遍」正在成为新的安全刚需。",
+   "links": [
+    "https://github.com/NVIDIA/SkillSpector"
+   ],
+   "topic": "nvidia-skillspector",
+   "firstSeen": "2026-10-26T18:53:22+08:00"
+  },
+  {
+   "id": "4341922ec9",
+   "title": "本地优先的「AI 同事」桌面工作台 OpenBot 冲上 GitHub Trending",
+   "summary": "nightly-labs 开源的 OpenBot 今日上榜 GitHub Trending（约 1000 星，仍在密集提交）。它是一个本地优先的桌面工作区，可让 Codex、Claude、Grok 作为常驻 AI 队友运行，各自拥有独立工作区、任务队列、文件共享、浏览器控制，并支持智能体之间协作，代表「多智能体团队」从云端走向本地桌面的趋势。",
+   "links": [
+    "https://github.com/nightly-labs/openbot"
+   ],
+   "topic": "nightly-labs-openbot",
+   "firstSeen": "2026-10-26T18:53:22+08:00"
   }
  ],
- "lastChecked": "2026-10-26T18:30:18+08:00"
+ "lastChecked": "2026-10-26T18:53:22+08:00"
 }
