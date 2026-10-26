@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T02:55:02+08:00",
+ "lastUpdated": "2026-10-27T03:18:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21231,7 +21231,29 @@
    ],
    "topic": "us-doe-helium-critical-material-2026-10",
    "firstSeen": "2026-10-27T02:55:02+08:00"
+  },
+  {
+   "id": "81524d8691",
+   "title": "404 Media 曝光泄露录音：车牌识别公司 Flock CEO 对警方说各地反对声浪「不是真的」，是付费机器人在带节奏",
+   "summary": "404 Media 拿到一段泄露录音：自动车牌识别（ALPR）公司 Flock 的 CEO Garrett Langley 在奥兰多举行的国际警察局长协会（IACP）大会上，对一众警察局长表示，全美各地反对 Flock 的抗议和社交媒体声音「不是真的」，主要是匿名机器人，并在没有证据的情况下暗示幕后有俄罗斯付费推动。他还说妻子劝他「永远不要道歉」，自己以后最好不再接受媒体采访。背景是 Flock 运营着约 8 万台摄像头的全国联网车牌识别网络，警方可无需搜查令跨州查询，过去 18 个月已有数十个城市取消合同，此前还被曝出协助移民执法查询等争议。这条新闻正在 HN 热榜上升。对做隐私、监控透明度或政府科技采购相关产品与内容的团队，这是 AI 监控信任危机的又一个热点素材。",
+   "links": [
+    "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+    "https://news.ycombinator.com/item?id=50248005"
+   ],
+   "topic": "flock-ceo-leaked-audio-iacp-2026-10",
+   "firstSeen": "2026-10-27T03:18:16+08:00"
+  },
+  {
+   "id": "cfc3a6837b",
+   "title": "开源 CLI「尼采式调试器」走红 HN：只向你提问、不给答案，用 Claude 逼开发者自己找出 bug",
+   "summary": "GitHub 开源项目 Nietzschian Debugger 今天登上 HN 首页。它自称「反 AI」调试工具：你把 bug 描述贴进去，它不直接修复，而是不断追问、挑战你的假设、逼你面对被忽略的证据，直到你自己想通。工具提供三档强度：温和引导的 socrates、直接对抗的 nietzsche（默认）、以及「为想要痛苦的资深工程师准备」的 zarathustra；可通过 npx nietzschian-debugger 或 pip 安装，需要自带 Anthropic API Key。它切中的是「AI 让开发者越来越依赖复制粘贴、不再理解自己代码」的焦虑。对做编程教育、开发者工具或 AI 学习产品的人来说，「苏格拉底式提问而不是给答案」是一个可以借鉴的产品定位。",
+   "links": [
+    "https://github.com/DilawarShafiq/nietzschian-debugger",
+    "https://news.ycombinator.com/item?id=50247493"
+   ],
+   "topic": "nietzschian-debugger-socratic-ai-2026-10",
+   "firstSeen": "2026-10-27T03:18:16+08:00"
   }
  ],
- "lastChecked": "2026-10-27T02:55:02+08:00"
+ "lastChecked": "2026-10-27T03:18:16+08:00"
 }
