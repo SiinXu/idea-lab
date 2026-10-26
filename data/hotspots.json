@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T15:55:04+08:00",
+ "lastUpdated": "2026-10-26T16:13:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20771,7 +20771,29 @@
    ],
    "topic": "claude-seo-skill",
    "firstSeen": "2026-10-26T15:55:04+08:00"
+  },
+  {
+   "id": "fad6d68f8e",
+   "title": "DreamHost 安全事件：批量强制重置邮箱与 SFTP 密码，冲上 HN",
+   "summary": "老牌主机商 DreamHost 状态页显示，一起影响 File Manager 与 Webmail 的事件仍在处理中：受影响账号的邮箱与 FTP/SFTP 用户密码被强制失效，需由账号所有者在控制面板重新设置后才能登录，官方已陆续邮件通知并提醒「绝不会通过邮件索要密码」。消息登上 Hacker News 首页引发讨论，托管在 DreamHost 的站长和独立开发者应尽快自查。",
+   "links": [
+    "https://www.dreamhoststatus.com/",
+    "https://news.ycombinator.com/item?id=50231166"
+   ],
+   "topic": "",
+   "firstSeen": "2026-10-26T16:13:09+08:00"
+  },
+  {
+   "id": "e66601c5b3",
+   "title": "ADRs4AI：把人与 AI 协作中的决策过程用 Git 版本化留存",
+   "summary": "Show HN 项目 ADRs4AI（adrs.systems）把架构决策记录（ADR）思路搬到人机协作：用仓库模板、指令与「收件箱协议」把 AI 会话里的问题、理由和结论沉淀为可追溯记录，并提供 VS Code 扩展（含 MCP 服务器，让 Agent 可查询决策记录）和 iOS 客户端一键批准答案提交为 commit。主张让与 AI 讨论出的「为什么」不再随会话蒸发。",
+   "links": [
+    "https://adrs.systems",
+    "https://news.ycombinator.com/item?id=50227041"
+   ],
+   "topic": "",
+   "firstSeen": "2026-10-26T16:13:09+08:00"
   }
  ],
- "lastChecked": "2026-10-26T15:55:04+08:00"
+ "lastChecked": "2026-10-26T16:13:09+08:00"
 }
