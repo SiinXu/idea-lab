@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T22:25:01+08:00",
+ "lastUpdated": "2026-10-26T22:41:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20998,7 +20998,29 @@
    ],
    "topic": "ipad-mini-oled-2026",
    "firstSeen": "2026-10-26T22:25:01+08:00"
+  },
+  {
+   "id": "59977ee251",
+   "title": "Daniel Miessler 新文登上 Hacker News：写作比代码更接近思考，「意图文档」才应是 AI 开发的唯一事实来源",
+   "summary": "安全研究者 Daniel Miessler 发文回应 Matt Pocock 的「代码才是核心产物」观点，主张用 AI 开发时，最重要的是把要做什么、为什么做完整准确地写下来：意图与文字反复打磨，文字再与实现反复迭代，形成两个循环。他认为 2026 年多数 AI 编程问题被误判为执行问题，真正的瓶颈是表达；人工逐步介入正在变成反模式。对规格驱动开发（spec-driven development）和智能体工作流设计有直接参考价值。",
+   "links": [
+    "https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code",
+    "https://news.ycombinator.com/item?id=50242555"
+   ],
+   "topic": "miessler-writing-intent",
+   "firstSeen": "2026-10-26T22:41:43+08:00"
+  },
+  {
+   "id": "f2b7a055af",
+   "title": "布朗大学学生做出交互地图：揭示支撑 AI 的全球南方低薪数据标注劳动",
+   "summary": "布朗大学本科生 Cunyan Ma 在学校技术责任中心支持下，发布免费在线交互地图，把科技公司、外包中介与世界各地的数据工作者连接起来，汇总已有数据库、自采数据和新闻报道，呈现图片标注、语音转写、聊天机器人回答评分、医学影像勾画等训练 AI 所需的人工劳动及其工作条件，用来直观展示「AI 殖民主义」的权力结构。该新闻已登上 Hacker News。",
+   "links": [
+    "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+    "https://news.ycombinator.com/item?id=50242843"
+   ],
+   "topic": "brown-ai-data-workers-map",
+   "firstSeen": "2026-10-26T22:41:43+08:00"
   }
  ],
- "lastChecked": "2026-10-26T22:25:01+08:00"
+ "lastChecked": "2026-10-26T22:41:43+08:00"
 }
