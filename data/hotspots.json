@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T05:43:33+08:00",
+ "lastUpdated": "2026-10-27T05:53:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21386,7 +21386,18 @@
    ],
    "topic": "data-center-gear-cargo-theft-2026-10",
    "firstSeen": "2026-10-27T05:43:33+08:00"
+  },
+  {
+   "id": "caa1145a78",
+   "title": "Corridor Digital 发布 CorridorKey 2.0：一键 AI 绿幕/蓝幕抠像插件，本地运行、一次买断覆盖 Resolve、Nuke、AE、PR 和 Blender",
+   "summary": "知名 YouTube 特效团队 Corridor Digital 推出首个官方插件 CorridorKey 2.0（Beta），用神经网络做绿幕和蓝幕抠像：能预测半透明前景的真实颜色，把头发、运动模糊、焦外虚化里的背景色「拆」出来，并分析整段视频而非单帧来消除遮罩闪烁，支持 4K 以上、HDR 和浮点色深。一次购买即获得 DaVinci Resolve、Nuke、After Effects、Premiere Pro、Blender 全部插件及独立应用，Beta 价 49.5 美元、无订阅，11 月 21 日起恢复正价；目前需 Windows 加 NVIDIA 显卡。团队称其短片《Son of a Dungeon》400 多个特效镜头都用它完成。创作者工具正从订阅制回到买断制，围绕 AI 抠像的教程、预设包和小团队后期外包服务有机会。",
+   "links": [
+    "https://corridorkey.com/",
+    "https://news.ycombinator.com/item?id=50251127"
+   ],
+   "topic": "corridorkey-2-ai-keyer-2026-10",
+   "firstSeen": "2026-10-27T05:53:28+08:00"
   }
  ],
- "lastChecked": "2026-10-27T05:43:33+08:00"
+ "lastChecked": "2026-10-27T05:53:28+08:00"
 }
