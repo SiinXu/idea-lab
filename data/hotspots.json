@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T18:53:22+08:00",
+ "lastUpdated": "2026-10-26T19:15:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20902,7 +20902,37 @@
    ],
    "topic": "nightly-labs-openbot",
    "firstSeen": "2026-10-26T18:53:22+08:00"
+  },
+  {
+   "id": "8268e36693",
+   "title": "Agent-Reach 登上 GitHub Trending：一条命令让 AI 智能体读遍推特、Reddit、B站和小红书",
+   "summary": "Panniantong 开源的 Agent-Reach 今日出现在 GitHub Trending，仓库已超 10 万星。它是给 AI 智能体用的统一命令行工具，可读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台内容，主打不需要付费 API。对做舆情监测、内容选题和资讯聚合的智能体来说，这是低成本补齐「联网之眼」的现成方案。",
+   "links": [
+    "https://github.com/Panniantong/Agent-Reach"
+   ],
+   "topic": "agent-reach",
+   "firstSeen": "2026-10-26T19:15:31+08:00"
+  },
+  {
+   "id": "da293a3ba3",
+   "title": "花叔 Huashu Design 3.0 上 GitHub Trending：一句话让智能体交付网页、原型、PPT 和动画",
+   "summary": "alchaincyf 的 huashu-design 今日登上 GitHub Trending，约 2.6 万星。它是适配 Claude Code、Codex、Cursor 等智能体的 HTML 原生设计技能：输入一句话，即可产出网页、App 原型、可编辑 PPTX、动画和信息图；会先给六个候选再挑三个方向，内置 84 种带样张的风格库，并通过「外观账本」和设计体检逐步记住用户偏好。",
+   "links": [
+    "https://github.com/alchaincyf/huashu-design"
+   ],
+   "topic": "huashu-design-3",
+   "firstSeen": "2026-10-26T19:15:31+08:00"
+  },
+  {
+   "id": "07a76f240b",
+   "title": "开源智能体社媒排程工具 Postiz 冲上 GitHub Trending",
+   "summary": "gitroomhq 的 postiz-app 今日上榜 GitHub Trending，约 3.8 万星。它定位为「智能体化」的社交媒体排程工具，可用 AI 辅助生成并定时发布多平台内容，适合独立开发者和小团队自建内容分发流程，替代付费的 Buffer/Hootsuite 类服务。",
+   "links": [
+    "https://github.com/gitroomhq/postiz-app"
+   ],
+   "topic": "postiz",
+   "firstSeen": "2026-10-26T19:15:31+08:00"
   }
  ],
- "lastChecked": "2026-10-26T18:53:22+08:00"
+ "lastChecked": "2026-10-26T19:15:31+08:00"
 }
