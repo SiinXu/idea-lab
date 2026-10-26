@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T13:59:42+08:00",
+ "lastUpdated": "2026-10-26T14:16:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20561,7 +20561,18 @@
    ],
    "topic": "titleart-wordart-1997-remake",
    "firstSeen": "2026-10-26T13:59:42+08:00"
+  },
+  {
+   "id": "f1d231c960",
+   "title": "iFixit 拆解 iPhone Duo：“史上最好修的折叠屏”，但内屏折痕处已有用户报裂，保外换屏要 999 美元",
+   "summary": "iFixit 发布苹果首款折叠屏 iPhone Duo 的完整拆解，正登上 Hacker News 首页（约 100 分）。结论是：它沿用了普通 iPhone 的电控易拆电池胶、外屏好拆、很多部件无需大拆就能够到，是 iFixit 拆过“最好修的折叠屏手机”；但内屏维修依旧很难。文章同时提到已有车主反映折痕处出现裂纹和亮线，苹果目前提供换机，保外内屏损坏维修价高达 999 美元。iFixit 还用显微镜观察了用来隐藏折痕的纳米纹理涂层，并拆到铰链齿轮。折叠屏维修、碎屏险和二手估价相关的内容与工具会有一波需求。",
+   "links": [
+    "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+    "https://news.ycombinator.com/item?id=50237896"
+   ],
+   "topic": "ifixit-iphone-duo-teardown",
+   "firstSeen": "2026-10-26T14:16:47+08:00"
   }
  ],
- "lastChecked": "2026-10-26T13:59:42+08:00"
+ "lastChecked": "2026-10-26T14:16:47+08:00"
 }
