@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T22:41:43+08:00",
+ "lastUpdated": "2026-10-26T23:18:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21020,7 +21020,31 @@
    ],
    "topic": "brown-ai-data-workers-map",
    "firstSeen": "2026-10-26T22:41:43+08:00"
+  },
+  {
+   "id": "6d403bbe93",
+   "title": "Anthropic 发布智能体架构指南：把子智能体并回单一主循环，按需加载技能与工具",
+   "summary": "Anthropic 发文建议，多数「编排器 + 专家子智能体」系统可以收敛为一个模型、一个上下文窗口的开放式工具循环：模型首轮写计划并随结果修改，技能与工具只先暴露简短描述、需要时再完整加载（渐进式披露），预算、审批门槛等硬限制留在 harness 和工具里。文中称 Claude Code 面向新模型的系统提示因此精简了 80% 以上；子智能体仍适合上下文很重的深度研究、可并行的一次性任务等场景。配套开源 single-agent-loop-kit，要求每次迁移前后都用同一套评测打分。今天在 X 上被大量讨论，对做 AI Agent 产品和工作流的团队有直接参考价值。",
+   "links": [
+    "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+    "https://github.com/anthropics/single-agent-loop-kit",
+    "https://x.com/i/trending/2114330879086461367"
+   ],
+   "topic": "anthropic-fold-subagents-single-loop",
+   "firstSeen": "2026-10-26T23:18:18+08:00"
+  },
+  {
+   "id": "f31e891c59",
+   "title": "黄仁勋在 GTC Berlin 抛出数字：运行英伟达智能体软件约每块 GPU 每年 2000 美元",
+   "summary": "英伟达 CEO 黄仁勋在 GTC Berlin 问答环节表示，软件授权将成为公司越来越重要的业务，并举例说在「AI 工厂」上运行英伟达全部智能体相关软件，大约是每块 GPU 每年 2000 美元。英伟达尚未说明这个数字覆盖哪些软件、何时生效；其现有 AI Enterprise 订阅标价为每 GPU 每年 4500 美元，两者不能直接比较，也不应理解为降价。同场还发布了 OpenShell 智能体沙箱参考架构等。信号是英伟达想在庞大的 GPU 装机量上叠加经常性软件收入，对算力成本和智能体基础设施定价有影响。",
+   "links": [
+    "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+    "https://www.tweaktown.com/news/114285/jensen-huang-puts-a-dollars2000-per-gpu-yearly-price-on-nvidias-ai-agent-software/index.html",
+    "https://x.com/i/trending/2114723339881337224"
+   ],
+   "topic": "nvidia-2000-per-gpu-agent-software",
+   "firstSeen": "2026-10-26T23:18:18+08:00"
   }
  ],
- "lastChecked": "2026-10-26T22:41:43+08:00"
+ "lastChecked": "2026-10-26T23:18:18+08:00"
 }
