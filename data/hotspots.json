@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T03:18:16+08:00",
+ "lastUpdated": "2026-10-27T03:31:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21253,7 +21253,18 @@
    ],
    "topic": "nietzschian-debugger-socratic-ai-2026-10",
    "firstSeen": "2026-10-27T03:18:16+08:00"
+  },
+  {
+   "id": "9a1a00ca34",
+   "title": "Meta 英国员工公开联署：指公司在巴西大选中「程序化」偏袒博索纳罗家族",
+   "summary": "继此前 Meta AI 被指在巴西大选中给 Flávio 出图、却拦截 Lula 相关请求之后，事件出现新进展：英国通信工人工会（CWU）科技分会中的 Meta 员工发表联署声明，称管理层的政治倾向自 2016 年起就不是秘密，但这是他们所知第一次把对博索纳罗家族等政客的偏袒「以程序化方式、如此明显地」呈现给用户。员工担心这会损害公众对选举和平台本身的信任，并为其他国家的选举开下危险先例，呼吁公司尊重公平与民主。10 月 24 日，在英巴西人团体还在伦敦国王十字的 Meta 总部前举行了抗议。这条消息在 HN 热榜上已有 250 多分、100 多条评论。对做 AI 内容审核、模型中立性评测或平台治理工具的团队，这是「AI 助手政治偏向」议题升温的又一信号。",
+   "links": [
+    "https://www.panamericandispatch.org/p/meta-employees-denounce-interference",
+    "https://news.ycombinator.com/item?id=50248061"
+   ],
+   "topic": "meta-employees-brazil-election-statement-2026-10",
+   "firstSeen": "2026-10-27T03:31:28+08:00"
   }
  ],
- "lastChecked": "2026-10-27T03:18:16+08:00"
+ "lastChecked": "2026-10-27T03:31:28+08:00"
 }
