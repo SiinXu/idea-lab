@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T13:40:05+08:00",
+ "lastUpdated": "2026-10-26T13:59:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20550,7 +20550,18 @@
    ],
    "topic": "microsoft-decision-1-scoring-model",
    "firstSeen": "2026-10-26T13:40:05+08:00"
+  },
+  {
+   "id": "9fc551b1dc",
+   "title": "Show HN 热帖 TitleArt：在浏览器里复刻 1997 年的 Word 艺术字，经典样式、变形和 3D 效果一个不少",
+   "summary": "独立开发者做的 TitleArt（titleart.dvy.io）刚登上 Hacker News 首页（约 76 分）：它在浏览器里还原了 Office 97 时代 WordArt 的全部经典样式、文字变形和 3D 效果，作者说是对照能找到的老截图逐个“目测”调出来的，还带深浅色主题。评论区一片怀旧，也有人分享给 Slack 的 Word 文档渲染器补 WordArt 支持的经历。这类“复古软件一比一网页复刻”的小工具门槛低、传播性强，适合做表情包、海报标题和社媒配图生成器。",
+   "links": [
+    "https://titleart.dvy.io/",
+    "https://news.ycombinator.com/item?id=50238708"
+   ],
+   "topic": "titleart-wordart-1997-remake",
+   "firstSeen": "2026-10-26T13:59:42+08:00"
   }
  ],
- "lastChecked": "2026-10-26T13:40:05+08:00"
+ "lastChecked": "2026-10-26T13:59:42+08:00"
 }
