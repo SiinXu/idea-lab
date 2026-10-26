@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T16:42:42+08:00",
+ "lastUpdated": "2026-10-26T16:58:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20815,7 +20815,19 @@
    ],
    "topic": "stealmybitcoin-ctf-poc",
    "firstSeen": "2026-10-26T16:42:42+08:00"
+  },
+  {
+   "id": "3f27b55d48",
+   "title": "Pollen Robotics 开源双足小鸭机器人 Microduck，冲上 GitHub Trending",
+   "summary": "Hugging Face 旗下 Pollen Robotics 的 microduck 仓库是一只约 25 厘米、800 克双足小鸭机器人的「大脑」：RK3566 上以 50Hz 控制回路驱动 15 个舵机，靠强化学习策略行走，换上轮子还能切换滚动模式；策略在 MuJoCo + PPO 中训练并导出 ONNX（训练代码在 microduck_rl），附带可防变砖的 OTA 更新机制。仓库已超 1.2 万星，今日登上 GitHub Trending，适合关注 sim2real 与消费级具身机器人的开发者。",
+   "links": [
+    "https://github.com/pollen-robotics/microduck",
+    "https://github.com/pollen-robotics/microduck_rl",
+    "https://pollen-robotics.com/microduck"
+   ],
+   "topic": "pollen-microduck",
+   "firstSeen": "2026-10-26T16:58:45+08:00"
   }
  ],
- "lastChecked": "2026-10-26T16:42:42+08:00"
+ "lastChecked": "2026-10-26T16:58:45+08:00"
 }
