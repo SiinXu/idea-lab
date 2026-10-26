@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T00:47:02+08:00",
+ "lastUpdated": "2026-10-27T01:02:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21128,7 +21128,20 @@
    ],
    "topic": "css-tricks-independent-again-2026-10",
    "firstSeen": "2026-10-27T00:47:02+08:00"
+  },
+  {
+   "id": "eb9d6c444d",
+   "title": "NBA 首次拥抱预测市场：Kalshi 与 Polymarket 成为联盟「首选预测市场交易所」，并与 CFTC 签署合作备忘录",
+   "summary": "NBA 周一宣布与 Kalshi、Polymarket 签署多年合作，两家获得 NBA 知识产权与美国境内营销权，并通过 Sportradar 拿到官方数据用于结算授权市场；协议限定可交易合约类型、禁止联盟和球队人员交易 NBA 事件合约，并要求共享可疑交易信息。NBA 同时与美国商品期货交易委员会（CFTC）签署信息共享备忘录，DraftKings 的合作也扩展到预测市场。继 NHL、MLB 之后又一大联盟入场，NFL 仍未跟进；预测市场正从灰色地带走向「联盟背书 + 联邦监管」的主流化，数据、风控和合规工具的需求会随之放大。",
+   "links": [
+    "https://www.nba.com/news/nba-establishes-integrity-framework-and-commercial-partnerships-for-prediction-markets",
+    "https://www.cnbc.com/2026/10/26/nba-kalshi-polymarket-prediction-markets.html",
+    "https://news.kalshi.com/p/kalshi-and-the-nba-are-partnering",
+    "https://news.ycombinator.com/item?id=50245322"
+   ],
+   "topic": "nba-kalshi-polymarket-preferred-2026-10",
+   "firstSeen": "2026-10-27T01:02:10+08:00"
   }
  ],
- "lastChecked": "2026-10-27T00:47:02+08:00"
+ "lastChecked": "2026-10-27T01:02:10+08:00"
 }
