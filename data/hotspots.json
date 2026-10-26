@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T21:46:26+08:00",
+ "lastUpdated": "2026-10-26T22:25:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20986,7 +20986,19 @@
    ],
    "topic": "vllm-tool-call-constrained-decoding",
    "firstSeen": "2026-10-26T21:46:26+08:00"
+  },
+  {
+   "id": "b96bed7f01",
+   "title": "苹果发布 OLED 新款 iPad mini：8.5 英寸 OLED、A20 Pro 芯片，起售价 699 美元",
+   "summary": "苹果 10 月 26 日发布新款 iPad mini，官方称为「史上最大更新」：屏幕升级为 8.5 英寸 OLED（可选纳米纹理），峰值亮度为上代两倍以上；机身厚 5.4 毫米并首次支持防水防尘；搭载 A20 Pro 芯片，GPU 每个核心内置神经网络加速器并配双 16 核神经引擎，运行 iPadOS 27 与新一代 Apple Intelligence / Siri。Wi-Fi 版起售价 699 美元、蜂窝版 849 美元，10 月 28 日开启预订、11 月 6 日发售。消息在 Hacker News 上同时有两个讨论串冲上热榜。端侧 AI 算力进一步下放到小尺寸设备，对做 iPad 应用、端侧 AI 和移动生产力工具的开发者值得关注。",
+   "links": [
+    "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+    "https://news.ycombinator.com/item?id=50243646",
+    "https://news.ycombinator.com/item?id=50243061"
+   ],
+   "topic": "ipad-mini-oled-2026",
+   "firstSeen": "2026-10-26T22:25:01+08:00"
   }
  ],
- "lastChecked": "2026-10-26T21:46:26+08:00"
+ "lastChecked": "2026-10-26T22:25:01+08:00"
 }
