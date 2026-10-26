@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T04:13:14+08:00",
+ "lastUpdated": "2026-10-27T05:01:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21320,7 +21320,18 @@
    ],
    "topic": "wraps-ses-email-platform-2026-10",
    "firstSeen": "2026-10-27T04:13:14+08:00"
+  },
+  {
+   "id": "8ccc390751",
+   "title": "HN 热议：美国中期选举垃圾短信泛滥，开发者呼吁苹果用端侧 AI 把「举报垃圾短信」变成可学习的过滤器",
+   "summary": "开发者 Nathan Pilkenton 的博文《Somebody please stop the spam texts》发布约一小时就冲上 HN 首页并引发数十条讨论。他搬离德州多年，仍每天收到多条德州中期选举候选人、PAC 和民调机构的短信，还有大量伪装成私人手写的营销短信，回复 STOP 才暴露是批量群发。他坚持不回 STOP（不愿接受「对方可随意发、我负责退订」的默认规则），而是每条都「删除并举报垃圾信息」，但 iOS Messages 的垃圾信息文件夹几乎没起作用。他建议苹果用 Apple Intelligence 让用户把举报的短信作为样本，自动过滤相似消息。短信是最高信号的通知渠道，选举季和 AI 批量生成内容让骚扰加剧，个性化、端侧学习的短信/通知过滤工具仍是可做的空白。",
+   "links": [
+    "https://notes.npilk.com/stop-the-spam-texts",
+    "https://news.ycombinator.com/item?id=50250016"
+   ],
+   "topic": "spam-texts-ai-filter-2026-10",
+   "firstSeen": "2026-10-27T05:01:23+08:00"
   }
  ],
- "lastChecked": "2026-10-27T04:13:14+08:00"
+ "lastChecked": "2026-10-27T05:01:23+08:00"
 }
