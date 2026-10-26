@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T02:31:26+08:00",
+ "lastUpdated": "2026-10-27T02:42:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21208,7 +21208,17 @@
    ],
    "topic": "realbotix-echo-companion-humanoid-2026-10",
    "firstSeen": "2026-10-27T02:31:26+08:00"
+  },
+  {
+   "id": "2693f45a70",
+   "title": "微软公开 Type Server Protocol（TSP）：在 LSP 之上新增「类型服务器」协议，让编辑器和工具直接查询 Python 类型分析结果",
+   "summary": "微软在 Pylance 仓库发布 Type Server Protocol 规范（当前 0.4.1 版）。TSP 是基于 JSON-RPC 的协议，复用 LSP 的数据结构和连接方式，方法统一用 typeServer/ 前缀，客户端可以向类型服务器请求快照、Python 搜索路径、导入解析，以及表达式的计算类型、声明类型和期望类型；类型结果失效时服务器会推送 snapshotChanged。新版本还支持协商多条只读连接，让后台任务并发做大量类型查询而不阻塞主连接。仓库同时给出 TypeScript 接口定义和 JSON Schema。这意味着类型检查能力可以从单个编辑器插件中拆出来，供 AI 编程助手、代码审查和重构工具共用，对做开发者工具和代码智能体的团队值得关注。",
+   "links": [
+    "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md"
+   ],
+   "topic": "microsoft-type-server-protocol-2026-10",
+   "firstSeen": "2026-10-27T02:42:31+08:00"
   }
  ],
- "lastChecked": "2026-10-27T02:31:26+08:00"
+ "lastChecked": "2026-10-27T02:42:31+08:00"
 }
