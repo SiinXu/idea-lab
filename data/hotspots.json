@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T07:32:11+08:00",
+ "lastUpdated": "2026-10-27T07:55:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21521,7 +21521,18 @@
    ],
    "topic": "openai-math-eth-false-preprint",
    "firstSeen": "2026-10-27T07:32:11+08:00"
+  },
+  {
+   "id": "8d4e921692",
+   "title": "耶鲁经济学家 Restrepo 的 AGI 论文在 X 上刷屏：所有「瓶颈工作」被自动化后，劳动收入占 GDP 比重将趋近于零",
+   "summary": "耶鲁大学经济学家 Pascual Restrepo 的 NBER 论文《We Won't Be Missed: Work and Growth in the AGI World》今晚在 X 上成为热门话题。论文模型认为：AGI 会把经济增长必需的「瓶颈工作」全部自动化，产出增长改由算力扩张驱动；人类仍可做一些非必需的「补充性工作」并拿到正工资，但工资上限被锚定在用算力复制这份工作的成本，劳动收入在 GDP 中的占比最终趋近于零。讨论两极分化：有人担忧财富向算力持有者集中，也有人呼吁基本收入、资本共享等新分配方式。",
+   "links": [
+    "https://www.nber.org/papers/w34423",
+    "https://x.com/i/trending/2114863062096187753"
+   ],
+   "topic": "restrepo-agi-labor-share-zero",
+   "firstSeen": "2026-10-27T07:55:10+08:00"
   }
  ],
- "lastChecked": "2026-10-27T07:32:11+08:00"
+ "lastChecked": "2026-10-27T07:55:10+08:00"
 }
