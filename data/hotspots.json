@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T05:16:19+08:00",
+ "lastUpdated": "2026-10-27T05:26:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21342,7 +21342,18 @@
    ],
    "topic": "warp-vendor-breach-2026-10",
    "firstSeen": "2026-10-27T05:16:19+08:00"
+  },
+  {
+   "id": "15acd57614",
+   "title": "Proton 将按 AI 使用能力「重新面试」员工，结果可能决定去留",
+   "summary": "据 404 Media 获得的内部邮件，ProtonMail 母公司 Proton 周一通知员工，将在 11 月 4 日至 11 日对全公司部分员工进行「重新面试」，考察他们在工作中如何使用 AI。邮件称这些面试「后果重大」，评估结果将用于组织与人才审视，可能导致岗位、职责乃至「是否继续雇佣」的变化；面试官来自「展现出强 AI 能力、并已统一评估标准」的领导池，且不在被面试者的汇报线内。CEO Andy Yen 此前已面试 40 多名工程和产品高管，并持续推动公司转向 AI（如隐私聊天机器人 Lumo）。同一天微软也向约四分之一员工提供自愿离职方案，「AI 能力考核」正在成为科技公司调整人员结构的新抓手，AI 技能评估、内部培训和转岗工具有明显需求。",
+   "links": [
+    "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
+    "https://news.ycombinator.com/item?id=50251062"
+   ],
+   "topic": "proton-ai-reinterview-2026-10",
+   "firstSeen": "2026-10-27T05:26:11+08:00"
   }
  ],
- "lastChecked": "2026-10-27T05:16:19+08:00"
+ "lastChecked": "2026-10-27T05:26:11+08:00"
 }
