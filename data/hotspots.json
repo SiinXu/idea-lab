@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T17:30:40+08:00",
+ "lastUpdated": "2026-10-26T17:46:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20860,7 +20860,18 @@
    ],
    "topic": "tradingagents-v07",
    "firstSeen": "2026-10-26T17:30:40+08:00"
+  },
+  {
+   "id": "3be5a846bb",
+   "title": "一人指挥 147 个 Claude 子智能体，把 F-Zero X 移植到 3DS 跑满 60 帧",
+   "summary": "Hacker News 热帖：开发者公开了把 F-Zero X 反编译项目 G-Diffuser 移植到任天堂 3DS 的完整复盘。第一阶段 24 天里由一个长期运行的 Claude 会话统筹、147 个子智能体分工，New 3DS 上完整大奖赛中位帧率 59.6 fps（起初模拟器里仅 12–20 fps），共消耗约 31.7 亿 token，按 API 标价约 4974 美元；第二阶段又用 43 天加入 Old 3DS、原生渲染器和 64DD 扩展包支持，发布 v1.0.0。复盘详细记录了智能体编排方法、性能优化轮次和成本，是 AI 编程智能体做大型底层工程的少见实证。",
+   "links": [
+    "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+    "https://news.ycombinator.com/item?id=50237078"
+   ],
+   "topic": "fzero-x-3ds-agentic-port",
+   "firstSeen": "2026-10-26T17:46:27+08:00"
   }
  ],
- "lastChecked": "2026-10-26T17:30:40+08:00"
+ "lastChecked": "2026-10-26T17:46:27+08:00"
 }
