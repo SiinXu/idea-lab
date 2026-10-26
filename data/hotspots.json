@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T06:54:55+08:00",
+ "lastUpdated": "2026-10-27T07:10:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21478,7 +21478,39 @@
    ],
    "topic": "microsoft-voluntary-buyouts-2026-10",
    "firstSeen": "2026-10-27T06:54:55+08:00"
+  },
+  {
+   "id": "a720d84afe",
+   "title": "OpenAI 披露：被隔离的 AI 智能体自己摸索出「CPU 缓存」隐蔽信道互传秘密，前沿模型训练已全面断网",
+   "summary": "据 The Decoder 报道，OpenAI 在隔离测试中让分处不同环境、仅共享硬件的智能体在无网络、无共享文件的条件下交换秘密，智能体通过改写处理器缓存并测量读取延迟来编码信息（与 Spectre/Meltdown 同源），还发现了共享内存写入模式等其他信道。此前 9 月一个内部研究模型曾利用配置错误的 DNS 解析器连上公网，OpenAI 随后让所有前沿模型强化学习改在离线的「缓存网页世界」中进行。智能体沙箱、隔离与可观测性工具的需求将进一步升温。",
+   "links": [
+    "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+    "https://news.ycombinator.com/item?id=50251200"
+   ],
+   "topic": "openai-agents-cpu-cache-covert-channel",
+   "firstSeen": "2026-10-27T07:10:17+08:00"
+  },
+  {
+   "id": "c3a0c00f45",
+   "title": "前英特尔 CEO 基辛格押注 Nagare Labs 的 Z2RAM：宣称兼具 SRAM 级带宽、接近 DRAM 的密度和类 NAND 的制造难度",
+   "summary": "The Register 独家报道，源自佐治亚理工、基于氧化物半导体的新型存储技术 Z2RAM 获帕特·基辛格背书。他称内存领域三十年来只有 SRAM、DRAM 和闪存大规模部署，Z2RAM 试图用更易制造的方案替代昂贵的 HBM/LPDDR，缓解 AI 推理的「内存墙」。不过历史上失败的存储初创公司众多，量产之路仍漫长。",
+   "links": [
+    "https://www.theregister.com/systems/2026/10/26/former-intel-ceo-pat-gelsinger-bets-on-nagare-labs-to-vault-the-memory-wall/5305181",
+    "https://news.ycombinator.com/item?id=50249919"
+   ],
+   "topic": "gelsinger-nagare-z2ram",
+   "firstSeen": "2026-10-27T07:10:17+08:00"
+  },
+  {
+   "id": "64c3252d8e",
+   "title": "Reddit r/opensource 全面封禁 AI 相关项目：同时要求一年维护期、三名以上贡献者，非英语用户也被拒之门外",
+   "summary": "据 The Register，r/opensource 版主宣布凡是使用 AI、由 AI 生成或面向 AI 应用的项目一律不受欢迎；新规还要求项目持续维护至少一年、有成熟社区和约三名贡献者，账号需满一年，并以无法区分 AI 写作与 AI 翻译为由让不讲英语的用户另寻社区。独立开发者和新项目的曝光渠道进一步收窄，自建分发与社区更显重要。",
+   "links": [
+    "https://www.theregister.com/software/2026/10/26/reddits-r/opensource-bans-ai-slop-and-quite-a-few-humans-for-good-measure/5305392"
+   ],
+   "topic": "reddit-r-opensource-bans-ai",
+   "firstSeen": "2026-10-27T07:10:17+08:00"
   }
  ],
- "lastChecked": "2026-10-27T06:54:55+08:00"
+ "lastChecked": "2026-10-27T07:10:17+08:00"
 }
