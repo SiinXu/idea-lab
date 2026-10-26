@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T14:27:35+08:00",
+ "lastUpdated": "2026-10-26T14:45:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20594,7 +20594,29 @@
    ],
    "topic": "openai-anthropic-llm-price-cuts",
    "firstSeen": "2026-10-26T14:27:35+08:00"
+  },
+  {
+   "id": "1bb180ff27",
+   "title": "Venkatesh Rao 新文《认知重商主义》登上 HN：今天的 AI 恐慌，很像资本主义诞生前夜的重商主义焦虑",
+   "summary": "知名作者 Venkatesh Rao 在 Contraptions 发表长文，借 Joyce Appleby 的资本主义史提出“认知重商主义”概念：重商主义者认为财富有限、零和、要靠控制土地和金银来争夺，普通人不可信、经济思维只盯着供给侧；他认为当下的 AI 恐慌同样把“智能”当成稀缺、零和、需要严加管控的资源，而资本主义真正的突破在于发现财富可以被创造、普通人可以成为需求和主动性的来源。文章刚登上 Hacker News 首页（约 40 分）。对做 AI 产品和内容的人来说，这是一个可以借来讲“AI 是做大蛋糕而非抢饭碗”的叙事框架。",
+   "links": [
+    "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+    "https://news.ycombinator.com/item?id=50239027"
+   ],
+   "topic": "cognitive-mercantilism-ai-panic",
+   "firstSeen": "2026-10-26T14:45:36+08:00"
+  },
+  {
+   "id": "bd94138f20",
+   "title": "Show HN：proc，一个对智能体友好的进程与端口管理命令行工具，一句 proc kill :3000 就能清掉占端口的进程",
+   "summary": "开源命令行工具 proc（v1.14.5，支持 macOS、Linux、Windows）刚以 Show HN 形式发布：可以按端口、PID、进程名或路径来定位进程，用 proc why / ports / tree / orphans / stuck 等语义化子命令查看“谁占了端口、为什么在跑”，再用 kill、stop、free、freeze 等一步处理；危险操作会先确认并支持 --dry-run 预览，--in 参数可以只作用于当前项目目录的进程。官网还专门提供了给 AI 编程智能体用的 Agent skill。对经常被“端口被占用”卡住的开发者和让智能体自动跑开发服务器的团队都实用。",
+   "links": [
+    "https://proc-cli.com/",
+    "https://news.ycombinator.com/item?id=50239041"
+   ],
+   "topic": "proc-cli-agent-process-manager",
+   "firstSeen": "2026-10-26T14:45:36+08:00"
   }
  ],
- "lastChecked": "2026-10-26T14:27:35+08:00"
+ "lastChecked": "2026-10-26T14:45:36+08:00"
 }
