@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T15:31:18+08:00",
+ "lastUpdated": "2026-10-26T15:47:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20739,7 +20739,29 @@
    ],
    "topic": "danluu-ambitious-software-pgrust",
    "firstSeen": "2026-10-26T15:31:18+08:00"
+  },
+  {
+   "id": "fa43618461",
+   "title": "Impeccable：给 AI 编程 Agent 的设计语言，今日冲上 GitHub Trending",
+   "summary": "Paul Bakaus 开源的 impeccable（官网 impeccable.style）面向 Claude/Cursor 等 AI harness：一条 skill、24 条设计指令（polish/audit/critique/animate 等）、浏览器里实时迭代，外加 62 条可确定性检测规则抓「AI 味」前端（Inter 万能、紫蓝渐变、套娃卡片等）。从 Anthropic frontend-design skill 演进而来，用 PRODUCT.md 固化产品事实；npx impeccable install 后即可 /impeccable init。仓库 pbakaus/impeccable 今日登上 GitHub Trending。",
+   "links": [
+    "https://github.com/pbakaus/impeccable",
+    "https://impeccable.style"
+   ],
+   "topic": "impeccable-ai-design-skill",
+   "firstSeen": "2026-10-26T15:47:28+08:00"
+  },
+  {
+   "id": "8745ada1d3",
+   "title": "Coolify 再冲 GitHub 趋势：自托管版 Vercel/Heroku/Netlify 替代",
+   "summary": "开源自托管 PaaS Coolify（coollabsio/coolify）可在自有服务器上一键部署静态站、数据库、全栈应用与 360+ 服务，对标 Vercel、Heroku、Netlify。仓库星标已超 6 万，今日再次出现在 GitHub Trending，且主干有新推送；适合想把部署与数据留在自己机器上的团队与独立开发者。",
+   "links": [
+    "https://github.com/coollabsio/coolify",
+    "https://coolify.io"
+   ],
+   "topic": "coolify-selfhost-paas-trending",
+   "firstSeen": "2026-10-26T15:47:28+08:00"
   }
  ],
- "lastChecked": "2026-10-26T15:31:18+08:00"
+ "lastChecked": "2026-10-26T15:47:28+08:00"
 }
