@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T14:45:36+08:00",
+ "lastUpdated": "2026-10-26T14:54:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20616,7 +20616,29 @@
    ],
    "topic": "proc-cli-agent-process-manager",
    "firstSeen": "2026-10-26T14:45:36+08:00"
+  },
+  {
+   "id": "6adc91551f",
+   "title": "独立开发者删掉 Next.js 后，博客四项 Lighthouse 全部拿到 100 分，登上 HN 首页",
+   "summary": "韩国独立开发者 korindiehacker 复盘了自建博客平台 bloffy 的性能优化过程：他想做一个像 Bear Blog 一样快、但功能更多的博客 SaaS，最初用 Next.js 的 ISR 和 fetch 缓存，但发现跨地区访问仍受网络延迟拖累，最终在 CDN 缓存等一系列改造后彻底移除了 Next.js，让性能、无障碍、最佳实践和 SEO 四项 Lighthouse 评分都达到 100。文章在 Hacker News 获得约 100 分，引发关于重框架是否拖累内容站性能的讨论。对做内容站、资源站的人来说，是一份很实用的“轻量化换满分”参考。",
+   "links": [
+    "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+    "https://news.ycombinator.com/item?id=50237712"
+   ],
+   "topic": "remove-nextjs-lighthouse-100",
+   "firstSeen": "2026-10-26T14:54:53+08:00"
+  },
+  {
+   "id": "82dace8325",
+   "title": "论文《Attention Is Not What You Need》上 HN 热议：用格拉斯曼流替代自注意力的无注意力架构",
+   "summary": "arXiv 论文 2512.19428 重新追问“自注意力是否真的必要”：作者把多头注意力解释为一种把隐藏向量提升到高维成对交互空间的“张量提升”，表达力强但难以解释；并提出基于格拉斯曼流（Grassmann flows）的无注意力架构，不再构造 L×L 注意力矩阵，而是把局部 token 对编码为格拉斯曼流形上的二维子空间再门控融合。在 Wikitext-2 上，1300 万到 1800 万参数的纯格拉斯曼模型困惑度与同规模 Transformer 相差约 10%~15%，在 SNLI 上接在 DistilBERT 之上的头略优于基线。论文正在 Hacker News 讨论（约 75 分），是“后 Transformer 架构”话题的又一个新方向。",
+   "links": [
+    "https://arxiv.org/abs/2512.19428",
+    "https://news.ycombinator.com/item?id=50237224"
+   ],
+   "topic": "attention-free-grassmann-flows",
+   "firstSeen": "2026-10-26T14:54:53+08:00"
   }
  ],
- "lastChecked": "2026-10-26T14:45:36+08:00"
+ "lastChecked": "2026-10-26T14:54:53+08:00"
 }
