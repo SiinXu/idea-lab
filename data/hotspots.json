@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T20:45:56+08:00",
+ "lastUpdated": "2026-10-26T21:03:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20953,7 +20953,18 @@
    ],
    "topic": "printable-websites",
    "firstSeen": "2026-10-26T20:45:56+08:00"
+  },
+  {
+   "id": "ca922d363a",
+   "title": "「Tasks as Code」登上 Hacker News：把需求工单从 Jira 搬进代码仓库，方便 AI 编程智能体直接读取",
+   "summary": "Typemill 作者 Sebastian Schürmanns 发文主张：既然 AI 编程智能体以代码仓库为唯一信息源，开发任务也应像「Docs as Code」那样以 Markdown 文件存进 Git，和代码、文档放在一起。智能体可以直接读需求、规划工作并把结果写回同一文件，每次任务变更都可版本化、可评审；再配一个与 Git 同步的网页界面，让产品和文档同事不必用命令行。文章发布不久即在 HN 引发讨论，对做智能体工作流、项目管理工具的人是一个值得关注的方向。",
+   "links": [
+    "https://typemill.net/knowledge-hub/tasks-as-code",
+    "https://news.ycombinator.com/item?id=50241924"
+   ],
+   "topic": "tasks-as-code",
+   "firstSeen": "2026-10-26T21:03:04+08:00"
   }
  ],
- "lastChecked": "2026-10-26T20:45:56+08:00"
+ "lastChecked": "2026-10-26T21:03:04+08:00"
 }
