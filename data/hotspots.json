@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T23:18:18+08:00",
+ "lastUpdated": "2026-10-26T23:29:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21044,7 +21044,28 @@
    ],
    "topic": "nvidia-2000-per-gpu-agent-software",
    "firstSeen": "2026-10-26T23:18:18+08:00"
+  },
+  {
+   "id": "5e4b5c229a",
+   "title": "甲骨文 AI World 发布 Fusion Companion 与 Agentic Home：用自然语言把财务、HR、供应链工作直接交给智能体",
+   "summary": "甲骨文 10 月 26 日在拉斯维加斯 Oracle AI World 大会宣布，Fusion 云应用新增由 Fusion Claw 驱动的智能体应用，覆盖财务、人力、供应链、销售和客服；同时推出 Fusion Companion 和 Fusion Agentic Home，员工只需描述目标，就能把整段流程委派给 AI 智能体，并在保留审批、权限和问责的前提下跟踪进度。甲骨文把这称为从「记录系统」走向「结果系统」。大会持续到 10 月 28 日，X 上相关讨论正在升温，是企业级智能体落地的又一个大厂信号。",
+   "links": [
+    "https://www.oracle.com/news/announcement/ai-world-oracle-advances-outcome-driven-ai-across-fusion-applications-2026-10-26/",
+    "https://x.com/i/trending/2114702640391315470"
+   ],
+   "topic": "oracle-ai-world-fusion-companion",
+   "firstSeen": "2026-10-26T23:29:25+08:00"
+  },
+  {
+   "id": "d3065a4f3e",
+   "title": "高盛研究：企业 AI 采用程度越高的行业，美国就业增长越慢",
+   "summary": "高盛最新研究发现，美国企业的 AI 采用率与就业增长放缓之间存在统计上显著的关联，零售、房地产、保险、油气服务等行业尤为明显；媒体、电信和专业服务领域的 AI 使用也与失业上升相关，受冲击行业的就业已比趋势低约 1 万个岗位。这条消息正在 X 上被热议，并与 Apollo 经济学家 Torsten Slok「AI 对非科技公司尚无财务回报」的分析一起被讨论。对关注 AI 就业冲击、转岗培训类产品的人是一个新的数据锚点。",
+   "links": [
+    "https://x.com/i/trending/2114736547509494071"
+   ],
+   "topic": "goldman-ai-adoption-slower-job-growth",
+   "firstSeen": "2026-10-26T23:29:25+08:00"
   }
  ],
- "lastChecked": "2026-10-26T23:18:18+08:00"
+ "lastChecked": "2026-10-26T23:29:25+08:00"
 }
