@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T06:27:21+08:00",
+ "lastUpdated": "2026-10-27T06:42:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21444,7 +21444,19 @@
    ],
    "topic": "cursor-agent-sdk-2026-10",
    "firstSeen": "2026-10-27T06:27:21+08:00"
+  },
+  {
+   "id": "420101a207",
+   "title": "Show HN：Hob 开源桌面 AI 助手，本地跑 Gemma、gpt-oss 等开放权重模型，定位 Claude Cowork / ChatGPT 的离线替代",
+   "summary": "产品引导工具公司 Frigade 开源了桌面应用 Hob（MIT 协议），今天登上 Hacker News 首页。它支持 Mac（Apple 芯片）、Windows 和 Linux，8 GB 内存即可运行：安装后自动挑选适合本机配置的前沿开放权重模型（如 Gemma、gpt-oss）并完成配置，可以在「项目」里读表格、画图、总结文档、填写 PDF，全程离线、数据不出电脑。随着开放权重模型变强，「零配置本地 AI 办公助手」正成为隐私敏感用户和企业的新选择；针对特定行业的本地文档处理模板、私有化部署服务值得关注。",
+   "links": [
+    "https://github.com/FrigadeHQ/hob",
+    "https://hob.chat/",
+    "https://news.ycombinator.com/item?id=50246238"
+   ],
+   "topic": "hob-local-ai-desktop-2026-10",
+   "firstSeen": "2026-10-27T06:42:53+08:00"
   }
  ],
- "lastChecked": "2026-10-27T06:27:21+08:00"
+ "lastChecked": "2026-10-27T06:42:53+08:00"
 }
