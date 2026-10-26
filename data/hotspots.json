@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T19:54:06+08:00",
+ "lastUpdated": "2026-10-26T20:45:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20942,7 +20942,18 @@
    ],
    "topic": "karpathy-claude-md",
    "firstSeen": "2026-10-26T19:54:06+08:00"
+  },
+  {
+   "id": "f32074034d",
+   "title": "「网站应该可以打印」登上 Hacker News 热榜：@media print 重新受关注",
+   "summary": "开发者 Brennen Puth 的文章《Websites Should Be Printable》发布约两小时即获 50 多分。作者发现自己的博客按 Ctrl-P 打印效果很差（字号过大、页眉难看、链接在黑白下发灰），于是用 CSS 的 @media print 规则专门优化打印样式，并呼吁网站都提供可打印版本。对内容站和文档站来说，补一套打印/导出 PDF 样式是成本很低的体验加分项。",
+   "links": [
+    "https://brennenputh.me/blog/printable-websites",
+    "https://news.ycombinator.com/item?id=50241664"
+   ],
+   "topic": "printable-websites",
+   "firstSeen": "2026-10-26T20:45:56+08:00"
   }
  ],
- "lastChecked": "2026-10-26T19:54:06+08:00"
+ "lastChecked": "2026-10-26T20:45:56+08:00"
 }
