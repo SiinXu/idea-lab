@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T05:26:11+08:00",
+ "lastUpdated": "2026-10-27T05:43:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21353,7 +21353,40 @@
    ],
    "topic": "proton-ai-reinterview-2026-10",
    "firstSeen": "2026-10-27T05:26:11+08:00"
+  },
+  {
+   "id": "9f107eb08c",
+   "title": "英特尔宣布收购量子软件公司 Classiq：要做从硅自旋量子比特芯片到算法合成的「全栈量子计算平台」",
+   "summary": "英特尔美东时间 10 月 26 日宣布已与以色列量子软件公司 Classiq 签署最终收购协议（未披露金额）。Classiq 的自动化量子算法合成平台与具体量子比特硬件无关，英特尔把它比作量子时代的 EDA/CAD：让开发者不必手工设计量子电路。合并后英特尔将把自家硅自旋量子比特制造、低温控制芯片与 Classiq 软件打通，把 QPU 加入 CPU、GPU、ASIC 产品线，并承诺继续支持 Classiq 现有的多硬件平台集成。交易需监管批准，预计 2027 年上半年完成。量子软件抽象层成为大厂争夺点，面向开发者的量子编程教程、算法模板和跨硬件工具链有机会。",
+   "links": [
+    "https://www.intc.com/news-events/press-releases/detail/1784/intel-to-acquire-classiq-to-create-a-full-stack-quantum",
+    "https://news.ycombinator.com/item?id=50251223"
+   ],
+   "topic": "intel-classiq-acquisition-2026-10",
+   "firstSeen": "2026-10-27T05:43:33+08:00"
+  },
+  {
+   "id": "f818e4be98",
+   "title": "Rest of World：非英语用户用 AI 要多付「分词器税」，200 种语言中某模型的 token 成本差距高达 17 倍",
+   "summary": "Rest of World 报道，AI 语言公平研究联盟（CLEAR）上月发布的研究发现，同样的意思用不同语言表达，模型消耗的 token 数差别很大：即使在互联网最常用的 20 种语言里也存在差距，扩展到 200 种语言后，某个模型的 token 成本差距扩大到 17 倍。研究举例称，班加罗尔的创业公司每次调用都要比奥斯汀的竞争对手多付「附加费」，且 token 越多延迟越高、有效上下文越短。按 token 计价让小语种用户变相涨价，针对小语种优化的分词器、提示压缩/翻译中转层和多语言成本测算工具值得关注。",
+   "links": [
+    "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
+    "https://news.ycombinator.com/item?id=50250910"
+   ],
+   "topic": "tokenizer-tax-non-english-2026-10",
+   "firstSeen": "2026-10-27T05:43:33+08:00"
+  },
+  {
+   "id": "6540f77121",
+   "title": "NBC：美国高速公路盗窃团伙盯上数据中心设备，一车价值 1300 万美元的服务器在运输途中被劫",
+   "summary": "NBC News 采访货运、供应链和安防从业者后报道，有组织犯罪团伙正越来越多地瞄准运往数据中心的高价值服务器和 AI 设备，作案手法包括冒充承运商等欺骗手段。报道开头的案例是：今年 6 月，一辆载有约 1300 万美元服务器设备的拖车驶向佐治亚州费耶特维尔（全美最大的数据中心开发区之一）途中遭劫。AI 基建热让 GPU 服务器成为新的「高价值货物」，货运追踪、承运商身份核验和数据中心供应链安防服务需求上升。",
+   "links": [
+    "https://www.nbcnews.com/tech/security/grand-theft-ai-highway-thieves-are-stealing-millions-data-center-gear-rcna603733",
+    "https://news.ycombinator.com/item?id=50250450"
+   ],
+   "topic": "data-center-gear-cargo-theft-2026-10",
+   "firstSeen": "2026-10-27T05:43:33+08:00"
   }
  ],
- "lastChecked": "2026-10-27T05:26:11+08:00"
+ "lastChecked": "2026-10-27T05:43:33+08:00"
 }
