@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T06:42:53+08:00",
+ "lastUpdated": "2026-10-27T06:54:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21456,7 +21456,29 @@
    ],
    "topic": "hob-local-ai-desktop-2026-10",
    "firstSeen": "2026-10-27T06:42:53+08:00"
+  },
+  {
+   "id": "95d5916fd6",
+   "title": "Cloudflare 披露 Workers AI 上 GLM-5.3 跨请求 KV 缓存泄露：155 条回复混入其他用户数据",
+   "summary": "Cloudflare 今天与 SGLang 团队协调披露：8 月 27 日至 9 月 9 日，Workers AI 上的 GLM-5.3 模型对超过 68 万 token 的超长提示，可能返回其他用户请求的内容，共 155 条回复受影响。根因是预填充 KV 缓存池小于宣称的 100 万上下文，加上 SGLang 在预填充/解码分离模式下没有正确中止被拒请求，解码节点读到了残留的旧缓存页。修复已进入 SGLang v0.5.22，Cloudflare 建议所有分离式部署的运营方升级。多租户推理的隔离与安全审计、KV 缓存完整性校验工具是值得关注的新机会。",
+   "links": [
+    "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "https://news.ycombinator.com/item?id=50252159"
+   ],
+   "topic": "cloudflare-glm53-kv-cache-leak-2026-10",
+   "firstSeen": "2026-10-27T06:54:55+08:00"
+  },
+  {
+   "id": "75a7c7fa80",
+   "title": "微软向约 6 万名员工提供自愿买断：覆盖约四分之一员工，VP 以下级别可申请",
+   "summary": "据 KUOW 报道，微软首席人事官周一发备忘录，向美国、英国、加拿大和印度约 6 万名 70 级及以下员工提供自愿离职方案，条件与标准遣散包相当（按工龄计薪、股票、医保和职业规划服务）。此前几个月微软已推出自愿提前退休计划，约 30% 符合条件者接受。微软称买断并非由 AI 驱动，但公司正持续压缩人员、把资金投向 AI 基础设施。大厂资深工程师外溢，可能带动独立开发、咨询和创业潮。",
+   "links": [
+    "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
+    "https://news.ycombinator.com/item?id=50250937"
+   ],
+   "topic": "microsoft-voluntary-buyouts-2026-10",
+   "firstSeen": "2026-10-27T06:54:55+08:00"
   }
  ],
- "lastChecked": "2026-10-27T06:42:53+08:00"
+ "lastChecked": "2026-10-27T06:54:55+08:00"
 }
