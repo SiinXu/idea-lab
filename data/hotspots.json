@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-23T23:57:12+08:00",
+ "lastUpdated": "2026-10-26T13:31:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20517,7 +20517,29 @@
    ],
    "topic": "emudhra-mozilla-chrome-deadline-rebuke",
    "firstSeen": "2026-10-23T23:57:12+08:00"
+  },
+  {
+   "id": "234ff1651b",
+   "title": "IBM CEO：开源权重模型已达前沿模型 90% 效果、成本只要 10%，企业本地部署“两三个机柜”就够",
+   "summary": "The Register 报道、刚冲上 HN（约 120 分、70+ 评论）：IBM CEO Arvind Krishna 在三季度财报电话会上说，2024 年闭源前沿模型与开源模型的综合评测差距约 70 比 20~30，2025 年底已缩到 70 比 50；如今开源权重模型的 token 成本只有前沿模型的 10%~25%，效果却有约 90%。他认为总结邮件、审合同、接客服电话这类大多数企业任务都能用更便宜的模型完成，因此本地 AI 基础设施需求暴涨，但企业缺少懂内核、网络、GPU 集群和缓存的工程师。IBM 将推出简化部署的软件，并押注 Spyre 大型机加速卡；当季软件收入增长 9%，Red Hat 增长 11%。对做 AI 服务的人来说，“开源模型私有化部署+运维”是正在被大厂确认的需求。",
+   "links": [
+    "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+    "https://news.ycombinator.com/item?id=50238088"
+   ],
+   "topic": "ibm-ceo-open-weight-onprem",
+   "firstSeen": "2026-10-26T13:31:59+08:00"
+  },
+  {
+   "id": "225af8256a",
+   "title": "PaperPilot 登上 HN：纯 Rust 本地 PDF 引擎，一套内核同时做 MCP 服务器、CLI、浏览器 WASM 和桌面应用",
+   "summary": "开源项目 PaperPilot（v0.6，GitHub 约 60 星）刚登上 Hacker News。它用 Rust 写成，不依赖 Chromium、C++ 运行时或云服务，文件全程不出本机：作为 MCP 服务器可让 Claude Desktop、Cursor 等智能体直接合并、拆分、OCR、压缩 PDF；也提供命令行、浏览器内 WASM 版（usepaperpilot.com，不上传文件）、Tauri+Svelte 桌面端和本地 REST API（可接 Python、Node、n8n）。现有功能包括页面整理、压缩、纯 Rust PaddleOCR 文字识别、水印、签名校验、PII 扫描和深度清理。“给 AI 智能体用的本地文档工具”是值得关注的新品类。",
+   "links": [
+    "https://github.com/KrushnaVardhanReddy/PaperPilot",
+    "https://news.ycombinator.com/item?id=50238739"
+   ],
+   "topic": "paperpilot-rust-pdf-mcp",
+   "firstSeen": "2026-10-26T13:31:59+08:00"
   }
  ],
- "lastChecked": "2026-10-23T23:57:12+08:00"
+ "lastChecked": "2026-10-26T13:31:59+08:00"
 }
