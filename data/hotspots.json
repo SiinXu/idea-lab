@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T05:53:28+08:00",
+ "lastUpdated": "2026-10-27T06:12:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21397,7 +21397,18 @@
    ],
    "topic": "corridorkey-2-ai-keyer-2026-10",
    "firstSeen": "2026-10-27T05:53:28+08:00"
+  },
+  {
+   "id": "f16aefe89a",
+   "title": "OpenAI 宣布其模型取得三项基础科学成果：证伪「指数时间假设」、证明全维度局部光滑猜想（含 Kakeya 猜想），并给出 QCD 与 Yang–Mills 存在性证明",
+   "summary": "OpenAI 今天发文称，内部模型在数学、计算机科学和物理三个领域各产出一项新结果，并均已用 Lean 形式化验证：一是证明了 Sogge 1991 年提出的局部光滑猜想在所有维度成立，从而也解决了全维度的 Kakeya 猜想和 Stein 限制猜想；二是证伪了被数百篇论文当作前提的「指数时间假设」（ETH），由该假设的原提出者 Impagliazzo、Paturi 与 MIT 的 Ryan Williams 牵头外部小组核验；三是给出量子色动力学（QCD）和标准模型一种统一补全的严格存在性证明，其中包含千禧年大奖难题之一的 Yang–Mills 存在性部分，由诺奖得主 David Gross 等人负责审阅、暂不公开原始材料。OpenAI 表示不寻求学术署名，并试验三种不同的发布方式。若结论经同行确认，AI 做科研的叙事将大幅升级，形式化验证（Lean）工具、AI 证明的解读与科普内容、以及基于 ETH 被推翻的算法加速研究都值得关注；目前仍需等待独立核验。",
+   "links": [
+    "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "https://news.ycombinator.com/item?id=50251344"
+   ],
+   "topic": "openai-eth-kakeya-yang-mills-2026-10",
+   "firstSeen": "2026-10-27T06:12:17+08:00"
   }
  ],
- "lastChecked": "2026-10-27T05:53:28+08:00"
+ "lastChecked": "2026-10-27T06:12:17+08:00"
 }
