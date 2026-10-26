@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T19:15:31+08:00",
+ "lastUpdated": "2026-10-26T19:54:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20932,7 +20932,17 @@
    ],
    "topic": "postiz",
    "firstSeen": "2026-10-26T19:15:31+08:00"
+  },
+  {
+   "id": "b6773085f1",
+   "title": "Karpathy 编码守则 CLAUDE.md 重回 GitHub Trending：单文件已获 22 万星",
+   "summary": "multica-ai/andrej-karpathy-skills 再次登上 GitHub Trending，累计约 22.4 万星。它只是一份 CLAUDE.md，把 Karpathy 总结的大模型写代码常见坑（过度改动、乱加抽象、不验证就宣称完成等）写成规则，放进项目即可约束 Claude Code 等编码智能体的行为。说明「智能体行为规范」类轻量资产仍有很强传播力。",
+   "links": [
+    "https://github.com/multica-ai/andrej-karpathy-skills"
+   ],
+   "topic": "karpathy-claude-md",
+   "firstSeen": "2026-10-26T19:54:06+08:00"
   }
  ],
- "lastChecked": "2026-10-26T19:15:31+08:00"
+ "lastChecked": "2026-10-26T19:54:06+08:00"
 }
