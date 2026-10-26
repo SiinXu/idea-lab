@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T03:44:21+08:00",
+ "lastUpdated": "2026-10-27T03:58:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21286,7 +21286,18 @@
    ],
    "topic": "oldest-gui-app-windows-11-2026-10",
    "firstSeen": "2026-10-27T03:44:21+08:00"
+  },
+  {
+   "id": "d864e47db9",
+   "title": "Skydance 合并派拉蒙与华纳兄弟探索后推出一次性自愿买断计划，并要求员工每周 5 天到岗",
+   "summary": "据 Variety 报道，Skydance 董事长兼 CEO David Ellison 与联席 CEO Ynon Kreiz 周一发备忘录，宣布在整合派拉蒙和华纳兄弟探索业务之际，向部分员工提供「一次性」自愿买断（VBO）方案，符合条件者将收到个性化条款并在限定窗口内决定是否接受，外界普遍视之为后续裁员的前奏；同时公司将推行每周 5 天到岗的办公政策。同一天微软也被曝向约 6 万名员工提供买断，「用买断替代裁员」正在成为大型科技与传媒公司收缩人力的常见手段。消息已上 HN 首页。对做 HR 科技、离职与再就业服务、远程工作招聘平台的团队，这是一个需求信号。",
+   "links": [
+    "https://variety.com/2026/film/news/skydance-voluntary-buyouts-layoffs-5-days-per-week-in-office-policy-1236931402/",
+    "https://news.ycombinator.com/item?id=50249116"
+   ],
+   "topic": "skydance-voluntary-buyout-rto-2026-10",
+   "firstSeen": "2026-10-27T03:58:09+08:00"
   }
  ],
- "lastChecked": "2026-10-27T03:44:21+08:00"
+ "lastChecked": "2026-10-27T03:58:09+08:00"
 }
