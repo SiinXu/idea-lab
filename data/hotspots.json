@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T21:14:19+08:00",
+ "lastUpdated": "2026-10-26T21:46:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20975,7 +20975,18 @@
    ],
    "topic": "anthropic-s1-ipo",
    "firstSeen": "2026-10-26T21:14:19+08:00"
+  },
+  {
+   "id": "a47d4e82f3",
+   "title": "Ubicloud 实测：vLLM 开启约束解码后，开源模型工具调用格式准确率从 92% 提到 100%",
+   "summary": "Ubicloud 工程师发文并登上 Hacker News：用 vLLM 0.28 部署 Kimi K2.6 时，工具调用只有约 92% 符合预期格式，相当于每 25 次就有 2 次失败，在多轮智能体任务里会不断累积错误上下文。vLLM 0.31 把约束解码（constrained decoding）做成服务端开关，开启后新版 Kimi、DeepSeek 模型的工具调用格式准确率可达 100%。文章解释了工具声明如何被包进模型专用标记、为什么开源模型「跑分好、实际用不好」。对自托管开源模型做智能体、编程助手的团队是直接可用的调优点，也说明推理引擎配置正成为开源模型落地的关键差异。",
+   "links": [
+    "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+    "https://news.ycombinator.com/item?id=50242870"
+   ],
+   "topic": "vllm-tool-call-constrained-decoding",
+   "firstSeen": "2026-10-26T21:46:26+08:00"
   }
  ],
- "lastChecked": "2026-10-26T21:14:19+08:00"
+ "lastChecked": "2026-10-26T21:46:26+08:00"
 }
