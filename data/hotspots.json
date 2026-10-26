@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T17:08:53+08:00",
+ "lastUpdated": "2026-10-26T17:30:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20838,7 +20838,29 @@
    ],
    "topic": "keybytes-modular-keyboard",
    "firstSeen": "2026-10-26T17:08:53+08:00"
+  },
+  {
+   "id": "e4a60b3d07",
+   "title": "瑞士 1:1 搬进 Minecraft：用 swisstopo 开放地理数据逐米还原整个国家",
+   "summary": "Hacker News 新帖「Blocks」把整个瑞士按 1 方块 = 1 米的比例做进了 Minecraft（Java 1.12.2 + Cubic Chunks）：地形、冰川、湖泊、森林和水坝都来自瑞士联邦测绘局 swisstopo 的开放地理数据，马特洪峰高度与坡度与真实一致，全国约 4.1 万平方公里、完整地图约 24 GB。网站提供可拖动对比真实航拍的俯视地图和一键传送指令，有免费区块可下载，全国完整版付费。适合关注开放数据再利用、数字孪生与游戏化地图的开发者。",
+   "links": [
+    "https://blocks.manifold3d.ch/",
+    "https://news.ycombinator.com/item?id=50240922"
+   ],
+   "topic": "switzerland-minecraft-1to1",
+   "firstSeen": "2026-10-26T17:30:40+08:00"
+  },
+  {
+   "id": "a9f537950f",
+   "title": "多智能体炒股框架 TradingAgents 再上 GitHub Trending：v0.7 支持直接用 ChatGPT 订阅运行",
+   "summary": "TauricResearch 的 TradingAgents（11.5 万星）用多个 LLM 智能体模拟交易团队：基本面、情绪、新闻、技术分析师加多空研究员辩论，再由交易员与风控做决策。最新 v0.7.0 新增 chatgpt provider，可用 ChatGPT Plus/Pro 订阅登录运行而不必申请 API Key，回测改为从每次决策后的第一个收盘价开始计分，并在 GitHub Release 附带 wheel 安装包。今日再次登上 GitHub Trending，是研究 AI 投研 / 多智能体协作的热门开源样板（仅供研究，非投资建议）。",
+   "links": [
+    "https://github.com/TauricResearch/TradingAgents",
+    "https://github.com/TauricResearch/TradingAgents/releases/tag/v0.7.0"
+   ],
+   "topic": "tradingagents-v07",
+   "firstSeen": "2026-10-26T17:30:40+08:00"
   }
  ],
- "lastChecked": "2026-10-26T17:08:53+08:00"
+ "lastChecked": "2026-10-26T17:30:40+08:00"
 }
