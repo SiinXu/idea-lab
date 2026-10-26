@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-26T17:46:27+08:00",
+ "lastUpdated": "2026-10-26T18:30:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -20871,7 +20871,18 @@
    ],
    "topic": "fzero-x-3ds-agentic-port",
    "firstSeen": "2026-10-26T17:46:27+08:00"
+  },
+  {
+   "id": "3b6b56e10b",
+   "title": "特斯拉取消澳新两地 Cybertruck：等了 7 年的预订全部作废退款",
+   "summary": "Electrek 报道，特斯拉正式取消在澳大利亚和新西兰推出 Cybertruck，自 2019 年起缴纳 150 澳元订金的预订者收到邮件，订单作废并将在 30 天内全额退款，转购 Model 3/Y 可获赠一年 FSD（监督版）。核心原因是 Cybertruck 只有左舵版本，右舵改造与本地认证成本难以被销量支撑：特斯拉 Q3 2026「其他车型」仅交付 8295 辆，Cybertruck 年化约 3 万辆，远低于 25 万辆产能。HN 正在讨论。",
+   "links": [
+    "https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/",
+    "https://news.ycombinator.com/item?id=50239430"
+   ],
+   "topic": "tesla-cybertruck-anz-cancel",
+   "firstSeen": "2026-10-26T18:30:18+08:00"
   }
  ],
- "lastChecked": "2026-10-26T17:46:27+08:00"
+ "lastChecked": "2026-10-26T18:30:18+08:00"
 }
