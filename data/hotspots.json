@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T00:55:54+08:00",
+ "lastUpdated": "2026-10-28T01:18:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22508,7 +22508,48 @@
    ],
    "topic": "oracle-openai-codex-tpu-jalapeno-oci",
    "firstSeen": "2026-10-28T00:55:54+08:00"
+  },
+  {
+   "id": "fa354e6caa",
+   "title": "英伟达将向 Meta 新股发行投资 30 亿美元：双方扩大 Muse 合作，Meta 加码部署 Vera Rubin 与 Vera CPU",
+   "summary": "据《华尔街日报》，英伟达与 Meta 扩大 Muse 合作，Meta 将部署更多 Vera Rubin GPU 和 Vera CPU；英伟达同时将在 Meta 计划中的股权融资里投资 30 亿美元，而 Meta 正寻求通过发行股票募集最多 950 亿美元。芯片商反向入股大客户，显示 AI 算力军备竞赛的资金闭环越来越紧。",
+   "links": [
+    "https://www.wsj.com/tech/ai/nvidia-to-invest-3-billion-in-metas-equity-offering-as-they-expand-ai-partnership-e8d3850a",
+    "https://www.techmeme.com/261027/p25"
+   ],
+   "topic": "nvidia-meta-3b-equity-muse",
+   "firstSeen": "2026-10-28T01:18:33+08:00"
+  },
+  {
+   "id": "0396ba3414",
+   "title": "前微软团队创办的 Hyphenate 获 4500 万美元 A 轮：用强化学习训练 AI Agent 自动处理企业财务",
+   "summary": "Hyphenate 开发基于强化学习的 AI Agent，用于自动化企业财务工作流程。本轮由 Nexus Venture Partners 领投，累计融资达 5400 万美元。垂直行业 Agent（财务、法务等后台流程）正成为资本追逐的新方向。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-10-27/microsoft-alumni-score-funding-to-build-ai-agents-for-finance"
+   ],
+   "topic": "hyphenate-45m-finance-agents",
+   "firstSeen": "2026-10-28T01:18:33+08:00"
+  },
+  {
+   "id": "f052443aff",
+   "title": "Anthropic 招股书未把 Ben Mann 列入「持续创始人」：公司回应仍可称其为联合创始人",
+   "summary": "SF Standard 发现，Anthropic 的 S-1 在「Continuing Founders」和创始人持股实体中未包含 Labs 联合负责人 Ben Mann，尽管公司 10 月中旬宣布新加坡办公室时仍称他为联合创始人。Anthropic 表示「仍然可以称他为联合创始人」。招股书细节正被逐条挖掘，治理结构成为关注焦点。",
+   "links": [
+    "https://sfstandard.com/2026/10/26/anthropic-cofounder-mystery-ben-mann/"
+   ],
+   "topic": "anthropic-s1-ben-mann-founder",
+   "firstSeen": "2026-10-28T01:18:33+08:00"
+  },
+  {
+   "id": "099c491223",
+   "title": "美国警方用车牌识别和 AI 标记「可疑出行轨迹」拦车：ACLU 警告无具体犯罪嫌疑也会被拦查",
+   "summary": "ACLU 发文指出，美国多地执法机构正利用自动车牌识别器（ALPR）和 AI 工具，按行车轨迹把司机标记为「可疑」并拦车盘查，即便对方没有具体犯罪嫌疑。案例中一名女性公路旅行时被以「占用左车道过久」为由拦下，FBI 探员随后展示了她行程的热力图。AI 监控的隐私边界再引争议。",
+   "links": [
+    "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
+   ],
+   "topic": "police-alpr-ai-suspicious-driving",
+   "firstSeen": "2026-10-28T01:18:33+08:00"
   }
  ],
- "lastChecked": "2026-10-28T00:55:54+08:00"
+ "lastChecked": "2026-10-28T01:18:33+08:00"
 }
