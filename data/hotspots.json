@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T05:30:02+08:00",
+ "lastUpdated": "2026-10-28T05:41:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22766,7 +22766,29 @@
    ],
    "topic": "anthropic-claude-drug-development-progress-2026-10-27",
    "firstSeen": "2026-10-28T05:30:02+08:00"
+  },
+  {
+   "id": "986ff5c649",
+   "title": "数据分析平台 Hex 发布从零重写的 Hex 4.0 并完成 1 亿美元融资，估值 12 亿美元：押注「智能体原生」分析取代传统 BI",
+   "summary": "Hex CEO Barry McCardel 10 月 27 日宣布：团队把用了 6 年、服务 2500 多家客户的产品推倒重来，推出 Hex 4.0，核心理念是「一切皆代码」，用普通代码而非专有 YAML 描述数据工作，并为智能体的高并发、反复迭代式分析重建计算引擎；重写过程本身也大量由 AI 智能体写代码完成。同时宣布完成 1 亿美元融资、估值 12 亿美元，由 Peak XV 与 137 Ventures 领投，a16z、红杉、Redpoint 等跟投。他直言旧 BI 范式已结束，给老产品加个聊天侧边栏不够。「为智能体重做老软件品类」的思路值得关注：哪些 SaaS 类别也该被智能体原生地重写一遍？",
+   "links": [
+    "https://hex.tech/blog/hex-new-era/",
+    "https://news.ycombinator.com/item?id=50265413"
+   ],
+   "topic": "hex-4-0-100m-raise-agent-native-analytics-2026-10-27",
+   "firstSeen": "2026-10-28T05:41:49+08:00"
+  },
+  {
+   "id": "1cdc2a43b7",
+   "title": "树莓派 Zero 3 W 与 Pi 4 Model A 现身 Linux 内核设备树：Zero 系列五年来首次换代，换用 Pi 4 同款四核 A72 芯片",
+   "summary": "树莓派官方 Linux 内核代码树中新出现了 Raspberry Pi Zero 3 W 和 Raspberry Pi 4 Model A 的设备树文件（Phoronix 最先发现，bret.dk 做了详细解读），官方尚未正式发布。从设备树看，Zero 3 W 将采用与树莓派 4 相同的博通 BCM2711 四核 Cortex-A72 处理器，取代 Zero 2 W 的 1GHz Cortex-A53，单核性能大幅跃升；Zero 2 W 正好在五年前发布。另一款 Pi 4 Model A 则是「A 型」精简板的回归。对做边缘 AI 小硬件、低成本物联网设备的创作者来说，更强的极小尺寸板卡值得留意。",
+   "links": [
+    "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+    "https://news.ycombinator.com/item?id=50265594"
+   ],
+   "topic": "raspberry-pi-zero-3w-pi4-model-a-device-tree-2026-10-27",
+   "firstSeen": "2026-10-28T05:41:49+08:00"
   }
  ],
- "lastChecked": "2026-10-28T05:30:02+08:00"
+ "lastChecked": "2026-10-28T05:41:49+08:00"
 }
