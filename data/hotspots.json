@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T08:27:05+08:00",
+ "lastUpdated": "2026-10-27T08:42:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21567,7 +21567,27 @@
    ],
    "topic": "bill-gates-20-years-ai-turmoil",
    "firstSeen": "2026-10-27T08:27:05+08:00"
+  },
+  {
+   "id": "0325998655",
+   "title": "Harmonic 的 Aristotle AI 用 Lean 4 形式化证明定理，同时 1000 多名数学家联名拒用 AI",
+   "summary": "由 Robinhood CEO Vlad Tenev 联合创立的 HarmonicMath 宣布其 AI 已能用 Lean 4 自动完成定理的形式化证明，公开了 222 条机器验证定理和 Lean 代码，员工暗示将有更难的新成果发布。几乎同一时间，「人类数学协会」成员超过 1000 人，承诺不使用 AI 生成论文，其中 650 多人在核心研究中完全不用 AI 工具。叠加 OpenAI 同日公布的数学与物理证明，「AI 做数学」成为 X 上今晚的争论焦点。",
+   "links": [
+    "https://x.com/i/trending/2114857603930931515"
+   ],
+   "topic": "harmonic-aristotle-lean-vs-human-math",
+   "firstSeen": "2026-10-27T08:42:51+08:00"
+  },
+  {
+   "id": "122c481ea5",
+   "title": "普渡大学无人机不靠 GPS 和云端，在密林中全自主跟拍跑步者",
+   "summary": "普渡大学 IDEAS 实验室发布 44 秒视频：自研无人机在未建图的茂密树林中跟随跑步者，建图、避障和运动预测全部在机载芯片上完成，不依赖 GPS 和云端。该技术与美国陆军一份 150 万美元的无 GPS 机器人协同项目相关。网友一边看好运动跟拍等消费场景，一边质疑其真实用途偏向军事。边缘 AI 加自主飞行是值得关注的硬件方向。",
+   "links": [
+    "https://x.com/i/trending/2114554996377407710"
+   ],
+   "topic": "purdue-gps-free-drone-forest",
+   "firstSeen": "2026-10-27T08:42:51+08:00"
   }
  ],
- "lastChecked": "2026-10-27T08:27:05+08:00"
+ "lastChecked": "2026-10-27T08:42:51+08:00"
 }
