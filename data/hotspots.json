@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T11:58:52+08:00",
+ "lastUpdated": "2026-10-27T12:08:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21902,7 +21902,30 @@
    ],
    "topic": "china-star50-ai-bubble",
    "firstSeen": "2026-10-27T11:58:52+08:00"
+  },
+  {
+   "id": "709047a889",
+   "title": "blaze：给 cargo 加个前缀，改一个函数后 Rust 增量构建快 10–24 倍，约 20ms 热更新到运行中的程序",
+   "summary": "indexable-inc 开源的 blaze 登上 HN（GitHub 已 700+ 星）：用法和 cargo 一样，只需 blaze run / test / build。它常驻在 cargo 旁边，把项目编译结果保存在内存里，改动后只重编被修改的函数（引擎标为 ra-jit）。官方基准：改一个函数后重建，ripgrep 从 508ms 降到 56ms，bun（125 万行 Rust）从 9.11s 降到 451ms；平均比 cargo build 快 10×（macOS arm64）到 24×（Linux aarch64），HN 标题称最高 92 倍。支持 Apple 芯片 macOS 和 Linux。对大量用 AI 智能体反复改 Rust 代码的团队，编译等待是主要瓶颈之一。",
+   "links": [
+    "https://github.com/indexable-inc/blaze",
+    "https://news.ycombinator.com/item?id=50254300"
+   ],
+   "topic": "blaze-rust-incremental",
+   "firstSeen": "2026-10-27T12:08:59+08:00"
+  },
+  {
+   "id": "276f719837",
+   "title": "Amodei「按价值给 AI 定价」论再刷屏：重启 Mac 的回答值几美分，改一个药物分子可能值几千万美元",
+   "summary": "Anthropic 提交 S-1 后，CEO Dario Amodei 在 Dwarkesh Patel 访谈中的一段话在 X 上重新热传：模型输出的每个 token 价值不同，帮人「重启 Mac」可能只值几美分，而建议药企把芳香环挪到分子另一端可能值数千万美元，因此未来会出现按结果付费或按工时计费的模式，与 API 按 token 计费并存。X 上的讨论围绕 S-1 显示 token 计费仍占 Anthropic 2026 上半年约 80% 收入（X 摘要数据，待核），以及按价值定价是否会挤压大客户。对做 AI 产品的人来说，这是从「卖算力」转向「卖结果」（如 Intercom Fin 每次解决 0.99 美元）的定价参考。",
+   "links": [
+    "https://x.com/i/trending/2114929697499083118",
+    "https://www.youtube.com/watch?v=hZl9SDgj3P8",
+    "https://emretezisci.com/2026/the-token-trap-ai-capabilities-grew-10x-pricing-grew-0x/"
+   ],
+   "topic": "amodei-value-based-pricing",
+   "firstSeen": "2026-10-27T12:08:59+08:00"
   }
  ],
- "lastChecked": "2026-10-27T11:58:52+08:00"
+ "lastChecked": "2026-10-27T12:08:59+08:00"
 }
