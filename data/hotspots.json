@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T14:54:18+08:00",
+ "lastUpdated": "2026-10-27T15:23:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22003,7 +22003,19 @@
    ],
    "topic": "anthropic-claude-eth-3sat",
    "firstSeen": "2026-10-27T14:54:18+08:00"
+  },
+  {
+   "id": "5b16bdb61d",
+   "title": "百度开源 Unlimited OCR 2：3B 参数、MIT 协议，一次读完上千页长文档，解码速度与显存几乎不随页数增长",
+   "summary": "百度 10 月 26 日开源 Unlimited OCR 2，代码在 GitHub、权重在 Hugging Face。新机制 SR-SWA（稀疏参考滑动窗口注意力）把图文注意力压缩成固定大小的「工作参考」集合，官方称单步解码比全注意力快约 7 倍，峰值 KV 缓存从 47GB 降到 1.77GB；有人用它一次性解析了 1200 多页的《三体》三部曲中文原版。上一代上线后 5 天 GitHub 破万星、累计下载破千万，这一代热度延续。超长研报、合同、整本书数字化和训练数据清洗都直接受益，单卡可跑，适合做本地文档解析服务或垂直行业的「整本 PDF 问答」产品。",
+   "links": [
+    "https://x.com/Baidu_Inc/status/2114910381311512987",
+    "https://x.com/BaiduAI_News/status/2114921679327809876",
+    "https://x.com/i/trending/2114938936204079379"
+   ],
+   "topic": "baidu-unlimited-ocr-2",
+   "firstSeen": "2026-10-27T15:23:46+08:00"
   }
  ],
- "lastChecked": "2026-10-27T14:54:18+08:00"
+ "lastChecked": "2026-10-27T15:23:46+08:00"
 }
