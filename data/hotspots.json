@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T07:28:06+08:00",
+ "lastUpdated": "2026-10-28T07:42:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22884,7 +22884,20 @@
    ],
    "topic": "ai-game-port-dmca-microsoft-epic-2026-10-27",
    "firstSeen": "2026-10-28T07:28:06+08:00"
+  },
+  {
+   "id": "f95d58324b",
+   "title": "Semaphore 团队开源 SuperPlane 1.0：自动挑工单、跑编码智能体、修 CI，直接交出可审的 PR",
+   "summary": "CI/CD 公司 Semaphore 的团队于 10 月 27 日发布开源项目 SuperPlane v1.0，定位「一次成型的工程工厂」：扫描待办、挑出适合自动化的工单，调度编码智能体写代码、自动处理 CI 失败，最后交付等人审核的 PR，可自托管并接任意模型。团队称上个月自己仓库 52% 的 PR 由它自动合并，GitHub 已有 8000+ 星。开发者吐槽的「盯着 AI 改 bug」正被流程化，但仍有人强调人工审查不可省。围绕编码智能体的编排、队列和审查工具正在成为新的开发者基础设施赛道。",
+   "links": [
+    "https://github.com/superplanehq/superplane/releases/tag/v1.0.0",
+    "https://github.com/superplanehq/superplane",
+    "https://superplane.com",
+    "https://x.com/i/trending/2115220731609092345"
+   ],
+   "topic": "superplane-1-0",
+   "firstSeen": "2026-10-28T07:42:50+08:00"
   }
  ],
- "lastChecked": "2026-10-28T07:28:06+08:00"
+ "lastChecked": "2026-10-28T07:42:50+08:00"
 }
