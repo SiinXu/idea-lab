@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T03:31:57+08:00",
+ "lastUpdated": "2026-10-28T03:46:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22635,7 +22635,19 @@
    ],
    "topic": "microsoft-authenticator-android-authmask-cve-2026-80097",
    "firstSeen": "2026-10-28T03:31:57+08:00"
+  },
+  {
+   "id": "3cc53c644e",
+   "title": "Fluently 用 2000 多名非母语学习者的真实口语测 21 个实时语音转写系统：Scribe v2 Realtime 与微软 MAI-Transcribe-2 并列第一，越南语、泰语口音错误率最高",
+   "summary": "AI 口语陪练 App Fluently 发布实时语音识别基准：从 2042 名学习者与 AI 家教的真实对话中取 22.2 小时未经脚本的英语（16 个口音组、3 个流利度档），流式送进 21 个实时语音转文字系统。ElevenLabs Scribe v2 Realtime（词错率 5.4%）和微软 MAI-Transcribe-2（5.6%）并列第一，其余系统从 6.8% 起步，Voxtral Realtime 垫底为 18.8%。中位系统在德语口音上为 6.2%，越南语口音高达 12.8%；泰语、越南语、日语和中文口音即使说得流利也明显更难；初学者语音没有任何系统真正解决，流式模式比同模型离线平均多出 1.4 个百分点错误，对初学者伤害最大。创始人 Yurii Rebryk 一句「语音转文字已经解决了，除非你有口音」在 X 上引发讨论。对做语音 Agent、口语教育和跨国客服的团队，这是选型时少见的真实口音数据，评测代码已开源。",
+   "links": [
+    "https://getfluently.app/research/asr",
+    "https://github.com/fluently-ai/realtime-asr-accented-english",
+    "https://x.com/i/trending/2115137228791820587"
+   ],
+   "topic": "fluently-realtime-asr-accented-english-benchmark",
+   "firstSeen": "2026-10-28T03:46:41+08:00"
   }
  ],
- "lastChecked": "2026-10-28T03:31:57+08:00"
+ "lastChecked": "2026-10-28T03:46:41+08:00"
 }
