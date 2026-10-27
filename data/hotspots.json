@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T01:39:22+08:00",
+ "lastUpdated": "2026-10-28T02:18:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22580,7 +22580,17 @@
    ],
    "topic": "firefox-smart-window-ai-form-fill-watch",
    "firstSeen": "2026-10-28T01:39:22+08:00"
+  },
+  {
+   "id": "8a93bec2dc",
+   "title": "ETH 被 AI 证伪后，复杂度理论界组队「接管」：MIT 的 Ryan Williams 联合 ETH 原提出者发公开信，成立工作组并要 OpenAI 资助专题会议",
+   "summary": "TechCrunch 报道，OpenAI 与 Anthropic 先后宣称模型证伪「指数时间假设」后，OpenAI 这次按学科分开发布：数学成果直接上 GitHub，计算机科学界组建工作组、要求公开证明并由 OpenAI 出资办会，物理学界则由工作组决定何时发布。曾把 OpenAI 批量甩证明比作「对数学家的 DDoS 攻击」的 MIT 教授 Ryan Williams，联合 1999 年提出 ETH 的 Impagliazzo 和 Paturi 发布公开信，征集同行审查并讨论 AI 参与科研的署名与规范。他说证明里有两三处「像外星人写的」部分，需要全领域一起消化。AI 产出科研成果的速度，正在倒逼学术界建立新的验证和发布流程。",
+   "links": [
+    "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
+   ],
+   "topic": "eth-refutation-academic-working-group-open-letter",
+   "firstSeen": "2026-10-28T02:18:57+08:00"
   }
  ],
- "lastChecked": "2026-10-28T01:39:22+08:00"
+ "lastChecked": "2026-10-28T02:18:57+08:00"
 }
