@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T05:41:49+08:00",
+ "lastUpdated": "2026-10-28T06:17:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22788,7 +22788,18 @@
    ],
    "topic": "raspberry-pi-zero-3w-pi4-model-a-device-tree-2026-10-27",
    "firstSeen": "2026-10-28T05:41:49+08:00"
+  },
+  {
+   "id": "234cc363ea",
+   "title": "Judgment Labs 平台全面开放：给长任务 AI 智能体做「监控 + 纠错」，此前获 3200 万美元融资",
+   "summary": "由 Alex Shan、Andrew Li、Joseph Camyre 于 2025 年创办的 Judgment Labs 10 月 27 日宣布自助平台公开可用：完整记录智能体的执行轨迹（模型调用、工具调用、状态变化），自动归纳反复出现的失败模式（如空结果后重复调用同一接口），支持全文检索并在离线环境测试修复方案，还可用可定制的「评审器」和后台智能体持续评估。公司获 Lightspeed 等机构 3200 万美元投资，X 上开发者称终于能看清智能体从接到任务到完成之间发生了什么。随着智能体走向长时、多步任务，「智能体可观测性与评测」正成为独立赛道，适合做细分场景的监控、评测模板或咨询服务。",
+   "links": [
+    "https://judgmentlabs.ai",
+    "https://x.com/i/trending/2115193410134987191"
+   ],
+   "topic": "judgment-labs-agent-monitoring-ga-2026-10-27",
+   "firstSeen": "2026-10-28T06:17:46+08:00"
   }
  ],
- "lastChecked": "2026-10-28T05:41:49+08:00"
+ "lastChecked": "2026-10-28T06:17:46+08:00"
 }
