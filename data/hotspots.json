@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T18:57:33+08:00",
+ "lastUpdated": "2026-10-27T19:09:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22148,7 +22148,18 @@
    ],
    "topic": "roblox-crawler-open3dlab-145gb",
    "firstSeen": "2026-10-27T18:57:33+08:00"
+  },
+  {
+   "id": "c461df3a21",
+   "title": "《AI 正在毁掉鬼屋》登上 HN：万圣节前夕，鬼屋从海报、道具到周边纷纷用上 AI 生成图，玩家抱怨「首尾都是 AI」",
+   "summary": "Plagiarism Today 创办人 Jonathan Bailey（自己经营家庭鬼屋近 20 年）撰文称，今年第一家去的鬼屋就挂着劣质 AI 图，其中一张甚至留着 Gemini 水印。他梳理了 AI 渗透鬼屋行业的各个环节：Kennywood、St. Louis The Darkness 因 AI 宣传图遭抵制；投影供应商 AtmosFX 承认部分角色由 AI 制作；Knott's Scary Farm、Queen Mary Dark Harbor 乃至迪士尼鬼屋主题店被指售卖 AI 生成周边。他认为非生成式 AI 用于道具定时、安全设计无妨，但面向顾客的内容用 AI 会让体验千篇一律。文章折射出线下体验行业对「AI 生成感」的反感正在成为消费者选择因素，手绘、真人制作反而成为卖点。",
+   "links": [
+    "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
+    "https://news.ycombinator.com/item?id=50256230"
+   ],
+   "topic": "ai-ruining-haunted-attractions",
+   "firstSeen": "2026-10-27T19:09:06+08:00"
   }
  ],
- "lastChecked": "2026-10-27T18:57:33+08:00"
+ "lastChecked": "2026-10-27T19:09:06+08:00"
 }
