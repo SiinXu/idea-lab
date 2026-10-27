@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T03:46:41+08:00",
+ "lastUpdated": "2026-10-28T03:56:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22647,7 +22647,18 @@
    ],
    "topic": "fluently-realtime-asr-accented-english-benchmark",
    "firstSeen": "2026-10-28T03:46:41+08:00"
+  },
+  {
+   "id": "7803291cc7",
+   "title": "特朗普称将在官方文件中「禁用」人工智能（AI）一词，理由是「不准确」，拟改称「超级智能」",
+   "summary": "美国总统特朗普 10 月 27 日在 Truth Social 发文称，「很快我们将正式在所有相关文件及其他一切场合禁用『AI／人工智能』这个说法，因为它不准确」，并据 The Hill 报道打算改用「超级智能」（super intelligence）的说法；他同时借此抨击了《华尔街日报》。目前尚无具体行政命令或执行细则，禁令适用范围也不清楚。消息登上 HN 引发讨论：一旦联邦文件、采购和监管文本改换术语，政府合同标书、合规文档和面向政府的 AI 产品营销口径都可能需要跟着调整，做 GovTech 和政策合规的团队值得关注后续正式文件。",
+   "links": [
+    "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/",
+    "https://news.ycombinator.com/item?id=50264228"
+   ],
+   "topic": "trump-ban-term-artificial-intelligence-2026-10-27",
+   "firstSeen": "2026-10-28T03:56:44+08:00"
   }
  ],
- "lastChecked": "2026-10-28T03:46:41+08:00"
+ "lastChecked": "2026-10-28T03:56:44+08:00"
 }
