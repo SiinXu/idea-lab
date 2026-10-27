@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T20:33:42+08:00",
+ "lastUpdated": "2026-10-27T20:39:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22233,7 +22233,18 @@
    ],
    "topic": "software-quality-used-to-be-horrible-bitlog",
    "firstSeen": "2026-10-27T20:33:42+08:00"
+  },
+  {
+   "id": "c61ee1a626",
+   "title": "HN 热议《AI 承诺少干活，我却从没这么累过》：Bold.org 技术 VP 用 GitHub 数据揭示「智能体爆发—倦怠」循环",
+   "summary": "Bold.org 技术副总裁 Orestis Ioannou 撰文，用 2019 年至今的 GitHub 贡献数据复盘 AI 智能体对工作量的影响：身为管理者本该少写代码，2026 年截至 10 月 27 日却已有 2,102 次贡献，超过 2021–2025 任何一整年；8 月以 427 次创下历史单月最高，工作日中位数从 3–4 次升到 7 次，单日 24 次以上的高强度日从每年 1 天增至 16 天。他发现规律是「新模型或新工作流出现→想法暴涨→同时开多个智能体→审查与上下文切换压垮注意力→倦怠回落」，今年已经历三轮。核心观点：实现成本骤降后，没有天然摩擦阻止人同时追所有点子，执行能力的增长远快于思考能力。对独立开发者的启示：给并行智能体数量和新项目设上限，把审查与切换成本算进计划。",
+   "links": [
+    "https://oioannou.com/blog/ai-promised-less-work/",
+    "https://news.ycombinator.com/item?id=50257325"
+   ],
+   "topic": "ai-promised-less-work-agent-burnout",
+   "firstSeen": "2026-10-27T20:39:31+08:00"
   }
  ],
- "lastChecked": "2026-10-27T20:33:42+08:00"
+ "lastChecked": "2026-10-27T20:39:31+08:00"
 }
