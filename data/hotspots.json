@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T11:32:26+08:00",
+ "lastUpdated": "2026-10-27T11:41:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21842,7 +21842,43 @@
    ],
    "topic": "",
    "firstSeen": "2026-10-27T11:32:26+08:00"
+  },
+  {
+   "id": "411d17d70d",
+   "title": "Robinhood 联创的 Cowboy Space 发布「Big Iron」火箭：上面级入轨后直接变成 1 兆瓦级 GPU 数据中心",
+   "summary": "Robinhood 联合创始人 Baiju Bhatt 创办的 Cowboy Space 于 10 月 26 日公布 86 米不锈钢火箭 Big Iron：一级为可复用助推器，9 台液氧甲烷 Clydesdale 发动机；二级不抛弃，入轨后展开成 132×73 米的卫星，搭载 5 个机柜的 NVIDIA Vera Rubin GPU。箭体蒙皮转作散热器、氨推进剂转作冷却液、增压氮气用来展开太阳翼，一份重量干两份活。公司称目标是让轨道算力比地面更便宜，并开放「Big Iron Express」给外部载荷；已向 FCC 申请 2 万颗卫星的 Stampede 星座，计划 2028 年首飞。太空算力赛道又多一位自建火箭的玩家，「电网接入排队 5–7 年」正在把数据中心推向轨道。",
+   "links": [
+    "https://payloadspace.com/cowboy-space-reveals-big-iron-data-center-rocket/",
+    "https://www.axios.com/2026/10/27/big-iron-cowboy-space-rocket",
+    "https://x.com/i/trending/2114912570910093422"
+   ],
+   "topic": "cowboy-space-big-iron",
+   "firstSeen": "2026-10-27T11:41:33+08:00"
+  },
+  {
+   "id": "cbafd7b095",
+   "title": "传台积电 CoWoS 先进封装酝酿涨价最高 2 成：AI 芯片抢产能，设备交期拉长到 8 个月",
+   "summary": "据台湾《工商时报》10 月 27 日报道，AI 芯片抢产能从 GPU 扩散到服务器 CPU 与定制 ASIC，晶圆代工及封测厂正酝酿新一轮 CoWoS 报价上调 10%–20%，部分封装交期已拉长；客户「无暇砍价，只要能承诺交期就下单」，设备交期从 3–6 个月拉长到 6–8 个月。分析师估算台积电 CoWoS 月产能 2026 年超 13 万片、2027 年达 20 万片。台积电未证实具体涨幅，一贯不评论价格。若属实，AI 加速卡与云端推理成本短期难降，封测设备与替代封装（如英特尔 EMIB）有望受益。",
+   "links": [
+    "https://www.ctee.com.tw/news/20261027700053-439901",
+    "https://www.investing.com/news/stock-market-news/tsmc-to-raise-advanced-chip-packaging-prices-by-up-to-20-report-says-4974101",
+    "https://x.com/i/trending/2114887997066023266"
+   ],
+   "topic": "tsmc-cowos-price-hike-2026-10",
+   "firstSeen": "2026-10-27T11:41:33+08:00"
+  },
+  {
+   "id": "8e8f6fe8f2",
+   "title": "AI 物理实验室 Physical Superintelligence 公布 5 个量子信息开放问题新结果，每个都附 Lean 形式化证明",
+   "summary": "剑桥的 Physical Superintelligence（PSI）称其研究员与自研 AI 系统合作，在「Open Quantum Problems」清单的第 2、12、27、38、43 号问题上取得新结果，涉及纠缠蒸馏、真空 CHSH 违背、CGLMP 最优测量、PPT 映射破坏纠缠与因果过程反例；每个结果都配论文、Lean 形式化和验证代码，并在 GitHub 公开 AI 参与方式。其中 38 号问题是在 OpenAI 预印本基础上推进。同一周 OpenAI 也发布了数学、计算机和物理三项成果，「AI 产出可机器检验的科研结果」正成为新竞赛点，形式化证明工具链与科研 Agent 的需求随之上升。",
+   "links": [
+    "https://psi.inc/research/oqp-batch-2026/",
+    "https://runtimewire.com/article/physical-superintelligence-five-quantum-results",
+    "https://x.com/i/trending/2114923202883227687"
+   ],
+   "topic": "psi-open-quantum-problems",
+   "firstSeen": "2026-10-27T11:41:33+08:00"
   }
  ],
- "lastChecked": "2026-10-27T11:32:26+08:00"
+ "lastChecked": "2026-10-27T11:41:33+08:00"
 }
