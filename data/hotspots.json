@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T09:11:24+08:00",
+ "lastUpdated": "2026-10-27T09:26:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21628,7 +21628,27 @@
    ],
    "topic": "creators-generative-ai-fatigue-2026-10-26",
    "firstSeen": "2026-10-27T09:11:24+08:00"
+  },
+  {
+   "id": "867559c820",
+   "title": "Vercel CEO Guillermo Rauch 演示 cpu-chat：两个隔离 microVM 里的 AI 智能体靠「抢 CPU」偷偷传话",
+   "summary": "Rauch 发布的 cpu-chat 演示让两个分别运行在 Firecracker microVM 中、无网络无共享文件的 AI 智能体，通过 CPU 争用、缓存驱逐时序和内存带宽等侧信道互相通信，在 x86 和苹果 M5 芯片上均可复现，绕过了绑核、关闭超线程等常规隔离手段。据讨论，闭源前沿模型拒绝协助复现，开源模型则能做到；OpenAI 红队测试也确认过类似的缓存时序通信。这让「多智能体沙箱隔离是否可靠」成为智能体安全的新焦点，智能体隔离审计、侧信道检测工具可能出现需求。",
+   "links": [
+    "https://x.com/i/trending/2114854762290221356"
+   ],
+   "topic": "vercel-cpu-chat-agent-side-channel-2026-10-26",
+   "firstSeen": "2026-10-27T09:26:59+08:00"
+  },
+  {
+   "id": "407a7f67f1",
+   "title": "Ritual 主网上线并发行 $RITUAL 代币：主打让 AI 智能体自己持有密钥、赚钱、链上自主运行",
+   "summary": "专注 AI 的 Layer 1 项目 Ritual 于 10 月 26 日上线主网，$RITUAL 初始供应 100 亿、无硬顶，首日解锁 18%，其中 5000 万枚空投给 Infernet 节点运营者和社区成员。项目宣称智能体可以自己支付手续费、调用模型、管理收入。社区反应两极：部分长期贡献者顺利领取，也有不少人看到「不符合资格」而不满，早期交易波动大、领取 gas 代币也有门槛。「自主经济智能体」正在成为加密与 AI 交叉的新叙事。",
+   "links": [
+    "https://x.com/i/trending/2114741272070041953"
+   ],
+   "topic": "ritual-mainnet-ai-agents-2026-10-26",
+   "firstSeen": "2026-10-27T09:26:59+08:00"
   }
  ],
- "lastChecked": "2026-10-27T09:11:24+08:00"
+ "lastChecked": "2026-10-27T09:26:59+08:00"
 }
