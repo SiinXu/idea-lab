@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T01:18:33+08:00",
+ "lastUpdated": "2026-10-28T01:30:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22549,7 +22549,18 @@
    ],
    "topic": "police-alpr-ai-suspicious-driving",
    "firstSeen": "2026-10-28T01:18:33+08:00"
+  },
+  {
+   "id": "1c140c254c",
+   "title": "Anthropic 招股书拆账：模型业务上半年毛利率 85%，每 1 美元收入的算力成本从 2.5 美元降到不足 0.5 美元",
+   "summary": "据 The Information 和《金融时报》对 S-1 的解读，Anthropic 2026 年上半年靠按量付费卖模型实现约 85% 毛利率；每 1 美元收入对应的算力与基础设施支出，从 2025 年一季度约 2.5 美元降至 2026 年二季度不到 0.5 美元。这为「大模型 API 生意能否赚钱」的争论提供了首份上市级财务证据。",
+   "links": [
+    "https://www.theinformation.com/articles/anthropics-85-margin-reality-check-skeptics",
+    "https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29"
+   ],
+   "topic": "anthropic-s1-gross-margin-compute-cost",
+   "firstSeen": "2026-10-28T01:30:05+08:00"
   }
  ],
- "lastChecked": "2026-10-28T01:18:33+08:00"
+ "lastChecked": "2026-10-28T01:30:05+08:00"
 }
