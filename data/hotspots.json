@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T06:17:46+08:00",
+ "lastUpdated": "2026-10-28T06:25:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22799,7 +22799,30 @@
    ],
    "topic": "judgment-labs-agent-monitoring-ga-2026-10-27",
    "firstSeen": "2026-10-28T06:17:46+08:00"
+  },
+  {
+   "id": "2e9a046eef",
+   "title": "医疗 AI 公司 Concurrence 提出「超智能医疗」：为每位患者建数字孪生，预测病情走向并提前干预",
+   "summary": "Concurrence（融资 2400 万美元，创始人 Ali Khokhar 曾在 Google、Upwork 做 AI，13 岁时母亲因癌症未被及早发现而去世）发布研究计划「Superintelligent Care」：用「健康世界模型」把每位患者分散在各系统里的病历和就诊间隙的信息拼成数字孪生，预测可能的健康轨迹、找到能改变结局的干预，并把一个患者身上学到的经验带给下一个相似患者。公司称其智能体已在临床协议范围内支持超过 1000 万次患者交互。X 上同时热议一组数据：AI 采用率高的医院住院死亡率下降更明显，但这只是相关性而非因果。医疗 AI 正从「自动化随访」走向「预测 + 干预」，围绕慢病管理、随访提醒和患者档案整理的小工具有机会。",
+   "links": [
+    "https://www.concurrence.com/research/superintelligent-care",
+    "https://x.com/i/trending/2115146722674610340"
+   ],
+   "topic": "concurrence-superintelligent-care-2026-10-27",
+   "firstSeen": "2026-10-28T06:25:48+08:00"
+  },
+  {
+   "id": "12c571e3c9",
+   "title": "Databricks CEO：AI 不缺智能，缺的是上下文，湖仓要成为「智能体的记录系统」",
+   "summary": "Databricks CEO Ali Ghodsi 在 CNBC《Mad Money》和 a16z 文章中表示，企业迟迟不敢让 AI 智能体改动 Salesforce 等核心系统，原因不是模型不够聪明，而是智能体拿不到公司数据、上下文和权限。他把 Databricks 湖仓定位为「智能体的记录系统」（他戏称 SORA），回答四个问题：什么是真的、它意味着什么、智能体能做什么、做得对不对，并形成反馈闭环；Lakebase 也被用来存智能体的状态、记忆和配置。X 上讨论引用的说法是智能体可靠完成的任务时长约每 7 个月翻一倍。对独立开发者来说，「给智能体喂对的企业上下文」（权限、数据目录、语义层）是一块值得做的中间层生意。",
+   "links": [
+    "https://a16z.com/databricks-the-future-of-the-firm/",
+    "https://www.youtube.com/watch?v=CH7gtn87svI",
+    "https://x.com/i/trending/2115137231954305372"
+   ],
+   "topic": "databricks-system-of-record-for-agents-2026-10-27",
+   "firstSeen": "2026-10-28T06:25:48+08:00"
   }
  ],
- "lastChecked": "2026-10-28T06:17:46+08:00"
+ "lastChecked": "2026-10-28T06:25:48+08:00"
 }
