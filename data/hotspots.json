@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T02:18:57+08:00",
+ "lastUpdated": "2026-10-28T02:25:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22590,7 +22590,18 @@
    ],
    "topic": "eth-refutation-academic-working-group-open-letter",
    "firstSeen": "2026-10-28T02:18:57+08:00"
+  },
+  {
+   "id": "6dac137a56",
+   "title": "Liquid AI 发布 LFM3 开源小模型家族：1.7B 参数超过上代 2.6B，文本、视觉、音频、全模态共用一个骨干，4-bit 约 1GB 可跑在任意设备",
+   "summary": "Liquid AI 10 月 27 日发布第三代 Liquid Foundation Models（LFM3），首批为 2B 级别的六个模型，覆盖文本、视觉、音频、全模态（omni）和决策，全部从同一个 LFM3-1.7B-Base 训练而来。新的三混合架构加 22T token 预训练，让 LFM3-1.7B 在参数少 35% 的情况下超过 LFM2.5-2.6B；文本模型支持 256K 上下文，4-bit 量化后约 1GB，单张 GPU 即可微调。基础版和后训练版权重已在 Hugging Face 开放，也可通过 Playground 和 API 使用。端侧小模型「拿自有数据微调成专用专家」的路线又多了一个强力底座。",
+   "links": [
+    "https://www.liquid.ai/blog/lfm3",
+    "https://news.ycombinator.com/item?id=50262229"
+   ],
+   "topic": "liquid-ai-lfm3-release",
+   "firstSeen": "2026-10-28T02:25:35+08:00"
   }
  ],
- "lastChecked": "2026-10-28T02:18:57+08:00"
+ "lastChecked": "2026-10-28T02:25:35+08:00"
 }
