@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T17:57:20+08:00",
+ "lastUpdated": "2026-10-27T18:26:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22126,7 +22126,18 @@
    ],
    "topic": "ai-skills-worthless-2026-fishbowl",
    "firstSeen": "2026-10-27T17:57:20+08:00"
+  },
+  {
+   "id": "e569cff9a1",
+   "title": "Debian 开发者 josch 宣布不再向 NEW 队列上传：DFSG 团队未经公告用 LLM 审查全部新包，被指违背社区 AI 决议",
+   "summary": "Debian 开发者 Johannes Schauer Marin Rodrigues 在 debian-devel 邮件列表发帖称，NEW 队列（新软件包人工审核）的处理流程在未公告的情况下开始把上传交给基于 Debian 自有推理服务的 LLM 生成审查意见，且注明「未经 DFSG 团队成员核对、可能出错」。他认为志愿者要么花业余时间读可能错误的机器输出，要么白白浪费算力，并指出此举属于社区通用决议（GR）要求事先讨论的「大规模自动化项目行动」，也与「Debian 既不认可也不禁止生成式 AI」的表态相矛盾，因此停止向 NEW 上传。开源社区「AI 进审核流程」的分歧正从投票走向具体流程冲突。",
+   "links": [
+    "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+    "https://news.ycombinator.com/item?id=50256738"
+   ],
+   "topic": "debian-new-queue-llm-review",
+   "firstSeen": "2026-10-27T18:26:56+08:00"
   }
  ],
- "lastChecked": "2026-10-27T17:57:20+08:00"
+ "lastChecked": "2026-10-27T18:26:56+08:00"
 }
