@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T09:45:10+08:00",
+ "lastUpdated": "2026-10-27T09:57:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21688,7 +21688,37 @@
    ],
    "topic": "startups-new-media-rebrand-2026-10-26",
    "firstSeen": "2026-10-27T09:45:10+08:00"
+  },
+  {
+   "id": "f949102e22",
+   "title": "安全创业公司 Cathedral 受邀测试：AI 智能体不到 12 小时攻入 Anthropic 内部行政系统",
+   "summary": "据 X 热点汇总，由前美国政府效率部门成员创立的安全公司 Cathedral 在 Anthropic 授权的安全测试中，用自家 AI 智能体通过已知的第三方软件漏洞进入部分行政系统，接触到会议记录、薪资与录用信息以及讨论模型的 Slack 消息，但未触及核心模型资产。Anthropic 表示攻击耗时数天、关键系统防护有效。事件恰逢 Anthropic 递交上市文件，安全专家和一位白宫官员借此警示 AI 驱动的攻击风险。面向中小企业的「AI 自动化渗透测试」服务正在成为热门赛道。",
+   "links": [
+    "https://x.com/i/trending/2114702640022183979"
+   ],
+   "topic": "cathedral-ai-agents-breach-anthropic-2026-10-26",
+   "firstSeen": "2026-10-27T09:57:17+08:00"
+  },
+  {
+   "id": "a1e696cdea",
+   "title": "「既然能自己生成，为什么还要买你的 AI 游戏？」一句提问引爆 vibe coding 游戏开发者论战",
+   "summary": "一位用户在 X 上发问：如果自己就能用 AI 生成游戏，为什么还要花钱买别人的 AI 游戏？开发者纷纷反驳，称好的玩法、数值平衡和打磨依然需要时间和功力，有人举例自己一款 14.99 美元的游戏花了数月和不少 AI 调用成本；也有人指出懂代码会让 AI 开发更顺畅可靠。《任天堂明星大乱斗》制作人樱井政博的观点也被引用：多数 AI 游戏在销量和原创性上都会失败。AI 降低了做游戏的门槛，但「好玩」本身的稀缺性反而更突出。",
+   "links": [
+    "https://x.com/i/trending/2114885589229355390"
+   ],
+   "topic": "why-buy-ai-games-vibe-coding-debate-2026-10-26",
+   "firstSeen": "2026-10-27T09:57:17+08:00"
+  },
+  {
+   "id": "ecc838fb59",
+   "title": "前 Discord、Snap、微软 AI 产品人 Peter Sellis 出任 X 产品负责人",
+   "summary": "Peter Sellis 在 X 上宣布加入 X 担任产品负责人，此前曾在 Discord、Snap 和微软 AI 负责产品，他表示要加快 X 面向用户和商家的产品节奏，并调侃要「让发帖走向多星球」以呼应 SpaceX 的使命。Nikita Bier 回复「欢迎来到精神病院，祝好运」，设计负责人 Benji Taylor 等同事表示欢迎，也有人对他过往履历表示怀疑。X 的产品方向变化会直接影响依赖 X 获客的独立开发者和创作者。",
+   "links": [
+    "https://x.com/i/trending/2114863058300322226"
+   ],
+   "topic": "peter-sellis-x-product-lead-2026-10-26",
+   "firstSeen": "2026-10-27T09:57:17+08:00"
   }
  ],
- "lastChecked": "2026-10-27T09:45:10+08:00"
+ "lastChecked": "2026-10-27T09:57:17+08:00"
 }
