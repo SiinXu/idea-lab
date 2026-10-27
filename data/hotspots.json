@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T21:46:21+08:00",
+ "lastUpdated": "2026-10-27T21:59:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22315,7 +22315,27 @@
    ],
    "topic": "data-center-backlash-midterms",
    "firstSeen": "2026-10-27T21:46:21+08:00"
+  },
+  {
+   "id": "7a05e19b39",
+   "title": "苹果推送 iOS 27.2：Siri AI 新增法日韩葡西五种语言，并能记住过往对话",
+   "summary": "苹果今日向 iPhone 和 iPad 推送 iOS 27.2。Siri AI 以测试版形式新增法语、日语、韩语、葡萄牙语和西班牙语支持，并加入记忆能力，可记住用户过往对话中的细节并据此回答；还能调用信息里附带的照片、日历参会人、语音留言、Safari 历史和阅读列表等来源，用户可指定哪些应用不进入 Siri 的记忆。更新同时为折叠屏 iPhone Duo 带来 Apple Pencil 支持、FaceTime 前后摄像头同时直播等功能，并修复多项安全问题。",
+   "links": [
+    "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/"
+   ],
+   "topic": "ios-27-2-siri-ai-memory-languages",
+   "firstSeen": "2026-10-27T21:59:14+08:00"
+  },
+  {
+   "id": "3f5bc6113c",
+   "title": "日本 GMO 旗下「お名前」云桌面遭入侵：黑客公开疑似客户数据，交易账户出现异常操作，或波及 2.7 万台服务器",
+   "summary": "日本互联网巨头 GMO Internet 正调查其面向金融交易者的 Onamae（お名前）云桌面服务遭未授权访问一事：攻击者疑似已公开客户及业务相关信息，公司已建议客户重置密码，并收到客户交易账户被「未授权操作」的报告，称可能有 2.7 万台服务器受影响。约一周前，GMO 的安全部门曾披露一款名为 Artex 的中国 AI 渗透测试工具被用于攻击多家日本企业（该工具 9 月也被用于攻击韩国金融机构），但 GMO 尚未确认两者存在关联。",
+   "links": [
+    "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
+   ],
+   "topic": "gmo-onamae-cloud-desktop-breach",
+   "firstSeen": "2026-10-27T21:59:14+08:00"
   }
  ],
- "lastChecked": "2026-10-27T21:46:21+08:00"
+ "lastChecked": "2026-10-27T21:59:14+08:00"
 }
