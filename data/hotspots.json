@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T23:46:05+08:00",
+ "lastUpdated": "2026-10-27T23:57:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22421,7 +22421,17 @@
    ],
    "topic": "cisa-php-bugs-actively-exploited",
    "firstSeen": "2026-10-27T23:46:05+08:00"
+  },
+  {
+   "id": "8e8f038700",
+   "title": "iPhone Duo 内屏批量“开机即坏”：网上涌现大量同款亮线故障，苹果回应称仅影响“少数”设备",
+   "summary": "苹果首款折叠屏 iPhone Duo（售价约 2000 美元）上市仅一周，社交网络上大量用户晒出几乎相同的损坏：内屏折痕下方出现多条常亮亮线并延伸至边缘，部分机器在使用一天内、甚至开合几次或尚未完成初始设置时就已损坏，用户还反映合上时有异常阻力和咔哒声。Ars Technica 援引 iFixit 的 CT 扫描称，故障起点位于排线穿过铰链处的下方；更换内屏据称要花掉整机一半价格。苹果表示只有“少数”设备受影响，部分用户已在门店换机，但备件可能紧缺。",
+   "links": [
+    "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/"
+   ],
+   "topic": "iphone-duo-inner-screen-failures-apple-responds",
+   "firstSeen": "2026-10-27T23:57:08+08:00"
   }
  ],
- "lastChecked": "2026-10-27T23:46:05+08:00"
+ "lastChecked": "2026-10-27T23:57:08+08:00"
 }
