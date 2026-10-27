@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T10:57:02+08:00",
+ "lastUpdated": "2026-10-27T11:10:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21809,7 +21809,28 @@
    ],
    "topic": "paul-graham-ai-illiteracy-smoking-2026-10",
    "firstSeen": "2026-10-27T10:57:02+08:00"
+  },
+  {
+   "id": "92c58da73a",
+   "title": "Tim Sweeney 抨击 Steam 强制披露生成式 AI 使用，13.9 万人投票 98.4% 选「人做的 Steam 游戏」",
+   "summary": "Epic CEO Tim Sweeney 批评 Steam 要求开发者披露美术、音效和剧情中的生成式 AI 使用，称其是「政治行为」。随后创作者 NitroRad 发起投票：二选一「Steam 上全部人做的游戏」还是「Epic 上全部 AI 做的游戏」，超 13.9 万票中 Steam 拿下 98.4%。玩家普遍认为 AI 披露能建立信任，Sweeney 一方则强调 AI 提效、降低门槛。对做游戏和内容产品的人来说，「是否用 AI、怎么标注」正在变成影响口碑的关键选择。",
+   "links": [
+    "https://x.com/i/trending/2114721350392926310",
+    "https://x.com/i/trending/2114912575578366022"
+   ],
+   "topic": "sweeney-steam-ai-disclosure-poll-2026-10",
+   "firstSeen": "2026-10-27T11:10:50+08:00"
+  },
+  {
+   "id": "dac73b4c6b",
+   "title": "Fiverr 活跃买家据称同比下降 22%，自由职业者在 X 上分享绕开平台接单的新路子",
+   "summary": "X 上一条「Fiverr、Upwork 式微后自由职业者去哪接活」的帖子引爆讨论：据讨论汇总，Fiverr 活跃买家到 2026 年中降至约 270 万、减少 22%，Upwork 也下调了营收预期，低价值任务正被 AI 取代。回复里不少人转向 Mercor 这类为 AI 实验室匹配专家的平台（时薪约 60–200 美元以上），也有人靠冷启动外联、转介绍和个人品牌直接获客。面向自由职业者的获客工具、作品集与个人品牌服务有需求空间。",
+   "links": [
+    "https://x.com/i/trending/2114863057855762649"
+   ],
+   "topic": "fiverr-buyers-drop-freelancers-new-channels-2026-10",
+   "firstSeen": "2026-10-27T11:10:50+08:00"
   }
  ],
- "lastChecked": "2026-10-27T10:57:02+08:00"
+ "lastChecked": "2026-10-27T11:10:50+08:00"
 }
