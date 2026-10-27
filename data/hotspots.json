@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T10:13:05+08:00",
+ "lastUpdated": "2026-10-27T10:29:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21748,7 +21748,18 @@
    ],
    "topic": "uchikoshi-crash-keys-ai-cancel-2026-10",
    "firstSeen": "2026-10-27T10:13:05+08:00"
+  },
+  {
+   "id": "dd18769f00",
+   "title": "波士顿动力约 300 名员工联署反对向 ICE 出售 Spot 机器狗，公司仍坚持交易",
+   "summary": "WBUR 披露，波士顿动力员工 9 月初向管理层递交请愿，要求取消与美国移民与海关执法局（ICE）约 130 万美元的合同（4 台 Spot 机器狗及相关技术），称这会损害公司形象、影响招聘与留人。请愿约 300 个签名，其中近半匿名；公司员工超 1500 人。临时 CEO Amanda McMaster 回信表示维持决定，强调销售条款禁止将机器人武器化或用于伤害、恐吓。机器人公司与政府执法客户之间的伦理张力再次成为科技圈焦点。",
+   "links": [
+    "https://www.wbur.org/news/2026/10/23/boston-dynamics-employees-petition-dhs",
+    "https://news.ycombinator.com/item?id=50253750"
+   ],
+   "topic": "boston-dynamics-ice-spot-petition-2026-10",
+   "firstSeen": "2026-10-27T10:29:26+08:00"
   }
  ],
- "lastChecked": "2026-10-27T10:13:05+08:00"
+ "lastChecked": "2026-10-27T10:29:26+08:00"
 }
