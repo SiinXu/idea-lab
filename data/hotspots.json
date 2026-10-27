@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T12:47:02+08:00",
+ "lastUpdated": "2026-10-27T13:00:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21948,7 +21948,18 @@
    ],
    "topic": "gemini-4-argon-antigravity-rollout-2026-10-27",
    "firstSeen": "2026-10-27T12:47:02+08:00"
+  },
+  {
+   "id": "b6c028fd4b",
+   "title": "winevdm 登上 HN：在 64 位 Windows 上直接运行 Windows 1.x–3.1 时代的 16 位程序",
+   "summary": "开源项目 otya128/winevdm（GPL-2.0，GitHub 约 3500 星，10 月 24 日仍有提交）登上 Hacker News 首页。64 位 Windows 早已移除 NTVDM，无法运行 16 位程序；winevdm 借用 Wine 的 16 位 Windows API 实现并配合 CPU 模拟器，让 Windows 3.x 时代的老软件、老游戏和企业遗留工具在现代 64 位 Windows 上直接运行。对需要维护遗留系统或做软件考古、复古游戏的人很实用。",
+   "links": [
+    "https://github.com/otya128/winevdm",
+    "https://news.ycombinator.com/item?id=50253529"
+   ],
+   "topic": "winevdm-16bit-windows",
+   "firstSeen": "2026-10-27T13:00:20+08:00"
   }
  ],
- "lastChecked": "2026-10-27T12:47:02+08:00"
+ "lastChecked": "2026-10-27T13:00:20+08:00"
 }
