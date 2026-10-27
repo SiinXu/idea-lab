@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T21:59:14+08:00",
+ "lastUpdated": "2026-10-27T22:21:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22335,7 +22335,17 @@
    ],
    "topic": "gmo-onamae-cloud-desktop-breach",
    "firstSeen": "2026-10-27T21:59:14+08:00"
+  },
+  {
+   "id": "f4e0b53733",
+   "title": "苹果把 AI 助手塞进 Pages、Keynote、Numbers：基于苹果与 OpenAI 模型，三款办公软件同时支持 MCP 接入第三方智能体",
+   "summary": "The Verge 报道，苹果为 Keynote、Pages、Numbers 推出 AI 助手（测试版），底层使用苹果自研和 OpenAI 的模型，能理解文档上下文：在 Keynote 里设计、制作动画和润色幻灯片，在 Pages 里起草与重组文字，在 Numbers 里计算、可视化、整理数据并推荐图表类型。三款应用在 macOS 27 及以上支持 Model Context Protocol（MCP），允许第三方 AI 智能体直接接入。创作者套件同步更新：Pixelmator Pro 新增描述即可局部改图的 Generate Fill，Logic Pro 加入可一句话搭好人声轨的 AI 助手并换上 Liquid Glass 设计，Final Cut Pro 内置 MotionVFX 模板与素材库，11 月对现有订阅者免费开放。",
+   "links": [
+    "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update"
+   ],
+   "topic": "apple-iwork-ai-assistant-mcp",
+   "firstSeen": "2026-10-27T22:21:04+08:00"
   }
  ],
- "lastChecked": "2026-10-27T21:59:14+08:00"
+ "lastChecked": "2026-10-27T22:21:04+08:00"
 }
