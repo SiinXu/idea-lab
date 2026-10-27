@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T23:57:08+08:00",
+ "lastUpdated": "2026-10-28T00:17:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22431,7 +22431,40 @@
    ],
    "topic": "iphone-duo-inner-screen-failures-apple-responds",
    "firstSeen": "2026-10-27T23:57:08+08:00"
+  },
+  {
+   "id": "5ef94984dc",
+   "title": "谷歌 DeepMind 发布 Genie 4 世界模型：原生多模态，可实时生成带音乐、环境音和对话的可交互世界",
+   "summary": "DeepMind 10 月 27 日发布新一代世界模型 Genie 4，在真实感和实时交互模拟上大幅提升：原生多模态，能在生成世界的同时生成音乐、环境声和人物对话；结合 Gemini Omni 锚定真实外观与行为，并由其他 Gemini 模型负责推理以保持模拟连贯。用户可用键盘导航、用自然语言实时改天气、移镜头或加入人物物体，Gemini 会在两次输入之间自动引导场景发展。DeepMind 称其可用于为机器人和 Agent 构建训练环境及新型互动体验；目前以研究预览形式向受信测试者开放，后续将先面向 Google AI Ultra 订阅者（Project Genie）及 Gemini API / AI Studio 早期合作方，并已开放候补名单。",
+   "links": [
+    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "https://news.ycombinator.com/item?id=50261319"
+   ],
+   "topic": "deepmind-genie-4-world-model",
+   "firstSeen": "2026-10-28T00:17:21+08:00"
+  },
+  {
+   "id": "a4c44e96b0",
+   "title": "斯坦福多名教授退出 Anthropic 15 亿美元和解、另行起诉：指 Claude 用盗版书训练，每部作品索赔最高 15 万美元",
+   "summary": "《斯坦福日报》报道，Anthropic 曾用从 LibGen、PiLiMi 等「影子图书馆」获取的盗版书训练 Claude，涉及逾 10 位斯坦福教授的作品。Bartz v. Anthropic 案以 15 亿美元和解（覆盖近 50 万部作品，约每部 3000 美元），法官 Alsup 认定合法购书训练属合理使用，但盗版建库不行。国家艺术奖得主 Tobias Wolff 与李昌来等 28 位作者认为赔偿不够，退出和解，于今年 5 月另提 Cruz v. Anthropic，寻求陪审团审判，按每部作品最高 15 万美元法定赔偿索赔，并要求永久禁止用其作品训练模型。",
+   "links": [
+    "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+    "https://news.ycombinator.com/item?id=50260814"
+   ],
+   "topic": "stanford-professors-opt-out-sue-anthropic-pirated-books",
+   "firstSeen": "2026-10-28T00:17:21+08:00"
+  },
+  {
+   "id": "4e4a016e42",
+   "title": "ProPublica：勒索软件「数据恢复」公司 MonsterCloud CEO 遭联邦起诉，涉嫌谎称能解密、实则偷偷付赎金再加价收费",
+   "summary": "ProPublica 报道，美国联邦大陪审团已起诉佛罗里达数据恢复公司 MonsterCloud 的 CEO Zohar Pinhasi，指控其告诉勒索软件受害者无需向黑客付款即可恢复加密文件，实际却向黑客支付赎金并在此基础上收取高额费用，让受害者被「二次收割」。起诉内容与 ProPublica 2019 年调查报道《The Trade Secret》的发现一致；美国检察官 Joseph Nocella 在 10 月 7 日声明中称将严厉追诉从勒索软件中牟利者。",
+   "links": [
+    "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
+    "https://news.ycombinator.com/item?id=50260960"
+   ],
+   "topic": "monstercloud-ceo-indicted-ransomware-recovery-fraud",
+   "firstSeen": "2026-10-28T00:17:21+08:00"
   }
  ],
- "lastChecked": "2026-10-27T23:57:08+08:00"
+ "lastChecked": "2026-10-28T00:17:21+08:00"
 }
