@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T02:42:26+08:00",
+ "lastUpdated": "2026-10-28T02:56:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22612,7 +22612,18 @@
    ],
    "topic": "hkuds-deeptutor-trending",
    "firstSeen": "2026-10-28T02:42:26+08:00"
+  },
+  {
+   "id": "4b0c52a0ad",
+   "title": "Discord 将把公开服务器的聊天内容开放给 Google 搜索：11 月 16 日起 6.3 万个可发现服务器自动生成网页，12 月中旬部分频道消息进入网页搜索，默认开启",
+   "summary": "Discord 10 月 27 日宣布，成员超 1000 人、主动加入服务器发现的 6.3 万多个「可发现服务器」将从 11 月 16 日起统一拥有 Server Web Page，页面可展示公开频道的 AI 讨论摘要；从 12 月中旬起，公开频道里的部分消息会逐步出现在这些网页和网页搜索结果中，但不显示用户名和头像。管理员默认开启，可在服务器设置的 Web Presence 里按频道退出；用户可在隐私设置中一键关闭自己消息的展示，不过频道摘要仍会生成。私密服务器、私信和群聊不受影响。Discord 想把沉在聊天里的「论坛式知识」变成搜索流量入口，但默认开启的做法预计会引发隐私争议，也意味着社区 SEO 和内容运营将多出一个新渠道。",
+   "links": [
+    "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+    "https://news.ycombinator.com/item?id=50263854"
+   ],
+   "topic": "discord-discoverable-servers-web-search-indexing",
+   "firstSeen": "2026-10-28T02:56:50+08:00"
   }
  ],
- "lastChecked": "2026-10-28T02:42:26+08:00"
+ "lastChecked": "2026-10-28T02:56:50+08:00"
 }
