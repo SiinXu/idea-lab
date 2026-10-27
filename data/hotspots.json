@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T11:10:50+08:00",
+ "lastUpdated": "2026-10-27T11:32:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21830,7 +21830,19 @@
    ],
    "topic": "fiverr-buyers-drop-freelancers-new-channels-2026-10",
    "firstSeen": "2026-10-27T11:10:50+08:00"
+  },
+  {
+   "id": "093bfa908d",
+   "title": "CircuitHub 美国机器人工厂「The Grid」宣布电路板组装价格追平中国，平均 4 天交付、快一倍以上",
+   "summary": "YC 老牌公司 CircuitHub 披露，其位于马萨诸塞州 South Deerfield 的全自动 PCB 组装工厂 The Grid 已实现与中国快板厂价格持平：磁悬浮载具把每块板子送往印锡膏、贴片、焊接、检测的机器人，由 AI 统一调度，每块板走自己的路线、不同设计之间无需换线，1 个样板与 1 万片量产可同时跑。平均 4 天交付（中国快板厂约 9 天），已出货超 220 万块板、服务 2.6 万名工程师，客户含美国大型电动车厂和头部 AI 实验室；因需求超过产能，工厂扩产 5 倍，2027 年在英国开新厂。AI 加快硬件设计后，「小批量、多品种、按需制造」的硬件供应链正在回流，硬件初创的打样与小批量服务存在新机会。",
+   "links": [
+    "https://www.assemblymag.com/articles/100532-us-pcb-factory-says-it-now-matches-china-on-price-and-builds-boards-in-half-the-time",
+    "https://www.emsnow.com/on-demand-electronics-manufacturer-circuithub-achieves-price-parity-with-china/",
+    "https://x.com/i/trending/2114743513216614528"
+   ],
+   "topic": "",
+   "firstSeen": "2026-10-27T11:32:26+08:00"
   }
  ],
- "lastChecked": "2026-10-27T11:10:50+08:00"
+ "lastChecked": "2026-10-27T11:32:26+08:00"
 }
