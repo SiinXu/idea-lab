@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T08:16:07+08:00",
+ "lastUpdated": "2026-10-27T08:27:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21544,7 +21544,30 @@
    ],
    "topic": "riverside-agents-video-production",
    "firstSeen": "2026-10-27T08:16:07+08:00"
+  },
+  {
+   "id": "f6c7de22a7",
+   "title": "Replit 正式推出 Replit for Business：用「智能体栖息地」把公司变成「自动驾驶公司」",
+   "summary": "Replit 于 10 月 26 日上线 Replit for Business，CEO Amjad Masad 同步发文《自动驾驶公司的崛起》：人定目标、做判断并承担责任，智能体在受控的「Agent Habitat」里调用公司知识和系统执行任务，权限、人工审批节点和出错影响范围都由公司掌控。Replit 称内部工程师今年代码产出接近三倍，审查时长和事故率持平；Masad 预测到 2030 年每家财富 500 强都会这样运作。Marc Andreessen 发文力挺，称其把「混乱的智能体」收编成可治理的生产力。",
+   "links": [
+    "https://replit.com/blog/rise-of-self-driving-company",
+    "https://www.a16z.news/p/let-chaos-reign-and-then-rein-in",
+    "https://x.com/i/trending/2114767516459561329"
+   ],
+   "topic": "replit-for-business-self-driving-company",
+   "firstSeen": "2026-10-27T08:27:05+08:00"
+  },
+  {
+   "id": "d4a36e492a",
+   "title": "比尔·盖茨：即便最好的情况，AI 也将带来约 20 年「动荡期」，白领岗位先受冲击",
+   "summary": "盖茨在 The Verge《Decoder》长访谈中表示，社会需为约二十年的 AI 剧烈动荡做准备：白领工作最先被替代，之后机器人接手建房、种粮等体力劳动；他称 AI 是「史上最危险的武器」，呼吁政府对先进系统强制审查，并认为滥用风险比对齐问题更紧迫。他还提出可把育儿、餐饮、艺术、体育等职业划为「人类保留」。这段访谈今天在 X 上再度发酵，讨论集中在失业、财富集中和 AI 税等议题。",
+   "links": [
+    "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+    "https://x.com/i/trending/2114854767570858270"
+   ],
+   "topic": "bill-gates-20-years-ai-turmoil",
+   "firstSeen": "2026-10-27T08:27:05+08:00"
   }
  ],
- "lastChecked": "2026-10-27T08:16:07+08:00"
+ "lastChecked": "2026-10-27T08:27:05+08:00"
 }
