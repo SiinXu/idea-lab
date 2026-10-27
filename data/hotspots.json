@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T16:38:46+08:00",
+ "lastUpdated": "2026-10-27T16:56:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22067,7 +22067,19 @@
    ],
    "topic": "adaniconnex-google-vizag-air-cooling",
    "firstSeen": "2026-10-27T16:38:46+08:00"
+  },
+  {
+   "id": "9b82701e4e",
+   "title": "欧盟理事会通过「数字综合法案」GDPR 修订立场：AI 开发与运营可援引「正当利益」处理个人数据，Max Schrems 斥为「数字征收」",
+   "summary": "欧盟理事会 10 月 21 日就 Digital Omnibus（Omnibus VII）简化包达成谈判立场，22 日公布的文本中拟新增 GDPR 第 88bis 条：在开发和运营 AI 系统或模型过程中处理个人数据，可依据第 6(1)(f) 条「正当利益」作为合法基础，无需事先取得同意，但须配套技术与组织保障并保留第 21 条反对权；配套序言同时强调 AI 开发本身并不自动构成正当利益，需逐案做必要性与权益平衡评估。隐私活动人士 Max Schrems 批评这是「数字征收」，支持者则认为有助于欧洲 AI 竞争力。该立场尚非最终法律，接下来进入理事会、议会与委员会的三方谈判。对面向欧洲用户的 AI 产品而言，训练数据合规路径可能变宽，但「可一键反对」与透明度会成为标配要求。",
+   "links": [
+    "https://x.com/i/trending/2115001958377382090",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/digital-rulebook-council-agrees-position-to-simplify-data-protection-privacy-and-cyber-reporting-rules/",
+    "https://research.eutechreg.com/trackers/digital-omnibus/articles/regulation-eu-2016-679.article-88bis/"
+   ],
+   "topic": "eu-digital-omnibus-gdpr-ai-legitimate-interest",
+   "firstSeen": "2026-10-27T16:56:46+08:00"
   }
  ],
- "lastChecked": "2026-10-27T16:38:46+08:00"
+ "lastChecked": "2026-10-27T16:56:46+08:00"
 }
