@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T11:41:33+08:00",
+ "lastUpdated": "2026-10-27T11:58:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21878,7 +21878,31 @@
    ],
    "topic": "psi-open-quantum-problems",
    "firstSeen": "2026-10-27T11:41:33+08:00"
+  },
+  {
+   "id": "a102b83175",
+   "title": "YC 支持的 Hopper 推出实时语音 Agent 专用推理云：Gemma 4 31B 首 token 80ms，价格约为 GPT-4.1 的 1/7",
+   "summary": "Hopper Research（YC 投资）上线 withhopper.com，专为实时语音 Agent 做推理：用客户线上通话轨迹微调开源模型并在真实流量上持续优化，LLM/TTS/STT 全链路一起调。官网给出 Gemma 4 31B 首 token 约 80ms（GPT-4.1 约 600ms）、每百万输入 token 0.30 美元（GPT-4.1 为 2 美元），默认零数据留存。创始人此前在 Salient 做语音推理、在 Meta 写 Quest 3 推理内核。语音 Agent 的「卡顿感」正成为下一个可卖的基础设施痛点，开源模型 + 专用推理在延迟和成本上开始反超闭源大模型。",
+   "links": [
+    "https://withhopper.com/",
+    "https://x.com/i/trending/2114925294490661024"
+   ],
+   "topic": "hopper-voice-inference",
+   "firstSeen": "2026-10-27T11:58:52+08:00"
+  },
+  {
+   "id": "517ea6daea",
+   "title": "中国 AI 股泡沫破裂：科创 50 不到四个月跌 40%、蒸发约 4800 亿美元，「国家队」一周买入 1287 亿元 ETF 护盘",
+   "summary": "路透报道，以 AI 和半导体龙头为主的科创 50 指数自 7 月高点下跌约 40%，市值蒸发约 4800 亿美元；沪深 300 自 6 月高点跌约 20% 进入熊市。宇树科技上市以来股价腰斩，摩尔线程、沐曦自 7 月以来约跌一半，中际旭创、新易盛较高点跌约 60%。高盛数据称 AI 股占 A 股与港股市值 42%、成交额 57%。国家队相关 ETF 上周流入 1287 亿元，为 2025 年 4 月以来最多；科创 50 仍约 100 倍市盈率，大摩预计离岸中概股还有 10%–15% 下行空间。本周微软、Alphabet、亚马逊财报将检验美股 AI 交易能否守住。",
+   "links": [
+    "https://journalrecord.com/2026/10/26/china-ai-semiconductor-stocks-480-billion-selloff/",
+    "https://www.geo.tv/latest/688414-ai-bubble-bursts-in-china-as-star50-index-plunges-40-erasing-480-billion",
+    "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-bursts-china-wiping-195630824.html",
+    "https://x.com/i/trending/2114432803764932682"
+   ],
+   "topic": "china-star50-ai-bubble",
+   "firstSeen": "2026-10-27T11:58:52+08:00"
   }
  ],
- "lastChecked": "2026-10-27T11:41:33+08:00"
+ "lastChecked": "2026-10-27T11:58:52+08:00"
 }
