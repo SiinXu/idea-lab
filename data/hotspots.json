@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T01:30:05+08:00",
+ "lastUpdated": "2026-10-28T01:39:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22560,7 +22560,27 @@
    ],
    "topic": "anthropic-s1-gross-margin-compute-cost",
    "firstSeen": "2026-10-28T01:30:05+08:00"
+  },
+  {
+   "id": "068ca2c5cf",
+   "title": "Ghostty 1.4.0 发布：首个完整实现 Kitty 图形协议的非 Kitty 终端，并修复多项恶意输出可触发的安全漏洞",
+   "summary": "Ghostty 1.4.0 于 10 月 27 日发布，汇集 7 个月、172 位贡献者的 2889 次提交：大幅提升性能与内存占用，100% 实现 Kitty 图形协议（含动画和相对定位），改进 SSH 集成，并修补粘贴保护、Kitty 图形命令、tmux 控制模式、zsh 集成等多个安全问题。叠加 JetBrains 终端改用 libghostty，Ghostty 正成为 AI 编码 Agent 与 TUI 应用的终端底座。",
+   "links": [
+    "https://ghostty.org/docs/install/release-notes/1-4-0"
+   ],
+   "topic": "ghostty-1-4-0-release",
+   "firstSeen": "2026-10-28T01:39:22+08:00"
+  },
+  {
+   "id": "51d51d3a9a",
+   "title": "Firefox Smart Window 上线 AI 表单填写和网页监控：可从打开的标签页自动填求职申请，/watch 盯降价和新职位",
+   "summary": "Mozilla 更新 Firefox 的 AI 浏览模式 Smart Window：在至少四个文本框的表单里可「从来源填写」，读取所选标签页（如作品集、LinkedIn）生成填写建议，数据会发送给 Google Gemini 3.1 Flash Lite；新增 /watch 任务，可按天或按周监控网页的降价、新职位等变化并通知，60 天无变化暂停、90 天停止。浏览器内置 Agent 正从聊天走向替用户填表和盯盘。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms"
+   ],
+   "topic": "firefox-smart-window-ai-form-fill-watch",
+   "firstSeen": "2026-10-28T01:39:22+08:00"
   }
  ],
- "lastChecked": "2026-10-28T01:30:05+08:00"
+ "lastChecked": "2026-10-28T01:39:22+08:00"
 }
