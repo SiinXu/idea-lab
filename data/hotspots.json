@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T14:15:11+08:00",
+ "lastUpdated": "2026-10-27T14:54:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21992,7 +21992,18 @@
    ],
    "topic": "allmodels-abliterated-router",
    "firstSeen": "2026-10-27T14:15:11+08:00"
+  },
+  {
+   "id": "f8ea3e0b9a",
+   "title": "Anthropic 也宣布 Claude 独立证伪「指数时间假设」：与 OpenAI 同一天（10 月 16 日）得出，论文署名只有「Claude」",
+   "summary": "继 OpenAI 公布其模型证伪指数时间假设（ETH）后数小时，Anthropic 发布论文《A 2^o(n) Time Algorithm for 3-SAT》，作者只写「Claude, Anthropic」：内部研究模型在无人参与下用约 1400 万输出 token 找到确定性的亚指数时间 3-SAT / #3-SAT 算法，并用 Lean 4 形式化（1050 个模块，另经独立检查器 nanoda 验证）。论文附录坦承 Lean 代码由 AI 编写、由同款模型审查，尚无人类完整核对；且该算法只有理论意义，变量数超过约 10 的一万次方才比暴力搜索快。两家前沿实验室同日撞出同一结果，说明「AI 做基础研究」进入竞速阶段，围绕形式化验证、AI 论文审稿与可信度评估的工具和服务值得关注。",
+   "links": [
+    "https://officechai.com/ai/anthropic-says-claude-too-independently-disproved-exponential-time-hypothesis-on-the-same-day-as-openai/",
+    "https://x.com/i/trending/2114972036703391780"
+   ],
+   "topic": "anthropic-claude-eth-3sat",
+   "firstSeen": "2026-10-27T14:54:18+08:00"
   }
  ],
- "lastChecked": "2026-10-27T14:15:11+08:00"
+ "lastChecked": "2026-10-27T14:54:18+08:00"
 }
