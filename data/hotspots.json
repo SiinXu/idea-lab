@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T19:37:26+08:00",
+ "lastUpdated": "2026-10-27T19:53:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22190,7 +22190,28 @@
    ],
    "topic": "wikipedia-ai-cleanup-interview",
    "firstSeen": "2026-10-27T19:37:26+08:00"
+  },
+  {
+   "id": "b5eb092cf9",
+   "title": "Gforth 1.0 正式发布：GNU Forth 实现距 0.7 系列十余年后迎来首个 1.0 版本",
+   "summary": "GNU 的 Forth 语言实现 Gforth 发布 1.0，登上 Hacker News。新版首次明确文档化哪些词（word）承诺长期稳定支持；文本解释器能直接识别更多字面量写法，包括浮点缩写（6k5、23%）、字符串、执行令牌和地址字面量；支持用「词表:词」指定来源（如 forth:and 与 assembler:and），并为 value/defer 类词新增 ->v、+>v 等非解析语法。对独立开发者的启示：老牌小众语言在嵌入式与解释器爱好者圈仍有稳定受众，配套教程与工具链内容有长尾流量。",
+   "links": [
+    "https://gforth.org/manual/1.0/NEWS.html",
+    "https://news.ycombinator.com/item?id=50256952"
+   ],
+   "topic": "gforth-1-0-release",
+   "firstSeen": "2026-10-27T19:53:46+08:00"
+  },
+  {
+   "id": "39fec3b4f8",
+   "title": "马斯克批诺兰《奥德赛》后自放 Grok Imagine 生成的 7 分钟 AI 剧集，被网友吐槽「眼神空洞、像僵尸」",
+   "summary": "诺兰执导、马特·达蒙主演的《奥德赛》全球票房达 18 亿美元，刷新 R 级片纪录，成为环球影业史上最卖座影片。马斯克批评该片「woke」且不符史实，随后发布一段用 Grok Imagine 生成的七分钟 AI 剧集，评论普遍认为人物眼神呆滞、画面粗糙，被称为「没有灵魂的 AI 垃圾内容」，凸显院线大片与 AI 视频长片叙事能力之间的落差。对创作者的启示：AI 视频适合短片段与素材，长篇叙事的一致性仍是明显短板。",
+   "links": [
+    "https://x.com/i/trending/2114406065014251528"
+   ],
+   "topic": "musk-grok-imagine-odyssey-episode",
+   "firstSeen": "2026-10-27T19:53:46+08:00"
   }
  ],
- "lastChecked": "2026-10-27T19:37:26+08:00"
+ "lastChecked": "2026-10-27T19:53:46+08:00"
 }
