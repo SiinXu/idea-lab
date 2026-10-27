@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T12:24:41+08:00",
+ "lastUpdated": "2026-10-27T12:47:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21936,7 +21936,19 @@
    ],
    "topic": "micron-taiwan-pay-2-7x-2026-10",
    "firstSeen": "2026-10-27T12:24:41+08:00"
+  },
+  {
+   "id": "7d858b8c5d",
+   "title": "Gemini 4 Argon 开始推送给 Antigravity IDE 全体用户：24 小时内陆续到位，官方还晒出它把 Gemma 推理吞吐提速 2.85 倍",
+   "summary": "Google 的 Rody Davis 在 X 上宣布，Gemini 4 Argon 正逐步推送给 Antigravity IDE 用户，预计 24 小时内收到更新（帖子约 2.6 万浏览、近 400 赞）。同一天 Google Gemma 官方账号展示了 Argon 的工程能力：它在 vLLM 上为 gemma-4-E2B-it 做优化，A100 吞吐从约 3.79 万提到 10.8 万+ tokens/秒（约 2.85 倍），输出 token 完全一致、质量不降，改动拆成 8 个 PR、几天完成。此前也有评测者称 Argon 换用 Antigravity 自家 harness 后成绩超过 GPT-6 Astra、仅次于 Opus 5.5。对开发者来说，这意味着 Google 正把最强编码模型和自家 IDE 深度绑定，与 Cursor、Claude Code、Codex 争夺 AI 编程入口；不过 Pro 账号额度偏紧仍是用户主要抱怨。",
+   "links": [
+    "https://x.com/rodydavis/status/2114878923360342066",
+    "https://x.com/googlegemma/status/2114757896563253305",
+    "https://x.com/i/trending/2114931598944870798"
+   ],
+   "topic": "gemini-4-argon-antigravity-rollout-2026-10-27",
+   "firstSeen": "2026-10-27T12:47:02+08:00"
   }
  ],
- "lastChecked": "2026-10-27T12:24:41+08:00"
+ "lastChecked": "2026-10-27T12:47:02+08:00"
 }
