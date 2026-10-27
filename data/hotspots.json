@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T20:39:31+08:00",
+ "lastUpdated": "2026-10-27T21:22:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22244,7 +22244,18 @@
    ],
    "topic": "ai-promised-less-work-agent-burnout",
    "firstSeen": "2026-10-27T20:39:31+08:00"
+  },
+  {
+   "id": "b8866080ed",
+   "title": "苹果发布搭载 M6 芯片的 14 英寸 MacBook Pro：GPU 内置神经加速器，主打本地跑大模型，10 月 28 日开订",
+   "summary": "苹果今日发布新版 14 英寸 MacBook Pro，首发 M6 芯片：12 核 CPU（官方称拥有「全球最快 CPU 核心」）、12 核 GPU，图形性能较 M5 最高提升 30%，AI 负载最高提升 25%，GPU 内增加神经加速器并配双 16 核神经引擎，官方明确强调可在本地运行大语言模型；同时升级 Wi-Fi 7、蓝牙 6，续航最长 24 小时，搭配 macOS 27。起售价 1,999 美元（教育价 1,899 美元），10 月 28 日开启预订，11 月 6 日发售，新闻发布后迅速登上 HN 首页。对独立开发者的启示：端侧推理硬件持续下沉到主流笔记本，面向 Mac 的本地 LLM 工具、隐私优先的离线 AI 应用和模型性能测评内容会迎来新一波需求。",
+   "links": [
+    "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+    "https://news.ycombinator.com/item?id=50258521"
+   ],
+   "topic": "apple-macbook-pro-14-m6",
+   "firstSeen": "2026-10-27T21:22:05+08:00"
   }
  ],
- "lastChecked": "2026-10-27T20:39:31+08:00"
+ "lastChecked": "2026-10-27T21:22:05+08:00"
 }
