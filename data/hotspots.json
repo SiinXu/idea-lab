@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T22:33:04+08:00",
+ "lastUpdated": "2026-10-27T22:43:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22356,7 +22356,30 @@
    ],
    "topic": "php2shell-wiz-exploitation-trends",
    "firstSeen": "2026-10-27T22:33:04+08:00"
+  },
+  {
+   "id": "98c6321d63",
+   "title": "路透独家：以色列广告技术公司 Discover-Tech 被指借广告竞价大规模追踪 Starlink 用户，在逾 100 个国家的星链流量中出价第一",
+   "summary": "路透社援引六名知情人士报道，趋势科技旗下 TrendAI 研究人员认定，其 10 月 15 日报告中代号「Shadow-Earth-79」的广告实体就是以色列公司 Discover-Tech：它在 105 个国家的 Starlink 流量中是头号竞价方，约占星链流量全部中标事件的 13%（其他买家平均约 3%），包括星链被禁或受限的国家，还是叙利亚、利比亚、也门、南苏丹的最大广告买家，疑似利用实时竞价泄露的数据为用户定位和监控。TrendAI 因高管法律顾虑未在报告中点名；Citizen Lab 与 Confiant 同日已公开点名，Google、Comcast 等已将其移出广告平台，至少一家美国大型科技公司和一个国际组织已启动内部调查。",
+   "links": [
+    "https://www.investing.com/news/stock-market-news/exclusivealleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-4974787",
+    "https://www.trendaisecurity.com/en/resources-insights/deep-research/invasive-ads-the-unconventional-cyber-surveillance-attack-surface",
+    "https://news.ycombinator.com/item?id=50259050"
+   ],
+   "topic": "discover-tech-starlink-adtech-surveillance-reuters",
+   "firstSeen": "2026-10-27T22:43:33+08:00"
+  },
+  {
+   "id": "470e7f2ce2",
+   "title": "HN 热议：给 Claude 点「赞/踩」即授权 Anthropic 用整段对话训练模型，企业版和 API 用户也不例外，数据最长保存 5 年",
+   "summary": "Anthropic 隐私中心说明：Claude for Work、API、Claude Gov 等商业产品默认不用输入输出训练模型，但用户一旦点击点赞/点踩按钮提交反馈，整段相关对话（含内容、自定义风格、偏好和模型设置）会被存储最长 5 年，并可能用于研究和训练模型；连接器（如 Google Drive、MCP 服务器）原始内容不包含在内，但已粘贴进对话的内容会被包含。数据在使用前会与用户和客户 ID 解绑。团队版和企业版的所有者可在组织设置的数据与隐私中用「Rate chats」开关关闭成员的反馈功能。该条款在 Hacker News 引发关于企业数据隐私的讨论。",
+   "links": [
+    "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+    "https://news.ycombinator.com/item?id=50259406"
+   ],
+   "topic": "anthropic-feedback-button-training-data",
+   "firstSeen": "2026-10-27T22:43:33+08:00"
   }
  ],
- "lastChecked": "2026-10-27T22:33:04+08:00"
+ "lastChecked": "2026-10-27T22:43:33+08:00"
 }
