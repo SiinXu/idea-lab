@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T19:53:46+08:00",
+ "lastUpdated": "2026-10-27T20:20:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22211,7 +22211,18 @@
    ],
    "topic": "musk-grok-imagine-odyssey-episode",
    "firstSeen": "2026-10-27T19:53:46+08:00"
+  },
+  {
+   "id": "96292243e0",
+   "title": "CPython 实验性 JIT 将被移除：PEP 836 撤回，主分支 JIT 开发告一段落",
+   "summary": "LWN 报道，2024 年随 Python 3.13 加入 CPython 的实验性 JIT 编译器即将退出主分支。指导委员会 6 月要求 JIT 团队在六个月内提交并通过标准轨 PEP，否则移除代码；Brandt Bucher、Savannah Ostrowski、Ken Jin 起草了 PEP 836，但委员会认为其在支持计划、性能指标、安全审查和兼容性测试时间表上不够具体（兼容性评估拖到 3.17 RC 太晚）。10 月 19 日作者以「个人精力不足」为由撤回 PEP，并将公开参考实现供社区继续探索。JIT 预计会在 3.16 开发周期早期从 main 中删除。对开发者的启示：CPython 短期内不会有官方 JIT 提速，性能敏感场景仍需依赖 PyPy、Numba、torch.compile 或 CinderX 等外部方案。",
+   "links": [
+    "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+    "https://news.ycombinator.com/item?id=50257419"
+   ],
+   "topic": "cpython-jit-removed-pep836-withdrawn",
+   "firstSeen": "2026-10-27T20:20:03+08:00"
   }
  ],
- "lastChecked": "2026-10-27T19:53:46+08:00"
+ "lastChecked": "2026-10-27T20:20:03+08:00"
 }
