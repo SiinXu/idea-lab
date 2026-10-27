@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T07:55:10+08:00",
+ "lastUpdated": "2026-10-27T08:16:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21532,7 +21532,19 @@
    ],
    "topic": "restrepo-agi-labor-share-zero",
    "firstSeen": "2026-10-27T07:55:10+08:00"
+  },
+  {
+   "id": "c001eb8fc2",
+   "title": "Riverside 发布视频制作 AI 智能体团队：制片、剪辑、切片、营销四个专职智能体包办录制到发布",
+   "summary": "远程录制平台 Riverside 于 10 月 26 日推出 Riverside Agents：Producer 负责录前准备并在录制中协助，Editor 为整期节目制定剪辑方案并成片，Clipper 自动挑出高光片段做成社媒短视频，Marketer 撰写标题文案、生成缩略图并发布或排期到社媒和播客平台。智能体录完即自动开工、会记住创作者偏好，所有内容须经创作者确认才会上线；网页端和 iOS 同步上线，覆盖所有订阅套餐（调用 AI 增强功能仍消耗点数）。X 上讨论认为这把粗剪、排期等繁琐环节交给 AI，同时保留人工把关。",
+   "links": [
+    "https://riverside.com/blog/first-team-of-ai-agents-built-for-video",
+    "https://www.forbes.com/sites/marksparrow/2026/10/26/riverside-agents-are-a-new-team-for-ai-production-of-podcasts/",
+    "https://x.com/i/trending/2114857604602020166"
+   ],
+   "topic": "riverside-agents-video-production",
+   "firstSeen": "2026-10-27T08:16:07+08:00"
   }
  ],
- "lastChecked": "2026-10-27T07:55:10+08:00"
+ "lastChecked": "2026-10-27T08:16:07+08:00"
 }
