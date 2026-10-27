@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T19:34:19+08:00",
+ "lastUpdated": "2026-10-27T19:37:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22179,7 +22179,18 @@
    ],
    "topic": "grok-bot-personal-staff-teams",
    "firstSeen": "2026-10-27T19:34:19+08:00"
+  },
+  {
+   "id": "acb3a24ef9",
+   "title": "IEEE Spectrum 专访维基百科「AI 清理计划」发起人：AI 写作痕迹从套话变成结构性特征，志愿者正开发新检测工具",
+   "summary": "WikiProject AI Cleanup 创始成员 Ellia Lebleu（Inria 雷恩中心 AI 博士生）接受 IEEE Spectrum 专访。该志愿项目 2023 年 12 月起步，最初靠「stands as a testament」「rich cultural heritage」、文末「为什么这很重要」小节等 ChatGPT 式套话就能识别 AI 生成条目；到 2025 年，AI 文本的破绽变得更隐蔽、更偏结构层面，志愿者正在开发识别更细微机器文本的工具，并持续讨论 AI 在全球最常用百科中的角色。对内容站长的启示：AI 内容检测和「人类撰写」认证正在成为内容平台的刚需与信任卖点。",
+   "links": [
+    "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+    "https://news.ycombinator.com/item?id=50257326"
+   ],
+   "topic": "wikipedia-ai-cleanup-interview",
+   "firstSeen": "2026-10-27T19:37:26+08:00"
   }
  ],
- "lastChecked": "2026-10-27T19:34:19+08:00"
+ "lastChecked": "2026-10-27T19:37:26+08:00"
 }
