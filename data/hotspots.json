@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T20:20:03+08:00",
+ "lastUpdated": "2026-10-27T20:33:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22222,7 +22222,18 @@
    ],
    "topic": "cpython-jit-removed-pep836-withdrawn",
    "firstSeen": "2026-10-27T20:20:03+08:00"
+  },
+  {
+   "id": "c9774087fe",
+   "title": "HN 热议《软件也许在变差，但过去更糟》：老程序员回忆蓝屏、无自动保存年代，反驳「软件质量今不如昔」",
+   "summary": "Jake Voytko 在个人博客 bitlog 发文，先承认 AI 让代码产出提升 10 倍、错误率却没同比下降，线上软件确实更容易出 bug；但他以 1990 年起的使用经历反驳「过去的软件更好」的怀旧论调：Windows 时代蓝屏频发、驱动质量参差、系统资源泄漏导致机器慢慢崩溃，应用缺乏自动保存甚至会写坏存档。他指出当年唯一的质量底线来自软件必须一次性刻盘发货。文章发布数小时即登上 Hacker News，引发关于 AI 编程时代软件质量与测试投入的讨论。对开发者的启示：AI 提速后，质量保障（测试、自动保存、崩溃恢复）反而更值得投入。",
+   "links": [
+    "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+    "https://news.ycombinator.com/item?id=50257548"
+   ],
+   "topic": "software-quality-used-to-be-horrible-bitlog",
+   "firstSeen": "2026-10-27T20:33:42+08:00"
   }
  ],
- "lastChecked": "2026-10-27T20:20:03+08:00"
+ "lastChecked": "2026-10-27T20:33:42+08:00"
 }
