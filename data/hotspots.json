@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T21:22:05+08:00",
+ "lastUpdated": "2026-10-27T21:30:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22255,7 +22255,37 @@
    ],
    "topic": "apple-macbook-pro-14-m6",
    "firstSeen": "2026-10-27T21:22:05+08:00"
+  },
+  {
+   "id": "2d1cc6aaea",
+   "title": "Opera 推出 WebAI 网页标准：浏览器内直接跑本地大模型，开发者加 AI 功能无需云端推理费",
+   "summary": "Opera 今日宣布新网页标准 WebAI，让网页直接调用用户设备上的本地 AI 模型，不依赖云端。WebAI 不绑定特定模型，可支持多种开源权重模型（官方举例 Google Gemma），在 Mac 上还能调用苹果端侧基础模型；可完成文本生成、内容分类、信息关联理解等任务。功能已在 Opera One 以早期预览形式上线，需用户主动开启，Opera GX 与 AI 智能体浏览器 Opera Neon 随后跟进。Opera 主打卖点是开发者不用自建推理设施、也不用为每次请求付费，用户无需订阅且数据留在本机；代价是性能取决于设备硬件。",
+   "links": [
+    "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
+   ],
+   "topic": "opera-webai-local-ai-standard",
+   "firstSeen": "2026-10-27T21:30:36+08:00"
+  },
+  {
+   "id": "e4dd73cec0",
+   "title": "推理芯片新云 General Compute 完成 1 亿美元 A 轮，估值 5 个月从 6000 万涨到 8 亿美元",
+   "summary": "在 CoreWeave 股价跌至 12 个月低点、马斯克唱衰「200 多家新云将被淘汰整合」的当口，General Compute 宣布完成 1 亿美元 A 轮，由 Blackbird Ventures 与 Abstract Ventures 领投，投后估值 8 亿美元（5 月种子轮时仅 6000 万）。它不抢 GPU，而是专做非英伟达推理芯片云：已与 SambaNova 签下 4 亿美元购芯协议（首笔推理芯片债务融资），并新增 Positron、Cerebras 两家供应商；不自建大型数据中心，而是租用机房、改造旧比特币矿场。一笔年经常性收入 1 亿美元的大客户合同促成本轮融资，公司计划 2027 年部署 75 兆瓦算力，主要给高速推理云服务商提供裸金属服务器。",
+   "links": [
+    "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+   ],
+   "topic": "general-compute-series-a-inference-neocloud",
+   "firstSeen": "2026-10-27T21:30:36+08:00"
+  },
+  {
+   "id": "17e23f6bda",
+   "title": "Anduril 联手高通发布「全美制造」加固笔记本 BlueChip：首代九成零部件来自美国及盟友，2027 年开订",
+   "summary": "Anduril 与高通周二宣布 BlueChip 电脑计划，目标是把电脑制造整条供应链（不只组装）搬回美国。首款产品是面向军方、政府、急救与执法部门的加固笔记本，采用台积电亚利桑那厂生产的骁龙 X 系列 Arm 处理器，首代约 90% 零部件来自美国或盟友国家，路线图是最终 100% 美国本土制造（目前显示屏等部件仍只能在中国生产）。Palmer Luckey 称其为「反监控电脑」，每个硬件和软件组件都可追溯审计，并会兼容 Windows 应用、政府用 Linux 发行版及老旧软件。售价未公布，预计比高端 PC 贵约 20%，2027 年开放预订。",
+   "links": [
+    "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/"
+   ],
+   "topic": "anduril-qualcomm-bluechip-laptop",
+   "firstSeen": "2026-10-27T21:30:36+08:00"
   }
  ],
- "lastChecked": "2026-10-27T21:22:05+08:00"
+ "lastChecked": "2026-10-27T21:30:36+08:00"
 }
