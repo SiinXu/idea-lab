@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T03:56:44+08:00",
+ "lastUpdated": "2026-10-28T04:17:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22658,7 +22658,30 @@
    ],
    "topic": "trump-ban-term-artificial-intelligence-2026-10-27",
    "firstSeen": "2026-10-28T03:56:44+08:00"
+  },
+  {
+   "id": "c3a442b575",
+   "title": "微软发布 MAI-Image-2.7 预览版图像编辑模型：Artificial Analysis 编辑榜第 2，仅落后 OpenAI GPT Image 2.5 Sunburst 6 分",
+   "summary": "微软 AI 10 月 27 日推出 MAI-Image-2.7-Preview，先只做「编辑已有图片」：整体换风格或重新打光、改图中文字和标识并保持融合、修复和增强旧素材，以及需要理解物体与光照关系的编辑。它在 Artificial Analysis 的 AA-Image-Editing v2.1 榜单拿到 1193 分，排第 2（第一是 OpenAI GPT Image 2.5 Sunburst 的 1199 分），在 Arena 图像编辑榜排第 3；场景与风格类编辑领先第二名 24 分，在电影实拍、消费级、UI/UX 设计等场景排第一。目前只能在 MAI Playground、Arena 等处免费试用，文生图「即将推出」，尚无 API 和定价。做电商换景、海报改字、设计稿批量修改工具的团队可以先拿它和 GPT Image 2.5 做对比测试。",
+   "links": [
+    "https://microsoft.ai/news/mai-image-2-7-debut/",
+    "https://alphasignal.ai/news/microsoft-s-mai-image-2-7-climbs-to-no-2-on-image-editing-benchmark"
+   ],
+   "topic": "microsoft-mai-image-2-7-preview-2026-10-27",
+   "firstSeen": "2026-10-28T04:17:23+08:00"
+  },
+  {
+   "id": "b144b3524e",
+   "title": "瑞士 AI 实验室 Giotto 发布「主权 AI」模型家族：旗舰 Giotto Alto 免费开放，Giotto Solo 单张 GPU 就能跑，全部托管在欧洲",
+   "summary": "总部在洛桑、由 EPFL 数学校友 2017 年创办的 Giotto 10 月 27 日发布 Giotto Alto 和 Giotto Solo 两款推理模型。Alto 需 8 张 B300 GPU，面向企业复杂推理，个人可通过 iOS/安卓 App 和免注册匿名聊天免费使用；Solo 主打「单 GPU 上最聪明的模型」，适合机构本地部署。官方自报 Alto 在 AIME 2026 数学 100%、GPQA-Diamond 91.9%、HLE 52%。部署可选欧洲共享云、瑞士或欧洲专属云、本地机房，强调符合 GDPR、不依赖美国云；共享云 API 采用包月不限量（单并发）计费，而非按 token 收费。X 上有讨论指出其基于 Kimi 权重再训练、分数为自报，仍待独立评测。欧洲数据主权需求升温，面向欧洲客户的 AI 服务可关注这类本地化替代方案。",
+   "links": [
+    "https://www.eqs-news.com/news/corporate-news/giotto-launches-sovereign-ai-family-to-make-ai-public-infrastructure/165f1e84-de97-428b-b77a-9e3c65dd5b57_en",
+    "https://www.giotto.ai/",
+    "https://x.com/i/trending/2115134155079962751"
+   ],
+   "topic": "giotto-sovereign-ai-alto-solo-2026-10-27",
+   "firstSeen": "2026-10-28T04:17:23+08:00"
   }
  ],
- "lastChecked": "2026-10-28T03:56:44+08:00"
+ "lastChecked": "2026-10-28T04:17:23+08:00"
 }
