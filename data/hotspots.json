@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T22:21:04+08:00",
+ "lastUpdated": "2026-10-27T22:33:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22345,7 +22345,18 @@
    ],
    "topic": "apple-iwork-ai-assistant-mcp",
    "firstSeen": "2026-10-27T22:21:04+08:00"
+  },
+  {
+   "id": "f118579760",
+   "title": "Wiz 披露 PHP2Shell 一周战况：全网易受攻击机器减少约 67%，已观测到利用尝试但尚无成功案例",
+   "summary": "Wiz 研究团队发文追踪 PHP2Shell（CVE-2026-109618、CVE-2026-109619）公开披露（10 月 21 日）后一周的情况：其遥测显示，暴露在公网且存在漏洞的机器日均数量下降约 67%，受明显影响的组织数减少约 47.9%，一周后仍有漏洞的组织不到最初的 53%。Wiz 目前只观测到少量利用尝试，包括两种开源利用工具包变体，以及打着 PHP2Shell 旗号、实际依赖会话投毒和应用层本地文件包含漏洞的工具，尚未发现能对任意目标完成端到端利用的公开 PoC；不过已有合作方私下向其披露可用于多种目标的利用代码。",
+   "links": [
+    "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+    "https://news.ycombinator.com/item?id=50259343"
+   ],
+   "topic": "php2shell-wiz-exploitation-trends",
+   "firstSeen": "2026-10-27T22:33:04+08:00"
   }
  ],
- "lastChecked": "2026-10-27T22:21:04+08:00"
+ "lastChecked": "2026-10-27T22:33:04+08:00"
 }
