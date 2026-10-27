@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T02:25:35+08:00",
+ "lastUpdated": "2026-10-28T02:42:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22601,7 +22601,18 @@
    ],
    "topic": "liquid-ai-lfm3-release",
    "firstSeen": "2026-10-28T02:25:35+08:00"
+  },
+  {
+   "id": "9ec60aa5e8",
+   "title": "港大 HKUDS 的开源 AI 家教 DeepTutor 冲上 GitHub 日榜：单日新增约 1600 星、总星数超 4.5 万，主打「终身个性化辅导」",
+   "summary": "香港大学数据智能实验室（HKUDS）开源的 DeepTutor 10 月 27 日登上 GitHub Trending 日榜，当日新增约 1,587 星，总星数约 4.56 万。它把知识库检索（LightRAG、PageIndex 等）、沉浸式文档阅读、学习路径与题库练习、自动生成「书」和课程、学习记忆、多语言界面以及可接入 Codex/Gemini 等编码 CLI 的 Agent 能力整合在一个可自托管的工作台里，并提供 CLI 与技能社区。10 月 19 日发布的 v1.6.15 加入了学习路径审阅、分组测评和受限的辅导记忆。AI 教育工具从「问答机器人」走向「长期陪伴式学习系统」，开源方案的热度说明这一方向需求旺盛。",
+   "links": [
+    "https://github.com/HKUDS/DeepTutor",
+    "https://github.com/HKUDS/DeepTutor/releases/tag/v1.6.15"
+   ],
+   "topic": "hkuds-deeptutor-trending",
+   "firstSeen": "2026-10-28T02:42:26+08:00"
   }
  ],
- "lastChecked": "2026-10-28T02:25:35+08:00"
+ "lastChecked": "2026-10-28T02:42:26+08:00"
 }
