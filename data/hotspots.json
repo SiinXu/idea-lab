@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T16:02:15+08:00",
+ "lastUpdated": "2026-10-27T16:09:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22026,7 +22026,28 @@
    ],
    "topic": "mythical-man-month-ai-agents-2026",
    "firstSeen": "2026-10-27T16:02:15+08:00"
+  },
+  {
+   "id": "ee13b7b25a",
+   "title": "OpenAI 的「ETH 不成立」证明出了简化版：学者 Shiva Kintali 用线性代数、多项式插值等初等工具重写，一篇 PDF 即可读懂",
+   "summary": "OpenAI 宣布用模型证伪指数时间假设（ETH）后一天，研究者 Shiva Kintali 发布《A simplified proof of ETH is false》（10 月 26 日）：对任意固定 ε>0 给出确定性 3-SAT 算法，运行在 2^{εn} 乘多项式的位运算内。他把 OpenAI 的证明重新组织为稀疏化、限制变量出现次数、谱替换与有理插值四步，只依赖初等线性代数、多项式插值和基础概率，唯一未证明而直接引用的是稀疏化引理。该文已登上 HN。可读性更强的证明会加速同行审查，也意味着「AI 出证明、人类做讲解与验证」的分工正在形成。",
+   "links": [
+    "https://shivakintali.github.io/papers/ETH.pdf",
+    "https://news.ycombinator.com/item?id=50255406"
+   ],
+   "topic": "eth-false-simplified-proof-kintali",
+   "firstSeen": "2026-10-27T16:09:56+08:00"
+  },
+  {
+   "id": "d978250825",
+   "title": "印度国防采购委员会批准 2.12 万亿卢比军备现代化，82% 给本土企业；AI 公司 Sarvam 同步拿下国防部五年合同",
+   "summary": "印度国防采购委员会 10 月 26 日批准总额 2.12 万亿卢比（lakh crore 口径）的采购提案，82% 分配给印度企业，涵盖 K9 Vajra 自行火炮、直升机、无人机和舰载诱饵等。与此同时，本土大模型公司 Sarvam 与印度国防部签下五年协议，在主权基础设施上为军事研究、训练和决策开发安全 AI 工具。消息带动国防股上涨。主权 AI 正从政务走向国防，本土模型公司开始拿到长期政府大单。",
+   "links": [
+    "https://x.com/i/trending/2114989632844943827"
+   ],
+   "topic": "india-dac-sarvam-defence-ai",
+   "firstSeen": "2026-10-27T16:09:56+08:00"
   }
  ],
- "lastChecked": "2026-10-27T16:02:15+08:00"
+ "lastChecked": "2026-10-27T16:09:56+08:00"
 }
