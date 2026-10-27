@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T23:00:22+08:00",
+ "lastUpdated": "2026-10-27T23:22:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22390,7 +22390,18 @@
    ],
    "topic": "fisa-702-secret-court-ruling-withheld",
    "firstSeen": "2026-10-27T23:00:22+08:00"
+  },
+  {
+   "id": "8af34d90d6",
+   "title": "HN 热议长文《Here Be Monsters》：AI Agent 写代码时代，工程师还需要懂什么？「知道哪里出错、能随时深潜」成核心能力",
+   "summary": "工程师 Adrian Quiroga 在博文中复盘一次 CI 失败：SonarQube 报 App.tsx 圈复杂度过高，原来是 Codex 把 15 个包含业务逻辑的组件各写成一行，代码本身完全正确，只是人从未读过。他用「潜水机器人采金」作比喻，认为未来拥有一个软件系统不再取决于是否亲手写过它，而在于掌握扎实基础与足够广度、知道何时出了问题，并愿意在需要时「即时深入」；文章在 Hacker News 发布约两小时获 50 分讨论。",
+   "links": [
+    "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+    "https://news.ycombinator.com/item?id=50258868"
+   ],
+   "topic": "agents-engineers-what-to-know",
+   "firstSeen": "2026-10-27T23:22:20+08:00"
   }
  ],
- "lastChecked": "2026-10-27T23:00:22+08:00"
+ "lastChecked": "2026-10-27T23:22:20+08:00"
 }
