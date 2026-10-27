@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T06:46:51+08:00",
+ "lastUpdated": "2026-10-28T07:14:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22846,7 +22846,19 @@
    ],
    "topic": "machenta-instant-robot-learning-seed-2026-10-27",
    "firstSeen": "2026-10-28T06:46:51+08:00"
+  },
+  {
+   "id": "40478e380d",
+   "title": "GPU 算力市场 Hyperbolic 完成 3000 万美元 A1 轮，英特尔 CEO 陈立武的基金领投：要把闲置 GPU 变成可买卖的「全球算力电网」",
+   "summary": "Hyperbolic 10 月 27 日宣布完成超额认购的 3000 万美元 A1 轮，由英特尔 CEO 陈立武创办的 Walden Catalyst 领投，Dell Technologies Capital、General Catalyst、Vista Equity 等跟投，累计融资 5000 万美元。资金用于统一控制平面 Forge、跨云调度，以及计划中的「全球算力电网」：供应方和客户可以买、卖、转售闲置 GPU 容量，后续计划推出竞价实例、动态定价，并探索算力价格对冲。GPU 云已有 300 多家供应商、标准各异，「算力像电一样按需取用、用不完再卖回去」若跑通，围绕算力比价、闲置容量转售和推理成本优化的工具与服务会有需求。",
+   "links": [
+    "https://www.hyperbolic.ai/blog/a1-funding",
+    "https://www.businessinsider.com/intel-ceo-backs-30-million-round-ai-cloud-startup-hyperbolic-2026-10",
+    "https://x.com/i/trending/2115187291883000145"
+   ],
+   "topic": "hyperbolic-series-a1-global-compute-grid-2026-10-27",
+   "firstSeen": "2026-10-28T07:14:12+08:00"
   }
  ],
- "lastChecked": "2026-10-28T06:46:51+08:00"
+ "lastChecked": "2026-10-28T07:14:12+08:00"
 }
