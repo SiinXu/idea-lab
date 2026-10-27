@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T15:23:46+08:00",
+ "lastUpdated": "2026-10-27T16:02:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22015,7 +22015,18 @@
    ],
    "topic": "baidu-unlimited-ocr-2",
    "firstSeen": "2026-10-27T15:23:46+08:00"
+  },
+  {
+   "id": "eb967c2830",
+   "title": "《人月神话》放到 AI 时代还成立吗？博文提出布鲁克斯定律 2026 版：「需求不清时加更多 Agent，只会更快得到错误答案」",
+   "summary": "开发者 Jan van den Berg 10 月 27 日发文重新审视布鲁克斯定律（给延期项目加人只会更晚）。他认为 AI Agent 消除了入职培训、站会等传统沟通成本，但定律只是变了形：顺序任务依旧无法并行，管理成本从「管人」转为「管 Agent」——仍需要人来定义完成标准、审代码、抓幻觉、拼接成果；多个 Agent 在同一代码库缺乏编排时会互相覆盖改动。文章登上 HN 首页。这对多 Agent 编排、任务拆分与验收工具是一个直接的需求信号。",
+   "links": [
+    "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+    "https://news.ycombinator.com/item?id=50255298"
+   ],
+   "topic": "mythical-man-month-ai-agents-2026",
+   "firstSeen": "2026-10-27T16:02:15+08:00"
   }
  ],
- "lastChecked": "2026-10-27T15:23:46+08:00"
+ "lastChecked": "2026-10-27T16:02:15+08:00"
 }
