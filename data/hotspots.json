@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T08:42:51+08:00",
+ "lastUpdated": "2026-10-27T08:54:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21587,7 +21587,37 @@
    ],
    "topic": "purdue-gps-free-drone-forest",
    "firstSeen": "2026-10-27T08:42:51+08:00"
+  },
+  {
+   "id": "f092c47ca1",
+   "title": "Addy Osmani 披露 Anthropic 用 Claude Code 写自家工具约 90% 代码：合并 PR 翻倍、回滚减少四成以上",
+   "summary": "Addy Osmani 在 X 上分享 Anthropic 团队的智能体工作流：提 PR 前由 Claude Code 自动跑测试和审查，人工审核力度按风险分级，低风险文档改动可免审，计费相关代码需两人审。据称 6 月到 9 月合并 PR 增长超过 100%，回滚减少 40% 以上。开发者纷纷跟进 CLAUDE.md 和可复用技能等做法，同时讨论人机分工的边界。按风险分级的 AI 代码审查流程值得借鉴。",
+   "links": [
+    "https://x.com/i/trending/2114655516517642465"
+   ],
+   "topic": "anthropic-claude-code-pr-doubling-osmani",
+   "firstSeen": "2026-10-27T08:54:31+08:00"
+  },
+  {
+   "id": "50eeb3c873",
+   "title": "设计师 Daryl Ginn 宣布彻底弃用 Figma，引发「用 AI 直接在代码里做原型」讨论",
+   "summary": "设计师 Daryl Ginn 表示已完全不用 Figma，许多人附和称用 Claude、Cursor 等 AI 工具直接在代码里出原型更快。讨论的共识是：独立开发者常跳过画布，团队仍依赖 Figma 做打磨、文档和评审对齐；Figma 也在用自家智能体和代码功能反击。据称 91% 的设计师每周都在用 AI。设计到代码的工作流正在重排，Figma 的角色在变化。",
+   "links": [
+    "https://x.com/i/trending/2114696013109981438"
+   ],
+   "topic": "designers-ditch-figma-ai-code-prototyping",
+   "firstSeen": "2026-10-27T08:54:31+08:00"
+  },
+  {
+   "id": "5be8043be3",
+   "title": "Anthropic、OpenAI 加入「信仰-AI 公约」跨宗教圆桌：向古老道德传统寻求 AI 伦理答案",
+   "summary": "据 X 热点汇总，Anthropic 的 Chris Olah、OpenAI 的 Sam Altman 等参与 Faith-AI Covenant 等跨宗教圆桌，讨论 AI 安全与伦理的共同原则，希望让 ChatGPT 等系统反映更广泛的人类道德观。网友好奇涉及哪些宗教，也质疑可能带来偏见或过度简化；学者指出宗教的文化语境很难直接转成代码。这是 AI 对齐讨论走向社会和人文领域的新动向。",
+   "links": [
+    "https://x.com/i/trending/2114802671379189971"
+   ],
+   "topic": "faith-ai-covenant-interfaith-roundtable",
+   "firstSeen": "2026-10-27T08:54:31+08:00"
   }
  ],
- "lastChecked": "2026-10-27T08:42:51+08:00"
+ "lastChecked": "2026-10-27T08:54:31+08:00"
 }
