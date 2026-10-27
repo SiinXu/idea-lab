@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T06:25:48+08:00",
+ "lastUpdated": "2026-10-28T06:46:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22822,7 +22822,31 @@
    ],
    "topic": "databricks-system-of-record-for-agents-2026-10-27",
    "firstSeen": "2026-10-28T06:25:48+08:00"
+  },
+  {
+   "id": "a9a891dddd",
+   "title": "Infisical 完成 4000 万美元 B 轮、估值 6 亿美元：用「假钥匙 + 代理」防止 AI 智能体泄露凭证",
+   "summary": "开源密钥与特权访问管理公司 Infisical 10 月 27 日宣布完成 4000 万美元 B 轮融资，由 Elad Gil 领投、Y Combinator 等跟投，估值 6 亿美元。其 Agent Vault 产品让 AI 智能体只拿到占位用的假密钥，真实凭证由一个转发代理在请求发出时才附加上去，即使智能体被提示注入攻破也拿不走真钥匙。公司称已有 1300 多家组织（包括 Airbus、Hugging Face）在用，每天保护约 100 亿次密钥访问。智能体接入企业 API 越来越多，「智能体凭证与权限管控」正成为安全赛道的新入口，适合做细分平台的接入插件、审计报表或部署咨询。",
+   "links": [
+    "https://infisical.com/blog/series-b",
+    "https://infisical.com/platform/agent-vault",
+    "https://x.com/i/trending/2115122003233706257"
+   ],
+   "topic": "infisical-series-b-agent-vault-2026-10-27",
+   "firstSeen": "2026-10-28T06:46:51+08:00"
+  },
+  {
+   "id": "d5d5530bca",
+   "title": "伦敦机器人初创 Machenta 走出隐身：机器人看一次演示就能学会新动作，种子轮创纪录 4000 万美元",
+   "summary": "由帝国理工学院 Edward Johns 和 Vitalis Vosylius 创办的 Machenta 10 月 27 日发布「即时机器人学习」：基础模型完全在仿真中训练，机器人在真实世界看一次人类演示就能掌握新任务（如折盒子、把瓶子立起来、翻鞋），并能适应物体和环境的变化，无需额外训练。公司完成由 Creandum 和 Union Square Ventures 联合领投的 4000 万美元种子轮，团队目前 11 人。「仿真优先、少量真实数据」的路线若跑通，将大幅降低机器人部署门槛，围绕演示数据采集、任务模板和行业落地的服务会有需求。",
+   "links": [
+    "https://www.imperial.ac.uk/news/articles/2026/imperial-ai-spinout-machenta-raises-40-million-to-make-robots-instant-learners/",
+    "https://www.forbes.com/sites/johnkoetsier/2026/10/27/uk-startup-bets-40-million-that-it-can-train-robots-instantly-via-simulation/",
+    "https://x.com/i/trending/2115042104917303684"
+   ],
+   "topic": "machenta-instant-robot-learning-seed-2026-10-27",
+   "firstSeen": "2026-10-28T06:46:51+08:00"
   }
  ],
- "lastChecked": "2026-10-28T06:25:48+08:00"
+ "lastChecked": "2026-10-28T06:46:51+08:00"
 }
