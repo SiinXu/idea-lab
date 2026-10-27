@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T00:17:21+08:00",
+ "lastUpdated": "2026-10-28T00:41:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22464,7 +22464,40 @@
    ],
    "topic": "monstercloud-ceo-indicted-ransomware-recovery-fraud",
    "firstSeen": "2026-10-28T00:17:21+08:00"
+  },
+  {
+   "id": "07281666d1",
+   "title": "Axiom 宣布用 Lean 完整形式化「有限单群分类定理」：4310 万行 Lean 代码，顺带发现已发表证明中的漏洞",
+   "summary": "Axiom Math 公开 CFSG in Lean 项目：沿第一代证明，把数学史上最庞大的集体成果之一——有限单群分类定理（原证明横跨数千页期刊、约百位数学家数十年工作）完整形式化，每一步都经 Lean 内核检查，共约 4310 万行 Lean、205 万条声明、100 个里程碑、引用 715 篇论文和专著。过程中团队发现某条已发表的「不平衡群定理」论证中的闭包断言存在反例，并另写论文给出替代证明。这是 AI 辅助大规模形式化数学的标志性进展。",
+   "links": [
+    "https://cfsg.axiommath.ai/",
+    "https://news.ycombinator.com/item?id=50261647"
+   ],
+   "topic": "axiom-cfsg-finite-simple-groups-lean",
+   "firstSeen": "2026-10-28T00:41:11+08:00"
+  },
+  {
+   "id": "a6176e0bd2",
+   "title": "JetBrains 全家桶内置终端换用 libghostty：为 Claude Code、Codex 等 AI 编码 Agent 和 TUI 应用提供现代终端协议",
+   "summary": "JetBrains 宣布从 2026.3 版本起，旗下 IDE 的内置终端改由 Ghostty 的终端仿真库 libghostty 驱动，取代沿用多年的 JediTerm。官方解释，越来越多终端工作来自 Claude Code、Codex 等 AI 编码 Agent 以及 Neovim、tmux 这类全屏应用，它们依赖 JediTerm 不支持的现代终端协议；换用 libghostty 后，IDE 终端体验将与主流独立终端看齐。",
+   "links": [
+    "https://blog.jetbrains.com/platform/2026/10/jetbrains-terminal-now-uses-ghostty/",
+    "https://news.ycombinator.com/item?id=50260714"
+   ],
+   "topic": "jetbrains-terminal-libghostty",
+   "firstSeen": "2026-10-28T00:41:11+08:00"
+  },
+  {
+   "id": "64272eb6c4",
+   "title": "腾讯混元开源世界模型 Hy-Nomas：用文字指令和镜头控制多轮「边生成边改」交互世界，单张 4090 也能跑",
+   "summary": "腾讯在 Hugging Face 以 Apache-2.0 协议开源 Hy-Nomas 视频世界生成模型：按视频片段自回归生成世界，用户可在生成过程中通过文本加入物体、切换风格和场景、描述动作或控制镜头。模型由分段自回归扩散 Transformer、Qwen 文本编码器、相机条件模块和 PixelUMM 解码器组成，蒸馏版 8 步去噪输出 720×1280、24 帧；另有 INT8 量化加 CPU 卸载配置，可在单张 RTX 4090 上运行。",
+   "links": [
+    "https://huggingface.co/tencent/Hy-Nomas",
+    "https://news.ycombinator.com/item?id=50260747"
+   ],
+   "topic": "tencent-hy-nomas-world-model",
+   "firstSeen": "2026-10-28T00:41:11+08:00"
   }
  ],
- "lastChecked": "2026-10-28T00:17:21+08:00"
+ "lastChecked": "2026-10-28T00:41:11+08:00"
 }
