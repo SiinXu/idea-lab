@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T02:56:50+08:00",
+ "lastUpdated": "2026-10-28T03:31:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22623,7 +22623,19 @@
    ],
    "topic": "discord-discoverable-servers-web-search-indexing",
    "firstSeen": "2026-10-28T02:56:50+08:00"
+  },
+  {
+   "id": "13602fa4a4",
+   "title": "微软 Authenticator 安卓版漏洞 AuthMask：零权限恶意 App 可冒充 Teams 拿走工作账号令牌，读写邮件、文件和日历",
+   "summary": "安全公司 Enclave 公开了 CVE-2026-80097（CVSS 8.6）的技术细节：Microsoft Authenticator 安卓版里一个对外导出的 AccountChooserActivity 直接采信调用方自报的包名、客户端 ID 和权限范围，签名校验只核对被冒充的 App（如 Teams）是否真装在手机上，于是任何零权限 App 都能让这个登录中介交出工作账号的 Microsoft Graph 令牌，获得收发邮件、读写文件和日历等完整委托权限。Enclave 称无需用户操作，微软则认为需要用户完成一次认证。漏洞已在 9 月补丁中修复，用户应升级到 6.2606.4246 或更高版本，企业可通过 MDM 强制最低版本。对做移动端身份认证和 SSO 的团队来说，这是「中介 App 必须以真实调用方做信任判断」的典型反面教材。",
+   "links": [
+    "https://enclave.ai/blog/authmask-we-made-microsoft-authenticator-hand-over-tokens",
+    "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+    "https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2026-80097"
+   ],
+   "topic": "microsoft-authenticator-android-authmask-cve-2026-80097",
+   "firstSeen": "2026-10-28T03:31:57+08:00"
   }
  ],
- "lastChecked": "2026-10-28T02:56:50+08:00"
+ "lastChecked": "2026-10-28T03:31:57+08:00"
 }
