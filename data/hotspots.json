@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T04:45:59+08:00",
+ "lastUpdated": "2026-10-28T04:59:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22703,7 +22703,39 @@
    ],
    "topic": "survival-llm-offline-emergency-ai-2026-10-27",
    "firstSeen": "2026-10-28T04:45:59+08:00"
+  },
+  {
+   "id": "8ebf774d51",
+   "title": "YC 公布 2027 冬季批次「创业需求清单」：11 个方向押注 AI 走进工厂、数据中心和政府流程",
+   "summary": "Y Combinator 10 月 27 日发布 W27 批次的 Requests for Startups，共 11 个方向，重点从「做模型」转向「让 AI 落地实体经济」：美国本土制造机器人、数据中心供应链（如稀土磁体）、实体基建的融资方案、面向政府流程的 AI 工具、安全隔离环境等。W27 批次 1 月到 3 月在旧金山进行，申请 11 月 2 日截止，X 上已有大量创始人讨论申请。想找 AI 创业方向的人可以把这份清单当作投资人视角的需求地图。",
+   "links": [
+    "https://www.ycombinator.com/rfs",
+    "https://x.com/i/trending/2115177928346452466"
+   ],
+   "topic": "yc-rfs-w27-ai-hardware-2026-10-27",
+   "firstSeen": "2026-10-28T04:59:26+08:00"
+  },
+  {
+   "id": "321eb50fba",
+   "title": "Harmonic 发布新版 Aristotle：用自然语言描述性质，AI 自动形式化验证 C 代码和 Verilog 硬件设计",
+   "summary": "Robinhood CEO Vlad Tenev 联合创办的 Harmonic 10 月 27 日推出面向工程的 Aristotle：工程师用英文写出代码应满足的性质，AI 给出机器可检查的证明，无需形式化方法专家，支持 C 软件和 Verilog 硬件设计，可在每次提交时自动运行并支持本地部署。官方案例称美国一家聚变实验室用它在 4 小时内根据论文重建了反应堆控制软件。在 AI 写代码速度远超人工审查的背景下，「自动验证」瞄准航空航天、芯片等安全关键领域，也是 AI 编程工具链里的新机会点。",
+   "links": [
+    "https://x.com/i/trending/2115174976655347987",
+    "https://harmonic.fun/news"
+   ],
+   "topic": "harmonic-aristotle-c-verilog-verification-2026-10-27",
+   "firstSeen": "2026-10-28T04:59:26+08:00"
+  },
+  {
+   "id": "cc76def8fa",
+   "title": "Prince Canuma 创立 Neywa Labs，发布免费 Mac 本地 AI 应用 Nativ：离线跑 5000+ 模型",
+   "summary": "mlx-vlm 等开源项目作者 Prince Canuma 10 月 27 日公布新公司 Neywa Labs 及首款免费应用 Nativ，可在 Apple Silicon Mac 上离线运行 5000 多个 AI 模型，用于聊天、看图和写代码，数据全部留在本机、无需订阅和联网。X 上用户称赞可在飞机上等无网环境使用，并省下高额云端费用。本地优先、隐私友好的桌面 AI 工具正在升温，围绕 MLX 生态的模型分发、插件和教程有机会。",
+   "links": [
+    "https://x.com/i/trending/2115153127683088396"
+   ],
+   "topic": "neywa-labs-nativ-mac-local-ai-2026-10-27",
+   "firstSeen": "2026-10-28T04:59:26+08:00"
   }
  ],
- "lastChecked": "2026-10-28T04:45:59+08:00"
+ "lastChecked": "2026-10-28T04:59:26+08:00"
 }
