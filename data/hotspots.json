@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T22:43:33+08:00",
+ "lastUpdated": "2026-10-27T23:00:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22379,7 +22379,18 @@
    ],
    "topic": "anthropic-feedback-button-training-data",
    "firstSeen": "2026-10-27T22:43:33+08:00"
+  },
+  {
+   "id": "add737ee98",
+   "title": "WIRED：美国政府扣押一份 FISA 秘密法院裁决，裁决认定情报机构筛选美国人通信的工具违规，702 条款续期之争升温",
+   "summary": "WIRED 独家报道，参议员 Ron Wyden 与 Adam Schiff 致信国家情报总监 Jay Clayton 和司法部长 Todd Blanche，指责政府违法扣押外国情报监控法院（FISC）今年 3 月的一项裁决：法院认定情报分析员用来从截获数据中提取美国人消息的「搜索过滤器」等同于对美国人的搜查，须受同等法律限制并要求重建，但仍批准监控项目再延一年。按政府自己的规则，此类裁决应在 180 天内（9 月 13 日前）审查公开，至今未公布。两人要求政府在 11 月 6 日前说明原因；Demand Progress 等 23 个公民自由组织同日呼吁国会在裁决公开前拒绝续期 FISA 第 702 条款（该条款 6 月已失效，但收集依据 3 月的批准继续，至明年 3 月到期）。报道在 Hacker News 引发热议。",
+   "links": [
+    "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+    "https://news.ycombinator.com/item?id=50259604"
+   ],
+   "topic": "fisa-702-secret-court-ruling-withheld",
+   "firstSeen": "2026-10-27T23:00:22+08:00"
   }
  ],
- "lastChecked": "2026-10-27T22:43:33+08:00"
+ "lastChecked": "2026-10-27T23:00:22+08:00"
 }
