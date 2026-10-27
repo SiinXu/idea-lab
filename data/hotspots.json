@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T05:16:35+08:00",
+ "lastUpdated": "2026-10-28T05:30:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22755,7 +22755,18 @@
    ],
    "topic": "memory-tax-agent-memory-paper-2026-10-27",
    "firstSeen": "2026-10-28T05:16:35+08:00"
+  },
+  {
+   "id": "001110b136",
+   "title": "Anthropic 公布用 Claude 加速新药研发的早期成果：与百时美施贵宝等 6 家机构合作，监管文件初稿从 3 个月缩到 4 小时",
+   "summary": "Anthropic 10 月 27 日发布生命科学进展：过去几个月与 BigHat、百时美施贵宝（BMS）、Divergence Labs、Enveda、Generate Biomedicines、The Column Group 六家机构深度合作，并自建了儿童罕见肌营养不良等药物项目。案例包括：Claude 约一个月内半自主生成约 3.5 万个抗体设计，找到可剥离 IgE 的食物过敏候选；BigHat 的先导分子结合力提升 10 倍以上；Enveda 用 Claude 审查 1061 页生产文件，找出人工发现的全部 11 个问题外加 7 个漏掉的，审查时间减少 89%，一份监管文件初稿 4 小时完成（人工约 3 个月）。目前多为临床前阶段，明年将扩展到临床试验。医药合规文档、实验数据分析等「AI 处理繁重文书」的垂直场景值得关注。",
+   "links": [
+    "https://www.anthropic.com/research/early-progress-drug-development",
+    "https://news.ycombinator.com/item?id=50265609"
+   ],
+   "topic": "anthropic-claude-drug-development-progress-2026-10-27",
+   "firstSeen": "2026-10-28T05:30:02+08:00"
   }
  ],
- "lastChecked": "2026-10-28T05:16:35+08:00"
+ "lastChecked": "2026-10-28T05:30:02+08:00"
 }
