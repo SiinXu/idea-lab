@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T16:56:46+08:00",
+ "lastUpdated": "2026-10-27T17:32:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22079,7 +22079,19 @@
    ],
    "topic": "eu-digital-omnibus-gdpr-ai-legitimate-interest",
    "firstSeen": "2026-10-27T16:56:46+08:00"
+  },
+  {
+   "id": "627cb07251",
+   "title": "Artificial Analysis 预告「明天是大日子」：智能指数 v5 即将发布，新增 Terminal-Bench Science 与私有编码测试集，旧分数将不可直接比较",
+   "summary": "独立评测机构 Artificial Analysis 10 月 8 日宣布智能指数（Intelligence Index）v5 将在 10 月下旬上线，其成员 Mert Gulsun 近日连发「明天是大日子」「Tomorrow」预告，街头广告也已出现，社区猜测可能与 Anthropic 新模型同期。v5 将加入斯坦福等团队打造的 Terminal-Bench Science（70 个命令行科研工作流任务，目前最高仅 GPT-6 Astra Max 的 63.3%、Claude Opus 5.5 的 61.9%）以及一个不公开题目的私有编码基准，以减少「刷榜」。官方提醒 v5 与现行 v4.3.2 分数不能直接对比，最终权重与方法将随更新日志公布。对选型和做模型对比内容的人来说，榜单排名可能洗牌，现有对比表需要重跑。",
+   "links": [
+    "https://x.com/i/trending/2114931602983993779",
+    "https://alphasignal.ai/news/artificial-analysis-rebuilds-intelligence-index-v5-with-private-coding-tests",
+    "https://artificialanalysis.ai/indexes"
+   ],
+   "topic": "artificial-analysis-intelligence-index-v5-teaser",
+   "firstSeen": "2026-10-27T17:32:46+08:00"
   }
  ],
- "lastChecked": "2026-10-27T16:56:46+08:00"
+ "lastChecked": "2026-10-27T17:32:46+08:00"
 }
