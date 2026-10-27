@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T16:28:31+08:00",
+ "lastUpdated": "2026-10-27T16:38:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22057,7 +22057,17 @@
    ],
    "topic": "research-before-agi-debate",
    "firstSeen": "2026-10-27T16:28:31+08:00"
+  },
+  {
+   "id": "ee4873d922",
+   "title": "AdaniConneX 与谷歌在印度维沙卡帕特南建 1GW AI 数据中心园区：改用风冷，全年淡水用量不到一个奥运泳池",
+   "summary": "AdaniConneX 与谷歌合作在维沙卡帕特南的 Mudasarlova、Tarluvada 等三处选址建设 AI 数据中心园区，规划规模约 1GW。为保护附近的 Mudasarlova 水库和野生动物保护区，项目放弃耗水的水冷方案，主要依靠风冷，淡水用量控制在一个奥运标准泳池以内，且多用于绿化、厨房和员工区域，并承诺循环用水、零排放。在 AI 数据中心「抢水」争议升温之际，这是大型园区把节水写进选址与散热设计的案例，也显示印度正以低成本和可再生能源争夺 AI 算力布局。",
+   "links": [
+    "https://x.com/i/trending/2114674812849430998"
+   ],
+   "topic": "adaniconnex-google-vizag-air-cooling",
+   "firstSeen": "2026-10-27T16:38:46+08:00"
   }
  ],
- "lastChecked": "2026-10-27T16:28:31+08:00"
+ "lastChecked": "2026-10-27T16:38:46+08:00"
 }
