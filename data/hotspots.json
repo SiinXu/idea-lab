@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T04:30:06+08:00",
+ "lastUpdated": "2026-10-28T04:45:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22692,7 +22692,18 @@
    ],
    "topic": "tailscale-ssh-vuln-investigation-2026-10-26",
    "firstSeen": "2026-10-28T04:30:06+08:00"
+  },
+  {
+   "id": "f6df93ac15",
+   "title": "Show HN：Survival LLM 免费开源离线 AI 应急助手——断网也能问，自带约 93 万篇维基百科与医疗、FEMA、CDC 手册并标注出处",
+   "summary": "Survival LLM 是一款完全在本地电脑运行的免费开源 AI 助手兼应急资料库，主打「断网也能用」：停电时如何保存食物、处理烧伤、净化饮用水等问题，都从内置的可信资料中检索作答，并列出引用文章、高亮原文段落方便核对。资料库包括约 93 万篇最常读的维基百科条目、WikiMed 医学百科、MedlinePlus、FEMA Ready.gov 与 CDC 指南、美军医疗与野外生存手册、wikiHow 和 iFixit 维修指南等（完整版下载约 9GB）。应用会按内存自动选择模型：128GB 以上的 Mac 用 NVIDIA Nemotron 3.5 Super，32–96GB 用 Qwen3.8 27B，16–31GB 用 IBM Granite 4.2 8B；作者自测 22 道停电与急救题，最大模型答对 21 道。支持 Apple Silicon Mac 与 64 位 Windows，安装需 20 分钟到 2.5 小时。项目正在 HN 首页讨论，代表了「本地模型 + 离线 RAG 知识库」做垂直场景工具的一个方向。",
+   "links": [
+    "https://www.brangus.io/survival-llm",
+    "https://news.ycombinator.com/item?id=50264853"
+   ],
+   "topic": "survival-llm-offline-emergency-ai-2026-10-27",
+   "firstSeen": "2026-10-28T04:45:59+08:00"
   }
  ],
- "lastChecked": "2026-10-28T04:30:06+08:00"
+ "lastChecked": "2026-10-28T04:45:59+08:00"
 }
