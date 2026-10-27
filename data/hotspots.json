@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T13:00:20+08:00",
+ "lastUpdated": "2026-10-27T13:46:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21959,7 +21959,29 @@
    ],
    "topic": "winevdm-16bit-windows",
    "firstSeen": "2026-10-27T13:00:20+08:00"
+  },
+  {
+   "id": "21c3fe8884",
+   "title": "Pharo 14 发布：纯面向对象的 Smalltalk 系语言换新开发工具，虚拟机加入 RISC-V JIT 支持",
+   "summary": "Pharo 官方发布第 14 版并登上 HN 首页（约 250 分）。这一版主要做了三件事：一是开发工具现代化，新增 Mission Control 和替代 Spotter 的 Pulse，重写方法浏览器和设置浏览器；二是重构重构/命令基础设施，统一命令注册表，并扩展命令行测试和命令行调试器；三是虚拟机升级，统一栈帧管理、加入 RISC-V JIT 支持、改进内存管理和 GC。项目还把发布周期从春季改到秋季。Pharo 以“活的”开发环境和可边运行边改代码的调试器著称，对研究编程语言、实时开发体验和 RISC-V 生态的人值得关注。",
+   "links": [
+    "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+    "https://news.ycombinator.com/item?id=50241925"
+   ],
+   "topic": "pharo-14-release-2026-10",
+   "firstSeen": "2026-10-27T13:46:05+08:00"
+  },
+  {
+   "id": "18c1c9261a",
+   "title": "2 美元的 ESP32-S3 也能跑 SIMD 计算机视觉：作者手写汇编让 FAST 角点检测提速约 2 倍，一帧 QVGA 仅约 6 毫秒",
+   "summary": "开发者 shraiwi 发文介绍：ESP32-S3 这颗廉价微控制器支持一组鲜为人知的 128 位 SIMD 指令，他据此手写汇编实现 FAST 特征点检测，速度约为参考实现的两倍，处理 320×240 一帧约 6 毫秒，还顺手写了一个简易寄存器分配器 basm，并开源代码。文章登上 HN 首页（约 190 分）。这说明低成本 IoT 芯片也能做实时视觉特征提取，对做边缘 AI、机器人、智能摄像头的硬件创业者有参考价值。",
+   "links": [
+    "https://shraiwi.com/blog/simd-fast-esp32s3/",
+    "https://news.ycombinator.com/item?id=50236681"
+   ],
+   "topic": "esp32s3-simd-fast-cv",
+   "firstSeen": "2026-10-27T13:46:05+08:00"
   }
  ],
- "lastChecked": "2026-10-27T13:00:20+08:00"
+ "lastChecked": "2026-10-27T13:46:05+08:00"
 }
