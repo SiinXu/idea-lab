@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T23:22:20+08:00",
+ "lastUpdated": "2026-10-27T23:46:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22401,7 +22401,27 @@
    ],
    "topic": "agents-engineers-what-to-know",
    "firstSeen": "2026-10-27T23:22:20+08:00"
+  },
+  {
+   "id": "bb124f9e26",
+   "title": "前 Meta 超级智能实验室总监 Rohit Patel 离职创业 Ndoc：瞄准 Office 与 Google Workspace 的 AI 原生办公套件",
+   "summary": "TechCrunch 独家报道，在 Meta 从事 AI 开发八年的 Rohit Patel 已离职，推出初创公司 Ndoc，定位为 Microsoft Office 和 Google Workspace 的 AI 原生替代品，希望把人们在 Excel、Word、PowerPoint、Tableau、Replit 和「ChatGPT 复制粘贴」之间来回切换的工作方式合并成一个统一空间，未注册的同事也能访问。产品在同一布局中整合三部分：Stage 放幻灯片、仪表盘、模拟和小应用等展示成果；Narrative 放分析、编号引用和生成图表，解释数字背后的原因；Model 存放底层数据集和 Python 脚本。他是近期继 Joel Kaplan、Andrew Tulloch、Emily Dalton Smith 之后又一位离开 Meta 的知名人物。",
+   "links": [
+    "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
+   ],
+   "topic": "ndoc-rohit-patel-ai-native-office",
+   "firstSeen": "2026-10-27T23:46:05+08:00"
+  },
+  {
+   "id": "723c8555f9",
+   "title": "CISA 确认 PHP 两个严重漏洞已遭在野利用，责令美国联邦机构三天内修补",
+   "summary": "美国网络安全与基础设施安全局（CISA）确认，黑客正在积极利用 PHP 中两个可远程无需密码入侵系统的严重漏洞，并命令联邦民事机构在三天内完成修补。距 PHP 官方发布补丁不到一周；据报道约 70% 的面向公网服务器使用 PHP，部分政府和大公司曾为此临时下线网站。研究人员此前认为写出可用利用代码有难度但并非不可能，在野利用的确认让各组织的修补压力陡增；CISA 未透露攻击者身份。",
+   "links": [
+    "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/"
+   ],
+   "topic": "cisa-php-bugs-actively-exploited",
+   "firstSeen": "2026-10-27T23:46:05+08:00"
   }
  ],
- "lastChecked": "2026-10-27T23:22:20+08:00"
+ "lastChecked": "2026-10-27T23:46:05+08:00"
 }
