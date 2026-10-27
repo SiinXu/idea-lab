@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T09:26:59+08:00",
+ "lastUpdated": "2026-10-27T09:45:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21648,7 +21648,47 @@
    ],
    "topic": "ritual-mainnet-ai-agents-2026-10-26",
    "firstSeen": "2026-10-27T09:26:59+08:00"
+  },
+  {
+   "id": "58e82df27f",
+   "title": "博通为 Anthropic 敲定 630 亿美元 AI 芯片融资：华尔街银行通过特殊目的载体买设备再租回",
+   "summary": "据 X 上讨论汇总，博通联合美国银行、黑石、花旗和摩根士丹利安排了约 630 亿美元融资，由新设的特殊目的载体（SPV）购买博通 AI 芯片与网络设备再租给 Anthropic，2027 年开始交付，博通提供残值担保以降低贷方风险。这是规模最大的 AI 基础设施融资之一，恰逢 Anthropic 递交 S-1 准备上市，「先租后用」的算力融资模式可能被更多 AI 公司效仿。",
+   "links": [
+    "https://x.com/i/trending/2114837913443934381"
+   ],
+   "topic": "broadcom-anthropic-63b-spv-2026-10-26",
+   "firstSeen": "2026-10-27T09:45:10+08:00"
+  },
+  {
+   "id": "5119aedc96",
+   "title": "Claude Code 核心工程师 Thariq Shihipar 离开 Anthropic，Claude Code 桌面端负责人也同时离职",
+   "summary": "Claude Code 团队关键工程师 Thariq Shihipar 宣布在 Anthropic 工作一年多后离职，称这是最有趣也最有压力的工作，打算先休息再做下一个项目，并将在 11 月 10–12 日旧金山 AIE Code Summit 上分享经验；同时 Claude Code 桌面应用的 Anthony Morris 也宣布离开。此时 Anthropic 正面对 OpenAI 在编程领域的竞争并筹备上市，核心人员流动引发关注。",
+   "links": [
+    "https://x.com/i/trending/2114282218361114846"
+   ],
+   "topic": "thariq-leaves-claude-code-2026-10-26",
+   "firstSeen": "2026-10-27T09:45:10+08:00"
+  },
+  {
+   "id": "e95cdba09a",
+   "title": "meetvc.cafe 爆火：一张地图标出湾区 19 家投资人常去的咖啡馆，帮创始人「偶遇」VC",
+   "summary": "Francois de Fitte 发布免费交互地图 meetvc.cafe，标注旧金山湾区 19 家咖啡馆，并用 X 帖子佐证 36 位投资人到访记录，按种子基金、个人 GP 等分类展示。创始人纷纷收藏用于融资出差，红杉合伙人 Andrew Reed 也调侃回应。这类「公开数据 + 地图 + 垂直人群」的小工具成本低、易传播，是可快速复制到其他城市或人群的独立开发思路。",
+   "links": [
+    "https://x.com/i/trending/2114796854504288483"
+   ],
+   "topic": "meetvc-cafe-map-2026-10-26",
+   "firstSeen": "2026-10-27T09:45:10+08:00"
+  },
+  {
+   "id": "7f7f297caa",
+   "title": "创业公司把「内容营销」改名「新媒体」：高薪招社媒岗位、自建影棚做品牌",
+   "summary": "科技创业圈开始用「新媒体」取代「内容营销」，以区别于低质短视频和梗图，强调有深度的内容。公司开出高薪招聘过去由实习生负责的社媒岗位，并投入绿幕、剪辑室等专业设备在社交平台建品牌。支持者认为这是质量信号，批评者则认为只是旧瓶新酒。对独立开发者而言，创始人自带内容能力正变成获客标配。",
+   "links": [
+    "https://x.com/i/trending/2114876090221051936"
+   ],
+   "topic": "startups-new-media-rebrand-2026-10-26",
+   "firstSeen": "2026-10-27T09:45:10+08:00"
   }
  ],
- "lastChecked": "2026-10-27T09:26:59+08:00"
+ "lastChecked": "2026-10-27T09:45:10+08:00"
 }
