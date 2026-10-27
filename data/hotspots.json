@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T13:46:05+08:00",
+ "lastUpdated": "2026-10-27T14:15:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21981,7 +21981,18 @@
    ],
    "topic": "esp32s3-simd-fast-cv",
    "firstSeen": "2026-10-27T13:46:05+08:00"
+  },
+  {
+   "id": "4cd4ee44e5",
+   "title": "「去审查版」大模型路由 AllModels 上线：DeepSeek V4.1 Flash 去对齐版已有 5 家推理商在卖，一个 API 自动兜底切换",
+   "summary": "AllModels 推出面向 abliterated（移除拒答/安全对齐）模型的统一路由接口，兼容 OpenAI 的 Chat Completions 与 Responses API，首批提供 DeepSeek V4.1 Flash Abliterated 和 GLM 5.3 Abliterated，可按价格自动选择最便宜的推理商、容量不足时自动切换，还内置统一的联网搜索。HN 帖子称这类模型的推理商已达 5 家。这说明「无审查开源模型」正在形成独立的推理市场，聚合路由层是一个可复制的轻量生意，但合规与滥用风险也需要关注。",
+   "links": [
+    "https://allmodels.io/llm/abliterated",
+    "https://news.ycombinator.com/item?id=50254836"
+   ],
+   "topic": "allmodels-abliterated-router",
+   "firstSeen": "2026-10-27T14:15:11+08:00"
   }
  ],
- "lastChecked": "2026-10-27T13:46:05+08:00"
+ "lastChecked": "2026-10-27T14:15:11+08:00"
 }
