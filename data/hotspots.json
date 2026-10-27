@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T00:41:11+08:00",
+ "lastUpdated": "2026-10-28T00:55:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22497,7 +22497,18 @@
    ],
    "topic": "tencent-hy-nomas-world-model",
    "firstSeen": "2026-10-28T00:41:11+08:00"
+  },
+  {
+   "id": "6824ebe4eb",
+   "title": "甲骨文把 ChatGPT 和 Codex 接进自家应用，OCI 云同时上架谷歌 TPU、OpenAI 自研 Jalapeño 芯片和 Cerebras",
+   "summary": "甲骨文在 Oracle AI World 宣布扩大与 OpenAI 合作：把 ChatGPT 和 Codex 接入其应用与数据库产品线，让用户用自然语言构建、部署和管理应用。OCI 云还将提供谷歌 TPU（首次在其他超大规模云上运行）、OpenAI 自研 Jalapeño 芯片和 Cerebras 硬件，消息公布后 Cerebras 股价涨约 8%、甲骨文涨近 5%。这显示算力供给正走向多芯片混用，企业数据库上的 AI 应用开发门槛进一步降低。",
+   "links": [
+    "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
+    "https://www.techmeme.com/261027/p24#a261027p24"
+   ],
+   "topic": "oracle-openai-codex-tpu-jalapeno-oci",
+   "firstSeen": "2026-10-28T00:55:54+08:00"
   }
  ],
- "lastChecked": "2026-10-28T00:41:11+08:00"
+ "lastChecked": "2026-10-28T00:55:54+08:00"
 }
