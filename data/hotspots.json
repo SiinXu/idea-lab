@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T04:17:23+08:00",
+ "lastUpdated": "2026-10-28T04:30:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22681,7 +22681,18 @@
    ],
    "topic": "giotto-sovereign-ai-alto-solo-2026-10-27",
    "firstSeen": "2026-10-28T04:17:23+08:00"
+  },
+  {
+   "id": "2fb0f351f3",
+   "title": "Tailscale 公开 Tailscale SSH 安全漏洞调查进展：多为提权问题，补丁客户端目标 10 月 27 日发布，官方建议先关闭 SSH 转发",
+   "summary": "Tailscale 10 月 26 日发布调查更新：在外部安全专家协助下确认 Tailscale SSH 存在一批严重漏洞，大部分属于提权——已被授权通过 Tailscale SSH 连接的用户，在某些配置下可能越过所配置本地用户的权限，甚至拿到更高权限。官方称多数问题已修复、正在测试，目标在 10 月 27 日（周二）结束前发布补丁版客户端，之后会发安全公告和技术复盘。期间建议：收紧 SSH 访问策略，只放行必要的用户和设备；不需要时在 tailscaled 环境里设置 TS_SSH_DISABLE_FORWARDING=1 并重启，可缓解几项较严重的问题；补丁一出立即升级。官方暂不建议所有人直接停用 Tailscale SSH。消息正在 HN 讨论，用 Tailscale 管理服务器、家庭实验室或 AI 智能体机器的团队应尽快自查。",
+   "links": [
+    "https://tailscale.com/ssh-investigation-update",
+    "https://news.ycombinator.com/item?id=50264857"
+   ],
+   "topic": "tailscale-ssh-vuln-investigation-2026-10-26",
+   "firstSeen": "2026-10-28T04:30:06+08:00"
   }
  ],
- "lastChecked": "2026-10-28T04:17:23+08:00"
+ "lastChecked": "2026-10-28T04:30:06+08:00"
 }
