@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T10:29:26+08:00",
+ "lastUpdated": "2026-10-27T10:45:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -21759,7 +21759,37 @@
    ],
    "topic": "boston-dynamics-ice-spot-petition-2026-10",
    "firstSeen": "2026-10-27T10:29:26+08:00"
+  },
+  {
+   "id": "840d2e19f2",
+   "title": "Injective 推出链上 AI GPU 租赁价格指数 $SICI，算力成本首次可做 10 倍杠杆永续合约",
+   "summary": "Injective 上线「超级智能算力指数」（$SICI），按小时追踪五款英伟达 GPU 的租赁价格：H100 占 40%、B200 占 25%、H200 占 15%、A100 与 RTX 4090 各占 10%，数据来自算力交易市场、取七日均值每小时更新。用户可用 USDC 保证金以最高 10 倍杠杆交易其永续合约，用来对冲或押注 AI 硬件成本。X 上调侃「算力是新石油」。算力金融化正在起步，GPU 价格数据、算力成本看板和对冲工具都有机会。",
+   "links": [
+    "https://x.com/i/trending/2114759232000086030"
+   ],
+   "topic": "injective-sici-gpu-compute-index-2026-10",
+   "firstSeen": "2026-10-27T10:45:06+08:00"
+  },
+  {
+   "id": "1fd2c2f169",
+   "title": "Sume Remix 上线：AI 视频换角色 / 重绘按模型原价计费，比 Higgsfield 便宜约 2.6 倍",
+   "summary": "David Im 发布 Sume Remix，支持在保留原视频动作与节奏的前提下换角色、插入物体、整体重绘，面向创作者和广告投放。按底层模型原价计费、不加价不订阅，可 5 美元起充；480p 动作迁移约每源秒 0.123 美元，而 Higgsfield Genjutsu 约 0.318 美元。社区实测复杂场景一致性不错，也有人指出光线色调偏差，并与 Melius 等竞品在 X 上互怼。AI 视频工具的价格战正在从订阅转向「原价透传 + 充值」。",
+   "links": [
+    "https://x.com/i/trending/2114885586633085126"
+   ],
+   "topic": "sume-remix-ai-video-launch-2026-10",
+   "firstSeen": "2026-10-27T10:45:06+08:00"
+  },
+  {
+   "id": "2826baa576",
+   "title": "玩家用 AI 辅助重编译把 Apple Arcade 独占的《索尼克 梦之队》移植到安卓，引发「氛围编程」争议",
+   "summary": "世嘉与 Hardlight 2023 年 12 月在 Apple Arcade 独占推出的 3D 平台游戏《Sonic Dream Team》，被粉丝借助 AI 辅助的代码重编译做成非官方安卓移植，支持安卓 8 以上、64 位、Vulkan 及 4GB 内存设备，需玩家自备游戏文件。很多人欢呼终于能玩，也有人斥之为「氛围编程垃圾」。AI 让游戏重编译与跨平台移植门槛骤降，同时带来版权与质量争议。",
+   "links": [
+    "https://x.com/i/trending/2114823542823137759"
+   ],
+   "topic": "sonic-dream-team-android-ai-port-2026-10",
+   "firstSeen": "2026-10-27T10:45:06+08:00"
   }
  ],
- "lastChecked": "2026-10-27T10:29:26+08:00"
+ "lastChecked": "2026-10-27T10:45:06+08:00"
 }
