@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-27T21:30:36+08:00",
+ "lastUpdated": "2026-10-27T21:46:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22285,7 +22285,37 @@
    ],
    "topic": "anduril-qualcomm-bluechip-laptop",
    "firstSeen": "2026-10-27T21:30:36+08:00"
+  },
+  {
+   "id": "2a5ff59f93",
+   "title": "苹果 iMac 跳过 M5 直升 M6：首款 2nm 芯片，端侧 AI 性能较 M4 最高提升 5 倍，起售价 1499 美元不变",
+   "summary": "苹果在周三「Pro and Tell」发布会前抢先更新 iMac，搭载 8 月随 Mac mini 首发的 M6 芯片，这是苹果首款 2nm 芯片，配双 16 核神经引擎，官方称端侧 AI 性能较 M4 款最高提升 5 倍。基础款为 10 核 CPU + 10 核 GPU，售价 1499 美元（与此前 8 核 M4 款同价），12 核 CPU + 12 核 GPU 款起价 1699 美元；全系标配 Wi-Fi 7 与蓝牙 6，外观基本不变，雷雳接口数量限制沿用。10 月 28 日美东 13:10 开放预订，11 月 6 日正式发售。与同日发布的 M6 MacBook Pro 一起，苹果把「本地跑 AI」作为整条 Mac 产品线的主卖点。",
+   "links": [
+    "https://www.theverge.com/tech/1018467/apple-imac-m6-chip-announced-price-release"
+   ],
+   "topic": "apple-imac-m6",
+   "firstSeen": "2026-10-27T21:46:21+08:00"
+  },
+  {
+   "id": "2b1157bbf7",
+   "title": "福特 2.8 万美元电动皮卡 Fathom 内置 10kW 逆变器：车即家庭备用电源，联手五大电力公司简化 V2H 并网",
+   "summary": "福特公布下一代平台首款电动车 Fathom（售价约 2.8 万美元）的双向充电细节：不同于已停产的 F-150 Lightning 需外接昂贵的直流转交流墙体逆变器，Fathom 把逆变器集成进车载「E-box」，可直接输出 10kW 以上交流电，用于驱动家电、停电时为全屋供电或向电网反向送电。配套的 Ford Home Power Station 目标价比现有 1310 美元的充电桩便宜一半，全屋备电套装从约 5205 美元降到约 3123 美元（价格未最终确定）。福特还与 PG&E 等北美五大电力公司合作，减少用户申请车辆反向供电时的审批手续。Fathom 是福特 Universal EV Platform 首车，被其称为「T 型车时刻」，正式亮相还需数月。",
+   "links": [
+    "https://www.theverge.com/transportation/1018784/ford-fathom-bidirectional-charging-inverter-power-station-cost"
+   ],
+   "topic": "ford-fathom-v2h-inverter",
+   "firstSeen": "2026-10-27T21:46:21+08:00"
+  },
+  {
+   "id": "17fc845daf",
+   "title": "数据中心成美国中期选举跨党派议题：两党候选人竞相「反数据中心」，AI 超级政治行动委员会已砸下上亿美元",
+   "summary": "The Verge 报道，2026 年中期选举中数据中心建设是罕见能同时动员各类选民的议题：多地社区反对大规模建设及随之而来的电力、基建成本，候选人纷纷与数据中心保持距离，部分人甚至支持暂停新建。与此同时科技资金大举入场：由 a16z 创始人 Marc Andreessen 与 OpenAI 总裁 Greg Brockman 支持的超级 PAC「Leading the Future」一年已花 4500 万美元，Anthropic 支持的 Public First Action 称已募资 8000 万美元，新成立的 Tomorrow Together 投放 400 万美元广告聚焦数据中心与 AI 安全。在规划项目数仅次于弗吉尼亚的德州，两党参议员候选人都主张数据中心自担能源基建成本。",
+   "links": [
+    "https://www.theverge.com/policy/1019152/data-centers-midterm-elections"
+   ],
+   "topic": "data-center-backlash-midterms",
+   "firstSeen": "2026-10-27T21:46:21+08:00"
   }
  ],
- "lastChecked": "2026-10-27T21:30:36+08:00"
+ "lastChecked": "2026-10-27T21:46:21+08:00"
 }
