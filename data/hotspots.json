@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T08:54:05+08:00",
+ "lastUpdated": "2026-10-28T09:42:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22959,7 +22959,18 @@
    ],
    "topic": "borcherds-stops-grading-homework-ai",
    "firstSeen": "2026-10-28T08:54:05+08:00"
+  },
+  {
+   "id": "7396d0cbcf",
+   "title": "Greg Isenberg：「SaaS 正在变免费」——CRM、仪表盘、App 都白送，只对「替你干活的智能体」收费，引发按席位到按任务计价的大讨论",
+   "summary": "创业博主 Greg Isenberg 10 月 27 日发帖称「SaaS 正在变免费：送掉 CRM、送掉仪表盘、送掉 App，对干活的智能体收费」，几小时内近 10 万次浏览、1400 多赞、250 多条回复，并登上 X 热门话题。讨论把它比作「打印机便宜、墨盒贵」：软件界面成为获客入口，收入来自智能体完成的结果，例如 Intercom、Zendesk、Salesforce 已在免费或低价访问之外按「已解决工单」等结果收费；同日 Anthropic CEO Amodei 也谈到按产出价值定价。反对者指出核心平台的数据与流程仍有价值，智能体足够强时营收也可能被压平。对独立开发者而言，「免费工具 + 按结果收费的智能体」的定价与计量、结算基础设施是值得关注的机会。",
+   "links": [
+    "https://x.com/gregisenberg/status/2115172540238979474",
+    "https://x.com/i/trending/2115210097853071771"
+   ],
+   "topic": "saas-free-charge-for-agent-isenberg-2026-10-27",
+   "firstSeen": "2026-10-28T09:42:15+08:00"
   }
  ],
- "lastChecked": "2026-10-28T08:54:05+08:00"
+ "lastChecked": "2026-10-28T09:42:15+08:00"
 }
