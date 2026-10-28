@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T21:04:00+08:00",
+ "lastUpdated": "2026-10-28T21:29:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23543,7 +23543,19 @@
    ],
    "topic": "begin-capital-season-2-fund",
    "firstSeen": "2026-10-28T21:04:00+08:00"
+  },
+  {
+   "id": "e8132a4bde",
+   "title": "美国 FCC 批准亚马逊 115.7 亿美元收购 Globalstar：Amazon Leo 拿下手机直连卫星频谱，正面挑战星链",
+   "summary": "10 月 27 日美国联邦通信委员会（FCC）批准亚马逊卫星业务 Amazon Leo 以约 115.7 亿美元收购卫星运营商 Globalstar，10 月 28 日在 HN 引发讨论。亚马逊将获得 Globalstar 的卫星、地面设施和全球移动卫星服务（MSS）频谱，用于手机直连卫星（D2D），并接手为 iPhone、Apple Watch 提供卫星紧急求救等服务。亚马逊未公布新的交割时间，原计划 2027 年完成；Amazon Leo 计划 2029 年前部署约 3200 颗低轨卫星，自研 D2D 系统 2028 年起部署。",
+   "links": [
+    "https://www.satellitetoday.com/connectivity/2026/10/27/amazon-secures-fcc-approval-for-globalstar-acquisition/",
+    "https://www.investing.com/news/stock-market-news/us-agency-approves-amazon-leos-115-billion-acquisition-of-globalstar-4976614",
+    "https://news.ycombinator.com/item?id=50272145"
+   ],
+   "topic": "amazon-globalstar-fcc-approval",
+   "firstSeen": "2026-10-28T21:29:30+08:00"
   }
  ],
- "lastChecked": "2026-10-28T21:04:00+08:00"
+ "lastChecked": "2026-10-28T21:29:30+08:00"
 }
