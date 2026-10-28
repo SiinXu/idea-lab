@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T02:17:33+08:00",
+ "lastUpdated": "2026-10-29T02:29:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23804,7 +23804,18 @@
    ],
    "topic": "mac-studio-m5-ultra-512gb-2026-10-28",
    "firstSeen": "2026-10-29T02:17:33+08:00"
+  },
+  {
+   "id": "2365cd15a3",
+   "title": "指纹脚本里藏着「蓖麻毒素剂量」函数？安全研究者拆解发现：这是专门让大模型拒绝反混淆的「反 LLM」陷阱",
+   "summary": "nullpt.rs 作者用 Playwright 爬取 Tranco 前 1 万个网站、拦截 canvas 指纹调用，把 1,033 张指纹画布汇集到 fingerprint.garden。追查其中一张画布时，发现 servicepipe.tech 的反爬脚本里故意塞入「计算蓖麻毒素致死剂量」「阿司匹林致死剂量」等函数名，让 AI 助手触发安全护栏、拒绝帮忙反混淆。文章当天登上 HN 热榜，评论区还提到有人在个人主页里放「反 LLM 咒语」。这说明「对抗 AI 分析」正成为反爬与代码保护的新手法，也给用 AI 做逆向、安全审计的工具出了新难题。",
+   "links": [
+    "https://nullpt.rs/fingerprinting-bioweapons",
+    "https://news.ycombinator.com/item?id=50276998"
+   ],
+   "topic": "anti-llm-obfuscation-fingerprinting-2026-10-28",
+   "firstSeen": "2026-10-29T02:29:54+08:00"
   }
  ],
- "lastChecked": "2026-10-29T02:17:33+08:00"
+ "lastChecked": "2026-10-29T02:29:54+08:00"
 }
