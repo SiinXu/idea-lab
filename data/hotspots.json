@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T13:12:03+08:00",
+ "lastUpdated": "2026-10-28T13:24:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23208,7 +23208,18 @@
    ],
    "topic": "designers-ai-slop-debate-2026-10-28",
    "firstSeen": "2026-10-28T13:12:03+08:00"
+  },
+  {
+   "id": "76fdffc32e",
+   "title": "亚马逊改写软件工程师（SDE）岗位准则：只看交付成果、不规定用什么 AI 工具，但承认用 token 用量等指标考核，并盯住采用率最低 10% 的团队",
+   "summary": "亚马逊全球商城副总裁兼杰出工程师 Terk Terkowitz 公开了一份发给全体 SDE 的内部备忘录：资深首席与杰出工程师们讨论后决定，新版岗位准则不写死 AI 实践，而是聚焦「对客户、业务和团队的影响」这些不会变的东西，并提出「文艺复兴式开发者」——AI 工具加上人的判断与领域知识。备忘录坦言 token 用量、AI 工具采用率、代码变更量等输入指标「有严重缺陷」，可能诱发「token 刷量」和堆代码，但称它们目前与产出相关性良好，可「谨慎」用于评估，建议重点关注 AI 采用率最低 10% 和最高 10% 的团队。趋势信号：大厂开始把 AI 采用率写进考核语境，衡量 AI 编码真实产出（而不只是用量）的工程效能工具会有需求。",
+   "links": [
+    "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
+    "https://news.ycombinator.com/item?id=50268075"
+   ],
+   "topic": "amazon-sde-role-guideline-ai-2026-10-28",
+   "firstSeen": "2026-10-28T13:24:57+08:00"
   }
  ],
- "lastChecked": "2026-10-28T13:12:03+08:00"
+ "lastChecked": "2026-10-28T13:24:57+08:00"
 }
