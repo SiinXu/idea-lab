@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T18:45:51+08:00",
+ "lastUpdated": "2026-10-28T18:59:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23442,7 +23442,17 @@
    ],
    "topic": "bofa-email-no-ai-agent-logins-2026-10-28",
    "firstSeen": "2026-10-28T18:45:51+08:00"
+  },
+  {
+   "id": "452e2c221b",
+   "title": "荷兰议员提议吸引 Anthropic 到阿姆斯特丹上市以便征税和管控其 AI，遭网友群嘲",
+   "summary": "10 月 28 日 X 热议：荷兰 VVD 党议员、数字政策出身的 Queeny Rajkowski 在议会辩论中提出，邀请 Anthropic 这类 AI 巨头到阿姆斯特丹交易所上市，让荷兰能对其征税并约束其技术使用。此时 Anthropic 刚提交纳斯达克上市申请。网友批评这一提议脱离现实：企业上市选址看重低负担和自由度，而不是更重的税和监管，相关讨论迅速演变成《蠢蛋进化论》梗图。这也反映出欧洲在吸引 AI 资本与强监管之间的两难。",
+   "links": [
+    "https://x.com/i/trending/2115241066781925448"
+   ],
+   "topic": "dutch-mp-anthropic-amsterdam-ipo-backlash",
+   "firstSeen": "2026-10-28T18:59:42+08:00"
   }
  ],
- "lastChecked": "2026-10-28T18:45:51+08:00"
+ "lastChecked": "2026-10-28T18:59:42+08:00"
 }
