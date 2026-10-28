@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T19:55:19+08:00",
+ "lastUpdated": "2026-10-28T20:13:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23493,7 +23493,17 @@
    ],
    "topic": "emudhra-apple-macos-git-still-trusts",
    "firstSeen": "2026-10-28T19:55:19+08:00"
+  },
+  {
+   "id": "1c2bcb2418",
+   "title": "企业 AI 落地仍处早期：Sarah Guo 称不到 1% 的工作流用上真正的智能体，Andy Jassy 描述「哑铃型」需求",
+   "summary": "10 月 28 日 X 热议：投资人 Sarah Guo 形容多数企业还停留在「自动补全 / 早期 Claude Code 时代」，真正由智能体驱动的工作流不到 1%。亚马逊 CEO Andy Jassy 则把需求描述为哑铃型：一端是 AI 实验室的爆发式用量，另一端是企业里有针对性的局部提效，中间大片主流业务负载几乎没被触及。Box CEO Aaron Levie 认为智能体集群等新工具可能先改造金融、医疗里的复杂流程；讨论焦点也从「替代岗位」转向「AI 帮人更快完成工作、学习技能」。趋势信号：面向中间层主流业务流程的垂直智能体与落地服务仍是大片空白市场。",
+   "links": [
+    "https://x.com/i/trending/2115359682533675258"
+   ],
+   "topic": "enterprise-ai-adoption-barbell-jassy-guo",
+   "firstSeen": "2026-10-28T20:13:19+08:00"
   }
  ],
- "lastChecked": "2026-10-28T19:55:19+08:00"
+ "lastChecked": "2026-10-28T20:13:19+08:00"
 }
