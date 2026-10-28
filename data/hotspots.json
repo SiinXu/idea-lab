@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T05:46:47+08:00",
+ "lastUpdated": "2026-10-29T06:02:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23945,7 +23945,50 @@
    ],
    "topic": "",
    "firstSeen": "2026-10-29T05:46:47+08:00"
+  },
+  {
+   "id": "1134b6a176",
+   "title": "微软首次公布 Azure 季度收入：单季 332 亿美元、同比增 48%，OpenAI 一家贡献 100 亿美元收入",
+   "summary": "TechCrunch 10 月 28 日报道：微软在 7–9 月季度财报中首次以美元公开 Azure 收入——332 亿美元，同比增长 48%，此前只给增速百分比。微软当季总收入 923 亿美元，连续第 10 个季度创纪录；监管文件还显示，来自 OpenAI 的商业合作（含分成）收入达 100 亿美元，约占总收入 11%。意义在于：投资者终于能把 Azure 与 AWS、谷歌云直接对比，同时也说明微软与 OpenAI 虽然越来越多正面竞争，财务上仍深度绑定。",
+   "links": [
+    "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027"
+   ],
+   "topic": "microsoft-q1-fy27-azure-dollars",
+   "firstSeen": "2026-10-29T06:02:45+08:00"
+  },
+  {
+   "id": "9b7dd4a7a6",
+   "title": "谷歌把 AI 搜索广告推向全球：传统搜索广告增速继续放缓，Alphabet 财报后股价跌 8%",
+   "summary": "TechCrunch 10 月 28 日报道：谷歌在 Alphabet 三季度财报电话会上宣布，把 AI 驱动的搜索体验（AI 概览、AI Mode 等）中的广告扩展到国际市场，押注生成式 AI 带来新的变现空间。虽然当季营收 1276 亿美元、同比增 25%，但核心搜索广告增速持续放缓，股价随后下跌 8%。对做内容站和 SEO 的人来说，这意味着 AI 答案里的广告位会成为新的流量和投放战场，AI 搜索可见度（GEO）的重要性进一步上升。",
+   "links": [
+    "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026"
+   ],
+   "topic": "google-ai-search-ads-global",
+   "firstSeen": "2026-10-29T06:02:45+08:00"
+  },
+  {
+   "id": "ea370fdd96",
+   "title": "Anthropic 推出企业「AI 花销看板」：按团队看产出、成本和流程卡点，还能设共享 token 预算",
+   "summary": "TechCrunch 10 月 28 日报道：Anthropic 发布一套企业报告工具，管理者可按时间段查看团队用 Claude 做了什么、产出了什么、花了多少钱、流程在哪里卡住，并给出改进建议；同时推出团队共享的 token 预算池。Anthropic 称默认不会用这些数据训练模型。背景是其向投资者披露 Claude Code 带动二季度经营盈利、客户净收入留存高达 900%，但多数财富 500 强仍未从 AI 中看到明显收益。「证明 AI 投入回报」正在成为企业 AI 的下一个刚需，也是第三方 AI 成本/ROI 分析工具的机会。",
+   "links": [
+    "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
+   ],
+   "topic": "anthropic-enterprise-roi-reports",
+   "firstSeen": "2026-10-29T06:02:45+08:00"
+  },
+  {
+   "id": "8a483cf915",
+   "title": "Akai 拥抱「氛围编程」改机：未发布的 MPC Sample Key 将开源固件，提前开放给黑客社区做魔改",
+   "summary": "The Verge 10 月 28 日报道：Akai 即将推出 37 键的 MPC Sample Key（平价款 MPC Sample 的键盘版，用琴键代替打击垫触发采样），固件将开源。产品尚未正式发布，Akai 就已提前把设备交给改机和自制固件社区，并在 Instagram 上展示玩家用 AI「氛围编程」做出的各种魔改。这是硬件厂商主动把 AI 编程社区当作生态的一个信号：开源固件 + 人人能用 AI 写插件，可能让小众硬件靠社区功能迭代获得更长生命周期。",
+   "links": [
+    "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key"
+   ],
+   "topic": "akai-mpc-sample-key-open-source",
+   "firstSeen": "2026-10-29T06:02:45+08:00"
   }
  ],
- "lastChecked": "2026-10-29T05:46:47+08:00"
+ "lastChecked": "2026-10-29T06:02:45+08:00"
 }
