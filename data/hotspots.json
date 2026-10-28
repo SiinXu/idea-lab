@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T07:43:37+08:00",
+ "lastUpdated": "2026-10-29T07:56:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24061,7 +24061,30 @@
    ],
    "topic": "upwind-400m-series-c-rejects-datadog",
    "firstSeen": "2026-10-29T07:43:37+08:00"
+  },
+  {
+   "id": "194ab4b69c",
+   "title": "GitHub Universe 发布 Copilot Fusion：不再手选模型，自动路由+多模型互审，编码成绩逼近 Opus 5.5 Max、成本减半",
+   "summary": "GitHub 10 月 28 日在 Universe 大会上宣布 Copilot Fusion 正式可用：它不是一个模型，而是运行时的模型路由与编排系统，取代原来的 Auto 选项。用户只选 Standard / High / Max 三档力度，系统按任务在三种模式间切换：Single（单模型直接做）、Cascade（便宜模型先写，评审不过再升级到强模型）、Critique（一个模型起草、多个模型并行挑错后再修改）。官方称在 Artificial Analysis 编码智能体指数上 Fusion Max 得 60 分，距 Claude Code + Opus 5.5 Max 仅 2 分，但单任务 API 成本约一半、token 少一半、耗时少约 40%；JetBrains 同步上线，首 30 天打七折。信号：「模型编排层」正在成为 AI 编码产品的新竞争点，按任务自动选模型、多模型互审的做法值得在自家智能体里复用。",
+   "links": [
+    "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/",
+    "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+    "https://venturebeat.com/orchestration/github-copilot-fusion-mixes-models-to-achieve-near-opus-5-5-coding-performance-at-half-the-per-task-cost"
+   ],
+   "topic": "github-copilot-fusion-ga",
+   "firstSeen": "2026-10-29T07:56:33+08:00"
+  },
+  {
+   "id": "daf250fcf8",
+   "title": "GitHub 9 月提交量达 74 亿次，主要来自 AI 智能体：一年内加装 400 万 CPU 核和 160 PB 存储，并重构为存算分离架构",
+   "summary": "The New Stack 10 月 28 日报道：GitHub 在 Universe 大会上披露，平台月提交量已到 74 亿次，而 8 月还是 29 亿、4 月 14 亿，2024 年每月只有约 6500 万次。官方把暴涨归因于「智能体需求」，这也是近来 GitHub 频繁宕机的原因。为了扛住流量，GitHub 今年已新增 400 万 CPU 核（主要在 Azure 上）、160 PB 高速存储、更多 Actions 算力和 50 Tb/s 网络带宽，并正把平台重构为计算与存储分离的架构，内部测试写入吞吐最高提升 35 倍。微软 Core AI 执行副总裁 Jay Parikh 称「智能体正在改变软件开发的体量和形态」。信号：AI 智能体生成的代码量已经压垮传统代码托管基础设施，面向智能体的 Git 托管、CI 和代码审查工具是明确的机会。",
+   "links": [
+    "https://thenewstack.io/github-7-4b-commits-september/",
+    "https://news.ycombinator.com/item?id=50279722"
+   ],
+   "topic": "github-7-4b-commits-agentic-demand",
+   "firstSeen": "2026-10-29T07:56:33+08:00"
   }
  ],
- "lastChecked": "2026-10-29T07:43:37+08:00"
+ "lastChecked": "2026-10-29T07:56:33+08:00"
 }
