@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T21:29:30+08:00",
+ "lastUpdated": "2026-10-28T21:42:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23555,7 +23555,18 @@
    ],
    "topic": "amazon-globalstar-fcc-approval",
    "firstSeen": "2026-10-28T21:29:30+08:00"
+  },
+  {
+   "id": "bb78f42c7c",
+   "title": "WIRED 调查：ICE 下属 HSI 大规模监控左翼活动人士，Fly.io 部署记录、Stripe 卡指纹、15TB Signal 群聊和数据经纪商资料被拼成个人档案",
+   "summary": "WIRED 10 月 28 日发布调查，依据明尼苏达「Minnesota 15」案的取证材料，披露美国移民与海关执法局（ICE）下属国土安全调查处（HSI）约 120 名探员、11 名卧底参与对反 ICE 活动人士的监控。技术细节最受关注：一名活动人士把车牌查询工具部署在 Fly.io 上，探员结合 DNS 查询、Stripe 数据（含未完成付款账户的卡指纹）、SSH 会话日志、注册 IP 和商业数据经纪商 Thomson Reuters CLEAR，还原出驾照号、住址史和电话等；另有约 15TB 被卧底渗透的 Signal 群聊记录，以及爱国者法案下的金融查询。文章发布不到一小时在 HN 冲上首页，引发对开发者平台数据留存和隐私的讨论。",
+   "links": [
+    "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+    "https://news.ycombinator.com/item?id=50272749"
+   ],
+   "topic": "wired-ice-hsi-surveillance-flyio-stripe",
+   "firstSeen": "2026-10-28T21:42:03+08:00"
   }
  ],
- "lastChecked": "2026-10-28T21:29:30+08:00"
+ "lastChecked": "2026-10-28T21:42:03+08:00"
 }
