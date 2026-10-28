@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T10:43:42+08:00",
+ "lastUpdated": "2026-10-28T11:15:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23053,7 +23053,48 @@
    ],
    "topic": "oncologist-ai-wont-cure-cancer-debate-2026-10-28",
    "firstSeen": "2026-10-28T10:43:42+08:00"
+  },
+  {
+   "id": "b1c438fbcf",
+   "title": "Cognition 发布 FrontierCode 2.0：按「维护者愿不愿意合并」打分，Claude Opus 5.5 以 45.5% 居首，GPT-6 Astra 42.8%",
+   "summary": "FrontierCode 2.0 从真实开源仓库选出 132 个任务，每个任务由维护者投入 40 多小时制定合并标准，严格按「能否被合并」评分，并刻意保留真实工程里的模糊需求。结果 Claude Opus 5.5 以 45.5% 领先，GPT-6 Astra 42.8%、Claude Sonnet 5.5 41%，整体分数比上一版明显下降。该基准已被 Artificial Analysis 纳入智能指数 v5，开发者普遍认为它更贴近日常体验：智能体常在周全性和副作用上翻车。对做编码智能体的团队来说，「可合并率」可能取代「通过测试率」成为新卖点。",
+   "links": [
+    "https://x.com/i/trending/2115193409178673662"
+   ],
+   "topic": "frontiercode-2-2026-10-27",
+   "firstSeen": "2026-10-28T11:15:12+08:00"
+  },
+  {
+   "id": "a1036cc589",
+   "title": "美光放弃研发 20 多年的 4F² DRAM 架构，继续沿用 6F²；三星、SK 海力士和长鑫却在加码",
+   "summary": "美光在路线图发布会上宣布不再把 4F² 单元结构推向量产。首席技术官 Scott DeBoer 表示，DRAM 密度最终受电容间距限制，从 6F² 缩到 4F² 在纸面上能省约三分之一面积，实际收益有限，成本和复杂度却大增。与此形成对比的是，三星、SK 海力士和长鑫存储都在推进 4F²，长鑫称年底前就会有 4F² 的服务器 DDR5 内存条。在 AI 带动存储紧缺的背景下，这场技术路线分歧会影响未来几年的内存成本和供应格局，HN 上讨论热烈。",
+   "links": [
+    "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+    "https://news.ycombinator.com/item?id=50245014"
+   ],
+   "topic": "micron-drops-4f2-dram-2026-10",
+   "firstSeen": "2026-10-28T11:15:12+08:00"
+  },
+  {
+   "id": "1e33197fe5",
+   "title": "彼得·蒂尔：AI 让知识变得廉价，人际关系、说服力和讲故事会更值钱，「我们会回到 1800 年代握手做生意」",
+   "summary": "Palantir 联合创始人彼得·蒂尔在沃尔特·艾萨克森的播客《The Builders》中被问到 AI 时代人类的独特价值，停顿约 30 秒后回答：人本质上是关系型动物，随着 AI 接管常规脑力工作，人脉、说服、讲故事甚至陪客户打高尔夫都会更重要。网友把这一观点与经济学家 Alex Imas 的「后商品经济」联系起来，认为价值会流向医疗、教育、个人服务等需要共情的岗位。对个人创业者的启示是：AI 产品之外，基于信任和社群的业务护城河可能更深。",
+   "links": [
+    "https://x.com/i/trending/2115241068254106014"
+   ],
+   "topic": "thiel-relational-value-ai-2026-10-27",
+   "firstSeen": "2026-10-28T11:15:12+08:00"
+  },
+  {
+   "id": "e1b4f27e32",
+   "title": "LAIKA 新片《Wildwood》烂番茄 100% 好评，导演 Travis Knight 公开承诺工作室「永不使用生成式 AI」，称其为「盗窃」",
+   "summary": "LAIKA 历时 16 年打造的定格动画《Wildwood》上映后获得烂番茄影评人 100% 好评，片中包含定格动画史上规模最大的战斗场面。身兼 CEO 和导演的 Travis Knight 表示生成式 AI 是「盗窃」、缺乏人的精神，工作室将坚持全手工制作，同时承认 AI 在医疗上有潜力。几乎同一时间，Grok Imagine 参与的 AI 短片《奥德赛》也在 X 上引发争论。「纯手工 / 无 AI」正在成为一种可营销的标签，内容创作者可以关注「人类制作认证」类需求。",
+   "links": [
+    "https://x.com/i/trending/2115162224650006766"
+   ],
+   "topic": "laika-wildwood-no-ai-2026-10-27",
+   "firstSeen": "2026-10-28T11:15:12+08:00"
   }
  ],
- "lastChecked": "2026-10-28T10:43:42+08:00"
+ "lastChecked": "2026-10-28T11:15:12+08:00"
 }
