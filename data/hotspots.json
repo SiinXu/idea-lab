@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T21:42:03+08:00",
+ "lastUpdated": "2026-10-28T21:57:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23566,7 +23566,29 @@
    ],
    "topic": "wired-ice-hsi-surveillance-flyio-stripe",
    "firstSeen": "2026-10-28T21:42:03+08:00"
+  },
+  {
+   "id": "31ebe027e4",
+   "title": "肯塔基大学员工成首位获「免用 AI」宗教豁免的人文主义者：Title VII 第一次被用来拒绝 AI 工具",
+   "summary": "据宗教新闻社（RNS）10 月 26 日报道、10 月 28 日登上 HN：肯塔基大学科研行政人员 David Durman 在美国人文主义协会（AHA）协助下，依据美国民权法第七章（Title VII）申请宗教信仰便利，理由是使用 ChatGPT、Claude、Teams Copilot 等工具会让他把思考和道德判断外包给机器。校方 9 月 25 日批准，认定不构成过度负担；他仍需参加涉及 AI 的会议、通过带 AI 的平台提交材料。AHA 称这是人文主义者首例 AI 豁免，此前 5 月已有一位一神普救派信徒获类似豁免。信号：企业强推 AI 的同时，「拒用 AI」开始走向制度化，HR 合规和「无 AI」工作流可能成为新需求。",
+   "links": [
+    "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+    "https://americanhumanist.org/news/humanist-secures-workplace-accommodations-from-personal-ai-use-on-the-basis-of-his-beliefs/",
+    "https://news.ycombinator.com/item?id=50273396"
+   ],
+   "topic": "humanist-ai-religious-exemption-kentucky",
+   "firstSeen": "2026-10-28T21:57:25+08:00"
+  },
+  {
+   "id": "08b1808058",
+   "title": "X 热议传闻：OpenAI、Anthropic 近期数学与物理证明突破，或源自游戏与模拟环境中的强化学习",
+   "summary": "10 月 28 日 X 热门话题：有帖子称 OpenAI 和 Anthropic 最近在物理猜想和计算机科学难题上的 AI 证明，来自在游戏和模拟环境里做强化学习，自我对弈学到的策略迁移到了纳维-斯托克斯方程等真实问题上；开源项目 Agent Reinforcement Trainer 展示了小模型借助 LLM 评审对整局轨迹打分来学会 2048。注意：这是未经两家公司证实的传闻，评论里也有不少怀疑声音。趋势信号：强化学习正转向更丰富的交互环境，「为 AI 造训练环境」可能是新的创业方向。",
+   "links": [
+    "https://x.com/i/trending/2115440529198465376"
+   ],
+   "topic": "rumor-game-rl-math-breakthroughs-2026-10-28",
+   "firstSeen": "2026-10-28T21:57:25+08:00"
   }
  ],
- "lastChecked": "2026-10-28T21:42:03+08:00"
+ "lastChecked": "2026-10-28T21:57:25+08:00"
 }
