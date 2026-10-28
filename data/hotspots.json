@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T01:28:24+08:00",
+ "lastUpdated": "2026-10-29T01:42:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23771,7 +23771,29 @@
    ],
    "topic": "gemini-4-carbon-launch",
    "firstSeen": "2026-10-29T01:28:24+08:00"
+  },
+  {
+   "id": "e8712e0e20",
+   "title": "SK 海力士：DRAM 与 HBM 产能到 2029 年「基本售罄」，内存短缺或持续到 2030 年",
+   "summary": "10 月 28 日 PCMag 报道，SK 海力士在最新财报电话会上表示，已与 14 家核心客户（含全球主要云服务商）签下长期供货协议，2027、2028 年超过一半产能已被锁定，加上正在洽谈的需求，未来三年到 2029 年的 DRAM 和 HBM 产能「实际上已售罄」，并预计内存需求到 2030 年都会超过供给。公司正加速扩产，但新厂建设需要数年，短期难以完全满足需求。据 Counterpoint 数据，SK 海力士二季度 DRAM 份额 25%，仅次于三星。该消息正在 Hacker News 升温。趋势信号：AI 算力抢占内存产能，PC、手机和服务器的内存涨价与缺货会长期化，推理侧的显存/内存优化、模型压缩和二手硬件市场都将受益。",
+   "links": [
+    "https://www.pcmag.com/news/sk-hynix-major-memory-vendor-basically-sold-out-through-2029",
+    "https://news.ycombinator.com/item?id=50276235"
+   ],
+   "topic": "skhynix-dram-hbm-sold-out-2029",
+   "firstSeen": "2026-10-29T01:42:50+08:00"
+  },
+  {
+   "id": "feb4caa835",
+   "title": "谷歌研究院提出「睡眠框架」：让大模型像人一样在离线「睡觉」时巩固记忆，持续学习新知识",
+   "summary": "Google Research 10 月 27 日发文介绍 sleep framework：让部署后的大模型在「清醒」阶段正常交互、把新信息暂存在短期记忆里，再在离线「睡眠」阶段暂停接收输入，解锁预留的 MoE 低秩专家模块，用自己生成的练习样本更新权重，把短期上下文巩固为长期参数，并通过「做梦」式自我练习提升推理。作者称该方法能缓解灾难性遗忘和固定知识截止日期的问题，持续吸收新事实，长上下文知识保留可达 1000 万 token。该文已登上 Hacker News。趋势信号：「模型上线后还能自我更新」正成为下一代 AI 助手的竞争点，个人/企业专属记忆、持续微调服务和遗忘评测会出现新需求。",
+   "links": [
+    "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "https://news.ycombinator.com/item?id=50272479"
+   ],
+   "topic": "google-sleep-framework-continual-learning",
+   "firstSeen": "2026-10-29T01:42:50+08:00"
   }
  ],
- "lastChecked": "2026-10-29T01:28:24+08:00"
+ "lastChecked": "2026-10-29T01:42:50+08:00"
 }
