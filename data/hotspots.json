@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T17:39:17+08:00",
+ "lastUpdated": "2026-10-28T17:56:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23401,7 +23401,27 @@
    ],
    "topic": "amazon-renaissance-developer-memo",
    "firstSeen": "2026-10-28T17:39:17+08:00"
+  },
+  {
+   "id": "fa3fef9de5",
+   "title": "Revolut 设计团队把设计系统喂给大模型，可点击原型产出快 3–4 倍，「设计直接出代码」引发 Figma 去留之争",
+   "summary": "10 月 28 日 X 热议：Revolut CEO 发现有团队把公司设计系统交给 LLM，直接生成可交互的界面流程，速度比传统 Figma 流程快 3–4 倍，计划在公司内推广。Rasmus Andersson 等设计师反驳称设计的核心是深思熟虑的沟通而非速度；更多人选择混合流程：先在 Figma 草绘，再用 Claude 等工具细化成代码。趋势信号：「代码化设计系统」正成为新标准，把企业设计系统转成 AI 可调用规范的工具与服务有机会。",
+   "links": [
+    "https://x.com/i/trending/2114997767961813168"
+   ],
+   "topic": "revolut-design-system-llm-prototyping",
+   "firstSeen": "2026-10-28T17:56:55+08:00"
+  },
+  {
+   "id": "90e69bbe36",
+   "title": "T3 Code 新版接入 T3 Chat 账号、Premier 用户可开 100 条远程隧道，Linux 下建 worktree 仅 3.8 秒",
+   "summary": "10 月 28 日 X 热议：Theo 的开源工具 T3 Code（MIT 许可，在一个界面里统一管理 Claude、Cursor 等 AI 编程智能体）今年初发布后已获数万 GitHub 星标。最新更新支持绑定 T3 Chat 账号以获得更多远程隧道（Premier 用户最多 100 条），Linux 上创建 worktree 约 3.8 秒，而 macOS 约 30 秒。用户称赞其多项目并行和每日发版。趋势信号：「多智能体编程调度台」成为开发者刚需，围绕并行 worktree、远程运行的工具链在快速成形。",
+   "links": [
+    "https://x.com/i/trending/2115375339438293100"
+   ],
+   "topic": "t3-code-tunnels-linux-speed",
+   "firstSeen": "2026-10-28T17:56:55+08:00"
   }
  ],
- "lastChecked": "2026-10-28T17:39:17+08:00"
+ "lastChecked": "2026-10-28T17:56:55+08:00"
 }
