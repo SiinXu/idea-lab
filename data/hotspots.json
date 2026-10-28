@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T03:23:00+08:00",
+ "lastUpdated": "2026-10-29T03:39:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23868,7 +23868,18 @@
    ],
    "topic": "show-hn-slidebyside-2026-10-28",
    "firstSeen": "2026-10-29T03:23:00+08:00"
+  },
+  {
+   "id": "29e21057e0",
+   "title": "Particle 发布首个模型 Particle-1：基于 DeepSeek V4.1 Flash 做强化学习「省 token」训练，编程任务平均少用约 45% token、单任务成本降三到五成",
+   "summary": "新公司 Particle 于 10 月 28 日发布 Particle-1，在 DeepSeek V4.1 Flash 基础上用自建强化学习环境做后训练，奖励函数鼓励在保持正确率的同时减少推理和工具调用的 token。官方称在 Terminal-Bench 2.1、ReactBench、ADE Bench、DeepSWE 1.1 四个基准上输出 token 少 28.4%–52.2%，单任务平均成本低 34.4%–51.6%，通过率与基座相当；GPQA、MMLU 等通用基准也基本持平。首版聚焦软件工程，后续扩展到其他领域，当天上了 HN。意义在于：「用更少 token 完成同样的事」正成为模型竞争的新维度，直接压低编程智能体的使用成本和等待时间。",
+   "links": [
+    "https://particle.ai/blog/introducing-particle-1",
+    "https://news.ycombinator.com/item?id=50277764"
+   ],
+   "topic": "particle-1-token-efficient-model-2026-10-28",
+   "firstSeen": "2026-10-29T03:39:26+08:00"
   }
  ],
- "lastChecked": "2026-10-29T03:23:00+08:00"
+ "lastChecked": "2026-10-29T03:39:26+08:00"
 }
