@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T12:23:23+08:00",
+ "lastUpdated": "2026-10-28T12:42:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23165,7 +23165,17 @@
    ],
    "topic": "cursor-design-mode-annotate-2026-10-28",
    "firstSeen": "2026-10-28T12:23:23+08:00"
+  },
+  {
+   "id": "143cde4d7e",
+   "title": "Meta AI 智能体 Muse 登陆新加坡：接入 Grab、Shopee、Lazada、新航等本地应用，代办购物、订行程和日程",
+   "summary": "继美国和日本之后，Meta 于 10 月 28 日在新加坡上线 AI 智能体 Muse，提供 iOS、Android 和网页版。Muse 在安全云环境中运行，涉及付款等敏感操作会先征求用户许可，并接入 Grab、Shopee、Lazada、新加坡航空、Trip.com 等本地服务，提供免费版和付费套餐。Meta 新加坡的 Nicole Tan 表示它旨在简化日常生活，吉祥物 Jolly 的本地化梗图和邀请码在 X 上传播。趋势信号：大厂智能体正按国家逐个接入本地超级应用，东南亚本地服务商的「对 Agent 开放接口」和本地化智能体技能有先发机会。",
+   "links": [
+    "https://x.com/i/trending/2115291381774340377"
+   ],
+   "topic": "meta-muse-singapore-launch-2026-10-28",
+   "firstSeen": "2026-10-28T12:42:52+08:00"
   }
  ],
- "lastChecked": "2026-10-28T12:23:23+08:00"
+ "lastChecked": "2026-10-28T12:42:52+08:00"
 }
