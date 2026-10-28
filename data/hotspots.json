@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T06:44:26+08:00",
+ "lastUpdated": "2026-10-29T07:01:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24029,7 +24029,29 @@
    ],
    "topic": "pdf-aes256-weak-key-mupdf-foxit",
    "firstSeen": "2026-10-29T06:44:26+08:00"
+  },
+  {
+   "id": "a74983853e",
+   "title": "Cartesia 发布「从 Token 到字节」研究：分层网络 H-Net 去掉分词器，比同规模 SmolLM3 省 10 倍算力和数据",
+   "summary": "语音 AI 公司 Cartesia 10 月 28 日发布研究博客（当天上 Hacker News）：他们的分层网络 H-Net 直接在模型内部把字节动态切块成词、短语和概念，替代传统 BPE 分词器。单阶段 H-Net 仅靠学到的切分方式就带来 3–5 倍计算效率提升；按 Hugging Face SmolLM3-3B 的公开配方复现对比，两阶段字节级 H-Net 用约十分之一的算力和数据达到同等水平，还出现「上下文内分词」等新行为，并在生物和视觉数据上做了早期实验。若结论站得住，无分词器的字节级模型可能成为下一代大模型架构方向，对多语言（尤其中文等非英文）和代码、基因序列等原始数据场景意义较大。第二篇将解释效率来源。",
+   "links": [
+    "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
+    "https://news.ycombinator.com/item?id=50278253"
+   ],
+   "topic": "cartesia-hnet-tokens-to-bytes",
+   "firstSeen": "2026-10-29T07:01:05+08:00"
+  },
+  {
+   "id": "9064885eb2",
+   "title": "「Claude Code 帮我找到 14.5 万张已永久删除的 iPhone 照片」：网友称 iOS 缩略图缓存长期保留已删内容，引发隐私讨论",
+   "summary": "X 用户 @coolerwave 10 月 28 日发帖称：用 Claude Code 对 iPhone 备份做安全审计时，在 PhotoData/Thumbnails 目录发现 145,763 个文件，全是 2021 年以来已删除（包括清空「最近删除」）的照片、视频和截图，含护照照、银行截图、助记词等，部分为原分辨率；他认为这是为 Spotlight 搜索保留的缓存且从不清理，并建议检查有「文件和文件夹」权限的 App。该说法目前仅为个人帖文，尚无苹果回应或独立复现，帖子发出不久即冲上 Hacker News。无论结论是否成立，都提示两点：AI 编程助手正被普通人拿来做设备安全审计；敏感照片别只靠「删除」，可定期检查 App 文件访问权限。",
+   "links": [
+    "https://x.com/i/status/2114088769112477849",
+    "https://news.ycombinator.com/item?id=50281902"
+   ],
+   "topic": "iphone-deleted-photos-thumbnail-cache-claude-code",
+   "firstSeen": "2026-10-29T07:01:05+08:00"
   }
  ],
- "lastChecked": "2026-10-29T06:44:26+08:00"
+ "lastChecked": "2026-10-29T07:01:05+08:00"
 }
