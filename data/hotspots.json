@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T07:42:50+08:00",
+ "lastUpdated": "2026-10-28T08:01:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22897,7 +22897,29 @@
    ],
    "topic": "superplane-1-0",
    "firstSeen": "2026-10-28T07:42:50+08:00"
+  },
+  {
+   "id": "9d02bbba00",
+   "title": "UEFI 固件参考代码 EDK2 曝 9.5 分高危漏洞：开机阶段即可执行恶意代码，全球大多数服务器受影响，补丁提前泄露打乱协调披露",
+   "summary": "Ars Technica 10 月 27 日报道，TianoCore EDK II 网络栈的 ICMP 解析组件存在内存破坏漏洞 CVE-2026-97631（严重度 9.5/10），攻击者可在操作系统和安全启动生效之前执行代码，绕开信任链。AMI、Insyde、Phoenix 等几乎所有 UEFI 厂商以及微软的 Project Mu 都使用这份参考代码。漏洞由 Anthropic 的 Alex Matrosov 与谷歌的 Dan Holmes 发现，原定明年 1 月协调披露，但 AMI 上月公开的修复 PR 提前暴露了细节，TianoCore 上周被迫发布公告。这是 PHP2Shell 之后又一次「披露翻车」，固件补丁要经数千家硬件和云厂商层层下发，修复窗口会很长；面向数据中心的固件资产盘点与补丁追踪工具有现实需求。",
+   "links": [
+    "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+    "https://news.ycombinator.com/item?id=50265393"
+   ],
+   "topic": "edk2-uefi-cve-2026-97631",
+   "firstSeen": "2026-10-28T08:01:07+08:00"
+  },
+  {
+   "id": "31f8547640",
+   "title": "Anthropic 扩大与美国总务署合作：联邦到州和地方政府买 Claude 一律打六折，无最低消费，预计为政府省 10 亿美元",
+   "summary": "Anthropic 10 月 27 日宣布与美国总务署（GSA）签署新协议：Claude Enterprise、Claude for Government 和 Claude API 对政府客户统一 40% 折扣，首次覆盖所有购买渠道（直购以及未来数月的云厂商渠道），并延伸到州、地方、部落和领地政府，按用量付费、无最低承诺，并配套专门的落地实施计划。官方称约 500 个美国各级政府机构已在用 Claude，政府版周活跃用户自 2 月以来增长约 8 倍；犹他州给 10 个机构的 34 名开发者发 Claude Code，71% 在四周试点中节省 20 小时以上。大模型厂商正在以价格战抢占政府市场，面向政务的遗留代码迁移、文档梳理和合规落地服务是跟进机会。",
+   "links": [
+    "https://www.anthropic.com/news/expanding-partnership-gsa",
+    "https://news.ycombinator.com/item?id=50266701"
+   ],
+   "topic": "anthropic-gsa-discount-2026-10",
+   "firstSeen": "2026-10-28T08:01:07+08:00"
   }
  ],
- "lastChecked": "2026-10-28T07:42:50+08:00"
+ "lastChecked": "2026-10-28T08:01:07+08:00"
 }
