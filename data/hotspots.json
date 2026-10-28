@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T06:02:45+08:00",
+ "lastUpdated": "2026-10-29T06:17:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23988,7 +23988,17 @@
    ],
    "topic": "akai-mpc-sample-key-open-source",
    "firstSeen": "2026-10-29T06:02:45+08:00"
+  },
+  {
+   "id": "a053e251bf",
+   "title": "Readwise 推出 Readwise Books：从「高亮笔记工具」升级为买书、读书、讨论一体的电子书平台，叫板 Kindle 和 Kobo",
+   "summary": "The Verge 10 月 28 日报道：长期为重度读者做工具的 Readwise（Kindle 高亮管理、稍后读应用 Reader）推出 Readwise Books，集购买电子书、阅读和围绕书籍讨论于一体，目前处于内测阶段，仅限邀请或现有订阅用户使用。这是垂直工具型产品从「依附 Kindle 生态」走向自建内容与交易闭环的一次尝试；对独立开发者来说，「围绕重度用户的阅读、笔记、AI 总结与社群」仍是可切入的细分机会。",
+   "links": [
+    "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store"
+   ],
+   "topic": "readwise-books-ebook-store-launch",
+   "firstSeen": "2026-10-29T06:17:41+08:00"
   }
  ],
- "lastChecked": "2026-10-29T06:02:45+08:00"
+ "lastChecked": "2026-10-29T06:17:41+08:00"
 }
