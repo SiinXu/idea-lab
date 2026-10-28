@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T03:15:44+08:00",
+ "lastUpdated": "2026-10-29T03:23:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23847,7 +23847,28 @@
    ],
    "topic": "restofworld-datacenter-water-resistance-2026-10-28",
    "firstSeen": "2026-10-29T03:15:44+08:00"
+  },
+  {
+   "id": "74009bc8dd",
+   "title": "设计圈热议「AI 让设计变快，还是只让表面产出变快」：Revolut 设计师用大模型批量出流程引发争论",
+   "summary": "X 热议：Revolut 设计师晒出用大模型快速生成的大量手机界面、线框和流程画布，引发设计圈讨论。字体设计师 Rasmus Andersson 认为真正的设计不在于速度，而在于把正确的信息和意图拼合起来，这恰恰是 AI 工具常常缺失的部分。支持者则认为提速能让团队在不牺牲质量的前提下多做项目。讨论的共识是：AI 能承担数量和迭代，但连贯性和价值判断仍要靠人。对做设计工具和 AI 设计工作流的产品来说，「帮人做判断」可能比「帮人出图更快」更有差异化。",
+   "links": [
+    "https://x.com/i/trending/2115516017204154572"
+   ],
+   "topic": "x-designers-debate-ai-speed-vs-creativity-2026-10-28",
+   "firstSeen": "2026-10-29T03:23:00+08:00"
+  },
+  {
+   "id": "8eba9bccca",
+   "title": "Show HN：SlideBySide——不用共享屏幕，发个链接就能一起翻幻灯片、实时光标和画笔标注",
+   "summary": "SlideBySide 登上 HN Show 板块：上传 PDF 或 PPT/PPTX 后分享链接，所有人同步看到同一页，支持带名字的实时光标、画笔/荧光笔/激光笔、按人设置翻页和下载权限、观众自行浏览后一键回到直播页，还能从 Google Drive、OneDrive 导入并保留历史版本。观众无需注册或安装会议软件，免费起步。它切中的是「开会只为放幻灯片却要共享整个屏幕」的小痛点，属于可快速复制的轻量 SaaS 方向。",
+   "links": [
+    "https://slidebyside.com/",
+    "https://news.ycombinator.com/item?id=50276883"
+   ],
+   "topic": "show-hn-slidebyside-2026-10-28",
+   "firstSeen": "2026-10-29T03:23:00+08:00"
   }
  ],
- "lastChecked": "2026-10-29T03:15:44+08:00"
+ "lastChecked": "2026-10-29T03:23:00+08:00"
 }
