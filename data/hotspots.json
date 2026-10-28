@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T06:17:41+08:00",
+ "lastUpdated": "2026-10-29T06:27:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23998,7 +23998,27 @@
    ],
    "topic": "readwise-books-ebook-store-launch",
    "firstSeen": "2026-10-29T06:17:41+08:00"
+  },
+  {
+   "id": "a01db71b03",
+   "title": "谷歌开放「Connected Apps Platform」：任何开发者都能通过 MCP 把自家应用接进 Gemini 和谷歌搜索",
+   "summary": "TechCrunch 10 月 28 日报道：谷歌推出 Connected Apps Platform 预览版（目前面向美国开发者的 beta），开发者可接入云端 MCP 服务器或基于 Android AppFunctions API 的 Android MCP，再通过 Google Connected Console 注册、测试、提交应用并查看表现数据，让用户在 Gemini 和搜索里直接调用第三方服务完成操作（如用 Canva 做海报、用 YouTube Music 建歌单）。这与 ChatGPT 应用、Meta Muse 的思路一致：入口正从独立 App 转向 AI 助手。对独立开发者来说，尽早把工具做成 MCP 应用、抢占 Gemini/搜索里的分发位，是新的流量窗口。",
+   "links": [
+    "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
+   ],
+   "topic": "google-connected-apps-platform-mcp-gemini-search",
+   "firstSeen": "2026-10-29T06:27:53+08:00"
+  },
+  {
+   "id": "5e4098babe",
+   "title": "Chrome 的 AI 自动填充可以翻你的 Gmail 了：航班确认号、会员号、快递单号一键填进网页表单",
+   "summary": "TechCrunch 10 月 28 日报道：谷歌把 Personal Intelligence 扩展到 Chrome，增强版自动填充会从用户 Gmail 中提取航班确认号、会员 ID、物流单号、订单号、地址、电话乃至信用卡号等信息，在填写网页表单时给出建议；功能需在 Chrome 设置中自行开启，敏感数据加密，先向美国桌面端及 iOS/Android 版 Gemini in Chrome 用户推送。这让浏览器进一步变成「懂你的 AI 代理」，也强化了谷歌生态锁定；隐私顾虑与「AI 浏览器表单填写」赛道（密码管理器、跨境购物助手等）都值得关注。",
+   "links": [
+    "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
+   ],
+   "topic": "chrome-ai-autofill-gmail-personal-intelligence",
+   "firstSeen": "2026-10-29T06:27:53+08:00"
   }
  ],
- "lastChecked": "2026-10-29T06:17:41+08:00"
+ "lastChecked": "2026-10-29T06:27:53+08:00"
 }
