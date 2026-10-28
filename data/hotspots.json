@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T06:27:53+08:00",
+ "lastUpdated": "2026-10-29T06:44:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24018,7 +24018,18 @@
    ],
    "topic": "chrome-ai-autofill-gmail-personal-intelligence",
    "firstSeen": "2026-10-29T06:27:53+08:00"
+  },
+  {
+   "id": "743771232c",
+   "title": "PDF 的「AES-256 加密」形同虚设：安全团队发现 MuPDF 实际只有 9 位随机性，Foxit 等用时间做种子，无需密码即可解密",
+   "summary": "安全公司 V12 于 10 月 27 日发文（当天登上 Hacker News 首页）：多款 PDF 实现宣称使用 AES-256 加密，但生成 32 字节文件密钥的随机源极不安全。MuPDF 1.28.5 之前用当前秒级时间戳给 drand48 线性同余生成器播种，且每个输出字节只取状态的第 17–24 位，导致真正影响 AES-256 密钥的随机状态只有 9 位，可直接穷举；Foxit 等编辑器同样基于时间生成密钥，文章还分析了 OpenPDF 和 iText。结论是：用这些工具加密的 PDF 可能无需密码就被解开。对处理合同、发票、证件等敏感 PDF 的人来说，应升级 MuPDF 到 1.28.5 及以上，敏感文件改用经过审计的加密方式；也提示 AI 编程生成的加密代码同样要检查随机数来源。",
+   "links": [
+    "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+    "https://news.ycombinator.com/item?id=50280722"
+   ],
+   "topic": "pdf-aes256-weak-key-mupdf-foxit",
+   "firstSeen": "2026-10-29T06:44:26+08:00"
   }
  ],
- "lastChecked": "2026-10-29T06:27:53+08:00"
+ "lastChecked": "2026-10-29T06:44:26+08:00"
 }
