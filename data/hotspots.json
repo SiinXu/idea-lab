@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T02:29:54+08:00",
+ "lastUpdated": "2026-10-29T02:57:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23815,7 +23815,18 @@
    ],
    "topic": "anti-llm-obfuscation-fingerprinting-2026-10-28",
    "firstSeen": "2026-10-29T02:29:54+08:00"
+  },
+  {
+   "id": "9479f7186b",
+   "title": "Arbium 发布 HelixCove 数据集：模拟一家 12 人生物科技公司三周、近 6 万次真实操作，让 AI 智能体学会「看懂同事怎么干活」",
+   "summary": "Arbium 于 10 月 28 日发布 HelixCove：在虚构生物科技公司里，由智能体扮演 12 名员工在真实的 Word、Outlook、Teams、Excel、SharePoint 中工作三周，共 1,912 个会话、59,768 次操作，每条记录带时间戳、应用窗口、无障碍树文本和录屏。数据还附带 430 道有标准答案的问题，测试 AI 能否从「谁在何时做了什么」中还原任务归属和决策变化。行为节奏用数十万小时真实工作数据校准。它代表一个新方向：企业智能体的竞争点正从「会操作软件」转向「理解组织上下文」，「人类工作轨迹」数据可能成为新的数据生意。",
+   "links": [
+    "https://arbium.ai/helix-cove",
+    "https://x.com/i/trending/2115485483946180981"
+   ],
+   "topic": "arbium-helixcove-human-traces-2026-10-28",
+   "firstSeen": "2026-10-29T02:57:11+08:00"
   }
  ],
- "lastChecked": "2026-10-29T02:29:54+08:00"
+ "lastChecked": "2026-10-29T02:57:11+08:00"
 }
