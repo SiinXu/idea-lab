@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T07:01:05+08:00",
+ "lastUpdated": "2026-10-29T07:43:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24051,7 +24051,17 @@
    ],
    "topic": "iphone-deleted-photos-thumbnail-cache-claude-code",
    "firstSeen": "2026-10-29T07:01:05+08:00"
+  },
+  {
+   "id": "823f1d2d8a",
+   "title": "AI 云安全公司 Upwind 拒绝 Datadog 收购，转身完成 4 亿美元 C 轮融资，估值 38 亿美元",
+   "summary": "TechCrunch 10 月 28 日报道：旧金山初创公司 Upwind 用 AI 保护云基础设施，刚完成 4 亿美元 C 轮融资，估值 38 亿美元，由 Bessemer 领投，Greylock、Craft Ventures 等老股东跟投。距上一轮（2.5 亿美元、估值 15 亿美元）仅九个月，估值翻了一倍多。据知情人士称，这轮融资一度因可观测性上市公司 Datadog 发起收购而差点告吹，但 Datadog 的报价没有高于 VC 给出的 38 亿美元估值，Upwind 最终选择拒绝。信号：在 AI 智能体和漏洞数量激增的背景下，「AI + 云安全」仍是资本最愿意加注的赛道之一，可观测性巨头也在抢安全能力。",
+   "links": [
+    "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/"
+   ],
+   "topic": "upwind-400m-series-c-rejects-datadog",
+   "firstSeen": "2026-10-29T07:43:37+08:00"
   }
  ],
- "lastChecked": "2026-10-29T07:01:05+08:00"
+ "lastChecked": "2026-10-29T07:43:37+08:00"
 }
