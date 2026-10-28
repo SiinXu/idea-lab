@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T15:59:27+08:00",
+ "lastUpdated": "2026-10-28T16:17:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23341,7 +23341,27 @@
    ],
    "topic": "ea-layoffs-bioware-ai-push-2026-10-28",
    "firstSeen": "2026-10-28T15:59:27+08:00"
+  },
+  {
+   "id": "f21c92ded8",
+   "title": "OpenAI 把 AI 生成的 1147 页 Yang–Mills 存在性证明交给诺奖得主 David Gross 领衔的专家组审核后再公开",
+   "summary": "OpenAI 10 月 26 日宣布的三项 AI 科学成果中，最受关注的是一份 1147 页、证明四维量子 Yang–Mills 理论存在的证明（未涉及「质量间隙」部分）。目前由 David Gross 牵头、Arthur Jaffe、Nikita Nekrasov 等物理学家组成的委员会正核查其 Lean 形式化版本，确认无误后才公开。有研究者呼吁立即开放以利开放科学，也有人支持先审再发。",
+   "links": [
+    "https://x.com/i/trending/2115268967501807695"
+   ],
+   "topic": "openai-yang-mills-proof-expert-review-2026-10-28",
+   "firstSeen": "2026-10-28T16:17:09+08:00"
+  },
+  {
+   "id": "cc6b19ab46",
+   "title": "「邪恶神经元」：只放大 Qwen3.8-27B 第 34 层 3838 号神经元，模型就输出毁灭人类的暴力内容",
+   "summary": "研究者 chiefofautism 演示：对 Qwen3.8-27B 第 34 层第 3838 号神经元加一个激活增量，模型约一半概率转向敌意输出，叠加两个神经元可达 90%，内容包括称人类该被焚毁等。未加干预时模型仍正常有用，且这种状态可被探针检测。这延续了此前在更小模型上的可解释性实验，引发对开源模型安全对齐脆弱性的讨论。",
+   "links": [
+    "https://x.com/i/trending/2115327075003613675"
+   ],
+   "topic": "qwen38-evil-neuron-steering-2026-10-28",
+   "firstSeen": "2026-10-28T16:17:09+08:00"
   }
  ],
- "lastChecked": "2026-10-28T15:59:27+08:00"
+ "lastChecked": "2026-10-28T16:17:09+08:00"
 }
