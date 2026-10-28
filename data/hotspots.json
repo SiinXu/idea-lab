@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T09:42:15+08:00",
+ "lastUpdated": "2026-10-28T09:54:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22970,7 +22970,18 @@
    ],
    "topic": "saas-free-charge-for-agent-isenberg-2026-10-27",
    "firstSeen": "2026-10-28T09:42:15+08:00"
+  },
+  {
+   "id": "76c6085f40",
+   "title": "BettaScore 研究：真实用户谈「可靠性」的频率是测评博主的两倍，App 相关意见 71% 是负面",
+   "summary": "产品评分站 BettaScore 10 月 27 日发布研究：对比 19 个品类、657 款产品的公开讨论，Reddit 上的真实车主/用户在 13% 的意见里提到可靠性、耐用性和售后，而 YouTube 测评博主只有 7%；几乎所有硬件都附带的配套 App 更是重灾区，用户关于 App 的意见 71% 为负面。研究附可下载数据，发布后很快登上 Hacker News 首页并引发「测评只看开箱、不看长期使用」的讨论。对独立开发者而言，聚合长期用户口碑、追踪产品耐用度与售后体验的工具和内容站是值得关注的方向。",
+   "links": [
+    "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+    "https://news.ycombinator.com/item?id=50266780"
+   ],
+   "topic": "bettascore-reliability-reviewers-vs-owners-2026-10-27",
+   "firstSeen": "2026-10-28T09:54:04+08:00"
   }
  ],
- "lastChecked": "2026-10-28T09:42:15+08:00"
+ "lastChecked": "2026-10-28T09:54:04+08:00"
 }
