@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T10:13:47+08:00",
+ "lastUpdated": "2026-10-28T10:24:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23013,7 +23013,27 @@
    ],
    "topic": "ai-agents-decouple-content-attention-2026-10-28",
    "firstSeen": "2026-10-28T10:13:47+08:00"
+  },
+  {
+   "id": "36635c798e",
+   "title": "前 Claude Code 工程师 Thariq 晒出自制 AI 程序坞 FocusDock：按「写作 / 写代码」等工作模式自动切换 Mac Dock 里的应用和界面",
+   "summary": "刚离开 Anthropic 的 Thariq 在 X 上展示个人项目 FocusDock：由 AI 智能体实时观察当前活动和通知，用一个名为「jev」的分类器判断你在专注写作还是写代码，自动调整 Dock 中的应用、工作流笔记和「留白思考」草稿区，还能自己新增模式。他称这是一直想要的人机交互方式，但也坦言改操作系统行为有大量边界情况。开发者圈热议 AI 让「为自己定制操作系统小工具」变得轻松，减少切换上下文的成本；面向个人的「按情境自适应桌面」可能是独立开发者的新方向。",
+   "links": [
+    "https://x.com/i/trending/2115201856846598362"
+   ],
+   "topic": "focusdock-adaptive-dock",
+   "firstSeen": "2026-10-28T10:24:42+08:00"
+  },
+  {
+   "id": "9e16d402e3",
+   "title": "Claude Code 负责人 Felix Rieseberg 取消招聘中的编程小题：「Claude 做这些比大多数人都强」，改看主动性与用 AI 解决真问题的能力",
+   "summary": "Anthropic 的 Claude Code 负责人 Felix Rieseberg 表示，小型编程测试已无法预测候选人能否胜任，就像当年考汇编一样过时，Claude 能轻松完成；他更看重「饥饿感」而非资历，并观察到会指挥 AI 工具的新人常常超过老工程师。此事在 X 上引发关于 AI 时代技术招聘的讨论：试工、作品集、真实问题演练正在取代刷题式面试，面向「AI 协作能力」的评估工具和培训也可能迎来需求。",
+   "links": [
+    "https://x.com/i/trending/2115238646232252531"
+   ],
+   "topic": "rieseberg-drops-coding-interviews",
+   "firstSeen": "2026-10-28T10:24:42+08:00"
   }
  ],
- "lastChecked": "2026-10-28T10:13:47+08:00"
+ "lastChecked": "2026-10-28T10:24:42+08:00"
 }
