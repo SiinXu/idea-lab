@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T20:30:03+08:00",
+ "lastUpdated": "2026-10-28T20:47:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23513,7 +23513,27 @@
    ],
    "topic": "fia-aws-ai-f1-partnership",
    "firstSeen": "2026-10-28T20:30:03+08:00"
+  },
+  {
+   "id": "0802e65f69",
+   "title": "资管巨头 Janus Henderson 在 Stellar 链上推出首只「链上原生」纳斯达克 100 基金 JQQQ",
+   "summary": "10 月 28 日 X 热议：管理约 5000 亿美元资产的 Janus Henderson 联合 Centrifuge 推出 JQQQ，跟踪纳斯达克 100 指数，份额只以代币形式在 Stellar 网络发行，结构为英属维尔京群岛隔离投资组合并获纳斯达克指数授权，首批仅面向非美国专业投资者、起投 10 万美元。Stellar 方面称这证明传统金融已在链上落地，今年该网络代币化资产已超 40 亿美元。趋势信号：主流指数基金代币化在加速，24 小时交易与 DeFi 抵押组合是后续看点。",
+   "links": [
+    "https://x.com/i/trending/2115065070850039990"
+   ],
+   "topic": "janus-henderson-jqqq-stellar",
+   "firstSeen": "2026-10-28T20:47:40+08:00"
+  },
+  {
+   "id": "3dac63def4",
+   "title": "自动编发设备 HaloBraid 亮相：发型师起头、机器接手编脏辫和无结辫，宣称沙龙耗时减半",
+   "summary": "10 月 28 日 X 热议：哈佛背景工程师 Yinka Ogunbiyi 创办的 HaloBraid 发布编发机器，发型师手工起头后由设备完成 box braids、knotless braids 等费时编织，已获 Alexis Ohanian 旗下基金等 700 万美元投资，计划今秋进入沙龙，候补名单数千人。支持者认为能减轻发型师劳损、服务非洲裔女性的大需求；质疑者关心成品整齐度、头皮安全和传统沙龙社交氛围。趋势信号：「机器人+垂直服务业」从工厂走向美业等高重复手工场景。",
+   "links": [
+    "https://x.com/i/trending/2115399973059854696"
+   ],
+   "topic": "halobraid-braiding-robot",
+   "firstSeen": "2026-10-28T20:47:40+08:00"
   }
  ],
- "lastChecked": "2026-10-28T20:30:03+08:00"
+ "lastChecked": "2026-10-28T20:47:40+08:00"
 }
