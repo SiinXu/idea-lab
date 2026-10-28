@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T17:56:55+08:00",
+ "lastUpdated": "2026-10-28T18:08:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23421,7 +23421,18 @@
    ],
    "topic": "t3-code-tunnels-linux-speed",
    "firstSeen": "2026-10-28T17:56:55+08:00"
+  },
+  {
+   "id": "005c0c5b29",
+   "title": "DiffuSpace 开源 Clover-35B 扩散语言模型：单卡每秒 680 token，号称首个可实用的开源权重扩散 LLM",
+   "summary": "10 月 28 日 X 热议：不到 10 人的 DiffuSpace Labs 用 4 个月做出 Clover-35B-A3B-Preview（基于 Qwen3.6-35B-A3B 微调），以「按块并行起草再迭代修正」代替逐 token 生成，每 token 激活约 30 亿参数，支持 128K 上下文，单卡可达约 680 token/秒；团队公布的 GPQA Diamond 83.8、SWE-bench Verified 73.6 常与更大模型持平。权重以 Apache 2.0 发布在 Hugging Face。趋势信号：扩散式解码正从研究走向可部署，本地快速智能体推理成本有望再降一档。",
+   "links": [
+    "https://huggingface.co/Diffuspace/Clover-35B-A3B-Preview",
+    "https://x.com/i/trending/2115348791729524772"
+   ],
+   "topic": "diffuspace-clover-35b-diffusion-llm",
+   "firstSeen": "2026-10-28T18:08:04+08:00"
   }
  ],
- "lastChecked": "2026-10-28T17:56:55+08:00"
+ "lastChecked": "2026-10-28T18:08:04+08:00"
 }
