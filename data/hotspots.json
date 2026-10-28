@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T21:57:25+08:00",
+ "lastUpdated": "2026-10-28T22:21:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23588,7 +23588,29 @@
    ],
    "topic": "rumor-game-rl-math-breakthroughs-2026-10-28",
    "firstSeen": "2026-10-28T21:57:25+08:00"
+  },
+  {
+   "id": "f9b8d788e4",
+   "title": "Valve 回应 AI 克隆与垃圾游戏担忧：正版要靠社区和持续更新取胜，并推出愿望单数据 API",
+   "summary": "10 月 27 日在韩国釜山的 Steam Indie Connect 活动上，Valve 的 Steam 商务团队回应开发者对 AI 生成游戏和克隆作的担忧：最好的防线是玩家信任、社区经营和持续更新，单一玩法能被抄，持续迭代的特色和身份抄不走。Valve 还介绍了按时间、国家和语言查询的愿望单数据 API 等新工具，并透露 Steam 同时在线峰值已达 4350 万。趋势信号：平台不打算靠封禁解决 AI 洪水，独立开发者的护城河正转向社区运营和数据驱动的发行。",
+   "links": [
+    "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
+    "https://news.ycombinator.com/item?id=50273192"
+   ],
+   "topic": "valve-ai-slop-clones-response-2026-10-28",
+   "firstSeen": "2026-10-28T22:21:52+08:00"
+  },
+  {
+   "id": "1d10efda47",
+   "title": "「Harvey 融资 5 亿美元做法律 AI，我自己做了一个并开源」：CaseCite 冲上 HN",
+   "summary": "开发者在 Hacker News 发帖称，对标估值高企的法律 AI 公司 Harvey，自己做了 CaseCite 并公开源码：一个可自托管的法律检索增强生成（RAG）平台，用于判例检索和法律文书分析。注意它是「源码可见」而非标准开源许可，仓库目前星数还不多。趋势信号：垂直行业的高价 AI 产品正被个人开发者快速复刻，自托管、数据不出本地是律所等敏感行业的卖点。",
+   "links": [
+    "https://github.com/thomasunise/casecite",
+    "https://news.ycombinator.com/item?id=50273623"
+   ],
+   "topic": "casecite-open-harvey-alternative-2026-10-28",
+   "firstSeen": "2026-10-28T22:21:52+08:00"
   }
  ],
- "lastChecked": "2026-10-28T21:57:25+08:00"
+ "lastChecked": "2026-10-28T22:21:52+08:00"
 }
