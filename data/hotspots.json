@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T01:02:23+08:00",
+ "lastUpdated": "2026-10-29T01:16:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23749,7 +23749,18 @@
    ],
    "topic": "archive-today-malware-ban",
    "firstSeen": "2026-10-29T01:02:23+08:00"
+  },
+  {
+   "id": "19089eb628",
+   "title": "苹果推出 PROLED XDR 触屏 MacBook Pro：串联 OLED、首次支持触控和灵动岛，搭载 M5 Pro/Max，11 月 6 日发售",
+   "summary": "10 月 28 日苹果官网上线新款 MacBook Pro with PROLED XDR Display：采用串联（tandem）OLED 面板，峰值亮度 2000 尼特、对比度 1000 万比 1，色域覆盖 P3 与 Adobe RGB；Mac 笔记本首次支持多点触控屏幕，并加入灵动岛、重新设计的散热和六扬声器，14 英寸约 3.0 磅、16 英寸约 4.0 磅，续航最长 24 小时，现已开放预订、11 月 6 日上市。该消息正在 Hacker News 升温。趋势信号：苹果放弃「Mac 不做触屏」的长期立场，触控优先的 Mac 应用、设计与创作工具适配将迎来新需求。",
+   "links": [
+    "https://www.apple.com/macbook-pro/proled-xdr-display/",
+    "https://news.ycombinator.com/item?id=50276940"
+   ],
+   "topic": "apple-macbook-pro-proled-touch",
+   "firstSeen": "2026-10-29T01:16:52+08:00"
   }
  ],
- "lastChecked": "2026-10-29T01:02:23+08:00"
+ "lastChecked": "2026-10-29T01:16:52+08:00"
 }
