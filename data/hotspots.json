@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T00:43:28+08:00",
+ "lastUpdated": "2026-10-29T01:02:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23727,7 +23727,29 @@
    ],
    "topic": "nvidia-nemotron-3-5-transcribe-2026-10-28",
    "firstSeen": "2026-10-29T00:43:28+08:00"
+  },
+  {
+   "id": "c80841580a",
+   "title": "CircuitHub 公开「The Grid」：麻省一台工厂级机器人按需造电路板，号称比深圳快一倍",
+   "summary": "CircuitHub 首次展示秘密运行五年的 The Grid：不是固定产线，而是一台大型机器人，用磁悬浮载具在各台设备间搬运电路板和元件，专攻小批量、多品种、频繁改版的 PCB 组装，主打美国本土制造、交付速度是深圳的两倍。冲上 HN 首页（200+ 分）。",
+   "links": [
+    "https://www.circuithub.com/post/unveiling-the-grid",
+    "https://news.ycombinator.com/item?id=50243060"
+   ],
+   "topic": "circuithub-the-grid",
+   "firstSeen": "2026-10-29T01:02:23+08:00"
+  },
+  {
+   "id": "eda5b1c83a",
+   "title": "Reddit 西雅图版封禁 archive.today：版主称发现存档站注入恶意代码，HN 热议「网页存档还能信谁」",
+   "summary": "r/Seattle 版主宣布今后禁止 archive.today（archive.is）链接，理由是发现该站向访客注入恶意代码。HN 评论指出该站此前已因利用访客浏览器对一名调查记者发起 DDoS 而被维基百科封禁，但它又是许多付费墙和消失网页的唯一备份入口，引发对网页存档替代方案的讨论。",
+   "links": [
+    "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
+    "https://news.ycombinator.com/item?id=50275373"
+   ],
+   "topic": "archive-today-malware-ban",
+   "firstSeen": "2026-10-29T01:02:23+08:00"
   }
  ],
- "lastChecked": "2026-10-29T00:43:28+08:00"
+ "lastChecked": "2026-10-29T01:02:23+08:00"
 }
