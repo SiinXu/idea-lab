@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T15:46:41+08:00",
+ "lastUpdated": "2026-10-28T15:59:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23311,7 +23311,37 @@
    ],
    "topic": "programmers-push-back-ai-job-loss-2026-10-28",
    "firstSeen": "2026-10-28T15:46:41+08:00"
+  },
+  {
+   "id": "6f17271714",
+   "title": "特朗普称要在政府文件中禁用「AI」一词，统一改叫「超级智能（SI）」",
+   "summary": "特朗普在 Truth Social 发文称「人工智能/AI」名字不好，将在相关官方文件中改用「super intelligence（SI）」，并延续 9 月 29 日要求联邦机构改称的行政令，还点名批评《华尔街日报》仍用旧称。批评者认为这是离谱的越权，支持者视为给创新做品牌升级；目前各机构在更新材料，媒体仍普遍用「AI」。",
+   "links": [
+    "https://x.com/i/trending/2115118993619010034"
+   ],
+   "topic": "trump-ban-ai-term-super-intelligence-2026-10-28",
+   "firstSeen": "2026-10-28T15:59:27+08:00"
+  },
+  {
+   "id": "b7108cfc3e",
+   "title": "比尔·盖茨：AI 带来 20 年动荡期，有人可能像阿米什人一样选择「退出技术前沿」",
+   "summary": "盖茨在 The Verge 播客中预测，AI 先经历约 20 年的颠覆期才走向富足，社会可能分化成拥抱技术的人和选择简单生活的群体，后者会更看重互助和人与人的连接，育儿、做饭等角色可能留给人类。网友用「阿米什人找 AI 关闭开关」等梗图调侃，也有人认真讨论远离技术的慢生活。",
+   "links": [
+    "https://x.com/i/trending/2115347204206715334"
+   ],
+   "topic": "bill-gates-amish-ai-opt-out-2026-10-28",
+   "firstSeen": "2026-10-28T15:59:27+08:00"
+  },
+  {
+   "id": "e0624310c1",
+   "title": "EA 关闭 BioWare、裁员约 400 人后员工吐槽：工作量不减，管理层力推 Claude 等生成式 AI 提效",
+   "summary": "EA 在 8 月以 550 亿美元被沙特 PIF 牵头私有化后，关闭 BioWare 并裁掉约 3% 员工。Respawn、Motive 等工作室员工匿名表示，裁员通过关闭聊天的 Zoom 会议通知，剩下的人背着同样的活，管理层却在推广 Claude 等 AI 工具提高产出，士气低落。",
+   "links": [
+    "https://x.com/i/trending/2115107964813975661"
+   ],
+   "topic": "ea-layoffs-bioware-ai-push-2026-10-28",
+   "firstSeen": "2026-10-28T15:59:27+08:00"
   }
  ],
- "lastChecked": "2026-10-28T15:46:41+08:00"
+ "lastChecked": "2026-10-28T15:59:27+08:00"
 }
