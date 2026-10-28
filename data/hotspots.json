@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T12:59:40+08:00",
+ "lastUpdated": "2026-10-28T13:12:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23185,7 +23185,30 @@
    ],
    "topic": "artists-4-illustrations-no-ai-chain-2026-10",
    "firstSeen": "2026-10-28T12:59:40+08:00"
+  },
+  {
+   "id": "46f86b0d88",
+   "title": "嵌入式 Web 服务器 GoAhead 曝三个 TLS 漏洞：一个长度笔误把 2048 位 DH 密钥缩成 1 字节，路由器、防火墙、工控设备受波及",
+   "summary": "安全公司 FoxIO 10 月 26 日披露 GoAhead 的三个 TLS 缺陷，10 月 28 日已上 oss-security 邮件列表：OpenSSL 后端加载了 CRL 却从不校验，被吊销的 mTLS 客户端证书照样放行（CVSS 9.1）；LibreSSL 旧版校验器在特定配置下不限制证书链深度（7.4）；Mbed TLS 后端因 sizeof 笔误只发送 1 字节的 DH 模数，TLS 1.2 DHE_RSA 会话可被被动解密（5.9）。GoAhead 6.1.1 已修复（含另外 8 个认证绕过、CGI 注入、请求走私等公告），但它嵌在 Palo Alto、D-Link、西门子、霍尼韦尔等大量 IoT/OT 设备里，修复要等各厂商推送固件。趋势信号：嵌入式组件的长尾补丁缺口巨大，固件 SBOM 扫描、设备暴露面监测和补丁追踪类工具有需求。",
+   "links": [
+    "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+    "https://www.openwall.com/lists/oss-security/2026/10/28/1",
+    "https://github.com/embedthis/goahead/security/advisories/GHSA-fmvx-2xfx-2gq4",
+    "https://x.com/i/trending/2115180994630435102"
+   ],
+   "topic": "goahead-tls-bugs-2026-10",
+   "firstSeen": "2026-10-28T13:12:03+08:00"
+  },
+  {
+   "id": "85f0a4ba91",
+   "title": "X 热议：AI 做设计是「slop」还是在抬高平均水准？设计师分成两派，有人担心岗位萎缩",
+   "summary": "10 月 28 日 X 上设计圈争论升温：支持者认为 AI 擅长处理版式规律和设计惯例，让熟练设计师大幅提速，反而抬高了日常设计的平均水平；批评者则称其产出千篇一律、层级混乱，加拿大平面设计学生抱怨作品陷入「同质化海洋」。数据上，世界经济论坛把平面设计列为萎缩岗位，但英国设计经济 2023 年仍增长到 1367 亿英镑。趋势信号：「懂设计的人 + AI」的组合更值钱，去 AI 味的设计规范、风格包和设计评审类工具有市场。",
+   "links": [
+    "https://x.com/i/trending/2115307345664442749"
+   ],
+   "topic": "designers-ai-slop-debate-2026-10-28",
+   "firstSeen": "2026-10-28T13:12:03+08:00"
   }
  ],
- "lastChecked": "2026-10-28T12:59:40+08:00"
+ "lastChecked": "2026-10-28T13:12:03+08:00"
 }
