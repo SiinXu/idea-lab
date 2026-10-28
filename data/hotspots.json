@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T00:29:33+08:00",
+ "lastUpdated": "2026-10-29T00:43:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23716,7 +23716,18 @@
    ],
    "topic": "obsidian-canvas-vs-heptabase-2026-10-28",
    "firstSeen": "2026-10-29T00:29:33+08:00"
+  },
+  {
+   "id": "7ae8eb2055",
+   "title": "英伟达开源 Nemotron 3.5 Transcribe：一个模型搞定 40 种语言转写、说话人区分、翻译和音频问答",
+   "summary": "NVIDIA 10 月 28 日在 Hugging Face 发布开放权重语音模型 Nemotron 3.5 Transcribe，并同步开源 Granary v2 数据管线和微调配方。单个模型可转写 40 种语言、在其中 31 种与英语之间互译、对 13 种语言做说话人区分，支持最长约 1 小时录音、最多 8 位说话人，还能用自然语言提示控制输出格式、按领域词汇和口音做适配。官方称它在 Hugging Face Open ASR 排行榜英语项位列开放权重模型第一，已上架 Hugging Face 与 ModelScope，该帖正在 Hacker News 升温。趋势信号：会议纪要、多语种客服质检、医疗口述病历等语音应用可以用开源模型私有化部署，垂直领域微调和本地转写工具的门槛进一步降低。",
+   "links": [
+    "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "https://news.ycombinator.com/item?id=50275128"
+   ],
+   "topic": "nvidia-nemotron-3-5-transcribe-2026-10-28",
+   "firstSeen": "2026-10-29T00:43:28+08:00"
   }
  ],
- "lastChecked": "2026-10-29T00:29:33+08:00"
+ "lastChecked": "2026-10-29T00:43:28+08:00"
 }
