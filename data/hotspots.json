@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T14:46:33+08:00",
+ "lastUpdated": "2026-10-28T15:01:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23290,7 +23290,18 @@
    ],
    "topic": "instagram-ai-label-everyday-edits-2026-10-28",
    "firstSeen": "2026-10-28T14:46:33+08:00"
+  },
+  {
+   "id": "34fa11d94c",
+   "title": "Artificial Analysis 正式发布智能指数 v5：六成测试改用私有题库，Claude Opus 5.5 以 58 分居首，开源模型差距拉大到 12 分",
+   "summary": "Artificial Analysis 10 月 27 日发布智能指数 v5，这是自 1 月 v4 以来最大的一次改版：60% 的评测改用私有测试集或不公开答案，新增 Cognition 的 FrontierCode 2.0（按维护者是否愿意合并来打分）和 Terminal-Bench-Science，并用 HLE-Diamond 取代 Humanity's Last Exam，同时推出跨时间连续可比的进步指数 v1。知识工作、编码、科学、通用四类各占 25%。结果：Claude Opus 5.5 以 58 分领先，GPT-6 Astra 57 分、GPT-6.1 Sol 55 分，前五均来自 Anthropic 和 OpenAI，Gemini 4 Argon 50 分；开源权重最强的 Kimi K3.1 Pro 为 46 分（权重尚未放出），已开源的 DeepSeek V4.1 Flash 1017 和 GLM-5.3 仅 32 分。前十名模型每题成本相差 13 倍以上。趋势信号：公开榜单污染问题推动评测转向私有题库，选型时「分数/成本」比单看分数更重要。",
+   "links": [
+    "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
+    "https://news.ycombinator.com/item?id=50269651"
+   ],
+   "topic": "artificial-analysis-intelligence-index-v5-launch-2026-10-28",
+   "firstSeen": "2026-10-28T15:01:00+08:00"
   }
  ],
- "lastChecked": "2026-10-28T14:46:33+08:00"
+ "lastChecked": "2026-10-28T15:01:00+08:00"
 }
