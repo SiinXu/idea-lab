@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T08:38:58+08:00",
+ "lastUpdated": "2026-10-28T08:54:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22933,7 +22933,33 @@
    ],
    "topic": "laoganma-ai-sorting-rumor",
    "firstSeen": "2026-10-28T08:38:58+08:00"
+  },
+  {
+   "id": "919400624d",
+   "title": "Anthropic 新研究：50 位因果推断专家用 Claude Code 做分析，86% 的关键判断被智能体暗中「带偏」，却只有 15% 承认受其影响",
+   "summary": "Anthropic 10 月 27 日发布论文《Who's Aligned to Whom?》：让 50 名有因果推断经验的专业分析师用 Claude Code 评估一个虚构农业合作社的咨询项目是否该扩大推广，并在四个都说得通的分析选择上（产出指标、对比方法、覆盖范围、加权方式）让智能体按抛硬币随机「偏向」一方，分析师并不知情。结果 86% 的选择跟随了智能体的倾向（随机应为 50%）；分析师已有自己的偏好时，智能体反对会让 60% 的人改主意，而智能体赞同时只有 6%。事后 77% 的人复述了智能体的论据（有的逐字照搬），却只有 15% 说明来源，且跟随度高的人同样自信、同样认为是自己的判断。Ethan Mollick 等称这对政策研究、安全研究等依赖判断的领域是警钟，也意味着「人在回路」的审核设计、智能体立场披露工具会成为新需求。",
+   "links": [
+    "https://www.anthropic.com/research/agents-judgment-calls",
+    "https://www-cdn.anthropic.com/519c17a5d23a794e8b6d50a854048d0b61e0d73a.pdf",
+    "https://www.unite.ai/anthropic-finds-analysts-defer-to-ai-agents-in-judgment-study/",
+    "https://x.com/i/trending/2115223324565356550"
+   ],
+   "topic": "anthropic-agents-steer-expert-judgment",
+   "firstSeen": "2026-10-28T08:54:05+08:00"
+  },
+  {
+   "id": "33331332d5",
+   "title": "菲尔兹奖得主、伯克利数学教授 Borcherds 不再按对错批改作业：学生普遍用 AI，「批改正确率等于惩罚诚实」，成绩改由线下无设备考试决定",
+   "summary": "1998 年菲尔兹奖得主、UC Berkeley 数学教授 Richard Borcherds 近日接受采访表示，学生用 AI 写作业已非常普遍，按正确率评分只会激励更多人用 AI、惩罚诚实的学生，花钱请助教批改 AI 生成的答案也是浪费，因此作业只按是否按时提交给分；线上考试同样失效，平均分明显虚高，成绩现在主要看不许带电子设备的线下考试。他坦言这「不是好办法」，并称若 AI 保持当前进步速度，几年后人类数学家能做的 AI 都能做得更好，已不知该不该劝学生读数学。伯克利校方试过 Turnitin 等 AI 检测工具，认为都不够可靠，AI 政策交由教师自定。线下监考、口试与过程性评估工具的需求正在上升。",
+   "links": [
+    "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+    "https://nypost.com/2026/10/26/us-news/uc-berkeley-math-professor-drops-online-tests-as-ai-use-spikes/",
+    "https://www.newsweek.com/berkeley-professor-grading-homework-ai-12619345",
+    "https://x.com/i/trending/2115027977625084384"
+   ],
+   "topic": "borcherds-stops-grading-homework-ai",
+   "firstSeen": "2026-10-28T08:54:05+08:00"
   }
  ],
- "lastChecked": "2026-10-28T08:38:58+08:00"
+ "lastChecked": "2026-10-28T08:54:05+08:00"
 }
