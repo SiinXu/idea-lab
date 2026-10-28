@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T00:20:37+08:00",
+ "lastUpdated": "2026-10-29T00:29:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23705,7 +23705,18 @@
    ],
    "topic": "surge-dayjob-tax-benchmark-2026-10-28",
    "firstSeen": "2026-10-29T00:20:37+08:00"
+  },
+  {
+   "id": "db5e346118",
+   "title": "「文件 vs 卡片」：Obsidian Canvas 与 Heptabase 架构对比冲上 HN 首页",
+   "summary": "FluxLinks 10 月 28 日发文，从数据架构对比两款空间笔记工具：Obsidian Canvas 把白板存成单个开放格式的 .canvas（JSON Canvas）文件，画布上的连线只是坐标数据，不会进入笔记库的双链和关系图；Heptabase 则以全局「卡片」为基本单位，白板只是卡片库的视图，连线会被两张卡片同时记住、可跨白板累积，但锁在自家生态里无法导出成开放图谱。文章结论是前者适合路线图、架构图和头脑风暴，后者适合长期研究与写作。注意作者来自同类产品 FluxLinks。该文已登上 Hacker News 首页。趋势信号：AI 时代「第二大脑」工具的竞争点正从界面转向数据模型——可移植性与关系索引能否兼得，是新一代知识工具和 AI 记忆层的机会。",
+   "links": [
+    "https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase",
+    "https://news.ycombinator.com/item?id=50274139"
+   ],
+   "topic": "obsidian-canvas-vs-heptabase-2026-10-28",
+   "firstSeen": "2026-10-29T00:29:33+08:00"
   }
  ],
- "lastChecked": "2026-10-29T00:20:37+08:00"
+ "lastChecked": "2026-10-29T00:29:33+08:00"
 }
