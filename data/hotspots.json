@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T22:58:48+08:00",
+ "lastUpdated": "2026-10-28T23:16:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23640,7 +23640,28 @@
    ],
    "topic": "gpu-clusters-airline-financing-2026-10-28",
    "firstSeen": "2026-10-28T22:58:48+08:00"
+  },
+  {
+   "id": "4950859fe6",
+   "title": "Emacs 迎来 50 岁：MIT 科技评论回顾这款 AI 实验室编辑器如何催生自由软件运动，冲上 HN 首页",
+   "summary": "《MIT 科技评论》校友版刊文纪念 EMACS 诞生 50 周年：从 ENIAC 插线编程、纸带与打孔卡，到行编辑器，再到 MIT AI 实验室诞生的全屏可扩展编辑器 Emacs，以及它如何引出 GNU 与自由软件运动。10 月 28 日该文在 Hacker News 两小时内获 110+ 分。趋势信号：在 AI 编程工具全面接管写代码的当下，「可编程、可扩展、本地优先」的老牌编辑器理念重新被讨论，适合做开发者工具史、Emacs/AI 插件教程类内容。",
+   "links": [
+    "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+    "https://news.ycombinator.com/item?id=50273171"
+   ],
+   "topic": "emacs-turns-50-2026-10-28",
+   "firstSeen": "2026-10-28T23:16:23+08:00"
+  },
+  {
+   "id": "5d6e22f5f1",
+   "title": "「设计师弃用 Figma 改用 Claude、Cursor」刷屏：《2026 AI 设计报告》显示 Claude 成设计师首选 AI 工具，Figma 退居协作角色",
+   "summary": "10 月 28 日 X 上大量设计师晒出用 Claude 生成代码、用 Cursor 直接搭原型，Figma 只留作协作与精修。《2026 AI in Design Report》数据显示 Claude 在设计师群体中使用率领先，Figma 转为配角；质疑者认为不少帖子是博眼球，Figma 也在加码 AI 功能。趋势信号：「设计即代码」工作流加速成形，面向设计师的 AI 原型模板、设计系统转代码、提示词库等是可切入的产品与内容机会。",
+   "links": [
+    "https://x.com/i/trending/2115458136488239590"
+   ],
+   "topic": "designers-ditch-figma-ai-design-report-2026-10-28",
+   "firstSeen": "2026-10-28T23:16:23+08:00"
   }
  ],
- "lastChecked": "2026-10-28T22:58:48+08:00"
+ "lastChecked": "2026-10-28T23:16:23+08:00"
 }
