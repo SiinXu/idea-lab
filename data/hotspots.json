@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T01:16:52+08:00",
+ "lastUpdated": "2026-10-29T01:28:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23760,7 +23760,18 @@
    ],
    "topic": "apple-macbook-pro-proled-touch",
    "firstSeen": "2026-10-29T01:16:52+08:00"
+  },
+  {
+   "id": "6318bf62f2",
+   "title": "谷歌正式发布 Gemini 4 Carbon：Artificial Analysis 智能指数登顶，主打网络安全与可连跑数天的长程 Agent",
+   "summary": "10 月 28 日 Google DeepMind 发布新一代前沿模型 Gemini 4 Carbon（距 Argon 上线仅两周）：在 Artificial Analysis 智能指数 v5.0 以 59 分排名第一，漏洞发现 SEC-bench Pro 88.2%、漏洞利用 ExploitGym 54.8%、修补 CWE-bench 71.0% 均创新高，WebDev Arena 提升 89 分升至第 4；内部称可连续运行数天处理大型代码库排障。先向部分网络安全防御方开放，再分批开放给开发者和消费者；首发价每百万 token 输入 2 美元、输出 10 美元，优惠期后涨至 4/20 美元。HN 发布不到半小时破百分。趋势信号：AI 安全审计、自动补丁与长程编码 Agent 赛道将加速。",
+   "links": [
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "https://news.ycombinator.com/item?id=50276792"
+   ],
+   "topic": "gemini-4-carbon-launch",
+   "firstSeen": "2026-10-29T01:28:24+08:00"
   }
  ],
- "lastChecked": "2026-10-29T01:16:52+08:00"
+ "lastChecked": "2026-10-29T01:28:24+08:00"
 }
