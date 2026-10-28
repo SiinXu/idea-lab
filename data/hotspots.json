@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T03:39:26+08:00",
+ "lastUpdated": "2026-10-29T03:57:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23879,7 +23879,18 @@
    ],
    "topic": "particle-1-token-efficient-model-2026-10-28",
    "firstSeen": "2026-10-29T03:39:26+08:00"
+  },
+  {
+   "id": "bbe01ac0dd",
+   "title": "Meta 内部文件曝光：计划抹黑心理学家海特、律师拦阻青少年心理健康研究，学者称「科技就是新烟草」",
+   "summary": "在一起指控 Meta 产品让未成年人成瘾的诉讼中，法官驳回了 Meta 把律师抄送进敏感邮件以主张「律师-客户特权」的做法，一批内部文件因此公开。哲学家 Cailin O'Connor 10 月 27 日撰文梳理：文件显示 Meta 曾计划抹黑一直警示社交媒体伤害青少年的心理学家 Jonathan Haidt；内部研究员抱怨法务阻止他们研究青少年心理健康；Meta 还想与美国国家科学院合作，以「主导问题设定」并把产品功能评估排除在外。她认为这与烟草和化石能源行业操控科学共识的套路如出一辙，文章当天登上 HN。意义在于：社交平台面临的青少年成瘾诉讼和监管压力可能进一步加大，「企业资助研究」的独立性也会被重新审视。",
+   "links": [
+    "https://cailinoconnor.substack.com/p/its-now-official-tech-is-the-new",
+    "https://news.ycombinator.com/item?id=50276906"
+   ],
+   "topic": "meta-internal-docs-haidt-tech-new-tobacco-2026-10-28",
+   "firstSeen": "2026-10-29T03:57:13+08:00"
   }
  ],
- "lastChecked": "2026-10-29T03:39:26+08:00"
+ "lastChecked": "2026-10-29T03:57:13+08:00"
 }
