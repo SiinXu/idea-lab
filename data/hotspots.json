@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T03:57:13+08:00",
+ "lastUpdated": "2026-10-29T04:27:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23890,7 +23890,18 @@
    ],
    "topic": "meta-internal-docs-haidt-tech-new-tobacco-2026-10-28",
    "firstSeen": "2026-10-29T03:57:13+08:00"
+  },
+  {
+   "id": "cff8d922ed",
+   "title": "Alphabet 三季度营收 1276 亿美元增 25%：谷歌云收入翻倍至 307 亿美元，Gemini 应用用户破 10 亿",
+   "summary": "Alphabet 10 月 28 日发布 2026 年第三季度财报：总营收 1276 亿美元，同比增长 25%，连续第 13 个季度两位数增长；营业利润增 30%，利润率 31.8%。谷歌云收入同比暴涨 103% 至 307 亿美元，企业 AI 基础设施、AI 解决方案和 TPU 系统销售是主要动力；搜索收入增 12%，搜索查询增速为五年来最高。皮查伊称公司年化营收已达 5000 亿美元，Gemini 4 Argon 与 Carbon 处于前沿，自家模型 API 每分钟处理近 320 亿 token（一年前的四倍多），Gemini 应用用户达 10 亿。财报 PDF 刚发布就登上 HN。意义在于：AI 并未蚕食搜索，反而推高查询量，云和 TPU 正成为谷歌第二增长引擎。",
+   "links": [
+    "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf",
+    "https://news.ycombinator.com/item?id=50280197"
+   ],
+   "topic": "alphabet-q3-2026-earnings-cloud-103pct",
+   "firstSeen": "2026-10-29T04:27:35+08:00"
   }
  ],
- "lastChecked": "2026-10-29T03:57:13+08:00"
+ "lastChecked": "2026-10-29T04:27:35+08:00"
 }
