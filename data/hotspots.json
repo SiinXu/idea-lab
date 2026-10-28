@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T11:29:43+08:00",
+ "lastUpdated": "2026-10-28T11:30:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23114,7 +23114,17 @@
    ],
    "topic": "ai-video-editing-experts-opus55-2026-10-27",
    "firstSeen": "2026-10-28T11:29:43+08:00"
+  },
+  {
+   "id": "10439e81d0",
+   "title": "GitHub 热门：ai-design-skills 近万星，给 Claude Code / Cursor / Codex 用的设计技能包，首个技能专做落地页",
+   "summary": "elayadesign/ai-design-skills 登上 GitHub 每日趋势，已获约 9700 星（MIT 许可）。它是一组面向 AI 编程工具的设计技能，每个技能是独立文件夹，可直接放进 Claude Code 的 skills 目录、Cursor 规则或 Codex 的 AGENTS.md。首个技能 landing-page-design 会先提需求问题，再生成页面结构、转化文案和完整视觉系统（字体、间距、圆角、动效）；作者另有一个 redesign-skill 用于升级已有网站。对独立开发者来说，可以直接拿来提升 AI 生成页面的设计质感。",
+   "links": [
+    "https://github.com/elayadesign/ai-design-skills"
+   ],
+   "topic": "elayadesign-ai-design-skills-2026-10-28",
+   "firstSeen": "2026-10-28T11:30:20+08:00"
   }
  ],
- "lastChecked": "2026-10-28T11:29:43+08:00"
+ "lastChecked": "2026-10-28T11:30:20+08:00"
 }
