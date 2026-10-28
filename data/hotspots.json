@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T04:42:41+08:00",
+ "lastUpdated": "2026-10-29T05:46:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23911,7 +23911,41 @@
    ],
    "topic": "single-agent-over-subagents-anthropic-advice",
    "firstSeen": "2026-10-29T04:42:41+08:00"
+  },
+  {
+   "id": "476c6499ad",
+   "title": "Formlabs 推出 699 美元桌面光固化打印机 Form Studio 1：主打两小时内出件、免脏乱树脂流程，瞄准手办和模型玩家",
+   "summary": "专业 3D 打印厂商 Formlabs 推出面向爱好者的 Form Studio 1，创始版定价 699 美元，登上 HN 首页。官方称它是首款平价的专业级树脂打印机，大多数零件两小时内打完，细节锐利，整个流程安全、少异味、免脏乱；搭配其 Alpha 树脂和 VOC 抽风器后，是首款获得 UL GREENGUARD 低化学排放认证的树脂打印机，并采用开放平台。它的意义在于：专业厂把价格打进消费级区间，手办、桌游棋子、道具定制和小批量周边的门槛进一步降低，围绕模型文件、AI 生成 3D 模型和按需打印的小生意会更好做。",
+   "links": [
+    "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+    "https://news.ycombinator.com/item?id=50281044"
+   ],
+   "topic": "",
+   "firstSeen": "2026-10-29T05:46:47+08:00"
+  },
+  {
+   "id": "9a783b4021",
+   "title": "谷歌 AI Mode 被问「谁赢了 2020 年美国大选」时避而不答，只让用户去查联邦选举委员会",
+   "summary": "Ars Technica 10 月 28 日实测：在美国向谷歌搜索的 AI Mode 提问「谁赢得了 2020 年总统大选」，得到的是「请查阅联邦选举委员会（FEC）官方报告」之类的回避式回答；问 2024 年也类似，但 2000 年以来其他届选举都能直接给出正确答案，不同用户遇到的情况还不一样，而在美国以外提问时回答更直接。此事在社交媒体和 HN 引发讨论。它的意义在于：AI 搜索正在替代传统搜索结果，平台在敏感话题上的「安全回避」会直接影响事实获取和信任，也提醒做 AI 搜索可见度（GEO）的人：模型对不同地区、不同话题的回答策略并不一致。",
+   "links": [
+    "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+    "https://news.ycombinator.com/item?id=50280178"
+   ],
+   "topic": "",
+   "firstSeen": "2026-10-29T05:46:47+08:00"
+  },
+  {
+   "id": "48ebcbf0f3",
+   "title": "美国国土安全部大规模泄露：4.1 万名员工和承包商信息外流，含卧底 ICE 人员及 Palantir、Grok 相关项目成员",
+   "summary": "WIRED 10 月 28 日报道：透明组织 Distributed Denial of Secrets（DDoSecrets）公开了名为「Icepick」的档案，涉及美国国土安全部（DHS）及 ICE、CBP 等 7 个下属机构的 4.1 万多名员工和承包商，内容包括邮箱、手机号、办公地址、设施位置，以及窃听项目、Palantir 软件和 xAI 的 Grok 聊天机器人相关群组的成员名单。DDoSecrets 称数据来自 DHS 的 Okta 登录系统，更新至 2026 年 8 月 19 日。路透社也跟进报道。它的意义在于：身份认证平台（SSO/Okta）一旦失守，暴露的不只是账号，而是整个组织的结构图，企业身份安全和目录数据最小化将再次成为焦点。",
+   "links": [
+    "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+    "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
+    "https://news.ycombinator.com/item?id=50280864"
+   ],
+   "topic": "",
+   "firstSeen": "2026-10-29T05:46:47+08:00"
   }
  ],
- "lastChecked": "2026-10-29T04:42:41+08:00"
+ "lastChecked": "2026-10-29T05:46:47+08:00"
 }
