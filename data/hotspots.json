@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T23:16:23+08:00",
+ "lastUpdated": "2026-10-28T23:57:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23661,7 +23661,29 @@
    ],
    "topic": "designers-ditch-figma-ai-design-report-2026-10-28",
    "firstSeen": "2026-10-28T23:16:23+08:00"
+  },
+  {
+   "id": "b37f61bf00",
+   "title": "扫描码云 Gitee 725 万个公开仓库：发现 2.64 万个仍然有效的密钥，含企业 AI 平台管理员凭证",
+   "summary": "10 月 28 日 MongoDB 技术博客发文，作者用 TruffleHog 和 Kingfisher 两款密钥扫描工具，扫描了国内最大代码托管平台 Gitee 上约 725 万个公开仓库，验证出 26,400 个仍可用的凭证，其中包括某大型企业 AI 平台的组织管理员凭证和数千个云服务访问密钥。Gitee 公开接口受限，作者靠用户搜索接口、探索页、用户主页和站内搜索组件拼出了 170 万用户名语料。与 GitHub 不同，Gitee 没有与云厂商联动的自动密钥扫描机制。该文刚上 Hacker News。趋势信号：AI 时代 API Key 价值更高、泄露更频繁，面向国内代码平台和中小团队的密钥泄露监测、自动吊销服务有明确需求。",
+   "links": [
+    "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets",
+    "https://news.ycombinator.com/item?id=50275375"
+   ],
+   "topic": "gitee-7m-repos-live-secrets-scan-2026-10-28",
+   "firstSeen": "2026-10-28T23:57:15+08:00"
+  },
+  {
+   "id": "4b1fa572a1",
+   "title": "AlpineBSD 亮相 HN：基于 NetBSD 内核、主打「尽量不用 AI 生成软件」的新操作系统",
+   "summary": "10 月 28 日 Hacker News 热帖：AlpineBSD 是一个以 NetBSD 内核为基础、用户空间借鉴 Alpine Linux 的新操作系统，使用 apk-tools 包管理器、busybox 和 s6 初始化系统。它明确规定基础系统和主软件仓库不收录任何大模型生成的代码，目标是让用户尽可能少用 AI 生成的软件。项目仍在早期，暂无安装程序，硬件支持也有限。趋势信号：「无 AI 代码」正在成为一种开源项目的立场和卖点，代码来源审计、人工编写认证等需求可能随之出现。",
+   "links": [
+    "https://wiki.alpinebsd.org",
+    "https://news.ycombinator.com/item?id=50274251"
+   ],
+   "topic": "alpinebsd-no-ai-code-os-2026-10-28",
+   "firstSeen": "2026-10-28T23:57:15+08:00"
   }
  ],
- "lastChecked": "2026-10-28T23:16:23+08:00"
+ "lastChecked": "2026-10-28T23:57:15+08:00"
 }
