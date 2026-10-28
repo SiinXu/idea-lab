@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T12:14:08+08:00",
+ "lastUpdated": "2026-10-28T12:23:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23144,7 +23144,28 @@
    ],
    "topic": "theo-devs-ditch-dashboards-agent-ready-2026-10-28",
    "firstSeen": "2026-10-28T12:14:08+08:00"
+  },
+  {
+   "id": "dd74f0434d",
+   "title": "DeepSeek V4.1 Flash 1017 登顶 OpenRouter 周榜：一周处理 35.4 万亿 token，环比暴涨 382%",
+   "summary": "DeepSeek 10 月 17 日发布的 V4.1 Flash 1017 版本在 OpenRouter 周用量榜登顶，单周 token 量达 35.4 万亿，超过 Claude Opus 5.5 等闭源模型。开发者称赞它在编程和 Agent 任务上接近前沿水平，而 API 价格不变，成本比顶级闭源模型低 13–20 倍，还能在消费级硬件本地运行。OpenRouter CEO Alex Atallah 表示 AI 的未来是「多选」而非一家独大；也有人质疑 OpenRouter 流量不代表企业市场，后者仍有九成以上推理跑在闭源模型上。对独立开发者而言，用低价开源模型做路由、成本优化和本地化部署的工具正有需求。",
+   "links": [
+    "https://x.com/i/trending/2115199137310265571",
+    "https://x.com/i/trending/2115271263958495572"
+   ],
+   "topic": "deepseek-v41-flash-openrouter-top-2026-10-28",
+   "firstSeen": "2026-10-28T12:23:23+08:00"
+  },
+  {
+   "id": "46241cad7c",
+   "title": "Cursor 设计模式上线 Annotate：直接在运行中的页面上圈点、画注释，让 AI Agent 按图改 UI",
+   "summary": "Cursor 在 Design Mode 中新增 Annotate 功能：开发者可点选页面元素、手绘标注、调整样式，并在不同屏幕尺寸下检查布局，再把这些视觉反馈交给 AI Agent 修改代码。每条标注会附带元素标签、计算样式、截图和组件名，支持 React、Vue、Svelte，可批量发送或逐条即时发送。Cursor 设计负责人 Jenny Wen 公开点赞，用户称它像真实团队里「圈图提意见」的协作方式。趋势信号：AI 编程正从文字提示走向可视化反馈，围绕设计评审、UI 走查的 Agent 工具有机会。",
+   "links": [
+    "https://x.com/i/trending/2115174972972835020"
+   ],
+   "topic": "cursor-design-mode-annotate-2026-10-28",
+   "firstSeen": "2026-10-28T12:23:23+08:00"
   }
  ],
- "lastChecked": "2026-10-28T12:14:08+08:00"
+ "lastChecked": "2026-10-28T12:23:23+08:00"
 }
