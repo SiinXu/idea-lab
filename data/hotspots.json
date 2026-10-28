@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T14:09:02+08:00",
+ "lastUpdated": "2026-10-28T14:27:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23269,7 +23269,17 @@
    ],
    "topic": "anthropic-s1-spacex-compute-deal-2026-10-28",
    "firstSeen": "2026-10-28T14:09:02+08:00"
+  },
+  {
+   "id": "de1be1bb3a",
+   "title": "面壁智能 OpenBMB 开源 MiniCPM-OCR：1.3B 小模型登顶真实场景文档解析，另配 2B 模型给 OCR 结果打可信度分",
+   "summary": "10 月 28 日 X 热议：OpenBMB 发布 MiniCPM-OCR 套件，1.3B 参数主模型在 Real5-OmniDocBench 上拿到 93.68 分，擅长处理扫描件、倾斜和褶皱的真实文档；配套的 2B「Jev」模型专门给 OCR 输出打分（AUROC 93.6），用来标出可能识别错的地方。单张 RTX 5090 每分钟可处理约 128 页，Apache 2.0 协议开源，已有用户拿它从 Anthropic 421 页的 S-1 招股书中抽取结构化数据。趋势信号：小模型 OCR + 自带置信度校验，让发票、合同、财报批量解析的低成本私有化部署更现实。",
+   "links": [
+    "https://x.com/i/trending/2115162230568153195"
+   ],
+   "topic": "openbmb-minicpm-ocr-2026-10-28",
+   "firstSeen": "2026-10-28T14:27:15+08:00"
   }
  ],
- "lastChecked": "2026-10-28T14:09:39+08:00"
+ "lastChecked": "2026-10-28T14:27:15+08:00"
 }
