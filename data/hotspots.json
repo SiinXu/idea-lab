@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T19:16:41+08:00",
+ "lastUpdated": "2026-10-28T19:55:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23482,7 +23482,18 @@
    ],
    "topic": "ruview-wifi-sensing",
    "firstSeen": "2026-10-28T19:16:41+08:00"
+  },
+  {
+   "id": "c1abda2ec7",
+   "title": "eMudhra 事件新进展：苹果 macOS 自带的 git、curl、python3 十天后仍信任被泄露证书，macOS 27.2 还撤销了用户的手动修复",
+   "summary": "10 月 28 日冲上 HN 的一篇技术文章指出：苹果在 10 月 17 日就收到 eMudhra 中间 CA 私钥泄露的通报，但截至 10 月 28 日，macOS 随附的开发者工具（git、curl、python3）仍信任这批已泄露证书；10 月 26 日发布的 macOS 27.2 不仅没修，还把用户手动应用的规避措施覆盖掉。这意味着攻击者可拦截这些工具的 HTTPS 连接，篡改 git clone/pull 下来的代码、截获 GitHub 令牌等凭据。文章提供了一条 git ls-remote 检测命令：出现证书错误说明安全，能列出提交则说明受影响。与此同时，数十个开源项目早已发布修复。",
+   "links": [
+    "https://emudhra.we-have-a-problem.com/apple.html",
+    "https://news.ycombinator.com/item?id=50271640"
+   ],
+   "topic": "emudhra-apple-macos-git-still-trusts",
+   "firstSeen": "2026-10-28T19:55:19+08:00"
   }
  ],
- "lastChecked": "2026-10-28T19:16:41+08:00"
+ "lastChecked": "2026-10-28T19:55:19+08:00"
 }
