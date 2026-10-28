@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T01:42:50+08:00",
+ "lastUpdated": "2026-10-29T02:17:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23793,7 +23793,18 @@
    ],
    "topic": "google-sleep-framework-continual-learning",
    "firstSeen": "2026-10-29T01:42:50+08:00"
+  },
+  {
+   "id": "e00662e452",
+   "title": "苹果开售 512GB 统一内存版 M5 Ultra Mac Studio：本地跑超大开权重模型的顶配，HN 网友称售价约 2.23 万美元",
+   "summary": "10 月 28 日苹果官网 Mac Studio 选购页上线 512GB 统一内存选项（M5 Ultra）。据 HN 讨论帖网友整理，M5 Ultra 配 1TB 存储时 96GB 约 6,799 美元、256GB 约 10,799 美元、512GB 约 22,299 美元，较 2025 年同为 512GB 的 M3 Ultra（约 9,499 美元）大幅涨价，有网友称交付已排到 11 月底至 12 月初，普通 M5 Ultra 配置则延到明年 1 月。结合近期 Muse Spark Open 等超大开权重模型可在 Mac Studio 集群上本地运行，这款机器是「本地私有化跑大模型」赛道的风向标，也反映内存短缺推高硬件价格。",
+   "links": [
+    "https://www.apple.com/shop/buy-mac/mac-studio",
+    "https://news.ycombinator.com/item?id=50277166"
+   ],
+   "topic": "mac-studio-m5-ultra-512gb-2026-10-28",
+   "firstSeen": "2026-10-29T02:17:33+08:00"
   }
  ],
- "lastChecked": "2026-10-29T01:42:50+08:00"
+ "lastChecked": "2026-10-29T02:17:33+08:00"
 }
