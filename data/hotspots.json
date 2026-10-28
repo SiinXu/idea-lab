@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T18:59:42+08:00",
+ "lastUpdated": "2026-10-28T19:16:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23452,7 +23452,37 @@
    ],
    "topic": "dutch-mp-anthropic-amsterdam-ipo-backlash",
    "firstSeen": "2026-10-28T18:59:42+08:00"
+  },
+  {
+   "id": "50e4a04dc2",
+   "title": "Expo 官方开源 expo/skills：给 Claude Code、Codex 等 AI 编码代理的 Expo/EAS 技能包，登上 GitHub 日榜",
+   "summary": "10 月 28 日 GitHub Trending：Expo 团队维护的 expo/skills 当日新增约 212 星、总星数约 3300。仓库收录一组让 AI 编码代理正确使用 Expo 项目和 Expo Application Services（EAS 构建、发布、更新）的技能说明，属于「框架官方给 Agent 写说明书」这一趋势：开发者不再只读文档，而是直接把官方技能装进 Claude Code、Codex 等工具，让代理按官方最佳实践搭建和发布 React Native 应用。",
+   "links": [
+    "https://github.com/expo/skills"
+   ],
+   "topic": "expo-skills-agent-pack",
+   "firstSeen": "2026-10-28T19:16:41+08:00"
+  },
+  {
+   "id": "df43f2fe1a",
+   "title": "Macro 开源统一团队工作区：邮件、聊天、文档、任务、通话和 CRM 用 @ 互链并共享 AI 记忆",
+   "summary": "10 月 28 日 GitHub Trending：macro-inc/macro 当日新增约 106 星、总星数约 5200。Macro 把邮件、聊天、文档、任务、AI 代理、通话和 CRM 放进同一个工作区，各类内容可以用 @ 相互引用，并由一份共享的 AI 记忆贯穿，定位是 Slack + Notion + Gmail + CRM 的一体化开源替代。它反映出「AI 原生办公套件」赛道正在从单点工具转向带统一上下文的全家桶。",
+   "links": [
+    "https://github.com/macro-inc/macro"
+   ],
+   "topic": "macro-unified-workspace-oss",
+   "firstSeen": "2026-10-28T19:16:41+08:00"
+  },
+  {
+   "id": "a9098c78d4",
+   "title": "RuView 再上 GitHub 日榜：用普通 WiFi 信号做实时空间感知、心率呼吸监测和人员检测，总星数破 10 万",
+   "summary": "10 月 28 日 GitHub Trending：ruvnet/RuView 当日新增约 415 星，总星数已超过 10 万。项目利用普通 WiFi 设备的信号变化（无需任何摄像头画面）实现实时空间定位、生命体征监测和在场检测，主打隐私友好的感知方案，适合智能家居、养老看护和安防场景。WiFi 感知的普及也引发对「无摄像头监控」隐私边界的讨论。",
+   "links": [
+    "https://github.com/ruvnet/RuView"
+   ],
+   "topic": "ruview-wifi-sensing",
+   "firstSeen": "2026-10-28T19:16:41+08:00"
   }
  ],
- "lastChecked": "2026-10-28T18:59:42+08:00"
+ "lastChecked": "2026-10-28T19:16:41+08:00"
 }
