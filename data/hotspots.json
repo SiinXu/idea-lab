@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T02:57:11+08:00",
+ "lastUpdated": "2026-10-29T03:15:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23826,7 +23826,28 @@
    ],
    "topic": "arbium-helixcove-human-traces-2026-10-28",
    "firstSeen": "2026-10-29T02:57:11+08:00"
+  },
+  {
+   "id": "cca00d32da",
+   "title": "AI 举债潮逼近华尔街信贷极限：科技巨头今年为数据中心借债或超 5700 亿美元，部分收益率破 10%",
+   "summary": "X 热议：Meta、亚马逊、甲骨文、Alphabet、SpaceX、CoreWeave 等今年为 AI 基础设施大举发债，全年规模有望超过 5700 亿美元，是以往纪录的两倍多。数据中心相关债券和贷款收益率明显走高，部分超过 10%，这些公司的信用违约互换（CDS）也创下新高，说明市场对违约风险的担忧在上升。银行难以把风险转给保险公司和其他买家，开始变得谨慎。它的意义在于：AI 军备竞赛的瓶颈正从芯片和电力扩展到「钱从哪来」，融资成本上升可能拖慢后续数万亿美元的算力建设。",
+   "links": [
+    "https://x.com/i/trending/2115506903396606344"
+   ],
+   "topic": "ai-datacenter-debt-credit-limit-2026-10-28",
+   "firstSeen": "2026-10-29T03:15:44+08:00"
+  },
+  {
+   "id": "0bdc671869",
+   "title": "Rest of World：大厂数据中心「抢水」正在全球激起反抗，新书《Hyperscale》记录各地社区抵制",
+   "summary": "Rest of World 刊发作者 Paris Marx 新书《Hyperscale: The Ambition and Excess of Big Tech's Data Empires》的节选，梳理数据中心冷却用水需求如何在拉美等地引发社区抵制。文章回顾了加州大学 2023 年的估算：训练初代 ChatGPT 背后的模型约耗水 18.5 万加仑，而谷歌、OpenAI 后来公布的「单次查询只用几滴水」口径受到独立研究者质疑。文章同时登上 HN。它提示 AI 基建的下一个约束可能不只是电力，还有水资源和地方社区的许可。",
+   "links": [
+    "https://restofworld.org/2026/ai-datacenters-water-resistance-global/",
+    "https://news.ycombinator.com/item?id=50278754"
+   ],
+   "topic": "restofworld-datacenter-water-resistance-2026-10-28",
+   "firstSeen": "2026-10-29T03:15:44+08:00"
   }
  ],
- "lastChecked": "2026-10-29T02:57:11+08:00"
+ "lastChecked": "2026-10-29T03:15:44+08:00"
 }
