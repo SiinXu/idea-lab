@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T13:41:20+08:00",
+ "lastUpdated": "2026-10-28T13:56:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23229,7 +23229,27 @@
    ],
    "topic": "ai-math-vs-coding-gap-2026-10-28",
    "firstSeen": "2026-10-28T13:41:20+08:00"
+  },
+  {
+   "id": "d671c27c46",
+   "title": "Anthropic 收购「一人生物科技公司」Mithril Medicine：创始人靠 Claude 包办合同、实验协调与数据，18 个月内拿到罕见肌营养不良小鼠阳性结果",
+   "summary": "10 月 28 日 X 热议：Anthropic 宣布与百时美施贵宝、BigHat Biosciences 等六家生物医药公司合作，展示 Claude 在抗体生成、CAR-T 设计和生产审查中的作用，并收购了 Cody Tranbarger（网名 Professor Oak）一个人运营的 Mithril Medicine。他只靠兼职顾问和外部实验室，用 Claude 处理合同、物流和数据，在不到 18 个月里为两种儿童罕见肌营养不良症拿到有希望的小鼠结果，若验证通过最早 2028 年底进入人体试验。趋势信号：「一人公司 + AI + 外包实验室」的模式延伸到药物研发，面向小团队的研发运营、CRO 对接和合规文档智能体有机会。",
+   "links": [
+    "https://x.com/i/trending/2115187301261423089"
+   ],
+   "topic": "anthropic-acquires-mithril-medicine-2026-10-28",
+   "firstSeen": "2026-10-28T13:56:06+08:00"
+  },
+  {
+   "id": "58dfcef204",
+   "title": "X 热议：AI + 制造创业概念火热，但有订单有员工的工厂反而融不到成长资金",
+   "summary": "10 月 28 日 X 上实业圈和技术创业者讨论「AI + 制造」项目，比如自动化 CNC 加工、供应商撮合平台和 AI 驱动的工厂系统。但不少已在经营的制造企业融资受阻：风投嫌工厂重资产、利润薄，银行只看设备抵押价值而不看现金流和订单；也有人批评没有真实工厂的 AI 制造 pitch 不靠谱，而 Re:Build 这类公司已融资 21 亿美元扩张美国产能。趋势信号：再工业化浪潮下，基于订单和现金流的制造业融资、AI 报价与产能撮合工具存在缺口。",
+   "links": [
+    "https://x.com/i/trending/2115310715078660212"
+   ],
+   "topic": "ai-manufacturing-funding-gap-2026-10-28",
+   "firstSeen": "2026-10-28T13:56:06+08:00"
   }
  ],
- "lastChecked": "2026-10-28T13:41:20+08:00"
+ "lastChecked": "2026-10-28T13:56:06+08:00"
 }
