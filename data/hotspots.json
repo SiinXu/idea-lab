@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T23:57:15+08:00",
+ "lastUpdated": "2026-10-29T00:20:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -23683,7 +23683,29 @@
    ],
    "topic": "alpinebsd-no-ai-code-os-2026-10-28",
    "firstSeen": "2026-10-28T23:57:15+08:00"
+  },
+  {
+   "id": "b7a7b4af3a",
+   "title": "特斯拉 Semi 电动重卡在加州 I-880 无碰撞自燃：电池燃烧致高速封闭约 10 小时",
+   "summary": "10 月 28 日 Electrek 报道：一辆特斯拉 Semi 电动重卡于 10 月 27 日傍晚在加州海沃德 I-880 南向车道自燃，现场没有发生碰撞，司机安全撤离。加州公路巡警以「可能有危险化学烟雾」为由双向封路，南向车道直到次日凌晨约 3:30 才全部恢复通行，前后约 10 小时；起火原因仍在调查，特斯拉尚未回应。文章称这已不是 Semi 第一次起火。该帖正在 Hacker News 升温。趋势信号：电动重卡规模化上路后，电池热失控监测、车队安全预警、事故处置培训和保险定价都会变成更受关注的需求。",
+   "links": [
+    "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
+    "https://news.ycombinator.com/item?id=50274706"
+   ],
+   "topic": "tesla-semi-fire-i880-2026-10-28",
+   "firstSeen": "2026-10-29T00:20:37+08:00"
+  },
+  {
+   "id": "97373eedda",
+   "title": "Surge AI 发布 DAYJOB: Tax 基准：AI 代理做 50 项真实税务工作，最好成绩通过率仅 10.8%",
+   "summary": "Surge AI 10 月 27 日发布 DAYJOB: Tax 基准，在 50 个环境、1789 份文件里让 AI 代理从客户需求一路做到报税表、底稿、技术复核或咨询意见，考察的不只是税法知识和计算，还有发现客户没问到的关键问题、处理矛盾记录等职业判断。按 95% 评分门槛计算的单次通过率，Claude Sonnet 5.5 以 10.8% 居首，Claude Fable 5.1 为 9.6%，Claude Opus 5.5 为 9.2%。此前该系列已覆盖医疗和金融。该文刚登上 Hacker News。趋势信号：专业服务类 AI 代理离「独立交付」还很远，「AI 起草 + 专业人士复核」的税务、财务工作流和垂直评测数据仍有市场空间。",
+   "links": [
+    "https://surgehq.ai/blog/dayjob-tax",
+    "https://news.ycombinator.com/item?id=50275626"
+   ],
+   "topic": "surge-dayjob-tax-benchmark-2026-10-28",
+   "firstSeen": "2026-10-29T00:20:37+08:00"
   }
  ],
- "lastChecked": "2026-10-28T23:57:15+08:00"
+ "lastChecked": "2026-10-29T00:20:37+08:00"
 }
