@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-28T09:54:04+08:00",
+ "lastUpdated": "2026-10-28T10:13:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -22981,7 +22981,39 @@
    ],
    "topic": "bettascore-reliability-reviewers-vs-owners-2026-10-27",
    "firstSeen": "2026-10-28T09:54:04+08:00"
+  },
+  {
+   "id": "d4cfba1148",
+   "title": "Moxnox 1.0 发布：仿 Windows NT 设计、兼容 POSIX、直接跑在 btrfs 上的自托管业余操作系统",
+   "summary": "开发者 Mark Harmstone 在 GitHub 发布 Moxnox 1.0：系统调用等设计仿照 Windows NT，同时兼容 POSIX，可运行重新编译的类 Unix 软件并自带完整 GNU 基础系统，已能在自身上编译自己（self-hosting）。1.0 版约 13 万行 C++，支持 amd64 与 aarch64，根文件系统为 btrfs，提供可直接用 QEMU 启动的镜像与内核。作者提醒 btrfs 实现尚未充分打磨，只应挂载可丢弃的文件系统。该项目登上 Hacker News 首页。",
+   "links": [
+    "https://github.com/maharmstone/moxnox",
+    "https://news.ycombinator.com/item?id=50267569"
+   ],
+   "topic": "moxnox-1-0-nt-like-os-btrfs-2026-10-28",
+   "firstSeen": "2026-10-28T10:13:47+08:00"
+  },
+  {
+   "id": "ec58d21b88",
+   "title": "「给美国法典装上 Git」：Lexifina 主张像看代码 blame 一样追溯每条联邦法律条文由哪部公法、何时写入",
+   "summary": "法律 AI 工具 Lexifina 10 月 28 日发文《Git for the US Code》：程序员能查看任意一行代码的作者、时间和历史版本，律师却要翻条文脚注才能弄清某句法条由哪部公法写入、何时生效。文章以《美国法典》第 11 编 §1182(1)「小企业债务人」定义历经 CARES 法案临时调整等为例，指出修订记录和生效日期散落在文字注释里，导致大模型做法律检索时难以掌握条文沿革。作者主张把法典做成可逐行追溯版本的系统，为 AI 法律研究提供可靠底座。该文刚登上 Hacker News。",
+   "links": [
+    "https://lexifina.com/blog/git-for-the-us-code",
+    "https://news.ycombinator.com/item?id=50268380"
+   ],
+   "topic": "lexifina-git-for-us-code-2026-10-28",
+   "firstSeen": "2026-10-28T10:13:47+08:00"
+  },
+  {
+   "id": "0438c047b0",
+   "title": "X 热议：AI 智能体让内容与人类注意力「脱钩」——人们只看 AI 摘要，靠眼球和停留时长的媒体与广告模式受冲击",
+   "summary": "X 热门话题讨论：越来越多人让 AI 智能体代读文章、代看视频，只取摘要和要点，内容消费不再需要人类真正投入注意力，这挑战了依赖浏览量、停留时长的媒体与广告商业模式。讨论中提到自由职业者和公司正转向按结果计费，部分网站开始屏蔽智能体以保护广告收入；支持者看重效率和更低的认知负担，反对者担心摘要漏掉关键细节。面向智能体的内容授权、付费抓取与「给机器看的内容」格式可能是新机会。",
+   "links": [
+    "https://x.com/i/trending/2115230935553822997"
+   ],
+   "topic": "ai-agents-decouple-content-attention-2026-10-28",
+   "firstSeen": "2026-10-28T10:13:47+08:00"
   }
  ],
- "lastChecked": "2026-10-28T09:54:04+08:00"
+ "lastChecked": "2026-10-28T10:13:47+08:00"
 }
