@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T05:57:08+08:00",
+ "lastUpdated": "2026-10-30T06:12:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24912,7 +24912,29 @@
    ],
    "topic": "yc-labs-agent-swarms-minecraft-2026-10-29",
    "firstSeen": "2026-10-30T05:57:08+08:00"
+  },
+  {
+   "id": "db504d2125",
+   "title": "Tor Browser 16.0 发布：首个基于 Firefox ESR 153 的稳定版，设置页全面重做，审计 270+ 项上游隐私风险",
+   "summary": "Tor Project 今天发布桌面版与安卓版 Tor Browser 16.0，这是首个基于 Firefox ESR 153 的稳定版本，吸收了 Firefox 一整年的上游更新。团队同时完成年度 ESR 迁移审计，排查并处理了 270 多个可能影响隐私与安全的 Bugzilla 问题。桌面端跟随 Firefox 6 月的改版，重新设计了设置页：取消老旧的「常规」页，拆分为外观、下载、标签与浏览、无障碍、语言等新页面，让绕过审查、调整安全级别等选项更易找到。信号：隐私浏览器正把易用性当作核心竞争力，面向普通用户的隐私工具教程与配置指南仍有需求。",
+   "links": [
+    "https://blog.torproject.org/new-release-tor-browser-160/",
+    "https://news.ycombinator.com/item?id=50295488"
+   ],
+   "topic": "tor-browser-16-esr153-2026-10-29",
+   "firstSeen": "2026-10-30T06:12:49+08:00"
+  },
+  {
+   "id": "56dcfd2125",
+   "title": "ElementaryUI 登上 HN：用类 SwiftUI 语法写网页，Embedded Swift 编译成仅几 KB 的 WebAssembly",
+   "summary": "开源框架 ElementaryUI 今天出现在 Hacker News。它让开发者用 SwiftUI 风格的声明式语法直接构建网页界面，代码通过 WebAssembly 在浏览器里原生运行；内置 @State、@Environment、@Reactive 响应式状态管理，借助 Embedded Swift 把产物压到 KB 级而非 MB 级，还自带基于 CSS 的 FLIP 自动过渡动画，并用 Vite 提供热重载开发服务器。信号：WebAssembly 让「一门语言写全端」继续扩张，iOS 开发者低成本做 Web 前端的工具链与教程有机会。",
+   "links": [
+    "https://elementary.codes",
+    "https://news.ycombinator.com/item?id=50295821"
+   ],
+   "topic": "elementaryui-swift-wasm-browser-2026-10-29",
+   "firstSeen": "2026-10-30T06:12:49+08:00"
   }
  ],
- "lastChecked": "2026-10-30T05:57:08+08:00"
+ "lastChecked": "2026-10-30T06:12:49+08:00"
 }
