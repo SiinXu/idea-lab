@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T13:40:34+08:00",
+ "lastUpdated": "2026-10-29T13:54:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24258,7 +24258,18 @@
    ],
    "topic": "forgekernel-ai-gpu-kernel-live-2026-10",
    "firstSeen": "2026-10-29T13:40:34+08:00"
+  },
+  {
+   "id": "5028d62dc0",
+   "title": "Vercel CI 开放公测：只跑受改动影响的任务，内部仓库从 push 到 CI 通过快 2–6 倍，专治 AI 代理把 PR 堆满",
+   "summary": "Vercel 于 10 月 28 日把 CI 搬进自家平台并开放公测，所有套餐可用。用法是在 Turborepo 的 turbo.json 里给 lint、test 等任务打上 ci 标签，每次推送就自动执行，不用再写 GitHub Actions 的 YAML。平台会只跑被本次改动影响到的任务，复用 Vercel 远程缓存，依赖每次只装一次并跨提交缓存，算力按负载伸缩。官方称在内部仓库里从 git push 到 CI 通过的等待时间缩短 2–6 倍；接入方式本身也面向编码代理：让代理执行 npx skills use vercel/ci@setup，它会自己选任务、配置并开 PR。CEO Guillermo Rauch 把它定位为解决「AI 写代码太快、CI 跟不上」的瓶颈。信号：编码代理普及后，瓶颈从写代码转到验证和合并，增量 CI、测试选择、PR 排队与自动验收会是新的工具机会。",
+   "links": [
+    "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
+    "https://x.com/i/trending/2115660852221116856"
+   ],
+   "topic": "vercel-ci-beta-2026-10",
+   "firstSeen": "2026-10-29T13:54:20+08:00"
   }
  ],
- "lastChecked": "2026-10-29T13:40:34+08:00"
+ "lastChecked": "2026-10-29T13:54:20+08:00"
 }
