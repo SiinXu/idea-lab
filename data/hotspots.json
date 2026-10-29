@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T09:07:47+08:00",
+ "lastUpdated": "2026-10-29T09:31:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24173,7 +24173,18 @@
    ],
    "topic": "microzig-no-llm-policy-2026-10-28",
    "firstSeen": "2026-10-29T09:07:47+08:00"
+  },
+  {
+   "id": "34faf52b24",
+   "title": "《纽约时报》Cooking 应用上线 AI 食材替换功能，付费读者强烈反对：约 77% 评论持负面态度",
+   "summary": "NYT Cooking 继单位换算、份量缩放之后，又在 iOS 应用上线 AI 菜谱改写功能，主打「食材替换」，编辑团队称逐条评估过回答质量。Nieman Lab 统计公告下 159 条读者评论，约 77% 为负面、14% 为正面；读者普遍抱怨「付年费是为了人写的内容」并要求关闭开关，官方暂不提供。正面反馈主要集中在无麸质等饮食限制的改写。信号：订阅型内容品牌加 AI 功能会面临核心用户反弹，「AI 可关闭开关、人工审核标识、针对过敏/饮食限制的垂直改写工具」更容易被接受。",
+   "links": [
+    "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+    "https://news.ycombinator.com/item?id=50282766"
+   ],
+   "topic": "nyt-cooking-ai-substitution-backlash-2026-10-28",
+   "firstSeen": "2026-10-29T09:31:52+08:00"
   }
  ],
- "lastChecked": "2026-10-29T09:07:47+08:00"
+ "lastChecked": "2026-10-29T09:31:52+08:00"
 }
