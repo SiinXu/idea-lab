@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T02:08:14+08:00",
+ "lastUpdated": "2026-10-30T02:25:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24767,7 +24767,17 @@
    ],
    "topic": "copilotkit-openbot",
    "firstSeen": "2026-10-30T02:08:14+08:00"
+  },
+  {
+   "id": "fcaebc5788",
+   "title": "Claude-Code-Game-Studios 登上 GitHub 日榜：49 个 AI 代理 + 74 个技能，把一次 Claude Code 会话变成完整游戏工作室",
+   "summary": "开源项目 Donchitos/Claude-Code-Game-Studios 今天出现在 GitHub Trending 日榜，星标约 2.9 万。它按真实游戏工作室的层级组织 49 个专职代理（总监守愿景、部门负责人管领域、专员动手），配套 74 个工作流技能、15 个钩子和 14 条规则，为单人 AI 游戏开发补上设计文档、评审和 QA 流程。信号：「多代理按组织架构协作」的垂直行业模板正在走红，可复制到其他创作和开发领域。",
+   "links": [
+    "https://github.com/Donchitos/Claude-Code-Game-Studios"
+   ],
+   "topic": "claude-code-game-studios",
+   "firstSeen": "2026-10-30T02:25:31+08:00"
   }
  ],
- "lastChecked": "2026-10-30T02:08:14+08:00"
+ "lastChecked": "2026-10-30T02:25:31+08:00"
 }
