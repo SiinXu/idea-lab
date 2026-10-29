@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T06:12:49+08:00",
+ "lastUpdated": "2026-10-30T06:42:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24934,7 +24934,20 @@
    ],
    "topic": "elementaryui-swift-wasm-browser-2026-10-29",
    "firstSeen": "2026-10-30T06:12:49+08:00"
+  },
+  {
+   "id": "89bac0471e",
+   "title": "币安盗币事件升级：链上标记「binance-hacker-1029」持有约 56–58 亿美元，或成史上最大加密盗案，币安暂停多链提币",
+   "summary": "后续进展：Arkham 将一组钱包标记为「binance-hacker-1029」，持仓约 56–58 亿美元（含约 15 亿美元比特币、9 亿美元以太坊、14 亿美元 USDT/USDC）；Decrypt 链上统计至少 55.7 亿美元从以太坊、比特币、Tron 三条链上的币安热钱包流出。Tether 与 Circle 已冻结约 18–24 亿美元稳定币，币安向 TechCrunch 确认发生安全事件并暂停多条网络提币，赵长鹏称用户资金将全额覆盖。比特币跌破 7.9 万美元，BNB 跌约 7%。攻击者如何拿到签名仍不明。信号：交易所热钱包签名安全、链上实时监控与稳定币冻结机制将成焦点，安全审计、钱包风控类产品需求上升。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50296470",
+    "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+    "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
+    "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/"
+   ],
+   "topic": "binance-hack-5-6b-update-2026-10-29",
+   "firstSeen": "2026-10-30T06:42:52+08:00"
   }
  ],
- "lastChecked": "2026-10-30T06:12:49+08:00"
+ "lastChecked": "2026-10-30T06:42:52+08:00"
 }
