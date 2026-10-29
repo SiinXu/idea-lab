@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T21:00:28+08:00",
+ "lastUpdated": "2026-10-29T21:16:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24499,7 +24499,18 @@
    ],
    "topic": "doordash-acquires-instacart-2026-10",
    "firstSeen": "2026-10-29T21:00:28+08:00"
+  },
+  {
+   "id": "55721d6c56",
+   "title": "「如果 IPv4 地址是国土」：按 IP 地址占有量重画世界地图的交互可视化登上 HN 热榜",
+   "summary": "IP 数据服务商 IPTrust 发布交互地图：全球除南极外约 1.35 亿平方公里陆地、约 36 亿个可定位 IPv4 地址，把每个国家的面积按其 IPv4 地址份额重新绘制，可在真实面积与 IPv4 面积之间切换，并用颜色标出放大或缩小的倍数。发布不到一小时即冲上 Hacker News 首页。信号：数据公司用「自家数据做一张反直觉的可视化」做内容营销依然很有效，这类可分享的交互图是 B2B 数据产品低成本获客的好打法。",
+   "links": [
+    "https://iptrust.co/blog/if-ipv4-were-land",
+    "https://news.ycombinator.com/item?id=50287775"
+   ],
+   "topic": "ipv4-land-map-viz-2026-10",
+   "firstSeen": "2026-10-29T21:16:24+08:00"
   }
  ],
- "lastChecked": "2026-10-29T21:00:28+08:00"
+ "lastChecked": "2026-10-29T21:16:24+08:00"
 }
