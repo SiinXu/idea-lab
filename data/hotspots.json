@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T03:56:07+08:00",
+ "lastUpdated": "2026-10-30T04:07:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24832,7 +24832,18 @@
    ],
    "topic": "dontallow-macos-local-network-prompt-2026-10-29",
    "firstSeen": "2026-10-30T03:56:07+08:00"
+  },
+  {
+   "id": "deba194d18",
+   "title": "开源 DAW「LYNX」登上 HN：用 C++20/JUCE 复刻 FL Studio 工作流，可直接导入 .flp 工程",
+   "summary": "GitHub 项目 Ka1-S/LYNX-SHARE 今天登上 Hacker News（约 23 分、14 条评论）。它是一个轻量、免费、跨平台的开源数字音频工作站，基于 C++20 与 JUCE，照搬 FL Studio 的通道机架、钢琴卷帘、播放列表和混音台布局，并支持导入 FL Studio 的 .flp 工程文件，采用 AGPL-3.0 许可，仓库目前约 169 星。信号：音乐制作软件里「兼容主流商业 DAW 工程格式的开源替代」开始出现，面向学生和入门制作人的免费创作工具、插件和教程仍有需求。",
+   "links": [
+    "https://github.com/Ka1-S/LYNX-SHARE",
+    "https://news.ycombinator.com/item?id=50293308"
+   ],
+   "topic": "lynx-open-source-daw-fl-studio-2026-10-29",
+   "firstSeen": "2026-10-30T04:07:50+08:00"
   }
  ],
- "lastChecked": "2026-10-30T03:56:07+08:00"
+ "lastChecked": "2026-10-30T04:07:50+08:00"
 }
