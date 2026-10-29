@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T12:08:13+08:00",
+ "lastUpdated": "2026-10-29T12:47:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24219,7 +24219,20 @@
    ],
    "topic": "claude-code-agent-summary-token-burn-2026-10",
    "firstSeen": "2026-10-29T12:08:13+08:00"
+  },
+  {
+   "id": "fa67dda670",
+   "title": "英特尔分拆公司 Articul8 发布决策模型 Bivia：不生成文字，直接输出带置信度和证据定位的结构化判断，可主动「弃权」",
+   "summary": "Articul8 于 10 月 28 日推出多模态决策模型 Bivia，通过 API 提供，并已上架 Python SDK（PyPI bivia 1.0.0）。它读取文本、文档、图片、代码、音频、视频和传感器信号，用约 9 种原生决策类型（判断、是/否、选择、打分、多选、引用原文、定位区域、抽取字段等）一次性返回机器可读的答案，附带置信度和证据位置（图像区域、文档字符偏移、视频时间戳）；证据不足时可以弃权。提供快速、深度和思考三种模式，可按企业的行业知识、制度和历史决策做定制。官方称内部工具路由测试得分 0.91。信号：智能体架构里「每一步都调用生成式大模型」开始被专用、低成本的决策层替代，路由、质检、审核、合规核对等场景有机会用小模型做产品。",
+   "links": [
+    "https://www.globenewswire.com/news-release/2026/10/28/3390832/0/en/articul8-launches-bivia-to-bring-domain-specific-decision-intelligence-to-enterprise-ai-agents.html",
+    "https://articul8.ai/bivia",
+    "https://pypi.org/project/bivia/1.0.0/",
+    "https://x.com/i/trending/2115664655162982655"
+   ],
+   "topic": "articul8-bivia-decision-model-2026-10",
+   "firstSeen": "2026-10-29T12:47:14+08:00"
   }
  ],
- "lastChecked": "2026-10-29T12:08:13+08:00"
+ "lastChecked": "2026-10-29T12:47:14+08:00"
 }
