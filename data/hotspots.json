@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T04:23:15+08:00",
+ "lastUpdated": "2026-10-30T04:53:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24854,7 +24854,29 @@
    ],
    "topic": "divergence-claude-ige-antibody-2026-10-29",
    "firstSeen": "2026-10-30T04:23:15+08:00"
+  },
+  {
+   "id": "11ef932bb8",
+   "title": "首批 Claude Duet 用户长评冲上 HN：「第一个用起来不嫌累的个人助理」，频道自动整理会话、按频道限定仓库权限、从不索要密码",
+   "summary": "开发者博客 fig.blue 今天发文《Duet 是聊天机器人交互的未来》并登上 Hacker News 首页。作者称试过 Muse、Dot、NanoClaw 等多款个人助理壳子，Duet 是第一个「有用大于麻烦」的：响应明显更快（后台任务不阻塞回复）；能自动创建和管理「频道」来归档工作流，Cmd-K 快速切换，频道之间可互相引用；GitHub 仓库访问按频道隔离；不存储任何凭据、主动劝阻用户交出密码，优先走 Claude 已有的连接器生态；回答默认简短。信号：个人 AI 代理的竞争点正从「能做多少事」转向速度、会话组织和权限边界，「不要你的钥匙」本身成了卖点。",
+   "links": [
+    "https://fig.blue/posts/duet-is-the-future/",
+    "https://news.ycombinator.com/item?id=50292727"
+   ],
+   "topic": "claude-duet-user-review-figblue-2026-10-29",
+   "firstSeen": "2026-10-30T04:53:22+08:00"
+  },
+  {
+   "id": "61afe6d40a",
+   "title": "开源项目 tinyworldformer：在 4 美元级的树莓派 Pico 2 W 上同时跑「世界模型 + 玩家」，单片机自己生成并玩打砖块、Flappy、Pong",
+   "summary": "开发者 SheepSeb 开源 tinyworldformer 并发到 Hacker News：用两个极小神经网络在树莓派 Pico 2 W 微控制器上实时运行——一个是循环 Transformer（同一层权重重复调用，2.6 万–13 万参数、int8 量化）作为世界模型，根据当前画面和动作预测下一帧与奖励；另一个是 1 万参数级 MLP 演员网络，在生成的画面里选动作，可用 stream-x 流式强化学习在「梦境」中学玩。已支持打砖块、简化版 Doom、Flappy Bird、Pong，并附浏览器版与复现脚本。信号：「世界模型」概念正下沉到边缘端，循环 Transformer 的省内存特性让微控制器级生成式 AI 成为可玩的方向。",
+   "links": [
+    "https://github.com/SheepSeb/tinyworldformer",
+    "https://news.ycombinator.com/item?id=50295450"
+   ],
+   "topic": "tinyworldformer-pico-world-model-2026-10-29",
+   "firstSeen": "2026-10-30T04:53:22+08:00"
   }
  ],
- "lastChecked": "2026-10-30T04:23:15+08:00"
+ "lastChecked": "2026-10-30T04:53:22+08:00"
 }
