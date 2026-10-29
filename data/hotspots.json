@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T23:47:24+08:00",
+ "lastUpdated": "2026-10-30T00:02:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24626,7 +24626,17 @@
    ],
    "topic": "anthropic-s1-employee-equity-windfall-2026-10",
    "firstSeen": "2026-10-29T23:47:24+08:00"
+  },
+  {
+   "id": "6bb92529f3",
+   "title": "开源项目 OpenMausBot 登上 GitHub 日榜：给 AI 机器人配一台可操作的虚拟机，单日新增约 1200 星",
+   "summary": "milind-soni/OpenMausBot 自称开源版「带电脑的 AI 助手」：每个机器人拥有一台虚拟机，可以在里面开浏览器、跑命令、处理文件，仓库已超 7000 星，今天单日新增约 1190 星，与同榜的 nightly-labs/openbot、CopilotKit/OpenBot 一起显示「给 AI 同事一台自己的电脑」正成为开源热门方向。信号：常驻 AI 助手 + 独立运行环境的需求在升温，围绕它的部署教程、托管服务、技能/模板市场都有机会。",
+   "links": [
+    "https://github.com/milind-soni/OpenMausBot"
+   ],
+   "topic": "openmausbot-github-trending-2026-10-29",
+   "firstSeen": "2026-10-30T00:02:08+08:00"
   }
  ],
- "lastChecked": "2026-10-29T23:47:24+08:00"
+ "lastChecked": "2026-10-30T00:02:08+08:00"
 }
