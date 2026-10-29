@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T21:16:24+08:00",
+ "lastUpdated": "2026-10-29T21:23:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24510,7 +24510,18 @@
    ],
    "topic": "ipv4-land-map-viz-2026-10",
    "firstSeen": "2026-10-29T21:16:24+08:00"
+  },
+  {
+   "id": "482dcd575b",
+   "title": "安全公司 Dream 披露：攻击者把 PHP2Shell 与内核提权漏洞串联，攻破美日韩台 25 台防火墙服务器，含美国政府相关机构",
+   "summary": "以色列安全公司 Dream 10 月 26 日发布报告：其自主威胁狩猎产品 Hero 在 10 月 25 日发现一整套攻击行动的遗留文件，攻击者把 PHP2Shell 漏洞链（CVE-2026-109618/109619）与 Fragnesia 内核提权漏洞（CVE-2026-46300）串成一次请求拿到 root，共攻破美国、日本、台湾和韩国的 25 台服务器，均运行某大厂防火墙软件（厂商与版本未公开，已通知厂商），随后转攻其中 3 台美国政府相关机构服务器并深入内部 Active Directory，确认窃取了凭据。现场还发现安装了 Claude Code、配置 DeepSeek 与 Kimi 的 AI 攻击平台 aiscan，约 40 个后渗透脚本风格高度一致，研究者认为是 AI 辅助编写，但不是全自动攻击。该报告今天登上 Hacker News。信号：AI 正在压缩“漏洞公开到被实战利用”的时间，边界设备暴露的管理界面是进入企业身份系统的捷径，自动化补丁、暴露面监控和 AI 威胁狩猎工具需求会继续上升。",
+   "links": [
+    "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+    "https://news.ycombinator.com/item?id=50286987"
+   ],
+   "topic": "php2shell-chained-exploit-25-servers-2026-10",
+   "firstSeen": "2026-10-29T21:23:19+08:00"
   }
  ],
- "lastChecked": "2026-10-29T21:16:24+08:00"
+ "lastChecked": "2026-10-29T21:23:19+08:00"
 }
