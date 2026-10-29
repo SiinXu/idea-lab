@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T01:15:44+08:00",
+ "lastUpdated": "2026-10-30T01:27:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24703,7 +24703,18 @@
    ],
    "topic": "google-search-below-half-alphabet-revenue-2026-10-29",
    "firstSeen": "2026-10-30T01:15:44+08:00"
+  },
+  {
+   "id": "5f69be5256",
+   "title": "Martin Fowler 提出「LLM 腔」（LLM Voice）：读到 AI 味文字就想关掉，建议作者别让大模型写初稿",
+   "summary": "软件架构作者 Martin Fowler 10 月 29 日在个人网站发文《LLM Voice》，描述读文章时逐渐察觉「这像大模型写的」后阅读欲望骤降、甚至反感的体验，称之为文字的「恐怖谷」。他对 AI 文本检测工具持保留态度，认为这种反应本身是人的直觉，等到动用工具时已经晚了。他建议作者不要让 LLM 写初稿，即使人工再改也很难去掉 AI 腔，连接受 AI 的改写建议都有风险；最多可用来列提纲。他的网站要求用 AI 辅助写作的作者在致谢中声明用法，他本人只把 AI 当搜索工具并回到原始来源核实。文章登上 Hacker News 首页，与当天同人圈「AI 文体侦查」讨论相呼应。信号：读者对 AI 腔的敏感度正在上升，「人味写作」和 AI 使用声明可能成为内容品牌的差异点；面向作者的去 AI 腔写作教练、AI 使用透明度标注规范、编辑润色服务存在需求。",
+   "links": [
+    "https://martinfowler.com/bliki/LLM-Voice.html",
+    "https://news.ycombinator.com/item?id=50290177"
+   ],
+   "topic": "martin-fowler-llm-voice-2026-10-29",
+   "firstSeen": "2026-10-30T01:27:23+08:00"
   }
  ],
- "lastChecked": "2026-10-30T01:15:44+08:00"
+ "lastChecked": "2026-10-30T01:27:23+08:00"
 }
