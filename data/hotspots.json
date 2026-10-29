@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T04:53:22+08:00",
+ "lastUpdated": "2026-10-30T05:40:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24876,7 +24876,32 @@
    ],
    "topic": "tinyworldformer-pico-world-model-2026-10-29",
    "firstSeen": "2026-10-30T04:53:22+08:00"
+  },
+  {
+   "id": "4d181308f2",
+   "title": "Polymarket 国际站遭黑客盗刷暂停交易：英国第三方供应商被攻破，约 700 名用户、约 270 万美元受损",
+   "summary": "WIRED 报道，Polymarket 加密版主站因一家英国第三方供应商被入侵，部分交易者钱包资金被转走，平台暂停交易数小时后已恢复，并承诺全额赔付受影响用户。链上分析机构 Bubblemaps 估计约 700 名用户受影响、损失约 270 万美元；面向美国的合规平台 Polymarket US 未受影响。这是 Polymarket 今年 6 月后又一次安全事件，供应链安全再成预测市场软肋。",
+   "links": [
+    "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
+    "https://news.ycombinator.com/item?id=50296328",
+    "https://finance.yahoo.com/markets/crypto/articles/polymarket-halts-trading-users-report-183518883.html"
+   ],
+   "topic": "",
+   "firstSeen": "2026-10-30T05:40:01+08:00"
+  },
+  {
+   "id": "e0e1ef74c8",
+   "title": "币安疑遭大规模盗币（事件发展中）：以太坊热钱包被转空，链上追踪称流出规模或达数十亿美元",
+   "summary": "多名链上观察者在 X 与 HN 上报告，币安一个以太坊热钱包的代币被转移至由 Tornado Cash 注资的新地址，Etherscan 显示该热钱包被清空约 25 亿美元代币，另有帖子称总额超 50 亿美元。目前具体金额与原因尚未获币安官方确认，属于正在发展的事件，请以官方公告为准；若属实，将是加密史上最大规模的交易所被盗案之一。",
+   "links": [
+    "https://etherscan.io/address/0x5227f603c1ee34ce3c06efe6477003bdfccb2f8c",
+    "https://etherscan.io/tx/0x53bd38b816c23e74134786c29a8c18d792777998a3b9326047b583100e88e2f3",
+    "https://news.ycombinator.com/item?id=50296272",
+    "https://beincrypto.com/is-binance-being-hacked-customer-funds/"
+   ],
+   "topic": "",
+   "firstSeen": "2026-10-30T05:40:01+08:00"
   }
  ],
- "lastChecked": "2026-10-30T04:54:13+08:00"
+ "lastChecked": "2026-10-30T05:40:01+08:00"
 }
