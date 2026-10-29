@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T07:00:07+08:00",
+ "lastUpdated": "2026-10-30T07:29:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24958,7 +24958,18 @@
    ],
    "topic": "epoch-open-weight-patch-gap-firefox-2026-10-29",
    "firstSeen": "2026-10-30T07:00:07+08:00"
+  },
+  {
+   "id": "9407517eb3",
+   "title": "Sylphide OS 登上 HN：给单片机「组装电脑」用的通用操作系统，在 ESP32-P4、树莓派 Pico 2 上跑出 80 年代风格桌面",
+   "summary": "开发者 Thomas Capricelli 发布开源软硬件项目 Sylphide OS 0.1：面向没有内存管理单元、跑不了 Linux 的单片机电脑（需接键盘鼠标、VGA/HDMI 显示器和存储卡），基于 FreeRTOS，自带键鼠/显示驱动、帧缓冲渲染和带窗口管理器、菜单、桌面图标的图形界面。目前支持 Olimex ESP32-P4-PC、作者自制的树莓派 Pico 2（RP2350）VGA+USB 板、FabGL 以及 Linux 上的模拟器，电路板用 KiCad 设计并开源；存储、联网、控件和外部程序加载仍在计划中。信号：低价单片机已能撑起「复古个人电脑」体验，复古计算套件、教育用 DIY 电脑和配套软件生态有小众但忠实的市场。",
+   "links": [
+    "https://projects.freehackers.org/sylphide-os/",
+    "https://news.ycombinator.com/item?id=50295868"
+   ],
+   "topic": "sylphide-os-mcu-computer-2026-10-29",
+   "firstSeen": "2026-10-30T07:29:18+08:00"
   }
  ],
- "lastChecked": "2026-10-30T07:00:07+08:00"
+ "lastChecked": "2026-10-30T07:29:18+08:00"
 }
