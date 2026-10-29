@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T15:31:39+08:00",
+ "lastUpdated": "2026-10-29T15:58:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24313,7 +24313,33 @@
    ],
    "topic": "tavus-griffin-outtakes-2026-10",
    "firstSeen": "2026-10-29T15:31:39+08:00"
+  },
+  {
+   "id": "c0cca0f5dd",
+   "title": "智元创新日发布机器人「有效智能工时」单位 Worken，并推出重载机器人 G2 Max、基座模型 GO-3 Preview 和开源系统灵渠 OS",
+   "summary": "10 月 29 日，智元（AGIBOT）在上海世博中心举办 2026 创新日，联合创始人彭志辉提出物理 AI 的新度量单位 Worken（有效智能工时）= 活跃机器人数量 × 自主工作时长 × 产出效能比，想用「实际干了多少活」取代「卖了多少台」来衡量机器人价值。同场发布：安规级重载机器人精灵 G2 Max（单臂负载 20 公斤、双臂 40 公斤、亚毫米级精度，已在食品、日化、电商企业做搬运）；具身基座模型 GO-3 Preview（称在 RoboDojo、RoboTwin、RoboColiseum 三个榜单第一，年底开源）；全模态交互模型 WITA-OMNI；具身原生操作系统灵渠 OS 1.0（开源并捐赠给开放原子开源基金会）；以及皮下式关节液冷、新一代灵巧手和触觉数采手套 MEgo Glove。公司称 120 台精灵 G2 已部署在广州地铁做安检、咨询和巡逻。信号：人形机器人行业的叙事正从炫技演示转向可计量的产线产出，围绕机器人工时统计、部署运维和数据采集的工具与服务会有需求。",
+   "links": [
+    "https://x.com/i/trending/2115713039383298197",
+    "https://www.163.com/dy/article/LADTC22O0531LTUZ.html",
+    "https://hk.on.cc/hk/bkn/cnt/finance/20261029/bkn-20261029122851472-1029_00842_001.html",
+    "https://www.agibot.com.cn/AIDAY2026"
+   ],
+   "topic": "agibot-innovation-day-worken-2026-10",
+   "firstSeen": "2026-10-29T15:58:48+08:00"
+  },
+  {
+   "id": "9b23e8682b",
+   "title": "Simulon 上线「现实感知渲染」：用 iPhone 摆好 3D 恐龙、猛犸象，自己对着镜头表演，AI 按你的动作、语音和环境生成它的反应",
+   "summary": "AR 创作应用 Simulon 在 2.1 版本推出 Reality-Aware Rendering：先在取景器里放置一个「神经资产」（可由文字、照片或手绘生成），开始录制后资产变成虚影，用户通过动作、手势和口头指令来「导演」它；录制结束后，云端读取整段素材——你做了什么、说了什么、周围环境如何——重新生成一段角色与场景互动的表演，比如往水里丢石子，恐龙会转头去看。创始人 Divesh Naidoo 的演示在 X 上大量传播，用户纷纷晒出小龙逛超市、原始人进办公室等视频。注意：目前只支持 iOS 17 以上的 iPhone，安卓版「即将推出」；它不是实时生成，而是录完后在云端渲染；免费用户只有一次性 100 积分且只能用素材库，自定义资产需订阅 Plus（每月 14.99 美元）或 Pro（每月 39.99 美元）。信号：「用表演代替写提示词」的视频创作方式正在出现，短视频特效、品牌营销和儿童教育内容会是率先落地的场景。",
+   "links": [
+    "https://x.com/i/trending/2115632125000958363",
+    "https://tau-home.com/en/post/simulon-reality-aware-rendering-ios/",
+    "https://simulon.com/",
+    "https://apps.apple.com/us/app/simulon/id6670765943"
+   ],
+   "topic": "simulon-reality-aware-rendering-2026-10",
+   "firstSeen": "2026-10-29T15:58:48+08:00"
   }
  ],
- "lastChecked": "2026-10-29T15:31:39+08:00"
+ "lastChecked": "2026-10-29T15:58:48+08:00"
 }
