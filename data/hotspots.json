@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T02:25:31+08:00",
+ "lastUpdated": "2026-10-30T03:12:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24777,7 +24777,40 @@
    ],
    "topic": "claude-code-game-studios",
    "firstSeen": "2026-10-30T02:25:31+08:00"
+  },
+  {
+   "id": "849709be85",
+   "title": "犹他州对预测市场 Kalshi 及其 CEO 提起刑事指控：以「非法推广网络赌博」列出 14 项罪名",
+   "summary": "据 The Verge 报道，美国犹他州对预测市场平台 Kalshi 及其 CEO 提起 14 项指控，认定其事件合约属于州法禁止的网络赌博推广，消息登上 HN 前排。此前多州与 Kalshi 的争议主要停留在民事和监管层面，这次直接走到刑事起诉。信号：预测市场在美国的州级合规风险快速升级，围绕体育/事件合约的产品和流量生意需要重新评估监管边界。",
+   "links": [
+    "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
+    "https://news.ycombinator.com/item?id=50293879"
+   ],
+   "topic": "utah-kalshi-criminal-charges",
+   "firstSeen": "2026-10-30T03:12:58+08:00"
+  },
+  {
+   "id": "0a8a6fcad7",
+   "title": "全球最大同人档案站 AO3 宕机维护：官方称恢复约需 2 周，最长可能 4 周",
+   "summary": "Organization for Transformative Works 状态页显示，Archive of Our Own（AO3）自 10 月 29 日 07:13 UTC 起下线维护，最初预计至少 12 小时，17:41 UTC 更新为约 2 周、最长 4 周，期间可能先以降级状态恢复。消息在 HN 迅速升温。信号：海量同人读者与作者短期失去主阵地，备份、离线阅读、替代托管和迁移工具会出现短期需求窗口。",
+   "links": [
+    "https://www.otwstatus.org/incidents/g12jnxck9g6h",
+    "https://news.ycombinator.com/item?id=50293546"
+   ],
+   "topic": "ao3-down-weeks",
+   "firstSeen": "2026-10-30T03:12:58+08:00"
+  },
+  {
+   "id": "7758c8ed8b",
+   "title": "Haskell 编译器 GHC 落地 AI 贡献政策：允许 LLM 辅助提交，但须声明使用并对代码负全责",
+   "summary": "Serokell 撰文梳理 GHC 新的 LLM 辅助贡献政策：沿用 Simon Peyton Jones 在 ghc-devs 讨论中起草的版本，共四条规则加一条强烈建议——以人和社区优先、让合并请求便于评审、贡献者对内容负全部责任、直接使用 LLM 须声明，并倾向于由人亲自写最终版本。维护者已在评审中直接引用该政策。信号：大型开源项目正从「禁不禁 AI」转向可执行的披露与责任规则，可作为其他项目制定 AI 贡献规范的模板。",
+   "links": [
+    "https://serokell.io/blog/ai-contributions-to-ghc",
+    "https://news.ycombinator.com/item?id=50293025"
+   ],
+   "topic": "ghc-ai-contribution-policy",
+   "firstSeen": "2026-10-30T03:12:58+08:00"
   }
  ],
- "lastChecked": "2026-10-30T02:25:31+08:00"
+ "lastChecked": "2026-10-30T03:12:58+08:00"
 }
