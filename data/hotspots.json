@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T01:27:23+08:00",
+ "lastUpdated": "2026-10-30T01:40:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24714,7 +24714,29 @@
    ],
    "topic": "martin-fowler-llm-voice-2026-10-29",
    "firstSeen": "2026-10-30T01:27:23+08:00"
+  },
+  {
+   "id": "7026960b10",
+   "title": "开源工具 Keplearn 登上 HN：Rust 写的符号回归引擎，几秒内从表格数据里「反推」出物理公式",
+   "summary": "owls-on-wires/keplearn 以开普勒命名：输入多列测量数据（TSV/CSV），它会输出能解释数据的简洁闭式方程，例如从质量、距离和力的数据里还原出 force = m1*m2/r**2。项目强调单文件、零依赖、结果确定可复现，常数会自动吸附到有理数、π、e、√2 等并逐一验证，精确规律通常毫秒级解出。今天在 Hacker News 获得数十分讨论。信号：在大模型时代，「可解释的小模型 / 公式发现」重新受关注，适合科研、工程数据分析和教育场景的轻量工具。",
+   "links": [
+    "https://github.com/owls-on-wires/keplearn",
+    "https://news.ycombinator.com/item?id=50289590"
+   ],
+   "topic": "keplearn-symbolic-regression",
+   "firstSeen": "2026-10-30T01:40:04+08:00"
+  },
+  {
+   "id": "4aa1f0f9cf",
+   "title": "Word2Vec 作者托马斯·米科洛夫获捷克国家荣誉：总统在 10 月 28 日国庆授勋",
+   "summary": "布尔诺理工大学（BUT）10 月 29 日发布消息：在 10 月 28 日布拉格城堡的国家授勋仪式上，捷克总统向两位 BUT 校友颁发国家荣誉，其中包括 Word2Vec 的提出者、知名 AI 专家托马斯·米科洛夫（Tomáš Mikolov），另一位是急救应用 Záchranka 的开发者 Filip Maleňák。消息登上 Hacker News 首页。信号：词向量奠基人获国家级认可，AI 先驱人物与早期技术史持续受到关注。",
+   "links": [
+    "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
+    "https://news.ycombinator.com/item?id=50292233"
+   ],
+   "topic": "mikolov-czech-state-honor",
+   "firstSeen": "2026-10-30T01:40:04+08:00"
   }
  ],
- "lastChecked": "2026-10-30T01:27:23+08:00"
+ "lastChecked": "2026-10-30T01:40:04+08:00"
 }
