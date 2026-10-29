@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T03:45:06+08:00",
+ "lastUpdated": "2026-10-30T03:56:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24821,7 +24821,18 @@
    ],
    "topic": "megaspeed-nvidia-spy-report-2026-10-29",
    "firstSeen": "2026-10-30T03:45:06+08:00"
+  },
+  {
+   "id": "3fc7476dc7",
+   "title": "Show HN 小工具 dontallow 升温：自动点掉 macOS「允许查找本地网络设备」弹窗，直击 Chromium 浏览器反复弹窗痛点",
+   "summary": "开源项目 johncassil/dontallow 今天登上 Hacker News Show HN，半小时内获得约 20 分。它用单个 Swift 文件常驻后台，在 macOS（Sequoia 及以后）弹出「允许某应用查找本地网络设备？」时自动点「不允许」，空闲零 CPU、重启后仍生效。作者指出 Chrome、Brave、Edge、Arc 等 Chromium 浏览器每次启动会把自身复制到随机临时路径，导致系统记不住选择、隐私设置里堆满重复条目。信号：macOS 隐私权限的体验缺陷正在催生一批「系统弹窗治理」类小工具，Mac 效率/隐私小工具仍有付费空间。",
+   "links": [
+    "https://github.com/johncassil/dontallow",
+    "https://news.ycombinator.com/item?id=50294506"
+   ],
+   "topic": "dontallow-macos-local-network-prompt-2026-10-29",
+   "firstSeen": "2026-10-30T03:56:07+08:00"
   }
  ],
- "lastChecked": "2026-10-30T03:45:06+08:00"
+ "lastChecked": "2026-10-30T03:56:07+08:00"
 }
