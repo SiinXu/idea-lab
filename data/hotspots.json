@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T16:39:26+08:00",
+ "lastUpdated": "2026-10-29T17:45:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24386,7 +24386,18 @@
    ],
    "topic": "orange-tsai-edge-logic-full-chain-writeup-2026-10",
    "firstSeen": "2026-10-29T16:39:26+08:00"
+  },
+  {
+   "id": "65a52bb78c",
+   "title": "HeyClicky 上线「实时图形」：AI 不开聊天框，直接在你屏幕上边讲边画叠加层、图解和可交互 3D 场景",
+   "summary": "Mac 端 AI 屏幕伙伴 HeyClicky 创始人 Farza 于美东时间 10 月 28 日晚发布新功能：借助 Sol 6.1 Ultrafast，Clicky 在看到用户屏幕、听到语音提问后，直接在当前画面上实时生成定制叠加层、示意图甚至可交互的 3D 场景，全程没有聊天窗口。演示视频里他用它学习大模型与硬件知识，图形随讲解即时出现。该帖约 24 万次浏览、4200 多个赞，前 Twitter 产品负责人 Kayvon Beykpour 等人转发称赞其推动了消费级 AI 的交互范式，相关话题登上 X 科技热点。信号：「生成式 UI」正从聊天框里的卡片走向直接覆盖在屏幕上的即时可视化，做教育讲解、软件上手引导、可视化学习工具的产品可以借鉴这种「边讲边画」的形态。",
+   "links": [
+    "https://x.com/FarzaTV/status/2115593097044426997",
+    "https://x.com/i/trending/2115737270623810036"
+   ],
+   "topic": "heyclicky-realtime-graphics-overlay-2026-10",
+   "firstSeen": "2026-10-29T17:45:42+08:00"
   }
  ],
- "lastChecked": "2026-10-29T16:39:26+08:00"
+ "lastChecked": "2026-10-29T17:45:42+08:00"
 }
