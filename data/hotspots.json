@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T18:12:53+08:00",
+ "lastUpdated": "2026-10-29T18:46:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24408,7 +24408,20 @@
    ],
    "topic": "theo-terminal-vs-gui-agents-2026-10-29",
    "firstSeen": "2026-10-29T18:12:53+08:00"
+  },
+  {
+   "id": "0a87a8fa9b",
+   "title": "中国电信 TeleAI「隐私摄像头」被翻出来对比苹果 J450：能装进卫生间、更衣室，只传抽象特征、不留真实画面，比苹果早一年落地",
+   "summary": "10 月 29 日 X 上热议：苹果被曝在做不录像、只输出文字描述的家用 AI 摄像头 J450（预计 2027 年推出），而中国电信人工智能研究院 TeleAI 今年已发布隐私摄像头 2.0。它在端侧把画面转成无法还原的特征向量，五官、衣着等身份信息「出镜即焚」，云端只做行为识别，摔倒、抽烟、打架等风险以漫画式轮廓图呈现，面向学校、卫生间、病房等高隐私场所，技术报告已发在 arXiv。讨论焦点是「看行为不看人」的隐私感知设备会不会成为智能家居和公共安防的新品类。",
+   "links": [
+    "https://x.com/i/trending/2115753344144715822",
+    "https://www.teleai.com.cn/learnMore/newsDetail?newsId=9b626f72df5349889781711b297b8ba5",
+    "https://www.arxiv.org/pdf/2603.04775",
+    "https://www.theverge.com/tech/1003877/apple-security-camera-no-video"
+   ],
+   "topic": "teleai-privacy-camera-vs-apple-j450-2026-10",
+   "firstSeen": "2026-10-29T18:46:12+08:00"
   }
  ],
- "lastChecked": "2026-10-29T18:12:53+08:00"
+ "lastChecked": "2026-10-29T18:46:12+08:00"
 }
