@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T22:14:23+08:00",
+ "lastUpdated": "2026-10-29T22:28:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24533,7 +24533,18 @@
    ],
    "topic": "netbsd-atto-editor-2026-10",
    "firstSeen": "2026-10-29T22:14:23+08:00"
+  },
+  {
+   "id": "8ccea7e89b",
+   "title": "Mistral 正式开放 Large 4（Le Chonk）权重：万亿参数多模态模型，宣称开放权重模型里编码与防御性安全第一",
+   "summary": "Mistral 10 月 29 日发布博文，正式放出 Mistral Large 4（Le Chonk）的模型权重。这是本月初公开预览的约 1 万亿参数原生多模态旗舰，预览后又做了约三周强化学习，编码和防御性网络安全能力大幅提升，推理效率更高、成本更低；官方称其在 FrontierCode 与 Terminal-Bench 上领跑开放权重模型，并提供三种推理档位平衡成本与效果。全程在欧洲基础设施上从零训练，主打可自托管、可定制的「主权 AI」。消息发布后迅速登上 HN 热榜。",
+   "links": [
+    "https://mistral.ai/news/mistral-large-4-oss/",
+    "https://news.ycombinator.com/item?id=50289418"
+   ],
+   "topic": "mistral-large-4-open-weights-release-2026-10",
+   "firstSeen": "2026-10-29T22:28:19+08:00"
   }
  ],
- "lastChecked": "2026-10-29T22:14:23+08:00"
+ "lastChecked": "2026-10-29T22:28:19+08:00"
 }
