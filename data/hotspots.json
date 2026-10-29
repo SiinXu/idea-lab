@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T09:31:52+08:00",
+ "lastUpdated": "2026-10-29T10:43:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24184,7 +24184,18 @@
    ],
    "topic": "nyt-cooking-ai-substitution-backlash-2026-10-28",
    "firstSeen": "2026-10-29T09:31:52+08:00"
+  },
+  {
+   "id": "af09e8389f",
+   "title": "新加坡国立大学把触摸屏「织」进衣袖：54 根电子纤维组成可显示视频的柔性屏，机洗 50 次性能几乎不变",
+   "summary": "NUS 助理教授 Tural Khudiyev 团队把 LED 和触控传感器直接做进约 1 毫米粗的电子纤维里，用 54 根纤维织成袖子上的 168×105 毫米显示区：能播放图像和视频（30 帧/秒）、响应手指按压、无线连接其他设备，同时保留普通布料的透气和柔软；经过 50 次机洗，显示与触控表现几乎不变。和把屏幕「贴」在身上的传统可穿戴设备不同，这是让布料本身成为交互界面。信号：智能服装从概念走向可洗可穿，健康监测、环境感知、户外/运动服饰上的信息显示是可能的落地方向。",
+   "links": [
+    "https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/",
+    "https://news.ycombinator.com/item?id=50283488"
+   ],
+   "topic": "nus-washable-touchscreen-fiber-sleeve-2026-10",
+   "firstSeen": "2026-10-29T10:43:40+08:00"
   }
  ],
- "lastChecked": "2026-10-29T09:31:52+08:00"
+ "lastChecked": "2026-10-29T10:43:40+08:00"
 }
