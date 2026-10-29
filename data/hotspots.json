@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T22:54:00+08:00",
+ "lastUpdated": "2026-10-29T22:54:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24554,7 +24554,18 @@
    ],
    "topic": "neural-twins-quill-ember-latent-communication-2026-10",
    "firstSeen": "2026-10-29T22:54:00+08:00"
+  },
+  {
+   "id": "b4d0283d5c",
+   "title": "亚马逊要求工程师收紧 AI 用量、批评「按 token 用量排名」：企业从猛推 AI 转向控成本、防「工作垃圾」",
+   "summary": "《每日电讯报》10 月 28 日报道：亚马逊副总裁在给工程师的内部信中说，按 AI token 用量给员工排名的做法「存在严重缺陷」，会催生刷用量的「tokenmaxxing」、推高成本，与节俭原则相悖，要求程序员收着用。此前《卫报》等报道：Meta 因员工花大量时间修补 AI 造成的技术和安全错误而放缓用 AI 代理替人；微软、麦肯锡限制员工用量以控成本；Palantir、英伟达、博思艾伦出于数据安全限制外部 AI 工具；沃尔玛员工反映 AI 排班和路线不靠谱。该话题 10 月 29 日在 X 上再度发酵。信号：企业 AI 进入「算账期」，按团队的 AI 用量与成本看板、token 预算管控、AI 产出质检类工具需求正在上升。",
+   "links": [
+    "https://www.telegraph.co.uk/business/2026/10/28/amazon-orders-coders-to-rein-in-ai-use-as-costs-mount/",
+    "https://x.com/i/trending/2115794367130792288"
+   ],
+   "topic": "enterprise-ai-usage-pullback-amazon-tokenmaxxing-2026-10",
+   "firstSeen": "2026-10-29T22:54:30+08:00"
   }
  ],
- "lastChecked": "2026-10-29T22:54:00+08:00"
+ "lastChecked": "2026-10-29T22:54:30+08:00"
 }
