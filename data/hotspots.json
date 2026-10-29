@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T19:16:22+08:00",
+ "lastUpdated": "2026-10-29T20:15:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24455,7 +24455,18 @@
    ],
    "topic": "amp-macos-satellites-2026-10",
    "firstSeen": "2026-10-29T19:16:22+08:00"
+  },
+  {
+   "id": "3cfd7e4862",
+   "title": "Anthropic 给 Claude for Legal 上线「法律 Artifact 画廊」：合同审查、监管追踪、法务需求收件等现成交互工具，接 60 多个连接器",
+   "summary": "10 月 28 日 Anthropic 发布 Claude for Legal 的现成 Artifact（可交互的追踪表、仪表盘）画廊：覆盖批量审合同、追踪监管变化、承接业务部门法务需求等具体任务，每个 Artifact 先带示例数据打开，律师看懂流程后再接入自己的数据和连接器（X 上的讨论提到 60 多个，含 Bloomberg Law、Filevine），每条输出都附原始出处链接，可在团队内共享。合作方包括 Harvey、PwC 和 Goodwin 等律所，Anthropic 还资助公益法律和法学院教学项目用 Claude 做工具。信号：大模型厂商开始按行业打包「模板化小应用 + 连接器」，垂直行业的现成工作流模板和连接器集成成了新的可卖单元。",
+   "links": [
+    "https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
+    "https://x.com/i/trending/2115476762561757301"
+   ],
+   "topic": "claude-for-legal-artifact-gallery-2026-10",
+   "firstSeen": "2026-10-29T20:15:06+08:00"
   }
  ],
- "lastChecked": "2026-10-29T19:16:22+08:00"
+ "lastChecked": "2026-10-29T20:15:06+08:00"
 }
