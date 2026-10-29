@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T12:47:14+08:00",
+ "lastUpdated": "2026-10-29T13:40:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24232,7 +24232,33 @@
    ],
    "topic": "articul8-bivia-decision-model-2026-10",
    "firstSeen": "2026-10-29T12:47:14+08:00"
+  },
+  {
+   "id": "5ac858bbc1",
+   "title": "语音 AI 公司 Rime 发布 Prism：首个可微调的「语音到语音」大模型，先生成可审查的文字再开口，约 300 毫秒响应",
+   "summary": "Rime 于 10 月 28 日推出 Prism，一个连接就能替代「语音转文字 + 大模型 + 文字转语音」三段式管线：直接听来电者原声（能听出情绪和停顿），自己判断何时接话、允许被打断，查资料调用工具时会先说「我帮您查一下」避免冷场。关键设计是说话前先产出一层文字，企业可以在客户听到之前用规则审查每个字，也便于留存审计记录；支持本地或私有云部署。官方称在 Artificial Analysis 的 τ-Voice 客服基准上得 56.6 分，首个音频约 0.57 秒；用 Revmo 的 10 小时真实点餐录音做强化学习后，「下单前先征得确认」的比例从 OpenAI 的 57% 提升到 94%（均为厂商自测）。接口沿用 OpenAI Realtime 事件名，迁移成本低，目前仅支持英语、4 种声音。信号：语音客服智能体的竞争点正从「像不像人」转向「可控、可审计、可按自家通话数据微调」，垂直行业（餐饮点单、银行、医疗预约）的语音代理有机会做成小而专的产品。",
+   "links": [
+    "https://www.rime.ai/resources/prism-first-speech-to-speech-for-enterprise",
+    "https://www.prnewswire.com/news-releases/rime-launches-prism-the-first-fine-tunable-frontier-speech-to-speech-model-302922665.html",
+    "https://docs.rime.ai/docs/prism/overview",
+    "https://x.com/i/trending/2115553122890273091"
+   ],
+   "topic": "rime-prism-speech-to-speech-2026-10",
+   "firstSeen": "2026-10-29T13:40:34+08:00"
+  },
+  {
+   "id": "6df73858b8",
+   "title": "AI 自己写 GPU 算子：ForgeKernel 直播为 DeepSeek 模型实时调优，此前已登顶英伟达和昇腾两个算子榜",
+   "summary": "AI4AI 实验室的研究者在 openbmb.cn/forgekernel 开放直播，观众可以实时看到 AI 一轮轮迭代 DeepSeek 模型的推理算子，用微秒级耗时和 GPU 时数跟踪提速过程。据第一财经等报道，截至 10 月 22 日，完全由 AI 编写、无人工逐行调优的 ForgeKernel 同时拿下英伟达 SOL-ExecBench FlashInfer-Bench 合集第一和昇腾 CANNBench A3 硬件榜第一（基准加速比 1.835 倍，领先第二名 25%），并称在 DeepSeek V4.1 Flash 的算子上超过了 DeepSeek 开源的英伟达版本（未公布具体差距和测量方）。同团队开源的 ForgeStencil 在 100 个真实科学计算应用上取得中位数 1.41 倍的端到端加速。信号：「算子优化」这门高门槛手艺开始被智能体自动化，同一块卡跑更快就意味着每个 token 更便宜；面向国产芯片的自动调优、推理成本优化服务值得关注。",
+   "links": [
+    "https://openbmb.cn/forgekernel",
+    "https://www.yicai.com/brief/103403980.html",
+    "https://github.com/OpenBMB/ForgeStencil",
+    "https://x.com/i/trending/2115673733813735858"
+   ],
+   "topic": "forgekernel-ai-gpu-kernel-live-2026-10",
+   "firstSeen": "2026-10-29T13:40:34+08:00"
   }
  ],
- "lastChecked": "2026-10-29T12:47:14+08:00"
+ "lastChecked": "2026-10-29T13:40:34+08:00"
 }
