@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T00:14:44+08:00",
+ "lastUpdated": "2026-10-30T00:25:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24647,7 +24647,29 @@
    ],
    "topic": "thoughtworks-good-devs-wary-agentic-2026-10-29",
    "firstSeen": "2026-10-30T00:14:44+08:00"
+  },
+  {
+   "id": "638c4d7104",
+   "title": "YC F26 公司 Simantic 发布「Launch HN」：给 AI 代理用的固件仿真层，不用实体开发板几秒内验证嵌入式代码",
+   "summary": "前 Neuralink、特斯拉固件工程师创办的 Simantic 今天在 Hacker News 发布：提供一次 API 调用即可编程运行的虚拟开发板，并配有基于仿真证据做判断的固件 AI 代码审查器，让 AI 代理写完固件后能自己跑测试，而不是等工程师烧录实体板、用老旧工具手动验证。信号：「AI 写代码很快，但硬件验证慢」是嵌入式领域的明显瓶颈，面向代理的硬件仿真、自动化测试与固件 CI 是新兴细分机会。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50291116",
+    "https://simantic.com"
+   ],
+   "topic": "simantic-firmware-simulation-ai-agents-launch-hn-2026-10-29",
+   "firstSeen": "2026-10-30T00:25:43+08:00"
+  },
+  {
+   "id": "a525c413ff",
+   "title": "SkyPilot：Grace Blackwell NVL72 机柜需要新调度器，拓扑感知放置让同样机柜多出 27% 可用 GPU",
+   "summary": "SkyPilot 10 月 29 日发文指出，NVIDIA NVL72 把一个机柜内 72 张 GPU 连到同一 NVLink 网络，但只有任务留在同一机柜内才能享受加速；同样的分布式训练若跨机柜走 InfiniBand，性能可下降 43%。硬件故障下线和任务结束时间不一会把空闲算力打散到各机柜。SkyPilot 平台用拓扑感知放置、GPU 故障原地恢复和自动碎片整理，让多节点任务尽量留在 NVLink 上。信号：机柜级 GPU 时代的调度、碎片整理和算力利用率优化是 AI 基础设施的新痛点与工具机会。",
+   "links": [
+    "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+    "https://news.ycombinator.com/item?id=50290912"
+   ],
+   "topic": "skypilot-grace-blackwell-nvl72-scheduler-2026-10-29",
+   "firstSeen": "2026-10-30T00:25:43+08:00"
   }
  ],
- "lastChecked": "2026-10-30T00:14:44+08:00"
+ "lastChecked": "2026-10-30T00:25:43+08:00"
 }
