@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T21:23:19+08:00",
+ "lastUpdated": "2026-10-29T22:14:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24521,7 +24521,19 @@
    ],
    "topic": "php2shell-chained-exploit-25-servers-2026-10",
    "firstSeen": "2026-10-29T21:23:19+08:00"
+  },
+  {
+   "id": "f059dcc02b",
+   "title": "NetBSD 基础系统新增 48KB 的无模式编辑器 atto：给新手一个 vi 之外的选择，HN 热议「编辑器战争」",
+   "summary": "NetBSD 官方 10 月 28 日在 Mastodon 宣布：-current 分支的基础系统加入新的文本编辑器 atto(1)，作为 vi 和 xedit 之外的替代。它是类似 nano、pico 或 emacs 的无模式全屏编辑器，体积只有 48KB，小到可以放进救援系统；官方还调侃「编辑器战争开打」。帖子获 200 多次点赞，10 月 29 日登上 Hacker News 首页。信号：老牌开源系统也在降低新手门槛，「小而够用」的极简工具依然能引发大量讨论。",
+   "links": [
+    "https://mastodon.sdf.org/@netbsd/117518160563539748",
+    "https://man.netbsd.org/atto.1",
+    "https://news.ycombinator.com/item?id=50287599"
+   ],
+   "topic": "netbsd-atto-editor-2026-10",
+   "firstSeen": "2026-10-29T22:14:23+08:00"
   }
  ],
- "lastChecked": "2026-10-29T21:23:19+08:00"
+ "lastChecked": "2026-10-29T22:14:23+08:00"
 }
