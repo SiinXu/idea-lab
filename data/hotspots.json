@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T16:31:07+08:00",
+ "lastUpdated": "2026-10-29T16:39:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24364,7 +24364,29 @@
    ],
    "topic": "openai-gpt-image-2-6-markup-spotted-2026-10",
    "firstSeen": "2026-10-29T16:31:07+08:00"
+  },
+  {
+   "id": "200c1f79f6",
+   "title": "「SMS of Death」公开：一条畸形 WAP Push 短信就能零点击让安卓电话进程崩溃、掐断正在进行的通话（含紧急呼叫），谷歌判定不修",
+   "summary": "独立研究者 Mark Blaszczyk 于 10 月 29 日公开披露一个安卓电话框架漏洞：WapPushOverSms 解析 WAP Push 短信时，把头部长度从 long 直接强转成 int 且不做范围检查，5 字节的构造值会变成 -2147483648，用作数组长度时抛出未捕获异常，直接杀掉 com.android.phone。受害者无需任何操作，收件箱里看不到任何东西，也看不到发送方号码；通话会被中断（包括紧急呼叫），每条短信造成 1–2 秒无信号，运营商重投未确认的短信还会反复触发，测试中单条短信造成断续故障长达一周，约 20 条可让手机长时间不可用。该问题 5 月报给谷歌安卓漏洞奖励计划，被归为「非安全问题、不修复」，未分配 CVE，90 天期满后连同 PoC 一起公开，目前在 Hacker News 上升温。信号：手机端「拒绝服务」类漏洞的定级争议会再起，做移动安全检测、运营商侧短信过滤的团队值得关注。",
+   "links": [
+    "https://smsofdeath.com/",
+    "https://news.ycombinator.com/item?id=50285452"
+   ],
+   "topic": "android-sms-of-death-wap-push-dos-2026-10",
+   "firstSeen": "2026-10-29T16:39:26+08:00"
+  },
+  {
+   "id": "68f7c17af7",
+   "title": "Orange Tsai 公开 Pwn2Own 柏林夺冠细节：纯手工、零内存破坏，只靠逻辑漏洞串出 Edge 完整沙箱逃逸，拿下 17.5 万美元",
+   "summary": "台湾 DEVCORE 研究员 Orange Tsai 10 月 28 日发布长文「人类手艺的最后证明」，详解他在 Pwn2Own Berlin 2026 上的 Microsoft Edge 完整利用链：全程不用任何内存破坏，也没用 AI，靠 5 个逻辑漏洞加 2 个 Windows 功能串起来实现沙箱逃逸，当时获得 17.5 万美元奖金，并拿下今年 Pwnie Awards 的 Epic Achievement 奖。突破口是 Chromium 导航流程里很少被关注的 Navigation Throttles（过去五年 Chrome 修过的 3000 多个 CVE 中相关的不到 20 个），他从 Edge 为企业 Entra ID 条件访问做的账号引导功能入手。文章在 Hacker News 上引发讨论。信号：在「AI 能自动挖洞」的叙事下，逻辑类漏洞和浏览器厂商的定制功能仍是人类研究者的高价值区，浏览器二次开发的产品更要审视自家附加功能的攻击面。",
+   "links": [
+    "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+    "https://news.ycombinator.com/item?id=50285319"
+   ],
+   "topic": "orange-tsai-edge-logic-full-chain-writeup-2026-10",
+   "firstSeen": "2026-10-29T16:39:26+08:00"
   }
  ],
- "lastChecked": "2026-10-29T16:31:07+08:00"
+ "lastChecked": "2026-10-29T16:39:26+08:00"
 }
