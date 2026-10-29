@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T15:00:21+08:00",
+ "lastUpdated": "2026-10-29T15:31:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24301,7 +24301,19 @@
    ],
    "topic": "chatgpt-unified-chat-work-2026-10",
    "firstSeen": "2026-10-29T15:00:21+08:00"
+  },
+  {
+   "id": "19c1e78ffd",
+   "title": "Tavus 放出 Griffin 拍摄花絮：实时视频 AI 现场注意到地上的线缆、还吐槽主持人要重拍，发布视频播放量超 2100 万",
+   "summary": "视频 AI 公司 Tavus 10 月 1 日发布 Griffin，自称首个「人类交互模型」：全双工、视频到视频，一边说话一边看、听、做表情和手势，并能根据看到的东西实时改变回应。在公司自己组织的一分钟视频通话测试中，54 人里有 26 人（48%）以为对面是真人，而旧系统 Phoenix-4.5 仅 2.4%；它还在英伟达的面对面 AI 评测 VideoFDB 上排名第一。本周 Tavus 又放出 88 秒拍摄花絮，模型即兴注意到地上的白色线缆、调侃主持人，在 X 上再次刷屏。需要注意：测试由公司自行组织、样本小，X 社区笔记指出结果未经独立验证；Griffin-Lite 目前只开放给少量受信测试者，正式上线时间未定。信号：实时数字人进入「难辨真假」阶段，AI 客服、陪练、销售演示等视频交互产品会加速出现，同时「AI 身份披露」和防冒充检测工具会有需求。",
+   "links": [
+    "https://x.com/i/trending/2115512743843242206",
+    "https://www.tavus.io/griffin",
+    "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human"
+   ],
+   "topic": "tavus-griffin-outtakes-2026-10",
+   "firstSeen": "2026-10-29T15:31:39+08:00"
   }
  ],
- "lastChecked": "2026-10-29T15:00:21+08:00"
+ "lastChecked": "2026-10-29T15:31:39+08:00"
 }
