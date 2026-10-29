@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T00:02:08+08:00",
+ "lastUpdated": "2026-10-30T00:14:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24636,7 +24636,18 @@
    ],
    "topic": "openmausbot-github-trending-2026-10-29",
    "firstSeen": "2026-10-30T00:02:08+08:00"
+  },
+  {
+   "id": "e73b1e1885",
+   "title": "Thoughtworks CTO 发文：好开发者为何对 AI 编程代理保持警惕——「做出来」不等于「能在生产环境稳定运行」",
+   "summary": "Thoughtworks CTO Rachel Laycock 10 月 29 日在 Martin Fowler 网站撰文，讨论为何许多优秀开发者迟迟不愿全面拥抱编程代理。她认为根本原因不只是热爱写代码或担心饭碗，而是资深工程师清楚「造出来」和「在生产中安全运行、可演进」之间的鸿沟：代理生成的代码行为是否正确、边界是否合理、出故障时怎么办、明年还能不能改，这些问题仍缺乏可信保障。文章登上 Hacker News 首页引发讨论。信号：面向 AI 生成代码的生产就绪检查、测试与可观测性工具，以及「代理开发工程规范」类内容有需求。",
+   "links": [
+    "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
+    "https://news.ycombinator.com/item?id=50289162"
+   ],
+   "topic": "thoughtworks-good-devs-wary-agentic-2026-10-29",
+   "firstSeen": "2026-10-30T00:14:44+08:00"
   }
  ],
- "lastChecked": "2026-10-30T00:02:08+08:00"
+ "lastChecked": "2026-10-30T00:14:44+08:00"
 }
