@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T03:12:58+08:00",
+ "lastUpdated": "2026-10-30T03:45:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24810,7 +24810,18 @@
    ],
    "topic": "ghc-ai-contribution-policy",
    "firstSeen": "2026-10-30T03:12:58+08:00"
+  },
+  {
+   "id": "6e8fb8e0c1",
+   "title": "《纽约时报》：美国情报认定新加坡算力商 Megaspeed 高管为中国情报人员，曾与英伟达 CEO 黄仁勋关系密切",
+   "summary": "据《纽约时报》10 月 29 日报道（《纽约邮报》转述），美国情报机构认定新加坡 Megaspeed 高管 Alice Huang（黄乐）暗中向北京传递信息，电子监控显示黄仁勋是其联系人之一，但报道没有证据表明黄仁勋知情。Megaspeed 是英伟达客户和云合作伙伴，通过浪潮美国分公司采购英伟达芯片，再从东南亚数据中心向阿里巴巴等中国公司出租算力，正因涉嫌帮助规避美国出口管制接受调查。消息登上 Hacker News。信号：东南亚算力中转链路的出口管制审查在升温，GPU 云租赁与合规尽调风险上升。",
+   "links": [
+    "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+    "https://news.ycombinator.com/item?id=50293047"
+   ],
+   "topic": "megaspeed-nvidia-spy-report-2026-10-29",
+   "firstSeen": "2026-10-30T03:45:06+08:00"
   }
  ],
- "lastChecked": "2026-10-30T03:12:58+08:00"
+ "lastChecked": "2026-10-30T03:45:06+08:00"
 }
