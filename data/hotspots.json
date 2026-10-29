@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T01:00:03+08:00",
+ "lastUpdated": "2026-10-30T01:15:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24692,7 +24692,18 @@
    ],
    "topic": "fanfiction-ai-tells-debate-2026-10-29",
    "firstSeen": "2026-10-30T01:00:03+08:00"
+  },
+  {
+   "id": "00b498c41f",
+   "title": "谷歌搜索收入首次跌破 Alphabet 总营收一半：三季度占比 49.7%，谷歌云占比升至 24.1%",
+   "summary": "Kadoa 的 Company Atlas 整理 Alphabet 财报数据后发现：截至 2026 年 9 月的季度，谷歌搜索收入 634 亿美元，占 Alphabet 1280 亿美元总营收的 49.7%，是单独披露搜索收入以来第一次低于一半（此前 31 个季度都在 52.8%–62.0% 之间）。搜索收入仍同比增长 12%，但其余业务合计增长 40%，其中谷歌云收入 307 亿美元、同比增长 103%，占比从早年的 4.4% 升到 24.1%。这条数据登上 Hacker News 首页并引发讨论。信号：AI 算力和云服务正在改写谷歌的收入结构，搜索广告不再是绝对主体；围绕 AI 搜索流量变化的 SEO/GEO 工具、广告投放策略调整，以及云与 AI 基础设施的成本优化服务，都值得持续关注。",
+   "links": [
+    "https://www.kadoa.com/companies/insights/google-search-below-half",
+    "https://news.ycombinator.com/item?id=50291945"
+   ],
+   "topic": "google-search-below-half-alphabet-revenue-2026-10-29",
+   "firstSeen": "2026-10-30T01:15:44+08:00"
   }
  ],
- "lastChecked": "2026-10-30T01:00:03+08:00"
+ "lastChecked": "2026-10-30T01:15:44+08:00"
 }
