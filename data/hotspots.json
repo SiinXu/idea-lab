@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T23:25:19+08:00",
+ "lastUpdated": "2026-10-29T23:47:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24595,7 +24595,38 @@
    ],
    "topic": "ai-coding-agents-skills-divide-2026-10",
    "firstSeen": "2026-10-29T23:25:19+08:00"
+  },
+  {
+   "id": "bd43dca7b9",
+   "title": "Trakkr 研究「僵尸统计」：追溯 AI 助手引用的 1285 个统计数字，不到一半能找到真实研究出处",
+   "summary": "AI 搜索优化公司 Trakkr 10 月 28 日发布研究：向 ChatGPT、Perplexity、Gemini、Claude 和谷歌 AI 概览提出 200 个需要数字回答的问题，再顺着引用链一路点到源头。在 1285 个统计数字中，能追溯到真实研究的不到一半（HN 标题称约 40%）；例如五个助手都说「44% 的销售员跟进一次就放弃」，但背后没有任何研究，只是营销博客层层转引。信号：AI 回答里的数据可信度、可追溯引用和「原始数据」本身成为稀缺资产，做有出处的原创统计页、数据核查工具或 GEO 内容服务有机会。",
+   "links": [
+    "https://trakkr.ai/trakkr-research/zombie-stats",
+    "https://news.ycombinator.com/item?id=50290283"
+   ],
+   "topic": "trakkr-zombie-stats-ai-citations-2026-10",
+   "firstSeen": "2026-10-29T23:47:24+08:00"
+  },
+  {
+   "id": "ebca10d25e",
+   "title": "Jon Stewart 节目请来 AI 怀疑论者 Ed Zitron 拆解 Anthropic S-1，引发 X 两极争论",
+   "summary": "10 月 28 日的《The Weekly Show》中，Jon Stewart 与 Ed Zitron 讨论 Anthropic 的 S-1 文件、科技公司间的循环融资、数据中心债务，以及 AI 投入与产出是否匹配。批评者翻出 Zitron 过去「AI 2024 年见顶」「OpenAI 会崩」等预测，对照 Anthropic 2026 上半年 163 亿美元营收；支持者认为节目提出了投资者风险的正当问题。信号：Anthropic IPO 前后，「AI 泡沫还是增长」的大众讨论持续升温，财报拆解、估值可视化类内容有流量。",
+   "links": [
+    "https://x.com/i/trending/2115544014816457015"
+   ],
+   "topic": "jon-stewart-ed-zitron-anthropic-s1-debate-2026-10",
+   "firstSeen": "2026-10-29T23:47:24+08:00"
+  },
+  {
+   "id": "cabbf0a1e6",
+   "title": "Anthropic S-1 曝员工潜在财富：2023 年底前入职的 300–500 人按 2 万亿美元估值每人或获 1.1–4 亿美元",
+   "summary": "X 上热议 Anthropic 招股书中的员工股权细节：公司约 5300 名员工，若以 2 万亿美元估值上市，2023 年底前入职的 300 至 500 名早期员工每人或获 1.1 亿至 4 亿美元，2024 年入职者平均也在九位数。公司持有约 1317 亿美元现金，联合创始人掌握 50.1% 投票权并承诺把大部分股权捐给慈善，计划最快 11 月中旬以 ANT 代码登陆纳斯达克。信号：AI 公司股权、期权与上市财富效应是高关注话题，员工股权计算器、IPO 解读类工具和内容可借势。",
+   "links": [
+    "https://x.com/i/trending/2115829513590378798"
+   ],
+   "topic": "anthropic-s1-employee-equity-windfall-2026-10",
+   "firstSeen": "2026-10-29T23:47:24+08:00"
   }
  ],
- "lastChecked": "2026-10-29T23:25:19+08:00"
+ "lastChecked": "2026-10-29T23:47:24+08:00"
 }
