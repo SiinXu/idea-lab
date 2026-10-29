@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T20:45:53+08:00",
+ "lastUpdated": "2026-10-29T21:00:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24488,7 +24488,18 @@
    ],
    "topic": "dhs-sso-breach-40k-employees-2026-10",
    "firstSeen": "2026-10-29T20:45:53+08:00"
+  },
+  {
+   "id": "372afad62d",
+   "title": "DoorDash 宣布约 170 亿美元收购 Instacart：外卖与生鲜到家两大平台合并，主打用 AI 和配送网络帮本地商店对抗大零售商",
+   "summary": "DoorDash 10 月 29 日宣布与 Instacart（母公司 Maplebear）达成最终协议，以每股 65 美元、股权价值约 170 亿美元收购，较传闻前收盘价溢价 26%，至少 75% 现金支付，摩根大通提供过桥贷款。合并后 Instacart 用户可多买约 5 万家门店，DashPass 与 Instacart+ 会员合二为一，官方称每年为用户省约 1 亿美元会员费；DoorDash 承诺不搞生鲜独家、保留 Instacart 品牌和 App。交易需通过美国反垄断及加拿大、以色列审批，预计 2027 年底至 2028 年上半年完成。信号：即时零售进入巨头整合期，零售媒体广告、门店自营网站和 AI 购物助手成为平台卖给中小商家的核心武器，反垄断审查会是最大变数。",
+   "links": [
+    "https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx",
+    "https://news.ycombinator.com/item?id=50287919"
+   ],
+   "topic": "doordash-acquires-instacart-2026-10",
+   "firstSeen": "2026-10-29T21:00:28+08:00"
   }
  ],
- "lastChecked": "2026-10-29T20:45:53+08:00"
+ "lastChecked": "2026-10-29T21:00:28+08:00"
 }
