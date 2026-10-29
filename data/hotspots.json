@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T11:58:53+08:00",
+ "lastUpdated": "2026-10-29T12:08:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24207,7 +24207,19 @@
    ],
    "topic": "astra-distillation-deepseek-moonshot-2026-10",
    "firstSeen": "2026-10-29T11:58:53+08:00"
+  },
+  {
+   "id": "271134257c",
+   "title": "实测：Claude Code 约 15%–20% 的花销烧在后台智能体的「3–5 字状态栏」上，开发者放出关闭补丁",
+   "summary": "Flamerix AI 通过 Claude Code 的 OpenTelemetry 导出发现：自 2.1.232（2026 年 8 月）起默认开启的 agent_summary 功能，每约 30 秒就把每个后台智能体的完整对话记录发给模型（多为 Opus），只为生成状态栏里一句 3–5 个字的「当前动作」描述，结果从不进入对话。按 Claude Code 自身估算，它占全部花销 16.4%（比主对话 15.7% 还高）、约五分之一的 API 请求，输入输出 token 比约 9000:1，且没有设置项可关；GitHub issue 里另有四份独立测量为 18%–26%。作者发布约 80 行的 Bun 预加载脚本拦截该定时器，不改二进制，但升级可能失效。登上 HN 首页。信号：编码智能体的「隐形 token 消耗」成为新痛点，按请求来源拆分成本的观测/省钱工具（OTel 看板、用量审计）有需求，订阅用户则直接影响限额余量。",
+   "links": [
+    "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+    "https://news.ycombinator.com/item?id=50284255",
+    "https://github.com/anthropics/claude-code/issues/86879"
+   ],
+   "topic": "claude-code-agent-summary-token-burn-2026-10",
+   "firstSeen": "2026-10-29T12:08:13+08:00"
   }
  ],
- "lastChecked": "2026-10-29T11:58:53+08:00"
+ "lastChecked": "2026-10-29T12:08:13+08:00"
 }
