@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T08:45:36+08:00",
+ "lastUpdated": "2026-10-29T08:57:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24140,7 +24140,18 @@
    ],
    "topic": "stackoverflow-under-1000-questions-month-2026-10-28",
    "firstSeen": "2026-10-29T08:45:36+08:00"
+  },
+  {
+   "id": "2541389088",
+   "title": "苹果开放「Touch on Mac」开发者专区：Xcode 27.3 beta 支持为触屏 Mac 适配应用，11 月 18–19 日办线上答疑实验室",
+   "summary": "继触屏 MacBook Pro 发布后，苹果上线开发者页面「Get ready for Touch on Mac」，提供「Design for Touch on Mac」「Bring Touch to your Mac app」「Bring Live Activities to Mac」等视频，Xcode 27.3 beta 已可下载测试触控输入，并将于 11 月 18 日、19 日（太平洋时间）举办线上 Group Labs 答疑；完整开发文档标注为即将推出。该页面在 Hacker News 发出约 1 小时即引发 20 多条讨论。信号：大量 Mac 应用需要补触控手势、更大点击区域和灵动岛/实时活动支持，「Mac 应用触控适配检查工具」、触控友好的 macOS UI 组件库和适配咨询服务会出现短期需求窗口。",
+   "links": [
+    "https://developer.apple.com/touch-on-mac/",
+    "https://news.ycombinator.com/item?id=50282650"
+   ],
+   "topic": "apple-touch-on-mac-developer-2026-10-28",
+   "firstSeen": "2026-10-29T08:57:53+08:00"
   }
  ],
- "lastChecked": "2026-10-29T08:45:36+08:00"
+ "lastChecked": "2026-10-29T08:57:53+08:00"
 }
