@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T15:58:48+08:00",
+ "lastUpdated": "2026-10-29T16:09:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24339,7 +24339,20 @@
    ],
    "topic": "simulon-reality-aware-rendering-2026-10",
    "firstSeen": "2026-10-29T15:58:48+08:00"
+  },
+  {
+   "id": "edaa514e97",
+   "title": "OpenAI 给 ChatGPT Pro 和 Business 订阅送 API 额度：每月最高 500 美元，可用来做应用和代理，但不能用于 Codex",
+   "summary": "OpenAI 于 10 月 28 日上线新权益：付费满 7 天的 ChatGPT Pro 用户每月获得与套餐价相同的 API 额度（Pro 100/200/500 分别对应 100、200、500 美元）；Business 工作区按每个标准席位 20 美元、高级席位 100 美元累计，每月封顶 500 美元，年付一次性发放、上限 6000 美元。只需激活一次，绑定一个自己名下的 API 组织（需同一邮箱），之后每次续费自动发放；首月按剩余天数折算，当月用不完作废，不需要绑定支付方式。额度可用于 Responses、Agents、Decisions、Realtime/GPT-Live、图像接口及联网搜索等内置工具，但不覆盖通过 API Key 调用的 Codex，也不提高 ChatGPT 或 Codex 的使用上限；Plus、免费试用、企业版和教育版不适用。此举被视为跟进 Anthropic 此前的类似做法。信号：订阅用户手里多了一笔「每月必须花掉」的 API 预算，面向个人开发者的小工具、代理模板和一键部署服务会更容易获客，也值得把自家站点的自动化任务迁到这部分免费额度上。",
+   "links": [
+    "https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions",
+    "https://developers.openai.com/api/docs/guides/chatgpt-api-credits",
+    "https://sysnote.net/news/openai-gives-chatgpt-pro-and-business-subscribers-up-to-500-a-month-in-api-credi",
+    "https://x.com/i/trending/2115590355961708755"
+   ],
+   "topic": "openai-chatgpt-pro-business-api-credits-2026-10",
+   "firstSeen": "2026-10-29T16:09:06+08:00"
   }
  ],
- "lastChecked": "2026-10-29T15:58:48+08:00"
+ "lastChecked": "2026-10-29T16:09:06+08:00"
 }
