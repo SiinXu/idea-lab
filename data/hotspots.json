@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T22:54:30+08:00",
+ "lastUpdated": "2026-10-29T23:11:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24565,7 +24565,17 @@
    ],
    "topic": "enterprise-ai-usage-pullback-amazon-tokenmaxxing-2026-10",
    "firstSeen": "2026-10-29T22:54:30+08:00"
+  },
+  {
+   "id": "0c1d14b5d4",
+   "title": "AI 动画短片《No Ordinary Love》走红：Midjourney 做设计、Seedance 做动画，不少观众误以为是手绘",
+   "summary": "创作者 antrofrog_ 10 月 28 日发布 1 分钟短片《No Ordinary Love》：雨中的伦敦，西装男子撑伞送花追求红裙女子。角色设计用 Midjourney、动画用 Seedance 生成，表情和镜头感被大量观众误认为手绘，播放量达数十万。评论在惊叹质量、为 AI 作为创作工具辩护与「机器做艺术」的争议之间展开。信号：图像模型加视频模型的组合已能产出接近手绘质感的叙事短片，单人 AI 动画短片、品牌情感广告、以及「Midjourney + Seedance」工作流教程和模板有流量与变现空间。",
+   "links": [
+    "https://x.com/i/trending/2115228364638216498"
+   ],
+   "topic": "ai-short-no-ordinary-love-midjourney-seedance-2026-10",
+   "firstSeen": "2026-10-29T23:11:11+08:00"
   }
  ],
- "lastChecked": "2026-10-29T22:54:30+08:00"
+ "lastChecked": "2026-10-29T23:11:11+08:00"
 }
