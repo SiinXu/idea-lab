@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T08:29:07+08:00",
+ "lastUpdated": "2026-10-29T08:45:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24118,7 +24118,29 @@
    ],
    "topic": "alpine-gitlab-cve-2026-97229-ruby-patch-2026-10-28",
    "firstSeen": "2026-10-29T08:29:07+08:00"
+  },
+  {
+   "id": "8cbc7d4302",
+   "title": "首款 Android XR 有线眼镜 XREAL AURA 开售：70° 视场、不到 95 克，计算和电池放进随身「计算盒」，内置 Gemini",
+   "summary": "谷歌 10 月 28 日与 XREAL 发布 XREAL AURA，是第一款搭载 Android XR 的有线 XR 眼镜：透明镜片可直接看到现实环境，70° 视场里同时摆放多个空间窗口和 2D 应用；眼镜本体不到 95 克，重计算和电池放在用线缆连接的随身计算盒里，首发高通 Snapdragon Reality Elite 平台。Gemini 能理解你在现实和屏幕上看到的内容并跨应用帮忙，可用 Google Play 的应用，其中超过 150 款专为 XR 打造。美国、加拿大、韩国即日开订，日本 11 月 2 日开订。信号：轻量「眼镜 + 计算盒」形态把 XR 推向办公、出行场景，面向 Android XR 的生产力应用和 Gemini 多模态助手插件是早期机会。",
+   "links": [
+    "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+    "https://news.ycombinator.com/item?id=50282538"
+   ],
+   "topic": "xreal-aura-android-xr-glasses-2026-10-28",
+   "firstSeen": "2026-10-29T08:45:36+08:00"
+  },
+  {
+   "id": "34bccb07b6",
+   "title": "「Stack Overflow 每月新提问已不到 1000 个」：公开数据查询结果在 HN 引发讨论",
+   "summary": "一位网友在 Stack Exchange 官方数据查询平台（SEDE）分享了 Stack Overflow 历年每月新提问数量的查询图表，称目前每月新问题已跌破 1000 个，帖子发出约 1 小时就在 Hacker News 获得近 50 分、30 多条评论。讨论集中在 AI 编程助手取代搜索提问、社区审核文化劝退新人，以及知识沉淀的去向。信号：开发者问答从公共社区迁移到 AI 工具和私有对话，「可检索、可验证的 AI 时代开发知识库」和团队内部问答沉淀工具存在需求空档。（数量来自网友分享的查询，尚未经官方确认。）",
+   "links": [
+    "https://data.stackexchange.com/stackoverflow/query/1926661",
+    "https://news.ycombinator.com/item?id=50282454"
+   ],
+   "topic": "stackoverflow-under-1000-questions-month-2026-10-28",
+   "firstSeen": "2026-10-29T08:45:36+08:00"
   }
  ],
- "lastChecked": "2026-10-29T08:29:07+08:00"
+ "lastChecked": "2026-10-29T08:45:36+08:00"
 }
