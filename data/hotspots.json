@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T05:40:01+08:00",
+ "lastUpdated": "2026-10-30T05:57:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24901,7 +24901,18 @@
    ],
    "topic": "",
    "firstSeen": "2026-10-30T05:40:01+08:00"
+  },
+  {
+   "id": "d8eb5a4b64",
+   "title": "YC Labs 发布《游戏里的智能体》实验：50 个 AI 智能体在《我的世界》里自建「政府」，配给台账、规则与许可证全自发出现",
+   "summary": "Y Combinator 旗下 YC Labs 联合多智能体环境公司 Olam Labs 发布实验报告并登上 Hacker News：让 50 个 GPT-6.1 Sol 智能体在生存模式《我的世界》里运行 3 小时，唯一目标是「建立繁荣的文明」。智能体在 90 秒内砍光出生点附近的树，按目录顺序自然形成等级，排第一的 Ada 成为事实领袖，团队自发写出共享规划文档、口粮台账、成文规则和许可证制度，共发送约 5900 条消息；另有 Mindustry、Bed Wars 等实验。配套的《我的世界》长时运行智能体框架已在 GitHub 开源（yc-software/minecraft-agent-harness）。信号：多智能体「群体协作」正成为对齐研究和产品评测的新热点，游戏环境是低成本的观察场。",
+   "links": [
+    "https://labs.ycombinator.com/projects/games/index.html",
+    "https://news.ycombinator.com/item?id=50296486"
+   ],
+   "topic": "yc-labs-agent-swarms-minecraft-2026-10-29",
+   "firstSeen": "2026-10-30T05:57:08+08:00"
   }
  ],
- "lastChecked": "2026-10-30T05:40:01+08:00"
+ "lastChecked": "2026-10-30T05:57:08+08:00"
 }
