@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T08:57:53+08:00",
+ "lastUpdated": "2026-10-29T09:07:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24151,7 +24151,29 @@
    ],
    "topic": "apple-touch-on-mac-developer-2026-10-28",
    "firstSeen": "2026-10-29T08:57:53+08:00"
+  },
+  {
+   "id": "44e3e5f137",
+   "title": "Qwenputer：把一颗 RISC-V CPU「编译」进 Qwen3.5 4B 的权重里，用模型自身的 Gated DeltaNet 层当内存",
+   "summary": "开发者 Divyansh Agrawal 发布实验模型 Qwenputer：在原版 Qwen 3.5 4B 中嵌入一颗确定性的 RISC-V CPU，利用模型 3/4 注意力层所用的 Gated DeltaNet（线性 RNN）状态矩阵作为精确 RAM，可在前向传播内直接运行算术、C 和 MicroPython 代码，不调用任何外部工具或沙箱，还附带实验性的模型内文件存储；权重已上传 Hugging Face / ModelScope，代码开源。作者另写了两篇续作：混合架构模型可把推理藏进 RNN 状态以躲避思维链监控，以及用「编译权重」做模型无法篡改的内置监控。该文正在 Hacker News 首页上升。信号：「编译权重」让小模型获得精确计算能力，也带来新的 AI 安全监控议题，相关教程、可视化讲解和安全评测工具有内容与工具机会。",
+   "links": [
+    "https://divagr.com/blog/qwenputer",
+    "https://news.ycombinator.com/item?id=50282838"
+   ],
+   "topic": "qwenputer-riscv-cpu-in-qwen-weights-2026-10-28",
+   "firstSeen": "2026-10-29T09:07:47+08:00"
+  },
+  {
+   "id": "998a375698",
+   "title": "嵌入式 Zig 项目 MicroZig 10 月 28 日起实行「严格禁用 LLM/AI」政策：代码、文字、翻译、找 bug 一律不许用 AI",
+   "summary": "Zig Embedded Group 更新行为准则，自 2026 年 10 月 28 日起在其 GitHub 组织和 Discord 实行严格的禁用 LLM 政策：不接受 LLM 生成或改写的代码与文字，不允许用 LLM 改拼写语法、翻译、头脑风暴或找 bug，甚至不允许讨论聊天机器人的使用；鼓励非英语使用者直接用母语发言。消息发出不到 1 小时即登上 Hacker News。信号：开源社区对 AI 贡献的分歧在加剧，「贡献来源声明/AI 使用披露」工具、维护者用的 AI 生成内容筛查与 PR 治理方案会有需求。",
+   "links": [
+    "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+    "https://news.ycombinator.com/item?id=50282865"
+   ],
+   "topic": "microzig-no-llm-policy-2026-10-28",
+   "firstSeen": "2026-10-29T09:07:47+08:00"
   }
  ],
- "lastChecked": "2026-10-29T08:57:53+08:00"
+ "lastChecked": "2026-10-29T09:07:47+08:00"
 }
