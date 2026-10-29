@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T00:25:43+08:00",
+ "lastUpdated": "2026-10-30T00:39:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24669,7 +24669,19 @@
    ],
    "topic": "skypilot-grace-blackwell-nvl72-scheduler-2026-10-29",
    "firstSeen": "2026-10-30T00:25:43+08:00"
+  },
+  {
+   "id": "c517821d02",
+   "title": "Anthropic AI for Science 扩展到 20 家机构：NSF、斯隆、西蒙斯基金会等分发免费 Claude 额度，帝国理工让 Claude 只凭旧数据找基因转移机制",
+   "summary": "Anthropic 10 月 28 日宣布 AI for Science 计划扩展到全球 20 家科学基金会、研究机构和课题组，向做高影响力研究的科学家提供免费 Claude 额度。美国国家科学基金会（NSF）、斯隆基金会、西蒙斯基金会、Schmidt Sciences、美国化学会 CAS 等负责把额度分发给研究者；太空望远镜科学研究所、帝国理工等机构在内部使用。帝国理工 10 月 29 日披露，团队将用 Claude 设计蛋白结合物对抗真菌病原体，并测试 Claude 能否仅凭既有实验数据、不给提示，独立发现未知的基因转移机制。此前 Anthropic 还与 HHMI Janelia 制定让 AI 代理安全操作实验仪器的标准，Allen 研究所用 AI 代理团队把数月的数据分析压缩到数小时。信号：大模型公司正通过免费算力额度抢占科研场景，「AI 科学家」工具链、实验仪器接入标准和科研数据分析代理是新机会。",
+   "links": [
+    "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+    "https://www.imperial.ac.uk/news/articles/natural-sciences/life-sciences/2026/new-anthropic-partnership-explores-how-ai-could-advance-biological-discoveries/",
+    "https://x.com/i/trending/2115837483908804999"
+   ],
+   "topic": "anthropic-ai-for-science-20-partners-2026-10-28",
+   "firstSeen": "2026-10-30T00:39:52+08:00"
   }
  ],
- "lastChecked": "2026-10-30T00:25:43+08:00"
+ "lastChecked": "2026-10-30T00:39:52+08:00"
 }
