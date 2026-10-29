@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T19:00:52+08:00",
+ "lastUpdated": "2026-10-29T19:16:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24444,7 +24444,18 @@
    ],
    "topic": "anthropic-s1-cash-pile-132b-2026-10",
    "firstSeen": "2026-10-29T19:00:52+08:00"
+  },
+  {
+   "id": "f3c21701db",
+   "title": "Amp 推出 macOS Satellites：AI 编程代理按需在云端秒开一台 Mac，自己构建、测试、点按 iOS 和 Mac 应用",
+   "summary": "10 月 29 日 Amp 发布 macOS Satellites：代理的主线程仍跑在 Linux 开发机上，只有在需要构建、运行、测试 iOS 或 macOS 应用时才自动在云端启动一台装好 Xcode 和模拟器的全新 Mac（约 30 秒），代码保持同步，截图、日志、构建产物和录屏回传到对话里，Mac 上的应用还能通过端口转发访问开发机上的后端。官方演示里代理会展开折叠屏模拟器检查双屏布局、操作 Mac 应用并录下全过程。X 上开发者讨论它让没有 Mac 的人也能让代理做苹果平台开发；据讨论为测试版、需排队，按小时计费。信号：编程代理开始按任务「临时租用」专用硬件环境，云端设备农场和代理工作流正在合流。",
+   "links": [
+    "https://ampcode.com/news/macos-satellites",
+    "https://x.com/i/trending/2115762192792564061"
+   ],
+   "topic": "amp-macos-satellites-2026-10",
+   "firstSeen": "2026-10-29T19:16:22+08:00"
   }
  ],
- "lastChecked": "2026-10-29T19:00:52+08:00"
+ "lastChecked": "2026-10-29T19:16:22+08:00"
 }
