@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T07:56:33+08:00",
+ "lastUpdated": "2026-10-29T08:10:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24084,7 +24084,30 @@
    ],
    "topic": "github-7-4b-commits-agentic-demand",
    "firstSeen": "2026-10-29T07:56:33+08:00"
+  },
+  {
+   "id": "6453336b68",
+   "title": "medRxiv 新预印本：15 个大模型审查临床试验论文，抓出 53%–99% 的植入错误，人类审稿人只有 27%",
+   "summary": "10 月 28 日更新的 medRxiv 预印本（通讯作者 Ruslan Rust，南加大）复刻了 2008 年 BMJ 的经典实验：在临床试验手稿里故意植入方法学错误，看审稿人能抓到多少。当年未经训练的人类审稿人平均只发现约 27% 的重大错误；这次 15 个大模型（含 4 个开源模型）在原手稿上得分 53%–96%，在 2026 年新发表、可避免训练数据记忆的试验上达到 58%–99%，Opus 5.5 最高（99%），GPT-6.1 Sol 和 GPT-6 Luna 是性价比之选；单次审稿耗时 1.4–16.3 分钟。但模型在没植入错误的对照稿里也会误报 2%–29% 的错误类型。作者表示今后不再接受纯人工的临床试验审稿。注意：这是未经同行评审的预印本，并不证明 AI 胜过专业临床审稿人。信号：「AI 辅助审稿 / 论文方法学体检」正从概念走向可量化的基准，面向期刊、药企和研究机构的专业审稿工具有现实需求。",
+   "links": [
+    "https://www.medrxiv.org/content/10.64898/2026.10.25.26366455v2",
+    "https://www.medrxiv.org/content/medrxiv/early/2026/10/28/2026.10.25.26366455.full.pdf",
+    "https://x.com/i/trending/2115567745374855200"
+   ],
+   "topic": "llm-peer-review-clinical-trials-medrxiv-2026-10-28",
+   "firstSeen": "2026-10-29T08:10:33+08:00"
+  },
+  {
+   "id": "d46c640f40",
+   "title": "AI 审计经济学家 Saez 与 Zucman 的 138 篇论文：找出 2035 个问题，147 个足以改变核心数字",
+   "summary": "经济学家 Tyler Cowen 10 月 28 日在 Marginal Revolution 转发一位匿名读者的 AI 审计：用 Claude Opus 5.5 和 GPT-6 Astra 两个智能体各自独立审查 Saez 与 Zucman（不平等与财富税研究的代表人物）的 138 篇论文，拿到论文、附录和复现数据后重算核心数字、回查税收统计和国民账户等原始来源，再由第三个智能体逐条复核、尝试反驳并分级。结果：共 2035 个问题，147 个严重到改变核心数字，69% 的论文至少有一个问题，有明确方向的重大和中等错误中 97% 夸大了论文结论。Cowen 称需要「彻底重估」这批研究；也有学者质疑方法本身。审计结论尚无独立第三方验证。信号：「多智能体交叉审计 + 复现数据重算」正被用来系统性复查既有学术研究，学术审计和复现服务可能成为新赛道，也会引发争议。",
+   "links": [
+    "https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html",
+    "https://x.com/i/trending/2115553123917758929"
+   ],
+   "topic": "ai-audit-saez-zucman-papers-2026-10-28",
+   "firstSeen": "2026-10-29T08:10:33+08:00"
   }
  ],
- "lastChecked": "2026-10-29T07:56:33+08:00"
+ "lastChecked": "2026-10-29T08:10:33+08:00"
 }
