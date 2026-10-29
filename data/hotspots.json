@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T08:10:33+08:00",
+ "lastUpdated": "2026-10-29T08:29:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24107,7 +24107,18 @@
    ],
    "topic": "ai-audit-saez-zucman-papers-2026-10-28",
    "firstSeen": "2026-10-29T08:10:33+08:00"
+  },
+  {
+   "id": "fd42ed9534",
+   "title": "Alpine Linux 披露 GitLab 遭定向攻击：CVSS 10.0 漏洞「升级也没修好」，补丁藏在 GitLab 自带的 Ruby 里",
+   "summary": "Alpine Linux 10 月 28 日公告：10 月 20–21 日，一个新注册账号向其自建 GitLab 提交特制 CI 配置，利用 CVE-2026-97229（GitLab 解析 CI 正则时的严重漏洞，根源在 Ruby 内置正则引擎 Onigmo，CVSS 10.0），导致工作进程崩溃 8 次，其中 4 次攻击已推进到半途；攻击者还下载了 Alpine 的 GitLab 镜像来针对性调试。更关键的是，Alpine 10 月 22 日升级到 GitLab 19.3.6 后漏洞依然存在：修复只是 GitLab 官方安装包里给 Ruby 打的补丁，自己用标准 Ruby 构建镜像的部署拿不到，必须另装 Ruby 3.3.13 / 3.4.12 / 4.0.9 或更新版本。Alpine 已把实例当作被攻破处理并从零重建、重置全部密码，称软件包仓库和 10 月 21 日的发行版未被篡改。信号：自托管 GitLab 和自建镜像的用户需要立刻核查 Ruby 版本；「依赖里藏着的补丁」类供应链盲区，是安全扫描与合规工具的新需求点。",
+   "links": [
+    "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+    "https://news.ycombinator.com/item?id=50282544"
+   ],
+   "topic": "alpine-gitlab-cve-2026-97229-ruby-patch-2026-10-28",
+   "firstSeen": "2026-10-29T08:29:07+08:00"
   }
  ],
- "lastChecked": "2026-10-29T08:10:33+08:00"
+ "lastChecked": "2026-10-29T08:29:07+08:00"
 }
