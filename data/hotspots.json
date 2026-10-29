@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T04:07:50+08:00",
+ "lastUpdated": "2026-10-30T04:23:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24843,7 +24843,18 @@
    ],
    "topic": "lynx-open-source-daw-fl-studio-2026-10-29",
    "firstSeen": "2026-10-30T04:07:50+08:00"
+  },
+  {
+   "id": "849640f5ae",
+   "title": "Divergence Labs 发布预印本：用 Claude 智能体主导抗体设计，研发食物过敏「IgE 拆除剂」，3 个候选优于奥马珠单抗",
+   "summary": "生物科技初创 Divergence Labs 今天发布预印本并登上 Hacker News：团队让 Claude 以智能体方式主导一整轮计算抗体设计，目标是能把已结合在 FcεRI 受体上的 IgE 物理「拆下来」的双表位抗体（现有唯一获批的生物药奥马珠单抗只能中和游离 IgE）。在 91 个经实验表征的「拆除臂」设计中，20 个对受体结合态 IgE 有活性，其中 3 个在 25–400 nM 治疗相关浓度下清除的 IgE 多于奥马珠单抗；从头设计的「锚定臂」亲和力为 3.4–235 nM。信号：大模型智能体正从写代码走向湿实验驱动的药物发现，「AI 科学家 + 小团队」的生物科技模式开始拿出可验证数据。",
+   "links": [
+    "https://divergencelabs.com/publications/ige-preprint.pdf",
+    "https://news.ycombinator.com/item?id=50294486"
+   ],
+   "topic": "divergence-claude-ige-antibody-2026-10-29",
+   "firstSeen": "2026-10-30T04:23:15+08:00"
   }
  ],
- "lastChecked": "2026-10-30T04:07:50+08:00"
+ "lastChecked": "2026-10-30T04:23:15+08:00"
 }
