@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T20:15:06+08:00",
+ "lastUpdated": "2026-10-29T20:26:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24466,7 +24466,19 @@
    ],
    "topic": "claude-for-legal-artifact-gallery-2026-10",
    "firstSeen": "2026-10-29T20:15:06+08:00"
+  },
+  {
+   "id": "147cd91798",
+   "title": "AI 代理首次自主给活体小鼠做脑部基因治疗注射：自己选药、选脑区、算坐标，Opus 5 中途拒绝、Sonnet 5 完成全程",
+   "summary": "YC 公司 Exin Therapeutics 创始人 Gabriel Ocana-Santero 在 X 上公布：给 AI 代理 19 种基因治疗载体、一只癫痫模型小鼠和一台自制的电动立体定位手术台（带摄像头），目标是减少发作。代理自己选了增强 GABA 抑制信号的疗法，定位外侧内嗅皮层，从三篇论文平均算出注射坐标，驱动机械臂在 5 分钟内注入 250 纳升，并通过摄像头 32 次观察出血和进度；开颅由人类完成，持证兽医把关每个不可逆步骤并手握物理急停开关，小鼠术后恢复良好。插曲：Opus 5.5 识别到生物任务直接拒绝，Opus 5 跑完干演练却在真手术前停下，理由是「中途被截断比不开始更伤害动物」，最终由 Sonnet 5 完成。信号：「实验室闭环」从湿实验走向活体动物，代理开始自主决定治疗方案，AI 科研安全与审批会成为新话题。",
+   "links": [
+    "https://teapawt.net/OcanaSantero",
+    "https://x.com/i/trending/2115779497463099743",
+    "https://www.ycombinator.com/companies/exin-therapeutics"
+   ],
+   "topic": "exin-ai-agent-mouse-brain-surgery-2026-10",
+   "firstSeen": "2026-10-29T20:26:40+08:00"
   }
  ],
- "lastChecked": "2026-10-29T20:15:06+08:00"
+ "lastChecked": "2026-10-29T20:26:40+08:00"
 }
