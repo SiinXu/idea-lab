@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T02:01:17+08:00",
+ "lastUpdated": "2026-10-30T02:08:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24757,7 +24757,17 @@
    ],
    "topic": "claude-mem-agent-memory",
    "firstSeen": "2026-10-30T02:01:17+08:00"
+  },
+  {
+   "id": "9736e676b8",
+   "title": "CopilotKit 开源 OpenBot 登上 GitHub 日榜：给每个 AI「同事」一台独立电脑，动作先审批后留痕",
+   "summary": "CopilotKit/OpenBot 今天出现在 GitHub Trending 日榜，星标约 8000。项目定位是开源的 AI 同事：每个代理拥有自己的浏览器、文件和工具，每一步操作在执行前先决策、执行后有记录，并可接入任何支持 AG-UI 协议的代理。信号：「代理自带电脑 + 可审计操作」正从闭源产品走向开源基础设施，企业落地 AI 员工的安全与审计层是新机会。",
+   "links": [
+    "https://github.com/CopilotKit/OpenBot"
+   ],
+   "topic": "copilotkit-openbot",
+   "firstSeen": "2026-10-30T02:08:14+08:00"
   }
  ],
- "lastChecked": "2026-10-30T02:01:17+08:00"
+ "lastChecked": "2026-10-30T02:08:14+08:00"
 }
