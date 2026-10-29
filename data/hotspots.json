@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T01:40:04+08:00",
+ "lastUpdated": "2026-10-30T02:01:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24736,7 +24736,28 @@
    ],
    "topic": "mikolov-czech-state-honor",
    "firstSeen": "2026-10-30T01:40:04+08:00"
+  },
+  {
+   "id": "1d1b041f17",
+   "title": "《华盛顿邮报》：墨西哥成了美国买不到的电动车「展厅」，比亚迪等中国品牌廉价车型遍街，HN 热议关税壁垒",
+   "summary": "《华盛顿邮报》10 月 27 日记者实地体验：在墨西哥能买到大量美国市场因关税和监管无法销售的电动车，价格明显更低、选择更丰富。文章登上 Hacker News 首页（约 170 分、150 条评论），讨论集中在美国对中国电动车的关税壁垒、消费者选择与本土车企竞争力。信号：低价电动车全球扩张与贸易壁垒的张力仍是热门议题。",
+   "links": [
+    "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+    "https://news.ycombinator.com/item?id=50290668"
+   ],
+   "topic": "mexico-ev-showroom-us-tariffs",
+   "firstSeen": "2026-10-30T02:01:17+08:00"
+  },
+  {
+   "id": "b8da10635e",
+   "title": "claude-mem 冲上 GitHub 日榜：给 AI 编程代理加「跨会话记忆」，自动压缩会话并回注上下文，星标破 10 万",
+   "summary": "开源项目 thedotmack/claude-mem 登上 GitHub Trending 日榜，星标约 10.4 万。它会记录代理在会话中的操作，用 AI 压缩后在之后的会话里自动注入相关上下文，支持 Claude Code、Codex、Gemini、Copilot、OpenCode 等多种代理。信号：「代理长期记忆」正成为编程代理工具链的标配插件方向。",
+   "links": [
+    "https://github.com/thedotmack/claude-mem"
+   ],
+   "topic": "claude-mem-agent-memory",
+   "firstSeen": "2026-10-30T02:01:17+08:00"
   }
  ],
- "lastChecked": "2026-10-30T01:40:04+08:00"
+ "lastChecked": "2026-10-30T02:01:17+08:00"
 }
