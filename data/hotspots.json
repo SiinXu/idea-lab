@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-29T16:09:06+08:00",
+ "lastUpdated": "2026-10-29T16:31:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24352,7 +24352,19 @@
    ],
    "topic": "openai-chatgpt-pro-business-api-credits-2026-10",
    "firstSeen": "2026-10-29T16:09:06+08:00"
+  },
+  {
+   "id": "68a6ff2e96",
+   "title": "OpenAI 官方 API 规范提前漏出 GPT Image 2.6：图像编辑新增 markup 选项，叠一张透明 PNG 就能圈出要改的地方",
+   "summary": "10 月 29 日，开发者在 OpenAI 官方 API 规范里发现图像编辑接口新增了 markup 参数：在原图上叠加一张透明 PNG，用画圈、涂抹标出要修改的区域和方式，说明文字写着「支持 GPT Image 2.5 和 2.6」。GPT Image 2.6 尚未官宣，也还没有公开的模型 ID；此前 Arena 上出现过几个被判断为 OpenAI 出品的匿名图像模型，试用者认为画质只是小幅提升，真正的变化可能在「怎么改图」。另有用户指出，这个名字 10 月 21 日已在 OpenAI 官方 YouTube 购物代理演示的简介中出现过。目前仍属传闻级信号，以官方发布为准。信号：基于涂鸦/圈选的精确局部改图将成为 API 标配，做电商修图、海报改稿、设计批注转修改的小工具可以提前按 markup 的交互方式准备。",
+   "links": [
+    "https://x.com/i/trending/2115715944316080573",
+    "https://x.com/aitrackerbot/status/2115667559630373301",
+    "https://x.com/TokenGremlin/status/2115669700105380078"
+   ],
+   "topic": "openai-gpt-image-2-6-markup-spotted-2026-10",
+   "firstSeen": "2026-10-29T16:31:07+08:00"
   }
  ],
- "lastChecked": "2026-10-29T16:09:06+08:00"
+ "lastChecked": "2026-10-29T16:31:07+08:00"
 }
