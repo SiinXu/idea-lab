@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T19:01:28+08:00",
+ "lastUpdated": "2026-10-30T19:10:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25615,7 +25615,18 @@
    ],
    "topic": "dhh-ai-psychosis-code-review-2026-10-30",
    "firstSeen": "2026-10-30T19:01:28+08:00"
+  },
+  {
+   "id": "f5c413d739",
+   "title": "Cursor 扩展市场出现恶意版 Claude Code 扩展 2.1.313：植入 SSH 后门，最多约 5000 名开发者受影响",
+   "summary": "Cursor 发布安全通告：10 月 29 日太平洋时间约凌晨 2:27 至下午 1:35，其 VS Code 扩展市场上架了被篡改的 Anthropic.claude-code 2.1.313（并非 Anthropic 开发）。该版本会收集主机名、用户名、Git 邮箱、公网 IP 等信息，尝试写入攻击者的 SSH 公钥、建立反向 SSH 隧道，并通过 macOS LaunchAgent 或 Windows 计划任务持久化。Cursor 称已下架该版本、临时关停并重建扩展市场、轮换密钥，并协助云厂商关停攻击服务器，未发现其他扩展被篡改，将直接联系受影响用户。HN 上有人以「Anthropic 被黑」为题转发，引发对 AI 编程工具供应链安全的讨论。信号：扩展/插件供应链审计、开发机后门检测类工具需求上升。",
+   "links": [
+    "https://cursor.com/blog/claude-code-extension-security-notice",
+    "https://news.ycombinator.com/item?id=50301983"
+   ],
+   "topic": "cursor-malicious-claude-code-extension-2026-10-30",
+   "firstSeen": "2026-10-30T19:10:50+08:00"
   }
  ],
- "lastChecked": "2026-10-30T19:01:28+08:00"
+ "lastChecked": "2026-10-30T19:10:50+08:00"
 }
