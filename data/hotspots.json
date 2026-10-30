@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T23:18:54+08:00",
+ "lastUpdated": "2026-10-30T23:25:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25802,7 +25802,29 @@
    ],
    "topic": "pika-h3-flex-open-weights",
    "firstSeen": "2026-10-30T23:18:54+08:00"
+  },
+  {
+   "id": "6bc53d7d46",
+   "title": "非洲金融科技 OPay 登陆纽交所：IPO 募资 3.04 亿美元、估值约 40 亿美元，上半年营收同比增长 137%",
+   "summary": "软银支持的尼日利亚数字金融平台 OPay 于 10 月 30 日以每股 19 美元（指引区间 19–21 美元的下限）发行 1600 万股 ADS，募资 3.04 亿美元，股票代码 OPAY，估值约 40 亿美元，承销商包括花旗、德银、标准银行和中金。公司称 2026 年二季度营收年化达 10 亿美元，上半年同比增长 137%、净利率 19%，月活约 5000 万，业务覆盖尼日利亚、埃及、巴基斯坦、印尼等新兴市场；2021 年上一轮估值为 20 亿美元。信号：新兴市场「超级 App + 支付」在美股重新获得定价，跨境收款、本地化支付接入和面向非洲/东南亚商户的 SaaS 工具值得关注。",
+   "links": [
+    "https://www.prnewswire.com/news-releases/opay-makes-history-with-new-york-stock-exchange-listing-302925054.html",
+    "https://www.cnbcafrica.com/2026/softbank-backed-opay-raises-304-million-in-us-ipo",
+    "https://x.com/i/trending/2116171794969198993"
+   ],
+   "topic": "opay-nyse-ipo",
+   "firstSeen": "2026-10-30T23:25:23+08:00"
+  },
+  {
+   "id": "ea65d93867",
+   "title": "开发者弃用 Coolify 引发热议：@illyism 把 3 台服务器上 28 个应用迁到 900 行自写部署脚本，称 root SSH 密钥存在 Web 面板里风险太大",
+   "summary": "开发者 Ilias（@illyism）公开把自托管部署平台 Coolify 从三台服务器上移除，改用约 900 行的极简控制面：GitHub Webhook 触发、零停机部署、夜间自动备份。他认为 Coolify 把服务器 root SSH 密钥存放在 Web 应用里，一旦面板被攻破就会殃及全部服务器。Coolify 作者 Andras Bacsai 回应称近期已修补安全问题，并强调它相比托管服务能省下大量费用；评论区也借此调侃「vibe coder」用 AI 生成代码却不深审。信号：自托管 PaaS 的安全边界成了新焦点，「AI 生成的一次性私有部署脚本」与「安全加固版自托管面板」都存在机会。",
+   "links": [
+    "https://x.com/i/trending/2116117742013309067"
+   ],
+   "topic": "coolify-exodus-illyism",
+   "firstSeen": "2026-10-30T23:25:23+08:00"
   }
  ],
- "lastChecked": "2026-10-30T23:18:54+08:00"
+ "lastChecked": "2026-10-30T23:25:23+08:00"
 }
