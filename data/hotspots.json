@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T21:56:50+08:00",
+ "lastUpdated": "2026-10-30T22:18:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25741,7 +25741,19 @@
    ],
    "topic": "elect-horse-gerrymandering-puzzle-2026-10",
    "firstSeen": "2026-10-30T21:56:50+08:00"
+  },
+  {
+   "id": "c937ddfcc2",
+   "title": "英特尔盘前暴跌约 25%、有望创史上最大单日跌幅：Q4 指引远逊预期，PC 需求塌方引发全球芯片股抛售",
+   "summary": "10 月 30 日，英特尔给出第四季度营收 150–160 亿美元、调整后每股收益 0.25 美元的指引，远低于 LSEG 统计的 170.7 亿美元和 0.43 美元预期，并警告 PC 市场疲软至少持续到 2027 年上半年；PC 芯片约占其三季度营收一半，本季预计环比下滑超 20%。股价盘前跌约 25%、盘中一度跌 29%，市值或蒸发逾 1200 亿美元；AMD、Arm、高通、英伟达、美光及 ASML、台积电等随之下挫，戴尔、HPE、超微跌 6%–12%。美银下调评级至中性，伯恩斯坦、巴克莱目标价降至 75 美元。信号：AI 抢走 HBM 产能推高内存价格、反噬消费级 PC，「AI 基建繁荣 + 终端需求失血」的分化正在加剧，市场对 AI 资本开支的耐心也在下降。",
+   "links": [
+    "https://www.channelnewsasia.com/business/intel-plunges-25-triggers-global-chip-rout-bleak-outlook-6506956",
+    "https://www.cnbc.com/2026/10/30/intel-guidance-analyst-price-targets.html",
+    "https://news.ycombinator.com/item?id=50303791"
+   ],
+   "topic": "intel-q4-guidance-chip-rout-2026-10",
+   "firstSeen": "2026-10-30T22:18:27+08:00"
   }
  ],
- "lastChecked": "2026-10-30T21:56:50+08:00"
+ "lastChecked": "2026-10-30T22:18:27+08:00"
 }
