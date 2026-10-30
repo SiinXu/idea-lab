@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T14:46:46+08:00",
+ "lastUpdated": "2026-10-30T15:13:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25440,7 +25440,27 @@
    ],
    "topic": "companies-pause-ai-rollouts-sameness-2026-10-30",
    "firstSeen": "2026-10-30T14:46:46+08:00"
+  },
+  {
+   "id": "a7e232c950",
+   "title": "FactoryAI 发布 Droid 1.0：用「程序化工具调用」一次跑完上百个工具调用，Terminal-Bench 4 登顶",
+   "summary": "Droid 1.0 是 FactoryAI 编码智能体的新引擎，模型无关，可在任意 IDE 或终端使用：智能体写一小段 JavaScript 批量执行几十到几百次工具调用。官方示例中，一个 312 次工具调用的任务从 36 次请求、310 万 token 降到 2 次请求、6.1 万 token。Terminal-Bench 4 上，搭配 GPT-6.1 Sol 通过率 57.6%、每任务 0.79 美元，搭配 Claude Opus 5.5 达 65.2%、4.73 美元，领先 Codex 和 Cursor。已上线桌面应用、CLI 和 npm SDK。信号：「批量工具调用」可大幅压低智能体成本，围绕它的工具封装、成本监控和基准对比内容有需求。",
+   "links": [
+    "https://x.com/i/trending/2116046141737296317"
+   ],
+   "topic": "factoryai-droid-1-programmatic-tool-calling-2026-10-30",
+   "firstSeen": "2026-10-30T15:13:24+08:00"
+  },
+  {
+   "id": "52d5f25794",
+   "title": "Cartesia 推出 Managed Agents：几分钟搭好能打电话的语音智能体，支持 44 种以上语言中途切换",
+   "summary": "Cartesia 10 月 29 日发布 Managed Agents，把语音识别、语音合成、打断处理和电话呼叫整合成一套托管系统，底层用自家 Ink 和 Sonic 模型。开发者已用它做出用卡纳达语砍房租、通话中途切换西班牙语订餐厅的智能体，强调搭建速度、清晰度和对打断的即时响应，并提供企业合规支持。信号：多语种电话客服、预约和外呼销售的语音智能体门槛进一步降低，适合做垂直行业模板和代搭服务。",
+   "links": [
+    "https://x.com/i/trending/2116002827420279073"
+   ],
+   "topic": "cartesia-managed-agents-voice-calls-2026-10-30",
+   "firstSeen": "2026-10-30T15:13:24+08:00"
   }
  ],
- "lastChecked": "2026-10-30T14:46:46+08:00"
+ "lastChecked": "2026-10-30T15:13:24+08:00"
 }
