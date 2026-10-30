@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T19:10:50+08:00",
+ "lastUpdated": "2026-10-30T20:38:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25626,7 +25626,30 @@
    ],
    "topic": "cursor-malicious-claude-code-extension-2026-10-30",
    "firstSeen": "2026-10-30T19:10:50+08:00"
+  },
+  {
+   "id": "cafec7ea36",
+   "title": "Claude Code 扩展后门事件升级：安全研究员称升级到 2.1.314 不会清除已植入的 SSH 后门，需逐台手动排查",
+   "summary": "Cursor 扩展市场恶意版 Claude Code 2.1.313 事件持续发酵，HN 热帖「Backdoors in official Claude Code extensions」1.5 小时冲到 260+ 分。安全研究员 Kevin Beaumont（GossiTheDog）指出，恶意包是从 Anthropic 认证账号上传、并随自动更新推送的；攻击者 C2 服务器收集了主机名、用户名、系统、Git 邮箱等信息，可挑选目标反向 SSH 登录。他确认官方随后发布的修复版本不会移除已写入的 SSH 公钥和持久化任务，受影响的 VS Code / Cursor 机器必须手动清理，并批评 Anthropic 尚未公开说明。EDR 厂商 Phorion 发布技术分析：后门覆盖 macOS、Linux、Windows，Cursor 已同时从 NPM 和 VS Code 相关仓库撤下该版本。信号：开发机供应链应急排查、扩展签名与发布账号安全成为企业刚需。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50302334",
+    "https://cyberplace.social/@GossiTheDog/117528831681803563",
+    "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+   ],
+   "topic": "claude-code-extension-backdoor-remediation-2026-10-30",
+   "firstSeen": "2026-10-30T20:38:21+08:00"
+  },
+  {
+   "id": "bb9ecce72b",
+   "title": "安全研究员披露 Azure API Connections 五个跨租户漏洞：可接管任意客户的 Key Vault 和 SQL 数据库，拿到 20 万美元赏金",
+   "summary": "挪威安全公司 Binary Security 研究员 Haakon Wik Gulbrandsrud 发文《Azure's Weakest Link – Five Full Cross-Tenant Compromises》，今天登上 HN 首页。他发现 Azure Logic Apps 的 API Connections 架构存在根本性缺陷：通过 ARM 的 DynamicInvoke 等接口诱导共享 API Management 实例操作别人的连接，就能用受害者配置的令牌访问其后端，包括跨租户读写 Key Vault、Azure SQL，以及 Jira、Salesforce 等外部服务。五个漏洞共获微软约 20 万美元赏金，并在 BlueHat Asia 2026 演讲。信号：云连接器与 OAuth 令牌最小权限审计、跨租户风险扫描工具有市场空间。",
+   "links": [
+    "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+    "https://news.ycombinator.com/item?id=50301854"
+   ],
+   "topic": "azure-api-connections-cross-tenant-2026-10",
+   "firstSeen": "2026-10-30T20:38:21+08:00"
   }
  ],
- "lastChecked": "2026-10-30T19:10:50+08:00"
+ "lastChecked": "2026-10-30T20:38:21+08:00"
 }
