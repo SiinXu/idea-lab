@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T10:14:36+08:00",
+ "lastUpdated": "2026-10-30T10:28:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25025,7 +25025,19 @@
    ],
    "topic": "picocss-no-longer-maintained-ai-2026-10-29",
    "firstSeen": "2026-10-30T10:14:36+08:00"
+  },
+  {
+   "id": "d200047320",
+   "title": "Herdr 发布原生桌面应用：为终端与编程智能体打造的「工作空间」，一处查看哪个 Agent 正在等你",
+   "summary": "Rust 编写的 Herdr 发布原生桌面应用（herdr-app，支持 macOS Apple Silicon、Linux、Windows），今晚登上 Hacker News。它把终端按「空间—标签—窗格」组织，关闭窗口后终端仍在后台运行；侧边栏把各空间里的编程智能体汇成一个列表，并按「工作中 / 阻塞等你 / 已完成 / 空闲」显示状态，连由其他 Agent 启动的子进程也能一键「窥视」，还支持跨机器寻址远程终端。信号：多 Agent 并行编程正在催生新的「Agent 管理型终端」品类，围绕 Agent 状态聚合、通知与远程会话的开发者工具有机会。",
+   "links": [
+    "https://github.com/herdrdev/herdr-app",
+    "https://news.ycombinator.com/item?id=50298436",
+    "https://herdr.dev"
+   ],
+   "topic": "herdr-native-app-agent-terminal-2026-10-29",
+   "firstSeen": "2026-10-30T10:28:09+08:00"
   }
  ],
- "lastChecked": "2026-10-30T10:14:36+08:00"
+ "lastChecked": "2026-10-30T10:28:09+08:00"
 }
