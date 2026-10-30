@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T12:16:15+08:00",
+ "lastUpdated": "2026-10-30T12:44:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25153,7 +25153,51 @@
    ],
    "topic": "cohere-series-e-sovereign-ai-canada-stake-2026-10-29",
    "firstSeen": "2026-10-30T12:16:15+08:00"
+  },
+  {
+   "id": "b6d7b7d50b",
+   "title": "币安初查：一台被攻破的 DevOps 笔记本或是约 63 亿美元盗案入口，Tether 冻结 15 亿+ USDT、Circle 冻结 8 亿+ USDC",
+   "summary": "据 The Block，币安称初步调查显示，一名员工的 DevOps 笔记本被攻破，可能是这起约 63 亿美元盗币事件的突破口；稳定币发行方 Tether 已冻结超 15 亿 USDT，Circle 冻结超 8 亿 USDC。币安随后宣布暂停全部充提，配合执法调查。信号：交易所最大风险正从合约漏洞转向「开发者终端与运维权限」，面向 Web3 团队的终端安全、密钥隔离与链上应急冻结服务需求会上升。",
+   "links": [
+    "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
+    "https://www.techmeme.com/261029/p58#a261029p58"
+   ],
+   "topic": "binance-hack-devops-laptop-stablecoin-freeze-2026-10-29",
+   "firstSeen": "2026-10-30T12:44:42+08:00"
+  },
+  {
+   "id": "8c246d6567",
+   "title": "The Information：DeepSeek 因黑市英伟达 Blackwell 芯片涨价把最新一轮融资规模翻倍，国资投资方占比显著",
+   "summary": "据 The Information 报道，DeepSeek 最新一轮融资规模约 160 亿美元，比原计划翻倍，主要原因是黑市上英伟达 Blackwell 芯片价格飙升、算力采购成本上涨；投资方包括中国科技巨头和多家国有资本。信号：出口管制下的「灰色算力」溢价正在直接推高中国模型公司的融资需求，算力租赁、模型推理降本和国产芯片适配仍是确定性机会。",
+   "links": [
+    "https://www.theinformation.com/articles/behind-deepseeks-16-billion-funding-chinese-tech-titans-state-players",
+    "https://www.techmeme.com/261029/p71#a261029p71"
+   ],
+   "topic": "deepseek-round-doubled-blackwell-black-market-2026-10-29",
+   "firstSeen": "2026-10-30T12:44:42+08:00"
+  },
+  {
+   "id": "736b636127",
+   "title": "纽交所母公司 ICE 计划推出受美国监管、基于 Hyperliquid 的永续合约市场，并入股 Trade.xyz",
+   "summary": "据彭博，纽交所母公司洲际交易所（ICE）计划与 Hyperliquid 上的市场运营方 Trade.xyz 合作，推出受美国监管的永续合约市场，并入股 Trade.xyz。这是传统交易所巨头首次直接接入链上永续合约基础设施。信号：「链上撮合 + 传统合规」混合模式加速落地，围绕永续合约的数据、风控、合规工具与教育内容会有新需求。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-10-29/nyse-owner-plans-market-for-hyperliquid-perpetual-futures-in-us",
+    "https://www.techmeme.com/261029/p68#a261029p68"
+   ],
+   "topic": "ice-hyperliquid-perps-trade-xyz-2026-10-29",
+   "firstSeen": "2026-10-30T12:44:42+08:00"
+  },
+  {
+   "id": "bde015e58f",
+   "title": "Meta 低调上线 AI 穿搭应用 Style Sketch：用你已有的衣服搭配造型，先在印尼、新加坡、泰国推出",
+   "summary": "据 TechCrunch，Meta 在印尼、新加坡和泰国悄悄上线独立应用 Style Sketch，用户把自己衣柜里的衣服录入后，AI 帮忙生成穿搭方案。Meta 选择东南亚市场先行测试。信号：大厂开始做「个人衣橱 + AI 搭配」这类垂直消费 AI 应用，小团队可在细分人群（职场、旅行、二手转卖）或本地化市场找差异化切口。",
+   "links": [
+    "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+    "https://www.techmeme.com/261029/p64#a261029p64"
+   ],
+   "topic": "meta-style-sketch-ai-fashion-app-sea-2026-10-29",
+   "firstSeen": "2026-10-30T12:44:42+08:00"
   }
  ],
- "lastChecked": "2026-10-30T12:16:15+08:00"
+ "lastChecked": "2026-10-30T12:44:42+08:00"
 }
