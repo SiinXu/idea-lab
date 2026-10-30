@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T13:02:17+08:00",
+ "lastUpdated": "2026-10-30T13:08:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25230,7 +25230,38 @@
    ],
    "topic": "amazon-jassy-ai-shopping-agents-not-great-2026-10-29",
    "firstSeen": "2026-10-30T13:02:17+08:00"
+  },
+  {
+   "id": "3a3b475169",
+   "title": "TRM Labs：币安约 63.6 亿美元被盗案系朝鲜 TraderTraitor 所为",
+   "summary": "据路透，链上分析公司 TRM Labs 把币安被盗案归因于朝鲜黑客组织 TraderTraitor，约 63.6 亿美元从币安多条链上的钱包被转出；币安此前初查称入口可能是一台被攻破的 DevOps 笔记本，并承诺全额赔付用户损失。信号：国家级黑客把目标从协议漏洞转向员工设备和运维链路，面向交易所和 Web3 团队的终端安全、密钥隔离与链上追踪服务需求会明显上升。",
+   "links": [
+    "https://www.reuters.com/legal/government/blockchain-analysis-firm-trm-says-north-korea-behind-binance-crypto-theft-2026-10-30/"
+   ],
+   "topic": "trm-binance-hack-north-korea-tradertraitor-2026-10-30",
+   "firstSeen": "2026-10-30T13:08:58+08:00"
+  },
+  {
+   "id": "bef16bd53d",
+   "title": "Instagram 出价 5 万到 50 万美元，挖 YouTube 创作者把长视频搬到新栏目 Features",
+   "summary": "据 Business Insider，Instagram 正向部分创作者提供 5 万至 50 万美元的合约，换取他们把 YouTube 长视频同步发布到 Instagram 新的长视频栏目 Features；但 The Verge 报道创作者抱怨 Features 目前缺少变现手段，Mosseri 称正在研究。信号：平台在用现金抢长视频供给，一稿多发、跨平台剪辑改版和收益对比的创作者工具有机会。",
+   "links": [
+    "https://www.businessinsider.com/instagram-offers-youtube-creators-six-figure-longform-video-deals-2026-10",
+    "https://www.theverge.com/tech/1020806/instagram-long-form-video-creator-monetization"
+   ],
+   "topic": "instagram-features-pays-youtube-creators-longform-2026-10-29",
+   "firstSeen": "2026-10-30T13:08:58+08:00"
+  },
+  {
+   "id": "2ea476a024",
+   "title": "闪迪营收同比暴涨 378% 至 110 亿美元，宣布 1 拆 8 股票拆分：AI 存储需求持续爆发",
+   "summary": "据 MarketWatch，闪迪（Sandisk）第一财季营收同比增长 378% 至 110 亿美元，高于预期的 107 亿美元，并给出高于预期的下季度指引，同时宣布 1 拆 8 的股票拆分。信号：AI 训练与推理把闪存和内存推入超级周期，存储涨价会传导到 PC、手机和云成本，存储价格追踪与采购时机类信息服务有价值。",
+   "links": [
+    "https://www.morningstar.com/news/marketwatch/20261029556/sandisk-sees-revenue-nearly-quintuple-and-a-stock-split-is-on-the-way"
+   ],
+   "topic": "sandisk-q1-revenue-378pct-stock-split-2026-10-29",
+   "firstSeen": "2026-10-30T13:08:58+08:00"
   }
  ],
- "lastChecked": "2026-10-30T13:02:17+08:00"
+ "lastChecked": "2026-10-30T13:08:58+08:00"
 }
