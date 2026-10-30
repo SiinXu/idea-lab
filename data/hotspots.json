@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T01:32:06+08:00",
+ "lastUpdated": "2026-10-31T01:58:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25922,7 +25922,18 @@
    ],
    "topic": "nesformer-nes-cpu-in-qwen-weights-2026-10-30",
    "firstSeen": "2026-10-31T01:32:06+08:00"
+  },
+  {
+   "id": "da44a73a63",
+   "title": "Proton CEO 叫停「AI 使用能力重新面试」：404 Media 曝光内部强推 AI、无视安全顾虑后，员工反弹、用户呼吁其辞职",
+   "summary": "404 Media 报道，10 月 30 日周五 Proton CEO Andy Yen 在约两小时的全员大会上取消了原定几乎覆盖全公司的「重新面试」，这项面试本要员工说明自己如何使用 AI，结果可能影响去留。此前一天 404 Media 发布调查，披露 Yen 在安全频道里斥责要求上线前做渗透测试的员工是「失败者思维」，要求「别再手工精雕代码，多用 AI」，并描述了内部的恐惧文化。Yen 在会上承认自己「沟通失败」，但有员工认为这只是因为「后院起火」。社交媒体上不少 Proton 用户已公开要求他下台。信号：以隐私和安全为卖点的公司强推 AI 提速，正在遭遇员工与用户的双重反噬，「AI 考核」类管理手段的舆论风险开始显现。",
+   "links": [
+    "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+    "https://news.ycombinator.com/item?id=50307183"
+   ],
+   "topic": "proton-cancels-ai-reinterview-2026-10-30",
+   "firstSeen": "2026-10-31T01:58:09+08:00"
   }
  ],
- "lastChecked": "2026-10-31T01:32:06+08:00"
+ "lastChecked": "2026-10-31T01:58:09+08:00"
 }
