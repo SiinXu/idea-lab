@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T06:23:01+08:00",
+ "lastUpdated": "2026-10-31T06:57:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26084,7 +26084,29 @@
    ],
    "topic": "ao3-security-incident-2026-10-30",
    "firstSeen": "2026-10-31T06:23:01+08:00"
+  },
+  {
+   "id": "231cdb4da6",
+   "title": "Akamai 旗下云平台 Linode 发布客户安全通告：正排查新公开的远程代码执行漏洞 CVE-2026-98432，登上 Hacker News 热榜",
+   "summary": "Linode 状态页 10 月 30 日（UTC 18:10）发布「客户安全通告」，称 Akamai 已知悉最新公开的远程代码执行漏洞 CVE-2026-98432，正在调查并采取缓解措施，同时持续监控平台；21:18 更新称相关专家已介入，后续会公布缓解进展，受影响客户可通过工单联系支持。通告尚未说明漏洞涉及的具体组件和影响范围。消息发布约一小时即冲上 Hacker News 前列。信号：继 bunny.net、AO3 之后，本周基础设施与大型平台安全事件密集，云主机用户值得关注补丁与官方后续说明。",
+   "links": [
+    "https://status.linode.com/incidents/nt58zhx3pmgm",
+    "https://news.ycombinator.com/item?id=50310687"
+   ],
+   "topic": "linode-cve-2026-98432",
+   "firstSeen": "2026-10-31T06:57:30+08:00"
+  },
+  {
+   "id": "12d4866753",
+   "title": "Firezone 开源 sanstun：用 Rust 写的「无 IO」WireGuard 实现，把状态机与网络、时间、随机数彻底分离，便于并行和整系统模拟测试",
+   "summary": "零信任访问公司 Firezone 发布 sanstun，一个 sans-IO 风格的用户态 WireGuard 协议状态机 Rust 实现。所谓 sans-IO，是把网络 IO、时间和随机数等副作用都从业务逻辑中剥离，组件更易组合、测试和精确模拟。团队此前长期维护 boringtun 的分叉，不断打补丁并添加按时间注入的 API、去掉内部缓冲，最终决定重写出 API 更地道、更适合并行的新库。信号：sans-IO 设计在网络协议库中越来越流行，自建 VPN/隧道产品可直接受益。",
+   "links": [
+    "https://www.firezone.dev/blog/introducing-sanstun",
+    "https://news.ycombinator.com/item?id=50310398"
+   ],
+   "topic": "firezone-sanstun",
+   "firstSeen": "2026-10-31T06:57:30+08:00"
   }
  ],
- "lastChecked": "2026-10-31T06:23:01+08:00"
+ "lastChecked": "2026-10-31T06:57:30+08:00"
 }
