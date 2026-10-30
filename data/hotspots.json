@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T17:10:16+08:00",
+ "lastUpdated": "2026-10-30T17:32:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25541,7 +25541,27 @@
    ],
    "topic": "arsaze-cursor-for-video-editing-show-hn",
    "firstSeen": "2026-10-30T17:10:16+08:00"
+  },
+  {
+   "id": "f026743f82",
+   "title": "OpenAI 撤回 ChatGPT Pro 额度减半计划，反手把 Pro 100/200/500 和 Business Premium 用量上限翻倍，立即生效",
+   "summary": "老 Pro 200 用户强烈反对原定的额度减半后，OpenAI 改口：Pro 100、200、500 档和 Business Premium 的使用上限全部翻倍，覆盖 ChatGPT Work 与 Codex，相当于 Plus 基础额度的 10 到 50 倍，Pro 用户算下来每月最高约合 1.05 万美元 API 用量；Plus 用户抱怨被忽略，共享额度调整将在 12 月推出。信号：头部 AI 订阅进入「高价档拼额度」阶段，重度用户的用量追踪、额度换算和多订阅成本对比工具有需求。",
+   "links": [
+    "https://x.com/i/trending/2115870740071281107"
+   ],
+   "topic": "openai-chatgpt-pro-limits-doubled-2026-10-30",
+   "firstSeen": "2026-10-30T17:32:37+08:00"
+  },
+  {
+   "id": "95fcc67431",
+   "title": "VRChat 调查中 95% 玩家要求标注 AI 内容，官方却决定不做 AI 标签，社区掀起退订和差评潮",
+   "summary": "VRChat 10 月 28 日公布 21,595 份问卷结果：95% 希望给 AI 生成内容加标签，但偏好组合超过 3,141 种、没有多数方案，加上担心虚假标注和骚扰，官方决定暂不做，改为 2026 年底至 2027 年初上线世界点赞/点踩、多图预览，并考虑「纯人工创作」标记。玩家呼吁取消 VRC+ 订阅、刷 Steam 差评。信号：UGC 平台的「AI 含量披露」成为用户刚需，第三方内容溯源、人工创作认证和 AI 使用声明标准有切入机会。",
+   "links": [
+    "https://x.com/i/trending/2115573552602824785"
+   ],
+   "topic": "vrchat-no-ai-labels-backlash-2026-10-28",
+   "firstSeen": "2026-10-30T17:32:37+08:00"
   }
  ],
- "lastChecked": "2026-10-30T17:10:16+08:00"
+ "lastChecked": "2026-10-30T17:32:37+08:00"
 }
