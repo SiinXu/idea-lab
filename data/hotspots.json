@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T01:58:09+08:00",
+ "lastUpdated": "2026-10-31T02:13:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25933,7 +25933,19 @@
    ],
    "topic": "proton-cancels-ai-reinterview-2026-10-30",
    "firstSeen": "2026-10-31T01:58:09+08:00"
+  },
+  {
+   "id": "b329cc4aaa",
+   "title": "黑石向投资者预警：Anthropic 上市后恐拿不到投资级评级，大概率落在 BB 档「垃圾级」",
+   "summary": "据英国《金融时报》报道，黑石在 Anthropic 630 亿美元芯片融资项目「North Star」中向投资者表示，Anthropic 上市后更可能先获得 BB 档的高位投机级评级，而非此前预期的投资级。该项目 180 亿美元次级债已被 KBRA 评为 BB+（展望正面）、晨星 DBRS 评为 BB；穆迪、标普、惠誉三大机构尚未正式评级。Anthropic 账上有超过 1120 亿美元现金，预计 11 月底前在纳斯达克上市、募资约 1000 亿美元，并计划到 2045 年投入 8000 多亿美元建算力。信号：投机级评级会把养老金、保险资金挡在门外并抬高借贷成本，AI 实验室靠发债扩张算力的模式正在被信用市场重新定价。",
+   "links": [
+    "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+    "https://www.tipranks.com/news/anthropic-could-get-junk-credit-rating-after-ipo-warns-blackstone-bx",
+    "https://news.ycombinator.com/item?id=50307219"
+   ],
+   "topic": "anthropic-junk-rating-blackstone-2026-10-30",
+   "firstSeen": "2026-10-31T02:13:22+08:00"
   }
  ],
- "lastChecked": "2026-10-31T01:58:09+08:00"
+ "lastChecked": "2026-10-31T02:13:22+08:00"
 }
