@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T11:38:45+08:00",
+ "lastUpdated": "2026-10-30T11:56:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25111,7 +25111,27 @@
    ],
    "topic": "rivian-vw-jv-ai-assistant-license-2026-10-29",
    "firstSeen": "2026-10-30T11:38:45+08:00"
+  },
+  {
+   "id": "e4b7312242",
+   "title": "Reddit CEO：谷歌 AI Mode「不带来流量」，10 月搜索引荐每周平均减少超 100 万次",
+   "summary": "Reddit CEO Steve Huffman 在第三季度财报电话会上表示，谷歌的 AI Mode 和 AI Overviews 不会给网站带来流量，「对我们不会，据我所知对谁都不会」。Reddit 披露 10 月来自搜索的引荐平均每周减少超过 100 万次，还认为其机器翻译的多语言内容在搜索中被降权，主要影响美国以外市场。他同时称谷歌「抓取得和以前一样猛」，Reddit 仍是谷歌热门搜索词。Reddit 正在转向「直接、高粘性的日常目的地」，推出 For You 推荐流，并测试用 AI 把帖子变成短视频。信号：依赖 SEO 的内容站要尽快建立直接访问、订阅和社群渠道，AI 搜索可见度（GEO）与站外分发会比传统 SEO 更关键。",
+   "links": [
+    "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic"
+   ],
+   "topic": "reddit-ceo-google-ai-mode-no-traffic-2026-10-29",
+   "firstSeen": "2026-10-30T11:56:25+08:00"
+  },
+  {
+   "id": "3f421dfac0",
+   "title": "不信神也能申请「宗教豁免」拒用 AI：美国一名人文主义者首次获得工作场所免用 AI 的待遇",
+   "summary": "肯塔基大学行政人员 David Durman 是一名非有神论的人文主义者，他在美国人文主义协会（AHA）帮助下，以信仰理由获得了工作中不使用 AI 的豁免，是首位获得此类待遇的人文主义者。他认为过度依赖 AI 会削弱人主动运用心智、成为道德主体的能力，并批评 AI 冲击生计、耗费环境资源、侵占人类创作。AHA 律师表示，天主教、普救派和人文主义等传统中对 AI 与人类尊严的关切都可能受到职场法律保护；此前一位普救派软件工程师也拿到了类似豁免。信号：「拒用 AI」开始走向法律与 HR 合规议题，企业强推 AI 工具时需要准备豁免流程，围绕 AI 使用政策、员工选择权的合规咨询和工具可能出现需求。",
+   "links": [
+    "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+   ],
+   "topic": "humanist-religious-exemption-ai-at-work-2026-10-29",
+   "firstSeen": "2026-10-30T11:56:25+08:00"
   }
  ],
- "lastChecked": "2026-10-30T11:38:45+08:00"
+ "lastChecked": "2026-10-30T11:56:25+08:00"
 }
