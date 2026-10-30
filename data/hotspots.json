@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T03:16:49+08:00",
+ "lastUpdated": "2026-10-31T03:55:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25979,7 +25979,18 @@
    ],
    "topic": "videolan-france-per-gb-tax-1m-eur-2026-10-30",
    "firstSeen": "2026-10-31T03:16:49+08:00"
+  },
+  {
+   "id": "662ba9639d",
+   "title": "CDN 服务商 bunny.net 披露安全事件：亚美尼亚节点所在服务器的托管商遭入侵，全平台 TLS 证书紧急吊销重签",
+   "summary": "bunny.net 在状态页披露，其一家基础设施供应商的第三方服务器管理软件遭未授权访问，bunny 位于亚美尼亚的一个 CDN 节点就托管在该供应商的服务器上。bunny 称收到通知后 20 分钟内切断该节点流量、保全日志并擦除服务器，双方调查都未发现该节点被访问的证据，但无法完全排除；若被访问，可能暴露的是缓存内容、Pull Zone 配置和存放在该服务器上的 TLS 证书。作为预防，b-cdn.net、bunny.run 平台域名的证书已全部吊销重签，客户自定义域名的托管证书正分批换用新私钥重签，预计 10 月 31 日结束；自管证书的客户被建议主动吊销并换新私钥。事件已登上 HN。信号：CDN 的风险越来越多来自上游托管商和服务器管理工具这类供应链环节，边缘节点密钥管理、证书自动轮换会成为选 CDN 时的新考量。",
+   "links": [
+    "https://status.bunny.net/incidents/p6gf1by9kr7m",
+    "https://news.ycombinator.com/item?id=50308697"
+   ],
+   "topic": "bunny-net-security-incident-tls-reissue-2026-10-30",
+   "firstSeen": "2026-10-31T03:55:35+08:00"
   }
  ],
- "lastChecked": "2026-10-31T03:16:49+08:00"
+ "lastChecked": "2026-10-31T03:55:35+08:00"
 }
