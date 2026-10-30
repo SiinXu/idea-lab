@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T17:39:21+08:00",
+ "lastUpdated": "2026-10-30T17:56:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25571,7 +25571,18 @@
    ],
    "topic": "ask-hn-ai-era-fatigue-2026-10-30",
    "firstSeen": "2026-10-30T17:39:21+08:00"
+  },
+  {
+   "id": "355162a86e",
+   "title": "开发者用 6 天就退掉 iPhone Duo 换回 18 Pro Max：怀念 Face ID、外屏太局促，HN 热议折叠屏是否值 2000 美元",
+   "summary": "独立开发者 Codakuma 发文称，入手苹果首款折叠屏 iPhone Duo 六天后退货换成 iPhone 18 Pro Max：内屏哑光质感「像一张活的纸」、折叠后便携、按开合姿态切换界面的开发体验都很好，但改用 Touch ID 明显是降级，展开时难找指纹键位置，窄外屏用起来局促，花约 2000 英镑不想将就。文章发布不到一小时即登上 HN 首页并引发讨论。信号：继亮线故障和差评后，Duo 的早期口碑出现「退货潮」苗头，折叠屏适配（多姿态 UI）、以旧换新与二手估价、退换货攻略类内容和工具有需求。",
+   "links": [
+    "https://codakuma.com/i-returned-my-duo/",
+    "https://news.ycombinator.com/item?id=50301373"
+   ],
+   "topic": "iphone-duo-returned-review-2026-10-30",
+   "firstSeen": "2026-10-30T17:56:59+08:00"
   }
  ],
- "lastChecked": "2026-10-30T17:39:21+08:00"
+ "lastChecked": "2026-10-30T17:56:59+08:00"
 }
