@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T23:25:23+08:00",
+ "lastUpdated": "2026-10-30T23:44:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25824,7 +25824,28 @@
    ],
    "topic": "coolify-exodus-illyism",
    "firstSeen": "2026-10-30T23:25:23+08:00"
+  },
+  {
+   "id": "5b34f3c5e3",
+   "title": "云部署平台 Northflank 发生安全事件：官方要求所有用户假定环境变量已被解密并立即轮换密钥，多名用户确认 AI 密钥已被盗用",
+   "summary": "Northflank 状态页显示，10 月 30 日 11:43（UTC）收到 Wiz 威胁告警，随后连续部署网络策略补丁并请求 Wiz 应急响应团队支援；13:40 起平台进入重大故障。官方最新通告要求所有用户假定工作负载密钥、密钥组和全局密钥都已被解密，立即停用并轮换，并称多名用户已确认自己的 AI API 密钥被人使用。事件已登上 HN。信号：继 Coolify、Cursor 扩展后门之后，又一个「把密钥集中托管在平台」的风险被验证；密钥泄露检测、AI API 密钥用量异常告警、一键批量轮换工具有现实需求。",
+   "links": [
+    "https://status.northflank.com/cmvv0rn5a092f14rutwccodpp",
+    "https://news.ycombinator.com/item?id=50305025"
+   ],
+   "topic": "northflank-security-incident-2026-10-30",
+   "firstSeen": "2026-10-30T23:44:21+08:00"
+  },
+  {
+   "id": "6bf76db2c6",
+   "title": "Unsloth 发布 DeepSeek-V4.1-Flash-1017 动态量化 GGUF：64GB 内存即可本地跑，Mac Studio 解码约 80 token/秒",
+   "summary": "Unsloth 放出 DeepSeek 十月中旬更新版 V4.1-Flash-1017 的 Dynamic V3.1 GGUF 量化权重，称在 GPQA Diamond、AIME25 等基准上保持同级最佳精度；借助把部分权重卸载到 SSD，64GB 内存的机器即可运行。社区实测 Mac Studio 写代码解码约 80.5 token/秒、8 并发约 88.3，四台 DGX Spark 负载下可达 139 token/秒。权重已上 Hugging Face 并附部署文档。信号：本周登顶 OpenRouter 的开源模型迅速下沉到本地，「本地私有编程模型」的部署、调优与硬件选型服务门槛继续降低。",
+   "links": [
+    "https://x.com/i/trending/2116179721189015591"
+   ],
+   "topic": "unsloth-deepseek-v41-flash-gguf",
+   "firstSeen": "2026-10-30T23:44:21+08:00"
   }
  ],
- "lastChecked": "2026-10-30T23:25:23+08:00"
+ "lastChecked": "2026-10-30T23:44:21+08:00"
 }
