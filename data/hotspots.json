@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T06:01:13+08:00",
+ "lastUpdated": "2026-10-31T06:13:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26048,7 +26048,32 @@
    ],
    "topic": "humansand-tutor-2026-10-30",
    "firstSeen": "2026-10-31T06:01:13+08:00"
+  },
+  {
+   "id": "2d36634205",
+   "title": "风投 Mento VC 发布创业分析智能体基准 SAB：14 个模型做尽调近乎满分，Claude Opus 5.5 拿 97.2 分，但预测增长全部输给「按历史招聘增速排序」的土办法",
+   "summary": "Mento VC 公开 Startup Agent Benchmark（SAB），用 960 个分析师任务（产品与客户、市场与时机、竞争、团队、牵引与风险、项目筛选六类，一半是虚构公司、一半来自其真实公司库）和 101 组「100 家公司按增长潜力排序」测试 14 个模型。研究任务中 Claude Opus 5.5 以 97.2/100 领先，单任务成本从 0.003 到 0.36 美元相差百倍；但所有模型对已删除的事实仍会编答案（9%–33%），而在 90–180 天网站流量与人数增长预测上，模型的相关系数在 −0.16 到接近 0 之间，全部不如按过往员工增长排序的简单规则（+0.06）。结论：AI 适合自动化尽调和项目筛选，投资判断仍需人来做。",
+   "links": [
+    "https://mento.vc/sab-bench",
+    "https://habr.com/ru/posts/1101240/",
+    "https://x.com/i/trending/2116283597779026146"
+   ],
+   "topic": "mento-vc-sab-startup-agent-benchmark-2026-10-30",
+   "firstSeen": "2026-10-31T06:13:24+08:00"
+  },
+  {
+   "id": "abf1986abc",
+   "title": "星巴克财报会透露 AI 计划：2027 财年在得来速测试后台 AI 帮店员录单，还在探索「到店识别顾客」并展示个性化电子菜单",
+   "summary": "星巴克 CEO Brian Niccol 在 2026 财年第四季度财报电话会上表示，约一半顾客使用得来速，公司将在 2027 财年开始测试后台 AI 模型，帮助咖啡师更准确高效地录入订单；同时探索识别已加入计划的顾客到店、展示个性化电子菜单并简化支付的体验，App 也将加入 AI 搜索推荐，未来可能支持对话式、智能体下单。The Verge 指出 Taco Bell、麦当劳也在试类似功能；网上对「人脸/车辆识别」的隐私担忧较多，Niccol 称目前仍处早期，会先测试再推广。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+    "https://www.fool.com/earnings/call-transcripts/2026/10/30/starbucks-sbux-q4-2026-earnings-call-transcript/",
+    "https://www.customerexperiencedive.com/news/starbucks-greater-personalization-on-menu-2027/873361/",
+    "https://x.com/i/trending/2116193867544551727"
+   ],
+   "topic": "starbucks-ai-drive-thru-personalized-menu-2026-10-30",
+   "firstSeen": "2026-10-31T06:13:24+08:00"
   }
  ],
- "lastChecked": "2026-10-31T06:01:13+08:00"
+ "lastChecked": "2026-10-31T06:13:24+08:00"
 }
