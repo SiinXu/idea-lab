@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T10:28:09+08:00",
+ "lastUpdated": "2026-10-30T10:58:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25037,7 +25037,50 @@
    ],
    "topic": "herdr-native-app-agent-terminal-2026-10-29",
    "firstSeen": "2026-10-30T10:28:09+08:00"
+  },
+  {
+   "id": "ffa2578e25",
+   "title": "Reddit 宣布将转向「仅限登录」浏览：CEO 称未登录访问是数据被抓取的主要入口，先在美国以外部分市场测试",
+   "summary": "Reddit CEO Steve Huffman 在三季度财报会上宣布，网站将逐步变成「只有登录才能看」的体验，未来几个月先在美国以外的部分市场试行，同时重做并重新上线 App 的无痕模式。他称绝大多数未经授权的数据访问都发生在未登录状态，登录墙对用户体验、广告业务和数据保护都更有利，数据授权合作仍会继续。同日他还表示谷歌 AI Mode「不带来流量」。信号：AI 搜索削弱外部导流后，内容平台正收紧开放访问、把数据当资产卖，依赖抓取 Reddit 的 AI 工具和 SEO 打法要准备替代数据源。",
+   "links": [
+    "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+    "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"
+   ],
+   "topic": "reddit-logged-in-only-2026-10-29",
+   "firstSeen": "2026-10-30T10:58:48+08:00"
+  },
+  {
+   "id": "720b04b8c5",
+   "title": "亚马逊财报：AWS 同比增长 39%、年化收入 1840 亿美元，Jassy 称要做成「万亿美元级」业务，2027 年资本开支还将明显高于今年 2200 亿",
+   "summary": "亚马逊周四财报会上，CEO Andy Jassy 重申 AWS 能成为史上首个年收入万亿美元的业务：AWS 本季收入同比增长 39%，已连续第六个季度加速，年化收入达 1840 亿美元，他预计明后两年增速都在 40% 左右。代价是重投入：2026 年现金资本开支约 2200 亿美元、大部分投向 AWS，2027 年还要「明显更多」。分析师在会上反复追问回报和利润率。信号：AI 云算力需求仍在加速，三大云厂商的资本开支竞赛还没到顶，围绕算力成本优化和多云调度的工具需求会持续。",
+   "links": [
+    "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/"
+   ],
+   "topic": "amazon-q3-2026-aws-1t-capex",
+   "firstSeen": "2026-10-30T10:58:48+08:00"
+  },
+  {
+   "id": "4db20898e9",
+   "title": "OpenAI 参投的 Thrive Holdings 约 153 亿美元企业价值收购安防公司 ADT：用 AI 改造传统企业的「控股公司」模式再下一城",
+   "summary": "Josh Kushner 旗下 Thrive Capital 分拆出的控股公司 Thrive Holdings 宣布以每股 10 美元、约 76 亿美元股权价值收购美国家庭安防公司 ADT，计入债务后企业价值约 153 亿美元。Thrive Holdings 以 OpenAI 为合作方和投资方，专门长期持有传统企业并用 AI 改造，目前已持有 75 家以上公司；OpenAI 为其投资组合提供模型、技术和驻场工程师。信号：「买下传统公司再用 AI 提效」正从小型服务业扩展到百亿美元级上市公司，AI 落地的价值正被资本直接用并购方式兑现。",
+   "links": [
+    "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+   ],
+   "topic": "thrive-holdings-acquires-adt-2026-10-29",
+   "firstSeen": "2026-10-30T10:58:48+08:00"
+  },
+  {
+   "id": "a5dcc06a1c",
+   "title": "英特尔：平价笔记本芯片 Wildcat Lake 已售罄，CFO 称对明年内存供应「不乐观」，内存短缺持续推高 PC 价格",
+   "summary": "英特尔 CEO 陈立武在财报会上称面向平价笔记本的 Wildcat Lake 芯片「需求超过供给」，CFO David Zinsner 证实已经售罄。内存等元器件短缺持续推高 PC 价格，Wildcat Lake 正出现在戴尔 XPS 13、惠普 Omnibook 5 14 等对标 MacBook Neo 的低价 Windows 本里，但很多只配 8GB 内存。Zinsner 表示对明年内存供应「不乐观」。信号：AI 数据中心抢占内存产能正在外溢到消费电子，2027 年终端设备涨价和低内存配置会成为常态，端侧 AI 应用要更重视省内存。",
+   "links": [
+    "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage"
+   ],
+   "topic": "intel-wildcat-lake-sold-out-memory-2026-10-29",
+   "firstSeen": "2026-10-30T10:58:48+08:00"
   }
  ],
- "lastChecked": "2026-10-30T10:28:09+08:00"
+ "lastChecked": "2026-10-30T10:58:48+08:00"
 }
