@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T22:18:27+08:00",
+ "lastUpdated": "2026-10-30T22:29:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25753,7 +25753,20 @@
    ],
    "topic": "intel-q4-guidance-chip-rout-2026-10",
    "firstSeen": "2026-10-30T22:18:27+08:00"
+  },
+  {
+   "id": "3ad3c2d217",
+   "title": "用「活体神经元」优化的视频模型 Mischief 1 上线：基于 Wan 2.2 提速 5 倍，480p 每秒仅 0.5 美分",
+   "summary": "旧金山生物计算公司 The Biological Computing Co.（TBC）10 月 30 日在 fal 和 OpenRouter 上线图生视频模型 TBC mischief 1。它基于开源的 Wan 2.2，TBC 称在实验室培养活体神经元、测量其信息处理方式，再把发现的计算原理做成附加在扩散 Transformer 上的软件层（参数量增加不到 0.1%），生成速度比底模快 5 倍、质量相当。定价 480p 每秒 0.005 美元、720p 每秒 0.01 美元，5 秒短片低至 2.5 美分，号称两大平台上最便宜的图生视频模型，支持 3/5 秒、16:9、首帧控制；fal 上 11 月 2 日前可免费试用。注意提速和画质对比均为公司自报，暂无独立评测。信号：「生物启发的推理加速」开始商业化，低价视频生成适合做批量分镜、情绪板和创意 A/B 测试类产品。",
+   "links": [
+    "https://www.prnewswire.com/news-releases/the-biological-computing-co-launches-worlds-first-publicly-available-neuron-derived-ai-video-model-302924399.html",
+    "https://openrouter.ai/tbc/mischief-1",
+    "https://www.unite.ai/tbc-mischief-neuron-derived-ai-video-model/",
+    "https://x.com/i/trending/2116164774669013385"
+   ],
+   "topic": "tbc-mischief-1-neuron-video-model",
+   "firstSeen": "2026-10-30T22:29:28+08:00"
   }
  ],
- "lastChecked": "2026-10-30T22:18:27+08:00"
+ "lastChecked": "2026-10-30T22:29:28+08:00"
 }
