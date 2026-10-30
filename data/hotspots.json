@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T04:46:52+08:00",
+ "lastUpdated": "2026-10-31T05:14:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26014,7 +26014,18 @@
    ],
    "topic": "openai-private-intelligence-2026-10-30",
    "firstSeen": "2026-10-31T04:46:52+08:00"
+  },
+  {
+   "id": "ebd246c940",
+   "title": "Atlas Venture 合伙人 Bruce Booth 预警：AI 制药将迎来「药物过剩」，未来 3–5 年扎堆热门靶点、反拖累整体研发效率",
+   "summary": "知名生物科技风投、Atlas Venture 合伙人 Bruce Booth 10 月 30 日在 LifeSciVC 博客发文《The Fruits of AI Drug Abundance》，判断 AI 主要是在已知靶点、已知分子骨架和已知生物学上降低设计门槛，小团队也能做过去大药企才能做的事，模型也很快扩散，护城河变浅。结果是候选药物数量暴增，却集中在 PD-1、EGFR、CD19、VEGF、HER2、JAK、GLP-1、KRAS 等热门靶点（前八大靶点各已有 100 多个在研项目），带来更多「me-too」药、临床试验抢患者、后期失败和资本浪费，未来 3–5 年整体研发效率可能不升反降。真正难的首创新药（如 RAS(on) 分子胶）仍超出多数模型训练集范围。该文在 X 上引发生物医药圈热议。信号：AI 制药的价值将从「快速出分子」转向「找新靶点、做差异化和缩短临床」，竞品管线情报、靶点拥挤度分析、临床试验招募优化等工具会更有需求。",
+   "links": [
+    "https://lifescivc.com/2026/10/the-fruits-of-ai-drug-abundance-indigestion-in-the-near-term/",
+    "https://x.com/i/trending/2116209839265255771"
+   ],
+   "topic": "ai-drug-abundance-booth-2026-10-30",
+   "firstSeen": "2026-10-31T05:14:15+08:00"
   }
  ],
- "lastChecked": "2026-10-31T04:46:52+08:00"
+ "lastChecked": "2026-10-31T05:14:15+08:00"
 }
