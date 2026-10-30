@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T22:29:28+08:00",
+ "lastUpdated": "2026-10-30T22:42:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25766,7 +25766,19 @@
    ],
    "topic": "tbc-mischief-1-neuron-video-model",
    "firstSeen": "2026-10-30T22:29:28+08:00"
+  },
+  {
+   "id": "9c1691af26",
+   "title": "Nace AI 开源 27B 多模态「决策模型」Drex Max v1：不生成文字，一次前向给出最多 255 个选项的概率，可在 Mac 本地跑",
+   "summary": "Nace.AI 10 月 30 日在 Hugging Face 正式放出 Drex Max v1 权重及 Q8_0 GGUF、affine Q4 量化版。它是 27B 稠密模型（48 层 Gated DeltaNet 线性注意力 + 16 层非因果全注意力），支持文本、JSON 和图片作为上下文，输入一组命名问题，一次前向就返回每个选项的概率（最多 255 选 1），不做文本生成；上下文窗口最高 262K token。官方称在公开 Decision Index 0.4 上得 67.52，比 Drex v2.0（61.25）高 6.27 分，工具选择单项 81.9。affine Q4 版可在 24GB 内存以上的 Apple 芯片 Mac 上用 MLX/Kapitsa 运行，另有 llama.cpp、Ollama 分支。许可为自定义 Open RAIL-M，限制高风险自动化用途。分数为厂商自测。信号：「只做判断不做生成」的小型本地模型适合工单分类、路由、工具选择、内容审核等高频低延迟场景，可做成私有化分类/路由 API 产品。",
+   "links": [
+    "https://huggingface.co/nace-ai/drex-max-v1",
+    "https://github.com/nace-ai/drex-decision-models",
+    "https://x.com/i/trending/2116176667450458288"
+   ],
+   "topic": "nace-drex-max-v1-decision-model",
+   "firstSeen": "2026-10-30T22:42:15+08:00"
   }
  ],
- "lastChecked": "2026-10-30T22:29:28+08:00"
+ "lastChecked": "2026-10-30T22:42:15+08:00"
 }
