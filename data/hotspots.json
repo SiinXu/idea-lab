@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T02:57:21+08:00",
+ "lastUpdated": "2026-10-31T03:16:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25967,7 +25967,19 @@
    ],
    "topic": "france-per-gb-content-tax-amendment-2026-10-30",
    "firstSeen": "2026-10-31T02:57:21+08:00"
+  },
+  {
+   "id": "7ad37b1443",
+   "title": "法国「按流量收税」后续：VLC 开发方 VideoLAN 称新税每年将让其多付 100 万欧元以上，怒批议员「不懂自己投了什么」",
+   "summary": "法国国民议会通过对内容提供商按每 GB 0.055 欧元征税的第 I-1358 号修正案后，开源播放器 VLC 背后的非营利组织 VideoLAN 在 X 上发文称，这项税每年会让它多花超过 100 万欧元，并批评投票议员根本不理解自己通过了什么，还一边喊着要「技术主权」。VideoLAN 靠志愿者和捐赠运营，主要成本就是全球用户下载 VLC 产生的流量，按 GB 计税对它这类高下载量、零营收的开源项目冲击尤其大。HN 已有帖子讨论「法国数字税可能杀死 VideoLAN」。修正案仍需参议院审议。信号：按流量征税的副作用开始具体化，开源软件分发、镜像站和免费下载服务可能成为最先受伤的一方，后续或出现豁免条款的游说。",
+   "links": [
+    "https://x.com/i/status/2116229135919919278",
+    "https://news.ycombinator.com/item?id=50308631",
+    "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/1358"
+   ],
+   "topic": "videolan-france-per-gb-tax-1m-eur-2026-10-30",
+   "firstSeen": "2026-10-31T03:16:49+08:00"
   }
  ],
- "lastChecked": "2026-10-31T02:57:21+08:00"
+ "lastChecked": "2026-10-31T03:16:49+08:00"
 }
