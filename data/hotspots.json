@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T07:45:32+08:00",
+ "lastUpdated": "2026-10-30T08:02:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -24980,7 +24980,29 @@
    ],
    "topic": "alphabet-500b-market-cap-drop-2026-10-29",
    "firstSeen": "2026-10-30T07:45:32+08:00"
+  },
+  {
+   "id": "6a4dc94a57",
+   "title": "404 Media 深挖 Proton 内部 AI 转向：CEO 要求「无情扫清阻碍 AI 速度的一切」，称今年是最后一年招聘工程师",
+   "summary": "后续进展：404 Media 今天发布调查报道并登上 Hacker News。报道称 Proton CEO Andy Yen 对外批评大型科技公司与 AI，内部却强推用 AI 构建产品：设立专门邮箱让员工上报阻碍 AI 落地的问题，以便管理层「无情扫清一切阻碍 AI 速度的东西」；在员工电脑上安装软件，统计公司代码中由 AI 生成的比例；并表示今年将是 Proton 最后一年招聘工程师，此后只招用 AI 构建产品的人。部分工程师对 AI 代码的安全性表达担忧。信号：以隐私为卖点的公司也在全面押注 AI 编码，AI 代码占比度量、AI 生成代码的安全审计与合规工具需求会继续上升。",
+   "links": [
+    "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+    "https://news.ycombinator.com/item?id=50296602"
+   ],
+   "topic": "proton-ai-reckoning-404media-2026-10-29",
+   "firstSeen": "2026-10-30T08:02:28+08:00"
+  },
+  {
+   "id": "c8776eb352",
+   "title": "Show HN：Doomformer 把神经网络编译成《毁灭战士》地图，用游戏引擎逐值跑出与 NumPy 完全一致的推理结果",
+   "summary": "开源项目 Doomformer 今天登上 Show HN：它把整数神经网络（含小型 MLP 与注意力结构）编译成 ZDoom 地图，在 ViZDoom 中运行——用游戏里的「巫毒娃娃」分身做算术，用区域亮度和地板/天花板高度保存求和结果，Python 再逐个读回数值，与 NumPy 参考实现做零容差比对。代价是极慢：小型 MLP 比 NumPy 慢约 2.3 万倍，识别一个手写数字在默认设置下要跑 163 秒游戏时间（--opt 3 下 8 秒）。MIT 许可，可 pip 安装并附 Colab。信号：「在意想不到的环境里跑 AI」类极客项目仍是开发者社区的传播爆点，适合做教学可视化与创意内容。",
+   "links": [
+    "https://github.com/mottopanikeiku/doomformer",
+    "https://news.ycombinator.com/item?id=50297697"
+   ],
+   "topic": "doomformer-show-hn-2026-10-29",
+   "firstSeen": "2026-10-30T08:02:28+08:00"
   }
  ],
- "lastChecked": "2026-10-30T07:45:32+08:00"
+ "lastChecked": "2026-10-30T08:02:28+08:00"
 }
