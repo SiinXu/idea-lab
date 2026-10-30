@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T14:12:01+08:00",
+ "lastUpdated": "2026-10-30T14:24:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25348,7 +25348,78 @@
    ],
    "topic": "altman-robots-build-datacenters",
    "firstSeen": "2026-10-30T14:12:01+08:00"
+  },
+  {
+   "id": "8c3bf341b8",
+   "title": "ComfyUI 公开回怼 Higgsfield 律师函：「开源版 Higgsfield」挑战赛照常进行",
+   "summary": "10 月 28 日 Higgsfield AI 向 ComfyUI 发出停止侵权函，指其「Open Source Higgsfield」挑战赛的宣传素材使用了 Higgsfield 商标和 CEO 形象、构成虚假背书。ComfyUI CEO Yoland Yan 公开律师函并表示不会停办，作品 10 月 30 日截止、11 月 6 日公布获奖，头奖 1 万美元，目标是用本地可跑的开源工作流复刻闭源创意 AI 工具。信号：开源社区与闭源 AI 视频/图像平台的对立加剧，「付费 AI 工具的开源本地替代」工作流、模板和教程有明确需求。",
+   "links": [
+    "https://x.com/i/trending/2115945316784726237"
+   ],
+   "topic": "comfyui-higgsfield-cease-desist-2026-10",
+   "firstSeen": "2026-10-30T14:24:10+08:00"
+  },
+  {
+   "id": "38715dc9e6",
+   "title": "Replika 创始人新公司 Wabi 完成 5500 万美元 A 轮，估值 12.5 亿：多人共享的 AI「生活操作系统」",
+   "summary": "Eugenia Kuyda 创办的 Wabi 由 IVP 领投，a16z、Forerunner、Amazon Alexa Fund 及 Marc Benioff 等跟投。产品是放在多人线程对话里的共享 AI 助手：用户为家庭、旅行、财务、健身等建立空间，AI 会读取邮件和日历，当场生成日历、预算表等小应用，减少群聊里的来回沟通。信号：「多人协作 + 即时生成小应用」成为消费级 AI 新方向，家庭/小团队场景的共享智能体值得跟进。",
+   "links": [
+    "https://x.com/i/trending/2115826672742396278"
+   ],
+   "topic": "wabi-55m-series-a-2026-10",
+   "firstSeen": "2026-10-30T14:24:10+08:00"
+  },
+  {
+   "id": "d2c3647655",
+   "title": "Flovia 通过「拼单」提供免费 X API：搜索、过滤流、新闻接口向创业者和智能体开放",
+   "summary": "日本创业者 Keita Kuroiwa 领导的 Flovia 汇总初创公司和 AI 用户的需求批量采购 X API，上线期间补贴费用，用户同意数据条款后即可申请密钥，可用用户搜索、过滤流和新闻搜索等接口，但发帖等写操作仍需官方凭证。开发者称赞其解了智能体开发的燃眉之急，也有人质疑可持续性以及是否违反 X 禁止转售共享的条款、存在封号风险。信号：高价 API 的「团购/中间商」模式出现，但合规风险需谨慎评估。",
+   "links": [
+    "https://x.com/i/trending/2116028469348098559"
+   ],
+   "topic": "flovia-free-x-api-pooled-2026-10",
+   "firstSeen": "2026-10-30T14:24:10+08:00"
+  },
+  {
+   "id": "f989c024d1",
+   "title": "YC 公司 Aviern：两个月造出可自主起降的货运无人机，瞄准美国 5000 个小机场",
+   "summary": "YC 2026 秋季批次的 Aviern 由 UCLA 航空工程师兼飞行员 Kush Agarwal 与 Arvin Singh 创办，目标机型 A1000 载重 1000 磅、航程 1000 英里、单次飞行成本低于 1000 美元、使用普通汽油。缩比原型已从圣莫尼卡机场自主飞行数百英里，计划 2028 年商用，主攻农村航线和军事补给。讨论集中在监管和信任问题。信号：自主航空货运进入小团队快速原型阶段，偏远地区物流是切入点。",
+   "links": [
+    "https://x.com/i/trending/2115961858645692783"
+   ],
+   "topic": "aviern-autonomous-cargo-plane-yc-2026-10",
+   "firstSeen": "2026-10-30T14:24:10+08:00"
+  },
+  {
+   "id": "3875fa8770",
+   "title": "Gemini Notebook 免费上架 700 多本教科书：可按章节生成测验、闪卡和学习指南",
+   "summary": "Google 在 Gemini Notebook 中接入 OpenStax、Open Textbook Library 等出版方的 700 多本免费教科书，学生可直接添加并获得带页面引用的回答，还能按章节生成测验、闪卡和复习指南；功能已在支持地区全球上线。信号：大厂把开放教材直接装进 AI 学习工具，单纯的「教材问答」类小工具空间被压缩，垂直考试（如雅思）和本地化内容仍有机会。",
+   "links": [
+    "https://x.com/i/trending/2115886224980185499"
+   ],
+   "topic": "gemini-notebook-free-textbooks-2026-10",
+   "firstSeen": "2026-10-30T14:24:10+08:00"
+  },
+  {
+   "id": "bc93aeb8e9",
+   "title": "X 用户集体拉黑 AI 水军回复：Ethan Mollick 称「这已经不能叫社交媒体了」",
+   "summary": "沃顿教授 Ethan Mollick 发帖后发现大量明显由 AI 生成的回复淹没了真人评论，引发共鸣。Jon Yongfook 痛批自动回复毁了平台，Josh Pigford 估计约一半回复来自 AI，已把回复权限限制为自己关注的人及其关注者。X 正在测试检测机制，用户则自发拉黑和收紧设置。信号：「AI 回复机器人」增长策略正遭强烈反感，靠自动评论引流风险变高；反 AI 垃圾内容过滤工具有需求。",
+   "links": [
+    "https://x.com/i/trending/2115967481844212170"
+   ],
+   "topic": "x-users-block-ai-reply-slop-2026-10",
+   "firstSeen": "2026-10-30T14:24:10+08:00"
+  },
+  {
+   "id": "d6dd019cae",
+   "title": "开发者热议「失去心流」：AI 接手编码后，写代码的沉浸感和成就感在消失",
+   "summary": "大量开发者表示，AI 智能体接管大部分编码后，传统编程时那种深度沉浸的「心流」不见了，盯着多个智能体反而让注意力碎片化；有研究指出体感变快但实际耗时更长。另一派认为构建新型智能体系统像带初级研究员，角色正转向架构、验证和编排。同期热帖讨论技术人担心技能贬值、非技术人急于补课以更好指挥智能体。信号：开发者工作方式焦虑是持续话题，「专注/编排多智能体」的工具和方法论内容有受众。",
+   "links": [
+    "https://x.com/i/trending/2116046145143070781",
+    "https://x.com/i/trending/2115709970721415416"
+   ],
+   "topic": "devs-miss-flow-state-ai-coding-2026-10",
+   "firstSeen": "2026-10-30T14:24:10+08:00"
   }
  ],
- "lastChecked": "2026-10-30T14:12:01+08:00"
+ "lastChecked": "2026-10-30T14:24:10+08:00"
 }
