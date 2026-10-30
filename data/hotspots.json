@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T21:31:05+08:00",
+ "lastUpdated": "2026-10-30T21:47:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25695,7 +25695,31 @@
    ],
    "topic": "llm-german-law-vulnerabilities-2026-10",
    "firstSeen": "2026-10-30T21:31:05+08:00"
+  },
+  {
+   "id": "561fa6489d",
+   "title": "OpenCode 2.2.3 内置「Claude Agent」接入：直接用 Claude Code 订阅登录和模型跑开源编程代理",
+   "summary": "开源 AI 编程代理 OpenCode 于 10 月 30 日发布 v2.2.3：安装 Claude Code 并运行 claude auth login 后，在 /connect 里选择 Claude Agent，就能用自己的 Claude Code 登录和模型，与它支持的其他 75+ 家模型并用；同版还大幅减少了桌面端长会话的渲染开销。前两个版本刚加入 /goal 持续目标模式和默认图像生成。社区一边兴奋于「订阅复用」，一边质疑是否符合服务条款。信号：编程代理的竞争正从模型转向「外壳」，统一多订阅、多代理的前端（OpenCode、T3 Code 等）成为新入口，订阅聚合与合规说明类工具有空间。",
+   "links": [
+    "https://github.com/anomalyco/opencode/releases/tag/v2.2.3",
+    "https://github.com/anomalyco/opencode/pull/58782",
+    "https://x.com/i/trending/2116155705476444635"
+   ],
+   "topic": "opencode-2-2-3-claude-agent-provider-2026-10",
+   "firstSeen": "2026-10-30T21:47:47+08:00"
+  },
+  {
+   "id": "32c78f8a2d",
+   "title": "思科让 27 岁前创业者用「无限 AI token」两人重写 98% 遗留代码：4 周验证，24 个月完成",
+   "summary": "思科总裁兼首席产品官 Jeetu Patel 对《财富》透露，他在组织架构中「往下五层」发现了 27 岁的 Padmanabhan Krishnamurthy（Paddy，实时翻译创业公司 EzDubs 联合创始人，2025 年随收购加入），给他不限量的 AI token，由两人小队用 AI 重构思科的遗留代码。先用 4 周做概念验证，目标是 24 个月内重写 98% 的遗留代码。Patel 还说要找更多敢挑战现状的年轻人，并承认新老员工之间会有摩擦。外界对可行性争议很大。信号：大企业开始把「遗留代码现代化」交给小团队加大量 AI 算力，代码迁移审计、重构验证和 token 预算管理类服务需求上升。",
+   "links": [
+    "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+    "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
+    "https://x.com/i/trending/2116136413162840493"
+   ],
+   "topic": "cisco-27yo-ai-rewrite-legacy-code-2026-10",
+   "firstSeen": "2026-10-30T21:47:47+08:00"
   }
  ],
- "lastChecked": "2026-10-30T21:31:05+08:00"
+ "lastChecked": "2026-10-30T21:47:47+08:00"
 }
