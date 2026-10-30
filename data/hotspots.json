@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T08:02:28+08:00",
+ "lastUpdated": "2026-10-30T09:02:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25002,7 +25002,19 @@
    ],
    "topic": "doomformer-show-hn-2026-10-29",
    "firstSeen": "2026-10-30T08:02:28+08:00"
+  },
+  {
+   "id": "7bf0065ceb",
+   "title": "OpenAI 更新 Model Spec：围绕「忠于人类意图」等五大价值观重写模型行为准则，主语从「助手」改为「GPT」",
+   "summary": "OpenAI 10 月 29 日发布新版 Model Spec（v2026.10.29），把模型行为规范重组为五项核心价值：忠于人类意图、减少伤害、诚实透明、促进人的自主、关怀。新版新增「审慎考虑上下文」（记忆与个性化要相称、尊重隐私与用户控制）、支持人类监督与纠正、把「控制并说明副作用」提升为用户级原则，并删去大部分细碎的文风规定。OpenAI 承认现有模型尚未完全达到该规范。信号：头部厂商把「意图对齐 + 记忆/智能体副作用」写进公开准则，做智能体产品时的权限确认、记忆透明度设计会越来越被当作标配。",
+   "links": [
+    "https://openai.com/index/updated-model-spec/",
+    "https://github.com/openai/model_spec/blob/main/CHANGELOG.md",
+    "https://model-spec.openai.com/2026-10-29.html"
+   ],
+   "topic": "openai-model-spec-five-values-2026-10-29",
+   "firstSeen": "2026-10-30T09:02:16+08:00"
   }
  ],
- "lastChecked": "2026-10-30T08:02:28+08:00"
+ "lastChecked": "2026-10-30T09:02:16+08:00"
 }
