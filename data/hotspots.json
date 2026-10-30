@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T16:32:22+08:00",
+ "lastUpdated": "2026-10-30T17:10:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25520,7 +25520,28 @@
    ],
    "topic": "canva-brush-figma-edit-agent-2026-10-29",
    "firstSeen": "2026-10-30T16:32:22+08:00"
+  },
+  {
+   "id": "9ff9b3d17a",
+   "title": "前 Claude Code 工程师 Thariq 警告「AI 编码智能体躁狂」：同时管 20 个 Agent 忙了 6 小时，其实自己 30 分钟就能做完",
+   "summary": "刚离开 Anthropic Claude Code 团队的 Thariq Shihipar 发帖称，编码智能体会制造持续的「忙碌感」，让人误以为效率爆表，实际进展很少，甚至成了逃避真正任务的方式；有 Anthropic 成员附和说管理 20 个 Agent 花了 6 小时，独自做只要 30 分钟。不少开发者把这种即时反馈比作老虎机和刷社交媒体，呼吁以「真正交付的结果」衡量产出。信号：围绕多 Agent 编排的专注度、产出度量和「Agent 时间账本」类工具有需求，单纯堆并行 Agent 的叙事开始被质疑。",
+   "links": [
+    "https://x.com/i/trending/2116090973881037136"
+   ],
+   "topic": "thariq-ai-coding-agent-mania-2026-10-30",
+   "firstSeen": "2026-10-30T17:10:16+08:00"
+  },
+  {
+   "id": "659e4b9d35",
+   "title": "Show HN：Arsaze 自称「视频剪辑界的 Cursor」，AI 通过 MCP 直接改多轨时间线，支持 Tab 补全式剪辑",
+   "summary": "Arsaze 10 月 30 日登上 Hacker News Show HN：这是一款面向智能体和人类的 AI 原生视频剪辑器，AI 经由 MCP 在真实多轨时间线上操作、用户实时旁观，每次修改都有版本记录，客户可在精确帧上审阅批注，还提供类似代码编辑器的 Tab 补全剪辑。信号：「Cursor for X」模式正从代码扩展到视频等创意软件，把专业工具开放给 Agent 操作（MCP 接口 + 版本化）是垂直创作工具的新切入口。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50300618",
+    "https://www.arsaze.com"
+   ],
+   "topic": "arsaze-cursor-for-video-editing-show-hn",
+   "firstSeen": "2026-10-30T17:10:16+08:00"
   }
  ],
- "lastChecked": "2026-10-30T16:32:22+08:00"
+ "lastChecked": "2026-10-30T17:10:16+08:00"
 }
