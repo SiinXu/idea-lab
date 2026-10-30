@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T02:24:53+08:00",
+ "lastUpdated": "2026-10-31T02:57:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25956,7 +25956,18 @@
    ],
    "topic": "github-actions-pages-webhooks-incident-2026-10-30-b",
    "firstSeen": "2026-10-31T02:24:53+08:00"
+  },
+  {
+   "id": "0358a6bf78",
+   "title": "法国国民议会以 11 比 10 一票之差通过「按流量收税」：向内容平台每 GB 征 0.055 欧元，Netflix、Steam、云服务都可能被波及",
+   "summary": "Les Numériques 报道，法国国民议会在审议 2027 年财政法案时，不顾政府和总报告人反对，以 11 票对 10 票通过社会党提出的第 I-1358 号修正案：对向法国用户传输数据的在线内容提供商按流量征税，每 GB 0.055 欧元，目标年收入最高 100 亿欧元。流量由宽带运营商每季度统计、CDN 节点流量也算在内，由电信监管机构 Arcep 和财税部门共同监督；税额上限为在法营收的 15% 或全球营收的 2%。条文称由平台而非网民缴纳，但平台可能通过涨订阅价、限制法国带宽或限制大文件下载来转嫁成本。该修正案还需经参议院审议，最终能否写进法律仍不确定。信号：欧洲「网络流量费」思路从向运营商付费转向直接征税，流媒体、游戏分发、云和 CDN 厂商的成本与定价可能受影响，HN 已开始讨论。",
+   "links": [
+    "https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html",
+    "https://news.ycombinator.com/item?id=50308240"
+   ],
+   "topic": "france-per-gb-content-tax-amendment-2026-10-30",
+   "firstSeen": "2026-10-31T02:57:21+08:00"
   }
  ],
- "lastChecked": "2026-10-31T02:24:53+08:00"
+ "lastChecked": "2026-10-31T02:57:21+08:00"
 }
