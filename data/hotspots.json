@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T20:38:21+08:00",
+ "lastUpdated": "2026-10-30T20:59:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25649,7 +25649,18 @@
    ],
    "topic": "azure-api-connections-cross-tenant-2026-10",
    "firstSeen": "2026-10-30T20:38:21+08:00"
+  },
+  {
+   "id": "7d2228b2ec",
+   "title": "美国国会进步派议员提出决议：反对为「AI 泡沫」破裂后的科技巨头纾困，称失败的 AI 公司应破产",
+   "summary": "10 月 29 日，国会进步党团主席 Greg Casar 与众议院金融服务委员会首席民主党人 Maxine Waters 牵头提出决议，警告 AI 相关资产泡沫的经济风险，反对在泡沫破裂时用纳税人的钱救助相关企业及高管，主张联邦援助应流向工人、退休者和低收入社区。决议指出 AI 相关公司背负数万亿美元债务，其中大量来自不透明、缺乏监管的私募信贷市场。Waters 以 2008 年金融危机类比。HN 讨论帖发布不到一小时即上首页。信号：「AI 泡沫」从市场话题进入美国政治议程，AI 债务与私募信贷风险追踪、宏观风险看板类内容有关注度。",
+   "links": [
+    "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+    "https://news.ycombinator.com/item?id=50302814"
+   ],
+   "topic": "us-house-resolution-ai-bubble-bailout-2026-10",
+   "firstSeen": "2026-10-30T20:59:34+08:00"
   }
  ],
- "lastChecked": "2026-10-30T20:38:21+08:00"
+ "lastChecked": "2026-10-30T20:59:34+08:00"
 }
