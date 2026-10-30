@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T22:42:15+08:00",
+ "lastUpdated": "2026-10-30T23:18:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25778,7 +25778,31 @@
    ],
    "topic": "nace-drex-max-v1-decision-model",
    "firstSeen": "2026-10-30T22:42:15+08:00"
+  },
+  {
+   "id": "ed92256e11",
+   "title": "Linux 内核高危漏洞 CVE-2026-98432 刷屏：IPv4 TCP 栈释放后使用，Anthropic 未发布模型演示远程拿 root，Ubuntu 评 9.8 分",
+   "summary": "漏洞位于 IPv4 TCP 建连路径：tcp_v4_syn_recv_sock() 把请求套接字的 IP 选项直接转交子套接字，另一 CPU 并发处理重传 SYN 时可能读到已释放内存，造成 ip_options_build() 中的释放后使用（Ubuntu CVE 页面，CVSS 3 评分 9.8 Critical，Ubuntu 优先级 High）。X 上的汇总称 Anthropic 未发布的 Claude 模型在约 48 分钟内写出零点击利用链，开启 MPTCP 监听的服务器风险最高；Debian 等已修复，部分发行版补丁仍在跟进，SiteGround 等托管商已宣布零日修补，比特币 Lightning 节点运营者被建议打完补丁再上线。有安全研究者指出攻击需带 IP 选项的 SYN，公网路径常被丢弃，更现实的是内网/VPC 内攻击。信号：「AI 一小时写出内核 RCE」让补丁时效与资产暴露面监控成为刚需，可做面向中小团队的内核补丁状态检查和 MPTCP 暴露扫描工具。",
+   "links": [
+    "https://ubuntu.com/security/CVE-2026-98432",
+    "https://x.com/i/trending/2116141834900500557",
+    "https://x.com/SiteGround/status/2116150163584479304"
+   ],
+   "topic": "linux-cve-2026-98432-tcp-uaf",
+   "firstSeen": "2026-10-30T23:18:54+08:00"
+  },
+  {
+   "id": "e24b72d085",
+   "title": "Pika 开源回归：Pika H3 Flex 上线 Hugging Face，6 步出带音轨的 15 秒视频，登顶 DesignArena 开放权重文生视频榜",
+   "summary": "Pika Labs 10 月 29 日在 Hugging Face 发布 Pika H3 Flex，本质是基于 MiniMax H3 的适配器（LoRA），沿用 MiniMax H3 社区许可。官方示例覆盖运镜控制、情景喜剧分镜、动态排版、产品广告和动作迁移，单条可生成约 15 秒带音效和配乐的视频；Hugging Face 工程师称其仅需 6 步推理、首日支持 diffusers 与 ComfyUI，并位列 DesignArena 文生视频开放权重榜第一。X 上汇总称它比 H3 Max 快约 1.8 倍、便宜最多 80%，最多接收 12 个图像/音频参考；日本创作者整理指出 4K 输出和分轨音频导出仅限 Pika 托管版，本地只能跑适配器。发布一天模型页已获 160 多个赞。信号：开放权重视频模型进入「秒级出片」，适合做批量电商短视频、广告变体和 ComfyUI 工作流模板生意。",
+   "links": [
+    "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
+    "https://x.com/linoy_tsaban/status/2116067946665832881",
+    "https://x.com/i/trending/2115867038405349526"
+   ],
+   "topic": "pika-h3-flex-open-weights",
+   "firstSeen": "2026-10-30T23:18:54+08:00"
   }
  ],
- "lastChecked": "2026-10-30T22:42:15+08:00"
+ "lastChecked": "2026-10-30T23:18:54+08:00"
 }
