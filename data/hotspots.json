@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T02:13:22+08:00",
+ "lastUpdated": "2026-10-31T02:24:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25945,7 +25945,18 @@
    ],
    "topic": "anthropic-junk-rating-blackstone-2026-10-30",
    "firstSeen": "2026-10-31T02:13:22+08:00"
+  },
+  {
+   "id": "a46331760f",
+   "title": "GitHub 同日第二次故障：Actions 工作流、Pages 部署和 Webhook 大面积延迟，代码搜索与实时更新也报错",
+   "summary": "北京时间 10 月 31 日凌晨 1:50 左右，GitHub 状态页再次发布事故：Actions 工作流、Pages 部署和 Webhook 事件出现延迟，代码搜索与页面实时更新同时报错，影响等级为 Major。官方称已采取缓解措施，Actions 和 Pages 开始恢复但尚未完全解决，根因仍在排查。这是同一天内继 Issues / Pages 严重中断之后的第二起事故，HN 上已有专帖讨论。信号：依赖 GitHub Actions 做 CI/CD、依赖 Pages 托管站点的团队一天内连续受影响，多云 CI、自托管 Runner 和代码托管冗余方案的需求会被进一步放大。",
+   "links": [
+    "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+    "https://news.ycombinator.com/item?id=50307723"
+   ],
+   "topic": "github-actions-pages-webhooks-incident-2026-10-30-b",
+   "firstSeen": "2026-10-31T02:24:53+08:00"
   }
  ],
- "lastChecked": "2026-10-31T02:13:22+08:00"
+ "lastChecked": "2026-10-31T02:24:53+08:00"
 }
