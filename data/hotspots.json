@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T06:57:30+08:00",
+ "lastUpdated": "2026-10-31T07:16:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26106,7 +26106,29 @@
    ],
    "topic": "firezone-sanstun",
    "firstSeen": "2026-10-31T06:57:30+08:00"
+  },
+  {
+   "id": "dea703a921",
+   "title": "OpenAI 通知 Daybreak Blue 安全研究员：11 月 29 日起，个人账号的 Daybreak 会话即使关闭「为所有人改进模型」也会被用于训练",
+   "summary": "OpenAI 向网络安全「可信访问」计划 Daybreak Blue 的成员发邮件：从 11 月 29 日起，个人账号上的 Daybreak 会话内容可能被用于改进模型，以加强防范网络滥用的安全护栏，不受「为所有人改进模型」开关约束；帮助中心数据控制页面已同步更新。研究员在官方社区和 X 上抱怨：Codex CLI 中无法单独关掉 Daybreak Blue，未公开的漏洞细节和分析手法可能进入训练集，有人直言是在「拿走私人成果」，考虑退出。信号：AI 安全工具的数据使用条款正成为安全圈选型的关键考量，企业版和零数据保留方案的卖点更突出。",
+   "links": [
+    "https://community.openai.com/t/daybreak-blue-data-use-to-improve-models/1411182",
+    "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+    "https://x.com/i/trending/2116271767438373304"
+   ],
+   "topic": "openai-daybreak-blue-training-optout",
+   "firstSeen": "2026-10-31T07:16:29+08:00"
+  },
+  {
+   "id": "a004de6e69",
+   "title": "X 热议「Vibes as a Service」：用 AI 随手做出的内部小工具没人维护，开发者呼吁出现专门托管、修 bug、做安全更新的代运维服务",
+   "summary": "X 上开发者讨论：用 Claude、Devin、Replit、Lovable 等工具 vibe coding 出定制软件越来越容易，但后续的维护、安全补丁、托管和用户支持成了新负担。有人提出「Vibes as a Service（VaaS）」，由 AI 智能体自动修 bug、出健康报告、做日常维护，认为这可能冲击传统 SaaS 的订阅逻辑。信号：「AI 生成应用的托管与持续维护」是一个正在成形的服务品类，适合小团队按月收费切入。",
+   "links": [
+    "https://x.com/i/trending/2116306262010806481"
+   ],
+   "topic": "vibes-as-a-service-maintenance",
+   "firstSeen": "2026-10-31T07:16:29+08:00"
   }
  ],
- "lastChecked": "2026-10-31T06:57:30+08:00"
+ "lastChecked": "2026-10-31T07:16:29+08:00"
 }
