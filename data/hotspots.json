@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T05:14:15+08:00",
+ "lastUpdated": "2026-10-31T05:38:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26025,7 +26025,18 @@
    ],
    "topic": "ai-drug-abundance-booth-2026-10-30",
    "firstSeen": "2026-10-31T05:14:15+08:00"
+  },
+  {
+   "id": "9e8adfc44b",
+   "title": "FactoryAI 发布 Droid 1.0 次日收购 Typedef：给编码智能体补上「数据上下文层」，专攻数据迁移、管道排错和模型重构",
+   "summary": "估值 50 亿美元的企业级编码智能体公司 Factory 10 月 30 日宣布收购 Typedef（约 8 人团队，联合创始人 Yoni Michael、Kostas Pardalis 加入）。Typedef 从代码中构建数据上下文层，梳理数据模型、转换管道、编排任务和 BI 看板之间的依赖关系；并入后，Droid 在规划迁移、排查管道故障、重构数据模型时能给出数据血缘和证据。此前一天 Factory 刚发布 Droid 1.0，用程序化工具调用把一次测试中的请求从 36 次压到 2 次。信号：编码智能体的竞争正从「写代码」转向「懂企业数据栈」，数据血缘、变更影响分析、看板对账等垂直 Agent 工具会成为收购和创业热点。",
+   "links": [
+    "https://factory.com/news/typedef",
+    "https://x.com/i/trending/2116233265396978158"
+   ],
+   "topic": "factory-acquires-typedef-2026-10-30",
+   "firstSeen": "2026-10-31T05:38:21+08:00"
   }
  ],
- "lastChecked": "2026-10-31T05:14:15+08:00"
+ "lastChecked": "2026-10-31T05:38:21+08:00"
 }
