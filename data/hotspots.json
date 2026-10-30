@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T12:44:42+08:00",
+ "lastUpdated": "2026-10-30T13:02:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25197,7 +25197,40 @@
    ],
    "topic": "meta-style-sketch-ai-fashion-app-sea-2026-10-29",
    "firstSeen": "2026-10-30T12:44:42+08:00"
+  },
+  {
+   "id": "4782ece0bc",
+   "title": "Anthropic 成 SpaceX 最大单一客户：第三季度占 SpaceX 收入 34.5%，超过美国政府",
+   "summary": "据彭博，SpaceX 文件中的匿名「客户 B」就是 Anthropic，其算力服务采购占 SpaceX 第三季度收入的 34.5%，首次超过 NASA 和五角大楼；Anthropic 此前承诺到 2029 年在 SpaceX 算力上最多花 1205 亿美元。彭博也指出这是一份有期限的合同，收入集中度风险不小。信号：AI 实验室正在把非传统玩家（航天、能源公司）变成算力供应商，围绕算力合同、产能分析和供应商风险的信息服务有需求。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-10-29/spacex-s-largest-revenue-source-is-a-finite-deal-with-anthropic",
+    "https://www.techmeme.com/261029/p45#a261029p45"
+   ],
+   "topic": "spacex-customer-b-anthropic-34pct-revenue-2026-10-29",
+   "firstSeen": "2026-10-30T13:02:17+08:00"
+  },
+  {
+   "id": "feb30684c3",
+   "title": "英伟达洽谈为 Nscale 提供数十亿美元信贷担保：建 460MW 数据中心供 Anthropic 使用",
+   "summary": "据 The Information，英伟达正与年轻的 AI 云厂商 Nscale 商谈，为其建设 460MW 数据中心的债务提供数十亿美元信用担保，该数据中心计划供 Anthropic 使用，与英伟达和 Anthropic 的大额合作相关。信号：芯片商不只卖卡，还开始用自己的资产负债表给下游「新云」兜底融资，AI 基建的金融化与循环交易风险值得持续追踪。",
+   "links": [
+    "https://www.theinformation.com/articles/nvidia-talks-provide-billions-credit-support-cloud-providers-45-billion-anthropic-deal",
+    "https://www.techmeme.com/261029/p59#a261029p59"
+   ],
+   "topic": "nvidia-nscale-credit-guarantee-anthropic-460mw-2026-10-29",
+   "firstSeen": "2026-10-30T13:02:17+08:00"
+  },
+  {
+   "id": "ebbf142c6b",
+   "title": "亚马逊 CEO 贾西：Meta Muse 等外部 AI 购物代理「还不好用」，不如直接到零售商下单方便",
+   "summary": "据《财富》，亚马逊 CEO Andy Jassy 在第三季度财报电话会上表示，第三方 AI 购物代理目前「还不够好」，也没有直接来零售商网站购物方便，暗示亚马逊不急于向外部智能体开放。信号：大零售平台对 AI 代理购物态度保守，独立卖家和中小电商若主动适配智能体（结构化商品数据、可被代理调用的下单接口）反而可能抢到早期流量。",
+   "links": [
+    "https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/",
+    "https://www.techmeme.com/261029/p63#a261029p63"
+   ],
+   "topic": "amazon-jassy-ai-shopping-agents-not-great-2026-10-29",
+   "firstSeen": "2026-10-30T13:02:17+08:00"
   }
  ],
- "lastChecked": "2026-10-30T12:44:42+08:00"
+ "lastChecked": "2026-10-30T13:02:17+08:00"
 }
