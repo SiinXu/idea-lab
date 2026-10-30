@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T10:58:48+08:00",
+ "lastUpdated": "2026-10-30T11:38:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25080,7 +25080,38 @@
    ],
    "topic": "intel-wildcat-lake-sold-out-memory-2026-10-29",
    "firstSeen": "2026-10-30T10:58:48+08:00"
+  },
+  {
+   "id": "904e4b10c7",
+   "title": "Gemini 聊天内可直接生成并编辑文档：PDF、Google Docs、表格、幻灯片、Markdown 和代码文件不必离开对话",
+   "summary": "谷歌宣布即日起所有 Gemini 用户都能在聊天里生成、预览和编辑 PDF、Google Docs、Google Sheets、幻灯片、Markdown、TXT 和代码文件。PDF 预览与编辑网页端和手机端都可用，其他格式暂时只在网页端。用户可以全屏展开文件，选中文字让 Gemini 解释或修改，比如选中一张表格让它转成图表。Anthropic 今年早些时候也给 Claude 加了类似的文档与演示文稿生成编辑功能。信号：聊天界面正在变成「文档工作台」，单点的 AI 文档编辑工具会被平台挤压，机会更多在垂直模板、行业格式和工作流衔接上。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"
+   ],
+   "topic": "gemini-in-chat-file-editing-2026-10-29",
+   "firstSeen": "2026-10-30T11:38:45+08:00"
+  },
+  {
+   "id": "cf9641e540",
+   "title": "通用汽车同意赔付 2.2 亿美元：被 36 个州检察长指控把司机驾驶习惯和位置数据卖给数据经纪商",
+   "summary": "通用汽车与 36 个美国州检察长组成的联盟达成和解，支付 2.2 亿美元，了结其非法向数据经纪商出售司机驾驶和位置信息的指控。和解还要求通用限制收集的驾驶数据，并在收集前取得司机的「明确同意」。信号：联网汽车数据变现的监管成本正在落地，车企和车载 AI 助手做数据收集时需要更透明的授权与隐私设计，合规与同意管理工具会有需求。",
+   "links": [
+    "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
+    "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/"
+   ],
+   "topic": "gm-220m-driver-data-settlement-2026-10-29",
+   "firstSeen": "2026-10-30T11:38:45+08:00"
+  },
+  {
+   "id": "7587406daf",
+   "title": "Rivian 把自研 AI 语音助手授权给大众集团：58 亿美元合资项目从电子架构扩展到 AI 助手",
+   "summary": "Rivian 在第三季度投资者材料中披露，正把自研 AI 语音助手的部分技术授权给大众集团，作为双方最高 58 亿美元合资项目的一部分；授权费用和适用车型未公开，可能首发于大众低价电动车 ID EVERY1。该助手研发两年，今年 5 月起陆续上线 R1S、R1T 和 10 月的新款 R2。Rivian 称这证明了自研平台的可扩展性。信号：车载 AI 助手正在成为可对外授权的软件资产，造车新势力的软件栈开始向传统车企「卖铲子」。",
+   "links": [
+    "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
+   ],
+   "topic": "rivian-vw-jv-ai-assistant-license-2026-10-29",
+   "firstSeen": "2026-10-30T11:38:45+08:00"
   }
  ],
- "lastChecked": "2026-10-30T10:58:48+08:00"
+ "lastChecked": "2026-10-30T11:38:45+08:00"
 }
