@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T21:47:47+08:00",
+ "lastUpdated": "2026-10-30T21:56:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25719,7 +25719,29 @@
    ],
    "topic": "cisco-27yo-ai-rewrite-legacy-code-2026-10",
    "firstSeen": "2026-10-30T21:47:47+08:00"
+  },
+  {
+   "id": "fc18d806b3",
+   "title": "史上最大加密货币盗窃案：Binance 热钱包约 20 分钟内被盗 63 亿美元，追踪机构指向朝鲜黑客 TraderTraitor",
+   "summary": "10 月 29 日（美东时间下午约 4 点起），攻击者在约 20 分钟内从 Binance 至少 10 条链（以太坊、比特币、Tron、Solana 等）的热钱包转走约 63 亿美元。TRM Labs 称攻击者至少提前 36 小时准备，先在两个钱包测试代码、再在第三个钱包彩排，四小时后把同一代码部署到 Binance 热钱包。Binance 已暂停充提，称与行业合作冻结了约一半被盗资金，并承诺承担全部损失；其声明说初查可能与一台被攻破的笔记本有关，后续又发现其他入侵点。TRM、Chainalysis 认为可能是朝鲜 TraderTraitor 所为（Chainalysis 观察到赃款与上月 Bitget 被盗资金混同），Elliptic 称若属实，这一次就几乎让朝鲜累计窃取的加密资产翻倍。信号：交易所热钱包、开发者终端安全与链上追踪/冻结服务需求将明显上升。",
+   "links": [
+    "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+    "https://news.ycombinator.com/item?id=50303172"
+   ],
+   "topic": "binance-6-3b-hack-2026-10",
+   "firstSeen": "2026-10-30T21:56:50+08:00"
+  },
+  {
+   "id": "363f2bcb93",
+   "title": "每日「杰利蝾螈」小游戏 elect.horse 冲上 HN 热榜：在六边形地图上划选区，让得票落后的小马赢下最多席位",
+   "summary": "elect.horse 是一款免费、免注册的每日解谜网页游戏：小马在投票中输给其他农场动物，玩家要在六边形地图上画出人口相等的选区，让它照样拿下最多席位（例如 40% 选票赢 6 席中的 4 席），每天更新新关卡。上线后在 Hacker News 获得近 300 分。信号：Wordle 式「每日一题 + 可分享结果」的轻量网页游戏依旧有很强传播力，把抽象的政治、经济或算法概念做成每日小谜题，是低成本获取流量的可复制打法。",
+   "links": [
+    "https://elect.horse/",
+    "https://news.ycombinator.com/item?id=50301462"
+   ],
+   "topic": "elect-horse-gerrymandering-puzzle-2026-10",
+   "firstSeen": "2026-10-30T21:56:50+08:00"
   }
  ],
- "lastChecked": "2026-10-30T21:47:47+08:00"
+ "lastChecked": "2026-10-30T21:56:50+08:00"
 }
