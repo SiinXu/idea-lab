@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T17:56:59+08:00",
+ "lastUpdated": "2026-10-30T18:14:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25582,7 +25582,18 @@
    ],
    "topic": "iphone-duo-returned-review-2026-10-30",
    "firstSeen": "2026-10-30T17:56:59+08:00"
+  },
+  {
+   "id": "6c4a5de4b9",
+   "title": "币安盗案最新：约 30 亿美元已定位冻结，联合创始人何一称将全额承担损失，安全公司警告冒充客服的「二次诈骗潮」",
+   "summary": "据《卫报》10 月 30 日实时报道，币安称已与合作方冻结被盗资产，目前定位约 30 亿美元，剩余约 33 亿美元去向未更新；联合创始人何一表示公司将承担「全部黑客损失」，并称正与执法部门密切合作。网络安全公司 Surfshark 提醒，用户接下来要警惕冒充币安的假安全通知，以及诱导把资金转入所谓「安全钱包」的诈骗。HN 讨论帖已获约 50 分、40 条评论。信号：交易所安全事件之后的反钓鱼提醒、官方渠道核验和钱包风险检测工具会有短期需求。",
+   "links": [
+    "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+    "https://news.ycombinator.com/item?id=50300853"
+   ],
+   "topic": "binance-hack-3b-frozen-cover-losses-scam-wave-2026-10-30",
+   "firstSeen": "2026-10-30T18:14:48+08:00"
   }
  ],
- "lastChecked": "2026-10-30T17:56:59+08:00"
+ "lastChecked": "2026-10-30T18:14:48+08:00"
 }
