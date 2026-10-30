@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T09:02:16+08:00",
+ "lastUpdated": "2026-10-30T10:14:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25014,7 +25014,18 @@
    ],
    "topic": "openai-model-spec-five-values-2026-10-29",
    "firstSeen": "2026-10-30T09:02:16+08:00"
+  },
+  {
+   "id": "341da2ec9e",
+   "title": "Pico CSS 宣布停止维护：作者称 AI 已能直接生成轻量无障碍 HTML/CSS，极简 CSS 框架不再那么必要",
+   "summary": "拥有约 1.7 万 GitHub Star 的极简语义化 CSS 框架 Pico CSS 宣布 v2.1.1 为最终版本，仓库归档、不再接受 issue 和 PR，此事今晚登上 Hacker News。作者 Lucas Larroche 给出的理由是：如今 AI 可以直接生成只含所需样式的轻量、无障碍 HTML，「为语义化 HTML 服务的极简 CSS 框架」重要性下降；若要保持竞争力需用现代 CSS（OKLCH、cascade layers、Popover、锚点定位）彻底重写，那将是另一个项目。npm、jsDelivr CDN 与官网会长期保留，MIT 许可可自由分叉，但名称与 Logo 不随许可开放。信号：AI 生成代码正在直接冲击小型前端开源库的存在理由，「AI 原生」的样式生成/裁剪工具与开源项目的可持续性问题值得关注。",
+   "links": [
+    "https://github.com/picocss/pico/discussions/754",
+    "https://news.ycombinator.com/item?id=50298964"
+   ],
+   "topic": "picocss-no-longer-maintained-ai-2026-10-29",
+   "firstSeen": "2026-10-30T10:14:36+08:00"
   }
  ],
- "lastChecked": "2026-10-30T09:02:16+08:00"
+ "lastChecked": "2026-10-30T10:14:36+08:00"
 }
