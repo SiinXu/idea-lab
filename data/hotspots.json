@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T20:59:34+08:00",
+ "lastUpdated": "2026-10-30T21:13:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25660,7 +25660,31 @@
    ],
    "topic": "us-house-resolution-ai-bubble-bailout-2026-10",
    "firstSeen": "2026-10-30T20:59:34+08:00"
+  },
+  {
+   "id": "06e3378591",
+   "title": "Anthropic 远程下发规则：Claude Code 不再帮忙复刻「特定现有游戏」，改名也不行，持证开发者喊冤",
+   "summary": "约 10 月 27 日起，Claude Code 通过服务器端开关（tengu_heron_brook）收到一条新系统指令：可以做原创游戏、某类玩法的游戏、或基于用户自有设计和素材的游戏，但不得复刻某款具体的现有游戏，即使改名或声称原创。用户无法关闭。一位为版权方定制桌游电子版的开发者在 Claude Code 官方仓库提交紧急 Issue，称付费客户项目被整体拒绝，要求收窄规则、提供持证开发者豁免通道，并把这类服务器下发的变更写进更新日志。部分开发者表示会转用开源模型。信号：AI 编程工具的服务端「隐形规则」开始直接影响商业工作流，规则变更追踪、多模型备援和合规证明类工具有需求。",
+   "links": [
+    "https://github.com/anthropics/claude-code/issues/106167",
+    "https://gameranx.com/updates/id/564489/article/anthropic-cracks-down-on-claude-vibe-coding-ports-and-decompilations-of-existing-games/",
+    "https://x.com/i/trending/2116111023895654759"
+   ],
+   "topic": "claude-code-game-recreation-block-2026-10",
+   "firstSeen": "2026-10-30T21:13:39+08:00"
+  },
+  {
+   "id": "066f3bd17c",
+   "title": "会议笔记应用 Granola 推出免费无限量语音输入：按 Fn 键在任意 Mac 应用里说话成文，正面对决 Wispr Flow",
+   "summary": "Granola 10 月 29 日上线 Mac 语音输入：按 Fn 键说话，自动去掉口头语、加标点分段，再把整理好的文字直接插入当前应用，邮件、Slack、文档和 AI 提示框都能用。所有套餐免费、不限字数，iOS 和 Windows 版即将推出。TechCrunch 指出，消费级语音 AI 正在合流：几个月前听写工具 Wispr 刚推出会议笔记，现在会议笔记工具反过来做听写。需要联网，转写交给云端服务商处理。信号：语音输入正从付费单品变成免费附加功能，独立听写工具要靠垂直场景（如长提示词、代码、多语言）建立差异。",
+   "links": [
+    "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+    "https://www.digitaltrends.com/computing/granolas-new-voice-typing-feature-lets-you-ditch-the-keyboard/",
+    "https://x.com/i/trending/2115854535470276856"
+   ],
+   "topic": "granola-voice-typing-mac-2026-10",
+   "firstSeen": "2026-10-30T21:13:39+08:00"
   }
  ],
- "lastChecked": "2026-10-30T20:59:34+08:00"
+ "lastChecked": "2026-10-30T21:13:39+08:00"
 }
