@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T14:00:29+08:00",
+ "lastUpdated": "2026-10-30T14:12:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25314,7 +25314,41 @@
    ],
    "topic": "commanding-heights-essay-2026-10-29",
    "firstSeen": "2026-10-30T14:00:29+08:00"
+  },
+  {
+   "id": "f97340bec9",
+   "title": "Anthropic 公开「自我评估」：Claude 每次回复后给对话打安全分，高优先级滥用检出率 94%",
+   "summary": "Anthropic 安全团队发文介绍 self-assessment 技术：Claude 在每次回复后追加一条简短指令，输出约 10 个 token 的 JSON 安全评估（是否有害、危害类型、人工复核优先级、是否拒绝、一句话理由）。在 Claude Fable 5 上，以更强的提示分类器为基准，它在 1% 误报率下检出 78% 的潜在有害对话、94% 的高优先级对话，额外推理算力不到 2%；自 6 月起已在大部分流量上作为离线监控运行，发现过其他方法漏掉的大规模滥用。官方也承认它挡不住有决心的攻击者，且基准只是「学生复现老师」。信号：利用 KV 缓存做低成本自检的思路可迁移到企业 AI 应用的合规审计、客服质检和智能体行为监控。",
+   "links": [
+    "https://safeguards.anthropic.com/2026/self-assessment/",
+    "https://x.com/i/trending/2115877041467974055",
+    "https://alphasignal.ai/news/anthropic-s-claude-now-flags-its-own-misuse-at-under-2-extra-cost"
+   ],
+   "topic": "anthropic-self-assessment-2026-10",
+   "firstSeen": "2026-10-30T14:12:01+08:00"
+  },
+  {
+   "id": "7715178c9f",
+   "title": "Mainplane 开源：把旧电脑变成常驻 AI 智能体服务器，用「全量记录 + 按需检索」替代上下文压缩",
+   "summary": "前 Browser Use 二号工程师 Alexander Yue 开源 Mainplane（MIT，单个 Go 二进制）：服务器端持有 API 密钥和全部会话，通过内置 WireGuard 私网把 shell 和文件操作分派到你的其他电脑执行，支持 Claude Code / ChatGPT 订阅额度、浏览器与电脑操作、共享网盘，系统提示仅 3k token。它不做上下文压缩，会话写成一个只追加文件，新会话按需 grep 旧记录；作者称在 40 万 token 会话中耗时 15 秒、成本 0.10 美元，而压缩方案为 29–38 秒、0.17–1.99 美元。信号：个人「常驻智能体」与跨设备编排是正在成形的赛道，教程、托管版和行业模板都有机会。",
+   "links": [
+    "https://github.com/mainplane-ai/mainplane",
+    "https://news.ycombinator.com/item?id=50246690",
+    "https://x.com/i/trending/2116028470656725401"
+   ],
+   "topic": "mainplane-always-on-agents",
+   "firstSeen": "2026-10-30T14:12:01+08:00"
+  },
+  {
+   "id": "bfcc06cbf2",
+   "title": "奥特曼设想用 AI 机器人自建芯片厂、电站和数据中心，形成「自我复制」的算力闭环",
+   "summary": "在 10 月 29 日与 Stripe 联合创始人 John Collison 的 Cheeky Pint 播客中，Sam Altman 描绘由 AI 控制的机器人建造晶圆厂、能源设施和数据中心的设想，以此缓解算力、能源和劳动力瓶颈，并关联 OpenAI 的机器人业务。Collison 提到审批和供应链难题，Altman 认为机器人可以降低零部件生产难度。X 上反应两极：有人兴奋于规模化潜力，也有人讥为天方夜谭。信号：「AI 建设 AI 基础设施」叙事升温，数据中心建设、电力和机器人施工相关的情报与供应链服务值得关注。",
+   "links": [
+    "https://x.com/i/trending/2116002830494683239"
+   ],
+   "topic": "altman-robots-build-datacenters",
+   "firstSeen": "2026-10-30T14:12:01+08:00"
   }
  ],
- "lastChecked": "2026-10-30T14:00:29+08:00"
+ "lastChecked": "2026-10-30T14:12:01+08:00"
 }
