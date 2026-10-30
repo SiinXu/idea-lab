@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T13:08:58+08:00",
+ "lastUpdated": "2026-10-30T13:24:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25261,7 +25261,18 @@
    ],
    "topic": "sandisk-q1-revenue-378pct-stock-split-2026-10-29",
    "firstSeen": "2026-10-30T13:08:58+08:00"
+  },
+  {
+   "id": "eed758c714",
+   "title": "DeepMind 发布《智能经济学》：AI 真正改变经济靠的是智能体之间的协作，而非单体能力",
+   "summary": "Google DeepMind 的 AGI 经济学负责人 Alex Imas 与 Andrew Koh、联合创始人 Shane Legg 发布系列首篇文章，把 AI 能力拆成「个体能力」和「协作能力」两条轴：单个模型变强只会平滑地改变工资、价格和人机配比；一旦智能体之间的协作越过临界点，市场集中度、就业和工资会出现突变，并可能打破企业规模的科斯上限。作者预测影响会先体现在工资上，再体现在就业和市场结构上。信号：多智能体编排、团队协作评测和「协作能力基准」会成为下一个热门赛道，面向企业的智能体分工与交接工具有机会。",
+   "links": [
+    "https://institute.deepmind.com/essays/the-economics-of-intelligence/",
+    "https://digg.com/ai/6mwxxn0v"
+   ],
+   "topic": "deepmind-economics-of-intelligence-coordination-2026-10-29",
+   "firstSeen": "2026-10-30T13:24:05+08:00"
   }
  ],
- "lastChecked": "2026-10-30T13:08:58+08:00"
+ "lastChecked": "2026-10-30T13:24:05+08:00"
 }
