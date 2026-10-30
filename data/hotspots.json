@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T18:14:48+08:00",
+ "lastUpdated": "2026-10-30T18:31:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25593,7 +25593,19 @@
    ],
    "topic": "binance-hack-3b-frozen-cover-losses-scam-wave-2026-10-30",
    "firstSeen": "2026-10-30T18:14:48+08:00"
+  },
+  {
+   "id": "19616655e2",
+   "title": "ElevenLabs 发布音效模型 SFX v3：一句提示词生成多段连贯音效，音乐和人声效果更自然",
+   "summary": "ElevenLabs 10 月 29 日推出新一代文生音效模型 SFX v3（API 模型名 eleven_text_to_sound_v3）。官方称它能更可靠地执行包含多个声音的提示，比如「观众欢呼、球落地、观众嘘声」可一次生成连贯片段；音乐与人声类音效更逼真，钟、风铃、哨声等高频声音更少出现爆音。已上线 ElevenCreative 的音效页、Flows、Studio 及手机 App，API 目前为限量开放、部分地区不可用；单条最长 30 秒，可无缝循环，按时长计费每秒 40 积分。X 上视频和 ASMR 创作者热议可省去翻音效库的时间。信号：短视频、游戏和播客的「一键配音效」工作流与提示词模板会有需求。",
+   "links": [
+    "https://elevenlabs.io/blog/sound-effects-v3",
+    "https://elevenlabs.io/docs/overview/capabilities/sound-effects",
+    "https://x.com/i/trending/2116011164648001705"
+   ],
+   "topic": "elevenlabs-sfx-v3-2026-10-29",
+   "firstSeen": "2026-10-30T18:31:32+08:00"
   }
  ],
- "lastChecked": "2026-10-30T18:14:48+08:00"
+ "lastChecked": "2026-10-30T18:31:32+08:00"
 }
