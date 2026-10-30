@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T13:40:34+08:00",
+ "lastUpdated": "2026-10-30T14:00:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25302,7 +25302,19 @@
    ],
    "topic": "carmack-reusable-blocks-ai-agents-2026-10-30",
    "firstSeen": "2026-10-30T13:40:34+08:00"
+  },
+  {
+   "id": "70b7c0485e",
+   "title": "长文《制高点》刷屏：AI 智能会变成「引流品」，真正赚钱的是掌握分发、支付和基础设施通道的人",
+   "summary": "Will Manidis 与 Joe Roberts 于 10 月 29 日发布耗时一年写成的长文《The Commanding Heights》，认为模型本身会被商品化，AI 的收益将流向掌握稀缺分发渠道、金融支付通道和基础设施的「制高点」公司（文中以 Stripe、Meta、Coinbase 为例），并预测普惠繁荣不太可能、收益集中于资产所有者、前沿实验室会接受更强的国家管控。X 上出现读书会、纸质版和与 Aschenbrenner《Situational Awareness》的对比，也有人批评其语气消极。信号：对小团队而言，与其拼模型，不如占住某个垂直场景的分发入口或交易环节（支付、结算、渠道）。",
+   "links": [
+    "https://commandingheights.vip/",
+    "https://minutes.substack.com/p/commanding-heights-released",
+    "https://x.com/i/trending/2115895713796341897"
+   ],
+   "topic": "commanding-heights-essay-2026-10-29",
+   "firstSeen": "2026-10-30T14:00:29+08:00"
   }
  ],
- "lastChecked": "2026-10-30T13:40:34+08:00"
+ "lastChecked": "2026-10-30T14:00:29+08:00"
 }
