@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T01:13:58+08:00",
+ "lastUpdated": "2026-10-31T01:32:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25900,7 +25900,29 @@
    ],
    "topic": "us-tech-selloff-ai-cost-fears-2026-10-30",
    "firstSeen": "2026-10-31T01:13:58+08:00"
+  },
+  {
+   "id": "9e37c40a85",
+   "title": "「AI 没取代 SRE，而是在让他们退化」登上 HN 热榜：AI 包办 95% 故障处理后，人还接得住那关键的 5% 吗？",
+   "summary": "可观测性公司 SigNoz 的一篇文章今天冲上 Hacker News 前排（200+ 分、170+ 评论）。作者借 1983 年经典论文《自动化的讽刺》指出：当 AI 处理掉绝大多数常规故障，值班工程师亲手排障的机会变少，真正遇到 AI 搞不定的新型故障时反而更没能力应对。评论区大量运维和 SRE 现身说法，讨论如何在用 AI 的同时保持手感（演练、轮流手动处理、复盘训练等）。信号：「AI 时代的技能保鲜」正在成为工程团队的新痛点，故障演练、技能训练类工具和内容有机会。",
+   "links": [
+    "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "https://news.ycombinator.com/item?id=50305693"
+   ],
+   "topic": "ai-deskilling-sre-hn-2026-10-30",
+   "firstSeen": "2026-10-31T01:32:06+08:00"
+  },
+  {
+   "id": "58bdc6b4d6",
+   "title": "把任天堂 NES 的 CPU「编译」进 Qwen3.5 权重：开源项目 nesformer 让大模型逐 token 跑《超级马里奥》",
+   "summary": "开源项目 nesformer 把 NES 的 6502 处理器、2KB 内存和游戏卡带程序直接编译进一个标准的 Qwen3.5 模型检查点（约 1GB 权重），这些权重不是训练出来的，而是由编译器逐个算出来的。玩游戏时，模型一个 token 一个 token 地预测 CPU 执行日志，外部小程序只负责画面、手柄和中断；作者称测试游戏的每一帧都和传统模拟器输出完全一致。它基于此前把 CHIP-8 和 RISC-V 编译进 Qwen 的 Qwenputer 项目，核心技巧是把模型的 Gated DeltaNet 状态当作机器内存。刚发布不到一小时就登上 HN 前排。信号：「把程序编译成神经网络权重」这一方向正在出圈，值得关注其在可解释性与教学演示上的潜力。",
+   "links": [
+    "https://github.com/dbreunig/nesformer",
+    "https://news.ycombinator.com/item?id=50306442"
+   ],
+   "topic": "nesformer-nes-cpu-in-qwen-weights-2026-10-30",
+   "firstSeen": "2026-10-31T01:32:06+08:00"
   }
  ],
- "lastChecked": "2026-10-31T01:13:58+08:00"
+ "lastChecked": "2026-10-31T01:32:06+08:00"
 }
