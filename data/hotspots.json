@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-30T23:44:21+08:00",
+ "lastUpdated": "2026-10-31T00:12:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25845,7 +25845,29 @@
    ],
    "topic": "unsloth-deepseek-v41-flash-gguf",
    "firstSeen": "2026-10-30T23:44:21+08:00"
+  },
+  {
+   "id": "6db6c0a822",
+   "title": "Vercel 发布 Geist Serif：Geist 字体家族新增高对比展示衬线体，向《滚石》《时尚芭莎》杂志标题致敬",
+   "summary": "Vercel 今天推出 Geist Serif，这是继 Geist Mono、Geist Sans、Geist Pixel 之后的第四个成员。它是一款高对比的展示用衬线体，锯齿状细衬线配极细发丝线，下笔画比常规减薄 50%，专为高密度屏幕上的大标题和海报设计；骨架、字宽与 Geist Sans 一致，可叠排混用。官方称走的是时尚与编辑排版路线，而不是复古电脑广告风。首发为展示字重，完整家族仍在制作，已登上 Hacker News。信号：科技品牌集体转向「编辑感衬线标题」，高级感落地页、资源站首屏和品牌视觉可以直接用上这套免费字体。",
+   "links": [
+    "https://vercel.com/blog/introducing-geist-serif",
+    "https://news.ycombinator.com/item?id=50305601"
+   ],
+   "topic": "vercel-geist-serif-2026-10-30",
+   "firstSeen": "2026-10-31T00:12:46+08:00"
+  },
+  {
+   "id": "297169f3df",
+   "title": "Aura 开源游戏测试智能体 Autopilot：能自己玩 Unity / Godot / Unreal 游戏找 Bug，官方称准确率胜过 Claude Code",
+   "summary": "Ramen 旗下的 Aura 把 Autopilot 开源：它先把游戏玩一遍学会玩法，之后按自然语言指令自主探索关卡、发现 Bug 并写报告，每跑一次都会变得更熟。支持 Unity、Godot、Unreal，不用改游戏代码，可在自己的服务器上接任意大模型或现有的 Claude Code / Codex 订阅运行；官方对比称 7 项任务全对（Claude Code 5 项），速度接近前代两倍，目前仅支持编辑器内运行。X 上正被大量转发，但不少帖子带有推广口径，数据仍待第三方验证。信号：AI 写游戏越来越快，测试成了新瓶颈，「AI 试玩 QA」可能成为独立开发者和小工作室的新工具品类。",
+   "links": [
+    "https://x.com/Aura_Assistant/status/2116191580063404100",
+    "https://x.com/i/trending/2116197091680952420"
+   ],
+   "topic": "aura-autopilot-open-source-game-qa-2026-10-30",
+   "firstSeen": "2026-10-31T00:12:46+08:00"
   }
  ],
- "lastChecked": "2026-10-30T23:44:21+08:00"
+ "lastChecked": "2026-10-31T00:12:46+08:00"
 }
