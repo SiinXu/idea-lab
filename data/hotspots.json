@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T05:38:21+08:00",
+ "lastUpdated": "2026-10-31T06:01:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26036,7 +26036,19 @@
    ],
    "topic": "factory-acquires-typedef-2026-10-30",
    "firstSeen": "2026-10-31T05:38:21+08:00"
+  },
+  {
+   "id": "6244de31a2",
+   "title": "humans& 发布 AI 家教模型 &Tutor：拿「模拟学生」Persimmon 当陪练、按学生学会多少给奖励，TutorMoments 基准普通提示下超过 Claude Sonnet 5.5 和 GPT-6 Astra",
+   "summary": "AI 创业公司 humans& 10 月 30 日上线 Ampersand Tutor（&Tutor），已通过 API 开放。它基于 GLM-5.3 训练，由自家用户模型 Persimmon 扮演学生，奖励只看「学生学会了多少」，何时搭梯子、何时逼学生自己想、何时少帮忙等教学行为都是自然学出来的。在 Ai2 用真实数学辅导片段做的 TutorMoments 基准上，普通提示下 &Tutor 得 0.754，高于基座的 0.500、Claude Sonnet 5.5 的 0.667 和 GPT-6 Astra 的 0.634；换成明确说明评测要求的提示后得 0.919，略低于 GPT-6 Astra 的 0.926。注意这是 AI 学生加 LLM 评委的基准，不代表真实学生的学习效果。X 上已引发「用 AI 定制课程在家上学」的争论。信号：「用户模型当陪练做强化学习」正在成为垂直 Agent 的训练新路数，教育、销售陪练、客服培训都可能照搬。",
+   "links": [
+    "https://tutor.humansand.ai/blog/",
+    "https://allenai.org/blog/tutormoments",
+    "https://x.com/i/trending/2116236501575164071"
+   ],
+   "topic": "humansand-tutor-2026-10-30",
+   "firstSeen": "2026-10-31T06:01:13+08:00"
   }
  ],
- "lastChecked": "2026-10-31T05:38:21+08:00"
+ "lastChecked": "2026-10-31T06:01:13+08:00"
 }
