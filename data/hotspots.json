@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T00:12:46+08:00",
+ "lastUpdated": "2026-10-31T00:32:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -25867,7 +25867,29 @@
    ],
    "topic": "aura-autopilot-open-source-game-qa-2026-10-30",
    "firstSeen": "2026-10-31T00:12:46+08:00"
+  },
+  {
+   "id": "92d1bce2e6",
+   "title": "联邦式代码托管 Tangled 大改版：基于 AT 协议，可自托管 Git 和 CI 又能跨实例协作，Issue 和 PR 直接存进仓库",
+   "summary": "Tangled 10 月 30 日发布长文《The Federated Code Forge》，称自己是首个真正联邦化的代码托管平台：基于 Bluesky 的 AT 协议，可以只自托管 Git 服务或 CI，也可以全部自建，仍能和其他实例互相协作。本次大版本把前端改为部署在边缘的 Svelte 应用，配合用 Rust 写的纯内存索引服务 bobbin（全球 11 个以上区域）；新的 knot2 服务端用 Rust 重写，内置 Git 与 SSH，Issue、PR、评论等改为以 Git 对象链的形式存进仓库本身，并通过写入用户个人数据服务器的「证明」记录做双向校验；同时上线组织账户。官方强调对 AI 智能体友好，便于定制扩展。文章正登上 HN 首页。信号：GitHub 近期频繁故障、Coolify/Northflank 等托管平台接连出安全问题，「去中心化、可迁移的代码托管」正获得关注。",
+   "links": [
+    "https://tangled.org/blog/forge/",
+    "https://news.ycombinator.com/item?id=50305573"
+   ],
+   "topic": "tangled-federated-forge-2026-10-30",
+   "firstSeen": "2026-10-31T00:32:19+08:00"
+  },
+  {
+   "id": "942b141d64",
+   "title": "GitHub 周五再出严重故障：Issues 与 Pages 服务中断，状态页标为 Critical，HN 吐槽「又一个周五」",
+   "summary": "GitHub 状态页显示，10 月 30 日 14:31（UTC）起出现「Disruption with GitHub services」，影响 Issues 和 Pages，影响等级为 Critical，目前已恢复，官方称稍后公布根因分析。这已是本周继 10 月 28 日 Copilot 严重中断、29 日 Copilot Cloud 故障后的又一起事件，HN 帖子标题直接写作「Another Friday, another GitHub incident」。信号：GitHub 稳定性持续受质疑，依赖 GitHub Pages 托管站点和 Actions 部署的团队值得准备备用方案。",
+   "links": [
+    "https://www.githubstatus.com/incidents/nxy2l0ssxm10",
+    "https://news.ycombinator.com/item?id=50304520"
+   ],
+   "topic": "github-incident-issues-pages-2026-10-30",
+   "firstSeen": "2026-10-31T00:32:19+08:00"
   }
  ],
- "lastChecked": "2026-10-31T00:12:46+08:00"
+ "lastChecked": "2026-10-31T00:32:19+08:00"
 }
