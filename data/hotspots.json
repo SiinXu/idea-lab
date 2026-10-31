@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T11:16:11+08:00",
+ "lastUpdated": "2026-10-31T11:25:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26347,7 +26347,17 @@
    ],
    "topic": "openai-museum-of-what-could-be-teaser-2026-10-30",
    "firstSeen": "2026-10-31T11:16:11+08:00"
+  },
+  {
+   "id": "c80cb20877",
+   "title": "HN 用户曝 Scribd 母公司数据泄露：Scribd、Slideshare、Everand、Fable 用户的邮箱和部分银行卡信息可能被访问",
+   "summary": "一位 Hacker News 用户 10 月 31 日贴出其 10 月 26 日收到的安全事件通知：Scribd, Inc.（旗下 Scribd、Slideshare、Everand、Fable）称未授权第三方可能访问了某系统中的用户数据，包括邮箱、卡号后四位、发卡行、有效期、国家及付款记录（不含完整卡号）。公司表示已封堵并通报执法和数据保护机构，提醒用户警惕冒充 Scribd 的钓鱼邮件。发帖人称尚未看到任何公开报道，目前信息仅来自这份用户转贴的通知，Scribd 官方公告尚待确认。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50312756"
+   ],
+   "topic": "scribd-security-incident-2026-10",
+   "firstSeen": "2026-10-31T11:25:32+08:00"
   }
  ],
- "lastChecked": "2026-10-31T11:16:11+08:00"
+ "lastChecked": "2026-10-31T11:25:32+08:00"
 }
