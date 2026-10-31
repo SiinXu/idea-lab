@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T02:40:34+08:00",
+ "lastUpdated": "2026-11-01T03:14:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26861,7 +26861,18 @@
    ],
    "topic": "amazon-ai-developer-role-memo-register-2026-10-31",
    "firstSeen": "2026-11-01T02:40:34+08:00"
+  },
+  {
+   "id": "aa4997f9eb",
+   "title": "微软研究院与 CMU 论文「生成式 AI 对批判性思维的影响」重登 Hacker News 热榜：越信任 AI，越少独立思考",
+   "summary": "这篇发表于 CHI 2025 的论文由微软研究院与卡内基梅隆大学研究者完成，调查了 319 名知识工作者在工作中使用生成式 AI 的 936 个真实案例。结论是：对 AI 越有信心的人，投入的批判性思考越少；对自己能力越有信心的人，反而会更多地审视和核对 AI 产出。研究认为，AI 让工作重心从「亲自完成」转向「核验、整合与把关」。10 月 31 日该论文再次登上 Hacker News 首页并引发讨论。",
+   "links": [
+    "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+    "https://news.ycombinator.com/item?id=50318401"
+   ],
+   "topic": "genai-critical-thinking-chi2025-hn-2026-10-31",
+   "firstSeen": "2026-11-01T03:14:08+08:00"
   }
  ],
- "lastChecked": "2026-11-01T02:40:34+08:00"
+ "lastChecked": "2026-11-01T03:14:08+08:00"
 }
