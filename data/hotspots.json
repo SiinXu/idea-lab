@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T19:12:08+08:00",
+ "lastUpdated": "2026-10-31T19:41:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26673,7 +26673,18 @@
    ],
    "topic": "t3-code-side-chats-btw-2026-10-31",
    "firstSeen": "2026-10-31T19:12:08+08:00"
+  },
+  {
+   "id": "a9ce9215ef",
+   "title": "安全团队公开 ChatGPT 账号接管漏洞：只需打开一个公开分享链接，就能借 MathLive 数学键盘和 YouTube JSONP 绕过沙箱与 CSP，读取受害者私密对话",
+   "summary": "安全公司 Parameter 发布研究《Do the Math: How We Took Over ChatGPT Accounts》：攻击者在一段公开分享的 ChatGPT 对话里同时放入一个交互图表（会在主页面加载 MathLive 数学库）和一个 HTML 预览；预览虽在隔离沙箱中，却能通过 postMessage 向 MathLive 未校验来源的监听器注入键盘布局 HTML，生成继承 chatgpt.com 身份的无沙箱 iframe，再利用 CSP 白名单中 YouTube oEmbed 接口的 JSONP 回调执行任意 JavaScript。受害者只要打开链接，攻击代码就能以其登录身份调用后台 API，列出并外传私密对话。OpenAI 已于 10 月 26 日修复，定级 P1，奖励 5000 美元。文章登上 Hacker News，再次提醒 AI 产品的「可分享、可预览」功能组合正成为新的攻击面。",
+   "links": [
+    "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+    "https://news.ycombinator.com/item?id=50314699"
+   ],
+   "topic": "chatgpt-share-link-account-takeover-mathlive-2026-10-31",
+   "firstSeen": "2026-10-31T19:41:44+08:00"
   }
  ],
- "lastChecked": "2026-10-31T19:12:08+08:00"
+ "lastChecked": "2026-10-31T19:41:44+08:00"
 }
