@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T06:52:51+08:00",
+ "lastUpdated": "2026-11-01T07:09:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27039,7 +27039,19 @@
    ],
    "topic": "anime-word-coverage-vs-lines-understood",
    "firstSeen": "2026-11-01T06:52:51+08:00"
+  },
+  {
+   "id": "32a19737fd",
+   "title": "大模型里跑大模型：QwenPU 把一颗向量 NPU「编译」进 Qwen3.5-4B 权重，逐 token 精确运行 Karpathy 的 stories260K",
+   "summary": "开发者 div（@divagr1925）10 月 31 日发布 QwenPU，是此前把 RISC-V CPU 编进 Qwen 权重的 Qwenputer 的续作：不做任何训练，新增权重全部由编译得到，在 Qwen3.5-4B 内部构建一个向量 NPU，再在上面运行 Karpathy 的 2.6 万参数小模型 stories260K，矩阵乘、softmax 和注意力都能逐位对齐，输出与原模型逐 token 一致。代价是极慢：据转述每个故事 token 需约 5.3 万步，在 L4 显卡上约 16 秒。原帖获 1300 多赞、6 万多次浏览，作者同时发布了 Gated DeltaNet 等 8 种注意力机制的交互式讲解。实用价值有限，但被视为「模型权重可做精确计算」的有力演示。",
+   "links": [
+    "https://x.com/divagr1925/status/2116544960023687432",
+    "https://x.com/divagr1925/status/2116595597688131733",
+    "https://x.com/i/trending/2116589547132010533"
+   ],
+   "topic": "qwenpu-llm-in-llm",
+   "firstSeen": "2026-11-01T07:09:40+08:00"
   }
  ],
- "lastChecked": "2026-11-01T06:52:51+08:00"
+ "lastChecked": "2026-11-01T07:09:40+08:00"
 }
