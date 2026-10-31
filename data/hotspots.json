@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T12:39:04+08:00",
+ "lastUpdated": "2026-10-31T12:58:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26451,7 +26451,18 @@
    ],
    "topic": "chatgpt-terminal-cancer-false-hope-2026-10-31",
    "firstSeen": "2026-10-31T12:39:04+08:00"
+  },
+  {
+   "id": "3e7cf0d84d",
+   "title": "俄亥俄小镇警局调度员滥用 Flock 车牌识别系统数月、私下追踪熟人数千次；整改加月度审计后，该局 Flock 检索量骤降 95%",
+   "summary": "WKYC 报道，俄亥俄州 Highland Heights 一名警方调度员在几个月里用 Flock 自动车牌识别网络做了数千次针对特定车牌的检索，出于私人原因追踪自己认识的人，警长事后才知情。该局随后出台新规：明确禁止用途、每月审计。调度员离职后首月，全局交通类 Flock 检索只有 130 次，比 4 月下降超过 95%——侧面说明此前大量检索并无正当理由。专家指出 Flock 已能识别车型和保险杠贴纸，数据归私企而非城市所有，美国也没有统一监管；俄亥俄已有跨党派提案拟限制甚至禁用 Flock。该新闻登上 Hacker News 首页，延续了近期对 Flock 监控滥用的讨论。",
+   "links": [
+    "https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e",
+    "https://news.ycombinator.com/item?id=50312739"
+   ],
+   "topic": "flock-highland-heights-dispatcher-abuse-2026-10-31",
+   "firstSeen": "2026-10-31T12:58:21+08:00"
   }
  ],
- "lastChecked": "2026-10-31T12:39:04+08:00"
+ "lastChecked": "2026-10-31T12:58:21+08:00"
 }
