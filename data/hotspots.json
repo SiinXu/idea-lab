@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T22:12:41+08:00",
+ "lastUpdated": "2026-10-31T23:13:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26784,7 +26784,29 @@
    ],
    "topic": "voyager1-two-day-outage-2026-10-31",
    "firstSeen": "2026-10-31T22:12:41+08:00"
+  },
+  {
+   "id": "2b51d8c5bc",
+   "title": "Claude 被曝拒绝「复刻现有游戏」和部分逆向工程任务：游戏开发者抱怨连自己的项目也被拦",
+   "summary": "据 Tom's Hardware 10 月 31 日报道，过去一周多名用户反映 Claude Code / Opus 5.5 开始拒绝帮忙复刻特定现有游戏，甚至在开发中途拒绝复现某个游戏机制、修补桌游类项目；Claude Code 的 GitHub 仓库涌入大量相关 issue。网传规则原文是「可以做原创游戏、某一类型的游戏、用户自有设计与素材的游戏，但不要复刻某款具体的现有游戏，即使改名或称为原创」，Anthropic 尚未正式确认。另有用户称分析 Windows 崩溃转储、使用 Reverse Engineer Anything 工具等普通逆向任务也被拒，可能与 10 月 6 日推出的网络安全验证计划有关；也有评论认为只是拦截「照抄某游戏」式提示，逆向和 Mod 仍可做。网友建议转用开源或本地模型，话题登上 Hacker News。",
+   "links": [
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+    "https://news.ycombinator.com/item?id=50315987"
+   ],
+   "topic": "claude-blocks-game-cloning-reverse-engineering-2026-10-31",
+   "firstSeen": "2026-10-31T23:13:32+08:00"
+  },
+  {
+   "id": "d3faca943d",
+   "title": "78 岁退休教授因拦截 Uber Eats 送餐机器人被捕，称还会继续：「人行道不该让给机器」",
+   "summary": "据 CNN 10 月 31 日报道，宾夕法尼亚大学退休传播学教授 Carolyn Marvin 习惯在费城街头站到自动送餐机器人前面拦它十几分钟，以抗议机器人抢走低收入骑手的工作、占用人行道并带摄像头侵犯隐私。10 月 14 日她再次拦截时被警方铐走，收到扰乱秩序传票。Uber Eats 今年 3 月在费城上线机器人配送，是第四个城市。宾州 2020 年立法把送餐机器人归为「行人」而非车辆，汽车须在人行横道礼让，但机器人仍须礼让行人。她表示被捕后还会继续拦。话题登上 Hacker News，引发对公共空间与机器人法律地位的讨论。",
+   "links": [
+    "https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
+    "https://news.ycombinator.com/item?id=50316103"
+   ],
+   "topic": "philly-professor-arrested-blocking-delivery-robot-2026-10-31",
+   "firstSeen": "2026-10-31T23:13:32+08:00"
   }
  ],
- "lastChecked": "2026-10-31T22:12:41+08:00"
+ "lastChecked": "2026-10-31T23:13:32+08:00"
 }
