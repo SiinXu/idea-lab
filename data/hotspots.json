@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T12:58:21+08:00",
+ "lastUpdated": "2026-10-31T14:00:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26462,7 +26462,20 @@
    ],
    "topic": "flock-highland-heights-dispatcher-abuse-2026-10-31",
    "firstSeen": "2026-10-31T12:58:21+08:00"
+  },
+  {
+   "id": "92dc9d3fa6",
+   "title": "谷歌 Project Suncatcher 卫星在轨跑通 AI：太空中的 TPU 用 Gemma 4 写出一首俳句传回地球，Pichai 称之为「Hello World」里程碑",
+   "summary": "谷歌 CEO Sundar Pichai 10 月 30 日在 X 宣布，10 月 1 日随 SpaceX 猎鹰 9 号发射、搭载四块 TPU 的 Project Suncatcher 原型卫星已成功接收地面指令、启动 TPU、运行提示词，并把第一份完整回答——一首关于太空的俳句——经挪威斯瓦尔巴地面站传回地球。这是数据中心级 AI 芯片首次在轨完成推理。谷歌计划 2027 年再发两颗卫星，测试辐射、散热等太空环境下的可靠性。帖子约 200 万次浏览、2 万点赞，The Verge、Decrypt 等跟进报道，「太空数据中心」赛道（Satlyt、Starcloud 等）热度再起。",
+   "links": [
+    "https://x.com/sundarpichai/status/2116214866444943853",
+    "https://x.com/NewsFromGoogle/status/2116219345215074538",
+    "https://x.com/verge/status/2116234861119967559",
+    "https://x.com/i/trending/2116219625428209768"
+   ],
+   "topic": "google-suncatcher-tpu-orbit-haiku-2026-10-30",
+   "firstSeen": "2026-10-31T14:00:09+08:00"
   }
  ],
- "lastChecked": "2026-10-31T12:58:21+08:00"
+ "lastChecked": "2026-10-31T14:00:09+08:00"
 }
