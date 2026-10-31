@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T11:53:05+08:00",
+ "lastUpdated": "2026-10-31T12:13:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26410,7 +26410,17 @@
    ],
    "topic": "servicepipe-ai-guardrail-obfuscation-2026-10-31",
    "firstSeen": "2026-10-31T11:53:05+08:00"
+  },
+  {
+   "id": "d47b3f426f",
+   "title": "教皇良十四世在梵蒂冈 AI 会议上呼吁：AI 必须由人类掌控，各国应在日内瓦谈判中禁止致命自主武器",
+   "summary": "教皇良十四世在宗座生命科学院与未来生命研究所（Future of Life Institute）联合举办的梵蒂冈会议上发言，援引其通谕《Magnifica Humanitas》，主张对人工智能实施严格的人类监督、拒绝有害应用、不给 AI 法律人格，并敦促各国在即将举行的日内瓦谈判中禁止致命自主武器。这为 AI 治理与「人类在环」类产品、合规工具提供了新的舆论背景。",
+   "links": [
+    "https://x.com/i/trending/2116155703932973429"
+   ],
+   "topic": "pope-leo-ai-human-control-autonomous-weapons-2026-10-31",
+   "firstSeen": "2026-10-31T12:13:29+08:00"
   }
  ],
- "lastChecked": "2026-10-31T11:53:05+08:00"
+ "lastChecked": "2026-10-31T12:13:29+08:00"
 }
