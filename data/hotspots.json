@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T18:10:12+08:00",
+ "lastUpdated": "2026-10-31T18:42:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26652,7 +26652,17 @@
    ],
    "topic": "vitalik-digital-minimalism-2026-10-31",
    "firstSeen": "2026-10-31T18:10:12+08:00"
+  },
+  {
+   "id": "7a0812cb6e",
+   "title": "开发者实测 Claude Opus 5.5 推理档位：日常编码用 High 反而比 Extra High 更好，高档位容易「过度思考」乱改能跑的代码",
+   "summary": "Claude Opus 5.5（2026 年 9 月 22 日发布）提供从 Low 到 Ultracode 的多档推理强度。10 月 31 日 X 上大量开发者分享实测：Extra High 在简单修改上常凭空制造问题、重写本来正常的代码，还更耗 token、更慢；High 更聚焦高效，日常任务用 Medium 即可，CUDA 内核优化等难题再开 High。这与此前 SlopCodeBench 发现「xhigh 不如 medium」相互印证，「推理档位怎么选」正在成为 AI 编程工具的新实践话题。",
+   "links": [
+    "https://x.com/i/trending/2116465328158880173"
+   ],
+   "topic": "opus-5-5-reasoning-level-high-vs-xhigh-2026-10-31",
+   "firstSeen": "2026-10-31T18:42:07+08:00"
   }
  ],
- "lastChecked": "2026-10-31T18:10:12+08:00"
+ "lastChecked": "2026-10-31T18:42:07+08:00"
 }
