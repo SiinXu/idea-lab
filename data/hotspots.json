@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T21:27:36+08:00",
+ "lastUpdated": "2026-10-31T21:43:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26740,7 +26740,29 @@
    ],
    "topic": "prospero-lightweight-coding-harness-2026-10-31",
    "firstSeen": "2026-10-31T21:27:36+08:00"
+  },
+  {
+   "id": "76608378b6",
+   "title": "Matt Pocock 的「给真工程师用的技能包」单日涨星近 900：总星数约 30.8 万，一行命令装进 Claude Code、Codex、Copilot",
+   "summary": "TypeScript 教育者 Matt Pocock 把自己日常使用的 AI 编程代理技能（skills）开源为 mattpocock/skills，主张「做真正的工程，而不是 vibe coding」：与 GSD、BMAD、Spec-Kit 这类接管整套流程的方案不同，这些技能小巧、可组合、可自行改写，适配任意模型。仓库支持以插件形式一键安装到 Claude Code、Codex、GitHub Copilot 并自动更新，也可通过 skills.sh 复制到项目里手动维护。10 月 31 日它出现在 GitHub 每日趋势榜，当天新增约 880 星，总星数约 30.8 万，说明「可复用代理技能」正成为开发者的标配资产。",
+   "links": [
+    "https://github.com/mattpocock/skills",
+    "https://skills.sh/mattpocock/skills"
+   ],
+   "topic": "mattpocock-skills-trending-2026-10-31",
+   "firstSeen": "2026-10-31T21:43:38+08:00"
+  },
+  {
+   "id": "02184fa871",
+   "title": "清华团队开源 OpenMAIC 登上 GitHub 日榜：一键生成「多智能体互动课堂」，AI 老师和 AI 同学一起上课，总星数超 4.2 万",
+   "summary": "OpenMAIC（Open Multi-Agent Interactive Classroom）由清华 THU-MAIC 团队以 MIT 协议开源，主打一键生成沉浸式多智能体学习体验：多个 AI 角色分别扮演老师、助教和同学，围绕课程内容讲解、提问和讨论。项目基于 Next.js 16、React 19 和 TypeScript，提供在线演示，可接入 OpenClaw 代理工作台，并支持通过 Lemonade 在本地运行模型，相关论文发表于 JCST 2026。10 月 31 日它出现在 GitHub 每日趋势榜，当天新增 100 多星，总星数约 4.2 万，AI 教育正从「聊天答疑」走向「整节课的多角色模拟」。",
+   "links": [
+    "https://github.com/THU-MAIC/OpenMAIC",
+    "https://open.maic.chat/"
+   ],
+   "topic": "openmaic-multi-agent-classroom-2026-10-31",
+   "firstSeen": "2026-10-31T21:43:38+08:00"
   }
  ],
- "lastChecked": "2026-10-31T21:27:36+08:00"
+ "lastChecked": "2026-10-31T21:43:38+08:00"
 }
