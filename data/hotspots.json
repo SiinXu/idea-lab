@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T16:54:44+08:00",
+ "lastUpdated": "2026-10-31T17:15:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26591,7 +26591,27 @@
    ],
    "topic": "sanders-no-ai-bailout-big-tech-debt-2026-10-31",
    "firstSeen": "2026-10-31T16:54:44+08:00"
+  },
+  {
+   "id": "070d8cdd34",
+   "title": "Vibe Coding 撞上「维护墙」：Replit 推出 Monitoring Agent，自动看日志、查问题、部署修复，被称为「自动值班工程师」",
+   "summary": "靠提示词快速做出应用的非工程师，上线后普遍卡在维护环节，有开发者甚至公开求人按月付费代为维护。Replit 10 月底推出 Monitoring Agent，可持续监控应用日志、自动排查故障并部署修复。支持者称其为「自主 on-call 工程师」，质疑者担心未经审查的代码直接上线带来风险。AI 应用的「上线后运维」正成为新的服务与产品机会。",
+   "links": [
+    "https://x.com/i/trending/2115924223558373824"
+   ],
+   "topic": "replit-monitoring-agent-vibe-maintenance-2026-10-31",
+   "firstSeen": "2026-10-31T17:15:08+08:00"
+  },
+  {
+   "id": "4c96b92222",
+   "title": "Pi Network 发布四项开发者更新：统一开发者门户、区块浏览器历史价格图、面向 AI 的 SoloHost 技能和更多 PiVerify 选项",
+   "summary": "Pi Network 团队宣布简化开发者门户、在 BlockExplorer 加入历史价格图表、为 Pi Desktop 应用新增对 AI 友好的 SoloHost 技能，并扩展企业版 PiVerify 认证选项，以降低开发门槛、推动代币在付费服务中的使用。更新时间点正好赶在 11 月 17–19 日线上生态峰会（含演示与黑客松）之前。",
+   "links": [
+    "https://x.com/i/trending/2116454517986177273"
+   ],
+   "topic": "pi-network-dev-tools-summit-2026-10-31",
+   "firstSeen": "2026-10-31T17:15:08+08:00"
   }
  ],
- "lastChecked": "2026-10-31T16:54:44+08:00"
+ "lastChecked": "2026-10-31T17:15:08+08:00"
 }
