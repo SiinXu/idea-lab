@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T20:01:18+08:00",
+ "lastUpdated": "2026-10-31T20:32:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26696,7 +26696,18 @@
    ],
    "topic": "molly-signal-fork-unpatched-2026-10-31",
    "firstSeen": "2026-10-31T20:01:18+08:00"
+  },
+  {
+   "id": "4a55bc0aa2",
+   "title": "开源桌面「AI 团队」Orkas 登上 GitHub 日榜：一个指挥官智能体拆解目标、调度 16 个专业智能体，还能拉上 Claude Code、Codex 一起干活",
+   "summary": "Orkas 是 MIT 开源、数据全部留在本地的多智能体桌面应用（macOS / Windows 免费）。用户只需对「指挥官」说目标，它会自己完成小任务；大任务则拆成待办，调度 16 个内置专业智能体，并联动 Claude Code、Codex、OpenCode、OpenClaw、Hermes 等现有编程与个人代理协作。项目可保存目标、规则、记忆和文件，支持「自动推进」下一项待办和按小时到按月的定时自动化；自带模型送 500 额度，也可接 Claude、OpenAI、Gemini、DeepSeek、Kimi、通义千问等自有密钥。10 月 31 日登上 GitHub 日榜，单日新增约 1000 星，总星数约 5900。",
+   "links": [
+    "https://github.com/Orkas-AI/Orkas",
+    "https://orkas.ai/"
+   ],
+   "topic": "orkas-desktop-ai-team-2026-10-31",
+   "firstSeen": "2026-10-31T20:32:07+08:00"
   }
  ],
- "lastChecked": "2026-10-31T20:01:18+08:00"
+ "lastChecked": "2026-10-31T20:32:07+08:00"
 }
