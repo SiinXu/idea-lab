@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T16:09:28+08:00",
+ "lastUpdated": "2026-10-31T16:29:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26530,7 +26530,28 @@
    ],
    "topic": "shumer-skip-custom-harness-2026-10-31",
    "firstSeen": "2026-10-31T16:09:28+08:00"
+  },
+  {
+   "id": "97ee139d1e",
+   "title": "Vercel Labs 的 agent-desktop 在 X 走红：让 AI 智能体通过系统无障碍树操控真实桌面应用，比截图方案省大量 token",
+   "summary": "Vercel Labs 开源的 agent-desktop（Rust 编写，GitHub 约 2800 星）不靠截图猜像素，而是读取 macOS、Windows、Linux 的系统无障碍树（accessibility tree）来识别并操作任意桌面应用的真实界面，元素引用稳定、动作可安全重试，还能后台运行、多个智能体各用一个光标。开发者实测：一次 Apple Maps 任务每次「看屏」只需 273 token，而整屏截图要 3811 token，整个流程从约 19.8 万 token 降到 3.1 万；用 4 次语义点击就能测完 macOS 计算器。通过 npm 即可安装，社区正讨论基准测试、远程支持和安全问题。",
+   "links": [
+    "https://x.com/i/trending/2116444562667483168",
+    "https://github.com/vercel-labs/agent-desktop"
+   ],
+   "topic": "vercel-agent-desktop-a11y-2026-10-31",
+   "firstSeen": "2026-10-31T16:29:40+08:00"
+  },
+  {
+   "id": "b668c52953",
+   "title": "反 AI 画师被指用 AI 作画，晒出一小时完整手绘延时视频自证清白，暴露艺术圈「AI 猜疑症」",
+   "summary": "长期反对生成式 AI、今年还因拒用 AI 工具丢掉工作的画师 Chainsawroll，被网友以画风变化和所谓「AI 痕迹」为由指控使用 AI，她随即发布一小时手绘全过程延时视频回应。多位画师声援称草稿阶段的正常修改常被误读，批评这种条件反射式指控制造混乱。此前蒙大拿一场比赛的获奖者也遭遇类似质疑。事件凸显：在缺乏可靠验证标准的情况下，人类作品被误判为 AI 正成为创作者的新困扰，「创作过程存证」类工具或有需求。",
+   "links": [
+    "https://x.com/i/trending/2116445823156228235"
+   ],
+   "topic": "artist-timelapse-ai-accusation-2026-10-31",
+   "firstSeen": "2026-10-31T16:29:40+08:00"
   }
  ],
- "lastChecked": "2026-10-31T16:09:28+08:00"
+ "lastChecked": "2026-10-31T16:29:40+08:00"
 }
