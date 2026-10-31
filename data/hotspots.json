@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T23:27:20+08:00",
+ "lastUpdated": "2026-11-01T00:01:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26817,7 +26817,18 @@
    ],
    "topic": "meta-books3-torrent-testimony-2026-10-31",
    "firstSeen": "2026-10-31T23:27:20+08:00"
+  },
+  {
+   "id": "5b0ac3b976",
+   "title": "思科 Talos 披露窃密木马 VOLTA：偷完账号后把受害者档案交给大模型「估价」，被 Claude 拒绝就自动换 Kimi、Gemini",
+   "summary": "思科 Talos 10 月 31 日发布报告：一款自称「VOLTA-AUTODOXER」的 Windows 窃密木马在盗取浏览器密码、Cookie、银行卡、加密钱包助记词、Discord/Telegram/Steam 会话、云密钥和 Wi-Fi 密码后，还会用偷来的 Gmail 会话搜索亚马逊、外卖等收据确认住址、拉取 Uber Eats 和 DoorDash 订单记录，再把整理好的「身份档案」经 OpenRouter 发给大模型，按「他们值多少钱」和「他们的安全习惯」生成带引用的目标评估。默认模型是 Claude Opus 4.6，若回复里出现「I can't」之类拒绝语，就依次切到 Kimi K2 和 Gemini 2.5 Flash。木马会自删、没有自建服务器，采用可定制的生成器模式，疑似按单出售。Talos 认为恶意软件正用 AI 替代最耗人力的分析环节，「绕开模型拒答」可能成为标配设计。话题已上 Hacker News。",
+   "links": [
+    "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+    "https://news.ycombinator.com/item?id=50316531"
+   ],
+   "topic": "talos-volta-infostealer-llm-victim-ranking-2026-10-31",
+   "firstSeen": "2026-11-01T00:01:58+08:00"
   }
  ],
- "lastChecked": "2026-10-31T23:27:20+08:00"
+ "lastChecked": "2026-11-01T00:01:58+08:00"
 }
