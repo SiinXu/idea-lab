@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T07:09:40+08:00",
+ "lastUpdated": "2026-11-01T07:26:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27051,7 +27051,18 @@
    ],
    "topic": "qwenpu-llm-in-llm",
    "firstSeen": "2026-11-01T07:09:40+08:00"
+  },
+  {
+   "id": "7922b05c9b",
+   "title": "Stripe CEO Collison 给自己所有 vibe coding 小应用加「改进」输入框：写一句需求，AI 代理直接上线修改",
+   "summary": "Stripe 联合创始人兼 CEO Patrick Collison 10 月 31 日发帖称，他正在给自己所有用 vibe coding 做的个人应用加入一个「improvements」功能：一个自由文本输入框，接到一个 AI 代理上，提交什么就直接实现什么。他说这样一来，打磨任何小毛病的「启动门槛」几乎消失。帖子数小时内获 1100 多赞、6.6 万次浏览、900 多次收藏；据 X 话题汇总，有用户几天内就提交了约 150 条修改，Sentry 的 David Cramer 等开发者也在做类似尝试，网友将其比作 Lisp 机器和 HyperCard 式的「液态软件」，但也有人担心安全、可扩展性和缺少专业审查的维护风险。",
+   "links": [
+    "https://x.com/patrickc/status/2116636967517798672",
+    "https://x.com/i/trending/2116662101653537017"
+   ],
+   "topic": "collison-improvements-agent-box",
+   "firstSeen": "2026-11-01T07:26:23+08:00"
   }
  ],
- "lastChecked": "2026-11-01T07:09:40+08:00"
+ "lastChecked": "2026-11-01T07:26:23+08:00"
 }
