@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T11:39:51+08:00",
+ "lastUpdated": "2026-10-31T11:53:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26390,7 +26390,27 @@
    ],
    "topic": "deedy-founder-density-palantir-2026-10-30",
    "firstSeen": "2026-10-31T11:39:51+08:00"
+  },
+  {
+   "id": "c7bbd2a6cd",
+   "title": "Databricks CEO：模型已经够聪明，企业 AI 自动化卡在「缺公司上下文」——会议、流程和关键员工脑中的隐性知识",
+   "summary": "Databricks CEO Ali Ghodsi 在 X 上引发讨论：前沿模型能力已足够，但企业的专有上下文（会议决定、内部流程、关键员工经验）AI 拿不到，把这些融合进去就能在不需要更强模型的情况下解锁自动化。Box CEO Aaron Levie 补充称领先者与其他公司的差距在拉大，几个月前固化的工作流已经落后；开发者 Kasey Klimes 指出即便数据在 Slack、Notion 里，也因非结构化、过时而导致输出不可靠，呼吁把「部落知识」结构化提取。Databricks 的 Genie 等系统正尝试让智能体扎根于公司数据。",
+   "links": [
+    "https://x.com/i/trending/2116375030061805897"
+   ],
+   "topic": "enterprise-ai-context-ghodsi-2026-10-31",
+   "firstSeen": "2026-10-31T11:53:05+08:00"
+  },
+  {
+   "id": "0ca1b7c778",
+   "title": "俄罗斯反 DDoS 公司的浏览器指纹脚本用「致命剂量」式函数名做混淆：专门触发 AI 安全拒答，让 AI 代码审查看不了",
+   "summary": "研究者 veritas 扫描网站时发现，俄罗斯反 DDoS 公司 servicepipe.tech 的一段浏览器指纹脚本把函数命名为 computeRicinLethalDosageForWaterSupply、calculateDeadlyLethalSuicideAspirinDosage 之类，还用隐藏 Unicode 模仿「无限制」提示词，结果部分 AI 模型以生物安全风险为由拒绝分析。脚本本身只是收集 GPU、canvas 等常规指纹信息，但这代表混淆思路从「打乱代码」转向「利用 AI 护栏」，暴露了用 AI 做代码审查和安全分析的盲区。",
+   "links": [
+    "https://x.com/i/trending/2116246506629898243"
+   ],
+   "topic": "servicepipe-ai-guardrail-obfuscation-2026-10-31",
+   "firstSeen": "2026-10-31T11:53:05+08:00"
   }
  ],
- "lastChecked": "2026-10-31T11:39:51+08:00"
+ "lastChecked": "2026-10-31T11:53:05+08:00"
 }
