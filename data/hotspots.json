@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T21:02:35+08:00",
+ "lastUpdated": "2026-10-31T21:27:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26718,7 +26718,29 @@
    ],
    "topic": "vorssaint-mac-menubar-toolkit-2026-10-31",
    "firstSeen": "2026-10-31T21:02:35+08:00"
+  },
+  {
+   "id": "e2bc4a9d40",
+   "title": "反垄断作者 Matt Stoller 解读 Anthropic S-1：大股东正是对手和供应商亚马逊、谷歌、博通、微软，科技巨头已「绑成一体」同涨同跌",
+   "summary": "10 月 31 日，反垄断评论人 Matt Stoller 在 BIG 通讯发文分析 Anthropic 本周公开的 S-1 招股书初稿。他指出，与几乎所有 IPO 不同，Anthropic 相当大一部分被亚马逊、谷歌、博通和微软这些竞争对手或供应商持有或控制，招股书甚至把「与这些公司的利益冲突」列为风险；这解释了为什么谷歌、亚马逊财报不及预期后整个科技板块一起下跌。文章还提到 Anthropic 去年亏损约 800 亿美元、亚马逊自由现金流为负 420 亿美元，认为大科技正从「印钞」转向「烧钱」，并呼吁监管关注这种相互依赖。文章登上 Hacker News。",
+   "links": [
+    "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+    "https://news.ycombinator.com/item?id=50315574"
+   ],
+   "topic": "stoller-anthropic-s1-rivals-ownership-2026-10-31",
+   "firstSeen": "2026-10-31T21:27:36+08:00"
+  },
+  {
+   "id": "bcbaffe380",
+   "title": "知名 C 程序员 Chris Wellons 发布 Prospero：用 C++ 和 Dear ImGui 写的轻量 AI 编程代理外壳，资源占用比同类低约两个数量级",
+   "summary": "nullprogram 博主 Chris Wellons 10 月 31 日发布 Prospero，一款面向本地大模型的编程「harness」（让 AI 调用读写文件、执行命令等工具的代理外壳）。他认为现有工具多基于网页技术栈、动辄占用数 GB 内存，而 Prospero 用原生 C++ 加 Dear ImGui 停靠式界面实现，资源占用约低两个数量级。它不内置模型，需自行接入 llama.cpp、OpenRouter、Anthropic 或 OpenAI API 等；支持子代理并行协作、通过 SSH 把无界面副本部署到其他机器，还具备桌面控制能力，专业版引擎甚至能跑在 Windows XP 上。文章登上 Hacker News。",
+   "links": [
+    "https://nullprogram.com/blog/2026/10/31/",
+    "https://news.ycombinator.com/item?id=50315226"
+   ],
+   "topic": "prospero-lightweight-coding-harness-2026-10-31",
+   "firstSeen": "2026-10-31T21:27:36+08:00"
   }
  ],
- "lastChecked": "2026-10-31T21:02:35+08:00"
+ "lastChecked": "2026-10-31T21:27:36+08:00"
 }
