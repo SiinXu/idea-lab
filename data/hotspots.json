@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T21:57:16+08:00",
+ "lastUpdated": "2026-10-31T22:12:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26773,7 +26773,18 @@
    ],
    "topic": "cathedral-ai-agents-breach-anthropic-2026-10-31",
    "firstSeen": "2026-10-31T21:57:16+08:00"
+  },
+  {
+   "id": "26542adaad",
+   "title": "NASA 旅行者 1 号离奇「失联」两天：一组推进器自动关机，工程师仍未查明原因",
+   "summary": "据 Mashable 10 月 30 日报道，远在约 160 亿英里外星际空间的旅行者 1 号，10 月 18、19 日连续两天没有按计划与深空网络联络，直到 10 月 20 日才重新发回信号，此后未再中断。目前只发现一组姿态推进器关机、由备份推进器接管，具体原因仍在调查。JPL 任务经理 Kareem Badaruddin 称这是「第一次看到它这样」。这艘 1977 年发射的探测器靠衰减的钚电源供电，每年损失约 4 瓦，已陆续关闭多台科学仪器；预计 11 月 18 日它将首次达到距地球「一光日」的里程碑。消息登上 Hacker News，再次引发对这项最长寿太空任务何时落幕的讨论。",
+   "links": [
+    "https://mashable.com/science/nasa-voyager-1-communication-outage",
+    "https://news.ycombinator.com/item?id=50315409"
+   ],
+   "topic": "voyager1-two-day-outage-2026-10-31",
+   "firstSeen": "2026-10-31T22:12:41+08:00"
   }
  ],
- "lastChecked": "2026-10-31T21:57:16+08:00"
+ "lastChecked": "2026-10-31T22:12:41+08:00"
 }
