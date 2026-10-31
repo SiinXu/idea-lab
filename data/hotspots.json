@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T08:25:40+08:00",
+ "lastUpdated": "2026-10-31T09:02:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26172,7 +26172,31 @@
    ],
    "topic": "ollie-family-ai-shutdown",
    "firstSeen": "2026-10-31T08:25:40+08:00"
+  },
+  {
+   "id": "97bdf7d618",
+   "title": "YC 新公司 Subvocal 发布「无声说话」眼镜：用射频感应读取默念时的面部肌肉动作，实时转成文字，速度超 200 字/分钟",
+   "summary": "YC 2026 秋季批次的 The Subvocal Company 在 Launch YC 上亮相：用户只需几乎无声地默念，眼镜通过低功率射频信号感知面部和发音肌肉的细微变化，再由模型直接解码成文字，不用摄像头、不读唇，也不受环境噪音影响。团队称从黑客松原型做到能解码开放式语句、200+ 字/分钟只用了约四个月，接下来要采集数千小时多人射频数据，做到任何人短暂校准即可使用。官网已开放 199 美元可退订金预订，预计 2027 年第一季度发货。YC 合伙人在 X 上称这是见过最疯狂的演示之一。信号：继语音输入之后，「静默语音」可能成为和 AI 交互的新输入方式，办公室、通勤等不方便出声的场景是切入点。",
+   "links": [
+    "https://www.ycombinator.com/launches/Wf9-the-subvocal-company-talk-without-talking",
+    "https://subvocal.company/",
+    "https://x.com/i/trending/2116283596353032498"
+   ],
+   "topic": "subvocal-silent-speech-glasses",
+   "firstSeen": "2026-10-31T09:02:31+08:00"
+  },
+  {
+   "id": "b66c6b7255",
+   "title": "OpenAI 据报把本轮融资目标从 300 亿美元下调到 200 亿美元，估值维持 1.25 万亿美元，科技股抛售下 AI 资金热度降温",
+   "summary": "据《金融时报》报道（经 X 新闻汇总），受科技股下跌和外界对 AI 开支成本的担忧影响，OpenAI 把正在进行的这轮私募融资目标从 300 亿美元下调至 200 亿美元，估值仍为 1.25 万亿美元。此前一周 OpenAI 已因部分投资人抵触，把估值目标从 1.4 万亿美元降到 1.25 万亿美元。阿联酋 MGX 牵头的财团、软银、红杉等仍在投资人之列，这笔钱被视为 2027 年 IPO 前的过桥资金。同一天 Anthropic 被曝上市后恐拿到「垃圾级」信用评级。信号：头部 AI 公司的融资条件开始变紧，市场从「不计代价押注」转向关注成本和回报。",
+   "links": [
+    "https://x.com/i/trending/2116329106170355944",
+    "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc",
+    "https://www.bloomberg.com/news/articles/2026-10-22/openai-shifts-value-to-1-25-trillion-as-funding-talks-finalize"
+   ],
+   "topic": "openai-funding-cut-20b",
+   "firstSeen": "2026-10-31T09:02:31+08:00"
   }
  ],
- "lastChecked": "2026-10-31T08:25:40+08:00"
+ "lastChecked": "2026-10-31T09:02:31+08:00"
 }
