@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T11:25:32+08:00",
+ "lastUpdated": "2026-10-31T11:39:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26357,7 +26357,40 @@
    ],
    "topic": "scribd-security-incident-2026-10",
    "firstSeen": "2026-10-31T11:25:32+08:00"
+  },
+  {
+   "id": "205a002f86",
+   "title": "OpenAI、谷歌、微软、Anthropic 同意采用统一「拒绝 AI 抓取」标准：网站在 robots.txt 写一个通用令牌，就能一次性拒绝多家 AI 训练爬虫",
+   "summary": "据 The Verge 10 月 30 日报道，四家公司表示将支持由 Anthropic 标准技术负责人 Kevin Kelley 在 IETF 提出的共享「policy token」信号：它写在网站的 robots.txt 里，发布方只需设置一次 AI 训练偏好，就能同时对多家 AI 公司生效，不必再逐家单独配置。Anthropic 已经上线支持，谷歌和微软计划明年支持，OpenAI 称「未来几个月」实现；微软还会提供更细的选项，可分别拒绝训练或拒绝「grounding」引用，且不影响 Bing 搜索收录。Meta 表态支持这一方向，但没说是否会遵守。此前出版方只能靠 RSL 授权收费标准或 Cloudflare 默认拦截等办法对抗 AI 爬虫。",
+   "links": [
+    "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "https://www.techmeme.com/261030/p27#a261030p27"
+   ],
+   "topic": "ietf-ai-training-opt-out-policy-token-2026-10-30",
+   "firstSeen": "2026-10-31T11:39:51+08:00"
+  },
+  {
+   "id": "b462cca3f8",
+   "title": "降低 AI 芯片功耗的初创公司 Powerlattice 新融 8600 万美元：把供电芯粒塞进处理器封装，号称能省一半以上电",
+   "summary": "GeekWire 10 月 30 日根据 SEC 文件报道，总部在美国华盛顿州温哥华的 Powerlattice 已融资 8600 万美元，本轮目标 1.11 亿美元、已有 18 位投资者参与，几乎是其去年出隐身时累计 3100 万美元的三倍。董事会成员包括前英特尔 CEO Pat Gelsinger（Playground Global 合伙人）。公司做的是「供电芯粒」：放在处理器封装内，缩短电流路径以减少损耗，称可降低 50% 以上能耗；本周还宣布演示了业界首个单片集成电压调节器芯粒。Gelsinger 此前的说法是「AI 不缺资本，缺的是电」，数据中心供电和散热上限正成为算力扩张的瓶颈。",
+   "links": [
+    "https://www.geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/",
+    "https://www.techmeme.com/261030/p28#a261030p28"
+   ],
+   "topic": "powerlattice-86m-power-chiplet-2026-10-30",
+   "firstSeen": "2026-10-31T11:39:51+08:00"
+  },
+  {
+   "id": "1990762fb8",
+   "title": "「最盛产创业者的地方」排行刷屏：Palantir 每千名员工出 16.5 位风投支持的创始人居首，斯坦福第二、雅虎意外第三",
+   "summary": "投资人 Deedy Das 10 月 30 日在 X 发布「创始人人才密度」Top 50 榜单，按每 1000 名员工（或学生）中走出多少位拿到顶级机构种子轮或 A 轮的创始人排序：Palantir 以 16.5 位居首，斯坦福 14.2 位第二，雅虎 10.6 位第三；只统计至少有 25 位这类创始人、规模在 1000 人以上的机构。帖子已有约 59 万次浏览、近 2000 次收藏。Palantir 员工自嘲这是比任何学位都值钱的「Palantir 学位」，评论普遍认为其让员工独立负责难题的文化培养了创业能力，而大型科技公司排名反而靠后。",
+   "links": [
+    "https://x.com/deedydas/status/2116199347285377046",
+    "https://x.com/i/trending/2116262313640501393"
+   ],
+   "topic": "deedy-founder-density-palantir-2026-10-30",
+   "firstSeen": "2026-10-31T11:39:51+08:00"
   }
  ],
- "lastChecked": "2026-10-31T11:25:32+08:00"
+ "lastChecked": "2026-10-31T11:39:51+08:00"
 }
