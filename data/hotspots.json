@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T10:11:24+08:00",
+ "lastUpdated": "2026-10-31T10:27:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26267,7 +26267,19 @@
    ],
    "topic": "cfsolve-turnstile-solver-rust-2026-10-30",
    "firstSeen": "2026-10-31T10:11:24+08:00"
+  },
+  {
+   "id": "e09bbfea4b",
+   "title": "教皇利奥十四世呼吁给 AI「缴械」：机器是工具不是人，涉及生命、自由和武力的决定绝不能交给 AI，敦促 11 月日内瓦会议禁止自主杀伤武器",
+   "summary": "10 月 30 日教皇在梵蒂冈接见宗座生命科学院与未来生命研究所（FLI）联合会议的 AI 专家，提出五点：AI 的未来并非注定、机器不应获得权利或法律人格、生命与武力相关决定须保留有效的人类监督、AI 应服务共同利益，以及最紧迫的是建立有共同标准、独立监督和问责机制的国际机构。他点名鼓励各国在 11 月日内瓦会议上推动禁止致命自主武器。对 AI 公司而言，这意味着「AI 人格/权利」叙事和军事化应用将面临更强的伦理与监管舆论压力。",
+   "links": [
+    "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/30/261030e.html",
+    "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+    "https://apnews.com/article/vatican-pope-ai-artificial-intelligence-30ea6f1d6877bc1ec957cd9dcf47cef3"
+   ],
+   "topic": "pope-leo-disarm-ai-2026-10-30",
+   "firstSeen": "2026-10-31T10:27:07+08:00"
   }
  ],
- "lastChecked": "2026-10-31T10:11:24+08:00"
+ "lastChecked": "2026-10-31T10:27:07+08:00"
 }
