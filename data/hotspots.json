@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T04:38:07+08:00",
+ "lastUpdated": "2026-11-01T05:12:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26950,7 +26950,18 @@
    ],
    "topic": "pivot-memory-latency-groupby-2026-10-31",
    "firstSeen": "2026-11-01T04:38:07+08:00"
+  },
+  {
+   "id": "ba122e60f9",
+   "title": "研究者控诉 Anthropic：用 Claude 辅助训练实验即被判「训练竞品」，Opus 5.5 被降级、会话被直接掐断",
+   "summary": "研究者 @jiahaoshao1 10 月 31 日在 X 上发帖指责 Anthropic：他称自己从未蒸馏 Claude，训练数据来自一个强开源模型，Claude 只是帮他提交任务和做分析，却仍被标记为「训练竞争模型」。此后只要对话涉及 RFT、SFT 或训练更大模型，就会被拦截、把 Opus 5.5 降级成 Opus 5，甚至整个会话被终止。他批评 Anthropic 用全世界的数据训练模型，却把付费做研究自动化的用户当敌人。帖子当天登上 Hacker News 首页，引发「AI 厂商的使用条款能否限制用户做模型训练研究」的讨论，也提醒依赖闭源模型做 ML 研究自动化的团队需要准备备用模型。",
+   "links": [
+    "https://x.com/jiahaoshao1/status/2116475922190922088",
+    "https://news.ycombinator.com/item?id=50319358"
+   ],
+   "topic": "anthropic-blocks-training-research-2026-10-31",
+   "firstSeen": "2026-11-01T05:12:43+08:00"
   }
  ],
- "lastChecked": "2026-11-01T04:38:07+08:00"
+ "lastChecked": "2026-11-01T05:12:43+08:00"
 }
