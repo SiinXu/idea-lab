@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T19:41:44+08:00",
+ "lastUpdated": "2026-10-31T20:01:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26684,7 +26684,19 @@
    ],
    "topic": "chatgpt-share-link-account-takeover-mathlive-2026-10-31",
    "firstSeen": "2026-10-31T19:41:44+08:00"
+  },
+  {
+   "id": "ec5c571f05",
+   "title": "Signal 第三方分支 Molly 三个多月未更新：10 月曝出的「挂断后音视频仍可继续传输」漏洞主线 Signal 已修，Molly 用户仍暴露",
+   "summary": "10 月 31 日 Lemmy/PieFed「You Should Know」社区发帖提醒：安卓上主打加固的 Signal 分支 Molly 最新版仍停在 7 月 31 日的 v8.19.2-4，而 10 月 22 日 Privacy Guides 披露的漏洞（安卓端挂断通话后音频乃至视频可能仍在继续传输）已在 Signal 8.27 修复，Molly 尚未跟进。发帖人建议在其恢复更新前改回官方 Signal。帖子登上 Hacker News，引发「第三方加固分支若跟不上上游安全补丁，反而更危险」的讨论。",
+   "links": [
+    "https://piefed.world/post/1503394",
+    "https://news.ycombinator.com/item?id=50314666",
+    "https://github.com/mollyim/mollyim-android/releases"
+   ],
+   "topic": "molly-signal-fork-unpatched-2026-10-31",
+   "firstSeen": "2026-10-31T20:01:18+08:00"
   }
  ],
- "lastChecked": "2026-10-31T19:41:44+08:00"
+ "lastChecked": "2026-10-31T20:01:18+08:00"
 }
