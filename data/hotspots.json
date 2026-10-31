@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T03:53:27+08:00",
+ "lastUpdated": "2026-11-01T04:29:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26927,7 +26927,19 @@
    ],
    "topic": "unslop-claude-skill-2026-10-31",
    "firstSeen": "2026-11-01T03:53:27+08:00"
+  },
+  {
+   "id": "a7e11bfba6",
+   "title": "Karpathy 用 Opus 5.5 两小时做出 HackerTube：只收录 HN 网友推荐过的 YouTube 视频",
+   "summary": "Andrej Karpathy 10 月 31 日（周六）发博文：前一晚他被 YouTube 首页夸张缩略图和低质推荐劝退，于是让 Claude Opus 5.5 动手做一个「只看 Hacker News 推荐视频」的 YouTube 克隆。Opus 下载了 HN 全部评论，用 Sonnet 跑工作流过滤垃圾和低质内容，从 2007–2026 年约 4 万条推荐评论中整理出 6454 个视频、覆盖 150 个主题，再套上 YouTube 式界面、买域名、部署到 VPS 并完成加固，整个过程约 2 小时。成品 hackertube.org 用视频 50% 处的截帧代替上传者缩略图，推荐只存在浏览器本地、无需账号，支持快捷键，还提供全站数据导出，方便别人交给自己的 Agent 做一个版本。帖子在 HN 发布半小时即上热榜，是「个人用 AI 一下午重做一个被算法搞坏的产品」的又一典型案例。",
+   "links": [
+    "https://karpathy.bearblog.dev/hacker-tube/",
+    "https://hackertube.org/",
+    "https://news.ycombinator.com/item?id=50319510"
+   ],
+   "topic": "karpathy-hackertube-2026-10-31",
+   "firstSeen": "2026-11-01T04:29:41+08:00"
   }
  ],
- "lastChecked": "2026-11-01T03:53:27+08:00"
+ "lastChecked": "2026-11-01T04:29:41+08:00"
 }
