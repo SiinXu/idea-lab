@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T15:25:30+08:00",
+ "lastUpdated": "2026-10-31T16:09:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26520,7 +26520,17 @@
    ],
    "topic": "hostinger-paranjoy-takedown-2026-10-31",
    "firstSeen": "2026-10-31T15:25:30+08:00"
+  },
+  {
+   "id": "cdb3c3af95",
+   "title": "Matt Shumer：别再给 AI 智能体自造 Harness，直接用模型原生运行环境（如 Claude Code）+ 写清楚提示词更有效",
+   "summary": "AI 创业者 Matt Shumer 在 X 上直言，为大模型智能体自行搭建定制 Harness（循环、工具调用、记忆等运行框架）往往是浪费时间，建议直接用模型自带或官方的现成环境，把精力放在用平实语言写清楚指令上。讨论中不少开发者附和：像 Opus 5.5 这类模型在原生 Harness 里表现最好，换到别的框架就变得粗糙；真正的提升来自重写提示词而非复杂工程。同时一篇新学术综述梳理了 11 个系统的 Harness 设计，主流建议是大多数任务先用现成 Harness，只有需要精确控制时再引入框架。",
+   "links": [
+    "https://x.com/i/trending/2116440341721272626"
+   ],
+   "topic": "shumer-skip-custom-harness-2026-10-31",
+   "firstSeen": "2026-10-31T16:09:28+08:00"
   }
  ],
- "lastChecked": "2026-10-31T15:25:30+08:00"
+ "lastChecked": "2026-10-31T16:09:28+08:00"
 }
