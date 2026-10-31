@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T03:40:59+08:00",
+ "lastUpdated": "2026-11-01T03:53:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26905,7 +26905,29 @@
    ],
    "topic": "",
    "firstSeen": "2026-11-01T03:40:59+08:00"
+  },
+  {
+   "id": "76e502c4eb",
+   "title": "DeepSeek 开源「超级智能体」原型 dsh-superagent：常驻 GitHub 仓库的主动式编程 Agent，上线半天近 1900 星",
+   "summary": "DeepSeek 团队 10 月 31 日在 GitHub 公开 dsh-superagent 研究原型（非正式产品），配套文章《Exploring Super-agent Design: Towards a More Autonomous Agent System》。它以 DeepSeek Harness 插件包形式运行，监听某个 GitHub 仓库（可选飞书），被授权的人提需求后自动开工作项、在独立会话和目录里干活，并在原对话里回复结果，例如直接提交 PR；网页面板只展示需要人处理的事项。核心理念是「占用尽量少的人类注意力、交付尽量多的价值」：只在被请求或团队规则允许时行动，只在有人必须介入时发声。仓库称大量工程由编码 Agent 完成，代码风格可能不一，建议审阅后再用。发布当天即获近 1900 星，是国产大模型厂商在「团队级自治编程 Agent」方向的首个公开参考实现。",
+   "links": [
+    "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "https://www.deepseek.com/en/harness/"
+   ],
+   "topic": "deepseek-dsh-superagent-2026-10-31",
+   "firstSeen": "2026-11-01T03:53:27+08:00"
+  },
+  {
+   "id": "9aab5ec375",
+   "title": "Claude 技能 unslop 爆红：一键把「AI 味」浓重的 vibecoding 界面改成有设计感的 UI，两天 3000 星",
+   "summary": "开发者 Damir Sokolovsky（@heydamir）10 月 29 日开源 unslop，这是一个 Claude Code 技能，专治 AI 生成界面的通病：紫色渐变、发光效果、emoji 标签、喊叫式文案和不均匀间距。它先找出这些「AI 糊弄感」，再根据产品定位确定设计方向，像设计师做红线评审一样逐轮修改屏幕；支持 Next.js、React、Vue、Svelte、Tailwind 和纯 HTML/CSS，可处理仪表盘、App 和落地页，甚至只给一个线上网址也能分析。项目源自作者在 X 上的「Unslopping」系列帖子，两天内 GitHub 星标突破 3000，反映出 vibecoding 普及后「去 AI 味」设计正成为新的刚需。",
+   "links": [
+    "https://github.com/heydamir/unslop",
+    "https://x.com/heydamir/status/2115063463063998736"
+   ],
+   "topic": "unslop-claude-skill-2026-10-31",
+   "firstSeen": "2026-11-01T03:53:27+08:00"
   }
  ],
- "lastChecked": "2026-11-01T03:40:59+08:00"
+ "lastChecked": "2026-11-01T03:53:27+08:00"
 }
