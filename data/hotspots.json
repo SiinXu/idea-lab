@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T20:32:07+08:00",
+ "lastUpdated": "2026-10-31T21:02:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26707,7 +26707,18 @@
    ],
    "topic": "orkas-desktop-ai-team-2026-10-31",
    "firstSeen": "2026-10-31T20:32:07+08:00"
+  },
+  {
+   "id": "83b625cc02",
+   "title": "开源 Mac 菜单栏工具箱 Vorssaint 登上 GitHub 日榜：一个图标顶替十几款付费 Mac 小工具，按需安装",
+   "summary": "Vorssaint（vorssaint-utils）是 GPL-3.0 开源、用 Swift 写的 macOS 菜单栏工具集，主打「一个菜单栏图标干十几个付费 Mac 应用的活，只装你用得到的模块」，默认本地运行、注重隐私，支持 macOS 14 以上的 Apple Silicon 机型，靠捐赠维持。10 月 31 日出现在 GitHub 每日趋势榜，总星数约 3.15 万，反映出用户对替代付费小工具订阅的开源方案需求旺盛。",
+   "links": [
+    "https://github.com/vorssaint/vorssaint-utils",
+    "https://vorssaint.com"
+   ],
+   "topic": "vorssaint-mac-menubar-toolkit-2026-10-31",
+   "firstSeen": "2026-10-31T21:02:35+08:00"
   }
  ],
- "lastChecked": "2026-10-31T20:32:07+08:00"
+ "lastChecked": "2026-10-31T21:02:35+08:00"
 }
