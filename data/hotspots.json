@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T15:09:31+08:00",
+ "lastUpdated": "2026-10-31T15:25:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26496,7 +26496,31 @@
    ],
    "topic": "ai-animated-englishman-in-new-york-2026-10-31",
    "firstSeen": "2026-10-31T15:09:31+08:00"
+  },
+  {
+   "id": "bb97200aaa",
+   "title": "导演莱恩·约翰逊把《利刃出鞘》电影调色搬上 iPhone：Chromagraph Camera 售价 12.99 美元，冲上美区付费摄影榜第一",
+   "summary": "《利刃出鞘》《星球大战：最后的绝地武士》导演 Rian Johnson 与御用摄影师 Steve Yedlin、色彩科学开发者 Eric Cameron 推出 iPhone 拍照 App Chromagraph Camera：直接拍 RAW、绕过 iPhone 自带的计算摄影处理，改用他们电影里的色彩、影调、颗粒和光晕（halation）算法，拍完在图库里才看到成片效果，原始 RAW 保留可反复调整。一次性买断 12.99 美元、仅支持 iOS 17+ 且只拍静态照片。Johnson 在 X 的宣布帖一天约 600 万浏览，App 登上美区 App Store 摄影与录像付费榜第一。这是「名人/专业审美 + 小工具买断制」打爆的又一个样本。",
+   "links": [
+    "https://www.macrumors.com/2026/10/30/rian-johnson-iphone-camera-app/",
+    "https://apps.apple.com/us/app/chromagraph-camera/id6803329435",
+    "https://x.com/i/trending/2116259370375758166"
+   ],
+   "topic": "chromagraph-camera-rian-johnson-2026-10-31",
+   "firstSeen": "2026-10-31T15:25:30+08:00"
+  },
+  {
+   "id": "b653a35182",
+   "title": "Hostinger 未经通知下线印度记者 Paranjoy Guha Thakurta 运营 12 年的网站：以「欺诈」投诉为由封停整个账户，起因疑为一篇被法院要求删除的旧文",
+   "summary": "10 月 28 日，主机商 Hostinger 突然下线印度资深记者 Paranjoy Guha Thakurta 的 paranjoy.in 及所有子域名。几天前，Indiabulls Nests 及其创始人从德里法院拿到单方临时禁令，要求删除其网站上一篇 2019 年的文章。Hostinger 客服称封停源于一份「欺诈/诈骗」类滥用举报，且「不可协商」，但并未提及法院命令；记者出示 VirusTotal 92 家厂商、Google 安全浏览均无风险的检测结果，批评这是借托管商实施的「后门审查」。事件在 X 上引发关于新闻自由和「独立站要多处备份、别把档案押在单一主机商」的讨论，目前网站似已恢复。",
+   "links": [
+    "https://timelinedaily.com/media/journalist-paranjoy-guha-thakurta-s-12-year-old-archive-vanishes-after-host-cites-fraud-report",
+    "https://countercurrents.org/2026/10/the-arbitrary-takedown-of-paranjoy-guha-thakurtas-website-is-an-attack-on-press-freedom/",
+    "https://x.com/i/trending/2116390758194217015"
+   ],
+   "topic": "hostinger-paranjoy-takedown-2026-10-31",
+   "firstSeen": "2026-10-31T15:25:30+08:00"
   }
  ],
- "lastChecked": "2026-10-31T15:09:31+08:00"
+ "lastChecked": "2026-10-31T15:25:30+08:00"
 }
