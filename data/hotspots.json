@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T17:57:46+08:00",
+ "lastUpdated": "2026-10-31T18:10:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26641,7 +26641,18 @@
    ],
    "topic": "germany-ai-tax-2026-10-31",
    "firstSeen": "2026-10-31T17:57:46+08:00"
+  },
+  {
+   "id": "73acf00ea1",
+   "title": "Vitalik 发长文《数字极简主义》：弃用 X 原生界面改用无算法多端客户端 Firefly，手机开飞行模式生活 100 天，主张用本地小模型和离线知识包重回 Unix 哲学",
+   "summary": "以太坊创始人 Vitalik Buterin 10 月 31 日发布博客《Digital minimalism》，分享一年来的数字极简实验：不退出 X，但改用聚合 X、Bluesky、Farcaster、Lens 的多端客户端 Firefly 发帖浏览，没有推荐算法后情绪明显变好；连续 100 天手机默认飞行模式只用 Wi-Fi，以减少运营商位置追踪，导航改用基于 OpenStreetMap 的离线地图 CoMaps，并资助离线「世界知识包」应用（压缩后的英文维基百科仅约 27GB）。他认为大模型能让普通人用自然语言指挥电脑，把决策权交回用户、回到 Unix 哲学，本地离线 AI 正是这波数字极简的技术基础。文章发布数小时即登上 Hacker News 首页。",
+   "links": [
+    "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+    "https://news.ycombinator.com/item?id=50313661"
+   ],
+   "topic": "vitalik-digital-minimalism-2026-10-31",
+   "firstSeen": "2026-10-31T18:10:12+08:00"
   }
  ],
- "lastChecked": "2026-10-31T17:57:46+08:00"
+ "lastChecked": "2026-10-31T18:10:12+08:00"
 }
