@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T05:12:43+08:00",
+ "lastUpdated": "2026-11-01T05:27:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26961,7 +26961,29 @@
    ],
    "topic": "anthropic-blocks-training-research-2026-10-31",
    "firstSeen": "2026-11-01T05:12:43+08:00"
+  },
+  {
+   "id": "3ed0477a44",
+   "title": "AI 设计的硬件开源：Koppar 用一页需求文档生成 USB-C LTE 调制解调器，让电脑和 AI 代理拥有自己的电话线",
+   "summary": "10 月 31 日 Show HN 项目：Koppar-AI 开源了一块 85×65 毫米的四层 KiCad 电路板，插入 nano-SIM、接一根 USB-C 线，电脑就能获得 LTE 上网、收发短信和语音通话能力，通话音频通过板载 RP2040 以 USB 声卡形式输出，可以用耳机接听，也可以把来电交给脚本或 AI 代理处理。主模块为 Quectel EC25-EUX（欧洲频段），仓库附带原理图、Gerber、JLCPCB 贴片 BOM 和逐件对照数据手册的设计评审文档。卖点在于整块板由 Koppar 的 AI 根据一页 spec.txt 设计，再由人工复核，是「AI 做硬件设计」与「给 AI 代理接入真实电话号码」两条趋势的交汇。",
+   "links": [
+    "https://github.com/Koppar-AI/koppar-lte-modem",
+    "https://news.ycombinator.com/item?id=50317331"
+   ],
+   "topic": "koppar-ai-lte-modem-2026-10-31",
+   "firstSeen": "2026-11-01T05:27:46+08:00"
+  },
+  {
+   "id": "14074b4203",
+   "title": "把语言模型塞进 512 字节引导扇区：bootgpt 让一台 386 开机就「梦见」Linux 启动日志",
+   "summary": "开发者 kerlenton 10 月 31 日在 Show HN 发布 bootgpt：主引导记录里是 512 字节手写汇编，从后续 23 个扇区读入 11.5KB 的 int8 量化模型，在 16 位实模式下不依赖任何操作系统和 C 运行库完成推理，开机后生成以假乱真的 dmesg 启动日志。模型只有 8 个字符上下文和一层隐藏层，训练脚本会逐位模拟汇编里的整数运算，Python 输出与引导扇区输出逐字一致；镜像可直接写入 U 盘在 BIOS 电脑上启动。延续了引导扇区国际象棋、bootOS、sectorc 等极限编程传统，是「极小模型 + 复古硬件」的趣味演示。",
+   "links": [
+    "https://github.com/kerlenton/bootgpt",
+    "https://news.ycombinator.com/item?id=50315782"
+   ],
+   "topic": "bootgpt-boot-sector-lm-2026-10-31",
+   "firstSeen": "2026-11-01T05:27:46+08:00"
   }
  ],
- "lastChecked": "2026-11-01T05:12:43+08:00"
+ "lastChecked": "2026-11-01T05:27:46+08:00"
 }
