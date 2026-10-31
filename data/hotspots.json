@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T18:42:07+08:00",
+ "lastUpdated": "2026-10-31T19:12:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26662,7 +26662,18 @@
    ],
    "topic": "opus-5-5-reasoning-level-high-vs-xhigh-2026-10-31",
    "firstSeen": "2026-10-31T18:42:07+08:00"
+  },
+  {
+   "id": "cec251ad18",
+   "title": "T3 Code 加入「旁聊」和 /btw 命令：主任务跑着时另开侧边对话问问题，不打断编程代理，支持任意模型和代理框架",
+   "summary": "Theo（t3.gg）10 月 31 日在 X 宣布开源编程代理界面 T3 Code 支持 side chats（旁聊）和 /btw 命令：在 Claude Code、Codex 等代理执行主任务时，可以另起一个侧边对话随口提问或补充信息，而不污染主线程上下文，且适用于任何模型和 harness。这是他「每日更新」系列的第 31 天，Theo 自嘲「我妥协了」，帖子几小时内近千赞、上百条回复，开发者讨论多代理并行时如何保持界面简洁。",
+   "links": [
+    "https://x.com/theo/status/2116446018506236371",
+    "https://x.com/i/trending/2116482370702315546"
+   ],
+   "topic": "t3-code-side-chats-btw-2026-10-31",
+   "firstSeen": "2026-10-31T19:12:08+08:00"
   }
  ],
- "lastChecked": "2026-10-31T18:42:07+08:00"
+ "lastChecked": "2026-10-31T19:12:08+08:00"
 }
