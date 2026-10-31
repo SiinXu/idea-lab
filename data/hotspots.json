@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T00:01:58+08:00",
+ "lastUpdated": "2026-11-01T00:55:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26828,7 +26828,18 @@
    ],
    "topic": "talos-volta-infostealer-llm-victim-ranking-2026-10-31",
    "firstSeen": "2026-11-01T00:01:58+08:00"
+  },
+  {
+   "id": "810faf01d5",
+   "title": "Jepsen 测评「为 AI 设计」的数据库 ParticleDB：号称完全 ACID，却查出 96 个问题，最强隔离级别下仍会丢写入",
+   "summary": "分布式系统测试专家 Kyle Kingsbury 10 月 31 日发布 Jepsen 报告，测试 Orkes 公司为 AI 智能体和应用打造的多模数据库 ParticleDB（Rust 编写，兼容 Postgres/Redis 协议，集事务 SQL、KV、向量检索、实时分析于一体，宣称比 Postgres 快几个数量级且同样安全）。从 1.1.4 到 1.1.18 候选版共发现 96 个问题：崩溃、死锁、数据丢失，以及删不掉的「半隐形行」、WHERE 4 = 5 成立、被删的表以扭曲形态复活、字符串变整数等离奇错误，多数只需单机单客户端、无需故障注入即可复现。到最新测试版大部分已修复，但默认 OCC 事务模式下仍会丢失已提交写入，serializable 级别下仍有丢失更新。Orkes 称新版已全部修复；本次测试由 Orkes 出资。话题登上 Hacker News，提醒「AI 原生数据库」的一致性承诺需要独立验证。",
+   "links": [
+    "https://jepsen.io/analyses/particledb-1.1.4",
+    "https://news.ycombinator.com/item?id=50316100"
+   ],
+   "topic": "jepsen-particledb-acid-2026-10-31",
+   "firstSeen": "2026-11-01T00:55:47+08:00"
   }
  ],
- "lastChecked": "2026-11-01T00:01:58+08:00"
+ "lastChecked": "2026-11-01T00:55:47+08:00"
 }
