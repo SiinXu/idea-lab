@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T14:42:26+08:00",
+ "lastUpdated": "2026-10-31T15:09:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26486,7 +26486,17 @@
    ],
    "topic": "nasdaq-tech-selloff-940b-2026-10-30",
    "firstSeen": "2026-10-31T14:42:26+08:00"
+  },
+  {
+   "id": "cf3a3c7f6d",
+   "title": "AI 动画短片《Englishman in New York》两小时破百万播放：创作者用 Midjourney 8.2 设计角色、Seedance 2.5 做动画、Krea 合成",
+   "summary": "创作者 @antrofrog_ 发布一段 47 秒的 2D 动画短片，配乐是 Sting 的经典老歌：一位绅士端着咖啡走在纽约街头，顺手帮遛狗人解开缠住的牵绳、帮街头艺人解围。角色设计用 Midjourney 8.2，动画用 Seedance 2.5，最后在 Krea 里拼合成片。短片发布两小时播放量破百万、点赞超 20 万。支持者称赞它温暖、手艺成熟、门槛低；反 AI 的声音则仍然称之为「slop」。这是「多工具串联做完整 AI 短片」工作流走向大众的又一个样本。",
+   "links": [
+    "https://x.com/i/trending/2116162259206488551"
+   ],
+   "topic": "ai-animated-englishman-in-new-york-2026-10-31",
+   "firstSeen": "2026-10-31T15:09:31+08:00"
   }
  ],
- "lastChecked": "2026-10-31T14:42:26+08:00"
+ "lastChecked": "2026-10-31T15:09:31+08:00"
 }
