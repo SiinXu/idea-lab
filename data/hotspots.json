@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T10:00:52+08:00",
+ "lastUpdated": "2026-10-31T10:11:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26227,7 +26227,47 @@
    ],
    "topic": "google-ai-overviews-pullback-rumor-2026-10-30",
    "firstSeen": "2026-10-31T10:00:52+08:00"
+  },
+  {
+   "id": "3f4aebc399",
+   "title": "Anthropic 用 Claude 把核心 Messages API 从 Python 重写成 Rust：团队没有 Rust 专家，上线后 CPU 占用降 40–50%",
+   "summary": "Anthropic 平台工程负责人 Katelyn Lesse 在 Latent Space 播客中介绍：人负责架构设计，Claude 生成了大部分 Rust 代码；新旧两版在真实流量上并行运行、逐条比对输出一致后才切换。结果 CPU 消耗下降 40–50%，首 token 延迟改善 10–20%。这被视为「AI 让大型迁移变得可行，但前提是有严格验证」的标杆案例。",
+   "links": [
+    "https://x.com/i/trending/2116344128724455734"
+   ],
+   "topic": "anthropic-messages-api-rust-port-claude-2026-10-30",
+   "firstSeen": "2026-10-31T10:11:24+08:00"
+  },
+  {
+   "id": "e88b0e306e",
+   "title": "VoiceArena 推出 Turing TTS 基准：让人从真人和 AI 语音里挑出真人，谷歌 Gemini 3.8 Flash TTS「骗过率」仅 10.5% 仍居榜首",
+   "summary": "不同于让模型两两比拼的偏好排行榜，Turing TTS 以真人录音为基线，统计听众把 AI 声音误认为真人的比例（Fool Rate）。目前最好的 Gemini 3.8 Flash TTS 也只有 10.5% 的骗过率，说明顶级语音模型仍容易被听出来。对做配音、有声书和语音客服的产品来说，这是一个更贴近真实体验的评测维度。",
+   "links": [
+    "https://x.com/i/trending/2116319406649122984"
+   ],
+   "topic": "turing-tts-fool-rate-benchmark-2026-10-30",
+   "firstSeen": "2026-10-31T10:11:24+08:00"
+  },
+  {
+   "id": "1052f7f77a",
+   "title": "美国教育部用 AI 改画插画师的《降世神通》同人作品当宣传图，作者称从未授权，引发版权与 AI 争议",
+   "summary": "插画师 Devin Elle Kurtz 发现自己的安昂与祖寇火焰对决图被美国教育部账号用 AI 改动：删掉龙、改了石台，还加上「学习中有魔法」等口号。反对生成式 AI 的作者公开表示绝不会同意这种用法，网友讽刺像「火烧国宣传画」。教育部未直接回应，并继续发布类似内容，政府机构使用 AI 改图的版权边界再成焦点。",
+   "links": [
+    "https://x.com/i/trending/2115892611676340270"
+   ],
+   "topic": "us-education-dept-ai-altered-fan-art-2026-10-30",
+   "firstSeen": "2026-10-31T10:11:24+08:00"
+  },
+  {
+   "id": "4ea719f27d",
+   "title": "开源 Rust 库 cfsolve 登上 HN：不用无头浏览器即可通过 Cloudflare Turnstile 验证并拿到 cf_clearance",
+   "summary": "cfsolve 通过伪装特定浏览器指纹（自带 iOS Safari 配置）并回放录制的浏览器检测响应，直接求解 Turnstile 小组件和挑战页，返回 token 或 cf_clearance Cookie。作者提供抓包代理辅助制作新指纹配置。项目在 Hacker News 引发关于反爬机制可靠性的讨论，依赖 Turnstile 防机器人的网站需关注服务端校验与风控补强。",
+   "links": [
+    "https://github.com/chris124567/cfsolve"
+   ],
+   "topic": "cfsolve-turnstile-solver-rust-2026-10-30",
+   "firstSeen": "2026-10-31T10:11:24+08:00"
   }
  ],
- "lastChecked": "2026-10-31T10:00:52+08:00"
+ "lastChecked": "2026-10-31T10:11:24+08:00"
 }
