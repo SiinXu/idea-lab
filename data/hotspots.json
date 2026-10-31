@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T01:12:41+08:00",
+ "lastUpdated": "2026-11-01T02:40:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26850,7 +26850,18 @@
    ],
    "topic": "voyager1-one-light-day-2026-11-18",
    "firstSeen": "2026-11-01T01:12:41+08:00"
+  },
+  {
+   "id": "493d74a6bc",
+   "title": "亚马逊公开内部「AI 时代开发者角色」长文引发寒意：The Register 专栏称软件工程师对职业前景普遍悲观",
+   "summary": "The Register 10 月 31 日刊发云成本专家 Corey Quinn 的专栏：亚马逊本周公开了一篇由其杰出工程师（独立贡献者技术职级最高层）撰写、9 月起在内部发给工程师和经理的长文，谈 AI 时代开发者的角色。Quinn 认为文章本身不错，但读来像是在给前景黯淡的软件工程职业「打气」，并提出一个检验企业 AI 强推政策是否靠谱的简单标准：当工程师记录下「AI 让这项任务变得更糟」时，是被认真对待，还是被边缘化甚至劝退。话题登上 Hacker News。",
+   "links": [
+    "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
+    "https://news.ycombinator.com/item?id=50318063"
+   ],
+   "topic": "amazon-ai-developer-role-memo-register-2026-10-31",
+   "firstSeen": "2026-11-01T02:40:34+08:00"
   }
  ],
- "lastChecked": "2026-11-01T01:12:41+08:00"
+ "lastChecked": "2026-11-01T02:40:34+08:00"
 }
