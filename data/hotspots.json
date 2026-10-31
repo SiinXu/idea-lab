@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T05:27:46+08:00",
+ "lastUpdated": "2026-11-01T05:38:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26983,7 +26983,18 @@
    ],
    "topic": "bootgpt-boot-sector-lm-2026-10-31",
    "firstSeen": "2026-11-01T05:27:46+08:00"
+  },
+  {
+   "id": "71145972f1",
+   "title": "Anthropic 悄悄收紧 Claude：拒绝游戏逆向、反编译与 Mod 开发，连正规游戏开发者的排错也受波及",
+   "summary": "Mashable 10 月 31 日援引 Tom's Hardware 报道：Claude 近期在未发公告的情况下开始拒绝修改、反编译或逆向游戏代码的请求。背景是 AI 让游戏反编译和移植门槛骤降——把马里奥塞进《艾尔登法环》、把《魔兽世界》《GTA 罪恶都市》移植到浏览器，以及 PS5 越狱后跨平台运行 Xbox、任天堂独占作品——版权方诉讼风险陡增。报道指出限制范围过宽，已影响正规开发者的日常排错；评论也讽刺 AI 公司一边用全网数据训练、一边突然重视版权，并担心用户会流向限制更少的模型。与同日「训练竞品即被降级」的争议叠加，Claude 使用策略收紧正成为开发者圈焦点。",
+   "links": [
+    "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+    "https://news.ycombinator.com/item?id=50320255"
+   ],
+   "topic": "anthropic-claude-blocks-game-reverse-engineering-2026-10-31",
+   "firstSeen": "2026-11-01T05:38:29+08:00"
   }
  ],
- "lastChecked": "2026-11-01T05:27:46+08:00"
+ "lastChecked": "2026-11-01T05:38:29+08:00"
 }
