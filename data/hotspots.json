@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T05:38:29+08:00",
+ "lastUpdated": "2026-11-01T05:52:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26994,7 +26994,18 @@
    ],
    "topic": "anthropic-claude-blocks-game-reverse-engineering-2026-10-31",
    "firstSeen": "2026-11-01T05:38:29+08:00"
+  },
+  {
+   "id": "f9b76a950f",
+   "title": "Show HN：1987 年 NES《魂斗罗》原生移植进浏览器——汇编转 C、再编译成 WebAssembly，支持联机双打",
+   "summary": "开发者在 Hacker News 发布 NES 版《魂斗罗》（Contra, 1987）的原生移植：先把原版 6502 汇编翻译成 C，再编译为 WebAssembly 直接在浏览器运行，不依赖模拟器，并支持复制邀请链接进行在线双人联机。评论区在调侃 A/B 键位被弄反、讨论日版是否更好，也提到把 NES 游戏转成 3D 体素的 3dSen。与同日 Claude 收紧游戏逆向的争议形成对照：旧游戏「反编译—重写—移植到 Web」的门槛正在快速下降。",
+   "links": [
+    "https://epoyraz.github.io/nes-contra-us/",
+    "https://news.ycombinator.com/item?id=50319169"
+   ],
+   "topic": "nes-contra-asm-c-wasm-port-2026-10-31",
+   "firstSeen": "2026-11-01T05:52:50+08:00"
   }
  ],
- "lastChecked": "2026-11-01T05:38:29+08:00"
+ "lastChecked": "2026-11-01T05:52:50+08:00"
 }
