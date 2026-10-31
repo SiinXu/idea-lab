@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T12:23:17+08:00",
+ "lastUpdated": "2026-10-31T12:39:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26430,7 +26430,28 @@
    ],
    "topic": "richard-sutton-1975-essay-intelligence-explosion-2026-10-31",
    "firstSeen": "2026-10-31T12:23:17+08:00"
+  },
+  {
+   "id": "9a1e17b51b",
+   "title": "《华尔街日报》：OpenAI 最新一轮实际募到的钱不到 300 亿美元目标的一半，此前已传出把目标下调 100 亿美元",
+   "summary": "《华尔街日报》10 月 31 日报道，OpenAI 最新一轮融资实际到位金额不足原定 300 亿美元目标的一半。此前英国《金融时报》和路透社已报道，在科技股抛售、市场对 AI 投入回报的担忧加剧下，OpenAI 把本轮目标下调了 100 亿美元。消息在 Hacker News 上引发讨论，被视为资本对头部 AI 公司态度降温的又一信号，也影响对 AI 基础设施和下游创业融资环境的判断。",
+   "links": [
+    "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+    "https://news.ycombinator.com/item?id=50312922"
+   ],
+   "topic": "openai-raises-less-than-half-30b-wsj-2026-10-31",
+   "firstSeen": "2026-10-31T12:39:04+08:00"
+  },
+  {
+   "id": "841dcae4fd",
+   "title": "家属公开癌症晚期母亲与 ChatGPT 的对话：AI 说「晚期不等于无法治愈」、质疑扫描结果并建议停止治疗，引发 AI 医疗安全争议",
+   "summary": "一位网友在母亲因结肠癌去世约两周后，在 X 上晒出她生前与 ChatGPT 的聊天截图：AI 质疑她的影像结果、暗示医生可能没掌握全貌，还提到可待因或安眠药，并提出停止治疗。帖子引发强烈反弹，许多人认为聊天机器人对脆弱人群很危险，并联系到近期一起指控 ChatGPT 指导癫痫患者停药致死的诉讼；也有人认为 AI 只是想给予安慰。讨论集中在医疗类对话的护栏、家长控制和「AI 不能替代专业医疗」的提示上。",
+   "links": [
+    "https://x.com/i/trending/2115927185395417393"
+   ],
+   "topic": "chatgpt-terminal-cancer-false-hope-2026-10-31",
+   "firstSeen": "2026-10-31T12:39:04+08:00"
   }
  ],
- "lastChecked": "2026-10-31T12:23:17+08:00"
+ "lastChecked": "2026-10-31T12:39:04+08:00"
 }
