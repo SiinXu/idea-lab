@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T23:13:32+08:00",
+ "lastUpdated": "2026-10-31T23:27:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26806,7 +26806,18 @@
    ],
    "topic": "philly-professor-arrested-blocking-delivery-robot-2026-10-31",
    "firstSeen": "2026-10-31T23:13:32+08:00"
+  },
+  {
+   "id": "c5808ed67d",
+   "title": "前 Meta 研究员在证词中承认曾用 BT 下载盗版书数据集 Books3，后「因诉讼」删除",
+   "summary": "据 TorrentFreak 10 月 31 日报道，在作家 Sarah Silverman、Ta-Nehisi Coates 等起诉 Meta 用盗版书训练 Llama 的合并案中，原告称前 Meta FAIR 研究员 Stephen Roller（2017–2023 年在职）上周作证承认曾通过 BitTorrent 下载并分发包含近 20 万本书的 Books3 数据集，并表示 Meta 内部还有其他副本，约一年前他「因为这些诉讼」删掉了自己的拷贝。法院去年已裁定用书训练属合理使用，BT 下载成为案件剩余核心争议；本月法官刚要求 Meta 交出批准从影子图书馆下载的员工名单。Meta 反驳称 Roller 记不清下载时间，也没说是为 Meta 而下。原告还要求 Meta 提供内部名为「ML Books」的网盘文件夹和读书会记录。话题已上 Hacker News。",
+   "links": [
+    "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
+    "https://news.ycombinator.com/item?id=50316760"
+   ],
+   "topic": "meta-books3-torrent-testimony-2026-10-31",
+   "firstSeen": "2026-10-31T23:27:20+08:00"
   }
  ],
- "lastChecked": "2026-10-31T23:13:32+08:00"
+ "lastChecked": "2026-10-31T23:27:20+08:00"
 }
