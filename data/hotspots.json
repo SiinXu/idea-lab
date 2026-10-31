@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T10:27:07+08:00",
+ "lastUpdated": "2026-10-31T10:47:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26279,7 +26279,30 @@
    ],
    "topic": "pope-leo-disarm-ai-2026-10-30",
    "firstSeen": "2026-10-31T10:27:07+08:00"
+  },
+  {
+   "id": "4bdccd60bf",
+   "title": "Wiz 定性「黑色十月」：一个月内至少 9 家 AI 开发平台被攻破，被盗 AI 密钥流入转售市场，两把密钥 2 天内被刷约 250 万次 Bedrock 调用",
+   "summary": "Wiz 10 月 30 日汇总：Fireworks AI、Andromeda、Zeabur、Lightning AI、OpenCode、Railway、Warp、CommandCode、Northflank 本月相继披露安全事件，攻击者专门搜刮平台里存的环境变量，尤其是 AI 服务密钥；多家称遭「智能体集群」攻击，部分归因于模型蒸馏需求，Zeabur 已宣布因此关停。Wiz 追踪到被盗密钥在泄露后 30 分钟内被验证，随后被大规模刷用（两例合计约 250 万次调用、按标价超 10 万美元），并关联到 llm-routing.com、xingjiabiapi.org 等低价转售站。启示：把 AI 密钥放在第三方平台的开发者应立即轮换并加用量上限，「LLM 劫持」已成为可规模化变现的黑产。",
+   "links": [
+    "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+    "https://news.ycombinator.com/item?id=50311844"
+   ],
+   "topic": "wiz-black-october-ai-platform-breaches-2026-10-30",
+   "firstSeen": "2026-10-31T10:47:31+08:00"
+  },
+  {
+   "id": "33dc64193f",
+   "title": "PostgreSQL 19 罕见延期到 11 月：核心开发者 Robert Haas 称「怪 AI」——LLM 让人人都能挖出陈年 bug，回补提交暴增 60% 以上",
+   "summary": "Postgres 核心贡献者 Robert Haas 10 月 30 日撰文：过去十年 Postgres 大版本都在 9 月中到 10 月中发布，今年 19 版大概率推迟到 11 月，且 FOR PORTION OF、SQL/PGQ 图查询、分区合并拆分等大功能在 8–9 月被临时撤回。原因是大量网友用 LLM 挖出代码库里几十年积累的 bug，回补到 19 稳定分支的提交从 724 涨到 1169、回补到旧版本的提交涨 74%，人类维护者忙于修 bug 和安全问题，没时间审新功能。他认为 AI 会逼所有开发者「提高水平」：每个新功能都会在几小时内被 AI 审视。这是 AI 找 bug 能力冲击开源维护节奏的典型案例。",
+   "links": [
+    "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+    "https://neon.com/blog/postgres-19-is-late-and-its-ais-fault",
+    "https://news.ycombinator.com/item?id=50312408"
+   ],
+   "topic": "postgres-19-delayed-ai-bugs-2026-10-30",
+   "firstSeen": "2026-10-31T10:47:31+08:00"
   }
  ],
- "lastChecked": "2026-10-31T10:27:07+08:00"
+ "lastChecked": "2026-10-31T10:47:31+08:00"
 }
