@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T03:14:08+08:00",
+ "lastUpdated": "2026-11-01T03:26:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26872,7 +26872,29 @@
    ],
    "topic": "genai-critical-thinking-chi2025-hn-2026-10-31",
    "firstSeen": "2026-11-01T03:14:08+08:00"
+  },
+  {
+   "id": "82785ab4f1",
+   "title": "GPT-5.6 Sol 在 Codex 中自主通关《异星工厂》和平模式：13.5 小时游戏时间发射火箭",
+   "summary": "开发者 Ryan Madden 10 月 31 日发文：他让 GPT-5.6 Sol（Codex、低思考档）通过一个 Python 小库以程序方式操作游戏，并强制施加与人类玩家相同的限制（操作范围、战争迷雾），在无虫子的和平模式下用 13.5 小时游戏时间完成了 Factorio 通关。模型表现超出预期，原计划蓝瓶科研后就停，结果一路打到发射火箭；但后期规模化问题明显，部分生产线没接上，靠反复手动搬运物资硬撑到终点。相比之下 GPT-5.5 连传送带都不会用。作者认为 Factorio 类似编程却更直观，适合作为观察模型能力的公开基准，后续将测试其他模型和有敌人模式。该文登上 Hacker News 新帖榜。",
+   "links": [
+    "https://ryanmadden.net/gpt-56-beats-factorio/",
+    "https://news.ycombinator.com/item?id=50318871"
+   ],
+   "topic": "gpt56-sol-factorio-peaceful-2026-10-31",
+   "firstSeen": "2026-11-01T03:26:49+08:00"
+  },
+  {
+   "id": "9fd0bcadad",
+   "title": "开发者后训练小模型「探索」140 字符 JS 演示代码：把 Demoscene 当语言，自动补全出新视觉效果",
+   "summary": "开发者 datavorous 10 月 31 日发文：受 HellMood 的 MS-DOS 极小体积演示《Memories》启发，他研究了 Dwitter.net（140 字符 JavaScript 视觉演示社区）上大量互相「remix」的作品，发现它们像语言一样共享片段、仅差几个字符就能产生截然不同的效果。截掉一段代码末尾 30 个字符，可能的补全组合高达约 10^54 种，绝大多数无效或无趣。他据此后训练了一个模型，专门为未完成的 demo 代码生成有趣的补全，用来探索创意编程和 sizecoding 的可能空间。该文登上 Hacker News。",
+   "links": [
+    "https://datavorous.com/writing/demoscener/",
+    "https://news.ycombinator.com/item?id=50318442"
+   ],
+   "topic": "demoscene-posttrain-dwitter-2026-10-31",
+   "firstSeen": "2026-11-01T03:26:49+08:00"
   }
  ],
- "lastChecked": "2026-11-01T03:14:08+08:00"
+ "lastChecked": "2026-11-01T03:26:49+08:00"
 }
