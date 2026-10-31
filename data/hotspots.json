@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T07:26:23+08:00",
+ "lastUpdated": "2026-11-01T07:43:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27062,7 +27062,19 @@
    ],
    "topic": "collison-improvements-agent-box",
    "firstSeen": "2026-11-01T07:26:23+08:00"
+  },
+  {
+   "id": "ea66f5a348",
+   "title": "英国把 DeepMind 的 AI 规划助手 PlanAssist 扩到 15 个地方议会：试点中审批耗时砍 58%，七成报告无需修改",
+   "summary": "英国政府 10 月 30–31 日宣布，由 Google DeepMind、Google Cloud 与 Faculty 联合开发的 AI 规划审批助手 PlanAssist，在 Barnet、Camden、Dorset 三地试点后，新增兰贝斯、纽卡斯尔、布里斯托、威斯敏斯特等 12 个议会，进入为期 12 个月的真实申请 Beta。它会核验申请材料与图纸、比对遗产保护和地方/国家规划政策、汇总居民异议，并起草带引用的评估报告，由规划官员修改后作最终决定。试点中官员在住宅扩建等常规申请上的评估时间减少约 58%，超过 70% 的报告无需改动即获通过；政府目标是把常规住宅申请从 8 周缩短到 4 周，并计划 2027 年底前向英格兰所有议会开放（不强制使用）。X 上相关话题热议，也有专家认为该简化规则而非靠自动化。",
+   "links": [
+    "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "https://www.gov.uk/government/news/faster-planning-decisions-as-new-rules-and-ai-tackle-delays",
+    "https://x.com/i/trending/2116538622782714060"
+   ],
+   "topic": "uk-planassist-15-councils",
+   "firstSeen": "2026-11-01T07:43:09+08:00"
   }
  ],
- "lastChecked": "2026-11-01T07:26:23+08:00"
+ "lastChecked": "2026-11-01T07:43:09+08:00"
 }
