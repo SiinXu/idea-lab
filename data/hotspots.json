@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-10-31T21:43:38+08:00",
+ "lastUpdated": "2026-10-31T21:57:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26762,7 +26762,18 @@
    ],
    "topic": "openmaic-multi-agent-classroom-2026-10-31",
    "firstSeen": "2026-10-31T21:43:38+08:00"
+  },
+  {
+   "id": "77e4ed1a15",
+   "title": "安全创业公司 Cathedral 用 AI 代理不到 12 小时攻入 Anthropic 内部系统：员工薪资、内部 Slack 和会议记录外泄",
+   "summary": "据《华盛顿邮报》看到的报告草稿，由前 DOGE 成员创办的网络安全公司 Cathedral 在 Anthropic 外部安全研究计划下做测试，用 AI 代理寻找 Anthropic 行政和销售所用第三方商业软件的漏洞，不到 12 小时就拿到员工信息、薪资与录用通知、内部 Slack 消息和会议记录等数据。Anthropic 确认对方访问了部分销售、人力和 IT 系统，但称未触及用户与 Claude 的对话、模型权重或源码，且监控当天就发现并切断了访问，已向联邦官员通报。Cognition 首席信息安全官 Alex Stamos 认为 Anthropic「本可以做得好得多」；Anthropic 则称 Cathedral 夸大了国家安全影响、也未完整披露其操作。事件登上 Hacker News，凸显「AI 代理自动化渗透 + 第三方 SaaS 供应链」成为企业新的安全短板。",
+   "links": [
+    "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+    "https://news.ycombinator.com/item?id=50315990"
+   ],
+   "topic": "cathedral-ai-agents-breach-anthropic-2026-10-31",
+   "firstSeen": "2026-10-31T21:57:16+08:00"
   }
  ],
- "lastChecked": "2026-10-31T21:43:38+08:00"
+ "lastChecked": "2026-10-31T21:57:16+08:00"
 }
