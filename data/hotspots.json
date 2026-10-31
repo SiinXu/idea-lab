@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T04:29:41+08:00",
+ "lastUpdated": "2026-11-01T04:38:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -26939,7 +26939,18 @@
    ],
    "topic": "karpathy-hackertube-2026-10-31",
    "firstSeen": "2026-11-01T04:29:41+08:00"
+  },
+  {
+   "id": "c58cd22905",
+   "title": "「问题出在内存延迟」：Pivot 数据库团队拆解 GROUP BY 提速——多做 CPU 计算，少读 DRAM",
+   "summary": "Epsio Labs 旗下开源分析引擎 Pivot 的工程师 Maor Kern 发文（10 月 28 日发布，10 月 31 日登上 Hacker News 首页）：数据库 CPU 显示 100% 时，大量时间其实在等内存——一次 DRAM 访问约 50–100 纳秒，相当于 400–800 条指令。文章用 ClickBench hits 表的 GROUP BY UserID 做实验：朴素哈希表做法有约 50% 的时间卡在内存上；把数据先按键分成 4096 个分区、让每个聚合哈希表能装进 CPU 缓存后，执行的指令反而从 114 亿增到 193 亿条，但内存等待降到 23.5%，从 DRAM 读取的数据从约 4.5GB 降到 1.5GB，单核耗时降到约 2.7 秒；Pivot 完整实现单核 1.85 秒、16 核 172 毫秒。作者特意声明全文未使用 LLM 写作，是近期少见的硬核性能工程科普。",
+   "links": [
+    "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+    "https://news.ycombinator.com/item?id=50318720"
+   ],
+   "topic": "pivot-memory-latency-groupby-2026-10-31",
+   "firstSeen": "2026-11-01T04:38:07+08:00"
   }
  ],
- "lastChecked": "2026-11-01T04:29:41+08:00"
+ "lastChecked": "2026-11-01T04:38:07+08:00"
 }
