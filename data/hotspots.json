@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T05:52:50+08:00",
+ "lastUpdated": "2026-11-01T06:26:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27005,7 +27005,30 @@
    ],
    "topic": "nes-contra-asm-c-wasm-port-2026-10-31",
    "firstSeen": "2026-11-01T05:52:50+08:00"
+  },
+  {
+   "id": "10f9257a3d",
+   "title": "X 设计负责人 Benji Taylor 开源 Stageshow 技能：让 AI 代理做出像设计师手作的假 UI 静帧、动效和便当格布局",
+   "summary": "Benji Taylor（X 与 SpaceX 设计负责人）10 月 31 日发布 Stageshow，一条 npx skills add benjitaylor/skills --skill stageshow 即可装进编程代理。它按设计师手工做演示图的流程引导代理：先定视觉风格、把故事拆成几个节拍、从成熟示例起步，再把结果「录下来」自查并修正。作者用 Figma、Gmail、Finder、Spotify 的日常界面片段做对比测试，称加了技能后同样的提示词效果稳定更好，动效更顺、不再生硬。发布帖数小时内约 15.9 万浏览、3700 赞、5200 收藏，适合做产品演示、营销图和落地页素材。",
+   "links": [
+    "https://x.com/benjitaylor/status/2116593247854453244",
+    "https://x.com/benjitaylor/status/2116594018998202724",
+    "https://x.com/i/trending/2116641901046874482"
+   ],
+   "topic": "stageshow-skill",
+   "firstSeen": "2026-11-01T06:26:27+08:00"
+  },
+  {
+   "id": "6bd209feef",
+   "title": "Linux TCP 远程漏洞 CVE-2026-98432 升级：红帽改评「严重」，Go 程序默认开启多路径 TCP 监听，Ubuntu 与 RHEL 仍无补丁",
+   "summary": "Atlas Security 10 月 31 日更新的分析（登上 Hacker News 热榜，约 200 分）：这个 IPv4 TCP 握手阶段的释放后使用漏洞可被未认证远程利用，CVSS 9.8，影响 Linux 4.4 起的内核。上游已在 5.10.272、5.15.223、6.1.190、6.6.159、6.12.113、6.18.56、7.2.10 和 7.3 修复；Debian、SUSE、Oracle UEK 和 Amazon Linux 已出补丁，但截至美国中部时间 10 月 31 日下午，Ubuntu 全部版本仍标「Vulnerable」，红帽 10 月 30 日把评级升为 Critical 并给出缓解措施，RHEL 8/9/10 仍无修复内核。关键新变量：Go 安全团队指出 Go 程序默认开启多路径 TCP 监听，而 Anthropic 用 Claude 写出的提权 PoC 正需要这一条件，受影响面比最初估计更大。临时缓解：丢弃带 IPv4 选项的 TCP 包、不用就关闭 MPTCP，并优先修补有 MPTCP 监听的主机。",
+   "links": [
+    "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+    "https://news.ycombinator.com/item?id=50319143"
+   ],
+   "topic": "cve-2026-98432-update-go-mptcp",
+   "firstSeen": "2026-11-01T06:26:27+08:00"
   }
  ],
- "lastChecked": "2026-11-01T05:52:50+08:00"
+ "lastChecked": "2026-11-01T06:26:27+08:00"
 }
