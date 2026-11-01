@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T10:16:42+08:00",
+ "lastUpdated": "2026-11-01T10:31:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27170,7 +27170,30 @@
    ],
    "topic": "nvidia-seti-ata-agentic-telescope",
    "firstSeen": "2026-11-01T10:16:42+08:00"
+  },
+  {
+   "id": "ae84022cee",
+   "title": "Meta 与上海人形机器人公司傅利叶三个月造出原型机「Max」：1.5 米、48 公斤、英伟达 Jetson Thor 芯片，第二代已在开发",
+   "summary": "据 The Information 报道、路透社跟进，Meta 与中国机器人初创公司傅利叶（Fourier）合作，约三个月就做出代号 Max 的人形机器人原型：身高约 1.5 米、重约 106 磅（48 公斤），搭载英伟达 Jetson Thor 芯片，脸部屏幕能模拟表情，五指灵巧手可抓取小物件。Meta 机器人产品副总裁 Li-Chen Miller 在傅利叶上海工厂驻扎近两个月，Max 已在 8 月底的内部机器人峰会上演示；9 月起开发的 Max 2 将改进躯干和双手，并加装投影仪和爬楼梯传感器。Meta 把它视为 Muse AI 助手的「实体身体」，长期目标是做家务；但公司表示目前只是内部研究，没有销售计划。该话题正在 X 热议。",
+   "links": [
+    "https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306",
+    "https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push",
+    "https://x.com/i/trending/2116575945020539036"
+   ],
+   "topic": "meta-fourier-humanoid-max",
+   "firstSeen": "2026-11-01T10:31:57+08:00"
+  },
+  {
+   "id": "85c82f0a95",
+   "title": "OpenAI 12 月起合并 ChatGPT 与 Codex 用量：Plus、Pro、Business 改为按 token 计的一份共享额度，Instant 聊天不计入",
+   "summary": "OpenAI 帮助中心 10 月 31 日更新《理解 ChatGPT 和 Codex 用量限制》：从 12 月开始，Plus、Pro 和 Business 计划在 ChatGPT 与 Codex 之间共用一份用量额度，改按 token 计量——选的模型越强、任务越复杂，消耗越多；Instant 聊天不占额度。用户可在「设置 → 用量」查看合并后的剩余额度和重置时间，用完可等待重置、升级或购买额度。OpenAI 称多数用户等待重置的频率不会比现在更高，但尚未公布具体日期和各计划额度。重度写代码的用户在 X 上担心 Codex 任务会挤占日常聊天，有人表示考虑转向 Anthropic。",
+   "links": [
+    "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+    "https://x.com/i/trending/2116619006874362156"
+   ],
+   "topic": "openai-chatgpt-codex-shared-usage-december",
+   "firstSeen": "2026-11-01T10:31:57+08:00"
   }
  ],
- "lastChecked": "2026-11-01T10:16:42+08:00"
+ "lastChecked": "2026-11-01T10:31:57+08:00"
 }
