@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T23:27:57+08:00",
+ "lastUpdated": "2026-11-01T23:39:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27547,7 +27547,18 @@
    ],
    "topic": "deepgram-acquires-daily-pipecat-2026-10",
    "firstSeen": "2026-11-01T23:27:57+08:00"
+  },
+  {
+   "id": "d0d61c0d8c",
+   "title": "《Pi 是最后一个 Harness》冲上 HN：开发者称开源、厂商无关、极简可扩展的 Pi 编码代理外壳将成为长期底座",
+   "summary": "开发者 Destiner 11 月 1 日发文（HN 新帖约 21 分）：AI 编码流程变化极快，逐条批准工具调用、Plan 模式、人工代码评审都在被淘汰，但「文本进文本出」、工具调用（bash 与 MCP）和可观测性会保留。他认为 Pi 是目前唯一同时做到开源、厂商无关、可扩展且足够极简的编码代理外壳：不绑定模型供应商、不强加工作流，可以自己加 /usage 等命令，适合做长期稳定的底座。信号：Harness 之争从「功能多」转向「可控与不锁定」，围绕 Pi 的插件、跨供应商用量面板等周边工具有机会。",
+   "links": [
+    "https://destiner.io/blog/post/pi-is-the-last-harness/",
+    "https://news.ycombinator.com/item?id=50326025"
+   ],
+   "topic": "AI 编程",
+   "firstSeen": "2026-11-01T23:39:25+08:00"
   }
  ],
- "lastChecked": "2026-11-01T23:27:57+08:00"
+ "lastChecked": "2026-11-01T23:39:25+08:00"
 }
