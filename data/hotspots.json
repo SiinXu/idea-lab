@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T00:02:20+08:00",
+ "lastUpdated": "2026-11-02T00:13:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27569,7 +27569,19 @@
    ],
    "topic": "AI 安全",
    "firstSeen": "2026-11-02T00:02:20+08:00"
+  },
+  {
+   "id": "89307f734c",
+   "title": "Show HN：开源 Rust 工具 OmniDiff 号称「内容感知」的 Git 差异比对，代码、图片、字体、压缩包、PDF 都能精细对比",
+   "summary": "开发者 ivankovic 在 HN 发布 OmniDiff（Show HN，约 3 小时内登上首页）：一个用 Rust 写的开源 Git difftool，按内容类型选用专门算法，而不是像传统 diff 那样整行删改。作者称它能处理 99.95% 的代码改动，98.8% 的改动走内容专用算法，代码类 98% 在 100 毫秒内完成；除代码外还支持图片（含动图）、光标、字体、压缩包、翻译消息目录和 PDF，并提供浏览器展示页对比 Unix diff 与 OmniDiff 的效果，许可证为 AGPL-3.0。信号：AI 写代码让代码评审量暴增，更聪明、只标出真正变化部分的 diff 工具有望成为评审提效的新切入点。",
+   "links": [
+    "https://github.com/ivankovic/omnidiff",
+    "https://news.ycombinator.com/item?id=50325253",
+    "https://ivankovic.github.io/omnidiff/showcase/"
+   ],
+   "topic": "",
+   "firstSeen": "2026-11-02T00:13:21+08:00"
   }
  ],
- "lastChecked": "2026-11-02T00:02:20+08:00"
+ "lastChecked": "2026-11-02T00:13:21+08:00"
 }
