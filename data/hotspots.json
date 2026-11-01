@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T13:10:57+08:00",
+ "lastUpdated": "2026-11-01T13:31:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27282,7 +27282,18 @@
    ],
    "topic": "anthropic-religious-thinkers-claude-character",
    "firstSeen": "2026-11-01T13:10:57+08:00"
+  },
+  {
+   "id": "d7e241d7cf",
+   "title": "RAMBO 攻击再上 HN 热榜：恶意软件让内存总线「发电台」，从物理隔离电脑以每秒 1000 比特偷数据",
+   "summary": "以色列研究者 Mordechai Guri 的 RAMBO 论文今天重新登上 Hacker News 前列：在被入侵的物理隔离（air-gap）电脑上，恶意软件通过操控内存（RAM）读写，让内存总线产生可编码的无线电信号，攻击者用软件定义无线电（SDR）和一根普通天线就能在一定距离外截获，并还原出文件、图片、键盘记录、生物特征乃至加密密钥。论文给出的快速调制方法可达每秒 1000 比特，并提出了屏蔽、干扰和内存访问监测等防护建议。在 AI 训练集群和模型权重越来越多放进隔离环境的当下，这类旁路泄密研究再次引发讨论。",
+   "links": [
+    "https://arxiv.org/abs/2409.02292",
+    "https://news.ycombinator.com/item?id=50322022"
+   ],
+   "topic": "rambo-airgap-ram-radio-leak",
+   "firstSeen": "2026-11-01T13:31:45+08:00"
   }
  ],
- "lastChecked": "2026-11-01T13:10:57+08:00"
+ "lastChecked": "2026-11-01T13:31:45+08:00"
 }
