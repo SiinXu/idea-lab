@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T01:26:09+08:00",
+ "lastUpdated": "2026-11-02T01:59:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27636,7 +27636,18 @@
    ],
    "topic": "opensource",
    "firstSeen": "2026-11-02T01:26:09+08:00"
+  },
+  {
+   "id": "ba4ebe2a2a",
+   "title": "失落近 20 年的 Portal 前传《F-Stop》被拼出可玩版本：8 月 12TB Valve 泄露素材加上本周流出的源码与地图数据",
+   "summary": "据 The Verge 报道，Valve 当年取消的 Portal 前传《F-Stop》不再是“失落媒体”：泄露者利用今年 8 月流出的 12TB 资料中的大部分素材，加上本周在 Valve Cut Content Discord 流出的源码与地图数据，拼出了一个接近完整的可玩版本。该作核心玩法是相机机制——给物体拍照即可“收走”它，再用拍立得式照片把它放到别处，部分对白和元素后来被并入 Portal 2。信号：游戏史料与“失落媒体”考古持续吸引玩家社区，同时也再次暴露大厂内部资产泄露的版权与安全风险。",
+   "links": [
+    "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+    "https://news.ycombinator.com/item?id=50327406"
+   ],
+   "topic": "gaming",
+   "firstSeen": "2026-11-02T01:59:09+08:00"
   }
  ],
- "lastChecked": "2026-11-02T01:26:09+08:00"
+ "lastChecked": "2026-11-02T01:59:09+08:00"
 }
