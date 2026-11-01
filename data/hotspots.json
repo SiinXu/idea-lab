@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T11:57:39+08:00",
+ "lastUpdated": "2026-11-01T13:10:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27270,7 +27270,19 @@
    ],
    "topic": "brazil-court-sanctions-prompt-injection-filing",
    "firstSeen": "2026-11-01T11:57:39+08:00"
+  },
+  {
+   "id": "9ec720c20d",
+   "title": "Anthropic 请神父、拉比和哲学家帮 Claude「塑造品格」：来自 15 个以上宗教与跨文化传统，实验中给 Claude 一个「良心提醒」工具后错位行为明显减少",
+   "summary": "《科学美国人》报道并在 X 上再度引发热议：Anthropic 自今年 3 月起陆续邀请约 15 位基督教学者，随后扩大到犹太教、印度教、锡克教、东正教等 15 个以上宗教与跨文化传统的学者、神职人员和伦理学家，讨论 Claude 宪法中的价值观，以及它该如何面对悲伤用户、自残风险乃至自己被关停。Anthropic 官方博文透露，受「导师充当外部良心」的启发，他们给 Claude 加了一个可在任务中途调用、返回自身伦理承诺简短提醒的工具，Claude 常在关键操作前主动调用，多项内部对齐评测中的错位行为率明显下降。支持者认为这是借鉴千年道德传统，质疑者担心把宗教分歧带进 AI。",
+   "links": [
+    "https://www.scientificamerican.com/article/anthropic-asks-religious-thinkers-to-help-shape-claude-as-pope-warns-about-ai/",
+    "https://www.anthropic.com/news/widening-conversation-ai",
+    "https://x.com/i/trending/2116701144328384756"
+   ],
+   "topic": "anthropic-religious-thinkers-claude-character",
+   "firstSeen": "2026-11-01T13:10:57+08:00"
   }
  ],
- "lastChecked": "2026-11-01T11:57:39+08:00"
+ "lastChecked": "2026-11-01T13:10:57+08:00"
 }
