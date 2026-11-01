@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T00:13:21+08:00",
+ "lastUpdated": "2026-11-02T00:29:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27581,7 +27581,18 @@
    ],
    "topic": "",
    "firstSeen": "2026-11-02T00:13:21+08:00"
+  },
+  {
+   "id": "a34ac9dda3",
+   "title": "英国固话网络 100 天后正式关停：Openreach 称 2027 年 1 月 31 日退役 PSTN，不再延期",
+   "summary": "据 The Register（2026-11-01）报道，BT 集团旗下基础设施公司 Openreach 本周致信使用其网络的运营商，提醒英国传统公共交换电话网（PSTN）将于 2027 年 1 月 31 日正式退役，截止日期不会推迟；届时仍在旧线路上的用户可能断线。这意味着报警器、电梯紧急电话、POS 机、远程看护等依赖模拟线路的设备必须在约 100 天内迁移到全 IP（数字语音）方案。信号：海量存量设备的「最后一刻迁移」会带来数字语音适配器、IoT 迁移服务和中小企业通信改造的短期需求。",
+   "links": [
+    "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+    "https://news.ycombinator.com/item?id=50326609"
+   ],
+   "topic": "",
+   "firstSeen": "2026-11-02T00:29:27+08:00"
   }
  ],
- "lastChecked": "2026-11-02T00:13:21+08:00"
+ "lastChecked": "2026-11-02T00:29:27+08:00"
 }
