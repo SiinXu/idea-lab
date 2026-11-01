@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T11:16:07+08:00",
+ "lastUpdated": "2026-11-01T11:25:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27248,7 +27248,18 @@
    ],
    "topic": "leo-de-moura-lean-ai-formal-verification-podcast",
    "firstSeen": "2026-11-01T11:16:07+08:00"
+  },
+  {
+   "id": "9cf512e981",
+   "title": "谷歌明尼苏达 AI 数据中心深夜闯关：抗议迫使两次改期后，Hermantown 市议会凌晨前全票通过 170 万平方英尺园区",
+   "summary": "据 MPR News 报道，谷歌拟在明尼苏达州东北部 Duluth 附近的 Hermantown 建设占地 200 多英亩、170 万平方英尺的数据中心。周一会议因反对者在议事厅外连续两小时高喊口号被取消，周二再度改期，最终市议会于周五深夜、经过四小时公众发言后一致通过开发协议、特殊用途许可和场地退役计划，其中包括 2.1 亿美元的退役担保。市政府把现场旁听限制在 85 人并关闭分会场，引发草根组织「Stop the Hermantown Data Center」强烈不满。AI 算力扩张与地方社区在土地、用水和用电上的冲突正在美国多地升级。该报道已登上 Hacker News。",
+   "links": [
+    "https://www.mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting",
+    "https://news.ycombinator.com/item?id=50322155"
+   ],
+   "topic": "google-hermantown-data-center-approved",
+   "firstSeen": "2026-11-01T11:25:00+08:00"
   }
  ],
- "lastChecked": "2026-11-01T11:16:07+08:00"
+ "lastChecked": "2026-11-01T11:25:00+08:00"
 }
