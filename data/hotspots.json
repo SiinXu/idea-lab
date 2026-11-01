@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T18:15:44+08:00",
+ "lastUpdated": "2026-11-01T18:46:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27404,7 +27404,29 @@
    ],
    "topic": "openidea-rust-ide",
    "firstSeen": "2026-11-01T18:15:44+08:00"
+  },
+  {
+   "id": "530e7f08a4",
+   "title": "GitHub 趋势榜「FreeToken」：把数据中心级 MoE 推理搬上游戏 PC，宣称本地跑 290B+ 前沿开源模型",
+   "summary": "FlashML 开源的 FreeToken（Apache-2.0，约 1.5 万星，今日新增约 230 星）是面向个人和消费级硬件的 MoE 推理引擎：把 GPU、CPU、内存和互联当成一个统一的弹性推理平台，支持 CPU–GPU 自适应协同执行、全局 LRU 专家缓存、运行时在专家缓存与 KV 缓存之间动态分配显存，并为工具调用、思考块等智能体上下文编辑做语义锚点缓存以减少重复计算。支持 DeepSeek-V4-Flash、Qwen3.6-35B-A3B、GLM-5.2 等模型及 MXFP4/NVFP4/FP8 等量化格式，提供兼容 Anthropic/OpenAI 的 API，可直接接 Codex、Claude Code、OpenCode 等编码智能体，并附 arXiv 论文。信号：「本地跑大 MoE + 接编码代理」需求持续升温，一键部署包、硬件配置推荐和本地推理托管服务是可切入的方向。",
+   "links": [
+    "https://github.com/FlashML-org/FreeToken",
+    "https://www.flashml.ai/"
+   ],
+   "topic": "freetoken-local-moe",
+   "firstSeen": "2026-11-01T18:46:18+08:00"
+  },
+  {
+   "id": "5a5ac19c7b",
+   "title": "GitHub 趋势榜「AiSOC」：开源 AI 安全运营中心，LLM 智能体做告警研判，自带 MCP 服务器、无需 API Key 即可自托管",
+   "summary": "开源项目 AiSOC（MIT，约 5800 星，今日新增约 440 星）把安全运营中心（SOC）的核心流程交给 AI：多源告警融合、LLM 智能体分诊、按 MITRE ATT&CK 框架调查，并为智能体的每一步保留可回放的决策账本，方便审计。项目强调可自托管、不配 API Key 也能运行，还提供 MCP 服务器，可接入 Claude、Cursor 和 Continue。信号：「AI 智能体 + 安全运营」正从概念走向开源可用，面向中小企业的托管版、行业规则包和合规审计报告是可切入的方向。",
+   "links": [
+    "https://github.com/beenuar/AiSOC",
+    "https://beenuar.github.io/AiSOC/"
+   ],
+   "topic": "aisoc-open-ai-soc",
+   "firstSeen": "2026-11-01T18:46:18+08:00"
   }
  ],
- "lastChecked": "2026-11-01T18:15:44+08:00"
+ "lastChecked": "2026-11-01T18:46:18+08:00"
 }
