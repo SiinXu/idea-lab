@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T15:29:50+08:00",
+ "lastUpdated": "2026-11-01T15:55:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27348,7 +27348,18 @@
    ],
    "topic": "nolan-lawson-ai-cost-js-frameworks-2026-10-28",
    "firstSeen": "2026-11-01T15:29:50+08:00"
+  },
+  {
+   "id": "fec70dc272",
+   "title": "Show HN 新面孔「oTAPE」：给数字磁带定一个开放文件格式，一个 .otape 就是一整盘双面卡带，只能倒带不能跳播",
+   "summary": "oTAPE 1.0（候选版）11 月 1 日登上 Hacker News：它不是新编解码器，而是用「ZIP + JSON」把一整盘卡带打包成单个 .otape 文件，包含 A/B 两面各一段连续录音、标签、J 卡、内页和防录片，采用 CC BY 4.0 授权，离线可用、无需账号和云端。设计上刻意保留磁带的限制：每面固定时长、实时录制、靠「倒带」而非拖动定位，官网还提供可在浏览器里试玩的卡座和 Web Studio。HN 评论褒贬不一，有人叫好，也有人吐槽本质是「多了几步的 MP4 音频」、介绍不够清楚。对独立开发者而言，这是「慢媒介 + 开放格式」复古情绪的一个信号，可延伸出 AI 混音带生成、实体卡带周边等小产品。",
+   "links": [
+    "https://www.otape.org/",
+    "https://news.ycombinator.com/item?id=50322169"
+   ],
+   "topic": "otape-open-digital-cassette-format-2026-11-01",
+   "firstSeen": "2026-11-01T15:55:42+08:00"
   }
  ],
- "lastChecked": "2026-11-01T15:29:50+08:00"
+ "lastChecked": "2026-11-01T15:55:42+08:00"
 }
