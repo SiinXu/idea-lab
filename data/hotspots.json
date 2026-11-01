@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T02:25:13+08:00",
+ "lastUpdated": "2026-11-02T03:14:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27658,7 +27658,18 @@
    ],
    "topic": "frontier-airlines-phishing-breach",
    "firstSeen": "2026-11-02T02:25:13+08:00"
+  },
+  {
+   "id": "280630936c",
+   "title": "陶哲轩博客刊发 Frank Calegari 客座文章《数学已经改变，我们该正视它》：回应 OpenAI 10 月 6 日发布 700 多篇数学论文后的学界焦虑",
+   "summary": "11 月 1 日，Terence Tao 的博客发布数论学者 Frank Calegari 的客座文章（文末注明由 AI 转换文件格式）。文章称 OpenAI 于 10 月 6 日发布的 700 多篇研究论文是数学史上的分水岭，AI 已能在多个领域做出突破性贡献；但也批评这些论文写得很糟、不符合学界署名规范，部分甚至有错。文中引用 Hugo Duminil-Copin 的感叹——他公开提过的重大开放问题“全部被声称已证明”，并以有限单群分类后该领域热度降温为例，呼吁数学界把精力放在招聘、出版和培养学生等自己能掌控的环节。帖子登上 HN 首页。信号：AI 生成数学成果正在倒逼学术评价、署名与出版规则重塑，围绕“AI 论文审核/验证/形式化”的工具与服务存在机会。",
+   "links": [
+    "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+    "https://news.ycombinator.com/item?id=50328251"
+   ],
+   "topic": "ai",
+   "firstSeen": "2026-11-02T03:14:13+08:00"
   }
  ],
- "lastChecked": "2026-11-02T02:25:13+08:00"
+ "lastChecked": "2026-11-02T03:14:13+08:00"
 }
