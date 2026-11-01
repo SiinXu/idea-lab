@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T01:59:09+08:00",
+ "lastUpdated": "2026-11-02T02:25:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27647,7 +27647,18 @@
    ],
    "topic": "gaming",
    "firstSeen": "2026-11-02T01:59:09+08:00"
+  },
+  {
+   "id": "530cf738c9",
+   "title": "Frontier 航空疑似数据泄露：乘客收到带真实航班确认号的钓鱼邮件，冲上 HN",
+   "summary": "Reddit r/frontierairlines 有用户发帖（PSA: email scam）提醒，有诈骗邮件冒充 Frontier 航空，内容涉及乘客的真实航班信息，帖子以“Frontier Airlines Likely Breached”为题登上 HN 首页。评论区指出，Frontier 今年早些时候曾因 Microsoft Power Pages 网站权限配置错误而泄露数据，这类信息足以支撑精准钓鱼；航空公司目前尚未公开确认此次泄露。信号：航旅、电商等高频交易场景的“真实订单信息 + 钓鱼”诈骗在增多，面向消费者的邮件真伪校验和泄露监测工具有需求。",
+   "links": [
+    "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+    "https://news.ycombinator.com/item?id=50327266"
+   ],
+   "topic": "frontier-airlines-phishing-breach",
+   "firstSeen": "2026-11-02T02:25:13+08:00"
   }
  ],
- "lastChecked": "2026-11-02T01:59:09+08:00"
+ "lastChecked": "2026-11-02T02:25:13+08:00"
 }
