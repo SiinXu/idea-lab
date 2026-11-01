@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T16:45:15+08:00",
+ "lastUpdated": "2026-11-01T17:30:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27370,7 +27370,19 @@
    ],
    "topic": "zamzar-20-years-bootstrapped-file-conversion-2026-10-30",
    "firstSeen": "2026-11-01T16:45:15+08:00"
+  },
+  {
+   "id": "026e80e096",
+   "title": "a16z 数据：AI token 单价自 5 月下跌 67%，总支出却涨了 122%–160%，代理用量是人类的约 5 倍",
+   "summary": "a16z 在 10 月底的「本周图表」中指出，按 Ornn 的混合 token 价格指数，AI token 平均单价自 2026 年 5 月以来下降约 67%；但用 Ornn 价格乘以 OpenRouter 用量估算，同期 token 总支出增长约 160%，Ramp 的企业实际支出数据则显示增长约 122%（两组数据口径不同，不能当成同一区间）。主要推手是 AI 代理：代理消耗的 token 约为人类用户的 5 倍，自 2 月以来增长约 14 倍；与此同时英伟达 B300 租金自 7 月中旬上涨 106%、B200 上涨 66%，被称为「机柜价差」。a16z 作者也提醒，这些样本偏向在意成本的用户，只能看方向。信号：典型的杰文斯悖论，算力越便宜用得越多；面向团队的 token 成本监控、按任务路由到便宜模型、代理账单预警等工具需求在上升。",
+   "links": [
+    "https://cryptobriefing.com/a16z-ai-token-spending-surges-prices-fall/",
+    "https://x.com/i/trending/2116788338732708152",
+    "https://disconfirmai.com/en/reading/a16z-data-foundation-rack-spread-ai-demand-1tlu"
+   ],
+   "topic": "a16z-token-price-down-spend-up-agents-2026-10-31",
+   "firstSeen": "2026-11-01T17:30:56+08:00"
   }
  ],
- "lastChecked": "2026-11-01T16:45:15+08:00"
+ "lastChecked": "2026-11-01T17:30:56+08:00"
 }
