@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T14:24:36+08:00",
+ "lastUpdated": "2026-11-01T14:53:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27304,7 +27304,18 @@
    ],
    "topic": "blackhat-offer-rl-exploit-open-weights-2026-11-01",
    "firstSeen": "2026-11-01T14:24:36+08:00"
+  },
+  {
+   "id": "daeae1bce2",
+   "title": "HN 热帖「Altoids Project」：父子俩用旧机器人零件和 Arduino Nano 两个月做出薄荷糖铁盒掌机，AI 查引脚图「幻觉」得离谱",
+   "summary": "开发者 Lu 10 月 31 日发文，记录和 12 岁儿子用两个月做成的「Altoids 项目」：起点是在 MIT Swapfest 跳蚤市场白得的旧机器人套件，拆下 128x64 小屏后想复用，却找不到引脚定义；他们先问 AI，结果 AI 给出 20 针的引脚图，而屏幕实际只有 10 针，最后靠 Arduino 论坛上陌生网友贴的原理图才点亮屏幕。之后受 YouTube 视频启发，换用 Arduino Nano 和锂电池，把整套小电脑塞进薄荷糖铁盒。文章发布数小时在 Hacker News 拿到约 90 分。信号：亲子硬件 DIY、复古掌机和「AI 在冷门硬件资料上不可靠」是持续话题，面向家长和青少年的电子制作套件、教程与零件资料库仍有需求。",
+   "links": [
+    "https://uvdn7.github.io/altoids-project/",
+    "https://news.ycombinator.com/item?id=50321048"
+   ],
+   "topic": "altoids-tin-handheld-father-son-2026-10-31",
+   "firstSeen": "2026-11-01T14:53:06+08:00"
   }
  ],
- "lastChecked": "2026-11-01T14:24:36+08:00"
+ "lastChecked": "2026-11-01T14:53:06+08:00"
 }
