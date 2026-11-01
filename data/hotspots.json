@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T15:09:18+08:00",
+ "lastUpdated": "2026-11-01T15:29:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27337,7 +27337,18 @@
    ],
    "topic": "percival-duty-of-a-scholar-disclosure-2026-10-31",
    "firstSeen": "2026-11-01T15:09:18+08:00"
+  },
+  {
+   "id": "761e5e0baa",
+   "title": "Nolan Lawson 实测「AI 写前端的成本」：让 Claude Code 用 12 个 JS 框架各建同一款应用，Hono+htmx 最便宜、Angular 最贵",
+   "summary": "前端性能专家 Nolan Lawson 10 月 28 日发文，针对「某框架更适合 AI 代理」这类缺乏证据的说法做了基准测试：设计一个基于 PokéAPI 的宝可梦检索应用，让 Opus 5.5 在沙箱里分别用 Next.js、Nuxt、SvelteKit、Astro、Qwik、Angular、Hono+htmx、原生 JS 等 12 种框架各构建 3–5 次，并配合各框架官方 MCP 或技能，再用无障碍树一致性测试和 Lighthouse 衡量开发成本、代码量、性能与可访问性。按 API 价计，单次构建中位成本 Hono+htmx 约 2.67 美元最低，Astro、Nuxt 次之，SvelteKit、Gracile+Lit、Angular 最贵（Angular 约 4.97 美元，且两次没能做出可用应用）；作者指出太新的框架版本不在模型训练数据里，代理会反复读迁移指南或翻源码，推高 token 消耗。文章 11 月 1 日登上 Hacker News。信号：「对 AI 友好的技术栈」正在成为框架选型新维度，面向代理的框架文档、MCP/技能包和 AI 编码成本评测有需求。",
+   "links": [
+    "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "https://news.ycombinator.com/item?id=50323088"
+   ],
+   "topic": "nolan-lawson-ai-cost-js-frameworks-2026-10-28",
+   "firstSeen": "2026-11-01T15:29:50+08:00"
   }
  ],
- "lastChecked": "2026-11-01T15:09:18+08:00"
+ "lastChecked": "2026-11-01T15:29:50+08:00"
 }
