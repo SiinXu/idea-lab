@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T00:44:03+08:00",
+ "lastUpdated": "2026-11-02T00:57:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27603,7 +27603,29 @@
    ],
    "topic": "",
    "firstSeen": "2026-11-02T00:44:03+08:00"
+  },
+  {
+   "id": "cb6a16e144",
+   "title": "「Anthropic Mythos 级模型权重泄露到 Hugging Face」传言冲上 HN：原链接已因恶意软件风险被删，评论普遍认为是诱骗下载的骗局",
+   "summary": "11 月 1 日 HN 先后出现两条帖子，声称有 Anthropic Mythos 级模型的检查点被上传到 Hugging Face 一个匿名账号（主帖约 23 分）。HN 管理员已以「恶意软件风险」为由删除主帖链接；高赞评论指出几天前也有人声称「Fable 5 检查点在暗网出售」，这类“泄露”多半是骗不懂行的人在本机运行带毒代码，Anthropic 方面没有任何确认。信号：前沿模型“泄露权重”正在成为新的投毒诱饵，适合做“如何识别假模型权重与安全加载模型文件”的科普，下载陌生权重前应避免 pickle 格式并在隔离环境中检查。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50326727",
+    "https://news.ycombinator.com/item?id=50327240"
+   ],
+   "topic": "ai-security",
+   "firstSeen": "2026-11-02T00:57:22+08:00"
+  },
+  {
+   "id": "ab4098a9d1",
+   "title": "首尔伟傲世旗下 Seoul Biosys 量产无稀土白光 Micro LED：25×10 微米芯片无需荧光粉和封装，称成本可降一半",
+   "summary": "据韩国亚洲经济（Aju Press）10 月 28 日报道，Seoul Biosys 宣布开始量产基于 WICOP 无封装技术的第三代光半导体：在小于 100 微米的芯片上直接发出白光，不再依赖 YAG 等稀土荧光粉，也省去硅胶、塑料、引线框架等封装材料。首款量产品尺寸 25×10 微米，光效约 100 lm/W，目标两年内做到 200 lm/W，公司称生产成本可降到现在的一半。信号：稀土供应紧张背景下，“去稀土”显示与照明路线获得关注，对 AR 眼镜、可穿戴设备的微显示有潜在意义。",
+   "links": [
+    "https://www.ajupress.com/view/20261028171670308",
+    "https://news.ycombinator.com/item?id=50327058"
+   ],
+   "topic": "hardware",
+   "firstSeen": "2026-11-02T00:57:22+08:00"
   }
  ],
- "lastChecked": "2026-11-02T00:44:03+08:00"
+ "lastChecked": "2026-11-02T00:57:22+08:00"
 }
