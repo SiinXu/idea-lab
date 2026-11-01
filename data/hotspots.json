@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T15:55:42+08:00",
+ "lastUpdated": "2026-11-01T16:45:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27359,7 +27359,18 @@
    ],
    "topic": "otape-open-digital-cassette-format-2026-11-01",
    "firstSeen": "2026-11-01T15:55:42+08:00"
+  },
+  {
+   "id": "65857fb07b",
+   "title": "文件转换站 Zamzar 迎来 20 周年：兄弟俩零融资做了 20 年工具站，累计转换 7.66 亿个文件，API 日调用超 100 万次",
+   "summary": "英国小公司 Zamzar 10 月 30 日发文回顾 20 年：2006 年两兄弟用拨号上网和一本 HTML4 教程做出在线文件转换网站，从最初 150 种转换类型扩展到 2026 年的 2128 种，累计服务超过 5.5 亿用户、转换 766,615,348 个文件，如今 API 每天处理超 100 万次请求。团队强调至今仍是独立小公司，没拿风投、也不打算转型「AI + 区块链」，曾帮 PowerPoint 发明者找回旧演示文稿、收到过谷歌因 YouTube 下载功能发来的停止函。文章在 Hacker News 拿到 60 分左右。信号：长尾「格式转换」这类无聊但刚需的工具站，靠 SEO 流量 + API 订阅可以长期自力更生；对独立开发者而言，AI 时代的新格式（模型权重、代理日志、提示词包等）转换与修复仍有类似机会。",
+   "links": [
+    "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+    "https://news.ycombinator.com/item?id=50303984"
+   ],
+   "topic": "zamzar-20-years-bootstrapped-file-conversion-2026-10-30",
+   "firstSeen": "2026-11-01T16:45:15+08:00"
   }
  ],
- "lastChecked": "2026-11-01T15:55:42+08:00"
+ "lastChecked": "2026-11-01T16:45:15+08:00"
 }
