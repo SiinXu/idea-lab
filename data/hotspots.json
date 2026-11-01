@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T17:58:04+08:00",
+ "lastUpdated": "2026-11-01T18:15:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27393,7 +27393,18 @@
    ],
    "topic": "japan-jr-train-booking-conway-law-2026-10-31",
    "firstSeen": "2026-11-01T17:58:04+08:00"
+  },
+  {
+   "id": "680f50e02f",
+   "title": "Show HN「OpenIDEA」：用 Rust + Tauri 重做 IntelliJ IDEA 体验，开项目 0.9 秒、内存只有原版约十二分之一",
+   "summary": "开源项目 OpenIDEA（Apache-2.0）把 IntelliJ IDEA 的快捷键、工具窗口和「Search Everywhere」搬进一个 Rust 内核的原生桌面应用，内置编辑器、代码洞察、调试器、Git、终端、数据库和 HTTP 客户端，支持 60 多种语言，可在 macOS、Windows、Linux 上构建。作者给出的基准：打开约 770 个文件的 Python 项目 freqtrade，窗口出现 0.9 秒对 IDEA 的 3.1 秒，就绪 1.1 秒对 13.2 秒，内存 169 MB 对约 2 GB（作者也说明 IDEA 对 Python 的分析更深，两者「就绪」并不等价）。仓库 10 月 21 日才创建，已有约 2000 颗星，11 月 1 日登上 HN。信号：「把重型老牌开发工具用 Rust 原生重写」继续吸引开发者，轻量 IDE、迁移指南和插件生态是可切入的方向。",
+   "links": [
+    "https://github.com/l0ng-ai/openidea",
+    "https://news.ycombinator.com/item?id=50323848"
+   ],
+   "topic": "openidea-rust-ide",
+   "firstSeen": "2026-11-01T18:15:44+08:00"
   }
  ],
- "lastChecked": "2026-11-01T17:58:04+08:00"
+ "lastChecked": "2026-11-01T18:15:44+08:00"
 }
