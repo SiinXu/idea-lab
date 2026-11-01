@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T03:45:19+08:00",
+ "lastUpdated": "2026-11-02T03:57:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27680,7 +27680,18 @@
    ],
    "topic": "uber-for-nursing-gig-apps",
    "firstSeen": "2026-11-02T03:45:19+08:00"
+  },
+  {
+   "id": "48ef70dd3f",
+   "title": "物理学家测算：凯文·奥利里支持的 700 亿加元 Wonder Valley 数据中心每天向森林排放相当于 23 颗广岛原子弹的废热",
+   "summary": "CBC 报道，美国犹他州立大学物理学家 Robert Davies 为 Sturgeon Lake Cree Nation 做的初步分析称，O'Leary Digital 在加拿大阿尔伯塔西北部规划的 Wonder Valley 数据中心若建成，每天排入北方森林的废热约等于 23 颗广岛原子弹，可能成为“全球最大的单点热源”。该原住民族群已于 9 月就项目获豁免省级环评一事申请司法复核。信号：AI 算力扩张的环境外部性（废热、用水、电力）正从电价争议扩展到生态与原住民权益诉讼，数据中心选址评估、废热回收和环评合规工具的需求在上升。",
+   "links": [
+    "https://www.cbc.ca/lite/story/9.7403677",
+    "https://news.ycombinator.com/item?id=50328556"
+   ],
+   "topic": "wonder-valley-datacenter-waste-heat",
+   "firstSeen": "2026-11-02T03:57:46+08:00"
   }
  ],
- "lastChecked": "2026-11-02T03:45:19+08:00"
+ "lastChecked": "2026-11-02T03:57:46+08:00"
 }
