@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T23:39:25+08:00",
+ "lastUpdated": "2026-11-02T00:02:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27558,7 +27558,18 @@
    ],
    "topic": "AI 编程",
    "firstSeen": "2026-11-01T23:39:25+08:00"
+  },
+  {
+   "id": "43fbe63134",
+   "title": "ChatGPT 账号可被「一条分享链接」接管：研究者串联 MathLive 键盘、innerHTML 与 YouTube oEmbed 绕过沙箱和 CSP",
+   "summary": "Parameter Labs 披露（Simon Willison 10 月 31 日转述，HN 新帖）：ChatGPT 的 HTML 预览（原 Canvas）在沙箱 iframe 里运行，但其图形功能用到的 MathLive 虚拟键盘可被任意 iframe 通过 postMessage 触发，接收端用 innerHTML 写入父页面，于是能注入一个不受沙箱限制的新 iframe；再借 CSP 白名单里的 YouTube oEmbed 端点反射执行 JavaScript，最终只要已登录用户打开一个 ChatGPT 分享链接，就能读取其私密数据或代其操作。OpenAI 已修复并支付 5000 美元赏金，Willison 认为偏低。信号：AI 产品的「生成式 HTML/Artifacts」正在成为新的攻击面，面向 iframe 沙箱、postMessage 与 CSP 白名单的自动化审计工具有需求。",
+   "links": [
+    "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+    "https://news.ycombinator.com/item?id=50326699"
+   ],
+   "topic": "AI 安全",
+   "firstSeen": "2026-11-02T00:02:20+08:00"
   }
  ],
- "lastChecked": "2026-11-01T23:39:25+08:00"
+ "lastChecked": "2026-11-02T00:02:20+08:00"
 }
