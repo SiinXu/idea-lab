@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T23:02:27+08:00",
+ "lastUpdated": "2026-11-01T23:09:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27525,7 +27525,18 @@
    ],
    "topic": "lenovo-fingerprint-usb-unencrypted-sd",
    "firstSeen": "2026-11-01T23:02:27+08:00"
+  },
+  {
+   "id": "94f6332c86",
+   "title": "明尼苏达普利茅斯警长亲手拔掉 Flock 摄像头电源：市议会已解约，公司一周不回应也不拆",
+   "summary": "Tom's Hardware 11 月 1 日报道（援引 The Drive）：明尼苏达州普利茅斯市议会 9 月 22 日一致投票终止与 AI 车牌识别公司 Flock Safety 的合同，次日停用全部账号并书面通知解约，但 Flock 总部和法务一周多没有回复、也不来拆设备，警长 Eric Fadden 只好让人直接拔掉摄像头电源线，确保其不再拍摄车牌。附近的 Dayton 市也已暂停 Flock 项目，并称公司无视指令照样更换设备。Flock 全美装有 30 多万台摄像头，除车牌外还用 AI 按贴纸、颜色、车型识别车辆，近期因警员滥用、误判拦车等争议不断，多地居民要求市议会撤除。信号：城市层面对 AI 监控的「退订潮」正在扩散，监控合同透明度、公共摄像头地图和隐私倡导类工具与内容有持续话题度。",
+   "links": [
+    "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+    "https://news.ycombinator.com/item?id=50326118"
+   ],
+   "topic": "flock-plymouth-chief-unplugs-cameras-2026-11",
+   "firstSeen": "2026-11-01T23:09:57+08:00"
   }
  ],
- "lastChecked": "2026-11-01T23:02:27+08:00"
+ "lastChecked": "2026-11-01T23:09:57+08:00"
 }
