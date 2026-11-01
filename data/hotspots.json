@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T03:57:46+08:00",
+ "lastUpdated": "2026-11-02T04:26:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27691,7 +27691,18 @@
    ],
    "topic": "wonder-valley-datacenter-waste-heat",
    "firstSeen": "2026-11-02T03:57:46+08:00"
+  },
+  {
+   "id": "4b795773d1",
+   "title": "Proton 风波余震：老用户发文《不是 AI 翻转了 Proton 的口碑》，称首次不再确定是否推荐 Proton",
+   "summary": "开发者 Raed 在博客中回应 404 Media 对 Proton 内部 AI 转向的报道：CEO Andy Yen 把工程师请求几天渗透测试称为「loser thinking」、员工 AI 使用情况曾被拿来决定去留。作者认为问题不在用 AI 写代码，而在隐私公司的领导层把审慎和安全测试当成速度的阻碍；文章登上 HN 讨论。信号：AI 编码提速与安全审查的冲突正在直接侵蚀隐私类产品的用户信任，AI 代码审查、发布前安全门禁和可审计交付流程更有卖点。",
+   "links": [
+    "https://blog.raed.dev/posts/proton-loser-thinking/",
+    "https://news.ycombinator.com/item?id=50328488"
+   ],
+   "topic": "proton-ai-trust-backlash-followup",
+   "firstSeen": "2026-11-02T04:26:12+08:00"
   }
  ],
- "lastChecked": "2026-11-02T03:57:46+08:00"
+ "lastChecked": "2026-11-02T04:26:12+08:00"
 }
