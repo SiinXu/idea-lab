@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T08:00:07+08:00",
+ "lastUpdated": "2026-11-01T08:24:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27106,7 +27106,38 @@
    ],
    "topic": "hop-linux-no-usb",
    "firstSeen": "2026-11-01T08:00:07+08:00"
+  },
+  {
+   "id": "296a03c56f",
+   "title": "开源手机代理 Mika 三天近 2700 星：一句话让安卓 AI 在「隐形后台屏」上替你操作微信、购物和招聘 App",
+   "summary": "GitHub 项目 wangzan101/Mika（10 月 29 日创建，Apache-2.0，Kotlin）三天内获约 2700 星。它是装在安卓 11+ 手机上的 AI 助理：用户说一句话，它在一块看不见的后台虚拟屏上打开 App、点按、上网把事办完，用户前台照常刷手机。README 演示包括翻完微信群聊天并总结、在购物网站按价格和评分挑充电器加入购物车并停在结账前、总结小红书博主近期内容、在招聘网站给岗位打招呼、查最便宜直飞航班等，提供 APK 下载和多语言文档。",
+   "links": [
+    "https://github.com/wangzan101/Mika"
+   ],
+   "topic": "mika-android-agent",
+   "firstSeen": "2026-11-01T08:24:51+08:00"
+  },
+  {
+   "id": "87eb7b30c3",
+   "title": "《塞尔达传说：王国之泪》被静态重编译成原生 Windows 程序：不靠模拟器，默认 60 帧、最高 144 帧，三天 2600 星",
+   "summary": "GitHub 项目 valentderah/totk-pc-recomp（10 月 29 日创建，MIT 协议）三天内获约 2600 星。它把 Switch 版《王国之泪》静态重编译为原生 x86-64 Windows 应用，而非模拟运行：默认 60 帧、实验性支持 144 帧或显示器刷新率，支持自定义分辨率、超采样与 FSR 1、16:10/21:9/32:9 画面比例、键鼠手柄改键与陀螺仪，着色器在安装时预编译。项目不含任何游戏文件，需用户从自己的主机导出 1.2.1 或 1.4.3 版本自行构建，目前仍处早期，可能有画面错误和崩溃；计划支持 Linux 与 Steam Deck。",
+   "links": [
+    "https://github.com/valentderah/totk-pc-recomp"
+   ],
+   "topic": "totk-static-recomp",
+   "firstSeen": "2026-11-01T08:24:51+08:00"
+  },
+  {
+   "id": "f9b8a9efbf",
+   "title": "五个开源 27B 模型组队写代码：Memdoor 复现多智能体流程，在 LiveCodeBench Hard 前十题均分 9.8，高于 Fable 5 单打的 8.0",
+   "summary": "开源工作流框架 Memdoor 发布 team-solve 示例并登上 Hacker News：用规划、两名构思、求解、管理五个角色加一个修复工作者，各自从全新上下文开始、只通过磁盘文件交流，由运行样例的脚本而非模型判定成败，复现 GVS5H 论文方法。作者称在 Qwen3.8-27B 上跑 LiveCodeBench Hard 前十题五轮，均分 9.8/10，原作者框架为 9.6，Fable 5 单模型为 8.0；50 次运行全部公开，49 次解出，总成本约 35.79 美元。作者也注明只测了十道题。",
+   "links": [
+    "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+    "https://news.ycombinator.com/item?id=50320995"
+   ],
+   "topic": "memdoor-team-solve",
+   "firstSeen": "2026-11-01T08:24:51+08:00"
   }
  ],
- "lastChecked": "2026-11-01T08:00:07+08:00"
+ "lastChecked": "2026-11-01T08:24:51+08:00"
 }
