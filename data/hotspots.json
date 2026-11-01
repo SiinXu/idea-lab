@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T07:43:09+08:00",
+ "lastUpdated": "2026-11-01T08:00:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27074,7 +27074,39 @@
    ],
    "topic": "uk-planassist-15-councils",
    "firstSeen": "2026-11-01T07:43:09+08:00"
+  },
+  {
+   "id": "2649f49189",
+   "title": "pixelfx 开源两天破 1400 星：244 个「纯代码」像素特效，附 Claude Code 技能按像素画师流程自动做新特效",
+   "summary": "GitHub 项目 patch-gg/pixelfx（10 月 30 日创建，MIT 协议）两天内获约 1400 星。它收录 244 个像素风特效与动画——火焰、爆炸、魔法、天气、UI、拾取物、小动物等，每个都是一小段代码，可在在线画廊里实时播放、换色、镜像，直接嵌进网页游戏，或导出精灵图给任意引擎使用；涉及角色的特效还会完整「表演」出蓄力、出手、命中与恢复，12 套连招把特效串成攻击。仓库附带一个 Claude Code 技能，按「起稿、渲染、看图、修改」的挑剔像素画师流程生成新特效，方法来自 Sprite Fusion 的 Hugo Duprez 关于用 Claude 做像素特效的文章。",
+   "links": [
+    "https://github.com/patch-gg/pixelfx",
+    "https://patch-gg.github.io/pixelfx/",
+    "https://www.spritefusion.com/blog/how-to-make-good-pixel-art-effects-with-claude"
+   ],
+   "topic": "pixelfx-claude-skill",
+   "firstSeen": "2026-11-01T08:00:07+08:00"
+  },
+  {
+   "id": "acae5487f5",
+   "title": "Claude Code 技能 teardown 走红：一句话让 AI 把任意机器做成可拆解的 3D 交互模拟器",
+   "summary": "GitHub 项目 elvarofficial/teardown（10 月 30 日创建，MIT 协议）两天内获近 400 星。安装后只需用自然语言提问，例如「做一个可以拆开的四冲程摩托车发动机模拟器」或「机械表怎么走时」，Claude Code 就会生成一个离线单页 HTML：机器在中间运转，四周面板显示实时数值，点按钮可打开正在工作的部件，无人操作时页面会自动导览，还可录制演示视频。仓库自带 V8 发动机、塞斯纳飞机、仿生兽 Strandbeest 等示例，以及机器人蜜蜂、蝎子、章鱼演示，依赖 Node.js 20、Playwright，视频需 ffmpeg。",
+   "links": [
+    "https://github.com/elvarofficial/teardown"
+   ],
+   "topic": "teardown-claude-skill-3d-sim",
+   "firstSeen": "2026-11-01T08:00:07+08:00"
+  },
+  {
+   "id": "a667e91910",
+   "title": "开源工具 hop 一天 700 星：在 Windows 里点几下就能装上双系统 Linux，无需 U 盘",
+   "summary": "GitHub 项目 Arjun-Ingole/hop（10 月 30 日创建，MIT 协议）约一天获 700 余星。它是一个 Windows 单文件应用：选发行版、选磁盘、拖动分配空间后点击安装，即可在 Windows 旁装上 Linux，不需要制作启动 U 盘。它从各发行版官方服务器下载 ISO 并在有公布时校验哈希，先检查电脑状态再改动磁盘，可压缩 C 盘、用空闲空间或第二块硬盘；还会列出 Linux 安装程序里该点哪些选项，开机回到 Windows 时能解释原因并重启进 BIOS，撤销时把空间还给 Windows。",
+   "links": [
+    "https://github.com/Arjun-Ingole/hop"
+   ],
+   "topic": "hop-linux-no-usb",
+   "firstSeen": "2026-11-01T08:00:07+08:00"
   }
  ],
- "lastChecked": "2026-11-01T07:43:09+08:00"
+ "lastChecked": "2026-11-01T08:00:07+08:00"
 }
