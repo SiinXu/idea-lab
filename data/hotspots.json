@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T00:57:22+08:00",
+ "lastUpdated": "2026-11-02T01:26:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27625,7 +27625,18 @@
    ],
    "topic": "hardware",
    "firstSeen": "2026-11-02T00:57:22+08:00"
+  },
+  {
+   "id": "bf55c23c95",
+   "title": "老牌 Linux 桌面 Enlightenment 发布 0.28.0：新增 NetworkManager 模块、原生 PipeWire 混音和剪贴板历史，并首次支持 NetBSD",
+   "summary": "10 月 31 日，Enlightenment 作者 Carsten Haitzler 发布 0.28.0 版本。官方更新日志显示：新增 NetworkManager 模块（Wi-Fi、以太网、蓝牙网络与 VPN，信号强度、安全标识、强制门户登录处理等），与 PulseAudio 并行的原生 PipeWire 混音器，可配置持久化的剪贴板历史模块，电池充电上限设置，以及初步的 NetBSD 支持。帖子在 HN 首页获得关注。信号：轻量桌面环境在 PipeWire、NetworkManager 等现代 Linux 栈上补齐体验，老项目仍在持续迭代。",
+   "links": [
+    "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
+    "https://news.ycombinator.com/item?id=50326530"
+   ],
+   "topic": "opensource",
+   "firstSeen": "2026-11-02T01:26:09+08:00"
   }
  ],
- "lastChecked": "2026-11-02T00:57:22+08:00"
+ "lastChecked": "2026-11-02T01:26:09+08:00"
 }
