@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T10:55:50+08:00",
+ "lastUpdated": "2026-11-01T11:16:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27237,7 +27237,18 @@
    ],
    "topic": "art-community-false-ai-accusations-nov1",
    "firstSeen": "2026-11-01T10:55:50+08:00"
+  },
+  {
+   "id": "c2ed3a03a4",
+   "title": "Lean 之父 Leo de Moura 谈「AI 写代码，谁来证明它对」：形式化验证正从数学圈走向软件工程，规格说明将取代代码成为核心资产",
+   "summary": "AWS 副总裁、Lean 定理证明器作者 Leo de Moura 在 The Data Exchange 播客中表示，AI 正让形式化验证变得实用：AI 生成代码越多，就越需要机器可检查的证明来替代「相信我」式的代码审查。他谈到用 Lean 验证 Rust、自动形式化、扩展 Mathlib 数学库，以及「验证过的软件栈」愿景——用证明约束 AI 代理的沙箱与安全策略；还提醒要警惕需求缺口和模型缺口，证明只保证符合规格，不保证规格本身正确。他认为工程师的核心技能会从写代码转向写规格。该期在 Hacker News 首页获近 200 分。",
+   "links": [
+    "https://thedataexchange.media/leo-de-moura-lean-aws/",
+    "https://news.ycombinator.com/item?id=50290652"
+   ],
+   "topic": "leo-de-moura-lean-ai-formal-verification-podcast",
+   "firstSeen": "2026-11-01T11:16:07+08:00"
   }
  ],
- "lastChecked": "2026-11-01T10:55:50+08:00"
+ "lastChecked": "2026-11-01T11:16:07+08:00"
 }
