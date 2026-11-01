@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T20:53:58+08:00",
+ "lastUpdated": "2026-11-01T21:37:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27459,7 +27459,29 @@
    ],
    "topic": "altman-dram-local-ai-terrible",
    "firstSeen": "2026-11-01T20:53:58+08:00"
+  },
+  {
+   "id": "a067309477",
+   "title": "Show HN「Outcrop」：手机对准山体，用 AR 把地质图直接画在眼前的地貌上，离线可用、免费",
+   "summary": "开发者 headsupernova（另一款应用 Flyover Country 的作者）在 HN 发布 Outcrop：举起手机对准峡谷、路堑或远处山脊，App 会通过摄像头把全球地质图（数据来自 Macrostrat、USGS）以增强现实叠加在实景上，标出准星下的岩石单元名称、年代和成因，并能查看脚下的地层柱、化石，以及用 PALEOMAP 把地球回拨到岩石形成时的板块位置。支持离线，Android 已上架，iPhone 在 TestFlight 测试。信号：开放地理/科学数据 + 手机 AR 的「看懂身边世界」类工具（地质、植物、星空、建筑）仍有空间，户外旅游、研学教育和导游内容是可变现的方向。",
+   "links": [
+    "https://outcrop.rocks/",
+    "https://news.ycombinator.com/item?id=50290533"
+   ],
+   "topic": "outcrop-ar-geology-app",
+   "firstSeen": "2026-11-01T21:37:45+08:00"
+  },
+  {
+   "id": "7be82fece5",
+   "title": "牛津教授：全面电气化可让全球能源总需求减半，数据中心对区域电网的压力大于 1 亿辆电动车",
+   "summary": "Everything Electric 播客第 361 期访谈牛津大学能源与气候政策教授 Jan Rosenow：电力目前只占全球能源故事的约 20%，交通和供暖等「隐藏的 80%」仍靠化石燃料，现有系统约三分之二的能源输入以热的形式浪费掉，因此大规模电气化（热泵、电动车、工业热电池）可把全球能源总需求压到约一半。他还认为数据中心对区域电网的冲击比 1 亿辆电动车更大，电池材料 95%–97% 可回收，并谈到中国光伏规模和煤电利用率下降。该集登上 HN 首页并引发讨论。信号：AI 数据中心用电与电网扩容、能效与热泵、电池回收是持续升温的交叉赛道，能源数据可视化和政策解读内容有受众。",
+   "links": [
+    "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
+    "https://news.ycombinator.com/item?id=50319110"
+   ],
+   "topic": "electrification-halve-energy-rosenow",
+   "firstSeen": "2026-11-01T21:37:45+08:00"
   }
  ],
- "lastChecked": "2026-11-01T20:53:58+08:00"
+ "lastChecked": "2026-11-01T21:37:45+08:00"
 }
