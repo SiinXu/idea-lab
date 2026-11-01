@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T14:53:06+08:00",
+ "lastUpdated": "2026-11-01T15:09:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27315,7 +27315,29 @@
    ],
    "topic": "altoids-tin-handheld-father-son-2026-10-31",
    "firstSeen": "2026-11-01T14:53:06+08:00"
+  },
+  {
+   "id": "2b639ec436",
+   "title": "Show HN「BBRouter」：在浏览器里用 3D 面包板仿真 Ben Eater 8 位计算机，还自带 MCP 服务器让 Claude 直接改电路、跑仿真",
+   "summary": "BBRouter 是一个网页版电子电路仿真工具，11 月 1 日以 Show HN 形式发布，示例项目把 Ben Eater 经典的 SAP-1 八位面包板计算机完整搬进 3D 面包板：可拖放芯片、连线、切换原理图视图、按 1 倍到 1/1000 速度运行或暂停，并能导出物料清单（CSV）、原理图 SVG/PDF 和装配说明。它还提供 MCP 服务器，Claude Code 等 AI 应用登录后可以直接打开、修改和运行用户的电路项目。信号：「AI 代理 + 硬件仿真/教学」正在出现，面向电子爱好者、计算机组成原理课程和创客教育的在线仿真与 AI 辅导工具有机会。",
+   "links": [
+    "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+    "https://news.ycombinator.com/item?id=50321522"
+   ],
+   "topic": "bbrouter-3d-breadboard-sap1-mcp-2026-11-01",
+   "firstSeen": "2026-11-01T15:09:18+08:00"
+  },
+  {
+   "id": "f0e1b9970d",
+   "title": "Tarsnap 作者 Colin Percival 长文《学者的责任》登 HN 热榜：回顾 2005 年披露超线程侧信道漏洞，主张发现问题者有义务主动找人说出真相",
+   "summary": "FreeBSD 开发者、Tarsnap 创始人 Colin Percival 10 月 31 日发文，回忆自己 2004 年提交牛津博士论文时发现 Intel 超线程会经由缓存状态在线程间泄露信息，并做出窃取 RSA 私钥的概念验证；他搁置求职半年协调各家安全团队修补，Intel 曾试图施压撤回论文，最终于 2005 年 5 月在 BSDCan 公开，FreeBSD、NetBSD、Red Hat、Ubuntu 等同步发布公告。他还举了 2009 年向亚马逊报告 EC2 防火墙破坏路径 MTU 发现、三年未修后公开写博客教用户自救的例子，主张这种责任不止于「不隐瞒」，还应主动寻找该知道真相的人。文章在 Hacker News 获 100 多分。信号：AI 时代漏洞发现门槛下降，协调披露流程、漏洞报告平台和工程伦理再度成为热议话题。",
+   "links": [
+    "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+    "https://news.ycombinator.com/item?id=50319061"
+   ],
+   "topic": "percival-duty-of-a-scholar-disclosure-2026-10-31",
+   "firstSeen": "2026-11-01T15:09:18+08:00"
   }
  ],
- "lastChecked": "2026-11-01T14:53:06+08:00"
+ "lastChecked": "2026-11-01T15:09:18+08:00"
 }
