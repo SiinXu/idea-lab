@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T22:01:34+08:00",
+ "lastUpdated": "2026-11-01T22:28:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27492,7 +27492,18 @@
    ],
    "topic": "jepa-platonic-representation-theorem",
    "firstSeen": "2026-11-01T22:01:34+08:00"
+  },
+  {
+   "id": "e17eb6c5fc",
+   "title": "AI 智能体蜂群进 Minecraft「建文明」翻车：50 个智能体组队后陷入官僚内耗，最终失败",
+   "summary": "Tom's Hardware 报道，研究者让大量 AI 智能体在 Minecraft 里协作建设繁荣文明，但 50 个智能体规模的团队纷纷被层层沟通和流程拖垮，几乎无法推进，暴露了多智能体协作在规模变大后的协调难题。",
+   "links": [
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+    "https://news.ycombinator.com/item?id=50325662"
+   ],
+   "topic": "minecraft-agent-swarm-bureaucracy",
+   "firstSeen": "2026-11-01T22:28:35+08:00"
   }
  ],
- "lastChecked": "2026-11-01T22:01:34+08:00"
+ "lastChecked": "2026-11-01T22:28:35+08:00"
 }
