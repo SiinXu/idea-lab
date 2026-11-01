@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T21:37:45+08:00",
+ "lastUpdated": "2026-11-01T22:01:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27481,7 +27481,18 @@
    ],
    "topic": "electrification-halve-energy-rosenow",
    "firstSeen": "2026-11-01T21:37:45+08:00"
+  },
+  {
+   "id": "3f8fd93989",
+   "title": "LeCun 与 Balestriero 新论文把「柏拉图表征假说」证成定理：109M 参数的文本 JEPA，与图像编码器的对齐度胜过 72B 大语言模型",
+   "summary": "Randall Balestriero 和 Yann LeCun 在 arXiv 发布新论文（10 月 29 日），登上 HN 新帖：他们证明了「柏拉图表征定理」——在不同模态上分别训练的 JEPA（联合嵌入预测架构），只要正样本对是同一场景的两次观测（「好视角」），学到的表征只差一个旋转。论文认为下一个 token 预测本质上是「坏视角」的 JEPA，这解释了语言模型为何只能靠堆规模才和视觉对齐：同样语料下，好视角达到相同对齐所需样本少 42 倍；一个 109M 参数的文本 JEPA 与 DINOv2、CLIP 图像编码器的对齐度超过所测的全部语言模型（最大 72B）。只靠一次旋转就能把两个独立训练的编码器拼成图像描述器（COCO CIDEr 0.838），无配对零样本 ImageNet-100 top-5 达 64%，高于 8B 以内语言模型的最好成绩 56%。信号：「数据视角比规模更重要」会给小模型、多模态检索和端侧 AI 带来新路线，也会再次点燃 LeCun 一派对 LLM 路线的争论，适合做论文解读和小模型实战内容。",
+   "links": [
+    "https://arxiv.org/abs/2610.39302",
+    "https://news.ycombinator.com/item?id=50325454"
+   ],
+   "topic": "jepa-platonic-representation-theorem",
+   "firstSeen": "2026-11-01T22:01:34+08:00"
   }
  ],
- "lastChecked": "2026-11-01T21:37:45+08:00"
+ "lastChecked": "2026-11-01T22:01:34+08:00"
 }
