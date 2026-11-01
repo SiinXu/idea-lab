@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T10:31:57+08:00",
+ "lastUpdated": "2026-11-01T10:44:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27193,7 +27193,29 @@
    ],
    "topic": "openai-chatgpt-codex-shared-usage-december",
    "firstSeen": "2026-11-01T10:31:57+08:00"
+  },
+  {
+   "id": "0a006607aa",
+   "title": "本地语音输入工具 Hex 3.0/3.1 连发：按住快捷键说话、直接粘进任意 App，全程离线，覆盖 Mac、Windows 和 Linux",
+   "summary": "OpenCode 团队 Anomaly 开源的语音听写应用 Hex（GitHub 约 2100 星）10 月 31 日发布 3.0、11 月 1 日跟进 3.1：用原生 Rust 重写，三平台统一设置界面和录音指示；新增「词汇表」让识别偏向人名和术语，本地模型内存占用从约 900MB 降到约 160MB，并加入新语音模型和孟加拉语；macOS 实验室里还有会议记录（测试版）。语音动作和口令功能被移除。X 上用户称其速度接近付费听写服务，有人表示 iOS 版一出就退订付费产品；作者称开发过程大量依靠 vibe coding。",
+   "links": [
+    "https://github.com/anomalyco/hex/releases/tag/v3.0.0",
+    "https://github.com/anomalyco/hex/releases/tag/v3.1.0",
+    "https://x.com/i/trending/2116678391482953816"
+   ],
+   "topic": "anomaly-hex-3-local-dictation",
+   "firstSeen": "2026-11-01T10:44:32+08:00"
+  },
+  {
+   "id": "257c2affc4",
+   "title": "打越钢太郎发长文澄清 AI 用法：只用于网站代码等繁琐活，创意和美术全由人做；却因把反 AI 比作反 LGBTQ+ 再遭粉丝批评",
+   "summary": "《极限脱出》《AI：梦境档案》编剧打越钢太郎 11 月 1 日在 X 发长文，为 10 月采访引发的误解道歉，说明自己只把 AI 用于网站代码结构等重复性工作，创意、设计和最终成品都由人完成，并把对 AI 的抵触类比为当年对文字处理器和电子游戏的怀疑。但他把 AI 争议与自己支持 LGBTQ+ 时遭受的反对相提并论，被许多粉丝批评比喻不当；他引用莎士比亚「忠于自我」回应，并表示不认同的人可以取关或不买游戏。此前他的新工作室首作已因发行商全面禁用 AI 被砍。",
+   "links": [
+    "https://x.com/i/trending/2116716189728542737"
+   ],
+   "topic": "uchikoshi-ai-use-clarification-nov1",
+   "firstSeen": "2026-11-01T10:44:32+08:00"
   }
  ],
- "lastChecked": "2026-11-01T10:31:57+08:00"
+ "lastChecked": "2026-11-01T10:44:32+08:00"
 }
