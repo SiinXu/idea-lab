@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T20:27:11+08:00",
+ "lastUpdated": "2026-11-01T20:53:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27448,7 +27448,18 @@
    ],
    "topic": "cnil-fnac-darty-tracker-fine",
    "firstSeen": "2026-11-01T20:27:11+08:00"
+  },
+  {
+   "id": "4ae4c030e2",
+   "title": "Sam Altman 称「每台电脑都塞一堆内存」很糟糕：DRAM 紧缺下应优先给数据中心，本地跑模型利用率仅约 5%",
+   "summary": "Tom's Hardware 报道，OpenAI CEO Sam Altman 在一次访谈中谈到用开源模型在家用电脑做本地推理时表示：从全球分配角度看，让每个人电脑里都放着一堆稀缺 DRAM、却只有约 5% 的时间在用，是「相当糟糕」的；在供给受限环境下应追求云端最大利用率。言论在内存涨价、PC 装机成本上升的背景下引发 HN 讨论，被普遍视为在为闭源云端模型的商业模式辩护。信号：「本地 AI vs 云端 AI」之争升温，本地小模型、内存高效推理（量化、MoE 卸载）和隐私向离线工具的叙事反而更有传播点。",
+   "links": [
+    "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
+    "https://news.ycombinator.com/item?id=50324267"
+   ],
+   "topic": "altman-dram-local-ai-terrible",
+   "firstSeen": "2026-11-01T20:53:58+08:00"
   }
  ],
- "lastChecked": "2026-11-01T20:27:11+08:00"
+ "lastChecked": "2026-11-01T20:53:58+08:00"
 }
