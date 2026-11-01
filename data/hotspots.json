@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T18:53:47+08:00",
+ "lastUpdated": "2026-11-01T20:27:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27437,7 +27437,18 @@
    ],
    "topic": "handy-offline-speech-to-text",
    "firstSeen": "2026-11-01T18:53:47+08:00"
+  },
+  {
+   "id": "c699e2ceca",
+   "title": "法国 CNIL 罚 Fnac Darty 700 万欧元：App 一打开就未经同意加载第三方追踪器，还拿浏览记录训练推荐算法",
+   "summary": "隐私组织 noyb 2023 年投诉后，法国数据保护机构 CNIL 调查确认：法国最大电子零售商之一 Fnac Darty 的移动 App 未经用户同意放置追踪器，收集浏览历史用于商品推荐和训练推荐算法，被罚 700 万欧元，逾期不改每天再罚 1 万欧元。同批投诉还涉及 SeLoger 和 MyFitnessPal。信号：欧洲监管把「用用户数据训练推荐/AI 模型」也纳入同意要求，面向出海 App 的 SDK 追踪审计、同意管理（CMP）和隐私合规扫描工具有现实需求。",
+   "links": [
+    "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
+    "https://news.ycombinator.com/item?id=50324533"
+   ],
+   "topic": "cnil-fnac-darty-tracker-fine",
+   "firstSeen": "2026-11-01T20:27:11+08:00"
   }
  ],
- "lastChecked": "2026-11-01T18:53:47+08:00"
+ "lastChecked": "2026-11-01T20:27:11+08:00"
 }
