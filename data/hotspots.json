@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T00:29:27+08:00",
+ "lastUpdated": "2026-11-02T00:44:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27592,7 +27592,18 @@
    ],
    "topic": "",
    "firstSeen": "2026-11-02T00:29:27+08:00"
+  },
+  {
+   "id": "664224e893",
+   "title": "Show HN：HackerBooks 上线，把 HN 评论里推荐过的 1.65 万本书做成可搜索书库，作者称几乎全由 Claude 写成",
+   "summary": "开发者 roansh 受 Karpathy 的 HackerTube（把 HN 推荐的视频做成 YouTube 式站点）启发，发布 HackerBooks：收录 2007 年至今至少被两位不同 HN 评论者提到的约 1.65 万本书，每本书都能跳回提到它的原始评论，提供全站热门、上升、个性化推荐与主题分类，数据可在 About 页下载。作者表示数据管道和网站几乎全部由 Claude 编写，自己只负责引导和决策；目前按提及次数统计，夸和骂都算一次。发布约半小时即冲上 HN 首页。信号：「从社区讨论里挖出推荐清单」的聚合站正在被 AI 快速批量复制，HackerTube 之后会出现更多垂直版本。",
+   "links": [
+    "https://hackerbooks.org",
+    "https://news.ycombinator.com/item?id=50326821"
+   ],
+   "topic": "",
+   "firstSeen": "2026-11-02T00:44:03+08:00"
   }
  ],
- "lastChecked": "2026-11-02T00:29:27+08:00"
+ "lastChecked": "2026-11-02T00:44:03+08:00"
 }
