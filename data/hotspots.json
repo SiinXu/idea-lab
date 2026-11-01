@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T04:26:12+08:00",
+ "lastUpdated": "2026-11-02T05:46:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27702,7 +27702,18 @@
    ],
    "topic": "proton-ai-trust-backlash-followup",
    "firstSeen": "2026-11-02T04:26:12+08:00"
+  },
+  {
+   "id": "d144e49d21",
+   "title": "Asymco 新文《最后一家消费公司》：苹果拿下标普 500 上半区消费者收入的 50%，登上 HN",
+   "summary": "分析师 Horace Dediu 对比 2010 与 2026 年全球市值前 20：2010 年有 8 家面向消费者，如今除苹果外几乎没有纯消费品公司，科技公司从 6 家增至 14 家、市值占比由约三分之一升到 83%，亚马逊的利润也主要靠 AWS。文章称苹果占标普 500 前半区消费者收入的一半，资本市场几乎没有别的消费者敞口。信号：大公司普遍转向 B2B 与 AI 基础设施，面向个人用户的高体验 AI 消费产品反而留下空档，独立开发者做 C 端 AI 工具的竞争格局相对宽松。",
+   "links": [
+    "https://asymco.com/2026/11/01/the-last-consumer-company/",
+    "https://news.ycombinator.com/item?id=50330005"
+   ],
+   "topic": "apple-last-consumer-company",
+   "firstSeen": "2026-11-02T05:46:49+08:00"
   }
  ],
- "lastChecked": "2026-11-02T04:26:12+08:00"
+ "lastChecked": "2026-11-02T05:46:49+08:00"
 }
