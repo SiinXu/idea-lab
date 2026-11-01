@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-01T22:43:16+08:00",
+ "lastUpdated": "2026-11-01T23:02:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27514,7 +27514,18 @@
    ],
    "topic": "ai-capex-bond-market",
    "firstSeen": "2026-11-01T22:43:16+08:00"
+  },
+  {
+   "id": "a2df9ff92e",
+   "title": "联想「加密」指纹 U 盘被拆穿：外壳里只是一张未加密的 SD 卡",
+   "summary": "Reddit r/technology 热帖（同步登上 HN 新帖）称，联想一款宣传为指纹加密的 U 盘，拆开后只是装在外壳里的普通未加密 SD 卡，所谓“加密”保护名不副实。信号：硬件安全营销与实际实现不符的问题再度引发关注，适合做“如何辨别真加密存储设备”的科普与评测内容。",
+   "links": [
+    "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+    "https://news.ycombinator.com/item?id=50326099"
+   ],
+   "topic": "lenovo-fingerprint-usb-unencrypted-sd",
+   "firstSeen": "2026-11-01T23:02:27+08:00"
   }
  ],
- "lastChecked": "2026-11-01T22:43:16+08:00"
+ "lastChecked": "2026-11-01T23:02:27+08:00"
 }
