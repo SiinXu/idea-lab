@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T05:46:49+08:00",
+ "lastUpdated": "2026-11-02T07:24:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27713,7 +27713,18 @@
    ],
    "topic": "apple-last-consumer-company",
    "firstSeen": "2026-11-02T05:46:49+08:00"
+  },
+  {
+   "id": "2041779807",
+   "title": "安全研究者长文《看来现在大家都用 LLM 思考了》冲上 HN：坚持不用 AI 做漏洞研究，批评 AI 公司拿网络安全当营销",
+   "summary": "博主 eva 回应读者「你用哪个 AI 模型找到的漏洞」的追问：她的研究全部靠人脑，因为逆向和读源码本身就是乐趣，也无法为 LLM 的产出署名。文章认为 LLM 确实强大但仍被过度营销，近期引发恐慌的漏洞多是资深研究者在大公司无限 token 支持下用 LLM 找到的，并以 php2shell 为例，指出 Calif、OpenAI、Wiz 三方各发博客、叙事不一。信号：开发者圈对「AI 替代思考」的反感在升温，强调人类主导、AI 辅助且透明署名的工具和内容定位更容易获得信任。",
+   "links": [
+    "https://eva.ac/blog/llms/",
+    "https://news.ycombinator.com/item?id=50330253"
+   ],
+   "topic": "everyone-uses-llms-to-think",
+   "firstSeen": "2026-11-02T07:24:30+08:00"
   }
  ],
- "lastChecked": "2026-11-02T05:46:49+08:00"
+ "lastChecked": "2026-11-02T07:24:30+08:00"
 }
