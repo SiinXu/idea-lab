@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T06:43:21+08:00",
+ "lastUpdated": "2026-11-03T06:54:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28730,7 +28730,18 @@
    ],
    "topic": "apple-fy26-q4-results-2026-11-02",
    "firstSeen": "2026-11-03T06:43:21+08:00"
+  },
+  {
+   "id": "150a24daa3",
+   "title": "TechPolicy.Press 发文呼吁美国 SEC 叫停 Anthropic IPO：招股书脚注藏着约 8950 亿美元算力支出承诺",
+   "summary": "11 月 2 日，《Brace for Impact》报告合著者 Matt Scherer 在 TechPolicy.Press 发表评论，称 Anthropic 修订后的招股书显示，仅对亚马逊、AMD、博通、谷歌和微软五家公司就有至少 5820 亿美元不可撤销的算力支出承诺，合同承诺总额约 8950 亿美元、多数延续到 2030 年代，而账上现金约 960 亿美元；他还指出 2026 年财务数据未经正式审计、第三季度收入增速明显放缓，主张 SEC 阻止其在 11 月上市，以免散户和养老金投资者「接盘」。文章发布不到半小时即登上 Hacker News。信号：Anthropic 上市前的财务透明度和 AI 行业「表外债务」正成为监管与舆论焦点，解读招股书、追踪 AI 公司算力承诺与现金流的数据工具和内容有需求。",
+   "links": [
+    "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+    "https://news.ycombinator.com/item?id=50344919"
+   ],
+   "topic": "anthropic-ipo-sec-block-oped-2026-11-02",
+   "firstSeen": "2026-11-03T06:54:24+08:00"
   }
  ],
- "lastChecked": "2026-11-03T06:43:21+08:00"
+ "lastChecked": "2026-11-03T06:54:24+08:00"
 }
