@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T00:24:13+08:00",
+ "lastUpdated": "2026-11-03T00:47:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28408,7 +28408,18 @@
    ],
    "topic": "posthog-moving-off-duckdb-hoglake-2026-11-02",
    "firstSeen": "2026-11-03T00:24:13+08:00"
+  },
+  {
+   "id": "0a490515f7",
+   "title": "Cloudflare 工程博文：用「定向构建」改造 DNS 区域构建器，变更生效延迟减半、峰值内存降 85%",
+   "summary": "Cloudflare 11 月 2 日发布深度工程博文，并登上 Hacker News 首页。其 DNS 区域构建器（Zone Builder）每秒要处理约 700 次 DNS 记录变更和约 100 个其他事件，是 2022 年的近三倍，部分区域已超过 2000 万条记录，并预计增长到数亿条。过去一次区域设置改动就要整区重建，成本随区域规模膨胀。团队新做了一个「定向构建规划器」，只选出能证明安全的最小重建范围，再配合按区域合并任务的新调度器：区域设置改动不再触发整区重建，峰值内存下降 85%，省出的余量让他们缩短了管线里原本为容错设置的等待，从 DNS 改动到数据写入全球键值存储 Quicksilver 的时间减半。对开发者来说，这是「增量构建 + 安全性证明」应对超大规模配置的实战参考；对创业者来说，大规模 DNS/配置变更的生效延迟监控与可视化工具仍有需求。",
+   "links": [
+    "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+    "https://news.ycombinator.com/item?id=50337558"
+   ],
+   "topic": "cloudflare-dns-targeted-zone-builds-2026-11-02",
+   "firstSeen": "2026-11-03T00:47:18+08:00"
   }
  ],
- "lastChecked": "2026-11-03T00:24:13+08:00"
+ "lastChecked": "2026-11-03T00:47:18+08:00"
 }
