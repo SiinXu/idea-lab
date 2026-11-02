@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T02:44:45+08:00",
+ "lastUpdated": "2026-11-03T03:00:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28522,7 +28522,18 @@
    ],
    "topic": "czue-cancel-saas-opus-inhouse-2026-11-02",
    "firstSeen": "2026-11-03T02:44:45+08:00"
+  },
+  {
+   "id": "38c41eb0ed",
+   "title": "MIT CSAIL 研究：GPT-6 Astra 能直接读写神经网络权重，只改 Qwen3.5-0.8B 0.016% 的权重就把 MATH-500 从 7.9% 提到 48.1%",
+   "summary": "MIT CSAIL 的 Rikiya Takehi、Omar Khattab 等人 11 月 2 日发布博文《权重空间编程的火花》，并登上 Hacker News 新帖。他们发现前沿大模型不靠梯度、不写训练循环，只凭推理就能看懂和改写神经网络权重：GPT-6 Astra 只看 17,253 个原始权重就判断出网络是为 Breakout 游戏训练的（置信度 99%）；能从零手写小型游戏策略网络，表现超过 PPO 训练 1 亿步的网络；还找出 Qwen3.5-0.8B 权重里导致推理死循环的问题，只编辑 0.016% 的权重，就让 MATH-500 从 7.9% 升到 48.1%，IFEval 提升约 3 倍。作者认为，今后权重可能由会推理的大模型直接优化，这对模型优化和可解释性都可能影响很大。",
+   "links": [
+    "https://rikiyat.github.io/blog/weight-space-programming/",
+    "https://news.ycombinator.com/item?id=50341174"
+   ],
+   "topic": "mit-weight-space-programming-astra-qwen-2026-11-02",
+   "firstSeen": "2026-11-03T03:00:36+08:00"
   }
  ],
- "lastChecked": "2026-11-03T02:44:45+08:00"
+ "lastChecked": "2026-11-03T03:00:36+08:00"
 }
