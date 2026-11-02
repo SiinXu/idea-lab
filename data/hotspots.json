@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T07:16:26+08:00",
+ "lastUpdated": "2026-11-03T07:29:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28752,7 +28752,18 @@
    ],
    "topic": "europe-supermarket-fridge-cyberattack-2026-11-02",
    "firstSeen": "2026-11-03T07:16:26+08:00"
+  },
+  {
+   "id": "3a6efdada6",
+   "title": "「Anthropic 增长真的放缓了」分析文冲上 HN：按月拆解 Q3 营收 168 亿美元，8–9 月几乎没涨",
+   "summary": "Henry Blodget 在 Regenerator 发文，依据媒体报道的 Anthropic 季度营收（Q1 48 亿、Q2 116 亿、Q3 168 亿美元）和 7 月 650 亿美元年化收入，估算其 8、9 月收入几乎持平，Q3 新增营收绝对值也低于 Q2；文章还指出 Anthropic 未向投资者给出 9 月年化数据，并把这与 CoreWeave 等算力云股价下跌联系起来。该文在 Anthropic IPO 争议升温之际登上 Hacker News 热榜，不到一小时获得 60 余分。信号：AI 头部公司增速与 IPO 估值正被逐月审视，AI 公司财务追踪、算力供需与估值分析类内容和工具有关注度。",
+   "links": [
+    "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+    "https://news.ycombinator.com/item?id=50344958"
+   ],
+   "topic": "anthropic-growth-flattened-analysis-2026-11-02",
+   "firstSeen": "2026-11-03T07:29:21+08:00"
   }
  ],
- "lastChecked": "2026-11-03T07:16:26+08:00"
+ "lastChecked": "2026-11-03T07:29:21+08:00"
 }
