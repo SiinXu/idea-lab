@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T11:30:37+08:00",
+ "lastUpdated": "2026-11-02T11:38:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27952,7 +27952,27 @@
    ],
    "topic": "matt-walsh-ai-writing-tells-flagxiety",
    "firstSeen": "2026-11-02T11:30:37+08:00"
+  },
+  {
+   "id": "a9db1955c6",
+   "title": "AI 虚拟老师拼不对「seventeen」的视频在 X 疯传：动漫形象 AI 教师把单词拼成 seveen、seventen",
+   "summary": "YouTuber Husk IRL 在 10 月底的视频里测试用 AI 语音系统当老师，一个双马尾动漫形象的 AI 教师在简单的拼写提问中把「seventeen」拼成「seveen」「seventen」。片段在 X 上被大量做成梗图，也有作家 Ewan Morrison 等人借此警告 AI 进入学校、医疗和银行的风险。原因是大模型按 token 而不是按字母处理文本，数字母、拼写类任务是已知弱点。信号：AI 教育产品需要拼写和计数等基础能力的专门校验，「AI 老师翻车」类内容也有持续的传播力。",
+   "links": [
+    "https://x.com/i/trending/2116969723644747997"
+   ],
+   "topic": "ai-teacher-spelling-seventeen-viral",
+   "firstSeen": "2026-11-02T11:38:46+08:00"
+  },
+  {
+   "id": "15650a6a37",
+   "title": "「上百个 AI 开发网红里真懂的可能就 10 个」：Theo 一句话引发 X 对 AI 网红含金量与读写能力下滑的讨论",
+   "summary": "开发者、CEO Theo 在 X 上直言，网上数以百计分享 AI 开发技巧的网红里，真正懂行的大概只有 10 个，引来大量附和。讨论随后延伸到 AI 是否在削弱真实思考能力：有人援引 OECD 关于高中生阅读成绩下滑的报告和「认知卸载」研究，认为过度依赖 AI 会限制深度思考；也有人反驳说读写能力强的人反而更会用 AI。信号：「去网红化」的硬核 AI 教程、可验证的实战案例和专家筛选型内容更有机会获得信任。",
+   "links": [
+    "https://x.com/i/trending/2117060236943220791"
+   ],
+   "topic": "ai-dev-influencers-skepticism-literacy",
+   "firstSeen": "2026-11-02T11:38:46+08:00"
   }
  ],
- "lastChecked": "2026-11-02T11:30:37+08:00"
+ "lastChecked": "2026-11-02T11:38:46+08:00"
 }
