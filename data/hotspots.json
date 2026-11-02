@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T23:01:18+08:00",
+ "lastUpdated": "2026-11-02T23:19:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28353,7 +28353,29 @@
    ],
    "topic": "karpathy-nanochat-trending-2026-11-02",
    "firstSeen": "2026-11-02T23:01:18+08:00"
+  },
+  {
+   "id": "fb9ff410ae",
+   "title": "Anthropic 提交修订版 S-1 招股书：前三季度营收 332 亿美元、同比增约 12 倍，算力与基础设施承诺支出近 8954 亿美元",
+   "summary": "据 CNBC 11 月 2 日报道，Anthropic 向美国证监会提交修订版 S-1，首次披露截至 9 月 30 日的前九个月财务数据：营收 332.4 亿美元，同比增长约 1200%；其中第三季度营收约 170 亿美元。同期净亏损 1040 亿美元，但大部分来自可转换票据和衍生负债的公允价值变动；第三季度净亏损 232.9 亿美元。公司披露已签订的采购与租赁承诺总额约 8954 亿美元，几乎全部用于算力和基础设施，前九个月相关开支同比增长 329%。招股书风险因素超过 90 页。对开发者和创业者而言，这说明企业级大模型需求仍在高速放量，但头部厂商的成本结构也意味着 API 价格和供给策略会持续受算力约束。",
+   "links": [
+    "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+    "https://news.ycombinator.com/item?id=50337439"
+   ],
+   "topic": "anthropic-amended-s1-q3-financials-2026-11-02",
+   "firstSeen": "2026-11-02T23:19:40+08:00"
+  },
+  {
+   "id": "0e6629be97",
+   "title": "Hacker News 热议《WTF Ubuntu?》：严重 TCP 内核漏洞 CVE-2026-98432 公开两周多，Ubuntu 全部受支持版本仍无补丁",
+   "summary": "开发者 chalmovsky 11 月 2 日发文《WTF Ubuntu?》，半小时内冲上 Hacker News 首页。文章指出，CVSS 9.8 的 Linux 内核 TCP 远程漏洞 CVE-2026-98432 自 2016 年就存在，Anthropic 称已做出可拿到 root 的利用程序；Debian 在 10 月 16 日已修复，Arch、Alpine 等社区发行版也已发布补丁，但截至 11 月 2 日 14:48（UTC）Ubuntu 所有受支持版本（含 LTS）仍标记为「受影响」。作者已把自己的 Ubuntu 服务器全部下线并计划迁走。对开发者而言，使用 Ubuntu 默认镜像的 VPS 和云主机需要尽快评估临时缓解措施；跨发行版的补丁时效监控、自动化迁移与加固工具也可能迎来需求。",
+   "links": [
+    "https://chalmovsky.com/posts/wtf-ubuntu",
+    "https://news.ycombinator.com/item?id=50337608"
+   ],
+   "topic": "wtf-ubuntu-cve-2026-98432-unpatched",
+   "firstSeen": "2026-11-02T23:19:40+08:00"
   }
  ],
- "lastChecked": "2026-11-02T23:01:18+08:00"
+ "lastChecked": "2026-11-02T23:19:40+08:00"
 }
