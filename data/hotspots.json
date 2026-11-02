@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T12:08:22+08:00",
+ "lastUpdated": "2026-11-02T12:23:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28012,7 +28012,17 @@
    ],
    "topic": "ai-next-decade-advice-lists",
    "firstSeen": "2026-11-02T12:08:22+08:00"
+  },
+  {
+   "id": "0a4728b26e",
+   "title": "开发者给 AI 编程代理单独开 GitHub 账号：GitHub 数据称 9 月超四成 PR 由代理提交",
+   "summary": "X 上开发者热议一条安全习惯：给 AI 编程代理分配专用、权限受限的 GitHub 账号，只能通过 PR 提交改动，由人工审核后合并，行为可追溯、出事可隔离。帖子引用 GitHub 数据称 2026 年 9 月 AI 代理提交的 PR 占比超过 40%（3 月约 17%），当月约 1.1 亿个；也有人担心这会给开源维护者增加负担。",
+   "links": [
+    "https://x.com/i/trending/2117108364161552668"
+   ],
+   "topic": "ai-agents-dedicated-github-accounts",
+   "firstSeen": "2026-11-02T12:23:07+08:00"
   }
  ],
- "lastChecked": "2026-11-02T12:08:22+08:00"
+ "lastChecked": "2026-11-02T12:23:07+08:00"
 }
