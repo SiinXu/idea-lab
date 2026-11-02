@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T00:18:21+08:00",
+ "lastUpdated": "2026-11-03T00:24:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28397,7 +28397,18 @@
    ],
    "topic": "europe-supermarket-freezer-cyberattack-2026-11-02",
    "firstSeen": "2026-11-03T00:18:21+08:00"
+  },
+  {
+   "id": "47232cce3a",
+   "title": "PostHog 发文《为什么我们把数据仓库从 DuckDB 迁走》：2PB、约 1 万亿行数据压垮单机引擎，改用自研 Trino 分支和新开放表格式 HogLake",
+   "summary": "产品分析公司 PostHog 11 月 2 日发布工程博文，刚发出就登上 Hacker News 新帖。五个月前他们弃用 ClickHouse、改为给每位客户分配独立的 DuckDB 实例，如今又花了三个月重构：单机引擎必须在查询到来前预估好机器规格，复杂查询只能靠加大实例；DuckLake 湖仓格式为了兼容多种数据库难以深度优化，单表写入一度超过 3 分钟，目录里 99% 以上的统计行属于已删除的表；直接提供 Postgres 协议连接也远比 HTTP 难扩展。迁走时 DuckLake 中约有 2PB、1 万亿行和 1530 万个快照。新架构基于自家定制的 Trino 和自研开放表格式 HogLake。对创业者来说，「托管数仓的弹性扩容与查询资源预估」以及「湖仓元数据清理与诊断工具」都是值得关注的需求。",
+   "links": [
+    "https://posthog.com/blog/moving-off-duckdb",
+    "https://news.ycombinator.com/item?id=50338747"
+   ],
+   "topic": "posthog-moving-off-duckdb-hoglake-2026-11-02",
+   "firstSeen": "2026-11-03T00:24:13+08:00"
   }
  ],
- "lastChecked": "2026-11-03T00:18:21+08:00"
+ "lastChecked": "2026-11-03T00:24:13+08:00"
 }
