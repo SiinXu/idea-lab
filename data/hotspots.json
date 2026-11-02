@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T18:02:03+08:00",
+ "lastUpdated": "2026-11-02T18:11:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28173,7 +28173,17 @@
    ],
    "topic": "korea-chip-exports-ai-budget-2027",
    "firstSeen": "2026-11-02T18:02:03+08:00"
+  },
+  {
+   "id": "d8ce380f83",
+   "title": "Replit CEO Amjad Masad 警告「廉价 AI 订阅时代要结束了」：20 美元包月靠风投补贴，重度用户推理成本早已超过订阅费",
+   "summary": "据 X 上的讨论汇总，Replit CEO Amjad Masad 表示，像每月 20 美元这类低价包月方案一直由风投资金补贴，重度用户实际消耗的推理成本往往远超所付费用，这种模式难以持续。Replit 自己已把 AI Agent 改为按「工作量」计费，并在一项大合同上改用 OpenAI 以改善成本结构。用户反应两极：有人担心账单从几十美元跳到每月 2000 美元，开始提前优化工作流；也有人认为头部大模型公司为抢用户会继续压低价格。结合 OpenAI 即将把 ChatGPT 与 Codex 改为统一按 token 计量，AI 工具从「包月无限」走向「按量计费」的趋势正在加速，对做 AI 应用和中转服务的人来说，成本透明、用量管控类工具会更有需求。",
+   "links": [
+    "https://x.com/i/trending/2117151193252196663"
+   ],
+   "topic": "replit-masad-cheap-ai-subscriptions-ending",
+   "firstSeen": "2026-11-02T18:11:05+08:00"
   }
  ],
- "lastChecked": "2026-11-02T18:02:03+08:00"
+ "lastChecked": "2026-11-02T18:11:05+08:00"
 }
