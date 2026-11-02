@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T07:24:30+08:00",
+ "lastUpdated": "2026-11-02T08:01:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27724,7 +27724,18 @@
    ],
    "topic": "everyone-uses-llms-to-think",
    "firstSeen": "2026-11-02T07:24:30+08:00"
+  },
+  {
+   "id": "ae22ce20ea",
+   "title": "玩梗项目 icloud-s3 走红 GitHub：把数据藏进 iCloud 共享相簿 PNG 像素里，伪装成兼容 S3 的「零配额」对象存储",
+   "summary": "icloud-s3 是一个 Rust 写的 S3 兼容服务，可直接对接 aws cli、boto3、rclone，把每个对象编码进无损 PNG 的 RGB 像素再上传到 iCloud 共享相簿；作者援引苹果政策称共享相簿不占 iCloud 配额，理论上 200 个相簿×5000 张图约可存 12 TB。README 明确声明这是讽刺作品，不可用于生产或敏感数据，10 月 30 日创建后已获 400 多星。信号：「白嫖存储」类黑客玩梗依旧是开发者社区的流量密码，但这类做法违反服务条款且有封号和丢数据风险，只适合做内容选题，不适合做产品。",
+   "links": [
+    "https://github.com/ashayas/icloud-s3",
+    "https://support.apple.com/en-us/108916"
+   ],
+   "topic": "icloud-s3-satire",
+   "firstSeen": "2026-11-02T08:01:49+08:00"
   }
  ],
- "lastChecked": "2026-11-02T07:24:30+08:00"
+ "lastChecked": "2026-11-02T08:01:49+08:00"
 }
