@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T19:27:38+08:00",
+ "lastUpdated": "2026-11-02T19:46:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28204,7 +28204,18 @@
    ],
    "topic": "fable-55-code-generated-video",
    "firstSeen": "2026-11-02T19:27:38+08:00"
+  },
+  {
+   "id": "a422db8db3",
+   "title": "Show HN：syscall.sh 升级，一站查齐 27 种 CPU 架构的 Linux 系统调用表，覆盖 Linux 3.3 到 7.3，还附带免费 API",
+   "summary": "开发者更新了 Linux 系统调用速查站 syscall.sh 及其 API，登上 Hacker News。网站按架构列出 x64、arm64、RISC-V、LoongArch 等 27 种平台的全部系统调用编号、参数和寄存器约定，数据直接从各版本内核源码的系统调用表和 SYSCALL_DEFINE 宏自动生成，可按内核版本筛选，并标出每个调用何时加入、何时被移除。每个架构的表都能下载为 JSON，也能用 curl 调用 API 查询单个调用或比较两个内核版本的差异，适合写汇编、做安全研究和移植底层工具的人。",
+   "links": [
+    "https://syscall.sh/",
+    "https://news.ycombinator.com/item?id=50334704"
+   ],
+   "topic": "syscall-sh-linux-syscall-tables",
+   "firstSeen": "2026-11-02T19:46:40+08:00"
   }
  ],
- "lastChecked": "2026-11-02T19:27:38+08:00"
+ "lastChecked": "2026-11-02T19:46:40+08:00"
 }
