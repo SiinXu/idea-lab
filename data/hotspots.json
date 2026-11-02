@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T03:00:36+08:00",
+ "lastUpdated": "2026-11-03T03:10:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28533,7 +28533,31 @@
    ],
    "topic": "mit-weight-space-programming-astra-qwen-2026-11-02",
    "firstSeen": "2026-11-03T03:00:36+08:00"
+  },
+  {
+   "id": "a918f00208",
+   "title": "开源自托管「AI 同事团队」Open Duet 突破 6500 星，被当作仍需排队的 Claude Duet 的免费平替",
+   "summary": "GitHub 项目 Anil-matcha/open-duet（Apache-2.0）11 月 2 日在 X 上集中刷屏，星标已超过 6500。它让用户在自己的电脑或服务器上建一组有名字、有分工的 AI 智能体：每个智能体有自己的指令、记忆、定时任务和隔离的运行环境，由一个主智能体把任务分派给研究、写作、编程、客服等专职智能体，执行操作前需要用户批准；可接 Claude、Gemini 或本地 Ollama 模型，用户自带 API Key。推广帖以「Claude Duet 还在等白名单，开源版已经能直接用」为卖点，英文、西语、中文、法语圈都在转；也有人质疑多智能体分工只是「换个方式拖延」，以及五个智能体各记一套笔记时共享事实放在哪里。信号：「一人加一队 AI 同事」的个人 Agent 团队正在开源化，围绕角色模板、共享记忆和审批流程的插件与教程有需求。",
+   "links": [
+    "https://github.com/Anil-matcha/open-duet",
+    "https://x.com/i/trending/2117293628175323619",
+    "https://x.com/alextalksai/status/2117282806782992875"
+   ],
+   "topic": "open-duet-self-hosted-agent-team-6500-stars-2026-11-02",
+   "firstSeen": "2026-11-03T03:10:13+08:00"
+  },
+  {
+   "id": "d0377f1ea3",
+   "title": "Polymarket 上线 Anthropic 上市前永续合约 $ANT：最高 10 倍杠杆、全天候交易，并配 5 万美元交易赛",
+   "summary": "Polymarket Perps 11 月 2 日上线 Anthropic 上市前永续合约（代号 $ANT），最高 10 倍杠杆，没有交易时段限制，也没有到期日，官方账号的公告帖阅读量约 7.5 万。几小时后 Polymarket 又宣布首届 Perps 交易赛，奖金 5 万美元分给前 50 名交易者，赛期到 11 月 16 日，交易 $ANT 的得分按 3 倍计算。消息在中文、日文、西语加密圈迅速传开。背景是 Anthropic 已向美国证监会递交招股书并在本周提交修订版。信号：热门 AI 公司在正式上市前，就被链上衍生品做成可多空的标的；Anthropic IPO 估值、预测市场和「Pre-IPO 永续」相关的解读、工具和风险提示类内容会有流量。",
+   "links": [
+    "https://x.com/Poly_Perps/status/2117255413653725368",
+    "https://x.com/Polymarket/status/2117323399324397982",
+    "https://x.com/i/trending/2117328872840544544"
+   ],
+   "topic": "polymarket-anthropic-ant-pre-ipo-perp-2026-11-02",
+   "firstSeen": "2026-11-03T03:10:13+08:00"
   }
  ],
- "lastChecked": "2026-11-03T03:00:36+08:00"
+ "lastChecked": "2026-11-03T03:10:13+08:00"
 }
