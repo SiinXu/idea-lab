@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T20:26:57+08:00",
+ "lastUpdated": "2026-11-02T20:44:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28258,7 +28258,18 @@
    ],
    "topic": "worktrunk-git-worktree-parallel-agents",
    "firstSeen": "2026-11-02T20:26:57+08:00"
+  },
+  {
+   "id": "0c600aca31",
+   "title": "GitHub 日榜：Paperclip 单日再涨 500 星、总星数破 11 万，用开源「AI 公司」面板管理一整队 Agent",
+   "summary": "开源项目 paperclipai/paperclip 今天再次登上 GitHub 日榜，单日新增约 500 星，总星数超过 11 万。它是一个 Node.js 服务加 React 界面，自称「如果单个 Agent 是员工，Paperclip 就是公司」：用户先定下业务目标，再给不同岗位（CEO、CTO、工程师、设计、营销）配置任意厂商的模型和 Agent 框架，在一个面板里统一管理任务、技能、权限、预算和历史记录，兼容 OpenClaw、Claude Code 等。官方同时开放了 Paperclip Cloud 托管版的候补名单。多 Agent 协作正从「写代码」扩展到「跑业务」，围绕 Agent 团队的编排、成本管控和审计会是持续的需求方向。",
+   "links": [
+    "https://github.com/paperclipai/paperclip",
+    "https://paperclip.ing"
+   ],
+   "topic": "paperclip-agent-company-orchestration",
+   "firstSeen": "2026-11-02T20:44:49+08:00"
   }
  ],
- "lastChecked": "2026-11-02T20:26:57+08:00"
+ "lastChecked": "2026-11-02T20:44:49+08:00"
 }
