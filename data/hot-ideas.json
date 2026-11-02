@@ -124,6 +124,131 @@
    "shown": false,
    "at": "2026-11-02T07:16:57+00:00",
    "id": "012719d705"
+  },
+  {
+   "topic": "unslop-claude-skill-2026-10-31",
+   "title": "AI 味界面体检",
+   "who": "用 AI 写前端的独立开发者",
+   "pain": "页面一眼就像 AI 生成，却说不清哪里该改",
+   "why_now": "unslop 这类去 AI 味技能正在 GitHub 上升温",
+   "mvp": "贴网址出截图，对照设计规范库列出问题和改法",
+   "money": "免费三次，月付 9 美元不限次并导出技能补丁",
+   "not_do": "不自动改用户的代码仓库",
+   "evidence": [
+    "https://github.com/heydamir/unslop"
+   ],
+   "score": 6,
+   "parts": {
+    "evidence": 1,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 2,
+    "novel": 0
+   },
+   "why": "只有 GitHub 仓库叙事，无真实讨论；能直接复用设计规范库和 UI Hub，两周可做；但 unslop 本身已覆盖核心价值，差异小，付费意愿未证实。",
+   "shown": false,
+   "at": "2026-11-02T13:12:05+00:00",
+   "id": "2bbb860c8e"
+  },
+  {
+   "topic": "occupysaas-ai-cleanroom-saas-rebuild",
+   "title": "SaaS 自建划算度计算器",
+   "who": "小团队的技术负责人",
+   "pain": "订阅费越堆越多，不知道哪些值得用 AI 自己重写",
+   "why_now": "OccupySaaS 讨论让用 AI 重写 SaaS 成了热门话题",
+   "mvp": "填入订阅清单，估算自建工时、维护成本和风险，给出留或换建议",
+   "money": "单份报告 19 美元，团队版按季度复评收费",
+   "not_do": "不复制任何 SaaS 的代码或界面",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50331402"
+   ],
+   "score": 6,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 1,
+    "money": 1,
+    "reuse": 0,
+    "novel": 1
+   },
+   "why": "有 HN 真实讨论；角度新；但自建工时和风险估算难做可信，两周只能出粗糙版；与现有资产无复用；单份报告付费意愿存疑。",
+   "shown": false,
+   "at": "2026-11-02T13:12:05+00:00",
+   "id": "2cd45a9d64"
+  },
+  {
+   "topic": "craft-anything-clean-room",
+   "title": "开源仓库一页导读",
+   "who": "想读懂大型开源项目的开发者",
+   "pain": "仓库太大，不知道从哪个文件读起",
+   "why_now": "craft-anything 走红，说明拆解软件原理的需求在涨",
+   "mvp": "输入 GitHub 仓库，生成模块地图和五条入门阅读路线",
+   "money": "公开仓库免费，私有仓库月付 12 美元",
+   "not_do": "不托管或转售他人代码",
+   "evidence": [
+    "https://github.com/storytold/craft-anything"
+   ],
+   "score": 3,
+   "parts": {
+    "evidence": 1,
+    "two_weeks": 1,
+    "money": 1,
+    "reuse": 0,
+    "novel": 0
+   },
+   "why": "只有 GitHub 产品叙事；同类仓库导读工具已多，新意低；大仓库解析质量两周难保证；与现有资产关联弱。",
+   "shown": false,
+   "at": "2026-11-02T13:12:05+00:00",
+   "id": "bb051e512f"
+  },
+  {
+   "topic": "karpathy-hackertube-2026-10-31",
+   "title": "HN 推荐工具周榜",
+   "who": "想找好用开发工具的程序员",
+   "pain": "HN 评论里推荐的好工具散落各处，事后很难找回",
+   "why_now": "HackerTube 等按 HN 推荐聚合的小站接连走红",
+   "mvp": "用 HN 公开接口统计评论里出现的工具链接，按周排榜，部署在 Workers",
+   "money": "榜单赞助位每周 99 美元，加付费周报",
+   "not_do": "只统计链接，不存储评论者身份",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50319510"
+   ],
+   "score": 8,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 2,
+    "novel": 0
+   },
+   "why": "HN 讨论真实且同类小站连续走红；HN 公开 API + Workers 两周可上线，复用 Idea Lab 热点管线；只统计链接不碰个人数据，不属禁区；赞助收入未验证，同类聚合站已不少。",
+   "shown": true,
+   "at": "2026-11-02T13:12:05+00:00",
+   "id": "0a0ca32a51"
+  },
+  {
+   "topic": "lenovo-fingerprint-usb-unencrypted-sd",
+   "title": "加密外设真伪清单",
+   "who": "给公司采购存储设备的 IT 管理员",
+   "pain": "标着加密的 U 盘可能根本没加密，买前无从判断",
+   "why_now": "联想指纹 U 盘被拆出只是普通 SD 卡，引发信任讨论",
+   "mvp": "汇总公开拆解和评测，做加密外设清单和五步自测指南",
+   "money": "免费查清单，企业采购核对表 29 美元",
+   "not_do": "不教任何绕过加密的方法",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50326099"
+   ],
+   "score": 7,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 1,
+    "money": 1,
+    "reuse": 1,
+    "novel": 1
+   },
+   "why": "HN 讨论真实，切入点少见；但可信的公开拆解数据稀少，两周只能覆盖少量型号；企业核对表付费有限；可复用 Workers 部署。",
+   "shown": true,
+   "at": "2026-11-02T13:12:05+00:00",
+   "id": "9060cf64eb"
   }
  ]
 }
