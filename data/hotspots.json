@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T12:23:07+08:00",
+ "lastUpdated": "2026-11-02T12:41:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28022,7 +28022,38 @@
    ],
    "topic": "ai-agents-dedicated-github-accounts",
    "firstSeen": "2026-11-02T12:23:07+08:00"
+  },
+  {
+   "id": "0ae7ec34c6",
+   "title": "T3 Code 加一句「点个星」提示，GitHub 日增星数暴涨约 10 倍，仓库突破 3.5 万星",
+   "summary": "Theo（t3.gg）在开源 AI 编程代理图形界面 T3 Code 里加入一个极简提示：用户发出 5 次提示词后，弹出邀请给仓库点星的小通知，次日日增星数约涨 10 倍，pingdotgg/t3code 已超 3.5 万星。X 上有人称赞产品打磨，也有人质疑星数不能代表真实活跃用户，并希望提供关闭选项。",
+   "links": [
+    "https://x.com/i/trending/2117110339603218517",
+    "https://github.com/pingdotgg/t3code"
+   ],
+   "topic": "t3code-star-prompt-surge",
+   "firstSeen": "2026-11-02T12:41:12+08:00"
+  },
+  {
+   "id": "d7337889ff",
+   "title": "AI 编程工具作者互撕：Theo 指 Cloudroom 作者用图表夸大更新速度，独立核查显示提交数差距悬殊",
+   "summary": "Cloudroom 作者 David Ondrej 晒图称自家更新速度领先 T3 Code 等对手，并嘲讽批评者，Theo 随即公开回怼。X 用户的核查显示，T3 Code 自 10 月初以来约 4460 次提交、数百名贡献者，而 Cloudroom 仅约 114 次提交且大多出自作者本人。社区普遍认为真实采用量和稳定性比更新次数更重要。",
+   "links": [
+    "https://x.com/i/trending/2117087666562867489"
+   ],
+   "topic": "t3code-vs-cloudroom-metrics-feud",
+   "firstSeen": "2026-11-02T12:41:12+08:00"
+  },
+  {
+   "id": "ba936dd5ef",
+   "title": "以太坊 Devcon 8 首次落地印度孟买：11 月 3–6 日举办，V 神已抵达",
+   "summary": "以太坊旗舰开发者大会 Devcon 8 将于 11 月 3–6 日在孟买 Jio World Centre 举行，议题涵盖隐私、DeFi、AI 与核心协议；11 月 1–2 日的印度区块链周已先行开幕，配套活动和黑客松密集。Vitalik Buterin 已抵达孟买，X 上讨论聚焦印度庞大的开发者人才池。",
+   "links": [
+    "https://x.com/i/trending/2116802026084376838"
+   ],
+   "topic": "devcon-8-mumbai",
+   "firstSeen": "2026-11-02T12:41:12+08:00"
   }
  ],
- "lastChecked": "2026-11-02T12:23:07+08:00"
+ "lastChecked": "2026-11-02T12:41:12+08:00"
 }
