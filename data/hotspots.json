@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T10:52:53+08:00",
+ "lastUpdated": "2026-11-02T11:13:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27899,7 +27899,28 @@
    ],
    "topic": "redux-for-ai-coding-agents",
    "firstSeen": "2026-11-02T10:52:53+08:00"
+  },
+  {
+   "id": "52f567344b",
+   "title": "SpaceXAI 宣布 11 月 7 日起 Grok API 文本默认加隐形水印：grok-4.7、grok-4.6 全部覆盖，团队管理员可按法律例外关闭",
+   "summary": "继 Anthropic 11 月 3 日扩大 Claude 水印范围后，SpaceXAI 也宣布从 11 月 7 日起在全球 API 上为 Grok 模型（含 grok-4.7、grok-4.6）的输出默认嵌入隐形水印，通过选词方式实现、不改变可见文字，只能借统计检测或响应头识别；团队管理员可在法律例外情形下关闭。动因是欧盟《AI 法案》要求 2026 年 12 月前为合成内容加机器可读标识。X 上用户担心轻度润色的邮件、简历也会被误判。信号：主流模型厂商水印正在成为默认配置，「AI 文本检测/合规审计」与「人类写作证明」类工具需求上升。",
+   "links": [
+    "https://x.com/i/trending/2117053010878804478",
+    "https://x.com/i/trending/2116508820818022767"
+   ],
+   "topic": "spacexai-grok-text-watermark",
+   "firstSeen": "2026-11-02T11:13:06+08:00"
+  },
+  {
+   "id": "4a085d27dc",
+   "title": "Vercel CEO Guillermo Rauch 呼吁「拥有自己的智能」：用本地模型和开源掌控数据、连接与运行时",
+   "summary": "11 月 2 日 Rauch 在 X 上发文主张开发者通过本地模型和开源拥有 AI，称反对这一点的人往往「想把智能再卖回给你」；不少开发者跟帖表示转向本地 AI 与开放研究，以减少对云的依赖。讨论中被提到的例子包括 Mistral Large 4 开放权重、Mac 上私有运行的音乐生成工具等。这与奥特曼「个人电脑内存是浪费」的说法形成正面对立。信号：「本地优先 AI」叙事升温，本地模型一键部署、私有代理运行时和隐私向工具有机会。",
+   "links": [
+    "https://x.com/i/trending/2117026072973713683"
+   ],
+   "topic": "rauch-own-your-intelligence-local-models",
+   "firstSeen": "2026-11-02T11:13:06+08:00"
   }
  ],
- "lastChecked": "2026-11-02T10:52:53+08:00"
+ "lastChecked": "2026-11-02T11:13:06+08:00"
 }
