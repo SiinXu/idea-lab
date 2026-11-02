@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T11:38:46+08:00",
+ "lastUpdated": "2026-11-02T12:02:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27972,7 +27972,27 @@
    ],
    "topic": "ai-dev-influencers-skepticism-literacy",
    "firstSeen": "2026-11-02T11:38:46+08:00"
+  },
+  {
+   "id": "7547e87411",
+   "title": "盖洛普民调：71% 美国人反对在自家附近建数据中心，反对比例高于核电站（53%）",
+   "summary": "盖洛普最新调查显示，71% 的美国人反对在所在社区建设数据中心，比反对附近建核电站的 53% 还高，且跨党派一致。居民主要担心噪音、耗水耗电、电费上涨和环境影响；支持者则强调税收与产业带动。已有数十亿美元项目因地方阻力搁置，OpenAI 也正借此推动把数据中心改称「AI 算力园区」。信号：数据中心选址、社区沟通、能耗透明与社区收益协议相关的工具和咨询需求上升。",
+   "links": [
+    "https://x.com/i/trending/2117085757084979340"
+   ],
+   "topic": "gallup-71pct-oppose-local-data-centers",
+   "firstSeen": "2026-11-02T12:02:32+08:00"
+  },
+  {
+   "id": "18182d6c10",
+   "title": "AI 代理把 PR 淹没后，团队把 CI 从 40 分钟压到 2 分钟：Oxlint 替 ESLint、bun 做类型检查、测试分片",
+   "summary": "Boardy 等工程团队在 X 上分享：AI 编程代理大量提交改动后，瓶颈从写代码转移到验证，于是激进优化 CI——换用 Blacksmith 等更快的 Runner、用 Oxlint 取代 ESLint（约 5 秒跑完 lint）、用 bun 做类型检查、在大机器上分片测试并并行化 GitHub Actions 步骤，单个 PR 的 CI 从 40 分钟降到 2 分钟。信号：「为 AI 代理提速的 CI/验证链」成为新需求，快速 lint/测试工具和 CI 优化服务有机会。",
+   "links": [
+    "https://x.com/i/trending/2117097469859549670"
+   ],
+   "topic": "ci-40min-to-2min-for-ai-agents",
+   "firstSeen": "2026-11-02T12:02:32+08:00"
   }
  ],
- "lastChecked": "2026-11-02T11:38:46+08:00"
+ "lastChecked": "2026-11-02T12:02:32+08:00"
 }
