@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T08:01:49+08:00",
+ "lastUpdated": "2026-11-02T08:02:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27735,7 +27735,17 @@
    ],
    "topic": "icloud-s3-satire",
    "firstSeen": "2026-11-02T08:01:49+08:00"
+  },
+  {
+   "id": "473aabc3f5",
+   "title": "开源 Rust 引擎 Craft Anything 两天近千星：指向任意网站、App 或游戏，AI 先用真实工具「拆解」原作再洁净室重建自己的版本",
+   "summary": "ArtCraft 团队 10 月 31 日开源 Craft Anything（MIT/Apache-2.0，纯 Rust，支持 macOS、Windows、Linux、FreeBSD 和 Web）：用户指定目标并说明需求后，它用真实的检查工具研究原作，再交给编码 Agent 生成新项目，并对照原作反复比对修正，目前处于早期 alpha，上线约两天 GitHub 已近 1000 星。信号：「看懂再复刻」正从提示词技巧变成产品化工作流，围绕竞品拆解、UI 复刻和合规洁净室重建的工具与教程有需求，但版权边界会是主要风险。",
+   "links": [
+    "https://github.com/storytold/craft-anything"
+   ],
+   "topic": "craft-anything-clean-room",
+   "firstSeen": "2026-11-02T08:02:38+08:00"
   }
  ],
- "lastChecked": "2026-11-02T08:01:49+08:00"
+ "lastChecked": "2026-11-02T08:02:38+08:00"
 }
