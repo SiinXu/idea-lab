@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T22:26:22+08:00",
+ "lastUpdated": "2026-11-02T23:01:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28343,7 +28343,17 @@
    ],
    "topic": "kornia-spatial-ai-v0-9",
    "firstSeen": "2026-11-02T22:26:22+08:00"
+  },
+  {
+   "id": "221b3f216a",
+   "title": "GitHub 日榜：Karpathy 的 nanochat 单日涨 300 多星、总星数近 6 万，「100 美元能买到的最好的 ChatGPT」再度走红",
+   "summary": "Andrej Karpathy 的开源项目 karpathy/nanochat 今天重回 GitHub 日榜，单日新增约 325 星，总星数接近 6 万。它用一套精简、可读的代码走完训练聊天模型的全流程：分词、预训练、微调、评测、推理和网页聊天界面，目标是用约 100 美元的云端算力训练出一个能对话的小模型。这波热度和 Karpathy 刚发布、正霸榜 Hacker News 的 HackerTube 同步出现。对想入门大模型训练、做教学课程或定制小型垂直模型的人来说，它是成本最低的完整样板之一。",
+   "links": [
+    "https://github.com/karpathy/nanochat"
+   ],
+   "topic": "karpathy-nanochat-trending-2026-11-02",
+   "firstSeen": "2026-11-02T23:01:18+08:00"
   }
  ],
- "lastChecked": "2026-11-02T22:26:22+08:00"
+ "lastChecked": "2026-11-02T23:01:18+08:00"
 }
