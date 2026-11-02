@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T18:54:35+08:00",
+ "lastUpdated": "2026-11-02T19:27:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28194,7 +28194,17 @@
    ],
    "topic": "ai-illusion-of-smarts-viral-debate",
    "firstSeen": "2026-11-02T18:54:35+08:00"
+  },
+  {
+   "id": "7ace5af4cf",
+   "title": "X 热议「用代码拍视频」：网友让 Fable 5.5 只写 HTML、Canvas 和 Three.js，就生成带动画的雾景和人物短片，有人称比专门的视频模型还好看",
+   "summary": "据 X 上的讨论汇总，不少用户在晒 Fable 5.5 的新玩法：不调用任何视频生成工具，只给一句文字提示，让模型直接写出 HTML、Canvas 或 Three.js 代码，在浏览器里渲染出完整的动画场景，比如雾气弥漫的风景、后院里的年轻人等，部分测试者认为画面比专门的视频生成器更精致。与此同时，SemiAnalysis 新出的 GDPx 职业任务榜上 Claude Opus 5.5 以 12% 暂列第一，社区也在传 Anthropic 和 OpenAI 即将发布新模型。以上为 X 讨论摘要，具体效果以原帖为准。对做内容和工具的人来说，「代码即视频」意味着可编辑、可复用、体积小的动画素材，适合做落地页动效、可交互讲解和程序化短视频模板。",
+   "links": [
+    "https://x.com/i/trending/2117172111106355474"
+   ],
+   "topic": "fable-55-code-generated-video",
+   "firstSeen": "2026-11-02T19:27:38+08:00"
   }
  ],
- "lastChecked": "2026-11-02T18:54:35+08:00"
+ "lastChecked": "2026-11-02T19:27:38+08:00"
 }
