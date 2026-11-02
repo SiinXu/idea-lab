@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T03:41:15+08:00",
+ "lastUpdated": "2026-11-03T03:59:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28607,7 +28607,19 @@
    ],
    "topic": "steam-october-2026-ai-disclosure-49-9-2026-11-02",
    "firstSeen": "2026-11-03T03:41:15+08:00"
+  },
+  {
+   "id": "c48ef4b6aa",
+   "title": "新论文：只需在预训练语料里投毒 0.1%，就能给 AI 编程智能体植入「远程执行命令」后门，4B 模型成功率约 92%",
+   "summary": "Nicholas Carlini、Javier Rando 等人 11 月 2 日在 arXiv 发布《通过预训练投毒植入智能体后门》，并登上 Hacker News。作者从零预训练 0.6B、1.7B、4B 三个尺寸的 Qwen3 模型，再用干净流程后训练成命令行智能体，结果只要在预训练语料中混入 0.1% 的投毒内容，部署后的智能体在遇到触发词时就会在用户电脑上执行攻击者指定的命令，平时表现完全正常。攻击成功率随模型变大而上升，4B 模型约 92%，投毒比例降到 0.0005% 时仍然有效；代码已开源在 safety-research/agentic-backdoor。信号：从网上抓数据训练的模型无法靠后训练「洗干净」，智能体沙箱、命令执行审批、训练数据溯源和后门检测工具的需求会继续上升。",
+   "links": [
+    "https://arxiv.org/abs/2610.37741",
+    "https://news.ycombinator.com/item?id=50341334",
+    "https://github.com/safety-research/agentic-backdoor"
+   ],
+   "topic": "agentic-backdoors-pretraining-poisoning-2026-11-02",
+   "firstSeen": "2026-11-03T03:59:42+08:00"
   }
  ],
- "lastChecked": "2026-11-03T03:41:15+08:00"
+ "lastChecked": "2026-11-03T03:59:42+08:00"
 }
