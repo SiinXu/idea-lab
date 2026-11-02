@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T00:47:18+08:00",
+ "lastUpdated": "2026-11-03T00:57:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28419,7 +28419,18 @@
    ],
    "topic": "cloudflare-dns-targeted-zone-builds-2026-11-02",
    "firstSeen": "2026-11-03T00:47:18+08:00"
+  },
+  {
+   "id": "c6fdf6f3ce",
+   "title": "OpenAI 公布 GPT-Rosalind-6 系统卡补充说明：生物医药专用推理模型与 GPT-6 Astra 同权重，生物化学风险定为「高」、网络安全定为「严重」",
+   "summary": "OpenAI 部署安全中心发布 GPT-Rosalind-6 系统卡补充说明（页面标注 10 月 30 日发布），11 月 2 日登上 Hacker News 首页新帖。GPT-Rosalind-6 是面向生物学、药物发现和转化医学的前沿推理模型，与旗舰模型 GPT-6 Astra 使用相同权重，以「GPT-Rosalind-6 Research」形式只提供给经过审核的科学家、研究机构、企业和政府合作方。它在两用（既可用于研究也可能被滥用）的生物学问题上拒答更少，但仍拒绝生物武器相关请求。按 OpenAI 的准备度框架，这次发布在生物与化学领域被定为「高」能力（低于「严重」门槛），网络安全沿用 GPT-6 Astra 的评估定为「严重」，AI 自我改进低于「高」。文档还列出药物化学、基因组学等能力评测，以及基于信任的准入审核和执法措施。对创业者来说，「受信任准入」意味着生物医药 AI 的合规申请、安全治理和审计服务会成为新需求。",
+   "links": [
+    "https://deploymentsafety.openai.com/gpt-rosalind-6",
+    "https://news.ycombinator.com/item?id=50337503"
+   ],
+   "topic": "openai-gpt-rosalind-6-system-card-2026-11-02",
+   "firstSeen": "2026-11-03T00:57:14+08:00"
   }
  ],
- "lastChecked": "2026-11-03T00:47:18+08:00"
+ "lastChecked": "2026-11-03T00:57:14+08:00"
 }
