@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T07:29:21+08:00",
+ "lastUpdated": "2026-11-03T07:55:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28763,7 +28763,17 @@
    ],
    "topic": "anthropic-growth-flattened-analysis-2026-11-02",
    "firstSeen": "2026-11-03T07:29:21+08:00"
+  },
+  {
+   "id": "4c0c8ed6a2",
+   "title": "身份认证服务商 WorkOS 向客户发出数据泄露通知：称攻击疑由 AI 自主渗透测试框架驱动",
+   "summary": "11 月 2 日，有 WorkOS 客户在 Hacker News 贴出收到的泄露通知原文：WorkOS 称于 10 月 30 日 16:39 UTC 检测到内部业务系统异常流量，调查认为攻击很可能由名为 ARTEX 的 AI 辅助自主渗透测试框架发起；攻击者通过销售与营销工具使用的内部 API 访问了 Salesforce 和 Snowflake 中的客户联系人、商务信息、去标识化使用指标和支持工单，目前称无证据显示应用数据或生产服务受影响。截至发帖时 WorkOS 官网和信任中心尚未公开该事件，相关信息以客户转述为准。信号：AI 驱动的自动化攻击开始出现在真实事件披露中，SaaS 内部 API 与 CRM 数据面的安全审计、第三方供应商风险监控类工具和内容有需求。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50345712"
+   ],
+   "topic": "workos-breach-ai-pentest-2026-11-02",
+   "firstSeen": "2026-11-03T07:55:29+08:00"
   }
  ],
- "lastChecked": "2026-11-03T07:29:21+08:00"
+ "lastChecked": "2026-11-03T07:55:29+08:00"
 }
