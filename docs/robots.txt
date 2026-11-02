@@ -1,0 +1,3 @@
+# 2026-11-01: SEO-tool crawler, not a search or AI engine: disallow everything
+User-agent: SemrushBot
+Disallow: /
