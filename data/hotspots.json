@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T13:58:13+08:00",
+ "lastUpdated": "2026-11-02T14:43:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28085,7 +28085,20 @@
    ],
    "topic": "openai-abu-dhabi-ai-native-government",
    "firstSeen": "2026-11-02T13:58:13+08:00"
+  },
+  {
+   "id": "507aa5dce0",
+   "title": "加拿大政府入股 Cohere：最高投资 16 亿加元，Cohere 估值约 357 亿加元，X 上争论「主权 AI」值不值",
+   "summary": "加拿大总理卡尼宣布，政府将通过加拿大发展投资公司分阶段向多伦多 AI 公司 Cohere 投入最高约 16 亿加元股权投资，作为其目标 70 亿加元 E 轮融资的一部分，英伟达、Bell 和施瓦茨集团同轮参投，本轮估值约 357 亿加元。Cohere 承诺 2030 年前在加拿大新增至少 1000 个技术岗位、追加至少 17 亿加元算力基础设施，并保留加拿大注册和总部。X 上支持者视其为摆脱外国巨头、实现数字主权的关键一步，批评者则质疑 Cohere 模型排名中游、政府直接持股私企存在纳税人风险；持股比例、分期条件和违约后果均未公开。",
+   "links": [
+    "https://www.pm.gc.ca/en/news/news-releases/2026/10/29/canada-announces-landmark-investment-cohere-scale-secure-sovereign-ai",
+    "https://www.cbc.ca/news/business/canada-cohere-ai-investment-9.7401367",
+    "https://betakit.com/canada-to-invest-up-to-1-6-billion-in-ai-firm-cohere/",
+    "https://x.com/i/trending/2116935599294689604"
+   ],
+   "topic": "canada-cohere-equity-stake",
+   "firstSeen": "2026-11-02T14:43:35+08:00"
   }
  ],
- "lastChecked": "2026-11-02T13:58:13+08:00"
+ "lastChecked": "2026-11-02T14:43:35+08:00"
 }
