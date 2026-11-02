@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T00:57:14+08:00",
+ "lastUpdated": "2026-11-03T01:15:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28430,7 +28430,30 @@
    ],
    "topic": "openai-gpt-rosalind-6-system-card-2026-11-02",
    "firstSeen": "2026-11-03T00:57:14+08:00"
+  },
+  {
+   "id": "5464a863f8",
+   "title": "Business Insider：Anthropic 内部 Claude 用量按零售价计算已超过员工薪酬，9 月用量比 1 月暴涨 250 多倍",
+   "summary": "Business Insider 11 月 1 日报道、11 月 2 日登上 Hacker News 首页新帖：Anthropic 在 IPO 招股书中披露，自今年 4 月起，公司内部使用的 Claude 按对外售价折算，每月价值已超过员工月薪总额（不含股票奖励）；到 9 月，内部 AI 用量比 1 月增长超过 250 倍，9 月新增代码中 90% 以上由 Claude 编写。需要注意这不是真实现金支出，而是按零售价估值。文章认为科技公司正把「AI token 额度」当成继工资、奖金、股票之后的第四种员工待遇。对创业者来说，团队 token 预算管理、AI 用量计量与成本分摊工具会越来越有需求。",
+   "links": [
+    "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+    "https://news.ycombinator.com/item?id=50339494"
+   ],
+   "topic": "anthropic-internal-ai-use-exceeds-pay-2026-11-02",
+   "firstSeen": "2026-11-03T01:15:23+08:00"
+  },
+  {
+   "id": "364c68b0aa",
+   "title": "Launch HN：YC W24 公司 Momentic 推出 QA 智能体 Mo，像真人一样点用你的应用找 bug，60 分钟找出 269 个、召回率是 Codex 的 3 倍",
+   "summary": "Momentic 11 月 2 日在 Hacker News 发布 Launch HN。它的 QA 智能体 Mo 不写 Playwright 脚本，而是自己规划、探索并「乱点」网页、iOS 和安卓应用的控件与流程来找 bug，大的功能区会自动拆给并行子智能体，各自开浏览器或设备。团队用 Gitea、Metabase、Twenty、Saleor 四个开源应用、1396 个人工标注 bug 做了基准测试：60 分钟内 Mo 找到 269 个 bug、召回率 19.3%、每个 bug 成本 2.67 美元；Codex 找到 86 个、Claude Code 59 个、Devin 27 个。数据集和测试框架已开源，并支持 Vercel、Cloudflare 预览部署的 PR 测试，新用户送 250 美元额度。AI 写代码越多、bug 越多，「AI 测试 AI 写的代码」正成为新赛道。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50339913",
+    "https://momentic.ai/blog/qa-bench",
+    "https://github.com/momentic-ai/qa-bench"
+   ],
+   "topic": "momentic-mo-qa-agent-launch-hn-2026-11-02",
+   "firstSeen": "2026-11-03T01:15:23+08:00"
   }
  ],
- "lastChecked": "2026-11-03T00:57:14+08:00"
+ "lastChecked": "2026-11-03T01:15:23+08:00"
 }
