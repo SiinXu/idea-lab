@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T05:16:21+08:00",
+ "lastUpdated": "2026-11-03T05:27:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28674,7 +28674,18 @@
    ],
    "topic": "altman-ram-backlash-memes-2026-11-02",
    "firstSeen": "2026-11-03T05:16:21+08:00"
+  },
+  {
+   "id": "b2806e0075",
+   "title": "开源 Claude Code 技能「Video Studio」上 HN：让智能体自己录真实产品操作、加片头章节，再用 FFmpeg 出成品演示视频",
+   "summary": "11 月 2 日，开发者 aaitor 把开源项目 skill-video-studio 发到 Hacker News。它是一个围绕 /devrel-video 技能搭的本地视频制作工作区：先让 Claude Code 写出视频脚本和分镜计划，再用 Playwright 在真实浏览器里录下产品操作，用 HyperFrames 加标题卡、章节和行动号召，最后用 FFmpeg 合成和检查成片；默认先出无声版，需要时再加旁白、音乐、字幕或真人出镜。项目采用 MIT 协议，GitHub 约 65 星。作者说做这个的原因是自己总是先埋头做产品、忽略推广，评论区也有人分享用 Claude Code 剪视频的类似做法。信号：智能体技能正从写代码延伸到产品发布和推广环节，「做完产品顺手自动出演示视频」会成为独立开发者和小团队的常用工作流，相关模板和服务有机会。",
+   "links": [
+    "https://github.com/aaitor/skill-video-studio",
+    "https://news.ycombinator.com/item?id=50340992"
+   ],
+   "topic": "skill-video-studio-claude-code-product-video-2026-11-02",
+   "firstSeen": "2026-11-03T05:27:45+08:00"
   }
  ],
- "lastChecked": "2026-11-03T05:16:21+08:00"
+ "lastChecked": "2026-11-03T05:27:45+08:00"
 }
