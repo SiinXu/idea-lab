@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T23:19:40+08:00",
+ "lastUpdated": "2026-11-02T23:46:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28375,7 +28375,18 @@
    ],
    "topic": "wtf-ubuntu-cve-2026-98432-unpatched",
    "firstSeen": "2026-11-02T23:19:40+08:00"
+  },
+  {
+   "id": "16a04cf8b7",
+   "title": "美团发布 LongCat-2.5：1.6 万亿参数原生多模态大模型主打长程 Agent 任务，多项编程与 Agent 榜单逼近 Claude Opus 5",
+   "summary": "美团 LongCat 团队 11 月 1 日发布 LongCat-2.5，并于 11 月 2 日登上 Hacker News 首页新帖。它是总参数 1.6 万亿、每个 token 激活约 480 亿参数的 MoE 模型，把图像编码成多级离散 token，与文本放在同一序列里处理，主打长程 Agent 编程、视觉编程和 3D 生成。官方公布的成绩包括 Terminal Bench v2.1 88.4、BrowseComp 91.9、MCP Atlas 83.1、JobBench 65.4，多项超过 GPT-5.6-Sol，接近 Claude Opus 5（对手分数多引自公开资料）。训练与推理都在国产 AI 加速卡上完成，W4A4 量化推理比 INT8 基线的预填充和解码吞吐各提升约 43%。对开发者来说，这意味着又多了一个可做 Agent 编程和视觉生成网页的国产高端模型选项，值得关注其 API 价格与开放情况。",
+   "links": [
+    "https://longcat.ai/blog/longcat-2.5/",
+    "https://news.ycombinator.com/item?id=50337716"
+   ],
+   "topic": "meituan-longcat-2-5-release-2026-11-02",
+   "firstSeen": "2026-11-02T23:46:51+08:00"
   }
  ],
- "lastChecked": "2026-11-02T23:19:40+08:00"
+ "lastChecked": "2026-11-02T23:46:51+08:00"
 }
