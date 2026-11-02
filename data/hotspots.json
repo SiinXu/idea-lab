@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T10:43:15+08:00",
+ "lastUpdated": "2026-11-02T10:52:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27878,7 +27878,28 @@
    ],
    "topic": "us-ai-sector-productivity-debate",
    "firstSeen": "2026-11-02T10:43:15+08:00"
+  },
+  {
+   "id": "8ac38863c5",
+   "title": "SemiAnalysis 发布 GDPx 基准：206 个高价值真实任务，最强模型 Claude Opus 5.5 也只拿到 12%",
+   "summary": "SemiAnalysis 11 月 2 日上线 GDPx v1.0，与 14 家专业数据伙伴合作，覆盖芯片设计、网络安全、生物、金融、法律、量化交易、材料科学等 11 个高投入回报领域，共 206 个任务。据 X 上的汇总，Anthropic Claude Opus 5.5 以 12.0% 居首，Google Gemini 4 Carbon 10.9%，OpenAI GPT-6 Astra 9.6%，没有模型在任何领域占绝对优势；榜单将每三到六个月更新。信号：「能直接创造营收的专业任务」成为新的评测焦点，垂直领域评测数据、专家标注与面向行业的代理产品仍有很大空间。",
+   "links": [
+    "https://gdpx.semianalysis.com/",
+    "https://x.com/i/trending/2117085754379682287"
+   ],
+   "topic": "semianalysis-gdpx-benchmark",
+   "firstSeen": "2026-11-02T10:52:53+08:00"
+  },
+  {
+   "id": "e92693d333",
+   "title": "Redux 因 AI 编程代理重获关注：「状态只放一处」被认为更适合代理写前端",
+   "summary": "11 月 2 日 X 上开发者热议集中式状态管理对 AI 代理的价值：Matt Pocock 称「状态只在一个地方」对代理很有利，Redux 维护者 Mark Erikson 附和称 Redux Toolkit 的固定模式能约束代理行为，并预告 v3 会改进开发体验；可回放的 action 日志也便于追踪代理改了什么。另有人提到 Foldkit 和偏服务端的状态方案。信号：与 Shopify monorepo 讨论同一脉络，「为代理设计的架构与约定」正在成为新的选型标准。",
+   "links": [
+    "https://x.com/i/trending/2117079497011036571"
+   ],
+   "topic": "redux-for-ai-coding-agents",
+   "firstSeen": "2026-11-02T10:52:53+08:00"
   }
  ],
- "lastChecked": "2026-11-02T10:43:15+08:00"
+ "lastChecked": "2026-11-02T10:52:53+08:00"
 }
