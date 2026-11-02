@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T10:00:23+08:00",
+ "lastUpdated": "2026-11-02T10:08:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27817,7 +27817,20 @@
    ],
    "topic": "suleyman-no-conscious-ai-nov1",
    "firstSeen": "2026-11-02T10:00:23+08:00"
+  },
+  {
+   "id": "dac07b0a1c",
+   "title": "被裁工程师发起 OccupySaaS 运动：用 AI 按公开文档「洁净室」重建 SaaS，先拿 Auth0 和 Salesforce 开刀",
+   "summary": "OccupySaaS（2026 年 10 月成立，Apache-2.0）自称「用代码写的抗议运动」：被裁工程师借助 AI，只依据公开 API 文档和开放标准，按严格的洁净室流程（规格编写者与实现者隔离、每个仓库附 CLEAN_ROOM.md）重建可自托管、可直接替换的开源 SaaS，并用厂商自己的公开 SDK 跑兼容性测试。首批两个项目：替代 Auth0 的 Go 身份服务 ZeroAuthy（兼容 auth0-spa-js、auth0-react、nextjs-auth0）和替代 Salesforce 的 Sales Compel（Go/PostgreSQL + Vue）。今晚登上 HN，评论区质疑「靠愤怒而非产品热情能否成事」。信号：「AI + 洁净室重建按席位收费 SaaS」正从个人项目变成有组织的运动，开源替代品、迁移服务和自托管托管业务有机会。",
+   "links": [
+    "https://occupysaas.com/",
+    "https://news.ycombinator.com/item?id=50331402",
+    "https://github.com/occupysaas/zeroauthy",
+    "https://github.com/occupysaas/salescompel"
+   ],
+   "topic": "occupysaas-ai-cleanroom-saas-rebuild",
+   "firstSeen": "2026-11-02T10:08:03+08:00"
   }
  ],
- "lastChecked": "2026-11-02T10:00:23+08:00"
+ "lastChecked": "2026-11-02T10:08:03+08:00"
 }
