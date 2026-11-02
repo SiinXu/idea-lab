@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T08:28:31+08:00",
+ "lastUpdated": "2026-11-02T08:46:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27756,7 +27756,18 @@
    ],
    "topic": "us-labor-share-record-low-2026q2",
    "firstSeen": "2026-11-02T08:28:31+08:00"
+  },
+  {
+   "id": "aa588905e0",
+   "title": "开源 AI 游戏测试代理 Aura Autopilot 三天 600+ 星：装进 Unreal、Unity、Godot 项目即可自动探索关卡、边玩边学",
+   "summary": "Ramen VR 团队（Aura 开发者）10 月 30 日开源 Autopilot，定位为“持续学习的实时通用试玩测试系统”，支持 Unreal Engine 5、Unity 6 与 Godot 4，Windows 和 macOS 均可用。开发者把插件装进项目后，它会先做约 10 分钟探索建立项目记忆，再按自然语言指令跑关卡、找问题，并在多次运行中改进玩法。项目上线三天在 GitHub 收获 600 多星，AI 自动化游戏 QA 成为独立游戏开发者的新工具方向。",
+   "links": [
+    "https://github.com/ramenvr/autopilot",
+    "https://www.tryaura.dev/autopilot"
+   ],
+   "topic": "aura-autopilot-ai-game-playtesting",
+   "firstSeen": "2026-11-02T08:46:03+08:00"
   }
  ],
- "lastChecked": "2026-11-02T08:28:31+08:00"
+ "lastChecked": "2026-11-02T08:46:03+08:00"
 }
