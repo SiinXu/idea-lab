@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T15:30:11+08:00",
+ "lastUpdated": "2026-11-02T15:39:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28130,7 +28130,18 @@
    ],
    "topic": "nibnib-image-format",
    "firstSeen": "2026-11-02T15:30:11+08:00"
+  },
+  {
+   "id": "5bbad0fbe1",
+   "title": "「HackerTube 变体」潮继续：开发者做出 Wikihack，把 HN 上被引用最多的维基百科条目做成可刷的信息流",
+   "summary": "继 Karpathy 的 HackerTube（HN 推荐视频合集）和 HackerBooks（HN 提及书单）之后，又一个「从 Hacker News 挖内容做策展站」的项目 Wikihack 登上 Show HN。作者爬取 HN 帖子和评论中所有维基百科链接，按被引用次数排序，并提供「最热」「随机」「近 12 个月上升」三种浏览方式，全站纯前端实现。评论区开始出现审美疲劳（有人调侃将推出「推荐 HackerTube 变体的 HackerHackerTube」），说明这类「社区数据 + 轻量策展」的玩法正在快速复制、窗口期很短。",
+   "links": [
+    "https://wikihack.netlify.app",
+    "https://news.ycombinator.com/item?id=50333339"
+   ],
+   "topic": "wikihack-hn-curation",
+   "firstSeen": "2026-11-02T15:39:34+08:00"
   }
  ],
- "lastChecked": "2026-11-02T15:30:11+08:00"
+ "lastChecked": "2026-11-02T15:39:34+08:00"
 }
