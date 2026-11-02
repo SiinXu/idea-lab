@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T21:14:08+08:00",
+ "lastUpdated": "2026-11-02T21:26:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28291,7 +28291,17 @@
    ],
    "topic": "ai-agent-mouse-brain-surgery",
    "firstSeen": "2026-11-02T21:14:08+08:00"
+  },
+  {
+   "id": "fe35125062",
+   "title": "X 热议：Jason Calacanis 称每年 4 万美元 AI 工具投入换来超 200 万美元价值，自动化了 7 个全职岗位",
+   "summary": "天使投资人 Jason Calacanis 在 X 上分享，他旗下的 Launch 和 This Week in Startups 每年在 Anthropic、ElevenLabs 等 AI 工具上花费约 4 万美元，带来了超过 200 万美元的价值：团队自动化了相当于 7 个全职岗位的工作，许多任务耗时减半，并称最近 90 天的变化超过此前两年。其他创业者也晒出类似成果，讨论同时提醒，随着普及加深，AI 订阅可能涨价、先发优势会被摊薄。小团队用 AI 替代整岗工作的投入产出账本正在被公开晒出，围绕 AI 工作流搭建、岗位自动化咨询和 ROI 测算的服务需求值得关注。",
+   "links": [
+    "https://x.com/i/trending/2117241748145721757"
+   ],
+   "topic": "calacanis-40k-ai-spend-2m-value",
+   "firstSeen": "2026-11-02T21:26:28+08:00"
   }
  ],
- "lastChecked": "2026-11-02T21:14:08+08:00"
+ "lastChecked": "2026-11-02T21:26:28+08:00"
 }
