@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T12:02:32+08:00",
+ "lastUpdated": "2026-11-02T12:08:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27992,7 +27992,27 @@
    ],
    "topic": "ci-40min-to-2min-for-ai-agents",
    "firstSeen": "2026-11-02T12:02:32+08:00"
+  },
+  {
+   "id": "a383538322",
+   "title": "Raoul Pal 反驳「AI 泡沫」论：科技股回调是流动性收紧所致，而非 AI 需求降温",
+   "summary": "宏观投资人 Raoul Pal 在 X 上称，近期纳指回调主要因伊朗战事推高油价、美元与利率，压缩了全球流动性，而 AI 基本面依旧强劲：X 上讨论引用的数据包括微软 Azure 收入增长 48%、三大云厂商在手合同约 2.49 万亿美元、Anthropic 年化收入达 460 亿美元；也有人以 OpenAI 缩减至 110 亿美元的融资为例表示质疑。",
+   "links": [
+    "https://x.com/i/trending/2117099344809648171"
+   ],
+   "topic": "raoul-pal-ai-selloff-liquidity",
+   "firstSeen": "2026-11-02T12:08:22+08:00"
+  },
+  {
+   "id": "5201347aa5",
+   "title": "「给我未来十年的建议，不要解释」：用户晒 Gemini、Claude、GPT 的人生建议清单走红 X",
+   "summary": "10 月 31 日 @Alex1here 晒出 Gemini 对这句提示词的回答后，大量用户跟进分享各家 AI 的版本。清单高度相似：睡够 8 小时、每周力量训练、每天走路、花得比赚得少、买指数基金、读书少刷信息流、掌握 AI 工具、打造不可替代的技能。也有人批评清单缺少家庭与子女等话题。",
+   "links": [
+    "https://x.com/i/trending/2116940490616742302"
+   ],
+   "topic": "ai-next-decade-advice-lists",
+   "firstSeen": "2026-11-02T12:08:22+08:00"
   }
  ],
- "lastChecked": "2026-11-02T12:02:32+08:00"
+ "lastChecked": "2026-11-02T12:08:22+08:00"
 }
