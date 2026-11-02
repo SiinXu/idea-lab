@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T08:46:03+08:00",
+ "lastUpdated": "2026-11-02T09:47:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27767,7 +27767,45 @@
    ],
    "topic": "aura-autopilot-ai-game-playtesting",
    "firstSeen": "2026-11-02T08:46:03+08:00"
+  },
+  {
+   "id": "98bd024b19",
+   "title": "Anthropic 11 月 3 日起给更多旧版 Claude 加隐形文字水印：Mythos 5、Opus 4.7、Opus 4.6、Sonnet 4.6 全部纳入",
+   "summary": "Anthropic 向 Claude Platform 客户发邮件称，11 月 3 日起对 Mythos 5、Opus 4.7、Opus 4.6 和 Sonnet 4.6 的输出加上与 Opus 5.5 相同的文字水印（Bedrock 可能晚几天）。水印靠用词模式实现，不加隐藏字符、不含用户身份信息，复制粘贴和轻度编辑后仍可能保留；检测 API 目前只对监管、媒体、研究机构等按欧盟 AI 法案有需要的组织开放。Opus 4.6 和 Sonnet 4.6 只在采样参数保持默认时才打水印。X 上不少人担心简历、邮件被 HR 工具误判为 AI 写作，“AI 文本检测/改写”类工具需求可能随之升温。",
+   "links": [
+    "https://sea.mashable.com/tech/56556/anthropic-expands-text-watermarking-to-older-claude-versions-beginning-november-3",
+    "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+    "https://x.com/i/trending/2117069025117409394"
+   ],
+   "topic": "claude-watermark-older-models-nov3",
+   "firstSeen": "2026-11-02T09:47:36+08:00"
+  },
+  {
+   "id": "5c5849f3d9",
+   "title": "OpenAI 中期选举后发起政策攻势：要把数据中心改叫「AI 算力园区」，并推动 AI「限速」立法",
+   "summary": "Axios 独家：OpenAI 全球事务负责人 Chris Lehane 计划在 11 月 3 日美国中期选举后、国会跛脚鸭会期开启 PR 与政策攻势，包括为最强 AI 系统设立强制“限速”安全机制、推出社区协议和州立法让居民参与数据中心选址与收益分配，并“刻意挑衅地”把数据中心改称“AI compute campuses”，以俄亥俄 Pike County 项目为样板。OpenAI 发言人已向 Business Insider 确认新称呼。数据中心正成为选民议题，社区沟通、选址合规类服务值得关注。",
+   "links": [
+    "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+    "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "https://www.businessinsider.com/openai-ai-data-centers-rebrand-compute-campuses-midterms-2026-11"
+   ],
+   "topic": "openai-ai-compute-campuses-rebrand",
+   "firstSeen": "2026-11-02T09:47:36+08:00"
+  },
+  {
+   "id": "29ac3a6772",
+   "title": "密歇根监狱 12 月起试点 AI 暴力风险预测：Recidiviz 系统实时更新囚犯评级，X 上被比作「预知犯罪」",
+   "summary": "密歇根州矫正局宣布 12 月 1 日起在部分男子监狱试点由非营利组织 Recidiviz 开发的新分级系统，用犯罪细节和行为记录实时更新暴力风险评分，决定约 3.2 万名在押人员的安保等级，官方称预测准确度可提升约 30%。背景是 2019–2024 年全美监狱袭警增加 77%、囚犯间斗殴增加 54%。该话题今晚在 X 上发酵，批评者担心数据偏见和“预知犯罪”式治理，官方强调最终由人工决定。",
+   "links": [
+    "https://www.michigan.gov/corrections/about/newsroom/press-releases/2026/10/28/new-prisoner-classification-system-announced-by-michigan-department-of-corrections",
+    "https://www.fox2detroit.com/news/michigan-prisons-using-ai-determine-inmate-potential-violence",
+    "https://futurism.com/artificial-intelligence/prisons-ai-prediction-incarceration-algorithm",
+    "https://x.com/i/trending/2117041379385975147"
+   ],
+   "topic": "michigan-prison-ai-violence-risk-recidiviz",
+   "firstSeen": "2026-11-02T09:47:36+08:00"
   }
  ],
- "lastChecked": "2026-11-02T08:46:03+08:00"
+ "lastChecked": "2026-11-02T09:47:36+08:00"
 }
