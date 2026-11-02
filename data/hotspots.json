@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T09:47:36+08:00",
+ "lastUpdated": "2026-11-02T10:00:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27805,7 +27805,19 @@
    ],
    "topic": "michigan-prison-ai-violence-risk-recidiviz",
    "firstSeen": "2026-11-02T09:47:36+08:00"
+  },
+  {
+   "id": "1ff805b5c1",
+   "title": "微软 AI 负责人 Suleyman 长文再表态：现有 AI 没有意识，开发者「无权」造出有意识的数字新物种",
+   "summary": "Mustafa Suleyman 11 月 1 日在 X 发长文回应外界对其 9 月「模型福利」文章的反弹：他强调「AI 现在没有意识」是刻意用的现在时，目前没有证据表明 AI 有意识或需要福利；若训练中出现意识迹象，应全面暂停开发直到把这些特性设计掉，且任何相关证据都必须立即公开。他称开发者无权把一个有意识的新物种带到世上，80 亿人的权利和安全应优先，同时点名不同意 Anthropic 的做法。洛杉矶时报等跟进报道，X 上伦理学者 Jeff Sebo 等反驳。信号：「AI 意识/模型福利」正成为头部实验室公开对立的议题，相关科普、辩论类内容和 AI 伦理课程有持续流量。",
+   "links": [
+    "https://www.latimes.com/business/story/2026-11-01/if-we-say-ais-deserve-rights-it-could-start-to-believe-it-microsoft-ceo-says",
+    "https://wire.indiethinkers.com/articles/don-t-build-conscious-superintelligence-2116913722878820528",
+    "https://x.com/i/trending/2116975342468382803"
+   ],
+   "topic": "suleyman-no-conscious-ai-nov1",
+   "firstSeen": "2026-11-02T10:00:23+08:00"
   }
  ],
- "lastChecked": "2026-11-02T09:47:36+08:00"
+ "lastChecked": "2026-11-02T10:00:23+08:00"
 }
