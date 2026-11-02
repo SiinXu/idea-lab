@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T01:30:57+08:00",
+ "lastUpdated": "2026-11-03T01:42:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28464,7 +28464,19 @@
    ],
    "topic": "census-btos-super-intelligence-eo14434-2026-11-02",
    "firstSeen": "2026-11-03T01:30:57+08:00"
+  },
+  {
+   "id": "c47f7ae724",
+   "title": "Show HN：开发者用开放数据把华沙市中心做成可交互的体素 3D 地图，可切换日期、时间和天气，还能操控路人",
+   "summary": "开发者 Piotr Migdał（HN 账号 stared）11 月 2 日在 Hacker News 发布 Show HN，项目名为 warsaw-vibe-voxel，几小时内获得 50 多分。它受 Minecraft 和 MagicaVoxel 启发，把华沙市中心做成体素风格的 3D 城市：可以调日期、一天中的时间和天气，四处漫游，点击路人还能操控他（灵感来自《地下城守护者》）。数据全部来自开放数据集：OpenStreetMap 提供建筑、街道和电车轨道，波兰测绘局 Geoportal 的激光雷达数据提供楼高和树木、航拍图提供颜色，华沙市行道树数据库按树种呈现季节性树叶。项目已在 GitHub 开源，电脑端体验最好。对独立开发者来说，「开放地理数据 + 体素风格」是做城市导览、文旅互动页面的低成本路子。",
+   "links": [
+    "https://p.migdal.pl/warsaw-vibe-voxel/",
+    "https://news.ycombinator.com/item?id=50339221",
+    "https://github.com/stared/warsaw-vibe-voxel"
+   ],
+   "topic": "warsaw-vibe-voxel-show-hn-2026-11-02",
+   "firstSeen": "2026-11-03T01:42:49+08:00"
   }
  ],
- "lastChecked": "2026-11-03T01:30:57+08:00"
+ "lastChecked": "2026-11-03T01:42:49+08:00"
 }
