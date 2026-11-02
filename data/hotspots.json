@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T06:54:24+08:00",
+ "lastUpdated": "2026-11-03T07:16:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28741,7 +28741,18 @@
    ],
    "topic": "anthropic-ipo-sec-block-oped-2026-11-02",
    "firstSeen": "2026-11-03T06:54:24+08:00"
+  },
+  {
+   "id": "30338b755f",
+   "title": "欧洲多国超市冷柜遭网络攻击：比利时约 75 家门店冰箱夜间被调到 17°C，联邦检察院已立案",
+   "summary": "11 月 2 日，Euronews 报道比利时、瑞典、荷兰、爱沙尼亚、卢森堡、芬兰和爱尔兰的数十家超市出现冷柜、冰柜温度在夜间被调高、食品被迫报废的情况，被普遍认为是与数周前法国类似的网络攻击。比利时受影响门店约 75 家，涉及 Delhaize、家乐福、Intermarché、Spar 和宜家门店；比利时网络安全中心确认知情，联邦检察院已立案，攻击者身份尚不明。该消息登上 Hacker News。信号：联网制冷、楼宇控制等运营技术（OT）设备正成为现实攻击目标，面向零售和冷链的设备安全监控、温度异常告警与应急保险服务有需求。",
+   "links": [
+    "https://www.euronews.com/2026/11/02/cyberattack-hits-belgian-supermarket-fridges-and-freezers",
+    "https://news.ycombinator.com/item?id=50344433"
+   ],
+   "topic": "europe-supermarket-fridge-cyberattack-2026-11-02",
+   "firstSeen": "2026-11-03T07:16:26+08:00"
   }
  ],
- "lastChecked": "2026-11-03T06:54:24+08:00"
+ "lastChecked": "2026-11-03T07:16:26+08:00"
 }
