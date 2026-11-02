@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T22:01:58+08:00",
+ "lastUpdated": "2026-11-02T22:18:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28321,7 +28321,18 @@
    ],
    "topic": "heretic-llm-modification",
    "firstSeen": "2026-11-02T22:01:58+08:00"
+  },
+  {
+   "id": "394dd9b8d9",
+   "title": "Hacker News 热议：geohot 发文《Pray for Chaos》，称 AI 时代「混乱」反而是好结局，「秩序」才最危险",
+   "summary": "知名黑客 George Hotz（geohot）11 月 1 日发布博文《Pray for Chaos》，刚发出就登上 Hacker News 首页。他认为 AI 的走向只有「秩序」和「混乱」两种：如果模型强到能修补所有漏洞，现有格局将难以撼动，这才是危险的结局；更可能的是混乱——AI 能批量伪造整套新闻档案和互联网内容，「死互联网理论」正在成真，中心化、同质化的系统过于脆弱，网络攻击四处开花。他给出的最乐观设想是走向去中心化，每个人运行各自定制的系统。文章还批评美国 AI 公司无需证明产品对社会有益。对开发者而言，内容真伪鉴别、去中心化与本地化部署、面向个人的安全防护等方向可能迎来更多关注。",
+   "links": [
+    "https://geohot.github.io//blog/jekyll/update/2026/11/01/pray-for-chaos.html",
+    "https://news.ycombinator.com/item?id=50336921"
+   ],
+   "topic": "geohot-pray-for-chaos",
+   "firstSeen": "2026-11-02T22:18:37+08:00"
   }
  ],
- "lastChecked": "2026-11-02T22:01:58+08:00"
+ "lastChecked": "2026-11-02T22:18:37+08:00"
 }
