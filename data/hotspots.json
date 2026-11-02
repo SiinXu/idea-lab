@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T01:42:49+08:00",
+ "lastUpdated": "2026-11-03T01:52:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28476,7 +28476,18 @@
    ],
    "topic": "warsaw-vibe-voxel-show-hn-2026-11-02",
    "firstSeen": "2026-11-03T01:42:49+08:00"
+  },
+  {
+   "id": "fd613bbbc3",
+   "title": "建筑师实测 13 个 AI 模型画施工图：Claude Opus 5.5 已能在引导下画出可报建级别的简单房屋图纸",
+   "summary": "建筑师 Stephen Gallagher 撰文（11 月 2 日登上 Hacker News）称，他用自己画的简单房屋草图测试了 13 个新旧 AI 模型的技术制图能力。直到 2026 年春，最强模型画出的技术图纸仍粗糙得像卡通；但 2026 年夏秋发布的前沿模型进步巨大，其中 2026 年 9 月发布的 Anthropic Claude Opus 5.5 目前最强，在有经验的人指导下，能为简单建筑画出相当成熟、达到报建（permit）质量的整套图纸。他认为由于变化突然、且需要精细提示，建筑行业大多还没意识到；建筑师可能要经历程序员过去一年经历的转变，从亲手画图变成监督 AI 画图。对做 AI 垂直工具的人来说，建筑、工程制图是一个刚被打开的新场景。",
+   "links": [
+    "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+    "https://news.ycombinator.com/item?id=50339224"
+   ],
+   "topic": "ai-architectural-drawings-opus-5-5-2026-11-02",
+   "firstSeen": "2026-11-03T01:52:29+08:00"
   }
  ],
- "lastChecked": "2026-11-03T01:42:49+08:00"
+ "lastChecked": "2026-11-03T01:52:29+08:00"
 }
