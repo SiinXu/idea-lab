@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T19:54:51+08:00",
+ "lastUpdated": "2026-11-02T20:09:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28225,7 +28225,18 @@
    ],
    "topic": "moss-keeper-single-html-anime",
    "firstSeen": "2026-11-02T19:54:51+08:00"
+  },
+  {
+   "id": "467a928d94",
+   "title": "超市冷柜黑客攻击蔓延到比利时、瑞典和爱尔兰：冷冻柜被远程调到 50°C，数百万欧元食品报废",
+   "summary": "据 BBC 报道，比利时和卢森堡约 40 家 Delhaize 超市、瑞典多家 ICA 和 Coop 门店，以及爱尔兰 13 家 SuperValu 疑遭网络攻击，冷藏和冷冻设备在一夜之间被远程篡改，瑞典一家 ICA 门店称冷冻柜温度被设成 50°C。当地媒体估计已有数百万欧元食品被迫丢弃，比利时一家门店单店损失约 10 万欧元；Carrefour 称其 15 家比利时门店受影响但仍正常营业。攻击者身份不明，此前一个月法国已有数百家超市冷柜遭类似入侵，比利时和瑞典的国家网络安全机构正在跟进。这再次说明联网的楼宇和制冷控制器是零售业的薄弱环节，冷链监控、异常温度告警和 IoT 资产暴露面扫描的需求会继续升温。",
+   "links": [
+    "https://www.bbc.com/news/articles/cq1kd1nee80eo",
+    "https://news.ycombinator.com/item?id=50335602"
+   ],
+   "topic": "eu-supermarket-freezer-hack-belgium-sweden",
+   "firstSeen": "2026-11-02T20:09:29+08:00"
   }
  ],
- "lastChecked": "2026-11-02T19:54:51+08:00"
+ "lastChecked": "2026-11-02T20:09:29+08:00"
 }
