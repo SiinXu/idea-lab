@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T06:29:08+08:00",
+ "lastUpdated": "2026-11-03T06:43:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28719,7 +28719,18 @@
    ],
    "topic": "wanaka-studio-ai-native-game-engine-2026-11-02",
    "firstSeen": "2026-11-03T06:29:08+08:00"
+  },
+  {
+   "id": "0bb9a79b98",
+   "title": "苹果发布 2026 财年第四季度财报：单季营收 1145 亿美元、同比增长 12%，全年营收 4790 亿美元创历史新高",
+   "summary": "11 月 2 日盘后，苹果公布截至 9 月 26 日的 2026 财年第四季度业绩：营收 1145 亿美元，同比增长 12%，创 9 月季度纪录；毛利率 47.9%（其中约 1 个百分点来自关税退款），摊薄每股收益 2.10 美元，同比增长 14%。CEO John Ternus 称 iPhone 创 9 月季度纪录、服务业务收入创历史新高，并点名 iPhone Duo、iPhone 18 Pro 系列、触屏 Mac 和全新 Siri AI 将撑起假日季；CFO Kevan Parekh 表示全年营收 4790 亿美元为史上最高，本季向股东返还 280 亿美元，每股派息 0.27 美元。财报发布半小时内即登上 Hacker News。信号：AI 版 Siri 与新硬件形态成为苹果增长叙事核心，围绕触屏 Mac 适配、Siri AI 集成和 iPhone Duo 新交互的应用与工具值得提前布局。",
+   "links": [
+    "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+    "https://news.ycombinator.com/item?id=50344670"
+   ],
+   "topic": "apple-fy26-q4-results-2026-11-02",
+   "firstSeen": "2026-11-03T06:43:21+08:00"
   }
  ],
- "lastChecked": "2026-11-03T06:29:08+08:00"
+ "lastChecked": "2026-11-03T06:43:21+08:00"
 }
