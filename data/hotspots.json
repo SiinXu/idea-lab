@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T20:09:29+08:00",
+ "lastUpdated": "2026-11-02T20:26:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28236,7 +28236,29 @@
    ],
    "topic": "eu-supermarket-freezer-hack-belgium-sweden",
    "firstSeen": "2026-11-02T20:09:29+08:00"
+  },
+  {
+   "id": "fce74eb68c",
+   "title": "GitHub 日榜：colibri 用纯 C 在普通电脑上跑数千亿参数 MoE 大模型，专家权重按需从硬盘读取，已超 4.6 万星",
+   "summary": "开源项目 JustVugg/colibri 今天登上 GitHub 日榜，单日新增数百星，总星数超过 4.6 万。它利用混合专家（MoE）模型每个 token 只激活一小部分参数的特点，把常用部分留在内存里，其余专家权重在需要时从硬盘流式读取，用纯 C 实现、零依赖、不强制要求 GPU。README 演示在 CPU 上以约 9.9 GB 常驻内存运行 744B 参数的 GLM-5.2（int4），目前已支持 GLM、Kimi、DeepSeek、MiMo、Qwen 等十余个模型家族，也能直接读取现成的 GGUF 文件，并可走 Vulkan 或 CUDA 加速。本地跑超大模型的门槛继续下降，围绕私有化部署、离线推理和低成本硬件方案的需求值得关注。",
+   "links": [
+    "https://github.com/JustVugg/colibri",
+    "https://justvugg.github.io/colibri"
+   ],
+   "topic": "colibri-moe-disk-streaming-engine",
+   "firstSeen": "2026-11-02T20:26:57+08:00"
+  },
+  {
+   "id": "d747ecb589",
+   "title": "GitHub 日榜：Worktrunk 单日涨近千星，用 Git worktree 帮你同时开多个 AI 编程 Agent 并行干活",
+   "summary": "Rust 编写的命令行工具 max-sixty/worktrunk 今天登上 GitHub 日榜，单日新增约 970 星，总星数接近 1 万。它专门管理 Git worktree，定位是「为并行 AI Agent 工作流设计」：让开发者在同一个仓库里快速创建、切换和清理多个独立工作目录，每个目录交给一个编程 Agent 各自开发不同功能，互不干扰。随着 Claude Code、Codex 等工具被同时开多个实例使用，围绕多 Agent 并行开发的分支管理、合并与审查工具正在成为新的细分需求。",
+   "links": [
+    "https://github.com/max-sixty/worktrunk",
+    "https://worktrunk.dev"
+   ],
+   "topic": "worktrunk-git-worktree-parallel-agents",
+   "firstSeen": "2026-11-02T20:26:57+08:00"
   }
  ],
- "lastChecked": "2026-11-02T20:09:29+08:00"
+ "lastChecked": "2026-11-02T20:26:57+08:00"
 }
