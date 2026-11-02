@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T10:08:03+08:00",
+ "lastUpdated": "2026-11-02T10:25:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27830,7 +27830,33 @@
    ],
    "topic": "occupysaas-ai-cleanroom-saas-rebuild",
    "firstSeen": "2026-11-02T10:08:03+08:00"
+  },
+  {
+   "id": "acfe781504",
+   "title": "AI 代理 Instinct 在 WhatsApp 集体「失声」：代理自称公司 WhatsApp Business 账单出问题，只能改用 iMessage 和邮件回复",
+   "summary": "11 月 1 日，大量用户在 X 上反映个人 AI 代理 Instinct 在 WhatsApp 上只收不发，有人说它只能用表情回应「像人质一样」。代理自己告诉用户：是 Instinct 公司的 WhatsApp Business 账号账单出了问题，外发消息被拒，建议改用 iMessage 或邮件；另有用户称注册后 WhatsApp 账号被封、无法申诉。背景是 Meta 自 10 月 1 日起对服务类消息按条收费，未绑定付款方式的商家会被停止投递，同时 Meta 正在推自家 Muse 代理。原因尚未得到 Instinct 或 Meta 官方确认。信号：把 AI 代理建在单一聊天平台上存在计费与封号风险，多通道兜底、平台政策监控类工具有需求。",
+   "links": [
+    "https://officechai.com/ai/instinct-isnt-working-on-whatsapp-for-many-users-reportedly-over-a-billing-issue/",
+    "https://cryptocompass.com/articles/instinct-s-whatsapp-replies-fail-ai-agent-blames-billing",
+    "https://timesofindia.indiatimes.com/technology/tech-news/starting-october-1-whatsapp-to-stop-delivering-messages-from-these-whatsapp-business-accounts/articleshow/134606597.cms",
+    "https://x.com/i/trending/2116937974978068857"
+   ],
+   "topic": "instinct-whatsapp-billing-block",
+   "firstSeen": "2026-11-02T10:25:56+08:00"
+  },
+  {
+   "id": "f7059052e5",
+   "title": "Shopify CEO 力挺 monorepo：全部代码并入单一仓库 World，被称为 AI 编程代理的「大补」",
+   "summary": "Tobi Lütke 11 月 1 日在 X 上转发工程负责人 Burke Libbey 的感慨「迁到 monorepo 对 Shopify 的代理是巨大利好，虽然需要不少工具来弥补缺点，但绝不想回去」，并称这是工程师一开始都讨厌、用上后就离不开的决定。Shopify 自 2024 年起把所有代码并入名为 World 的单一仓库并全面用 Nix 构建，仓库里还放着技能、规范、运行手册和 AGENTS.md，供内部 Slack 代理 River 使用；River 已参与约八分之一的合并 PR。X 上随之掀起「为 AI 代理重新审视 monorepo、主干开发」的讨论。信号：面向代理的仓库结构、AGENTS.md/技能沉淀与 monorepo 迁移工具是值得关注的方向。",
+   "links": [
+    "https://shopify.engineering/under-the-river",
+    "https://ppll.app/tobi-lutke/feed",
+    "https://www.infoworld.com/article/4190178/when-software-developers-and-ai-agents-share-the-learning.html",
+    "https://x.com/i/trending/2116926543343804651"
+   ],
+   "topic": "shopify-world-monorepo-ai-agents",
+   "firstSeen": "2026-11-02T10:25:56+08:00"
   }
  ],
- "lastChecked": "2026-11-02T10:08:03+08:00"
+ "lastChecked": "2026-11-02T10:25:56+08:00"
 }
