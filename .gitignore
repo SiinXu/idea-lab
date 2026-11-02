@@ -3,3 +3,6 @@ shots/
 new.json
 .notes_seen.json
 __pycache__/
+out/
+data/heat/
+scripts/heat_i18n_cache.json

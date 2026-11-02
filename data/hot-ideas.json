@@ -1,0 +1,129 @@
+{
+ "items": [
+  {
+   "topic": "nolan-lawson-ai-cost-js-frameworks-2026-10-28",
+   "title": "框架 AI 成本对比页",
+   "who": "选型中的前端团队",
+   "pain": "不知道换框架后 AI 写代码要多花多少 token",
+   "why_now": "HN 正在讨论 JS 框架的 AI 成本",
+   "mvp": "跑 5 个框架同一需求，记录 token 和成功率，出对比页",
+   "money": "免费页引流，$9 下载完整测试报告",
+   "not_do": "不做框架评测之外的性能跑分",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50323088"
+   ],
+   "score": 8,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 1,
+    "novel": 1
+   },
+   "why": "HN 真实讨论；两周可做；收费偏弱",
+   "shown": true,
+   "at": "2026-11-02T07:16:57+00:00",
+   "id": "d5e7ee242f"
+  },
+  {
+   "topic": "postgres-19-delayed-ai-bugs-2026-10-30",
+   "title": "AI 找 Bug 提交质量看板",
+   "who": "开源维护者",
+   "pain": "AI 生成的 bug 报告暴增，难分真假",
+   "why_now": "Postgres 19 因 bug 报告激增延期",
+   "mvp": "抓公开 issue，按可复现度打标签的静态看板",
+   "money": "维护者团队版 $19/月",
+   "not_do": "不自动关 issue，不抓用户资料",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50312408"
+   ],
+   "score": 7,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 1,
+    "money": 1,
+    "reuse": 1,
+    "novel": 1
+   },
+   "why": "证据强，但分类质量两周难保证",
+   "shown": true,
+   "at": "2026-11-02T07:16:57+00:00",
+   "id": "4c8a9ca683"
+  },
+  {
+   "topic": "hef4e57d04",
+   "title": "AI 编程提效自测表",
+   "who": "技术主管",
+   "pain": "说不清团队用 AI 编程到底快了多少",
+   "why_now": "X 上开发者在争论 AI 编程的真实提效",
+   "mvp": "一页问卷 + 基线对比模板，导出 PDF",
+   "money": "团队报告 $29",
+   "not_do": "不接入公司代码仓库",
+   "evidence": [
+    "https://x.com/i/trending/2116895168570052924"
+   ],
+   "score": 7,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 1,
+    "novel": 0
+   },
+   "why": "同类问卷已多，新颖度低",
+   "shown": true,
+   "at": "2026-11-02T07:16:57+00:00",
+   "id": "b2fa39cd39"
+  },
+  {
+   "topic": "ask-hn-privacy-tv",
+   "title": "隐私家电速查",
+   "who": "在意隐私的消费者",
+   "pain": "不知道哪些电视会上传观看数据",
+   "why_now": "HN 正在问哪款电视最注重隐私",
+   "mvp": "整理 30 款电视的 ACR 开关和默认设置，静态页",
+   "money": "联盟链接",
+   "not_do": "不收集访客数据",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50328896"
+   ],
+   "score": 7,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 0,
+    "novel": 1
+   },
+   "why": "可做，但与现有资产无关",
+   "shown": true,
+   "at": "2026-11-02T07:16:57+00:00",
+   "id": "a86bf9e5d0"
+  },
+  {
+   "topic": "deepseek-dsh-superagent-2026-10-31",
+   "title": "Agent 原型一键试跑",
+   "who": "想试新 Agent 框架的开发者",
+   "pain": "新仓库环境配置繁琐",
+   "why_now": "DeepSeek 新 Agent 原型一周涨星最快",
+   "mvp": "为前 10 个热门 Agent 仓库写好 Workers 沙盒模板",
+   "money": "托管试跑 $5/月",
+   "not_do": "不托管用户私钥",
+   "evidence": [
+    "https://github.com/deepseek-ai/dsh-superagent-prototype"
+   ],
+   "score": 5,
+   "parts": {
+    "evidence": 1,
+    "two_weeks": 1,
+    "money": 1,
+    "reuse": 2,
+    "novel": 0
+   },
+   "why": "只有仓库本身，无讨论证据",
+   "shown": false,
+   "at": "2026-11-02T07:16:57+00:00",
+   "id": "012719d705"
+  }
+ ]
+}
