@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T14:55:02+08:00",
+ "lastUpdated": "2026-11-02T15:30:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28119,7 +28119,18 @@
    ],
    "topic": "tibo-dog-x-embed-game",
    "firstSeen": "2026-11-02T14:55:02+08:00"
+  },
+  {
+   "id": "ac292f4bb3",
+   "title": "Raph Levien 开源 nibnib 图像格式：每像素 4 bit、两像素一字节解码，专为微控制器「极速解压」设计",
+   "summary": "Rust 图形专家 Raph Levien 发布实验性图像格式 nibnib，最初用于 RP2350 微控制器输出 DVI 画面，每像素只有约 6 个时钟周期预算。它以调色板为核心，但调色板存的是相对上一像素的「增量」而非绝对颜色，因此渐变和柔和区域明显优于普通调色板图；解码时一个字节查表加法即可得到两个 RGB565 像素。编码则是耗时的离线搜索，属于非对称设计。该项目登上 Hacker News 首页（约 130 分），为嵌入式显示、复古硬件和低功耗设备提供了新思路。",
+   "links": [
+    "https://github.com/raphlinus/nibnib",
+    "https://news.ycombinator.com/item?id=50299811"
+   ],
+   "topic": "nibnib-image-format",
+   "firstSeen": "2026-11-02T15:30:11+08:00"
   }
  ],
- "lastChecked": "2026-11-02T14:55:02+08:00"
+ "lastChecked": "2026-11-02T15:30:11+08:00"
 }
