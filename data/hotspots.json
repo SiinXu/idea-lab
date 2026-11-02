@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T03:10:13+08:00",
+ "lastUpdated": "2026-11-03T03:31:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28557,7 +28557,20 @@
    ],
    "topic": "polymarket-anthropic-ant-pre-ipo-perp-2026-11-02",
    "firstSeen": "2026-11-03T03:10:13+08:00"
+  },
+  {
+   "id": "64699d7939",
+   "title": "高盛收紧 AI 编程工具：Claude Code 和 GitHub Copilot 只留给工程师，交易员和银行家被停用",
+   "summary": "据彭博报道、11 月 2 日在 X 上被大量转发，高盛 10 月更新内部指引，在评估生产力和风险后，把 Anthropic 的 Claude Code 和微软 GitHub 的编程工具限定给约 1.2 万名工程师使用；此前几个月，交易员和银行家也能用它们自己搭建市场建模、交易监控等小工具。财经账号 Exec Sum 的「高盛禁止银行家和交易员用 Claude Code」一帖阅读量约 30 万，网友调侃高盛一边承销 Anthropic IPO、一边不让自家员工用它的产品。也有人认为这说明银行开始把智能体编程工具当成生产基础设施来管：风险不在工具本身，而在看不懂代码改动的非工程人员。信号：大型企业里「人人 vibe coding」正在遇到合规收口，面向非工程岗位的受控 AI 工具、代码审查与权限审计、企业内部 AI 使用治理方案会有需求。",
+   "links": [
+    "https://x.com/exec_sum/status/2117284426128179638",
+    "https://x.com/IPONewsroom_/status/2117261114652143844",
+    "https://x.com/i/trending/2117291067926097949",
+    "https://digitalreport.com.tr/goldman-sachs-yapay-zeka-kodlama-araclarini-kisitladi-213476/"
+   ],
+   "topic": "goldman-sachs-limits-claude-code-to-engineers-2026-11-02",
+   "firstSeen": "2026-11-03T03:31:34+08:00"
   }
  ],
- "lastChecked": "2026-11-03T03:10:13+08:00"
+ "lastChecked": "2026-11-03T03:31:34+08:00"
 }
