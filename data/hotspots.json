@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T23:46:51+08:00",
+ "lastUpdated": "2026-11-03T00:18:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28386,7 +28386,18 @@
    ],
    "topic": "meituan-longcat-2-5-release-2026-11-02",
    "firstSeen": "2026-11-02T23:46:51+08:00"
+  },
+  {
+   "id": "3e261be708",
+   "title": "欧洲七国超市冷柜疑遭第二轮网络攻击：黑客远程把冷柜温度调到 50°C，暴露联网工控设备安全短板",
+   "summary": "据《卫报》11 月 2 日报道，比利时、爱沙尼亚、爱尔兰、芬兰、卢森堡、荷兰和瑞典的连锁超市称，旗下数十家门店的冰箱和冷柜温度在夜间骤升，多家公司确认遭到网络攻击。瑞典 ICA 门店称冷柜被黑并被设为 50°C，Coop 有 6 家门店受影响，Ahold Delhaize 在比利时和卢森堡也有数十家门店中招。此前 10 月法国约 700 家超市的制冷设备被劫持，损失估计达数千万欧元。瑞典国家网络安全中心称国内有大量暴露在公网、亟需打补丁的运营技术（OT）设备。该新闻同日登上 Hacker News 首页。对创业者来说，联网制冷、楼宇和零售设备的暴露面扫描、远程控制权限审计与异常温度告警，正成为有现实需求的安全服务方向。",
+   "links": [
+    "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+    "https://news.ycombinator.com/item?id=50335615"
+   ],
+   "topic": "europe-supermarket-freezer-cyberattack-2026-11-02",
+   "firstSeen": "2026-11-03T00:18:21+08:00"
   }
  ],
- "lastChecked": "2026-11-02T23:46:51+08:00"
+ "lastChecked": "2026-11-03T00:18:21+08:00"
 }
