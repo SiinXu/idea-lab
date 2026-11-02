@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T13:15:32+08:00",
+ "lastUpdated": "2026-11-02T13:58:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28073,7 +28073,19 @@
    ],
    "topic": "ask-hn-privacy-tv",
    "firstSeen": "2026-11-02T13:15:32+08:00"
+  },
+  {
+   "id": "72c6e71759",
+   "title": "OpenAI 与阿布扎比签下四项协议：要打造全球首个「AI 原生政府」，ADNOC 成首家部署 OpenAI 前沿技术的能源公司",
+   "summary": "11 月 2 日，阿布扎比王储哈立德会见 Sam Altman，见证四项协议签署：阿布扎比政府与 OpenAI 启动「机器可读政府」计划，把政策法规转成 AI 可读格式，辅助官员做许可证、证书等合规审查，每次判定可追溯到具体条款，最终决定仍由官员负责，首个试点已在食品进口审批上线；ADNOC 联合 G42 旗下 Inception42 在全业务部署 GPT 模型，推理全部跑在阿联酋境内；穆巴达拉将用 AI 做投资分析与风险评估；Inception42 与 OpenAI 另签五年协议，推动政府、企业和教育领域的 AI 落地。",
+   "links": [
+    "https://www.mediaoffice.abudhabi/en/crown-prince-news/khaled-bin-mohamed-bin-zayed-meets-sam-altman-and-witnesses-signing-of-agreements-with-openai/",
+    "https://www.thenationalnews.com/business/energy/2026/11/02/adnoc-signs-agreement-with-openai-and-g42-to-deploy-frontier-ai/",
+    "https://x.com/i/trending/2117132055725174935"
+   ],
+   "topic": "openai-abu-dhabi-ai-native-government",
+   "firstSeen": "2026-11-02T13:58:13+08:00"
   }
  ],
- "lastChecked": "2026-11-02T13:15:32+08:00"
+ "lastChecked": "2026-11-02T13:58:13+08:00"
 }
