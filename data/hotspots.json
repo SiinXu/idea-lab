@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T22:18:37+08:00",
+ "lastUpdated": "2026-11-02T22:26:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28332,7 +28332,18 @@
    ],
    "topic": "geohot-pray-for-chaos",
    "firstSeen": "2026-11-02T22:18:37+08:00"
+  },
+  {
+   "id": "4df6ae2fbd",
+   "title": "GitHub 日榜：计算机视觉库 Kornia 单日涨 400 多星、总星数破 1.2 万，主打「空间 AI」",
+   "summary": "PyTorch 生态的几何计算机视觉库 Kornia 今天冲上 GitHub 趋势榜，单日新增 400 多星，总星数超过 1.2 万。它把图像变换、相机几何、特征匹配、数据增强等经典视觉操作做成可微分的 PyTorch 算子，可以直接接进深度学习训练流程。项目近期发布 v0.9.0，强调结果更准确、速度更快、对 torch.compile 支持更好，并支持半精度以及苹果 MPS 和 CUDA 加速，定位转向「空间 AI」。对开发者而言，机器人、AR、3D 重建和具身智能里的视觉预处理与数据增强，可以少写很多底层代码。",
+   "links": [
+    "https://github.com/kornia/kornia",
+    "https://github.com/kornia/kornia/releases/tag/v0.9.0"
+   ],
+   "topic": "kornia-spatial-ai-v0-9",
+   "firstSeen": "2026-11-02T22:26:22+08:00"
   }
  ],
- "lastChecked": "2026-11-02T22:18:37+08:00"
+ "lastChecked": "2026-11-02T22:26:22+08:00"
 }
