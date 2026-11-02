@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T12:57:23+08:00",
+ "lastUpdated": "2026-11-02T13:15:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28063,7 +28063,17 @@
    ],
    "topic": "sylvain-catherine-ai-caution",
    "firstSeen": "2026-11-02T12:57:23+08:00"
+  },
+  {
+   "id": "242d15603b",
+   "title": "Ask HN 热帖：想买一台「不偷看你」的电视，网友答案几乎一致——没有，干脆别联网",
+   "summary": "一位多年没买电视的用户在 Hacker News 求推荐 60–80 英寸、注重隐私的 4K 电视，只想把它当 Apple TV 的显示器。帖子数小时内超 230 分、上百条回复，主流答案是「没有真正尊重隐私的智能电视」：买任意电视但永不联网，外接 Apple TV 或自建 Jellyfin 媒体服务器；也有人推荐 Sceptre 等少数非智能电视品牌、大尺寸显示器，或把 LG 电视 root 后屏蔽广告和联网。讨论反映出用户对智能电视数据收集和广告推送的普遍反感。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50328896"
+   ],
+   "topic": "ask-hn-privacy-tv",
+   "firstSeen": "2026-11-02T13:15:32+08:00"
   }
  ],
- "lastChecked": "2026-11-02T12:57:23+08:00"
+ "lastChecked": "2026-11-02T13:15:32+08:00"
 }
