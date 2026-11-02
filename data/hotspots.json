@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T03:31:34+08:00",
+ "lastUpdated": "2026-11-03T03:41:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28570,7 +28570,44 @@
    ],
    "topic": "goldman-sachs-limits-claude-code-to-engineers-2026-11-02",
    "firstSeen": "2026-11-03T03:31:34+08:00"
+  },
+  {
+   "id": "38b4c99e82",
+   "title": "Altman 在阿布扎比 ADIPEC 首次确认：9 月「解出」纳维–斯托克斯的内部模型就是即将发布的「下一代 GPT」",
+   "summary": "11 月 2 日 ADIPEC 能源大会开幕式上，Sam Altman 说 OpenAI 9 月的纳维–斯托克斯证明来自「即将发布的下一代 GPT」的 1 万个智能体，不分层级、去中心化地连续协作约 4 天；同场 Abu Dhabi 与 OpenAI 签下 ADNOC、Mubadala 等四项协议，Altman 还称 AI 已「大体上比顶尖科学家更聪明」，但人类必须保有控制权。这是 OpenAI 首次公开把那次数学演示和下一款旗舰产品对上号，不过仍没有名字、日期和价格；Clay 研究所尚未认可该证明，另有论文指出其 Lean 形式化与自然语言证明并不完全对应。信号：下一代 GPT 主打大规模多智能体长时自主研究，围绕多智能体编排、科研自动化和「AI 证明可信度审查」的工具与内容会迎来一波需求。",
+   "links": [
+    "https://x.com/i/trending/2117332420252877265",
+    "https://thursdaytimes.com/2026/11/02/science/technology/sam-altman-adipec-ai-smarter-scientists-adnoc-openai/",
+    "https://openai.com/index/navier-stokes-solution/",
+    "https://arxiv.org/html/2610.08144"
+   ],
+   "topic": "altman-adipec-next-gpt-navier-stokes-2026-11-02",
+   "firstSeen": "2026-11-03T03:41:15+08:00"
+  },
+  {
+   "id": "ed4b582536",
+   "title": "OpenAI 发布 LifeVal 评测：用托儿、报名幼儿园、买菜、政务办理等日常琐事考 AI，GPT-6 Astra 多项满分",
+   "summary": "OpenAI 11 月 2 日公布 LifeVal，基于美国时间利用调查、跨国时间利用研究和一份 3995 人的代表性问卷，挑出普通人最希望 AI 代办的事：照护、健康、教育、家务行政、个人理财、购物和政府服务。模型要用浏览器、电脑操作和连接器真正把事办完，按场景细则打分；示例里搬家后挑幼儿园 93.1%、组织防洪志愿者 98%、为新确诊糖尿病的父母做餐单 90.4%，GPT-6 Astra 在预约早教课、预约车检、退订邮件等任务上拿到 100%。批评者指出任务集、评分细则和测试环境都没公开，外部无法复现。信号：竞争焦点正从「会写代码」转向「替普通人办事」，个人生活代办、垂直场景（育儿、照护、政务）智能体和第三方可复现的生活任务评测都有机会。",
+   "links": [
+    "https://openai.com/index/lifeval",
+    "https://x.com/i/trending/2117314824451559673",
+    "https://alphasignal.ai/news/openai-s-lifeval-judges-ai-on-real-life-errands-not-just-coding"
+   ],
+   "topic": "openai-lifeval-everyday-tasks-2026-11-02",
+   "firstSeen": "2026-11-03T03:41:15+08:00"
+  },
+  {
+   "id": "cf1957de03",
+   "title": "Steam 10 月新游近一半（49.9%）声明使用生成式 AI：一年前是 26.4%，2024 年 1 月仅 1.7%",
+   "summary": "Steam 非官方数据库 PCGame.com 的运营者 ploz 统计了 2024 年 1 月以来约 6.36 万款新游的 AI 披露标记：2026 年 10 月有 49.9% 的新作声明含 AI 生成内容，全年至今 40.1%。用途以美术为主（63%），其次是文本与翻译 30%、商店页与营销 26%、音乐 21%、代码 16%，游戏中实时生成仅 3%。评论不足 10 条的小作品披露率 47%，千条以上的只有 14%；一年发 10 款以上的开发者披露率 68%。有 AI 披露的游戏平均好评率 77%，低于无披露的 83%，玩家呼吁 Steam 加「排除 AI 游戏」筛选。信号：AI 量产游戏正在挤占商店，「人工制作」认证、AI 内容筛选插件、帮独立开发者做差异化营销的工具会有市场。",
+   "links": [
+    "https://www.dexerto.com/gaming/almost-half-of-all-new-steam-games-use-ai-now-3423933/",
+    "https://automaton-media.com/articles/newsjp/20261102-477078/",
+    "https://x.com/i/trending/2117314833712574474"
+   ],
+   "topic": "steam-october-2026-ai-disclosure-49-9-2026-11-02",
+   "firstSeen": "2026-11-03T03:41:15+08:00"
   }
  ],
- "lastChecked": "2026-11-03T03:31:34+08:00"
+ "lastChecked": "2026-11-03T03:41:15+08:00"
 }
