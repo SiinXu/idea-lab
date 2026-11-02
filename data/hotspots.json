@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-02T08:02:38+08:00",
+ "lastUpdated": "2026-11-02T08:28:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -27745,7 +27745,18 @@
    ],
    "topic": "craft-anything-clean-room",
    "firstSeen": "2026-11-02T08:02:38+08:00"
+  },
+  {
+   "id": "7407a696f5",
+   "title": "美国劳动者收入份额跌至 52.8%，创 1947 年有记录以来新低，登上 HN 热议",
+   "summary": "Fortune 援引美国劳工统计局（BLS）劳动生产率与成本报告：2026 年第二季度，劳动者通过工资薪酬拿到的收入份额降至 52.8%，为 1947 年开始统计以来最低，上一季度为 53.6%，本十年平均约 55.6%。文章把自动化、生产率上升而工资未同步上涨列为原因之一，摩根士丹利称近期生产率激增仍是“未解之问”。HN 讨论聚焦 AI 时代利润与工资分配失衡。",
+   "links": [
+    "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
+    "https://news.ycombinator.com/item?id=50330939"
+   ],
+   "topic": "us-labor-share-record-low-2026q2",
+   "firstSeen": "2026-11-02T08:28:31+08:00"
   }
  ],
- "lastChecked": "2026-11-02T08:02:38+08:00"
+ "lastChecked": "2026-11-02T08:28:31+08:00"
 }
