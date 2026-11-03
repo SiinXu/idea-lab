@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T05:16:06+08:00",
+ "lastUpdated": "2026-11-04T05:32:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29937,7 +29937,27 @@
    ],
    "topic": "fal-raises-1-3b-16b-valuation",
    "firstSeen": "2026-11-04T05:16:06+08:00"
+  },
+  {
+   "id": "3533cb5b1c",
+   "title": "AMD 三季度营收同比增 45% 至 133.8 亿美元，数据中心业务暴涨 97%，盘后大涨超 7%",
+   "summary": "AMD 公布 Q3 财报：营收 133.8 亿美元，高于市场预期的 130.9 亿；数据中心营收同比增长 97% 至 85 亿美元，并给出高于预期的四季度指引，股价盘后涨超 7%。信号：AI 加速卡需求正在外溢到英伟达之外，GPU 与服务器 CPU 的「第二供应商」格局加速成形，算力租赁与推理成本有望继续下行。",
+   "links": [
+    "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html"
+   ],
+   "topic": "amd-q3-2026-earnings-datacenter-97",
+   "firstSeen": "2026-11-04T05:32:38+08:00"
+  },
+  {
+   "id": "ad6fc65b09",
+   "title": "OpenAI 挖来 Uber 总裁 Jill Hazelbaker 出任首席企业事务官，直接向 Greg Brockman 汇报",
+   "summary": "据 Axios 报道，Uber 总裁兼首席企业事务官 Jill Hazelbaker 将加入 OpenAI，负责企业事务（政策、公关与政府关系），向总裁 Greg Brockman 汇报。信号：OpenAI 在监管、选举与上市预期压力下持续补强「对外关系」团队，政策与合规议题将成为 AI 巨头竞争的新战场。",
+   "links": [
+    "https://www.axios.com/2026/11/03/jill-hazelbaker-openai-uber"
+   ],
+   "topic": "openai-hires-jill-hazelbaker",
+   "firstSeen": "2026-11-04T05:32:38+08:00"
   }
  ],
- "lastChecked": "2026-11-04T05:17:11+08:00"
+ "lastChecked": "2026-11-04T05:32:38+08:00"
 }
