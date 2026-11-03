@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T11:29:06+08:00",
+ "lastUpdated": "2026-11-03T11:39:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29007,7 +29007,33 @@
    ],
    "topic": "shopify-webmcp-storefronts-2026-11-03",
    "firstSeen": "2026-11-03T11:29:06+08:00"
+  },
+  {
+   "id": "bc4b98dd0b",
+   "title": "YC F26 新公司 Cyclon 预售「AI 是界面」的手机：一句话让它跨 App 下单、回消息、接电话，$199 可退定金先发 Pixel 8a 内测版",
+   "summary": "Cyclon 由 Adam Zinebi（前 Oracle，UC Berkeley/EPFL 研究背景）和 Thomas Kiefer（前 Google，Stanford/ETH 研究背景）创立，入选 YC 2026 秋季批次，正在软硬件一体开发 AI 手机：系统能操作用户已有的 App（用自己的账号、按自己定的规则），也能按需生成新 App、在后台执行任务，例如「在群里说我晚到十分钟」「点我常点的 DoorDash」「快递员来电就让他上楼」。现开放 199 美元可退定金预售，首批用户 30 天内收到预装 Cyclon OS 的 Google Pixel 8a 参加封闭内测（仅限美国），自研硬件预计 2027 年第二季度上市；部分银行、支付类 App 可能无法运行。X 上讨论热烈，也有人质疑续航、兼容性和与同类产品的竞争。信号：「Agent 操作手机 App」正从演示走向消费级产品，围绕手机智能体的任务模板、App 适配检测、隐私权限管理工具有机会。",
+   "links": [
+    "https://x.com/i/trending/2117459285068173454",
+    "https://cyclon.ai/",
+    "https://cyclon.ai/preorder",
+    "https://www.ycombinator.com/companies/cyclon"
+   ],
+   "topic": "cyclon-ai-phone-yc-2026-11-03",
+   "firstSeen": "2026-11-03T11:39:42+08:00"
+  },
+  {
+   "id": "14a1c32319",
+   "title": "Cluely 从会议 AI 转向「小 App 工厂」：旗下 Dare（AI 视频）、Areum（颜值评分）等靠搞笑短视频起量，并用 Bounty App 付钱让创作者带货",
+   "summary": "曾因面试作弊工具被哥大停学的 Roy Lee 等人创办的 Cluely，在会议实时助手之后转向一批消费级小应用：通过 Bounty Studio 上架 Dare（调用 Seedance、Veo 3.1、Kling 等模型做 AI 照片和视频，周订阅最高 34.99 美元）、Areum（用千万级两两比较投票训练的颜值评分，单份报告最高 79.99 美元）、Line（语言学习）、ReGen（AI 约会照）等。增长打法是 Instagram/TikTok 上的办公室恶搞短剧，再用自家 Bounty App 按播放量给创作者付费，让他们翻拍爆款内容推广旗下产品。X 上有人称赞这套多产品、梗图式营销延续了早期的病毒传播能力，也有人质疑追逐高流失率 App 会稀释原本的方向。信号：「一家公司同时孵化多个 AI 小 App + 按效果付费的创作者分发网络」成为可复制的模式，小团队可以用同样思路做垂类 App 矩阵。",
+   "links": [
+    "https://x.com/i/trending/2117459283893744085",
+    "https://apps.apple.com/us/developer/bounty-studio-inc/id1875124140",
+    "https://apps.apple.com/us/app/bounty-make-content-get-paid/id6758651966",
+    "https://apps.apple.com/us/app/dare-ai-photo-video/id6788347858"
+   ],
+   "topic": "cluely-consumer-app-studio-2026-11-03",
+   "firstSeen": "2026-11-03T11:39:42+08:00"
   }
  ],
- "lastChecked": "2026-11-03T11:29:06+08:00"
+ "lastChecked": "2026-11-03T11:39:42+08:00"
 }
