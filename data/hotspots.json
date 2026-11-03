@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T14:53:39+08:00",
+ "lastUpdated": "2026-11-03T15:09:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29162,7 +29162,17 @@
    ],
    "topic": "theo-electron-crossplatform-debate",
    "firstSeen": "2026-11-03T14:53:39+08:00"
+  },
+  {
+   "id": "819337cd0c",
+   "title": "OpenAI Codex 负责人晒「Le GPT Fat」肌肉机器人玩偶，暗示超大号新模型将至：网友猜参数或超 10 万亿",
+   "summary": "负责 ChatGPT 与 Codex 的 OpenAI 高管 Tibo Sottiaux 于 11 月 3 日在 X 晒出一只肌肉发达的蓝色机器人毛绒玩偶，配文「Le GPT Fat」，被普遍解读为下一代「大块头」模型的预告，有人猜参数规模可能超过 10 万亿。时间点紧接 Altman 11 月 2 日在阿布扎比透露的新 GPT：该模型曾协调 1 万个智能体连续数日攻关流体力学（Navier-Stokes）问题，花费约 1000 万美元、产生 270 万条消息并给出特定情形的形式化证明。网友一边期待编程能力跃升，一边质疑成本与上限。信号：新一代旗舰模型发布窗口临近，围绕新模型的对比评测、迁移指南、提示词与 Codex 工作流内容将迎来流量高峰，可提前准备选题。",
+   "links": [
+    "https://x.com/i/trending/2117506794239176758"
+   ],
+   "topic": "openai-le-gpt-fat-teaser",
+   "firstSeen": "2026-11-03T15:09:50+08:00"
   }
  ],
- "lastChecked": "2026-11-03T14:53:39+08:00"
+ "lastChecked": "2026-11-03T15:09:50+08:00"
 }
