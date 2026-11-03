@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T04:14:50+08:00",
+ "lastUpdated": "2026-11-04T04:30:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29840,7 +29840,29 @@
    ],
    "topic": "jet-engines-power-ai-data-centers",
    "firstSeen": "2026-11-04T04:14:50+08:00"
+  },
+  {
+   "id": "a010bae6b2",
+   "title": "Flipper One 开启预订并筹备 Kickstarter：开源 Linux 多功能黑客工具进入量产前夜",
+   "summary": "Flipper 团队宣布为 Flipper One 筹备 Kickstarter 众筹并开放预订，登上 Hacker News 首页。Flipper One 定位为开源 Linux 便携多功能工具，是 Flipper Zero 的升级产品线。信号：硬件黑客/安全工具社区热度高，配件、教程、插件生态与二手转售市场有机会。",
+   "links": [
+    "https://flipper.net/pages/flipper-one",
+    "https://news.ycombinator.com/item?id=50356994"
+   ],
+   "topic": "flipper-one-preorder-kickstarter",
+   "firstSeen": "2026-11-04T04:30:59+08:00"
+  },
+  {
+   "id": "b6bf91b204",
+   "title": "Stringman：售价 795 美元的开源房间级绳索抓取机器人，四个电机覆盖整个房间",
+   "summary": "Neufangled Robotics 推出 Stringman，用固定在天花板四角的绳索悬挂抓手，仅靠 4 个电机即可覆盖整个房间，开源且可离线运行，标价 795 美元，在 Hacker News 获得较高关注。信号：低执行器数量的家用机器人降低了门槛，家庭整理、远程看护和教育场景的开源机器人方案值得关注。",
+   "links": [
+    "https://neufangled.com/",
+    "https://news.ycombinator.com/item?id=50354358"
+   ],
+   "topic": "stringman-open-source-cable-robot",
+   "firstSeen": "2026-11-04T04:30:59+08:00"
   }
  ],
- "lastChecked": "2026-11-04T04:14:50+08:00"
+ "lastChecked": "2026-11-04T04:30:59+08:00"
 }
