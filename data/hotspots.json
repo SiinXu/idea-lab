@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T18:55:09+08:00",
+ "lastUpdated": "2026-11-03T19:15:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29320,7 +29320,17 @@
    ],
    "topic": "anomalyco-hex",
    "firstSeen": "2026-11-03T18:55:09+08:00"
+  },
+  {
+   "id": "b954821ee7",
+   "title": "开源「闲鱼 AI 监控」ai-goofish-monitor 登上 GitHub 日榜：自然语言建任务、多模态模型判断商品，捡漏信息实时推送，已获 1.6 万星",
+   "summary": "Usagi-org/ai-goofish-monitor 基于 Playwright 和多模态大模型，对闲鱼做多任务实时/定时监控：用自然语言创建任务，按关键词、价格、包邮、地区筛选，AI 逐个分析商品图文是否符合要求，再通过 ntfy、企业微信、Bark、Telegram、Webhook 推送；带 Web 管理后台、多账号与代理轮换、Docker 一键部署，MIT 协议，约 1.6 万星。信号：「AI 帮你盯二手市场捡漏」需求真实存在，面向非技术用户的托管版、垂直品类（相机、显卡、潮玩）比价提醒、二手价格历史数据服务都有机会；但平台反爬与账号风控风险较高，商业化需谨慎。",
+   "links": [
+    "https://github.com/Usagi-org/ai-goofish-monitor"
+   ],
+   "topic": "ai-goofish-monitor",
+   "firstSeen": "2026-11-03T19:15:06+08:00"
   }
  ],
- "lastChecked": "2026-11-03T18:55:09+08:00"
+ "lastChecked": "2026-11-03T19:15:06+08:00"
 }
