@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T04:40:27+08:00",
+ "lastUpdated": "2026-11-04T04:54:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29895,7 +29895,29 @@
    ],
    "topic": "ai-labs-midterm-election-war-room",
    "firstSeen": "2026-11-04T04:40:27+08:00"
+  },
+  {
+   "id": "21dcec816d",
+   "title": "iOS 27.3 测试版正式上线：Apple Intelligence 登陆中国区，内容过滤由阿里提供；watchOS 27.3 同步推出 Siri Recap 与 Live Rewind",
+   "summary": "据彭博社，苹果发布 iOS 27.3 测试版，首次在中国区开放 Apple Intelligence，并采用阿里巴巴提供的内容审核过滤；同时推出 watchOS 27.3 测试版，新增 Siri Recap（语音摘要）与 Live Rewind（实时回听）等 AI 收听功能。信号：中国区 iPhone 端侧 AI 正式落地，面向国内用户的 Siri 适配、写作工具场景与合规内容服务将迎来新需求。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-03/apple-releases-ios-27-3-beta-with-watch-ai-listening-tools-health-app-china-ai",
+    "https://www.techmeme.com/261103/p30"
+   ],
+   "topic": "ios-27-3-beta-apple-intelligence-china-live-2026-11-03",
+   "firstSeen": "2026-11-04T04:54:30+08:00"
+  },
+  {
+   "id": "aa3bdc2f01",
+   "title": "路透：美国迟迟不批 SK 海力士在华扩产所需的美国芯片设备，连带拖累其纽约新厂计划",
+   "summary": "路透社援引消息人士称，美国政府搁置了 SK 海力士扩建中国工厂所需美国半导体设备的出口审批，这让该公司在纽约州新建工厂的计划也变得复杂。信号：存储芯片产能已被预订到 2029 年，出口管制叠加审批拖延，可能进一步推高 DRAM/HBM 价格并加剧 AI 算力供给紧张。",
+   "links": [
+    "https://www.reuters.com/world/china/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-china-sources-say-2026-11-03/",
+    "https://www.techmeme.com/261103/p29"
+   ],
+   "topic": "sk-hynix-china-equipment-approval-new-york-fab-snag",
+   "firstSeen": "2026-11-04T04:54:30+08:00"
   }
  ],
- "lastChecked": "2026-11-04T04:40:27+08:00"
+ "lastChecked": "2026-11-04T04:54:30+08:00"
 }
