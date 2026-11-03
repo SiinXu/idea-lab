@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T20:58:23+08:00",
+ "lastUpdated": "2026-11-03T21:15:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29386,7 +29386,18 @@
    ],
    "topic": "anthropic-message-threads",
    "firstSeen": "2026-11-03T20:58:23+08:00"
+  },
+  {
+   "id": "0b48a22c90",
+   "title": "Nicholas Carlini 用 1995 年的 200MHz 奔腾 Pro 跑移植版 Stockfish，估算 Elo 约 3300，称当年无需「深蓝」就能击败卡斯帕罗夫，还把这台老机器接上网供人对弈",
+   "summary": "安全研究员 Nicholas Carlini 11 月 1 日发文：IBM 深蓝当年用 30 颗处理器加 480 颗定制象棋芯片，每秒分析 2 亿个局面；而他在一台 64MB 内存的 200MHz Pentium Pro 上运行定制移植的 Stockfish，经典时限下估算 Elo 3300±87，远超卡斯帕罗夫当年不到 2800 的等级分。机器通过 Realtek 网卡联网，网页上可直接与它下棋并看到它的实时 VGA 屏幕。文章论证算法进步（剪枝、评估）比堆算力更关键，登上 HN 首页。信号：「算法效率胜过硬件」的叙事与 AI 小模型、端侧推理话题高度共鸣，复古硬件+现代软件的互动演示易传播。",
+   "links": [
+    "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+    "https://news.ycombinator.com/item?id=50349276"
+   ],
+   "topic": "carlini-pentium-chess",
+   "firstSeen": "2026-11-03T21:15:16+08:00"
   }
  ],
- "lastChecked": "2026-11-03T20:58:23+08:00"
+ "lastChecked": "2026-11-03T21:15:16+08:00"
 }
