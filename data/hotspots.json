@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T23:38:48+08:00",
+ "lastUpdated": "2026-11-03T23:53:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29476,7 +29476,18 @@
    ],
    "topic": "codex-data-sharing-reenabled",
    "firstSeen": "2026-11-03T23:38:48+08:00"
+  },
+  {
+   "id": "6b045a3f61",
+   "title": "CEPR 经济学家 Dean Baker「AI 泡沫监测」第 21 期冲上 HN：称中国 AI 科技指数已暴跌约 40%，主张美国 AI 泡沫破裂后「不救助 AI 公司」",
+   "summary": "美国智库 CEPR 的周更专栏《AI Bubble Monitor》11 月 2 日发布第 21 期，用市值与市盈率追踪 AI 相关公司：文中称中国 AI 科技指数已崩跌约 40%（援引路透），而美国 AI 相关公司总市值超 25 万亿美元、英伟达一家超 5 万亿；若回到历史平均市盈率，美股或蒸发约 40 万亿美元。前几期还点名 CoreWeave 长期债利率超 16%、Oracle 债券收益率进入垃圾债区间、OpenAI/Anthropic 约 80% 收入来自 1% 客户。作者立场鲜明偏空，观点与数据需自行核对。信号：「AI 泡沫/算力债务」成为持续话题，AI 公司财务指标看板、泡沫风险周报类内容与工具有流量机会。",
+   "links": [
+    "https://cepr.net/publications/ai-bubble-monitor/",
+    "https://news.ycombinator.com/item?id=50352727"
+   ],
+   "topic": "cepr-ai-bubble-monitor-21",
+   "firstSeen": "2026-11-03T23:53:05+08:00"
   }
  ],
- "lastChecked": "2026-11-03T23:38:48+08:00"
+ "lastChecked": "2026-11-03T23:53:05+08:00"
 }
