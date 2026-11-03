@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T08:25:15+08:00",
+ "lastUpdated": "2026-11-03T08:47:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28795,7 +28795,18 @@
    ],
    "topic": "invisible-fiber-home-network",
    "firstSeen": "2026-11-03T08:25:15+08:00"
+  },
+  {
+   "id": "de4cf53f9d",
+   "title": "OpenAI 公开自研 Git 后端 Pando：为 Codex 带来的海量并发推送重建源码管理，中位推送延迟降近 80%",
+   "summary": "11 月 2 日，OpenAI 工程博客发文介绍 Pando：Codex 让工程师并行提交的分支、推送和 CI 拉取暴增，原有单体仓库系统一度可靠性跌破 90%。Pando 保持 Git 协议与客户端兼容，改用按分支独立更新的「因果一致性」、复用推送时的 packfile 直接服务后续拉取，并借助 packfile-uri 和区域缓存把克隆跑满 10 Gbps；上线后中位推送延迟降低近 80%，每天输出近 1 PB Git 数据。官方称它用 Rust 编写、由 Codex 智能体团队在 10 周内从立项做到生产，部分改进已回馈上游 Git，并在探索对外提供。该文已登上 Hacker News。信号：「智能体规模」的源码管理、CI 与代码托管基础设施正成为新瓶颈和新赛道。",
+   "links": [
+    "https://openai.com/index/scaling-git-at-openai/",
+    "https://news.ycombinator.com/item?id=50345924"
+   ],
+   "topic": "openai-pando-git",
+   "firstSeen": "2026-11-03T08:47:15+08:00"
   }
  ],
- "lastChecked": "2026-11-03T08:25:15+08:00"
+ "lastChecked": "2026-11-03T08:47:15+08:00"
 }
