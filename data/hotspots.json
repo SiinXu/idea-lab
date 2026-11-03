@@ -29923,8 +29923,7 @@
    "title": "Anthropic 开源 FlashProve：用零知识证明（zkSNARK）验证一条 AI 回复确实出自声称的模型，而不是被路由商偷换成便宜模型",
    "summary": "Anthropic 前沿红队联合 EPFL、MIT 等发布「可证明推理」进展：模型提供方先承诺某个模型，再为每条回复生成密码学证明，用户可核验回复没有被中间商替换或篡改。信号：API 转售和模型路由越来越普遍，「这真的是 Claude/GPT 吗」的信任问题正在变成可验证的基础设施，模型审计与可信推理服务可能成为新赛道。",
    "links": [
-    "https://www.anthropic.com/research/provable-inference",
-    "https://www.techmeme.com/261103/p31"
+    "https://www.anthropic.com/research/provable-inference"
    ],
    "topic": "anthropic-flashprove-provable-inference-zksnark",
    "firstSeen": "2026-11-04T05:16:06+08:00"
@@ -29940,5 +29939,5 @@
    "firstSeen": "2026-11-04T05:16:06+08:00"
   }
  ],
- "lastChecked": "2026-11-04T05:16:06+08:00"
+ "lastChecked": "2026-11-04T05:17:11+08:00"
 }
