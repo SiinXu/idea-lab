@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T08:47:15+08:00",
+ "lastUpdated": "2026-11-03T08:59:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28806,7 +28806,29 @@
    ],
    "topic": "openai-pando-git",
    "firstSeen": "2026-11-03T08:47:15+08:00"
+  },
+  {
+   "id": "026ac910d3",
+   "title": "OpenAI 聘请前美国陆军部长 Dan Driscoll 任「国家安全现代化高级顾问」，负责为军方与盟友落地 AI",
+   "summary": "11 月 2 日（美东时间），多家媒体援引 FT 报道：9 月刚辞去美国陆军部长职务的 Dan Driscoll 加入 OpenAI，出任新设的「国家安全现代化高级顾问」，就 AI 在国防与网络安全上的实际部署为美国及盟友提供建议。他是近来加入 OpenAI 的又一位前特朗普政府官员；此前 OpenAI 已与五角大楼签约，并与法、德、波兰的网络安全团队有合作。消息在 X 上迅速扩散，Polymarket、海峡时报等账号跟进。信号：头部模型公司正加速「国防化」，政府关系、合规与国防采购相关的 AI 服务需求在升温。",
+   "links": [
+    "https://x.com/i/trending/2117416315220635930",
+    "https://x.com/FaytuksNetwork/status/2117419957927764473",
+    "https://x.com/straits_times/status/2117419289120514128"
+   ],
+   "topic": "openai-driscoll-natsec",
+   "firstSeen": "2026-11-03T08:59:07+08:00"
+  },
+  {
+   "id": "c64f1be364",
+   "title": "OpenAI 扩充 Dots 常驻智能体的模型：加入 GPT-6.1 Terra，每个 Dot 自动挑选最合适的模型，被视为向 Plus 用户开放的前奏",
+   "summary": "11 月 2 日，OpenAI 的 Tibo Sottiaux 宣布扩充驱动 Dots 的模型，除 GPT-6 Astra 外加入速度更快、性格更友好的 GPT-6.1 Terra，并会接入后续模型；每个 Dot 会按任务自动选择模型。Dots 于 9 月底面向 Pro 和 Business Premium 用户上线，在云端电脑上持续运行、跨数千个应用推进目标。社区普遍认为，用更便宜的 Terra 压低成本是 Dots 下放到 ChatGPT Plus 的前一步。信号：「常驻型」智能体正从高价档走向大众，围绕它的模板、技能和工作流有新机会。",
+   "links": [
+    "https://x.com/i/trending/2117367461930758296"
+   ],
+   "topic": "openai-dots-terra",
+   "firstSeen": "2026-11-03T08:59:07+08:00"
   }
  ],
- "lastChecked": "2026-11-03T08:47:15+08:00"
+ "lastChecked": "2026-11-03T08:59:07+08:00"
 }
