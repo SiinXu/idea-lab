@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T05:58:11+08:00",
+ "lastUpdated": "2026-11-04T06:16:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30011,7 +30011,29 @@
    ],
    "topic": "kairos-open-source-fraud",
    "firstSeen": "2026-11-04T05:58:11+08:00"
+  },
+  {
+   "id": "1b35b6c824",
+   "title": "开发者实测：macOS 27 已无法挂载 CoreStorage／加密 HFS+ 卷，磁盘工具连转换和抹除都做不了",
+   "summary": "开发者 Wade Tregaskis 发文称，macOS 27 Golden Gate 实际上已不支持 CoreStorage 与加密 HFS+ 卷：系统无法自动或手动挂载，磁盘工具报错 disenter error 49153，也不能转成 APFS 或抹除；开机弹窗却误称要到 macOS 28 才停止支持。文章登上 Hacker News 热榜。信号：老 Mac 外置盘和备份盘用户升级前需先迁移数据，旧卷数据迁移与恢复工具存在短期需求。",
+   "links": [
+    "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+    "https://news.ycombinator.com/item?id=50356944"
+   ],
+   "topic": "macos-27-corestorage-hfs-unsupported",
+   "firstSeen": "2026-11-04T06:16:43+08:00"
+  },
+  {
+   "id": "edbf4ed1a9",
+   "title": "《生成式 AI 基础小书》：一本直观讲解生成模型数学原理的开源入门教材登上 HN",
+   "summary": "arXiv 论文《The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer》（作者 Tianhua Chen）以直观方式串讲生成式 AI 背后的数学基础，发布到 Hacker News 后不到一小时即冲上热榜。信号：面向开发者的「AI 数学速成」内容需求旺盛，可作为学习路线、课程或中文导读的素材。",
+   "links": [
+    "https://arxiv.org/abs/2605.29713",
+    "https://news.ycombinator.com/item?id=50358582"
+   ],
+   "topic": "little-book-genai-foundations",
+   "firstSeen": "2026-11-04T06:16:43+08:00"
   }
  ],
- "lastChecked": "2026-11-04T05:58:11+08:00"
+ "lastChecked": "2026-11-04T06:16:43+08:00"
 }
