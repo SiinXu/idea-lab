@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T05:46:51+08:00",
+ "lastUpdated": "2026-11-04T05:58:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29977,7 +29977,41 @@
    ],
    "topic": "macos-vulgar-word-list-dump",
    "firstSeen": "2026-11-04T05:46:51+08:00"
+  },
+  {
+   "id": "7da3b08fd7",
+   "title": "Safari 27.3 测试版推出「自适应深色模式」：浏览器可把只有浅色主题的网站自动转成深色显示",
+   "summary": "WebKit 官方博客 11 月 3 日宣布，Safari 27.3 beta 新增 Adaptive Dark Mode，用户开启后 Safari 会把浅色网站自适应渲染为深色。官方数据称近 40% 的网页加载来自深色模式用户，但只有约 10% 的页面加载支持深色。信号：浏览器开始替网站「强制」做深色适配，前端需要检查自家站点在自动转换下的配色、图片和品牌色表现，也是深色主题审查/适配工具的机会。",
+   "links": [
+    "https://webkit.org/blog/18541/introducing-adaptive-dark-mode",
+    "https://news.ycombinator.com/item?id=50358562"
+   ],
+   "topic": "safari-adaptive-dark-mode",
+   "firstSeen": "2026-11-04T05:58:11+08:00"
+  },
+  {
+   "id": "f3900be82c",
+   "title": "日经：美国科技巨头「隐性 AI 债务」半年激增 90%，达 3.2 万亿美元",
+   "summary": "日经亚洲报道，美国科技巨头为 AI 基建背负的隐性债务在 6 个月内膨胀约 90%，规模达 3.2 万亿美元；同日彭博评论文章也警告 AI 投资热潮可能埋下新一轮金融危机的种子，两篇均登上 Hacker News 热榜。信号：AI 算力扩张的融资风险正被主流财经媒体集中审视，市场对 AI 泡沫和数据中心融资结构的关注度在升温。",
+   "links": [
+    "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+    "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
+    "https://news.ycombinator.com/item?id=50358422"
+   ],
+   "topic": "us-big-tech-hidden-ai-debt",
+   "firstSeen": "2026-11-04T05:58:11+08:00"
+  },
+  {
+   "id": "78da873c33",
+   "title": "Show HN：Kairos 开源实时风控与反欺诈决策平台，主打「让你的编程 Agent 来调规则」",
+   "summary": "Finic 开源 Kairos，对注册、登录、下单、支付和提现做实时决策（通过、加验、人工审核或拦截），并给出风险分与原因，定位为 Sardine、Sift、Riskified、SEON 的开源替代；卖点是可由编程 Agent 调优，以及在缺少标注数据时也能用决策模型识别欺诈。信号：风控这类传统 SaaS 正在被「开源 + Agent 可调」重做，独立开发者和小电商也能低成本接入反欺诈。",
+   "links": [
+    "https://github.com/finic-ai/kairos",
+    "https://news.ycombinator.com/item?id=50358314"
+   ],
+   "topic": "kairos-open-source-fraud",
+   "firstSeen": "2026-11-04T05:58:11+08:00"
   }
  ],
- "lastChecked": "2026-11-04T05:46:51+08:00"
+ "lastChecked": "2026-11-04T05:58:11+08:00"
 }
