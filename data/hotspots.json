@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T04:30:59+08:00",
+ "lastUpdated": "2026-11-04T04:40:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29862,7 +29862,40 @@
    ],
    "topic": "stringman-open-source-cable-robot",
    "firstSeen": "2026-11-04T04:30:59+08:00"
+  },
+  {
+   "id": "47af6317b6",
+   "title": "苹果向所有开发者开放 Siri AI：iOS 27.3 测试版起，任何 App 都能通过 App Intents 把内容和操作接入 Siri",
+   "summary": "苹果开发者官网宣布，从 iOS 27.3、iPadOS 27.3、macOS 27.3 与 visionOS 27.3 测试版开始推出新的开发者预览，任何开发者都可借助 App Intents 为 Siri AI 构建「应用技能」，让 Siri 直接调用 App 内的内容与操作。信号：iOS 生态的智能体入口正式向第三方开放，App 的 Siri 适配、意图设计与语音工作流将迎来一波新需求。",
+   "links": [
+    "https://developer.apple.com/news/?id=gdk2umrf",
+    "https://www.techmeme.com/261103/p27#a261103p27"
+   ],
+   "topic": "apple-siri-ai-open-developers-ios-27-3",
+   "firstSeen": "2026-11-04T04:40:27+08:00"
+  },
+  {
+   "id": "8e11a979a3",
+   "title": "CrowdStrike 推出「AI 紧急停止开关」：Falcon Guardian 可一键叫停失控的企业内部智能体，并接入 Claude Cowork",
+   "summary": "CrowdStrike 发布新闻稿，在 Falcon Guardian 中加入 AI kill switch，用于发现并阻断行为异常的企业内部 AI 智能体，同时宣布与 Anthropic 的 Claude Cowork 集成。此前它刚宣布收购智能体可观测公司 Fiddler AI 与安全测试工具 Dreadnode。信号：智能体治理与「熔断」能力正在成为企业安全的标配采购项。",
+   "links": [
+    "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-introduces-ai-kill-switch-for-ai-safety/",
+    "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html"
+   ],
+   "topic": "crowdstrike-falcon-guardian-ai-kill-switch",
+   "firstSeen": "2026-11-04T04:40:27+08:00"
+  },
+  {
+   "id": "68904f84ea",
+   "title": "纽约时报：OpenAI、Anthropic 等加紧防范 AI 被用于干扰美国中期选举，Anthropic 首次设立选举「作战室」",
+   "summary": "据《纽约时报》，在美国中期选举前，OpenAI、Anthropic 等 AI 公司正采取措施阻止其工具被用来制造选举虚假信息或干扰投票，其中 Anthropic 首次组建了专门的「作战室」实时监测滥用。信号：选举周期内的内容安全、深度伪造检测与溯源工具需求上升。",
+   "links": [
+    "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
+    "https://www.techmeme.com/261103/p26"
+   ],
+   "topic": "ai-labs-midterm-election-war-room",
+   "firstSeen": "2026-11-04T04:40:27+08:00"
   }
  ],
- "lastChecked": "2026-11-04T04:30:59+08:00"
+ "lastChecked": "2026-11-04T04:40:27+08:00"
 }
