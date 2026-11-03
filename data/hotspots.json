@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T18:08:06+08:00",
+ "lastUpdated": "2026-11-03T18:44:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29270,7 +29270,27 @@
    ],
    "topic": "",
    "firstSeen": "2026-11-03T18:08:06+08:00"
+  },
+  {
+   "id": "75e3776da4",
+   "title": "开源 AWS 本地模拟器 Floci 登上 GitHub 日榜：免账号、免令牌、无功能限制，一条 docker compose 起整套云服务，已获 2.8 万星",
+   "summary": "Floci 定位为 LocalStack 的免费替代品，口号是「Any Cloud. Locally.」：不需要账号、认证令牌，也没有付费功能墙，用 docker compose up 就能在本地模拟 AWS 服务，用于开发和测试。项目 2026 年 2 月创建，目前约 2.8 万星，今日在 GitHub Trending 新增约 200 星，MIT 许可。信号：LocalStack 等工具收紧免费版后，开发者转向完全开源的本地云模拟；围绕它的 CI 模板、测试夹具、多云适配和教学内容有机会。",
+   "links": [
+    "https://github.com/floci-io/floci"
+   ],
+   "topic": "floci-local-aws",
+   "firstSeen": "2026-11-03T18:44:59+08:00"
+  },
+  {
+   "id": "3d1cb7cefa",
+   "title": "Spotify 开源 Portal AI 插件：把内部开发者门户接进 Claude Code、Codex、Cursor，附带把读文件等重活转给廉价模型的「shunt」省 token 插件",
+   "summary": "spotify/portal-ai-plugins 让编码智能体通过 Portal CLI 搜索软件目录和技术文档、生成服务简报（负责人、健康度、事故、文档）、运行诊断，并带确认与试运行保护地调用 Portal 动作和 Fleetshift 批量改造任务。其中 shunt 插件（目前仅 Claude Code）会把批量读文件、样板代码生成等 I/O 密集工作转给更便宜的 AiKA 工作模型。项目今日登上 GitHub Trending，约 2900 星。信号：大公司正把内部平台「插件化」接入编码智能体，并用大小模型分工压成本；面向中小团队的开发者门户 + 智能体插件、模型路由省钱工具有空间。",
+   "links": [
+    "https://github.com/spotify/portal-ai-plugins"
+   ],
+   "topic": "spotify-portal-ai-plugins",
+   "firstSeen": "2026-11-03T18:44:59+08:00"
   }
  ],
- "lastChecked": "2026-11-03T18:08:06+08:00"
+ "lastChecked": "2026-11-03T18:44:59+08:00"
 }
