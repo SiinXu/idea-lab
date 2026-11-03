@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T10:24:06+08:00",
+ "lastUpdated": "2026-11-03T10:42:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28954,7 +28954,18 @@
    ],
    "topic": "intel-chip-rout-2026-11-02",
    "firstSeen": "2026-11-03T10:24:06+08:00"
+  },
+  {
+   "id": "feef222b15",
+   "title": "NIST 发布「一人公司」专用网络安全指南：面向全美 2800 万家无雇员小企业，零基础也能照做",
+   "summary": "美国国家标准与技术研究院（NIST）11 月 2 日发布网络安全白皮书 50《小企业网络安全：无雇员企业》，专为「solopreneur」（企业唯一的带薪员工）编写，取代旧版 NISTIR 7621。指南基于 NIST 网络安全框架 CSF 2.0，用通俗语言讲解基础，并列出低成本、可自己完成的关键动作，如定期备份数据、及时更新软件。登上 Hacker News 首页。信号：一人公司规模庞大且安全意识薄弱，「OPC 安全体检清单 / 自动备份与更新巡检」类轻量 SaaS 或 AI 安全助手有切入空间。",
+   "links": [
+    "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+    "https://news.ycombinator.com/item?id=50340619"
+   ],
+   "topic": "nist-solopreneur-cybersecurity-2026-11-02",
+   "firstSeen": "2026-11-03T10:42:46+08:00"
   }
  ],
- "lastChecked": "2026-11-03T10:24:06+08:00"
+ "lastChecked": "2026-11-03T10:42:46+08:00"
 }
