@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T11:39:42+08:00",
+ "lastUpdated": "2026-11-03T11:54:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29033,7 +29033,18 @@
    ],
    "topic": "cluely-consumer-app-studio-2026-11-03",
    "firstSeen": "2026-11-03T11:39:42+08:00"
+  },
+  {
+   "id": "0d7890576a",
+   "title": "Ubuntu LTS 内核高危漏洞 CVE-2026-98432 近三周仍未修补：22.04 / 24.04 / 26.04 全部暴露，HN 热议",
+   "summary": "这个 Linux 内核漏洞的 CVSS 评分为 9.8（危急），但截至 10 月 31 日，Ubuntu 仍未给 22.04、24.04、26.04 三个 LTS 版本发布修复内核，也没公布时间表。直接面向公网或多租户的自托管服务器风险最大，管理员只能自己决定：继续用原版内核、找临时缓解办法，或者把业务迁到已修复的内核上。这条在 Hacker News 上拿到约 380 分，和同时上榜的「WTF Ubuntu?」吐槽帖一起，加剧了大家对 Ubuntu 安全响应速度的不满。信号：「补丁空窗期」监控和告警、内核热补丁托管、发行版安全对比这类面向小团队和独立开发者的服务有需求。",
+   "links": [
+    "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+    "https://news.ycombinator.com/item?id=50341462"
+   ],
+   "topic": "ubuntu-cve-2026-98432-unpatched",
+   "firstSeen": "2026-11-03T11:54:24+08:00"
   }
  ],
- "lastChecked": "2026-11-03T11:39:42+08:00"
+ "lastChecked": "2026-11-03T11:54:24+08:00"
 }
