@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T15:25:59+08:00",
+ "lastUpdated": "2026-11-03T15:42:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29202,7 +29202,20 @@
    ],
    "topic": "vr-to-robotics-cix-rek",
    "firstSeen": "2026-11-03T15:25:59+08:00"
+  },
+  {
+   "id": "20b0b4587f",
+   "title": "Cloudflare 一夜连发多起故障：亚太网络性能下降、香港节点 5xx 错误激增、Containers 服务异常，HN 热议",
+   "summary": "11 月 3 日（北京时间中午前后），Cloudflare 状态页接连挂出多起事件：Containers 服务异常、亚太（APJC）网络性能问题、香港（HKG）5xx 错误增多，前一天还有 Gateway DNS-over-TLS（IPv4）连接问题和 Workers 部署延迟。目前各事件均已标记为已解决、影响级别为 minor，但「Cloudflare 多起故障同时进行」一度登上 Hacker News。信号：单一 CDN/边缘平台依赖风险再被关注，多 CDN 自动切换、站点可用性监控与故障告警、面向独立开发者的状态页聚合工具有需求。",
+   "links": [
+    "https://www.cloudflarestatus.com/incidents/6c4ak19xodyt",
+    "https://www.cloudflarestatus.com/incidents/j25w3rpv45gs",
+    "https://www.cloudflarestatus.com/incidents/n5mvqjs26jg9",
+    "https://news.ycombinator.com/item?id=50348260"
+   ],
+   "topic": "cloudflare-apjc-incidents-1103",
+   "firstSeen": "2026-11-03T15:42:02+08:00"
   }
  ],
- "lastChecked": "2026-11-03T15:25:59+08:00"
+ "lastChecked": "2026-11-03T15:42:02+08:00"
 }
