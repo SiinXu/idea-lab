@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T11:12:39+08:00",
+ "lastUpdated": "2026-11-03T11:29:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28995,7 +28995,19 @@
    ],
    "topic": "saas-dead-vibe-coding-debate-2026-11-03",
    "firstSeen": "2026-11-03T11:12:39+08:00"
+  },
+  {
+   "id": "f5af3c4c66",
+   "title": "Shopify 全量店铺开放 WebMCP：AI 智能体直接调用店铺工具搜商品、改购物车、走结账，Tobi Lütke 称「完胜浏览器自动化」",
+   "summary": "Shopify 现已在所有 Liquid 店铺和 Hydrogen 2026-10 店铺默认提供 WebMCP 工具：页面向浏览器注册带结构化输入输出的函数，智能体用 search_catalog、update_cart、proceed_to_checkout 等直接操作，不再靠截图、读 DOM、模拟点击。结账页另有 get_checkout / update_checkout / complete_checkout，下单前必须买家确认；所有操作都在买家当前标签页的真实会话里进行。CEO Tobi Lütke 在 X 上兴奋表示 WebMCP 比 browser use 好得多，Vercel CEO Guillermo Rauch 也看好；也有开发者指出 MCP 配置门槛让智能体常常绕开它。目前智能体支持仅限 Chromium 系浏览器（含 ChatGPT 内置浏览器）。信号：「网站对智能体友好」正在变成新的 SEO，给独立站、SaaS 落地页一键加 WebMCP 工具、做智能体可用性检测的服务有机会。",
+   "links": [
+    "https://x.com/i/trending/2117374170484908461",
+    "https://shopify.dev/docs/api/web-mcp",
+    "https://shopify.dev/changelog/posts/webmcp-liquid-hydrogen"
+   ],
+   "topic": "shopify-webmcp-storefronts-2026-11-03",
+   "firstSeen": "2026-11-03T11:29:06+08:00"
   }
  ],
- "lastChecked": "2026-11-03T11:12:39+08:00"
+ "lastChecked": "2026-11-03T11:29:06+08:00"
 }
