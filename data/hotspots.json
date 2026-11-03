@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T19:15:06+08:00",
+ "lastUpdated": "2026-11-03T20:02:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29330,7 +29330,18 @@
    ],
    "topic": "ai-goofish-monitor",
    "firstSeen": "2026-11-03T19:15:06+08:00"
+  },
+  {
+   "id": "5a3345f135",
+   "title": "Anthropic 修订版 S-1 曝人力成本：第三季度人员开支 17 亿美元，5300 名员工人均每月约 10.7 万美元，其中 11 亿是股权激励",
+   "summary": "TechSpot 援引 Business Insider 报道：Anthropic 7–9 月人员开支超 17 亿美元，含薪资、奖金、福利和雇主税，其中股票薪酬约 11 亿美元。2026 年前九个月人员开支约 48 亿美元，只占同期 332 亿美元营收的约 15%（2023 年人力成本还是营收的两倍多）。若 9 月 30 日已上市，当天就要一次性确认约 82 亿美元限制性股票费用，之后两年还有约 241 亿美元待摊。信号：AI 头部公司「人少钱多」的薪酬结构成为 IPO 焦点，AI 人才薪酬对标数据、股权激励计算器、上市公司员工财富规划类内容和工具有关注度。",
+   "links": [
+    "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
+    "https://news.ycombinator.com/item?id=50350560"
+   ],
+   "topic": "anthropic-s1-personnel-cost",
+   "firstSeen": "2026-11-03T20:02:47+08:00"
   }
  ],
- "lastChecked": "2026-11-03T19:15:06+08:00"
+ "lastChecked": "2026-11-03T20:02:47+08:00"
 }
