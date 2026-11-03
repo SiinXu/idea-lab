@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T09:13:48+08:00",
+ "lastUpdated": "2026-11-03T09:23:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28848,7 +28848,51 @@
    ],
    "topic": "ai-coding-joy-debate",
    "firstSeen": "2026-11-03T09:13:48+08:00"
+  },
+  {
+   "id": "6f7028d1f6",
+   "title": "Salesforce 约 27 亿美元收购 AI 语音客服公司 Cresta：语音智能体并入 Service Cloud",
+   "summary": "Salesforce 11 月 2 日宣布已签署收购 Cresta 的最终协议，The Information 报道价格约 27 亿美元。Cresta 出自斯坦福 AI 实验室，做端到端处理复杂客服电话的语音智能体，并能实时辅导人工坐席，客户包括万豪、Comcast、阿拉斯加航空；据报道 2026 年 4 月 ARR 约 1 亿美元，收购价约为 27 倍营收。交易预计在 Salesforce 2028 财年第一季度完成，需监管批准。这是 Salesforce 继 9 月 36 亿美元收购 Fin 后又一笔 AI 客服收购。信号：语音智能体正成为客服 AI 的主战场，垂直语音 Agent 的并购退出窗口打开。",
+   "links": [
+    "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta/",
+    "https://www.theinformation.com/briefings/exclusive-salesforce-acquires-startup-cresta-2-7-billion",
+    "https://x.com/i/trending/2117418933200290201"
+   ],
+   "topic": "salesforce-acquires-cresta-2-7b-2026-11-02",
+   "firstSeen": "2026-11-03T09:23:10+08:00"
+  },
+  {
+   "id": "d26cf18f46",
+   "title": "Revolut 把 2000 名工程师的默认编程模型换成自托管 GLM 5.3：56 张 B200，成本降约 90%，「无限 token」后交付周期缩短 70%",
+   "summary": "Revolut AI 运营负责人 David Abitbol 在 AI Engineer 大会上分享：4 月起用 56 张 NVIDIA B200（Together AI 专属推理）自托管开源 GLM 5.1/5.3，供约 2000 名工程师使用，综合成本约每百万 token 0.30 美元，约为此前的十分之一。不限额度后编码时间缩短约 60%、交付周期缩短约 70%，工程师开始拿它处理邮件、Jira 等杂活；Claude Code、Codex 等前沿模型改为难题专用。他给出的经验是首 token 延迟要压在 3 秒内。信号：大企业「开源模型自托管 + 前沿模型兜底」的混合方案正在被验证，部署、调优、路由服务有需求。",
+   "links": [
+    "https://sparsenotes.com/posts/2026/10/revolut-self-hosted-open-models-david-abitbol/",
+    "https://www.youtube.com/watch?v=Ok6QdZHCcI8",
+    "https://x.com/i/trending/2117361077180854435"
+   ],
+   "topic": "revolut-self-hosted-glm-90pct-2026-11-02",
+   "firstSeen": "2026-11-03T09:23:10+08:00"
+  },
+  {
+   "id": "1b7d1fa7be",
+   "title": "前 OpenAI 研究员创办的 Applied Compute 18 个月 ARR 破 1 亿美元：以 32.5 亿美元估值融资 3.5 亿",
+   "summary": "帮企业用自有数据训练并运行定制模型的 Applied Compute 宣布年化收入达到 1 亿美元，并以 32.5 亿美元估值融资 3.5 亿美元，客户包括微软、Shopify、DoorDash、Harvey。约 40% 客户同时用它做训练和生产推理；12 周前上线的推理服务现在每天处理 1 万亿 token，团队规模扩大到三倍。信号：「企业专属模型」的训练加推理一体化服务增长很快，后训练和数据服务仍是创业热区。",
+   "links": [
+    "https://x.com/i/trending/2117397762484347010"
+   ],
+   "topic": "applied-compute-100m-arr-2026-11-02",
+   "firstSeen": "2026-11-03T09:23:10+08:00"
+  },
+  {
+   "id": "017d8b308f",
+   "title": "Trajectory 发布自助后训练平台：律师、医生用日常反馈就能调大模型，Sequoia 领投、估值 3 亿美元",
+   "summary": "由斯坦福同学（有 Google DeepMind、苹果背景）一年前创办的 Trajectory 推出自助平台，让专业人士用真实数据和日常反馈对大模型做后训练，主打「持续评分」等功能，能从单次生产运行中学习。公司累计融资 6000 万美元，最新一轮由 Sequoia 领投、估值 3 亿美元；Harvey、Nvidia 已用它调法律审查和金融分析模型，有开发者把桥梁模拟任务成功率从 0.31 提到 0.91。信号：后训练正在从研究团队专属变成面向领域专家的 SaaS 工具。",
+   "links": [
+    "https://x.com/i/trending/2117386310709137503"
+   ],
+   "topic": "trajectory-self-serve-post-training-2026-11-02",
+   "firstSeen": "2026-11-03T09:23:10+08:00"
   }
  ],
- "lastChecked": "2026-11-03T09:13:48+08:00"
+ "lastChecked": "2026-11-03T09:23:10+08:00"
 }
