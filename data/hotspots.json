@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T03:40:37+08:00",
+ "lastUpdated": "2026-11-04T03:56:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29798,7 +29798,19 @@
    ],
    "topic": "huawei-ascend-960dt-korean-hbm",
    "firstSeen": "2026-11-04T03:40:37+08:00"
+  },
+  {
+   "id": "45fad98368",
+   "title": "谷歌与卡内基梅隆发布 Harmony Harness：让 AI 代理自动进化自己的提示词、工具与检查流程，安全代码通过率在未见任务上从 36.7% 提到 66.7%",
+   "summary": "Google Cloud AI Research、DeepMind 与 CMU 提出 Harmony Harness，不改模型权重，而是用多目标进化搜索同时优化「功能」和「安全」两个目标，并把通用机制与特定基准的适配分开进化。在 SecRepoBench 与 BaxBench 上比现有 harness 进化方法高出 10 个百分点以上，X 上「Harness 工程」话题随之升温。信号：代理外壳（harness）正成为独立的优化层，自动调优、安全评测与可迁移 harness 模板有工具化机会。",
+   "links": [
+    "https://arxiv.org/html/2610.15150",
+    "https://cryptobriefing.com/google-carnegie-mellon-harmony-harness-agents/",
+    "https://x.com/i/trending/2117696468664586710"
+   ],
+   "topic": "google-cmu-harmony-harness-2026-11-03",
+   "firstSeen": "2026-11-04T03:56:43+08:00"
   }
  ],
- "lastChecked": "2026-11-04T03:40:37+08:00"
+ "lastChecked": "2026-11-04T03:56:43+08:00"
 }
