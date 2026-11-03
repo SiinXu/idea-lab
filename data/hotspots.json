@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T22:01:10+08:00",
+ "lastUpdated": "2026-11-03T22:26:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29419,7 +29419,18 @@
    ],
    "topic": "honest-thumbnails-extension",
    "firstSeen": "2026-11-03T22:01:10+08:00"
+  },
+  {
+   "id": "46b013db70",
+   "title": "「GPT-6.2 Astra 灰度中？」部分用户称 ChatGPT 的 Astra 已悄悄路由到新模型，晒出近乎 3D 渲染质感的 SVG 手柄与「鹈鹕骑自行车」",
+   "summary": "11 月 3 日，X 用户 @hakmgpt 发帖称「Astra 正在路由」，晒出据称由 GPT-6.2 Astra 生成的 SVG 游戏手柄（8.5 万浏览、600+ 赞），@kimmonismus 转发称部分用户已被路由到 GPT-6.2（近千赞）；随后中文圈陆续晒出质感接近产品广告的「鹈鹕骑自行车」SVG 对比图。此前 OpenAI Codex 负责人 Tibo 刚发布「Le GPT Fat」预告。OpenAI 尚未官宣，以上均为用户报告，模型身份未经证实。信号：SVG/前端生成质量成为新模型灰度的第一观察窗口，「新模型首发实测对比」内容的流量窗口可能就在这一两天。",
+   "links": [
+    "https://x.com/hakmgpt/status/2117563862761247089",
+    "https://x.com/kimmonismus/status/2117580129459490851"
+   ],
+   "topic": "gpt-6-2-astra-routing-svg",
+   "firstSeen": "2026-11-03T22:26:50+08:00"
   }
  ],
- "lastChecked": "2026-11-03T22:01:10+08:00"
+ "lastChecked": "2026-11-03T22:26:50+08:00"
 }
