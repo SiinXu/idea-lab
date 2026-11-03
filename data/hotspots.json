@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T02:01:52+08:00",
+ "lastUpdated": "2026-11-04T02:17:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29631,7 +29631,55 @@
    ],
    "topic": "deepmind-staff-non-disparagement-protest",
    "firstSeen": "2026-11-04T02:01:52+08:00"
+  },
+  {
+   "id": "95cb412e2b",
+   "title": "英伟达据报口头要求云算力合作伙伴：51% 以上服务必须卖给非中国公司，进一步收紧中国 AI 算力获取",
+   "summary": "据《金融时报》报道，英伟达正要求其数据中心与云算力合作伙伴降低对中国客户的敞口，口头告知对方中国客户占比不得超过 49%、至少 51% 的服务需卖给非中国公司；彭博、路透、Tom's Hardware 等跟进报道。The Information 同期分析英伟达如何用「软实力」影响客户与美国芯片政策。信号：海外 GPU 云的客户结构与合规审查成为新变量，面向出海团队的算力合规、客户 KYC 与替代算力渠道需求会上升。",
+   "links": [
+    "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2",
+    "https://www.reuters.com/world/asia-pacific/nvidia-orders-data-centre-clients-reduce-china-exposure-ft-reports-2026-11-03/",
+    "https://www.tomshardware.com/tech-industry/data-centers/nvidia-tells-data-center-operators-to-limit-business-from-chinese-customers-with-new-global-restrictions-report-claims-allegedly-restricted-to-49-percent-of-the-total-ensuring-51-percent-are-non-chinese-outfits"
+   ],
+   "topic": "nvidia-cloud-partners-51pct-non-china",
+   "firstSeen": "2026-11-04T02:17:06+08:00"
+  },
+  {
+   "id": "1e684b243d",
+   "title": "ChatGPT 周活跃用户达 12 亿，两个月新增 2 亿；搜索量约为谷歌的 20%",
+   "summary": "ChatGPT 消费产品负责人 Adam Fry 接受 Big Technology 采访称，ChatGPT 周活跃用户已达 12 亿，过去两个月增加 2 亿，其搜索量目前约为谷歌的 20%；他还谈到个人智能体的成本，以及把 Chat 与 Work 产品合并的计划。X 上有人指出 OpenAI 的爬虫 10 月请求量约达 Googlebot 的 18%。信号：AI 搜索份额加速上升，AI 搜索可见度（GEO）与面向 ChatGPT 的内容分发值得优先投入。",
+   "links": [
+    "https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20",
+    "https://x.com/kantrowitz/status/2117429953272627679",
+    "https://x.com/tickerplus/status/2117587596662710535"
+   ],
+   "topic": "chatgpt-1-2b-wau-search-20pct-google",
+   "firstSeen": "2026-11-04T02:17:06+08:00"
+  },
+  {
+   "id": "ccc8853163",
+   "title": "《华尔街日报》：机构投资者建议 Anthropic 把 IPO 估值压到 1.5–1.6 万亿美元，低于此前预期的 2 万亿区间",
+   "summary": "据《华尔街日报》援引知情人士，机构投资者告诉 Anthropic，其 IPO 估值应在约 1.5 万亿至 1.6 万亿美元，低于 2 万亿美元区间，理由包括近期科技股抛售等。Semafor 称投资者对 AI 泡沫愈发紧张，财富、Motley Fool、雅虎财经也在讨论这次 IPO 的风险与对华尔街的影响。信号：AI 一级与二级市场估值进入再定价期，史上最大 AI IPO 的定价会影响整条 AI 融资链的情绪。",
+   "links": [
+    "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf",
+    "https://www.semafor.com/article/11/03/2026/ai-investors-increasingly-nervous-over-ai-bubble",
+    "https://fortune.com/2026/11/03/anthropics-third-quarter-results-mean-ipo-math-and-history-are-not-on-its-side-analysts-say/"
+   ],
+   "topic": "anthropic-ipo-valuation-1-5t-pushback",
+   "firstSeen": "2026-11-04T02:17:06+08:00"
+  },
+  {
+   "id": "01cf60e8e0",
+   "title": "英国国家网络安全中心（NCSC）年度报告：AI 正在改变网络攻防，预计 2028 年前中俄将常态化使用 AI 网络攻击，关键基础设施防御不足",
+   "summary": "英国 NCSC 发布 2026 年度回顾，负责人警告 AI 正在「改变网络行动」，预计到 2028 年中国和俄罗斯会「常态化使用 AI 网络能力达成地缘政治目标」，并认为针对关键基础设施的 AI 驱动勒索攻击很可能在两年内出现，现有防御尤其不足。卫报、The Register、BleepingComputer 等广泛报道。信号：AI 安全攻防、关键基础设施防护与 AI 辅助的漏洞响应工具需求持续升温。",
+   "links": [
+    "https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years",
+    "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure",
+    "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200"
+   ],
+   "topic": "uk-ncsc-ai-cyber-2028-warning",
+   "firstSeen": "2026-11-04T02:17:06+08:00"
   }
  ],
- "lastChecked": "2026-11-04T02:01:52+08:00"
+ "lastChecked": "2026-11-04T02:17:06+08:00"
 }
