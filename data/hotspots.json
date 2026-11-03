@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T04:13:43+08:00",
+ "lastUpdated": "2026-11-04T04:14:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29820,7 +29820,27 @@
    ],
    "topic": "drax-brookfield-radiant-yorkshire-ai-dc",
    "firstSeen": "2026-11-04T04:13:43+08:00"
+  },
+  {
+   "id": "20f31e13f9",
+   "title": "币安披露 63 亿美元盗案细节：朝鲜黑客用数月假 LinkedIn 求职面试加广告投放植入恶意软件",
+   "summary": "据 Fortune，币安表示朝鲜黑客通过长达数月的布局窃取约 63 亿美元：先在 LinkedIn 上以假招聘面试接触员工，再配合广告投放传播恶意软件，最终拿下内部访问权限。信号：社工+假招聘已成加密与科技公司的头号入口，员工端求职诈骗识别、设备隔离与招聘渠道验真工具有现实需求。",
+   "links": [
+    "https://fortune.com/2026/11/03/binance-hack-details-linkedin/"
+   ],
+   "topic": "binance-hack-linkedin-fake-interviews",
+   "firstSeen": "2026-11-04T04:14:50+08:00"
+  },
+  {
+   "id": "945a1ab081",
+   "title": "纽约时报：美国数据中心改用退役喷气发动机发电，绕过多年电网排队，最快两年拿到电力",
+   "summary": "据《纽约时报》，美国数据中心运营商与电力开发商正把飞机「坟场」里的喷气发动机改装成燃气发电机，用来给 AI 数据中心供电，可在约两年内落地，避开动辄数年的并网等待。信号：AI 算力扩张的瓶颈正从芯片转向电力，现场发电、储能与电力交易撮合相关服务热度上升。",
+   "links": [
+    "https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html"
+   ],
+   "topic": "jet-engines-power-ai-data-centers",
+   "firstSeen": "2026-11-04T04:14:50+08:00"
   }
  ],
- "lastChecked": "2026-11-04T04:13:43+08:00"
+ "lastChecked": "2026-11-04T04:14:50+08:00"
 }
