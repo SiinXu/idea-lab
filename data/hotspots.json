@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T00:57:43+08:00",
+ "lastUpdated": "2026-11-04T01:13:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29553,7 +29553,18 @@
    ],
    "topic": "microsoft-cve-exploited-0-5-percent",
    "firstSeen": "2026-11-04T00:57:43+08:00"
+  },
+  {
+   "id": "680c37f0e4",
+   "title": "Show HN「HackerChurn」：统计 HN 评论里大家最想退订的 SaaS，LastPass、CrowdStrike 居榜首",
+   "summary": "SaaS 点评站 HissingKitty 抽取近 3 年 Hacker News 公开评论，统计被点名吐槽最多的付费软件：共 101 个平台上榜、匹配 1551 条负面评论，其中 139 条提到「自己做了替代品」。LastPass（安全事故与信任流失）和 CrowdStrike（更新事故与性能开销）排在前列，每条都附原始评论链接与时间线。信号：用公开社区评论做「流失/替代需求雷达」，可以反推出值得做的 SaaS 替代品和迁移工具。",
+   "links": [
+    "https://hissingkitty.com/hacker-churn",
+    "https://news.ycombinator.com/item?id=50353386"
+   ],
+   "topic": "hackerchurn-saas-cancel-ranking",
+   "firstSeen": "2026-11-04T01:13:36+08:00"
   }
  ],
- "lastChecked": "2026-11-04T00:57:43+08:00"
+ "lastChecked": "2026-11-04T01:13:36+08:00"
 }
