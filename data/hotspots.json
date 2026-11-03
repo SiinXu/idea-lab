@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T10:42:46+08:00",
+ "lastUpdated": "2026-11-03T10:59:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28965,7 +28965,27 @@
    ],
    "topic": "nist-solopreneur-cybersecurity-2026-11-02",
    "firstSeen": "2026-11-03T10:42:46+08:00"
+  },
+  {
+   "id": "793a736581",
+   "title": "YC CEO Garry Tan 自曝每年在 AI 智能体 token 上花 10–20 万美元：邮件、Dropbox、20 年笔记全交给 Agent，YC 内部智能体「Stray Light」装下所有创始人与申请资料",
+   "summary": "TechCrunch 11 月 2 日报道，Garry Tan 在 Walter Isaacson 的播客 The Builders（11 月 3 日上线）中称自己每年 token 开销约 10 万至 20 万美元。他用智能体做研究、写代码、打理生活，已读过他全部邮件、Dropbox 和 Apple Notes；他在 GitHub 开源了 23 个 Claude Code 技能组成的 gstack。YC 内部还有一个带人格和「公司大脑」的智能体 Stray Light，掌握所有投资过的创始人、来信与申请。信号：「个人 AI 幕僚 + 公司大脑」正在成为重度用户标配，token 成本优化、个人上下文接入与技能包分发都有机会。",
+   "links": [
+    "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+   ],
+   "topic": "garry-tan-200k-tokens-2026-11-02",
+   "firstSeen": "2026-11-03T10:59:14+08:00"
+  },
+  {
+   "id": "cf87f0f49a",
+   "title": "Anthropic 修改 Claude Code 系统提示词：禁止复刻特定现有游戏，原创、同类型及自有素材游戏仍可做",
+   "summary": "The Verge 11 月 2 日报道，Anthropic 在 Opus 5.5 版 Claude Code 的系统提示中加入两句话，引导模型不要重制某一款具体的现有游戏（即使用户称其为原创），理由是用 Claude 侵犯知识产权违反使用政策。Anthropic 的 Addy Osmani 回应称原创游戏、类型游戏和基于用户自有设计与素材的游戏不受影响，误拒可向他反馈。背景是复古游戏圈正被 AI 反编译、重编译和移植作品淹没。信号：AI 游戏开发工具的合规边界收紧，「原创玩法生成 / 素材版权检测」类工具更有价值。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+   ],
+   "topic": "claude-code-game-clone-ban-2026-11-02",
+   "firstSeen": "2026-11-03T10:59:14+08:00"
   }
  ],
- "lastChecked": "2026-11-03T10:42:46+08:00"
+ "lastChecked": "2026-11-03T10:59:14+08:00"
 }
