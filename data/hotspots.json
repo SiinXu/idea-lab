@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T02:31:46+08:00",
+ "lastUpdated": "2026-11-04T02:44:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29704,7 +29704,38 @@
    ],
    "topic": "crowdstrike-fiddler-dreadnode-acquisition",
    "firstSeen": "2026-11-04T02:31:46+08:00"
+  },
+  {
+   "id": "78a1dbd869",
+   "title": "AI 进军实体工程：谷歌发布「物理工程最后考试」PLE 基准，所有前沿模型得分不到 50%；OpenAI 同日披露模型做 CAD 与仿真的进展",
+   "summary": "谷歌 AI 与基础设施团队联合 Mercor 发布 Physical-Engineering's Last Exam（PLE），覆盖机械、电气、土木、结构四类共 85 个长程任务，公开 29 题、评分工具和 ple-bench.com 排行榜；用 Claude Code、Codex、OpenHands 等 7 种智能体框架测试 14 个前沿模型，最高平均分仅 48.3%，且只有 41.3% 的交付物通过全部安全与可行性硬性检查，模型差异远大于框架差异。OpenAI 同日发文称内部硬件团队用 Codex 和 ChatGPT 做 CAD 建模、出图与仿真，自 2 月以来 token 用量增长 23 倍，新内部模型在 BenchCAD 2.0 上得分 0.875（GPT-6 Astra 为 0.594）。信号：「AI 工程师」正从写代码扩展到机械/电子设计，面向 CAD、仿真与工程合规的智能体工具和评测是新赛道。",
+   "links": [
+    "https://cloud.google.com/blog/products/ai-machine-learning/introducing-physical-engineerings-last-exam-for-agents",
+    "https://openai.com/index/accelerating-engineering-for-the-physical-world/"
+   ],
+   "topic": "ai-physical-engineering-ple-openai-cad",
+   "firstSeen": "2026-11-04T02:44:14+08:00"
+  },
+  {
+   "id": "af27b22261",
+   "title": "CrowdStrike 推出「AI 断电开关」：一键终止失控智能体、禁止其重启并切断企业网络访问",
+   "summary": "CrowdStrike 在 Fal.Con Europe 2026 发布 Falcon Guardian 中的 AI Kill Switch：当 AI 智能体偏离预期行为时，安全人员可在其运行处直接终止进程（先在网关生效，随后扩展到终端）、通过策略阻止它在目标主机上再次启动，并切断其企业网络访问；所有操作需授权管理员触发并写入审计日志。这与其当天宣布收购 Fiddler 和 Dreadnode 一起，构成完整的智能体安全产品线。信号：「人类最终控制权」成为企业部署智能体的硬需求，智能体权限管理、行为审计与紧急停机能力有望成为采购标配。",
+   "links": [
+    "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-introduces-ai-kill-switch-ai-safety/"
+   ],
+   "topic": "crowdstrike-ai-kill-switch",
+   "firstSeen": "2026-11-04T02:44:14+08:00"
+  },
+  {
+   "id": "00b05f2879",
+   "title": "Snowflake 发布 Business Ontology 与 Cortex AI Gateway：给企业智能体统一业务定义、统一管控模型调用与花费",
+   "summary": "Snowflake 在 Expedition 2026 大会宣布：Business Ontology 在 Horizon Catalog 中集中记录经批准的业务术语定义，只把「官方口径」提供给智能体，保证回答一致可追溯；Cortex AI Gateway 则统一管控所有智能体如何访问模型、调用工具和执行操作，提供用量追踪与预算控制，智能体自动继承已有的人类用户权限。Glean、Kargo、电通、Merkle 等已在使用。信号：继英伟达开源 auto-ontology 之后，「本体/语义层 + AI 网关」成为企业智能体落地的基础设施热点，中小企业版的轻量语义层与 AI 花费网关存在机会。",
+   "links": [
+    "https://www.snowflake.com/en/news/press-releases/expedition-2026-business-ontology-ai-gateway/"
+   ],
+   "topic": "snowflake-business-ontology-ai-gateway",
+   "firstSeen": "2026-11-04T02:44:14+08:00"
   }
  ],
- "lastChecked": "2026-11-04T02:31:46+08:00"
+ "lastChecked": "2026-11-04T02:44:14+08:00"
 }
