@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T00:40:37+08:00",
+ "lastUpdated": "2026-11-04T00:57:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29532,7 +29532,28 @@
    ],
    "topic": "ai-destroying-cs-degree-blog",
    "firstSeen": "2026-11-04T00:40:37+08:00"
+  },
+  {
+   "id": "ee9a964389",
+   "title": "GitBook 遭「利用 AI 智能体的高度定向攻击」：基础设施凭证被盗，平台一度下线，全部客户 API Token 被作废",
+   "summary": "HN 用户贴出 GitBook 客服回复的安全事件通报：11 月 2 日 19:00（CET）攻击者借助 AI 智能体拿到部分基础设施凭证，GitBook 随即将应用和需鉴权的文档站下线、轮换全部密钥并作废所有客户 API Token。可能被访问的数据包括 Git Sync 密钥、GitBook API Token、连接第三方工具的 API Token，以及访客向 GitBook Assistant 提出的问题；目前未发现内容被篡改。官方建议轮换相关 Token、重新授权 GitBook MCP 服务器，并称将发布完整事后复盘。信号：继 Railway 之后，又一家开发者平台遭 AI 驱动的定向攻击，「密钥轮换自动化 + MCP 授权审计」类工具需求上升。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50354336"
+   ],
+   "topic": "gitbook-breach-ai-agents-2026-11",
+   "firstSeen": "2026-11-04T00:57:43+08:00"
+  },
+  {
+   "id": "af7ad9c53a",
+   "title": "微软安全博客：1999 年至今约 38.3 万个 CVE 中，只有约 0.5% 真正在野被利用",
+   "summary": "微软安全团队 11 月 2 日发布数据分析：截至 2026 年 9 月累计披露约 38.3 万个软件漏洞，但只有约 2000 个（约 0.5%）与真实攻击相关，且集中在远程代码执行、权限提升和认证绕过等可接管系统的类型。文章提醒 AI 辅助的漏洞挖掘和利用开发会进一步压缩防守方的响应窗口，而关键系统打补丁往往要数周甚至数月，建议按「被利用可能性 × 影响范围」集中防护。HN 上讨论漏洞优先级排序的实用性。信号：「基于可利用性的漏洞优先级」SaaS 与面向中小团队的补丁排序工具有机会。",
+   "links": [
+    "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
+    "https://news.ycombinator.com/item?id=50353072"
+   ],
+   "topic": "microsoft-cve-exploited-0-5-percent",
+   "firstSeen": "2026-11-04T00:57:43+08:00"
   }
  ],
- "lastChecked": "2026-11-04T00:40:37+08:00"
+ "lastChecked": "2026-11-04T00:57:43+08:00"
 }
