@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T15:55:01+08:00",
+ "lastUpdated": "2026-11-03T17:15:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29226,7 +29226,29 @@
    ],
    "topic": "nvidia-auto-ontology",
    "firstSeen": "2026-11-03T15:55:01+08:00"
+  },
+  {
+   "id": "72f52294c5",
+   "title": "欧洲发起 RISC-V 工业计算倡议 ERICI：基于 RVA23 芯片打造开放参考软件栈，挑战 x86/Arm 在工控领域的垄断，登上 HN",
+   "summary": "ERICI（European RISC-V Industrial Computing Initiative）是总部在欧洲、面向全球开放的非商业倡议，协调从 BIOS 固件、引导程序、分区虚拟机监控器到实时系统和 Linux 操作界面的整套参考栈，并在真实 RVA23 硬件上逐层验证能一起启动，能跑通即算「ERICI 兼容」。理由：RVA23 规范强制要求虚拟化和向量扩展，2026 年首批 8 核 64 位 RVA23 芯片和开发板已可购买，一台机器即可同时跑实时控制和通用系统。信号：工业设备寿命长达 15 年，「不依赖单一公司或国家」的开放指令集需求上升，RISC-V 工控板卡评测、移植服务和兼容性测试工具有机会。",
+   "links": [
+    "https://erici.eu",
+    "https://news.ycombinator.com/item?id=50334523"
+   ],
+   "topic": "erici-riscv-industrial",
+   "firstSeen": "2026-11-03T17:15:22+08:00"
+  },
+  {
+   "id": "4b0af90dd5",
+   "title": "电子音乐设备厂商 Polyend 公开 Tracker 采样音序器固件源代码，HN 热帖获 120+ 赞",
+   "summary": "波兰硬件厂商 Polyend 宣布开放其 Tracker 采样器/音序器的固件源代码，随一次大版本更新发布，在 Hacker News 上获得 127 分讨论。信号：硬件厂商通过开源固件延长产品生命周期、吸引社区二次开发正在成为趋势，围绕开源乐器固件的插件、改版固件和教程内容存在小众机会。",
+   "links": [
+    "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
+    "https://news.ycombinator.com/item?id=50340159"
+   ],
+   "topic": "polyend-tracker-open-source",
+   "firstSeen": "2026-11-03T17:15:22+08:00"
   }
  ],
- "lastChecked": "2026-11-03T15:55:01+08:00"
+ "lastChecked": "2026-11-03T17:15:22+08:00"
 }
