@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T22:45:21+08:00",
+ "lastUpdated": "2026-11-03T22:54:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29454,7 +29454,18 @@
    ],
    "topic": "canada-dst-microsoft-timezone",
    "firstSeen": "2026-11-03T22:45:21+08:00"
+  },
+  {
+   "id": "eb3661170b",
+   "title": "Terence Eden 撰文「来一点小小的 AI 抵抗」：Ocado 客服用 AI 回复技术投诉，他在满意度调查里打 1 星后终于收到真人回复，冲上 HN 首页",
+   "summary": "英国技术博主 Terence Eden 11 月 3 日发文：他向英国网上超市 Ocado 详细报告了日历邀请文件格式错误，收到的回复带着典型 AI 痕迹（谄媚式附和、英式英语里少见的破折号、没有实际处理问题）；他在随后的满意度调查里全部打 1 星并批评用 AI 回复真实投诉很不尊重人，几天后收到一封明显由真人撰写、真正回应技术细节的道歉信。他认为 AI 用于分流、摘要、统计投诉主题合理，但用 AI 直接回复人是轻视客户时间，并呼应 Kate Devlin 提到的「AI Resist List」。文章发出不到 1 小时即获 50+ 分登上 HN 首页。信号：「拒绝 AI 客服 / 要求真人」的消费者情绪在升温，AI 文本识别、人工兜底与客服透明度标识类产品和内容有话题空间。",
+   "links": [
+    "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+    "https://news.ycombinator.com/item?id=50352257"
+   ],
+   "topic": "ai-resistance-customer-service",
+   "firstSeen": "2026-11-03T22:54:22+08:00"
   }
  ],
- "lastChecked": "2026-11-03T22:45:21+08:00"
+ "lastChecked": "2026-11-03T22:54:22+08:00"
 }
