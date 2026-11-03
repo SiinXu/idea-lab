@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T06:43:18+08:00",
+ "lastUpdated": "2026-11-04T07:14:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30044,7 +30044,27 @@
    ],
    "topic": "opencode-stealth-pulse-crouton-alpha",
    "firstSeen": "2026-11-04T06:43:18+08:00"
+  },
+  {
+   "id": "2bb75aa68b",
+   "title": "V 神 Devcon 8 孟买开幕演讲：「不是你的芯片，就不是你的生活」，呼吁操作系统、硬件到 AI 全栈可验证",
+   "summary": "Vitalik Buterin 身披绿色斗篷、戴黄色笑脸面具登上以太坊开发者大会 Devcon 8（首次在印度举办，11 月 3–6 日）开幕舞台，追问「我们到底该信任哪些技术」：从操作系统、硬件、健康科技到信息、通信和 AI 都存在信任缺口。他主张开源代码、可检查的硬件和密码学证明，并提出默认把数据当作「有毒废料」处理，口号是「Not your silicon, not your life」。以太坊基金会把这一思路与「可验证系统」使命挂钩，会期还将讨论安全、隐私与 AI。信号：「可验证 AI／隐私硬件」叙事升温，开源可审计工具与相关科普内容有关注窗口。",
+   "links": [
+    "https://x.com/i/trending/2117512259387682997"
+   ],
+   "topic": "devcon8-vitalik-keynote-verifiable-trust",
+   "firstSeen": "2026-11-04T07:14:11+08:00"
+  },
+  {
+   "id": "412e461ea1",
+   "title": "「Harness 工程」成 AI 智能体新热词：开发者从写提示词转向搭整套运行环境，让 Claude 等模型稳定连跑数小时",
+   "summary": "X 上开发者热议「harness engineering」：在模型外围搭脚手架，控制智能体能看到什么、能用哪些工具、如何校验输出、如何保存会话记忆，以解决遗忘上下文、无限循环等问题。大家分享了面向 Claude Code 的五层框架（记忆文件、技能、护栏、子智能体、插件），以及 Letta（可自我改进的智能体）、CrewAI（多智能体协作）等开源工具，并配有分层架构图和代码示例，强调先从简单结构起步再扩展。信号：智能体「脚手架」模板、教程和现成配置包需求旺盛，适合做中文教程、模板市场或咨询服务。",
+   "links": [
+    "https://x.com/i/trending/2117603924928758218"
+   ],
+   "topic": "harness-engineering-agent-scaffolding-trend",
+   "firstSeen": "2026-11-04T07:14:11+08:00"
   }
  ],
- "lastChecked": "2026-11-04T06:43:18+08:00"
+ "lastChecked": "2026-11-04T07:14:11+08:00"
 }
