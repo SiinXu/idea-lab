@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T01:13:36+08:00",
+ "lastUpdated": "2026-11-04T01:32:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29564,7 +29564,29 @@
    ],
    "topic": "hackerchurn-saas-cancel-ranking",
    "firstSeen": "2026-11-04T01:13:36+08:00"
+  },
+  {
+   "id": "0093518f68",
+   "title": "Namespace 长文「Mac at Any Scale」冲上 HN（100+ 分）：如何把 Mac 塞进数据中心给 AI 智能体当云端开发机",
+   "summary": "开发基础设施公司 Namespace 发文拆解在数据中心规模化运行 Mac 的做法：定制 MacBook 机架、用苹果 Virtualization 框架虚拟化 macOS，并在整个机群中构建和分发超大的 VM 镜像。发布约 2.5 小时即获 100+ 分、30+ 条评论。信号：智能体时代对 macOS/iOS 构建与测试环境的需求在上升，「给 AI 智能体用的云端 Mac / Devbox」正成为基础设施赛道。",
+   "links": [
+    "https://namespace.so/blog/mac-at-any-scale",
+    "https://news.ycombinator.com/item?id=50352758"
+   ],
+   "topic": "namespace-mac-at-any-scale",
+   "firstSeen": "2026-11-04T01:32:00+08:00"
+  },
+  {
+   "id": "2706fae628",
+   "title": "xAI 在密西西比数据中心装上 8 台改装喷气发动机供电，许可允许污染物排放上限提高 25%，一氧化碳排放引担忧",
+   "summary": "据 Tom's Hardware 报道，马斯克的 xAI 在其密西西比州数据中心安装了 8 台由喷气发动机改装的燃气轮机发电，相关许可允许污染物排放上限提高 25%，外界对一氧化碳等排放的健康风险提出质疑。信号：AI 算力扩张正在撞上电网与环保约束，现场自备发电、数据中心能源与排放监测会持续成为热点和争议。",
+   "links": [
+    "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-xai-installs-eight-converted-jet-engines-to-power-mississippi-data-center-permits-allow-25-percent-higher-limit-for-pollutants-concerns-raised-over-carbon-monoxide",
+    "https://news.ycombinator.com/item?id=50354160"
+   ],
+   "topic": "xai-mississippi-jet-engine-turbines",
+   "firstSeen": "2026-11-04T01:32:00+08:00"
   }
  ],
- "lastChecked": "2026-11-04T01:13:36+08:00"
+ "lastChecked": "2026-11-04T01:32:00+08:00"
 }
