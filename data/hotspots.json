@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T08:15:08+08:00",
+ "lastUpdated": "2026-11-03T08:25:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28784,7 +28784,18 @@
    ],
    "topic": "hume-audio-decision-api-2026-11-02",
    "firstSeen": "2026-11-03T08:15:08+08:00"
+  },
+  {
+   "id": "3054ec89b2",
+   "title": "「穿不了网线就用隐形光纤」家庭网络改造文登上 HN：纽约联排别墅用公寓翻新用透明光纤跨楼层跑满多千兆",
+   "summary": "11 月 2 日，博主 Neel Chauhan 在 Mom & Pop Network 发文：家中一根 Cat6 线老化只能跑 100 Mbps，墙体太厚无线 Mesh 效果差、又不想重新穿线，于是改用原本为公寓翻新设计、可贴墙走线的「隐形」透明光纤，配合闲置的 MikroTik 交换机打通两层楼约 20 米链路，并保留 VLAN 分段。文章在 Hacker News 不到 3 小时获得 40 余分。信号：租房、老房改造场景下「免穿线」高速家庭网络方案受关注，透明光纤套件、安装教程与家庭网络改造咨询存在细分需求。",
+   "links": [
+    "https://momandpop.network/2026/11/02/cant-fish-ethernet-use-invisible-fiber-instead/",
+    "https://news.ycombinator.com/item?id=50344222"
+   ],
+   "topic": "invisible-fiber-home-network",
+   "firstSeen": "2026-11-03T08:25:15+08:00"
   }
  ],
- "lastChecked": "2026-11-03T08:15:08+08:00"
+ "lastChecked": "2026-11-03T08:25:15+08:00"
 }
