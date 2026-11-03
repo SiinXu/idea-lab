@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T14:24:51+08:00",
+ "lastUpdated": "2026-11-03T14:53:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29152,7 +29152,17 @@
    ],
    "topic": "ai-xr-hiking-footstep-overlay",
    "firstSeen": "2026-11-03T14:24:51+08:00"
+  },
+  {
+   "id": "8cf0d37bdd",
+   "title": "Theo 力挺 Electron 引爆跨平台之争：dax 称一个项目 5 天处理 135 个 PR，小团队仍离不开「一套代码跑三端」",
+   "summary": "t3.gg 的 Theo 在 X 上称 Electron 是很多交互式应用的最佳选择，并引用 dax 的观点：Electron 解决了跨平台的大量麻烦，某项目 5 天内就处理了 135 个 PR。批评者继续吐槽其打包 Chromium 带来的 100MB+ 体积和内存占用，支持者则认为小团队靠单一代码库在 Windows、macOS、Linux 上稳定交付，比 Tauri 等轻量方案更省心。信号：AI 编程让桌面应用数量激增，「选 Electron 还是 Tauri」的技术选型、桌面应用体积/内存优化工具、跨平台打包与自动更新服务有持续需求。",
+   "links": [
+    "https://x.com/i/trending/2117472937200562499"
+   ],
+   "topic": "theo-electron-crossplatform-debate",
+   "firstSeen": "2026-11-03T14:53:39+08:00"
   }
  ],
- "lastChecked": "2026-11-03T14:24:51+08:00"
+ "lastChecked": "2026-11-03T14:53:39+08:00"
 }
