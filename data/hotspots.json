@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T01:32:00+08:00",
+ "lastUpdated": "2026-11-04T01:45:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29586,7 +29586,18 @@
    ],
    "topic": "xai-mississippi-jet-engine-turbines",
    "firstSeen": "2026-11-04T01:32:00+08:00"
+  },
+  {
+   "id": "da9a582410",
+   "title": "Postman 桌面版被曝静默给 Codex / Claude Code 装插件并自动「信任」自己的启动钩子，冲上 HN",
+   "summary": "一名用户在 Postman 官方仓库提交 SEVERE 级 issue：打开 Postman 12.33.4 后，其日志记录了「auto-existing-upgrade」自动安装，给 Codex 和 Claude Code 装上 Postman 插件、远程 MCP（mcp.postman.com）和 Postman CLI，并改写 ~/.codex/config.toml；插件的 SessionStart 钩子要求智能体在任何非简单 API 任务前先加载 postman:api-engineer 技能，安装器源码还会调用 approvePostmanHook 为自己的钩子写入信任哈希。报告者强调这证明的是未经同意的集成与指令修改，并未证实数据外泄。HN 帖子约半小时近 60 分。信号：编码智能体的插件、钩子与 MCP 正成为新的「供应链与同意边界」战场，审计/锁定智能体配置的工具有需求。",
+   "links": [
+    "https://github.com/postmanlabs/postman-app-support/issues/14370",
+    "https://news.ycombinator.com/item?id=50354960"
+   ],
+   "topic": "postman-auto-installs-agent-plugins-hooks",
+   "firstSeen": "2026-11-04T01:45:18+08:00"
   }
  ],
- "lastChecked": "2026-11-04T01:32:00+08:00"
+ "lastChecked": "2026-11-04T01:45:18+08:00"
 }
