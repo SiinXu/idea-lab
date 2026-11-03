@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T21:28:19+08:00",
+ "lastUpdated": "2026-11-03T22:01:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29408,7 +29408,18 @@
    ],
    "topic": "honnibal-astra-rebuttal",
    "firstSeen": "2026-11-03T21:28:19+08:00"
+  },
+  {
+   "id": "98b32d2b96",
+   "title": "HackerTube 衍生小工具「Honest Thumbnails」走红：Chrome 扩展把 YouTube 标题党缩略图换成视频中段真实截图，Karpathy 转发称一句话就能让 Claude Code 做出同款",
+   "summary": "开发者 alexandru（@pondorasti）11 月 2 日发布 Chrome 扩展 Honest Thumbnails：在研究 Karpathy 的 HackerTube 时发现 YouTube CDN 会为每个视频保存自动截取的帧，于是用视频中段画面替换创作者上传的夸张缩略图，找回 2010 年代初「不靠标题党」的观感；发布帖获 1100+ 赞、500+ 收藏。Karpathy 回复称很棒，并示范只需对 Claude Code 说一句「做一个浏览器扩展，用视频中段截图替换缩略图，并可切换」即可做出。信号：「反 AI 垃圾 / 反标题党」的小型浏览器扩展+一句话氛围编程成为新的轻量创作范式，周末小项目链式衍生、快速传播。",
+   "links": [
+    "https://x.com/pondorasti/status/2117321609665261667",
+    "https://x.com/karpathy/status/2117431189074330032"
+   ],
+   "topic": "honest-thumbnails-extension",
+   "firstSeen": "2026-11-03T22:01:10+08:00"
   }
  ],
- "lastChecked": "2026-11-03T21:28:19+08:00"
+ "lastChecked": "2026-11-03T22:01:10+08:00"
 }
