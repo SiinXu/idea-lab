@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T10:09:28+08:00",
+ "lastUpdated": "2026-11-03T10:24:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -28943,7 +28943,18 @@
    ],
    "topic": "ai-capex-tech-selloff-2026-11-02",
    "firstSeen": "2026-11-03T10:09:28+08:00"
+  },
+  {
+   "id": "fc62d69d86",
+   "title": "HN 热议「Intel 股价崩跌加剧，3.5 万亿美元芯片抛售潮蔓延」：半导体板块从 Intel 扩散到整个 AI 芯片链",
+   "summary": "Yahoo Finance 报道称 Intel 的跌势仍在加深，半导体板块累计蒸发约 3.5 万亿美元市值，抛售正从 Intel 向更多芯片公司扩散。Hacker News 讨论中有人指出 Intel 一个月内跌了约一半、但过去一年仍上涨约一半，像「迷因股」一样剧烈波动；也有人追问为何 Nvidia 跌幅相对较小。信号：继上月科技股蒸发 2 万亿美元后，市场对 AI 基建回报的怀疑已传导到上游芯片，关注算力价格、二手 GPU 与降本推理服务的机会。",
+   "links": [
+    "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+    "https://news.ycombinator.com/item?id=50346153"
+   ],
+   "topic": "intel-chip-rout-2026-11-02",
+   "firstSeen": "2026-11-03T10:24:06+08:00"
   }
  ],
- "lastChecked": "2026-11-03T10:09:28+08:00"
+ "lastChecked": "2026-11-03T10:24:06+08:00"
 }
