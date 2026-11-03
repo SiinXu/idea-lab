@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T12:28:13+08:00",
+ "lastUpdated": "2026-11-03T13:07:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29066,7 +29066,19 @@
    ],
    "topic": "discimagestudio-visible-disc-art",
    "firstSeen": "2026-11-03T12:28:13+08:00"
+  },
+  {
+   "id": "f3ba1c5056",
+   "title": "itch.io 清理数 TB 的 AI 生成游戏：新建游戏页两个月翻倍到日均近 8000，下载和销量却没涨",
+   "summary": "独立游戏平台 itch.io 近期新建游戏页数量从 8 月日均约 3000 个涨到 10 月近 8000 个，官方暗示主要来自生成式 AI 批量上传，但下载和购买量并未同步增长。X 上的讨论称平台已删除约数 TB 的低质量 AI 游戏，并援引其质量准则：用自动化系统批量生成页面视为垃圾内容，可从浏览和搜索中下架。同时社区流传「slop 名单」标记 AI 水军账号。信号：内容平台正从「披露 AI」走向「清理 AI 泛滥」，「人工精选/无 AI」筛选、内容质量审核与反垃圾工具有需求窗口。",
+   "links": [
+    "https://x.com/i/trending/2117477007378506020",
+    "https://www.gamedeveloper.com/pc/number-of-game-pages-doubles-on-itch-io-as-ai-clones-flood-the-store",
+    "https://itch.io/docs/creators/quality-guidelines"
+   ],
+   "topic": "itchio-ai-game-cleanup",
+   "firstSeen": "2026-11-03T13:07:51+08:00"
   }
  ],
- "lastChecked": "2026-11-03T12:28:13+08:00"
+ "lastChecked": "2026-11-03T13:07:51+08:00"
 }
