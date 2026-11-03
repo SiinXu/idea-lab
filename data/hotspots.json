@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T13:30:28+08:00",
+ "lastUpdated": "2026-11-03T13:44:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29090,7 +29090,39 @@
    ],
    "topic": "deepseek-harness-creator-mode",
    "firstSeen": "2026-11-03T13:30:28+08:00"
+  },
+  {
+   "id": "ccfc697e71",
+   "title": "Pieter Levels 用 Claude 把《战地 1942》试玩版搬进浏览器：反编译出约 10 万行 C 代码，转 WebAssembly + WebGL，支持联机",
+   "summary": "独立开发者 Pieter Levels 借助 Claude 把 20 多年前的《战地 1942》共享试玩版 x86 二进制反编译为约 10 万行 C 代码，编译为 WebAssembly，并把 Windows 调用替换为 WebGL，在 bf1942.pieter.com 上免下载直接开玩，还支持多人联机。他称这比此前移植 Quake、DOOM 更难，因为没有开源代码可依托，AI token 花费约 100 美元。此事恰逢 Anthropic 修改提示词限制复刻特定现有游戏，他把项目定位为非商业的免费软件保存。信号：「AI 反编译 + 浏览器移植」让老游戏、老软件数字保存成本骤降，复古游戏网页化、遗留软件迁移服务有机会，但版权边界是主要风险。",
+   "links": [
+    "https://x.com/i/trending/2117403188013785461",
+    "https://bf1942.pieter.com/"
+   ],
+   "topic": "levels-bf1942-browser-port",
+   "firstSeen": "2026-11-03T13:44:16+08:00"
+  },
+  {
+   "id": "6c009f3f1f",
+   "title": "加拿大投资人用 AI 智能体集群扫描美国公开医保数据：10 天揪出约 7.87 亿美元可疑账单，已向监管提交 37 条线索",
+   "summary": "加拿大科技投资人 Matt Mickiewicz 部署 AI 智能体集群分析美国 Medicare 与 Medicaid 公开记录，10 天内标出约 7.87 亿美元不合常理的账单，例如一名理疗师一年申报 9006 小时（超过全年 8760 小时）、一个商场停车场一个月申报逾百万份夏季餐食、给老年人做儿童遗传病检测等，并整理证据向主管部门提交了 37 条举报。信号：用智能体批量审计公开数据正在成为新型「公民审计」，政府开支监督、保险反欺诈和合规审计类 AI 工具有机会。",
+   "links": [
+    "https://x.com/i/trending/2117386310642029021"
+   ],
+   "topic": "ai-swarm-medicare-fraud-audit",
+   "firstSeen": "2026-11-03T13:44:16+08:00"
+  },
+  {
+   "id": "13401f4e32",
+   "title": "OpenAI 启动安全冲刺并大幅提高漏洞赏金：严重漏洞最高 3 万美元，特殊发现加奖金最高 17.2 万美元，平均约为过去 4 倍",
+   "summary": "OpenAI 与 Cathedral Systems 合作开展内部安全冲刺，研究人员借助 OpenAI 自家模型查找并修复 ChatGPT 与 API 等产品的弱点；同时上调漏洞赏金，严重级别最高 3 万美元，特殊发现叠加奖金最高 17.2 万美元，平均约为以往 4 倍，并引入忠诚度等级与追溯支付。此前 Cathedral 曾用 AI 智能体不到 12 小时攻入 Anthropic 内部系统。信号：AI 实验室把「AI 攻防」当作头等安全投入，AI 辅助漏洞挖掘、红队即服务与赏金猎人工具链需求上升。",
+   "links": [
+    "https://x.com/i/trending/2117452817237438647",
+    "https://bugcrowd.com/engagements/openai"
+   ],
+   "topic": "openai-security-sprint-bounty-raise",
+   "firstSeen": "2026-11-03T13:44:16+08:00"
   }
  ],
- "lastChecked": "2026-11-03T13:30:28+08:00"
+ "lastChecked": "2026-11-03T13:44:16+08:00"
 }
