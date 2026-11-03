@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T22:54:22+08:00",
+ "lastUpdated": "2026-11-03T23:38:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29465,7 +29465,18 @@
    ],
    "topic": "ai-resistance-customer-service",
    "firstSeen": "2026-11-03T22:54:22+08:00"
+  },
+  {
+   "id": "605a80a505",
+   "title": "HN 用户反映：Codex 的「为所有人改进模型」数据共享开关被悄悄重新打开，公司同事多人未主动同意",
+   "summary": "11 月 3 日一则 Ask HN 帖称，所在公司担心通过提示词泄露知识产权，全员此前都在 Codex、Claude Code 等工具里关闭了数据共享，但前一天发现 Codex 的「Improve the model for everyone」设置被重新启用，多名同事都没有主动开启；发帖人提醒在 ChatGPT 数据控制页和 OpenAI 隐私门户自查，并指出此前已有类似讨论。目前仅为用户报告，范围与原因未经 OpenAI 证实。信号：企业对 AI 编程工具的数据合规愈发敏感，「AI 工具隐私设置巡检 / 数据外泄审计」类小工具与企业内部指南有现成需求。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50352757",
+    "https://news.ycombinator.com/item?id=49643556"
+   ],
+   "topic": "codex-data-sharing-reenabled",
+   "firstSeen": "2026-11-03T23:38:48+08:00"
   }
  ],
- "lastChecked": "2026-11-03T22:54:22+08:00"
+ "lastChecked": "2026-11-03T23:38:48+08:00"
 }
