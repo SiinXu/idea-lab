@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T20:02:47+08:00",
+ "lastUpdated": "2026-11-03T20:29:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29341,7 +29341,18 @@
    ],
    "topic": "anthropic-s1-personnel-cost",
    "firstSeen": "2026-11-03T20:02:47+08:00"
+  },
+  {
+   "id": "2eb29f3812",
+   "title": "Revolut 约 2000 名工程师改用自托管 GLM 写代码，Claude Code 和 Codex 降为例外：56 张 B200、每百万 token 约 0.3 美元，成本约为原来的十分之一",
+   "summary": "X 上一条帖子（22 万+ 浏览、3000+ 赞）援引 Revolut AI 运维负责人 David Abitbol 的说法：Revolut 已把约 2000 名工程师的编程助手切到自托管的开源 GLM 模型，Claude Code 和 Codex 只在例外情况下使用；集群为 56 张 Nvidia B200，综合成本约每百万 token 0.3 美元，大约是此前付给 Anthropic 和 OpenAI 的十分之一。HN 讨论热烈，焦点在开源模型是否已「够用」、金融监管下数据不出域的需求，以及自建集群的前期投入。信号：企业自托管开源编码模型、推理成本测算器、私有化部署方案和合规型 AI 编程平台有关注度。",
+   "links": [
+    "https://x.com/i/status/2117379073785696395",
+    "https://news.ycombinator.com/item?id=50350004"
+   ],
+   "topic": "revolut-self-hosted-glm",
+   "firstSeen": "2026-11-03T20:29:31+08:00"
   }
  ],
- "lastChecked": "2026-11-03T20:02:47+08:00"
+ "lastChecked": "2026-11-03T20:29:31+08:00"
 }
