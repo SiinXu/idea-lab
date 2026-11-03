@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T03:17:35+08:00",
+ "lastUpdated": "2026-11-04T03:40:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29777,7 +29777,28 @@
    ],
    "topic": "windows11-8gb-ram-memory-compression",
    "firstSeen": "2026-11-04T03:17:35+08:00"
+  },
+  {
+   "id": "dcf4efbd87",
+   "title": "彭博：中国将推出覆盖研发到部署全流程的 AI 安全标准，重点约束国内大模型厂商",
+   "summary": "据彭博社，在全球接连发生 AI 安全事件后，中国计划出台一套覆盖 AI 开发、测试到上线部署全生命周期的安全标准，主要面向国内模型开发商。信号：合规评估、模型安全测评、红队测试与上线备案辅助工具在国内市场的需求可能随之上升。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-03/china-plans-broad-ai-guardrails-after-global-security-lapses",
+    "https://www.techmeme.com/river"
+   ],
+   "topic": "china-ai-safety-standards-lifecycle",
+   "firstSeen": "2026-11-04T03:40:37+08:00"
+  },
+  {
+   "id": "9b1cdd0df3",
+   "title": "The Information：华为下一代旗舰 AI 芯片昇腾 960DT 将主要使用三星、SK 海力士的 HBM",
+   "summary": "据 The Information 援引消息人士，华为已告知部分客户，其下一代旗舰 AI 芯片昇腾 960DT 的大部分产品将主要搭载三星与 SK 海力士生产的 HBM 高带宽内存。信号：国产 AI 芯片在高端存储上仍依赖韩国供应，HBM 供应与出口管制走向将直接影响国产算力产能，内存涨价叙事继续发酵。",
+   "links": [
+    "https://www.theinformation.com/articles/smugglers-get-expensive-memory-chips-china-south-korea"
+   ],
+   "topic": "huawei-ascend-960dt-korean-hbm",
+   "firstSeen": "2026-11-04T03:40:37+08:00"
   }
  ],
- "lastChecked": "2026-11-04T03:17:35+08:00"
+ "lastChecked": "2026-11-04T03:40:37+08:00"
 }
