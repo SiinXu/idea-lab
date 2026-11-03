@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T15:42:02+08:00",
+ "lastUpdated": "2026-11-03T15:55:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29215,7 +29215,18 @@
    ],
    "topic": "cloudflare-apjc-incidents-1103",
    "firstSeen": "2026-11-03T15:42:02+08:00"
+  },
+  {
+   "id": "cec115b41e",
+   "title": "英伟达开源 Auto Ontology：给 AI 智能体自动生成企业「本体/语义层」，经 MCP 接入，登上 HN",
+   "summary": "NVIDIA 在 GitHub 开源 Auto Ontology（Apache 2.0，已获 1000+ star），从企业元数据自动生成本体和知识图谱，统一各系统里不一致的指标定义，校验智能体生成的 SQL 是否符合认证口径并返回数据血缘，通过 MCP、CLI 和 API 提供给任意智能体框架，附 Web UI 与 Helm/Docker 部署。信号：「智能体做数据分析」的瓶颈正从模型能力转向可信语义层，面向中小团队的轻量语义层/指标口径管理、Text-to-SQL 校验与 MCP 数据上下文服务有机会。",
+   "links": [
+    "https://github.com/NVIDIA/auto-ontology",
+    "https://news.ycombinator.com/item?id=50348962"
+   ],
+   "topic": "nvidia-auto-ontology",
+   "firstSeen": "2026-11-03T15:55:01+08:00"
   }
  ],
- "lastChecked": "2026-11-03T15:42:02+08:00"
+ "lastChecked": "2026-11-03T15:55:01+08:00"
 }
