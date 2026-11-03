@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T12:15:44+08:00",
+ "lastUpdated": "2026-11-03T12:28:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29055,7 +29055,18 @@
    ],
    "topic": "hacker-times-nyt-style-hn",
    "firstSeen": "2026-11-03T12:15:44+08:00"
+  },
+  {
+   "id": "c5c87e8066",
+   "title": "开源工具 DiscImageStudio 冲上 HN：把图片「刻」进光盘数据层，刻录后 CD/DVD/蓝光盘面直接显出肉眼可见的图案",
+   "summary": "DiscImageStudio 是一个 C#/.NET 10 写的开源工具（GPL-3.0），能把任意图片转换成符合 CD、DVD 和单层 BD-R 物理层约束的数据，刻录后光盘的数据面会呈现出可见图像。Windows 桌面版支持图层设计与直接刻录，Linux/macOS 提供实验性命令行版离线生成镜像。项目在 GitHub 已有约 3500 星，登上 HN 首页约 2 小时拿到 80+ 分、20 多条评论。信号：复古硬件 + 创意玩法依旧是开源项目破圈的好题材，「把老介质玩出新花样」类工具（光盘、磁带、胶片）容易在 HN 和社媒传播，也可延伸成定制纪念光盘的小生意。",
+   "links": [
+    "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+    "https://news.ycombinator.com/item?id=50346849"
+   ],
+   "topic": "discimagestudio-visible-disc-art",
+   "firstSeen": "2026-11-03T12:28:13+08:00"
   }
  ],
- "lastChecked": "2026-11-03T12:15:44+08:00"
+ "lastChecked": "2026-11-03T12:28:13+08:00"
 }
