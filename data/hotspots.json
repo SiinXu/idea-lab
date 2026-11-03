@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T07:14:11+08:00",
+ "lastUpdated": "2026-11-04T07:29:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30064,7 +30064,17 @@
    ],
    "topic": "harness-engineering-agent-scaffolding-trend",
    "firstSeen": "2026-11-04T07:14:11+08:00"
+  },
+  {
+   "id": "f59cb4e04d",
+   "title": "Altman 接受 POLITICO 专访：AI 要进步，社会就得接受一些坏结果，主张更宽松的监管",
+   "summary": "OpenAI CEO Sam Altman 在 Decoded by POLITICO 节目中称，推动 AI 普及必然伴随部分负面后果，监管应更轻，并点名与 Anthropic 的路线不同；但他强调对「AI 失控」这类灾难性风险必须划红线。X 上支持者认为这是实话，批评者则要求更强的安全护栏。",
+   "links": [
+    "https://x.com/i/trending/2117692832945438888"
+   ],
+   "topic": "altman-politico-accept-ai-downsides",
+   "firstSeen": "2026-11-04T07:29:32+08:00"
   }
  ],
- "lastChecked": "2026-11-04T07:14:11+08:00"
+ "lastChecked": "2026-11-04T07:29:32+08:00"
 }
