@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T23:53:05+08:00",
+ "lastUpdated": "2026-11-04T00:13:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29487,7 +29487,19 @@
    ],
    "topic": "cepr-ai-bubble-monitor-21",
    "firstSeen": "2026-11-03T23:53:05+08:00"
+  },
+  {
+   "id": "9ab7789370",
+   "title": "谷歌宣布明年起 K-12 学生账号默认关闭 Gemini 与搜索：学校若全面禁用 AI，学生也将无法使用谷歌搜索",
+   "summary": "谷歌 11 月 3 日宣布，2027 年初起 Gemini、Gemini Notebook、Classroom 中的 Gemini 以及谷歌搜索，对 K-12 学生账号默认关闭，需学校管理员主动开启；同时把「引导式学习」（Guided Learning，分步提示、不直接给答案）接入搜索和 Classroom，本月先在部分美国学校试点。争议在于：谷歌教育副总裁 Chris Phillips 称「搜索与 AI 深度整合」，若学校禁用 AI，学生将看不到谷歌搜索，只会看到学校的不可用提示。此前纽约、洛杉矶两大学区已限制学生使用生成式 AI，纽约州上周也通过了未成年人聊天机器人安全法。HN 上批评谷歌把锅甩给学校。信号：「AI 进校园」的管控权之争升温，面向学校的无 AI 搜索、可审计的 AI 学习工具和家长管控类产品有需求窗口。",
+   "links": [
+    "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+    "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+    "https://news.ycombinator.com/item?id=50353192"
+   ],
+   "topic": "google-k12-ai-off-search",
+   "firstSeen": "2026-11-04T00:13:42+08:00"
   }
  ],
- "lastChecked": "2026-11-03T23:53:05+08:00"
+ "lastChecked": "2026-11-04T00:13:42+08:00"
 }
