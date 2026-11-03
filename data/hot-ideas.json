@@ -249,6 +249,81 @@
    "shown": true,
    "at": "2026-11-02T13:12:05+00:00",
    "id": "9060cf64eb"
+  },
+  {
+   "topic": "hcec5ad599",
+   "title": "收藏网站一键存档",
+   "who": "独立博客读者和研究者",
+   "pain": "喜欢的小站说没就没，书签变成死链",
+   "why_now": "HN 正在热议「喜欢一个网站就备份它」",
+   "mvp": "导入书签，批量提交到 Internet Archive，定期查死链，出一页存档清单",
+   "money": "免费 50 条，$5/月不限量加死链提醒",
+   "not_do": "不托管网站全文副本，不绕过付费墙",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50336518"
+   ],
+   "score": 7,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 1,
+    "novel": 0
+   },
+   "why": "HN 真实讨论；两周可做；ArchiveBox 等同类已多，付费意愿弱",
+   "shown": true,
+   "at": "2026-11-03T01:10:47+00:00",
+   "id": "575fb8596a"
+  },
+  {
+   "topic": "h0d7890576",
+   "title": "发行版补丁延迟看板",
+   "who": "运维和小团队的服务器负责人",
+   "pain": "内核漏洞公开后，不知道自己用的发行版何时出补丁",
+   "why_now": "HN 热议 Ubuntu 近三周仍未修复 Linux 0day RCE",
+   "mvp": "抓各发行版公开安全公告，按 CVE 对比修复天数，出静态看板和 RSS",
+   "money": "看板免费，按自选发行版的提醒 $9/月",
+   "not_do": "不提供利用代码，不扫描别人的服务器",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50341462"
+   ],
+   "score": 7,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 1,
+    "money": 1,
+    "reuse": 1,
+    "novel": 1
+   },
+   "why": "HN 证据强、角度新；各发行版公告格式不一，两周吃紧",
+   "shown": true,
+   "at": "2026-11-03T01:10:47+00:00",
+   "id": "03ba65ebc6"
+  },
+  {
+   "topic": "h077e786e9",
+   "title": "AI 技能阶梯自测",
+   "who": "想转做 AI 工作的开发者和产品经理",
+   "pain": "不知道自己在提示词到自主 Agent 之间处于哪一级、下一步练什么",
+   "why_now": "X 上正热传「从提示词到自主 Agent」的技能阶梯",
+   "mvp": "20 题自测定级，每一级配上 Skills Lab 里的现成练习",
+   "money": "免费定级，$12 买分级练习包",
+   "not_do": "不发证书，不承诺就业",
+   "evidence": [
+    "https://x.com/i/trending/2117248861253042206"
+   ],
+   "score": 8,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 2,
+    "novel": 0
+   },
+   "why": "X 热传；能直接复用 Skills Lab 和刷题站；自测类不新",
+   "shown": true,
+   "at": "2026-11-03T01:10:47+00:00",
+   "id": "71632fe7b1"
   }
  ]
 }
