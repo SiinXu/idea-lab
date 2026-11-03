@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T02:44:14+08:00",
+ "lastUpdated": "2026-11-04T02:59:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29735,7 +29735,27 @@
    ],
    "topic": "snowflake-business-ontology-ai-gateway",
    "firstSeen": "2026-11-04T02:44:14+08:00"
+  },
+  {
+   "id": "a0097b29fb",
+   "title": "谷歌封禁 Android TV 盒子厂商 Videostrong：发现其故意预装恶意后门，波及数百万台 Android TV / Google TV 设备",
+   "summary": "9to5Google 报道，谷歌在调查中发现电视盒子制造商 Videostrong 有意在设备中预装恶意软件以开启后门，随后切断合作并封禁该厂商，关闭了这一影响数百万台盒子的后门。信号：廉价白牌 IoT/电视盒子的供应链安全问题再次爆发，面向消费者的设备安全检测、固件审计与「可信硬件清单」类服务有需求。",
+   "links": [
+    "https://9to5google.com/2026/11/02/google-android-tv-box-backdoor-shut-down/"
+   ],
+   "topic": "google-videostrong-android-tv-backdoor-ban",
+   "firstSeen": "2026-11-04T02:59:44+08:00"
+  },
+  {
+   "id": "7d53145fa5",
+   "title": "The Information：Anthropic 向 IPO 投资者展示 Claude 的芯片设计能力，其 15 人芯片设计团队已用 Claude 做工程与设计工作",
+   "summary": "据 The Information（经 Techmeme 汇总），Anthropic 在近期 IPO 路演会议中告诉投资者，公司内部一支 15 人的芯片设计团队正在使用 Claude 承担工程与设计工作。信号：大模型公司开始把「AI 设计芯片」作为自研算力与估值叙事的一部分，小团队借助 AI 做 EDA/硬件设计的工具链与教程是值得关注的方向。",
+   "links": [
+    "https://www.theinformation.com/articles/anthropic-touts-claudes-chip-design-skills-ipo-investors"
+   ],
+   "topic": "anthropic-claude-chip-design-ipo-pitch",
+   "firstSeen": "2026-11-04T02:59:44+08:00"
   }
  ],
- "lastChecked": "2026-11-04T02:44:14+08:00"
+ "lastChecked": "2026-11-04T02:59:44+08:00"
 }
