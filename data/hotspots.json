@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T03:56:43+08:00",
+ "lastUpdated": "2026-11-04T04:13:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29810,7 +29810,17 @@
    ],
    "topic": "google-cmu-harmony-harness-2026-11-03",
    "firstSeen": "2026-11-04T03:56:43+08:00"
+  },
+  {
+   "id": "841ed1551d",
+   "title": "英国 Drax 联手 Brookfield 与新云厂商 Radiant，在北约克郡建 AI 数据中心，首期目标 100MW",
+   "summary": "据 CNBC，英国能源公司 Drax 与 Brookfield、新云（neocloud）厂商 Radiant 合作，在其北约克郡电厂所在地开发 AI 数据中心，首期目标容量 100MW。信号：拥有电厂与并网资源的能源公司正转型为 AI 算力地产商，「电力即算力」的欧洲版本加速。",
+   "links": [
+    "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html"
+   ],
+   "topic": "drax-brookfield-radiant-yorkshire-ai-dc",
+   "firstSeen": "2026-11-04T04:13:43+08:00"
   }
  ],
- "lastChecked": "2026-11-04T03:56:43+08:00"
+ "lastChecked": "2026-11-04T04:13:43+08:00"
 }
