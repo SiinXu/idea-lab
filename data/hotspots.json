@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T01:45:18+08:00",
+ "lastUpdated": "2026-11-04T02:01:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29597,7 +29597,41 @@
    ],
    "topic": "postman-auto-installs-agent-plugins-hooks",
    "firstSeen": "2026-11-04T01:45:18+08:00"
+  },
+  {
+   "id": "a0fb68e323",
+   "title": "Simon Willison：笔记本上的 Qwen 3.8 27B 也能「读懂」模型权重，无工具纯推理认出 Pac-Man、Pong、Breakout 策略网络",
+   "summary": "针对昨天爆火的论文《Sparks of Weight-Space Programming》（称 GPT-6 Astra 只看原始权重就能判断网络用途），Simon Willison 用论文公开的提示词在本地 LM Studio 跑 17GB 的 Qwen 3.8 27B：在不准用代码和计算器的条件下，它分别耗时约 46 分钟、65 分钟、52 分钟，以 72%/75%/88% 置信度认出 Pac-Man、Pong 和 Breakout，只在冷门的 Freeway 上失手；Kimi K3.1 Pro 也约 10 分钟认出 Breakout。他同时提醒：有经验的人拿纸笔也能做到，不必据此宣称「源代码时代终结」。信号：「权重空间编程」从前沿闭源模型扩散到本地开源模型，可复现评测、权重可解释性工具会是新话题。",
+   "links": [
+    "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+    "https://news.ycombinator.com/item?id=50355251"
+   ],
+   "topic": "qwen-local-weight-space-interpretation",
+   "firstSeen": "2026-11-04T02:01:52+08:00"
+  },
+  {
+   "id": "5ec5d84feb",
+   "title": "币安联席 CEO 披露 63 亿美元盗案细节：假冒 AI 编程工具安装包 + 假面试代码题植入恶意软件，再借内部 AI 工具横向渗透到钱包授权系统",
+   "summary": "币安联席 CEO Richard Teng 在 CNBC 及币安当天发布的安全报告中称，攻击者「花了几个月一步步渗透」：6 月，一名钱包 DevOps 工程师通过搜索引擎下载了被篡改的 Homebrew 安装包来装一款热门 AI 编程工具；9 月，攻击者冒充招聘方给另一名工程师安排多轮面试，代码练习题中藏有规避检测的恶意软件，随后经由内部 AI 工具拿到钱包交易授权系统的访问权。币安称已补足 63.4 亿美元受影响资产的 98%，并重建钱包系统和内部 AI 工具；FBI 将此案关联到朝鲜 TraderTraitor。信号：开发者工具链、AI 编程工具安装渠道与企业内部 AI 智能体权限成为高价值攻击面。",
+   "links": [
+    "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+    "https://www.reuters.com/world/binance-says-hackers-used-fake-job-interview-compromise-computer-before-63-2026-11-03/",
+    "https://news.ycombinator.com/item?id=50353818"
+   ],
+   "topic": "binance-hack-fake-interview-ai-tool-details",
+   "firstSeen": "2026-11-04T02:01:52+08:00"
+  },
+  {
+   "id": "36b7855ee5",
+   "title": "《华盛顿邮报》：谷歌 DeepMind 员工要求解除「终身不得批评公司」的保密条款，以便向公众警示 AI 风险",
+   "summary": "据《华盛顿邮报》报道，谷歌 AI 部门内部员工正推动高管解除其非贬损协议（non-disparagement agreements），认为现行雇佣合同让员工不敢向公众说明他们所研发技术的风险，必须获得公开讨论的自由。此前 OpenAI 也曾因类似离职协议引发争议。信号：前沿实验室的员工发声权、吹哨人保护与 AI 安全透明度再成焦点，可能牵动监管与人才流动。",
+   "links": [
+    "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
+    "https://news.ycombinator.com/item?id=50355504"
+   ],
+   "topic": "deepmind-staff-non-disparagement-protest",
+   "firstSeen": "2026-11-04T02:01:52+08:00"
   }
  ],
- "lastChecked": "2026-11-04T01:45:18+08:00"
+ "lastChecked": "2026-11-04T02:01:52+08:00"
 }
