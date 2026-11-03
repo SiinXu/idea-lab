@@ -324,6 +324,81 @@
    "shown": true,
    "at": "2026-11-03T01:10:47+00:00",
    "id": "71632fe7b1"
+  },
+  {
+   "topic": "h78be4ac41",
+   "title": "合并前代码理解小测",
+   "who": "大量用 AI 写代码的工程师和带新人的技术负责人",
+   "pain": "AI 生成的改动直接合进去，出问题时没人说得清这段代码在干什么",
+   "why_now": "Addy Osmani 提醒 AI 编程工具会让人「认知投降」，X 上正热议",
+   "mvp": "GitHub App 读 PR diff，自动出 3 道理解题，作者答对才给 PR 打通过标记",
+   "money": "个人仓库免费，团队 $6/人/月，含理解度周报",
+   "not_do": "不给员工打绩效分，不拦截紧急修复",
+   "evidence": [
+    "https://x.com/i/trending/2117549097854865896"
+   ],
+   "score": 8,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 1,
+    "novel": 1
+   },
+   "why": "X 热议直接对应痛点；GitHub App 加出题两周可做；团队按人头收费可信但要和现有代码评审工具竞争；可复用 Cloudflare Workers；角度新。",
+   "shown": true,
+   "at": "2026-11-03T13:09:37+00:00",
+   "id": "0f70c36496"
+  },
+  {
+   "topic": "h5ce22e52a",
+   "title": "AI 编码工具准入模板",
+   "who": "中小公司的工程负责人和 IT 管理员",
+   "pain": "不知道该让谁用 AI 编码工具、能连哪些仓库、怎么留审计记录",
+   "why_now": "X 上热议高盛审查后只让工程师使用 AI 编码工具",
+   "mvp": "回答 10 个问题，生成一份可改的准入政策、仓库白名单和审计清单，存成 Markdown",
+   "money": "基础模板免费，$29 买含 SOC 2 对照表的完整包",
+   "not_do": "不做法律意见，不接管公司账号权限",
+   "evidence": [
+    "https://x.com/i/trending/2117291067926097949"
+   ],
+   "score": 7,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 1,
+    "novel": 0
+   },
+   "why": "有 X 讨论链接；问卷生成 Markdown 两周可做；一次性模板包能收小钱但上限低；可复用 Workers 和设计规范库的模板生成经验；同类政策模板已不少。",
+   "shown": true,
+   "at": "2026-11-03T13:09:37+00:00",
+   "id": "3c5e92c024"
+  },
+  {
+   "topic": "hb46cfa709",
+   "title": "开源项目 AI 使用声明生成器",
+   "who": "开源维护者和接受外部贡献的小项目",
+   "pain": "贡献里用没用 AI 说不清，社区为此吵架，维护者没有现成规则可贴",
+   "why_now": "X 上开发者正在反驳对 AI 写代码的抵制情绪",
+   "mvp": "选几个选项，生成 AI_POLICY.md、PR 模板勾选项和 README 徽章，一键提 PR",
+   "money": "个人和开源免费，企业版 $49/年 统一管理多个仓库的声明",
+   "not_do": "不做 AI 代码检测器，不给贡献者贴标签",
+   "evidence": [
+    "https://x.com/i/trending/2117233621945770461"
+   ],
+   "score": 7,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 0,
+    "reuse": 1,
+    "novel": 1
+   },
+   "why": "有 X 讨论链接；生成文件加提 PR 两周可做；开源维护者付费意愿很低，企业版需求未验证；可复用 Workers；AI 使用声明这一形态较新。",
+   "shown": true,
+   "at": "2026-11-03T13:09:37+00:00",
+   "id": "1aced5dada"
   }
  ]
 }
