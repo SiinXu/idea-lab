@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T13:07:51+08:00",
+ "lastUpdated": "2026-11-03T13:30:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29078,7 +29078,19 @@
    ],
    "topic": "itchio-ai-game-cleanup",
    "firstSeen": "2026-11-03T13:07:51+08:00"
+  },
+  {
+   "id": "118e1beea6",
+   "title": "DeepSeek Harness 上线「创作者模式」：聊天描述需求，智能体自动写插件、安装并验证，番茄钟浮窗 5 分钟搞定",
+   "summary": "DeepSeek 为开源智能体应用 DeepSeek Harness 推出 Creator Mode：用户在对话中描述想要的工具、界面面板或工作流，智能体会检查运行时、编写 Cordis 插件、通过插件管理器安装并验证是否生效。官方演示包括 3D 地标画廊、交互式 Transformer 3D 可视化、海报工作台、视频剪辑台、论文阅读器和对话统计面板，并公开了 7 个示例的提示词。官方文档提醒这是高信任模式，插件代码在沙箱外运行。信号：「对话即扩展」让 AI 应用自我定制成为新范式，插件模板市场、提示词合集与插件安全审查工具有机会。",
+   "links": [
+    "https://x.com/i/trending/2117308547239137776",
+    "https://www.tao.media/deepseek-adds-chat-based-plugin-creation-to-harness-with-creator-mode/",
+    "https://qz.com/deepseek-creator-mode-custom-ai-plugins-110226"
+   ],
+   "topic": "deepseek-harness-creator-mode",
+   "firstSeen": "2026-11-03T13:30:28+08:00"
   }
  ],
- "lastChecked": "2026-11-03T13:07:51+08:00"
+ "lastChecked": "2026-11-03T13:30:28+08:00"
 }
