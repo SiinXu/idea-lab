@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T07:29:32+08:00",
+ "lastUpdated": "2026-11-04T07:43:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30074,7 +30074,50 @@
    ],
    "topic": "altman-politico-accept-ai-downsides",
    "firstSeen": "2026-11-04T07:29:32+08:00"
+  },
+  {
+   "id": "9e34149085",
+   "title": "Canva 宣布重组裁员 1271 人、占员工 22%：产品、增长与平台团队合并，被称为公司史上「最艰难时刻」",
+   "summary": "澳洲设计平台 Canva 宣布重组，将影响 1271 名员工、约占总人数 22%，并把产品、增长和平台三支团队合并。消息由《The Age》报道，Techmeme 置顶。信号：AI 设计工具冲击下，老牌设计 SaaS 也在收缩组织，「AI 原生设计工具」与面向被裁设计师的转型内容可能迎来关注窗口。",
+   "links": [
+    "https://www.theage.com.au/technology/canva-unveils-mass-job-cuts-in-hardest-moment-of-its-history-20261104-p61b62.html",
+    "https://www.techmeme.com/261103/p37"
+   ],
+   "topic": "canva-restructuring-22pct-layoffs",
+   "firstSeen": "2026-11-04T07:43:18+08:00"
+  },
+  {
+   "id": "b8cc0fa71b",
+   "title": "AI 运维智能体公司 Traversal 融资 1.2 亿美元、估值 10 亿美元：专门「修 AI 写出来的东西」",
+   "summary": "为站点可靠性工程（SRE）提供 AI 智能体的 Traversal 完成 1.2 亿美元融资，由 Kleiner Perkins、Redpoint 和 Khosla 联合领投，估值 10 亿美元。福布斯把这门生意概括为「修复 AI 所建之物的十亿美元生意」。信号：AI 生成代码激增后，排障、观测、回滚等「善后」工具成为新的独角兽赛道。",
+   "links": [
+    "https://www.forbes.com/sites/the-prompt/2026/11/03/the-billion-dollar-business-of-fixing-what-ai-builds/",
+    "https://www.techmeme.com/261103/p39"
+   ],
+   "topic": "traversal-120m-ai-sre-unicorn",
+   "firstSeen": "2026-11-04T07:43:18+08:00"
+  },
+  {
+   "id": "fff3a2363e",
+   "title": "Steam 新游投稿暴增，Valve 调整审核流程：审核时间从通常 3–5 个工作日拉长到最多 12 个工作日",
+   "summary": "Valve 宣布调整 Steam 的审核流程，原因是游戏提交量激增，审核时间已从通常的 3–5 个工作日延长至「最多 12 个工作日」。此前数据显示 Steam 10 月新游近一半声明使用生成式 AI。信号：AI 降低做游戏门槛带来投稿洪峰，上架排期、发行与曝光服务的需求会上升。",
+   "links": [
+    "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
+    "https://www.techmeme.com/261103/p40"
+   ],
+   "topic": "steam-review-times-12-days-submission-surge",
+   "firstSeen": "2026-11-04T07:43:18+08:00"
+  },
+  {
+   "id": "fc3ef74e7b",
+   "title": "开发者逆向拆解 TikTok 留存机制视频走红：称 App 集成 25 个 AI 模型、读取陀螺仪等传感器数据让人停不下来",
+   "summary": "一位软件开发者在视频中逆向分析 TikTok，称其集成了 25 个 AI 模型，并提取陀螺仪等传感器数据追踪用户的每个动作，还解释了长时间刷视频耗电的原因。X 上的汇总提到，独立研究也证实其会在端侧分析摄像头画面估计年龄与性别，并收集剪贴板、位置等信息；TikTok 方面称这些都用于个性化推荐且合法。信号：「拆解大厂 App」类技术内容流量高，隐私审计工具和科普有关注度。",
+   "links": [
+    "https://x.com/i/trending/2117758952821678390"
+   ],
+   "topic": "tiktok-reverse-engineering-retention-25-models",
+   "firstSeen": "2026-11-04T07:43:18+08:00"
   }
  ],
- "lastChecked": "2026-11-04T07:29:32+08:00"
+ "lastChecked": "2026-11-04T07:43:18+08:00"
 }
