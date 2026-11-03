@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T00:25:06+08:00",
+ "lastUpdated": "2026-11-04T00:40:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29521,7 +29521,18 @@
    ],
    "topic": "octomind-rust-agent-runtime",
    "firstSeen": "2026-11-04T00:25:06+08:00"
+  },
+  {
+   "id": "4bbe1f465d",
+   "title": "英国 CS 学生长文「AI 正在毁掉我的计算机学位」1 小时冲上 HN 首页：学校在「禁止用 AI」和「必须用 AI」之间反复横跳",
+   "summary": "一名拿奖学金读计算机与 AI 的英国大学生 11 月 3 日在 Bear Blog 发文：学校对 AI 的政策几个月一变，上一门课强制用 AI 做作业、下一门课碰 LLM 就扣分；课程作业说明疑似由 Claude 生成，错误频出、临近截止才更正，工作量翻了三倍；校方把 AI 用在批改反馈、课程内容和学生通知上，导师更超负荷，只在数据看板把她标为「有风险」时才联系她。帖子约 1 小时拿到 80 分、近 50 条评论，资深工程师们讨论 AI 时代学位的价值与「为学习而学习」。信号：高校 AI 政策混乱与 AI 生成课程质量成为新痛点，面向学生/教师的「AI 使用规范 + 作业说明质检」类工具有需求。",
+   "links": [
+    "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
+    "https://news.ycombinator.com/item?id=50353300"
+   ],
+   "topic": "ai-destroying-cs-degree-blog",
+   "firstSeen": "2026-11-04T00:40:37+08:00"
   }
  ],
- "lastChecked": "2026-11-04T00:25:06+08:00"
+ "lastChecked": "2026-11-04T00:40:37+08:00"
 }
