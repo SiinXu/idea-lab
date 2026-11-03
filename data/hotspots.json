@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T05:32:38+08:00",
+ "lastUpdated": "2026-11-04T05:46:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29957,7 +29957,27 @@
    ],
    "topic": "openai-hires-jill-hazelbaker",
    "firstSeen": "2026-11-04T05:32:38+08:00"
+  },
+  {
+   "id": "54293f2d9b",
+   "title": "萨博公开自研 AI 空战代理：已在 Gripen E 战斗机上完成实飞",
+   "summary": "瑞典萨博（Saab）11 月 3 日宣布，其自研、经实飞验证的 AI 代理已搭载 Gripen E 战斗机飞行，覆盖从概念、训练到上机的全流程，面向未来战斗机系统。信号：军工巨头开始把 AI 代理当作自有核心能力而非外包模块，国防 AI 自主化进入实机阶段。",
+   "links": [
+    "https://www.saab.com/newsroom/press-releases/2026/saab-unveils-its-ai-agents-for-future-fighter-systems"
+   ],
+   "topic": "saab-ai-agents-gripen-e",
+   "firstSeen": "2026-11-04T05:46:51+08:00"
+  },
+  {
+   "id": "72fee34c66",
+   "title": "开发者扒出 macOS 内置「脏话词库」：系统给 19.9 万个英文单词逐一标注粗俗、冒犯或敏感",
+   "summary": "开发者 Helge Sverre 发现 macOS 自带 VulgarWordUsage.db 及一份为每个词打分（粗俗/冒犯/敏感）的词典，并导出了 19.9 万个英文词及十多种语言的数据，登上 Hacker News 热榜。信号：系统级内容过滤规则长期不透明，这类「拆解大厂隐藏数据」的文章容易引发隐私与审查讨论，也可做成开放词表或审核工具。",
+   "links": [
+    "https://helgesver.re/articles/macos-vulgar-word-flags"
+   ],
+   "topic": "macos-vulgar-word-list-dump",
+   "firstSeen": "2026-11-04T05:46:51+08:00"
   }
  ],
- "lastChecked": "2026-11-04T05:32:38+08:00"
+ "lastChecked": "2026-11-04T05:46:51+08:00"
 }
