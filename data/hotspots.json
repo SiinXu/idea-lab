@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T11:54:24+08:00",
+ "lastUpdated": "2026-11-03T12:15:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29044,7 +29044,18 @@
    ],
    "topic": "ubuntu-cve-2026-98432-unpatched",
    "firstSeen": "2026-11-03T11:54:24+08:00"
+  },
+  {
+   "id": "9343ec5f83",
+   "title": "Show HN「Hacker Times」：把 Hacker News 做成《纽约时报》式报纸版面，每小时自动出一期",
+   "summary": "Hacker Times 把 Hacker News 上的热门内容重新排成报纸头版：衬线报头、头条大图、分栏排版，支持深浅色主题，页面标注「每小时刷新一次」，每条新闻都链回原始来源。这条 Show HN 发布约 2 小时就拿到约 90 分，评论区主要在讨论排版品味、信息密度和它用什么方式挑选头条。信号：给现有信息流重新设计「阅读形态」（报纸版、杂志版、简报版）是低成本又容易传播的小产品方向，同样的思路也可以用在 GitHub Trending、Product Hunt 或垂直资讯站上。",
+   "links": [
+    "https://hackertimes.ca/",
+    "https://news.ycombinator.com/item?id=50346981"
+   ],
+   "topic": "hacker-times-nyt-style-hn",
+   "firstSeen": "2026-11-03T12:15:44+08:00"
   }
  ],
- "lastChecked": "2026-11-03T11:54:24+08:00"
+ "lastChecked": "2026-11-03T12:15:44+08:00"
 }
