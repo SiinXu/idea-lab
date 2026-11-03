@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T17:45:01+08:00",
+ "lastUpdated": "2026-11-03T18:08:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29259,7 +29259,18 @@
    ],
    "topic": "",
    "firstSeen": "2026-11-03T17:45:01+08:00"
+  },
+  {
+   "id": "e6b0397733",
+   "title": "开源项目整理 NVIDIA V100 SXM2 引脚图与 NVLink 互联方案，目标做开源转接载板，登上 HN",
+   "summary": "GitHub 项目 v100-sxm2-reference 汇总了 V100 SXM2 模块的引脚映射、双卡与四卡 NVLink 连接方案，以及 KiCad 10 的连接器级原理图起步工程和 Excel 工作簿，目标是做出一块开源载板，让拆机 SXM2 版 V100 能装进普通主机使用；作者说明目前主要是整理与核对公开逆向资料，尚未经过硬件验证。信号：二手数据中心 GPU 流入个人和小团队本地 AI 推理，围绕「旧卡改造」的载板、散热套件、教程和整机方案存在小众硬件机会。",
+   "links": [
+    "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
+    "https://news.ycombinator.com/item?id=50344912"
+   ],
+   "topic": "",
+   "firstSeen": "2026-11-03T18:08:06+08:00"
   }
  ],
- "lastChecked": "2026-11-03T17:45:01+08:00"
+ "lastChecked": "2026-11-03T18:08:06+08:00"
 }
