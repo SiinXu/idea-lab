@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T00:13:42+08:00",
+ "lastUpdated": "2026-11-04T00:25:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29499,7 +29499,29 @@
    ],
    "topic": "google-k12-ai-off-search",
    "firstSeen": "2026-11-04T00:13:42+08:00"
+  },
+  {
+   "id": "70158e6ea5",
+   "title": "智利 Quilicura 小镇「当一天 AI」冲上 HN：40 多名居民 12 小时手工回答 2.5 万条提示词，抗议 AI 数据中心耗水",
+   "summary": "QUILI.AI 是 Fundación Avina 与 Corporación NGEN 发起的倡议：Quilicura 位于智利迈波河流域，自 2010 年代起聚集大量 AI 数据中心，用当地水资源冷却服务器，而智利正面临预计持续到 2040 年的严重干旱。活动当天（1 月 31 日 8 点到 20 点），40 多名居民以「人肉聊天机器人」身份回答了来自 68 个国家的 2.5 万多条提示（画图、菜谱、闲聊等），平均每次对话 11 分钟，项目称一天内全球曝光 7160 万。今天在 HN 首页约 1 小时拿到 50+ 分，评论讨论人类答复的成本与数据中心选址。信号：AI 算力的水、电等环境成本正成为公众议题，数据中心用水透明度工具、「绿色推理」标签与 AI 环境影响追踪类内容有关注度。",
+   "links": [
+    "https://www.quili.ai/",
+    "https://news.ycombinator.com/item?id=50353475"
+   ],
+   "topic": "quili-ai-water-datacenter",
+   "firstSeen": "2026-11-04T00:25:06+08:00"
+  },
+  {
+   "id": "29f02533f9",
+   "title": "开源 Rust 编码智能体运行时 Octomind 上 HN：单一二进制、任意模型、原生 MCP，主打省 token",
+   "summary": "Muvon 开源的 Octomind（Apache-2.0，GitHub 约 344 星）定位为「AI 编码智能体与智能体运行时」：一个静态 Rust 二进制即可在终端、CI 或守护进程模式下运行，可接任意模型，原生支持 MCP，宣传重点是节省 token。HN 帖子约 1.5 小时 30 分左右，评论要求提供包管理器安装方式而非 curl 脚本，也有人希望与 oh-my-pi 对比上下文压缩与快照能力，并追问「省 token 是否牺牲质量」。信号：轻量、可自托管、可嵌入 CI 的 Agent 运行时赛道持续升温，基准对比（成本 vs 质量）与上下文压缩是用户最关心的卖点。",
+   "links": [
+    "https://github.com/Muvon/octomind",
+    "https://news.ycombinator.com/item?id=50352898"
+   ],
+   "topic": "octomind-rust-agent-runtime",
+   "firstSeen": "2026-11-04T00:25:06+08:00"
   }
  ],
- "lastChecked": "2026-11-04T00:13:42+08:00"
+ "lastChecked": "2026-11-04T00:25:06+08:00"
 }
