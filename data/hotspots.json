@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T06:16:43+08:00",
+ "lastUpdated": "2026-11-04T06:43:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30033,7 +30033,18 @@
    ],
    "topic": "little-book-genai-foundations",
    "firstSeen": "2026-11-04T06:16:43+08:00"
+  },
+  {
+   "id": "425103665c",
+   "title": "OpenCode 与 OpenRouter 上线两款免费「隐身模型」Pulse Alpha 与 Crouton Alpha：100 万 token 上下文，开发者一小时做出类 Minecraft 游戏",
+   "summary": "OpenCode 客户端限时免费提供 Pulse Alpha（100 万 token 上下文、支持图片输入、推理能力强）；OpenRouter 同步上架 stealth/crouton-alpha，定位轻量级编码与智能体子任务模型，支持文本、图片、音频和视频多模态，预览期不用用户数据训练。X 上开发者晒出一小时内用它做出类 Minecraft 游戏，夸其编码和工具调用速度快；不过访问是临时的，欧盟等地区受限。信号：大厂惯用「隐身模型」先收集反馈再正式发布，低成本试用前沿模型做原型的窗口期又来了。",
+   "links": [
+    "https://x.com/i/trending/2117685613319037400",
+    "https://openrouter.ai/stealth/crouton-alpha"
+   ],
+   "topic": "opencode-stealth-pulse-crouton-alpha",
+   "firstSeen": "2026-11-04T06:43:18+08:00"
   }
  ],
- "lastChecked": "2026-11-04T06:16:43+08:00"
+ "lastChecked": "2026-11-04T06:43:18+08:00"
 }
