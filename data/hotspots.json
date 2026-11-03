@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T21:15:16+08:00",
+ "lastUpdated": "2026-11-03T21:28:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29397,7 +29397,18 @@
    ],
    "topic": "carlini-pentium-chess",
    "firstSeen": "2026-11-03T21:15:16+08:00"
+  },
+  {
+   "id": "435a4449f9",
+   "title": "spaCy 作者 Matthew Honnibal 撰文反驳「GPT-6 Astra 读写权重提升 Qwen」爆款帖：头条成绩并非「只看原始权重」得来",
+   "summary": "11 月 3 日，Honnibal 发文逐项拆解近日登上 HN 榜首（2800+ 分）的 Astra 权重编程实验：在 10 余项实验中，「不用工具、只读原始权重」的设定只出现在 1.7 万到 17 万参数的小网络上；凡涉及真实语言模型的实验都用了 Python，头条结果（Qwen3.5-0.8B 的 MATH-500 从 7.9% 升到 48.1%）还允许模型运行最多 50 批练习题，而同样方法在 Gemma 3 270M 上失败。他认为这证明的是 Astra 能完成人类 ML 工程师会做的调参任务，而非「看权重就懂网络」。反驳帖发出约 1 小时即上 HN 首页。信号：AI 能力宣传与独立复核之间的张力加大，「可解释性/权重编辑」类成果的可信度审查会成为热议话题。",
+   "links": [
+    "https://honnibal.dev/blog/astra-read-write-misleading",
+    "https://news.ycombinator.com/item?id=50351111"
+   ],
+   "topic": "honnibal-astra-rebuttal",
+   "firstSeen": "2026-11-03T21:28:19+08:00"
   }
  ],
- "lastChecked": "2026-11-03T21:15:16+08:00"
+ "lastChecked": "2026-11-03T21:28:19+08:00"
 }
