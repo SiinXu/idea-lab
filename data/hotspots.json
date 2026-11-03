@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T20:29:31+08:00",
+ "lastUpdated": "2026-11-03T20:58:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29352,7 +29352,41 @@
    ],
    "topic": "revolut-self-hosted-glm",
    "firstSeen": "2026-11-03T20:29:31+08:00"
+  },
+  {
+   "id": "5135b04135",
+   "title": "《纽约时报》起诉 Brave：指其爬取 300 亿网页建索引、绕过付费墙，再把内容通过 Search API 卖给 Anthropic、Perplexity、xAI 等 AI 公司",
+   "summary": "《纽约时报》11 月 2 日在曼哈顿联邦法院起诉 Brave Software（72 页诉状），《纽约每日新闻》《芝加哥论坛报》《奥兰多哨兵报》同日另行起诉。诉状称 Brave 用无法屏蔽的爬虫建起 300 多亿网页的索引，通过 Ask Brave 复述报道、提供绕过付费墙的功能，并把 Brave Search API 卖给 Anthropic、Perplexity、Mistral、xAI、Cohere；时报称 2025 年 8 月和 2026 年 4 月两次发律师函未获回复。信号：AI 搜索 API 的版权风险从模型公司蔓延到数据供应商，合规内容授权、可追溯来源的检索 API、出版商反爬与授权变现工具有需求。",
+   "links": [
+    "https://nytco-assets.nytimes.com/2026/11/new-york-times-brave-complaint-11-2-26.pdf",
+    "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
+   ],
+   "topic": "nyt-sues-brave",
+   "firstSeen": "2026-11-03T20:58:23+08:00"
+  },
+  {
+   "id": "501fc1f61b",
+   "title": "Marvell 以全股票方式收购光模块厂 Lumentum：隐含企业价值 1150 亿美元，押注 AI 数据中心光互连",
+   "summary": "Marvell 与 Lumentum 11 月 2 日宣布达成最终协议：Lumentum 股东每股换 4.5 股 Marvell，隐含企业价值 1150 亿美元、约每股 1132 美元，较传闻前溢价约 23.9%；交易后 Marvell 股东占约 67%。双方称合并后可覆盖从数据中心之间到芯片封装内部的电、光信号链，目标年化成本协同超 10 亿美元，预计 2028 年上半年完成。这是 2026 年最大的 AI 基础设施并购之一，直接挑战博通。信号：硅光、共封装光学（CPO）和 AI 网络互连成为下一轮算力瓶颈与投资主线。",
+   "links": [
+    "https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity",
+    "https://www.cnbc.com/2026/11/02/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet-.html"
+   ],
+   "topic": "marvell-lumentum",
+   "firstSeen": "2026-11-03T20:58:23+08:00"
+  },
+  {
+   "id": "62ae9381c5",
+   "title": "Anthropic 推出 Messages API「消息线程」公测：长会话只需发送新消息，Claude Code 在 50 万到 100 万 token 请求上首字延迟中位数降约 35%",
+   "summary": "Anthropic 11 月 2 日公测 message threads：第一次请求带完整对话并加 thread 参数创建线程，之后每轮只发新消息和上一条回复的 id，服务器在内存中加密保存对话，5 分钟无请求即过期，需要重发全文重建。官方称 Claude Code 已对多数用户默认开启，50 万到 100 万 token 的请求首字延迟中位数下降约 35%；token 用量和价格不变，Claude 平台、AWS、Google Cloud、Microsoft Foundry 均可用，需带 beta 头 message-threads-2026-08-12。信号：长时运行的编码、电脑操作和文档类智能体可显著提速，智能体框架和 SDK 适配有机会。",
+   "links": [
+    "https://claude.com/resources/articles/message-threads",
+    "https://platform.claude.com/docs/en/build-with-claude/message-threads"
+   ],
+   "topic": "anthropic-message-threads",
+   "firstSeen": "2026-11-03T20:58:23+08:00"
   }
  ],
- "lastChecked": "2026-11-03T20:29:31+08:00"
+ "lastChecked": "2026-11-03T20:58:23+08:00"
 }
