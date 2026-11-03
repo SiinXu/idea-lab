@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T04:54:30+08:00",
+ "lastUpdated": "2026-11-04T05:16:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29917,7 +29917,28 @@
    ],
    "topic": "sk-hynix-china-equipment-approval-new-york-fab-snag",
    "firstSeen": "2026-11-04T04:54:30+08:00"
+  },
+  {
+   "id": "7b93706aaf",
+   "title": "Anthropic 开源 FlashProve：用零知识证明（zkSNARK）验证一条 AI 回复确实出自声称的模型，而不是被路由商偷换成便宜模型",
+   "summary": "Anthropic 前沿红队联合 EPFL、MIT 等发布「可证明推理」进展：模型提供方先承诺某个模型，再为每条回复生成密码学证明，用户可核验回复没有被中间商替换或篡改。信号：API 转售和模型路由越来越普遍，「这真的是 Claude/GPT 吗」的信任问题正在变成可验证的基础设施，模型审计与可信推理服务可能成为新赛道。",
+   "links": [
+    "https://www.anthropic.com/research/provable-inference",
+    "https://www.techmeme.com/261103/p31"
+   ],
+   "topic": "anthropic-flashprove-provable-inference-zksnark",
+   "firstSeen": "2026-11-04T05:16:06+08:00"
+  },
+  {
+   "id": "6a45b6e503",
+   "title": "AI 推理平台 Fal 融资 13 亿美元、估值翻倍至 160 亿美元，消息称年化收入已达 8 亿美元",
+   "summary": "托管图像、视频、音频生成模型的推理创业公司 Fal 宣布由 Bessemer 领投 13 亿美元，英伟达、T. Rowe Price 等跟投，估值从 4 月的 80 亿美元翻倍到 160 亿美元。信号：多模态生成的 API 调用量爆发，面向创作者和开发者的「模型托管 + 按量计费」推理层成为资本最追捧的 AI 基础设施之一。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-03/ai-inference-startup-fal-raises-capital-at-16-billion-valuation"
+   ],
+   "topic": "fal-raises-1-3b-16b-valuation",
+   "firstSeen": "2026-11-04T05:16:06+08:00"
   }
  ],
- "lastChecked": "2026-11-04T04:54:30+08:00"
+ "lastChecked": "2026-11-04T05:16:06+08:00"
 }
