@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T22:26:50+08:00",
+ "lastUpdated": "2026-11-03T22:45:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29430,7 +29430,31 @@
    ],
    "topic": "gpt-6-2-astra-routing-svg",
    "firstSeen": "2026-11-03T22:26:50+08:00"
+  },
+  {
+   "id": "855688c450",
+   "title": "Anthropic 修订版招股书风险提示：内部估计显示「可能即将」达到其安全政策定义的「AI 驱动的显著加速进步」，即递归自我改进门槛",
+   "summary": "TechCrunch 11 月 2 日发现，Anthropic 当天提交的 S-1/A 在风险因素里新增表述：基于对未来模型（而非现有模型）的内部估计，公司可能即将达到《负责任扩展政策》中「可归因于 AI 的显著加速进步」的定义（即 AI 让进步速度翻倍），并承认过去曾在加速发生后才察觉。公司称目前没有模型被认定越线，不打算在缺乏人类监督下让 Claude 全自主研发下一代模型，正考虑修订政策以「让人类掌控前沿模型研发」。Gizmodo 等跟进，HN 也在讨论；也有人指出招股书兼具披露与营销作用。信号：「RSI 是否临近」将成为 IPO 前后的舆论焦点，AI 安全与治理类解读内容会有一波流量。",
+   "links": [
+    "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+    "https://gizmodo.com/anthropic-claims-to-be-closing-in-on-recursive-self-improvement-2000834175",
+    "https://news.ycombinator.com/item?id=50351712"
+   ],
+   "topic": "anthropic-s1a-rsi-imminent",
+   "firstSeen": "2026-11-03T22:45:21+08:00"
+  },
+  {
+   "id": "23b7a50fd8",
+   "title": "加拿大部分省份 11 月 1 日起取消夏令时切换，微软全家桶时区没跟上：Outlook 会议错一小时，Power Automate 临时方案是假装身处波哥大",
+   "summary": "The Register 11 月 2 日报道：不列颠哥伦比亚、阿尔伯塔、曼尼托巴部分地区从 11 月 1 日起固定在 UTC-7、-6、-5，但微软多款产品尚未更新。Outlook 里 11 月 1 日后的既有会议可能偏差一小时，需手动改时区并更新会议，循环会议修改后还会重置已调整的单次安排；修复非循环会议的 Exchange Online PowerShell 命令本周晚些时候才出，循环会议修复无时间表；Power Automate、Fabric 暂时要把时区设成萨斯喀彻温、亚利桑那或波哥大；SharePoint 本地版要等到 11 月 10 日，Power Pages 修复目标 12 月 12 日。有管理员称为此写了约 900 行 PowerShell。信号：时区与日历迁移检查、批量修复会议的小工具有现成需求。",
+   "links": [
+    "https://www.theregister.com/software/2026/11/02/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/5306934",
+    "https://news.ycombinator.com/item?id=50351833"
+   ],
+   "topic": "canada-dst-microsoft-timezone",
+   "firstSeen": "2026-11-03T22:45:21+08:00"
   }
  ],
- "lastChecked": "2026-11-03T22:26:50+08:00"
+ "lastChecked": "2026-11-03T22:45:21+08:00"
 }
