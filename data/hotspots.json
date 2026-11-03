@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-03T17:15:22+08:00",
+ "lastUpdated": "2026-11-03T17:45:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -29248,7 +29248,18 @@
    ],
    "topic": "polyend-tracker-open-source",
    "firstSeen": "2026-11-03T17:15:22+08:00"
+  },
+  {
+   "id": "4c0db1cca2",
+   "title": "开发者分享 uBlock Origin 规则屏蔽 TechCrunch 文章内自动播放视频，HN 热帖 2 小时获 70 赞",
+   "summary": "cornfieldlabs 发文指出 TechCrunch 每篇文章中部都会自动播放 JW Player 视频，且仅隐藏后仍在后台运行，还会加载 Connatix 浮动广告播放器；作者给出一组 uBlock Origin 过滤规则，直接拦截 jwplatform、jwpcdn 和 connatix 脚本并隐藏空白占位（需 Firefox 上完整 MV2 版 uBO，Lite 版不行）。信号：读者对媒体站自动播放视频广告的反感持续发酵，「一键净化阅读」类浏览器扩展、规则订阅和阅读器工具仍有需求。",
+   "links": [
+    "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+    "https://news.ycombinator.com/item?id=50349155"
+   ],
+   "topic": "",
+   "firstSeen": "2026-11-03T17:45:01+08:00"
   }
  ],
- "lastChecked": "2026-11-03T17:15:22+08:00"
+ "lastChecked": "2026-11-03T17:45:01+08:00"
 }
