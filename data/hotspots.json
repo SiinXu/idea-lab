@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T20:57:08+08:00",
+ "lastUpdated": "2026-11-04T22:39:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30719,7 +30719,17 @@
    ],
    "topic": "debian-apt-mitm-rce-dsa-6607-2026-11",
    "firstSeen": "2026-11-04T20:57:08+08:00"
+  },
+  {
+   "id": "5af1b13004",
+   "title": "开源项目 kimi-k3-in-c 冲上 GitHub 趋势榜：用 176KB 纯 C99 代码在单 CPU、8GB 内存上跑 2.78 万亿参数的 Kimi K3",
+   "summary": "GitHub 仓库 FareedKhan-dev/kimi-k3-in-c 今日登上 GitHub Trending，Star 已超 1 万：作者用可移植 C99 实现 Kimi K3 推理，不依赖 BLAS、框架和 GPU，整个引擎仅 176KB。1.56TB 的权重放在磁盘上，每一步从磁盘流式读取，实测峰值内存 8.24GB；代价是速度极慢，8GB 笔记本约 26.5 秒出一个 token，128GB 以上内存的工作站约 5.6 秒。信号：「超大开源模型 + 极简本地推理」的极客玩法持续吸睛，适合做教学拆解、本地推理性能对比和低配硬件跑大模型的内容选题，但离实用还远。",
+   "links": [
+    "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+   ],
+   "topic": "kimi-k3-in-c-cpu-inference-trending-2026-11",
+   "firstSeen": "2026-11-04T22:39:14+08:00"
   }
  ],
- "lastChecked": "2026-11-04T20:57:08+08:00"
+ "lastChecked": "2026-11-04T22:39:14+08:00"
 }
