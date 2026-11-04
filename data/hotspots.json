@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T03:13:02+08:00",
+ "lastUpdated": "2026-11-05T03:28:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31171,7 +31171,27 @@
    ],
    "topic": "byd-brazil-market-share-9-7",
    "firstSeen": "2026-11-05T03:13:02+08:00"
+  },
+  {
+   "id": "bc5f8eebc0",
+   "title": "Meta 收编 AI 编程工作台 Conductor：云端版 11 月 13 日只读、20 日关停，本地版维护到 2027 年初",
+   "summary": "Conductor 是在 Mac 上并行调度多个 Claude Code / Codex 编码智能体的热门工作台。官方更新日志宣布团队加入 Meta 并逐步停运：Conductor Cloud 11 月 13 日转只读、20 日关闭，本地版到 2027 年初只做模型更新和关键修复，用户可把云端工作区转到本地或导出数据。继 OpenAI 收购 Pierre、Factory 连收两家之后，编码智能体工具链的并购潮还在加速。",
+   "links": [
+    "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta"
+   ],
+   "topic": "conductor-joins-meta",
+   "firstSeen": "2026-11-05T03:28:59+08:00"
+  },
+  {
+   "id": "0abf6b77f0",
+   "title": "Adobe 把营销智能体 CX Enterprise Coworker 塞进 ChatGPT、Claude、Gemini、Copilot：附现成 MCP 连接器",
+   "summary": "Adobe 宣布 CX Enterprise Coworker 已以插件或集成形式上线 ChatGPT、Claude、Databricks Genie、Gemini 企业版和 Microsoft Copilot，AWS、IBM、Snowflake 随后跟进；它基于 MCP 和 A2A 标准，可在对话里完成受众预测、客户旅程优化和活动效果分析。埃森哲、德勤、WPP 等集成商与广告集团已在其上搭建定制方案，企业软件「入驻大模型平台」成新分发路径。",
+   "links": [
+    "https://news.adobe.com/news/2026/11/adobe-integrates-agentic-cx-enterprise-coworker-into-ai-platforms"
+   ],
+   "topic": "adobe-cx-enterprise-coworker-ai-platforms",
+   "firstSeen": "2026-11-05T03:28:59+08:00"
   }
  ],
- "lastChecked": "2026-11-05T03:13:02+08:00"
+ "lastChecked": "2026-11-05T03:28:59+08:00"
 }
