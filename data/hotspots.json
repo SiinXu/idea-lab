@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T20:43:16+08:00",
+ "lastUpdated": "2026-11-04T20:57:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30707,7 +30707,19 @@
    ],
    "topic": "ieee-php2shell-ai-technical-debt-2026-11",
    "firstSeen": "2026-11-04T20:43:16+08:00"
+  },
+  {
+   "id": "a7a9c63910",
+   "title": "Debian 紧急修复 APT 包管理器漏洞：中间人可在校验通过后替换软件包，以 root 身份执行任意代码",
+   "summary": "Debian 于 11 月 4 日发布安全公告 DSA-6607-1（CVE-2026-109518）：研究员 Max Justicz 发现，APT 在 HTTP 重定向让两个不同下载指向同一 URI 时会把它们合并，而断点续传时的文件处理不当，使中间人攻击者能在签名校验之后偷换软件包，最终以 root 权限执行任意代码。稳定版 trixie 已在 apt 3.0.4 修复，同时修补了若干越界访问问题，官方建议立即升级。公告发布不久即上 HN。信号：大量服务器、容器镜像和 CI 流水线依赖 apt，镜像重建与供应链安全扫描需求会在短期内集中出现；Ubuntu 等下游发行版的跟进补丁值得关注。",
+   "links": [
+    "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
+    "https://security-tracker.debian.org/tracker/apt",
+    "https://news.ycombinator.com/item?id=50364814"
+   ],
+   "topic": "debian-apt-mitm-rce-dsa-6607-2026-11",
+   "firstSeen": "2026-11-04T20:57:08+08:00"
   }
  ],
- "lastChecked": "2026-11-04T20:43:16+08:00"
+ "lastChecked": "2026-11-04T20:57:08+08:00"
 }
