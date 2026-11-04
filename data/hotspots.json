@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T02:01:15+08:00",
+ "lastUpdated": "2026-11-05T02:15:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31057,7 +31057,37 @@
    ],
    "topic": "openai-gpt-6-2-friday-report",
    "firstSeen": "2026-11-05T02:01:15+08:00"
+  },
+  {
+   "id": "123c92213e",
+   "title": "民主党横扫中期选举后美股科技巨头反涨：投资者押注国会将给烧钱的 AI 资本开支踩刹车",
+   "summary": "据彭博，民主党拿下国会后，大型科技股股价走高，市场认为新国会可能放慢吞噬现金流的 AI 基建投入，反而利好巨头利润；与此同时 CoreWeave 等 AI 基建股承压，分化明显。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend"
+   ],
+   "topic": "big-tech-rally-dem-sweep-ai-capex",
+   "firstSeen": "2026-11-05T02:15:51+08:00"
+  },
+  {
+   "id": "bb32c9673e",
+   "title": "Uber 三季度营收增 10% 至 148 亿美元、总预订额增 20%，计划 2027 年把自动驾驶车队扩到 2000 辆以上",
+   "summary": "Uber 三季度出行次数增 16% 至 41 亿次，同时宣布加速自动驾驶布局；此前 Waymo 刚表示将在 2028 年结束与 Uber 的独家合作，Robotaxi 平台之争升温。",
+   "links": [
+    "https://www.ft.com/content/2fc1bfc2-4d16-4eb2-a8d4-eaef4f4571af"
+   ],
+   "topic": "uber-q3-2026-av-fleet",
+   "firstSeen": "2026-11-05T02:15:51+08:00"
+  },
+  {
+   "id": "ab542773cb",
+   "title": "英国 AI 大臣下调预期：到 2030 年 AI 仅为经济增加 550–1400 亿英镑，远低于官方此前宣传的 4000 亿",
+   "summary": "据 Wired，英国官员长期引用的「AI 将带来 4000 亿英镑」主要来自谷歌主导的报告；AI 大臣 Kanishka Narayan 如今给出的区间大幅缩水，引发对政府 AI 叙事依赖大厂数据的质疑。",
+   "links": [
+    "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/"
+   ],
+   "topic": "uk-ai-economy-estimate-cut",
+   "firstSeen": "2026-11-05T02:15:51+08:00"
   }
  ],
- "lastChecked": "2026-11-05T02:01:15+08:00"
+ "lastChecked": "2026-11-05T02:15:51+08:00"
 }
