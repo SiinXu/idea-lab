@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T09:59:47+08:00",
+ "lastUpdated": "2026-11-04T10:32:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30212,7 +30212,27 @@
    ],
    "topic": "apple-watch-audio-intelligence-privacy",
    "firstSeen": "2026-11-04T09:59:47+08:00"
+  },
+  {
+   "id": "97952f7b10",
+   "title": "AI 购物智能体实测频频翻车：旧金山用户晒 AutoZone 订单被取消、Sephora 结账被拦，称「代理电商」像 Theranos",
+   "summary": "X 热议：一位旧金山科技从业者分享截图，AI 购物智能体在 AutoZone、Sephora 下单时因风控、虚拟卡和收货地址不一致被取消或拦截，只有 Buck Mason 一单成功；《纽约时报》Mike Isaac 等人认为「智能体电商」是没有明确需求的方案，也有人称在 Golden Goose 等网站体验顺畅。信号：零售商风控和平台封堵仍是智能体代购的最大障碍，给智能体发可信身份、支付凭证并对接商家风控，是比「再做一个购物 Agent」更实际的切入点。",
+   "links": [
+    "https://x.com/i/trending/2117800670241636773"
+   ],
+   "topic": "ai-shopping-agents-fail-real-tests",
+   "firstSeen": "2026-11-04T10:32:41+08:00"
+  },
+  {
+   "id": "c5d7b5252e",
+   "title": "开发者反思「AI 代码审查」：Lauren Tan 称对抗式审查智能体总盯琐碎风格和臆想边界情况，已在 pstack 中缩减该功能，转向真实测试验证",
+   "summary": "前 Cursor / React 核心成员 Lauren Tan（@poteto）在 X 发帖称，让智能体做对抗式代码审查常常纠结风格细节、编造边界情况，浪费 token 又抓不到真问题，因此在自己的 pstack 工具里降低了这一环节，改为让智能体写针对性实验和测试来验证。不少工程师附和「智能体只测代码写成了什么，而不是本该做什么」；Warp 等团队则加了风险门槛，只有高风险改动才触发完整审查。信号：AI 审查正从「全量挑刺」转向按风险分级、以测试为证据。",
+   "links": [
+    "https://x.com/i/trending/2117795192107315543"
+   ],
+   "topic": "ai-code-review-rethink",
+   "firstSeen": "2026-11-04T10:32:41+08:00"
   }
  ],
- "lastChecked": "2026-11-04T09:59:47+08:00"
+ "lastChecked": "2026-11-04T10:32:41+08:00"
 }
