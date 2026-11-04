@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T07:00:06+08:00",
+ "lastUpdated": "2026-11-05T07:08:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31392,7 +31392,18 @@
    ],
    "topic": "citrini-peak-ai-infra-capex",
    "firstSeen": "2026-11-05T07:00:06+08:00"
+  },
+  {
+   "id": "ad486aacca",
+   "title": "HN 热帖《现在一切都是 AI 骗局》：AI 生成的虚假广告和「读过你书」的定制垃圾邮件绕过平台审核",
+   "summary": "英国作者 David Ralph Lewis 的文章登上 Hacker News 首页（约 100 分）。他列举 YouTube 上满是 AI 生成的离谱广告（20 天练成肌肉的太极课、能自动适配任何度数的眼镜、书本大小却能 90 秒冷却任何房间的空调），并指出垃圾邮件已能假装认真读过你的作品来推销服务；平台只要有人付钱就放行，骗子只需骗到极少数人就能回本。信号：广告与邮件的真伪核验、面向创作者的诈骗识别工具存在需求，「可验证真实」正在变成卖点。",
+   "links": [
+    "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+    "https://news.ycombinator.com/item?id=50371508"
+   ],
+   "topic": "everything-is-an-ai-scam-now",
+   "firstSeen": "2026-11-05T07:08:47+08:00"
   }
  ],
- "lastChecked": "2026-11-05T07:00:06+08:00"
+ "lastChecked": "2026-11-05T07:08:47+08:00"
 }
