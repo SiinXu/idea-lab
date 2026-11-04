@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T17:43:46+08:00",
+ "lastUpdated": "2026-11-04T17:56:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30562,7 +30562,18 @@
    ],
    "topic": "rtx-spark-laptop-linux-firmware-throttle",
    "firstSeen": "2026-11-04T17:43:46+08:00"
+  },
+  {
+   "id": "439f4c32ef",
+   "title": "GitHub 出现重大故障：Pull Requests 部分中断，Git 操作、Issues 和 Actions 性能下降，官方状态页标为「major」",
+   "summary": "北京时间 11 月 4 日 17:49 左右，GitHub 官方状态页发布事故「Incident with Pull Requests, Git Operations and Issues」，影响等级为 major：Pull Requests 进入部分中断，Git Operations、Issues 和 Actions 均出现性能下降，官方称仍在排查原因。几分钟内 HN 就出现「Tell HN: GitHub Is Down」帖子。依赖 GitHub 的 CI/CD、自动部署和编码智能体流水线可能受影响；可关注状态页恢复进展，也是讨论多代码托管备份、自建 Git 镜像和 CI 容灾方案的现成时机。",
+   "links": [
+    "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+    "https://news.ycombinator.com/item?id=50363274"
+   ],
+   "topic": "github-outage-2026-11-04-pr-git-ops",
+   "firstSeen": "2026-11-04T17:56:01+08:00"
   }
  ],
- "lastChecked": "2026-11-04T17:43:46+08:00"
+ "lastChecked": "2026-11-04T17:56:01+08:00"
 }
