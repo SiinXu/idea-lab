@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T07:45:39+08:00",
+ "lastUpdated": "2026-11-05T07:55:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31436,7 +31436,29 @@
    ],
    "topic": "moneyprinterturbo-ai-short-video",
    "firstSeen": "2026-11-05T07:45:39+08:00"
+  },
+  {
+   "id": "0a437d67f2",
+   "title": "OpenAI 发布 Images 2.6：生图提速 50%，一句话出 GIF 动图，API 支持局部标注修改、SVG 导出和「复杂度」参数",
+   "summary": "OpenAI 今天在 ChatGPT、Codex 和 API 上线 Images 2.6，所有订阅档全球可用。生成速度比上一版快 50%；API 分两款：GPT-Image-2.6 Flare 低质量档最快约 6 秒出图、海报和产品图排版更好，Sunburst 主打高质量和多轮编辑中角色、产品、品牌细节保持一致。新增 GIF 动图（品牌吉祥物、表情包、动画分镜），API 新增图片标注定位修改、SVG 导出，以及控制模型规划力度的 complexity 参数。官方称全平台每周生成约 40 亿张图，OpenArt、Figma Weave 已接入。信号：GIF 表情包/吉祥物动图生成、SVG 矢量素材和品牌一致性素材流水线是可以马上做的小工具方向。",
+   "links": [
+    "https://openai.com/index/introducing-images-2-6/",
+    "https://news.ycombinator.com/item?id=50372945"
+   ],
+   "topic": "openai-images-2-6",
+   "firstSeen": "2026-11-05T07:55:52+08:00"
+  },
+  {
+   "id": "a4f4c423c5",
+   "title": "OpenAI 用自动化漏洞流水线一次挖出 948 个 Linux 内核提权漏洞并生成补丁，总花费约 121 万美元 API 额度",
+   "summary": "OpenAI 网络安全团队公开一条「发现—复现—评估可利用性—生成补丁—人工复核」的全自动流水线：10 月中旬用即将发布的网络安全模型扫描最新 Linux 内核，2308 个候选问题中复现 1724 个，做出 948 个独立的本地提权（普通用户拿 root）漏洞及对应补丁，平均每个约 1279 美元；按 Pwn2Own 等历史赏金估算价值是成本的 16–55 倍。比 7 月 GPT-5.6 Sol 那次多找出 5 倍以上，还用到至少 10 种新利用技巧；已在通过 Patch the Planet 计划向维护者陆续提交报告和补丁。官方提醒：未及时打补丁的低权限账号近期应视同 root。信号：AI 自动打补丁、补丁对抗审查、沙箱隔离和「及时更新」类安全服务需求会上升。",
+   "links": [
+    "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+    "https://news.ycombinator.com/item?id=50372929"
+   ],
+   "topic": "openai-948-linux-lpe-pipeline",
+   "firstSeen": "2026-11-05T07:55:52+08:00"
   }
  ],
- "lastChecked": "2026-11-05T07:45:39+08:00"
+ "lastChecked": "2026-11-05T07:55:52+08:00"
 }
