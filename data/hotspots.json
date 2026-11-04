@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T07:09:22+08:00",
+ "lastUpdated": "2026-11-05T07:22:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31414,7 +31414,18 @@
    ],
    "topic": "horizon-ai-news-radar",
    "firstSeen": "2026-11-05T07:09:22+08:00"
+  },
+  {
+   "id": "1f03c87007",
+   "title": "Scenario 开源 AI 创作技能包冲上 GitHub 日榜：让智能体自动选模型、先报价再生成图片/视频/3D，还能驱动 Blender、Unreal、Unity",
+   "summary": "scenario-labs/skills 今天在 GitHub Trending 日榜单日新增约 220 星，总星数约 2400。这套技能通过 Scenario MCP 让 Claude Code 等智能体按需求挑选合适的图像、视频、音频、3D 模型，生成前先估算费用，并保持角色和品牌风格一致；另有专家团队式技能可操控 Blender、Maya、ZBrush、Unreal 和 Unity。信号：「智能体 + 创意资产流水线」正在成型，做面向游戏/电商的素材生成工作流、技能模板市场或按用量计费的代生成服务都有机会。",
+   "links": [
+    "https://github.com/scenario-labs/skills",
+    "https://www.skills.sh/scenario-labs/skills"
+   ],
+   "topic": "scenario-ai-creative-skills",
+   "firstSeen": "2026-11-05T07:22:55+08:00"
   }
  ],
- "lastChecked": "2026-11-05T07:09:22+08:00"
+ "lastChecked": "2026-11-05T07:22:55+08:00"
 }
