@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T17:56:01+08:00",
+ "lastUpdated": "2026-11-04T18:25:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30573,7 +30573,18 @@
    ],
    "topic": "github-outage-2026-11-04-pr-git-ops",
    "firstSeen": "2026-11-04T17:56:01+08:00"
+  },
+  {
+   "id": "4f34cfd871",
+   "title": "Ubuntu 22.04 自动安全更新把 HAProxy 升级后，大量请求报 502：CVE 补丁回移植误伤正常的分块（chunked）响应",
+   "summary": "Launchpad 上新报告的回归问题（Bug #2172897）：Ubuntu 22.04 的 unattended-upgrades 自动装上 haproxy 2.4.30-0ubuntu0.22.04.3（安全更新 USN-8972-1）后，经 HAProxy 转发的请求约 50–70% 间歇性返回 502，日志终止状态为 PHNN，凡是后端用 HTTP/1.1 分块传输的（Apache/PHP、Node.js、git smart-HTTP）都受影响；回退到 .2 版本立即恢复。报告者分析是 CVE 补丁在 h1_parse_msg_data() 里新增的判断把「下一段 chunk 长度行没和数据一起读到」误判为解析错误。用 22.04 + HAProxy 做反向代理且开着自动更新的服务应先检查日志，必要时暂时锁定旧版本，等官方修复。",
+   "links": [
+    "https://bugs.launchpad.net/ubuntu/+source/haproxy/+bug/2172897",
+    "https://news.ycombinator.com/item?id=50363142"
+   ],
+   "topic": "ubuntu-haproxy-usn-8972-1-502-regression",
+   "firstSeen": "2026-11-04T18:25:31+08:00"
   }
  ],
- "lastChecked": "2026-11-04T17:56:01+08:00"
+ "lastChecked": "2026-11-04T18:25:31+08:00"
 }
