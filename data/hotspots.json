@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T22:53:35+08:00",
+ "lastUpdated": "2026-11-04T23:44:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30740,7 +30740,33 @@
    ],
    "topic": "us-ballot-measures-reject-data-centers-2026-11",
    "firstSeen": "2026-11-04T22:53:35+08:00"
+  },
+  {
+   "id": "3a06f84c0f",
+   "title": "OpenAI 宣布收购 Pierre Computer：把 Git 存储服务 Code Storage 并入 Codex，直接叫板 GitHub",
+   "summary": "OpenAI 11 月 4 日宣布收购 Pierre Computer Company，交易金额未披露、尚待监管批准。Pierre 的 Trees、Diffs 开源库已用在 Codex 应用里浏览文件和审阅改动，新发布的 Highlights 是可随智能体流式输出实时更新的语法高亮器；其 Code Storage 是「为机器设计 API 的 Git 分布式存储」，据 AI Weekly 报道已被 Lovable、Bolt、Amp 等 AI 建站/编程产品采用。OpenAI 计划把 Code Storage 功能并入 Codex，开源项目继续开源。Axios 评论称这是 OpenAI 在智能体编程时代挑战微软 GitHub 的又一步，距其公开自研 Git 后端 Pando 仅两天。信号：面向智能体的代码托管、代码审阅和版本管理基础设施正成为大厂争夺点，独立的 Git API、审阅 UI 组件和 GitHub 替代方案有新机会，也有被大厂收编的风险。",
+   "links": [
+    "https://openai.com/index/openai-to-acquire-pierre",
+    "https://www.axios.com/2026/11/04/openai-pierre-computer-github",
+    "https://x.com/pierrecomputer/status/2117999036175188183",
+    "https://news.ycombinator.com/item?id=50366863"
+   ],
+   "topic": "openai-acquires-pierre-computer",
+   "firstSeen": "2026-11-04T23:44:58+08:00"
+  },
+  {
+   "id": "cda7531761",
+   "title": "AMD 指引四季度营收约 170 亿美元，有望史上首次单季营收超过英特尔",
+   "summary": "AMD 11 月 3 日公布财报时给出四季度营收指引约 170 亿美元（±3%），同比增约 66%；英特尔此前给出的四季度指引为 150–160 亿美元。按 FourWeekMBA 的计算，AMD 指引下限约 164.9 亿美元仍高于英特尔上限，若双方都落在区间内，将是 2009 年以来 69 个可比季度中 AMD 首次营收超过英特尔。Tom's Hardware 指出，AMD 数据中心收入预计从三季度 85.5 亿美元升至约 128 亿美元，由 MI455X 加速器和 Helios 整机柜拉动，而英特尔仍依赖受内存涨价和缺货拖累的 PC 业务。信号：AI 算力需求正在改写芯片行业格局，围绕 AMD 生态（ROCm 适配、迁移工具、非英伟达推理部署）的内容和服务需求会继续升温。",
+   "links": [
+    "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+    "https://fourweekmba.com/ai-amds-q4-guide-floor-of-16-5b-tops-intels-16b-ceiling/",
+    "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results",
+    "https://news.ycombinator.com/item?id=50367125"
+   ],
+   "topic": "amd-outsell-intel-q4-2026",
+   "firstSeen": "2026-11-04T23:44:58+08:00"
   }
  ],
- "lastChecked": "2026-11-04T22:53:35+08:00"
+ "lastChecked": "2026-11-04T23:44:58+08:00"
 }
