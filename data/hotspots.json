@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T15:54:43+08:00",
+ "lastUpdated": "2026-11-04T16:32:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30494,7 +30494,18 @@
    ],
    "topic": "tencent-hy4-official",
    "firstSeen": "2026-11-04T15:54:43+08:00"
+  },
+  {
+   "id": "0cc5c3278f",
+   "title": "美国中期选举冲击 AI 板块：主张「数据中心暂停令」的民主党人希诺霍萨赢下得州州长，CoreWeave 盘前跌 7%、纳指 100 期货跌 0.8%",
+   "summary": "CNBC 报道：11 月 3 日美国中期选举中，民主党人 Gina Hinojosa 据美联社预测击败现任得州州长 Abbott，她公开支持对 AI 数据中心实行暂停令。富国银行估算全美规划中的数据中心吉瓦容量有 27% 在得州，此前已把「民主党赢得得州」视为 AI 交易的左尾风险。消息传出后纳指 100 期货跌 0.8%，科技 ETF XLK 在 Robinhood 夜盘跌 2%，CoreWeave 跌 7%、SpaceX 跌 6%、Nebius 与 Oracle 各跌约 4%。民主党还预计拿下或保住佐治亚、宾州、俄亥俄等数据中心大州州长职位。信号：数据中心从地方招商工具变成选举负资产，算力选址、电力与审批风险上升，利好能效优化、边缘推理和「少用算力」的产品叙事。",
+   "links": [
+    "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+    "https://news.ycombinator.com/item?id=50362274"
+   ],
+   "topic": "texas-governor-data-center-ai-stocks-2026-11",
+   "firstSeen": "2026-11-04T16:32:02+08:00"
   }
  ],
- "lastChecked": "2026-11-04T15:54:43+08:00"
+ "lastChecked": "2026-11-04T16:32:02+08:00"
 }
