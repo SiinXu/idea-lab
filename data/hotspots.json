@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T19:53:30+08:00",
+ "lastUpdated": "2026-11-04T20:28:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30673,7 +30673,30 @@
    ],
    "topic": "apple-10k-ai-agent-risk",
    "firstSeen": "2026-11-04T19:53:30+08:00"
+  },
+  {
+   "id": "ad43431822",
+   "title": "冷链黑客攻击升级到血库：法国血液中心（EFS）冷库被远程改到 110°C，值班技术员及时发现才保住血浆",
+   "summary": "11 月 1 日至 2 日夜间，为法国血液中心 EFS 提供冷库运维的服务商 Coolworld 遭入侵，攻击者把三处站点原本 -30°C 的冷库温度和除霜阈值远程改到 110°C，库里存着输血用血浆和献血者监测样本。值班技术员发现温度异常并及时处置，EFS 称无血液制品损失、无健康影响，ANSSI 和卫生部正在调查。这是继法国、比利时、瑞典、爱尔兰超市冷柜被黑之后，同一波针对联网制冷控制器（Danfoss、Dixell、Copeland）的攻击首次波及医疗冷链。适合做冷链/楼宇控制器公网暴露自检工具、医疗与食品冷链安全合规清单、OT 设备异常温度告警等产品或内容。",
+   "links": [
+    "https://apnews.com/article/france-plasma-blood-bank-cyberattack-temperature-fridge-12b80bcf93b8404264209e519c204919",
+    "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/une-cyberattaque-touche-des-installations-frigorifiques-utilisees-par-l-etablissement-francais-du-sang-sans-impact-sur-les-echantillons-conserves_8267426.html",
+    "https://www.numerama.com/cyberguerre/2367257-apres-les-supermarches-une-cyberattaque-menace-les-reserves-de-plasma-de-letablissement-francais-du-sang.html"
+   ],
+   "topic": "france-efs-blood-bank-cold-storage-hack-2026-11",
+   "firstSeen": "2026-11-04T20:28:12+08:00"
+  },
+  {
+   "id": "8ef46f0a6d",
+   "title": "Synaptics 发律师函逼停开源 DisplayLink 驱动：AI 辅助、Rust 编写的逆向驱动 Vino 仓库已从 GitHub 下架",
+   "summary": "Phoronix 11 月 4 日报道：今年早些时候出现的实验性开源 Linux 驱动 Vino，用净室逆向方式支持新款 DisplayLink USB 显示设备，部分代码由 AI 协助完成、用 Rust 编写。DisplayLink 母公司 Synaptics 以专利侵权为由向开发者发出停止侵权函，相关往来信件已贴在 Linux 内核邮件列表（LKML），Vino 的 GitHub 仓库随后不再公开。这意味着新款 DisplayLink 扩展坞短期内不会有上游开源驱动。信号：AI 加速逆向工程后，厂商用专利和法律手段反制的情况可能增多，开源硬件兼容与专利风险评估值得关注。",
+   "links": [
+    "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+    "https://news.ycombinator.com/item?id=50363968"
+   ],
+   "topic": "synaptics-vino-displaylink-legal-threat",
+   "firstSeen": "2026-11-04T20:28:12+08:00"
   }
  ],
- "lastChecked": "2026-11-04T19:53:30+08:00"
+ "lastChecked": "2026-11-04T20:28:12+08:00"
 }
