@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T03:46:57+08:00",
+ "lastUpdated": "2026-11-05T04:02:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31202,7 +31202,18 @@
    ],
    "topic": "ricursive-ripple-65b-preview",
    "firstSeen": "2026-11-05T03:46:57+08:00"
+  },
+  {
+   "id": "a377aac66f",
+   "title": "Ladybird 浏览器 10 月大更新：样式与布局搬离主线程、自研 JS JIT 和新 Wasm 引擎，WPT 通过数反超 Safari 技术预览版",
+   "summary": "独立浏览器 Ladybird 10 月把样式、布局和绘制移到独立线程，JS 长时间阻塞时 CSS 动画和 :hover 仍能响应，官方称目前没有其他浏览器做到；LibJS 新增面向 x86-64/AArch64 的推测优化 JIT，新的 Rust 版 WebAssembly 引擎在 JetStream 3 Wasm 负载上快约 7 倍。10 月 26 日其 Web Platform Tests 通过数超过 Safari Technology Preview，月底达 218 万子测试，其中大部分增量来自让 AI 编程智能体批量补齐缺失功能。同时上线全新浏览器界面、按站点隔离进程，首个 alpha 版计划年内发布。",
+   "links": [
+    "https://ladybird.org/newsletter/2026-10-31/",
+    "https://news.ycombinator.com/item?id=50369194"
+   ],
+   "topic": "ladybird-october-2026-jit-wpt",
+   "firstSeen": "2026-11-05T04:02:05+08:00"
   }
  ],
- "lastChecked": "2026-11-05T03:46:57+08:00"
+ "lastChecked": "2026-11-05T04:02:05+08:00"
 }
