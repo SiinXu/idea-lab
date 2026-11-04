@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T10:32:41+08:00",
+ "lastUpdated": "2026-11-04T10:38:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30232,7 +30232,37 @@
    ],
    "topic": "ai-code-review-rethink",
    "firstSeen": "2026-11-04T10:32:41+08:00"
+  },
+  {
+   "id": "862da63845",
+   "title": "开发者集体吐槽 Claude Opus 5.5「变笨」：后端重度用户把它从首选降到「B 级」，独立基准却显示性能没明显下滑",
+   "summary": "多名 Opus 5.5 重度用户在 X 上反映模型近几周输出忽好忽坏，开发者 Mia 称后端任务错误太多已不再依赖它，主持人 Leo Laporte 也说感觉被「削弱」；也有人指出这是大模型新版本发布前的熟悉套路。截至 10 月底的独立基准测试并未发现明显退化，上下文长度、服务器负载等可能才是体感波动原因。信号：模型「体感稳定性」正成为付费开发者选型的新维度，第三方持续监测与多模型切换工具有需求。",
+   "links": [
+    "https://x.com/i/trending/2117783529434104198"
+   ],
+   "topic": "opus-55-reliability-complaints",
+   "firstSeen": "2026-11-04T10:38:44+08:00"
+  },
+  {
+   "id": "8125024b7c",
+   "title": "Altman 发帖强调「人类必须始终掌控 AI 的未来」，Chollet 附和 AI 应增强而非取代人的能动性，网友翻出他「内存给数据中心」旧账玩梗",
+   "summary": "OpenAI CEO Sam Altman 在 X 发帖称，无论 AI 多强大，都要由人来决定接下来的走向，避免把权力交给超级智能。Keras 作者 François Chollet 表示认同，认为 AI 应提升人的能动性；评论区则夹杂大量调侃，把它和他此前「家用电脑闲置内存是浪费」的言论联系起来。信号：AI 头部人物在监管与 IPO 季密集表态「人类主导」，相关叙事和产品定位（人在回路、可控智能体）会更受关注。",
+   "links": [
+    "https://x.com/i/trending/2117797928127300016"
+   ],
+   "topic": "altman-human-control-post",
+   "firstSeen": "2026-11-04T10:38:44+08:00"
+  },
+  {
+   "id": "d8097a02a7",
+   "title": "前 OpenAI 智能体后训练研究员 Bill Chen 加入 a16z，任基础设施团队研究合伙人，主攻 AI 硬核技术难题",
+   "summary": "Bill Chen 曾在 OpenAI 智能体后训练团队参与 GPT-6 评测，也是 YC 公司 RiskAngle（用 AI 摘要病历）的创始人。他 11 月 3 日确认加入 Andreessen Horowitz 基础设施团队任研究合伙人，Martin Casado、Matt Bornstein 等合伙人纷纷发帖欢迎，他也邀请开发者联系。信号：顶级 VC 继续从前沿实验室挖研究员做技术尽调，AI 基础设施仍是投资重点。",
+   "links": [
+    "https://x.com/i/trending/2117805936266100769"
+   ],
+   "topic": "bill-chen-joins-a16z",
+   "firstSeen": "2026-11-04T10:38:44+08:00"
   }
  ],
- "lastChecked": "2026-11-04T10:32:41+08:00"
+ "lastChecked": "2026-11-04T10:38:44+08:00"
 }
