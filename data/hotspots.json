@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T16:32:02+08:00",
+ "lastUpdated": "2026-11-04T17:01:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30505,7 +30505,31 @@
    ],
    "topic": "texas-governor-data-center-ai-stocks-2026-11",
    "firstSeen": "2026-11-04T16:32:02+08:00"
+  },
+  {
+   "id": "c03b94e05a",
+   "title": "Canva 确认 Affinity 正在开发 Linux 版：免费的「Adobe 替代」全家桶补齐最后一个主流桌面平台",
+   "summary": "Affinity 官方 X 账号 11 月 2 日回应用户称 Linux 版「正在积极开发」，暂无发布时间，The Verge、heise、Neowin 等跟进报道，HN 热议。Affinity 被 Canva 收购后已合并为矢量、像素、排版一体的免费应用，本周刚上线 iPad 版；目前 Linux 用户只能靠 Wine 社区安装器或 AppImage，登录、硬件加速和缩放都有问题。是原生还是 Wine 封装尚未公布。信号：专业设计工具向 Linux 迁移的最后障碍在松动，Linux 设计工作流、PSD/AI 文件兼容迁移指南和插件生态有内容与工具机会。",
+   "links": [
+    "https://www.theverge.com/design/1025107/the-adobe-rivalling-affinity-creative-suite-is-coming-to-linux",
+    "https://www.heise.de/en/news/Affinity-is-coming-to-Linux-11509499.html",
+    "https://twitter.com/Affinity/status/2117276850795790442",
+    "https://news.ycombinator.com/item?id=50362245"
+   ],
+   "topic": "affinity-linux-in-development-2026-11",
+   "firstSeen": "2026-11-04T17:01:32+08:00"
+  },
+  {
+   "id": "388573bd50",
+   "title": "业余天文爱好者用 Claude Code、Codex 筛 12.6 万颗恒星找到疑似新系外行星，MIT 批准 TESS 11 月复测，结果月底揭晓",
+   "summary": "Gizmodo 报道：西班牙的产品经理 Pavel Rabtsevich 没有天文训练，用 Claude Code、Codex 等 AI 工具反复迭代分析 TESS 公开数据，锁定 116 光年外的 TIC 4206066，发现每 3.18 天一次的亮度下降，推测是约 1.4 倍地球大小的行星，并跑了 74 项反证测试。MIT 已批准 TESS 在 10 月 31 日至 11 月 26 日重点观测该恒星，他提前公开了预测凌星时间。该文今日登上 HN。信号：「AI 智能体 + 公开科学数据」让业余者做出可验证的科研发现，公民科学工具、数据集向导和可复现分析模板是值得做的方向。",
+   "links": [
+    "https://gizmodo.com/did-claude-help-an-amateur-astronomer-discover-a-new-planet-2000824393",
+    "https://news.ycombinator.com/item?id=50362860"
+   ],
+   "topic": "claude-amateur-exoplanet-tess-2026",
+   "firstSeen": "2026-11-04T17:01:32+08:00"
   }
  ],
- "lastChecked": "2026-11-04T16:32:02+08:00"
+ "lastChecked": "2026-11-04T17:01:32+08:00"
 }
