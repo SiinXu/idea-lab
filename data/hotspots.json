@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T04:42:59+08:00",
+ "lastUpdated": "2026-11-05T04:55:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31257,7 +31257,29 @@
    ],
    "topic": "kagi-open-letter-google-k12-search-ai-ransom",
    "firstSeen": "2026-11-05T04:42:59+08:00"
+  },
+  {
+   "id": "4a095289e3",
+   "title": "印度 3000 万粉 YouTuber Dhruv Rathee 晒 AI Fiesta 首年成绩：零融资营收 4.7 亿卢比、10 万付费用户，推出 2.0",
+   "summary": "AI Fiesta 2025 年 8 月上线，把 100 多个大模型及图像、视频、PPT、深度研究、建站工具打包进一个订阅（每月 999 卢比起）。Rathee 在周年视频中称首年营收约 4.7 亿卢比（强调是营收不是利润，API 和服务器成本占大头）、付费用户超 10 万、处理消息 9000 万条，团队从 9 人增至 27 人且未拿外部投资；同时推出面向开发者的 AI 网关，一个 API Key 调 1000+ 模型、号称比直连便宜最多 40%。话题登上 X 热门，「多模型聚合订阅 + 网红分发」在新兴市场被验证可行。",
+   "links": [
+    "https://www.youtube.com/watch?v=Y7xBrVl82rA",
+    "https://x.com/i/trending/2118054556709822849"
+   ],
+   "topic": "ai-fiesta-first-year-47-crore-bootstrapped",
+   "firstSeen": "2026-11-05T04:55:29+08:00"
+  },
+  {
+   "id": "dfb909010f",
+   "title": "新公司 Polished Snow 低调出隐身推出 Case：常驻在企业系统里的 AI 运维智能体，「替人守夜」",
+   "summary": "Polished Snow 官网称 Case 会运行在客户现有系统内部，持续监控、提前发现问题并接手日常维护，让工程师不必熬夜盯系统、把精力留给没人做过的难题。发布没有给出基准或客户名单，X 热门汇总称已有芯片设计和机器人公司日常使用，目前通过邮件候补名单逐步开放。「AI 运维/值守智能体」正成为编码智能体之后的下一个热门赛道。",
+   "links": [
+    "https://plsn.ai/",
+    "https://x.com/i/trending/2118008775663820877"
+   ],
+   "topic": "polished-snow-case-ai-maintenance-agent",
+   "firstSeen": "2026-11-05T04:55:29+08:00"
   }
  ],
- "lastChecked": "2026-11-05T04:42:59+08:00"
+ "lastChecked": "2026-11-05T04:55:29+08:00"
 }
