@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T14:59:37+08:00",
+ "lastUpdated": "2026-11-04T15:14:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30459,7 +30459,29 @@
    ],
    "topic": "ai-24h-3d-game",
    "firstSeen": "2026-11-04T14:59:37+08:00"
+  },
+  {
+   "id": "2fc1e68caf",
+   "title": "Show HN：HackerTV 把 HN 最常推荐的 YouTube 视频做成 24 小时轮播电视台，按主题分频道，用 Claude Code 几小时搭成",
+   "summary": "开发者 Danny Salzman 在 HackerTube（从 19 年 HN 评论里挖出的高推荐 YouTube 视频库）基础上做了 HackerTV：仿老式电视遥控器界面，按主题分成 DEVTV、SOLDER、RETRO、ORBIT 等频道，另有 Top 400 精选台、音乐台，以及只在当地时间晚 11 点到早 5 点播出的「深夜档」。所有人同一时刻看到同一节目，主打「算法疲劳」下的被动观看。内容每周从新 HN 评论自动更新，用 Claude 打标签。帖子冲上 HN 首页、约 280 分。信号：把社区口碑数据做成「线性频道」是低成本的内容策展新形态，可复制到任意社区或垂直领域。",
+   "links": [
+    "https://hackertv.org",
+    "https://news.ycombinator.com/item?id=50346755"
+   ],
+   "topic": "hackertv-hn-channels",
+   "firstSeen": "2026-11-04T15:14:38+08:00"
+  },
+  {
+   "id": "9968f772fa",
+   "title": "Open Athena 长文：后训练没有「数据公地」——预训练靠维基、GitHub、Common Crawl 白捡，智能体 RL 需要的「任务」却得一件件制造",
+   "summary": "开源模型团队 Open Athena 的 David Hall 撰文指出：预训练消耗的是文档，人类几十年积累的维基百科、开源代码、Stack Exchange、arXiv 和 Common Crawl 构成了现成公地；而后训练、尤其是智能体强化学习，消耗的是「任务」，需要同时保存环境、意图、工具和评分器，这类数据几乎没有公共积累。软件因版本控制、CI、容器等天然可复现，所以 AI 智能体最先攻下编程，但把代码仓库变成 RL 任务更像「制造」而非清洗。文章登上 HN 首页并引发讨论。信号：可复现的任务环境与评分器会成为新稀缺资产，「RL 环境/任务数据」生意和开源任务库值得关注。",
+   "links": [
+    "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+    "https://news.ycombinator.com/item?id=50352641"
+   ],
+   "topic": "posttraining-data-commons",
+   "firstSeen": "2026-11-04T15:14:38+08:00"
   }
  ],
- "lastChecked": "2026-11-04T14:59:37+08:00"
+ "lastChecked": "2026-11-04T15:14:38+08:00"
 }
