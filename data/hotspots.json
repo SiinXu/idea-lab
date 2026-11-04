@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T20:28:12+08:00",
+ "lastUpdated": "2026-11-04T20:43:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30696,7 +30696,18 @@
    ],
    "topic": "synaptics-vino-displaylink-legal-threat",
    "firstSeen": "2026-11-04T20:28:12+08:00"
+  },
+  {
+   "id": "68c44263a0",
+   "title": "IEEE Spectrum 评论《PHP2Shell 预示网络安全地狱》登 HN 热榜：AI 正逼着行业偿还 40 年的技术债",
+   "summary": "IEEE Spectrum 计算与硬件编辑 Dina Genkina 撰文复盘 10 月底的 PHP2Shell 漏洞：WordPress、Drupal 等大量 PHP 网站（包括 NASA、维基百科、白宫官网）一度面临读取敏感数据和远程执行代码的风险，好在由安全研究人员先发现并报告给 PHP 基金会。文中引用安全创业公司 Tolmo 的 AI 安全研究负责人 Matt Suiche 的话：过去 40 年人类写的遗留软件正被 AI 大规模暴露，「现在是偿还技术债的时候了」。文章发布后在 HN 不到 1 小时即获 120+ 分。信号：AI 挖洞让老旧代码库成为高风险资产，遗留系统审计、自动修补和依赖盘点类工具需求可能上升。",
+   "links": [
+    "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "https://news.ycombinator.com/item?id=50364336"
+   ],
+   "topic": "ieee-php2shell-ai-technical-debt-2026-11",
+   "firstSeen": "2026-11-04T20:43:16+08:00"
   }
  ],
- "lastChecked": "2026-11-04T20:28:12+08:00"
+ "lastChecked": "2026-11-04T20:43:16+08:00"
 }
