@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T04:17:38+08:00",
+ "lastUpdated": "2026-11-05T04:42:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31246,7 +31246,18 @@
    ],
    "topic": "icloud-public-link-harmful-content-scan",
    "firstSeen": "2026-11-05T04:17:38+08:00"
+  },
+  {
+   "id": "0c2fadcbb2",
+   "title": "Kagi 发公开信炮轰谷歌：K-12 学校想关 AI 就得连搜索一起关，是「拿教育当人质」，顺势推出默认关 AI 的 Kagi 教育版",
+   "summary": "谷歌此前宣布明年起 K-12 教育账号默认关闭 AI 工具，但搜索会一并关闭；遭反弹后虽允许单独开启搜索，搜索仍绑着 AI 概览等功能。付费搜索引擎 Kagi 发文批评这是绑架教育，强调学生需要在检索与思考的「摩擦」中学习，并推出无广告、AI 默认关闭、可由学校管控的 Kagi for Education。该文登上 Hacker News 热门，教育场景的「AI 可选」或成新的产品卖点。",
+   "links": [
+    "https://blog.kagi.com/education-should-not-be-held-for-ransom",
+    "https://news.ycombinator.com/item?id=50369657"
+   ],
+   "topic": "kagi-open-letter-google-k12-search-ai-ransom",
+   "firstSeen": "2026-11-05T04:42:59+08:00"
   }
  ],
- "lastChecked": "2026-11-05T04:18:22+08:00"
+ "lastChecked": "2026-11-05T04:42:59+08:00"
 }
