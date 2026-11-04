@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T17:22:34+08:00",
+ "lastUpdated": "2026-11-04T17:43:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30551,7 +30551,18 @@
    ],
    "topic": "kitty-0-50",
    "firstSeen": "2026-11-04T17:22:34+08:00"
+  },
+  {
+   "id": "771d04f9d1",
+   "title": "实测：英伟达 RTX Spark 笔记本装 Linux 后本地大模型推理只剩 Windows 的约 1/5——电源固件表加密、只有 Windows 驱动能解，插电时 GPU 被锁在约 780 MHz",
+   "summary": "MindStudio 产品总监在 MSI Prestige N16 Flip AI Plus（RTX Spark 笔记本）上双系统实测，帖子登上 HN 新帖榜。Linux 能装、能用英伟达开源驱动做 GPU 加速，但负责 CPU/GPU 供电调度的「Nvidia Platform Controllers and Framework」只有 Windows 版，其电源表固件是加密的，导致 Linux 插电时 GPU 频率锁在约 780 MHz（Windows 约 2.2 GHz）。跑 GPT-OSS-120B：Windows 65.4 tok/s、WSL 65.1、DGX Spark 61，原生 Linux 只有 13.9。另外 96GB 统一内存划给 GPU 的比例只能在 Windows 里改。结论：目前用 WSL 跑 vLLM 等 Linux 工具最实际，真正修复要等英伟达把电源管理逻辑移植进 Linux 驱动。对本地 AI 开发者选机、写教程和做对比评测是现成选题。",
+   "links": [
+    "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+    "https://news.ycombinator.com/item?id=50362905"
+   ],
+   "topic": "rtx-spark-laptop-linux-firmware-throttle",
+   "firstSeen": "2026-11-04T17:43:46+08:00"
   }
  ],
- "lastChecked": "2026-11-04T17:22:34+08:00"
+ "lastChecked": "2026-11-04T17:43:46+08:00"
 }
