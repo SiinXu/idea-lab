@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T11:09:25+08:00",
+ "lastUpdated": "2026-11-04T11:33:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30282,7 +30282,38 @@
    ],
    "topic": "el-sayed-ai-under-control",
    "firstSeen": "2026-11-04T11:09:25+08:00"
+  },
+  {
+   "id": "a04a448906",
+   "title": "C++26 国际标准投票首次被否决：ISO 成员国 DIS 投票未达三分之二，主要分歧在「契约（Contracts）」特性",
+   "summary": "C++ 标准委员会德国代表 Andreas Fertig 11 月 3 日撰文披露：10 月 23 日结束、为期 12 周的 C++26 DIS（国际标准草案）投票结果为「不通过」，据他所知这是 C++ 史上首次 DIS 被否，此前唯一先例是 2006 年的 C++/CLI 规范（后被叫停）。从各国提交的意见看，否决原因很明确：多国认为 Contracts 契约特性尚未成熟。文章登上 HN 首页并引发讨论。信号：C++26 发布时间可能推迟，Contracts 去留和标准化流程成焦点；依赖 C++26 新特性的编译器、工具链和培训内容需要重新评估节奏。",
+   "links": [
+    "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+    "https://news.ycombinator.com/item?id=50360164"
+   ],
+   "topic": "cpp26-dis-disapproved",
+   "firstSeen": "2026-11-04T11:33:25+08:00"
+  },
+  {
+   "id": "9579797318",
+   "title": "Ethan Mollick 用 Pangram 测 X 上的「AI 水军回复」：8 个可疑账号各取 5 条评论，全部被判为 AI 生成",
+   "summary": "沃顿教授 Ethan Mollick 抓取了在同一条帖子下刷屏的 8 个可疑账号，把每个账号的 5 条评论合并后交给 AI 文本检测器 Pangram，结果 100% 被标为 AI 或疑似 AI，而人类写的对照文本得分为 0%。其他用户也复现了类似结果，但 Pangram 自己提示短于 150 词的文本可靠性较低。信号：社交平台 AI 刷评泛滥，账号级聚合检测比单条检测更可靠，评论区反垃圾、品牌舆情清洗类工具有机会。",
+   "links": [
+    "https://x.com/i/trending/2117786369267495092"
+   ],
+   "topic": "mollick-pangram-reply-bots",
+   "firstSeen": "2026-11-04T11:33:25+08:00"
+  },
+  {
+   "id": "cf0c8dd824",
+   "title": "「Vibe Coding」争议升温：投资人 Christoph Janz 呼吁停用这个词，安全漏洞、数据泄露和骗局让「AI 写完不审」受质疑",
+   "summary": "X 上围绕 vibe coding（向 Claude、Cursor 等描述需求、几乎不审就接受 AI 代码）的争论再起：一个几乎无法正常递增的 React 计数器截图成了反例，Point Nine 合伙人 Christoph Janz 建议废除这个说法，另有人指出投资人开始对「vibe coded」产品保持警惕，AI 生成应用中被发现数据泄露等漏洞。支持者仍看重它做原型的速度，但共识是只要涉及真实用户或收入，就必须有人工审查和测试。信号：AI 代码审计、上线前安全扫描、「原型转生产」服务需求在上升。",
+   "links": [
+    "https://x.com/i/trending/2117542314197528688"
+   ],
+   "topic": "vibe-coding-term-backlash",
+   "firstSeen": "2026-11-04T11:33:25+08:00"
   }
  ],
- "lastChecked": "2026-11-04T11:09:25+08:00"
+ "lastChecked": "2026-11-04T11:33:25+08:00"
 }
