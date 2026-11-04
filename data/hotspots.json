@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T09:10:02+08:00",
+ "lastUpdated": "2026-11-04T09:46:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30168,7 +30168,31 @@
    ],
    "topic": "arkane-studios-bidders",
    "firstSeen": "2026-11-04T09:10:02+08:00"
+  },
+  {
+   "id": "36c2950c44",
+   "title": "《胜利女神：NIKKE》PC 启动器遭供应链攻击：官方 CDN 文件被篡改近 6 周，植入远控木马窃取浏览器凭据、SSH 密钥与 28 种加密钱包",
+   "summary": "安全研究者在 GitHub 公开分析：Level Infinite（腾讯旗下）官方 CDN 上 4 个启动器自动下载的文件自 9 月 27 日起被植入恶意代码，最晚 10 月 24 日起可在玩家电脑上运行远控代理，可截屏、搜文件、窃取浏览器保存的账号、云服务与开发者密钥及加密钱包；自查方法是在 Launcher/intl_service/debug.log 中搜索 k2f_chan。11 月 4 日部分文件已被替换，但官方尚未声明。信号：游戏/应用启动器与 CDN 成为新的供应链攻击入口，「启动器与更新文件完整性监控」「玩家端自查工具」「开发者密钥泄露应急」类安全产品与内容有需求。",
+   "links": [
+    "https://gist.github.com/MotherSphere/d6c049a09ba8ac3085c51ee9df24a4e5",
+    "https://www.invenglobal.com/articles/28112/goddess-of-victory-nikke-pc-launcher-allegedly-compromised",
+    "https://news.ycombinator.com/item?id=50356922"
+   ],
+   "topic": "nikke-launcher-supply-chain-attack",
+   "firstSeen": "2026-11-04T09:46:48+08:00"
+  },
+  {
+   "id": "b4b8b35010",
+   "title": "GenProof 开源 QuickProof：用写单元测试的方式写 C 规格，AI 自动生成 Rocq 证明，已在 111 个开源项目挖出 352 个 bug，包括 Anthropic 称「已形式化验证」的库",
+   "summary": "GenProof 发布 QuickProof：开发者用一小段 C 程序写出库应满足的性质，工具把它转成 Rocq/VST 定理，由 AI 智能体写证明、Rocq 检查，证不出来时就给出可复现的 bug。团队称已在 OpenSSL、Linux 内核、zstd、Redis、nginx、curl 等 111 个项目发现 352 个问题，其中 133 个已修复，并对比了 Anthropic 与 Theorem 的 OSS-Verify 结果。信号：AI 让形式化证明变便宜，瓶颈转向「写规格」，面向 AI 生成代码的自动验证与找 bug 服务是新机会。",
+   "links": [
+    "https://www.genproof.com/blog/quickproof",
+    "https://bugs.genproof.com/",
+    "https://github.com/genproof"
+   ],
+   "topic": "genproof-quickproof",
+   "firstSeen": "2026-11-04T09:46:48+08:00"
   }
  ],
- "lastChecked": "2026-11-04T09:10:02+08:00"
+ "lastChecked": "2026-11-04T09:46:48+08:00"
 }
