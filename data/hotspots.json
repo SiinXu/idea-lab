@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T00:24:25+08:00",
+ "lastUpdated": "2026-11-05T00:38:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30847,7 +30847,40 @@
    ],
    "topic": "msecure-password-manager-breach",
    "firstSeen": "2026-11-05T00:24:25+08:00"
+  },
+  {
+   "id": "0d26f2d06d",
+   "title": "AI 智能体数据安全公司 Sentra 完成 1.5 亿美元 C 轮融资，Capital One Ventures 领投：专管「智能体能碰到哪些企业数据」",
+   "summary": "SiliconANGLE 11 月 4 日报道：Sentra 新融 1.5 亿美元，累计融资超 2.5 亿美元，称过去一年业务增长 300% 以上。平台对企业静态数据做定制分类，并画出「哪些人、服务账号和 AI 智能体能访问哪份数据」的身份图谱（含继承权限）；清理没必要暴露的陈旧高危数据、按最小权限收紧访问，智能体越界读取敏感数据时自动告警并可自动撤权，事后给法务合规出一份「智能体可能触达的全部数据」记录，分析全程在客户环境内完成。CEO Yoav Regev 称智能体是「企业数据最忙的消费者」。信号：智能体权限治理正在成为独立的安全赛道，资本开始重注。",
+   "links": [
+    "https://siliconangle.com/2026/11/04/sentra-raises-150m-to-control-what-ai-agents-can-reach-in-corporate-data/",
+    "https://www.techmeme.com/261104/p27#a261104p27"
+   ],
+   "topic": "sentra-150m-ai-agent-data-security",
+   "firstSeen": "2026-11-05T00:38:29+08:00"
+  },
+  {
+   "id": "99eee0796c",
+   "title": "Revolut 估值升至 1150 亿美元：老股转让价较一年前涨 53%，计划 2027 年上半年在美国开银行",
+   "summary": "TechCrunch 11 月 4 日报道：Glade Brook、Coatue、Durable、T. Rowe Price、Baillie Gifford 等领投 Revolut 老股转让，估值 1150 亿美元（一年前为 750 亿美元），本轮不为公司带来新资金。Revolut 零售客户超 8000 万、覆盖 40 多国，今年在英国、墨西哥、澳大利亚、新西兰开出银行，并拿到法国、哥伦比亚、阿根廷牌照；已获美国货币监理署有条件批准设立全国性银行，计划 2027 年上半年开业。2025 年营收 60 亿美元、利润率 38%，企业银行业务约占毛利 20%。前一天它刚把约 2000 名工程师的默认编程模型换成自托管 GLM。",
+   "links": [
+    "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+    "https://www.techmeme.com/261104/p33#a261104p33"
+   ],
+   "topic": "revolut-115b-valuation-us-bank",
+   "firstSeen": "2026-11-05T00:38:29+08:00"
+  },
+  {
+   "id": "e36fa9850a",
+   "title": "OPay 定价数小时后叫停 3 亿美元美股 IPO：据报中国监管在最后关头提出问询",
+   "summary": "据彭博社援引知情人士 11 月 4 日报道：总部在新加坡、主营尼日利亚市场的支付公司 OPay，在为其约 3 亿美元的美国 IPO 定价后仅数小时就暂停发行，原因是中国监管机构在最后时刻提出问询。OPay 此前披露上半年营收同比增长 137%，IPO 估值约 40 亿美元。信号：有中国背景的出海金融科技公司赴美上市，仍可能在最后一步卡在国内监管。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry",
+    "https://www.techmeme.com/261104/p34#a261104p34"
+   ],
+   "topic": "opay-halts-us-ipo-china-inquiry",
+   "firstSeen": "2026-11-05T00:38:29+08:00"
   }
  ],
- "lastChecked": "2026-11-05T00:24:25+08:00"
+ "lastChecked": "2026-11-05T00:38:29+08:00"
 }
