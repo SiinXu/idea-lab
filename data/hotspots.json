@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T07:22:55+08:00",
+ "lastUpdated": "2026-11-05T07:45:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31425,7 +31425,18 @@
    ],
    "topic": "scenario-ai-creative-skills",
    "firstSeen": "2026-11-05T07:22:55+08:00"
+  },
+  {
+   "id": "9a11ceca27",
+   "title": "老牌开源项目 MoneyPrinterTurbo 重回 GitHub 日榜：输入一个主题，AI 一键生成带字幕配音的高清短视频",
+   "summary": "harry0703/MoneyPrinterTurbo 今天在 GitHub Trending 日榜单日新增约 615 星，总星数约 13.9 万，MIT 协议。它用大模型写文案、自动配素材、合成配音和字幕并渲染成竖屏/横屏短视频；10 月 21 日的 v1.3.9 新增了 `mpt` pip 包（`mpt webui` / `mpt cli` 一行启动）和图片缓慢缩放特效。信号：「主题进、成片出」的短视频流水线门槛继续下降，做垂直赛道的批量内容号、按条计费的代生成服务或面向小商家的模板化短视频工具仍有空间，但同质化内容也会更快被平台降权。",
+   "links": [
+    "https://github.com/harry0703/MoneyPrinterTurbo",
+    "https://github.com/harry0703/MoneyPrinterTurbo/releases/tag/v1.3.9"
+   ],
+   "topic": "moneyprinterturbo-ai-short-video",
+   "firstSeen": "2026-11-05T07:45:39+08:00"
   }
  ],
- "lastChecked": "2026-11-05T07:22:55+08:00"
+ "lastChecked": "2026-11-05T07:45:39+08:00"
 }
