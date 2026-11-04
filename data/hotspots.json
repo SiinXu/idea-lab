@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T01:13:24+08:00",
+ "lastUpdated": "2026-11-05T01:27:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30982,7 +30982,50 @@
    ],
    "topic": "circle-q3-2026-layoffs",
    "firstSeen": "2026-11-05T01:13:24+08:00"
+  },
+  {
+   "id": "e3debe447f",
+   "title": "Pangram 发布 Pangram Image 1.0：号称 AI 图片与视频检测最强，可用热力图定位图中 AI 生成区域",
+   "summary": "AI 文本检测公司 Pangram 11 月 4 日把图像检测从研究预览升级为正式版 Pangram Image 1.0，主打识别前沿生成模型、热力图标出 AI 区域、抗编辑/压缩/低分辨率；同时推出更小的 Image Flash 1.0 专做 AI 视频检测，提供 Chrome 插件和 API。信号：AI 内容鉴别正从文本扩展到图像和视频，成为平台审核和媒体核查的刚需工具。",
+   "links": [
+    "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+    "https://www.techmeme.com/261104/p43#a261104p43"
+   ],
+   "topic": "pangram-image-1-0",
+   "firstSeen": "2026-11-05T01:27:26+08:00"
+  },
+  {
+   "id": "670a4ed7d5",
+   "title": "据彭博：Tron、Tether、币安与 TRM Labs 合组的「T3 金融犯罪小组」已于 8 月悄悄解散，此前冻结约 2.5 亿美元资产",
+   "summary": "Bloomberg 11 月 4 日援引知情人士称，几家加密巨头为打击链上非法资金而设立的 T3 Financial Crime Unit 因响应速度慢已在 8 月解散，期间累计冻结约 2.5 亿美元。信号：行业自律式反洗钱联盟难以持续，链上合规与追踪工具的市场反而更依赖专业公司和监管。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle",
+    "https://www.techmeme.com/261104/p38#a261104p38"
+   ],
+   "topic": "t3-fcu-dissolved",
+   "firstSeen": "2026-11-05T01:27:26+08:00"
+  },
+  {
+   "id": "e5e6237f87",
+   "title": "智能电视系统 Titan OS 融资 4600 万美元（股权+债务），累计融资 1.1 亿美元，靠广告和免费流媒体频道变现",
+   "summary": "TechCrunch 11 月 4 日报道：巴塞罗那的 Titan OS 获 BlackRock 旗下基金债务融资及 Highland Europe、Mangrove 跟投，共 4600 万美元，将扩张到更多国家。它给电视厂商装系统，通过广告和 FAST（免费广告支持流媒体）分成让厂商多赚钱，已覆盖约 3000 万台设备。",
+   "links": [
+    "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/"
+   ],
+   "topic": "titan-os-46m",
+   "firstSeen": "2026-11-05T01:27:26+08:00"
+  },
+  {
+   "id": "d8032e238f",
+   "title": "新系统编程语言 Evergreen 上 HN 热榜：把前置条件、不变量写进代码由编译器证明，号称「比 C 强、比 Rust 更安全」",
+   "summary": "Evergreen 提供显式内存布局、所有权与借用，同时让 preconditions/postconditions/数据不变量成为编译器要检查的证明义务，证明代码在编译后被擦除、不影响性能；官网带在线 Playground。HN 讨论热度上升，代表「可证明安全」语言在 AI 写代码时代的新尝试。",
+   "links": [
+    "https://evergreenlang.net",
+    "https://news.ycombinator.com/item?id=50366919"
+   ],
+   "topic": "evergreen-lang",
+   "firstSeen": "2026-11-05T01:27:26+08:00"
   }
  ],
- "lastChecked": "2026-11-05T01:13:24+08:00"
+ "lastChecked": "2026-11-05T01:27:26+08:00"
 }
