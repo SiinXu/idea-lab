@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T12:42:48+08:00",
+ "lastUpdated": "2026-11-04T13:11:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30383,7 +30383,19 @@
    ],
    "topic": "levels-300-month-costs-claude-code",
    "firstSeen": "2026-11-04T12:42:48+08:00"
+  },
+  {
+   "id": "f2e8429acc",
+   "title": "Bryan Johnson 力推 Epic「Curiosity」医疗大模型：用 1.18 亿患者、1150 亿条就诊事件预训练，可模拟病人未来病程",
+   "summary": "Epic 联合微软研究院和耶鲁发布的 Curiosity 是一组纯解码器 Transformer，最大 10 亿参数，在 Epic Cosmos 去标识化病历上预训练，像大模型续写文本一样逐条生成「下一个医疗事件」，从而推演患者未来的诊断、并发症和住院时长。论文在 78 项真实临床与运营任务上测试，无需微调就普遍追平或超过专用模型，且性能随数据和算力呈幂律提升。Bryan Johnson 转发称「医学归根到底是算力问题」，引发兴奋与「生物学远比计算复杂」的争论。信号：医疗领域的「规模定律」被验证，病历时序数据成为下一个基础模型战场，面向医院运营预测、保险风控和个人健康管理的应用层机会随之打开。",
+   "links": [
+    "https://x.com/i/trending/2117841763507326997",
+    "https://arxiv.org/abs/2508.12104",
+    "https://www.epic.com/epic/post/curiosity-a-new-medical-intelligence-for-clinical-and-operational-insights/"
+   ],
+   "topic": "epic-curiosity-medical-event-model",
+   "firstSeen": "2026-11-04T13:11:02+08:00"
   }
  ],
- "lastChecked": "2026-11-04T12:42:48+08:00"
+ "lastChecked": "2026-11-04T13:11:02+08:00"
 }
