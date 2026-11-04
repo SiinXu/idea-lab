@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T22:39:14+08:00",
+ "lastUpdated": "2026-11-04T22:53:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30729,7 +30729,18 @@
    ],
    "topic": "kimi-k3-in-c-cpu-inference-trending-2026-11",
    "firstSeen": "2026-11-04T22:39:14+08:00"
+  },
+  {
+   "id": "a8fa4bd3ef",
+   "title": "美国中期选举多地公投否决数据中心：9 州 30 多个地方通过禁令或暂停令，AI 基建遭遇民意反噬",
+   "summary": "Semafor 11 月 4 日报道：在 11 月 3 日的美国选举中，9 个州 30 多个地方的选民投票通过了针对数据中心的暂停令、禁令和其他限制措施，部分直接针对在建项目。佛州 Edgewater 以压倒性票数把数据中心禁令写入城市宪章，俄亥俄州 Perry 通过措施，对申请税收优惠的超大规模云厂商加设财务和运营约束。报道称本轮有 130 多场联邦和州长竞选投放了反科技或反数据中心广告，此前力挺 AI 的得州州长 Abbott 转而承诺加强监管，但仍然落选。为 AI 基建融资的银行和资管机构已开始把地方反对视为信用风险，云厂商在抢招社区联络人，并尝试把数据中心改称「算力园区」。信号：AI 数据中心的选址、能耗和社区关系正成为政治与融资风险，地方政策追踪、选址风险评估和社区沟通类工具与内容有需求。",
+   "links": [
+    "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+    "https://news.ycombinator.com/item?id=50365982"
+   ],
+   "topic": "us-ballot-measures-reject-data-centers-2026-11",
+   "firstSeen": "2026-11-04T22:53:35+08:00"
   }
  ],
- "lastChecked": "2026-11-04T22:39:14+08:00"
+ "lastChecked": "2026-11-04T22:53:35+08:00"
 }
