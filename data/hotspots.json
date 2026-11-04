@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T14:16:17+08:00",
+ "lastUpdated": "2026-11-04T14:47:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30428,7 +30428,18 @@
    ],
    "topic": "webgpu",
    "firstSeen": "2026-11-04T14:16:17+08:00"
+  },
+  {
+   "id": "27a269c748",
+   "title": "Show HN：LLM 侦探游戏「Uncracked City」——在真实城市里审问会撒谎的 AI 嫌疑人，支持语音提问与六种语言",
+   "summary": "BNT Technologies 发布侦探游戏 Uncracked City：每个案件设定在真实城市街区，玩家搜查地点、用打字或语音自由提问，由 LLM 驱动的嫌疑人用各自的声音回答且其中一人会撒谎，玩家需拿线索对质揭穿谎言并提交报告（仅三次机会）。游戏支持英、法、西、德、意、葡六种语言，免账号游玩，并展示每个案件「已破解人数」，即将上架 App Store 与 Google Play。信号：「会撒谎的 AI 角色 + 开放式自然语言审问」是 LLM 原生游戏的清晰玩法，配合真实城市与节日限定案件（如万圣节 Salem 案）可持续做内容运营，适合小团队用 AI 快速复制到推理、教学、语言学习等场景。",
+   "links": [
+    "https://uncracked.city",
+    "https://news.ycombinator.com/item?id=50358352"
+   ],
+   "topic": "ai-games",
+   "firstSeen": "2026-11-04T14:47:17+08:00"
   }
  ],
- "lastChecked": "2026-11-04T14:16:17+08:00"
+ "lastChecked": "2026-11-04T14:47:17+08:00"
 }
