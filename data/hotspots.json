@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T02:46:42+08:00",
+ "lastUpdated": "2026-11-05T02:55:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31139,7 +31139,17 @@
    ],
    "topic": "factory-acquires-humanlayer",
    "firstSeen": "2026-11-05T02:46:42+08:00"
+  },
+  {
+   "id": "232504c7c4",
+   "title": "小鹏联合北大、港大开源 4B 视觉感知模型 GroundingPI：34 项感知基准平均 73.68 分，自评超过 GPT-6 Astra",
+   "summary": "GroundingPI 专注让物理 AI 准确识别物体及其空间位置，约 40 亿参数，在 11 类能力、34 项感知基准上拿下 44 个基线模型中的最高综合分；仿真中提升了机器人操作表现和训练数据效率。论文、权重和代码已公开，但结果仍基于仿真与离线评测，尚不代表可直接商用。",
+   "links": [
+    "https://www.xpeng.com/pressroom/news/01a1a60de92ba181a8f48a02aa970133"
+   ],
+   "topic": "xpeng-groundingpi-open-perception-model",
+   "firstSeen": "2026-11-05T02:55:30+08:00"
   }
  ],
- "lastChecked": "2026-11-05T02:46:42+08:00"
+ "lastChecked": "2026-11-05T02:55:30+08:00"
 }
