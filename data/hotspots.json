@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T07:43:18+08:00",
+ "lastUpdated": "2026-11-04T08:09:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30117,7 +30117,17 @@
    ],
    "topic": "tiktok-reverse-engineering-retention-25-models",
    "firstSeen": "2026-11-04T07:43:18+08:00"
+  },
+  {
+   "id": "2b40bf8ede",
+   "title": "Sentry 创始人 David Cramer：求职者得知面试禁用 AI 后直接退出，他称这种心态「迟早失业」，引发 AI 时代面试规则之争",
+   "summary": "Sentry 联合创始人 David Cramer 在 X 上分享，一名候选人得知技术评估环节不允许使用 AI 工具后放弃了面试流程。他强调高薪技术岗看重的是领域专长，而不只是写提示词的能力。工程师和招聘经理在回复中争论：有人认为这是候选人自我筛选，也有人主张面试应允许并考察 AI 协作。Sentry 表示目前仍禁用 AI，但计划替换部分环节、逐步把 AI 纳入考核。信号：「AI 时代如何面试工程师」成为招聘方与求职者的共同痛点，AI 协作型面试题库、评估工具和求职辅导内容存在机会。",
+   "links": [
+    "https://x.com/i/trending/2117755305429696899"
+   ],
+   "topic": "sentry-interview-ai-ban",
+   "firstSeen": "2026-11-04T08:09:44+08:00"
   }
  ],
- "lastChecked": "2026-11-04T07:43:18+08:00"
+ "lastChecked": "2026-11-04T08:09:44+08:00"
 }
