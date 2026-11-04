@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T03:28:59+08:00",
+ "lastUpdated": "2026-11-05T03:46:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31191,7 +31191,18 @@
    ],
    "topic": "adobe-cx-enterprise-coworker-ai-platforms",
    "firstSeen": "2026-11-05T03:28:59+08:00"
+  },
+  {
+   "id": "96eddcc208",
+   "title": "芯片设计 AI 公司 Ricursive 开源 Ripple-65B Preview：650 亿参数稠密模型拿下美国开源权重智能体编程 SOTA，全部研发成本仅 3200 万美元",
+   "summary": "Ricursive Intelligence 从零训练的 Ripple-65B Preview 在 TerminalBench 2.1 拿到 80.52 分，超过 Reflection Beam 501B、Meta Muse Spark Open 816B 等大得多的美国开源模型；12 万亿 token 预训练、支持 100 万上下文，选择稠密 Transformer 而非 MoE，强化学习只用约 140 万次 rollout。官方称总研发成本约为此前同类 SOTA 的十分之一，可在 DGX Spark 等本地设备运行，已上线 Hugging Face、Together AI、OpenRouter 等平台。",
+   "links": [
+    "https://www.ricursive.com/ripple",
+    "https://news.ycombinator.com/item?id=50369925"
+   ],
+   "topic": "ricursive-ripple-65b-preview",
+   "firstSeen": "2026-11-05T03:46:57+08:00"
   }
  ],
- "lastChecked": "2026-11-05T03:28:59+08:00"
+ "lastChecked": "2026-11-05T03:46:57+08:00"
 }
