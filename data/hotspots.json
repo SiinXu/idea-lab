@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T02:55:30+08:00",
+ "lastUpdated": "2026-11-05T03:13:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31149,7 +31149,29 @@
    ],
    "topic": "xpeng-groundingpi-open-perception-model",
    "firstSeen": "2026-11-05T02:55:30+08:00"
+  },
+  {
+   "id": "aed4d9c60c",
+   "title": "Go 1.27 正式转正 encoding/json/v2 与 jsontext：反序列化最高快 10 倍，默认拒绝非法 UTF-8 和重复键",
+   "summary": "Go 官方博客宣布，筹备约 6 年的新 JSON 包 encoding/json/v2 和 encoding/json/jsontext 在 Go 1.27 中稳定可用。新版默认更严格也更安全：拒绝非法 UTF-8 和重复字段名，nil 切片/映射输出为空数组/对象，字段匹配改为区分大小写；新增真正流式的 MarshalJSONTo / UnmarshalJSONFrom 接口，Unmarshal 基准最高快约 10 倍。旧版 v1 底层改由 v2 实现并继续兼容，可按选项逐步迁移。",
+   "links": [
+    "https://go.dev/blog/jsonv2",
+    "https://news.ycombinator.com/item?id=50369106"
+   ],
+   "topic": "go-1-27-encoding-json-v2-stable",
+   "firstSeen": "2026-11-05T03:13:02+08:00"
+  },
+  {
+   "id": "be94897db3",
+   "title": "据彭博：比亚迪巴西本地工厂投产一年后，在巴西汽车市场份额翻倍至 9.7%",
+   "summary": "彭博报道，比亚迪在巴西开设本地工厂约一年后，市场份额翻了一倍，达到 9.7%。中国车企通过海外本地化生产规避关税、抢占新兴市场的打法再获验证，该话题登上 HN 热榜引发讨论。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed",
+    "https://news.ycombinator.com/item?id=50369146"
+   ],
+   "topic": "byd-brazil-market-share-9-7",
+   "firstSeen": "2026-11-05T03:13:02+08:00"
   }
  ],
- "lastChecked": "2026-11-05T02:55:30+08:00"
+ "lastChecked": "2026-11-05T03:13:02+08:00"
 }
