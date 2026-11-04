@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T13:30:13+08:00",
+ "lastUpdated": "2026-11-04T14:16:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30417,7 +30417,18 @@
    ],
    "topic": "fujifilm-lto-tape-5x-ai-archive",
    "firstSeen": "2026-11-04T13:30:13+08:00"
+  },
+  {
+   "id": "5ded7db5c8",
+   "title": "Three.js 作者 mrdoob 开启 Codevember 2026：首个作品「Jelly Sheet」用 WebGPU 模拟可拖拽的半透明塑料膜，冲上 HN 首页",
+   "summary": "Three.js 作者 Mr.doob（Ricardo Cabello）在 GitHub Pages 发布 Codevember 2026 第 1 天作品「Fold / Jelly Sheet」：基于 three.js r187 的 WebGPU 与 TSL 着色语言，渲染一张无限折叠的半透明塑料薄膜，用户可拖动布料、按空格暂停。作品在 Hacker News 获得约 70 分，评论称「好玩、让人停留」，也有人希望支持手机陀螺仪、能把膜撕开，并反馈 Firefox 移动端报错无法运行。信号：WebGPU 与 TSL 已足以支撑零依赖的单页物理交互小品，「每日一个创意交互」的 Codevember 式挑战适合用来做站点首屏灵感与引流内容，但要做好浏览器兼容降级。",
+   "links": [
+    "https://mrdoob.github.io/codevember-2026/01/",
+    "https://news.ycombinator.com/item?id=50361268"
+   ],
+   "topic": "webgpu",
+   "firstSeen": "2026-11-04T14:16:17+08:00"
   }
  ],
- "lastChecked": "2026-11-04T13:30:13+08:00"
+ "lastChecked": "2026-11-04T14:16:17+08:00"
 }
