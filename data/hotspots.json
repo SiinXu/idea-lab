@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T12:32:54+08:00",
+ "lastUpdated": "2026-11-04T12:42:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30373,7 +30373,17 @@
    ],
    "topic": "anam-ai-teacher-seventeen-fail",
    "firstSeen": "2026-11-04T12:32:54+08:00"
+  },
+  {
+   "id": "92f3d59d8c",
+   "title": "Pieter Levels 用 Claude Code 排查账单：服务 2 万付费用户的业务支出降到每月约 300 美元，GPU 从 3.6 万砍到 7000 美元",
+   "summary": "独立开发者 Pieter Levels 晒出降本账：借助 Claude Code 找出低效环节，换用更便宜的视频模型、把服务器合并到 Hetzner，单月省下近 3.4 万美元；此前他已用自建开源工具替代图片处理、客服等付费 SaaS，每月再省约 2.5 万美元。算上 PhotoAI 剩余的 GPU 和存储，总成本约 8000 美元，比去年降约 90%，扣除这部分的基础业务支出约 300 美元/月。信号：AI 编程助手正从「写功能」延伸到「审账单、砍云成本」，面向独立开发者和小团队的「AI 云成本审计」工具与服务有现实需求。",
+   "links": [
+    "https://x.com/i/trending/2117728511439868201"
+   ],
+   "topic": "levels-300-month-costs-claude-code",
+   "firstSeen": "2026-11-04T12:42:48+08:00"
   }
  ],
- "lastChecked": "2026-11-04T12:32:54+08:00"
+ "lastChecked": "2026-11-04T12:42:48+08:00"
 }
