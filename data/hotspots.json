@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T08:09:44+08:00",
+ "lastUpdated": "2026-11-04T08:43:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30127,7 +30127,27 @@
    ],
    "topic": "sentry-interview-ai-ban",
    "firstSeen": "2026-11-04T08:09:44+08:00"
+  },
+  {
+   "id": "1973871cca",
+   "title": "密歇根参议员候选人 El-Sayed 上《60 分钟》谈 AI 监管：主张暂停前沿模型、设立类 FDA 的内阁级机构，「中国追赶论」引两派激辩",
+   "summary": "在与共和党人 Mike Rogers 胶着的密歇根参议员选战中，民主党候选人 Abdul El-Sayed 在 CBS《60 Minutes》称 AI 已是选民头号担忧，点名学生就业受冲击、乡村数据中心挤占资源。他提出设立类似 FDA 的内阁级 AI 机构、禁止 AI 用于武器和招聘、在风险明确前暂停前沿模型，并称中国赶超的担忧被夸大。支持者赞其懂技术，批评者认为会把优势拱手让给北京。信号：AI 监管正式成为美国中期选举议题，政策追踪、合规解读类内容和工具关注度上升。",
+   "links": [
+    "https://x.com/i/trending/2117774844225806669"
+   ],
+   "topic": "el-sayed-60-minutes-ai",
+   "firstSeen": "2026-11-04T08:43:12+08:00"
+  },
+  {
+   "id": "1612ca6b60",
+   "title": "YC 公司 Agent37 晒 AI 智能体沙箱价格：2 核 4G 包月 4.76 美元，对比 Vercel 249、Cloudflare 145 美元，Vercel CEO 回应「比较有误导性」",
+   "summary": "前亚马逊工程师 Vishnu Krishnaprasad 创办的 Agent37 在 X 上发布价格对比：可跑 Hermes、Claude Code 等智能体的隔离沙箱，带持久存储、按分钟计费，2 vCPU/4 GB 规格一个月 4.76 美元，远低于 Vercel（249 美元）、Cloudflare（145 美元）、Daytona（121 美元），靠裸金属服务器与 gVisor 压低成本。开发者称低价让「每个用户一个常驻智能体」变得可行；Vercel CEO 则指出对方忽略了按活跃 CPU 计费的差异。信号：智能体沙箱进入价格战，自建低成本 agent 托管、计费对比工具有机会。",
+   "links": [
+    "https://x.com/i/trending/2117671720517861816"
+   ],
+   "topic": "agent37-sandbox-price-war",
+   "firstSeen": "2026-11-04T08:43:12+08:00"
   }
  ],
- "lastChecked": "2026-11-04T08:09:44+08:00"
+ "lastChecked": "2026-11-04T08:43:12+08:00"
 }
