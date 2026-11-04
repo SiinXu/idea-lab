@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T07:08:47+08:00",
+ "lastUpdated": "2026-11-05T07:09:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31403,7 +31403,18 @@
    ],
    "topic": "everything-is-an-ai-scam-now",
    "firstSeen": "2026-11-05T07:08:47+08:00"
+  },
+  {
+   "id": "9e0da67857",
+   "title": "开源「AI 新闻雷达」Horizon 冲上 GitHub 日榜：自动抓取多源资讯、打分排序，生成中英双语每日简报",
+   "summary": "Thysrael/Horizon 今天在 GitHub Trending 日榜单日新增约 120 星，总星数约 1.25 万。它把 RSS、HN 等多路信息源汇总后，交给 Claude、GPT、Gemini、DeepSeek、豆包、MiniMax 或本地 Ollama 打分、去重、总结，每天输出带背景和讨论摘要的排序简报，可部署成静态网站，也能推送到飞书。信号：「个人定制资讯雷达」需求持续升温，做垂直领域简报站、付费订阅推送或企业内部情报服务都有空间。",
+   "links": [
+    "https://github.com/Thysrael/Horizon",
+    "https://thysrael.github.io/Horizon/"
+   ],
+   "topic": "horizon-ai-news-radar",
+   "firstSeen": "2026-11-05T07:09:22+08:00"
   }
  ],
- "lastChecked": "2026-11-05T07:08:47+08:00"
+ "lastChecked": "2026-11-05T07:09:22+08:00"
 }
