@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T05:12:06+08:00",
+ "lastUpdated": "2026-11-05T05:26:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31301,7 +31301,19 @@
    ],
    "topic": "kino-ai-launch-hn-agent-video-editor",
    "firstSeen": "2026-11-05T05:12:06+08:00"
+  },
+  {
+   "id": "79cd3790d6",
+   "title": "谷歌开放 Gemini Notebook API 与远程 MCP 服务器公测：智能体可直接建笔记本、灌入网页/YouTube/Markdown 资料",
+   "summary": "谷歌上线 Gemini Notebook（原 NotebookLM）官方 REST API 和远程 MCP 服务器（notebook.googleapis.com/mcp），处于早期公开预览，目前只支持个人谷歌账号，Workspace 账号暂不可用。开发者可用程序或 Claude Code、Cursor 等编码智能体创建和管理笔记本，把网页、YouTube 视频、纯文本和 Markdown 作为资料源持久保存；MCP 端提供 create_notebook、create_source、list_sources 等 7 个工具。此前社区只能靠抓浏览器 Cookie 的非官方接口接入，官方入口出现后，「研究资料库 + 智能体」类自动化工具会更容易做。",
+   "links": [
+    "https://developers.google.com/notebook/docs",
+    "https://developers.google.com/notebook/docs/mcp",
+    "https://ai.tldr.tech/p/2026-11-04-tldr-ai"
+   ],
+   "topic": "gemini-notebook-api-mcp-public-preview",
+   "firstSeen": "2026-11-05T05:26:41+08:00"
   }
  ],
- "lastChecked": "2026-11-05T05:12:06+08:00"
+ "lastChecked": "2026-11-05T05:26:41+08:00"
 }
