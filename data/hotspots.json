@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T00:58:02+08:00",
+ "lastUpdated": "2026-11-05T01:13:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30932,7 +30932,57 @@
    ],
    "topic": "waymo-ends-uber-exclusive-2028",
    "firstSeen": "2026-11-05T00:58:02+08:00"
+  },
+  {
+   "id": "3e549c0297",
+   "title": "马斯克中期选举押注大败：砸约 4.46 亿美元创非候选人纪录，力挺的帕克斯顿、拉马斯瓦米等几乎全线落选",
+   "summary": "Politico 11 月 4 日报道：马斯克在 2026 美国中期选举中投入约 4.46 亿美元，创非候选人个人政治献金纪录，但其支持的得州参议员候选人帕克斯顿、俄亥俄州长候选人拉马斯瓦米等几乎全部落败；民主党在得州意外横扫，当地数据中心扩建计划前景蒙上阴影。信号：科技巨头的政治押注与 AI 基建政策风险正在被重新定价。",
+   "links": [
+    "https://www.politico.eu/article/elon-musk-dealt-major-blow-in-midterm-elections-2026/"
+   ],
+   "topic": "musk-midterm-446m-loss",
+   "firstSeen": "2026-11-05T01:13:24+08:00"
+  },
+  {
+   "id": "6f72901900",
+   "title": "民主党横扫国会后，前沿 AI 立法或在 2027 年初落地：强制安全测试、开发者责任条款成焦点",
+   "summary": "Transformer 11 月 4 日分析：民主党可能拿下约 56 个参议院席位、最多 261 个众议院席位，强力的前沿 AI 立法（包括强制测试与开发者责任）在 2027 年初通过的可能性明显上升。信号：做 AI 合规、模型评测、安全审计工具的创业方向迎来政策窗口。",
+   "links": [
+    "https://www.transformernews.ai/p/midterms-democrats-blue-tsunami-ai-policy-legislation"
+   ],
+   "topic": "frontier-ai-legislation-2027-dem-sweep",
+   "firstSeen": "2026-11-05T01:13:24+08:00"
+  },
+  {
+   "id": "3fe0fd7bc0",
+   "title": "SemiAnalysis：SpaceX 把 2027 年数据中心容量目标上调到约 13GW，相当于谷歌 1999–2026 年总建设量，只用 1.5 年",
+   "summary": "SemiAnalysis 11 月 4 日长文分析：SpaceX 将 2027 年数据中心容量目标上调至创纪录的约 13GW，规模大致等同谷歌 27 年来建成的全部容量，计划改造火箭基地园区、甚至在 TeraFab 建数据中心。信号：马斯克系公司在 AI 算力上的扩张速度远超传统云厂商，电力与选址成为最大瓶颈。",
+   "links": [
+    "https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will"
+   ],
+   "topic": "spacex-13gw-datacenter-2027",
+   "firstSeen": "2026-11-05T01:13:24+08:00"
+  },
+  {
+   "id": "01c221892c",
+   "title": "谷歌把「自愿离职买断」扩大到加拿大、法国、德国、日本、瑞士员工，为巨额 AI 投入控成本",
+   "summary": "路透社 11 月 4 日报道：谷歌证实今年 6 月起把员工自愿离职买断计划扩展到加拿大、法国、德国、日本和瑞士等多国，以在 AI 基建巨额支出下控制成本。信号：大厂正把预算从人力向算力转移，裁员不再大张旗鼓，而是以「自愿买断」方式进行。",
+   "links": [
+    "https://www.reuters.com/business/media-telecom/google-extends-voluntary-buyout-offers-employees-several-countries-2026-11-04/"
+   ],
+   "topic": "google-voluntary-buyouts-expand",
+   "firstSeen": "2026-11-05T01:13:24+08:00"
+  },
+  {
+   "id": "0f8e72dfe1",
+   "title": "稳定币发行商 Circle 三季度营收增 17% 至 8.75 亿美元，主要靠 ARC 代币预售一次性收入，同时裁员 5%",
+   "summary": "The Information 11 月 4 日报道：Circle 公布 Q3 营收同比增 17% 至 8.75 亿美元，净利润增 5% 至 2.26 亿美元，增长主要来自 ARC 代币预售的一次性收入；公司同时宣布裁减 5% 员工。信号：稳定币龙头核心利息收入承压，开始靠发币和降本撑业绩。",
+   "links": [
+    "https://www.theinformation.com/briefings/stablecoin-issuer-circle-cuts-5-jobs"
+   ],
+   "topic": "circle-q3-2026-layoffs",
+   "firstSeen": "2026-11-05T01:13:24+08:00"
   }
  ],
- "lastChecked": "2026-11-05T00:58:02+08:00"
+ "lastChecked": "2026-11-05T01:13:24+08:00"
 }
