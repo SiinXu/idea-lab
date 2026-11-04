@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T02:25:42+08:00",
+ "lastUpdated": "2026-11-05T02:46:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31118,7 +31118,28 @@
    ],
    "topic": "baidu-apollo-world-model",
    "firstSeen": "2026-11-05T02:25:42+08:00"
+  },
+  {
+   "id": "6dce07a68e",
+   "title": "Together AI 发布 Together Compiler：智能体集群持续重写推理 GPU 代码，24 小时内吞吐最高提升 2.6 倍",
+   "summary": "Together 提出「多态推理」：一组智能体在常驻引擎里热加载、并行测试内核改动，实验吞吐比现有方案高 252 倍，只有通过正确性校验的优化才上线；MiniMax M3.1 Flash 低延迟跑到每秒 1111 token，已在其 Serverless 端点每天服务数万亿 token。",
+   "links": [
+    "https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference",
+    "https://www.businesswire.com/news/home/20261104879153/en/Together-AI-Launches-Together-Compiler-for-Continual-Optimization-of-Open-Source-AI-Models"
+   ],
+   "topic": "together-compiler-polymorphic-inference",
+   "firstSeen": "2026-11-05T02:46:42+08:00"
+  },
+  {
+   "id": "c62a7a7757",
+   "title": "FactoryAI 一周内二度收购：HumanLayer 并入 Factory 并将开源，创始人 Dex Horthy 加盟",
+   "summary": "HumanLayer 是团队协作式编码智能体平台（12-Factor Agents、Research/Plan/Implement 工作流的提出者），并购后将开源，现有用户可导出数据、迁移到 Factory 或自托管；几周内 Factory 将上线多人任务流和对智能体计划、规格文档的协同评审。",
+   "links": [
+    "https://factory.com/news/humanlayer"
+   ],
+   "topic": "factory-acquires-humanlayer",
+   "firstSeen": "2026-11-05T02:46:42+08:00"
   }
  ],
- "lastChecked": "2026-11-05T02:25:42+08:00"
+ "lastChecked": "2026-11-05T02:46:42+08:00"
 }
