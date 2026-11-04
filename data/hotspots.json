@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T00:12:30+08:00",
+ "lastUpdated": "2026-11-05T00:24:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30802,7 +30802,52 @@
    ],
    "topic": "crypto-ai-superpacs-midterms-2026",
    "firstSeen": "2026-11-05T00:12:30+08:00"
+  },
+  {
+   "id": "9b95891890",
+   "title": "甲骨文在美国政府施压下取消与腾讯约 70 亿美元的 AI 芯片租赁：原计划在东南亚数据中心出租约 10 万颗先进芯片",
+   "summary": "据英国《金融时报》报道、路透社转述：美国官员就该交易向甲骨文表达关切后，甲骨文撤销了与腾讯签下的五年期芯片租赁合同（估值约 70 亿美元，腾讯最大的海外租赁）。合同原本让腾讯通过甲骨文东南亚多个数据中心使用约 10 万颗在国内买不到的先进 AI 芯片；与此同时广东省官员也上门要求腾讯支持国产芯片。前一天 FT 还报道英伟达要求云伙伴把中国客户占比压在 49% 以内。信号：「海外租算力」这条绕开出口管制的路正被中美双向收紧，东南亚算力租赁、国产芯片替代和合规算力中介的机会与风险同步上升。",
+   "links": [
+    "https://thenextweb.com/news/oracle-cancels-tencent-ai-chip-lease",
+    "https://www.businesstimes.com.sg/companies-markets/oracle-scraps-us7-billion-deal-lease-chips-tencent-under-trump-pressure-ft-reports",
+    "https://www.investing.com/news/stock-market-news/oracle-cancels-7-bln-chip-leasing-deal-with-tencent-ft-reports-4997349"
+   ],
+   "topic": "oracle-cancels-tencent-chip-lease",
+   "firstSeen": "2026-11-05T00:24:25+08:00"
+  },
+  {
+   "id": "44a0b65f4b",
+   "title": "SpaceX 选定高通建 Starlink Mobile 全美 5G 地面网：数万个宏站 2027 年开建，高通称是其史上最大 5G 订单",
+   "summary": "高通 11 月 4 日宣布与 SpaceX 签下多年协议，为 Starlink Mobile 计划中的全美地面 5G 网络提供 Dragonwing QRU100/QDU100 射频与基带芯片及 Layer 1 软件，覆盖「数万个」宏基站，2027 年开始部署，与星链卫星网络互补，剑指 Verizon、AT&T 和 T-Mobile。Mobile Experts 分析师估计 SpaceX 卫星加地面网总投入至少 1000 亿美元。信号：星链从宽带走向全国运营商，未来无人机、机器人、自动配送等「AI 设备连接」可能是其真正目标市场。",
+   "links": [
+    "https://www.qualcomm.com/news/releases/2026/11/spacex-selects-qualcomm-to-accelerate-starlink-mobile-s-nationwi",
+    "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
+    "https://www.axios.com/2026/11/04/spacex-qualcomm-cellular-network"
+   ],
+   "topic": "spacex-qualcomm-starlink-mobile-5g",
+   "firstSeen": "2026-11-05T00:24:25+08:00"
+  },
+  {
+   "id": "3d41445fdd",
+   "title": "谷歌宣布 2027–2028 年在马来西亚投资 150 亿美元：雪兰莪、森美兰新建数据中心园区，自付全部电费并新增 1GW 清洁能源",
+   "summary": "谷歌 11 月 4 日在马来西亚总理安瓦尔见证下宣布：未来两年投资 150 亿美元扩建数据中心与云业务，除已运营的雪兰莪 Elmina 园区外，新建雪兰莪和森美兰园区；承诺自付 100% 用电和并网成本、为国家电网新增超 1GW 清洁能源、建水库与水厂，PUE 1.12–1.14，并在 5 年内培训约 80 万马来西亚人。建设期预计每年支撑 3.7 万个岗位。信号：就在美国中期选举多地否决数据中心的同一天，超大规模云厂商加速把算力搬到东南亚，「自付电费、补水、补电」正成为新数据中心拿地的标准条件。",
+   "links": [
+    "https://www.googlecloudpresscorner.com/2026-11-04-Google-Announces-Digital-Infrastructure-Expansion-Local-Jobs-Water-Replenishment-and-Clean-Energy-Initiatives-with-US-15-Billion-Malaysia-Investment",
+    "https://www.channelnewsasia.com/business/google-invest-15-billion-in-malaysia-in-2027-and-2028-6523436"
+   ],
+   "topic": "google-15b-malaysia-datacenter",
+   "firstSeen": "2026-11-05T00:24:25+08:00"
+  },
+  {
+   "id": "201b2063f6",
+   "title": "密码管理器 mSecure 遭入侵：加密的云端用户库被盗，厂商要求现任和前任用户改掉全部密码、重置 2FA、删除通行密钥",
+   "summary": "BleepingComputer 报道：mSeven Software 11 月 3 日通知 mSecure 现任及前任用户，发现可疑活动后建议立即更换存储的密码、重新绑定双因素认证并移除现有 passkey。客服回复显示黑客窃取了 mSecure Cloud 的加密数据库，仅影响用云同步的用户；厂商称采用 AES-256 零知识加密、暂无证据显示内容被解密，但未说明入侵方式和影响人数。参照 2022 年 LastPass 事件，弱主密码的保险库可被离线破解。信号：零知识加密不等于泄露无害，密码管理器的透明度和本地优先方案再受关注。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/"
+   ],
+   "topic": "msecure-password-manager-breach",
+   "firstSeen": "2026-11-05T00:24:25+08:00"
   }
  ],
- "lastChecked": "2026-11-05T00:12:30+08:00"
+ "lastChecked": "2026-11-05T00:24:25+08:00"
 }
