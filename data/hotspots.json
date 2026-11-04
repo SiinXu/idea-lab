@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T05:39:37+08:00",
+ "lastUpdated": "2026-11-05T06:01:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31336,7 +31336,40 @@
    ],
    "topic": "replit-pro-arbitration-opt-out-nov-8",
    "firstSeen": "2026-11-05T05:39:37+08:00"
+  },
+  {
+   "id": "643c798922",
+   "title": "webAI 开源 8.8B 推理模型 TwIL-8B：笔记本可跑，MATH-500 98.2、LiveCodeBench 81.6，号称达前沿模型约九成水平",
+   "summary": "webAI 在 Hugging Face 发布 TwIL-8B，基于 IBM Granite 4.2 8B 做全参数微调加 GRPO/DAPO 强化学习，主打数学、代码和指令遵循。模型卡称 MATH-500 98.2、LiveCodeBench 81.6，均高于 Qwen3.5-9B 和 Gemma 4 31B，IFBench 领先 Qwen3.5-9B 约 10 分，在编码与指令遵循上达到前沿模型 88%–93% 的水平，且每题输出 token 比 Qwen3.5-9B 少约 38%。Q4 量化版约 5GB，可在 CPU 或小显存 GPU 本地运行；短板是知识类基准（GPQA、MMLU-Pro）明显落后，许可为非商用。",
+   "links": [
+    "https://huggingface.co/webAI-Official/TwIL-8B",
+    "https://x.com/i/trending/2118065127274811435"
+   ],
+   "topic": "webai-twil-8b-open-weights",
+   "firstSeen": "2026-11-05T06:01:09+08:00"
+  },
+  {
+   "id": "b2471a13bc",
+   "title": "斯坦福团队提出 Joules-to-GDP：按「每焦耳能耗创造多少经济价值」评估 AI，小模型 Gemma 4 31B 能效比是 GLM 5.2 的 2.5 倍",
+   "summary": "Jon Saad-Falcon、Christopher Ré、John Hennessy 等人的论文引入「每焦耳净价值（NVJ）」和「每焦耳节省专家时间（TSJ）」两个指标，在 OpenAI GDPval 的 44 个职业、220 个任务上测试。结论包括：建网站这类软件任务单位能耗价值比 CAD 设计高约 27%；GLM 5.2 单任务净价值最高（平均 72 美元），但 Gemma 4 31B 只用 23% 能耗就拿到 56% 价值；8 张 H100 比 1 张多耗 3.2 倍电只快 22%。论文、代码和数据全部开源，为「选模型、选算力」提供了一个按投入产出算账的新视角。",
+   "links": [
+    "https://arxiv.org/abs/2610.30858",
+    "https://x.com/i/trending/2118093948145291349"
+   ],
+   "topic": "joules-to-gdp-ai-energy-value",
+   "firstSeen": "2026-11-05T06:01:09+08:00"
+  },
+  {
+   "id": "71b074ca65",
+   "title": "YC 投资女性向 AI 恋爱模拟平台 Yam：用户可在恋综、韩剧、奇幻世界里与「有记忆」的角色谈恋爱，并自建世界分享",
+   "summary": "Yam（hiyam.ai）定位「由女性为女性做的恋爱模拟游戏」，玩家可扮演恋综新人、深夜给校园暗恋对象发消息、当韩剧女主，角色会记住选择、关系逐步发展；平台支持用户创作并分享世界，已覆盖咒术回战、鬼灭之刃等 80 多个同人题材，正在办万圣节创作者挑战。X 上讨论称其内测用户累计游玩约 100 万小时、日均超 3 小时，YC 资助「纯消费娱乐型 AI」引发争论，也被拿来对比东亚乙女游戏市场。",
+   "links": [
+    "https://hiyam.ai",
+    "https://x.com/i/trending/2118080198067278110"
+   ],
+   "topic": "yc-yam-ai-romance-sim-women",
+   "firstSeen": "2026-11-05T06:01:09+08:00"
   }
  ],
- "lastChecked": "2026-11-05T05:39:37+08:00"
+ "lastChecked": "2026-11-05T06:01:09+08:00"
 }
