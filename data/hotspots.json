@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T04:55:29+08:00",
+ "lastUpdated": "2026-11-05T05:12:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31279,7 +31279,29 @@
    ],
    "topic": "polished-snow-case-ai-maintenance-agent",
    "firstSeen": "2026-11-05T04:55:29+08:00"
+  },
+  {
+   "id": "ecbe88ccc3",
+   "title": "安全公司发现白宫网络在「出租」流量：一个月内 28 家住宅代理服务能从总统行政办公室网段出口",
+   "summary": "Layer3 Intel 用新上线的「住宅代理观测台」发现，10 月 5 日至 11 月 3 日间，其探测流量 236 次从 AS2650（美国总统行政办公室、白宫网络所在网段）出口，涉及 6 个地址、30 天中有 26 天出现，共 28 家公开售卖的住宅代理服务可经此出口，Spur、Synthient 等也独立确认。活动集中在美东晚上 5 点到午夜，研究者推测是某人设备被植入代理 SDK，而非访客 Wi-Fi；若 SDK 有漏洞，买代理的人可能借此触达内网。报告还在圣赫勒拿、南极麦克默多站等偏远地区发现代理出口。登上 Hacker News 热门。",
+   "links": [
+    "https://layer3intel.com/blog/residential-proxies-white-house-network",
+    "https://news.ycombinator.com/item?id=50371246"
+   ],
+   "topic": "white-house-network-residential-proxy-exits",
+   "firstSeen": "2026-11-05T05:12:06+08:00"
+  },
+  {
+   "id": "3c8ebdbf99",
+   "title": "YC 公司 Kino AI 在 HN 发布：让 Codex、Claude Code 等智能体和同事在同一条视频时间线上协作剪辑",
+   "summary": "Kino 把素材存储、富剪辑器和审片链接打包成一个产品，所有剪辑、动效、时间线拖动、评论和 3D 场景都以代码表达（基于 Remotion），人和多个智能体可实时同时编辑。上传素材会自动转写、向量化、描述和人脸检测，本地可直接拖入 250GB 的 ProRes 片段，自研了 ProRes、BRAW、R3D 等专业格式解码器。团队称其发布视频就是 5 个以上智能体并行剪出来的，还用大模型通过 LUT 给全片调色。「智能体原生的视频编辑器」是 AI 视频工具的新方向。",
+   "links": [
+    "https://kino.ai",
+    "https://news.ycombinator.com/item?id=50368804"
+   ],
+   "topic": "kino-ai-launch-hn-agent-video-editor",
+   "firstSeen": "2026-11-05T05:12:06+08:00"
   }
  ],
- "lastChecked": "2026-11-05T04:55:29+08:00"
+ "lastChecked": "2026-11-05T05:12:06+08:00"
 }
