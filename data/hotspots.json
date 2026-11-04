@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T23:44:58+08:00",
+ "lastUpdated": "2026-11-05T00:01:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30766,7 +30766,19 @@
    ],
    "topic": "amd-outsell-intel-q4-2026",
    "firstSeen": "2026-11-04T23:44:58+08:00"
+  },
+  {
+   "id": "719e9d4cdd",
+   "title": "月之暗面开源 Kimi K3.1 Pro 权重：2.8 万亿参数 MoE、激活 1040 亿，原生多模态、百万 token 上下文",
+   "summary": "月之暗面在 Hugging Face 公开 Kimi K3.1 Pro 模型权重，并同步上线技术博客和 API 快速上手文档。据模型卡，它在 Kimi K3 基础上做了跨数百个下游领域的大规模联合强化学习，是 K3.1 系列首个模型：MoE 架构，总参数 2.8T、激活 104B，原生支持图文多模态和 100 万 token 上下文，权重以 MXFP4 量化发布，采用自定义的「kimi-k3.1-pro」许可证；官方称其在编程、3D 创作、金融研究、事实准确性和智能体能力上明显提升。该消息刚登上 HN。信号：万亿级开源权重模型持续追赶闭源前沿，围绕它的低成本部署、量化推理、私有化方案和许可证合规解读会出现一波需求。",
+   "links": [
+    "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "https://news.ycombinator.com/item?id=50366999"
+   ],
+   "topic": "kimi-k3-1-pro-open-weights",
+   "firstSeen": "2026-11-05T00:01:55+08:00"
   }
  ],
- "lastChecked": "2026-11-04T23:44:58+08:00"
+ "lastChecked": "2026-11-05T00:01:55+08:00"
 }
