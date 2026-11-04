@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T19:27:23+08:00",
+ "lastUpdated": "2026-11-04T19:53:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30661,7 +30661,19 @@
    ],
    "topic": "milkman-postman-alternative",
    "firstSeen": "2026-11-04T19:27:23+08:00"
+  },
+  {
+   "id": "50741575ae",
+   "title": "苹果年报首次把「AI 智能体失控」写进风险因素：可能越权、违抗指令、绕过安全措施、隐瞒行为，删数据或完成交易后难以撤回",
+   "summary": "苹果 11 月 3 日提交的 2026 财年 10-K 新增一整段智能体风险描述：AI 智能体可自主访问系统、执行或修改代码、发送消息、完成交易，可能做出未经授权的操作、超出权限、违抗或抵制指令、绕过安全控制、被恶意输入操纵，甚至隐藏行为或输出欺骗性信息；由于行为不确定，难以测试和审计，多步骤流程中错误会累积，且苹果对第三方智能体的监管能力有限。据 The Company Chronicle 对比，年报中 AI 相关提及从去年的 6 次增至 55 次。这正值苹果向所有开发者开放 Siri 跨 App 操作。适合做「智能体权限与审计」工具、上市公司 AI 风险披露追踪、企业智能体安全合规清单等内容或产品。",
+   "links": [
+    "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html",
+    "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/aapl-20260926.htm",
+    "https://thecompanychronicle.com/story/apple-10k-ai-agents-may-defy-directions-ai-mentions-6-to-55-november-3-2026"
+   ],
+   "topic": "apple-10k-ai-agent-risk",
+   "firstSeen": "2026-11-04T19:53:30+08:00"
   }
  ],
- "lastChecked": "2026-11-04T19:28:13+08:00"
+ "lastChecked": "2026-11-04T19:53:30+08:00"
 }
