@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T15:14:38+08:00",
+ "lastUpdated": "2026-11-04T15:54:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30481,7 +30481,20 @@
    ],
    "topic": "posttraining-data-commons",
    "firstSeen": "2026-11-04T15:14:38+08:00"
+  },
+  {
+   "id": "bec40466c0",
+   "title": "腾讯发布正式版 Hy4：首次加入视觉理解，称跻身最强开源权重模型之列，OpenRouter 上线首发 5 折",
+   "summary": "腾讯混元 11 月 4 日发布正式版 Hy4，取代 8 月的 Hy4 preview（770B 总参 / 49B 激活 MoE）：大幅扩展预训练与后训练，首次支持图像、图表和视觉数学推理，指令遵循、长上下文、长程任务和深度研究能力明显提升，上下文 100 万 token。已上线腾讯云和 OpenRouter（tencent/hy4，官方价每百万 token 输入 0.834 / 输出 2.501 美元，OpenRouter 目前 5 折），并接入 CodeBuddy、WorkBuddy、元宝、ima。腾讯称将开源权重并与 vLLM、SGLang 合作，同时承认在研究级数学、长程编程等难题上仍落后顶级闭源模型，轻量版 Hy4 flash 即将推出。信号：国产开源权重模型继续卷 Agent 能力和低价，百万上下文 + 视觉的便宜 API 适合做文档/图表类智能体产品。",
+   "links": [
+    "https://hy.tencent.ai/research/hy4?langVersion=en",
+    "https://openrouter.ai/tencent/hy4",
+    "https://www.scmp.com/tech/big-tech/article/3373227/tencent-unveils-hy4-open-weight-ai-race-deepseek-zai-alibaba-heats",
+    "https://x.com/i/trending/2117648658032120079"
+   ],
+   "topic": "tencent-hy4-official",
+   "firstSeen": "2026-11-04T15:54:43+08:00"
   }
  ],
- "lastChecked": "2026-11-04T15:14:38+08:00"
+ "lastChecked": "2026-11-04T15:54:43+08:00"
 }
