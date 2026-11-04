@@ -399,6 +399,81 @@
    "shown": true,
    "at": "2026-11-03T13:09:37+00:00",
    "id": "1aced5dada"
+  },
+  {
+   "topic": "hda9a58241",
+   "title": "开发工具 AI 插件巡检",
+   "who": "用 Postman、VS Code 等工具处理内部 API 的开发团队和安全负责人",
+   "pain": "工具更新后悄悄装上 AI 插件，API 密钥和请求数据可能被发出去，团队却不知道",
+   "why_now": "HN 热议 Postman 被曝自动安装 AI 插件并试图共享全部 API 数据",
+   "mvp": "命令行工具扫描本机常用开发工具的插件和配置，列出新增的 AI 插件、外连域名和权限，生成一页报告",
+   "money": "个人免费，团队 $8/人/月，含变化提醒和统一白名单",
+   "not_do": "不拦截流量，不读取或上传任何 API 内容",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50354960"
+   ],
+   "score": 7,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 0,
+    "novel": 1
+   },
+   "why": "HN 真实讨论；扫本机插件目录两周能做；团队付费意愿一般且已有安全工具竞争；与现有资产几乎无复用",
+   "shown": true,
+   "at": "2026-11-04T01:10:42+00:00",
+   "id": "e74318a3b5"
+  },
+  {
+   "topic": "h7da3b08fd",
+   "title": "网站自动暗色体检",
+   "who": "只做了亮色主题的独立开发者和小团队前端",
+   "pain": "浏览器自动把页面转成暗色后，logo、图表和按钮可能看不清，自己却从没在这种模式下看过",
+   "why_now": "Safari 27.3 推出自适应暗色模式，HN 正在讨论它会怎样改写现有网站",
+   "mvp": "输入网址，用 Cloudflare Workers 截取模拟自动暗色前后的对比图，标出对比度不足的元素并给出 CSS 修复片段",
+   "money": "每月 3 次免费，$9/月 不限次并支持多页面定期复查",
+   "not_do": "不替用户重写整套主题，不做通用无障碍认证",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50358562"
+   ],
+   "score": 8,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 1,
+    "money": 1,
+    "reuse": 2,
+    "novel": 1
+   },
+   "why": "HN 真实讨论；精确模拟 Safari 自适应暗色算法有不确定性；小额订阅可行但天花板低；可复用 UI Hub、设计规范库和 Workers 截图",
+   "shown": true,
+   "at": "2026-11-04T01:10:42+00:00",
+   "id": "a1aca63162"
+  },
+  {
+   "topic": "h2b40bf8ed",
+   "title": "面试 AI 规则说明卡",
+   "who": "招聘工程师的技术面试官和招聘负责人",
+   "pain": "候选人到了面试才知道不许用 AI，双方当场起冲突，好候选人直接走人",
+   "why_now": "X 上热议候选人因 Sentry 面试禁用 AI 当场退出",
+   "mvp": "面试官按轮次勾选允许的 AI 工具和用法，生成一张候选人可读的规则页链接，自动附进面试邀请邮件模板",
+   "money": "单个岗位免费，团队 $19/月 含多岗位模板和候选人反馈统计",
+   "not_do": "不做 AI 作弊监控，不录制或分析候选人",
+   "evidence": [
+    "https://x.com/i/trending/2117755305429696899"
+   ],
+   "score": 8,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 1,
+    "novel": 1
+   },
+   "why": "X 热议链接；表单加规则页两周内可做；招聘方付费意愿待验证；可复用 Workers 与已有 AI 政策模板思路",
+   "shown": true,
+   "at": "2026-11-04T01:10:42+00:00",
+   "id": "686edc5724"
   }
  ]
 }
