@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T02:15:51+08:00",
+ "lastUpdated": "2026-11-05T02:25:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31087,7 +31087,38 @@
    ],
    "topic": "uk-ai-economy-estimate-cut",
    "firstSeen": "2026-11-05T02:15:51+08:00"
+  },
+  {
+   "id": "cf7cc3379d",
+   "title": "Redis 升级 Redis Iris：给 AI 智能体一次补齐记忆、上下文和消息通道，意图路由、Agent Memory 等四项能力正式可用",
+   "summary": "Redis 宣布 Iris 实时上下文引擎扩展为六项能力：语义意图路由、可复用的 Agent Playbooks、可审计可遗忘的 Agent Memory、统一接入 MCP 的 Context Gateway（均已 GA），以及可追溯行为的 Lens 和断线自动重连的 Agent Mesh（测试版），瞄准智能体上生产的痛点。",
+   "links": [
+    "https://www.prnewswire.com/news-releases/redis-expands-redis-iris-to-give-ai-agents-the-memory-context-and-messaging-they-need-to-get-to-production-302925354.html"
+   ],
+   "topic": "redis-iris-agent-memory-expansion",
+   "firstSeen": "2026-11-05T02:25:42+08:00"
+  },
+  {
+   "id": "908deb0f13",
+   "title": "Fireworks 首届 Forge 大会：Ultra-fast 推理最高每秒 1500 token，30 轮智能体任务从 1 分钟缩到 8 秒；Nexus 桌面版 8 美元/月起",
+   "summary": "Fireworks 发布基于 NVIDIA Blackwell 的 Ultra-fast 推理公测、半价后台模式与多日提示缓存，并推出可在 Codex、Claude Desktop、OpenCode 里按任务自动选模型的 Nexus Desktop，另有 LoRA 无服务器推理和私有化部署 Sovereign 预览。",
+   "links": [
+    "https://fireworks.ai/blog/fireworks-unveils-new-products-at-forge-to-help-companies-build-specialized-intelligence",
+    "https://www.unite.ai/fireworks-announces-faster-agent-inference-and-sovereign-deployment/"
+   ],
+   "topic": "fireworks-forge-ultrafast-nexus",
+   "firstSeen": "2026-11-05T02:25:42+08:00"
+  },
+  {
+   "id": "2ddf52f96d",
+   "title": "百度发布首个物理 AI 世界模型 Apollo World：每天虚拟路测约 10 万公里，近百辆萝卜快跑已换上端到端新架构",
+   "summary": "Apollo World 把交通参与者建模为自主智能体，用仿真闭环验证端到端自动驾驶安全，推动 L4 从实车测试走向虚拟测试；百度也承认世界模型仍难完全还原真实路况，需结合实车数据。",
+   "links": [
+    "https://news.aibase.com/daily/32090"
+   ],
+   "topic": "baidu-apollo-world-model",
+   "firstSeen": "2026-11-05T02:25:42+08:00"
   }
  ],
- "lastChecked": "2026-11-05T02:15:51+08:00"
+ "lastChecked": "2026-11-05T02:25:42+08:00"
 }
