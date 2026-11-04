@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T10:38:44+08:00",
+ "lastUpdated": "2026-11-04T11:09:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30262,7 +30262,27 @@
    ],
    "topic": "bill-chen-joins-a16z",
    "firstSeen": "2026-11-04T10:38:44+08:00"
+  },
+  {
+   "id": "94213942cf",
+   "title": "OpenAI 展示 AI 加速硬件设计：两名工程师用 GPT-6 Astra 不到一周做出会说话的花形小设备，内部新模型 BenchCAD 2.0 拿到 0.875 分",
+   "summary": "OpenAI 11 月 3 日介绍 ChatGPT、Codex 等模型如何加速机械设计、电子工程和仿真，把数周的工作缩短到几天：两名工程师借助 GPT-6 Astra 从外壳到软件做出一个类似新版电子宠物的紫色说话小设备，还有汽车前脸气动设计案例，并与 Chip Ganassi Racing（CAD 模型）、马自达（整车仿真）合作。内部新模型在 BenchCAD 2.0 上得分 0.875，远超 GPT-6 Astra，OpenAI 正邀请工程师参与打磨。信号：AI 从写代码延伸到 CAD 与硬件原型，「AI 硬件设计助手」和面向小团队的快速打样服务值得关注。",
+   "links": [
+    "https://x.com/i/trending/2117704173064208525"
+   ],
+   "topic": "openai-ai-hardware-design",
+   "firstSeen": "2026-11-04T11:09:25+08:00"
+  },
+  {
+   "id": "3a31d5396a",
+   "title": "密歇根参议员候选人 El-Sayed 提出「AI 受控」计划：联邦安全规则出台前暂停先进 AI 训练和数据中心扩张，视频引发两极争论",
+   "summary": "民主党提名人 Abdul El-Sayed（对手为共和党 Mike Rogers）在竞选视频中阐述「AI Under Control」计划：在联邦安全规则落地前暂停先进模型训练与数据中心增长，并设立新机构检查实验室、叫停高风险系统。支持者称赞他把中美竞争讲得清楚，批评者认为这低估了中国的能力、过于天真。信号：AI 监管已成为 2026 美国中期选举议题，数据中心建设和算力政策的不确定性上升，合规与政策追踪类工具有需求。",
+   "links": [
+    "https://x.com/i/trending/2117795191117525157"
+   ],
+   "topic": "el-sayed-ai-under-control",
+   "firstSeen": "2026-11-04T11:09:25+08:00"
   }
  ],
- "lastChecked": "2026-11-04T10:38:44+08:00"
+ "lastChecked": "2026-11-04T11:09:25+08:00"
 }
