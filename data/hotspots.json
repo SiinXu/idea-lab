@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T19:17:00+08:00",
+ "lastUpdated": "2026-11-04T19:27:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30650,7 +30650,18 @@
    ],
    "topic": "rtx-5090-street-price-9k",
    "firstSeen": "2026-11-04T19:17:00+08:00"
+  },
+  {
+   "id": "ae4247fda6",
+   "title": "开源 API 调试工具 Milkman 登上 HN：基于 JavaFX、插件化的 Postman 替代品，主打启动快、内存省",
+   "summary": "Milkman 是一款开源的请求/响应工作台，作者受够了基于 Electron 的 Postman 类应用启动慢、占内存，改用 JavaFX 重写；几乎所有功能都是插件，除 HTTP/REST 外还能发数据库查询、gRPC、GraphQL 等请求。项目在 HN 发帖约 2.5 小时获 35 分、36 条评论，讨论集中在 Postman 云同步与账号强制化引发的出走潮，以及 Bruno、Hoppscotch 等本地优先替代品对比。适合做「本地优先 API 调试工具横评」或开发者工具迁移指南类内容。",
+   "links": [
+    "https://milkman.dev/",
+    "https://news.ycombinator.com/item?id=50362993"
+   ],
+   "topic": "milkman-postman-alternative",
+   "firstSeen": "2026-11-04T19:27:23+08:00"
   }
  ],
- "lastChecked": "2026-11-04T19:17:00+08:00"
+ "lastChecked": "2026-11-04T19:27:23+08:00"
 }
