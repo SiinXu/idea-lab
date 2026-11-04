@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T06:01:09+08:00",
+ "lastUpdated": "2026-11-05T06:17:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31369,7 +31369,19 @@
    ],
    "topic": "yc-yam-ai-romance-sim-women",
    "firstSeen": "2026-11-05T06:01:09+08:00"
+  },
+  {
+   "id": "75638eb678",
+   "title": "Artificial Analysis 改用「单任务耗时」当头号速度指标：GPT-6 Astra 中等档约 5.8 分钟做完一项任务，最高档要约 18 分钟",
+   "summary": "独立评测机构 Artificial Analysis 更新约 1000 个无服务器端点的 API 性能基准，不再以流式输出速度为主，而是衡量模型从请求到完成整项任务（含多轮编程等智能体任务）的总耗时；报错、限流和超时一律记为速度 0，并公开各端点错误率。数据显示多数大厂 API 默认档低于最高档：GPT-6 Astra 中等档智能指数 52、最高档 57，但单任务耗时从约 18 分钟降到约 5.8 分钟；GLM-5.3 部分「输出最快」的端点首 token 要等 18–26 秒，计入总耗时后排名下滑。另算账称 100 美元可让 Opus 5.5 中等档做 40 项任务、GPT-6 Luna 做 2500 项。信号：智能体时代选型看「完成任务的时间和成本」，按任务计价/路由工具有机会。",
+   "links": [
+    "https://x.com/ArtificialAnlys/status/2118034157909712992",
+    "https://artificialanalysis.ai/methodology/performance-benchmarking",
+    "https://x.com/i/trending/2118090650281214216"
+   ],
+   "topic": "artificial-analysis-time-per-task-metric",
+   "firstSeen": "2026-11-05T06:17:25+08:00"
   }
  ],
- "lastChecked": "2026-11-05T06:01:09+08:00"
+ "lastChecked": "2026-11-05T06:17:25+08:00"
 }
