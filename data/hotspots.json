@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T08:43:12+08:00",
+ "lastUpdated": "2026-11-04T08:54:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30147,7 +30147,18 @@
    ],
    "topic": "agent37-sandbox-price-war",
    "firstSeen": "2026-11-04T08:43:12+08:00"
+  },
+  {
+   "id": "241220121b",
+   "title": "Claude Code 产品负责人 Cat Wu 离开 Anthropic：IPO 前夕，Claude Code 核心团队一个月内第二位知名成员出走",
+   "summary": "据 Business Insider 报道，Claude Code 与 Cowork 的产品负责人 Cat Wu 已离开 Anthropic。她与 Boris Cherny 被视为 Claude Code 爆红的主要推手之一；参与 Claude Code 开发的 Thariq Shihipar 上月也宣布离职。此时 Anthropic 正筹备 IPO（此前报道路演定于 11 月 9 日）。信号：头部 AI 编程产品的核心人才开始外流，后续可能出现新的编程智能体创业公司，「Claude Code 替代品 / 下一代编码 Agent」话题值得跟踪。",
+   "links": [
+    "https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11",
+    "https://www.techmeme.com/261103/p43"
+   ],
+   "topic": "cat-wu-leaves-anthropic-claude-code",
+   "firstSeen": "2026-11-04T08:54:07+08:00"
   }
  ],
- "lastChecked": "2026-11-04T08:43:12+08:00"
+ "lastChecked": "2026-11-04T08:54:07+08:00"
 }
