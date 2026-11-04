@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T18:44:19+08:00",
+ "lastUpdated": "2026-11-04T18:58:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30606,7 +30606,29 @@
    ],
    "topic": "hinton-guardian-better-off-without-ai",
    "firstSeen": "2026-11-04T18:44:19+08:00"
+  },
+  {
+   "id": "150a39b9eb",
+   "title": "HN 热议：Gemini 个人订阅用户的聊天记录同样会被拿去训练模型，唯一退出办法是关掉「保留活动记录」，代价是 72 小时后对话全丢",
+   "summary": "一则「Tell HN」帖子引用 Google 官方帮助文档指出：即使付费订阅 Google AI 个人套餐，只要开着「Gemini 应用活动记录（Keep Activity）」，保存的对话就会被用于改进服务和训练生成式模型；部分对话还会交给人工审核，被审核过的对话即使你删除活动记录也会保留最长三年，官方明确提醒不要输入机密信息。想关闭训练只能关掉活动记录或用临时对话，但这样 72 小时后历史对话就会消失。评论区普遍认为所有 AI 厂商都应默认按「会被存储和训练」来对待。适合做 AI 隐私设置对比、企业版与个人版数据政策科普或「如何安全使用 AI 助手」类内容。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50363461",
+    "https://support.google.com/gemini/answer/13594961?hl=en"
+   ],
+   "topic": "gemini-trains-on-subscriber-chats",
+   "firstSeen": "2026-11-04T18:58:50+08:00"
+  },
+  {
+   "id": "6908611519",
+   "title": "西北大学教授 Jessica Hullman 长文《验证不等于知识》登 HN：AI 能给出可验证的答案，但科学还需要人类理解与可问责性",
+   "summary": "Cosmos Institute 刊发西北大学计算机科学教授 Jessica Hullman 的客座文章，回应「AI for Science」中「只要结果可验证就够了」的观点。她引用 Bill Thurston 关于数学研究意义的论述和陶哲轩「AI 给出带形式化证明的癌症疗法你敢用吗」的思想实验，并提到 arXiv 上越来越多作者似乎并不理解自己论文结论的问题，主张科研中的「问责」——能说清结论依据并回应质疑——不会因为验证被自动化而失去意义。文章在 HN 获得近 50 分讨论，是 AI 自动化科研、同行评审与学术诚信争论的新节点，适合做观点综述或科研工具伦理类内容。",
+   "links": [
+    "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+    "https://news.ycombinator.com/item?id=50363019"
+   ],
+   "topic": "hullman-verification-is-not-knowledge",
+   "firstSeen": "2026-11-04T18:58:50+08:00"
   }
  ],
- "lastChecked": "2026-11-04T18:44:19+08:00"
+ "lastChecked": "2026-11-04T18:58:50+08:00"
 }
