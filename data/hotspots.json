@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T17:01:32+08:00",
+ "lastUpdated": "2026-11-04T17:16:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30529,7 +30529,18 @@
    ],
    "topic": "claude-amateur-exoplanet-tess-2026",
    "firstSeen": "2026-11-04T17:01:32+08:00"
+  },
+  {
+   "id": "a959325bd7",
+   "title": "Salesforce 研究工程师年度复盘「我如何用 AI（2026 年 10 月）」登 HN：每月约 3000 美元 token、同时管 5–6 个编码智能体，「写代码已被解决」，但写作、选品和新研究仍不行",
+   "summary": "前微软 Windows AI 工程师、现 Salesforce AI Research 的 Ben Stolovitz 发布年度 AI 使用复盘，HN 约 170 分、150+ 评论。要点：日常用 Git worktree 并行跑 5–6 个 Claude Code / Codex / OpenCode 智能体，九成以上代码由机器写；他认为 Sonnet 4.6、Opus 4.8 级别的能力已足够做智能体编程，开源模型已超过这一水平；代码审查转向看架构，并给审查机器人写规则（如「Claude 腔注释检测器」）；同时坦言多智能体并行带来的疲劳感、手写几百行替换 4000 行 vibe 代码的经历，以及 AI 在写作、商品推荐、新颖研究上依旧不可靠。还起草了一份「个人 AI 使用守则」。信号：多智能体并行开发的管理与疲劳、审查规则库、个人/团队 AI 使用守则模板，都是可做工具和内容的方向。",
+   "links": [
+    "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+    "https://news.ycombinator.com/item?id=50355767"
+   ],
+   "topic": "stolovitz-how-i-use-ai-oct-2026",
+   "firstSeen": "2026-11-04T17:16:33+08:00"
   }
  ],
- "lastChecked": "2026-11-04T17:01:32+08:00"
+ "lastChecked": "2026-11-04T17:16:33+08:00"
 }
