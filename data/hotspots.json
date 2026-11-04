@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T00:38:29+08:00",
+ "lastUpdated": "2026-11-05T00:58:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30880,7 +30880,59 @@
    ],
    "topic": "opay-halts-us-ipo-china-inquiry",
    "firstSeen": "2026-11-05T00:38:29+08:00"
+  },
+  {
+   "id": "6f068c3b6d",
+   "title": "Nooks 拿到通用催化 5 亿美元「客户价值基金」：不占股、按带来的客户收入分成，同时发布销售 AI 私人助理 Node",
+   "summary": "11 月 4 日 Nooks 宣布获得 General Catalyst 客户价值基金（CVF）5 亿美元承诺。这笔钱不换股权，而是预付销售和市场投入，再从这些投入带来的客户价值中按封顶比例分成。Nooks 称有 2000 多家客户（含 Cursor、Notion、Replit、Glean），年增长约 3 倍、净收入留存 135%，96% 的智能体邮件无需修改即可发出；同日上线「收入智能体平台」和 2027 年初正式开放的销售助理 Node。信号：单位经济模型清晰的 AI SaaS 开始用非稀释的「收入分成式」资金替代股权融资。",
+   "links": [
+    "https://www.prnewswire.com/news-releases/nooks-secures-500-million-from-general-catalyst-and-launches-node-the-first-ai-personal-assistant-for-sales-302928795.html",
+    "https://www.nooks.ai/blog-posts/introducing-node-revenue-agent-platform",
+    "https://www.reuters.com/business/finance/ai-sales-startup-nooks-secures-500-million-funding-expansion-2026-11-04/"
+   ],
+   "topic": "nooks-500m-general-catalyst-cvf",
+   "firstSeen": "2026-11-05T00:58:02+08:00"
+  },
+  {
+   "id": "0c4fc93b37",
+   "title": "红杉关闭伦敦办公室、撤回湾区：称「不再需要本地团队」，同时砍掉 Arc 加速器和 Scouts 计划",
+   "summary": "Pathfounders 11 月 4 日报道：红杉资本在 X 上宣布关闭开设六年的伦敦办公室，部分员工将离开，欧洲项目改由加州团队覆盖。合伙人 Luciana Lixandru 留在欧洲、继续担任合伙人；Anas Biad 随公司搬去旧金山；Julien Bek 表示自己留在欧洲。此次调整是更大重组的一部分：红杉称新募约 100 亿美元，取消 Arc 加速器和 Scouts，压平合伙人层级并合并早期与成长期投资。信号：顶级美元基金向湾区 AI 收缩，欧洲创业生态的本地资金话语权被削弱。",
+   "links": [
+    "https://pathfounders.com/p/breaking-sequoia-shuts-london-office-in-shock-european-retreat"
+   ],
+   "topic": "sequoia-closes-london-office",
+   "firstSeen": "2026-11-05T00:58:02+08:00"
+  },
+  {
+   "id": "626d3932de",
+   "title": "《Pragmatic Engineer》征文冠军：AI 原生创业公司工程师月合并 PR 从 8–20 个涨到 200+，取消人工代码评审，代价是重复付款和「颠簸式」多任务",
+   "summary": "Pragmatic Engineer 11 月 3 日刊出征文一等奖（奖金 1 万美元）：工程师 Neil Kakkar 用自己的数据对比 PostHog 与 AI 原生公司 Tano，PR 产出提高约 11 倍、中位合并时间不到 1 小时、回滚率低 6 倍。Tano 只用 Claude Code GitHub Actions 自动评审、没有人工审查，也没有产品经理；代价包括迁移漏掉护栏导致给创作者重复付款、同时开 3–5 个任务让人更累、团队上下文变成孤岛。每人一个 20 倍 Claude Max 订阅，按 API 计价每月超 8000 美元。",
+   "links": [
+    "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing"
+   ],
+   "topic": "pragmatic-engineer-ai-native-200-prs",
+   "firstSeen": "2026-11-05T00:58:02+08:00"
+  },
+  {
+   "id": "02535a17ca",
+   "title": "据报阿里、腾讯、字节等中国公司订购约 600 万颗英伟达 RTX Pro 5500、价值约 700 亿美元，但四个月内预计只能拿到约 1%",
+   "summary": "彭博社 11 月 4 日援引知情人士报道：多家中国 AI 公司下单约 600 万颗 RTX Pro 5500 芯片，总值约 700 亿美元，但预计四个月内只能到货约 1%；DatacenterDynamics 同时报道英伟达要求数据中心合作伙伴降低中国敞口、限制 RTX 芯片对中国大陆销售。信号：即便只能拿到极少量，中国大厂仍愿排队等英伟达，说明 CUDA 生态和集群稳定性的替代难度依然很高。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered"
+   ],
+   "topic": "nvidia-china-rtx-pro-5500-orders",
+   "firstSeen": "2026-11-05T00:58:02+08:00"
+  },
+  {
+   "id": "80bb7506fc",
+   "title": "Waymo 将在 2028 年 1 月结束与 Uber 在奥斯汀、亚特兰大的独家合作，改用自家 App 接单",
+   "summary": "彭博社 11 月 4 日报道：Waymo 计划 2028 年 1 月终止在奥斯汀和亚特兰大通过 Uber 独家派单的合作，转用自己的 App，联席 CEO 称经 Uber 下单对乘客来说体验「全凭运气」。同日 Uber 公布三季度营收同比增 10% 至 148 亿美元，并计划扩大自有自动驾驶车队。信号：自动驾驶公司开始收回用户入口，网约车平台与 Robotaxi 从合作转向竞争。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-04/waymo-co-ceo-says-uber-app-deal-was-crapshoot-for-riders"
+   ],
+   "topic": "waymo-ends-uber-exclusive-2028",
+   "firstSeen": "2026-11-05T00:58:02+08:00"
   }
  ],
- "lastChecked": "2026-11-05T00:38:29+08:00"
+ "lastChecked": "2026-11-05T00:58:02+08:00"
 }
