@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-04T08:54:07+08:00",
+ "lastUpdated": "2026-11-04T09:10:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30158,7 +30158,17 @@
    ],
    "topic": "cat-wu-leaves-anthropic-claude-code",
    "firstSeen": "2026-11-04T08:54:07+08:00"
+  },
+  {
+   "id": "bdcd365668",
+   "title": "彭博：育碧等至少三家游戏公司竞购微软旗下 Arkane 工作室，微软需在 12 月截止前决定去留",
+   "summary": "据彭博消息，育碧（Ubisoft）及至少另外两家游戏公司已向微软报价，希望收购《耻辱》《死亡循环》开发商 Arkane Studios；微软正评估各种选项，期限在 12 月前。信号：微软游戏业务持续收缩剥离，大厂工作室与 IP 进入二手交易期，独立团队、外包与「被裁游戏人创业」相关机会值得关注。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-03/xbox-s-arkane-studios-attracts-multiple-bidders-including-ubisoft"
+   ],
+   "topic": "arkane-studios-bidders",
+   "firstSeen": "2026-11-04T09:10:02+08:00"
   }
  ],
- "lastChecked": "2026-11-04T08:54:07+08:00"
+ "lastChecked": "2026-11-04T09:10:02+08:00"
 }
