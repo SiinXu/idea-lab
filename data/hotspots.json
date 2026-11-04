@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T00:01:55+08:00",
+ "lastUpdated": "2026-11-05T00:12:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -30778,7 +30778,31 @@
    ],
    "topic": "kimi-k3-1-pro-open-weights",
    "firstSeen": "2026-11-05T00:01:55+08:00"
+  },
+  {
+   "id": "6ed5b87fe3",
+   "title": "谷歌为 Anthropic 租约兜底：TeraWulf 拿到 Google 信用担保，为肯塔基州 190 亿美元 AI 数据中心项目融资",
+   "summary": "TeraWulf 11 月 4 日公告并提交 8-K：与 Google、Anthropic 签署三份信用支持协议，为其肯塔基州 Hawesville「Justified」数据中心园区的债务融资兜底。该园区 7 月与 Anthropic 签下 20 年租约，约 401MW 关键 IT 负载、合同收入约 190 亿美元，首批容量预计 2027 年下半年上线、2028 年二季度交付完毕。若 Anthropic 违约或破产，Google 可选择代付租金并接手租约，或支付终止费换取项目公司股权；Anthropic 获得并维持投资级评级三个月后担保终止。TeraWulf 同时与 Fluor 签了最高限价 EPC 总包合同。信号：大模型公司的算力租约正在靠云巨头信用撑起融资，「比特币矿企转 AI 数据中心」和算力金融化的生意还在加速。",
+   "links": [
+    "https://investors.terawulf.com/news-events/press-releases/detail/148/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement",
+    "https://www.channelnewsasia.com/business/terawulf-gets-credit-backstop-google-anthropic-data-center-project-6524516",
+    "https://www.techmeme.com/261104/p36"
+   ],
+   "topic": "terawulf-google-backstop-anthropic",
+   "firstSeen": "2026-11-05T00:12:30+08:00"
+  },
+  {
+   "id": "ea400c3d15",
+   "title": "加密与 AI 超级 PAC 砸 2.5 亿美元押注美国中期选举，已揭晓的 12 场竞争性选战输掉 9 场",
+   "summary": "Molly White 在 Citation Needed 统计：加密和 AI 行业在 2026 年中期选举中合计投入约 2.5 亿美元，近四分之三流向竞争性选区，但目前已揭晓的 12 场竞争性选战中，它们支持的一方输了 9 场，花在输家身上 7470 万美元、赢家仅 2830 万美元。加密行业在俄亥俄州参议院选举中砸下逾 6400 万美元反对 Sherrod Brown（单场史上最高），Brown 仍胜出；众议院金融服务委员会数字资产小组主席 Bryan Steil 落选；AI 超级 PAC 最大一笔 410 万美元押注的南卡参议员候选人也落败。信号：叠加多地公投否决数据中心，AI 与加密行业的政治游说正遭遇民意反噬，2027 年数据中心监管、AI 立法的走向可能明显收紧。",
+   "links": [
+    "https://www.citationneeded.news/2026-election-results/",
+    "https://influence.citationneeded.news/2026/results",
+    "https://www.techmeme.com/261104/p35"
+   ],
+   "topic": "crypto-ai-superpacs-midterms-2026",
+   "firstSeen": "2026-11-05T00:12:30+08:00"
   }
  ],
- "lastChecked": "2026-11-05T00:01:55+08:00"
+ "lastChecked": "2026-11-05T00:12:30+08:00"
 }
