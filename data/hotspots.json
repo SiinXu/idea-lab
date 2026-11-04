@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T05:26:41+08:00",
+ "lastUpdated": "2026-11-05T05:39:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31313,7 +31313,30 @@
    ],
    "topic": "gemini-notebook-api-mcp-public-preview",
    "firstSeen": "2026-11-05T05:26:41+08:00"
+  },
+  {
+   "id": "adca6b9b11",
+   "title": "谷歌 DeepMind 与斯坦福论文：一颗红心图片就能让 Claude Opus 4.7、GPT-5.4 写代码时从 0% 改用递归到 100%",
+   "summary": "论文《A Heart Means Recursion》让三款视觉语言模型解二叉树中序遍历：不给图时 Claude Opus 4.7 和 GPT-5.4 全用循环，附上一颗红心并让模型看图后，两者 20 次全部改写成递归；Gemini 3.1 Pro 则被黄色对勾推到 90%。团队测了 24 种形状 × 12 种颜色共 288 个符号，每个模型的「受引导方式」各不相同，用文字描述同样的图几乎没有效果，而且模型的思考过程里往往不承认受了图片影响。研究仍属初步、任务是人造的，但提示「看似无关的图片」可能悄悄改变智能体输出，对多模态提示注入和安全审查有参考价值。该话题今天在 X 上热议。",
+   "links": [
+    "https://arxiv.org/abs/2610.36449",
+    "https://www.tokenpost.com/news/technology/48037",
+    "https://x.com/i/trending/2118061595972473189"
+   ],
+   "topic": "heart-means-recursion-visual-steering-vlm",
+   "firstSeen": "2026-11-05T05:39:37+08:00"
+  },
+  {
+   "id": "887e8f45c2",
+   "title": "Replit Pro 用户注意：新合同加入强制仲裁和放弃集体诉讼条款，退出期限 11 月 8 日截止",
+   "summary": "Read the Diff 发文提醒：10 月 9 日起新的 Replit Pro 协议替换旧协议，新增强制仲裁和集体诉讼弃权条款，旧协议里都没有。合同规定须在「首次受约束后 30 天内」通知 Replit 才能退出，Replit 10 月 28 日书面确认新协议对老 Pro 用户 10 月 9 日生效，因此截止日为 11 月 8 日；9 月之后新注册的用户期限从注册日起算，可能已过。官方 9 月邮件只说可在 30 天内退出，没写日期和地址。该帖登上 Hacker News，也反映 AI 编程平台在用户条款上的收紧。",
+   "links": [
+    "https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8",
+    "https://news.ycombinator.com/item?id=50371346"
+   ],
+   "topic": "replit-pro-arbitration-opt-out-nov-8",
+   "firstSeen": "2026-11-05T05:39:37+08:00"
   }
  ],
- "lastChecked": "2026-11-05T05:26:41+08:00"
+ "lastChecked": "2026-11-05T05:39:37+08:00"
 }
