@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T04:02:05+08:00",
+ "lastUpdated": "2026-11-05T04:17:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31213,7 +31213,40 @@
    ],
    "topic": "ladybird-october-2026-jit-wpt",
    "firstSeen": "2026-11-05T04:02:05+08:00"
+  },
+  {
+   "id": "cf0d440cdc",
+   "title": "AMD 披露以约 29 亿美元收购 AI 推理芯片公司 Taalas，其中 14 亿美元取决于未公开条件",
+   "summary": "AMD 11 月 4 日在证券文件中首次披露 8 月宣布的收购价格：以现金加股票约 29 亿美元买下多伦多半导体初创公司 Taalas，其中 14 亿美元与未具体说明的条件挂钩，交易仍待监管批准。Taalas 由前 AMD 高管 Ljubisa Bajic、Lejla Bajic 和 Drago Ignjatovic 于 2023 年 8 月创立，专做运行大语言模型的芯片。据《环球邮报》，这是加拿大科技公司史上规模最大的收购之一，超过 2020 年纳斯达克以 27.5 亿美元收购 Verafin。",
+   "links": [
+    "https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas/",
+    "https://www.techmeme.com/261104/p48"
+   ],
+   "topic": "amd-taalas-2-9b-filing",
+   "firstSeen": "2026-11-05T04:17:38+08:00"
+  },
+  {
+   "id": "5d2d930aec",
+   "title": "彭博：苹果给工程师的每日 AI 使用额度从 300 美元砍到 200 美元，还计划降到 100 美元，员工担心裁员",
+   "summary": "据彭博 Mark Gurman 报道，苹果正在作为降本措施削减员工的 AI 使用预算：部分工程师每天可花在 AI 工具上的上限已从 300 美元降到 200 美元，后续可能低至 100 美元。消息在内部引发对裁员的担忧。这也说明大厂内部 AI 编程工具的真实成本已高到需要单独设限。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending",
+    "https://www.techmeme.com/261104/p49"
+   ],
+   "topic": "apple-internal-ai-budget-cut",
+   "firstSeen": "2026-11-05T04:17:38+08:00"
+  },
+  {
+   "id": "ae3d97c761",
+   "title": "iOS 27.3 起苹果将检查 iCloud「任何拥有链接的人」公开分享内容中的「有害内容」，可删内容或停用账户",
+   "summary": "9to5Mac 报道，苹果在 iOS 27.3 等 27.3 系统版本中改变 iCloud 公开链接的规则：设置为「任何拥有链接的人」可访问的 iCloud 共享项目，将被检查是否包含「有害内容」，苹果可能删除相关内容或停用账户。这是苹果此前强调端侧隐私之后，首次明确对公开分享的云端内容做主动审查，预计会引发隐私讨论。",
+   "links": [
+    "https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/",
+    "https://www.techmeme.com/261104/p47"
+   ],
+   "topic": "icloud-public-link-harmful-content-scan",
+   "firstSeen": "2026-11-05T04:17:38+08:00"
   }
  ],
- "lastChecked": "2026-11-05T04:02:05+08:00"
+ "lastChecked": "2026-11-05T04:17:38+08:00"
 }
