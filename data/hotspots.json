@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T01:27:26+08:00",
+ "lastUpdated": "2026-11-05T01:40:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31025,7 +31025,18 @@
    ],
    "topic": "evergreen-lang",
    "firstSeen": "2026-11-05T01:27:26+08:00"
+  },
+  {
+   "id": "14e5e38790",
+   "title": "Replay 喊出「终结有 bug 的网页应用」：时间旅行调试器 + 编码 Agent，自动发现、定位根因并修复用户遇到的每个 bug",
+   "summary": "Replay 创始人 Brian Hackett 撰文称，借助其为 Chromium 和 Node.js 打造的时间旅行调试器，可完整回放应用执行过程，让 AI Agent 看到每条语句和每个状态，不再靠猜；Replay QA 能自主探索测试、从部分脱敏的用户会话复现问题，并给出带证据的根因分析和修复。代表「可观测性是 AI 编程上下文层」的思路，正上 HN 热榜。",
+   "links": [
+    "https://replay.io/blog/an-end-to-buggy-web-apps",
+    "https://news.ycombinator.com/item?id=50368439"
+   ],
+   "topic": "replay-qa-time-travel",
+   "firstSeen": "2026-11-05T01:40:01+08:00"
   }
  ],
- "lastChecked": "2026-11-05T01:27:26+08:00"
+ "lastChecked": "2026-11-05T01:40:01+08:00"
 }
