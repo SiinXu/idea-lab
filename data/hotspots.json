@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T01:40:01+08:00",
+ "lastUpdated": "2026-11-05T02:01:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31036,7 +31036,28 @@
    ],
    "topic": "replay-qa-time-travel",
    "firstSeen": "2026-11-05T01:40:01+08:00"
+  },
+  {
+   "id": "93f9368a4a",
+   "title": "Axiom 把整部《Stacks Project》代数几何百科形式化成约 1600 万行 Lean 代码：AI 智能体集群完成，开源可复用",
+   "summary": "继上月用 24 天形式化「有限单群分类」后，Axiom 又用成群 AI 智能体把 2005 年起的开源代数几何参考书 Stacks Project 全部转成机器可验证的 Lean 证明，保留原书永久标签结构；库分为人工审核的 StacksCore 和 AI 生成的 StacksFrontier，欢迎贡献。AI 自动形式化正从单个定理走向整门学科。",
+   "links": [
+    "https://tldr.tech/story/9b21e867-016b-4aba-8a83-167ee001ac94",
+    "https://x.com/i/trending/2118032680285507797"
+   ],
+   "topic": "axiom-stacks-project-lean",
+   "firstSeen": "2026-11-05T02:01:15+08:00"
+  },
+  {
+   "id": "98979126e3",
+   "title": "据 The Information：OpenAI 最快本周五发布新一代 Astra、Sol 及网络安全专用模型，或命名为 GPT-6.2",
+   "summary": "知情人士称 OpenAI 准备最早本周五推出升级版 Astra、Sol 和一款面向网络安全的模型，可能统一叫 GPT-6.2；此前已有新型号名在网页源码和 Codex 中曝光。官方尚未确认，时间可能变动。",
+   "links": [
+    "https://x.com/i/trending/2118018894543860181"
+   ],
+   "topic": "openai-gpt-6-2-friday-report",
+   "firstSeen": "2026-11-05T02:01:15+08:00"
   }
  ],
- "lastChecked": "2026-11-05T01:40:01+08:00"
+ "lastChecked": "2026-11-05T02:01:15+08:00"
 }
