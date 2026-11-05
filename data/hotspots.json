@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T20:44:55+08:00",
+ "lastUpdated": "2026-11-05T21:02:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33192,7 +33192,41 @@
    ],
    "topic": "websitebench-tiger-ai-lab-2026-11",
    "firstSeen": "2026-11-05T20:44:55+08:00"
+  },
+  {
+   "id": "743e4b5acf",
+   "title": "Show HN：Cosyra——手机遥控本机 / 云端编程智能体",
+   "summary": "Cosyra 把 Claude Code / Codex 等会话接到手机：扫码或短码续聊，可看文件与 diff、贴截图、接 Linear/AWS/Vercel，密钥进独立密钥库。工作区是每户独立硬件虚拟化 VM，标价约 $30/月（8GB）；对比 Claude Remote Control、Termius+Tailscale、自建 VPS。今日 Show HN。",
+   "links": [
+    "https://cosyra.com/",
+    "https://news.ycombinator.com/item?id=50378466"
+   ],
+   "topic": "cosyra-mobile-coding-agents-2026-11-05",
+   "firstSeen": "2026-11-05T21:02:15+08:00"
+  },
+  {
+   "id": "1cbc81b877",
+   "title": "Ryugu 小行星样本检出 DNA/RNA 全部五种碱基",
+   "summary": "Nature Astronomy：Hayabusa2 带回的 Ryugu 样本检出腺嘌呤、鸟嘌呤、胞嘧啶、胸腺嘧啶、尿嘧啶五种规范碱基，与 Bennu/Orgueil/Murchison 对比显示嘌呤/嘧啶比与氨浓度相关。无地球污染样本强化「碳质小行星向早期地球投送生命前体」证据；ScienceDaily 与 HN 今日跟进。",
+   "links": [
+    "https://www.nature.com/articles/s41550-026-02791-z",
+    "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
+    "https://news.ycombinator.com/item?id=50378085"
+   ],
+   "topic": "ryugu-all-five-nucleobases-nature-astronomy-2026",
+   "firstSeen": "2026-11-05T21:02:15+08:00"
+  },
+  {
+   "id": "893335b222",
+   "title": "Agentless macOS：只用苹果自带 eslogger 做终端遥测",
+   "summary": "HBCC 实验室用系统自带 eslogger + 自写过滤器 + Splunk，19 天在一台 M3 MBA 上收 20 万+ 事件，不装第三方 EDR。心跳与 TCC 撤销规则可发现传感器被「致盲」；指出 kextload 在 Apple silicon 上常是 DriverKit 误报。适合个人/实验室不想给第三方 Full Disk Access 的场景。",
+   "links": [
+    "https://www.handsomeboyscomputer.club/log/agentless-macos-1/",
+    "https://news.ycombinator.com/item?id=50378463"
+   ],
+   "topic": "agentless-macos-eslogger-hbcc-2026-11",
+   "firstSeen": "2026-11-05T21:02:15+08:00"
   }
  ],
- "lastChecked": "2026-11-05T20:44:55+08:00"
+ "lastChecked": "2026-11-05T21:02:15+08:00"
 }
