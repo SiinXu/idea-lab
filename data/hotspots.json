@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T01:41:05+08:00",
+ "lastUpdated": "2026-11-06T02:06:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34308,7 +34308,94 @@
    ],
    "topic": "smelt-java-mod-rust-port-horizon-2026-11-05",
    "firstSeen": "2026-11-06T01:41:05+08:00"
+  },
+  {
+   "id": "d5e3386855",
+   "title": "俄亥俄州立：AI 电子鼻 + 可穿戴 Scentronic，气味识别约 73%",
+   "summary": "结合 AI 电子鼻与可穿戴气味释放装置，实验室中单气味识别约 73%、组合约 71%；论文发在 Science Advances，面向 XR、医疗嗅觉辅助等场景。",
+   "links": [
+    "https://news.osu.edu/new-tech-passes-the-smell-test/"
+   ],
+   "topic": "osu-ai-enose-scentronic-2026-11-05",
+   "firstSeen": "2026-11-06T02:06:14+08:00"
+  },
+  {
+   "id": "414f5ff357",
+   "title": "健身房 App 强推社媒：开发者逆向其客户端拆穿套路",
+   "summary": "作者因 Gym 强制绑定社交功能而逆向官方 App，把隐藏接口与数据路径摊开；HN 上讨论升温，适合做「强迫增长 vs 用户主权」案例。",
+   "links": [
+    "https://shayon.work/blog/reverse-engineering-gym-pass",
+    "https://news.ycombinator.com/item?id=50381849"
+   ],
+   "topic": "gym-pass-reverse-engineer-hn-2026-11-05",
+   "firstSeen": "2026-11-06T02:06:14+08:00"
+  },
+  {
+   "id": "9f3290e2ca",
+   "title": "Stroq：本地审计 coding agent 会话里的已知密钥与风险命令",
+   "summary": "开源工具扫描 Claude Code / Codex / Cursor 等会话中的已知 secrets，并用本地 hook 把危险命令回溯到「谁让它这么做」的上下文，无遥测。",
+   "links": [
+    "https://github.com/AGGIB/Stroq",
+    "https://news.ycombinator.com/item?id=50381700"
+   ],
+   "topic": "stroq-agent-session-secrets-2026-11-05",
+   "firstSeen": "2026-11-06T02:06:14+08:00"
+  },
+  {
+   "id": "096ac82ba2",
+   "title": "Flawless UI/UX：给 coding agent 的界面设计 skill + 巡检 CLI",
+   "summary": "Show HN 上新的 agent skill，目标是让模型做出有辨识度、可用的界面，并附带检查 CLI；踩中「agent + 设计规范」这波。",
+   "links": [
+    "https://github.com/smokeeaasd/flawless-ui-ux",
+    "https://news.ycombinator.com/item?id=50381846"
+   ],
+   "topic": "flawless-ui-ux-agent-skill-2026-11-05",
+   "firstSeen": "2026-11-06T02:06:14+08:00"
+  },
+  {
+   "id": "9ab82e551e",
+   "title": "Sanctuary：Apple Silicon / iOS 上离线跑 LLM（TestFlight）",
+   "summary": "Show HN：在 iPhone/iPad 用 Metal 本地跑大模型的离线客户端已开 TestFlight，主打无云、低延迟私有推理。",
+   "links": [
+    "https://testflight.apple.com/join/Z51G6g5G",
+    "https://news.ycombinator.com/item?id=50381998"
+   ],
+   "topic": "sanctuary-offline-llm-ios-metal-2026-11-05",
+   "firstSeen": "2026-11-06T02:06:14+08:00"
+  },
+  {
+   "id": "5d00c63551",
+   "title": "Hermes Voice：用 Home Assistant / 旧 Echo 语音聊 Hermes Agent",
+   "summary": "把 Hermes Agent 画像接到 Home Assistant Assist（可配合 echo-dot-assist），语音会话保持 session；附带安装 skill 与 hey hermes 唤醒词。",
+   "links": [
+    "https://github.com/majorminorlabs/hermes-voice",
+    "https://news.ycombinator.com/item?id=50381927"
+   ],
+   "topic": "hermes-voice-home-assistant-2026-11-05",
+   "firstSeen": "2026-11-06T02:06:14+08:00"
+  },
+  {
+   "id": "58618a54da",
+   "title": "Tokenfund：用 coding agent 的 token 赞助开源，而不是付钱",
+   "summary": "按「别人愿意给项目烧多少 harness token」给开源排序；点 + 设额度后，你的 coding agent 在沙箱里继续帮项目干活。",
+   "links": [
+    "https://tokenfund.myclawn.com",
+    "https://news.ycombinator.com/item?id=50381940"
+   ],
+   "topic": "tokenfund-agent-tokens-oss-2026-11-05",
+   "firstSeen": "2026-11-06T02:06:14+08:00"
+  },
+  {
+   "id": "dc28e50dc4",
+   "title": "Window Sweaters：给 macOS 窗口套上针织边框的菜单栏玩具",
+   "summary": "开源菜单栏小工具，给任意窗口加「毛衣」针织边框；HN 上轻松刷屏，属于桌面趣味开源。",
+   "links": [
+    "https://github.com/saragordic/window-sweaters",
+    "https://news.ycombinator.com/item?id=50381680"
+   ],
+   "topic": "window-sweaters-macos-hn-2026-11-05",
+   "firstSeen": "2026-11-06T02:06:14+08:00"
   }
  ],
- "lastChecked": "2026-11-06T01:41:05+08:00"
+ "lastChecked": "2026-11-06T02:06:14+08:00"
 }
