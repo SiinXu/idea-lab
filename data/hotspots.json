@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T21:48:14+08:00",
+ "lastUpdated": "2026-11-05T22:04:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33313,7 +33313,83 @@
    ],
    "topic": "lmux-macos-terminal-claude-codex-2026-11-05",
    "firstSeen": "2026-11-05T21:48:14+08:00"
+  },
+  {
+   "id": "0e097a4517",
+   "title": "商汤 SenseNova 6.8 Flash 正式版：跨会话长期记忆 + 可编辑动态设计交付",
+   "summary": "11 月 2 日发布正式版：强调跨任务/跨会话长期记忆与主动提醒（客户需求变化、岗位交接等）；设计侧可一次生成带叙事节奏的动态 PPT/海报、可编辑 Blender 工程，并接入 Figma。配套开源 SenseNova-Skills；Code2Video 可将提示写成可改视频代码。官方称办公智能体、数据分析与演示生成等评测领先部分国际前沿模型；长期记忆演示部分基于内部研发版。",
+   "links": [
+    "https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421",
+    "https://technode.com/2026/11/03/sensetime-launches-sensenova-6-8-flash-for-office-and-design-workflows/",
+    "https://x.com/i/trending/2118068699252801836"
+   ],
+   "topic": "sensetime-sensenova-6-8-flash-2026-11",
+   "firstSeen": "2026-11-05T22:04:23+08:00"
+  },
+  {
+   "id": "b06b054a80",
+   "title": "Declarative Dragging：声明「拖到哪些未来状态」，引擎自动合成丝滑动效",
+   "summary": "UIST '26：不做几何/反馈胶水代码，只声明每个可拖元素能到达的应用模型状态；系统投机渲染这些状态、抽出位置，再合成流畅拖拽。开源库 Dragology 面向 Web SVG，支持浮动、吸附与组合修饰；适合数学可探索界面、并行表示与编程环境重构。Lobsters 今日热议。",
+   "links": [
+    "https://declarative-dragging.github.io/",
+    "https://lobste.rs/s/jplxxr"
+   ],
+   "topic": "declarative-dragging-dragology-uist-2026",
+   "firstSeen": "2026-11-05T22:04:23+08:00"
+  },
+  {
+   "id": "3ccf7704cd",
+   "title": "Zig 重写 libc 的 strspn 踩中「油漆工」陷阱：SQLite 插入慢约 12000 倍",
+   "summary": "Dennis Forbes：用 cargo-zigbuild 交叉编译带 SQLite 的 Rust 服务时，Zig libzigc 对 strspn/strcspn 等先量整串长度，令 JSON tokenizer 呈二次复杂度；1.2MB 文件解析约慢 1.2 万倍，Linux 构建才出现、Mac 无感。提醒跨工具链静态链接时基础字符串例程仍会复发经典性能坑。",
+   "links": [
+    "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/",
+    "https://lobste.rs/s/lh1j0e"
+   ],
+   "topic": "zig-libzigc-strspn-sqlite-12000x-2026",
+   "firstSeen": "2026-11-05T22:04:23+08:00"
+  },
+  {
+   "id": "2fb4e1b7c9",
+   "title": "Nethercote：2026 年 11 月 Rust 编译器提速月报——海量绿灯、峰值内存降约 4.5%",
+   "summary": "Hexcat 首月：Span 压缩新方案增量构建 intern 比例从约 20–40% 降到约 1%；新 trait solver 在 Diesel 上指令开销从约 1.49× 压到约 1.16×；多笔微优化与元数据稀疏编码（体积最多降约 37%）。9/28–11/2 相关墙钟测试 236 绿 / 4 红，均值墙钟约 -2.85%、峰值 RSS 约 -4.46%。",
+   "links": [
+    "https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html",
+    "https://lobste.rs/s/ecrqpy"
+   ],
+   "topic": "rustc-perf-nethercote-november-2026",
+   "firstSeen": "2026-11-05T22:04:23+08:00"
+  },
+  {
+   "id": "9237dfef93",
+   "title": "高通押注数据中心对冲手机芯片下滑：2027 财年目标约 50 亿美元，远期约占营收三成",
+   "summary": "Q4 财报电话会：手机相关收入同比约跌两成背景下，高通给出数据中心路径——2027Q1 约 6.5 亿美元、2027 全年约 50 亿、2029 约 150 亿，并称远期可占业务约 30%。已与亚马逊、Meta 等有合作；对比 AMD「数据中心终将占八成以上」的说法更保守，但仍显示 AI 算力需求外溢到手机芯片厂。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
+   ],
+   "topic": "qualcomm-data-center-pivot-earnings-2026-11",
+   "firstSeen": "2026-11-05T22:04:23+08:00"
+  },
+  {
+   "id": "f7f044f189",
+   "title": "The Verge：亚马逊/微软/Alphabet/Meta 今年资本开支合计至少约 7200 亿美元，AI 基建不会自己踩刹车",
+   "summary": "四家巨头财报后复盘：今年 CapEx 至少约 7200 亿美元，多数投向 AI 基础设施，另有逾 1 万亿美元远期承诺；多数公司称 2027 还要加码。华尔街已因开支担忧抛售，中期选举后地方数据中心限制升温，但管理层仍把加码说成「一生一次」机会；Anthropic 当季计算成本约 175 亿美元、几乎吃光约 170 亿美元营收。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3"
+   ],
+   "topic": "big-tech-720b-capex-ai-buildout-verge-2026-11-05",
+   "firstSeen": "2026-11-05T22:04:23+08:00"
+  },
+  {
+   "id": "b53a7bae9b",
+   "title": "Zig 0.17.1 发布：跟进 libc/工具链修复",
+   "summary": "Zig 语言 0.17.1 点版发布。结合近日「libzigc 字符串例程导致 SQLite 极慢」讨论，社区正盯交叉编译与 musl/libzigc 替换路径上的基础例程正确性与性能。",
+   "links": [
+    "https://ziglang.org/news/0.17.1-released/",
+    "https://lobste.rs/s/pa1411"
+   ],
+   "topic": "zig-0-17-1-release-2026-11",
+   "firstSeen": "2026-11-05T22:04:23+08:00"
   }
  ],
- "lastChecked": "2026-11-05T21:48:14+08:00"
+ "lastChecked": "2026-11-05T22:04:23+08:00"
 }
