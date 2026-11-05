@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T00:13:18+08:00",
+ "lastUpdated": "2026-11-06T00:26:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33931,7 +33931,95 @@
    ],
    "topic": "nature-epilepsy-chemogenetics-gene-therapy-nejm-2026-11",
    "firstSeen": "2026-11-06T00:13:18+08:00"
+  },
+  {
+   "id": "f0294af6c6",
+   "title": "Ocient 完成 1 亿美元 C 轮：押注 petabyte 级 Agentic AI 分析",
+   "summary": "芝加哥数据平台 Ocient 由 BOKA Capital 与 OCA Ventures 领投完成 1 亿美元 C 轮，累计融资约 2.6 亿；资金用于加速 OcientAIQ，让智能体与分析师直接查询受治理的海量数据，国安与电信需求拉动明显。",
+   "links": [
+    "https://siliconangle.com/2026/11/05/ocient-raises-100-million-as-agentic-ai-drives-growth-in-large-scale-analytics/",
+    "https://www.businesswire.com/news/home/20261105209219/en/Ocient-Raises-%24100M-in-Series-C-Funding-to-Advance-Trusted-AI-Solutions-for-Petabyte-Scale-Environments"
+   ],
+   "topic": "ocient-series-c-100m-2026-11",
+   "firstSeen": "2026-11-06T00:26:54+08:00"
+  },
+  {
+   "id": "f67cbdae3a",
+   "title": "月之暗面正式发布 Kimi Hosted Agents：把 Agent Harness 做成云服务",
+   "summary": "Kimi Hosted Agents 提供 7×24 托管沙箱、会话恢复、140+ Skills 与 30+ 插件；企业不必自建运行框架即可跑长程与多智能体任务，沙箱按约 ¥0.072/小时计费，并可接 Inference Hook 做企业安全策略。",
+   "links": [
+    "https://www.kimi.com/news/kimi-hosted-agents",
+    "https://www.yicai.com/news/103427135.html"
+   ],
+   "topic": "kimi-hosted-agents-launch-2026-11",
+   "firstSeen": "2026-11-06T00:26:54+08:00"
+  },
+  {
+   "id": "e63b8d0c30",
+   "title": "英国 Potential Sciences 亮相：用物理模拟合成数据训练药物发现 AI",
+   "summary": "剑桥初创 Potential Sciences 获英国 Sovereign AI 等八位数种子轮，主张用 GPU 加速量子化学生成大规模合成生化数据，声称可将设计新药的计算成本压低约百倍，减少对有限实验记录的依赖。",
+   "links": [
+    "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+    "https://www.gov.uk/government/news/sovereign-ai-puts-cash-and-compute-behind-uk-startup-using-ai-to-redefine-chemistry"
+   ],
+   "topic": "potential-sciences-wired-2026-11",
+   "firstSeen": "2026-11-06T00:26:54+08:00"
+  },
+  {
+   "id": "15549fd057",
+   "title": "保险 AI Kalepa 完成 7500 万美元 B 轮，估值 4.7 亿且已连续两年正现金流",
+   "summary": "纽约 Kalepa 由 Updata Partners 领投完成 7500 万美元 B 轮，估值 4.7 亿美元、累计约 9100 万；过去一年营收与客户数均约三倍，计划 2027 年把团队再翻倍，把 AI 智能体铺到核保、定价与组合管理。",
+   "links": [
+    "https://kalepa.com/news-posts/kalepa-raises-75-million-series-b",
+    "https://techfundingnews.com/kalepa-75m-series-b-updata-insurance-ai/"
+   ],
+   "topic": "kalepa-series-b-75m-2026-11",
+   "firstSeen": "2026-11-06T00:26:54+08:00"
+  },
+  {
+   "id": "c9ee8c4e5a",
+   "title": "Services4Agents：面向自治智能体的按次付费基建，USDC 链上结算",
+   "summary": "新站点 Services4Agents 把状态、工具与 A2A 经济能力拆成可发现的按次调用砖块，在 Base 上用 USDC 结算，智能体无需开户或订阅即可付费调用，冲上 HN 新帖。",
+   "links": [
+    "https://services4agents.fyi",
+    "https://news.ycombinator.com/item?id=50381053"
+   ],
+   "topic": "services4agents-hn-2026-11",
+   "firstSeen": "2026-11-06T00:26:54+08:00"
+  },
+  {
+   "id": "3f453d9910",
+   "title": "Shopify 开源思路：Reflex 架构让智能体测移动端，无需模拟器",
+   "summary": "Shopify 工程博客介绍 Reflex：智能体可在无模拟器情况下测试移动 App 行为，并用同一套测试保持 iOS/Android 同步，承接 Native 回归与 Helix 检查点式重建屏幕的实践。",
+   "links": [
+    "https://shopify.engineering/reflex",
+    "https://news.ycombinator.com/item?id=50380949"
+   ],
+   "topic": "shopify-reflex-agents-2026-11",
+   "firstSeen": "2026-11-06T00:26:54+08:00"
+  },
+  {
+   "id": "344c0bef63",
+   "title": "Nordstjernen：从零用 C 写的极简跨平台浏览器登上 HN",
+   "summary": "独立浏览器 Nordstjernen 用 C 从零实现，聚焦 HTML/CSS 标准，支持 Windows/macOS/Linux，并有 Android、BSD 与 JVM 构建；同系列还有 Rust 版 Northstar/Southstar，冲上 HN。",
+   "links": [
+    "https://nordstjernen.org/",
+    "https://news.ycombinator.com/item?id=50380170"
+   ],
+   "topic": "nordstjernen-browser-hn-2026-11",
+   "firstSeen": "2026-11-06T00:26:54+08:00"
+  },
+  {
+   "id": "e96dae2d41",
+   "title": "404 Media：OnlyFake 创始人自白——用 AI 量产假证，朝鲜黑客找上门",
+   "summary": "404 Media 长文采访 OnlyFake 创始人：站点用 AI 批量生成逼真假证件；随后朝鲜相关人员接触求购，暴露 AI 证件造假黑产如何快速规模化并被国家级买家盯上。",
+   "links": [
+    "https://www.404media.co/the-confessions-of-an-ai-fraud-kingpin-onlyfake-owner-nazarenko/",
+    "https://news.ycombinator.com/item?id=50381060"
+   ],
+   "topic": "onlyfake-404media-2026-11",
+   "firstSeen": "2026-11-06T00:26:54+08:00"
   }
  ],
- "lastChecked": "2026-11-06T00:13:18+08:00"
+ "lastChecked": "2026-11-06T00:26:54+08:00"
 }
