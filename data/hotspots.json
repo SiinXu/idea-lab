@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T09:45:06+08:00",
+ "lastUpdated": "2026-11-05T09:53:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31525,7 +31525,29 @@
    ],
    "topic": "spacex-starfall-microgravity",
    "firstSeen": "2026-11-05T09:45:06+08:00"
+  },
+  {
+   "id": "5ccdc48dfe",
+   "title": "高通 Cloud AI 100 Ultra 推理卡上 HN 热议：150W 功耗、128GB 显存、548GB/s 带宽",
+   "summary": "高通数据中心产品页 Cloud AI 100 Ultra 11 月 4 日登上 Hacker News 首页，约 100 分。按帖子标题给出的规格，这是一张 150W 的 AI 推理加速卡，配 128GB 内存、548GB/s 带宽，主打低功耗、大容量的大模型推理。讨论集中在它与 GPU 方案在单卡能装下的模型规模、带宽瓶颈和每瓦性能上的取舍。信号：大模型推理正在从「只看算力」转向「看显存容量和能耗」，面向私有化部署的低功耗推理硬件选型、成本对比和部署指南有内容与咨询需求。",
+   "links": [
+    "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+    "https://news.ycombinator.com/item?id=50370654"
+   ],
+   "topic": "qualcomm-cloud-ai-100-ultra-hn",
+   "firstSeen": "2026-11-05T09:53:55+08:00"
+  },
+  {
+   "id": "f106f87bae",
+   "title": "开源 Gauge CLI 发布：让真实编码智能体试用你的 Skill、CLI、SDK、MCP 和文档，找出卡点再迭代",
+   "summary": "gauge-sh/gauge-cli 11 月 4 日以 Show HN 形式发布，MIT 协议。它在本地 Docker 中让 Claude Code、Codex、Pi、OpenCode 等真实编码智能体去使用你的产品，记录它们卡在哪里：交互式命令阻塞、调用已废弃的命令或旧 API 写法、该用的 Skill 没被用上、误以为某功能不存在、看不懂多命令工作流等，然后让你的编码智能体先验证修复再发布。无需 Gauge 账号，费用走你自己的模型订阅或 API Key，另有托管版。信号：「智能体体验」（Agent Experience）正成为开发者工具的新优化指标，给 Skill/MCP/文档做 AX 审计与改写可以成为一项服务。",
+   "links": [
+    "https://github.com/gauge-sh/gauge-cli",
+    "https://news.ycombinator.com/item?id=50371090"
+   ],
+   "topic": "gauge-cli-agent-experience",
+   "firstSeen": "2026-11-05T09:53:55+08:00"
   }
  ],
- "lastChecked": "2026-11-05T09:45:06+08:00"
+ "lastChecked": "2026-11-05T09:53:55+08:00"
 }
