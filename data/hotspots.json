@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T19:17:01+08:00",
+ "lastUpdated": "2026-11-05T19:30:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32971,7 +32971,94 @@
    ],
    "topic": "austin-lau-anthropic-to-openai-2026-11",
    "firstSeen": "2026-11-05T19:17:01+08:00"
+  },
+  {
+   "id": "42ec3b4322",
+   "title": "Fal 再融 13 亿美元估值翻倍至 160 亿：推理需求暴涨，Nvidia 也跟投",
+   "summary": "生成媒体推理平台 Fal 完成由 Bessemer 领投的 F 轮，估值从 4 月的 80 亿美元翻到 160 亿美元；本轮与此前 E 轮合计约 16.5 亿美元。公司年化收入已超 8 亿美元，主打图像/视频/音频开源模型托管与推理。",
+   "links": [
+    "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "https://tech.eu/2026/11/04/fal-doubles-valuation-to-16b-after-13b-series-f/"
+   ],
+   "topic": "fal-16b-series-f-2026-11",
+   "firstSeen": "2026-11-05T19:30:17+08:00"
+  },
+  {
+   "id": "91e6a98d22",
+   "title": "谷歌公开健康 AI 评测框架：准确、安全、有用三维，基准+自动裁判+专家评审",
+   "summary": "Google for Health 与外部临床专家合作发布白皮书和 arXiv 论文，用 Critical User Journeys 锚定场景，覆盖基座模型、产品开发与上线后监测三阶段，整合封闭题基准、LLM autorater 与专家人工审阅。",
+   "links": [
+    "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
+    "https://arxiv.org/abs/2611.05127"
+   ],
+   "topic": "google-health-ai-eval-framework-2026-11",
+   "firstSeen": "2026-11-05T19:30:17+08:00"
+  },
+  {
+   "id": "79a5801146",
+   "title": "微软开源 VibeVoice 冲上 GitHub 日榜：长音频 ASR、流式识别与实时 TTS 全家桶",
+   "summary": "microsoft/VibeVoice 今日日增约 200 星，定位开源前沿语音 AI：ASR 单次可处理约 60 分钟长音频并输出说话人/时间戳/内容，另有流式 ASR、CPU BitNet 与 Realtime TTS；原 TTS 主仓代码曾因滥用风险下架。",
+   "links": [
+    "https://github.com/microsoft/VibeVoice",
+    "https://microsoft.github.io/VibeVoice"
+   ],
+   "topic": "microsoft-vibevoice-github-trending-2026-11-05",
+   "firstSeen": "2026-11-05T19:30:17+08:00"
+  },
+  {
+   "id": "2b23965150",
+   "title": "Discord CTO 确认桌面端全面改写为 Rust + GPUI：早期 Phoenix 双账号仅约 290MB 内存",
+   "summary": "Stanislav Vishnevskiy 证实放弃 Electron/React Native，桌面用 GPUI、移动端保留原生 UI 并共享 Rust 业务代码；Windows Latest 晒出 Discord Phoenix 任务管理器截图，两个账号约 290.2MB，对比现网常年 1–2GB、峰值可达 4GB。",
+   "links": [
+    "https://www.windowslatest.com/2026/11/05/discord-is-killing-its-electron-app-that-can-eat-4gb-of-ram-on-windows-11-and-the-rust-rebuild-uses-just-290mb/",
+    "https://wearethefrontier.org/world/2026/11/05/discord-rebuilds-desktop-client-rust-gpui"
+   ],
+   "topic": "discord-phoenix-rust-gpui-confirmed-2026-11-05",
+   "firstSeen": "2026-11-05T19:30:17+08:00"
+  },
+  {
+   "id": "98cc20a6ab",
+   "title": "ConardLi 开源 Garden Skills 登日榜：面向 Claude Code / Cursor 的可复用 Agent Skills 合集",
+   "summary": "GitHub 仓库 garden-skills 今日日增约 180 星，打包网页设计、知识检索、图像生成、动效短片等生产级 SKILL.md，可给 Claude Code、Cursor、Codex 等编码智能体直接复用。",
+   "links": [
+    "https://github.com/ConardLi/garden-skills"
+   ],
+   "topic": "conardli-garden-skills-trending-2026-11-05",
+   "firstSeen": "2026-11-05T19:30:17+08:00"
+  },
+  {
+   "id": "cc4720a64e",
+   "title": "「Awesome 列表不再 awesome」：过时条目 + AI 垃圾 PR 正在淹没 GitHub 资源榜",
+   "summary": "Erik Gahner 在 HN 热帖指出：许多 awesome-* 仓库年久失修，同时被 vibe-coded 工具批量提 PR 刷榜；awesome-free-online-tools 仅 13 星却有 91 个开放 PR，维护者若不人工核验就会把 AI 水货合进去。",
+   "links": [
+    "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+    "https://news.ycombinator.com/item?id=50377821"
+   ],
+   "topic": "awesome-lists-ai-slop-2026-11-05",
+   "firstSeen": "2026-11-05T19:30:17+08:00"
+  },
+  {
+   "id": "3250c5a2bd",
+   "title": "苏黎世联邦理工：用活体肌肉驱动的生物混合机器人能跳、游、走、抓",
+   "summary": "ETH Zurich 把培养的小鼠骨骼肌与水凝胶骨架在仿真里联合优化，做出约 1.5 厘米驱动器，活动幅度最高约是旧方案的 11 倍；单次收缩可弹起约 5 毫米，行走版相对体长速度据称创同类纪录。成果发在 Nature Communications。",
+   "links": [
+    "https://ethz.ch/en/news-and-events/eth-news/news/2026/10/one-small-leap-for-a-muscle-one-giant-step-for-robotics.html",
+    "https://www.nature.com/articles/s41467-026-77655-1"
+   ],
+   "topic": "ethz-biohybrid-muscle-robots-2026-11",
+   "firstSeen": "2026-11-05T19:30:17+08:00"
+  },
+  {
+   "id": "7079932e3a",
+   "title": "Show HN：Mooring——专为 Claude Code 打造的智能体开发环境",
+   "summary": "Mooring 自称面向 Claude Code 的 agentic IDE/开发环境，强调本地工作流与多智能体协作；刚出现在 HN New，适合关注编码智能体壳层工具的人跟进。",
+   "links": [
+    "https://mooring.sh/download",
+    "https://news.ycombinator.com/item?id=50377787"
+   ],
+   "topic": "mooring-claude-code-ade-2026-11-05",
+   "firstSeen": "2026-11-05T19:30:17+08:00"
   }
  ],
- "lastChecked": "2026-11-05T19:17:01+08:00"
+ "lastChecked": "2026-11-05T19:30:17+08:00"
 }
