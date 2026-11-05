@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T16:58:17+08:00",
+ "lastUpdated": "2026-11-05T17:11:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32533,7 +32533,42 @@
    ],
    "topic": "openai-dots-ios-notification-replies-2026-11",
    "firstSeen": "2026-11-05T16:58:17+08:00"
+  },
+  {
+   "id": "d4f5022280",
+   "title": "币安事故报告：朝鲜黑客用假面试骗工程师装马，再借内部 AI 工具横向移动",
+   "summary": "Register / Binance：10/29 约 63 亿美元盗案非单次钓鱼——6 月供应链攻破后，9 月假招聘多轮面试诱导工程师下载含毒作业，替换 pyenv；10/20 又借内部 AI 工具打到钱包 DevOps，最终用容器权限触发签名服务转账。FBI 归因 TraderTraitor；币安已重建相关系统并扩设备与行为检测。",
+   "links": [
+    "https://www.theregister.com/security/2026/11/03/north_korean_fake_job_interview_led_to_63b_binance_heist/5307398",
+    "https://news.ycombinator.com/item?id=50365755",
+    "https://www.bbc.com/news/articles/ck5ynwz9gy67o"
+   ],
+   "topic": "binance-fake-job-interview-internal-ai-2026-11",
+   "firstSeen": "2026-11-05T17:11:35+08:00"
+  },
+  {
+   "id": "ad0b8e410a",
+   "title": "币安 Recovery Update #8：11 月 5 日起分批再开更多资产提币",
+   "summary": "盗案后币安称已补回约 98% 受影响资产、冻结约 28.5 亿美元，并推出 PoR 快照扩至 44 种代币；Update #8 宣布 11/5 起在 ETH、BSC、Base 等网络按安全检查进度再开更多资产提币，充值此前未停。用户资金回流信号明显，但提币仍分阶段。",
+   "links": [
+    "https://binancebreach.com/statements",
+    "https://x.com/i/trending/2118065130932187500"
+   ],
+   "topic": "binance-withdrawals-reopen-update8-2026-11-05",
+   "firstSeen": "2026-11-05T17:11:35+08:00"
+  },
+  {
+   "id": "3d8bb59a2a",
+   "title": "zlib 1.4 发布：修复 gzwrite 溢出等多处安全漏洞",
+   "summary": "Mark Adler 11/4 发布 zlib 1.4：修 CVE-2026-85091（gzwrite 缓冲溢出）、CVE-2026-4738（infback9 越界指针）及 inflate/deflate/minizip 多处内存问题，并调整 MSVC CMake 库名、恢复 z_off_t 为 long。基础压缩库，几乎所有语言运行时都会间接受影响，建议尽快升级。",
+   "links": [
+    "https://www.zlib.net/ChangeLog.txt",
+    "https://www.zlib.net/",
+    "https://news.ycombinator.com/item?id=50376800"
+   ],
+   "topic": "zlib-1-4-security-release-2026-11",
+   "firstSeen": "2026-11-05T17:11:35+08:00"
   }
  ],
- "lastChecked": "2026-11-05T16:58:17+08:00"
+ "lastChecked": "2026-11-05T17:11:35+08:00"
 }
