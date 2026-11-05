@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T04:44:47+08:00",
+ "lastUpdated": "2026-11-06T04:46:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34942,7 +34942,38 @@
    ],
    "topic": "met-norway-api-haproxy-tos-2026-11-05",
    "firstSeen": "2026-11-06T04:44:47+08:00"
+  },
+  {
+   "id": "1e9f8c6cb4",
+   "title": "Check Point：ChatGPT Lockdown Mode 曾可被绕过静默外泄聊天",
+   "summary": "11 月 5 日披露（已于 9 月 18 日修补）：HTML 预览沙箱的弹窗权限可嵌套逃逸，绕过 Lockdown Mode，在 Classic 客户端可零点击外泄聊天、钓鱼与投毒。说明 AI 安全控件强度取决于整站应用层，企业合规与 Agent 沙箱产品有机会。",
+   "links": [
+    "https://research.checkpoint.com/2026/chatgpt-lockdown-mode-bypass-phishing-malware-delivery-and-silent-data-exfiltration/",
+    "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html"
+   ],
+   "topic": "chatgpt-lockdown-mode-bypass-checkpoint-2026-11-05",
+   "firstSeen": "2026-11-06T04:46:05+08:00"
+  },
+  {
+   "id": "1dc888564d",
+   "title": "谷歌/Meta/TikTok 起诉加州限制未成年人算法推荐法",
+   "summary": "三家公司分别起诉，称限制 16 岁以下算法信息流等「成瘾功能」违反第一修正案与 Section 230；加州司法部表示将力保儿童线上保护法规。未成年人内容合规、年龄门控与「非算法时间线」产品设计值得跟进。",
+   "links": [
+    "https://www.theverge.com/policy/1027737/google-meta-tiktok-sue-to-block-california-law-restricting-algorithmic-feeds-for-kids"
+   ],
+   "topic": "ca-kids-algorithmic-feeds-lawsuit-2026-11-05",
+   "firstSeen": "2026-11-06T04:46:05+08:00"
+  },
+  {
+   "id": "4a50ce07d5",
+   "title": "民主党高层喊「全国数据中心暂停令」：中期选举后反 AI 基建升温",
+   "summary": "CNBC：桑德斯等呼吁 National data center moratorium；多位翻盘候选人把数据中心当核心议题，芯片与 AI 基建股随担心监管而大跌。与已有选民反弹叙事不同，这是胜选后联邦层面禁令口号的明确落地信号。",
+   "links": [
+    "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html"
+   ],
+   "topic": "democrats-national-datacenter-moratorium-2026-11-05",
+   "firstSeen": "2026-11-06T04:46:05+08:00"
   }
  ],
- "lastChecked": "2026-11-06T04:44:47+08:00"
+ "lastChecked": "2026-11-06T04:46:05+08:00"
 }
