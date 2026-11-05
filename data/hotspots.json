@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T11:23:05+08:00",
+ "lastUpdated": "2026-11-05T11:42:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31712,7 +31712,17 @@
    ],
    "topic": "claude-apps-no-users-distribution-bottleneck",
    "firstSeen": "2026-11-05T11:23:05+08:00"
+  },
+  {
+   "id": "7c46ff076e",
+   "title": "OpenAI 宣布 12 月起 ChatGPT 与 Codex 共用一套 token 额度：Plus、Pro、Business 用户智能体任务将更快耗尽配额",
+   "summary": "OpenAI 宣布从 12 月开始，Plus、Pro 和 Business 订阅用户在 ChatGPT 与 Codex 之间共享同一个按 token 计算的用量池，以配合智能体功能的深度整合。即时对话仍不限量，多数用户的重置频率不变，但高级任务会更快消耗额度。重度用户在 X 上直呼「悲伤的一天」，也有人转向本地模型或 Gemini 等竞品。信号：订阅制正从「按次数」转向「按 token 统一计量」，跨工具用量监控、额度优化与多模型路由工具的需求会上升。",
+   "links": [
+    "https://x.com/i/trending/2118184793561301130"
+   ],
+   "topic": "openai-chatgpt-codex-shared-usage-limits",
+   "firstSeen": "2026-11-05T11:42:54+08:00"
   }
  ],
- "lastChecked": "2026-11-05T11:23:05+08:00"
+ "lastChecked": "2026-11-05T11:42:54+08:00"
 }
