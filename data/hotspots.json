@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T06:27:02+08:00",
+ "lastUpdated": "2026-11-06T06:43:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35307,7 +35307,50 @@
    ],
    "topic": "frontierphysics-end-to-end-2026-11",
    "firstSeen": "2026-11-06T06:27:02+08:00"
+  },
+  {
+   "id": "d1322d5a70",
+   "title": "Exo：Agent 运行时能安全改写自己的 harness，成本降 12–61%",
+   "summary": "Berkeley / a16z Casado 等提出 Exo：把可编辑策略层与受保护机制层分开，Agent 可在任务中检查并改写自身工具/提示/上下文策略，由独立 guardian 验收回滚。开源仓库已约 1600+ 星；AppWorld/SREGym 等评测相对不可自改对照组，模型成本降约 35–61%，完成率相当。",
+   "links": [
+    "https://arxiv.org/abs/2611.00463",
+    "https://github.com/exoharness/exo",
+    "https://x.com/i/trending/2118458551161201096"
+   ],
+   "topic": "exo-runtime-self-improving-harness-2026-11",
+   "firstSeen": "2026-11-06T06:43:13+08:00"
+  },
+  {
+   "id": "719dd39cdd",
+   "title": "Felicis × Newcomer 发布 Emergent 榜：29 家种子期「同龄人提名」创业公司",
+   "summary": "Newcomer 请 Cerebral Valley 演讲创始人互推尚未超过种子轮的公司，首期 29 家；Agent 支付（Agentcard）、MCP/Agent 会话分析（Armature）、Agent 安全（Arrakis）、Agent 评测修复（Convergent）等占主流。Guillermo Rauch、Reid Hoffman、ElevenLabs CEO 等写了提名理由。",
+   "links": [
+    "https://www.newcomer.co/p/emergent-2026"
+   ],
+   "topic": "felicis-newcomer-emergent-seed-list-2026-11",
+   "firstSeen": "2026-11-06T06:43:13+08:00"
+  },
+  {
+   "id": "685a07f929",
+   "title": "AgentSight：用 eBPF 给 AI Agent 做系统级「top/strace」，无需 SDK",
+   "summary": "Eunomia 开源本地优先观测工具，把提示、模型调用与进程/文件/网络副作用关联；可包住 Claude Code、Codex、Gemini CLI 等闭源 CLI。GitHub 约 775 星，支持 agentsight top / record / report，Linux eBPF 捕获 TLS 明文侧 LLM 流量。",
+   "links": [
+    "https://eunomia.dev/agentsight/",
+    "https://github.com/eunomia-bpf/agentsight"
+   ],
+   "topic": "agentsight-ebpf-agent-profiling-2026-11",
+   "firstSeen": "2026-11-06T06:43:13+08:00"
+  },
+  {
+   "id": "1eac7fe42e",
+   "title": "Airbnb 宣布自建 AI 旅行 Agent：目标 2027 上半年上线",
+   "summary": "Q3 电话会与股东信明确时间表。Chesky 称通用 Agent 不适合旅行规划，Airbnb Agent 会按问题实时组合地图、照片、对比、日历等生成式 UI，并覆盖改订、退款、24 小时安全支持等站内能力。Q3 营收 48.7 亿美元、同比 +19%。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+   ],
+   "topic": "airbnb-ai-travel-agent-h1-2027-2026-11",
+   "firstSeen": "2026-11-06T06:43:13+08:00"
   }
  ],
- "lastChecked": "2026-11-06T06:27:02+08:00"
+ "lastChecked": "2026-11-06T06:43:13+08:00"
 }
