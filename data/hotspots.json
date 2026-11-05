@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T03:27:05+08:00",
+ "lastUpdated": "2026-11-06T03:39:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34720,7 +34720,40 @@
    ],
    "topic": "addy-osmani-cognitive-surrender-2026-11-05",
    "firstSeen": "2026-11-06T03:27:05+08:00"
+  },
+  {
+   "id": "6696fee1b1",
+   "title": "Nyquist 极限：AI 把变更频率推到人类理解带宽之外",
+   "summary": "Ryan Prior 用采样定理打比方：LLM 加速改动后，若人类审阅/建模速率跟不上「两倍变更频率」，团队量到的只是噪声形信号。文章冲上 HN，讨论持续交付 + Agent 写码是否正在越过组织理解极限。",
+   "links": [
+    "https://www.ryanprior.com/posts/nyquist-limit-frequency-of-changes-in-tech-invalidates-understanding/",
+    "https://news.ycombinator.com/item?id=50370793"
+   ],
+   "topic": "nyquist-limit-tech-change-frequency-hn-2026-11-05",
+   "firstSeen": "2026-11-06T03:39:58+08:00"
+  },
+  {
+   "id": "e5fdc92139",
+   "title": "Meta 公网时间服务上线 NTS：nts.meta.com 可验证授时",
+   "summary": "Meta 工程博客称公共时间服务现支持 Network Time Security（RFC 8915），无状态 cookie 派生、开源 facebook/time；呼吁安卓/iOS 系统时间客户端补上认证，证书寿命缩短后错误时钟代价更大。刚登 HN 首页。",
+   "links": [
+    "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
+    "https://news.ycombinator.com/item?id=50382525"
+   ],
+   "topic": "meta-nts-authenticated-time-2026-11-05",
+   "firstSeen": "2026-11-06T03:39:58+08:00"
+  },
+  {
+   "id": "b0a4a4c3aa",
+   "title": "美司法部据报就英伟达约 130 亿美元收购 Hugging Face 展开问询",
+   "summary": "Tom's Hardware 援引报道：DOJ 关注这笔收购是否让英伟达掌控关键 AI 模型分发与基础设施入口、削弱竞争；英伟达暂未置评。话题刚被提交到 HN，监管压力与此前 SchedMD/出口管制线索同框。",
+   "links": [
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers",
+    "https://news.ycombinator.com/item?id=50383256"
+   ],
+   "topic": "doj-nvidia-huggingface-13b-probe-2026-11-05",
+   "firstSeen": "2026-11-06T03:39:58+08:00"
   }
  ],
- "lastChecked": "2026-11-06T03:27:05+08:00"
+ "lastChecked": "2026-11-06T03:39:58+08:00"
 }
