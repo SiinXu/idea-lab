@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T07:13:51+08:00",
+ "lastUpdated": "2026-11-06T07:33:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35428,7 +35428,29 @@
    ],
    "topic": "edb-acquires-altinity-clickhouse-pg-ai-2026-11-05",
    "firstSeen": "2026-11-06T07:13:51+08:00"
+  },
+  {
+   "id": "2ceb0606fc",
+   "title": "Cursor 上线 Build Live Apps：一句话搭站、配库与鉴权并发布可分享链接",
+   "summary": "11 月 5 日 changelog：Cloud Agent 可从零或已有仓库脚手架 Web 应用，按需起 Postgres、走 Cursor SSO 鉴权、选域名发布；上线前跑确定性与 Agent 安全检查，团队可按人/组/全员分享。付费计划且开通 Cloud Agents 可用，支持 Origin 与 GitHub。",
+   "links": [
+    "https://cursor.com/changelog",
+    "https://cursor.com/docs/cloud-agent/apps",
+    "https://x.com/i/trending/2118474980145160485"
+   ],
+   "topic": "cursor-build-live-apps-2026-11-05",
+   "firstSeen": "2026-11-06T07:33:08+08:00"
+  },
+  {
+   "id": "ac4865b259",
+   "title": "Devin Review 2.0：PR 评审成本降约 82%，典型单次约 0.25–0.75 美元",
+   "summary": "Cognition 称自 8 月起靠模型搭配与 harness 优化把单 PR 评审成本砍约 82%，平均每修一个 bug 约 2.25 美元；默认增量只看新改动，约八成 PR（含多次 push）不足 1 美元。可设自动规则、Ultra 力度与自定义 Reviewer，并与 Devin 闭环自动修/驳回/升级。",
+   "links": [
+    "https://devin.ai/blog/devin-review-2"
+   ],
+   "topic": "devin-review-2-0-cost-cut-2026-11-05",
+   "firstSeen": "2026-11-06T07:33:08+08:00"
   }
  ],
- "lastChecked": "2026-11-06T07:13:51+08:00"
+ "lastChecked": "2026-11-06T07:33:08+08:00"
 }
