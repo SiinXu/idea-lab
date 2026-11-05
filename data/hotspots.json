@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T07:33:08+08:00",
+ "lastUpdated": "2026-11-06T07:34:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35450,7 +35450,42 @@
    ],
    "topic": "devin-review-2-0-cost-cut-2026-11-05",
    "firstSeen": "2026-11-06T07:33:08+08:00"
+  },
+  {
+   "id": "763a814882",
+   "title": "GitHub Next × 微软研究院 PDD Kit：用形式化证明审核 Agent 写的全栈应用",
+   "summary": "Proof-Driven Development：把意图收成 Verus 规格，编码 Agent 写实现与证明，Verifier 对所有输入检查；证不到的用测试标为经验证据。Pet Store（Rust Axum/SQLite + Leptos）示例先证明登录逻辑。微软研究院博客刚发，HN 同步讨论。",
+   "links": [
+    "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+    "https://githubnext.com/projects/pdd-kit/",
+    "https://news.ycombinator.com/item?id=50386024"
+   ],
+   "topic": "github-next-pdd-kit-verus-agents-2026-11-05",
+   "firstSeen": "2026-11-06T07:34:05+08:00"
+  },
+  {
+   "id": "18662ca672",
+   "title": "实验：三人编程 Agent 队反而更差——单独 Agent 隐藏测试通过率更高",
+   "summary": "Programming the Loop 的 SWT 对照：planner–coder–reviewer 队隐藏验收通过率 25.7%，单 Agent 56.8%（差约 31 个百分点），且更贵。给全员完整任务后队可追平但仍贵约 1.6 倍。限定单模型、六项 Java 功能，方法与区间已公开。",
+   "links": [
+    "https://programmingtheloop.com/experiments/swarm-tax/",
+    "https://news.ycombinator.com/item?id=50385876"
+   ],
+   "topic": "programmingtheloop-swarm-tax-team-vs-one-2026-11-05",
+   "firstSeen": "2026-11-06T07:34:05+08:00"
+  },
+  {
+   "id": "f785d73477",
+   "title": "How to Train a Swarm：用时限与集体奖励逼 Agent 学会并行协作",
+   "summary": "General Reasoning 详解 RLCR：共享策略 + 扁平集体优势，靠墙钟时限而非显式延迟惩罚激励并行；配私信/频道/档案等通信原语。Avalon-M1 上多雇佣集体最终可在同 token 预算下约 4 倍快于单 Agent，仍面临「村里训、城里部署」规模鸿沟。",
+   "links": [
+    "https://www.gr.inc/blog/how-to-train-a-swarm",
+    "https://news.ycombinator.com/item?id=50386055",
+    "https://www.gr.inc/avalonm1.pdf"
+   ],
+   "topic": "gr-how-to-train-a-swarm-rlcr-2026-11-05",
+   "firstSeen": "2026-11-06T07:34:05+08:00"
   }
  ],
- "lastChecked": "2026-11-06T07:33:08+08:00"
+ "lastChecked": "2026-11-06T07:34:05+08:00"
 }
