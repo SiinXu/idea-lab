@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T02:43:18+08:00",
+ "lastUpdated": "2026-11-06T03:03:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34568,7 +34568,74 @@
    ],
    "topic": "omnara-terminal-bench-harness-efficiency-2026-11-05",
    "firstSeen": "2026-11-06T02:43:18+08:00"
+  },
+  {
+   "id": "4261c24672",
+   "title": "Tokenome：本机把 AI 写码对话挂到每一行代码上",
+   "summary": "Show HN 新上线：本地索引 Claude/ChatGPT/Gemini 会话，点某行就能看到当初为什么这么写；自报上下文少约 38%，并带 MCP 给 Agent 查「why」。回答「AI 改完代码后团队再也找不到决策」的痛点。",
+   "links": [
+    "https://tokenome.ai/",
+    "https://news.ycombinator.com/item?id=50382892"
+   ],
+   "topic": "tokenome-ai-code-provenance-2026-11-05",
+   "firstSeen": "2026-11-06T03:03:20+08:00"
+  },
+  {
+   "id": "b5bc763eb5",
+   "title": "编码 Agent 低估了「自己写出的代码」的长期成本",
+   "summary": "Ben Houston 用实战复盘：Agent 爱手写 fetch/表单/3D 预览，却把测试、再理解、扩展成本留给未来；呼吁用「连续改 100 次」的 LongHaul 基准衡量依赖决策，而不只看单次 SWE-bench。",
+   "links": [
+    "https://ben3d.ca/blog/coding-agents-underestimate-the-cost-of-code",
+    "https://news.ycombinator.com/item?id=50382862"
+   ],
+   "topic": "coding-agents-cost-of-owned-code-2026-11-05",
+   "firstSeen": "2026-11-06T03:03:20+08:00"
+  },
+  {
+   "id": "0dad0a5044",
+   "title": "从零搭多智能体：编排器 / 黑板 / 流水线与真实翻车点",
+   "summary": "冲上 HN 首页的架构长文：何时用 orchestrator-worker、blackboard、pipeline；并点出委托死循环、成本爆炸、并发写冲突、幻觉沿链路放大——要用硬上限和升级人路径兜底，不是再堆提示词。",
+   "links": [
+    "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+    "https://news.ycombinator.com/item?id=50380658"
+   ],
+   "topic": "multi-agent-architecture-patterns-kadhar-2026-11-05",
+   "firstSeen": "2026-11-06T03:03:20+08:00"
+  },
+  {
+   "id": "69021b9c74",
+   "title": "NeoSigma Environments：把生产失败整环境重放给 Agent 练",
+   "summary": "重建 harness、代码提交、服务、状态与模拟用户，在沙箱里重放真实任务；客户侧 42 次重放中 90% 复现原失败，中位约 8 分钟起环境。给 Agent 评估/自改进补上「可复现的环境」。",
+   "links": [
+    "https://neosigma.ai/blog/agent-environments",
+    "https://news.ycombinator.com/item?id=50382773"
+   ],
+   "topic": "neosigma-agent-environments-replay-2026-11-05",
+   "firstSeen": "2026-11-06T03:03:20+08:00"
+  },
+  {
+   "id": "21067e7d86",
+   "title": "软件工厂会把产品变成 RSI：Paul Dix 谈「造造机器的机器」",
+   "summary": "InfluxDB 创始人写软件工厂：任务→验证环→产物回流；一旦调度器能把人类节点换成 Agent，工厂本身就会递归改进产品与工厂。核心论点是验证基础设施先于花哨工作流。",
+   "links": [
+    "https://pauldix.com/the-software-factory-and-the-inevitability-of-rsi-software",
+    "https://news.ycombinator.com/item?id=50382742"
+   ],
+   "topic": "pauldix-software-factory-rsi-2026-11-05",
+   "firstSeen": "2026-11-06T03:03:20+08:00"
+  },
+  {
+   "id": "fc591ddcfa",
+   "title": "Orbital Matter：卫星在开放真空里 3D 打印出刚性梁",
+   "summary": "Replicator 2 在舱外挤出并 UV 固化树脂梁（约 30cm），用于部分展开太阳能帆；相对 ISS 舱内打印更接近真实在轨建造。下步指向更长梁与百千瓦级阵列，服务轨道算力供电。",
+   "links": [
+    "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+    "https://www.orbitalmatter.com/newsroom-first-print",
+    "https://news.ycombinator.com/item?id=50382759"
+   ],
+   "topic": "orbital-matter-vacuum-3d-print-beam-2026-11-05",
+   "firstSeen": "2026-11-06T03:03:20+08:00"
   }
  ],
- "lastChecked": "2026-11-06T02:43:18+08:00"
+ "lastChecked": "2026-11-06T03:03:20+08:00"
 }
