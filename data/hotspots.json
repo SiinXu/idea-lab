@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T04:28:28+08:00",
+ "lastUpdated": "2026-11-06T04:29:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34900,7 +34900,17 @@
    ],
    "topic": "kagi-search-for-everyone-2026-11-05",
    "firstSeen": "2026-11-06T04:28:28+08:00"
+  },
+  {
+   "id": "ec73671ce5",
+   "title": "OpenAI 向 Daybreak Red 开放 ChatGPT Cyber：专攻攻防与漏洞挖掘",
+   "summary": "TechCrunch 报道 OpenAI 今日把面向网络安全的 ChatGPT Cyber 开放给 Daybreak Red 最高档用户；同模型此前已在 Linux 内核与 Firefox 上大规模挖洞并起草补丁。防守方仍吐槽名额少、能力被削弱，攻防不对称压力加大。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+   ],
+   "topic": "openai-chatgpt-cyber-daybreak-red-2026-11-05",
+   "firstSeen": "2026-11-06T04:29:02+08:00"
   }
  ],
- "lastChecked": "2026-11-06T04:28:28+08:00"
+ "lastChecked": "2026-11-06T04:29:02+08:00"
 }
