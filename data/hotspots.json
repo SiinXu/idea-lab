@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T02:35:31+08:00",
+ "lastUpdated": "2026-11-06T02:42:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34521,7 +34521,43 @@
    ],
    "topic": "nasdaq-5pct-correction-ai-selloff-2026-11-05",
    "firstSeen": "2026-11-06T02:35:31+08:00"
+  },
+  {
+   "id": "f35a73ccec",
+   "title": "VINCO：50 万参数专项模型登顶 Colonist.io Catan 榜，专精 AI 再胜通用大模型",
+   "summary": "Distributed Cognition 发布 VINCO，用自我对弈专训 1v1 Catan，暗中上 Colonist.io 全球榜占住第 1、第 2，并称能打过人类世界冠军；社区讨论称其体量远小于 Opus/Astra 等通用模型，却在交易与不确定性博弈上更强，专精小模型思路再被点名。",
+   "links": [
+    "https://x.com/distcog/status/2118402967808487546",
+    "https://x.com/i/trending/2118410028210426229",
+    "https://colonist.io/"
+   ],
+   "topic": "vinco-catan-specialist-model-2026-11-05",
+   "firstSeen": "2026-11-06T02:42:31+08:00"
+  },
+  {
+   "id": "6e64bc0751",
+   "title": "TVPort：用 Claude 把 Switch 游戏原生搬到 Apple TV 4K",
+   "summary": "开发者基于 nxnative 开源 TVPort，借助 Claude Opus 5.5 把 Switch/Switch 2 游戏重新编译到 Apple TV；声称奥德赛约 60fps、动森约 30fps，重型如旷野之息仍会过热。又一例用 coding agent 做跨平台移植，版权与社区反响都敏感。",
+   "links": [
+    "https://www.engadget.com/2306727/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/",
+    "https://news.ycombinator.com/item?id=50382581",
+    "https://www.reddit.com/r/decomps/comments/1xn3wh1/release_tvport_port_switch_games_to_run_natively/"
+   ],
+   "topic": "tvport-switch-apple-tv-claude-2026-11-05",
+   "firstSeen": "2026-11-06T02:42:31+08:00"
+  },
+  {
+   "id": "5c345e8da3",
+   "title": "Opposable 实测：45 部安卓上 3324 次 Agent 操作，91% 成功，掉线才是大坑",
+   "summary": "手机 computer-use 产品 Opposable 公开四周年数据：点击滑动约 99% 按预期，真正拖垮任务的是 Doze/厂商省电把中继掐断（三星、小米尤甚）。结论指向 Android 缺「可随时被 Agent 唤醒」与「Agent 输入身份」两套系统能力，Idea Lab 可跟「手机 Agent 基础设施」。",
+   "links": [
+    "https://getopposable.com/blog/how-ready-is-android-for-ai-agents",
+    "https://news.ycombinator.com/item?id=50382696",
+    "https://getopposable.com/"
+   ],
+   "topic": "opposable-android-agent-readiness-3324-2026-11-05",
+   "firstSeen": "2026-11-06T02:42:31+08:00"
   }
  ],
- "lastChecked": "2026-11-06T02:35:31+08:00"
+ "lastChecked": "2026-11-06T02:42:31+08:00"
 }
