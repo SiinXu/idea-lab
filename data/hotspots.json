@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T01:27:05+08:00",
+ "lastUpdated": "2026-11-06T01:41:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34255,7 +34255,60 @@
    ],
    "topic": "deepseek-v5-ascend-950-pretrain-2026-11",
    "firstSeen": "2026-11-06T01:27:05+08:00"
+  },
+  {
+   "id": "7679a3dc36",
+   "title": "Poki：本机 MCP 让 AI 智能体直接操控真机 iPhone",
+   "summary": "无需越狱或外接硬件，Mac 上跑本地 MCP/Agent，用原生触控操作微信、小红书、提醒事项等真实 App；可从 iMessage/终端派任务，轨迹会编译成可复用路线。",
+   "links": [
+    "https://github.com/JosssphZhou/poki",
+    "https://poki.bot"
+   ],
+   "topic": "poki-iphone-mcp-agent-2026-11-05",
+   "firstSeen": "2026-11-06T01:41:05+08:00"
+  },
+  {
+   "id": "bd0434e430",
+   "title": "MineAgent：浏览器画布搭工业级 Agent 流程并一键编译运行",
+   "summary": "拖节点连线配模型，保存后把整张画布编译成可独立运行的 Python Agent 项目，运行时流式回传每一步；面向可视化 Agent 编排与二次开发。",
+   "links": [
+    "https://github.com/YT-Proteus-bot/MineAgent"
+   ],
+   "topic": "mineagent-canvas-agent-builder-2026-11-05",
+   "firstSeen": "2026-11-06T01:41:05+08:00"
+  },
+  {
+   "id": "658e0b2194",
+   "title": "「LISP 诅咒」杀进 LLM 生态：生成比集成更省事？",
+   "summary": "HN 热议旧文新解：若用模型随手生成比学框架更快，开源协作与公共库维护可能变冷；作者反对「一切都生成」，但认为生态会无意间往更孤独的方向漂移。",
+   "links": [
+    "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
+    "https://news.ycombinator.com/item?id=50349667"
+   ],
+   "topic": "lisp-curse-llm-ecosystem-hn-2026-11-05",
+   "firstSeen": "2026-11-06T01:41:05+08:00"
+  },
+  {
+   "id": "123729f04a",
+   "title": "Watson：桌面端用户名/邮箱足迹搜索，覆盖 3100+ 公开页",
+   "summary": "开源 Electron 应用，输入昵称、邮箱、手机或站点后汇总可读报告；今日 GitHub 新仓快速涨星，面向数字足迹与公开信息检索。",
+   "links": [
+    "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder",
+    "https://watsonfind.icu"
+   ],
+   "topic": "watson-username-footprint-finder-2026-11-05",
+   "firstSeen": "2026-11-06T01:41:05+08:00"
+  },
+  {
+   "id": "f736dbd460",
+   "title": "Smelt：把 Fabric/NeoForge 模组 jar 半自动迁到 Rust（Horizon）",
+   "summary": "喂入 Java 模组包，工具写出 Horizon 侧 Rust 代码并把未完成部分标进报告；瞄准 Minecraft 模组跨运行时移植，新仓当日数百星。",
+   "links": [
+    "https://github.com/Wallbycontact/java-mod-rust-port-tool"
+   ],
+   "topic": "smelt-java-mod-rust-port-horizon-2026-11-05",
+   "firstSeen": "2026-11-06T01:41:05+08:00"
   }
  ],
- "lastChecked": "2026-11-06T01:27:05+08:00"
+ "lastChecked": "2026-11-06T01:41:05+08:00"
 }
