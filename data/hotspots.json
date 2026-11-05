@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T03:54:49+08:00",
+ "lastUpdated": "2026-11-06T04:10:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34811,7 +34811,74 @@
    ],
    "topic": "europe-data-centre-freeze-protests-2026-11-05",
    "firstSeen": "2026-11-06T03:54:49+08:00"
+  },
+  {
+   "id": "71cbc417d0",
+   "title": "Hackintosh 借 AI 回潮：逆向把 macOS 27 跑上骁龙与国产板",
+   "summary": "作者复盘：在 Apple 砍掉 x86 后，Claude Code + Ghidra 等让社区几周内爆出 Snapdragon 笔记本跑 macOS 27、RK3588 板卡、Switch OLED 跑 iOS 17、50 系显卡驱动等进展。",
+   "links": [
+    "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+    "https://news.ycombinator.com/item?id=50383057"
+   ],
+   "topic": "hackintosh-reborn-ai-2026-11-05",
+   "firstSeen": "2026-11-06T04:10:54+08:00"
+  },
+  {
+   "id": "fc6d6618bd",
+   "title": "AI 基建股再遭血洗：标普跌超 3%，SpaceX 股价同步受挫",
+   "summary": "美联社称周四数据中心相关股继续砸盘，标普 500 跌超 3%；BBC 称马斯克的 SpaceX 股份也随科技与 AI 股下跌。续写前一日纳指技术性回调。",
+   "links": [
+    "https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e",
+    "https://www.bbc.com/news/articles/cmn04705rd8jo",
+    "https://news.ycombinator.com/item?id=50383675"
+   ],
+   "topic": "ai-stocks-wipeout-spacex-2026-11-05",
+   "firstSeen": "2026-11-06T04:10:54+08:00"
+  },
+  {
+   "id": "1c1e52215a",
+   "title": "中期选举出口民调：56% 选民称 AI 数据中心影响投票",
+   "summary": "NBC 出口民调：57% 认为 AI 对社会弊大于利，76% 反对本地新建数据中心，56% 称该议题对其国会投票至关重要；多州地方限制案几乎全过。",
+   "links": [
+    "https://www.datacenterdynamics.com/en/news/nbc-exit-poll-56-say-ai-data-centers-were-a-crucial-or-major-factor-in-congressional-vote-decision/",
+    "https://x.com/i/trending/2117839373303751046"
+   ],
+   "topic": "midterms-ai-datacenter-exit-poll-2026-11",
+   "firstSeen": "2026-11-06T04:10:54+08:00"
+  },
+  {
+   "id": "4986e65fe9",
+   "title": "Kapwing 上线 MCP：在 Claude / ChatGPT 里剪辑、字幕与配音",
+   "summary": "通过 Model Context Protocol 把 Kapwing 接到 Claude 或 ChatGPT：上传素材、出字幕、翻译配音、拉导出，走 OAuth 与现有套餐积分，免单独 API。",
+   "links": [
+    "https://www.kapwing.com/mcp",
+    "https://news.ycombinator.com/item?id=50383498"
+   ],
+   "topic": "kapwing-mcp-video-agent-2026-11-05",
+   "firstSeen": "2026-11-06T04:10:54+08:00"
+  },
+  {
+   "id": "9875390546",
+   "title": "拆解「自己做一个 Grok Bot」：Harness、持久化与常驻电脑",
+   "summary": "OpenComputer 长文按 harness、Temporal/Durable Objects 持久层、共享文件系统电脑、定时/Webhook 唤醒与分层记忆，对照 Grok Bot、Dots、Muse、Claude Duet 的差异。",
+   "links": [
+    "https://opencomputer.dev/blog/diy-your-own-grokbot/",
+    "https://news.ycombinator.com/item?id=50383693"
+   ],
+   "topic": "diy-grokbot-architecture-2026-11-05",
+   "firstSeen": "2026-11-06T04:10:54+08:00"
+  },
+  {
+   "id": "4049309e85",
+   "title": "Windows 画图曝远程代码执行：CVE-2026-83844",
+   "summary": "微软安全更新指南收录画图（Paint）远程代码执行漏洞 CVE-2026-83844；HN 已跟进，宜尽快打系统补丁。",
+   "links": [
+    "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83844",
+    "https://news.ycombinator.com/item?id=50383612"
+   ],
+   "topic": "windows-paint-rce-cve-2026-83844",
+   "firstSeen": "2026-11-06T04:10:54+08:00"
   }
  ],
- "lastChecked": "2026-11-06T03:54:49+08:00"
+ "lastChecked": "2026-11-06T04:10:54+08:00"
 }
