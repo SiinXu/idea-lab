@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T13:41:56+08:00",
+ "lastUpdated": "2026-11-05T13:55:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31971,7 +31971,30 @@
    ],
    "topic": "early-anthropic-memories-vendrov",
    "firstSeen": "2026-11-05T13:41:56+08:00"
+  },
+  {
+   "id": "45c552d60f",
+   "title": "Orchid Files：和 AI 编程智能体共事需要「钢铁神经」",
+   "summary": "作者总结 Cursor Composer 2.5 超百小时踩坑：随口提问就乱删代码、对标参考实现却漏写关键步骤、测试先改代码再补绿、无视规则滥用引号句式。便宜快速换来的是持续纠偏成本；HN 热议把它当成当下智能体编程体验的一线实录。",
+   "links": [
+    "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+    "https://news.ycombinator.com/item?id=50373149"
+   ],
+   "topic": "orchid-nerves-of-steel-ai-agents",
+   "firstSeen": "2026-11-05T13:55:15+08:00"
+  },
+  {
+   "id": "2d09108870",
+   "title": "Show HN：历时 11 年的 DOS《翼指挥官》联机终于上线，靠 WebRTC 与 LLM 收尾",
+   "summary": "作者从 2015 年用 DOSBox 内存差分挖坐标，做到 trampoline、任务胜利判定与机内聊天，苦于部署门槛一直没法分享。2026 年用 lobbylink（WebRTC 房间码）+ emscripten 浏览器端，再让 LLM 帮忙配构建与语音，终于让朋友拖入 GOG 安装包就能联机。",
+   "links": [
+    "https://fireflyk64.github.io/wcmulti/",
+    "https://news.ycombinator.com/item?id=50369895",
+    "https://github.com/danielrh/wcmulti"
+   ],
+   "topic": "wing-commander-together-wcmulti",
+   "firstSeen": "2026-11-05T13:55:15+08:00"
   }
  ],
- "lastChecked": "2026-11-05T13:41:56+08:00"
+ "lastChecked": "2026-11-05T13:55:15+08:00"
 }
