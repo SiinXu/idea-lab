@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T19:30:17+08:00",
+ "lastUpdated": "2026-11-05T19:41:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33058,7 +33058,18 @@
    ],
    "topic": "mooring-claude-code-ade-2026-11-05",
    "firstSeen": "2026-11-05T19:30:17+08:00"
+  },
+  {
+   "id": "876f4401e1",
+   "title": "Google Agent Skills 仓库冲上 GitHub 日榜：170+ 技能、像产品一样发版",
+   "summary": "google/skills 现约 2.2 万星，覆盖 Cloud 等产品的可复用 Agent Skills；团队用语义化版本、自动校验、评测报告和 AI 审稿门禁维护，可用 npx skills add google/skills 安装。",
+   "links": [
+    "https://github.com/google/skills",
+    "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-two-months-later-how-we-ship-google-agent-skills-like-products/"
+   ],
+   "topic": "google-skills-github-trending-2026-11-05",
+   "firstSeen": "2026-11-05T19:41:22+08:00"
   }
  ],
- "lastChecked": "2026-11-05T19:30:17+08:00"
+ "lastChecked": "2026-11-05T19:41:22+08:00"
 }
