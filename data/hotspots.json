@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T02:06:14+08:00",
+ "lastUpdated": "2026-11-06T02:23:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34395,7 +34395,90 @@
    ],
    "topic": "window-sweaters-macos-hn-2026-11-05",
    "firstSeen": "2026-11-06T02:06:14+08:00"
+  },
+  {
+   "id": "714ba884ac",
+   "title": "METR：Anthropic 研发节奏约加快近一倍，AI 自身贡献很大",
+   "summary": "独立评估机构 METR 周四发布分析称，Anthropic 在明确任务上的能力提升速度约为一年前的 1.9 倍，并估计加速中约八成来自 AI 辅助研发；尚非完全自主的递归自改进，但引发对齐与监管讨论。",
+   "links": [
+    "https://www.reuters.com/technology/anthropics-models-improving-nearly-twice-fast-with-help-ai-study-finds-2026-11-05/",
+    "https://apnews.com/article/anthropic-metr-ai-claude-acceleration-9cf8c590ffc1abdb489179bdccc69c23"
+   ],
+   "topic": "anthropic-metr-2x-acceleration-2026-11-05",
+   "firstSeen": "2026-11-06T02:23:51+08:00"
+  },
+  {
+   "id": "00183b0048",
+   "title": "Claude 上线 Personal Finance：只读连银行账户，用自然语言问钱",
+   "summary": "Anthropic 在美区 Pro/Max/Ultra 推个人理财 beta：经 Plaid 只读接入银行与信用卡，可查余额、分类开支、异常扣款；不做转账投资，也无广告推荐。适合观察「AI 管家」落地。",
+   "links": [
+    "https://claude.com/resources/articles/introducing-personal-finance-in-claude"
+   ],
+   "topic": "claude-personal-finance-beta-2026-11",
+   "firstSeen": "2026-11-06T02:23:51+08:00"
+  },
+  {
+   "id": "038c6ba100",
+   "title": "X 热议：用 Claude 搭端到端 Agent 的教程与工作流在疯传",
+   "summary": "社区分享长视频、提示词库与 Claude Code 速查，强调 Cowork、动态 Skills、/compact 等，把周级任务压到几分钟；多 Agent 与长跑任务成为实操焦点。",
+   "links": [
+    "https://x.com/i/trending/2118393214050959385"
+   ],
+   "topic": "claude-agent-tutorials-x-2026-11-05",
+   "firstSeen": "2026-11-06T02:23:51+08:00"
+  },
+  {
+   "id": "b379739a44",
+   "title": "Brockman：AI 一两年内冲击未解生物学；远期把「死亡」说成可选项",
+   "summary": "OpenAI 总裁 Greg Brockman 在 WSJ Tech 活动上称，AI 有望在 12–18 个月内推动生物学与疾病突破，并谈到更远期「死亡成为选择」；业界提醒仍需实验验证与监管。",
+   "links": [
+    "https://x.com/i/trending/2118393208497639624"
+   ],
+   "topic": "brockman-ai-biology-death-choice-2026-11-05",
+   "firstSeen": "2026-11-06T02:23:51+08:00"
+  },
+  {
+   "id": "f582424d82",
+   "title": "「Vibe Coding」再成热词：Collins 年度词余温 + 开发者两极争论",
+   "summary": "用自然语言让 AI 写代码、少做细审的 vibe coding 继续刷屏：有人当原型神器，有人警告债与烂代码；Collins 曾将其列为年度词，相关讨论今日再度升温。",
+   "links": [
+    "https://x.com/i/trending/2117969080384889156",
+    "https://x.com/i/trending/2118334452208164988"
+   ],
+   "topic": "vibe-coding-collins-debate-2026-11-05",
+   "firstSeen": "2026-11-06T02:23:51+08:00"
+  },
+  {
+   "id": "5157571957",
+   "title": "TinySet：一句话让一群 Agent 从公开网页拼出数据集",
+   "summary": "TinyFish 发布 TinySet：用自然语言描述表结构，多 Agent 分片发现、逐行调研并强制引用来源页；单次最多约 250 行，支持 CLI/API/MCP，按行计费。适合做成 Idea Lab 数据抓取点子。",
+   "links": [
+    "https://www.tinyfish.ai/blog/inside-tinyset",
+    "https://agent.tinyfish.ai/playground/datasets"
+   ],
+   "topic": "tinyset-agent-dataset-builder-2026-11-05",
+   "firstSeen": "2026-11-06T02:23:51+08:00"
+  },
+  {
+   "id": "b0c93b3da2",
+   "title": "AI「读不完」疲劳：长回复墙成梗，terse mode 提示词走红",
+   "summary": "用户用梗图吐槽聊天机器人长文轰炸，开发者称出现真实阅读疲劳；学界也讨论 AI 文风增加认知负担，短答/terse 提示成常见对策。",
+   "links": [
+    "https://x.com/i/trending/2118386784908316897"
+   ],
+   "topic": "ai-reading-fatigue-terse-mode-2026-11-05",
+   "firstSeen": "2026-11-06T02:23:51+08:00"
+  },
+  {
+   "id": "1f5ab4bc23",
+   "title": "Cerebras 复盘晶圆级芯片：为何 Wafer-Scale 能站住",
+   "summary": "Cerebras 发文回顾晶圆级 AI 芯片从制造到系统的工程取舍，解释其相对传统多卡互联的延迟与带宽优势，以及为何这条路线能持续。",
+   "links": [
+    "https://www.cerebras.ai/blog/what-it-took-to-build-wafer-scale-and-why-it-lasts"
+   ],
+   "topic": "cerebras-wafer-scale-retrospective-2026-11-05",
+   "firstSeen": "2026-11-06T02:23:51+08:00"
   }
  ],
- "lastChecked": "2026-11-06T02:06:14+08:00"
+ "lastChecked": "2026-11-06T02:23:51+08:00"
 }
