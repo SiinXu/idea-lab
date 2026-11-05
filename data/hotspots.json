@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T12:13:01+08:00",
+ "lastUpdated": "2026-11-05T12:47:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31774,7 +31774,19 @@
    ],
    "topic": "magic-layers-image-to-psd",
    "firstSeen": "2026-11-05T12:13:01+08:00"
+  },
+  {
+   "id": "34ec4f480a",
+   "title": "Oumi 发布 FAiE 智能体工程师：用一句话描述任务，自动搭智能体、做评测、再训练底层模型",
+   "summary": "西雅图创业公司 Oumi（创始团队来自谷歌 Gemini 等）11 月 4 日把 Frontier AI Engineer（FAiE）扩展到智能体开发：用户用自然语言描述目标，FAiE 帮忙定义工具与环境、设计评测、分析失败、整理数据并选择训练策略，把线上失败自动转成评测集和训练数据。新增「自带编排框架」（Bring Your Own Harness），已有智能体无需迁移即可接入评测与训练；训练方法在 SFT 之外加入 DPO，GRPO 强化学习处于私测。X 上讨论认为「自我进化的专用智能体」是方向，但仍在等基准成绩。信号：从调提示词转向持续训练权重，面向中小团队的「垂直智能体评测 + 微调」服务和失败案例数据集是可做的切口。",
+   "links": [
+    "https://siliconangle.com/2026/11/04/oumis-frontier-ai-engineer-now-builds-ai-agents-and-retrains-the-models-behind-them/",
+    "https://www.businesswire.com/news/home/20261104154139/en/Oumi-Launches-the-Agent-That-Builds-Trains-and-Continuously-Improves-AI-Agents",
+    "https://x.com/i/trending/2118200427053260808"
+   ],
+   "topic": "oumi-faie-agent-training",
+   "firstSeen": "2026-11-05T12:47:04+08:00"
   }
  ],
- "lastChecked": "2026-11-05T12:13:01+08:00"
+ "lastChecked": "2026-11-05T12:47:04+08:00"
 }
