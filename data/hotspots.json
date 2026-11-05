@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T15:30:04+08:00",
+ "lastUpdated": "2026-11-05T16:01:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32348,7 +32348,73 @@
    ],
    "topic": "shuffle-on-test-deleted-home-folder-2026-11",
    "firstSeen": "2026-11-05T15:30:04+08:00"
+  },
+  {
+   "id": "e618d4b19a",
+   "title": "Mbed TLS 维护将断档：现有维护者 2027 年 4 月起退出 TLS/X.509，找不到继任者就停安全响应",
+   "summary": "Trusted Firmware 邮件宣布现有维护者继续做 TF-PSA-Crypto，但 TLS 与 X.509 自 2027 年 4 月起不再由他们维护；Godot 等刚升到 4.x 的用户反响强烈，维护方呼吁社区接盘。",
+   "links": [
+    "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+    "https://news.ycombinator.com/item?id=50349165"
+   ],
+   "topic": "mbed-tls-maintenance-apr-2027",
+   "firstSeen": "2026-11-05T16:01:23+08:00"
+  },
+  {
+   "id": "d0de783404",
+   "title": "Zig 十年悬案落地：部分运算符不再有默认优先级，歧义表达式必须加括号",
+   "summary": "Issue #114（2016 年）终于合入 master：orelse/== 等易混组合强制括号，加减乘除等常见组合仍可省略；可用 zig fmt --upgrade 自动加括号升级旧代码。",
+   "links": [
+    "https://ziglang.org/devlog/2026/#2026-10-24",
+    "https://news.ycombinator.com/item?id=50340195"
+   ],
+   "topic": "zig-partial-operator-precedence-2026",
+   "firstSeen": "2026-11-05T16:01:23+08:00"
+  },
+  {
+   "id": "6a0688bb5a",
+   "title": "OpenAI 产品负责人：ChatGPT「类搜索」提问量约为谷歌搜索的五分之一",
+   "summary": "Adam Fry 在 Big Technology 晚宴上称，每次触发联网搜索的提问算一次；外部 Ahrefs 引荐流量里谷歌仍远超 ChatGPT，口径不同不可直接对比。",
+   "links": [
+    "https://www.searchenginejournal.com/googles-search-volume-is-about-5x-chatgpts-openai-says/595817/",
+    "https://news.ycombinator.com/item?id=50376332"
+   ],
+   "topic": "openai-chatgpt-search-volume-vs-google-2026-11",
+   "firstSeen": "2026-11-05T16:01:23+08:00"
+  },
+  {
+   "id": "2deda918cb",
+   "title": "NASA 运行 22 年的 Swift 卫星失控再入大气层烧毁",
+   "summary": "路透社：伽马射线暴观测卫星 Swift 在轨约 22 年后坠落；这是又一颗老牌科学卫星走到寿命终点的案例。",
+   "links": [
+    "https://www.reuters.com/science/nasas-22-year-old-swift-satellite-telescope-falls-orbit-fiery-finale-2026-11-04/",
+    "https://news.ycombinator.com/item?id=50376212"
+   ],
+   "topic": "nasa-swift-satellite-deorbit-2026-11",
+   "firstSeen": "2026-11-05T16:01:23+08:00"
+  },
+  {
+   "id": "9b1495187b",
+   "title": "11 纳秒一个词：把变位词查找优化到极致的编程小品",
+   "summary": "作者把 anagram 查找压到约 11 ns/word，上了 HN 首页；典型「过度优化」乐趣帖，适合当性能工程案例。",
+   "links": [
+    "https://wiredream.com/anagram-fun/",
+    "https://news.ycombinator.com/item?id=50363353"
+   ],
+   "topic": "anagram-11ns-per-word-optimization",
+   "firstSeen": "2026-11-05T16:01:23+08:00"
+  },
+  {
+   "id": "9add294330",
+   "title": "Spotify 创始人新公司 T-Unit 融资 5000 万欧元：专做欧洲民主韧性",
+   "summary": "Swedish Tech News：Spotify 创始团队新创 T-Unit 获 Lakestar 领投约 €5000 万，定位防御欧洲民主相关基础设施与韧性。",
+   "links": [
+    "https://www.swedishtechnews.com/t-unit-the-spotify-founders-new-startup-secures-eur50m-in-funding-from-lakestar-to-make-european-democracies-resilient/",
+    "https://news.ycombinator.com/item?id=50376031"
+   ],
+   "topic": "t-unit-spotify-founders-eur50m-2026-11",
+   "firstSeen": "2026-11-05T16:01:23+08:00"
   }
  ],
- "lastChecked": "2026-11-05T15:30:04+08:00"
+ "lastChecked": "2026-11-05T16:01:23+08:00"
 }
