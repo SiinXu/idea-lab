@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T18:09:29+08:00",
+ "lastUpdated": "2026-11-05T18:31:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32771,7 +32771,49 @@
    ],
    "topic": "adani-100b-ai-datacenter-loan-2026-11",
    "firstSeen": "2026-11-05T18:09:29+08:00"
+  },
+  {
+   "id": "a290b882ee",
+   "title": "中国以安全审查叫停软银约 54 亿美元收购 ABB 机器人业务",
+   "summary": "ABB 11 月 5 日确认：中国外商投资安全审查工作机制禁止软银收购其中国机器人业务；约 53.75 亿美元交易的监管由软银主导，双方仍在沟通。报道指审查担忧机器人数据出境、可能用于训练含 OpenAI 关联模型；这是继 Meta/Manus 后今年又一重大交易受阻。",
+   "links": [
+    "https://new.abb.com/news/detail/140154/update-on-divestment-of-abb-robotics",
+    "https://www.scmp.com/business/china-business/article/3373415/china-blocks-softbanks-us54-billion-takeover-abbs-robotics-division",
+    "https://x.com/i/trending/2118248427318587813"
+   ],
+   "topic": "china-blocks-softbank-abb-robotics-2026-11-05",
+   "firstSeen": "2026-11-05T18:31:21+08:00"
+  },
+  {
+   "id": "f935675761",
+   "title": "OpenAI 发布「国家社区契约」与算力园区政策蓝图",
+   "summary": "11 月 5 日 OpenAI 公布 National Community Compact 与 Compute Campus Policy Blueprint：自有自营算力园区将自付电费与配套、公开水电噪音与雇佣、限制对公职人员 NDA，并呼吁州公用事业委员会要求大用电户承担新增电网成本。延续年初 Stargate 社区承诺，正面回应数据中心选址民意反弹。",
+   "links": [
+    "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/"
+   ],
+   "topic": "openai-national-community-compact-2026-11-05",
+   "firstSeen": "2026-11-05T18:31:21+08:00"
+  },
+  {
+   "id": "e28316334a",
+   "title": "ElevenLabs ElevenAgents 打通 NiCE、Genesys、Amazon Connect、Five9",
+   "summary": "ElevenAgents 宣布与主流联络中心平台原生对接，企业可把语音智能体嵌进现有客服系统，处理常规请求并在需要时转人工；另支持 SIP 连通其他中心。AI 客服落地门槛再降一截。",
+   "links": [
+    "https://elevenlabs.io/blog/elevenagents-contact-center-integrations"
+   ],
+   "topic": "elevenagents-contact-center-integrations-2026-11",
+   "firstSeen": "2026-11-05T18:31:21+08:00"
+  },
+  {
+   "id": "6c2f4c6a8a",
+   "title": "谷歌 Cloud 配额页疑似露出 gemini-omni-1.2-flash：下一代多模态视频模型未官宣",
+   "summary": "社区截图显示 Google Cloud API 配额里出现 gemini-omni-1.2-flash，传言相对现款 Omni Flash 视频输出更便宜、角色一致性更好；官方文档与 changelog 尚未列入，仍属未证实泄露，需等 Google 确认。",
+   "links": [
+    "https://x.com/i/trending/2118277194313289798"
+   ],
+   "topic": "gemini-omni-1-2-flash-leak-2026-11-05",
+   "firstSeen": "2026-11-05T18:31:21+08:00"
   }
  ],
- "lastChecked": "2026-11-05T18:09:29+08:00"
+ "lastChecked": "2026-11-05T18:31:21+08:00"
 }
