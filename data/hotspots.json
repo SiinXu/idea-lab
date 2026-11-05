@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T18:54:43+08:00",
+ "lastUpdated": "2026-11-05T19:16:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32925,7 +32925,41 @@
    ],
    "topic": "apt29-ios-android-watering-hole-2026-11",
    "firstSeen": "2026-11-05T18:54:43+08:00"
+  },
+  {
+   "id": "f67df6b6c9",
+   "title": "GhostMap：装一个无权限畸形 APK 就能让安卓陷入开机死循环",
+   "summary": "Bitdefender 披露：特制 APK 无需权限、无需打开，安装后即可让 system_server 反复崩溃；Pixel 10 / Android 17 可复现，安全模式也救不了，往往只能恢复出厂或靠已开 ADB 删文件。谷歌将问题判为「安全更新范围外」，研究于 11 月 5 日公开。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+    "https://www.bitdefender.com/en-us/blog/labs/ghostmap-android",
+    "https://www.androidauthority.com/android-ghostmap-vulnerability-crash-loop-3731355/"
+   ],
+   "topic": "ghostmap-android-boot-loop-2026-11",
+   "firstSeen": "2026-11-05T19:16:12+08:00"
+  },
+  {
+   "id": "a3adfa793f",
+   "title": "东京大学：光学硬件上跑通「跳状态」物理深度学习框架",
+   "summary": "东大与 NTT 提出 SS-DFA + single-map 架构，用约 200 米光纤环处理信号、大幅减少中间态测量与存储；模拟与光实验显示简化结构可媲美甚至优于复杂网络。论文 11 月 5 日刊于 Nature Computational Science，指向更低能耗的光计算 AI。",
+   "links": [
+    "https://www.u-tokyo.ac.jp/focus/en/press/z0508_00471.html",
+    "https://techxplore.com/news/2026-11-ai-framework-optical-hardware.html"
+   ],
+   "topic": "utokyo-optical-ss-dfa-single-map-2026-11",
+   "firstSeen": "2026-11-05T19:16:12+08:00"
+  },
+  {
+   "id": "fce485100b",
+   "title": "币安预防性撤销 SignalPlus 全部关联 API 密钥",
+   "summary": "香港交易工具商 SignalPlus 报告潜在安全问题后，币安于 11 月 5 日切断所有关联 API 密钥；称自身系统与用户资金未受影响。经 SignalPlus 跑自动化策略的用户需等官方说明后再重建密钥并建议开 IP 白名单；Deribit 等也有类似动作报道。",
+   "links": [
+    "https://cryptobriefing.com/binance-removes-signalplus-api-keys/",
+    "https://x.com/i/trending/2118299703297421427"
+   ],
+   "topic": "binance-revoke-signalplus-api-keys-2026-11-05",
+   "firstSeen": "2026-11-05T19:16:12+08:00"
   }
  ],
- "lastChecked": "2026-11-05T18:54:43+08:00"
+ "lastChecked": "2026-11-05T19:16:12+08:00"
 }
