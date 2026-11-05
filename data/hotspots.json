@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T06:01:27+08:00",
+ "lastUpdated": "2026-11-06T06:12:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35196,7 +35196,51 @@
    ],
    "topic": "shackleton-ai-construction-agentic-os-seed-2026-11",
    "firstSeen": "2026-11-06T06:01:27+08:00"
+  },
+  {
+   "id": "f9448a17b7",
+   "title": "OpenRouter 上线 Auto Code：专为 coding agent 路由模型",
+   "summary": "11 月 5 日发布的 openrouter/auto-code 按通过率、完成时长和单题成本选模型，会跟踪改动、测试结果与反复报错；默认从更强编码档起步，失败改动权重更高，上下文最长可到约 200 万 token。",
+   "links": [
+    "https://openrouter.ai/openrouter/auto-code"
+   ],
+   "topic": "openrouter-auto-code-2026-11-05",
+   "firstSeen": "2026-11-06T06:12:15+08:00"
+  },
+  {
+   "id": "c16a308d59",
+   "title": "CloudOpsBench：开源 AWS 运维 Agent 评测，约八成失败因推理",
+   "summary": "45 道真实 DevOps 任务（事故修复、迁移、部署等），可在真 AWS 或仿真环境跑。榜首 Claude Fable 5.1 约 60.6%、GPT-6 Astra 约 58.9%；失败主因是范围判断与过早停手，而非缺知识。",
+   "links": [
+    "https://cloudopsbench.ai/",
+    "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/"
+   ],
+   "topic": "cloudopsbench-aws-devops-agents-2026-11",
+   "firstSeen": "2026-11-06T06:12:15+08:00"
+  },
+  {
+   "id": "2e711d3789",
+   "title": "Barracuda 邮件网关曝认证前提权链：可打到 root",
+   "summary": "CVE-2026-116606（预认证授权绕过）与 CVE-2026-111560（时区字段命令注入）可串联；watchTowr 公开细节，建议升到 ESG 9.4.0.029+ 并限制管理面暴露。",
+   "links": [
+    "https://labs.watchtowr.com/barracuda-networks-is-your-new-best-friend-barracuda-email-security-gateway-pre-auth-remote-root-rce-cve-2026-116606-cve-2026-111560/",
+    "https://trust.barracuda.com/security/pre-authentication-authorization-bypass-command-injection",
+    "https://news.ycombinator.com/item?id=50385065"
+   ],
+   "topic": "barracuda-esg-cve-2026-116606-111560-2026-11-05",
+   "firstSeen": "2026-11-06T06:12:15+08:00"
+  },
+  {
+   "id": "24612e6b50",
+   "title": "Meridian：用 GPUI + Servo 写的 macOS 实验浏览器",
+   "summary": "Rust 浏览器，界面用 Zed 同款 GPUI，网页引擎用 Servo；支持地址栏联想、书签历史、阅读模式与音视频。作者把 Servo 封装成 gpui-servo 组件，nix run 即可试用。",
+   "links": [
+    "https://tangled.org/oppi.li/meridian",
+    "https://news.ycombinator.com/item?id=50384936"
+   ],
+   "topic": "meridian-gpui-servo-browser-2026-11-05",
+   "firstSeen": "2026-11-06T06:12:15+08:00"
   }
  ],
- "lastChecked": "2026-11-06T06:01:27+08:00"
+ "lastChecked": "2026-11-06T06:12:15+08:00"
 }
