@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T19:16:12+08:00",
+ "lastUpdated": "2026-11-05T19:17:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32959,7 +32959,19 @@
    ],
    "topic": "binance-revoke-signalplus-api-keys-2026-11-05",
    "firstSeen": "2026-11-05T19:16:12+08:00"
+  },
+  {
+   "id": "4a0af39d86",
+   "title": "Anthropic 首位增长员工 Austin Lau 也跳槽 OpenAI",
+   "summary": "在 Cat Wu 宣布加盟 OpenAI 核心产品数小时后，Anthropic 早期增长负责人 Austin Lau 发帖称已加入 OpenAI；具体岗位未披露。叠加 Claude Code 产品负责人出走与 Anthropic 临近 IPO，AI 产品与增长人才争夺再升温。",
+   "links": [
+    "https://www.ababnews.com/en/news/2f82aaaf-6831-4cc4-9a2c-87fc56613ef8",
+    "https://x.com/i/trending/2118298101572055268",
+    "https://airebao.com/item/53837"
+   ],
+   "topic": "austin-lau-anthropic-to-openai-2026-11",
+   "firstSeen": "2026-11-05T19:17:01+08:00"
   }
  ],
- "lastChecked": "2026-11-05T19:16:12+08:00"
+ "lastChecked": "2026-11-05T19:17:01+08:00"
 }
