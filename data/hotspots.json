@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T13:01:01+08:00",
+ "lastUpdated": "2026-11-05T13:17:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31799,7 +31799,98 @@
    ],
    "topic": "grok-bot-phone-calls-live",
    "firstSeen": "2026-11-05T13:01:01+08:00"
+  },
+  {
+   "id": "3e5b6ae241",
+   "title": "GitHub 日榜新王 agent-autoloop：让命令行 Agent 后台自己接活，拿不准才弹卡片找你拍板",
+   "summary": "KKKKhazix/agent-autoloop 11 月 3 日上线，约 24 小时涨超 2700 星登顶 AI 日榜：Agent 常驻后台接任务、自己跟进，只有需要人拍板时才发确认卡片。和「人一直盯着 Agent」反过来的常驻化方向。",
+   "links": [
+    "https://github.com/KKKKhazix/agent-autoloop"
+   ],
+   "topic": "agent-autoloop-background-cli",
+   "firstSeen": "2026-11-05T13:17:29+08:00"
+  },
+  {
+   "id": "bd168cda46",
+   "title": "Project Maya：在自家 GPU 上跑 GLM / DeepSeek / MiniMax 超大 MoE 推理引擎",
+   "summary": "开源项目 mw00/project-maya 冲上 AI 日榜：宣称可在私有 GPU 上跑 GLM-5.3-Flash（321B MoE）、DeepSeek-V4.1-Flash（748B MoE）、MiniMax-M3.1-Flash（428B MoE）等，本地化大 MoE 推理再度升温。",
+   "links": [
+    "https://github.com/mw00/project-maya"
+   ],
+   "topic": "project-maya-local-moe",
+   "firstSeen": "2026-11-05T13:17:29+08:00"
+  },
+  {
+   "id": "25ce1f96b3",
+   "title": "dsh-Go：把 DeepSeek Harness 装进手机，本机跑也能遥控电脑",
+   "summary": "ccch1mneyyy/dsh-Go 总星破万、单日再涨约两千：Dart 写的 DeepSeek Harness 移动端，强调手机本机运行 Agent，并可远程操控电脑，和「手机常驻智能体」叙事一起刷榜。",
+   "links": [
+    "https://github.com/ccch1mneyyy/dsh-Go"
+   ],
+   "topic": "dsh-go-mobile-harness",
+   "firstSeen": "2026-11-05T13:17:29+08:00"
+  },
+  {
+   "id": "1587826a35",
+   "title": "Anthropic 开源 commerce-agents：购物智能体 + 商家智能体参考蓝图",
+   "summary": "官方仓库 anthropics/commerce-agents 给出可 fork 的购物/商家双 Agent 实现（零售、旅行、电信、娱乐示例），含 Claude Code 插件脚手架；结账与上架变更都留给人工确认，方便企业几天内搭出商务 Agent。",
+   "links": [
+    "https://github.com/anthropics/commerce-agents",
+    "https://claude.com/resources/articles/claude-for-commerce-agents"
+   ],
+   "topic": "anthropic-commerce-agents",
+   "firstSeen": "2026-11-05T13:17:29+08:00"
+  },
+  {
+   "id": "2c0b081a6f",
+   "title": "Muse4AI：本地 Windows 桥，让编码 Agent 经 REST/MCP 直接出图出视频",
+   "summary": "andrew-babo/muse4ai 11 月 3 日开源：给 Muse 做本地桥接，Agent 可通过 REST、MCP、OAuth 调图像/视频生成，面向「写代码的 Agent 顺手出素材」工作流。",
+   "links": [
+    "https://github.com/andrew-babo/muse4ai"
+   ],
+   "topic": "muse4ai-local-bridge",
+   "firstSeen": "2026-11-05T13:17:29+08:00"
+  },
+  {
+   "id": "4e4f33a91e",
+   "title": "phone-harness：MCP 把真实 iPhone / Android 交给 AI 智能体操控",
+   "summary": "phone-harness/mcp 登上 AI 日榜：让 Agent 通过 MCP 连接真机，适合自动化测试、手机端操作演示和「手机即工具」类产品原型。",
+   "links": [
+    "https://github.com/phone-harness/mcp"
+   ],
+   "topic": "phone-harness-mcp",
+   "firstSeen": "2026-11-05T13:17:29+08:00"
+  },
+  {
+   "id": "9266ad866a",
+   "title": "InferSSD：从 SSD 流式加载 MoE 专家，跑超过本机内存的大模型",
+   "summary": "wici-ai/inferssd 基于 llama.cpp：把 MoE 专家权重放在 SSD 上按需流式加载，让内存/显存不够的机器也能跑更大模型，本地推理成本叙事的又一条路径。",
+   "links": [
+    "https://github.com/wici-ai/inferssd"
+   ],
+   "topic": "inferssd-moe-ssd",
+   "firstSeen": "2026-11-05T13:17:29+08:00"
+  },
+  {
+   "id": "4bf30655b1",
+   "title": "robot-heads：给 Agent 加 3D 电视头 LED 表情，状态一眼可见",
+   "summary": "fayazara/robot-heads 是 React 用的动画 3D 机器人头组件：TV 头 + LED 脸，用来可视化 Agent 正在做什么，适合做产品 Demo 和 Agent 工作台的「存在感」UI。",
+   "links": [
+    "https://github.com/fayazara/robot-heads"
+   ],
+   "topic": "robot-heads-agent-ui",
+   "firstSeen": "2026-11-05T13:17:29+08:00"
+  },
+  {
+   "id": "c8e3d176c9",
+   "title": "Show HN：Rendro 用你自己的文档自动填安全问卷，原样交回买家表格",
+   "summary": "Rendro 面向没安全团队的 B2B：上传政策/SOC2/旧答卷后，把对方发来的 Excel/Word/PDF 问卷填回去并附来源；答不了的标红，不瞎编。起步免费试用，付费约 $199/月起。",
+   "links": [
+    "https://rendro.net/"
+   ],
+   "topic": "rendro-security-questionnaire",
+   "firstSeen": "2026-11-05T13:17:29+08:00"
   }
  ],
- "lastChecked": "2026-11-05T13:01:01+08:00"
+ "lastChecked": "2026-11-05T13:17:29+08:00"
 }
