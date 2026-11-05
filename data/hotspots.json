@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T20:32:10+08:00",
+ "lastUpdated": "2026-11-05T20:32:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33156,7 +33156,18 @@
    ],
    "topic": "celltype-biosimbench-2026-11",
    "firstSeen": "2026-11-05T20:32:10+08:00"
+  },
+  {
+   "id": "8d14731910",
+   "title": "Sshole：musl 上 OpenSSH 十年密码绕过被完整拆开",
+   "summary": "sshhole.com 详解：Alpine / OpenWrt 等 musl 环境、关 PAM 时，带 * 的禁用账户会对 257–1024 字符任意密码放行；官方 AWS/Azure Alpine 镜像默认用户还可无密码 doas 提权。作者用 agent 群测 1.7 万组登录撞出，OpenSSH 10.6p2 已修。",
+   "links": [
+    "https://sshhole.com",
+    "https://news.ycombinator.com/item?id=50378228"
+   ],
+   "topic": "sshole-musl-openssh-password-bypass-disclosure-2026-11",
+   "firstSeen": "2026-11-05T20:32:53+08:00"
   }
  ],
- "lastChecked": "2026-11-05T20:32:10+08:00"
+ "lastChecked": "2026-11-05T20:32:53+08:00"
 }
