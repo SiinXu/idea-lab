@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T14:14:47+08:00",
+ "lastUpdated": "2026-11-05T14:32:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32049,7 +32049,42 @@
    ],
    "topic": "krebs-white-house-infatica-residential-proxy",
    "firstSeen": "2026-11-05T14:14:47+08:00"
+  },
+  {
+   "id": "81afc2916a",
+   "title": "Xen XSA-523：Claude 挖出跨虚拟机任意读写漏洞，可逃逸到 Dom0",
+   "summary": "Xen 4.6 起 grant copy 缓存校验失误（CVE-2026-102703/102704），恶意客户机可读写含 Dom0 在内的任意域内存；Xen 项目标注由 Anthropic 用 Claude 发现、Ada Logics 验证，CodeAnt 亦独立报告。无缓解措施，需打补丁并重启。",
+   "links": [
+    "https://xenbits.xenproject.org/xsa/advisory-523.html",
+    "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html"
+   ],
+   "topic": "xen-xsa-523-claude-grant-copy-vm-escape",
+   "firstSeen": "2026-11-05T14:32:56+08:00"
+  },
+  {
+   "id": "96824d6c1d",
+   "title": "美国中期选举：38 项数据中心限制/禁令过关，选民反 AI 基建",
+   "summary": "404 Media 与 Ars 报道：十余州 40+ 项选票里约 38 项限制或禁止数据中心；德州等反数据中心州长胜选，科技游说称「反特朗普不是反科技」，民调则显示逾半数选民把 AI/数据中心当重要投票因素。",
+   "links": [
+    "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+    "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+    "https://news.ycombinator.com/item?id=50373505"
+   ],
+   "topic": "us-midterm-data-center-bans-ai-backlash-2026",
+   "firstSeen": "2026-11-05T14:32:56+08:00"
+  },
+  {
+   "id": "10f9568c71",
+   "title": "印度 CERT-In 点名 CRAFTY FALCON：用公开 AI 工具打加密所与支付 API",
+   "summary": "CERT-In 将威胁方定为 CRAFTY FALCON，称其用 ARTEX、PentAGI 等公开 AI 攻防工具以机器速度扫点、调用受害方支付/放款 API；目标含 NBFC、金融科技与加密交易所，周末节假日下手，已有钱包私钥被盗案例。",
+   "links": [
+    "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed",
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-based-cyber-threat-executing-unauthorised-fund-transfers-from-banking-firms-cert-in/articleshow/135547661.cms",
+    "https://x.com/i/trending/2118204435696423169"
+   ],
+   "topic": "cert-in-crafty-falcon-ai-bfsi-crypto",
+   "firstSeen": "2026-11-05T14:32:56+08:00"
   }
  ],
- "lastChecked": "2026-11-05T14:14:47+08:00"
+ "lastChecked": "2026-11-05T14:32:56+08:00"
 }
