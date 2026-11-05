@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T22:29:03+08:00",
+ "lastUpdated": "2026-11-05T22:46:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33506,7 +33506,40 @@
    ],
    "topic": "starlink-ul-dl-channel-pairing-80k-hop-2026-11",
    "firstSeen": "2026-11-05T22:29:03+08:00"
+  },
+  {
+   "id": "6231ff8454",
+   "title": "Swarm Rebuild：一键清空网页，彩色多光标「设计团队」现场重建整页",
+   "summary": "Chrome 扩展先把任意页面擦成空白，再让一群彩色多光标像设计工具一样画框、打字、拖参考线、⌥ 复制卡片，把页面现场拼回来；纯本地 DOM 快照动画，灵感来自 Joel Califa 的 Swarm，正冲上 X。",
+   "links": [
+    "https://x.com/i/trending/2118351763493253454",
+    "https://github.com/DhvanilPatel/swarm-cursors",
+    "https://chromewebstore.google.com/detail/swarm-rebuild/diaeaocnhdhbknkbfbnkjikfcgokainm"
+   ],
+   "topic": "swarm-rebuild-chrome-cursors-2026-11-05",
+   "firstSeen": "2026-11-05T22:46:45+08:00"
+  },
+  {
+   "id": "ae144eb282",
+   "title": "Neal Khosla「摩擦崩塌」：Agent 秒抢票/机票后，市场还靠人类拖延吗",
+   "summary": "他描述 AI 智能体不眠不偏地扫机会、下单，会拆掉票务、订阅、求职里靠人类迟钝赚钱的模式；有人叫「大反转」，平台可能被迫加验证码、随机排队或按结果定价。",
+   "links": [
+    "https://x.com/i/trending/2118320782862631109"
+   ],
+   "topic": "neal-khosla-friction-collapse-agents-2026-11-05",
+   "firstSeen": "2026-11-05T22:46:45+08:00"
+  },
+  {
+   "id": "4a709fe9d5",
+   "title": "「真希望科技公司更了解我」：隐私对立面的个人化诉求冲上 HN",
+   "summary": "作者吐槽产品明明不认识自己，却还要一遍遍重新教偏好；呼吁在用户可控前提下做更深的个人档案，而不是一律匿名。冲上 HN 讨论。",
+   "links": [
+    "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+    "https://news.ycombinator.com/item?id=50378942"
+   ],
+   "topic": "wish-tech-knew-me-exotext-hn-2026-11-05",
+   "firstSeen": "2026-11-05T22:46:45+08:00"
   }
  ],
- "lastChecked": "2026-11-05T22:29:03+08:00"
+ "lastChecked": "2026-11-05T22:46:45+08:00"
 }
