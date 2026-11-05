@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T12:47:04+08:00",
+ "lastUpdated": "2026-11-05T13:01:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31786,7 +31786,20 @@
    ],
    "topic": "oumi-faie-agent-training",
    "firstSeen": "2026-11-05T12:47:04+08:00"
+  },
+  {
+   "id": "e4a242233f",
+   "title": "Grok Bot 正式上线「代打电话」：替用户拨号、走语音菜单、和客服砍价退订，全程实时转写可随时接管",
+   "summary": "Grok Bot 官方账号 11 月 4 日宣布可以替用户打电话：用户在聊天里批准后由智能体拨号，自动走 IVR 语音菜单、与真人客服交谈，通话中实时显示双方转写，需要信息时弹出回答框，用户可随时接管或挂断，结束后发回通话摘要。目前主要面向美国账号拨打美国号码、按账号逐步开放，条款要求每通电话自报虚拟助理身份，禁止营销群呼和冒充。X 上早期案例包括 Comcast 宽带从每月 84 美元谈到 45 美元、从 Verizon 要回 100 美元礼品卡、预约当天儿科门诊；也有客服发现是 AI 后拒绝办理退订。信号：「AI 代办电话」从演示走向大众产品，砍账单、退订阅、预约排队这类高频烦人电话是可做的垂直服务和话术模板生意，客服侧的「AI 来电识别与接待」需求也会随之出现。",
+   "links": [
+    "https://x.com/bot/status/2118043939592942052",
+    "https://teslanorth.com/2026/11/04/grok-bot-phone-calls-live/",
+    "https://www.teslarati.com/elon-musks-grok-bot-is-picking-up-the-phone-now-and-the-first-calls-are-wild/",
+    "https://x.com/i/trending/2118100747938038130"
+   ],
+   "topic": "grok-bot-phone-calls-live",
+   "firstSeen": "2026-11-05T13:01:01+08:00"
   }
  ],
- "lastChecked": "2026-11-05T12:47:04+08:00"
+ "lastChecked": "2026-11-05T13:01:01+08:00"
 }
