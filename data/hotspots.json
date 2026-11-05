@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T15:12:24+08:00",
+ "lastUpdated": "2026-11-05T15:30:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32276,7 +32276,79 @@
    ],
    "topic": "aspec-adversarial-speculative-reasoning",
    "firstSeen": "2026-11-05T15:12:24+08:00"
+  },
+  {
+   "id": "bd9f162535",
+   "title": "Coinspect：从客户机用户态逃逸 Firecracker（CVE-2026-122192）",
+   "summary": "安全公司 Coinspect 演示两段链：气球/virtio-mem 丢弃路径失败后可读写 VMM 内存并在宿主机侧执行代码，再借 seccomp 放行的 io_uring 绕过策略。影响 0.23.0–1.16.1，已在 1.16.2/1.17.0 修复；Bedrock AgentCore、Vercel Sandbox、E2B 等 AI 沙箱都用 Firecracker。",
+   "links": [
+    "https://www.coinspect.com/blog/firecracker-escape/",
+    "https://github.com/firecracker-microvm/firecracker/security/advisories"
+   ],
+   "topic": "firecracker-guest-escape-cve-2026-122192",
+   "firstSeen": "2026-11-05T15:30:04+08:00"
+  },
+  {
+   "id": "1588513a3c",
+   "title": "Quanta：语言模型真的「知道自己在想什么」吗？",
+   "summary": "综述 Anthropic Jack Lindsey 的思想注入实验：模型有时能检出注入概念，但后续复现更像「异常检测」而非完整内省；哲学与机制解释仍有争议，却给可检验的 AI 认知科学开了新路。",
+   "links": [
+    "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/"
+   ],
+   "topic": "quanta-llm-introspection-anomaly-detection-2026-11",
+   "firstSeen": "2026-11-05T15:30:04+08:00"
+  },
+  {
+   "id": "2690146cdf",
+   "title": "Ben Recht《比煤还不受欢迎》：数据中心公投折射 AI 民怨",
+   "summary": "中期选举近五十项数据中心相关公投几乎全票限制扩建；作者称民调显示宁可邻居建燃煤电厂也不要数据中心，呼吁行业正面重启叙事，而非只靠采用率和市值自证。",
+   "links": [
+    "https://www.argmin.net/p/less-popular-than-coal"
+   ],
+   "topic": "argmin-less-popular-than-coal-datacenters-2026-11",
+   "firstSeen": "2026-11-05T15:30:04+08:00"
+  },
+  {
+   "id": "fcc55b4207",
+   "title": "CNBC：芯片人才战——三星前员工跳槽 CXMT 泄密获刑",
+   "summary": "首尔高等法院将一名赴中国长鑫存储的前三星工程师泄密案改判五年；Counterpoint 称中国厂用高薪挖角海外工程经验，成熟厂则收紧竞业与核心技术保护，亚洲律师指商业秘密与个人技能边界难划。",
+   "links": [
+    "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html"
+   ],
+   "topic": "cnbc-chip-talent-war-samsung-cxmt-2026-11",
+   "firstSeen": "2026-11-05T15:30:04+08:00"
+  },
+  {
+   "id": "793baf0e54",
+   "title": "Ask HN：你现在的 AI 智能体编程全家桶是什么？",
+   "summary": "HN 热帖汇集开发者真实 agent 工作流：CLI/IDE、多模型路由、沙箱、记忆与成本控管，可作为 Idea Lab 对照「智能体编程配置」产品灵感的一手样本。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50366117"
+   ],
+   "topic": "ask-hn-current-ai-agentic-setup-2026-11",
+   "firstSeen": "2026-11-05T15:30:04+08:00"
+  },
+  {
+   "id": "08b0f3a4ef",
+   "title": "Show HN：PC Deal Check——按零件拆价预装机",
+   "summary": "把整机报价拆成零件市价对比，帮买家看出预装机溢价；登 HN 并获百余分，适合做成比价/省钱工具向 Idea Lab 点子。",
+   "links": [
+    "https://pcdealcheck.com/",
+    "https://news.ycombinator.com/item?id=50366929"
+   ],
+   "topic": "show-hn-pcdealcheck-prebuilt-pricing-2026-11",
+   "firstSeen": "2026-11-05T15:30:04+08:00"
+  },
+  {
+   "id": "1cd75a51b2",
+   "title": "The test that deleted my home folder：测试一不小心 rm 了家目录",
+   "summary": "开发者复盘一次测试脚本误删家目录的事故，提醒自动化与 AI agent 跑破坏性命令时要隔离工作目录、限制权限，适合做成沙箱/防误删清单。",
+   "links": [
+    "https://www.shuffle-on.com/blog/the-test-that-deleted-my-home-folder"
+   ],
+   "topic": "shuffle-on-test-deleted-home-folder-2026-11",
+   "firstSeen": "2026-11-05T15:30:04+08:00"
   }
  ],
- "lastChecked": "2026-11-05T15:12:24+08:00"
+ "lastChecked": "2026-11-05T15:30:04+08:00"
 }
