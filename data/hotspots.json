@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T20:32:53+08:00",
+ "lastUpdated": "2026-11-05T20:44:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33167,7 +33167,32 @@
    ],
    "topic": "sshole-musl-openssh-password-bypass-disclosure-2026-11",
    "firstSeen": "2026-11-05T20:32:53+08:00"
+  },
+  {
+   "id": "5a25b2117d",
+   "title": "飞机噪声可定位视频：听不见的多普勒曲线 + ADS-B，精度约 100 米",
+   "summary": "YouTuber Colsto 演示：视频背景里人耳听不见的螺旋桨飞机噪声，经频谱多普勒曲线与公开 ADS-B 航迹比对，可在无画面线索时把拍摄地点缩到约 100 米。TechRadar、Cybernews 等跟进；普通降噪/高通滤波未必清干净，对创作者与吹哨人隐私有警示意义。",
+   "links": [
+    "https://www.youtube.com/watch?v=UytYrhYLOKI",
+    "https://www.techradar.com/computing/cyber-security/youtuber-discovers-aircraft-noise-trick-that-can-geolocate-your-videos-to-within-100m-doppler-effect-pinpoints-locations-from-just-60-seconds-of-audio",
+    "https://cybernews.com/privacy/aircraft-doppler-audio-geolocation-privacy/",
+    "https://news.ycombinator.com/item?id=50378266"
+   ],
+   "topic": "aircraft-doppler-audio-geolocation-colsto-2026-11",
+   "firstSeen": "2026-11-05T20:44:55+08:00"
+  },
+  {
+   "id": "80ae2a968b",
+   "title": "WebsiteBench：只靠浏览器探站，AI 智能体能不能重建整站？",
+   "summary": "TIGER-AI-Lab 新基准：74 个专家仿真实网站、50356 项隐藏测试；智能体只能点点截图、不能看源码，限时 16 小时写全栈复刻。最强 Claude Opus 5.5 仅过 22.5%；三大失败模式是欠探索、看到了不照做、过早收工。",
+   "links": [
+    "https://websitebench.github.io/",
+    "https://github.com/TIGER-AI-Lab/WebsiteBench",
+    "https://news.ycombinator.com/item?id=50378231"
+   ],
+   "topic": "websitebench-tiger-ai-lab-2026-11",
+   "firstSeen": "2026-11-05T20:44:55+08:00"
   }
  ],
- "lastChecked": "2026-11-05T20:32:53+08:00"
+ "lastChecked": "2026-11-05T20:44:55+08:00"
 }
