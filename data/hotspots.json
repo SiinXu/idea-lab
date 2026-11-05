@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T10:17:33+08:00",
+ "lastUpdated": "2026-11-05T10:23:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31635,7 +31635,18 @@
    ],
    "topic": "notion-shared-brain-ai-agents",
    "firstSeen": "2026-11-05T10:17:33+08:00"
+  },
+  {
+   "id": "6e3b6d60cb",
+   "title": "浏览器游戏 Mental Kombat：用「谎言」骗倒对手的 AI 格斗手",
+   "summary": "玩家用自然语言给自己的 AI 斗士 Jev 写战术，再偷偷塞一条伪装指令去误导对手，比如谎称「格挡就无敌」让对方站着挨打；回放会标出被骗的那一步。作者 Vitaly Kleban 借此收集 AI 抗误导数据，把提示注入安全研究做成可玩的对战，赢家拿走输家 10% 余额。",
+   "links": [
+    "https://jevfight.com",
+    "https://x.com/i/trending/2118054555598397688"
+   ],
+   "topic": "mental-kombat-ai-deception-game",
+   "firstSeen": "2026-11-05T10:23:07+08:00"
   }
  ],
- "lastChecked": "2026-11-05T10:17:33+08:00"
+ "lastChecked": "2026-11-05T10:23:07+08:00"
 }
