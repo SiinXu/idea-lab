@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T13:17:29+08:00",
+ "lastUpdated": "2026-11-05T13:27:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31890,7 +31890,56 @@
    ],
    "topic": "rendro-security-questionnaire",
    "firstSeen": "2026-11-05T13:17:29+08:00"
+  },
+  {
+   "id": "57e62d0bb2",
+   "title": "苹果上线订阅「挽留消息」：用户点取消时，App 可弹文案、图片或折扣挽留",
+   "summary": "苹果 11 月 4 日在 App Store Connect 正式开放 Retention Messaging：自动续期订阅在取消流程中可展示开发者自定义的文案、图片或专属挽留优惠，每个 App 最多 10 条，可设资格与间隔；另有按需申请的 Retention Messaging API，可按订阅者情况实时选择展示哪条。独立开发者可直接用来降低流失、做 A/B 挽留实验。",
+   "links": [
+    "https://developer.apple.com/news/?id=fk9ps3gv",
+    "https://www.macrumors.com/2026/11/04/app-store-subscription-retention/",
+    "https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/",
+    "https://x.com/i/trending/2118210632663314615"
+   ],
+   "topic": "apple-app-store-retention-messages",
+   "firstSeen": "2026-11-05T13:27:29+08:00"
+  },
+  {
+   "id": "ba721fe82f",
+   "title": "X 重写网页版：三套服务器合一、服务端流式渲染，慢网下首条帖子从 22 秒降到 2.7 秒",
+   "summary": "X 首席工程师 Yagiz Nizipli 发文介绍新版 x.com：把分别服务真人、搜索爬虫、链接预览的三套服务器合并为一，首个 HTML 就带上帖子内容，慢网下个人页首帖加载从约 23.9 秒降到 2.7 秒、帖子页快约 13 倍；登出态已全量，登录用户按国家逐步切换。项目由约 5 名工程师借助 AI 编码智能体起步。",
+   "links": [
+    "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+    "https://www.gizmodo.jp/article/x-web-app-rebuild-faster/",
+    "https://x.com/i/trending/2118061594194108671"
+   ],
+   "topic": "x-web-app-rebuild-ssr-fast",
+   "firstSeen": "2026-11-05T13:27:29+08:00"
+  },
+  {
+   "id": "f57d5a00df",
+   "title": "DHH：Omarchy 4.5 将完整支持 M1/M2/M3 Mac，一键双系统安装器喊出「苹果硬件解放」",
+   "summary": "DHH 宣布其 Arch + Hyprland 发行版 Omarchy 4.5 将完整支持 Apple M1、M2、M3 与 Neo，并支持 Snapdragon X、NVIDIA N1x 等 ARM 笔记本；4.5 RC3 已附带 macOS 下运行的 Mac 安装器（默认双系统），M4–M6 支持在路上。续航与部分机型音频、电源管理仍待完善。",
+   "links": [
+    "https://github.com/omacom/omarchy/releases/tag/v4.5.0-rc3",
+    "https://www.frandroid.com/os/gnu-linux/3311141_apple-hardware-liberated-cette-distribution-linux-arrive-sur-les-mac-m1-m2-m3-et-neo",
+    "https://x.com/i/trending/2118191834077745583"
+   ],
+   "topic": "omarchy-4-5-apple-silicon",
+   "firstSeen": "2026-11-05T13:27:29+08:00"
+  },
+  {
+   "id": "0eba75badb",
+   "title": "Bun 作者 Jarred Sumner 断言「依赖时代结束」：重写一个依赖只差一句提示词，何必共担风险",
+   "summary": "同一个 Brotli 解码器漏洞（CVE-2026-111497）波及 Node、Bun、.NET、Envoy 等，Jarred Sumner 据此预测共享开源依赖将被 AI 快速重写取代；Bun 已计划把大部分 C/C++ 依赖换成自研 Rust 实现，从 libarchive 开始。反方担心自写代码失去社区审查、引入新 bug，引发开源供应链路线之争。",
+   "links": [
+    "https://moot.fyi/u/jarredsumner",
+    "https://dev.to/suraj_nandan/node2shell-one-brotli-decoder-bug-three-runtimes-to-patch-nodejs-bun-python-3fi6",
+    "https://x.com/i/trending/2118131228281081910"
+   ],
+   "topic": "jarred-sumner-dependencies-are-over",
+   "firstSeen": "2026-11-05T13:27:29+08:00"
   }
  ],
- "lastChecked": "2026-11-05T13:17:29+08:00"
+ "lastChecked": "2026-11-05T13:27:29+08:00"
 }
