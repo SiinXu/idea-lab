@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T17:56:22+08:00",
+ "lastUpdated": "2026-11-05T18:09:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32725,7 +32725,53 @@
    ],
    "topic": "kalshi-utah-felony-charges-cftc-2026-11",
    "firstSeen": "2026-11-05T17:56:22+08:00"
+  },
+  {
+   "id": "2dbe5444e0",
+   "title": "OpenSSH 10.6p2 紧急发布：规避 musl 环境下密码认证绕过",
+   "summary": "2026-11-05 发布的 Portable OpenSSH 10.6p2 针对部分 Linux（musl libc 且关闭 PAM）上可通过 sshd 利用的密码认证绕过提供关键规避。官方称根因不在 sshd 内，但可经 sshd 利用；临时也可设 PasswordAuthentication no。发布说明同时提到近期大量 AI 辅助挖洞报告，团队改为更频繁出补丁。",
+   "links": [
+    "https://www.openssh.org/releasenotes.html",
+    "https://hachyderm.io/@damienmiller/117563026759098135",
+    "https://news.ycombinator.com/item?id=50377221"
+   ],
+   "topic": "openssh-10-6p2-musl-password-bypass-2026-11-05",
+   "firstSeen": "2026-11-05T18:09:29+08:00"
+  },
+  {
+   "id": "a7d822ef50",
+   "title": "Tim Sweeney：UE6 从 Early Access 起砍掉蓝图与 Actor，玩法全面改用 Verse",
+   "summary": "Unreal Fest Tokyo 2026 基调演讲中，Epic CEO 宣布推翻芝加哥原计划：Unreal Engine 6（约 2027 年末 Early Access）一开始就移除 Blueprints、Actors 与 C++ Gameplay Framework，游戏逻辑改走 Verse + Scene Graph；C++ 仍保留在渲染/物理等底层。动机是 AI 对文本代码远比蓝图高效，Epic 正把《堡垒之夜》数千蓝图迁到 Verse，并承诺提供 AI 辅助转换。同期预告 UE5.9 预览下周上线。",
+   "links": [
+    "https://www.4gamer.net/games/210/G021013/20261104013/",
+    "https://www.invenglobal.com/articles/28098/epic-games-will-remove-blueprints-and-actors-from-unreal-engine-6",
+    "https://www.youtube.com/watch?v=i0wZCIhqveQ"
+   ],
+   "topic": "unreal-engine-6-remove-blueprints-verse-tokyo-2026-11",
+   "firstSeen": "2026-11-05T18:09:29+08:00"
+  },
+  {
+   "id": "4793f52684",
+   "title": "StreetComplete 上架 iOS：把 OpenStreetMap 补点任务做成手机问答",
+   "summary": "开源 OSM 实地补全应用 StreetComplete 已出现在 App Store（需 iOS 15+）。应用在附近地图上标出缺失数据任务，用户现场回答简单问题即可直接写入 OpenStreetMap，无需另开编辑器；Android 版已流行多年，这是稳定 iOS 版本的重要一步。",
+   "links": [
+    "https://apps.apple.com/de/app/streetcomplete/id6808344816",
+    "https://github.com/streetcomplete/StreetComplete/releases",
+    "https://news.ycombinator.com/item?id=50377190"
+   ],
+   "topic": "streetcomplete-ios-appstore-2026-11",
+   "firstSeen": "2026-11-05T18:09:29+08:00"
+  },
+  {
+   "id": "d73ccb6af1",
+   "title": "Adani 推进千亿美元级绿色 AI 数据中心：AdaniConneX 洽谈约 15 亿美元银团贷款",
+   "summary": "据报道 Adani 集团计划到 2035 年投入约 1000 亿美元建设以可再生电力支撑的 AI 数据中心；合资公司 AdaniConneX（与 EdgeConneX）正与 DBS、First Abu Dhabi Bank、三菱 UFJ 等洽谈约 15 亿美元贷款，产能目标从约 2GW 扩至 5GW，并已对接谷歌维沙卡帕特南、微软海德拉巴/浦那等项目。",
+   "links": [
+    "https://x.com/i/trending/2118210635742019823"
+   ],
+   "topic": "adani-100b-ai-datacenter-loan-2026-11",
+   "firstSeen": "2026-11-05T18:09:29+08:00"
   }
  ],
- "lastChecked": "2026-11-05T17:56:22+08:00"
+ "lastChecked": "2026-11-05T18:09:29+08:00"
 }
