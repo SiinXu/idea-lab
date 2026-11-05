@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T00:42:46+08:00",
+ "lastUpdated": "2026-11-06T01:00:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34111,7 +34111,62 @@
    ],
    "topic": "eff-google-ai-summaries-lock-in-2026-11",
    "firstSeen": "2026-11-06T00:42:46+08:00"
+  },
+  {
+   "id": "ba68545a42",
+   "title": "Keychron F4 HE「Vibe Coding」四键磁轴小键盘：一键过 Prompt 循环",
+   "summary": "售价约 35 美元的四键磁轴小键盘，专为发提示、语音、接受/拒绝 AI 改动设计；浏览器 Launcher 可一键加载 Codex/Claude 预设，登上 HN。",
+   "links": [
+    "https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad",
+    "https://news.ycombinator.com/item?id=50381302"
+   ],
+   "topic": "keychron-f4-he-vibe-coding-keypad-2026-11",
+   "firstSeen": "2026-11-06T01:00:20+08:00"
+  },
+  {
+   "id": "1077374dc5",
+   "title": "a16z：漏洞利用曾是瓶颈，AI 把它压成小时级，「补丁鸿沟」再拉大",
+   "summary": "基于 23 年数据：披露到利用从数十天压到披露前，而企业中位补丁仍约 43 天；预测更像新一轮蠕虫时代，重灾区是难以及时更新的长尾系统。",
+   "links": [
+    "https://www.a16z.news/p/the-exploit-was-the-bottleneck",
+    "https://news.ycombinator.com/item?id=50381288"
+   ],
+   "topic": "a16z-exploit-bottleneck-patch-gap-2026-11-05",
+   "firstSeen": "2026-11-06T01:00:20+08:00"
+  },
+  {
+   "id": "9bb7581ddb",
+   "title": "RTX PRO 5500 Blackwell 零售标价近 1.8 万美元：比更高端 PRO 6000 还贵",
+   "summary": "美国渠道列出 84GB 版 MSRP 17999 美元，而 NVIDIA 官网上更高规格的 PRO 6000 工作站版仍标约 16000 美元；厂商未正式确认该价，但放大了工作站卡溢价与中国大单预期落差。",
+   "links": [
+    "https://videocardz.com/newz/nvidia-rtx-pro-5500-blackwell-appears-at-17999-msrp-higher-than-rtx-pro-6000",
+    "https://news.ycombinator.com/item?id=50381429",
+    "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-5500/"
+   ],
+   "topic": "nvidia-rtx-pro-5500-msrp-17999-2026-11-05",
+   "firstSeen": "2026-11-06T01:00:20+08:00"
+  },
+  {
+   "id": "5757809c7f",
+   "title": "Apache TVM：Agent 时代还要不要编译器？TIRx 重建 DSL 底座",
+   "summary": "TVM 社区发文：Agent 能直接写 CUDA/PTX，但仍需要稳定 IR 做分析与验证；TIRx 以最小 AST、动态扩展和跨语言 FFI 重做共享编译底座，服务 Agent 写内核。",
+   "links": [
+    "https://tvm.apache.org/2026/11/03/rethinking-abstractions-in-the-agentic-era",
+    "https://news.ycombinator.com/item?id=50381415"
+   ],
+   "topic": "apache-tvm-tirx-agentic-compiler-2026-11",
+   "firstSeen": "2026-11-06T01:00:20+08:00"
+  },
+  {
+   "id": "3f34ffc825",
+   "title": "AMD FSR 4.1.2 把机器学习超分带到 Xbox Series X|S",
+   "summary": "VideoCardz 等报道 FSR 4.1.2 将机器学习升采样能力扩展到 Xbox 主机，主机画质与 PC 超分路线进一步打通。",
+   "links": [
+    "https://videocardz.com/newz/amd-fsr-4-1-2-brings-machine-learning-upscaling-to-xbox-series-x-and-s-consoles"
+   ],
+   "topic": "amd-fsr-4-1-2-xbox-2026-11-05",
+   "firstSeen": "2026-11-06T01:00:20+08:00"
   }
  ],
- "lastChecked": "2026-11-06T00:42:46+08:00"
+ "lastChecked": "2026-11-06T01:00:20+08:00"
 }
