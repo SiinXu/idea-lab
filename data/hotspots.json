@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T13:55:15+08:00",
+ "lastUpdated": "2026-11-05T14:14:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31994,7 +31994,62 @@
    ],
    "topic": "wing-commander-together-wcmulti",
    "firstSeen": "2026-11-05T13:55:15+08:00"
+  },
+  {
+   "id": "9bf07d8baf",
+   "title": "FuriosaAI 完成 6.2 亿美元 D 轮：估值约 29 亿美元，挑战英伟达推理芯片",
+   "summary": "韩国推理加速器公司 FuriosaAI 宣布 6.2 亿美元 D 轮、投后估值约 29 亿美元；RNGD 已量产，今年计划出货约 2 万张，并与博通等推进三代芯片。",
+   "links": [
+    "https://furiosa.ai/blog/furiosaai-620-million-series-d",
+    "https://news.ycombinator.com/item?id=50375713"
+   ],
+   "topic": "furiosaai-620m-series-d-rngd",
+   "firstSeen": "2026-11-05T14:14:47+08:00"
+  },
+  {
+   "id": "9ef8a8bd66",
+   "title": "Anthropic 首份付费媒体授权：与美联社敲定选举内容授权",
+   "summary": "Adweek 报道 Anthropic 在中期选举前首次向数字新闻机构付费授权，Claude 可引用美联社实时选举结果；此前其长期回避出版商授权、与 OpenAI 多份协议形成对比。",
+   "links": [
+    "https://www.adweek.com/media/anthropic-licensing-deal-ap-election/",
+    "https://www.theverge.com/ai-artificial-intelligence/1027173/anthropic-reportedly-made-a-licensing-deal-with-the-associated-press"
+   ],
+   "topic": "anthropic-ap-first-publisher-licensing",
+   "firstSeen": "2026-11-05T14:14:47+08:00"
+  },
+  {
+   "id": "bb0110de9c",
+   "title": "Addy Osmani：编排税——多 Agent 并行撞上你的注意力单线程",
+   "summary": "Chrome 团队工程负责人提出「编排税」：开 Agent 很便宜，但评审、合并和判断仍串行经过你一人；应按评审吞吐而不是 UI 上限扩舰队，否则只会堆出更浅的审查。",
+   "links": [
+    "https://addyosmani.com/blog/orchestration-tax/",
+    "https://news.ycombinator.com/item?id=50375723"
+   ],
+   "topic": "addy-osmani-orchestration-tax",
+   "firstSeen": "2026-11-05T14:14:47+08:00"
+  },
+  {
+   "id": "42135a8f00",
+   "title": "Altera 发布 Agilex 2X FPGA 全家桶：面向数字 AI 与物理 AI",
+   "summary": "Altera 推出 Agilex 2X 可编程逻辑组合，首发 Agilex 27，并配套 QuartusIQ 智能体式设计助手；覆盖数据中心、网络、航天防务、机器人到边缘。",
+   "links": [
+    "https://www.altera.com/newsroom/agilex-2x",
+    "https://news.ycombinator.com/item?id=50375653"
+   ],
+   "topic": "altera-agilex-2x-fpga-portfolio",
+   "firstSeen": "2026-11-05T14:14:47+08:00"
+  },
+  {
+   "id": "2e0612d181",
+   "title": "Krebs：白宫网段住宅代理可租——Infatica 等 28 家服务曾从此出口",
+   "summary": "Krebs 跟进 Layer3 发现：行政办公室网段 AS2650 一个月内被 28 家住宅代理服务出口；其中 Infatica 关联创始人曾涉 2016 年选举系统攻击基础设施。",
+   "links": [
+    "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+    "https://news.ycombinator.com/item?id=50375728"
+   ],
+   "topic": "krebs-white-house-infatica-residential-proxy",
+   "firstSeen": "2026-11-05T14:14:47+08:00"
   }
  ],
- "lastChecked": "2026-11-05T13:55:15+08:00"
+ "lastChecked": "2026-11-05T14:14:47+08:00"
 }
