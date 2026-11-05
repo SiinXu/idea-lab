@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T16:27:45+08:00",
+ "lastUpdated": "2026-11-05T16:43:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32466,7 +32466,51 @@
    ],
    "topic": "groundrun-claude-hil-mistakes-2026-11",
    "firstSeen": "2026-11-05T16:27:45+08:00"
+  },
+  {
+   "id": "8eb0c388be",
+   "title": "Nous Research 上线 Hermes Marketplace：插件/技能/连接器一站安装",
+   "summary": "Hermes Agent 新商店把插件、技能和约 54 个 OAuth 托管连接器收成一个目录，现有约 977 个插件；可用桌面深链或 `hermes plugins install` 安装。同日还开了为期 7 天、奖金 2 万美元的插件黑客松。",
+   "links": [
+    "https://hermes-agent.nousresearch.com/marketplace",
+    "https://github.com/NousResearch/hermes-official-plugins"
+   ],
+   "topic": "nous-hermes-marketplace-plugins-2026-11",
+   "firstSeen": "2026-11-05T16:43:40+08:00"
+  },
+  {
+   "id": "0b9e011937",
+   "title": "Aether：把 Claude Code / Codex 丢进可盯梢的云端开发机",
+   "summary": "Pranav Sharan 的 Aether 为每次任务起隔离云 VM，复用你已有的 Claude/ChatGPT 订阅只付算力；约 20 秒起环境，可看终端、文件、预览，并可选审查智能体。X 上讨论「合上电脑手机盯着」的云端编码 Agent 热度上升。",
+   "links": [
+    "https://www.runaether.dev/",
+    "https://x.com/i/trending/2118257483693322658"
+   ],
+   "topic": "aether-cloud-devboxes-coding-agents-2026-11",
+   "firstSeen": "2026-11-05T16:43:40+08:00"
+  },
+  {
+   "id": "3aae5cdd02",
+   "title": "英伟达网店悄然下架 RTX 5080：街价涨到建议零售价约 2.2 倍",
+   "summary": "继 RTX 5090 后，Nvidia 美国网店也拿掉 RTX 5080 列表；Tom's Hardware 称零售价约涨到建议零售价 2.2 倍。未必停产，更可能是官网无货，但供应链紧张信号明确。",
+   "links": [
+    "https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp",
+    "https://news.ycombinator.com/front?day=2026-11-05"
+   ],
+   "topic": "nvidia-store-pulls-rtx-5080-2026-11",
+   "firstSeen": "2026-11-05T16:43:40+08:00"
+  },
+  {
+   "id": "9ac1caa873",
+   "title": "任天堂卡带主供 Macronix 退出 ROM：产能转向 AI 数据中心存储",
+   "summary": "Ars：任天堂最大 ROM 芯片供应商 Macronix 收缩传统卡带 ROM，转向 AI 数据中心更赚钱的 NOR/NAND。物理卡带成本可能上升，Game-Key Card 或更常见；任天堂仍有其他供应商，称无意放弃实体游戏。",
+   "links": [
+    "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+    "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center"
+   ],
+   "topic": "nintendo-macronix-rom-exit-ai-memory-2026-11",
+   "firstSeen": "2026-11-05T16:43:40+08:00"
   }
  ],
- "lastChecked": "2026-11-05T16:27:45+08:00"
+ "lastChecked": "2026-11-05T16:43:40+08:00"
 }
