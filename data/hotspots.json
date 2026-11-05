@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T08:42:23+08:00",
+ "lastUpdated": "2026-11-05T08:59:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31491,7 +31491,18 @@
    ],
    "topic": "chrome-xslt-removal-nov-17",
    "firstSeen": "2026-11-05T08:42:23+08:00"
+  },
+  {
+   "id": "239756f8f1",
+   "title": "Xbox 360 虚拟机管理程序破解第 3 篇：Bad Update 漏洞利用从约 20 分钟、三成成功率提速到「几乎秒破、近乎 100%」",
+   "summary": "安全研究员 Ryan Miceli 11 月 4 日发布《Hacking the Xbox 360 Hypervisor》系列第 3 篇，登上 Hacker News 首页。他复盘了 Bad Update 漏洞利用在开源后被社区改进的过程：ihatecompvir 与 InvoxiPlayGames 找到免费《Rock Band Blitz》试玩版的存档入口，只需把文件拷进 U 盘即可触发，不再需要特定游戏光盘；贡献者 Máté 用密文哈希查找表、dcbz 指令清缓存和硬件线程优先级调度，把竞态攻击从约 20 分钟、约 30% 成功率压到几秒钟、接近 100%。作者坦言当初陷入「隧道视野」，应该先停几周再回头打磨。第 4 篇将公开新的 Peer Pressure 漏洞。信号：老主机破解与复古游戏改装社区仍有活跃热度，开源后由社区接力优化的案例也可作为「发布 PoC→众包改进」的内容选题。",
+   "links": [
+    "https://icode4.coffee/?p=1746",
+    "https://news.ycombinator.com/item?id=50372164"
+   ],
+   "topic": "xbox360-bad-update-part3",
+   "firstSeen": "2026-11-05T08:59:23+08:00"
   }
  ],
- "lastChecked": "2026-11-05T08:42:23+08:00"
+ "lastChecked": "2026-11-05T08:59:23+08:00"
 }
