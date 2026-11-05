@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T17:40:27+08:00",
+ "lastUpdated": "2026-11-05T17:56:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32648,7 +32648,84 @@
    ],
    "topic": "morgan-stanley-dtcc-tokenize-equities-treasuries-2026-11",
    "firstSeen": "2026-11-05T17:40:27+08:00"
+  },
+  {
+   "id": "8ef720f7a2",
+   "title": "YouTube 神秘项目 Tamba：APK 里露出关注、私信与群聊的「社交沙盒」",
+   "summary": "Android Authority 在 YouTube 21.44.534 里挖出独立包名 com.google.android.youtube.sandbox，带 Tamba 品牌与手绘风图标；字符串涵盖关注请求、私信、群聊、帖子点心与语音回复，并有 ANDROID/IOS_SANDBOX 客户端标识。代码标为 experimental/sandbox，更像社交功能试验场，尚未官宣上线时间。",
+   "links": [
+    "https://www.androidauthority.com/youtube-tamba-sandbox-social-app-apk-teardown-3731409/",
+    "https://www.theverge.com/streaming/1026671/youtube-is-testing-something-called-tamba"
+   ],
+   "topic": "youtube-tamba-sandbox-social-2026-11",
+   "firstSeen": "2026-11-05T17:56:22+08:00"
+  },
+  {
+   "id": "f1f26a9d7d",
+   "title": "DuckDuckGo 借谷歌「关 AI 就失搜索」政策向学校推销：提供默认关 AI 的 noai 搜索",
+   "summary": "谷歌称 K-12 可关 Gemini，但全面关 AI 会连搜索一起没；DuckDuckGo 公开学校改默认搜索文档，并提供 noai.duckduckgo.com。CEO Weinberg 喊「来找我们帮忙」，公关负责人则批谷歌「逼孩子用 AI」。",
+   "links": [
+    "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+    "https://duckduckgo.com/duckduckgo-help-pages/get-duckduckgo/deploy-duckduckgo"
+   ],
+   "topic": "duckduckgo-schools-pitch-google-ai-search-2026-11",
+   "firstSeen": "2026-11-05T17:56:22+08:00"
+  },
+  {
+   "id": "75679f5aa6",
+   "title": "OpenAI Daybreak Red 上线 AWS GovCloud：政府安全团队可用 GPT-5.6 Cyber",
+   "summary": "OpenAI 宣布在 Amazon Bedrock 的 AWS GovCloud（美东）向获批客户开放 Daybreak Red，提供专训网络安全模型 GPT-5.6 Cyber，用于授权漏洞研究、复现与缓解方案。需 OpenAI 审批加 AWS 开通；推理数据不用于训练，审批不会自动开通模型。",
+   "links": [
+    "https://openai.com/index/daybreak-red-aws-govcloud",
+    "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-daybreak-red-govcloud-east/"
+   ],
+   "topic": "openai-daybreak-red-aws-govcloud-2026-11",
+   "firstSeen": "2026-11-05T17:56:22+08:00"
+  },
+  {
+   "id": "e6b9edaecf",
+   "title": "HP 任命前 GSK CEO Emma Walmsley 为新任首席执行官，2027 年 1 月 4 日生效",
+   "summary": "HP 董事会一致任命 Emma Walmsley 接替临时 CEO Bruce Broussard；她曾任 GSK 集团 CEO，并任微软董事七年。Broussard 同日起任董事会主席接替 Chip Bergh。官方强调 AI 边缘化与未来工作场景是下一阶段增长重点。",
+   "links": [
+    "https://investor.hp.com/news-events/news/news-details/2026/HP-Inc--Appoints-Emma-Walmsley-as-Chief-Executive-Officer/default.aspx",
+    "https://www.theverge.com/tech/1026965/hp-has-a-new-ceo"
+   ],
+   "topic": "hp-emma-walmsley-ceo-jan-2027",
+   "firstSeen": "2026-11-05T17:56:22+08:00"
+  },
+  {
+   "id": "9ba931c393",
+   "title": "Apple Music 测试 Selfie Sing：边唱边拍卡拉 OK 视频，目前仅 iOS 27.3 开发者测试版",
+   "summary": "iOS 27.3 beta 里 Apple Music 新增 Selfie Sing：滚动歌词录自拍歌唱视频，可调人声并加扩音器/回声/音乐厅/录音棚等效果后再分享。目前曲目有限，仅开发者 beta 可见。",
+   "links": [
+    "https://www.macrumors.com/2026/11/03/apple-music-selfie-sing/",
+    "https://9to5mac.com/2026/11/04/ios-27-3-upgrades-apple-music-in-two-ways-heres-whats-new/"
+   ],
+   "topic": "apple-music-selfie-sing-ios-27-3-2026-11",
+   "firstSeen": "2026-11-05T17:56:22+08:00"
+  },
+  {
+   "id": "fec4d3b96b",
+   "title": "三星 Galaxy Ring 上线睡眠呼吸暂停检测：称全球首款智能戒指支持该能力",
+   "summary": "继 7 月获 FDA 许可后，升级版睡眠呼吸暂停功能现已在 Galaxy Watch 与 Galaxy Ring 上线，并获韩国 MFDS 批准。需 10 天内两个有效睡眠夜；用于提示中重度风险，不能替代临床诊断。Watch 9 先支持，Watch 7/8 后续推送。",
+   "links": [
+    "https://news.samsung.com/global/upgraded-sleep-apnea-feature-now-available-on-galaxy-ring-following-regulatory-approvals-from-us-fda-and-korea-mfds",
+    "https://www.theverge.com/tech/1025801/samsungs-galaxy-ring-now-supports-sleep-apnea-detection"
+   ],
+   "topic": "samsung-galaxy-ring-sleep-apnea-2026-11",
+   "firstSeen": "2026-11-05T17:56:22+08:00"
+  },
+  {
+   "id": "9226a9bc90",
+   "title": "犹他州对 Kalshi 及两位联合创始人提起赌博重罪指控，CFTC 同时起诉该州",
+   "summary": "犹他州检察长以 9 月体育投注相关行为起诉 Kalshi 与联合创始人 Mansour、Lopes Lara，各 13 项重罪加 1 项轻罪；CFTC 则起诉犹他州，主张联邦对事件合约有排他管辖。预测市场与州赌禁的冲突正推向更高层级诉讼。",
+   "links": [
+    "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi",
+    "https://news.ycombinator.com/item?id=50349992"
+   ],
+   "topic": "kalshi-utah-felony-charges-cftc-2026-11",
+   "firstSeen": "2026-11-05T17:56:22+08:00"
   }
  ],
- "lastChecked": "2026-11-05T17:40:27+08:00"
+ "lastChecked": "2026-11-05T17:56:22+08:00"
 }
