@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T03:14:04+08:00",
+ "lastUpdated": "2026-11-06T03:27:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34699,7 +34699,28 @@
    ],
    "topic": "discord-electron-rust-verge-2026-11-05",
    "firstSeen": "2026-11-06T03:14:04+08:00"
+  },
+  {
+   "id": "b2a59d2337",
+   "title": "rea-video：逐镜逆向任意视频，告诉 Agent 怎么复刻",
+   "summary": "开源 Agent Skill / CLI 把片子拆成镜头，标出实拍、AI 生成、3D、代码渲染或录屏，并给出复刻方案与 HTML 报告；登上 GitHub 日榜，本周星数约破千。",
+   "links": [
+    "https://github.com/JuneYaooo/rea-video"
+   ],
+   "topic": "rea-video-shot-by-shot-agent-skill-2026-11-05",
+   "firstSeen": "2026-11-06T03:27:05+08:00"
+  },
+  {
+   "id": "557fb8f0c0",
+   "title": "Addy Osmani 谈「认知投降」：Agent 写码时别把判断一并交出去",
+   "summary": "Claude Code 工程师区分健康的认知卸载与直接采纳模型答案的认知投降；BI 与 HN 跟进，建议先立假设、把验证当成硬退出条件。",
+   "links": [
+    "https://addyosmani.com/blog/cognitive-surrender/",
+    "https://www.businessinsider.com/anthropic-engineer-addy-osmani-cognitive-surrender-warning-2026-11"
+   ],
+   "topic": "addy-osmani-cognitive-surrender-2026-11-05",
+   "firstSeen": "2026-11-06T03:27:05+08:00"
   }
  ],
- "lastChecked": "2026-11-06T03:14:04+08:00"
+ "lastChecked": "2026-11-06T03:27:05+08:00"
 }
