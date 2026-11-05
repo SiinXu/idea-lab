@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T16:01:23+08:00",
+ "lastUpdated": "2026-11-05T16:26:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32414,7 +32414,48 @@
    ],
    "topic": "t-unit-spotify-founders-eur50m-2026-11",
    "firstSeen": "2026-11-05T16:01:23+08:00"
+  },
+  {
+   "id": "9b0fbca10f",
+   "title": "Rust CAD 内核 next.BREP：多项布尔/放样操作测得快过 SMLib，部分接近 Open CASCADE",
+   "summary": "开源浏览器 CAD 项目 next.BREP 的 Rust 内核在固定主机对比中：重叠球体并集约 8ms（SMLib 约 12ms）、36 孔板切割约 57ms（SMLib 约 112ms）、方台放样约 0.36ms（SMLib 约 2.9ms）；圆角仍落后 Open CASCADE。一个 71 刀具钥匙扣模型的最终并集从约 4 分钟压到约 24 秒。作者强调这是选定夹具，不是全面排名。",
+   "links": [
+    "https://next.brep.io/blog/a-shorter-wait-for-the-same-part",
+    "https://brep.io/"
+   ],
+   "topic": "next-brep-rust-kernel-faster-smlib-2026-11",
+   "firstSeen": "2026-11-05T16:26:53+08:00"
+  },
+  {
+   "id": "40b5e8132f",
+   "title": "Show HN：Formatide——本机批量把 SVG 转 PNG/拼贴，文件不上传",
+   "summary": "纯前端工具：批量 SVG→PNG，可做 2–4 图拼贴、自定义画布与透明/纯色背景，单文件上限约 10MB、批次约 50 个；转换与 ZIP 都在浏览器完成，适合图标与社媒图导出。",
+   "links": [
+    "https://formatide.com/"
+   ],
+   "topic": "show-hn-formatide-svg-png-local-2026-11",
+   "firstSeen": "2026-11-05T16:26:53+08:00"
+  },
+  {
+   "id": "b36f62516e",
+   "title": "Show HN：L4H——基于 seL4 微内核的 Linux 虚拟机超级监督程序",
+   "summary": "开源项目 L4H（losfair/l4h）把 Linux 虚拟机跑在 seL4 上，冲上 HN 最新列表；面向想用形式化验证微内核做隔离宿主的场景，适合和 AI 沙箱、高保障虚拟化方向对照看。",
+   "links": [
+    "https://github.com/losfair/l4h"
+   ],
+   "topic": "show-hn-l4h-sel4-hypervisor-2026-11",
+   "firstSeen": "2026-11-05T16:26:53+08:00"
+  },
+  {
+   "id": "163d6458cb",
+   "title": "Show HN：CascadeHook——带签名、重试与回放的出站 Webhook 投递服务",
+   "summary": "把出站 webhook 的队列、HMAC 签名、失败退避重试和投递日志打包成托管服务；端点恢复后可回放，适合 SaaS 不想自建投递基础设施的团队。",
+   "links": [
+    "https://cascadehook.com/"
+   ],
+   "topic": "show-hn-cascadehook-webhooks-2026-11",
+   "firstSeen": "2026-11-05T16:26:53+08:00"
   }
  ],
- "lastChecked": "2026-11-05T16:01:23+08:00"
+ "lastChecked": "2026-11-05T16:26:53+08:00"
 }
