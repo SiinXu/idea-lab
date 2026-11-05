@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T01:12:42+08:00",
+ "lastUpdated": "2026-11-06T01:27:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34222,7 +34222,40 @@
    ],
    "topic": "prime-intellect-auditing-public-evals-2026-11",
    "firstSeen": "2026-11-06T01:12:42+08:00"
+  },
+  {
+   "id": "f0e2e8b691",
+   "title": "Launch HN：Rivet（YC F25）——在 S3 上编排和扩缩 Agent 工作负载",
+   "summary": "Rivet 自称面向 agentic 工作负载的高密度编排器，把 Agent 所需的各类任务跑在对象存储之上；YC F25 项目刚在 HN 上线，适合做 Idea Lab 里「Agent 基础设施」方向的跟进。",
+   "links": [
+    "https://github.com/rivet-dev/rivet",
+    "https://news.ycombinator.com/item?id=50381687"
+   ],
+   "topic": "rivet-yc-f25-agent-orchestrator-s3-2026-11-05",
+   "firstSeen": "2026-11-06T01:27:05+08:00"
+  },
+  {
+   "id": "0fc0f6ed84",
+   "title": "Linum 开源约 2B 文生图模型：约 2.1 万美元算力训出，Apache 2.0 权重",
+   "summary": "两人实验室用 Pyramid-JiT 像素空间架构，约 8415 个 H100 小时训出可演示的文生图模型并公开权重；定位是通往更便宜可控视频模型的中间站，Show HN 上引起讨论。",
+   "links": [
+    "https://www.linum.ai/field-notes/pjit-21k",
+    "https://news.ycombinator.com/item?id=50368208"
+   ],
+   "topic": "linum-pjit-21k-t2i-apache-2026-11-05",
+   "firstSeen": "2026-11-06T01:27:05+08:00"
+  },
+  {
+   "id": "ca0ab80717",
+   "title": "报道称 DeepSeek V5 拟以华为昇腾 950 做预训练，节奏指向 2027",
+   "summary": "科创板日报、财联社等引产业链消息：昇腾此前主要为 DeepSeek 做推理，V5 有望成为首款原生在昇腾上训练的大模型；双方未官宣，乌兰察布智算中心仍在建设初期。",
+   "links": [
+    "https://news.qq.com/rain/a/20261103A0588400",
+    "https://eastfrontier.com/2026/11/04/deepseek-will-pre-train-v5-on-huaweis-ascend-chips-reports-say/"
+   ],
+   "topic": "deepseek-v5-ascend-950-pretrain-2026-11",
+   "firstSeen": "2026-11-06T01:27:05+08:00"
   }
  ],
- "lastChecked": "2026-11-06T01:12:42+08:00"
+ "lastChecked": "2026-11-06T01:27:05+08:00"
 }
