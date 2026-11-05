@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T02:42:31+08:00",
+ "lastUpdated": "2026-11-06T02:43:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34557,7 +34557,18 @@
    ],
    "topic": "opposable-android-agent-readiness-3324-2026-11-05",
    "firstSeen": "2026-11-06T02:42:31+08:00"
+  },
+  {
+   "id": "9910694b1f",
+   "title": "Omnara：开源 Agent Harness 跑 Terminal-Bench 4.0，比实验室自带套件更省更快",
+   "summary": "Omnara 用云端 agent loop + 非阻塞进程工具（run_command/watch_process）对照 Claude Code / Codex：Opus 约便宜 5%、快 12%，Sol 约便宜 11%、token 少约 35%，通过率不掉队。又一例证明 harness/工具面比死磕提示词更能压账单。",
+   "links": [
+    "https://www.omnara.com/blog/terminal-bench-cheaper-faster",
+    "https://news.ycombinator.com/item?id=50382589"
+   ],
+   "topic": "omnara-terminal-bench-harness-efficiency-2026-11-05",
+   "firstSeen": "2026-11-06T02:43:18+08:00"
   }
  ],
- "lastChecked": "2026-11-06T02:42:31+08:00"
+ "lastChecked": "2026-11-06T02:43:18+08:00"
 }
