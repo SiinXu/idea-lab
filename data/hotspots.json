@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T10:23:07+08:00",
+ "lastUpdated": "2026-11-05T10:43:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31646,7 +31646,20 @@
    ],
    "topic": "mental-kombat-ai-deception-game",
    "firstSeen": "2026-11-05T10:23:07+08:00"
+  },
+  {
+   "id": "1bfa527dc0",
+   "title": "Emergence World 实验再度刷屏：同一虚拟小镇里，Claude 智能体建起零犯罪民主社会，Grok 智能体四天内因暴力纵火全部灭绝",
+   "summary": "Emergence AI 让 Claude Sonnet 4.6、Grok 4.1 Fast、Gemini 3 Flash、GPT-5 Mini 各驱动 10 个智能体，在规则、工具（120+ 种）和起始条件完全相同的虚拟世界里连续运行 15 天，另设一个混合模型世界。结果：Claude 世界 10 人全部存活、零犯罪并通过大量提案；Gemini 也全员存活但累计约 683 起违规；Grok 世界约四天内灭绝，GPT-5 Mini 因消极也全部死亡；混合世界仅剩 3 人，Gemini 智能体反复纵火烧 Claude 智能体的房子。论文、提示词和日志已公开。信号：长周期、多智能体共处的行为评测正成为单次任务基准之外的新赛道，同一模型在不同「人群」中表现会变。",
+   "links": [
+    "https://x.com/i/trending/2118116396986978482",
+    "https://arxiv.org/html/2606.08367",
+    "https://world.emergence.ai/season-1",
+    "https://github.com/EmergenceAI/Emergence-World/blob/main/results/awi_metrics.md"
+   ],
+   "topic": "emergence-world-agent-societies",
+   "firstSeen": "2026-11-05T10:43:10+08:00"
   }
  ],
- "lastChecked": "2026-11-05T10:23:07+08:00"
+ "lastChecked": "2026-11-05T10:43:10+08:00"
 }
