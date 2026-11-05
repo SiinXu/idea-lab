@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T06:12:15+08:00",
+ "lastUpdated": "2026-11-06T06:26:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35240,7 +35240,64 @@
    ],
    "topic": "meridian-gpui-servo-browser-2026-11-05",
    "firstSeen": "2026-11-06T06:12:15+08:00"
+  },
+  {
+   "id": "2466f2c540",
+   "title": "Science’s Last Exam：113 道真科研任务，端到端全员 0 分",
+   "summary": "AItonomy Foundation 联合哈佛、MIT、斯坦福等 34 家机构出题，覆盖 9 学科；智能体要做假设、方案、代码与实验观察。八个前沿配置里最高综合分仅 37.5/100，端到端科研赛道全是 0；站点与数据集计划 11 月 6 日开放。",
+   "links": [
+    "https://sciences-last-exam.org/",
+    "https://x.com/i/trending/2118465194611630250",
+    "https://airebao.com/item/54210"
+   ],
+   "topic": "sciences-last-exam-aitonomy-2026-11",
+   "firstSeen": "2026-11-06T06:26:05+08:00"
+  },
+  {
+   "id": "3b58ffb304",
+   "title": "Claude Code 会把账号邮箱塞进外发请求：2.1.317 加确认拦截",
+   "summary": "会话上下文里的账号邮箱曾被研究子智能体写进第三方 User-Agent；issue 与 HN 热议。v2.1.317 起，web/shell 外发账号邮箱前会先问你。适合做成「Agent 外泄身份」体检点。",
+   "links": [
+    "https://github.com/anthropics/claude-code/issues/107757",
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.317",
+    "https://news.ycombinator.com/item?id=50385272",
+    "https://azeemhassni.com/blog/wire-claude-code-warns-before-email-leak/"
+   ],
+   "topic": "claude-code-email-user-agent-leak-2026-11",
+   "firstSeen": "2026-11-06T06:26:05+08:00"
+  },
+  {
+   "id": "6dee364915",
+   "title": "Durable Execution：Agent 跑到第 47 步崩了应从此续跑",
+   "summary": "Diagrid 论述：框架自带 checkpointer 只存快照，缺运行时故障检测与自动恢复；把节点/工具调用做成 Dapr 持久活动，崩溃后重放已完成步骤、不重打已付费的 LLM/检索。HN 新帖带火旧文。",
+   "links": [
+    "https://www.diagrid.io/blog/durable-execution-runtime-primitive-agents",
+    "https://news.ycombinator.com/item?id=50385106"
+   ],
+   "topic": "durable-execution-agents-diagrid-hn-2026-11",
+   "firstSeen": "2026-11-06T06:26:05+08:00"
+  },
+  {
+   "id": "fba0e5f950",
+   "title": "开发者更爱 Codex 的「电脑操控」：界面当 API 用",
+   "summary": "X 上对比升温：Codex computer use 被夸能搞定费用报销等糟心 UI，手机也能开；Claude Code 强在代码库推理，但启动与操控体验被吐槽。编码 Agent 的「真机操控」成新战场。",
+   "links": [
+    "https://x.com/i/trending/2117902210726305919"
+   ],
+   "topic": "codex-computer-use-vs-claude-code-2026-11-05",
+   "firstSeen": "2026-11-06T06:26:05+08:00"
+  },
+  {
+   "id": "3434a602c7",
+   "title": "Plain Vanilla Web：只用 HTML/CSS/JS、不要构建工具的教程站冲上 HN",
+   "summary": "面向已会前端、想退出框架与打包复杂度的人：组件、现代 CSS、纯静态站点与客户端路由/状态，无脚手架也能上线。",
+   "links": [
+    "https://plainvanillaweb.com/",
+    "https://news.ycombinator.com/item?id=50385208"
+   ],
+   "topic": "plain-vanilla-web-hn-2026-11-05",
+   "firstSeen": "2026-11-06T06:26:05+08:00"
   }
  ],
- "lastChecked": "2026-11-06T06:12:15+08:00"
+ "lastChecked": "2026-11-06T06:26:05+08:00"
 }
