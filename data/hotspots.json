@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T04:29:02+08:00",
+ "lastUpdated": "2026-11-06T04:44:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34910,7 +34910,39 @@
    ],
    "topic": "openai-chatgpt-cyber-daybreak-red-2026-11-05",
    "firstSeen": "2026-11-06T04:29:02+08:00"
+  },
+  {
+   "id": "d61adb9f56",
+   "title": "Salon 关停：运营 31 年的独立数字媒体宣布停刊",
+   "summary": "1995 年创立的 Salon 称独立数字新闻模式已不可持续，正式停止出版；HN 上迅速冲到百余分。可对照观察付费会员、通讯与 AI 内容经济对传统独立媒体的挤压。",
+   "links": [
+    "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+    "https://news.ycombinator.com/item?id=50383739"
+   ],
+   "topic": "salon-ceases-publication-2026-11-05",
+   "firstSeen": "2026-11-06T04:44:47+08:00"
+  },
+  {
+   "id": "ab74c6b8a2",
+   "title": "Jack Dorsey 的 Block 年内第二次裁员：Cash App / Square 再动刀",
+   "summary": "继 2 月砍超 40% 后再度精简客服、风控与内容运营岗；邮件提「更好的工具处理常规任务」。AI 提效叙事下的二次裁员仍是 Idea Lab 可跟踪的组织变革信号。",
+   "links": [
+    "https://www.businessinsider.com/jack-dorsey-block-layoffs-second-round-job-cuts-cash-app-2026-11"
+   ],
+   "topic": "block-second-layoffs-2026-11-05",
+   "firstSeen": "2026-11-06T04:44:47+08:00"
+  },
+  {
+   "id": "088767c04a",
+   "title": "挪威气象局 API：HAProxy 故障让 Home Assistant 用户冻醒，顺带骂 AI 工单",
+   "summary": "Locationforecast 因 Ubuntu 无人值守升级的 HAProxy bug 返回残缺 JSON；团队吐槽 AI 生成冗长合规询问，并收紧全球缓存最短 3 小时。对天气/IoT 集成开发者是实用提醒。",
+   "links": [
+    "https://lists.met.no/pipermail/api-users/2026-November/000081.html",
+    "https://news.ycombinator.com/item?id=50384128"
+   ],
+   "topic": "met-norway-api-haproxy-tos-2026-11-05",
+   "firstSeen": "2026-11-06T04:44:47+08:00"
   }
  ],
- "lastChecked": "2026-11-06T04:29:02+08:00"
+ "lastChecked": "2026-11-06T04:44:47+08:00"
 }
