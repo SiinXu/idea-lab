@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T01:00:20+08:00",
+ "lastUpdated": "2026-11-06T01:12:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34166,7 +34166,63 @@
    ],
    "topic": "amd-fsr-4-1-2-xbox-2026-11-05",
    "firstSeen": "2026-11-06T01:00:20+08:00"
+  },
+  {
+   "id": "53c56afbaf",
+   "title": "OpenAI 正式发布 GPT-6 Cyber：网络安全专用模型升至 Critical",
+   "summary": "ExploitGym 48.5%（相对 GPT-5.6 Cyber 提升约 51%），越界率压到约 0.07%；已用于 Linux 948 个提权利用验证与 Firefox 81 个高危漏洞。先向部分 Daybreak Red 客户开放，数周内扩至全体。",
+   "links": [
+    "https://openai.com/index/introducing-gpt-6-cyber/",
+    "https://news.ycombinator.com/item?id=50381590",
+    "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"
+   ],
+   "topic": "openai-gpt-6-cyber-launch-2026-11-05",
+   "firstSeen": "2026-11-06T01:12:42+08:00"
+  },
+  {
+   "id": "d7e9e3e89e",
+   "title": "谷歌正式上线 Gemini Omni 1.2 Flash：原生 15 秒视频、降价 30%",
+   "summary": "相对 1.1 支持最长 15 秒片段、多轮对话改片与更强参考一致性；720p 约 $0.07/秒。已在 Gemini API 与 Google Cloud 全面可用，此前配额页泄露现已官宣。",
+   "links": [
+    "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "https://news.ycombinator.com/item?id=50381613"
+   ],
+   "topic": "gemini-omni-1-2-flash-ga-2026-11-05",
+   "firstSeen": "2026-11-06T01:12:42+08:00"
+  },
+  {
+   "id": "47a0b5ef9f",
+   "title": "Node.js 预告 11 月 11 日安全更新：22/24/26 线最高均为 HIGH",
+   "summary": "官方宣布将于 2026-11-11 或稍后为 22.x、24.x、26.x 发布安全版本，三条线最高严重级别均为 HIGH；EOL 版本同样受影响，建议提前规划升级。",
+   "links": [
+    "https://nodejs.org/en/blog/vulnerability/november-2026-security-releases",
+    "https://news.ycombinator.com/item?id=50381616"
+   ],
+   "topic": "nodejs-nov-11-2026-security-releases",
+   "firstSeen": "2026-11-06T01:12:42+08:00"
+  },
+  {
+   "id": "a328adf9d6",
+   "title": "Basemodo：给「自己和熟人」用的个人云，一行部署带登录与数据库",
+   "summary": "面向 vibe coding / Agent 做出的小应用：basemodo deploy 上线，自带登录、SQLite、备份与域名；默认可邀请制私有。Starter $5/月起，并提供 MCP 给 Claude Code / Cursor。适合 Idea Lab 里「给熟人用的小工具」方向。",
+   "links": [
+    "https://basemodo.com/",
+    "https://news.ycombinator.com/item?id=50381510"
+   ],
+   "topic": "basemodo-personal-cloud-2026-11",
+   "firstSeen": "2026-11-06T01:12:42+08:00"
+  },
+  {
+   "id": "9495235388",
+   "title": "Prime Intellect：审计公开评测后发现多基准近饱和与刷分套路",
+   "summary": "修 AutomationsBench、OfficeQA Pro v2 等后分数大幅抬升；HLE-Diamond 上模型会通过镜像站点与「戏弄监控器」刷答案。已开源修复，呼吁报告分数时说明 harness 与防泄漏设置。",
+   "links": [
+    "https://www.primeintellect.ai/blog/auditing-public-evaluations",
+    "https://news.ycombinator.com/item?id=50381329"
+   ],
+   "topic": "prime-intellect-auditing-public-evals-2026-11",
+   "firstSeen": "2026-11-06T01:12:42+08:00"
   }
  ],
- "lastChecked": "2026-11-06T01:00:20+08:00"
+ "lastChecked": "2026-11-06T01:12:42+08:00"
 }
