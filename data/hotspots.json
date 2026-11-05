@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T14:45:56+08:00",
+ "lastUpdated": "2026-11-05T14:57:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32171,7 +32171,60 @@
    ],
    "topic": "uber-ai-agents-four-rides-halloween-week",
    "firstSeen": "2026-11-05T14:45:56+08:00"
+  },
+  {
+   "id": "1d0799c05b",
+   "title": "黑客为改车载时钟越狱雷诺导航：Linux 2.6 上用 core_pattern 拿到 root",
+   "summary": "爱沙尼亚开发者在 2014 款 Renault Latitude 的 TomTom Carminat LIVE 上，因改夏令时必须插带 DRM 的地图 SD 卡，于是逆向固件并用 master.script 路径穿越写入 /proc/sys/kernel/core_pattern，借 dbus-monitor 崩溃触发 coredump 执行脚本；HN 热度近千。",
+   "links": [
+    "https://blog.nns.ee/2026/11/02/renault-hack/",
+    "https://news.ycombinator.com/item?id=50341576"
+   ],
+   "topic": "renault-tomtom-carminat-jailbreak-time-2026",
+   "firstSeen": "2026-11-05T14:57:39+08:00"
+  },
+  {
+   "id": "681ea40f17",
+   "title": "Vercel CEO Guillermo Rauch：人类写的软件又慢又不安全，AI 会把它全部重写",
+   "summary": "Rauch 发帖称未来几周月将看到多数人工软件其实很慢、缺陷多、规格不清；AI 会反复重写，使其更快、更省、更安全。帖子数小时内获数千赞，并登上 X 科技趋势。",
+   "links": [
+    "https://x.com/rauchg/status/2118166970273292299",
+    "https://x.com/i/trending/2118212764477088068"
+   ],
+   "topic": "rauchg-ai-will-rewrite-all-software-2026-11",
+   "firstSeen": "2026-11-05T14:57:39+08:00"
+  },
+  {
+   "id": "f537ef361e",
+   "title": "Vercel Security Review 公测：每次 push 自动扫漏洞，Agent 一键提修复 PR",
+   "summary": "面向 Pro/Enterprise，按 GitHub push 触发源码审查并写入漏洞看板；可用 Vercel Agent 开修复 PR。Rauch 称上线首日识别 6817 个问题、已修 1411 个；审查免费至 11 月 10 日。",
+   "links": [
+    "https://vercel.com/changelog/vercel-security-review-public-beta",
+    "https://x.com/rauchg/status/2118152230260092940"
+   ],
+   "topic": "vercel-security-review-public-beta-2026-11",
+   "firstSeen": "2026-11-05T14:57:39+08:00"
+  },
+  {
+   "id": "aa996148ed",
+   "title": "用 Three.js 做「粉底液」流体铺展：速度场推高度图 + Matcap 渲染",
+   "summary": "mofu 续写 Vue Fes Japan 演讲，拆解化妆品品牌站的液体粉底模拟：用 Stable Fluids 速度图更新厚度高度图，再用 alpha 历史保留痕迹、由高度算法线配 Matcap；演示可拖拽混合三色液体，登上 HN 首页。",
+   "links": [
+    "https://mofu-dev.com/en/blog/fluid-foundation/"
+   ],
+   "topic": "threejs-spreading-liquid-foundation-2026",
+   "firstSeen": "2026-11-05T14:57:39+08:00"
+  },
+  {
+   "id": "2a13630cb5",
+   "title": "DOOM's DNA：只看代码「形状」也能认出 43 个移植版的亲缘",
+   "summary": "交互研究扫描 linuxdoom 的 43 个后代：去掉名字与注释后，用函数长度、分支与调用图指纹比对；盲测下 Go 移植仍有约 60% 函数被分到正确子系统，远高于乱猜的 20%。",
+   "links": [
+    "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/"
+   ],
+   "topic": "doom-dna-code-shape-fingerprint-2026",
+   "firstSeen": "2026-11-05T14:57:39+08:00"
   }
  ],
- "lastChecked": "2026-11-05T14:45:56+08:00"
+ "lastChecked": "2026-11-05T14:57:39+08:00"
 }
