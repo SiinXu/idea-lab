@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T21:18:22+08:00",
+ "lastUpdated": "2026-11-05T21:32:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33270,7 +33270,29 @@
    ],
    "topic": "codemyrules-agent-docs-to-lint-2026-11",
    "firstSeen": "2026-11-05T21:18:22+08:00"
+  },
+  {
+   "id": "7bfb78c962",
+   "title": "Agility Robotics 今日纳斯达克挂牌 AGLT：美国首家有商业部署的人形机器人纯公司",
+   "summary": "与 Churchill Capital Corp XI 完成 SPAC 合并后，股票与权证今日以 AGLT / AGLTW 开盘；整笔交易及配套融资毛额约 4.65 亿美元（含 Foxconn 领投 PIPE）。旗舰 Digit 已在 GXO、舍弗勒、丰田加拿大等客户现场运行超 6.5 万小时，下一代 Digit 5 有逾 3 亿美元多年订单（需达成合约里程碑）。适合跟踪「实体 AI / 人形机器人上市潮」与仓配自动化 Idea Lab 方向。",
+   "links": [
+    "https://www.agilityrobotics.com/content/agility-becomes-first-u-s-publicly-listed-pure-play-humanoid-robotics-company-begins-trading-today-on-nasdaq-as-aglt",
+    "https://www.nasdaqtrader.com/TraderNews.aspx?id=ECA2026-791",
+    "https://x.com/i/trending/2118330564843286871"
+   ],
+   "topic": "agility-robotics-nasdaq-aglt-debut-2026-11-05",
+   "firstSeen": "2026-11-05T21:32:40+08:00"
+  },
+  {
+   "id": "fd04855a6f",
+   "title": "YC 材料初创 Discovered Materials 设 100 万美元大奖：五道「AI 尚未啃下」的材料科学难题",
+   "summary": "旧金山半导体材料 AI 公司（YC S26）联合斯坦福等学者公布五项开放挑战：铜氧化物超导理论、硅/二氧化硅界面结构预测、晶粒结构与热学性质映射、光致超导行为理论、以及改进密度泛函理论的数值方法；奖金池合计 100 万美元。公司称先让前沿模型带网自主试跑数日几乎没进展，希望把这些问题当领域「球门柱」。适合做成「材料科学评测榜 / 悬赏任务台」类 Idea Lab 点子。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
+   ],
+   "topic": "discovered-materials-1m-ai-challenges-2026-11",
+   "firstSeen": "2026-11-05T21:32:40+08:00"
   }
  ],
- "lastChecked": "2026-11-05T21:18:22+08:00"
+ "lastChecked": "2026-11-05T21:32:40+08:00"
 }
