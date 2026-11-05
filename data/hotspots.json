@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T23:29:14+08:00",
+ "lastUpdated": "2026-11-05T23:40:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33702,7 +33702,87 @@
    ],
    "topic": "drone-delivery-ports-noise-ieee-2026-11",
    "firstSeen": "2026-11-05T23:29:14+08:00"
+  },
+  {
+   "id": "c9efcd5ee3",
+   "title": "Aina「AI Ring」开卖：带屏幕、摇杆和麦克风的智能戒指，专为 Agent 交互",
+   "summary": "硬件创业公司 Aina 发布售价约 399 美元（早鸟）的智能戒指：内置屏幕、摇杆、麦克风与扬声器，可对 Agent 下指令、听写笔记、接电话并控制 Mac/手机应用与智能家居；公司 7 月刚融 550 万美元，计划 2027 年 1 月起发货。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
+   ],
+   "topic": "aina-ai-ring-agent-controller-2026-11-05",
+   "firstSeen": "2026-11-05T23:40:22+08:00"
+  },
+  {
+   "id": "e3dbdc4dd3",
+   "title": "Alpine 紧急安全公告：OpenSSH 无 PAM 密码认证可被一击绕过",
+   "summary": "Alpine 官方呼吁立刻升级 openssh 并重启 sshd：在无 PAM、允许密码登录、且存在 `*` 密码字段账户时，攻击者用 257–1024 字节超长密码即可登录；涉及 tiny-cloud 与大量 Docker/容器镜像。OpenSSH 10.6p2 与各分支补丁包已放出。",
+   "links": [
+    "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"
+   ],
+   "topic": "alpine-openssh-password-bypass-advisory-2026-11-05",
+   "firstSeen": "2026-11-05T23:40:22+08:00"
+  },
+  {
+   "id": "aecc9a23fd",
+   "title": "Dropbox 敲定 3.5 亿美元收购 Tigris Data：史上最大收购，押注 DBX Agent Cloud",
+   "summary": "TechCrunch 确认 Dropbox 以约 3.5 亿美元收购前 Uber 存储团队创立的 Tigris Data，预计 2026 年四季度交割；将支撑面向企业的 S3 兼容对象存储 DBX Agent Cloud，并强化文件侧多模型 Agent 能力。此前仅有「拟收购」传闻。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+   ],
+   "topic": "dropbox-tigris-350m-confirmed-2026-11-05",
+   "firstSeen": "2026-11-05T23:40:22+08:00"
+  },
+  {
+   "id": "676c979319",
+   "title": "NASA 公布 X-70 Fractal 实验机：可快速换载荷的有人驾驶飞行研究平台",
+   "summary": "NASA 在肯尼迪航天中心发布 X-70 Fractal：有人驾驶、起飞重量约 1 万磅、巡航约 0.75 马赫、升限约 4.5 万英尺，可内外挂合计约 2000 磅实验载荷，用于快速验证先进飞控与机动技术；预计约两年内首飞。",
+   "links": [
+    "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
+   ],
+   "topic": "nasa-x70-fractal-experimental-aircraft-2026-11",
+   "firstSeen": "2026-11-05T23:40:22+08:00"
+  },
+  {
+   "id": "bead6401e1",
+   "title": "虚幻引擎 5.9 Preview 下周上线：Web 重新成为官方目标平台",
+   "summary": "Epic 在 Unreal Fest Tokyo 确认 UE 5.9 Preview 将于下周推出，包含改进的 AI 工作流、渲染与动画更新，并把 Web 重新列为目标平台；稳定版时间表未定，细节仍待 Preview 说明。",
+   "links": [
+    "https://runtimewire.com/article/epic-unreal-engine-5-9-preview-web-target"
+   ],
+   "topic": "unreal-engine-5-9-preview-web-target-2026-11",
+   "firstSeen": "2026-11-05T23:40:22+08:00"
+  },
+  {
+   "id": "2e08059cfa",
+   "title": "「该把最爱的 YouTube 视频下下来」冲上 HN：平台随时改规则",
+   "summary": "一篇技术随笔呼吁读者用合法方式备份常看的 YouTube 内容，理由是平台推荐、版权与可用性都可能一夜改变；讨论再次指向个人媒体归档与对平台依赖的风险。",
+   "links": [
+    "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/"
+   ],
+   "topic": "download-favourite-youtube-videos-hn-2026-11-05",
+   "firstSeen": "2026-11-05T23:40:22+08:00"
+  },
+  {
+   "id": "ea0effadd5",
+   "title": "法国血库冷柜遭黑客改温：医疗冷链也成工控攻击面",
+   "summary": "BBC 报道法国血液储存设施因冷冻柜被远程篡改温度而受影响；继多国超市冷柜被调至高温报废食品后，医疗冷链暴露出同类联网工控风险。",
+   "links": [
+    "https://www.bbc.com/news/articles/c8vgxyvz6y9ro"
+   ],
+   "topic": "france-blood-storage-freezer-hack-bbc-2026-11",
+   "firstSeen": "2026-11-05T23:40:22+08:00"
+  },
+  {
+   "id": "9074d4bc6c",
+   "title": "比行缓冲更好：Chris Wellons 谈终端输出刷新策略",
+   "summary": "知名 C 程序员 Chris Wellons 撰文指出行缓冲输出在交互与日志场景的局限，讨论更细粒度的刷新与缓冲策略，适合终端工具与 CLI Agent 输出体验优化。",
+   "links": [
+    "https://nullprogram.com/blog/2026/11/05/"
+   ],
+   "topic": "nullprogram-better-than-line-buffered-2026-11-05",
+   "firstSeen": "2026-11-05T23:40:22+08:00"
   }
  ],
- "lastChecked": "2026-11-05T23:29:14+08:00"
+ "lastChecked": "2026-11-05T23:40:22+08:00"
 }
