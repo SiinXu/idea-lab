@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T22:57:30+08:00",
+ "lastUpdated": "2026-11-05T23:17:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33579,7 +33579,50 @@
    ],
    "topic": "termix-agent-hiring-marketplace-2026-11-05",
    "firstSeen": "2026-11-05T22:57:30+08:00"
+  },
+  {
+   "id": "a4423cdd8d",
+   "title": "「Harness Engineering」成编码 Agent 关键词：环境比提示词更重要",
+   "summary": "X 热议把目标提示、运行限额、校验回路和记忆预算统称为 harness engineering；Anthropic 的 Boris Cherny 强调结构化运行环境，社区流行 Haiku 接杂务、Sonnet 写代码、Opus 做审查的多模型分工，Addy Osmani 则列出假设—原始检查—可解释结论的清单。",
+   "links": [
+    "https://x.com/i/trending/2118358835693797814"
+   ],
+   "topic": "harness-engineering-coding-agents-2026-11-05",
+   "firstSeen": "2026-11-05T23:17:47+08:00"
+  },
+  {
+   "id": "d199ccc892",
+   "title": "Humble Robotics 融资 5100 万美元：无驾驶室电动自动驾驶货运卡车",
+   "summary": "前 Apple/Uber 工程师创办的旧金山公司获 Obvious Ventures 领投 A 轮，累计约 7500 万美元；主打为港口、铁路与仓配之间的 250 英里内区域货运，车体与智能一体设计，而非给现有卡车加装自动驾驶。",
+   "links": [
+    "https://www.businessinsider.com/humble-robotics-raises-51-million-for-cabless-self-driving-trucks-2026-11",
+    "https://humblerobotics.ai"
+   ],
+   "topic": "humble-robotics-51m-cabless-truck-2026-11-05",
+   "firstSeen": "2026-11-05T23:17:47+08:00"
+  },
+  {
+   "id": "fc7287d328",
+   "title": "Canva 重组波及约 1271 人：约占全球员工 22%",
+   "summary": "CEO Melanie Perkins 称这是公司 13 年来最难一年，增长十年来首次放缓；合并产品/增长/平台团队，悉尼成产品主基地，混合办公改为每周 2–3 天到岗。AI 成本抬升后增长预期从约 30% 下调到约 20%，早前估值也被下调至约 350 亿美元。",
+   "links": [
+    "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+    "https://www.theverge.com/tech/1025971/canva-changes-layoffs"
+   ],
+   "topic": "canva-1271-restructure-layoffs-2026-11",
+   "firstSeen": "2026-11-05T23:17:47+08:00"
+  },
+  {
+   "id": "56e817ac2a",
+   "title": "冷门音频编解码 ULC 适配 N64：近 Opus 码率、约占 4% CPU",
+   "summary": "PhobosLab 把 Ultra Low Complexity Codec 接到 Libdragon：44100 Hz 立体声接近 Opus 码率，约耗 4% CPU 与 5% RSP，可在游玩中播背景音乐。开源《半条命》N64 移植称靠 ULC 才把约 2500 音效与 27 首配乐塞进 64MB 卡带。",
+   "links": [
+    "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+    "https://news.ycombinator.com/item?id=50378508"
+   ],
+   "topic": "n64-ulc-codec-libdragon-2026-11",
+   "firstSeen": "2026-11-05T23:17:47+08:00"
   }
  ],
- "lastChecked": "2026-11-05T22:57:30+08:00"
+ "lastChecked": "2026-11-05T23:17:47+08:00"
 }
