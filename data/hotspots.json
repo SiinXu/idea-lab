@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T03:39:58+08:00",
+ "lastUpdated": "2026-11-06T03:54:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34753,7 +34753,65 @@
    ],
    "topic": "doj-nvidia-huggingface-13b-probe-2026-11-05",
    "firstSeen": "2026-11-06T03:39:58+08:00"
+  },
+  {
+   "id": "0881a19b3d",
+   "title": "Meta Muse 上线语音与表情 Avatar：可实时打断、边走边办",
+   "summary": "Meta 正式在美国 Muse App（手机/网页/Mac）推送 Muse Realtime Voice 与 Realtime Avatar：点电话图标即可语音对话，可打断，Avatar 随说随演；另有研究博客详解基于语音 token 流的 Diffusion Transformer。眼镜与 Muse Charm 随后跟上。The Verge 今日实测报道。",
+   "links": [
+    "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
+    "https://research.meta.ai/blog/bringing-your-muse-to-life",
+    "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+    "https://news.ycombinator.com/item?id=50383465"
+   ],
+   "topic": "meta-muse-voice-expressive-avatars-2026-11-05",
+   "firstSeen": "2026-11-06T03:54:49+08:00"
+  },
+  {
+   "id": "892b209ca7",
+   "title": "微软收紧对 Nebius/IREN/Nscale 等 neocloud 项目的把关",
+   "summary": "Bloomberg 援引知情人士：微软因延期与成本风险加强对 neocloud 合作的审查，内部讨论是否还签新单，更倾向自建；已放弃扩大与 Nscale 德州合同、并退出英国 Loughton 锚点项目。消息传出后 Nebius、IREN 跌逾 16%，CoreWeave 跌约 12%。",
+   "links": [
+    "https://www.channelnewsasia.com/business/microsoft-tightens-oversight-neocloud-data-center-projects-bloomberg-news-reports-6528631",
+    "https://www.bloomberg.com/news/articles/2026-11-05/microsoft-sours-on-neoclouds-iren-nebius-nscale-on-delays-costs",
+    "https://news.ycombinator.com/item?id=50383479"
+   ],
+   "topic": "microsoft-neocloud-oversight-iren-nebius-nscale-2026-11-05",
+   "firstSeen": "2026-11-06T03:54:49+08:00"
+  },
+  {
+   "id": "f48eea9912",
+   "title": "Edera 推 OCAP Bounded Authority：给 Agent 发能力令牌而非凭证",
+   "summary": "Edera 介绍面向 AI Agent/K8s 的对象能力（OCAP）模型：不把 GitHub token 等凭证塞进工作负载，而由 broker 签发只能做特定动作的能力（如 capcurl/capsudo）。HN 热度升高，对应提示注入时代「行为策略」之外的权限边界思路。",
+   "links": [
+    "https://edera.dev/stories/ocap-bounded-authority",
+    "https://news.ycombinator.com/item?id=50380808"
+   ],
+   "topic": "edera-ocap-bounded-authority-2026-11-05",
+   "firstSeen": "2026-11-06T03:54:49+08:00"
+  },
+  {
+   "id": "d4dc5ac231",
+   "title": "神秘卖方挂牌约 5 亿美元数据中心贷款包：含 Stargate/CyrusOne 敞口",
+   "summary": "Bloomberg：匿名卖方通过竞标出售约 5 亿美元数据中心贷款资产，覆盖 Vantage、CyrusOne 等，并含新墨西哥 Stargate 融资相关敞口；投标截止约 11/19、单笔门槛约 1000 万美元。中期选举后市场对 AI 基建回本能力转谨慎。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-05/mystery-seller-puts-up-500-million-data-center-loans-backing-stargate-cyrusone",
+    "https://news.ycombinator.com/item?id=50383469"
+   ],
+   "topic": "mystery-500m-datacenter-loans-stargate-cyrusone-2026-11-05",
+   "firstSeen": "2026-11-06T03:54:49+08:00"
+  },
+  {
+   "id": "bda122d9d8",
+   "title": "欧洲多地抗议：要求冻结高耗能数据中心建设",
+   "summary": "Euronews：欧洲多地集会呼吁冻结能源饥渴型数据中心扩张，呼应选民对电价、电网与 AI 基建的反感。与美国中期选举后地方限制数据中心的情绪同框，基建落地政治风险升温。",
+   "links": [
+    "https://www.euronews.com/2026/11/05/protesters-across-europe-to-call-for-freeze-on-energy-hungry-data-centres",
+    "https://news.ycombinator.com/item?id=50383562"
+   ],
+   "topic": "europe-data-centre-freeze-protests-2026-11-05",
+   "firstSeen": "2026-11-06T03:54:49+08:00"
   }
  ],
- "lastChecked": "2026-11-06T03:39:58+08:00"
+ "lastChecked": "2026-11-06T03:54:49+08:00"
 }
