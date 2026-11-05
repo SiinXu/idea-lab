@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T03:03:20+08:00",
+ "lastUpdated": "2026-11-06T03:14:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34635,7 +34635,71 @@
    ],
    "topic": "orbital-matter-vacuum-3d-print-beam-2026-11-05",
    "firstSeen": "2026-11-06T03:03:20+08:00"
+  },
+  {
+   "id": "babce7959f",
+   "title": "Arcjet 上线专用 AI 安全模型：按 Agent 场景拆开防提示注入",
+   "summary": "Himalia 1 今日正式可用，专打聊天/应用端的提示注入；面向编码 Agent 的 Thebe 1、面向自治安全 Agent 的 Carme 1 进入早鸟。公司用约 6 亿参数分类器毫秒级出判定，自称在公开数据集上 F1 约 0.96–0.97，避免「同一条 shell 指令在客服和编码里标准完全不同」的误报。",
+   "links": [
+    "https://www.prnewswire.com/news-releases/arcjet-launches-custom-ai-security-models-to-protect-ai-agents-302930835.html",
+    "https://arcjet.com/"
+   ],
+   "topic": "arcjet-himalia-thebe-carme-2026-11-05",
+   "firstSeen": "2026-11-06T03:14:04+08:00"
+  },
+  {
+   "id": "5ac56539c5",
+   "title": "WOGO 发布 Hacadly：机械设计 Agent，2D 图纸转 3D 重建成功率翻倍",
+   "summary": "把 ChatGPT/Claude 接到自研 2D/3D 几何管线：上传 DXF/PDF 出 STEP，也能从无历史 STEP 重建可改参数特征。内部 23 例图纸重建 23/23，约是 Claude+工具的 2.1 倍；企业可把模型接到自有云，数据不经 WOGO。11 月 5 日开卖，本地安装并按 CAD 环境做插件对接。",
+   "links": [
+    "https://www.wogo.ai/en/release/hacadly-ai-agent-launch/"
+   ],
+   "topic": "wogo-hacadly-mechanical-design-agent-2026-11-05",
+   "firstSeen": "2026-11-06T03:14:04+08:00"
+  },
+  {
+   "id": "ce1cd3a759",
+   "title": "Prompted Brand 上线：看 AI 引擎怎么说你的品牌，再教你怎么赢答案",
+   "summary": "面向 GEO（生成式引擎优化）的营销平台：监控 ChatGPT、Gemini、Perplexity、Claude、Copilot、Meta AI、DeepSeek 等约 9 个答案引擎对品牌的表述，并给出可执行的可见度改进建议，还带 ChatGPT 广告工具。11 月 5 日美国发布。",
+   "links": [
+    "https://www.businesswire.com/news/home/20261105970610/en/Prompted-Brand-Launches-to-Show-Companies-What-AI-Engines-Say-About-Them-and-What-to-Do-to-Win-Those-Answers",
+    "https://promptedbrand.com/news/prompted-brand-launches-to-show-companies-what-ai-engines-say-about-them-and-what-to-do-to-win-those-answers"
+   ],
+   "topic": "prompted-brand-geo-launch-2026-11-05",
+   "firstSeen": "2026-11-06T03:14:04+08:00"
+  },
+  {
+   "id": "b377d4614c",
+   "title": "Axiom 用 Lean 形式化整部 Stacks Project：约 1600 万行可复用代数几何库",
+   "summary": "把约 7500 页开源代数几何百科全部翻成机器可检验的 Lean，并保留永久标签与原书对照。团队用多智能体协同翻译/证明/整合，还揪出原文缺假设、正特征反例等需修补处。冲上 HN；上游 Stacks 仍不接受 AI 直接 PR，Axiom 库独立开源。",
+   "links": [
+    "https://axiommath.ai/research/the-stacks-project-formalized/",
+    "https://news.ycombinator.com/item?id=50380979"
+   ],
+   "topic": "axiom-stacks-project-lean-2026-11-05",
+   "firstSeen": "2026-11-06T03:14:04+08:00"
+  },
+  {
+   "id": "4cf2fe57a0",
+   "title": "双侧人工耳蜗使用者的心理物理学自述冲上 HN",
+   "summary": "mi-rae 用 Claude Artifact 写下双侧人工耳蜗的感知与心理细节，约 97 分登上 HN 首页。把听障科技体验写成可分享的第一人称实验笔记，评论区热议感知差异、校准与日常沟通。",
+   "links": [
+    "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+    "https://news.ycombinator.com/item?id=50381033"
+   ],
+   "topic": "cochlear-psychophysics-hn-2026-11-05",
+   "firstSeen": "2026-11-06T03:14:04+08:00"
+  },
+  {
+   "id": "2993a84c61",
+   "title": "Discord 桌面端弃 Electron 改 Rust+GPUI：早期 Phoenix 约 290MB 内存",
+   "summary": "The Verge 报道 CTO 确认全面迁到 Rust，移动端保留原生 UI 但与桌面共享 Rust 逻辑；内部 Phoenix 构建双账号闲置约 290MB，对比现版常上 GB。用户测试「很快」启动，尚无正式发版日。",
+   "links": [
+    "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app"
+   ],
+   "topic": "discord-electron-rust-verge-2026-11-05",
+   "firstSeen": "2026-11-06T03:14:04+08:00"
   }
  ],
- "lastChecked": "2026-11-06T03:03:20+08:00"
+ "lastChecked": "2026-11-06T03:14:04+08:00"
 }
