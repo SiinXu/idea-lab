@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T06:43:13+08:00",
+ "lastUpdated": "2026-11-06T06:56:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35350,7 +35350,52 @@
    ],
    "topic": "airbnb-ai-travel-agent-h1-2027-2026-11",
    "firstSeen": "2026-11-06T06:43:13+08:00"
+  },
+  {
+   "id": "d0422addce",
+   "title": "Sierra 收购 Anon：给企业 Agent 补上「登录后网页操作」",
+   "summary": "Anon 自称「Agent 版 Plaid」，专做无 API、需登录/MFA 的浏览器工作流；已融资超 1300 万美元、服务数百客户。并入 Sierra 后，将支撑 Horizon 等长时程目标（放贷、医保预授权等）跨门户完成登录、填表与多步操作。",
+   "links": [
+    "https://sierra.ai/blog/sierra-acquires-anon",
+    "https://anonhq.org/"
+   ],
+   "topic": "sierra-acquires-anon-browser-agents-2026-11-05",
+   "firstSeen": "2026-11-06T06:56:09+08:00"
+  },
+  {
+   "id": "961c16cdaa",
+   "title": "谷歌向 CNCF 捐赠 Agent Substrate 与 gVisor：面向百万级沙箱 Agent",
+   "summary": "KubeCon NA 前夕开源捐赠：Actor（会话状态）与 Worker（预热算力）解耦，空闲可挂起、唤醒称低于 500ms；配合 gVisor 用户态内核隔离不可信代码。1.0 已在 GKE 可用，配套 OpenRL，文档与代码在 ate.dev / GitHub。",
+   "links": [
+    "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+    "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+    "https://github.com/agent-substrate/substrate"
+   ],
+   "topic": "google-agent-substrate-gvisor-cncf-2026-11-05",
+   "firstSeen": "2026-11-06T06:56:09+08:00"
+  },
+  {
+   "id": "89c1355179",
+   "title": "E2B 年化收入冲到约 1.2 亿美元：给 Agent 的云电脑沙箱",
+   "summary": "Sacra 估计 2026 年 10 月底 ARR 约 1.2 亿（2025 年底约 1600 万）；自称启动超 20 亿个沙箱、Fortune 100 中 94 家注册。Firecracker 微虚机隔离，客户含 Manus、Perplexity、Hugging Face、Groq；对标 Daytona/Modal。",
+   "links": [
+    "https://sacra.com/c/e2b/",
+    "https://www.businesswire.com/news/home/20261105034133/en/E2B-Which-Gives-AI-Agents-Their-Own-Cloud-Computers-Passes-%24120-Million-in-Annualized-Run-Rate-With-100-Inbound"
+   ],
+   "topic": "e2b-120m-arr-agent-sandboxes-2026-11-05",
+   "firstSeen": "2026-11-06T06:56:09+08:00"
+  },
+  {
+   "id": "e8690f74b6",
+   "title": "英伟达开源 Cosmos 3 Nano 四款世界模型：驾驶多传感器与双臂机器人仿真",
+   "summary": "11 月 5 日 Hugging Face 上线 Transfer-Auto / Sim-Auto / Sim-Transfer / Sim-Bimanual，各约 160 亿可训参数、OpenMDW 1.1 可商用。支持多视角相机+LiDAR、仿真器控制转真实感视频、YAM/AgiBot 双臂交互；附后训练配方与 agent skills。",
+   "links": [
+    "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/"
+   ],
+   "topic": "nvidia-cosmos-3-nano-open-simulation-2026-11-05",
+   "firstSeen": "2026-11-06T06:56:09+08:00"
   }
  ],
- "lastChecked": "2026-11-06T06:43:13+08:00"
+ "lastChecked": "2026-11-06T06:56:09+08:00"
 }
