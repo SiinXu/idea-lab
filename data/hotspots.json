@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T16:43:40+08:00",
+ "lastUpdated": "2026-11-05T16:58:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32510,7 +32510,30 @@
    ],
    "topic": "nintendo-macronix-rom-exit-ai-memory-2026-11",
    "firstSeen": "2026-11-05T16:43:40+08:00"
+  },
+  {
+   "id": "bc3eb0974c",
+   "title": "百度开源 ERNIE-5.5-Flash-Base：2800 亿参数 MoE、每 token 激活 140 亿",
+   "summary": "预训练终点权重（无 mid/post-training），33.5T token、训练上下文 128K、推理/微调可达 1M；MMLU 93.3、HumanEval+ 82.3，Hugging Face 提供 FP8/BF16，SGLang/vLLM 可直接起服务。",
+   "links": [
+    "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+    "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base",
+    "https://x.com/i/trending/2118255535443386747"
+   ],
+   "topic": "baidu-ernie-5-5-flash-base-2026-11",
+   "firstSeen": "2026-11-05T16:58:17+08:00"
+  },
+  {
+   "id": "9a423dd367",
+   "title": "OpenAI Dots 更新：iOS 通知可直接回复，通话更快、Windows 更稳",
+   "summary": "Dots 团队新版加强常驻智能体触达：通知内联回复、语音通话提速、口令挂断，并修 Windows 上 MCP 工作流可靠性。",
+   "links": [
+    "https://runtimewire.com/article/openai-dots-ios-notification-replies-windows-update",
+    "https://x.com/i/trending/2118261589468238025"
+   ],
+   "topic": "openai-dots-ios-notification-replies-2026-11",
+   "firstSeen": "2026-11-05T16:58:17+08:00"
   }
  ],
- "lastChecked": "2026-11-05T16:43:40+08:00"
+ "lastChecked": "2026-11-05T16:58:17+08:00"
 }
