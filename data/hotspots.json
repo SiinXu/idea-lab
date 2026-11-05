@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T11:42:54+08:00",
+ "lastUpdated": "2026-11-05T12:12:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31722,7 +31722,49 @@
    ],
    "topic": "openai-chatgpt-codex-shared-usage-limits",
    "firstSeen": "2026-11-05T11:42:54+08:00"
+  },
+  {
+   "id": "8131dba11a",
+   "title": "Claude Code 后台子智能体状态行费用降约 99%",
+   "summary": "Anthropic 在 Claude Code v2.1.316+ 用 Haiku 5.5 根据短笔记刷新后台子智能体状态行，不再每 30 秒重读整段对话；单次刷新约省 99%，含后台子智能体的会话约少占 5% 额度、多约 6% 提示。适合做成 Idea Lab 新点子：多模型路由与状态摘要的省钱层。",
+   "links": [
+    "https://x.com/i/trending/2117768217288400999",
+    "https://alphasignal.ai/news/anthropic-s-claude-code-slashes-background-agent-status-costs-by-99"
+   ],
+   "topic": "claude-code-subagent-status-haiku-99",
+   "firstSeen": "2026-11-05T12:12:22+08:00"
+  },
+  {
+   "id": "b22ad9f6b5",
+   "title": "YC CEO Garry Tan 开源 gstack：把 Claude Code 变成虚拟工程团队",
+   "summary": "gstack 含 23 个意见化斜杠技能（CEO/设计师/工程经理/发布/文档/QA/安全等），MIT 开源，正登 GitHub 日榜；把角色化 Skill 工厂做成可复用模板是 Idea Lab 方向。",
+   "links": [
+    "https://github.com/garrytan/gstack"
+   ],
+   "topic": "garrytan-gstack-claude-code-factory",
+   "firstSeen": "2026-11-05T12:12:22+08:00"
+  },
+  {
+   "id": "04ba5b21ac",
+   "title": "Infinite Slop：levelsio + fal.ai 的无尽 AI 生成电视频道",
+   "summary": "用户点赞决定下一支片上什么，被赞视频可赢现金奖；展示「AI 内容流 + 社区策展」产品形态，适合做成 Idea Lab 娱乐/广告创意。",
+   "links": [
+    "https://infiniteslop.ai/"
+   ],
+   "topic": "infinite-slop-levelsio-fal",
+   "firstSeen": "2026-11-05T12:12:22+08:00"
+  },
+  {
+   "id": "1856926ae5",
+   "title": "Letagents：让不同机器上的编码智能体端到端加密互通",
+   "summary": "静态二进制 + 中继只存密文，支持 send/ask/list 与 MCP；可接 Claude Code、Codex、Cursor 等。跨机多智能体协作是 OPC/个人 AI 栈的空白点。",
+   "links": [
+    "https://letagents.talk/",
+    "https://github.com/pratikgajjar/letagents"
+   ],
+   "topic": "letagents-cross-machine-agents",
+   "firstSeen": "2026-11-05T12:12:22+08:00"
   }
  ],
- "lastChecked": "2026-11-05T11:42:54+08:00"
+ "lastChecked": "2026-11-05T12:12:22+08:00"
 }
