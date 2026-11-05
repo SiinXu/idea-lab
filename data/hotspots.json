@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T14:57:39+08:00",
+ "lastUpdated": "2026-11-05T15:12:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32224,7 +32224,59 @@
    ],
    "topic": "doom-dna-code-shape-fingerprint-2026",
    "firstSeen": "2026-11-05T14:57:39+08:00"
+  },
+  {
+   "id": "b10f7730b0",
+   "title": "Render 上线 Sandboxes 公测：给每个 AI 智能体一台 Firecracker 沙箱电脑",
+   "summary": "公测沙箱可秒级启动、空闲自动休眠只收快照费；支持出站白名单与凭证代理，避免提示注入把密钥带出沙箱。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://render.com/blog/introducing-render-sandboxes"
+   ],
+   "topic": "render-sandboxes-public-beta-2026-11",
+   "firstSeen": "2026-11-05T15:12:24+08:00"
+  },
+  {
+   "id": "2e86a32cca",
+   "title": "LiteSpeed Cache CVE-2026-93389：默认缓存 REST 可泄露 WooCommerce 购物车与个人信息",
+   "summary": "开启 Cache REST API 时，未登录访客可能拿到别人的购物车/结账缓存，含姓名地址电话与会话令牌；请升到 7.9.2+ 并清缓存。",
+   "links": [
+    "https://blog.litespeedtech.com/2026/11/04/security-update-for-lscwp-cve-2026-93389/"
+   ],
+   "topic": "litespeed-cache-cve-2026-93389",
+   "firstSeen": "2026-11-05T15:12:24+08:00"
+  },
+  {
+   "id": "6ad119766f",
+   "title": "Quandoom：把 DOOM 第一关做成量子电路，约 7.2 万量子比特可用笔记本模拟",
+   "summary": "用 Hadamard+Toffoli 重写 E1M1，门数超 8000 万；因无负相位可经典高效模拟，约 10–20 FPS，适合当量子模拟基准玩笑项目。",
+   "links": [
+    "https://github.com/Lumorti/Quandoom",
+    "https://arxiv.org/abs/2412.12162"
+   ],
+   "topic": "quandoom-doom-quantum-circuit",
+   "firstSeen": "2026-11-05T15:12:24+08:00"
+  },
+  {
+   "id": "b07ed9c1d6",
+   "title": "Domenic Denicola 公开 2026 年智能体编程全家桶：家用 Linux VM + Tailscale + worktree",
+   "summary": "用可丢弃 Linux 虚机跑 Claude/Codex，Tailscale 做跨设备 SSH 与预览，配合 Portless/chezmoi；甚至能在火车上用手机修生产 bug。",
+   "links": [
+    "https://domenic.me/agentic-coding-setup/"
+   ],
+   "topic": "domenic-agentic-coding-setup-2026",
+   "firstSeen": "2026-11-05T15:12:24+08:00"
+  },
+  {
+   "id": "28ae9d3339",
+   "title": "Adversarial Speculative Reasoning：故意训坏草稿模型，长程智能体正确率反升",
+   "summary": "只改草稿模型 0.06%–0.28% 参数，在关键决策点故意猜错逼主模型亲自生成；DeepSWE 上 GLM 5.3 从 60.6% 提到 67.6%。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://www.subconscious.dev/blog/adversarial-speculative-reasoning",
+    "https://arxiv.org/abs/2611.05345"
+   ],
+   "topic": "aspec-adversarial-speculative-reasoning",
+   "firstSeen": "2026-11-05T15:12:24+08:00"
   }
  ],
- "lastChecked": "2026-11-05T14:57:39+08:00"
+ "lastChecked": "2026-11-05T15:12:24+08:00"
 }
