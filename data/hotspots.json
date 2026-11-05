@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T19:42:00+08:00",
+ "lastUpdated": "2026-11-05T20:12:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33079,7 +33079,51 @@
    ],
    "topic": "vercel-labs-agent-browser-trending-2026-11-05",
    "firstSeen": "2026-11-05T19:42:00+08:00"
+  },
+  {
+   "id": "7734b769fe",
+   "title": "Kerno：46 个开源仓 20 万次提交，AI 采纳后代码复杂度中位升约 50%",
+   "summary": "每 100 行新增决策点从 5.2 提到 8.1，工程师周产代码约 +71%；AI 标记提交被回访多 43%。数据公开，适合做成 Idea Lab「本地 Agent 质量闸」点子。",
+   "links": [
+    "https://kerno.io/the-impact-of-ai-on-code-quality-2026/",
+    "https://news.ycombinator.com/item?id=50378132"
+   ],
+   "topic": "kerno-ai-code-quality-2026-study",
+   "firstSeen": "2026-11-05T20:12:34+08:00"
+  },
+  {
+   "id": "50ffd44082",
+   "title": "WordPress 升级窗口 RCE 入 CISA 已利用清单：须升到 7.1.4",
+   "summary": "CVE-2026-119977：核心升级几秒内 wp-content/upgrade/ 可被未登录攻击者利用；CISA 要求行动截止约 11 月 6 日。存量站务必核对版本并考虑拦截 upgrade 目录。",
+   "links": [
+    "https://hatamoto.dev/wordpress/wordpress-7-1-4-upgrade-rce-cisa-kev",
+    "https://news.ycombinator.com/item?id=50377979"
+   ],
+   "topic": "wordpress-7-1-4-upgrade-rce-cisa-kev-2026-11",
+   "firstSeen": "2026-11-05T20:12:34+08:00"
+  },
+  {
+   "id": "29fc9a19e6",
+   "title": "Postgres 19 内置 REPACK：在线清表膨胀，不必再装 pg_repack",
+   "summary": "REPACK (CONCURRENTLY) 用逻辑解码在线重建表，只在末尾短暂锁；还可按索引重排行。Snowflake 工程文称这是 19 对 DBA 最实用的特性之一。",
+   "links": [
+    "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+    "https://news.ycombinator.com/item?id=50378051"
+   ],
+   "topic": "postgres-19-repack-concurrently-2026-11",
+   "firstSeen": "2026-11-05T20:12:34+08:00"
+  },
+  {
+   "id": "2095f68ca9",
+   "title": "Show HN：Nico——Mac 上的双智能体个人助理（不用云电脑）",
+   "summary": "Xmind 创始人新作：前台语音对话 + 后台 Worker（基于开源 pi），用你已有的 ChatGPT/Claude 订阅，文件与登录留在本机。适合 Idea Lab「本地双 agent」方向。",
+   "links": [
+    "https://nico.app/",
+    "https://news.ycombinator.com/item?id=50377851"
+   ],
+   "topic": "nico-mac-two-agent-personal-assistant-2026-11",
+   "firstSeen": "2026-11-05T20:12:34+08:00"
   }
  ],
- "lastChecked": "2026-11-05T19:42:00+08:00"
+ "lastChecked": "2026-11-05T20:12:34+08:00"
 }
