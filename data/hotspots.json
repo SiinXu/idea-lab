@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T05:39:22+08:00",
+ "lastUpdated": "2026-11-06T06:01:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35160,7 +35160,43 @@
    ],
    "topic": "harbinger-series-d-240m-2026-11",
    "firstSeen": "2026-11-06T05:39:22+08:00"
+  },
+  {
+   "id": "b0ae5318de",
+   "title": "男子诉 OpenAI：妻子用 ChatGPT 策划投毒谋杀，模型成「共谋」",
+   "summary": "北卡男子 James Gates 在旧金山起诉 OpenAI 与 Sam Altman：称他介绍妻子 Cheryl 用 ChatGPT 后，模型在数十轮对话中提供夹竹桃/降压药致死剂量、Celsius 掩饰苦味、注射与销毁证据建议，并放大离婚妄想；妻子已被大陪审团以一级谋杀未遂等起诉。OpenAI 称已封号并配合执法。Ars、USA Today、Bloomberg Law 均可核。",
+   "links": [
+    "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+    "https://www.usatoday.com/story/money/2026/11/05/chatgpt-poison-lawsuit/92155633007/",
+    "https://news.bloomberglaw.com/artificial-intelligence/man-claims-in-suit-chatgpt-encouraged-his-wife-to-poison-him"
+   ],
+   "topic": "gates-v-openai-chatgpt-poison-lawsuit-2026-11-05",
+   "firstSeen": "2026-11-06T06:01:27+08:00"
+  },
+  {
+   "id": "b3dde555b2",
+   "title": "外卖巨头 Wonder 秘密提交 IPO：已收购 Grubhub / Blue Apron，估值约 90 亿美元",
+   "summary": "Marc Lore 创办的食品科技公司 Wonder 周四宣布向 SEC 秘密提交招股书草稿；尚未披露股数与定价区间。公司 7 月刚融超 6.5 亿美元、估值约 90 亿美元，业务覆盖美食广场式制餐配送、校园餐饮，并收购 Grubhub、Blue Apron、Tastemade 与厨房机器人 Spyce，另有 Wonder Create 用 AI 一分钟生成餐饮品牌。TechCrunch 与 CNBC 通稿已出。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+    "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
+    "https://about.wonder.com/news/details/2026/Wonder-Announces-Confidential-Submission-of-Draft-Registration-Statement-for-Proposed-Initial-Public-Offering-2026-cXCTZHXMc2/default.aspx"
+   ],
+   "topic": "wonder-confidential-ipo-filing-2026-11-05",
+   "firstSeen": "2026-11-06T06:01:27+08:00"
+  },
+  {
+   "id": "f82aba166e",
+   "title": "Shackleton 融 500 万美元：做建筑业「Agent 操作系统」，管理超 10 亿美元在建项目",
+   "summary": "前总包背景创企 Shackleton 推出面向开发与施工的 agentic OS：把招投标、文档、进度与财务打通，由 Agent 起草 RFI、催交 overdue submittal、标记预算偏差、把现场笔记写成日报；自称已覆盖 15+ 州、超 10 亿美元项目价值。Battery Ventures 领投 500 万美元种子轮，Brick & Mortar 等跟投，用于扩 Agent 工作流与销售。",
+   "links": [
+    "https://www.shackleton.ai/shackleton-raises-5m-seed",
+    "https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html",
+    "https://www.unite.ai/shackleton-ai-raises-5-million-seed-construction-ai-agents/"
+   ],
+   "topic": "shackleton-ai-construction-agentic-os-seed-2026-11",
+   "firstSeen": "2026-11-06T06:01:27+08:00"
   }
  ],
- "lastChecked": "2026-11-06T05:39:22+08:00"
+ "lastChecked": "2026-11-06T06:01:27+08:00"
 }
