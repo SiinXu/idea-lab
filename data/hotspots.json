@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T06:26:05+08:00",
+ "lastUpdated": "2026-11-06T06:27:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35297,7 +35297,17 @@
    ],
    "topic": "plain-vanilla-web-hn-2026-11-05",
    "firstSeen": "2026-11-06T06:26:05+08:00"
+  },
+  {
+   "id": "18b453b044",
+   "title": "FrontierPhysics：42 位物理学家自命题，最强 Agent 仅过 27.4%",
+   "summary": "56 道端到端物理研究任务（理论/计算/实验），要写论文并过确定性校验+专家量规。22 模型 26 配置共 4364 次 rollout，Claude Opus 5.5 最高 Pass@1 约 27.4%；失败主因是推理不严与缺专家直觉，而非缺物理知识。",
+   "links": [
+    "https://arxiv.org/abs/2611.06910"
+   ],
+   "topic": "frontierphysics-end-to-end-2026-11",
+   "firstSeen": "2026-11-06T06:27:02+08:00"
   }
  ],
- "lastChecked": "2026-11-06T06:26:05+08:00"
+ "lastChecked": "2026-11-06T06:27:02+08:00"
 }
