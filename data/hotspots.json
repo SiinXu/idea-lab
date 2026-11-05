@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T04:46:05+08:00",
+ "lastUpdated": "2026-11-06T04:57:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34973,7 +34973,69 @@
    ],
    "topic": "democrats-national-datacenter-moratorium-2026-11-05",
    "firstSeen": "2026-11-06T04:46:05+08:00"
+  },
+  {
+   "id": "419825f7f3",
+   "title": "METR：Anthropic 研发自加速约 2 倍，八成或来自 AI 助攻",
+   "summary": "METR 驻场评估称 2025 年 10 月以来 Anthropic 在可验证任务上的能力增速约 1.9 倍（置信区间 1.5–2.8），约八成或归功于用 AI 做 R&D；多数关键证据被 Anthropic 以「防对手加速」名义打码。",
+   "links": [
+    "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+   ],
+   "topic": "metr-anthropic-ai-rd-acceleration-2026-11-05",
+   "firstSeen": "2026-11-06T04:57:54+08:00"
+  },
+  {
+   "id": "2e06a7a163",
+   "title": "Meta 总裁：中期选举反数据中心情绪会让扩建更难",
+   "summary": "Dina Powell McCormick 在 WSJ Tech 上称民主党胜选后建数据中心更难，社区抵制也反映对 AI 本身的态度；Meta 称成功项目需自付电费、税盈余给教师急救、本地用工并争取两党支持。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+   ],
+   "topic": "meta-powell-datacenter-midterm-backlash-2026-11-05",
+   "firstSeen": "2026-11-06T04:57:54+08:00"
+  },
+  {
+   "id": "3d075c233b",
+   "title": "微软给无 Copilot 许可证的 Copilot Chat 加用量上限且不公开数字",
+   "summary": "商业租户里没买 Microsoft 365 Copilot 附加许可的用户，更多 Copilot Chat 功能开始触顶；限额不公布、管理员不可调，触顶后弹升级提示。小组织 11/2 起、大组织 11/9 起。",
+   "links": [
+    "https://www.theregister.com/ai-and-ml/2026/11/05/copilot-chat-has-usage-caps-and-microsoft-would-rather-you-found-them-by-hitting-them/5307814"
+   ],
+   "topic": "ms-copilot-chat-usage-caps-2026-11-05",
+   "firstSeen": "2026-11-06T04:57:54+08:00"
+  },
+  {
+   "id": "59b619a53a",
+   "title": "Kiri：用小型 Rust 守护进程替代 Docker Desktop，Mac 上 docker run 约 22ms",
+   "summary": "跨 Mac/Windows/Linux 的轻量容器运行时，兼容 docker CLI 与 Compose，主打比 Docker Desktop 更快更省；免费，冲上 HN 新帖。",
+   "links": [
+    "https://runkiri.com/",
+    "https://news.ycombinator.com/item?id=50384180"
+   ],
+   "topic": "kiri-docker-desktop-alternative-2026-11-05",
+   "firstSeen": "2026-11-06T04:57:54+08:00"
+  },
+  {
+   "id": "0098a36f46",
+   "title": "Watchdeck：本地地图化 Claude Code 会话，拒绝一次就能落成规则",
+   "summary": "把本机每个 Claude Code 会话的工具调用摊开成实时地图，并监视疑似密钥；一次拒绝可一键写成规则。本地私有单二进制，macOS 已端到端验证。",
+   "links": [
+    "https://github.com/Panda-Taps-LLC/watchdeck",
+    "https://news.ycombinator.com/item?id=50384095"
+   ],
+   "topic": "watchdeck-claude-code-map-2026-11-05",
+   "firstSeen": "2026-11-06T04:57:54+08:00"
+  },
+  {
+   "id": "d6ff8c9eba",
+   "title": "Prax：给 Agent 的免费 AML 钱包筛查，MCP 一接就能用",
+   "summary": "通过 MCP 让 Claude / ChatGPT / Cursor 直接查钱包制裁、漏洞利用、钓鱼、骗局与混币器敞口，并给出可答辩理由；免费档每天 10 次。",
+   "links": [
+    "https://prax-labs.com/wallet-screening"
+   ],
+   "topic": "prax-wallet-screening-mcp-2026-11-05",
+   "firstSeen": "2026-11-06T04:57:54+08:00"
   }
  ],
- "lastChecked": "2026-11-06T04:46:05+08:00"
+ "lastChecked": "2026-11-06T04:57:54+08:00"
 }
