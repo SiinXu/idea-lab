@@ -674,6 +674,81 @@
    "shown": true,
    "at": "2026-11-05T01:12:26+00:00",
    "id": "7a5d685305"
+  },
+  {
+   "topic": "ha4f4c423c",
+   "title": "内核提权补丁一键自查",
+   "who": "管着几台到几十台 Linux 服务器的小团队运维和独立开发者",
+   "pain": "新的本地提权漏洞一出，要逐台查内核版本、对照各发行版公告，才知道哪台还没打补丁",
+   "why_now": "HN 热议一批新的 Linux 本地提权漏洞",
+   "mvp": "一条只读命令采集内核和发行版版本，对照各发行版安全公告，输出哪台已修、哪台待升级以及升级命令，结果页放在 Workers 上",
+   "money": "单机自查免费，多台服务器汇总看板和新公告邮件提醒 $9/月",
+   "not_do": "不提供利用代码，不扫描别人的机器，不收集主机名和 IP",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50372929"
+   ],
+   "score": 6,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 1,
+    "money": 1,
+    "reuse": 1,
+    "novel": 0
+   },
+   "why": "HN 真讨论；但各发行版公告对照工作量大，vuls、needrestart 等现成工具已覆盖，且和已有补丁延迟看板重叠",
+   "shown": false,
+   "at": "2026-11-05T13:07:37+00:00",
+   "id": "736f84c722"
+  },
+  {
+   "topic": "h793baf0e5",
+   "title": "AI 编程配置分享卡",
+   "who": "每天用编程 Agent 写代码、想知道别人怎么配的开发者",
+   "pain": "别人的模型、编辑器、MCP 工具和每月花费散在长帖评论里，抄不全也没法比较",
+   "why_now": "HN 上 Ask HN「你现在的 AI Agent 配置是什么」帖子热议",
+   "mvp": "一个表单填写模型、编辑器、MCP 工具、月花费，生成可分享的配置卡图片和链接，并汇总匿名统计显示最常见的组合",
+   "money": "生成和浏览免费，团队内部配置对比和统一推荐清单 $5/人/月",
+   "not_do": "不收集 API 密钥，不抓取用户仓库，不按工具厂商付费调整排名",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50366117"
+   ],
+   "score": 8,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 1,
+    "novel": 1
+   },
+   "why": "HN Ask 帖真需求，表单加分享卡两周可做，卡片自带传播；团队付费点偏弱",
+   "shown": true,
+   "at": "2026-11-05T13:07:37+00:00",
+   "id": "b4fcbfe2fe"
+  },
+  {
+   "topic": "ha0c225aed",
+   "title": "CSS 动画掉帧体检",
+   "who": "在网页里做纯 CSS 动画、想要效果又怕手机卡的前端",
+   "pain": "动画在电脑上很顺，到中低端手机上掉帧，查不出是哪个属性触发了重排",
+   "why_now": "HN 热议用纯 CSS 复刻的 Lemmings 动画",
+   "mvp": "粘贴 CSS 或网址，静态检查会触发布局和重绘的动画属性，并在模拟降速下录帧率，给出改用 transform 或 opacity 的建议；接入 UI Hub 组件页",
+   "money": "单页体检免费，CI 里每次 PR 自动出帧率报告 $8/仓库/月",
+   "not_do": "不改写用户代码，不收集页面内容，不做动画素材商店",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50375354"
+   ],
+   "score": 7,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 1,
+    "money": 1,
+    "reuse": 2,
+    "novel": 0
+   },
+   "why": "HN 讨论真实，可直接接 UI Hub；降速录帧需无头浏览器，两周偏紧，Lighthouse 和 DevTools 已部分覆盖",
+   "shown": true,
+   "at": "2026-11-05T13:07:37+00:00",
+   "id": "05f421c9f2"
   }
  ]
 }
