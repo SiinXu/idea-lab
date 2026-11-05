@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T09:11:07+08:00",
+ "lastUpdated": "2026-11-05T09:45:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31514,7 +31514,18 @@
    ],
    "topic": "atmee-v2-realtime-avatar",
    "firstSeen": "2026-11-05T09:11:07+08:00"
+  },
+  {
+   "id": "efbdc6fdf3",
+   "title": "SpaceX 推出微重力在轨平台 Starfall：单次可载 1000 公斤载荷、1 千瓦供电、全程 Starlink 联网，搭 Starship 高频发射",
+   "summary": "SpaceX 官网新上线 Starfall 产品页，登上 Hacker News 首页。官方定位是「负担得起、可常规使用的微重力环境」，面向生物医药、制药结晶和材料/半导体制造。公开参数：载荷质量 1000 公斤、载荷功率 1 千瓦、以太网数据接口、通过 Starlink 持续联网，任务时长按载荷需求定制，可提供数周连续微重力（落塔和抛物线飞行只有几秒）。SpaceX 称依托 Starship 发射，可提供此前市场上没有的稳定、可规模化的发射频次。页面暂无价格。信号：太空制造从 Varda 等初创的小众赛道，变成 SpaceX 直接下场的标准化服务；面向实验室的「上天实验」撮合、载荷集成咨询、微重力实验数据分析等配套服务可能迎来需求。",
+   "links": [
+    "https://www.spacex.com/starfall",
+    "https://news.ycombinator.com/item?id=50373308"
+   ],
+   "topic": "spacex-starfall-microgravity",
+   "firstSeen": "2026-11-05T09:45:06+08:00"
   }
  ],
- "lastChecked": "2026-11-05T09:11:07+08:00"
+ "lastChecked": "2026-11-05T09:45:06+08:00"
 }
