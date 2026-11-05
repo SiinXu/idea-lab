@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T00:03:23+08:00",
+ "lastUpdated": "2026-11-06T00:13:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33855,7 +33855,83 @@
    ],
    "topic": "bluesky-election-night-peak-2026-11-05",
    "firstSeen": "2026-11-06T00:03:23+08:00"
+  },
+  {
+   "id": "f3cd5112b6",
+   "title": "Isomorphic Labs 据报洽谈约 50 亿美元融资、估值约 500 亿：尚未进人体试验",
+   "summary": "Bloomberg：DeepMind 拆出的 AI 制药公司 Isomorphic Labs 洽谈约 50 亿美元融资、估值约 500 亿美元；5 月刚由 Thrive 领投 21 亿，临床仍处临床前，总裁称「还在第一局」。",
+   "links": [
+    "https://thenextweb.com/news/isomorphic-labs-5bn-funding-talks-50bn-valuation",
+    "https://www.techmeme.com/261104/p56"
+   ],
+   "topic": "isomorphic-labs-5b-50b-valuation-talks-2026-11",
+   "firstSeen": "2026-11-06T00:13:18+08:00"
+  },
+  {
+   "id": "2a26f0e840",
+   "title": "微软放弃 Nscale 德州扩容期权：IPO 前再砍「数百亿美元」潜在算力单",
+   "summary": "FT/DCD：微软拒签 Nscale 德州约 500MW 扩容期权，现有 Barstow 合同仍在；Nscale 拟以最高约 350 亿美元上市，此前还失去英国 Loughton 锚定客户。",
+   "links": [
+    "https://thenextweb.com/news/microsoft-rejects-nscale-texas-option",
+    "https://www.datacenterdynamics.com/en/news/microsoft-declined-option-for-expanded-compute-contract-in-texas-with-nscale/"
+   ],
+   "topic": "microsoft-nscale-texas-expansion-option-rejected-2026-11",
+   "firstSeen": "2026-11-06T00:13:18+08:00"
+  },
+  {
+   "id": "b37f254e0f",
+   "title": "Palo Alto 据报洽购 Clutch Security 约 5 亿美元：专管 AI Agent 非人身份凭证",
+   "summary": "The Information：Palo Alto Networks 洽谈约 5 亿美元收购以色列初创 Clutch，追踪 API Key/服务账号等 Agent 凭证；若成，将是其今年第五笔收购，补强 CyberArk 后人机之外的 Agent 身份面。",
+   "links": [
+    "https://www.calcalistech.com/ctechnews/article/qx69w4bra",
+    "https://en.globes.co.il/en/article-palo-alto-networks-in-talks-to-buy-clutch-security-for-500m-1001562156"
+   ],
+   "topic": "palo-alto-clutch-security-500m-talks-2026-11",
+   "firstSeen": "2026-11-06T00:13:18+08:00"
+  },
+  {
+   "id": "e264c963bb",
+   "title": "摩托罗拉 Signature 27 美国开卖：1599 美元旗舰，支持 GrapheneOS，峰值 12000 尼特",
+   "summary": "The Verge：Signature 27 搭 Snapdragon 8 Elite Extreme Gen 6、6.8 寸双层 OLED、7000mAh，美区预售 11/19、发售 11/26；主流机型首次宣称支持 GrapheneOS，并承诺 7 年系统更新。",
+   "links": [
+    "https://www.theverge.com/gadgets/1026643/motorola-signature-27-price-specs-availability"
+   ],
+   "topic": "motorola-signature-27-1599-grapheneos-2026-11",
+   "firstSeen": "2026-11-06T00:13:18+08:00"
+  },
+  {
+   "id": "83cb984a96",
+   "title": "索尼 Q2：PS5 仅出货 260 万但游戏与网络大涨，PS6「按计划推进」",
+   "summary": "Engadget：二季度 PS5 出货 260 万（同比约 -35%），累计 9790 万；游戏与 PSN 带动营收约 +9%、利润约 +83%；索尼称 PS6 开发「按计划推进」，同时提醒内存紧缺下主机供货仍紧。",
+   "links": [
+    "https://www.engadget.com/2307531/sony-earnings-report-2026-selling-more-ps5-games-console-demand/",
+    "https://wccftech.com/playstation-profit-record-quarter-ps5-shipments-drop/"
+   ],
+   "topic": "sony-ps5-q2-2026-ps6-on-track",
+   "firstSeen": "2026-11-06T00:13:18+08:00"
+  },
+  {
+   "id": "ceb862ecbd",
+   "title": "奔驰北美开推 Liquid AI 车端语音：本地推理、不依赖常连云",
+   "summary": "WSJ/Ny Teknik：Mercedes-Benz 与 MIT 拆出公司 Liquid AI 合作，北美 OTA 上车端对话模型，导航/座椅/空调/媒体可本地语音控制，复杂请求再回云；10 月起推，2027 Q2 扩更多车型，无额外订阅费。",
+   "links": [
+    "https://www.nyteknik.se/fordon/mercedes-nya-ai-koers-lokalt-i-bilen-kraever-inte-staendig-uppkoppling/4511210",
+    "https://group.mercedes-benz.com/technology/innovation/collaboration/liquid-ai.html",
+    "https://www.techmeme.com/261105/p32"
+   ],
+   "topic": "mercedes-liquid-ai-on-device-voice-na-rollout-2026-11",
+   "firstSeen": "2026-11-06T00:13:18+08:00"
+  },
+  {
+   "id": "d713eba443",
+   "title": "Nature：脑内基因疗法试验中三人耐药癫痫发作降逾九成",
+   "summary": "NEJM/Nature：三名海马硬化耐药癫痫患者接受定点 AAV9 化学遗传学基因疗法后，月发作次数下降逾 90%，未现严重副作用；样本很小，且需长期服用氯氮平作「调光开关」，长期安全性仍待观察。",
+   "links": [
+    "https://www.nature.com/articles/d41586-026-03566-2"
+   ],
+   "topic": "nature-epilepsy-chemogenetics-gene-therapy-nejm-2026-11",
+   "firstSeen": "2026-11-06T00:13:18+08:00"
   }
  ],
- "lastChecked": "2026-11-06T00:03:23+08:00"
+ "lastChecked": "2026-11-06T00:13:18+08:00"
 }
