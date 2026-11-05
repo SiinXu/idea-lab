@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T17:11:35+08:00",
+ "lastUpdated": "2026-11-05T17:23:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32568,7 +32568,30 @@
    ],
    "topic": "zlib-1-4-security-release-2026-11",
    "firstSeen": "2026-11-05T17:11:35+08:00"
+  },
+  {
+   "id": "f78f86522a",
+   "title": "Claude Code 2.1.317 放宽游戏规则：可点名参考机制，仍拒直接复刻",
+   "summary": "Verge：Anthropic 称 Opus 5.5 里「禁止复刻特定现有游戏」的短规则误伤了「点名某作只为描述玩法」的请求。v2.1.317 已更新——你可以点名一款游戏来说明想要的机制/类型，Claude 应做同类型原创；若明确要求复制原作，会改提议做相似作品。此前硬性封锁曾引发持证开发者反弹。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1026672/anthropic-tweaks-how-claude-code-handles-requests-about-making-games",
+    "https://changelogs.core-directive.com/prompts/2.1.317"
+   ],
+   "topic": "claude-code-2-1-317-game-rule-tweak-2026-11",
+   "firstSeen": "2026-11-05T17:23:54+08:00"
+  },
+  {
+   "id": "19d80ef3a5",
+   "title": "OpenAI 全球事务长文《2028：AI 选举》：把政策议程比作新新政",
+   "summary": "TechCrunch / Politico：Chris Lehane 发文称 2028 总统选可能是 AI 定义之战，吁候选人走出反 AI/挺基建口号，走「第三条路」。五项议程涵盖劳工与教育、儿童安全、可执行安全标准、以及继续建数据中心（把停建令比作 2002 伊拉克战争授权）。批评者指其仍偏向扩大采用与基建、缺少约束公司权力的硬约束。",
+   "links": [
+    "https://openaiglobalaffairs.substack.com/p/special-edition-2028-the-ai-election",
+    "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "https://www.politico.com/news/2026/11/02/openai-is-already-pitching-2028-hopefuls-on-how-to-talk-about-ai-01144821"
+   ],
+   "topic": "openai-lehane-2028-ai-election-new-deal-2026-11",
+   "firstSeen": "2026-11-05T17:23:54+08:00"
   }
  ],
- "lastChecked": "2026-11-05T17:11:35+08:00"
+ "lastChecked": "2026-11-05T17:23:54+08:00"
 }
