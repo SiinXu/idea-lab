@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T18:39:15+08:00",
+ "lastUpdated": "2026-11-05T18:54:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32869,7 +32869,63 @@
    ],
    "topic": "apple-employee-ai-spend-caps-ternus-2026-11",
    "firstSeen": "2026-11-05T18:39:15+08:00"
+  },
+  {
+   "id": "7c0512e6f1",
+   "title": "印度拟收回社媒「避风港」：算法推流不再算纯管道",
+   "summary": "印媒称电子信息技术部正讨论修改 IT 法第 79 条：用算法决定排序、推荐或压制内容的社媒，可能失去对用户内容的全面免责；仅不干预内容的点对点通讯或仍保留。改法需国会通过，尚处初步磋商。",
+   "links": [
+    "https://indianexpress.com/article/business/india-social-media-social-media-regulation-safe-harbour-it-ministry-rules-10951162/",
+    "https://www.business-standard.com/technology/tech-news/govt-weighs-removing-blanket-protection-for-social-media-platforms-126110402149_1.html",
+    "https://x.com/i/trending/2118233530551665150"
+   ],
+   "topic": "india-safe-harbour-section79-algorithms-2026-11",
+   "firstSeen": "2026-11-05T18:54:43+08:00"
+  },
+  {
+   "id": "2b908dd418",
+   "title": "字节跳动收紧外购 Claude / Codex：L4 代码仓与飞书文档禁喂外部 AI",
+   "summary": "TechNode 等报道：即便员工自费订阅，也不能再用 Claude、Codex 等处理公司 L4 代码仓与飞书文档；副总裁洪定坤称主因是 L3 以上泄密风险，否认逼用自家产品。继 2025 年限制 Cursor/Windsurf 后，边界划得更清。",
+   "links": [
+    "https://technode.com/2026/11/04/bytedance-reportedly-tightens-access-to-claude-and-codex-even-for-employees-paying-out-of-pocket/",
+    "https://finance.sina.com.cn/chanjing/gsnews/2026-11-04/doc-inixqxhk9235629.shtml"
+   ],
+   "topic": "bytedance-restrict-claude-codex-l4-2026-11",
+   "firstSeen": "2026-11-05T18:54:43+08:00"
+  },
+  {
+   "id": "d0aac70174",
+   "title": "VMware 推出 vSphere Express：面向中小客户的「基础虚拟化」",
+   "summary": "Broadcom 旗下 VMware 发布面向低端的 vSphere Express，强调 vMotion、高可用等核心能力、不做集中管理；分销价约 9600 美元/年、最多 128 核。意在挽回被 VCF 高价套餐吓跑的中小客户，业界仍怀疑信任难回。",
+   "links": [
+    "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/"
+   ],
+   "topic": "vmware-vsphere-express-smb-2026-11",
+   "firstSeen": "2026-11-05T18:54:43+08:00"
+  },
+  {
+   "id": "14305277fe",
+   "title": "小米人形机器人自称在汽车工厂连轴干满 8 小时分拣侧盖",
+   "summary": "小米放出 CyberOne 系人形机在汽车工厂中控侧盖分拣工位「自主、8 小时」延时视频，称能自检纠错并与产线协同；但未公布分拣量、成功率与人工介入次数，媒体提醒勿被「全自主」话术带偏，并注意到轮式底盘协作更实用。",
+   "links": [
+    "https://electrek.co/2026/11/04/xiaomi-humanoid-robot-8-hour-shift-ev-factory/",
+    "https://www.theverge.com/tech/1026488/watch-two-humanoid-robots-put-in-a-full-8-hour-shift-at-a-factory"
+   ],
+   "topic": "xiaomi-humanoid-8h-factory-shift-2026-11",
+   "firstSeen": "2026-11-05T18:54:43+08:00"
+  },
+  {
+   "id": "5f3050c226",
+   "title": "APT29 疑似用「投毒水源」打 iOS/Android：外交目标手机被零点击入侵",
+   "summary": "安全公司与 Ars 报道：与俄罗斯对外情报局关联的 APT29，通过被黑站点与仿冒页投放 DarkSword/AndroSnitch 等 n-day 利用链，零点击感染未及时更新的手机，窃 cookie、消息与 Wi‑Fi 密码，重点盯外交等高价值访客。",
+   "links": [
+    "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+    "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+    "https://www.sekoia.com/blog/poisoned-source-apt29-watering-holes-targets-mobile-devices-with-n-day-exploits"
+   ],
+   "topic": "apt29-ios-android-watering-hole-2026-11",
+   "firstSeen": "2026-11-05T18:54:43+08:00"
   }
  ],
- "lastChecked": "2026-11-05T18:39:15+08:00"
+ "lastChecked": "2026-11-05T18:54:43+08:00"
 }
