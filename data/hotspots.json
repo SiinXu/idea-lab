@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T22:04:23+08:00",
+ "lastUpdated": "2026-11-05T22:20:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33389,7 +33389,60 @@
    ],
    "topic": "zig-0-17-1-release-2026-11",
    "firstSeen": "2026-11-05T22:04:23+08:00"
+  },
+  {
+   "id": "755060f350",
+   "title": "Dropbox 拟收购 Tigris：把零出站费的 S3 兼容对象存储纳入 DBX Agent Cloud",
+   "summary": "Tigris 官方宣布 Dropbox 计划收购该公司；对客户承诺产品、S3 API、零 egress 定价与团队不变。双方称将先做独立对象存储，再加文件系统与内容处理，服务跨云跑算力的 AI 应用。",
+   "links": [
+    "https://www.tigrisdata.com/blog/dropbox-plans-acquire-tigris/",
+    "https://news.ycombinator.com/item?id=50379260"
+   ],
+   "topic": "dropbox-acquire-tigris-2026-11-05",
+   "firstSeen": "2026-11-05T22:20:05+08:00"
+  },
+  {
+   "id": "5ea6f104b1",
+   "title": "Box 接入 Nvidia Nemotron Embed：面向 Agent 的内容检索，宣称快 4 倍、少用约 90% token",
+   "summary": "Box 开发者大会推出 Box Content Retrieval，把 Nemotron 嵌入模型嵌进企业内容库，按权限返回相关片段而非整文档。Enterprise Advance 客户预计明年初可用；Nvidia 称查询约快 4 倍、错误少约 20%、token 少约 90%。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/"
+   ],
+   "topic": "box-nemotron-content-retrieval-2026-11-05",
+   "firstSeen": "2026-11-05T22:20:05+08:00"
+  },
+  {
+   "id": "30407ea4e6",
+   "title": "Vivaldi 8.3：重做广告与跟踪拦截，垂直标签可悬停展开 + 一键粘贴多链接开标签",
+   "summary": "独立浏览器 Vivaldi 发布桌面/移动 8.3：广告拦截分 Off/Light/Strong/Aggressive 并可按站点记忆；垂直标签栏支持悬停展开与钉住网格；新增 Paste and Go 批量开链与 Copy Sanitized Link 去追踪参数。",
+   "links": [
+    "https://vivaldi.com/blog/vivaldi-on-desktop-8-3/",
+    "https://news.ycombinator.com/item?id=50378398"
+   ],
+   "topic": "vivaldi-8-3-ad-blocker-2026-11-05",
+   "firstSeen": "2026-11-05T22:20:05+08:00"
+  },
+  {
+   "id": "2057bb4617",
+   "title": "「模型裁决的上下文修剪」提案：Agent 当轮把垃圾工具输出收成一行，已向 17 个编程 harness 提 issue",
+   "summary": "作者指出人会瞟一眼无关输出就移开目光，而模型每轮都会重读；建议只允许修剪本轮尾部工具结果，保留可见原文并兼容 prompt cache。同日向 Claude Code、Codex、Copilot CLI、OpenCode 等 17 个 harness 提交了 issue。",
+   "links": [
+    "https://gist.github.com/nicezic/69f13fde6fa080a571825b56fd76392d",
+    "https://news.ycombinator.com/item?id=50379180"
+   ],
+   "topic": "model-judged-context-pruning-17-harnesses-2026-11-05",
+   "firstSeen": "2026-11-05T22:20:05+08:00"
+  },
+  {
+   "id": "098ad9d67f",
+   "title": "RadianX 融资 500 万美元：钙钛矿室内光效约翻倍，想做「永不充电」的边缘设备电源模组",
+   "summary": "初创 RadianX 称其钙钛矿材料室外效率接近常规板、室内收光约翻倍，并配专用电源管理；种子轮由 SOSV、Twynam 领投，另有约 400 万美元非稀释产线投入，目标卖给电子书、IoT 与穿戴厂商整包供电方案。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/"
+   ],
+   "topic": "radianx-perovskite-edge-energy-seed-2026-11-05",
+   "firstSeen": "2026-11-05T22:20:05+08:00"
   }
  ],
- "lastChecked": "2026-11-05T22:04:23+08:00"
+ "lastChecked": "2026-11-05T22:20:05+08:00"
 }
