@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T08:59:23+08:00",
+ "lastUpdated": "2026-11-05T09:11:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31502,7 +31502,19 @@
    ],
    "topic": "xbox360-bad-update-part3",
    "firstSeen": "2026-11-05T08:59:23+08:00"
+  },
+  {
+   "id": "5c75a96d94",
+   "title": "Atmee v2 发布：1 张照片 + 10 秒音频生成可实时视频通话的 AI 角色，称比 Seedance 2.5 快 50 倍、便宜 10–100 倍",
+   "summary": "11 月 4 日，前 Phiar（2022 年被谷歌收购）创始人 Chen-Ping Yu 的新公司 Atmanity 发布实时数字人模型 Atmee v2，在 X 上引发热议。只需一张图和约 10 秒语音，就能生成会做表情、手势、能与环境互动的写实或卡通角色，支持浏览器里直接视频通话、纯语音对话和短视频生成；底层是单张 GPU 就能实时渲染的视频基础模型，配合负责性格、节奏和倾听反应的行为模型 Causeur。官方称生成角色视频比 Seedance 2.5、Wan 3.0 快最多 50 倍、便宜 10–100 倍。v2 目前邀请制开放，提供 API 和 MCP 服务器（可在 LiveKit 房间里渲染数字人，按分钟计费），官方列出的场景包括家教、销售陪练、客服、陪伴和游戏角色；也有人担心被用于诈骗。信号：实时视频智能体的单分钟成本在快速下降，「一个链接分享的视频数字人」可能成为家教、陪练、导览类小产品的新形态。",
+   "links": [
+    "https://runtimewire.com/article/chen-ping-yu-atmee-v2-real-time-avatar-model",
+    "https://www.atmee.ai/",
+    "https://x.com/i/trending/2118145172592898133"
+   ],
+   "topic": "atmee-v2-realtime-avatar",
+   "firstSeen": "2026-11-05T09:11:07+08:00"
   }
  ],
- "lastChecked": "2026-11-05T08:59:23+08:00"
+ "lastChecked": "2026-11-05T09:11:07+08:00"
 }
