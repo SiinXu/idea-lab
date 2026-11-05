@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T12:12:22+08:00",
+ "lastUpdated": "2026-11-05T12:13:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31764,7 +31764,17 @@
    ],
    "topic": "letagents-cross-machine-agents",
    "firstSeen": "2026-11-05T12:12:22+08:00"
+  },
+  {
+   "id": "cb1bd09be7",
+   "title": "Show HN：Magic Layers 把一张平面图拆成可编辑图层并导出 PSD",
+   "summary": "上传 PNG/JPEG，AI 拆出命名透明图层（可定 2–15 层）并导出分层 PSD；按返回图层计费。营销改图、电商重排、UI 原型可做成付费小工具。",
+   "links": [
+    "https://magiclayers.net/"
+   ],
+   "topic": "magic-layers-image-to-psd",
+   "firstSeen": "2026-11-05T12:13:01+08:00"
   }
  ],
- "lastChecked": "2026-11-05T12:12:22+08:00"
+ "lastChecked": "2026-11-05T12:13:01+08:00"
 }
