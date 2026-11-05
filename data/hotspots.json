@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T22:20:05+08:00",
+ "lastUpdated": "2026-11-05T22:29:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33442,7 +33442,71 @@
    ],
    "topic": "radianx-perovskite-edge-energy-seed-2026-11-05",
    "firstSeen": "2026-11-05T22:20:05+08:00"
+  },
+  {
+   "id": "423355d21b",
+   "title": "Snapchat 付费订阅突破 3000 万：Lens+ 靠 AI 玩法今年涨近 6 倍",
+   "summary": "Snap 官方宣布 Snapchat+、Lens+、Platinum 与 Memories 存储等订阅合计超 3000 万；Lens+ 自 2026 年 1 月起增长近 600%，主打 AI 写真、Imagine Lens 等生成式创作能力，说明消费侧 AI 订阅仍能靠玩法扩量。",
+   "links": [
+    "https://newsroom.snap.com/snapchat-subscription-offerings-surpass-30-million",
+    "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/"
+   ],
+   "topic": "snapchat-30m-paid-subscribers-2026-11",
+   "firstSeen": "2026-11-05T22:29:03+08:00"
+  },
+  {
+   "id": "80bb6329a3",
+   "title": "Tailscale CEO：未来几年会多出约 100 倍「程序员」，多数人不会写代码",
+   "summary": "Avery Pennarun 发文称 AI 会让约十亿人用自然语言做出小工具，真正卡点不再是写代码，而是 localhost、算力与网络；主张模型、沙箱、身份与网络应可替换，避免再造新一代云厂商锁定。",
+   "links": [
+    "https://tailscale.com/blog/100x-more-programmers",
+    "https://news.ycombinator.com/item?id=50379441"
+   ],
+   "topic": "tailscale-100x-more-programmers-2026-11-05",
+   "firstSeen": "2026-11-05T22:29:03+08:00"
+  },
+  {
+   "id": "4cd95ba687",
+   "title": "MCP Explained：单页互动图解 Model Context Protocol，冲上 HN",
+   "summary": "站点用可点选的消息流演示 MCP 客户端与服务器之间的 tools/list、tools/call 等握手；整站是单文件 HTML，方便改造成给非技术管理者看的入门材料。",
+   "links": [
+    "https://mcp-explained.com/",
+    "https://news.ycombinator.com/item?id=50379249"
+   ],
+   "topic": "mcp-explained-interactive-2026-11-05",
+   "firstSeen": "2026-11-05T22:29:03+08:00"
+  },
+  {
+   "id": "5ad75ea3c0",
+   "title": "Gradle 复盘「黑色十月」：找洞变便宜，构建链路才是补丁瓶颈",
+   "summary": "Gradle 安全团队梳理 PHP2Shell、Brotli/Node2Shell、eMudhra 证书与 LiteLLM 供应链等连环披露，指出 JVM 自带 trust store 不会跟 OS 一起修；官方建议立刻核验 JDK blocked.certs、打开 dependency verification/locking，并清点 brotli4j 等原生依赖。",
+   "links": [
+    "https://blog.gradle.org/lets-talk-about-black-october"
+   ],
+   "topic": "gradle-black-october-build-supply-chain-2026-11",
+   "firstSeen": "2026-11-05T22:29:03+08:00"
+  },
+  {
+   "id": "6ef2f651ce",
+   "title": "Dharma Field Extractor：20 亿参数「任意文档→结构化 JSON」，自报打赢前沿大模型",
+   "summary": "Dharma-AI 在 OCR 小模型上再训字段抽取：可开放抽取或按 JSON Schema 填表，1638 例基准 F1 约 0.834，自称高于 Claude Opus 5 等配置，单卡 L40S 自托管成本约为对比 API 的 1/6 到 1/147。",
+   "links": [
+    "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+   ],
+   "topic": "dharma-field-extractor-2b-doc-json-2026-11",
+   "firstSeen": "2026-11-05T22:29:03+08:00"
+  },
+  {
+   "id": "41878671c3",
+   "title": "Starlink 上下行信道配对：业余无线电以约 8 万跳/秒实测证实",
+   "summary": "研究者用 AD9361 对 Starlink 用户链路做高速跳频测量，确认上下行信道配对关系；给卫星互联网逆向与频谱研究提供可复现的开源记录。",
+   "links": [
+    "https://sdr-x.github.io/starlink-ul-dl-pair-80k-hop-ad9361/",
+    "https://news.ycombinator.com/item?id=50379341"
+   ],
+   "topic": "starlink-ul-dl-channel-pairing-80k-hop-2026-11",
+   "firstSeen": "2026-11-05T22:29:03+08:00"
   }
  ],
- "lastChecked": "2026-11-05T22:20:05+08:00"
+ "lastChecked": "2026-11-05T22:29:03+08:00"
 }
