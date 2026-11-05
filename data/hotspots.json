@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T19:41:22+08:00",
+ "lastUpdated": "2026-11-05T19:42:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33069,7 +33069,17 @@
    ],
    "topic": "google-skills-github-trending-2026-11-05",
    "firstSeen": "2026-11-05T19:41:22+08:00"
+  },
+  {
+   "id": "1ceb56a3b3",
+   "title": "Vercel Labs 开源 agent-browser：专为 AI 智能体设计的浏览器自动化 CLI",
+   "summary": "vercel-labs/agent-browser 现约 4.5 万星并登上 GitHub 日榜，提供面向编码/操作智能体的浏览器自动化命令行；与同团队 agent-desktop（系统无障碍树操控桌面）互补，适合 Agent 真实网页点击与抓取。",
+   "links": [
+    "https://github.com/vercel-labs/agent-browser"
+   ],
+   "topic": "vercel-labs-agent-browser-trending-2026-11-05",
+   "firstSeen": "2026-11-05T19:42:00+08:00"
   }
  ],
- "lastChecked": "2026-11-05T19:41:22+08:00"
+ "lastChecked": "2026-11-05T19:42:00+08:00"
 }
