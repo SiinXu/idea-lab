@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T13:27:29+08:00",
+ "lastUpdated": "2026-11-05T13:41:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31939,7 +31939,39 @@
    ],
    "topic": "jarred-sumner-dependencies-are-over",
    "firstSeen": "2026-11-05T13:27:29+08:00"
+  },
+  {
+   "id": "18a3a9b0af",
+   "title": "Cat Wu 加盟 OpenAI：离开 Anthropic 后出任核心产品产品管理负责人",
+   "summary": "Business Insider 证实：原 Claude Code 产品负责人 Cat Wu 已加入 OpenAI，与 Nick Turley、Ashley Alexander 协作、向 Tibo Sottiaux 汇报；OpenAI 确认、Anthropic 拒评。她上周刚宣布离职，正值 Anthropic IPO 前夕，对 Codex 与 Claude Code 的产品竞争有直接影响。",
+   "links": [
+    "https://www.businessinsider.com/cat-wu-joins-openai-from-anthropic-product-lead-coup-2026-11",
+    "https://x.com/i/trending/2117579420454248497"
+   ],
+   "topic": "cat-wu-joins-openai-core-products",
+   "firstSeen": "2026-11-05T13:41:56+08:00"
+  },
+  {
+   "id": "5c02db61f2",
+   "title": "Nebius 上线实时 GPU Spot 价格页：可按型号/地区看市价与趋势，并提供 API",
+   "summary": "Nebius 推出 Live Spot Preemptible VM 价格看板，按 GPU 平台与区域展示市场驱动报价与近期走势，并开放 API 取价，方便决定何时何地跑抢占式算力。适合做「算力比价/择时调度」类 Idea Lab 点子。",
+   "links": [
+    "https://nebius.com/spot-prices",
+    "https://news.ycombinator.com/item?id=50375404"
+   ],
+   "topic": "nebius-live-gpu-spot-prices",
+   "firstSeen": "2026-11-05T13:41:56+08:00"
+  },
+  {
+   "id": "d8735dfd5e",
+   "title": "前 Anthropic 员工 Ivan Vendrov 写《早期回忆》：2022–2023 年招工、压力与离职的一线侧写",
+   "summary": "Ivan Vendrov 公开回忆自己在 Anthropic 早期约八个月的经历：招聘话术、捐赠股权倡议、部署策略分歧、加班与不安全感，以及最终离职。文章偏个人叙事、不代表公司全貌，但在 HN 上重新被讨论，补充了实验室内部文化的稀缺一手材料。",
+   "links": [
+    "https://nothinghuman.substack.com/p/some-memories-of-early-anthropic"
+   ],
+   "topic": "early-anthropic-memories-vendrov",
+   "firstSeen": "2026-11-05T13:41:56+08:00"
   }
  ],
- "lastChecked": "2026-11-05T13:27:29+08:00"
+ "lastChecked": "2026-11-05T13:41:56+08:00"
 }
