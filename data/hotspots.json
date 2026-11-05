@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T04:10:54+08:00",
+ "lastUpdated": "2026-11-06T04:28:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34878,7 +34878,29 @@
    ],
    "topic": "windows-paint-rce-cve-2026-83844",
    "firstSeen": "2026-11-06T04:10:54+08:00"
+  },
+  {
+   "id": "bbd82e7195",
+   "title": "蚂蚁 Ling-3.2-flash 上线：560B MoE 多模态，主打图转站与长程 Agent",
+   "summary": "官方 Changelog 显示 11 月 5 日发布 Ling-3.2-flash：总参 560B、激活 25B、1M 上下文，原生图文视频输入，强调复杂视觉理解、多模态长程 Agent、3D 交互与医疗多模态；兼容 OpenAI/Anthropic API，上线后两周免费。X 上实测图转网站、DesignArena 排名讨论升温。",
+   "links": [
+    "https://developer.ant-ling.com/en/docs/getting-started/changelog/",
+    "https://x.com/i/trending/2118437885443502131"
+   ],
+   "topic": "ant-ling-3-2-flash-2026-11-05",
+   "firstSeen": "2026-11-06T04:28:28+08:00"
+  },
+  {
+   "id": "551c2101be",
+   "title": "Kagi 开放免登录试用：任何人可直接搜，首 50 次无需账号",
+   "summary": "Kagi 11 月 5 日 Changelog：任何人访问 kagi.com 即可搜索，免账号 50 次（注册再加 100）。顺带借 Google 明年关掉学校账号默认 AI/搜索一事，呼吁教育场景改用替代搜索；HN 已有讨论。",
+   "links": [
+    "https://kagi.com/changelog",
+    "https://news.ycombinator.com/item?id=50383740"
+   ],
+   "topic": "kagi-search-for-everyone-2026-11-05",
+   "firstSeen": "2026-11-06T04:28:28+08:00"
   }
  ],
- "lastChecked": "2026-11-06T04:10:54+08:00"
+ "lastChecked": "2026-11-06T04:28:28+08:00"
 }
