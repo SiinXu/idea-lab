@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T07:48:22+08:00",
+ "lastUpdated": "2026-11-06T07:55:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35506,7 +35506,70 @@
    ],
    "topic": "aws-bedrock-agentcore-web-answer-ga-2026-11-05",
    "firstSeen": "2026-11-06T07:48:22+08:00"
+  },
+  {
+   "id": "3f64c76f05",
+   "title": "OpenSpec 冲上 GitHub 日榜：给 AI 编程助手的规格驱动开发框架",
+   "summary": "Fission-AI/OpenSpec 已约 7.4 万星，面向 Claude Code、Cursor、Codex 等 30+ 助手：用 propose→archive 工作流把变更写成可迭代规格，强调棕地项目与个人到企业的同一套流程，今日仍在日榜上涨。",
+   "links": [
+    "https://github.com/Fission-AI/OpenSpec"
+   ],
+   "topic": "openspec-sdd-github-trending-2026-11-05",
+   "firstSeen": "2026-11-06T07:55:44+08:00"
+  },
+  {
+   "id": "a21a77fb37",
+   "title": "Figma Console MCP 日增约 240 星：把设计系统当 API 交给 Agent",
+   "summary": "southleft/figma-console-mcp 让 AI 连接 Figma 做设计系统抽取、创建与调试；本地模式可写，远端只读。今日 GitHub 日榜热度高，适合做「设计令牌 / 组件库 → 代码」的 Agent 工具链。",
+   "links": [
+    "https://github.com/southleft/figma-console-mcp"
+   ],
+   "topic": "figma-console-mcp-github-trending-2026-11-05",
+   "firstSeen": "2026-11-06T07:55:44+08:00"
+  },
+  {
+   "id": "8d1ba7d5d9",
+   "title": "ds-harness-remote：用 P2P 远程操控本机 DeepSeek Harness / Codex / Cursor / Claude Code",
+   "summary": "基于 DeepSeek Harness 插件的端到端加密低延迟远程方案，手机、Web、PC 都能进本地工作区；今日仍在 GitHub 日榜攀升，补的是「人离开电脑后如何盯 Agent」这一环。",
+   "links": [
+    "https://github.com/liguobao/ds-harness-remote"
+   ],
+   "topic": "ds-harness-remote-github-trending-2026-11-05",
+   "firstSeen": "2026-11-06T07:55:44+08:00"
+  },
+  {
+   "id": "b4f785a329",
+   "title": "谷歌开源 XLA Serving Engine：Python 训练、C++ 推理，短请求吞吐约 2–5×",
+   "summary": "OpenXLA 生态下的通用导出与推理运行时（Apache 2.0），用 XLA SavedModel + StableHLO/Orbax 去掉 Python 解释器开销；谷歌称内部已支撑约 600 万 QPS，覆盖 Shorts、Ads、Search 与部分 Gemini Omni。适合非自回归大模型的高吞吐在线推理，LLM 仍建议 vLLM/SGLang。",
+   "links": [
+    "https://opensource.googleblog.com/2026/11/supercharging-xla-inference-xla-serving-engine.html",
+    "https://github.com/openxla/xla-serving"
+   ],
+   "topic": "google-xla-serving-engine-2026-11-05",
+   "firstSeen": "2026-11-06T07:55:44+08:00"
+  },
+  {
+   "id": "1c2aa2bfc1",
+   "title": "Check Point：公网仍有 1608 台 ARTEX 自动驾驶黑客面板在线",
+   "summary": "CPR 解析运营端控制台：多数攻击设目标后几乎全自动，DeepSeek Flash 系最常用；观察到证书库窃取、加密支付站渗透与游戏号盗号等机会主义犯罪，并有供应链投毒尝试。原先开源项目已闭源，但分叉与备份仍在被滥用。",
+   "links": [
+    "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
+    "https://blog.checkpoint.com/research/inside-artex-how-autonomous-ai-agents-are-being-used-in-real-world-cyberattacks/"
+   ],
+   "topic": "checkpoint-artex-1608-live-panels-2026-11-05",
+   "firstSeen": "2026-11-06T07:55:44+08:00"
+  },
+  {
+   "id": "faf63e0009",
+   "title": "Chime 对外开放：用户可授权外部 AI Agent 操作账户",
+   "summary": "美国数字银行 Chime 在财报沟通中表示将为会员接入自选通用 AI Agent，由用户控制哪些 Agent 能访问、能否转账/付账单/管投资，并与自有理财 Agent Jade 并存——与多数大行封锁客户侧 Agent 的路线相反。",
+   "links": [
+    "https://www.americanbanker.com/payments/news/chime-puts-out-the-welcome-mat-for-external-ai-agents",
+    "https://stockanalysis.com/stocks/chym/transcripts/725409-q3-2026/"
+   ],
+   "topic": "chime-external-ai-agents-2026-11-05",
+   "firstSeen": "2026-11-06T07:55:44+08:00"
   }
  ],
- "lastChecked": "2026-11-06T07:48:22+08:00"
+ "lastChecked": "2026-11-06T07:55:44+08:00"
 }
