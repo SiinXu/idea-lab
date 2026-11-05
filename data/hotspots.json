@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T14:32:56+08:00",
+ "lastUpdated": "2026-11-05T14:44:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32084,7 +32084,73 @@
    ],
    "topic": "cert-in-crafty-falcon-ai-bfsi-crypto",
    "firstSeen": "2026-11-05T14:32:56+08:00"
+  },
+  {
+   "id": "d6936a285c",
+   "title": "Google Play 要求全球开发者申报「交易者」身份：个人卖家电话与地址将公开展示",
+   "summary": "Play Console 要求无论面向哪国市场，都须在 2027-02-01 前申报是否为 EEA/英国法下的 trader；个人交易者须验证并公开电话，地址也会展示，逾期可能无法更新且全球下架。开发者社区在 HN 热议隐私风险。",
+   "links": [
+    "https://support.google.com/googleplay/android-developer/answer/17594752",
+    "https://news.ycombinator.com/item?id=50375898"
+   ],
+   "topic": "google-play-trader-status-public-contact-2027",
+   "firstSeen": "2026-11-05T14:44:50+08:00"
+  },
+  {
+   "id": "9f7788b7d5",
+   "title": "Arthur Hayes《D is for Dilution》：AI 巨头 IPO 解禁稀释或抽干流动性、短期压制比特币",
+   "summary": "BitMEX 联合创始人撰文称 SpaceX、Anthropic、OpenAI 等大规模内部股解禁可能压低股价、收紧信贷与美元流动性，近端不利风险资产；其基金 Maelstrom 暂观望，并预期央行稍后放水或再利好比特币。",
+   "links": [
+    "https://cryptohayes.substack.com/p/d-is-for-dilution",
+    "https://x.com/i/trending/2118229632445239671"
+   ],
+   "topic": "arthur-hayes-ai-ipo-dilution-bitcoin",
+   "firstSeen": "2026-11-05T14:44:50+08:00"
+  },
+  {
+   "id": "876e7025de",
+   "title": "观察笔记：昆虫几乎不围着 LED 灯飞，挑战「灯光吸引飞虫」常识",
+   "summary": "鸟类观察博客对照实验称 LED 光源几乎不聚集昆虫，与传统灯具反差明显；登上 HN 首页并引发对光污染与户外照明选型的讨论。",
+   "links": [
+    "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+    "https://news.ycombinator.com/item?id=50370610"
+   ],
+   "topic": "insects-dont-swarm-led-lights",
+   "firstSeen": "2026-11-05T14:44:50+08:00"
+  },
+  {
+   "id": "a0c225aed9",
+   "title": "网友用纯 CSS 复刻 Lemmings 动画，登上 HN 首页",
+   "summary": "无需 Canvas/WebGL，纯 CSS 动画重现经典 Lemmings 角色与关卡动作，作品短小精悍，适合当前端演示与教学素材。",
+   "links": [
+    "https://markblah.github.io/lemmings/",
+    "https://news.ycombinator.com/item?id=50375354"
+   ],
+   "topic": "lemmings-css-animation-hn",
+   "firstSeen": "2026-11-05T14:44:50+08:00"
+  },
+  {
+   "id": "61eb375f44",
+   "title": "截图显示 Google Cloud 配额页出现 gpt-6.2-astra / gpt-6.2-sol，呼应周五发布传闻",
+   "summary": "继 The Information 称 OpenAI 或于本周五推出新一代 Astra、Sol 及网络安全向模型后，开发者截图称 Google Cloud Console 配额页短暂出现 base_model:gpt-6.2-astra 与 gpt-6.2-sol；OpenAI 文档尚未正式上架。",
+   "links": [
+    "https://x.com/i/trending/2118221194214437172",
+    "https://teamorouter.com/blogs/gpt-6-2-sol"
+   ],
+   "topic": "openai-gpt-6-2-astra-sol-gcp-quotas",
+   "firstSeen": "2026-11-05T14:44:50+08:00"
+  },
+  {
+   "id": "645da223a8",
+   "title": "开发者发现 ISP 在劫持自家 DNS：解析被悄然改写",
+   "summary": "博主排查网络异常后确认运营商篡改 DNS 响应；帖文登上 HN，提醒自建解析、DoH/DoT 与路由器固件审计的重要性。",
+   "links": [
+    "https://www.karthihegde.dev/posts/dns_tampering",
+    "https://news.ycombinator.com/item?id=50364860"
+   ],
+   "topic": "isp-dns-tampering-hijack",
+   "firstSeen": "2026-11-05T14:44:50+08:00"
   }
  ],
- "lastChecked": "2026-11-05T14:32:56+08:00"
+ "lastChecked": "2026-11-05T14:44:50+08:00"
 }
