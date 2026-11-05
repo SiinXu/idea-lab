@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T08:09:33+08:00",
+ "lastUpdated": "2026-11-05T08:27:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31469,7 +31469,18 @@
    ],
    "topic": "github-spec-kit-v1-3-0",
    "firstSeen": "2026-11-05T08:09:33+08:00"
+  },
+  {
+   "id": "f3d4b0c6aa",
+   "title": "开源 AI 代码审查工具 PR-Agent 登上 GitHub 日榜：自托管审 PR、写描述、给修改建议，v0.49 默认模型升级并收紧安全配置",
+   "summary": "The-PR-Agent/pr-agent 今天在 GitHub Trending 日榜单日新增约 280 星，总星数约 1.47 万，MIT 协议。它自称「最早的开源 PR 审查器」（并强调不是 Qodo 的免费版），可部署在 GitHub、GitLab、Bitbucket、Azure DevOps、Gitea 等平台，用大模型自动审查 PR、生成描述、提出改进和回答提问。10 月 25 日的 v0.49.0 把默认模型换成 gpt-6.1-sol（gpt-6-luna 兜底），GitHub 轮询改为必须配置仓库白名单，并把 extra_headers 等敏感设置限定为只能由宿主配置；10 月 16 日的 v0.48.0 把各平台 SDK 拆成按需安装的可选依赖。信号：AI 写代码越多，审查环节越成瓶颈，自托管、可控成本的 AI Code Review 正在被团队采用，围绕它的规则模板、行业审查清单和私有化部署服务有付费空间。",
+   "links": [
+    "https://github.com/The-PR-Agent/pr-agent",
+    "https://github.com/The-PR-Agent/pr-agent/releases/tag/v0.49.0"
+   ],
+   "topic": "pr-agent-github-trending-v0-49",
+   "firstSeen": "2026-11-05T08:27:38+08:00"
   }
  ],
- "lastChecked": "2026-11-05T08:09:33+08:00"
+ "lastChecked": "2026-11-05T08:27:38+08:00"
 }
