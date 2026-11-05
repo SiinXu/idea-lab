@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T23:40:22+08:00",
+ "lastUpdated": "2026-11-06T00:03:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33782,7 +33782,80 @@
    ],
    "topic": "nullprogram-better-than-line-buffered-2026-11-05",
    "firstSeen": "2026-11-05T23:40:22+08:00"
+  },
+  {
+   "id": "70218addf4",
+   "title": "蓝牙 Core 7.0 可选 HDT：LE 最高约 7.5 Mbps，为无损/高解析音频铺路",
+   "summary": "Bluetooth SIG 正式采纳 High Data Throughput，把 LE 最大比特率从约 2 Mbps 提到约 7.5 Mbps；首批旗舰场景瞄准标准化高解析/无损无线音频，消费级产品预计 2027 年前后出现，现有设备不会自动升级。",
+   "links": [
+    "https://www.bluetooth.com/blog/bluetooth-high-data-throughput-will-power-the-next-generation-of-wireless-experiences/",
+    "https://www.theverge.com/tech/1026308/bluetooth-le-sig-high-data-throughput-hdt"
+   ],
+   "topic": "bluetooth-hdt-core-7-0-2026-11",
+   "firstSeen": "2026-11-06T00:03:23+08:00"
+  },
+  {
+   "id": "c0298e22e9",
+   "title": "Zipline 估值 215 亿美元：再融 15 亿，与沃尔玛扩至约 300 个无人机配送点",
+   "summary": "无人机物流公司 Zipline 完成约 15 亿美元融资、估值约 215 亿美元，并与沃尔玛达成多年协议，计划把美国合作配送点从约 21 个扩到约 300 个，资金用于扩产与全国网络。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/"
+   ],
+   "topic": "zipline-21-5b-walmart-300-sites-2026-11-05",
+   "firstSeen": "2026-11-06T00:03:23+08:00"
+  },
+  {
+   "id": "eb8dbf293d",
+   "title": "TikTok 在东南亚悄然上线独立 TikTok Shop App",
+   "summary": "TikTok Shop 独立应用已在新加坡、马来西亚、泰国、菲律宾上架，主打个性化推荐、直播/短视频购物、应用专属优惠与站内结账，意在走出主 App、正面抢电商流量；是否进美国尚未公布。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/"
+   ],
+   "topic": "tiktok-shop-standalone-app-sea-2026-11-05",
+   "firstSeen": "2026-11-06T00:03:23+08:00"
+  },
+  {
+   "id": "1184d3a025",
+   "title": "Mistral Studio 加码企业 Agent：托管智能体、工作流与应用一站部署",
+   "summary": "配合 Large 4（Le Chonk），Studio 新增托管 agents、可审批工作流与企业应用托管，支持云/VPC/本地；可通过 MCP 与本地编码 Agent 联调后一键部署，强调可观测、评测与数据主权。",
+   "links": [
+    "https://mistral.ai/news/build-with-studio/"
+   ],
+   "topic": "mistral-studio-managed-agents-2026-11-05",
+   "firstSeen": "2026-11-06T00:03:23+08:00"
+  },
+  {
+   "id": "c90eac00ad",
+   "title": "Moonshot 据报洽谈在欧洲租用 8000+ 块 Nvidia Blackwell",
+   "summary": "CNBC：Kimi 背后的 Moonshot 今年与欧洲新云商谈远程租用大规模 Blackwell 集群（含 8000+ GPU 量级），主要面向推理、也可能用于训练；对方据称要求比非中国客户高约 30%–50% 预付款以对冲政策风险。",
+   "links": [
+    "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
+    "https://x.com/i/trending/2118344901230547360"
+   ],
+   "topic": "moonshot-blackwell-europe-rental-2026-11-05",
+   "firstSeen": "2026-11-06T00:03:23+08:00"
+  },
+  {
+   "id": "e339e45752",
+   "title": "约 60 万颗 Nvidia H200 积压香港：内地大规模进口审批仍未放行",
+   "summary": "多方报道称约 60 万颗 H200 暂存香港等待运往内地；北京仅允许少数互联网大厂小批量（约各 1 万颗量级）进口，大规模放行仍未批准，折射对美系算力依赖的顾虑与需求并存。",
+   "links": [
+    "https://www.businesstimes.com.sg/companies-markets/nvidia-chips-pile-hong-kong-china-withholds-import-approval",
+    "https://news.ycombinator.com/item?id=50380752"
+   ],
+   "topic": "nvidia-h200-hong-kong-stockpile-2026-11-05",
+   "firstSeen": "2026-11-06T00:03:23+08:00"
+  },
+  {
+   "id": "05596a99e0",
+   "title": "Bluesky 中期选举夜创 2026 年用量峰值：帖子与点赞近翻倍",
+   "summary": "美国中期选举夜 Bluesky 日帖与点赞较近 30 日均值约升 30%/70%，开源统计约 4480 万赞、480 万帖；CEO 称老用户回流与新用户涌入，流量峰值约达平常 3 倍。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/"
+   ],
+   "topic": "bluesky-election-night-peak-2026-11-05",
+   "firstSeen": "2026-11-06T00:03:23+08:00"
   }
  ],
- "lastChecked": "2026-11-05T23:40:22+08:00"
+ "lastChecked": "2026-11-06T00:03:23+08:00"
 }
