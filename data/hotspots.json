@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T18:31:21+08:00",
+ "lastUpdated": "2026-11-05T18:39:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32813,7 +32813,63 @@
    ],
    "topic": "gemini-omni-1-2-flash-leak-2026-11-05",
    "firstSeen": "2026-11-05T18:31:21+08:00"
+  },
+  {
+   "id": "84a771cab1",
+   "title": "Buoyant 开源 Kinference：面向 vLLM 的推理控制平面",
+   "summary": "Linkerd 团队发布开源 Kinference：在 Kubernetes 上为 vLLM 提供 KV 感知负载均衡、租户用量与策略路由，基准称共享前缀场景 TTFT 中位数可降约 95%、有效吞吐最高约 7.4 倍。",
+   "links": [
+    "https://vllm.ai/blog/2026-11-04-introducing-kinference",
+    "https://news.ycombinator.com/item?id=50377448"
+   ],
+   "topic": "kinference-vllm-control-plane-2026-11",
+   "firstSeen": "2026-11-05T18:39:15+08:00"
+  },
+  {
+   "id": "caf549559c",
+   "title": "KVGuard：给 LLM 推理系统的 KV Cache 做内存安全检查",
+   "summary": "首尔大学团队提出 KVGuard，为 PagedAttention 的 KV 块建影子元数据，覆盖 vLLM/SGLang 历史 29 个真实 bug 并新发现 8 个；相对 NVIDIA Compute Sanitizer 开销低两个数量级。",
+   "links": [
+    "https://arxiv.org/abs/2611.06138",
+    "https://news.ycombinator.com/item?id=50377456"
+   ],
+   "topic": "kvguard-kv-cache-safety-checker-2026-11",
+   "firstSeen": "2026-11-05T18:39:15+08:00"
+  },
+  {
+   "id": "b6ab325b92",
+   "title": "Agent Delegability Index：全球约 35% 工时可部分交给 AI 代理",
+   "summary": "Balam Labs 给 18796 条职业任务打可委托等级：全球就业加权后约 35.2% 工时可至少部分交给 AI 代理，仅 2.5% 可全权委托；高收入国家约 48.7%，并与 Anthropic 经济指数使用率相关。",
+   "links": [
+    "https://balamlabs.org/adi",
+    "https://news.ycombinator.com/item?id=50377511"
+   ],
+   "topic": "agent-delegability-index-balam-2026-11",
+   "firstSeen": "2026-11-05T18:39:15+08:00"
+  },
+  {
+   "id": "5c99f019a4",
+   "title": "Laravel 复盘 PHP/Node 紧急漏洞：云端就地打补丁、Forge 翻车",
+   "summary": "Laravel 公开 PHP2Shell 与 Node Brotli 漏洞响应：Cloud 用 operator 向运行中的工作负载注入补丁约 5 小时全覆盖；Forge 误报恢复导致约 4800 次部署被取消，并总结 AI 缩短了漏洞公开到利用的窗口。",
+   "links": [
+    "https://laravel.com/blog/php-nodejs-vulnerabilities-post-mortem",
+    "https://news.ycombinator.com/item?id=50377530"
+   ],
+   "topic": "laravel-php-nodejs-vuln-postmortem-2026-11",
+   "firstSeen": "2026-11-05T18:39:15+08:00"
+  },
+  {
+   "id": "3446336b30",
+   "title": "苹果下调员工 AI 日限额：工程师从约 300 美元砍到 200 美元",
+   "summary": "Bloomberg 称新任 CEO John Ternus 推动降本：工程师每日 AI token 上限从约 300 美元降到 200 美元，部分团队或再压到 100/25 美元，覆盖 Claude、ChatGPT、Gemini 等，可向高管申请豁免。",
+   "links": [
+    "https://www.theverge.com/tech/1026771/apple-is-reportedly-lowering-ai-usage-budgets",
+    "https://9to5mac.com/2026/11/04/report-apple-reduces-employees-ai-token-allowances-as-ternus-moves-to-cut-costs/",
+    "https://x.com/i/trending/2118080200462180795"
+   ],
+   "topic": "apple-employee-ai-spend-caps-ternus-2026-11",
+   "firstSeen": "2026-11-05T18:39:15+08:00"
   }
  ],
- "lastChecked": "2026-11-05T18:31:21+08:00"
+ "lastChecked": "2026-11-05T18:39:15+08:00"
 }
