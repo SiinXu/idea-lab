@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T07:55:52+08:00",
+ "lastUpdated": "2026-11-05T08:09:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31458,7 +31458,18 @@
    ],
    "topic": "openai-948-linux-lpe-pipeline",
    "firstSeen": "2026-11-05T07:55:52+08:00"
+  },
+  {
+   "id": "4d766eb799",
+   "title": "GitHub 官方规格驱动开发工具包 Spec Kit 发布 v1.3.0，重回 GitHub 日榜单日涨约 800 星",
+   "summary": "github/spec-kit 今天在 GitHub Trending 日榜单日新增约 808 星，总星数约 14.7 万，MIT 协议。它把「先写规格、再让 AI 按规格生成计划、任务和代码」（SDD，规格驱动开发）做成一行命令的 `specify` CLI，可接入多种编程智能体。11 月 3 日的 v1.3.0 移除了核心的 /speckit.taskstoissues 命令，改由 github 扩展把任务转成 Issue，并整理了预设和扩展文档；前一天的 v1.2.6 新增了按次运行的工作流定义。信号：vibe coding 之后，「规格 + 任务拆解 + 智能体执行」的工程化流程正在成为主流，围绕 SDD 的行业模板包、规格审查服务和团队规范预设有机会做成付费资产。",
+   "links": [
+    "https://github.com/github/spec-kit",
+    "https://github.com/github/spec-kit/releases/tag/v1.3.0"
+   ],
+   "topic": "github-spec-kit-v1-3-0",
+   "firstSeen": "2026-11-05T08:09:33+08:00"
   }
  ],
- "lastChecked": "2026-11-05T07:55:52+08:00"
+ "lastChecked": "2026-11-05T08:09:33+08:00"
 }
