@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T08:27:38+08:00",
+ "lastUpdated": "2026-11-05T08:42:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31480,7 +31480,18 @@
    ],
    "topic": "pr-agent-github-trending-v0-49",
    "firstSeen": "2026-11-05T08:27:38+08:00"
+  },
+  {
+   "id": "26788261ab",
+   "title": "Chrome 即将移除 XSLT：开发者博文《XSLT 之死》上 HN，称 11 月 17 日起 XSLT 网站将无法正常显示",
+   "summary": "英国前端开发者 David Bushell 11 月 3 日发文《Death Comes for XSLT》，登上 Hacker News 首页。他指出 Google 去年万圣节决定从浏览器移除 XSLT，其他浏览器厂商随后跟进；按他的说法，2026 年 11 月 17 日似乎就是 Chrome 正式停用的日子。部分 Chromium 系浏览器已在使用 XSLT 的网页上插入警告横幅，提示「该功能即将移除、页面可能无法正常显示，可安装扩展或联系站长」。作者用 XSLT 搭建的抗议站 XSLT.RIP 也会因此失效，他批评 Google 违背了「不破坏网页」的向后兼容原则。信号：仍依赖 XSLT 渲染的 RSS/Atom 订阅页、站点地图样式表和老旧政企系统将在短期内集中出问题，迁移脚本、XSLT 转 HTML 的工具与浏览器扩展、以及一次性迁移服务会有即时需求。",
+   "links": [
+    "https://dbushell.com/2026/11/03/xslt-rip/",
+    "https://news.ycombinator.com/item?id=50371408"
+   ],
+   "topic": "chrome-xslt-removal-nov-17",
+   "firstSeen": "2026-11-05T08:42:23+08:00"
   }
  ],
- "lastChecked": "2026-11-05T08:27:38+08:00"
+ "lastChecked": "2026-11-05T08:42:23+08:00"
 }
