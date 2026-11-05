@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T06:56:09+08:00",
+ "lastUpdated": "2026-11-06T07:13:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35395,7 +35395,40 @@
    ],
    "topic": "nvidia-cosmos-3-nano-open-simulation-2026-11-05",
    "firstSeen": "2026-11-06T06:56:09+08:00"
+  },
+  {
+   "id": "45389415db",
+   "title": "Glasshand：给 Agent 租真机 iPhone / Mac，不是模拟器",
+   "summary": "Codapt 的 Glasshand 在机房托管真机，Agent 经 API 看屏点按；iPhone 60 美元/月、Mac 90 美元/月，可装 App Store、开 eSIM 收验证码，用完出厂重置。兼容 Claude Code / Codex / Cursor，Product Hunt 与 X 上刚起量。",
+   "links": [
+    "https://glasshand.com/",
+    "https://glasshand.com/pricing",
+    "https://www.producthunt.com/products/glasshand",
+    "https://x.com/i/trending/2118478224711905460"
+   ],
+   "topic": "glasshand-real-iphone-mac-agents-2026-11-05",
+   "firstSeen": "2026-11-06T07:13:51+08:00"
+  },
+  {
+   "id": "13e4297a45",
+   "title": "Dropbox 工程师副业合体：站内 Agent 能改文件夹且可回滚",
+   "summary": "两位工程师各自实验（3D 建模沙箱 + 桌面报销 Agent）合并成新产品体验：Agent 在数据中心 Ubuntu 沙箱连 Dropbox 文件，权限在沙箱外校验，按对话归因版本、可一键撤销。面向整理文件夹、重命名、准备分享材料等真实操作。",
+   "links": [
+    "https://dropbox.tech/machine-learning/how-two-engineer-side-projects-became-the-agent-taking-action-inside-dropbox"
+   ],
+   "topic": "dropbox-engineer-side-projects-inproduct-agent-2026-11-05",
+   "firstSeen": "2026-11-06T07:13:51+08:00"
+  },
+  {
+   "id": "ff28d2fe00",
+   "title": "EDB 收购 Altinity：Postgres + ClickHouse 押注主权 AI 数据层",
+   "summary": "EnterpriseDB 收购 ClickHouse 企业服务商 Altinity，把交易型 Postgres 与实时分析合进 PG AI，宣称服务 agentic 工作流、降碎片化架构成本；计划 2026 Q4 推出集成企业 ClickHouse，部署含 BYOC / 自托管 / 气隙边缘。",
+   "links": [
+    "https://www.enterprisedb.com/press-releases/edb-acquires-altinity-bring-together-two-leading-open-source-databases-advancing-its"
+   ],
+   "topic": "edb-acquires-altinity-clickhouse-pg-ai-2026-11-05",
+   "firstSeen": "2026-11-06T07:13:51+08:00"
   }
  ],
- "lastChecked": "2026-11-06T06:56:09+08:00"
+ "lastChecked": "2026-11-06T07:13:51+08:00"
 }
