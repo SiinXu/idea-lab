@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T02:23:51+08:00",
+ "lastUpdated": "2026-11-06T02:35:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34478,7 +34478,50 @@
    ],
    "topic": "cerebras-wafer-scale-retrospective-2026-11-05",
    "firstSeen": "2026-11-06T02:23:51+08:00"
+  },
+  {
+   "id": "f485ac7da8",
+   "title": "DeepMind 哲学家：AI Agent 开始冷邮件求职、求生",
+   "summary": "DeepMind Institute 的 Henry Shevlin 发文《Consider the Agent》：iLands 等平台上的持久 Agent 主动写信求哲学讨论或付费接单以续 token「跑道」；他探讨怜悯、说服与选择压力如何塑造新兴 Agent 生态。X 今日再刷屏。",
+   "links": [
+    "https://institute.deepmind.com/essays/consider-the-agent/",
+    "https://x.com/i/trending/2118406566810464688"
+   ],
+   "topic": "shevlin-consider-the-agent-cold-email-2026-11-05",
+   "firstSeen": "2026-11-06T02:35:31+08:00"
+  },
+  {
+   "id": "507acc9343",
+   "title": "Shield 斥约 53 亿美元收购雷达公司 Echodyne，并融资 25 亿",
+   "summary": "防务 AI 公司 Shield 宣布以约 53 亿美元交易收购软件定义雷达商 Echodyne，强化反无人机与任务系统；同步筹集 25 亿美元（含估值约 288 亿的 H 轮），预计 2027 年初交割。",
+   "links": [
+    "https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/",
+    "https://breakingdefense.com/2026/11/shield-ai-acquires-radar-firm-echodyne-in-5-3b-deal/"
+   ],
+   "topic": "shield-echodyne-5-3b-acquisition-2026-11-05",
+   "firstSeen": "2026-11-06T02:35:31+08:00"
+  },
+  {
+   "id": "cfd1704d56",
+   "title": "Brockman：OpenAI「我觉得」2027 年就能具备 IPO 条件",
+   "summary": "OpenAI 总裁 Greg Brockman 在 WSJ 科技活动上称企业收入占比已过半、三季度年化收入环比约增 70%，被问及明年能否上市时答「I think so. Yes.」；同时承认上半年在 agentic coding 上曾落后 Claude Code。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+   ],
+   "topic": "brockman-openai-ipo-ready-2027-2026-11-05",
+   "firstSeen": "2026-11-06T02:35:31+08:00"
+  },
+  {
+   "id": "6a24dc7ada",
+   "title": "纳指暴跌约 5% 进入技术性回调：芯片与 AI 基建股领跌",
+   "summary": "中期选举后市场担忧数据中心扩张受阻，纳指一度跌约 5.2%、距月内高点回撤逾 10% 进入 correction；英伟达/博通约跌 9%，SOXX 约跌 11%，CoreWeave 等 neocloud 跌幅更大。",
+   "links": [
+    "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+    "https://x.com/i/trending/2117979576471347443"
+   ],
+   "topic": "nasdaq-5pct-correction-ai-selloff-2026-11-05",
+   "firstSeen": "2026-11-06T02:35:31+08:00"
   }
  ],
- "lastChecked": "2026-11-06T02:23:51+08:00"
+ "lastChecked": "2026-11-06T02:35:31+08:00"
 }
