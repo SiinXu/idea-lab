@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T23:17:47+08:00",
+ "lastUpdated": "2026-11-05T23:29:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33622,7 +33622,87 @@
    ],
    "topic": "n64-ulc-codec-libdragon-2026-11",
    "firstSeen": "2026-11-05T23:17:47+08:00"
+  },
+  {
+   "id": "532356e28c",
+   "title": "Instagram Edits 登陆 Mac 桌面：多轨时间线直接对标 CapCut",
+   "summary": "Instagram 把短视频剪辑工具 Edits 带到 Mac：多轨时间线、关键帧、自定义字体与无水印 4K 导出，可直接发 Instagram。目标是吃下手机吃不下的复杂项目，正面挑战字节 CapCut 桌面端。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/"
+   ],
+   "topic": "instagram-edits-mac-desktop-2026-11-05",
+   "firstSeen": "2026-11-05T23:29:14+08:00"
+  },
+  {
+   "id": "f0a2f97a0f",
+   "title": "ElevenLabs 打通 SoundCloud：ElevenMusic 生成曲可一键上架",
+   "summary": "ElevenLabs 宣布 ElevenMusic 生成的 AI 音乐可直接发布到 SoundCloud；Artist Pro 用户另赠三个月 ElevenMusic Pro（约 1000 首/月）。平台已宣称累计生成超 2500 万轨，与 Deezer 过滤、Bandcamp 禁 AI 的路线形成对照。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/"
+   ],
+   "topic": "elevenlabs-soundcloud-elevenmusic-2026-11-05",
+   "firstSeen": "2026-11-05T23:29:14+08:00"
+  },
+  {
+   "id": "027a4e6ba8",
+   "title": "Baseten Grid 公测：编程 Agent 智能路由，自称每任务成本可降约 70%",
+   "summary": "Baseten 推出面向企业的编码 Agent 控制层 Grid：网关统一接入 OpenAI/Anthropic/Bedrock 等，Router 按任务质量与成本（含重试、失败工具调用）选模型，早期基准称相对全走 Opus 5.5 可省约 70%、质量损失约 0.9 个百分点；支持 Claude Code、Codex、OpenCode、Pi 一键接入。",
+   "links": [
+    "https://www.baseten.co/blog/introducing-baseten-grid"
+   ],
+   "topic": "baseten-grid-coding-router-2026-11",
+   "firstSeen": "2026-11-05T23:29:14+08:00"
+  },
+  {
+   "id": "5a541333c4",
+   "title": "OpenAI 安全流水线一轮扫出约 948 个 Linux 内核提权洞",
+   "summary": "X 热议称 OpenAI 用即将发布的网络安全模型搭自动流水线，约 30 小时内在 Linux 内核上复现并整理约 948 个本地提权问题、验证超千个可利用点，API 花费约 120 万美元；中旬跑完后十余天内已有数十个问题被上游合入修复。",
+   "links": [
+    "https://x.com/i/trending/2118125161194926199"
+   ],
+   "topic": "openai-948-linux-kernel-vulns-pipeline-2026-11",
+   "firstSeen": "2026-11-05T23:29:14+08:00"
+  },
+  {
+   "id": "3ec29f5163",
+   "title": "Cowboy 种子轮融资 500 万美元：给开发者的「Agent App Store」",
+   "summary": "Cowboy 宣称做出面向 Agent 的操作系统与 General Store（超万个 agent/数据源/技能/模型），雇佣方拿到隔离沙箱私有副本、看不到对方代码与数据，开发者按使用收费。种子轮 500 万美元，投资方含 Nebular、Compound 等。",
+   "links": [
+    "https://www.businesswire.com/news/home/20261104730692/en/Cowboy-Raises-%245-Million-in-Seed-Funding-to-Help-Developers-Own-Control-and-Monetize-AI"
+   ],
+   "topic": "cowboy-5m-agent-app-store-2026-11",
+   "firstSeen": "2026-11-05T23:29:14+08:00"
+  },
+  {
+   "id": "7737a93a3e",
+   "title": "Servo 0.7.0：progress、圆角矩形与一长串 Web 平台能力",
+   "summary": "嵌入式浏览器引擎 Servo 发布 0.7.0（含 9 月 527 个提交）：新上 :checked、user-select、progress 元素、圆角矩形 canvas API、WebGL2 与无障碍树改进，并继续推 contenteditable 与字幕。",
+   "links": [
+    "https://servo.org/blog/2026/11/05/september-in-servo/"
+   ],
+   "topic": "servo-0-7-0-september-2026-11",
+   "firstSeen": "2026-11-05T23:29:14+08:00"
+  },
+  {
+   "id": "95c06e8788",
+   "title": "「卫星塞满夜空」长曝光图冲上 HN：星链时代的肉眼证据",
+   "summary": "Kottke 转载的长曝光夜空照片里，卫星划痕密布，直观展示低轨星座对天文观测与夜空景观的挤压；讨论再次指向巨型星座的光污染与轨道拥堵。",
+   "links": [
+    "https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies"
+   ],
+   "topic": "satellite-choked-night-skies-kottke-2026-11",
+   "firstSeen": "2026-11-05T23:29:14+08:00"
+  },
+  {
+   "id": "3665ca3c2f",
+   "title": "IEEE Spectrum：无人机配送「起降港」会不会变成新噪音邻居",
+   "summary": "随着外卖与快递无人机试点扩张，社区开始担心屋顶/后院起降点的持续噪声与隐私；Spectrum 梳理监管与邻避冲突，提示「最后一公里自动化」的落地摩擦不只在技术。",
+   "links": [
+    "https://spectrum.ieee.org/drone-delivery-noise"
+   ],
+   "topic": "drone-delivery-ports-noise-ieee-2026-11",
+   "firstSeen": "2026-11-05T23:29:14+08:00"
   }
  ],
- "lastChecked": "2026-11-05T23:17:47+08:00"
+ "lastChecked": "2026-11-05T23:29:14+08:00"
 }
