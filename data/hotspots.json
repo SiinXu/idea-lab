@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T07:34:05+08:00",
+ "lastUpdated": "2026-11-06T07:48:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35485,7 +35485,28 @@
    ],
    "topic": "gr-how-to-train-a-swarm-rlcr-2026-11-05",
    "firstSeen": "2026-11-06T07:34:05+08:00"
+  },
+  {
+   "id": "2df7bbd861",
+   "title": "AWS Kiro Crew 上线 Bots：命名常驻 Agent 协调并行编程任务",
+   "summary": "Kiro bots 于 11 月 5 日在开源多 Agent 环境 Kiro Crew 正式可用：每个 bot 有独立记忆（Notes）、工作区与权限，可并行拉起 worker、盯进度并汇总，还能按日程跑值班/发版类例行活。分析师提醒并行会带来「协调税」与权限膨胀。",
+   "links": [
+    "https://kiro.dev/blog/crew-bots/",
+    "https://www.infoworld.com/article/4245120/aws-launches-kiro-bots-to-help-devs-coordinate-ai-coding-agents.html"
+   ],
+   "topic": "aws-kiro-crew-bots-ga-2026-11-05",
+   "firstSeen": "2026-11-06T07:48:22+08:00"
+  },
+  {
+   "id": "11c19e26e3",
+   "title": "Amazon Bedrock AgentCore Web Answer 正式可用：一句话拿带回源引用的网页答案",
+   "summary": "在既有 Web Search 之上，Web Answer 让 Agent 一次工具调用完成搜索、并行检索、综合与引用；可配域名白/黑名单与发布日期过滤，经 AgentCore Gateway 以 MCP + IAM 接入，零数据外泄，目前美东（弗吉尼亚）上线按次计费。",
+   "links": [
+    "https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/"
+   ],
+   "topic": "aws-bedrock-agentcore-web-answer-ga-2026-11-05",
+   "firstSeen": "2026-11-06T07:48:22+08:00"
   }
  ],
- "lastChecked": "2026-11-06T07:34:05+08:00"
+ "lastChecked": "2026-11-06T07:48:22+08:00"
 }
