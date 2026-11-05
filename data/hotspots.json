@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T14:44:50+08:00",
+ "lastUpdated": "2026-11-05T14:45:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32150,7 +32150,28 @@
    ],
    "topic": "isp-dns-tampering-hijack",
    "firstSeen": "2026-11-05T14:44:50+08:00"
+  },
+  {
+   "id": "858a2ce328",
+   "title": "Nothing 首款 AI 原生产品：无新屏幕、非 App，CEO 称 12 月发货",
+   "summary": "Carl Pei 在 X 称 Nothing 第一款 AI-native 生产力工具将于 12 月出货，强调不是新屏幕、也不能做成 App，并淡化可穿戴「iPhone moment」叙事。",
+   "links": [
+    "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
+   ],
+   "topic": "nothing-ai-native-device-december-2026",
+   "firstSeen": "2026-11-05T14:45:56+08:00"
+  },
+  {
+   "id": "94c502abbc",
+   "title": "Uber：万圣节最忙一周仅 4 单行程由 AI 智能体下单",
+   "summary": "Q3 财报会披露该周 Uber+Uber Eats 约 3.2 亿单里，智能体只完成 4 趟打车、约 500 单外卖；CEO 称仍极早期，量级也对照 DoorDash「数百单」说法。",
+   "links": [
+    "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation"
+   ],
+   "topic": "uber-ai-agents-four-rides-halloween-week",
+   "firstSeen": "2026-11-05T14:45:56+08:00"
   }
  ],
- "lastChecked": "2026-11-05T14:44:50+08:00"
+ "lastChecked": "2026-11-05T14:45:56+08:00"
 }
