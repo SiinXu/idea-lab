@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T21:32:40+08:00",
+ "lastUpdated": "2026-11-05T21:48:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33292,7 +33292,28 @@
    ],
    "topic": "discovered-materials-1m-ai-challenges-2026-11",
    "firstSeen": "2026-11-05T21:32:40+08:00"
+  },
+  {
+   "id": "358f0dc7c8",
+   "title": "亚马逊弃用 Grubhub，改让 Uber Eats 成为美国 Prime 会员官方外卖伙伴",
+   "summary": "Prime 会员可在 Amazon.com / 购物 App 里直接点 Uber Eats，满 25 美元免配送费、不必另开 Uber 账号；与 Grubhub+ 的合作同日结束。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/"
+   ],
+   "topic": "amazon-prime-uber-eats-replaces-grubhub-2026-11-05",
+   "firstSeen": "2026-11-05T21:48:14+08:00"
+  },
+  {
+   "id": "3e58fe7b58",
+   "title": "Show HN：Lmux——给 Claude Code / Codex 用的轻量原生 macOS 终端",
+   "summary": "面向整天泡在编码智能体里的人，原生 macOS 终端，目标比通用终端更轻、更贴 Claude Code 与 Codex 工作流。",
+   "links": [
+    "https://github.com/sooftware/lmux",
+    "https://news.ycombinator.com/item?id=50378582"
+   ],
+   "topic": "lmux-macos-terminal-claude-codex-2026-11-05",
+   "firstSeen": "2026-11-05T21:48:14+08:00"
   }
  ],
- "lastChecked": "2026-11-05T21:32:40+08:00"
+ "lastChecked": "2026-11-05T21:48:14+08:00"
 }
