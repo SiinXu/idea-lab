@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T04:57:54+08:00",
+ "lastUpdated": "2026-11-06T05:17:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35035,7 +35035,50 @@
    ],
    "topic": "prax-wallet-screening-mcp-2026-11-05",
    "firstSeen": "2026-11-06T04:57:54+08:00"
+  },
+  {
+   "id": "69af5f8a12",
+   "title": "GitHub 公开新 Git 存储架构 Rubicon：单仓可扛数千 Agent 并发推送",
+   "summary": "GitHub 工程博客详解 Project Rubicon：不可变对象进 Azure Blob，引用状态由 Ref-CAS 复制日志处理；内测单仓约 5000 并发 Agent、每秒约 7200 次 push，虚拟副本与独立压缩节点解耦读写与维护，有限私有预览中、更广推送预计明年初。",
+   "links": [
+    "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/"
+   ],
+   "topic": "github-rubicon-git-storage-agent-scale-2026-11-05",
+   "firstSeen": "2026-11-06T05:17:53+08:00"
+  },
+  {
+   "id": "c47c5bb37f",
+   "title": "传英伟达找 Apollo：把 Brightspeed 旧电信机房改造成分布式小数据中心",
+   "summary": "The Information 称 Nvidia 与 Apollo 接触，拟用 Brightspeed 遍布约 20 州的现有机楼改建 AI 小集群，现成电力与光纤约可支撑 1GW，意在绕开新建数据中心的地方禁令和审批摩擦。",
+   "links": [
+    "https://www.investing.com/news/stock-market-news/nvidia-explores-retrofitting-old-telecom-buildings-for-ai-data-centers--information-93CH-5005447",
+    "https://www.techmeme.com/261105/p50"
+   ],
+   "topic": "nvidia-apollo-brightspeed-telecom-retrofit-2026-11-05",
+   "firstSeen": "2026-11-06T05:17:53+08:00"
+  },
+  {
+   "id": "fcc36105f5",
+   "title": "谷歌宣布怀俄明首座数据中心：170 亿美元投资，燃料电池+碳捕集自付电费",
+   "summary": "Google 与 Tallgrass、Black Hills、AEP、Related Digital 合作，在拉勒米县建首座怀州数据中心；合同含约 702MW Bloom 燃料电池并配 CCS，承诺自付全部用电并成立 Community Council 回应地方增长压力。",
+   "links": [
+    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+    "https://finance.yahoo.com/technology/ai/articles/google-plans-17-billion-wyoming-204551123.html"
+   ],
+   "topic": "google-wyoming-17b-datacenter-ccs-2026-11-05",
+   "firstSeen": "2026-11-06T05:17:53+08:00"
+  },
+  {
+   "id": "b7494c226c",
+   "title": "NIKKE PC 启动器遭供应链篡改：CDN 脚本下发远控与窃密木马",
+   "summary": "《胜利女神：NIKKE》PC 启动器经篡改 CDN 下发 K2F 远控木马，可偷浏览器凭据与钱包数据；官方称 11 月 4 日已修复，建议用过 10 月 23 日后启动器的用户跑官方安全检查并改密。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+    "https://nikke.gg/official-announcement-pc-launcher-security-incident"
+   ],
+   "topic": "nikke-pc-launcher-malware-cdn-2026-11-05",
+   "firstSeen": "2026-11-06T05:17:53+08:00"
   }
  ],
- "lastChecked": "2026-11-06T04:57:54+08:00"
+ "lastChecked": "2026-11-06T05:17:53+08:00"
 }
