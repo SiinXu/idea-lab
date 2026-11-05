@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T17:23:54+08:00",
+ "lastUpdated": "2026-11-05T17:40:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -32591,7 +32591,64 @@
    ],
    "topic": "openai-lehane-2028-ai-election-new-deal-2026-11",
    "firstSeen": "2026-11-05T17:23:54+08:00"
+  },
+  {
+   "id": "08222f66bc",
+   "title": "《塞尔达传说：时之笛》Switch 2 重制版今日发售，Metacritic 约 96",
+   "summary": "1998 年经典在 Switch 2 全球上线：画质重做、全程配音、自由镜头与跳跃/冲刺，Monolith Soft 参与设计/程序/画面。评测聚合约 96，冲上榜首；亚马逊部分实体预购却推迟到 11 月 11 日之后。",
+   "links": [
+    "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+    "https://x.com/i/trending/2117995876744622136"
+   ],
+   "topic": "zelda-ocarina-of-time-remake-launch-2026-11-05",
+   "firstSeen": "2026-11-05T17:40:27+08:00"
+  },
+  {
+   "id": "ab9b7f3efa",
+   "title": "Xbox 开发者现可接入 AMD FSR Upscaling 4.1.2",
+   "summary": "微软 Xbox GDK 样例上线：Series X|S 与 Windows 可用 Full / Lite INT8 模型，运行时可切换。Verge 称 Series S 上 Full 模式开销最高约 5.2ms；Jason Ronald 称今天起可测。",
+   "links": [
+    "https://gpuopen.com/learn/amd-fsr-upscaling-412-xbox/",
+    "https://github.com/microsoft/Xbox-GDK-Samples/tree/main/Samples/Graphics/AMD_FSR",
+    "https://www.theverge.com/games/1027195/xbox-developers-can-now-put-fsr-4-upscaling-in-their-games"
+   ],
+   "topic": "xbox-amd-fsr-4-1-2-gdk-2026-11",
+   "firstSeen": "2026-11-05T17:40:27+08:00"
+  },
+  {
+   "id": "ec522da051",
+   "title": "高通实验室验证首代 HBC 硅片：近存算带宽约 18× LPDDR5X",
+   "summary": "High Bandwidth Compute 把 LPDDR 叠在加速器逻辑裸片上；圣地亚哥实测完整读写与近存计算，相对 LPDDR5X 约 18× 有效带宽、相对预期 HBM4 约 5× 带宽瓦特比。Dragonfly AI250 计划 2027 上半年送样。",
+   "links": [
+    "https://futurumgroup.com/insights/qualcomm-validates-first-hbc-silicon-with-an-18x-memory-bandwidth-gain-over-lpddr5x/",
+    "https://thenextweb.com/news/qualcomm-hbc-chips-validated-dragonfly-ai250"
+   ],
+   "topic": "qualcomm-hbc-silicon-validation-ai250-2026-11",
+   "firstSeen": "2026-11-05T17:40:27+08:00"
+  },
+  {
+   "id": "b5b8303423",
+   "title": "任天堂财报：Switch 2 累计出货约 2635 万台",
+   "summary": "截至 2026-09-30，Switch 2 全球约 2635 万台（7–9 月约 267 万）；原版 Switch 约 1.572 亿。马里奥赛车 World 约 1648 万套；公司维持本财年 Switch 2 销量预期，CNBC 指涨价与存储短缺压制季度出货。",
+   "links": [
+    "https://www.nintendo.co.jp/ir/pdf/2026/261105_3e.pdf",
+    "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html",
+    "https://www.gematsu.com/2026/11/switch-2-worldwide-sales-top-26-35-million-switch-tops-157-20-million"
+   ],
+   "topic": "nintendo-switch-2-26-35m-earnings-2026-11-05",
+   "firstSeen": "2026-11-05T17:40:27+08:00"
+  },
+  {
+   "id": "477ed8e6de",
+   "title": "摩根士丹利跻身首批用 DTCC 服务把美股与国债上链的银行",
+   "summary": "DTCC 代币化服务 10/28 上线后，大摩称已把美股与国债做成保留原权利的「数字孪生」，可在 Canton 等网络登记钱包间流转；约 20 家机构（含摩根大通、花旗等）已接入，大摩另计划 2027 Q1 支持代币化股票交易。",
+   "links": [
+    "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
+    "https://x.com/i/trending/2118261589422051573"
+   ],
+   "topic": "morgan-stanley-dtcc-tokenize-equities-treasuries-2026-11",
+   "firstSeen": "2026-11-05T17:40:27+08:00"
   }
  ],
- "lastChecked": "2026-11-05T17:23:54+08:00"
+ "lastChecked": "2026-11-05T17:40:27+08:00"
 }
