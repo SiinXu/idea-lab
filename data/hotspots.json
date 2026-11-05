@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T05:28:44+08:00",
+ "lastUpdated": "2026-11-06T05:39:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35101,7 +35101,66 @@
    ],
    "topic": "ea-25-classic-games-steam-anniversary-2026-11-05",
    "firstSeen": "2026-11-06T05:28:44+08:00"
+  },
+  {
+   "id": "e6bcce74f5",
+   "title": "Perplexity 上线 Teammates：常驻 AI 同事接管持续工作",
+   "summary": "Perplexity 向 Max 订阅用户（网页端）推出 Teammates：可拥有项目记忆、连接 Slack/GitHub 等工具、主动监控并编排多 Agent 完成长期职责（排障、市场研究、广告投放等），结果交人审；与一次性 Computer 会话不同，强调「给目标而非每步提示」。官方博客与产品页已公开，移动端随后。",
+   "links": [
+    "https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+    "https://www.perplexity.ai/hub/products/teammate",
+    "https://www.digitaltrends.com/cool-tech/perplexitys-new-ai-coworkers-can-take-over-your-workload-but-they-dont-come-cheap/",
+    "https://x.com/i/trending/2118431097386328425"
+   ],
+   "topic": "perplexity-teammates-2026-11",
+   "firstSeen": "2026-11-06T05:39:22+08:00"
+  },
+  {
+   "id": "aa221b5ef8",
+   "title": "Cekura Bench：用真实电话评测 50+ 语音模型，公开音频与代码",
+   "summary": "Cekura 更新独立语音 AI 基准站 benchmarks.cekura.ai：覆盖语音 Agent、语音到语音、转写与 TTS，用真人通话录音经真实电话线路反复跑测；公开测试用例、录音与代码。实时语音可靠性、噪声下轮次与数字/地址朗读准确率差距被拉大，PolyAI、Inworld、Grok Voice 等在不同榜领先。方法论页标注 11 月 5 日更新。",
+   "links": [
+    "https://benchmarks.cekura.ai/",
+    "https://benchmarks.cekura.ai/speech-to-speech/real-calls",
+    "https://benchmarks.cekura.ai/about",
+    "https://x.com/i/trending/2118454914137596381"
+   ],
+   "topic": "cekura-bench-voice-2026-11",
+   "firstSeen": "2026-11-06T05:39:22+08:00"
+  },
+  {
+   "id": "e017e0e5b6",
+   "title": "Serve Robotics 推 Physical AI Services：要做机器人界的 AWS",
+   "summary": "人行道配送机器人公司 Serve Robotics（Uber/Postmates 出身，2024 上市）在 Q3 财报同日宣布新业务线 Physical AI Services：对外出售机器人连云高可靠链路 Serve Link、边缘案例数据策展，以及用自家车队采集的真实世界基础模型数据目录；首批客户含施工自动驾驶 Bedrock Robotics，并与 T-Mobile 合作把算力靠近机器人。CEO 称这是「先做端到端再平台化」的 AWS 时刻。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/"
+   ],
+   "topic": "serve-robotics-physical-ai-services-2026-11",
+   "firstSeen": "2026-11-06T05:39:22+08:00"
+  },
+  {
+   "id": "0419fa07eb",
+   "title": "特拉华拟设「AI 公司」法人：AI 代理掌舵、众议院已发函调查",
+   "summary": "特拉华草案拟在约 30 个月监管沙盒内创设 Artificial Intelligence Company（AIC）：由 AI 代理日常经营、可签约/持产/起诉，出资成员一般不对 AIC 债务担责（欺诈等除外），银行业务除外。众议院监督委员会主席 Comer 已致函州长索取文件，担忧责任豁免与监管竞次；微软 AI 负责人 Suleyman 等公开示警。X 上再度热议，Ars/Fortune/监督委员会通稿可核。",
+   "links": [
+    "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+    "https://oversight.house.gov/release/comer-investigates-potential-for-harm-lack-of-transparency-in-delaware-initiative-to-create-new-artificial-intelligence-companies/",
+    "https://fortune.com/2026/07/14/exclusive-delaware-ai-agents-legal-entity-proposal-llc-pbc/",
+    "https://x.com/i/trending/2118431100343316819"
+   ],
+   "topic": "delaware-aic-comer-probe-2026-11",
+   "firstSeen": "2026-11-06T05:39:22+08:00"
+  },
+  {
+   "id": "f3a0f74ded",
+   "title": "Harbinger 再融 2.4 亿美元：电动卡车扩向储能与国防",
+   "summary": "洛杉矶电动卡车创企 Harbinger 宣布 2.4 亿美元 D 轮，由 Tiger Global、Capricorn 影响力基金与国防向 Ridgeline 领投，FedEx 续投且其高管入董事会；累计融资超 6.5 亿美元。公司在底盘之外推进电池储能、收购 Phantom AI，并披露军用无人混动平台；FedEx 大单约 2000 辆、价值超 3 亿美元。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/"
+   ],
+   "topic": "harbinger-series-d-240m-2026-11",
+   "firstSeen": "2026-11-06T05:39:22+08:00"
   }
  ],
- "lastChecked": "2026-11-06T05:28:44+08:00"
+ "lastChecked": "2026-11-06T05:39:22+08:00"
 }
