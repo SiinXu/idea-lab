@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T10:43:10+08:00",
+ "lastUpdated": "2026-11-05T11:13:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -31659,7 +31659,30 @@
    ],
    "topic": "emergence-world-agent-societies",
    "firstSeen": "2026-11-05T10:43:10+08:00"
+  },
+  {
+   "id": "12735f40fd",
+   "title": "民主党拿下国会后，众议员 Ansari 喊话「第一天就暂停先进 AI、禁止超级智能」：桑德斯版禁令法案违者最高 20 年监禁",
+   "summary": "美国中期选举后，亚利桑那州民主党众议员 Yassamin Ansari 于 11 月 4 日表示，暂停先进 AI 开发、全面禁止人工超级智能应列为 2027 年 1 月新一届国会民主党的「第一天议程」。她是 9 月由桑德斯和 Greg Casar 提出的《禁止人工超级智能法案》（H.R. 10538）联署人：法案拟设内阁级「人工智能部」监管前沿模型，在监管规则出台前暂停先进 AI 训练，永久禁止开发超越人类认知的系统，规避者面临「企业死刑」、个人最高 20 年监禁。NBC 出口民调显示 56% 选民称 AI 和数据中心是关键或重要投票因素。信号：AI 监管从州级公投走向联邦议程，但特朗普否决和定义可执行性仍是硬障碍。",
+   "links": [
+    "https://x.com/i/trending/2118076588499882347",
+    "https://cryptobriefing.com/yassamin-ansari-pause-advanced-ai-development/",
+    "https://www.govinfo.gov/app/details/BILLS-119hr10538ih",
+    "https://www.usatoday.com/story/tech/2026/11/04/democrats-promise-ai-regulation-in-new-congress/92612851007/"
+   ],
+   "topic": "ansari-ban-superintelligence-day-one",
+   "firstSeen": "2026-11-05T11:13:17+08:00"
+  },
+  {
+   "id": "b3ff12fc7d",
+   "title": "「还需要逐行审代码吗？」Jack Ellis 发问、Nikita Bier 一句「还有人记得怎么写代码吗」引爆数千条资深工程师回复",
+   "summary": "X 上 Jack Ellis 发起讨论：AI 写大部分代码后，人工代码审查是否还要逐行看。Nikita Bier 调侃「还有人记得怎么写代码吗」后讨论爆发，数千名资深工程师分享做法：有 30 年关键系统经验的 Adam Migus 说现在只抽查模式而非逐行读，也有人坚持结构化流程、只标记高风险改动。共识是 AI 的产出速度要求重新设计审查流程，而不是沿用旧习惯。信号：面向「AI 生成代码可信度」的风险分级审查、自动验证工具有明确需求。",
+   "links": [
+    "https://x.com/i/trending/2118122337409417398"
+   ],
+   "topic": "ai-era-code-review-thread-ellis-bier",
+   "firstSeen": "2026-11-05T11:13:17+08:00"
   }
  ],
- "lastChecked": "2026-11-05T10:43:10+08:00"
+ "lastChecked": "2026-11-05T11:13:17+08:00"
 }
