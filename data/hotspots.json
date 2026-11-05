@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T00:26:54+08:00",
+ "lastUpdated": "2026-11-06T00:42:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -34019,7 +34019,99 @@
    ],
    "topic": "onlyfake-404media-2026-11",
    "firstSeen": "2026-11-06T00:26:54+08:00"
+  },
+  {
+   "id": "6d4f974c87",
+   "title": "NVIDIA CUDA 13.5 正式支持 Vera Rubin：生产可用",
+   "summary": "CUDA Toolkit 13.5 把 Vera Rubin 从早期开发者预览推到 GA，并强化 locality domain、MPS v3 加权分时、CUDA Tile 多卡通信与 Nsight 长期 profiling；Windows 上 Rubin 仅支持 WDDM/MCDM，不再支持 TCC。",
+   "links": [
+    "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/",
+    "https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/",
+    "https://www.phoronix.com/news/NVIDIA-CUDA-13.5"
+   ],
+   "topic": "nvidia-cuda-13-5-vera-rubin-ga-2026-11",
+   "firstSeen": "2026-11-06T00:42:46+08:00"
+  },
+  {
+   "id": "94fb388886",
+   "title": "大成建设 AI 自动驾驶盾构机：掘进误差小于 2 毫米",
+   "summary": "日本大成建设用约 20 个工地、约 33 公里掘进数据训练模型，控制约 30 个液压千斤顶自动驾驶 1400 吨级盾构机；鹿儿岛试验中 4.5 米推进偏差不到 2 毫米，称可超过资深操作手，缓解劳动力短缺。",
+   "links": [
+    "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-contractor-s-ai-guided-tunnel-boring-outperforms-human-operators",
+    "https://www.taisei.co.jp/about_us/wn/2026/260708_11087.html"
+   ],
+   "topic": "taisei-ai-tunnel-boring-nikkei-2026-11",
+   "firstSeen": "2026-11-06T00:42:46+08:00"
+  },
+  {
+   "id": "1b4e0f3619",
+   "title": "英国考虑限制智能眼镜销售：防隐秘偷拍",
+   "summary": "英国内政相关官员称政府正在研究对智能眼镜的销售与使用场景设限，尤其担心未经同意的隐秘拍摄；并非全面禁售，但医院、学校等场所与特定买家或面临额外约束。",
+   "links": [
+    "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
+    "https://www.techradar.com/computing/virtual-reality-augmented-reality/putting-the-ban-in-meta-ray-ban-the-uk-is-considering-placing-restrictions-on-smart-glasses-sales-as-the-government-is-already-looking-into-options-to-curb-the-secret-filming-of-women"
+   ],
+   "topic": "uk-smart-glasses-sales-limits-2026-11",
+   "firstSeen": "2026-11-06T00:42:46+08:00"
+  },
+  {
+   "id": "5712ffeb1d",
+   "title": "Google、Meta、TikTok 起诉加州青少年社媒法 AB-1709",
+   "summary": "三家平台提起诉讼要求阻止加州 AB-1709 生效：该法禁止向 16 岁以下用户提供个性化推荐与自动播放视频；公司主张违宪并触及第 230 条保护，监管与平台的未成年人算法战再升温。",
+   "links": [
+    "https://www.reuters.com/world/us/google-meta-tiktok-sue-block-california-youth-social-media-law-2026-11-05/",
+    "https://news.ycombinator.com/item?id=50381069",
+    "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1709"
+   ],
+   "topic": "ca-ab1709-google-meta-tiktok-lawsuit-2026-11",
+   "firstSeen": "2026-11-06T00:42:46+08:00"
+  },
+  {
+   "id": "13b67935ad",
+   "title": "T-Mobile Fiber 推出 90 美元 5 Gbps 对称套餐，保价 10 年",
+   "summary": "T-Mobile 光纤新增 5 Gig 档：对称上下行约 5 Gbps，AutoPay 后约 90 美元/月并承诺 10 年价格锁定，含路由、安装与 mesh；覆盖仍限指定地址，对标高速家宽价格战。",
+   "links": [
+    "https://www.t-mobile.com/news/network/t-mobile-fiber-5-gig-10-year-price-guarantee",
+    "https://www.tomshardware.com/service-providers/network-providers/t-mobile-launches-usd90-5-gbps-fiber-internet-plan-2-5x-speed-boost-comes-with-10-year-price-guarantee"
+   ],
+   "topic": "t-mobile-fiber-5gig-90-2026-11",
+   "firstSeen": "2026-11-06T00:42:46+08:00"
+  },
+  {
+   "id": "b4784bf8ac",
+   "title": "Lattices：可编程窗口管理器，给脚本和 Agent 控窗",
+   "summary": "开源 Lattices 面向 macOS，通过本地 WebSocket/CLI 让脚本与 AI Agent 搜索、聚焦、铺排窗口和 tmux；把桌面布局变成可调用 API，冲上 HN 新帖。",
+   "links": [
+    "https://lattices.dev/",
+    "https://github.com/arach/lattices",
+    "https://news.ycombinator.com/item?id=50381239"
+   ],
+   "topic": "lattices-programmatic-wm-hn-2026-11",
+   "firstSeen": "2026-11-06T00:42:46+08:00"
+  },
+  {
+   "id": "a89a3bcd6a",
+   "title": "WSJ：选民「反数据中心」选票冲击美国 AI 扩张",
+   "summary": "华尔街日报梳理中期选举后地方选票：41 项相关提案里多数限制或否决数据中心扩张，电力账单与用水焦虑升级；OpenAI 等同日加码社区契约与电费自付承诺。",
+   "links": [
+    "https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52",
+    "https://news.ycombinator.com/item?id=50381209",
+    "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html"
+   ],
+   "topic": "wsj-election-data-center-revolt-2026-11",
+   "firstSeen": "2026-11-06T00:42:46+08:00"
+  },
+  {
+   "id": "99e3750547",
+   "title": "EFF：谷歌 AI 摘要的真正目的是锁定流量，不只是 AI",
+   "summary": "电子前沿基金会批评谷歌搜索摘要把用户留在结果页、削弱外链点击；认为核心是平台锁定而非单纯模型能力，隐私与竞争争议再起，登上 HN。",
+   "links": [
+    "https://www.eff.org/deeplinks/2026/11/google-summaries-arent-about-ai-theyre-about-lock",
+    "https://news.ycombinator.com/item?id=50381095"
+   ],
+   "topic": "eff-google-ai-summaries-lock-in-2026-11",
+   "firstSeen": "2026-11-06T00:42:46+08:00"
   }
  ],
- "lastChecked": "2026-11-06T00:26:54+08:00"
+ "lastChecked": "2026-11-06T00:42:46+08:00"
 }
