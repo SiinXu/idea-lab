@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T05:17:53+08:00",
+ "lastUpdated": "2026-11-06T05:28:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35078,7 +35078,30 @@
    ],
    "topic": "nikke-pc-launcher-malware-cdn-2026-11-05",
    "firstSeen": "2026-11-06T05:17:53+08:00"
+  },
+  {
+   "id": "41b1586b0a",
+   "title": "Xbox PC 应用大改版上线 Insider：启动最高快约 60%，云游戏网页/TV/VR 同步刷新",
+   "summary": "微软向 Xbox Insider 推送重做后的 Xbox PC 应用：官方称启动最高快约 60%，Home/Store/Game Pass 页加载最高快约 50%，应用内窗口最高快约 65%；库筛选、统一搜索与好友入口改进，手感更偏主机。同套视觉将推广到 Xbox 云游戏网页，并陆续到支持的 TV 与 VR 客户端。",
+   "links": [
+    "https://news.xbox.com/en-us/2026/11/05/a-faster-simpler-xbox-experience-is-coming-to-pc-web-and-cloud/",
+    "https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign",
+    "https://www.techmeme.com/261105/p43"
+   ],
+   "topic": "xbox-pc-app-redesign-60pct-faster-2026-11-05",
+   "firstSeen": "2026-11-06T05:28:44+08:00"
+  },
+  {
+   "id": "d3883953ec",
+   "title": "EA 把 25 款经典 PC 游戏送上 Steam：7 款周年复刻含母带 FMV，含《翼指挥官》《终极战区》",
+   "summary": "EA 宣布 25 款库存经典首次登陆 Steam（同步 GOG/EA App）：其中 7 款 Anniversary Edition 用母带重做/升格 FMV 并整合社区补丁（含 Road Rash、Wing Commander 系列等），其余为忠实移植（Ultima、Theme Hospital、Crusader 等）；11 月 5–19 日限时特价。",
+   "links": [
+    "https://www.ea.com/news/ea-classics-launch",
+    "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition"
+   ],
+   "topic": "ea-25-classic-games-steam-anniversary-2026-11-05",
+   "firstSeen": "2026-11-06T05:28:44+08:00"
   }
  ],
- "lastChecked": "2026-11-06T05:17:53+08:00"
+ "lastChecked": "2026-11-06T05:28:44+08:00"
 }
