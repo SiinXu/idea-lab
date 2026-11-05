@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T21:02:15+08:00",
+ "lastUpdated": "2026-11-05T21:18:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33226,7 +33226,51 @@
    ],
    "topic": "agentless-macos-eslogger-hbcc-2026-11",
    "firstSeen": "2026-11-05T21:02:15+08:00"
+  },
+  {
+   "id": "a38f474cd5",
+   "title": "法国银行 Crédit Mutuel Arkéa 遭黑客「线上抢劫」：约 1 亿欧元失踪",
+   "summary": "银行官方与路透确认：攻击者通过第三方服务商平台进入，动用银行自有账户向其他银行发起欺诈转账，资金疑似再转入加密货币；客户账户未受影响。巴黎检方已立案调查，金额约 1 亿欧元量级，部分资金已拦截追回中。大型金融机构成功盗刷仍属罕见，监管正因 AI 普及加强对网攻预警。",
+   "links": [
+    "https://www.cm-arkea.com/arkea/banque/assurances/pa_38386/en/informations-complementaires-suite-a-l-attaque-dont-le-credit-mutuel-arkea-a-ete-victime",
+    "https://finance.yahoo.com/markets/crypto/articles/french-bank-credit-mutuel-arkea-114732734.html",
+    "https://news.ycombinator.com/item?id=50378677"
+   ],
+   "topic": "credit-mutuel-arkea-cyberheist-100m-2026-11",
+   "firstSeen": "2026-11-05T21:18:22+08:00"
+  },
+  {
+   "id": "0459c6963e",
+   "title": "Codex 技能包冲上 GitHub 日榜：一张角色图生成整套动态 GIF 表情包",
+   "summary": "WoYun520/pixel-gif-sticker-pack 今日创建即约 290+ 星：给 Codex 一张角色参考图，自动设计表情/动作/文字并导出透明底 GIF（默认 512×512，像素风 320×320），附打包下载与预览视频。仓库自带五个系列共 218 张示例。适合 IP/社群运营、付费表情包店与「角色资产流水线」类 Idea Lab 点子。",
+   "links": [
+    "https://github.com/WoYun520/pixel-gif-sticker-pack"
+   ],
+   "topic": "pixel-gif-sticker-pack-codex-skill-2026-11-05",
+   "firstSeen": "2026-11-05T21:18:22+08:00"
+  },
+  {
+   "id": "97d5f1435a",
+   "title": "Show HN：Dereliction——网页闲置几秒，像素就开始有质量往下掉",
+   "summary": "一标签接入的 WebGL2/matter.js 库：把视口渲成像素，文字做刚体、纸面做沙子，闲置后页面崩塌，滚动/按键可复原。提供 Avalanche、Letter pile、Hourglass 等预设，支持 CSS --physics 标记 solid/rigid/frame/sand。npm 包 dereliction@0.5.0，无构建步骤。今日 Show HN，适合互动落地页与「会坏掉的网站」创意营销。",
+   "links": [
+    "https://oripekelman.github.io/dereliction/",
+    "https://news.ycombinator.com/item?id=50378717"
+   ],
+   "topic": "dereliction-webgl-idle-page-physics-2026-11",
+   "firstSeen": "2026-11-05T21:18:22+08:00"
+  },
+  {
+   "id": "5340762e45",
+   "title": "codemyrules：把 CLAUDE.md / AGENTS.md 里的散文规则变成 Agent 逃不掉的 lint",
+   "summary": "Agent skill：从代码多数模式、ADR 与 agent 文档抽出约定，写成 ESLint / ast-grep 等 lint 规则，再瘦身 agent 文档；规则失败立刻反馈、通过则不耗 token。支持 Claude Code 插件与 npx skills add，覆盖 JS/TS/Vue/Svelte 与多语言后端。配套 agent-rules-bench 证据仓。今日在 HN 新帖讨论「Claude.md 其实是伪装的 lint」。",
+   "links": [
+    "https://github.com/clirimajeti/codemyrules",
+    "https://news.ycombinator.com/item?id=50378683"
+   ],
+   "topic": "codemyrules-agent-docs-to-lint-2026-11",
+   "firstSeen": "2026-11-05T21:18:22+08:00"
   }
  ],
- "lastChecked": "2026-11-05T21:02:15+08:00"
+ "lastChecked": "2026-11-05T21:18:22+08:00"
 }
