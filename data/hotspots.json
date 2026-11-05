@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-05T20:13:29+08:00",
+ "lastUpdated": "2026-11-05T20:32:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -33133,7 +33133,30 @@
    ],
    "topic": "hookdeck-http-api-for-agents-no-mcp-2026-11",
    "firstSeen": "2026-11-05T20:13:29+08:00"
+  },
+  {
+   "id": "d9f7ae29b8",
+   "title": "Gemini API「Computer Use」转正 GA：浏览器 / 手机 / 桌面都能控",
+   "summary": "谷歌 changelog 记在 10 月 30 日转正，AI Studio 近日宣发；模型看截图出点击键盘意图，客户端自己执行。支持安全策略与可选提示注入检测，动作仍须本地沙箱落地。",
+   "links": [
+    "https://ai.google.dev/gemini-api/docs/computer-use",
+    "https://ai.google.dev/gemini-api/docs/changelog",
+    "https://news.ycombinator.com/item?id=50378306"
+   ],
+   "topic": "gemini-api-computer-use-ga-2026-11",
+   "firstSeen": "2026-11-05T20:32:10+08:00"
+  },
+  {
+   "id": "68f3ebbec3",
+   "title": "CellType 发布 BioSimBench：用真实实验测大模型能不能「模拟细胞」",
+   "summary": "基准让模型预测药物、基因敲低、免疫信号后基因表达升降，对照留出实验室数据打分；前沿模型只对上一部分反应，CellType 自研 27B（BioSimGym）声称全赛道领先。",
+   "links": [
+    "https://www.celltype.com/biosimbench",
+    "https://x.com/i/trending/2117993230897950979"
+   ],
+   "topic": "celltype-biosimbench-2026-11",
+   "firstSeen": "2026-11-05T20:32:10+08:00"
   }
  ],
- "lastChecked": "2026-11-05T20:13:29+08:00"
+ "lastChecked": "2026-11-05T20:32:10+08:00"
 }
