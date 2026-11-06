@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T08:47:11+08:00",
+ "lastUpdated": "2026-11-06T09:02:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35690,7 +35690,71 @@
    ],
    "topic": "vybbench-design-fidelity-coco-labs-2026-11-05",
    "firstSeen": "2026-11-06T08:47:11+08:00"
+  },
+  {
+   "id": "4ade36aa90",
+   "title": "LangChain：Agent 进入异步时代，子代理后台跑、主对话不卡",
+   "summary": "11 月 5 日博文与 Managed Deep Agents 更新：orchestrator 继续响应用户，async 子代理在后台跑完再回报；一条 `async: true` 即可。和 Claude Code / OpenAI dots 的后台工作模式对齐，适合做长时间研究或并行任务的 Agent 产品。",
+   "links": [
+    "https://www.langchain.com/blog/agents-are-going-async",
+    "https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents",
+    "https://x.com/i/trending/2118493638065840486"
+   ],
+   "topic": "langchain-async-subagents-2026-11-05",
+   "firstSeen": "2026-11-06T09:02:33+08:00"
+  },
+  {
+   "id": "96bb6a372b",
+   "title": "AWS 官方 Agent Toolkit 开源：给 Claude Code / Codex / Cursor 装上 AWS 技能与护栏",
+   "summary": "GitHub 日榜热门（约 3400★）：官方 MCP、skills、插件，覆盖建站、部署、Bedrock/AgentCore、数据与 DevSecOps；Claude Code 可从官方 marketplace 装 aws-core / aws-agents。面向「编码 Agent 真能在 AWS 上交付」的基础设施层。",
+   "links": [
+    "https://github.com/aws/agent-toolkit-for-aws"
+   ],
+   "topic": "aws-agent-toolkit-github-trending-2026-11-06",
+   "firstSeen": "2026-11-06T09:02:33+08:00"
+  },
+  {
+   "id": "a3e9168e67",
+   "title": "Switch：开源 AI 队友，自托管跑在 Slack / Teams / Discord / Telegram",
+   "summary": "sandbox-quantum/switch 登上 GitHub 日榜（约 3900★）：任意 agent harness 与模型，自托管多聊天工具队友。对标企业内协作 Agent 入口，适合 Idea Lab 做「团队里常驻的自托管助手」方向。",
+   "links": [
+    "https://github.com/sandbox-quantum/switch"
+   ],
+   "topic": "sandbox-quantum-switch-github-trending-2026-11-06",
+   "firstSeen": "2026-11-06T09:02:33+08:00"
+  },
+  {
+   "id": "9846d6d6f7",
+   "title": "Google 开源 gemini-skills：给 Gemini API / SDK / Agent 用的官方 Skills",
+   "summary": "google-gemini/gemini-skills 日榜热门（约 4400★）：面向 Gemini API、SDK 与模型/Agent 交互的技能包。和 Google skills、AWS Agent Toolkit 同一波「给编码 Agent 灌产品知识」基建潮。",
+   "links": [
+    "https://github.com/google-gemini/gemini-skills"
+   ],
+   "topic": "google-gemini-skills-github-trending-2026-11-06",
+   "firstSeen": "2026-11-06T09:02:33+08:00"
+  },
+  {
+   "id": "1a0c947103",
+   "title": "Lab Canary：公开评分 AI 实验室员工能不能「说真话」",
+   "summary": "Show HN 新站：用公开合同与发言政策，按七条标准给各实验室打「可发声」热力图（Meet / Partly / Falls short / Not public）。瞄准 whistleblowing 与竞业/封口条款透明度，适合做成持续追踪的治理雷达。",
+   "links": [
+    "https://labcanary.com/",
+    "https://news.ycombinator.com/item?id=50386089"
+   ],
+   "topic": "lab-canary-ai-lab-speak-up-2026-11-06",
+   "firstSeen": "2026-11-06T09:02:33+08:00"
+  },
+  {
+   "id": "6f78e24cdb",
+   "title": "Mark Cuban 炮轰 Meta：知情却放行 AI 换脸诈骗广告，内部材料称欺诈相关收入约 160 亿美元",
+   "summary": "Cuban 称自己的影像被用来推销从未代言的糖尿病疗法；路透等报道引用 Meta 内部对诈骗/违禁广告收入的估算（约 160 亿美元量级，Meta 否认口径过宽）。深伪广告合规与平台责任再次升温。",
+   "links": [
+    "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+    "https://news.ycombinator.com/item?id=50385870"
+   ],
+   "topic": "mark-cuban-meta-ai-deepfake-scam-ads-2026-11-06",
+   "firstSeen": "2026-11-06T09:02:33+08:00"
   }
  ],
- "lastChecked": "2026-11-06T08:47:11+08:00"
+ "lastChecked": "2026-11-06T09:02:33+08:00"
 }
