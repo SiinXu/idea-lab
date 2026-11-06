@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T15:47:19+08:00",
+ "lastUpdated": "2026-11-06T16:28:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36854,7 +36854,91 @@
    ],
    "topic": "mit-press-peer-production-volunteers-internet-2026-11",
    "firstSeen": "2026-11-06T15:47:19+08:00"
+  },
+  {
+   "id": "3a03edb184",
+   "title": "MS Paint 远程代码执行漏洞 CVE-2026-83844",
+   "summary": "微软画图被披露存在远程代码执行漏洞，相关 CVE 登上 HN 热议。",
+   "links": [
+    "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+    "https://news.ycombinator.com/item?id=50384233"
+   ],
+   "topic": "mspaint-rce-cve-2026-83844",
+   "firstSeen": "2026-11-06T16:28:09+08:00"
+  },
+  {
+   "id": "4d8ea370c2",
+   "title": "App Store 2026 盘点：AI、定价与大量弃更应用",
+   "summary": "研究梳理 2026 年 App Store：AI 应用占比、定价结构与被遗弃应用数量。",
+   "links": [
+    "https://obelisk.club/research/app-store-2026",
+    "https://news.ycombinator.com/item?id=50389448"
+   ],
+   "topic": "app-store-2026-numbers",
+   "firstSeen": "2026-11-06T16:28:09+08:00"
+  },
+  {
+   "id": "615faaa7a3",
+   "title": "WorldStrike：用 OSM 真建筑作战的多人坦克游戏",
+   "summary": "WorldStrike 用 OpenStreetMap 真实建筑作可摧毁地图，登上 HN。",
+   "links": [
+    "https://worldstrike.fun/",
+    "https://news.ycombinator.com/item?id=50389420"
+   ],
+   "topic": "worldstrike-osm-tanks",
+   "firstSeen": "2026-11-06T16:28:09+08:00"
+  },
+  {
+   "id": "cd151fbb22",
+   "title": "英国将强制招聘广告披露薪资区间",
+   "summary": "路透社：英国拟强制职位广告公开薪资范围，以提升招聘透明度。",
+   "links": [
+    "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/"
+   ],
+   "topic": "uk-salary-disclosure-job-ads",
+   "firstSeen": "2026-11-06T16:28:09+08:00"
+  },
+  {
+   "id": "df89720934",
+   "title": "Kugelblitz：Mac 原生 Google Earth 替代应用",
+   "summary": "Kugelblitz 以 Mac 原生方式浏览地球影像，被视作 Google Earth 轻量替代。",
+   "links": [
+    "https://apps.metaebene.me/en/kugelblitz",
+    "https://news.ycombinator.com/item?id=50389370"
+   ],
+   "topic": "kugelblitz-mac-earth",
+   "firstSeen": "2026-11-06T16:28:09+08:00"
+  },
+  {
+   "id": "63b9ee79b7",
+   "title": "至少 10 地政府拟停用 Flock 监控摄像头",
+   "summary": "TechCrunch：今夏以来至少 10 个地方政府因隐私与采购问题推动停用 Flock 监控摄像头。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/"
+   ],
+   "topic": "flock-cameras-local-drop",
+   "firstSeen": "2026-11-06T16:28:09+08:00"
+  },
+  {
+   "id": "929afe0623",
+   "title": "Meta、Google、TikTok 起诉加州少年社媒限制法",
+   "summary": "三家平台就加州拟限制 16 岁以下社媒使用的法律起诉州检察长。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/"
+   ],
+   "topic": "ca-teen-social-law-lawsuit",
+   "firstSeen": "2026-11-06T16:28:09+08:00"
+  },
+  {
+   "id": "9ec17f58d5",
+   "title": "Roblox Studio MCP 开源：AI 助手可读写场景与脚本",
+   "summary": "新开源 MCP 服务器让 Claude/Cursor 连接 Roblox Studio，读取对象树、编辑脚本并安全试玩。",
+   "links": [
+    "https://github.com/HerdBuilderEstimate/roblox-studio-mcp"
+   ],
+   "topic": "roblox-studio-mcp",
+   "firstSeen": "2026-11-06T16:28:09+08:00"
   }
  ],
- "lastChecked": "2026-11-06T15:47:19+08:00"
+ "lastChecked": "2026-11-06T16:28:09+08:00"
 }
