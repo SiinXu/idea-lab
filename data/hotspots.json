@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T12:10:44+08:00",
+ "lastUpdated": "2026-11-06T12:34:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36421,7 +36421,75 @@
    ],
    "topic": "stepfun-stepx-neo-step-studio-amoostore-2026-11",
    "firstSeen": "2026-11-06T12:10:44+08:00"
+  },
+  {
+   "id": "2872fc54d1",
+   "title": "淘宝 MNN 开源 Pocket-0.3B：iPhone 18 Pro 离线约 350 tok/s",
+   "summary": "阿里淘宝 MNN 团队发布约 3 亿参数手机原生语言模型，INT4 包仅约 173MB、支持 32K 上下文；iPhone 18 Pro 实测离线解码约 350 tok/s，iPad Pro M5 上可达约 466 tok/s，Apache 2.0 开源。",
+   "links": [
+    "https://github.com/alibaba/MNN",
+    "https://huggingface.co/taobao-mnn/MNN-Pocket-0.3B",
+    "https://www.ithome.com/1/023/212.htm"
+   ],
+   "topic": "mnn-pocket-0-3b-on-device-2026-11-06",
+   "firstSeen": "2026-11-06T12:34:27+08:00"
+  },
+  {
+   "id": "93e723d9da",
+   "title": "广电总局再强调：扶持真人微短剧、规范 AI 微短剧",
+   "summary": "精品创作大会上重申「扶持真人剧、规范 AI 剧」：平台须「凡播必审、全量人审」，打击洗稿盗版与未授权融像融声；今年前 8 个月上线微短剧中 AI 剧占比超九成。",
+   "links": [
+    "https://www.news.cn/culture/20261106/94e0bc07e3df47dbb71c99798c5970bd/c.html",
+    "http://www.nrta.gov.cn/art/2026/11/5/art_112_74408.html"
+   ],
+   "topic": "nrta-live-action-vs-ai-microdrama-2026-11-05",
+   "firstSeen": "2026-11-06T12:34:27+08:00"
+  },
+  {
+   "id": "70e826f408",
+   "title": "印度 MeitY：约 24 个月目标自研 GPU，并推进 SHAKTI/VEGA 商用",
+   "summary": "电子信息技术部秘书长称在 Semiconductor Mission 2.0 下瞄准本土 GPU，周期约两年；同时推动 RISC-V 处理器 SHAKTI、VEGA 走向商用，把 AI 基建视为类 Y2K 机会。",
+   "links": [
+    "https://www.tomshardware.com/tech-industry/semiconductors/india-targets-creating-homegrown-gpus-within-2-years-and-plans-to-commercialize-indigenous-shakti-and-vega-risc-v-processors-sees-ai-boom-as-a-potential-repeat-of-the-y2k-opportunity-for-its-it-industry",
+    "https://government.economictimes.indiatimes.com/news/digital-india/india-plans-indigenous-gpu-chips-in-24-months-says-meity-secretary-s-krishnan-on-ai-strategy/135508818"
+   ],
+   "topic": "india-meity-indigenous-gpu-24m-2026-11",
+   "firstSeen": "2026-11-06T12:34:27+08:00"
+  },
+  {
+   "id": "4bd6025e11",
+   "title": "传 Leopold Aschenbrenner 基金再度重仓受损：AI 基建股二次回撤",
+   "summary": "市场流传 Situational Awareness 对 Micron、CoreWeave、SanDisk 等仓位再现大幅浮亏甚至「清算」说法；德媒称七月紧急甩卖后九月再入场，本周同批标的再度两位数下跌。属未证实市场传闻，需对照后续 13F。",
+   "links": [
+    "https://x.com/i/trending/2118383930105884930",
+    "https://www.boerse-online.de/nachrichten/aktien/drei-monate-nach-dem-notverkauf-aschenbrenner-fonds-schon-wieder-unter-wasser-20417938.html"
+   ],
+   "topic": "aschenbrenner-situational-awareness-second-drawdown-2026-11",
+   "firstSeen": "2026-11-06T12:34:27+08:00"
+  },
+  {
+   "id": "1af5859281",
+   "title": "《大西洋月刊》：硅谷的糟糕一夜——选民为何恨数据中心",
+   "summary": "中期选举后 Atlantic 长文梳理全美多地公投与出口民调：社区把 AI 数据中心当成电价与景观问题，科技股随之重挫；HN 上刚冒头。",
+   "links": [
+    "https://www.theatlantic.com/technology/2026/11/americans-really-dont-like-data-centers-elections/689284/",
+    "https://news.ycombinator.com/item?id=50387952"
+   ],
+   "topic": "atlantic-silicon-valley-bad-night-datacenters-2026-11-06",
+   "firstSeen": "2026-11-06T12:34:27+08:00"
+  },
+  {
+   "id": "bfdbe89840",
+   "title": "SERP Lens 上线：给 SEO 团队的「Claude Code」式智能体工作台",
+   "summary": "Brodie Clark 发布 SERP Lens：内置实时 SERP、GSC 与页面审计的 AI harness，宣传「Claude Code, but for SEO」；提供 14 天 Pro 试用。HN 讨论升温。",
+   "links": [
+    "https://serplens.com",
+    "https://x.com/brodieseo/status/2118299596292305356",
+    "https://news.ycombinator.com/item?id=50387890"
+   ],
+   "topic": "serplens-claude-code-for-seo-2026-11-05",
+   "firstSeen": "2026-11-06T12:34:27+08:00"
   }
  ],
- "lastChecked": "2026-11-06T12:10:44+08:00"
+ "lastChecked": "2026-11-06T12:34:27+08:00"
 }
