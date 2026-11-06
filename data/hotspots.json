@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T04:42:43+08:00",
+ "lastUpdated": "2026-11-07T05:04:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -38673,7 +38673,88 @@
    ],
    "topic": "antigravity-fvcom-fortran-rust-migrate-2026-11",
    "firstSeen": "2026-11-07T04:42:43+08:00"
+  },
+  {
+   "id": "3b972ecaa6",
+   "title": "Ajeya Cotra：AI 已把 Anthropic 研发速度翻倍，朴素外推一年内可到超智能",
+   "summary": "METR 报告称 Anthropic 能力进步约为此前两倍，约八成归因于 AI 辅助研发；Cotra 推算研究者劳动提升或达约 10 倍，若加速继续复合，行业安全准备远不够。",
+   "links": [
+    "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
+   ],
+   "topic": "cotra-metr-ai-rd-acceleration-2026-11-06",
+   "firstSeen": "2026-11-07T05:04:58+08:00"
+  },
+  {
+   "id": "a545f7d27c",
+   "title": "QuirksMode：硅谷 AI 泡沫开始裂开——技术第一次被普通人普遍反感",
+   "summary": "Peter-Paul Koch 称选后 AI 相关股价罕见大跌，硅谷仍活在自嗨泡泡里：想造「工厂」却没交付更便宜服务，也听不见大众对 AI 的厌恶。",
+   "links": [
+    "https://quirksmode.org/quirksblog/2026/1106-valley-bubble.html"
+   ],
+   "topic": "quirksmode-valley-bubble-breaks-2026-11-06",
+   "firstSeen": "2026-11-07T05:04:58+08:00"
+  },
+  {
+   "id": "a0b5950c9a",
+   "title": "五美分主权网站：用 Iroh + .anon 公钥地址摆脱域名与 DNS 房东",
+   "summary": "Zanno 演示把静态站挂在 Iroh 上，地址即节点公钥；用极小 Docker 容器在边缘跑全天，成本约五美分/月，换机只搬密钥即可同址上线。",
+   "links": [
+    "https://zanno.se/the-five-cent-sovereign-web/"
+   ],
+   "topic": "iroh-five-cent-sovereign-web-2026-11-06",
+   "firstSeen": "2026-11-07T05:04:58+08:00"
+  },
+  {
+   "id": "8f372b37e3",
+   "title": "Scamwich：820 个假餐厅外卖站反向代理真站，结账时偷卡与短信验证码",
+   "summary": "InfoHawk 曝光冒充 Jimmy John's、Firehouse Subs 等品牌的 .delivery 仿站：菜单来自真站反向代理，结账换成恶意表单，还套银行 SMS 码；曾靠谷歌搜索广告引流。",
+   "links": [
+    "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming"
+   ],
+   "topic": "scamwich-restaurant-delivery-skimming-2026-11",
+   "firstSeen": "2026-11-07T05:04:58+08:00"
+  },
+  {
+   "id": "79a139e6b5",
+   "title": "开发者因 Fox 收购 Roku 撕毁高薪屏保合同：「不能进 Fox 世界」",
+   "summary": "一款热门 Roku 屏保作者在 Fox 约 220 亿美元完成收购后主动下架并结束分成，公开称无法参与 Fox 生态，折射流媒体并购后的创作者反弹。",
+   "links": [
+    "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/"
+   ],
+   "topic": "roku-screensaver-fox-pullout-2026-11-06",
+   "firstSeen": "2026-11-07T05:04:58+08:00"
+  },
+  {
+   "id": "522ac28d8d",
+   "title": "CNBC：微软拟收缩 neocloud 伙伴名单，少租多建自家机房",
+   "summary": "知情人士称微软正在评估减少 CoreWeave、Nebius、IREN、Lambda、Nscale 等新云合作，并已不续约 Oracle；新云股近月已腰斩，融资更挑剔交付与盈利。",
+   "links": [
+    "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html"
+   ],
+   "topic": "microsoft-fewer-neocloud-partners-2026-11-06",
+   "firstSeen": "2026-11-07T05:04:58+08:00"
+  },
+  {
+   "id": "70e313794c",
+   "title": "Reflection 公开 Beam 安全技术报告：开源权重模型的对齐与系统风险评测",
+   "summary": "501B MoE 开源模型 Beam 配套长篇安全报告，覆盖预训练过滤、安全 SFT/RL、多教师 on-policy 蒸馏，以及生物/化学/失控/网络进攻等系统风险评测。",
+   "links": [
+    "https://reflection.ai/beam-safety-report",
+    "https://reflection.ai/blog/open-model-safety-lessons"
+   ],
+   "topic": "reflection-beam-safety-report-2026-11",
+   "firstSeen": "2026-11-07T05:04:58+08:00"
+  },
+  {
+   "id": "871f5f1dbe",
+   "title": "开发者用 Opus 5.5 搭「harness」：规则+工具+校验让 Agent 能连跑数小时",
+   "summary": "社区分享把 Opus 5.5 当主编排、子 Agent 严格限权并做 proof-of-work 与验证环；搭配 AGENTS.md 与会话日志，强调系统设计重于裸提示词。",
+   "links": [
+    "https://x.com/i/trending/2118806662517797207"
+   ],
+   "topic": "opus-55-custom-harness-long-agents-2026-11-06",
+   "firstSeen": "2026-11-07T05:04:58+08:00"
   }
  ],
- "lastChecked": "2026-11-07T04:42:43+08:00"
+ "lastChecked": "2026-11-07T05:04:58+08:00"
 }
