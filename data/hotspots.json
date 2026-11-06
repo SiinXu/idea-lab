@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T00:21:10+08:00",
+ "lastUpdated": "2026-11-07T00:34:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37697,7 +37697,40 @@
    ],
    "topic": "nvidia-huang-congress-briefing-megaspeed-2026-11-05",
    "firstSeen": "2026-11-07T00:21:10+08:00"
+  },
+  {
+   "id": "a53502d1fb",
+   "title": "Stripe：Agent 现在能真正动钱——Treasury 打款 + 审批规则兜底",
+   "summary": "Stripe 开发者博客：接上 MCP 后，Agent 除了建结账页、退款，还能用 Stripe Treasury 对外打款；OAuth 代操作时敏感动作仍要人确认，独立 Agent 身份则用「带 agent 标签的 API Key + Approvals」按金额/动作要求第二人审批，失败返回 approval_required，结果走 webhook。适合做成 Idea Lab「Agent 资金护栏」类点子。",
+   "links": [
+    "https://stripe.dev/blog/your-ai-agent-can-move-money-in-stripe",
+    "https://news.ycombinator.com/item?id=50394392"
+   ],
+   "topic": "stripe-agent-move-money-treasury-approvals-2026-11-06",
+   "firstSeen": "2026-11-07T00:34:02+08:00"
+  },
+  {
+   "id": "77ae4eacf6",
+   "title": "Brex：审计 Agent 里 90% 提示词你控不住——按信任分层再进决策",
+   "summary": "Brex 工程文：费用审计 Agent 要吃收据、备忘、日历、网页搜索、政策与 SOP；测试里有人把「拒答咒语」塞进费用备注就能让模型整单拒审。做法是不把不可信上下文原样塞进同一提示，而是按证据/权威分层处理，草稿决策先过确定性检查与复核 Agent，再落成锁卡、拒报销等真实动作。",
+   "links": [
+    "https://www.brex.com/journal/articles/what-if-you-cant-control-your-prompt",
+    "https://news.ycombinator.com/item?id=50394420"
+   ],
+   "topic": "brex-uncontrollable-prompt-audit-agent-2026-11-06",
+   "firstSeen": "2026-11-07T00:34:02+08:00"
+  },
+  {
+   "id": "022af07363",
+   "title": "WebAssembly 规范 3.0 发布（2026-11-04）",
+   "summary": "webassembly.github.io 上线 WebAssembly Specification Release 3.0（编辑 Andreas Rossberg）；覆盖结构、校验、执行、二进制与文本格式及变更历史。适合跟进浏览器/运行时对新指令与类型系统的落地节奏。",
+   "links": [
+    "https://webassembly.github.io/spec/core/",
+    "https://news.ycombinator.com/item?id=50394278"
+   ],
+   "topic": "webassembly-spec-3-0-2026-11-04",
+   "firstSeen": "2026-11-07T00:34:02+08:00"
   }
  ],
- "lastChecked": "2026-11-07T00:21:10+08:00"
+ "lastChecked": "2026-11-07T00:34:02+08:00"
 }
