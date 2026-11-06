@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T20:25:59+08:00",
+ "lastUpdated": "2026-11-06T21:01:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37420,7 +37420,39 @@
    ],
    "topic": "cert-in-crafty-falcon-indian-fintech-ai-2026-11-06",
    "firstSeen": "2026-11-06T20:25:59+08:00"
+  },
+  {
+   "id": "85413eead0",
+   "title": "SoftBank 信用违约互换升至四年高位，股价跌约 11%",
+   "summary": "受美国中期选举后 AI/数据中心监管忧虑拖累，软银 5 年 CDS 一度扩至 466 个基点（2022 年 10 月以来最宽），隐含违约概率约 30.6%；其押注 OpenAI、Arm 与数据中心融资，被视为 AI 资本开支风向标。",
+   "links": [
+    "https://www.thestar.com.my/tech/tech-news/2026/11/06/softbank-credit-risk-jumps-to-4-year-high-as-ai-fears-roil-market",
+    "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html"
+   ],
+   "topic": "softbank-cds-4y-high-ai-selloff-2026-11-06",
+   "firstSeen": "2026-11-06T21:01:40+08:00"
+  },
+  {
+   "id": "7c2afef3bf",
+   "title": "Airbnb：微调小模型分类器可达前沿质量，成本约 1%、延迟 <100ms",
+   "summary": "工程博客披露：用内部 GLOWC 微调约 E2B 开源权重，在真实内容审核分类任务上 F1 约 0.90，媲美 GPT-6.1 Sol / Claude Sonnet 5.5，中位延迟约 35ms、高流量下成本约为前沿 API 的百分之一；强调有标注数据、要阈值、高 QPS 时再微调。",
+   "links": [
+    "https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers/",
+    "https://news.ycombinator.com/item?id=50391660"
+   ],
+   "topic": "airbnb-llm-classifier-1pct-cost-2026-11-06",
+   "firstSeen": "2026-11-06T21:01:40+08:00"
+  },
+  {
+   "id": "19361844fc",
+   "title": "Cloudflare：个人 Agent 流量可辨、可分策略放行或拦截",
+   "summary": "安全分析新增 Personal Assistants 类别与 Top 榜，可按 Agent 看路径/状态码；原 Agents 策略扩展为按具体个人 Agent 允许、拦广告页或全拦，并与 Account Abuse Protection 联动看哪个账号在用哪个助手。",
+   "links": [
+    "https://blog.cloudflare.com/personal-agents-visibility-control/"
+   ],
+   "topic": "cloudflare-personal-agents-visibility-control-2026-11",
+   "firstSeen": "2026-11-06T21:01:40+08:00"
   }
  ],
- "lastChecked": "2026-11-06T20:25:59+08:00"
+ "lastChecked": "2026-11-06T21:01:40+08:00"
 }
