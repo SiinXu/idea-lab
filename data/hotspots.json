@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T12:57:57+08:00",
+ "lastUpdated": "2026-11-06T13:14:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36573,7 +36573,39 @@
    ],
    "topic": "claude-code-agent-tutorials-wave-2026-11-06",
    "firstSeen": "2026-11-06T12:57:57+08:00"
+  },
+  {
+   "id": "91947311a0",
+   "title": "纳指 100 单日蒸发约 2.3 万亿美元：中期选举后 AI 基建监管忧虑引爆抛售",
+   "summary": "11 月 5 日纳指 100 约跌 6%，创 2020 年以来最差单日之一；芯片股重挫，市场担心民主党胜选后数据中心与 AI 扩建受限，叠加高估值回调。",
+   "links": [
+    "https://www.swissinfo.ch/eng/nasdaq-100-wipes-out-%242.3-trillion-in-ai-selloff%3A-markets-wrap/92330151",
+    "https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-midterms-rcna607650"
+   ],
+   "topic": "nasdaq-100-ai-selloff-midterms-2026-11-05",
+   "firstSeen": "2026-11-06T13:14:55+08:00"
+  },
+  {
+   "id": "69ad94e447",
+   "title": "SubQ Snap 1.1：面向企业决策的长上下文「决策模型」公测",
+   "summary": "Subquadratic 发布 Snap 1.1：约 38.4 万 token 上下文，多模态输入，输出带概率的结构化选择/评分；自称 AA Decision Index 并列第一档。",
+   "links": [
+    "https://subq.ai/subq-snap-1-1",
+    "https://docs.subq.ai/using-the-api/models/"
+   ],
+   "topic": "subq-snap-1-1-decision-model-2026-11",
+   "firstSeen": "2026-11-06T13:14:55+08:00"
+  },
+  {
+   "id": "95f808efd3",
+   "title": "手绘曲线图在 X 走红：T3 Code 桌面 AI 编程工具「体感质量」跃居第一",
+   "summary": "一张手绘时间线显示桌面 AI 编程助手口碑变迁：T3 Code 陡升领先，Codex 早高峰后回落，Claude 稳步追上；折射开发者换潮。",
+   "links": [
+    "https://x.com/i/trending/2118569967159329131"
+   ],
+   "topic": "t3-code-desktop-quality-chart-viral-2026-11-06",
+   "firstSeen": "2026-11-06T13:14:55+08:00"
   }
  ],
- "lastChecked": "2026-11-06T12:57:57+08:00"
+ "lastChecked": "2026-11-06T13:14:55+08:00"
 }
