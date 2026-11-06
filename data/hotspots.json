@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T00:56:55+08:00",
+ "lastUpdated": "2026-11-07T01:17:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37821,7 +37821,50 @@
    ],
    "topic": "zalando-agentic-identity-broker-2026-11",
    "firstSeen": "2026-11-07T00:56:55+08:00"
+  },
+  {
+   "id": "93e24353b0",
+   "title": "Stet：用「每次成功任务成本」评编码 Agent 会把最差模型排第一",
+   "summary": "作者在自建 24 题榜上发现：按 total spend / successes，GPT-6 Luna low 以约 $0.26/成功居首，却对其他配置 0 胜 13 负；便宜模型靠早退、只啃简单题拉低成本。文章主张改用配对相对质量（Bradley-Terry）并按任务切片再谈路由，批评行业把「成功任务成本」当默认 KPI。",
+   "links": [
+    "https://www.stet.sh/blog/cost-per-successful-task",
+    "https://news.ycombinator.com/item?id=50394927"
+   ],
+   "topic": "stet-cost-per-successful-task-critique-2026-11-06",
+   "firstSeen": "2026-11-07T01:17:34+08:00"
+  },
+  {
+   "id": "d5c6bb8a16",
+   "title": "Baseten 据报两档融资冲 260–300 亿美元估值，约募资 20 亿美元",
+   "summary": "彭博社消息：推理平台 Baseten 洽谈约 20 亿美元融资，一档估值约 260 亿、另一档最高约 300 亿；6 月刚以 130 亿估值募得 15 亿。市场拿它与同量级、却提供底层 GPU 的 Nebius 对比，焦点在「软件层溢价」是否站得住。",
+   "links": [
+    "https://www.techmeme.com/261030/p29",
+    "https://x.com/i/trending/2118752263107653725"
+   ],
+   "topic": "baseten-2b-raise-30b-valuation-talks-2026-11",
+   "firstSeen": "2026-11-07T01:17:34+08:00"
+  },
+  {
+   "id": "589ae5d149",
+   "title": "Firezone 上线欧盟区：身份、策略与审计日志可放在瑞典/法国",
+   "summary": "开源 WireGuard 零信任厂商 Firezone 推出 Cloud EU，控制面与账号数据落在瑞典 Gävle 与法国巴黎 Azure，欧元计费且含免费 Starter；强调账号区域不强制网络绕行，直连 Gateway 仍占绝大多数。面向要欧盟数据驻留的团队。",
+   "links": [
+    "https://www.firezone.dev/blog/firezone-cloud-eu",
+    "https://news.ycombinator.com/item?id=50394994"
+   ],
+   "topic": "firezone-cloud-eu-region-2026-11",
+   "firstSeen": "2026-11-07T01:17:34+08:00"
+  },
+  {
+   "id": "91ed02937b",
+   "title": "Ask HN：Ubuntu 对 9.8 分内核洞拖了一周仍 WIP，信心动摇",
+   "summary": "CVE-2026-98432（标 9.8）公开多日后，提问者指 Ubuntu 安全页仍写 work in progress，靠缓解撑过近一周。HN 约两小时近百赞，评论聚焦 Canonical 人力、内核矩阵过重，以及漏洞洪峰下发行版能否跟得上。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50393105"
+   ],
+   "topic": "ask-hn-ubuntu-cve-patch-delay-confidence-2026-11-06",
+   "firstSeen": "2026-11-07T01:17:34+08:00"
   }
  ],
- "lastChecked": "2026-11-07T00:56:55+08:00"
+ "lastChecked": "2026-11-07T01:17:34+08:00"
 }
