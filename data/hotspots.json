@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T11:25:19+08:00",
+ "lastUpdated": "2026-11-06T11:40:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36252,7 +36252,57 @@
    ],
    "topic": "farm-robotics-challenge-2027-2026-11",
    "firstSeen": "2026-11-06T11:25:19+08:00"
+  },
+  {
+   "id": "56c897b032",
+   "title": "黄仁勋被国会三委员会主席要求闭门汇报：与疑似中国间谍关系",
+   "summary": "众议院外交、对中共特设、情报特设三委员会主席联名致函，要求英伟达 CEO 就与被指为中国情报人员的 Alice Huang 的往来闭门说明；英伟达称属普通客户会面、未涉机密。",
+   "links": [
+    "https://www.axios.com/2026/11/05/jensen-huang-nvidia-congress-china"
+   ],
+   "topic": "jensen-huang-congress-alice-huang-briefing-2026-11-05",
+   "firstSeen": "2026-11-06T11:40:29+08:00"
+  },
+  {
+   "id": "41f60276a1",
+   "title": "蓝色起源发布 Northstar：推力更大、质量更轻的新助推器发动机",
+   "summary": "LOX/LNG 发动机推力约 71.5 万磅，较 BE-4 减重约 30%、零件数减半，超 65% 增材制造，可一天内组装；成为 Blue Origin 第二款助推器发动机。",
+   "links": [
+    "https://www.blueorigin.com/news/introducing-northstar-new-booster-engine"
+   ],
+   "topic": "blue-origin-northstar-booster-engine-2026-11-05",
+   "firstSeen": "2026-11-06T11:40:29+08:00"
+  },
+  {
+   "id": "3954deba21",
+   "title": "匿名卖方拍卖约 5 亿美元纯数据中心贷款：含 Stargate 新墨西哥切片",
+   "summary": "彭博称中期选举后有人把约十多笔数据中心贷款打包竞价，含 Vantage、CyrusOne 及 Stargate 新墨西哥校园约 2500 万美元切片；投标截止 11 月 19 日，最低 1000 万美元。",
+   "links": [
+    "https://beincrypto.com/mystery-seller-data-center-loans-stargate/"
+   ],
+   "topic": "data-center-loans-500m-auction-stargate-2026-11-05",
+   "firstSeen": "2026-11-06T11:40:29+08:00"
+  },
+  {
+   "id": "8f764f0ea7",
+   "title": "Meta 无限期推迟争议商业条款：原定 11 月 20 日不再生效",
+   "summary": "新条款被指给 Meta 抓取出版商内容训 AI 留宽口；公司官网写明「不会在 2026-11-20 生效」，此前已多次延后。",
+   "links": [
+    "https://www.theverge.com/tech/1028473/meta-is-delaying-its-controversial-new-business-terms-indefinitely"
+   ],
+   "topic": "meta-business-terms-indefinite-delay-2026-11-06",
+   "firstSeen": "2026-11-06T11:40:29+08:00"
+  },
+  {
+   "id": "a6aa4aa182",
+   "title": "英国 NHS 启动 STRIDE-RCT：两万余人试用 AI 多癌种血液检测",
+   "summary": "约 200 家诊所、超 2 万名患者试用 Proteotype、Pinpoint AI、Natera、Mercy 等四家早期癌症血检；目标用 AI/生物标志物帮全科医生分流腹部症状，18–24 个月评估能否全国推广。",
+   "links": [
+    "https://www.independent.co.uk/news/uk/home-news/multi-cancer-blood-test-new-nhs-trial-b3079091.html"
+   ],
+   "topic": "nhs-stride-rct-multi-cancer-blood-ai-2026-11",
+   "firstSeen": "2026-11-06T11:40:29+08:00"
   }
  ],
- "lastChecked": "2026-11-06T11:25:19+08:00"
+ "lastChecked": "2026-11-06T11:40:29+08:00"
 }
