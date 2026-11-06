@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T05:19:14+08:00",
+ "lastUpdated": "2026-11-07T05:35:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -38798,7 +38798,95 @@
    ],
    "topic": "okxice-apple-meta-tokenized-stock-objections-2026-11-06",
    "firstSeen": "2026-11-07T05:19:14+08:00"
+  },
+  {
+   "id": "ceeb05b4f6",
+   "title": "Anthropic：用 AI 搭科学模型——建模型、拟合、解释三步都在被机器接手",
+   "summary": "图宾根团队在 Anthropic 客座文中以 Hodgkin–Huxley 为例：AI 已能搜模型空间、做仿真推断拟合参数，但解释与「理解」仍难外包；强调要返回一簇合理解释，而非单一最佳拟合。",
+   "links": [
+    "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+    "https://news.ycombinator.com/item?id=50398727"
+   ],
+   "topic": "anthropic-ai-scientific-models-2026-11-06",
+   "firstSeen": "2026-11-07T05:35:15+08:00"
+  },
+  {
+   "id": "d8887a09bc",
+   "title": "Anthropic 拆解 Agent 记忆：笔记 +「做梦」整理，Pokémon 与企业 Wiki 实测",
+   "summary": "工程文区分会话内写笔记与空闲时 dreaming：用日志纠错、建 wiki、把要点顶进下轮上下文；Fable 5 精简记忆推进更快，错误地标经做梦校正后才走出 Mt. Moon。",
+   "links": [
+    "https://www.anthropic.com/research/components-of-agent-memory",
+    "https://news.ycombinator.com/item?id=50398678"
+   ],
+   "topic": "anthropic-components-agent-memory-2026-11-06",
+   "firstSeen": "2026-11-07T05:35:15+08:00"
+  },
+  {
+   "id": "4f7d86f272",
+   "title": "Frontier Model Forum 发布越狱评级框架：按网络威胁严重度给 jailbreak 打分",
+   "summary": "FMF Jailbreak Rating Framework 1.0 从能力增益、范围、部署难度、发现难度四维给网络类越狱定级，便于厂商与政策方优先修高风险；公开征意见至 2026-12-21。",
+   "links": [
+    "https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/",
+    "https://news.ycombinator.com/item?id=50398738"
+   ],
+   "topic": "fmf-jailbreak-rating-framework-cyber-2026-11",
+   "firstSeen": "2026-11-07T05:35:15+08:00"
+  },
+  {
+   "id": "c49c4fb996",
+   "title": "Stratechery：互联网的终结——公开网络成战场，软件要改走「小圈子」",
+   "summary": "Ben Thompson 称 AI 攻防让自建公开站点近乎疯狂，博客与社交都靠「变小」续命；看好为一人/一小团写私有软件，无限本地市场取代单一全球互联网。",
+   "links": [
+    "https://stratechery.com/2026/the-end-of-the-internet/",
+    "https://news.ycombinator.com/item?id=50398717"
+   ],
+   "topic": "stratechery-end-of-the-internet-2026-11",
+   "firstSeen": "2026-11-07T05:35:15+08:00"
+  },
+  {
+   "id": "527dd558e2",
+   "title": "Claude Duet 手机端可管 Claude Code：跟进、留言、审批会话",
+   "summary": "iOS Duet 1.261108.0（2026-11-06）把 Claude Code 会话拉到手机 Sessions：可远程跟进与回复；配合仓库依赖检测与密钥隔离，开发者可出门盯长跑任务。",
+   "links": [
+    "https://x.com/i/trending/2118812904648794590",
+    "https://techdevnotes.com/apps/ios/claude-duet/6803276000"
+   ],
+   "topic": "claude-duet-mobile-code-sessions-2026-11-06",
+   "firstSeen": "2026-11-07T05:35:15+08:00"
+  },
+  {
+   "id": "f947af4142",
+   "title": "研究员拿下 Meta Ray-Ban 智能眼镜任意代码执行：OTA + 自签 DAT + MobileConfig",
+   "summary": "通过 Frida 抓全量固件、在固件 126 前替换未验签 DAT APK，用蜂鸣调试并在 Wi‑Fi Direct 上绑 31337 shell；127 后靠改 MobileConfig 关签名校验绕过，已向 Meta 报备。",
+   "links": [
+    "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+    "https://news.ycombinator.com/item?id=50398690"
+   ],
+   "topic": "meta-rayban-smartglasses-rce-writeup-2026-11-06",
+   "firstSeen": "2026-11-07T05:35:15+08:00"
+  },
+  {
+   "id": "996a31376c",
+   "title": "MIT TR 试住：Tau Robotics 人形机器人上门打扫旧金山公寓",
+   "summary": "远程人驾+运动学示教收训练数据，吸尘拖地已有自主；约 $60/周两台或 $100 单次，仍慢、怕热、爬楼晃，但能擦台面冲马桶——家务人形从演示走进付费 Beta。",
+   "links": [
+    "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "https://news.ycombinator.com/item?id=50398702"
+   ],
+   "topic": "tau-robotics-humanoid-home-cleaning-2026-11-06",
+   "firstSeen": "2026-11-07T05:35:15+08:00"
+  },
+  {
+   "id": "9f1ff32d0c",
+   "title": "John Langford：微软 AI Frontiers 终结——并入 MAI 后「只扩规模不做研究」",
+   "summary": "原 MSR AI Frontiers 负责人称并入 Microsoft AI 后领导层只押 scaling、排斥研究，核心班子陆续离开；Autogen、Fara 与若干基础能力工作随之散场，并吐槽回 MSR 也难落地。",
+   "links": [
+    "https://hunch.net/?p=13764006",
+    "https://news.ycombinator.com/item?id=50398596"
+   ],
+   "topic": "msr-ai-frontiers-end-langford-2026-11-06",
+   "firstSeen": "2026-11-07T05:35:15+08:00"
   }
  ],
- "lastChecked": "2026-11-07T05:19:14+08:00"
+ "lastChecked": "2026-11-07T05:35:15+08:00"
 }
