@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T13:58:29+08:00",
+ "lastUpdated": "2026-11-06T14:14:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36711,7 +36711,45 @@
    ],
    "topic": "doj-sitf-super-intelligence-task-force-2026-11-05",
    "firstSeen": "2026-11-06T13:58:29+08:00"
+  },
+  {
+   "id": "f975d86a3e",
+   "title": "台股盘中史诗级暴跌、韩股触发熔断：AI 数据中心监管忧虑引爆亚洲芯片股",
+   "summary": "11 月 6 日早盘，台湾加权指数盘中一度暴跌逾 3700 点（约 9%），创史上最大点数跌幅，台积电等权重股触及跌停；韩国 KOSPI 开盘跌超约 8% 触发约 20 分钟交易暂停。华尔街中期选举后对 AI 基建/数据中心监管的抛售蔓延至亚洲半导体供应链。",
+   "links": [
+    "https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout",
+    "https://focustaiwan.tw/business/202611060006",
+    "https://www.investing.com/news/stock-market-news/south-koreas-kospi-halts-trade-after-8-wipeout-on-ai-losses-5006208",
+    "https://x.com/i/trending/2118583745360039963",
+    "https://news.ycombinator.com/item?id=50388734"
+   ],
+   "topic": "taiwan-kospi-ai-rout-halt-2026-11-06",
+   "firstSeen": "2026-11-06T14:14:44+08:00"
+  },
+  {
+   "id": "fd4911b90c",
+   "title": "Hugging Face CEO：我的 P(doom)「接近零」，真正风险来自闭门造车的封闭实验室",
+   "summary": "Clément Delangue 在 WIRED World Fair 称其灭绝概率估计接近零，并指多数风险来自少数闭源前沿实验室；开源生态才是缓解路径。他同时透露 Hugging Face 建设者已超 2000 万，并重申部署方应对 Agent 网络攻击负责。文章刚登上 HN。",
+   "links": [
+    "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+    "https://news.ycombinator.com/item?id=50388752"
+   ],
+   "topic": "hf-delangue-pdoom-near-zero-wired-2026-11",
+   "firstSeen": "2026-11-06T14:14:44+08:00"
+  },
+  {
+   "id": "efd78f3fe7",
+   "title": "SpaceX 证实亚利桑那 Cochise 巨型 AI 数据中心：约 747 英亩、满载约 6GW",
+   "summary": "SpaceX 在科奇斯县社区会上确认，以 Tombstone Resources 名义申请的园区靠近 Apache 发电厂，最多约 9 栋算力楼、满载约 6GW，宣称干冷、约 1000 个常驻岗位；当地反对声浪大，规划与分区委员会 12 月 9 日听证。",
+   "links": [
+    "https://www.kvoa.com/news/cochisecounty/spacex-hosts-rowdy-meeting-on-proposed-cochise-co-data-center-campus/article_3a9de0c9-74e8-4f46-a00e-083a8cfda0d3.html",
+    "https://www.myheraldreview.com/news/cochise_county/spacex-outlines-50-billion-cochise-data-center-plans-amid-fierce-opposition/article_e8c166dd-3e72-4e39-b216-ce75e24322c2.html",
+    "https://www.kold.com/2026/11/05/spacex-may-be-behind-proposed-data-center-cochise-county/",
+    "https://x.com/i/trending/2118353928991715723"
+   ],
+   "topic": "spacex-cochise-ai-data-center-6gw-2026-11",
+   "firstSeen": "2026-11-06T14:14:44+08:00"
   }
  ],
- "lastChecked": "2026-11-06T13:58:29+08:00"
+ "lastChecked": "2026-11-06T14:14:44+08:00"
 }
