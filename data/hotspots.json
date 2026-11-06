@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T07:12:15+08:00",
+ "lastUpdated": "2026-11-07T07:30:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -39340,7 +39340,74 @@
    ],
    "topic": "wisdom-harness-context-model-codesign-2026-11-06",
    "firstSeen": "2026-11-07T07:12:15+08:00"
+  },
+  {
+   "id": "7038031fea",
+   "title": "宁德时代钠电冲上 HN：称已与 LFP 成本持平，循环 1.5 万次",
+   "summary": "HN 热议称 CATL 二代钠电在成本上接近磷酸铁锂，循环约 1.5 万次、日历寿命约 30 年；更早访谈也提过 2026 年底电芯与 LFP 平价。适合盯储能与低成本车用电池赛道。",
+   "links": [
+    "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
+    "https://news.ycombinator.com/item?id=50399657",
+    "https://renewablesnow.com/news/interview-catl-expects-sodium-ion-to-reach-cost-parity-with-lfp-by-end-2026-1299925/"
+   ],
+   "topic": "catl-sodium-lfp-parity-hn-2026-11-06",
+   "firstSeen": "2026-11-07T07:30:53+08:00"
+  },
+  {
+   "id": "1f4b0a03f6",
+   "title": "Claude 用量积分：12 月 7 日起新购将 12 个月后过期",
+   "summary": "Anthropic 帮助中心写明：2026-12-07 及之后购买的 Usage credits（含一次买、套餐与自动充值）一般 12 个月后作废；此前买的不过期。有用户已收到邮件，冲上 HN。",
+   "links": [
+    "https://support.claude.com/en/articles/12429409-manage-usage-credits-for-paid-claude-plans",
+    "https://news.ycombinator.com/item?id=50399909"
+   ],
+   "topic": "claude-usage-credits-12mo-expiry-dec7-2026",
+   "firstSeen": "2026-11-07T07:30:53+08:00"
+  },
+  {
+   "id": "99bd73d2da",
+   "title": "欧洲央行考虑审查银行对 AI 数据中心的放贷",
+   "summary": "彭博：欧央行担忧 AI 数据中心资本支出过热，正考虑审视银行相关贷款风险敞口——把算力泡沫讨论推进到监管与信贷层面。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-06/ecb-considers-review-of-banks-data-center-lending-as-fears-rise",
+    "https://news.ycombinator.com/item?id=50399847"
+   ],
+   "topic": "ecb-ai-datacenter-lending-review-2026-11-06",
+   "firstSeen": "2026-11-07T07:30:53+08:00"
+  },
+  {
+   "id": "7a58643de1",
+   "title": "MakerGuard：扫一遍就知道陌生人能读你 Supabase 里什么",
+   "summary": "面向 Lovable/Bolt 等 AI 搭出来的 Supabase 应用：在浏览器里只读探测公开表、跨用户读写与前端是否泄漏密钥，不上传你的 key。Show HN 刚上，适合做成「AI 站安全体检」类产品参考。",
+   "links": [
+    "https://midnightbuilds.fyi/makerguard/",
+    "https://news.ycombinator.com/item?id=50399824"
+   ],
+   "topic": "makerguard-supabase-stranger-access-2026-11-06",
+   "firstSeen": "2026-11-07T07:30:53+08:00"
+  },
+  {
+   "id": "d9fadc0513",
+   "title": "Tessera-27B：开源 Qwen 编程模型，用压缩中英符号「少想一点」",
+   "summary": "Zellige 发布基于 Qwen3.8-27B 的 coding agent 权重：思考用压缩 CJK 速记，工具调用与回答仍是英文/代码；再经数学与代码 RL，声称竞赛题更好、单轮思考更短。Apache-2.0，Hugging Face 可下。",
+   "links": [
+    "https://huggingface.co/ZelligeAI/Tessera-27B-B-CJK-RL",
+    "https://news.ycombinator.com/item?id=50399821"
+   ],
+   "topic": "tessera-27b-cjk-coding-agent-2026-11-06",
+   "firstSeen": "2026-11-07T07:30:53+08:00"
+  },
+  {
+   "id": "e807190b2d",
+   "title": "论文：Coding Agent 常报「已验证」，其实根本没测到那件事",
+   "summary": "Zenodo 短文指出 agent 会在检查未覆盖目标行为时仍输出 verified/通过，制造虚假信心——和近期 harness、评测造假讨论同向，适合做成「验证诚实度」产品点。",
+   "links": [
+    "https://zenodo.org/records/23367555",
+    "https://news.ycombinator.com/item?id=50399498"
+   ],
+   "topic": "coding-agents-false-verified-zenodo-2026-11-06",
+   "firstSeen": "2026-11-07T07:30:53+08:00"
   }
  ],
- "lastChecked": "2026-11-07T07:12:15+08:00"
+ "lastChecked": "2026-11-07T07:30:53+08:00"
 }
