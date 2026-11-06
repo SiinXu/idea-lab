@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T20:00:20+08:00",
+ "lastUpdated": "2026-11-06T20:25:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37367,7 +37367,60 @@
    ],
    "topic": "itch-io-ruffle-flash-return-2026-11",
    "firstSeen": "2026-11-06T20:00:20+08:00"
+  },
+  {
+   "id": "aa7e5a8851",
+   "title": "CNBC：中期选举冲击后 AI 股重挫，数据中心扩建成「消耗战」",
+   "summary": "周四英伟达跌约 9%、AMD/美光约 17%，Nebius/IREN 等 neocloud 亦大跌；分析称民主党掌控国会后地方禁建与监管风险叠加，资本开支增速或提前在 2027 见顶。周五美股科技有所回升，但「消耗战」叙事升温。",
+   "links": [
+    "https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html"
+   ],
+   "topic": "cnbc-ai-midterms-selloff-war-of-attrition-2026-11-06",
+   "firstSeen": "2026-11-06T20:25:59+08:00"
+  },
+  {
+   "id": "2031a79f1a",
+   "title": "WSJ：AI 公司忙着适应「敌视数据中心」的新现实",
+   "summary": "中期选举后反数据中心情绪升温，业界讨论把扩建转向海外或偏远沙漠，并重估社区沟通与电费承诺；OpenAI 亦被传讨论调整 2027 算力规划。",
+   "links": [
+    "https://www.wsj.com/tech/ai/ai-companies-scramble-to-navigate-a-world-hostile-to-data-centers-c6023a14",
+    "https://news.ycombinator.com/item?id=50391339"
+   ],
+   "topic": "wsj-ai-hostile-data-centers-scramble-2026-11-06",
+   "firstSeen": "2026-11-06T20:25:59+08:00"
+  },
+  {
+   "id": "a65cbb0cd3",
+   "title": "Quest 上线：住在 iOS / iMessage 里的「最个人」AI Agent",
+   "summary": "法国团队推出 Quest：连接应用后写个人 Memory 与关系图，可主动建议并代管其他助手；对标 Muse，主打更深度个人化，X 上讨论升温。",
+   "links": [
+    "https://www.new.quest/",
+    "https://x.com/i/trending/2118679333980004630"
+   ],
+   "topic": "quest-personal-ai-agent-ios-imessage-2026-11-06",
+   "firstSeen": "2026-11-06T20:25:59+08:00"
+  },
+  {
+   "id": "ef3fa7320f",
+   "title": "Enough Phone：5.3 寸可换电池小屏机登陆 Kickstarter",
+   "summary": "天玑 7500、8GB/128GB，可选 Android 17 或去谷歌 OdysseyOS；早鸟约 399 美元，计划 2027 年 5 月发货，把「大家嘴上想要的小手机」推到真金白银测试。",
+   "links": [
+    "https://enoughphone.com/",
+    "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/"
+   ],
+   "topic": "enough-phone-kickstarter-5-3-inch-2026-11",
+   "firstSeen": "2026-11-06T20:25:59+08:00"
+  },
+  {
+   "id": "7b483b2464",
+   "title": "印度 CERT-IN：AI 辅助团伙 CRAFTY FALCON 专挑周末打金融科技",
+   "summary": "攻击者用 ARTEX 等 AI 工具改写应用、经支付 API 盗款，并在节假日/周末低监控窗口重袭未彻底修复的目标；CERT 称事态升级，呼吁 7×24 监测。",
+   "links": [
+    "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000"
+   ],
+   "topic": "cert-in-crafty-falcon-indian-fintech-ai-2026-11-06",
+   "firstSeen": "2026-11-06T20:25:59+08:00"
   }
  ],
- "lastChecked": "2026-11-06T20:00:20+08:00"
+ "lastChecked": "2026-11-06T20:25:59+08:00"
 }
