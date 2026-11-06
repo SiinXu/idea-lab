@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T02:33:49+08:00",
+ "lastUpdated": "2026-11-07T02:46:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -38104,7 +38104,50 @@
    ],
    "topic": "ymtc-70pct-domestic-equipment-fab4-2026-11",
    "firstSeen": "2026-11-07T02:33:49+08:00"
+  },
+  {
+   "id": "68179cdb13",
+   "title": "Standard Physics 推出 Archimedes：AI 智能体做物理工程设计",
+   "summary": "前称 Inviscid AI 的 Standard Physics 发布 Archimedes，用多智能体探索涡轮叶片、散热、螺旋桨等设计，并由开源 Reynolds 代理在 OpenFOAM 等真实求解器里做可验证的物理仿真；工程师晒出数据中心布局省约 27 万美元等案例。",
+   "links": [
+    "https://standardphysics.com/archimedes",
+    "https://x.com/i/trending/2118773895993946584"
+   ],
+   "topic": "standard-physics-archimedes",
+   "firstSeen": "2026-11-07T02:46:16+08:00"
+  },
+  {
+   "id": "cd8d75dc40",
+   "title": "Scott Helme：已确认 15579 个网站遭恶意 JS 感染，通知跟不上发现速度",
+   "summary": "Report URI 威胁情报确认约 15579 个站点仍在跑信用卡侧录、ClickFix、设备木马等恶意脚本，保守估计合计月访超 1.35 亿；负责人公开求助 CERT/NCSC 协助规模化负责任披露，并欢迎安全厂商接入情报。",
+   "links": [
+    "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+    "https://news.ycombinator.com/item?id=50396064"
+   ],
+   "topic": "report-uri-15579-infected-sites",
+   "firstSeen": "2026-11-07T02:46:16+08:00"
+  },
+  {
+   "id": "865c54f19b",
+   "title": "Linux 7.4-rc2：FAT32 再优化，同步挂载最高约 162 倍提速",
+   "summary": "Phoronix 报道：Matheus Alves de Almeida 的 fat_cont_expand 预分配补丁并入 7.4-rc2，小簇大小、同步挂载场景收益最大；同周期内此前已有最高约 265 倍的 FAT32 优化，7.5 还有后续改进在路上。",
+   "links": [
+    "https://www.phoronix.com/news/Linux-7.4-rc2-FAT32"
+   ],
+   "topic": "linux-74-rc2-fat32-162x",
+   "firstSeen": "2026-11-07T02:46:16+08:00"
+  },
+  {
+   "id": "75d447ac87",
+   "title": "Wordfence：攻击者正大规模探测 WordPress 升级窗口 RCE",
+   "summary": "Wordfence 称在野流量正积极探测 WordPress 核心升级窗口远程代码执行漏洞；该洞此前已入 CISA 已知利用清单，站点需尽快升到含修复的版本，并留意升级窗口暴露面。",
+   "links": [
+    "https://www.wordfence.com/blog/2026/11/attackers-actively-probing-for-upgrade-window-rce-vulnerability-in-wordpress-core/",
+    "https://news.ycombinator.com/item?id=50396504"
+   ],
+   "topic": "wordpress-upgrade-rce-wordfence-probing",
+   "firstSeen": "2026-11-07T02:46:16+08:00"
   }
  ],
- "lastChecked": "2026-11-07T02:33:49+08:00"
+ "lastChecked": "2026-11-07T02:46:16+08:00"
 }
