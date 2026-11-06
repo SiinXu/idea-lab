@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T00:34:02+08:00",
+ "lastUpdated": "2026-11-07T00:46:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37730,7 +37730,43 @@
    ],
    "topic": "webassembly-spec-3-0-2026-11-04",
    "firstSeen": "2026-11-07T00:34:02+08:00"
+  },
+  {
+   "id": "a4854bee8b",
+   "title": "WIRED 发 Cybertruck「讣告」：停产消息引爆 HN，评论近 230 条",
+   "summary": "马斯克称德州工厂明年中前后收尾 Cybertruck、给 Cybercab 腾产能后，WIRED 发长文《RIP Cybertruck》盘点销量惨淡、多次召回与玻璃演示翻车；HN 帖「RIP Cybertruck」约 1.7 小时内冲到约 180 分、近 230 条评论，X 上也同步冲上趋势。适合观察「硬件神话崩塌」叙事如何带动二次传播。",
+   "links": [
+    "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+    "https://news.ycombinator.com/item?id=50393154",
+    "https://x.com/search?q=Cybertruck"
+   ],
+   "topic": "wired-rip-cybertruck-hn-2026-11-06",
+   "firstSeen": "2026-11-07T00:46:40+08:00"
+  },
+  {
+   "id": "b1369d0783",
+   "title": "英伟达收紧东南亚 GPU 追踪：要拿 Cloud Partner 须接 Fleet Intelligence",
+   "summary": "彭博/Tom's Hardware：东南亚云厂商若想成为官方 Nvidia Cloud Partner，须接入 Fleet Intelligence，上报加速卡部署与位置；背景是华盛顿对受限芯片经区域走私进入中国的压力。该系统去年起作数据中心管理工具，参与在 NCP 要求外仍自愿，是否扩到现有伙伴或其他地区尚未明确。",
+   "links": [
+    "https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status",
+    "https://theedgemalaysia.com/node/824907",
+    "https://news.ycombinator.com/item?id=50394613"
+   ],
+   "topic": "nvidia-fleet-intelligence-sea-ncp-2026-11-06",
+   "firstSeen": "2026-11-07T00:46:40+08:00"
+  },
+  {
+   "id": "f959e16533",
+   "title": "Fox 以约 220 亿美元完成收购 Roku：流媒体+CTV 格局重排",
+   "summary": "TechCrunch/官方：Fox 今日完成约 220 亿美元收购 Roku（早于原定 2027 上半年），覆盖逾 1 亿户；Fox 称合并后按收视成美国第三大电视业务，押注连通电视广告与降低对传统分发依赖。DOJ 二请后交易提前交割，适合跟踪平台广告与内容分发一体化趋势。",
+   "links": [
+    "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+    "https://www.foxcorporation.com/news/archives/2026/fox-corporation-completes-acquisition-of-roku/",
+    "https://deadline.com/2026/11/fox-corp-closes-roku-acquisition-1237215436/"
+   ],
+   "topic": "fox-closes-22b-roku-acquisition-2026-11-06",
+   "firstSeen": "2026-11-07T00:46:40+08:00"
   }
  ],
- "lastChecked": "2026-11-07T00:34:02+08:00"
+ "lastChecked": "2026-11-07T00:46:40+08:00"
 }
