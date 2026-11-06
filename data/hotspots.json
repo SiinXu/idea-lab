@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T13:28:07+08:00",
+ "lastUpdated": "2026-11-06T13:48:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36638,7 +36638,42 @@
    ],
    "topic": "sarvam-prism-decision-model-2026-11",
    "firstSeen": "2026-11-06T13:28:07+08:00"
+  },
+  {
+   "id": "4a7d2de97b",
+   "title": "日经逼近/进入技术性熊市：亚洲芯片股跟随华尔街 AI 抛售狂泻",
+   "summary": "11 月 6 日东京早盘，日经 225 一度跌超 7%、跌破 6 万点，距 6 月高点回撤约 20%，逼近/进入技术性熊市；Topix 盘中跌幅创约一年半最大。韩国 Kospi 亦暴跌近 9% 触发熔断，台股同步走弱。诱因是华尔街中期选举后 AI/半导体监管忧虑引爆纳指大跌，Advantest、软银、Kioxia、东京电子等领跌。",
+   "links": [
+    "https://www.moneycontrol.com/news/business/markets/japan-s-nikkei-poised-to-enter-bear-market-as-ai-selloff-deepens-14072070.html",
+    "https://www.investing.com/news/stock-market-news/japans-nikkei-nears-bear-market-as-ai-rout-batters-tech-valuations-5006297",
+    "https://www3.nhk.or.jp/nhkworld/news/20261106de71347/",
+    "https://apnews.com/article/markets-japan-nikkei-oil-ai-bba6f0bf9035a6e6b1c4fef3e8230b89"
+   ],
+   "topic": "nikkei-ai-selloff-bear-market-2026-11-06",
+   "firstSeen": "2026-11-06T13:48:13+08:00"
+  },
+  {
+   "id": "d4f7f7b00c",
+   "title": "Goodfire 提出「机制塑形」：用内部表征教模型「用对理由做对题」",
+   "summary": "Goodfire 11 月 5 日论文/博客介绍 mechanistic shaping：用可解释性找到的概念方向，在训练中惩罚「依赖」或「表达」不良概念（胸片短路、DPO 谄媚、奖励黑客等），在保留能力提升的同时压低错因。实验显示目标概念大多仍可监测，但探针常需重训或换层；论文还给出五级可监测性层级。",
+   "links": [
+    "https://www.goodfire.com/research/mechanistic-shaping",
+    "https://news.ycombinator.com/item?id=50388416"
+   ],
+   "topic": "goodfire-mechanistic-shaping-2026-11-05",
+   "firstSeen": "2026-11-06T13:48:13+08:00"
+  },
+  {
+   "id": "8c10d9afea",
+   "title": "Clio 推司法 AI 遇州法拼图：马萨诸塞禁法官用生成式 AI，纽约有条件放行",
+   "summary": "法律科技公司 Clio 收购 Learned Hand 后加码法院/法官侧 AI，但 LawSites 梳理的 50 州政策差异很大：马萨诸塞禁止法官用生成式 AI 做法律工作，纽约允许经批准的私有 AI 做笔录摘要等。加州则由地方法院自定护栏，Learned Hand 已在洛杉矶县试点「AI 书记员」。",
+   "links": [
+    "https://www.lawnext.com/2026/11/clio-wants-to-bring-ai-to-the-judiciary-but-50-state-survey-reveals-policies-differ-in-whether-they-allow-it.html",
+    "https://www.clio.com/about/press/clio-acquires-learned-hand-judiciary-ai/"
+   ],
+   "topic": "clio-judiciary-ai-50-state-policy-2026-11",
+   "firstSeen": "2026-11-06T13:48:13+08:00"
   }
  ],
- "lastChecked": "2026-11-06T13:28:07+08:00"
+ "lastChecked": "2026-11-06T13:48:13+08:00"
 }
