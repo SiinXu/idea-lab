@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T23:56:55+08:00",
+ "lastUpdated": "2026-11-07T00:21:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37642,7 +37642,62 @@
    ],
    "topic": "warby-parker-android-xr-preorder-2026-11-12",
    "firstSeen": "2026-11-06T23:56:55+08:00"
+  },
+  {
+   "id": "53920df1f3",
+   "title": "ING 拍卖约 5 亿美元数据中心贷款：含 Stargate 新墨西哥一笔",
+   "summary": "彭博称 ING 拟以 BWIC 卖掉约 12 笔数据中心贷款（合计约 5 亿美元），含 OpenAI/软银/甲骨文 Stargate 新墨西哥项目约 2500 万美元份额及 Vantage、CyrusOne 相关债；11 月 19 日截止、单笔起拍 1000 万美元。正值中期选举后市场担心 AI 基建债务与数据中心审批收紧。",
+   "links": [
+    "https://www.cnbc.com/2026/11/06/ing-ai-data-center-loans-debt.html",
+    "https://x.com/i/trending/2118679337159307748"
+   ],
+   "topic": "ing-data-center-loans-bwic-500m-2026-11-06",
+   "firstSeen": "2026-11-07T00:21:10+08:00"
+  },
+  {
+   "id": "ff1c95fb41",
+   "title": "奥克兰货运劫案：六托盘英伟达硬件约 1140 万美元失踪",
+   "summary": "ABC7/Tom's Hardware：8 月 29 日从奥克兰运往得州的英伟达硬件被伪装成食品运输的卡车接走，随后在圣贝纳迪诺县失联；奥克兰警局 9 月 13 日接报，至今未见逮捕。专家称高端芯片海外黑市价可翻倍，AI 算力货运安保再成焦点。",
+   "links": [
+    "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears",
+    "https://abc7news.com/post/114-million-shipment-nvidia-cargo-stolen-oakland-calif/20018822/"
+   ],
+   "topic": "nvidia-oakland-gpu-cargo-theft-11-4m-2026-11-06",
+   "firstSeen": "2026-11-07T00:21:10+08:00"
+  },
+  {
+   "id": "42e207b7c0",
+   "title": "Unleash：开源特性开关平台开源 11 年，再冲上 HN",
+   "summary": "GitHub 上的 Unleash 自称做了 11 年开源 feature flag / feature management；今日 HN 热议自托管特性开关相对商业 SaaS 的控制权与成本。适合做成 Idea Lab「自托管实验开关」类点子参考。",
+   "links": [
+    "https://github.com/Unleash/unleash",
+    "https://news.ycombinator.com/item?id=50391145"
+   ],
+   "topic": "unleash-oss-feature-flags-11y-hn-2026-11-06",
+   "firstSeen": "2026-11-07T00:21:10+08:00"
+  },
+  {
+   "id": "998411a5ae",
+   "title": "银湖 + 沙特 PIF 据报洽购 Unity，估值约 250 亿美元",
+   "summary": "路透/The Verge：银湖与沙特主权基金 PIF（此前联手 550 亿美元私有化 EA）与 Unity 有初步收购接触，讨论估值约 250 亿美元；Unity 股价盘后走高，交易未敲定。",
+   "links": [
+    "https://www.theverge.com/games/1028484/unity-has-reportedly-had-acquisition-talks-with-silver-lake-and-pif",
+    "https://x.com/i/trending/2118510475545833542"
+   ],
+   "topic": "unity-silver-lake-pif-25b-talks-2026-11-06",
+   "firstSeen": "2026-11-07T00:21:10+08:00"
+  },
+  {
+   "id": "4852e04127",
+   "title": "国会三主席要求黄仁勋闭门说明与疑似中国情报人员往来",
+   "summary": "众议院外交、对中共特设等委员会共和党主席致信，请英伟达 CEO 黄仁勋 11 月 18 日到雷伯恩大楼简报：与被指中国情报人员的 Megaspeed 高管 Alice Huang 的往来，以及公司反间谍安保；11 月 11 日前答复。英伟达称接触属常规商务。",
+   "links": [
+    "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
+    "https://foreignaffairs.house.gov/news/press-releases/chairmen-mast-moolenaar-and-crawford-request-jensen-huang-brief-congress-on-link-to-chinese-intelligence-asset"
+   ],
+   "topic": "nvidia-huang-congress-briefing-megaspeed-2026-11-05",
+   "firstSeen": "2026-11-07T00:21:10+08:00"
   }
  ],
- "lastChecked": "2026-11-06T23:56:55+08:00"
+ "lastChecked": "2026-11-07T00:21:10+08:00"
 }
