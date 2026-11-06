@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T14:14:44+08:00",
+ "lastUpdated": "2026-11-06T14:34:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36749,7 +36749,28 @@
    ],
    "topic": "spacex-cochise-ai-data-center-6gw-2026-11",
    "firstSeen": "2026-11-06T14:14:44+08:00"
+  },
+  {
+   "id": "ac0effd730",
+   "title": "Planet 上线 AI App：用自然语言搜十年卫星影像",
+   "summary": "地图聊天界面可搜 Planet 约十年地球观测、做时序对比与 Deep Research 分析；即日起开放，合格用户可免费试用。",
+   "links": [
+    "https://www.planet.com/pulse/introducing-the-planet-ai-app-search-explore-act/",
+    "https://ai.planet.com/"
+   ],
+   "topic": "planet-ai-app-satellite-search-2026-11-05",
+   "firstSeen": "2026-11-06T14:34:04+08:00"
+  },
+  {
+   "id": "5e910cc5dd",
+   "title": "USA Today：AI 搜索摘要分流拖累数字广告收入",
+   "summary": "CEO Mike Reed 称读者停在 AI 摘要不再点进站点，Q3 营收同比降 7.4%；公司一边怪 AI，一边用 Palantir 与视频等内容反攻 AI 分发。",
+   "links": [
+    "https://www.poynter.org/business-work/2026/usa-today-co-ai-use-advertising-video/"
+   ],
+   "topic": "usa-today-ai-search-traffic-revenue-2026-11-05",
+   "firstSeen": "2026-11-06T14:34:04+08:00"
   }
  ],
- "lastChecked": "2026-11-06T14:14:44+08:00"
+ "lastChecked": "2026-11-06T14:34:04+08:00"
 }
