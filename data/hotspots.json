@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T18:37:39+08:00",
+ "lastUpdated": "2026-11-06T18:59:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37183,7 +37183,60 @@
    ],
    "topic": "nucleus-ivf-embryo-iq-ads-x-2026-11",
    "firstSeen": "2026-11-06T18:37:39+08:00"
+  },
+  {
+   "id": "583ea33e74",
+   "title": "Cloudflare CEO：AI Agent 成站主「灾星」，容器架构也跟不上",
+   "summary": "财报电话会上 Matthew Prince 称部分客户视 Agent 为负担：一次点餐可能扫千家餐厅菜单，999 家白白扛流量成本；并称容器难经济地支撑 agentic 流量，力推 Workers 与内容防护（称自 7 月约 5% 网站已接入）。",
+   "links": [
+    "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022"
+   ],
+   "topic": "cloudflare-prince-ai-agents-bane-containers-2026-11-06",
+   "firstSeen": "2026-11-06T18:59:57+08:00"
+  },
+  {
+   "id": "12b94358b4",
+   "title": "IREN 一季报：AI 云收入环比近三倍至 2 亿美元",
+   "summary": "截至 9/30 的 FY27 Q1，总收入 2.28 亿、AI Cloud 2 亿（环比 +182%，毛利率 86%），积压约 203 亿；称 >40 亿 ARR 目标已签约并获资金，Horizon 1 交付微软并获 NVIDIA Exemplar。",
+   "links": [
+    "https://iren.gcs-web.com/news-releases/news-release-details/iren-reports-q1-fy27-results",
+    "https://x.com/i/trending/2118451606962462854"
+   ],
+   "topic": "iren-q1-fy27-ai-cloud-200m-2026-11",
+   "firstSeen": "2026-11-06T18:59:57+08:00"
+  },
+  {
+   "id": "e1ad34741f",
+   "title": "《外交政策》：中期选举成 AI/数据中心公投，蓝潮重创硅谷游说",
+   "summary": "分析称出口民调 57% 认为 AI 弊大于利；得州等州多位主张数据中心暂停/严管的民主党人胜选，41 项地方限制数据中心公投几乎全过，科技金主砸超 5 亿美元挺共和党仍难挡。",
+   "links": [
+    "https://foreignpolicy.com/2026/11/05/midterm-results-ai-data-centers-texas-georgia-ohio/"
+   ],
+   "topic": "foreign-policy-midterms-ai-data-center-reckoning-2026-11",
+   "firstSeen": "2026-11-06T18:59:57+08:00"
+  },
+  {
+   "id": "33276b0f81",
+   "title": "Slopaholics Anonymous：追逐「Karpathy Peak」后跌落 Slop Cliff",
+   "summary": "研究者自述过度 vibe/agent 编码导致「体感生产力」与真实产出脱节，并对照 Ballmer Peak 与 METR 实验；给出冷火鸡、定期下钻数据/代码、找人审稿等「戒 slop」建议，HN 热议。",
+   "links": [
+    "https://thomasjiralerspong.substack.com/p/chasing-the-karpathy-peak",
+    "https://news.ycombinator.com/item?id=50385434"
+   ],
+   "topic": "slopaholics-karpathy-peak-slop-cliff-2026-11",
+   "firstSeen": "2026-11-06T18:59:57+08:00"
+  },
+  {
+   "id": "b738d83be9",
+   "title": "ING 挂牌约 5 亿美元数据中心贷款包（含 Stargate 切片）",
+   "summary": "彭博等报道荷兰国际集团正拍卖约 5 亿美元数据中心贷款组合，含 OpenAI/软银/甲骨文 Stargate 新墨西哥约 2500 万美元敞口及 Vantage、CyrusOne 相关债，投标截止约 11/19。",
+   "links": [
+    "https://live.euronext.com/en/financial-news/ing-puts-500-million-data-center-loans-sale-bloomberg-news-reports",
+    "https://theedgemalaysia.com/node/824796"
+   ],
+   "topic": "ing-500m-data-center-loans-sale-2026-11-06",
+   "firstSeen": "2026-11-06T18:59:57+08:00"
   }
  ],
- "lastChecked": "2026-11-06T18:37:39+08:00"
+ "lastChecked": "2026-11-06T18:59:57+08:00"
 }
