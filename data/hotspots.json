@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T05:04:58+08:00",
+ "lastUpdated": "2026-11-07T05:19:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -38754,7 +38754,51 @@
    ],
    "topic": "opus-55-custom-harness-long-agents-2026-11-06",
    "firstSeen": "2026-11-07T05:04:58+08:00"
+  },
+  {
+   "id": "80b0fe9799",
+   "title": "DigiCert：服务器迁移失误致内部系统暴露公网 16 个月，客户身份证件遭窥",
+   "summary": "证书机构 DigiCert 承认 2025 年 2 月一次迁移把内部归档系统误暴露到公网达 16 个月；未授权账户在 2026 年 6 月 27 日–7 月 2 日读到部分客户姓名、企业邮箱电话地址，以及护照/驾照等证件。证书签发与客户登录凭证未受影响，公司已通知客户并加强监控。",
+   "links": [
+    "https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/5308097",
+    "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
+    "https://therecord.media/digicert-certificate-authority-reports-data-breach"
+   ],
+   "topic": "digicert-16mo-exposure-customer-id-docs-2026-11-06",
+   "firstSeen": "2026-11-07T05:19:14+08:00"
+  },
+  {
+   "id": "30b579e061",
+   "title": "LEEROY：让 AI 编码 Agent 在魔兽世界里组队打本的长程协作基准",
+   "summary": "开发者用 AzerothCore 私服搭 LEEROY：Agent 不直接控角色，而是写 Lua 脚本驱动无头客户端；五人小队在未被提示组队的情况下自行成团，约 17 小时 41 分清死亡矿井。用来测长任务规划、纠错与多 Agent 协作，源码与实验结果已开源。",
+   "links": [
+    "https://pthm.dev/leeroy-making-ai-agents-play-world-of-warcraft/",
+    "https://news.ycombinator.com/item?id=50398561"
+   ],
+   "topic": "leeroy-wow-ai-agent-benchmark-2026-11",
+   "firstSeen": "2026-11-07T05:19:14+08:00"
+  },
+  {
+   "id": "0ddf9b6c14",
+   "title": "LZ4 1.11：多线程压缩正式进入 liblz4，小数据与字典场景明显提速",
+   "summary": "继 1.10 只给命令行多线程后，1.11 把多线程压进库 API（nbWorkers）；EPYC 上 16 worker 高压缩档吞吐可翻十余倍，小块复用状态与字典压缩/解压也明显加快，并修了一批边角损坏与诊断问题。GitHub 当日趋势榜靠前。",
+   "links": [
+    "https://www.phoronix.com/news/LZ4-1.11-Released",
+    "https://github.com/lz4/lz4/releases/tag/v1.11.0"
+   ],
+   "topic": "lz4-1-11-multithreaded-liblz4-2026-11",
+   "firstSeen": "2026-11-07T05:19:14+08:00"
+  },
+  {
+   "id": "64c4cad865",
+   "title": "Apple、Meta 等反对 OKX–ICE 代币化美股：异议发行人已达约 67 家",
+   "summary": "OKX 与纽交所母公司 ICE 合资的 OKXICE 拟在稳定币结算的 Uniswap v4 池上 7×24 交易代币化美股；CoinDesk 统计约 90% 初选标的已书面反对，名单扩至约 67 家（含 Apple、Meta、Palantir 等）。未反对者多为 Strategy、Coinbase、Circle、Robinhood 等加密相关公司。",
+   "links": [
+    "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch"
+   ],
+   "topic": "okxice-apple-meta-tokenized-stock-objections-2026-11-06",
+   "firstSeen": "2026-11-07T05:19:14+08:00"
   }
  ],
- "lastChecked": "2026-11-07T05:04:58+08:00"
+ "lastChecked": "2026-11-07T05:19:14+08:00"
 }
