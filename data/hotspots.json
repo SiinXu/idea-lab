@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T06:15:31+08:00",
+ "lastUpdated": "2026-11-07T06:24:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -39070,7 +39070,38 @@
    ],
    "topic": "cua-driver-bench-background-agents-2026-11-06",
    "firstSeen": "2026-11-07T06:15:31+08:00"
+  },
+  {
+   "id": "3ed9b5e21f",
+   "title": "Show HN：Waymark——编译任务的工作流引擎，而不是反复重放",
+   "summary": "开源分布式后台工作流：把作业编译后持久执行，强调可恢复与确定性；刚上 HN（约 18 分）并持续更新。适合 Agent/批处理编排场景，可当 Temporal 类轻量替代观察。",
+   "links": [
+    "https://github.com/piercefreeman/waymark",
+    "https://news.ycombinator.com/item?id=50379221"
+   ],
+   "topic": "waymark-compile-jobs-workflow-engine-2026-11",
+   "firstSeen": "2026-11-07T06:24:48+08:00"
+  },
+  {
+   "id": "92e7fb6180",
+   "title": "Kobo 推 Stack：付费同步自有电子书与 PDF 到多设备",
+   "summary": "The Verge：Kobo 的 Stack 订阅让用户上传并在阅读器与 App 间同步自己的 EPUB/PDF，不再只靠商店书库；Kindle/Kobo 用户自管书库的云同步又多一条选项。",
+   "links": [
+    "https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files"
+   ],
+   "topic": "kobo-stack-cloud-sync-ebooks-2026-11",
+   "firstSeen": "2026-11-07T06:24:48+08:00"
+  },
+  {
+   "id": "81e4cffc99",
+   "title": "五角大楼拟向电池初创 6K 提供 2.5 亿美元贷款建美厂",
+   "summary": "TechCrunch：马萨诸塞州 6K 获国防部有条件批准 2.5 亿美元贷款，在田纳西建厂，用微波等离子体工艺生产正极材料、少依赖中国供应链；曾获能源部 5000 万美元拨款后被取消、现转向防务通道。",
+   "links": [
+    "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/"
+   ],
+   "topic": "pentagon-6k-250m-battery-factory-loan-2026-11",
+   "firstSeen": "2026-11-07T06:24:48+08:00"
   }
  ],
- "lastChecked": "2026-11-07T06:15:31+08:00"
+ "lastChecked": "2026-11-07T06:24:48+08:00"
 }
