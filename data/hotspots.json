@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T02:46:16+08:00",
+ "lastUpdated": "2026-11-07T03:06:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -38147,7 +38147,64 @@
    ],
    "topic": "wordpress-upgrade-rce-wordfence-probing",
    "firstSeen": "2026-11-07T02:46:16+08:00"
+  },
+  {
+   "id": "f601b806f6",
+   "title": "Devvm：每个项目一台隔离 VM，给 coding agent 开箱即用沙箱",
+   "summary": "开源工具 Devvm 在 macOS/Linux 上用 Lima 为每个项目起一台隔离虚拟机，自动配工具链与 Claude Code/Codex/opencode，默认网络白名单、密钥不进 VM，降低供应链与 rogue agent 爆破半径；HN 上因「一项目一 VM」思路受关注。",
+   "links": [
+    "https://devvm.dev/",
+    "https://github.com/devvmhq/devvm",
+    "https://news.ycombinator.com/item?id=50395580"
+   ],
+   "topic": "devvm-one-vm-per-project-2026-11",
+   "firstSeen": "2026-11-07T03:06:45+08:00"
+  },
+  {
+   "id": "99eaaf09f3",
+   "title": "Kalshi 连败：第二、第九巡回法院拒挡州赌博法，阿肯色州再起诉",
+   "summary": "Ars：第二巡回法院维持纽约/康州可对预测市场执法，第九巡回法院拒全院重审内华达案；阿肯色州检察长另起州诉，称 Kalshi 实质是赌博却未领牌、未缴税，并允许 18 岁起投注。犹他州刑事案与多州压力叠加，联邦与州管辖权之争或上最高法院。",
+   "links": [
+    "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+    "https://news.ycombinator.com/item?id=50395890"
+   ],
+   "topic": "kalshi-circuit-court-losses-arkansas-ag-2026-11",
+   "firstSeen": "2026-11-07T03:06:45+08:00"
+  },
+  {
+   "id": "1e3f99ddfb",
+   "title": "Linear 联合创始人勾勒「人机一体 IDE」：从议题到写代码、评审都在同一层",
+   "summary": "X 热议：Tuomas Artman 称 Linear 可演进为把创意、规划、实现与评审放在同一应用里的现代 IDE；公司已上线 Coding Sessions，Agent 可从 issue 直接在云端用 Claude Code/Codex 写代码并开 PR，配合 triage 自动化与 Diffs，强调共享上下文而非单人工具。",
+   "links": [
+    "https://x.com/i/trending/2118773897298415902",
+    "https://linear.app/now/coding-sessions-for-linear-agent"
+   ],
+   "topic": "linear-all-in-one-ide-artman-2026-11",
+   "firstSeen": "2026-11-07T03:06:45+08:00"
+  },
+  {
+   "id": "2a4e89d44f",
+   "title": "Paul Graham：多数「硬件工程」其实是软件工程伪装；Boom 用算法做涡轮与飞机",
+   "summary": "X 热议：Boom Supersonic CEO Blake Scholl 现身说法，用版本控制、算法与 AI 替代手工表格设计超音速飞机与 AI 数据中心用涡轮；PG 总结「大多数硬件工程其实是软件工程」。支持者看好小团队硬件，反对者提醒供应链与物理测试不可省略。",
+   "links": [
+    "https://x.com/i/trending/2118777503472861653",
+    "https://x.com/i/trending/2118682941933170864"
+   ],
+   "topic": "pg-hardware-is-software-boom-scholl-2026-11",
+   "firstSeen": "2026-11-07T03:06:45+08:00"
+  },
+  {
+   "id": "c71a38cb66",
+   "title": "Axiom：不到一天把 Weil 猜想证明形式化进 Lean，基于 Stacks 库",
+   "summary": "Axiom 在刚开源的 Stacks Project Lean 库之上，用 AI 智能体把 Weil 猜想（含 Deligne 的 RH 类结果）四条陈述完整形式化进 Lean 4，无 sorry、无额外公理；代码已开源，称尚未经人工完整审阅，展示「基础库就绪后大定理可加速落地」。",
+   "links": [
+    "https://axiommath.ai/research/the-weil-conjectures-formalized-in-lean/",
+    "https://github.com/AxiomMath/Weil",
+    "https://x.com/i/trending/2118732615620674029"
+   ],
+   "topic": "axiom-weil-conjectures-lean-2026-11",
+   "firstSeen": "2026-11-07T03:06:45+08:00"
   }
  ],
- "lastChecked": "2026-11-07T02:46:16+08:00"
+ "lastChecked": "2026-11-07T03:06:45+08:00"
 }
