@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T12:03:52+08:00",
+ "lastUpdated": "2026-11-06T12:10:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36357,7 +36357,71 @@
    ],
    "topic": "airbnb-chesky-stealth-ai-lab-filing-2026-11-05",
    "firstSeen": "2026-11-06T12:03:52+08:00"
+  },
+  {
+   "id": "34aa5b1d1b",
+   "title": "NVIDIA：全栈共设计让 Vera Rubin 智能体吞吐/兆瓦最高约 30 倍",
+   "summary": "官方技术博文称在 HBM 容量仍约 288 GB/GPU 的前提下，靠 NVFP4、Wide-EP、Dynamo KV、Vera CPU 与 CMX 五级共设计，Vera Rubin NVL72 在 SemiAnalysis AgentX 上相对 GB300 NVL72 可达约 30 倍智能体吞吐/兆瓦。",
+   "links": [
+    "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/"
+   ],
+   "topic": "nvidia-vera-rubin-codesign-30x-agent-throughput-2026-11-05",
+   "firstSeen": "2026-11-06T12:10:44+08:00"
+  },
+  {
+   "id": "cbaa25d89d",
+   "title": "16 岁创始人 Polemos 获 YC：AI 制导、可量产的弹道打击系统",
+   "summary": "Polemos Industries 自称做可负担精确打击：量产导弹、紧凑移动发射架，并与现有侦察无人机组网；YC 页面与官网同步曝光，属防御硬科技方向。",
+   "links": [
+    "https://www.ycombinator.com/companies/polemos-industries",
+    "https://polemosindustries.com/"
+   ],
+   "topic": "polemos-industries-yc-ai-missiles-2026-11-05",
+   "firstSeen": "2026-11-06T12:10:44+08:00"
+  },
+  {
+   "id": "36d23a2dfe",
+   "title": "腾讯微信视觉开源 WeVisOne-VL：检测到抠图一套模型",
+   "summary": "基于 Qwen3-VL，用结构化 next-token 统一检测、指代、计数、指点、OCR、分割与 alpha 抠图；轻量像素解码器约 960 万参数，约 1 亿图三阶段 SFT + 混合任务 RL，项目页与 arXiv 已公开。",
+   "links": [
+    "https://tencent.github.io/WeVisOne-VL/",
+    "https://arxiv.org/abs/2610.31329"
+   ],
+   "topic": "tencent-wevisone-vl-open-source-2026-11",
+   "firstSeen": "2026-11-06T12:10:44+08:00"
+  },
+  {
+   "id": "8ceffa1393",
+   "title": "基元律动 NeoHorse-1.5-Flash：1250 亿参数智能体模型开内测",
+   "summary": "前华为盘古负责人王云鹤创业公司 TokenRhythm 发布面向智能体的 NeoHorse-1.5-Flash Preview（约 1250 亿总参、60 亿激活），主打递归自改进（RSI）后训练，GitHub 已放技术报告。",
+   "links": [
+    "https://github.com/TokenRhythm/NeoHorse",
+    "https://www.zhidx.com/p/607781.html"
+   ],
+   "topic": "tokenrhythm-neohorse-1-5-flash-preview-2026-11-05",
+   "firstSeen": "2026-11-06T12:10:44+08:00"
+  },
+  {
+   "id": "47c14b510f",
+   "title": "Google Antigravity v2.29：语音模式、云端 Remote Agents 与界面重设计",
+   "summary": "11 月 3 日 changelog：Gemini Live 语音、Ultra/Pro 云端 remote agents、Home/Automations 重设计、原生 Jupyter 查看器，以及内置浏览器下载与历史等；逐步放量。",
+   "links": [
+    "https://antigravity.google/docs/changelog/"
+   ],
+   "topic": "google-antigravity-v2-29-voice-remote-agents-2026-11-03",
+   "firstSeen": "2026-11-06T12:10:44+08:00"
+  },
+  {
+   "id": "783d1efd95",
+   "title": "阶跃星辰 STEPX Neo / Step Studio：一句话做 App 并上架 AmooStore",
+   "summary": "STEPX 手机上的 Agent 系统搭配 Step Studio 移动 IDE，可用自然语言生成可真机运行的 App/Agent/Skill，并经 AmooStore 分发；外媒实测称兑现「百日承诺」。",
+   "links": [
+    "https://elsewhere.news/en/crossing/agent-stepx-neo",
+    "https://amoostore.stepaos.com/"
+   ],
+   "topic": "stepfun-stepx-neo-step-studio-amoostore-2026-11",
+   "firstSeen": "2026-11-06T12:10:44+08:00"
   }
  ],
- "lastChecked": "2026-11-06T12:03:52+08:00"
+ "lastChecked": "2026-11-06T12:10:44+08:00"
 }
