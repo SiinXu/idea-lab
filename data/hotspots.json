@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T17:57:04+08:00",
+ "lastUpdated": "2026-11-06T18:37:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37128,7 +37128,62 @@
    ],
    "topic": "carbonbrief-china-q3-2026-co2-drop-2026-11",
    "firstSeen": "2026-11-06T17:57:04+08:00"
+  },
+  {
+   "id": "597fa83664",
+   "title": "Skill Flow：跨 Claude Code / Cursor / Copilot 等统一安装与同步 Agent Skills",
+   "summary": "开源工具把散落的 skills 按「工作流组」管理：可从 skills.sh、GitHub 或本地导入，一次部署到多家编码 Agent，并带桌面端与 manifest/lock 状态；GitHub 星数持续上涨，适合做成多 Agent 技能货架。",
+   "links": [
+    "https://github.com/VintLin/skill-flow",
+    "https://www.npmjs.com/package/skill-flow"
+   ],
+   "topic": "skill-flow-multi-agent-skills-2026-11",
+   "firstSeen": "2026-11-06T18:37:39+08:00"
+  },
+  {
+   "id": "5a00f27960",
+   "title": "Grit：用 Agent 工厂把 Git 重写成 Rust 库，0.5 后三周连发 22 版",
+   "summary": "GitButler 发起的 grit 以 grit-lib 为先，日常命令已对齐，并加入 change id、面向 Agent 的 hunk 选择与 JSON schema；自 0.5.0 起由云端 Agent 规划/评审/发版，基准显示多数场景已接近原生 git 速度。",
+   "links": [
+    "https://grit-scm.com/blog/since-0-5-0/",
+    "https://github.com/gitbutlerapp/grit",
+    "https://blog.gitbutler.com/true-grit"
+   ],
+   "topic": "grit-rust-git-agent-factory-2026-11",
+   "firstSeen": "2026-11-06T18:37:39+08:00"
+  },
+  {
+   "id": "0e26e8bf03",
+   "title": "Fireworks × Notte：720 次浏览器 Agent 跑分，「执行税」比智商更伤",
+   "summary": "Benchmark 称多步 Agent 失败主因是结构化输出不可靠：最差模型约 22.9% 的推理浪费在畸形 JSON 重试；提出按成功任务计价与 Reliability-Adjusted Accuracy，强调 serving 层一致性。",
+   "links": [
+    "https://fireworks.ai/blog/agent-execution-tax-browser-agent-benchmark"
+   ],
+   "topic": "fireworks-notte-agent-execution-tax-2026-11",
+   "firstSeen": "2026-11-06T18:37:39+08:00"
+  },
+  {
+   "id": "7117a84a7a",
+   "title": "NHS 英格兰：要求 Palantir 事先核准 FDP「成效」宣传",
+   "summary": "Register 报道 CEO Mackey 将致函 Palantir，要求今后宣称 Federated Data Platform 带来的效益须先经 NHS 审核；独立评估要到合同续约决定之后才出，舆论与统计监管仍在追问证据。",
+   "links": [
+    "https://www.theregister.com/public-sector/2026/11/06/nhs-wants-a-second-opinion-on-palantirs-glowing-self-assessments/5307809"
+   ],
+   "topic": "nhs-palantir-fdp-benefits-clearance-2026-11-06",
+   "firstSeen": "2026-11-06T18:37:39+08:00"
+  },
+  {
+   "id": "b52aa984ff",
+   "title": "Nucleus 地铁广告再冲热搜：用多基因评分挑胚胎 IQ/身高",
+   "summary": "X 热议纽约地铁「IQ is 50% genetic」广告；Nucleus 以约 6000 美元起对 IVF 胚胎做性状/疾病风险评分（非基因编辑）。NAD 曾建议其修改「能挑出最聪明胚胎」等表述，伦理与准确性争议再起。",
+   "links": [
+    "https://x.com/i/trending/2118634830938423671",
+    "https://bbbprograms.org/media/newsroom/decisions/nucleus-genomics",
+    "https://mynucleus.com/have-your-best-baby-2025"
+   ],
+   "topic": "nucleus-ivf-embryo-iq-ads-x-2026-11",
+   "firstSeen": "2026-11-06T18:37:39+08:00"
   }
  ],
- "lastChecked": "2026-11-06T17:57:04+08:00"
+ "lastChecked": "2026-11-06T18:37:39+08:00"
 }
