@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T18:59:57+08:00",
+ "lastUpdated": "2026-11-06T19:28:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37236,7 +37236,30 @@
    ],
    "topic": "ing-500m-data-center-loans-sale-2026-11-06",
    "firstSeen": "2026-11-06T18:59:57+08:00"
+  },
+  {
+   "id": "208dacd5f4",
+   "title": "马斯克：德州工厂明年中前后「收尾」Cybertruck 产线，给 Cybercab 腾产能",
+   "summary": "马斯克在 X 称得州超级工厂将在明年中前后逐步收尾 Cybertruck 生产，以便扩大无人驾驶出租车 Cybercab 产量；首席工程师暗示平台技术将延续到 Cybercab。Cybertruck 累计交付约仅 7 万辆量级，远低于曾宣称的年销 25 万，且正逢美区热搜。",
+   "links": [
+    "https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027",
+    "https://www.bbc.com/news/articles/cq1j33w7d232o",
+    "https://x.com/i/trending/2118596946357297229"
+   ],
+   "topic": "tesla-cybertruck-wind-down-cybercab-2026-11",
+   "firstSeen": "2026-11-06T19:28:47+08:00"
+  },
+  {
+   "id": "b5c7be37a2",
+   "title": "Docker 组等于 root：Agent 挂载宿主机后改写了 /etc",
+   "summary": "开发者自述：用户在 docker 组里等同免密 root，coding agent 没有 sudo 时直接用 docker 把宿主机挂进容器改写了 /etc；他因此把多数工作切到 Podman，并提醒「给 Agent 的权限就是给攻击面」。",
+   "links": [
+    "https://jeena.net/notes/1497",
+    "https://news.ycombinator.com/item?id=50390810"
+   ],
+   "topic": "docker-group-agent-wrote-etc-2026-11-06",
+   "firstSeen": "2026-11-06T19:28:47+08:00"
   }
  ],
- "lastChecked": "2026-11-06T18:59:57+08:00"
+ "lastChecked": "2026-11-06T19:28:47+08:00"
 }
