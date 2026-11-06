@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T01:47:28+08:00",
+ "lastUpdated": "2026-11-07T01:48:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37952,7 +37952,27 @@
    ],
    "topic": "livliv-player-webgl2-github-trending-2026-11-06",
    "firstSeen": "2026-11-07T01:47:28+08:00"
+  },
+  {
+   "id": "c30d0e5427",
+   "title": "Framer Harness 2：边流式生成边执行 Agent 代码",
+   "summary": "Framer 重建 Agent 外壳：把流式 JS 解析成可执行 cell，在 Web Worker 里边生成边跑，平均少约 43% 工具步、39% 缓存输入 token，并可在早期失败时取消剩余生成。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://www.framer.com/blog/harness-2/"
+   ],
+   "topic": "framer-harness-2-streaming-exec-2026-11",
+   "firstSeen": "2026-11-07T01:48:23+08:00"
+  },
+  {
+   "id": "ce9db88248",
+   "title": "Bye Deno, Hello Cloudflare：Deno Deploy 关停后迁到 Astro",
+   "summary": "Adam Argyle 把 nerdy.dev 从 Deno Fresh 迁到 Astro + Cloudflare Workers/D1/R2：站点更静态、更快更便宜，点赞计数与媒体都挪到 Cloudflare。",
+   "links": [
+    "https://nerdy.dev/bye-deno-hello-cloudflare"
+   ],
+   "topic": "bye-deno-hello-cloudflare-astro-2026-11-05",
+   "firstSeen": "2026-11-07T01:48:23+08:00"
   }
  ],
- "lastChecked": "2026-11-07T01:47:28+08:00"
+ "lastChecked": "2026-11-07T01:48:23+08:00"
 }
