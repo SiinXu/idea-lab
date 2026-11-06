@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T01:32:33+08:00",
+ "lastUpdated": "2026-11-07T01:47:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37930,7 +37930,29 @@
    ],
    "topic": "bunny-scriptable-geodns-leave-aws-2026-11-06",
    "firstSeen": "2026-11-07T01:32:33+08:00"
+  },
+  {
+   "id": "d5b135c831",
+   "title": "NVIDIA build.nvidia.com 免费开放 Kimi K3.1 Pro 等模型",
+   "summary": "登录即可试用月之暗面 Kimi K3.1 Pro、DeepSeek V4.1 Flash、GLM 5.3 Flash 等；Kimi 为约 2.8T 参数、100 万上下文，偏 agent 编码与金融，目前偏 playground/预览。",
+   "links": [
+    "https://build.nvidia.com/moonshotai/kimi-k3_1-pro",
+    "https://x.com/i/trending/2118755132603060694"
+   ],
+   "topic": "nvidia-build-free-kimi-k3-1-pro-2026-11-06",
+   "firstSeen": "2026-11-07T01:47:28+08:00"
+  },
+  {
+   "id": "9bf5c2b536",
+   "title": "livliv Player：轻量 WebGL2 2.5D 角色播放器冲上 GitHub 日榜",
+   "summary": "两天冲到约 900 星：支持唇形同步与摄像头面部追踪，一套 API 播 LivLiv / VRM / PNGTuber，适合虚拟形象与互动页。",
+   "links": [
+    "https://github.com/livliv-dev/player",
+    "https://livliv-dev.github.io/player/"
+   ],
+   "topic": "livliv-player-webgl2-github-trending-2026-11-06",
+   "firstSeen": "2026-11-07T01:47:28+08:00"
   }
  ],
- "lastChecked": "2026-11-07T01:32:33+08:00"
+ "lastChecked": "2026-11-07T01:47:28+08:00"
 }
