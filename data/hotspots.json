@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T10:25:28+08:00",
+ "lastUpdated": "2026-11-06T10:42:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36054,7 +36054,57 @@
    ],
    "topic": "sambanova-supermicro-sn50-inference-2026-11",
    "firstSeen": "2026-11-06T10:25:28+08:00"
+  },
+  {
+   "id": "a231f12f99",
+   "title": "《Verge》：蓝色海啸冲向 AI，全美 44 项数据中心禁令通过 43 项",
+   "summary": "中期选举后民主党掌控两院；地方选票上 43/44 项数据中心暂停令过关，得州候任州长 Hinojosa 喊停新建审批。业界担心监管、听证与基建放缓，OpenAI 等私下盘算算力约束。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai"
+   ],
+   "topic": "verge-blue-wave-ai-datacenter-backlash-2026-11-05",
+   "firstSeen": "2026-11-06T10:42:36+08:00"
+  },
+  {
+   "id": "d105b6a12f",
+   "title": "特斯拉与 SpaceX 中期后两日市值合计蒸发逾 4200 亿美元",
+   "summary": "选举后特斯拉跌约 11%、SpaceX 约 9%；投资者担忧马斯克将面临听证与更严 AI/并购监管。得州翻蓝后两家总部所在州的新建数据中心与 Terafab 计划承压。",
+   "links": [
+    "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html"
+   ],
+   "topic": "tesla-spacex-420b-wipe-after-midterms-2026-11-05",
+   "firstSeen": "2026-11-06T10:42:36+08:00"
+  },
+  {
+   "id": "adafdd4764",
+   "title": "DeepMind：Antigravity 上线化学信息学 Skills，一小时跑通药物发现工作流",
+   "summary": "基于 RDKit + ChEMBL/PubChem，Agent 可做文献分子抽取、匹配分子对分析、活性建模并提议大环分子与合成路线；Science 插件可用，另开放 1 万名科学家半年高用量名额。",
+   "links": [
+    "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+   ],
+   "topic": "deepmind-antigravity-cheminformatics-skills-2026-11",
+   "firstSeen": "2026-11-06T10:42:36+08:00"
+  },
+  {
+   "id": "c88b52d0b2",
+   "title": "印度健身巨头 cult.fit：全公司标准化 Codex，非工程团队做出 20+ 内部应用",
+   "summary": "OpenAI 案例：工程统一 Codex 后扩展到全员；自建看板省下超 10 万美元/年软件费，客服成本降一半以上；AI Trainer 用 GPT Realtime 做语音教练。",
+   "links": [
+    "https://openai.com/index/cultfit-builds-with-codex/"
+   ],
+   "topic": "cultfit-codex-ops-case-study-2026-11-05",
+   "firstSeen": "2026-11-06T10:42:36+08:00"
+  },
+  {
+   "id": "37e23ca10f",
+   "title": "Grimes 将出演院线 AI 电影《Gods Don't Give Gifts》",
+   "summary": "影片画面由 AI 生成，Grimes 出声并授权形象出演角色 Zayinth Alda；据报美国院线定档 2026-12-04，被视为 AI 长片进主流院线的标志性试水。",
+   "links": [
+    "https://www.theverge.com/entertainment/1026282/grimes-ai-movie"
+   ],
+   "topic": "grimes-gods-dont-give-gifts-ai-movie-2026-11",
+   "firstSeen": "2026-11-06T10:42:36+08:00"
   }
  ],
- "lastChecked": "2026-11-06T10:25:28+08:00"
+ "lastChecked": "2026-11-06T10:42:36+08:00"
 }
