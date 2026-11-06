@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T05:46:38+08:00",
+ "lastUpdated": "2026-11-07T05:56:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -38941,7 +38941,112 @@
    ],
    "topic": "railyard-agency-hetzner-40-envs-2026-11",
    "firstSeen": "2026-11-07T05:46:38+08:00"
+  },
+  {
+   "id": "016e849ea3",
+   "title": "Meta Muse 上线 Spaces：在助手里生成可互动的迷你应用",
+   "summary": "Spaces 让 Muse 直接生成购物中心、课表看板、音乐追踪、问答游戏等「应用中的应用」，可在 Muse 内持续互动；TechCrunch / The Verge 同日报导，延续 Muse agent 协作能力扩展。",
+   "links": [
+    "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
+   ],
+   "topic": "meta-muse-spaces-mini-apps-2026-11-06",
+   "firstSeen": "2026-11-07T05:56:51+08:00"
+  },
+  {
+   "id": "f0525bff98",
+   "title": "开发者流行 Claude Code 多模型分流：Sonnet 主写、Haiku 并行搜、Opus 只当顾问",
+   "summary": "社区模板把 Sonnet 5.5 放主编码、Haiku 5.5 子代理并行搜仓库/调用点/diff，Opus 5.5 只在锁方案或反复报错时介入；省 token、压上下文，X 上刚刷起来。",
+   "links": [
+    "https://x.com/i/trending/2118822091617161460"
+   ],
+   "topic": "claude-code-multi-model-sonnet-haiku-opus-2026-11-06",
+   "firstSeen": "2026-11-07T05:56:51+08:00"
+  },
+  {
+   "id": "29c568495a",
+   "title": "数百套 Artex AI 渗透工具服务器裸奔公网：谁都能连上用",
+   "summary": "安全人员发现大量托管 Artex（智能体化渗透框架）的服务器未做访问控制，暴露在公网；与此前 Storm-0940 用 Artex 自动化打企业的新闻形成对照，工具本身成了敞开的攻击面。",
+   "links": [
+    "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+   ],
+   "topic": "artex-ai-hacking-tools-exposed-public-2026-11-06",
+   "firstSeen": "2026-11-07T05:56:51+08:00"
+  },
+  {
+   "id": "68e57bf227",
+   "title": "ReactOS 首次合入 USB 3.0 驱动支持",
+   "summary": "开源 Windows 兼容系统 ReactOS 在 Phoronix 报导中落地初始 USB3 驱动，补上现代外设栈关键一环；对长期「能跑起来」的桌面兼容目标是实质进展。",
+   "links": [
+    "https://www.phoronix.com/news/ReactOS-Initial-USB-3.0"
+   ],
+   "topic": "reactos-initial-usb3-driver-2026-11-06",
+   "firstSeen": "2026-11-07T05:56:51+08:00"
+  },
+  {
+   "id": "0443943526",
+   "title": "开发者称不知情：广告 SDK 位置数据经 Penlink 卖给各国政府",
+   "summary": "404 Privacy 梳理 Bloomberg / Citizen Lab 报导：Penlink 的 Webloc 用广告生态位置数据重建数亿手机轨迹；嵌入 Start.io 等广告 SDK 的开发者表示不知道数据流向执法与情报买家。",
+   "links": [
+    "https://404privacy.com/blog/app-developers-say-they-didnt-know-user-data-went-to-the-government/",
+    "https://news.ycombinator.com/item?id=50398912"
+   ],
+   "topic": "penlink-webloc-ad-sdk-gov-location-2026-11-06",
+   "firstSeen": "2026-11-07T05:56:51+08:00"
+  },
+  {
+   "id": "cb7566beb1",
+   "title": "平台工程何去何从：AI 让用户绕开平台自己重写",
+   "summary": "Yusuke Tsutsumi 写平台团队转型：编码 Agent 让业务方轻易绕过或重写内部平台；平台组需从「提供组件」转向守护健康共享生态，否则会被 AI 加速的影子 IT 架空。",
+   "links": [
+    "https://y.tsutsumi.io/where-do-platform-teams-go-now/",
+    "https://news.ycombinator.com/item?id=50398557"
+   ],
+   "topic": "platform-teams-ai-bypass-rewrite-2026-11-06",
+   "firstSeen": "2026-11-07T05:56:51+08:00"
+  },
+  {
+   "id": "01155b57c6",
+   "title": "Show HN：Tandem——不另起基建的本地优先同步引擎",
+   "summary": "给每个客户端本地可查询数据库，写入先落本地再后台同步并重放；MIT，宣传无需新基础设施即可做 realtime sync，适合轻量 local-first 原型。",
+   "links": [
+    "https://github.com/tanishqkancharla/tandem",
+    "https://news.ycombinator.com/item?id=50398763"
+   ],
+   "topic": "tandem-local-first-sync-engine-2026-11-06",
+   "firstSeen": "2026-11-07T05:56:51+08:00"
+  },
+  {
+   "id": "a065d4b73b",
+   "title": "苹果称 Duo 优化应用已达 10 万，每天还有数千上架",
+   "summary": "TechCrunch：Apple 表示面向折叠屏 iPhone Duo 的优化应用突破 10 万，日增数千；折叠形态的应用适配正在从预热进入规模化。",
+   "links": [
+    "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/"
+   ],
+   "topic": "apple-duo-100k-optimized-apps-2026-11-06",
+   "firstSeen": "2026-11-07T05:56:51+08:00"
+  },
+  {
+   "id": "155bdec20c",
+   "title": "2026 版 88×31 GIF 小徽章：30 枚网页按钮可直接拿走",
+   "summary": "a90.com 放出一批复古 88×31 web button GIF，呼应个人站/独立站审美回流；HN 新鲜贴出，和近期像素贴纸、旧网页美学热度同向。",
+   "links": [
+    "https://a90.com/experiments/88x31/",
+    "https://news.ycombinator.com/item?id=50398625"
+   ],
+   "topic": "gif-88x31-stickers-2026-web-buttons",
+   "firstSeen": "2026-11-07T05:56:51+08:00"
+  },
+  {
+   "id": "15b0e01312",
+   "title": "Tell HN：小心 Stripe Connect——骗子经平台抽走 4500 美元后平台甩锅商户",
+   "summary": "做了 15 年 Stripe 的开发者称欺诈流量经 Connect 账户转走约 $4500，无预警且客服要求商户全额承担；提醒接入 Connect 要自备风控与资金敞口预案。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50398646"
+   ],
+   "topic": "stripe-connect-fraud-caution-tell-hn-2026-11-06",
+   "firstSeen": "2026-11-07T05:56:51+08:00"
   }
  ],
- "lastChecked": "2026-11-07T05:46:38+08:00"
+ "lastChecked": "2026-11-07T05:56:51+08:00"
 }
