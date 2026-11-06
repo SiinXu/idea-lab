@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T09:02:33+08:00",
+ "lastUpdated": "2026-11-06T09:11:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35754,7 +35754,51 @@
    ],
    "topic": "mark-cuban-meta-ai-deepfake-scam-ads-2026-11-06",
    "firstSeen": "2026-11-06T09:02:33+08:00"
+  },
+  {
+   "id": "f179cec8f1",
+   "title": "Kakao 开源 Kanana-2-v-decide：给 Agent 做「判断」的多模态决策模型",
+   "summary": "11 月 6 日 Kakao 在 Hugging Face 发布：不生成长文，直接输出概率 / 选择 / 分数，文本+图像可一起判；自称 H200 上约 0.04 秒、比 GPT-6 Luna 快约 43 倍，Kanana Open License 可商用。适合工具选择、客服分流、商品图质检等 Agent 决策环。",
+   "links": [
+    "https://www.kakaocorp.com/page/detail/12193",
+    "https://huggingface.co/kakaocorp/kanana-2-v-decide-3b-2611",
+    "https://huggingface.co/collections/kakaocorp/kanana-2-v-decide"
+   ],
+   "topic": "kakao-kanana-2-v-decide-2026-11-06",
+   "firstSeen": "2026-11-06T09:11:49+08:00"
+  },
+  {
+   "id": "2e7ca34b1e",
+   "title": "华为擎云 HM650：首款「100% 国产」鸿蒙桌面机，麒麟 X90",
+   "summary": "面向政企的 Qingyun / 擎云 HM650 搭载麒麟 X90（约 40W TDP）与 HarmonyOS PC 7.0，宣称从处理器到内存全链路国产认证；键盘带小艺 AI 键，并带星盾 2.0 等企业安全能力。国产桌面替代与 Agent 本机入口叙事升温。",
+   "links": [
+    "https://www.scmp.com/tech/tech-trends/article/3373435/no-intel-no-qualcomm-huawei-unveils-desktop-built-entirely-china-made-components",
+    "https://techbriefly.com/2026/11/05/huawei-launches-first-harmonyos-desktop-pc-with-kirin-x90/"
+   ],
+   "topic": "huawei-qingyun-hm650-harmonyos-desktop-2026-11-05",
+   "firstSeen": "2026-11-06T09:11:49+08:00"
+  },
+  {
+   "id": "50dcc27321",
+   "title": "BigQuery AI.AGG 正式可用：自然语言语义聚合百万行文本",
+   "summary": "谷歌云让 AI.AGG 进入 GA：用一句自然语言指令对 GROUP BY 分组做语义汇总，可处理大规模文本/多模态行；配合上下文缓存控制成本。数据仓库里直接嵌 Agent 式汇总，适合分析/报表自动化产品。",
+   "links": [
+    "https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg",
+    "https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-agg"
+   ],
+   "topic": "bigquery-ai-agg-ga-2026-11-06",
+   "firstSeen": "2026-11-06T09:11:49+08:00"
+  },
+  {
+   "id": "f30582815c",
+   "title": "谷歌示范：用 AlphaEvolve + Harbor 自动优化 Agent Skills",
+   "summary": "Cloud 博文给出流水线——AlphaEvolve 改写 SKILL.md，Harbor 在隔离容器里跑真实编码任务评分，几轮迭代后报告约 5% 提升。Skills 正在从「手写提示」变成可评测、可进化的资产。",
+   "links": [
+    "https://cloud.google.com/blog/topics/developers-practitioners/how-to-build-an-agent-skill-optimizer-with-alphaevolve-and-harbor"
+   ],
+   "topic": "google-alphaevolve-harbor-skill-optimizer-2026-11-06",
+   "firstSeen": "2026-11-06T09:11:49+08:00"
   }
  ],
- "lastChecked": "2026-11-06T09:02:33+08:00"
+ "lastChecked": "2026-11-06T09:11:49+08:00"
 }
