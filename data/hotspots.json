@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T16:28:09+08:00",
+ "lastUpdated": "2026-11-06T16:50:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36938,7 +36938,29 @@
    ],
    "topic": "roblox-studio-mcp",
    "firstSeen": "2026-11-06T16:28:09+08:00"
+  },
+  {
+   "id": "0da7f9a422",
+   "title": "Blender UI 运行时独立开源：称比 GPUI 更快",
+   "summary": "开发者把 Blender 的 GPU 加速 UI 与运行时从原代码库拆出做成 BUI，支持 Rust/Python/JS/React/C/C++，登上 HN 并引发「要不要把这套 UI 用到其他创作工具」的讨论。",
+   "links": [
+    "https://github.com/ppmpreetham/BUI",
+    "https://news.ycombinator.com/item?id=50389333"
+   ],
+   "topic": "blender-bui-faster-than-gpui-2026-11-06",
+   "firstSeen": "2026-11-06T16:50:52+08:00"
+  },
+  {
+   "id": "8a3c393766",
+   "title": "MoofTCP：给 68k 老 Mac 的现代 MacTCP 替代",
+   "summary": "MoofTCP 面向 System 6 / 68000 Mac，做成可替换的现代 TCP 栈，替代老旧 MacTCP，登上 HN。",
+   "links": [
+    "https://github.com/matthewmrichter/mooftcp",
+    "https://news.ycombinator.com/item?id=50386789"
+   ],
+   "topic": "mooftcp-68k-mactcp-2026-11-06",
+   "firstSeen": "2026-11-06T16:50:52+08:00"
   }
  ],
- "lastChecked": "2026-11-06T16:28:09+08:00"
+ "lastChecked": "2026-11-06T16:50:52+08:00"
 }
