@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T22:20:07+08:00",
+ "lastUpdated": "2026-11-06T23:42:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37531,7 +37531,65 @@
    ],
    "topic": "nvidia-vflash-visual-planning-2026-11",
    "firstSeen": "2026-11-06T22:20:07+08:00"
+  },
+  {
+   "id": "6377ba6a53",
+   "title": "Visa Agentic Commerce Benchmark：22 款购物 Agent 通过率仅约 57%",
+   "summary": "Visa 11 月 5 日发布首个面向「代客购物」的行业基准：12 家实验室 22 款模型、15 个真实购物场景共约 990 次跑分，总通过率约 57.2%；最好约 82.2%、最差约 28.9%。约 54% 的失败跑仍下了单（买错或不配），三次全过仅约 34.2%。顶部模型含 Meta Muse Wonder、Gemini 4 Argon。Visa 称将扩展到结账与支付环节。",
+   "links": [
+    "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22936.html",
+    "https://fortune.com/2026/11/05/ai-agents-shopping-ranking-best-agent/",
+    "https://x.com/i/trending/2118707514845843675"
+   ],
+   "topic": "visa-agentic-commerce-benchmark-2026-11-05",
+   "firstSeen": "2026-11-06T23:42:40+08:00"
+  },
+  {
+   "id": "cdb1bae108",
+   "title": "GitHub Next Enclaves：跨仓 Agentic Workflow 用信息预算防私仓外泄",
+   "summary": "针对 GitLost（公仓 issue 诱导 Agent 把私仓内容贴到公评）一类攻击，GitHub Agentic Workflows GA 引入实验性 Enclaves：主 Agent 不能直接读私仓，只能经可信 broker 启动一次性沙箱，并以有限 schema（布尔/枚举/有界整数）+ 按敏感级计量的 bit 预算（confidential 约 8 bit/仓/次）回传结果；自由字符串与超额 schema 会被拒。",
+   "links": [
+    "https://githubnext.com/posts/enclaves/",
+    "https://news.ycombinator.com/item?id=50393357"
+   ],
+   "topic": "github-next-enclaves-agentic-workflows-2026-11",
+   "firstSeen": "2026-11-06T23:42:40+08:00"
+  },
+  {
+   "id": "17e5b29843",
+   "title": "Hugging Face 开源 Harness Adapters：按外壳训 LoRA，safeagents 拦奖励黑客",
+   "summary": "Harness Hub 11 月 6 日发布：在未改动的 pi / opencode / hermes 外壳内用 RL 训每外壳一份 LoRA，同一底座可热切换；held-out 上工具调用更少且准确率持平或升。训练链路接入 safeagents 代理，规则检测拦截改测试/翻答案等奖励黑客（屏蔽记 0 分）。环境来自开源轨迹经 Repo2RLEnvs 转成可验证任务，训练过程有实时看板。",
+   "links": [
+    "https://huggingface.co/blog/harness-hub/harness-adapters",
+    "https://news.ycombinator.com/item?id=50393640"
+   ],
+   "topic": "hf-harness-adapters-safe-rl-2026-11-06",
+   "firstSeen": "2026-11-06T23:42:40+08:00"
+  },
+  {
+   "id": "8dc1c6e27f",
+   "title": "Apollo 经济学家：AI 对「标普 493」财务回报接近为零",
+   "summary": "Apollo 首席经济学家 Torsten Slok 指出：Magnificent 7 的人均营收与利润率在涨，其余约 493 家几乎原地踏步；主流企业开始把 token 花费当成压缩利润的成本中心而非增长引擎。推理/模型服务支出高度集中在头部约 10% 企业。论点在中期选举后 AI 抛售背景下再上热搜。",
+   "links": [
+    "https://www.cfo.com/news/apollo-exec-says-ai-has-zero-financial-payoff-beyond-tech-sector/872795/",
+    "https://thenextweb.com/news/apollo-ai-payoff-outside-tech-slok",
+    "https://x.com/i/trending/2118717268322390419"
+   ],
+   "topic": "apollo-slok-ai-zero-payoff-sp493-2026-11",
+   "firstSeen": "2026-11-06T23:42:40+08:00"
+  },
+  {
+   "id": "ee19edc32a",
+   "title": "Rerun：无代码常驻 AI「同事」，开源自托管上线",
+   "summary": "Rerun 让用户用自然语言搭始终在线的 Agent（盯邮箱、催发票、例行业务），可检查行为并对敏感动作要求人工审批；最新版本开放 AGPL 自托管（Docker Compose），适合不想把工作流全交给云厂商的团队。Product Hunt / The Neuron 11 月 6 日摘要均点名。",
+   "links": [
+    "https://rerun.build/",
+    "https://github.com/rerun-build/rerun",
+    "https://docs.rerun.build/self-host/overview"
+   ],
+   "topic": "rerun-always-on-agents-selfhost-2026-11",
+   "firstSeen": "2026-11-06T23:42:40+08:00"
   }
  ],
- "lastChecked": "2026-11-06T22:20:07+08:00"
+ "lastChecked": "2026-11-06T23:42:40+08:00"
 }
