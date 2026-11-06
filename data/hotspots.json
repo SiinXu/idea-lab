@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T03:06:45+08:00",
+ "lastUpdated": "2026-11-07T03:12:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -38204,7 +38204,99 @@
    ],
    "topic": "axiom-weil-conjectures-lean-2026-11",
    "firstSeen": "2026-11-07T03:06:45+08:00"
+  },
+  {
+   "id": "55ee84c640",
+   "title": "Replit 用 microVM 重做沙箱引擎",
+   "summary": "Replit 公开重建沙箱：改用 microVM 隔离，兼顾启动速度与安全边界，服务 AI 编程与用户代码执行。",
+   "links": [
+    "https://frontier.replit.com/sandbox-engine-microvms-part-1/"
+   ],
+   "topic": "replit-sandbox-microvms-2026-11-06",
+   "firstSeen": "2026-11-07T03:12:36+08:00"
+  },
+  {
+   "id": "caa02c2bd8",
+   "title": "Let's Encrypt 获 100 万美元做后量子证书工作",
+   "summary": "非营利 CA 拿到专项资金推进后量子密码迁移，证书生态开始为抗量子算法铺路。",
+   "links": [
+    "https://letsencrypt.org/2026/11/05/sta-pq-funding"
+   ],
+   "topic": "letsencrypt-1m-pq-funding-2026-11-05",
+   "firstSeen": "2026-11-07T03:12:36+08:00"
+  },
+  {
+   "id": "7366ec388a",
+   "title": "RTK：开发命令 CLI 代理，号称省 60%–90% LLM token",
+   "summary": "在本地把冗长命令输出压缩后再喂给编程 Agent，直接砍上下文账单，适合做成 Idea Lab 成本工具。",
+   "links": [
+    "https://github.com/rtk-ai/rtk"
+   ],
+   "topic": "rtk-ai-cli-token-proxy-2026-11-06",
+   "firstSeen": "2026-11-07T03:12:36+08:00"
+  },
+  {
+   "id": "aeaa4d2a9d",
+   "title": "Makoda：把 Codex / Claude 订阅当 API 复用",
+   "summary": "Show HN 新品：把现有编程助手订阅转成可调用接口，省掉再开一份 API 账单。",
+   "links": [
+    "https://makoda.ai/",
+    "https://news.ycombinator.com/item?id=50396780"
+   ],
+   "topic": "makoda-reuse-subscriptions-as-api-2026-11-06",
+   "firstSeen": "2026-11-07T03:12:36+08:00"
+  },
+  {
+   "id": "94e71a7745",
+   "title": "Vork：给 Agent 用的无头 3D / VFX 引擎",
+   "summary": "专为智能体设计的无头三维与特效引擎，方便 Agent 批量生成、渲染和改场景。",
+   "links": [
+    "https://github.com/voyager-so/vork"
+   ],
+   "topic": "vork-headless-3d-vfx-agents-2026-11-06",
+   "firstSeen": "2026-11-07T03:12:36+08:00"
+  },
+  {
+   "id": "a3bca2c056",
+   "title": "PyLings：做题学 Python 的练习仓库冲上 HN",
+   "summary": "仿 Rustlings 思路的 Python 练习集，边改测试边学语法与惯用法，适合新手与教学站。",
+   "links": [
+    "https://github.com/thesayfulla/pylings",
+    "https://news.ycombinator.com/item?id=1793984380"
+   ],
+   "topic": "pylings-learn-python-exercises-2026-11-06",
+   "firstSeen": "2026-11-07T03:12:36+08:00"
+  },
+  {
+   "id": "1ab13feae8",
+   "title": "OpenFruit：在 Windows 上无 Mac 构建 iOS 应用",
+   "summary": "开源方案试图绕开「必须有 Mac」门槛，让 Windows 开发者也能打包 iOS 应用。",
+   "links": [
+    "https://github.com/ssilvestri15/openfruit"
+   ],
+   "topic": "openfruit-ios-on-windows-2026-11-06",
+   "firstSeen": "2026-11-07T03:12:36+08:00"
+  },
+  {
+   "id": "6a410aba35",
+   "title": "HackerShow：专收 Show HN 的发现站",
+   "summary": "对标 HackerTube，把 Show HN 项目集中展示，方便刷独立开发者新品。",
+   "links": [
+    "https://www.hackershow.org/"
+   ],
+   "topic": "hackershow-show-hn-gallery-2026-11-06",
+   "firstSeen": "2026-11-07T03:12:36+08:00"
+  },
+  {
+   "id": "ab3830540f",
+   "title": "Mattermost DM Skill：让 Claude Code 代发私信",
+   "summary": "开源 skill + 脚本，让 Claude Code 以你的身份在 Mattermost 发私信，适合团队协作自动化。",
+   "links": [
+    "https://github.com/abdallah/mattermost-dm"
+   ],
+   "topic": "mattermost-dm-claude-code-skill-2026-11-06",
+   "firstSeen": "2026-11-07T03:12:36+08:00"
   }
  ],
- "lastChecked": "2026-11-07T03:06:45+08:00"
+ "lastChecked": "2026-11-07T03:12:36+08:00"
 }
