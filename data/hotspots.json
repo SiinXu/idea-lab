@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T02:12:24+08:00",
+ "lastUpdated": "2026-11-07T02:33:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -38054,7 +38054,57 @@
    ],
    "topic": "anthropic-project-eve-claude-mmorpgs-2026-11-06",
    "firstSeen": "2026-11-07T02:12:24+08:00"
+  },
+  {
+   "id": "a47af08091",
+   "title": "台积电据报应英伟达要求研拟生产 3D DRAM",
+   "summary": "The Information / 路透：台积电着手评估垂直堆叠 DRAM，可能新建厂或收购改造既有厂，进军与三星、SK 海力士、美光竞争的先进内存。",
+   "links": [
+    "https://www.investing.com/news/stock-market-news/tsmc-considers-making-advanced-memory-chips-the-information-reports-5008786"
+   ],
+   "topic": "tsmc-3d-dram-nvidia-request-2026-11-06",
+   "firstSeen": "2026-11-07T02:33:49+08:00"
+  },
+  {
+   "id": "34e4b7a12c",
+   "title": "美检起诉三人用 AI 假扮 CEO/律师骗走约 1.29 亿美元",
+   "summary": "南区纽约检方称嫌疑人用 AI 模仿高管与律所声音影像，诱使财务人员打款并洗成加密货币；受害者含医院、银行与金融科技公司。",
+   "links": [
+    "https://www.nbcnews.com/news/us-news/3-foreign-nationals-allegedly-used-ai-mimic-ceos-129m-scheme-doj-says-rcna607818"
+   ],
+   "topic": "doj-ai-ceo-spoof-fraud-129m-2026-11",
+   "firstSeen": "2026-11-07T02:33:49+08:00"
+  },
+  {
+   "id": "9d00431e26",
+   "title": "Meta 无限期搁置争议商业条款：不再强推抓取外链站训练 AI",
+   "summary": "原定 11/20 生效、要求商家允许广泛抓取 Facebook 外链内容的条款遭出版商与多国法院反弹；Meta 称继续磋商，现行条款仍有效。",
+   "links": [
+    "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/"
+   ],
+   "topic": "meta-pause-commercial-terms-ai-crawl-2026-11-06",
+   "firstSeen": "2026-11-07T02:33:49+08:00"
+  },
+  {
+   "id": "771a64a968",
+   "title": "传 Cyera 洽谈约 8 亿美元融资、估值冲 200 亿美元",
+   "summary": "The Information：云数据安全创业公司拟由 Cyberstarts 领投募资约 8 亿美元，估值自 6 月约 120 亿近乎翻倍；仍属洽谈阶段。",
+   "links": [
+    "https://dealroom.co/news/170378-cyera-in-talks-for-800m-round-at-20b-nearly-double-its-summer-price/"
+   ],
+   "topic": "cyera-800m-20b-valuation-talks-2026-11",
+   "firstSeen": "2026-11-07T02:33:49+08:00"
+  },
+  {
+   "id": "a632438190",
+   "title": "长江存储新厂设备国产化目标升至约 60%–70%",
+   "summary": "路透：YMTC 规划武汉第四座厂生产 300 层以上 NAND，设备国产化比例拟高于第三座厂约五成，主供数据中心与 AI。",
+   "links": [
+    "https://www.investing.com/news/stock-market-news/yangtze-memory-targets-70-domestic-equipment-for-new-chip-plant-reuters-93CH-5006510"
+   ],
+   "topic": "ymtc-70pct-domestic-equipment-fab4-2026-11",
+   "firstSeen": "2026-11-07T02:33:49+08:00"
   }
  ],
- "lastChecked": "2026-11-07T02:12:24+08:00"
+ "lastChecked": "2026-11-07T02:33:49+08:00"
 }
