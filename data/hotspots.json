@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T05:35:15+08:00",
+ "lastUpdated": "2026-11-07T05:46:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -38886,7 +38886,62 @@
    ],
    "topic": "msr-ai-frontiers-end-langford-2026-11-06",
    "firstSeen": "2026-11-07T05:35:15+08:00"
+  },
+  {
+   "id": "4913345479",
+   "title": "AgentDrives：17 款云数据库给 AI Agent 实测——Upstash/Convex/Prisma 能自助开库，CAPTCHA 卡死多数对手",
+   "summary": "2026-10-03 至 11-05 实测：11/17 能独立进场，Upstash 无账号起 Redis、Convex 本地全栈、Prisma Postgres 无验证码；Supabase/MongoDB Atlas/Turso 等卡在人机验证；0/17 能独自付款。Agent 友好 onboarding 正成开发者工具卖点。",
+   "links": [
+    "https://agentdrives.com/research/best-databases-for-ai-agents",
+    "https://x.com/i/trending/2118816250545557536"
+   ],
+   "topic": "agentdrives-databases-ai-agents-2026-11",
+   "firstSeen": "2026-11-07T05:46:38+08:00"
+  },
+  {
+   "id": "8274eb6dc8",
+   "title": "Will Falcon 离开 Lightning AI：PyTorch Lightning 创始人发文「牦牛已剃完」",
+   "summary": "Falcon 称公司已并入 Voltage Park、自有 2.5 万张 H200，下一阶段是买卡与机房融资，他更想做垂直应用；公司任命临时 CEO，客户与平台不变。他将通过 Oddbits AI 做行业产品和天使投资。",
+   "links": [
+    "https://oddbits.ai/blog/the-yak-is-shaved/",
+    "https://news.ycombinator.com/item?id=50398676"
+   ],
+   "topic": "will-falcon-leaves-lightning-ai-2026-11",
+   "firstSeen": "2026-11-07T05:46:38+08:00"
+  },
+  {
+   "id": "c353641c8e",
+   "title": "Paul Ford：网页已经够用——浏览器 API 让个人也能做出完整应用",
+   "summary": "针对「公开互联网已死」论调，Ford 以 Tiny Little Office 为例：Web Crypto/WASM/WebGL/Audio 成本骤降，个人几周即可上线可分享应用；并指向 Simon Willison 纯网页 3D 多人游戏 Battle Drones。与刚热的 Stratechery「互联网终结」形成对读。",
+   "links": [
+    "https://ftrain.com/aboard-the-web-is-more-than-enough",
+    "https://news.ycombinator.com/item?id=50398631"
+   ],
+   "topic": "paul-ford-web-is-more-than-enough-2026-11",
+   "firstSeen": "2026-11-07T05:46:38+08:00"
+  },
+  {
+   "id": "4ef71fd90f",
+   "title": "Implant 0.4.0：把 VS Code API、语言服务与 ast-grep 交给 Copilot/Agent",
+   "summary": "扩展在扩展宿主里跑经审批的 JS，暴露 Find References、语义重命名、WorkspaceEdit 与 structural search；用编辑器已有工具做仓库级任务，声称可省 token。刚发 0.4.0，面向 Copilot Chat 的 @implant 与 VS Code agent 工具。",
+   "links": [
+    "https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant",
+    "https://news.ycombinator.com/item?id=50398672"
+   ],
+   "topic": "vscode-implant-0-4-agent-api-2026-11",
+   "firstSeen": "2026-11-07T05:46:38+08:00"
+  },
+  {
+   "id": "76631e95f5",
+   "title": "Railyard：代理商用约 $60/月 Hetzner 跑 40 套客户 staging+生产环境",
+   "summary": "对比 Vercel/Render 按席位/按服务计价：用 10 台 CX23 + Railyard Team 扁平费，每客户独立机或环境、PR 预览与交接；staging 空闲休眠省内存。面向托管账单随客户数膨胀的数字代理商。",
+   "links": [
+    "https://railyard.run/blog/how-agencies-run-40-client-apps-on-60-dollars-of-hetzner/",
+    "https://news.ycombinator.com/item?id=50398533"
+   ],
+   "topic": "railyard-agency-hetzner-40-envs-2026-11",
+   "firstSeen": "2026-11-07T05:46:38+08:00"
   }
  ],
- "lastChecked": "2026-11-07T05:35:15+08:00"
+ "lastChecked": "2026-11-07T05:46:38+08:00"
 }
