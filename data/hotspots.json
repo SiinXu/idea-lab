@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T03:43:12+08:00",
+ "lastUpdated": "2026-11-07T03:59:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -38426,7 +38426,74 @@
    ],
    "topic": "software-line-specialist-satire-2026-11",
    "firstSeen": "2026-11-07T03:43:12+08:00"
+  },
+  {
+   "id": "bc8f9eac19",
+   "title": "OpenAI 联手 Hacktron 挖自家系统漏洞",
+   "summary": "OpenAI 正式官宣与 Hacktron 合作：双方共选高优先级目标、重点测第三方联接边界，并给 Hacktron 扩大 Daybreak Red 前沿模型访问；同周还拉高赏金、并与 Cathedral 一起开安全冲刺。",
+   "links": [
+    "https://openai.com/index/partnering-with-hacktron/",
+    "https://news.ycombinator.com/item?id=50397341"
+   ],
+   "topic": "openai-hacktron-partnership-2026-11-06",
+   "firstSeen": "2026-11-07T03:59:35+08:00"
+  },
+  {
+   "id": "ef2a83f7f3",
+   "title": "Hightouch：Jev 先判、Opus 兜底，身份解析成本砍到约 1/4",
+   "summary": "用决策模型 Jev 批量打身份合并对错，低置信再交给 Claude Opus：简单集准确率逼近 Opus、成本约 $0.88/千条对 Opus 的 $3.86；难例上校准更好的 Jev 混合甚至略超 Opus 单跑。",
+   "links": [
+    "https://hightouch.com/blog/llm-judges-identity-resolution",
+    "https://news.ycombinator.com/item?id=50397429"
+   ],
+   "topic": "hightouch-jev-opus-identity-resolution-2026-11",
+   "firstSeen": "2026-11-07T03:59:35+08:00"
+  },
+  {
+   "id": "95ea5fb604",
+   "title": "Show HN：ldraw-mecha——Agent 从 LDraw 源码反推机构并 Blender 动画",
+   "summary": "开源流水线让 Agent 读 LEGO LDraw/.mpd，推断子机构与运动计划，再生成 Blender 绑定与动画；附样例（吊车、飞机、小人动作库）与完整 Agent 文档，正出现在 HN 最新。",
+   "links": [
+    "https://github.com/anteloc/ldraw-mecha",
+    "https://news.ycombinator.com/item?id=50397325"
+   ],
+   "topic": "ldraw-mecha-agent-lego-animation-2026-11",
+   "firstSeen": "2026-11-07T03:59:35+08:00"
+  },
+  {
+   "id": "8f0bbfe134",
+   "title": "ICLR 2027 审稿疑似 AI 生成：作者晒高检测分并怒斥",
+   "summary": "审稿放出后多名作者称 Pangram 等工具给多份审稿打出 90%+ AI 分、套话雷同；ICLR 政策允许有限 AI 辅助但必须披露，低质/虚假审稿可被处分，社区担心同行评议信任崩塌。",
+   "links": [
+    "https://x.com/i/trending/2118746505796325577",
+    "https://iclr.cc/Conferences/2027/AIPolicyForReviewers",
+    "https://www.pangram.com/blog/pangram-predicts-21-of-iclr-reviews-are-ai-generated"
+   ],
+   "topic": "iclr-2027-ai-generated-reviews-2026-11-06",
+   "firstSeen": "2026-11-07T03:59:35+08:00"
+  },
+  {
+   "id": "71aaa2946d",
+   "title": "GoLand Profiler 开放给 AI Agent：半量 token 找到同样瓶颈",
+   "summary": "JetBrains 让编码 Agent 直接调用 GoLand 性能分析器；官方实测称 Agent 用约一半 token 就能定位与人类相同的瓶颈，把 IDE 深度工具接到 Agent 工作流。",
+   "links": [
+    "https://blog.jetbrains.com/go/2026/11/06/we-gave-ai-agents-goland-s-profiler-they-found-the-same-bottlenecks-with-half-the-tokens/",
+    "https://news.ycombinator.com/item?id=50397346"
+   ],
+   "topic": "goland-profiler-ai-agents-2026-11-06",
+   "firstSeen": "2026-11-07T03:59:35+08:00"
+  },
+  {
+   "id": "4e8f2eb5c1",
+   "title": "CNBC：OpenAI 会议室窃听案嫌疑人 Alfozan 不认罪",
+   "summary": "此前因在 OpenAI 办公区藏录音设备被捕的沙特籍工程师出庭，对相关指控表示不认罪；案件此前已按国安路径起诉，持续牵动 AI 实验室内部安全话题。",
+   "links": [
+    "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
+    "https://news.ycombinator.com/item?id=50397188"
+   ],
+   "topic": "openai-alfozan-not-guilty-plea-2026-11-06",
+   "firstSeen": "2026-11-07T03:59:35+08:00"
   }
  ],
- "lastChecked": "2026-11-07T03:43:12+08:00"
+ "lastChecked": "2026-11-07T03:59:35+08:00"
 }
