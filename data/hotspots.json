@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T03:29:40+08:00",
+ "lastUpdated": "2026-11-07T03:43:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -38358,7 +38358,75 @@
    ],
    "topic": "size-it-up-magnitudle-2026-11",
    "firstSeen": "2026-11-07T03:29:40+08:00"
+  },
+  {
+   "id": "e3df59173f",
+   "title": "GitHub 假安全工具投毒：后门 + 窃密木马盯上安全从业者",
+   "summary": "Dr.Web / BleepingComputer：假冒扫描、测试、日志分析的仓库投递 AsyncRAT、剪贴板劫持与窃密木马，已感染超 2000 台 Windows；近期从打加密钱包转向专门诱骗信息安全开发者。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+    "https://news.drweb.com/show/?i=15311&lng=en",
+    "https://news.ycombinator.com/item?id=50397224"
+   ],
+   "topic": "fake-github-security-tools-malware-2026-11",
+   "firstSeen": "2026-11-07T03:43:12+08:00"
+  },
+  {
+   "id": "f441801c06",
+   "title": "Firecracker 逃逸续篇：PwnEscape Part 2 从客户机接管宿主机线程",
+   "summary": "PWN Research 展示如何在已有宿主机内存原语上定位 Firecracker 进程、改写 KVM_RUN 返回后的寄存器帧，从而在客户机内取得宿主机 root 执行且虚拟机仍可 SSH；与此前 Coinspect 披露的另一条逃逸链不同。",
+   "links": [
+    "https://pwn.ai/blog/firecracker-escape",
+    "https://news.ycombinator.com/item?id=50397219"
+   ],
+   "topic": "firecracker-pwnescape-part2-2026-11",
+   "firstSeen": "2026-11-07T03:43:12+08:00"
+  },
+  {
+   "id": "72d7e8de71",
+   "title": "Nodecode：用 Lisp 写的「活体」Agent，运行中自我改写",
+   "summary": "开源项目以 SBCL 单进程运行，模型唯一工具是 eval；成功定义会落盘并在重启后加载。用 Cell 文件夹扩展技能/MCP/频道，无沙箱、需容器隔离——正出现在 HN 最新帖。",
+   "links": [
+    "https://nodecode.ai/",
+    "https://nodecode.ai/docs",
+    "https://github.com/nodecode-ai/nodecode",
+    "https://news.ycombinator.com/item?id=50397125"
+   ],
+   "topic": "nodecode-living-lisp-agent-2026-11",
+   "firstSeen": "2026-11-07T03:43:12+08:00"
+  },
+  {
+   "id": "442c2eb5c2",
+   "title": "AegisKernel：给 AI Agent 的零信任确定性安全运行时",
+   "summary": "Show HN：宣称亚毫秒级拦截路径穿越、SQL 注入、破坏性命令等工具劫持，提供 LangChain/CrewAI/AutoGen 式两行接入；与概率式 LLM 护栏对照，强调确定性能力边界。",
+   "links": [
+    "https://adikshatriyag-crypto.github.io/aegis-kernel/",
+    "https://github.com/adikshatriyag-crypto/aegis-kernel",
+    "https://news.ycombinator.com/item?id=50394991"
+   ],
+   "topic": "aegiskernel-zero-trust-agent-runtime-2026-11",
+   "firstSeen": "2026-11-07T03:43:12+08:00"
+  },
+  {
+   "id": "663bac8bb7",
+   "title": "Chimera Linux：让 musl 跑通专有 NVIDIA 驱动",
+   "summary": "工程长文拆解 GLVND、gcompat、patchelf、ifunc 重定位、STATIC_TLS 与递归互斥量兼容层；已对 580/620 分支开 PR，RTX 3070 Ti 等有实测，给 musl 发行版补上闭源 GPU 缺口。",
+   "links": [
+    "https://chimera-linux.org/news/2026/11/musl-nvidia.html"
+   ],
+   "topic": "chimera-musl-nvidia-proprietary-2026-11",
+   "firstSeen": "2026-11-07T03:43:12+08:00"
+  },
+  {
+   "id": "7abaf6fdd1",
+   "title": "「Software Line Specialist」 satire：AI 写完 99.5%，人类只修最后半步",
+   "summary": "讽刺招聘文走红 Lobsters：AI-first 公司用英语当栈，招「产线专员」接管 Agent 修不完的坑、禁止用 AI 面试调试；映射真实分工焦虑与 vibe coding 后的人机边界。",
+   "links": [
+    "https://lovro-bikic.github.io/software-line-specialist/"
+   ],
+   "topic": "software-line-specialist-satire-2026-11",
+   "firstSeen": "2026-11-07T03:43:12+08:00"
   }
  ],
- "lastChecked": "2026-11-07T03:29:40+08:00"
+ "lastChecked": "2026-11-07T03:43:12+08:00"
 }
