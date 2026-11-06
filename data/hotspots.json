@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T04:13:04+08:00",
+ "lastUpdated": "2026-11-07T04:34:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -38548,7 +38548,101 @@
    ],
    "topic": "less-is-more-ui-agent-skill-2026-11",
    "firstSeen": "2026-11-07T04:13:04+08:00"
+  },
+  {
+   "id": "cfd4354afa",
+   "title": "OpenAI 发布 BioBasicsBench：用真实湿实验数据测 AI Agent",
+   "summary": "与酶设计公司 Ligo 合作，100 道任务考读凝胶/菌落/显微与仪器原始数据；GPT-6 Astra 在 xhigh 推理下均分 66.7%，仍会错判对照与菌落计数。",
+   "links": [
+    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+    "https://x.com/i/trending/2118800545532039264"
+   ],
+   "topic": "openai-biobasicsbench-wet-lab-2026-11-06",
+   "firstSeen": "2026-11-07T04:34:16+08:00"
+  },
+  {
+   "id": "65bf7a9e9f",
+   "title": "Cloudflare 推 Trusted Agent Delegation：站点怎么认清「代用户办事」的 Agent",
+   "summary": "论述个人 AI Agent 作为中介会毁掉身份、信誉与问责；拉起 TAD 联盟，并用 Web Bot Auth、MOLE 等协议给站点看清是谁在代谁操作。",
+   "links": [
+    "https://blog.cloudflare.com/trusted-agent-delegation/"
+   ],
+   "topic": "cloudflare-trusted-agent-delegation-2026-11",
+   "firstSeen": "2026-11-07T04:34:16+08:00"
+  },
+  {
+   "id": "11d37191e2",
+   "title": "DoubleAI：训练中让 Agent 边学边改写自己的网络架构",
+   "summary": "在 nanochat / CLRS-Text 上用「幽灵梯度」与自生长 code layer；DeepSeek-V4.1-Flash 自我干预后 AIME/HMMT 准确率从 64% 提到 71%。",
+   "links": [
+    "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+   ],
+   "topic": "doubleai-llm-self-redesign-training-2026-11-06",
+   "firstSeen": "2026-11-07T04:34:16+08:00"
+  },
+  {
+   "id": "9b08084c16",
+   "title": "PyPI 项目页大改版：安全 Tab 把证明出处和警告摆到台前",
+   "summary": "新安全页展示 attestation / 完整出处状态，并标出不完整、不一致、出处变更或丢失等警告；OpenSSF 资助的界面已全站上线。",
+   "links": [
+    "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
+   ],
+   "topic": "pypi-security-tab-ui-2026-11-06",
+   "firstSeen": "2026-11-07T04:34:16+08:00"
+  },
+  {
+   "id": "67a7322888",
+   "title": "SketchAgentBench：用可交互 3D 网格考 LLM 空间推理",
+   "summary": "Agent 写几何代码、看多视角渲染再迭代纠形；面向 cottage / 书架 / 城市天际线等任务，评测编码模型的三维空间理解。",
+   "links": [
+    "https://sketchagent.dev/",
+    "https://news.ycombinator.com/item?id=50398010"
+   ],
+   "topic": "sketchagentbench-3d-spatial-2026-11",
+   "firstSeen": "2026-11-07T04:34:16+08:00"
+  },
+  {
+   "id": "7e23ea1a80",
+   "title": "SonicWall SonicOS SSLVPN 认证绕过 CVE-2026-19868",
+   "summary": "持有其他认证方式有效凭证的用户可绕过强制 SAML（含 MFA）控制；厂商编号 SNWLID-2026-0014，2026-11-06 披露。",
+   "links": [
+    "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0014",
+    "https://news.ycombinator.com/item?id=50398020"
+   ],
+   "topic": "sonicwall-sslvpn-auth-bypass-cve-2026-19868",
+   "firstSeen": "2026-11-07T04:34:16+08:00"
+  },
+  {
+   "id": "333d8bf94b",
+   "title": "Show HN：Context by Altora——把屏幕/音频/位置 24/7 喂给 Agent",
+   "summary": "YC W27 项目，主张把个人上下文持续接到 Agent；面向「常驻记忆」类个人助手场景。",
+   "links": [
+    "https://trycontext.app",
+    "https://news.ycombinator.com/item?id=50397850"
+   ],
+   "topic": "altora-context-agent-memory-2026-11",
+   "firstSeen": "2026-11-07T04:34:16+08:00"
+  },
+  {
+   "id": "0910e26259",
+   "title": "ICLR 2027 审稿分数公开：约 4 万篇论文评分分布可查",
+   "summary": "作者整理 ICLR 2027 共 40458 篇论文的审稿分快照与 CDF，方便对照今年审稿争议与分数走势。",
+   "links": [
+    "https://shiqiangw.github.io/iclr-2027-scores/"
+   ],
+   "topic": "iclr-2027-review-scores-dump-2026-11",
+   "firstSeen": "2026-11-07T04:34:16+08:00"
+  },
+  {
+   "id": "94bac8fb43",
+   "title": "Nebius：一个 PyTorch 亲和性开关让 GPU 吞吐约 +1.13%",
+   "summary": "192 张 B300 上改进程亲和后步进时间约降 1.11%、单卡吞吐升约 1.13%；顺带点燃「为何 Baseten 估值高于公有云运营商」争论。",
+   "links": [
+    "https://x.com/i/trending/2118794400323321933"
+   ],
+   "topic": "nebius-pytorch-affinity-gpu-throughput-2026-11",
+   "firstSeen": "2026-11-07T04:34:16+08:00"
   }
  ],
- "lastChecked": "2026-11-07T04:13:04+08:00"
+ "lastChecked": "2026-11-07T04:34:16+08:00"
 }
