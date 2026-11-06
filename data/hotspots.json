@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T07:46:14+08:00",
+ "lastUpdated": "2026-11-07T07:58:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -39469,7 +39469,40 @@
    ],
    "topic": "doom-inside-sql-server-2026-11-06",
    "firstSeen": "2026-11-07T07:46:14+08:00"
+  },
+  {
+   "id": "e7ae47b326",
+   "title": "No CVE Today：拜托今天别再报 CVE 了",
+   "summary": "一篇黑色幽默站点冲上 HN：求安全圈暂停一天，别再发 CVE、别预约编号、别发带戏剧性名字的 PoC——讽刺补丁疲劳与「Exploit Wednesday」节奏。",
+   "links": [
+    "https://nocveday.com/",
+    "https://news.ycombinator.com/item?id=50399859"
+   ],
+   "topic": "no-cve-today-please-hn-2026-11-06",
+   "firstSeen": "2026-11-07T07:58:03+08:00"
+  },
+  {
+   "id": "a723c53dd7",
+   "title": "Cinnamon：面向家庭的共享 AI Agent，行动前必问",
+   "summary": "Show HN 新品：一家最多 5 人共享的个人 Agent，可规划、订票、盯价与提醒；家庭空间与个人空间隔离，学到的事实用明文写入对应空间，并强调行动前征求同意。团队背景来自 Facebook / Instagram / Amazon。",
+   "links": [
+    "https://getcinnamon.ai/",
+    "https://news.ycombinator.com/item?id=50400056"
+   ],
+   "topic": "cinnamon-household-ai-agent-hn-2026-11-06",
+   "firstSeen": "2026-11-07T07:58:03+08:00"
+  },
+  {
+   "id": "2d89335b25",
+   "title": "Claude 指挥机械臂通宵画水彩；Figure 03 无人陪同校园行走",
+   "summary": "X 热点：一则演示里 Claude 指挥机械臂约 4.5 小时、303 笔触完成秋树水彩，中途补色并续画；同期 Figure 放出 Figure 03 人形机器人无人陪同穿校园行走，称 BotQ 工厂产能约每小时一台、已交付超 350 台。",
+   "links": [
+    "https://x.com/i/trending/2118852542105002048",
+    "https://www.figure.ai/"
+   ],
+   "topic": "claude-robot-arm-paint-figure-03-campus-2026-11-06",
+   "firstSeen": "2026-11-07T07:58:03+08:00"
   }
  ],
- "lastChecked": "2026-11-07T07:46:14+08:00"
+ "lastChecked": "2026-11-07T07:58:03+08:00"
 }
