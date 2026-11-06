@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T00:47:34+08:00",
+ "lastUpdated": "2026-11-07T00:56:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37777,7 +37777,51 @@
    ],
    "topic": "hn-663-agentic-setups-patterns-2026-11-06",
    "firstSeen": "2026-11-07T00:47:34+08:00"
+  },
+  {
+   "id": "2a1d5dbcd6",
+   "title": "Digital Antiquarian 重读《Deus Ex》：沉浸式模拟的突破，阴谋叙事别神化成预言",
+   "summary": "Jimmy Maher 长文梳理 2000 年《Deus Ex》：它把 Looking Glass 系「问题而非谜题」玩法推到商业成功，却也常被后人夸成「预言未来」；作者认为故事更像 90 年代阴谋文化的拼贴，玩法才是真正遗产。HN 上约 1 小时内破百赞。",
+   "links": [
+    "https://www.filfre.net/2026/11/deus-ex/",
+    "https://news.ycombinator.com/item?id=50393758"
+   ],
+   "topic": "deus-ex-digital-antiquarian-2026-11",
+   "firstSeen": "2026-11-07T00:56:55+08:00"
+  },
+  {
+   "id": "8e64409f36",
+   "title": "Rune：Rust 写的原生 GPU 渲染 UI 框架，跨 macOS/Windows/Linux/Web",
+   "summary": "anomalyco/rune 开源原生 UI 框架，强调 GPU 渲染与跨平台；GitHub 星数已破千九，刚上 HN。面向想避开 Electron 重量、又要现代渲染管线的桌面/嵌入式界面场景。",
+   "links": [
+    "https://github.com/anomalyco/rune",
+    "https://news.ycombinator.com/item?id=50394569"
+   ],
+   "topic": "anomalyco-rune-gpu-ui-2026-11",
+   "firstSeen": "2026-11-07T00:56:55+08:00"
+  },
+  {
+   "id": "786981bf01",
+   "title": "humans&：GPU 加速「权重传送」——RL 权重同步暂停可压到约 0.23 秒",
+   "summary": "团队把 delta 权重同步做成 Blackwell 原生压缩/解压流水线（双压缩 + DE/SM 重叠），在 Ampersand 配置下采样器暂停约 0.23 秒、端到端同步约 4 秒内；实现开源进 Miles 与 SGLang，适合大规模 RL 训练与跨机房推权重。",
+   "links": [
+    "https://humansand.ai/blog/gpu-accelerated-weight-teleportation",
+    "https://news.ycombinator.com/item?id=50394837"
+   ],
+   "topic": "humansand-gpu-weight-teleportation-2026-11",
+   "firstSeen": "2026-11-07T00:56:55+08:00"
+  },
+  {
+   "id": "586df0c941",
+   "title": "Zalando 开源 Agentic Identity Broker：给 AI Agent 做 OAuth 委托与同意管理",
+   "summary": "Show HN：zalando-incubator/agentic-identity-broker 提供面向 Agent 的身份中介，强调 OAuth2 委托与用户同意，想解决「Agent 代你登录/调 API」时的授权边界。条目尚早，但贴合当前 Agent 身份治理热点。",
+   "links": [
+    "https://github.com/zalando-incubator/agentic-identity-broker",
+    "https://news.ycombinator.com/item?id=50393235"
+   ],
+   "topic": "zalando-agentic-identity-broker-2026-11",
+   "firstSeen": "2026-11-07T00:56:55+08:00"
   }
  ],
- "lastChecked": "2026-11-07T00:47:34+08:00"
+ "lastChecked": "2026-11-07T00:56:55+08:00"
 }
