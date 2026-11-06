@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T07:55:44+08:00",
+ "lastUpdated": "2026-11-06T08:12:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35569,7 +35569,40 @@
    ],
    "topic": "chime-external-ai-agents-2026-11-05",
    "firstSeen": "2026-11-06T07:55:44+08:00"
+  },
+  {
+   "id": "7486a9a8c5",
+   "title": "Thinking Machines 发布 Inkling 2 Small：594B MoE 开源权重路线模型",
+   "summary": "11 月 5 日上线：总参 5940 亿、每 token 激活 170 亿，支持图像与可变努力；Artificial Analysis Index 约 31，主打 agent 编程与视觉创作。现可在 Tinker 试用与微调，计划下周以 Apache 2.0 放全量权重。已冲上 X 趋势。",
+   "links": [
+    "https://thinkingmachines.ai/news/inkling-2-small/",
+    "https://x.com/i/trending/2118493638007062804"
+   ],
+   "topic": "thinking-machines-inkling-2-small-2026-11-05",
+   "firstSeen": "2026-11-06T08:12:23+08:00"
+  },
+  {
+   "id": "94b7888e18",
+   "title": "Anthropic Claude Enterprise：推理钩子正式可用，安全中心上线",
+   "summary": "Prompt / 工具调用前钩子现已 GA，可把请求送到企业自有或厂商 DLP 服务做允许/拒绝；另有安全中心、集中管理控制台、一键登出与桌面端防影子 IT 等企业管控能力。",
+   "links": [
+    "https://claude.com/resources/articles/claude-enterprise-security-updates",
+    "https://platform.claude.com/docs/en/manage-claude/inference-hooks"
+   ],
+   "topic": "anthropic-claude-enterprise-inference-hooks-ga-2026-11-05",
+   "firstSeen": "2026-11-06T08:12:23+08:00"
+  },
+  {
+   "id": "76bad072a3",
+   "title": "纽约时报洽购 Letterboxd：影评社区或并入 NYT",
+   "summary": "《纽约时报》据报正与电影评分社区 Letterboxd 进入收购后期谈判；消息登上 HN，可能把影迷社交图谱并入媒体订阅生态。",
+   "links": [
+    "https://www.nytimes.com/2026/11/05/business/letterboxd-new-york-times-company.html",
+    "https://news.ycombinator.com/item?id=50386147"
+   ],
+   "topic": "nyt-letterboxd-acquisition-talks-2026-11-05",
+   "firstSeen": "2026-11-06T08:12:23+08:00"
   }
  ],
- "lastChecked": "2026-11-06T07:55:44+08:00"
+ "lastChecked": "2026-11-06T08:12:23+08:00"
 }
