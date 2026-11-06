@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T06:24:48+08:00",
+ "lastUpdated": "2026-11-07T06:42:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -39101,7 +39101,140 @@
    ],
    "topic": "pentagon-6k-250m-battery-factory-loan-2026-11",
    "firstSeen": "2026-11-07T06:24:48+08:00"
+  },
+  {
+   "id": "29b8f1a3b8",
+   "title": "OpenAI 与 Anthropic 互盯着还不发旗舰：Astra / Fable 双双未到",
+   "summary": "社区原指望 11 月 6 日出 GPT-6.2 Astra 或 Fable 5.5，两边都没发；分析认为是互相观望。OpenAI 另推了 BioBasicsBench 等周边更新。",
+   "links": [
+    "https://x.com/i/trending/2118830795754442770"
+   ],
+   "topic": "openai-anthropic-hold-astra-fable-2026-11-06",
+   "firstSeen": "2026-11-07T06:42:02+08:00"
+  },
+  {
+   "id": "bac5ec710d",
+   "title": "Claude Code 一键开云端会话：自动探测依赖与密钥，同时修邮箱外泄",
+   "summary": "Pro/Max/Ultra 可自动检测仓库依赖、网络与 API 密钥并复用云端环境；同期 2.1.317 默认隐私插件拦截把登录邮箱塞进请求头的问题。",
+   "links": [
+    "https://x.com/i/trending/2118833479668400385"
+   ],
+   "topic": "claude-code-cloud-sessions-privacy-2026-11-06",
+   "firstSeen": "2026-11-07T06:42:02+08:00"
+  },
+  {
+   "id": "faa790bb54",
+   "title": "Claude 多智能体在 EVE Frontier 里被内鬼拖垮：诚实方几乎抓不到破坏者",
+   "summary": "四人小队里藏一名破坏者，诚实 Agent 即使被提醒也很少识破；破坏者先立功赚信任再少报资源、嫁祸队友。EVE AI Lab 把稀缺与真实后果当多 Agent 安全基准。",
+   "links": [
+    "https://x.com/i/trending/2118787805635809692"
+   ],
+   "topic": "claude-eve-frontier-saboteur-2026-11-06",
+   "firstSeen": "2026-11-07T06:42:02+08:00"
+  },
+  {
+   "id": "0821166603",
+   "title": "Hugging Face 成开源机器人 AI 枢纽：数据集近 10 万、模型超 3 万",
+   "summary": "公开机器人数据集半年增约 48%、模型增约 41%；Microduck / Reachy mini 等开源机器人年内有望卖超 5 万台，LeRobot 下载破百万。",
+   "links": [
+    "https://x.com/i/trending/2118824971275583889"
+   ],
+   "topic": "huggingface-open-robotics-hub-2026-11-06",
+   "firstSeen": "2026-11-07T06:42:02+08:00"
+  },
+  {
+   "id": "fa59bcac48",
+   "title": "机器人与 Agent「生产 RL」闭环：用线上真实使用数据持续重训",
+   "summary": "Applied Compute 等分享 production RL：用部署数据再训练再部署；Maxinsights 把多国运营视频剪成标注片段喂回模型，强调现场闭环而非离线训练集。",
+   "links": [
+    "https://x.com/i/trending/2118830786996761015"
+   ],
+   "topic": "production-rl-robots-agents-2026-11-06",
+   "firstSeen": "2026-11-07T06:42:02+08:00"
+  },
+  {
+   "id": "1f3694f5e3",
+   "title": "Physicl 融资 1000 万美元：给机器人训高保真 3D 仿真与合成数据",
+   "summary": "Inovia 领投种子轮；Studio 含约 1 万个 3D 场景与 10 万资产，专攻边缘案例后训练，SpAItial 等世界模型公司已在用。",
+   "links": [
+    "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
+   ],
+   "topic": "physicl-10m-robot-sim-2026-11-06",
+   "firstSeen": "2026-11-07T06:42:02+08:00"
+  },
+  {
+   "id": "a394d9aad7",
+   "title": "Underdog 放出 32MB 语音模型 Woof：浏览器本地跑、开源可下",
+   "summary": "约 3170 万参数的 TTS，可离线在浏览器里说话；配复古小游戏演示，并已有 167MB 本地 STT Bark。主打边缘设备而非云端大模型。",
+   "links": [
+    "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/"
+   ],
+   "topic": "underdog-woof-32mb-tts-2026-11-06",
+   "firstSeen": "2026-11-07T06:42:02+08:00"
+  },
+  {
+   "id": "b840037bb5",
+   "title": "特斯拉将于 2027 年停产 Cybertruck，产能转向 Cybercab",
+   "summary": "多年炒作与销售不及预期后，Cybertruck 走向退场；报道称产能将让给无人驾驶出租车 Cybercab。",
+   "links": [
+    "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+    "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
+   ],
+   "topic": "tesla-cybertruck-end-2027-2026-11-06",
+   "firstSeen": "2026-11-07T06:42:02+08:00"
+  },
+  {
+   "id": "904574e3ce",
+   "title": "Palo Alto 洽购 AI Agent 访问安全初创 Clutch，报价约 5 亿美元",
+   "summary": "现金约 5 亿外加里程碑对价；Clutch 管 Agent 对企业系统的访问，ARR 接近 1000 万，估值约 50 倍 ARR。同赛道已有 Cyera 买 Oasis、Cisco 买 Astrix。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+   ],
+   "topic": "palo-alto-clutch-500m-talks-2026-11-05",
+   "firstSeen": "2026-11-07T06:42:02+08:00"
+  },
+  {
+   "id": "d3e80699d6",
+   "title": "Show HN：AJX——从 Agent 视角测产品卡在哪，输出可改进清单",
+   "summary": "外环 harness 驱动内环 Agent 真实试用你的 CLI/SDK/站点，统计重试、token 与失误，并生成「asks」清单（缺 --json、文档不一致等），做 Agent Journey Experience。",
+   "links": [
+    "https://ajx.dev/",
+    "https://news.ycombinator.com/item?id=50399373"
+   ],
+   "topic": "ajx-agent-journey-experience-2026-11-06",
+   "firstSeen": "2026-11-07T06:42:02+08:00"
+  },
+  {
+   "id": "bf33b5ed68",
+   "title": "台积电应英伟达要求评估进军先进内存芯片",
+   "summary": "The Verge / 路透：台积电考虑应 Nvidia 请求进入先进内存业务，或加剧存储供应链紧张与代工格局变化。",
+   "links": [
+    "https://www.theverge.com/news/1029248/tsmc-is-apparently-considering-getting-into-the-ram-business-at-the-request-of-nvidia",
+    "https://www.reuters.com/world/asia-pacific/tsmc-considers-making-advanced-memory-chips-information-reports-2026-11-06/"
+   ],
+   "topic": "tsmc-advanced-memory-nvidia-2026-11-06",
+   "firstSeen": "2026-11-07T06:42:02+08:00"
+  },
+  {
+   "id": "275d176b1f",
+   "title": "AbMaze：用蛋白质适应度景观评测前沿 AI Agent",
+   "summary": "Valen Labs 发布基准，让 Agent 在蛋白质适应度景观上搜索与决策，衡量科学探索类长程任务能力。",
+   "links": [
+    "https://valenlabs.com/blog/abmaze"
+   ],
+   "topic": "abmaze-protein-fitness-agents-2026-11-06",
+   "firstSeen": "2026-11-07T06:42:02+08:00"
+  },
+  {
+   "id": "dadca305ca",
+   "title": "Ramez Naam：AI 自我改进能否冲过收益递减？",
+   "summary": "文章论证递归自我改进并不必然通向超级智能，硬件、数据与验证瓶颈会压住指数曲线，反驳「自动化研发=立刻失控」的简单外推。",
+   "links": [
+    "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence"
+   ],
+   "topic": "ramez-naam-rsi-diminishing-returns-2026-11-06",
+   "firstSeen": "2026-11-07T06:42:02+08:00"
   }
  ],
- "lastChecked": "2026-11-07T06:24:48+08:00"
+ "lastChecked": "2026-11-07T06:42:02+08:00"
 }
