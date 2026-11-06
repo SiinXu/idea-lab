@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T15:10:49+08:00",
+ "lastUpdated": "2026-11-06T15:47:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36823,7 +36823,38 @@
    ],
    "topic": "cramer-ai-selloff-not-dotcom-2026-11-05",
    "firstSeen": "2026-11-06T15:10:49+08:00"
+  },
+  {
+   "id": "2ee6dd095a",
+   "title": "HN 热议：有人怀疑「AI 自主研发」并不那么天才",
+   "summary": "LessWrong 短帖结合 Scrabble/终极井字棋等侧项目质疑：若模型真能大幅加速实验室研发，为何这类明确任务仍难做出 SOTA；正值 METR 称 Anthropic 研发约 2 倍加速，帖子登上 HN 热榜引发讨论。",
+   "links": [
+    "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+    "https://news.ycombinator.com/item?id=50388513"
+   ],
+   "topic": "lesswrong-ai-rd-ingenious-skepticism-2026-11-06",
+   "firstSeen": "2026-11-06T15:47:19+08:00"
+  },
+  {
+   "id": "7aa158d464",
+   "title": "SVG「链式参数」临近全浏览器：外链图标终于可被 CSS 染色",
+   "summary": "Linked Parameters 让外部 CSS 通过 link-parameters / env() 给 <img> 或 background 里的 SVG 传色值和参数；Firefox Nightly、Blink、WebKit 均已在推进，Safari TP 亦有记载，有望终结为改图标颜色而把 SVG 打进 JS bundle 的做法。",
+   "links": [
+    "https://blog.kizu.dev/link-parameters-soon/"
+   ],
+   "topic": "svg-linked-parameters-all-engines-2026-11",
+   "firstSeen": "2026-11-06T15:47:19+08:00"
+  },
+  {
+   "id": "24b0a9d1f6",
+   "title": "MIT Press：从 Linux 到维基——志愿者如何建成互联网公共品",
+   "summary": "新文梳理 Benkler「同伴生产」：非金钱激励、去中心化自治与执行、成果进公地；对照 Reddit/YouTube 商业平台如何侵蚀公地边界，并指出 ChatGPT 等仍依赖这些志愿公共品做训练与回答。",
+   "links": [
+    "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/"
+   ],
+   "topic": "mit-press-peer-production-volunteers-internet-2026-11",
+   "firstSeen": "2026-11-06T15:47:19+08:00"
   }
  ],
- "lastChecked": "2026-11-06T15:13:38+08:00"
+ "lastChecked": "2026-11-06T15:47:19+08:00"
 }
