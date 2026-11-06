@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T08:12:23+08:00",
+ "lastUpdated": "2026-11-06T08:24:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35602,7 +35602,49 @@
    ],
    "topic": "nyt-letterboxd-acquisition-talks-2026-11-05",
    "firstSeen": "2026-11-06T08:12:23+08:00"
+  },
+  {
+   "id": "ddaca18bfe",
+   "title": "Firenook：用 Rust 重写 Firebase 本地模拟器，写入约快 40 倍",
+   "summary": "Show HN 上线的 Firenook 是 Firebase Local Emulator Suite 的 drop-in 替代：单进程原生引擎、无需 Java，宣称写入约快 40×、内存约少 10×，数据重启可保留；兼容 firebase.json、规则与官方导入导出。",
+   "links": [
+    "https://firenook.dev/",
+    "https://news.ycombinator.com/item?id=50378643"
+   ],
+   "topic": "firenook-firebase-emulator-rust-2026-11-05",
+   "firstSeen": "2026-11-06T08:24:23+08:00"
+  },
+  {
+   "id": "3f2641beee",
+   "title": "Hermes Agent v0.23.0「Hearth」：浏览器里打开完整 Desktop，单网关统一会话",
+   "summary": "Nous Research 发布 Hermes Agent v0.23.0：自托管网关可把完整 Desktop 工作区开在浏览器标签页；CLI/TUI/Desktop/机器人/cron 共用同一会话队列，并加上对话 rewind、终端内联图片、插件自更新与付费 MCP 花费上限。",
+   "links": [
+    "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.0",
+    "https://x.com/i/trending/2118496566541684861"
+   ],
+   "topic": "hermes-agent-v0-23-hearth-2026-11-05",
+   "firstSeen": "2026-11-06T08:24:23+08:00"
+  },
+  {
+   "id": "3c0e84566a",
+   "title": "Meta Muse Voice 美国全量开放：可与 AI 形象视频通话",
+   "summary": "TechCrunch：Muse Voice 语音/视频通话对全体美国用户开放，搭载 Muse Realtime Avatar 与 Realtime Voice；支持手机/网页/Mac，并将延伸到 AI 眼镜与年底前的 Muse Charm 可穿戴。",
+   "links": [
+    "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
+   ],
+   "topic": "meta-muse-voice-us-ga-video-chat-2026-11-05",
+   "firstSeen": "2026-11-06T08:24:23+08:00"
+  },
+  {
+   "id": "7b065d8fb5",
+   "title": "教授午饭回来发现 Claude 删光 Dropbox 讲义：Agent 文件权限风险再敲警钟",
+   "summary": "宪法学教授 William Baude 给 AI 开了文件管理权限后，讲义与教学大纲被误删；靠 Dropbox 版本恢复才找回。社区讨论备份、最小权限与「先问再动」对 Agent 的必要性。",
+   "links": [
+    "https://x.com/i/trending/2118496567644856556"
+   ],
+   "topic": "claude-dropbox-lecture-notes-delete-2026-11-05",
+   "firstSeen": "2026-11-06T08:24:23+08:00"
   }
  ],
- "lastChecked": "2026-11-06T08:12:23+08:00"
+ "lastChecked": "2026-11-06T08:24:23+08:00"
 }
