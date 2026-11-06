@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T09:29:07+08:00",
+ "lastUpdated": "2026-11-06T09:41:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35843,7 +35843,91 @@
    ],
    "topic": "google-gemini-cost-per-task-jev-routing-2026-11",
    "firstSeen": "2026-11-06T09:29:07+08:00"
+  },
+  {
+   "id": "940a6789e4",
+   "title": "DeepFinance：用真实私募交易测大模型，Claude Opus 5.5 暂居榜首约 54.8%",
+   "summary": "Julius Research 放出 DeepFinance：21 道来自真实脱敏交易室的 PE 任务（估值、尽调、建模），每题约等于分析师 20–40 小时；Opus 5.5 约 54.8% 领先，但仍常在关键假设上栽跟头。适合做成「金融 Agent 实战评测」点子。",
+   "links": [
+    "https://x.com/i/trending/2118499605021360438"
+   ],
+   "topic": "deepfinance-julius-pe-benchmark-2026-11-06",
+   "firstSeen": "2026-11-06T09:41:56+08:00"
+  },
+  {
+   "id": "0ea8d0eebe",
+   "title": "Amundi 把 STOXX Europe 600 指数基金份额上链 Ethereum",
+   "summary": "欧洲最大资管 Amundi 为其 Core STOXX Europe 600 基金新增代币化份额类别，策略与监管不变、走公链结算；继去年货币基金代币化后再进一步。机构资金上链从「试验」逼近「产品线」。",
+   "links": [
+    "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum",
+    "https://x.com/i/trending/2118420615116013640"
+   ],
+   "topic": "amundi-stoxx-europe-600-tokenized-ethereum-2026-11-06",
+   "firstSeen": "2026-11-06T09:41:56+08:00"
+  },
+  {
+   "id": "4fc602c940",
+   "title": "Ryzova 发布 Alphi v1：基于 Gemma 4 的本地优先多模态小模型",
+   "summary": "Hugging Face 上线 RyzovaTech/Alphi-v1（约 5B，含 FP16 与多档 GGUF），主打本地推理与英/僧伽罗语；团队还在推结构化记忆与 Agent 工具运行时，但权重侧尚未给出完整对标分数。",
+   "links": [
+    "https://discuss.huggingface.co/t/introducing-ryzova-alphi-v1-gemma-4-based-multimodal-ai-model-with-fp16-gguf/191474",
+    "https://huggingface.co/RyzovaTech/Alphi-v1"
+   ],
+   "topic": "ryzova-alphi-v1-gemma4-2026-11-06",
+   "firstSeen": "2026-11-06T09:41:56+08:00"
+  },
+  {
+   "id": "48f399a0d9",
+   "title": "NVIDIA DSX OS：用开源栈配置、认证并运维 GPU Kubernetes 集群",
+   "summary": "NVIDIA 技术博客详解 DSX OS：AICR 锁定运行时配方、NVCRE 做上线前认证、NVSentinel 监控故障并自动隔离；把 AI 工厂从「装得上」推到「可持续运转」。",
+   "links": [
+    "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/"
+   ],
+   "topic": "nvidia-dsx-os-k8s-certify-operate-2026-11-05",
+   "firstSeen": "2026-11-06T09:41:56+08:00"
+  },
+  {
+   "id": "56a03da12c",
+   "title": "谷歌研究：智能手表无袖带校准也能筛高血压，论文登 Nature",
+   "summary": "AI-PPG-ACC-HTN 用消费级手表 PPG+加速度计做多日被动筛查，对照 24 小时动态血压：初筛敏感度约 65.8%、特异度 90%；明确不能替代诊所袖带，但可催促高危人群去做正式检查。",
+   "links": [
+    "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
+    "https://www.nature.com/articles/s41586-026-11336-3"
+   ],
+   "topic": "google-smartwatch-hypertension-ai-ppg-nature-2026-11-05",
+   "firstSeen": "2026-11-06T09:41:56+08:00"
+  },
+  {
+   "id": "04284e8012",
+   "title": "微软短期内不推 Windows 12：把火力放在 Windows 11 27H2 大换血",
+   "summary": "The Verge 称微软正准备 2027 年的 Win11 27H2 完整平台升级（非启用包），Ignite 将预览新默认壁纸；公司更想先修口碑与性能，而不是换个大版本号。",
+   "links": [
+    "https://www.theverge.com/tech/1027621/where-is-windows-12-notepad"
+   ],
+   "topic": "microsoft-no-windows-12-win11-27h2-2026-11-05",
+   "firstSeen": "2026-11-06T09:41:56+08:00"
+  },
+  {
+   "id": "79e0e6d049",
+   "title": "Expedia CEO：AI Agent 会帮规划行程，但还没改掉预订习惯",
+   "summary": "Ariane Gorin 对 CNBC 表示旅客用 Agent 找灵感、做行程没问题，真正下单仍多走直连；旅行客服与信任链太长，Agent 短期难完全接管预订。",
+   "links": [
+    "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html"
+   ],
+   "topic": "expedia-ceo-ai-agents-booking-habits-2026-11-05",
+   "firstSeen": "2026-11-06T09:41:56+08:00"
+  },
+  {
+   "id": "d481192fc8",
+   "title": "英伟达称全栈共设计：HBM 只多约 3%，Agent 每美元吞吐最高可提约 30 倍",
+   "summary": "围绕 Vera Rubin / Agent 负载，NVIDIA 宣称每美元智能体吞吐量相对上代可最高提升约 30 倍，而单卡 HBM 容量几乎不涨；第三方基准在不同操作点数字更保守，但仍指向「吞吐/$」成新 KPI。",
+   "links": [
+    "https://www.ithome.com/1/023/025.htm",
+    "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt/"
+   ],
+   "topic": "nvidia-agent-throughput-per-dollar-vera-rubin-2026-11-06",
+   "firstSeen": "2026-11-06T09:41:56+08:00"
   }
  ],
- "lastChecked": "2026-11-06T09:29:07+08:00"
+ "lastChecked": "2026-11-06T09:41:56+08:00"
 }
