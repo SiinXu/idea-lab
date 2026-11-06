@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T05:56:51+08:00",
+ "lastUpdated": "2026-11-07T06:15:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -39046,7 +39046,31 @@
    ],
    "topic": "stripe-connect-fraud-caution-tell-hn-2026-11-06",
    "firstSeen": "2026-11-07T05:56:51+08:00"
+  },
+  {
+   "id": "207f76b95a",
+   "title": "Ubuntu 26.04 的 Rust sudo 与经典 sudo 不兼容",
+   "summary": "Ubuntu 默认改用 sudo-rs 后，方括号通配等细粒度 sudoers 规则失效，且文档把「不支持」埋在末尾；可切回 sudo.ws。系统管理脚本与集中授权场景要小心。",
+   "links": [
+    "https://www.osnews.com/story/146309/the-ubuntu-26-04-rust-sudo-is-not-compatible-with-standard-sudo/",
+    "https://news.ycombinator.com/item?id=50354308",
+    "https://ubuntu.com/server/docs/reference/other-tools/sudo-rs/"
+   ],
+   "topic": "ubuntu-26-04-sudo-rs-incompatible-2026-11",
+   "firstSeen": "2026-11-07T06:15:31+08:00"
+  },
+  {
+   "id": "29cfae915f",
+   "title": "Cua Driver Bench：测 AI 能否在后台用桌面而不抢焦点",
+   "summary": "Cua 与 Scale AI 推出基准：agent 须在独立窗口完成 GUI 任务，不抢指针/键盘；macOS 上 Cua Driver 后台通过率约 58%，高于 Codex 等。后台 computer-use 成新赛道指标。",
+   "links": [
+    "https://cua.ai/cua-driver",
+    "https://huggingface.co/datasets/earakely-scale/cua-driver-bench",
+    "https://x.com/i/trending/2118824972055683149"
+   ],
+   "topic": "cua-driver-bench-background-agents-2026-11-06",
+   "firstSeen": "2026-11-07T06:15:31+08:00"
   }
  ],
- "lastChecked": "2026-11-07T05:56:51+08:00"
+ "lastChecked": "2026-11-07T06:15:31+08:00"
 }
