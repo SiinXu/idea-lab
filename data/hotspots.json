@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T07:04:43+08:00",
+ "lastUpdated": "2026-11-07T07:12:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -39284,7 +39284,63 @@
    ],
    "topic": "cua-embodied-generalists-2026-11-06",
    "firstSeen": "2026-11-07T07:04:43+08:00"
+  },
+  {
+   "id": "118369de89",
+   "title": "OpenAI 本轮已募约 110 亿美元，投后估值 1.25 万亿",
+   "summary": "彭博披露本轮已到位约 110 亿美元、估值 1.25 万亿美元，整轮预计数周内收官、规模或达约 200 亿，低于此前 300 亿目标；同日 Anthropic IPO 买家估值预期下探至约 1.1 万亿。",
+   "links": [
+    "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "https://x.com/i/trending/2118824983518703636"
+   ],
+   "topic": "openai-11b-raised-1-25t-2026-11-06",
+   "firstSeen": "2026-11-07T07:12:15+08:00"
+  },
+  {
+   "id": "48ee30e181",
+   "title": "Carta 推出 Evergreen：团队与 Agent 同场的多人编程平台",
+   "summary": "Carta 的 Evergreen 让人与 coding agent 在同一工作区协作交付，主打多人+Agent 并行；刚上 HN，适合做成团队 Agent 协作产品参考。",
+   "links": [
+    "https://evergreen.carta.com/blog/introducing-evergreen",
+    "https://news.ycombinator.com/item?id=50399676"
+   ],
+   "topic": "carta-evergreen-multiplayer-agents-2026-11-06",
+   "firstSeen": "2026-11-07T07:12:15+08:00"
+  },
+  {
+   "id": "a6559d75f6",
+   "title": "Show HN：把 HN 上 750 条 Agent 开发配置评论做成可交互地图",
+   "summary": "有人把 HN 里关于 agentic coding 的大量评论结构化成站点，覆盖订阅、模型、harness、编排与平台偏好，每条数字可点回原评论。",
+   "links": [
+    "https://scouttyg.github.io/hn-agentic-setups/",
+    "https://github.com/scouttyg/hn-agentic-setups",
+    "https://news.ycombinator.com/item?id=50399637"
+   ],
+   "topic": "hn-agentic-setups-map-750-2026-11-06",
+   "firstSeen": "2026-11-07T07:12:15+08:00"
+  },
+  {
+   "id": "0ec4cf1202",
+   "title": "OpenAI 语音 SIP 外呼对所有组织开放",
+   "summary": "OpenAI 开发者文档更新：Outbound SIP calling 现对全部组织可用，方便把 Realtime/语音 Agent 接到传统电话线路。",
+   "links": [
+    "https://developers.openai.com/api/docs/guides/voice-sip",
+    "https://news.ycombinator.com/item?id=50399695"
+   ],
+   "topic": "openai-outbound-sip-ga-2026-11-06",
+   "firstSeen": "2026-11-07T07:12:15+08:00"
+  },
+  {
+   "id": "6fa1e5bcb1",
+   "title": "Harness、上下文与模型要一起设计：Wisdom 谈 Agent 共设计",
+   "summary": "文章强调不能只换模型：harness、上下文工程与模型能力必须共设计，否则 agent 表现上不去——和近期「外层框架差 20 分」讨论同向。",
+   "links": [
+    "https://www.wisdom.ai/blog/context-harness-co-design",
+    "https://news.ycombinator.com/item?id=50399482"
+   ],
+   "topic": "wisdom-harness-context-model-codesign-2026-11-06",
+   "firstSeen": "2026-11-07T07:12:15+08:00"
   }
  ],
- "lastChecked": "2026-11-07T07:04:43+08:00"
+ "lastChecked": "2026-11-07T07:12:15+08:00"
 }
