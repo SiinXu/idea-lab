@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T13:48:13+08:00",
+ "lastUpdated": "2026-11-06T13:58:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36673,7 +36673,45 @@
    ],
    "topic": "clio-judiciary-ai-50-state-policy-2026-11",
    "firstSeen": "2026-11-06T13:48:13+08:00"
+  },
+  {
+   "id": "c283e4a1e3",
+   "title": "抛售后机构施压：Anthropic IPO 估值或压到约 1 万亿美元，甚至推迟",
+   "summary": "纳指大跌抹去约 2.5–3 万亿美元市值后，《华尔街日报》援引三位拟参与配售的大机构称，原约 1.5 万亿目标可能下修，有人估到约 1 万亿；亦有人建议推迟感恩节前上市或缩小最高约 1000 亿美元募资规模。管理层与顾问数日内开会定夺；OpenAI 已推迟到明年上市。",
+   "links": [
+    "https://www.benzinga.com/markets/ipos/26/11/62965664/anthropic-ipo-valuation-1-trillion-delay-stock-market-selloff",
+    "https://gulfnews.com/technology/anthropic-may-need-to-cut-ipo-ambitions-as-investors-balk-report-1.500737845",
+    "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-ipo-faces-500-billion-valuation-hit-after-tech-stocks-plunge/",
+    "https://x.com/i/trending/2118150803340788179"
+   ],
+   "topic": "anthropic-ipo-1t-cut-or-delay-after-selloff-2026-11-06",
+   "firstSeen": "2026-11-06T13:58:29+08:00"
+  },
+  {
+   "id": "6958e918ca",
+   "title": "俄亥俄 Piqua：选民以约 67% 通过禁建大型数据中心，并罢免三名支持建站的市委员",
+   "summary": "中期选举中，Piqua 宪章修正案以约 66.7% 禁止市内大型数据中心建设；特别选举又以约七成票罢免市长 Vetter 等三名支持争议项目的委员。Urbana 等地也出现类似反弹，与全国数据中心监管/电力忧虑及 AI 基建抛售共振。Meta 相关在建项目影响仍待厘清。",
+   "links": [
+    "https://www.wyso.org/government-politics-news/2026-11-04/piqua-voters-reject-data-centers-recall-city-commissioners",
+    "https://miamivalleytoday.com/piqua-commissioners-ousted-in-recall-effort-data-center-ban-approved/",
+    "https://dayton247now.com/news/local/voters-in-urbana-and-piqua-reject-data-center-projects-leaving-next-steps-unclear",
+    "https://news.ycombinator.com/item?id=50388687"
+   ],
+   "topic": "piqua-data-center-ban-recall-2026-11",
+   "firstSeen": "2026-11-06T13:58:29+08:00"
+  },
+  {
+   "id": "9b47647a2a",
+   "title": "美国司法部成立「超级智能特遣队」DOJ-SITF：对接白宫 SI Force，盯外国与欺诈滥用",
+   "summary": "11 月 5 日 DOJ 宣布成立 Super Intelligence Task Force，由 Associate AG Stanley Woodward 与 Associate DAG Stephen Weiss 牵头，与白宫超级智能特遣队主席、国家情报总监 Jay Clayton 协作，打击外国国家/犯罪组织及欺诈等对 SI 的滥用，并推动企业内控与风险报告。",
+   "links": [
+    "https://www.justice.gov/opa/pr/department-justice-launches-super-intelligence-task-force",
+    "https://www.nextgov.com/artificial-intelligence/2026/11/department-justice-forms-ai-task-force/417074/",
+    "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats"
+   ],
+   "topic": "doj-sitf-super-intelligence-task-force-2026-11-05",
+   "firstSeen": "2026-11-06T13:58:29+08:00"
   }
  ],
- "lastChecked": "2026-11-06T13:48:13+08:00"
+ "lastChecked": "2026-11-06T13:58:29+08:00"
 }
