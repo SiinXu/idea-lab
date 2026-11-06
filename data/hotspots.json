@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T11:00:26+08:00",
+ "lastUpdated": "2026-11-06T11:16:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36144,7 +36144,60 @@
    ],
    "topic": "unity-silver-lake-pif-talks-25b-2026-11",
    "firstSeen": "2026-11-06T11:00:26+08:00"
+  },
+  {
+   "id": "b53db0f718",
+   "title": "OpenAI 数据中心「社区承诺」：不再与公职人员签 NDA，电费全额自付",
+   "summary": "中期选举后多地反对扩数据中心，OpenAI 宣布：与公职人员仅保留安全/商业秘密等窄保护、支付全部用电与配套基建成本，自营「compute campus」还将签本地 compact。亚马逊十月已有类似表态。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
+   ],
+   "topic": "openai-datacenter-community-commitments-nda-2026-11-06",
+   "firstSeen": "2026-11-06T11:16:39+08:00"
+  },
+  {
+   "id": "faf1f8f27b",
+   "title": "Village：封闭模型几乎占满价性比前沿，开源权重大约只剩 3%",
+   "summary": "LLM Atlas 显示：几乎每个预算档位上最强可买模型都是封闭的；开源权重最佳买入点从六月约 41% 掉到约 3%，多被 GPT-6 Luna/Terra 与 Haiku 5.5 等廉价档吃掉。",
+   "links": [
+    "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+    "https://news.ycombinator.com/item?id=50387546"
+   ],
+   "topic": "village-closed-models-price-performance-frontier-2026-11",
+   "firstSeen": "2026-11-06T11:16:39+08:00"
+  },
+  {
+   "id": "67f329f0b6",
+   "title": "高通新一代骁龙终于兼容 Android Linux Terminal",
+   "summary": "此前 Linux Terminal 多限于 Tensor；安全公告称骁龙将经 AVF/pKVM 支持，9to5Google 已在 REDMAGIC 12 Pro（8 Elite Extreme Gen 6）上确认可用，后续旗舰跟进后覆盖面会大增。",
+   "links": [
+    "https://www.androidauthority.com/snapdragon-android-linux-terminal-3732212/"
+   ],
+   "topic": "snapdragon-android-linux-terminal-2026-11-05",
+   "firstSeen": "2026-11-06T11:16:39+08:00"
+  },
+  {
+   "id": "62aec515ca",
+   "title": "Verify, Then Vote：五台本地小模型先核验引用再投票",
+   "summary": "Grainulation 首篇论文：本地五模型答题后用独立检查器核验引用再定答案，主集准确率从多数票 77.1% 提到 85%；保存中间结果可无再调模型重跑决策规则。",
+   "links": [
+    "https://blog.grainulation.org/verify-then-vote/",
+    "https://news.ycombinator.com/item?id=50387623"
+   ],
+   "topic": "grainulation-verify-then-vote-2026-11-05",
+   "firstSeen": "2026-11-06T11:16:39+08:00"
+  },
+  {
+   "id": "40449e30a4",
+   "title": "SmartThings × Home Assistant：12 月 15 日起需付费 Developer Plan",
+   "summary": "官方宣布替换集成：12/2 HA 新版上线新集成，12/15 起旧集成失效且个人需付费 API Developer Plan；社区反响强烈，有人改用本地 LocalThings 控制三星家电。",
+   "links": [
+    "https://community.smartthings.com/t/changes-to-the-smartthings-integration-for-home-assistant-what-s-happening-and-what-you-need-to-do/311942",
+    "https://news.ycombinator.com/item?id=50387369"
+   ],
+   "topic": "smartthings-home-assistant-paid-api-2026-12",
+   "firstSeen": "2026-11-06T11:16:39+08:00"
   }
  ],
- "lastChecked": "2026-11-06T11:00:26+08:00"
+ "lastChecked": "2026-11-06T11:16:39+08:00"
 }
