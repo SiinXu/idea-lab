@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T07:30:53+08:00",
+ "lastUpdated": "2026-11-07T07:46:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -39407,7 +39407,69 @@
    ],
    "topic": "coding-agents-false-verified-zenodo-2026-11-06",
    "firstSeen": "2026-11-07T07:30:53+08:00"
+  },
+  {
+   "id": "7b111df755",
+   "title": "Linear 等公司用 AI Agent 把改动量打到约 4 倍",
+   "summary": "Linear 称 2025Q4 到 2026Q3 改动代码行数约 4.2 倍、合并 PR 约 2.3 倍，多数来自云端编码 Agent；Metaview 等改动量更高，非技术同事也能用 AI 交工具。",
+   "links": [
+    "https://x.com/i/trending/2118849874212884679"
+   ],
+   "topic": "linear-ai-agents-4x-code-output-2026-11-06",
+   "firstSeen": "2026-11-07T07:46:14+08:00"
+  },
+  {
+   "id": "32fd388fdc",
+   "title": "《纽约时报》：中国情报机构曾招募针对黄仁勋的女子",
+   "summary": "报道称中国最高间谍机构曾招募一名针对英伟达 CEO 黄仁勋的女子；与国会要求他就 Alice Huang 往来说明属同一新闻周期的新材料。",
+   "links": [
+    "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html"
+   ],
+   "topic": "nyt-china-spy-agency-recruited-target-huang-2026-11-06",
+   "firstSeen": "2026-11-07T07:46:14+08:00"
+  },
+  {
+   "id": "68be897c8b",
+   "title": "Libghostty 1.0：Ghostty 核心以库形式独立发布",
+   "summary": "Mitchell Hashimoto 宣布 Libghostty 1.0，把终端核心做成可嵌入库，方便 IDE、Agent TUI 和其他工具复用。",
+   "links": [
+    "https://mitchellh.com/writing/libghostty-1-0"
+   ],
+   "topic": "libghostty-1-0-release-2026-11-06",
+   "firstSeen": "2026-11-07T07:46:14+08:00"
+  },
+  {
+   "id": "acbac2a5a0",
+   "title": "全网扫描 TCP 端口 0：PLC、警报器与电话交换机都在「不存在的端口」",
+   "summary": "技术长文用 masscan 扫 IPv4 的 port 0，发现大量误暴露的 SSH/数据库/工控/报警与 Avaya 通话详单，说明「保留端口」不是安全边界。",
+   "links": [
+    "https://acid.vegas/blog/the-port-that-does-not-exist/",
+    "https://news.ycombinator.com/item?id=50399680"
+   ],
+   "topic": "internet-scan-tcp-port-0-2026-11-06",
+   "firstSeen": "2026-11-07T07:46:14+08:00"
+  },
+  {
+   "id": "bac3d87c0e",
+   "title": "何时扔掉 C？sunshowers 谈系统语言的路径依赖",
+   "summary": "长文讨论系统软件为何仍绑在 C 上、安全内存语言替代的真实阻力，在 HN 新帖里引发讨论。",
+   "links": [
+    "https://sunshowers.io/posts/sshole/",
+    "https://news.ycombinator.com/item?id=50399550"
+   ],
+   "topic": "sunshowers-when-get-rid-of-c-2026-11-06",
+   "firstSeen": "2026-11-07T07:46:14+08:00"
+  },
+  {
+   "id": "bddd757452",
+   "title": "在 SQL Server 里跑 Doom",
+   "summary": "技术博文演示把 Doom 跑进 SQL Server，继续「不可能的运行时」炫技线，提醒数据库扩展面有多宽。",
+   "links": [
+    "https://sqlartist.github.io/posts/running-doom-inside-sql-server/"
+   ],
+   "topic": "doom-inside-sql-server-2026-11-06",
+   "firstSeen": "2026-11-07T07:46:14+08:00"
   }
  ],
- "lastChecked": "2026-11-07T07:30:53+08:00"
+ "lastChecked": "2026-11-07T07:46:14+08:00"
 }
