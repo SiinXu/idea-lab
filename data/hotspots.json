@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T19:50:06+08:00",
+ "lastUpdated": "2026-11-06T20:00:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37312,7 +37312,62 @@
    ],
    "topic": "amd-lisa-su-data-center-first-2026-11-06",
    "firstSeen": "2026-11-06T19:50:06+08:00"
+  },
+  {
+   "id": "e741512fa1",
+   "title": "阿姆斯特丹抗议者冲入微软新建数据中心工地",
+   "summary": "约百人闯入阿姆斯特丹郊外微软租用的新建数据中心工地，登上吊车挂「fuck AI」等标语；欧洲多地本周也有针对 AI 数据中心的抗议。",
+   "links": [
+    "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam"
+   ],
+   "topic": "msft-amsterdam-datacenter-protest-2026-11-06",
+   "firstSeen": "2026-11-06T20:00:20+08:00"
+  },
+  {
+   "id": "c8f683bc8f",
+   "title": "英格兰银行：AI 对英国生产力拉动仍很弱",
+   "summary": "最新货币政策报告估计，过去三年 AI 只把英国生产率抬高约 0.5%；对 GDP 的贡献更多来自「造 AI」本身，而非全行业因采用 AI 而提效。",
+   "links": [
+    "https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059",
+    "https://www.bankofengland.co.uk/monetary-policy-report/2026/november-2026"
+   ],
+   "topic": "boe-ai-productivity-modest-2026-11",
+   "firstSeen": "2026-11-06T20:00:20+08:00"
+  },
+  {
+   "id": "c5841b2157",
+   "title": "英国拟修法：关键机构失控 AI Agent 可被调查取证",
+   "summary": "网络安全与韧性法案修正案拟授权大臣监管关键服务与数字提供商的 agentic AI：要设防护、失控须上报，并可搜查、扣押与复盘。",
+   "links": [
+    "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
+    "https://bills.parliament.uk/bills/4035"
+   ],
+   "topic": "uk-cyber-bill-ai-agents-powers-2026-11",
+   "firstSeen": "2026-11-06T20:00:20+08:00"
+  },
+  {
+   "id": "285224a620",
+   "title": "斯坦福 SNAP 开源 Memorilla：整库压成 16 个记忆 token",
+   "summary": "冻结 LLM 不扩窗：把整本文档集压成固定、随问题变化的 16 个记忆 token；FactKG 上比塞全文更准，且可帮 Agent 从自身历史里继续学。",
+   "links": [
+    "https://github.com/snap-stanford/memorilla",
+    "https://arxiv.org/abs/2610.21375",
+    "https://memory.stanford.edu/"
+   ],
+   "topic": "stanford-memorilla-latent-memory-2026-11",
+   "firstSeen": "2026-11-06T20:00:20+08:00"
+  },
+  {
+   "id": "ea91a25b47",
+   "title": "itch.io 用开源 Ruffle 重新支持 Flash 游戏",
+   "summary": "在清理大量 AI 灌水游戏之后，itch.io 创始人宣布用开源 Flash 模拟器 Ruffle 让老 Flash 游戏重新可玩，兼顾怀旧与数字保存。",
+   "links": [
+    "https://www.gamingonlinux.com/2026/11/itch-io-founder-announces-the-return-of-flash-games-thanks-to-open-source/",
+    "https://blog.ruffle.rs/"
+   ],
+   "topic": "itch-io-ruffle-flash-return-2026-11",
+   "firstSeen": "2026-11-06T20:00:20+08:00"
   }
  ],
- "lastChecked": "2026-11-06T19:50:06+08:00"
+ "lastChecked": "2026-11-06T20:00:20+08:00"
 }
