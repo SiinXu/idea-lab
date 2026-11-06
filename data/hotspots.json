@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T10:42:36+08:00",
+ "lastUpdated": "2026-11-06T11:00:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36104,7 +36104,47 @@
    ],
    "topic": "grimes-gods-dont-give-gifts-ai-movie-2026-11",
    "firstSeen": "2026-11-06T10:42:36+08:00"
+  },
+  {
+   "id": "724caa3b5d",
+   "title": "Thinking Machines Lab 拟融资约 50 亿美元，投前估值约 400 亿美元",
+   "summary": "Business Insider 多方消息：Accel 领投，本周或可交割；较去年公开轮估值超三倍。同日发布 Inkling 2 Small，Tinker 微调平台再更新，但约三分之一创始团队已流失。",
+   "links": [
+    "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11"
+   ],
+   "topic": "thinking-machines-5b-40b-accel-2026-11",
+   "firstSeen": "2026-11-06T11:00:26+08:00"
+  },
+  {
+   "id": "1185d25c3d",
+   "title": "Cloudflare Q3：营收 7.825 亿美元同比增 39%，上调全年指引",
+   "summary": "CEO 称「近四年最快增长」，年化营收跨过 30 亿美元；盘后大涨。公司自诩建成面向 AI 互联网的开发平台，并上调 2026 全年营收至约 29.63–29.64 亿美元。",
+   "links": [
+    "https://www.cloudflare.com/press/press-releases/2026/cloudflare-announces-third-quarter-2026-financial-results/"
+   ],
+   "topic": "cloudflare-q3-2026-earnings-ai-platform",
+   "firstSeen": "2026-11-06T11:00:26+08:00"
+  },
+  {
+   "id": "3853b01c08",
+   "title": "AWS 在马来西亚推「Semarak AI」：公务员可用 Quick，GovHub 用 Kiro",
+   "summary": "国家计划分 AI Negara / Ekonomi / Rakyat 三柱：最多约 44.5 万公务员用 Amazon Quick；GovTech 的 GovHub 由 Kiro 驱动，2026 年 500 开发者试点、目标 2028 年 4000 人；并拟 2028 年前为 1 万家中小企业提供半年免费工具。",
+   "links": [
+    "https://press.aboutamazon.com/aws/2026/11/aws-launches-semarak-ai-malaysia-a-national-program-to-bring-ai-tools-to-government-officers-students-and-local-software-companies"
+   ],
+   "topic": "aws-semarak-ai-malaysia-2026-11",
+   "firstSeen": "2026-11-06T11:00:26+08:00"
+  },
+  {
+   "id": "5c5c93441f",
+   "title": "路透：银湖与沙特公共投资基金曾洽购 Unity，估值约 250 亿美元",
+   "summary": "多方消息称财团与 Unity 初步接触；公司市值约 215 亿美元，已聘投行评估选项。尚无协议，条款可变。",
+   "links": [
+    "https://www.channelnewsasia.com/business/exclusive-silver-lake-pif-have-held-recent-talks-buy-gaming-software-provider-unity-sources-say-6529221"
+   ],
+   "topic": "unity-silver-lake-pif-talks-25b-2026-11",
+   "firstSeen": "2026-11-06T11:00:26+08:00"
   }
  ],
- "lastChecked": "2026-11-06T10:42:36+08:00"
+ "lastChecked": "2026-11-06T11:00:26+08:00"
 }
