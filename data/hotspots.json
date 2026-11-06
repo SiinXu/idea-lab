@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T12:47:29+08:00",
+ "lastUpdated": "2026-11-06T12:48:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36510,7 +36510,17 @@
    ],
    "topic": "bytedance-seed-cross-layer-topk-clt-qwen3-8b-2026-11-05",
    "firstSeen": "2026-11-06T12:47:29+08:00"
+  },
+  {
+   "id": "5b2c2e950d",
+   "title": "开发者再涌向 Claude Code 桌面端：相对 Codex 的换潮升温",
+   "summary": "X 上关于「Claude Code 桌面端在质量与多文件推理上压过 Codex」的讨论升温；桌面端并行会话、可视化 diff、内置终端与计算机操控成为主要卖点，社区也在用 Agent SDK 把工作流做成更自主的 Agent。",
+   "links": [
+    "https://x.com/i/trending/2118561861109203322"
+   ],
+   "topic": "claude-code-desktop-over-codex-wave-2026-11-06",
+   "firstSeen": "2026-11-06T12:48:09+08:00"
   }
  ],
- "lastChecked": "2026-11-06T12:47:29+08:00"
+ "lastChecked": "2026-11-06T12:48:09+08:00"
 }
