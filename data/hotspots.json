@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T06:42:02+08:00",
+ "lastUpdated": "2026-11-07T07:04:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -39234,7 +39234,57 @@
    ],
    "topic": "ramez-naam-rsi-diminishing-returns-2026-11-06",
    "firstSeen": "2026-11-07T06:42:02+08:00"
+  },
+  {
+   "id": "29cf13eb24",
+   "title": "魔兽插件叠 Claude Agent：打本时看会话进度、一键开新任务",
+   "summary": "Anthropic 工程师做了魔兽世界 UI 插件，把 Claude Agent 的会话、任务进度叠在游戏界面上，边打本边指挥编码，减少切窗口。",
+   "links": [
+    "https://x.com/i/trending/2118836459801350463"
+   ],
+   "topic": "wow-addon-claude-agents-overlay-2026-11-06",
+   "firstSeen": "2026-11-07T07:04:43+08:00"
+  },
+  {
+   "id": "6d49497635",
+   "title": "Omarchy 4.5 默认接入 Superwhisper：按住右 Alt 就能语音输入",
+   "summary": "DHH 宣布 Omarchy 桌面默认带上 Superwhisper 语音听写：按住右 Alt 说话、松开即粘贴；有免费云额度，也可本地跑，补上 Linux 语音短板。",
+   "links": [
+    "https://x.com/i/trending/2118833478556930285"
+   ],
+   "topic": "omarchy-superwhisper-voice-dictation-2026-11-06",
+   "firstSeen": "2026-11-07T07:04:43+08:00"
+  },
+  {
+   "id": "54d4f685c5",
+   "title": "ChatGPT 多连接器会话：后续工具调用会静默换到另一个 connector",
+   "summary": "开发者复现：同一对话里启用两个指向同一 MCP 的连接器时，确认码在 A 生成，后续调用却静默走 B；跨 OAuth 客户端传数据，赏金提交通道还要求先交身份证。",
+   "links": [
+    "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053"
+   ],
+   "topic": "chatgpt-mcp-connector-silent-switch-2026-11-06",
+   "firstSeen": "2026-11-07T07:04:43+08:00"
+  },
+  {
+   "id": "0d0899b91b",
+   "title": "llama.cpp「睡眠模式」：两秒内热切换大模型",
+   "summary": "新写法给 llama.cpp 加休眠：把已加载模型挂起，再在约两秒内换上另一个模型，适合本机多模型轮着用、少做冷启动。",
+   "links": [
+    "https://zaage.it/writing/llama-sleep/"
+   ],
+   "topic": "llamacpp-sleep-mode-hot-swap-2026-11-06",
+   "firstSeen": "2026-11-07T07:04:43+08:00"
+  },
+  {
+   "id": "98f00e63a1",
+   "title": "Computer-Use Agent 被当成「具身通才」：桌面操作≈机器人身体",
+   "summary": "新文把计算机使用 Agent 框架成具身通才：屏幕与键鼠就是身体，任务泛化逻辑贴近机器人，而不是纯聊天模型。",
+   "links": [
+    "https://pranjal2041.github.io/cua-embodied/"
+   ],
+   "topic": "cua-embodied-generalists-2026-11-06",
+   "firstSeen": "2026-11-07T07:04:43+08:00"
   }
  ],
- "lastChecked": "2026-11-07T06:42:02+08:00"
+ "lastChecked": "2026-11-07T07:04:43+08:00"
 }
