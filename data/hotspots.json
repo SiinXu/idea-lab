@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T04:34:16+08:00",
+ "lastUpdated": "2026-11-07T04:42:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -38642,7 +38642,38 @@
    ],
    "topic": "nebius-pytorch-affinity-gpu-throughput-2026-11",
    "firstSeen": "2026-11-07T04:34:16+08:00"
+  },
+  {
+   "id": "513dfed9de",
+   "title": "IEEE：OpenAI textGrain 等文本水印难满足欧盟 AI 法",
+   "summary": "欧盟 AI 法第 50 条要求机读标记合成文本；测试显示短文与轻度改写会大幅削弱 textGrain 检出率，且法条未给可量化阈值，合规仍不确定。",
+   "links": [
+    "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe"
+   ],
+   "topic": "ieee-textgrain-eu-ai-act-watermark-2026-11-05",
+   "firstSeen": "2026-11-07T04:42:43+08:00"
+  },
+  {
+   "id": "9398fbc95a",
+   "title": "研究：Artemis II 发射扰动电离层，可能影响 GPS 精度",
+   "summary": "SLS/Orion 发射与发动机点火造成临时电离层「空洞」；科学家称未矫正的精密定位精度可能偏差数米，未报告大规模 GPS 中断。",
+   "links": [
+    "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals"
+   ],
+   "topic": "artemis-ii-ionosphere-gps-2026-11",
+   "firstSeen": "2026-11-07T04:42:43+08:00"
+  },
+  {
+   "id": "1cdc7bc48d",
+   "title": "Antigravity + Gemini 4 Argon：59 分钟把 Fortran 海洋模型迁到安全 Rust",
+   "summary": "Google 用 Antigravity 把 FVCOM（约 17.5 万行）核心迁到 forbid(unsafe) Rust：揪出 6 个老 bug，峰值内存约 -54%，运行约 1.88×；并开源 /migrate-to-rust skill。",
+   "links": [
+    "https://antigravity.google/blog/modernizing-40-year-old-scientific-code-with-gemini-4-argon/",
+    "https://www.skills.sh/google/skills/migrate-to-rust"
+   ],
+   "topic": "antigravity-fvcom-fortran-rust-migrate-2026-11",
+   "firstSeen": "2026-11-07T04:42:43+08:00"
   }
  ],
- "lastChecked": "2026-11-07T04:34:16+08:00"
+ "lastChecked": "2026-11-07T04:42:43+08:00"
 }
