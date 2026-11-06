@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T09:13:00+08:00",
+ "lastUpdated": "2026-11-06T09:29:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35808,7 +35808,42 @@
    ],
    "topic": "cbc-university-libraries-ai-scraper-bots-2026-11-05",
    "firstSeen": "2026-11-06T09:13:00+08:00"
+  },
+  {
+   "id": "042f6ff95e",
+   "title": "Hyperstition 开源 Hyperkernel：递归生成整模 megakernel，称多领域吞吐大涨",
+   "summary": "GitHub 仓 Hyperstitioncc/Hyperkernel（MIT，约 40★，昨晚新建）自称用递归方式为 DeepSeek/Kimi/GLM 推理、机器人、语音、基因组与蛋白质折叠等生成单次 launch 的 megakernel；对比 vLLM 报 DeepSeek V4.1 Flash 单用户吞吐提升可达约九成。需 NVIDIA B300 + R580+，仓库仍处 Alpha，X 上刚热起来。",
+   "links": [
+    "https://github.com/Hyperstitioncc/Hyperkernel",
+    "https://x.com/i/trending/2118504950720340462",
+    "https://agihunt.info/p/1a1ad8957c15861964fb305f69b"
+   ],
+   "topic": "hyperstition-hyperkernel-megakernel-2026-11-06",
+   "firstSeen": "2026-11-06T09:29:07+08:00"
+  },
+  {
+   "id": "5aa39ce2c7",
+   "title": "Wealthsimple 发布 AI 助手 Penny：可转账下单，每步需用户确认",
+   "summary": "加拿大 Wealthsimple 11/5 发布会推出 Penny：能规划 RRSP、洞察消费、准备转账与下单，但资金与交易必须客户确认；还将开放把账户安全接到 ChatGPT/Claude（约 2027 初）。同期上线最高 10 万加元即时转账、Pro 交易台与无手续费加股期权等，管理资产约 1690 亿加元。",
+   "links": [
+    "https://newsroom.wealthsimple.com/wealthsimple-announces-ai-assistant-penny-and-11-more-releases-at-wealthsimple-presents-something-good-is-going-to-happen",
+    "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/05/wealthsimple-launches-ai-banking-assistant-that-can-help-move-money-place-trades/",
+    "https://x.com/i/trending/2118403332628754714"
+   ],
+   "topic": "wealthsimple-penny-ai-assistant-2026-11-05",
+   "firstSeen": "2026-11-06T09:29:07+08:00"
+  },
+  {
+   "id": "de5d8c3372",
+   "title": "谷歌示范：用廉价分类器做 Gemini 路由，按「成功任务成本」而不是按 token 计价",
+   "summary": "谷歌开发者博客：在 50 题编程 Agent 基准上，先用近乎免费的分类器（示例 Jev）把简单题丢给 Flash-Lite、难题升到 Gemini 3.8 Flash thinking LOW，可与全开 LOW 打平全对，同时压成本和延迟；并提醒长上下文缓存与跨模型路由冲突。适合做成 Agent 账单优化点子。",
+   "links": [
+    "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
+    "https://www.neoteo.com/en/google-clouds-gemini-routing-test-tied-on-success-with-lower-cost-and-latency"
+   ],
+   "topic": "google-gemini-cost-per-task-jev-routing-2026-11",
+   "firstSeen": "2026-11-06T09:29:07+08:00"
   }
  ],
- "lastChecked": "2026-11-06T09:13:00+08:00"
+ "lastChecked": "2026-11-06T09:29:07+08:00"
 }
