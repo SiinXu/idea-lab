@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T09:11:49+08:00",
+ "lastUpdated": "2026-11-06T09:13:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35798,7 +35798,17 @@
    ],
    "topic": "google-alphaevolve-harbor-skill-optimizer-2026-11-06",
    "firstSeen": "2026-11-06T09:11:49+08:00"
+  },
+  {
+   "id": "5046827bcb",
+   "title": "大学图书馆被 AI 爬虫打挂：开源馆藏反而拖垮学生访问",
+   "summary": "CBC：欧美高校馆与 Project Gutenberg 等持续被无视 robots.txt 的抓取洪峰拖慢甚至宕机；封 IP 无效。和上周大厂同意统一「拒绝训练」令牌同一条线，但第三方爬虫仍难管——开放获取基建的防御与合规工具有机会。",
+   "links": [
+    "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287"
+   ],
+   "topic": "cbc-university-libraries-ai-scraper-bots-2026-11-05",
+   "firstSeen": "2026-11-06T09:13:00+08:00"
   }
  ],
- "lastChecked": "2026-11-06T09:12:35+08:00"
+ "lastChecked": "2026-11-06T09:13:00+08:00"
 }
