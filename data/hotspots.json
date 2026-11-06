@@ -36806,7 +36806,7 @@
   },
   {
    "id": "56b7bacf1d",
-   "title": "谷歌澄清学校 AI 政策：可关 Gemini 留搜索，但搜素里的 AI 关不掉",
+   "title": "谷歌澄清学校 AI 政策：可关 Gemini 留搜索，但搜索里的 AI 关不掉",
    "summary": "面对「拒绝 AI 就断搜索」的舆论，谷歌称学校可关掉 Gemini 应用并保留搜索；但 AI Overviews / AI Mode 仍绑在搜索上，没有「无 AI 的谷歌搜索」。DuckDuckGo 等正借机向学校推销默认关 AI 的方案。",
    "links": [
     "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/"
@@ -36825,5 +36825,5 @@
    "firstSeen": "2026-11-06T15:10:49+08:00"
   }
  ],
- "lastChecked": "2026-11-06T15:10:49+08:00"
+ "lastChecked": "2026-11-06T15:13:38+08:00"
 }
