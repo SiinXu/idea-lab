@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T08:24:23+08:00",
+ "lastUpdated": "2026-11-06T08:47:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35644,7 +35644,53 @@
    ],
    "topic": "claude-dropbox-lecture-notes-delete-2026-11-05",
    "firstSeen": "2026-11-06T08:24:23+08:00"
+  },
+  {
+   "id": "176b4a361e",
+   "title": "Vercel Schedules 公测：Agent 可在运行时动态创建定时任务",
+   "summary": "Cron Jobs 继任者已对所有方案公测：静态写在 vercel.json，动态可用 SDK/CLI/API 创建、改、停，面向 Queue topic；Guillermo 称其为「给会长期做事的 Agent 的杀手级能力」。Hobby 含每月 500 次创建、5000 次运行。",
+   "links": [
+    "https://vercel.com/changelog/vercel-schedules-is-now-in-public-beta",
+    "https://vercel.com/blog/introducing-vercel-schedules",
+    "https://x.com/i/trending/2118490828792565794"
+   ],
+   "topic": "vercel-schedules-public-beta-2026-11-05",
+   "firstSeen": "2026-11-06T08:47:11+08:00"
+  },
+  {
+   "id": "9376337717",
+   "title": "Clocktower Bench：大模型互打《Blood on the Clocktower》，测撒谎与识谎",
+   "summary": "Dwarkesh Patel 烧约 2 万美元 API 跑数百局社交推理桌游；站点公开 Elo、对阵与日志。OpenAI 阵营在识破恶魔（detection）上进步更快，GPT-6 Astra 等领先；适合做 Agent 社会智能评测对标。",
+   "links": [
+    "https://clocktowerbench.com/",
+    "https://x.com/i/trending/2118499606350950864"
+   ],
+   "topic": "clocktower-bench-blood-on-the-clocktower-2026-11-05",
+   "firstSeen": "2026-11-06T08:47:11+08:00"
+  },
+  {
+   "id": "dba24877ba",
+   "title": "Nubank 论文：上线前用 Snowglobe 仿真筛 CX Agent，迭代周期从 3 周压到 5 天内",
+   "summary": "在工具边界做假设驱动仿真，不碰生产后端；与线上版本评分高度相关。仿真指导的改版把 tNPS 抬约 36.7 分，后续开源权重筛选又把自助率再抬约 8.8 个百分点。给客服 Agent 产品提供可复制的「先仿真再上线」路径。",
+   "links": [
+    "https://arxiv.org/abs/2609.30137",
+    "https://news.ycombinator.com/item?id=50386702"
+   ],
+   "topic": "nubank-snowglobe-cx-agent-simulation-2026-11-06",
+   "firstSeen": "2026-11-06T08:47:11+08:00"
+  },
+  {
+   "id": "7671cb548e",
+   "title": "Coco Labs 开源 VybBench：测 AI 改图是否「只改该改的地方」",
+   "summary": "145 字体、100 颜色、200 次编辑；主流图模型改一处颜色常动到 90%+ 像素，自家 Vyb 1.0 平均只动约 7.3%。品牌设计 Agent 与「可编辑图层」路线可借此做卖点与评测。",
+   "links": [
+    "https://cocolabs.ai/blog/introducing-vybbench",
+    "https://github.com/cocolabsai/vybbench",
+    "https://x.com/i/trending/2118437886877937901"
+   ],
+   "topic": "vybbench-design-fidelity-coco-labs-2026-11-05",
+   "firstSeen": "2026-11-06T08:47:11+08:00"
   }
  ],
- "lastChecked": "2026-11-06T08:24:23+08:00"
+ "lastChecked": "2026-11-06T08:47:11+08:00"
 }
