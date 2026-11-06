@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T12:48:09+08:00",
+ "lastUpdated": "2026-11-06T12:57:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36520,7 +36520,60 @@
    ],
    "topic": "claude-code-desktop-over-codex-wave-2026-11-06",
    "firstSeen": "2026-11-06T12:48:09+08:00"
+  },
+  {
+   "id": "74ebc641c0",
+   "title": "Liquid Energy NanoDC：自带太阳能的模块化 AI 推理「迷你机房」",
+   "summary": "YC F26 公司 Liquid Energy 推出工厂预制 NanoDC：到场展开光伏阵列即可上线推理算力，号称签约到出 token 约 8 周内，用自带电力绕开电网与施工排队；X 上讨论升温，首批本月交付、2027 年目标放量。",
+   "links": [
+    "https://www.liquidenergy.world/",
+    "https://x.com/i/trending/2118561856831041915"
+   ],
+   "topic": "liquid-energy-nanodc-solar-inference-2026-11-06",
+   "firstSeen": "2026-11-06T12:57:57+08:00"
+  },
+  {
+   "id": "8f444136f8",
+   "title": "荷兰 ING 拍卖约 5 亿美元数据中心贷款包，含 Stargate 切片",
+   "summary": "彭博称 ING 把约 12 笔、合计约 5 亿美元数据中心贷款一次性挂拍，含约 2500 万美元与 OpenAI/软银/甲骨文 Stargate 新墨西哥项目相关敞口，以及 Vantage、CyrusOne 等；11 月 19 日截止、单笔至少 1000 万美元，折射中期选举后 AI 基建信贷趋于谨慎。",
+   "links": [
+    "https://www.globalbankingandfinance.com/ing-puts-500-million-data-center-loans-up-sale-bloomberg/",
+    "https://x.com/i/trending/2118431099529609659"
+   ],
+   "topic": "ing-500m-data-center-loan-auction-2026-11-06",
+   "firstSeen": "2026-11-06T12:57:57+08:00"
+  },
+  {
+   "id": "31bba1eca5",
+   "title": "MIT TR：德州曾是 AI 数据中心最热战场，政治变天或令扩建受阻",
+   "summary": "《麻省理工科技评论》梳理：德州是全美增速最快的数据中心市场，Stargate Frontier、服务 Anthropic 的 Nexus Hubbard 等超大项目在建；但中期选举民主党拿下州长/参议院席位后，反数据中心议题升温，现任州长此前已叫停许可，扩建不确定性上升。",
+   "links": [
+    "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+   ],
+   "topic": "mit-tr-texas-data-center-buildout-political-risk-2026-11",
+   "firstSeen": "2026-11-06T12:57:57+08:00"
+  },
+  {
+   "id": "292a07e061",
+   "title": "开发者扒出 TikTok 端侧颜值/年龄/情绪模型并做成网页试玩",
+   "summary": "开发者 Ayo O 声称逆向 TikTok 手机端 25+ AI 模型，做了「What TikTok sees」网页：上传自拍可看吸引力分、年龄与性别猜测；讨论还提到 App 随请求上报电量、亮度等信号，隐私与偏见争议一并升温。",
+   "links": [
+    "https://ayoships.com/tools/tiktok-face",
+    "https://x.com/i/trending/2117979576559436027"
+   ],
+   "topic": "tiktok-on-device-face-ai-ayoships-2026-11-06",
+   "firstSeen": "2026-11-06T12:57:57+08:00"
+  },
+  {
+   "id": "64a7c74048",
+   "title": "Claude Code Agent 教程潮：Boris Cherny 分享后社区狂抄「能交付的 Agent」",
+   "summary": "Anthropic 内部用 Claude Code 低监管交付功能的分享外传后，X 上涌现六步蓝图与仓库：从安装、记忆文件、分角色 Agent 到元 Agent 验收；社区正把日常例行工作流做成更自主、可校验的编码 Agent。",
+   "links": [
+    "https://x.com/i/trending/2117856700447203558"
+   ],
+   "topic": "claude-code-agent-tutorials-wave-2026-11-06",
+   "firstSeen": "2026-11-06T12:57:57+08:00"
   }
  ],
- "lastChecked": "2026-11-06T12:48:09+08:00"
+ "lastChecked": "2026-11-06T12:57:57+08:00"
 }
