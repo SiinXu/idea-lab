@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T09:41:56+08:00",
+ "lastUpdated": "2026-11-06T10:05:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -35927,7 +35927,51 @@
    ],
    "topic": "nvidia-agent-throughput-per-dollar-vera-rubin-2026-11-06",
    "firstSeen": "2026-11-06T09:41:56+08:00"
+  },
+  {
+   "id": "87f19ffcef",
+   "title": "Voice Arena 上线 Monsoon：用真实嘈杂手机通话测语音识别",
+   "summary": "Conversational ASR（Monsoon Test）覆盖印地语、巴西葡语等，按语义 WER 排名；与 Cekura Bench 一起把语音评测从演示拉回真实电话场景。",
+   "links": [
+    "https://voicearena.com/",
+    "https://x.com/i/trending/2118448210276651070"
+   ],
+   "topic": "voice-arena-monsoon-stt-2026-11",
+   "firstSeen": "2026-11-06T10:05:22+08:00"
+  },
+  {
+   "id": "9d35e2f8b8",
+   "title": "博泰 AI Box：车端离线跑 Nemotron + 豆包，基于 DRIVE AGX Thor",
+   "summary": "与字节、车企联合开发，核心语音与舱内 Agent 可断网推理；已获头部新能源车型定点，目标 2027 年二季度量产。",
+   "links": [
+    "https://www.pateo.com.cn/en/news_detail.html?id=1872",
+    "https://www.neoteo.com/en/pateo-says-its-ai-box-can-run-core-car-ai-offline"
+   ],
+   "topic": "pateo-ai-box-nemotron-doubao-thor-2026-11",
+   "firstSeen": "2026-11-06T10:05:22+08:00"
+  },
+  {
+   "id": "dfbf950d04",
+   "title": "Ergen：金融关系「世界模型」MCP，给 Agent 查风险传导链",
+   "summary": "把实体对齐、互动与路径检索做成 MCP/API，自称 DeepQuery Agent 在交叉评测里胜过部分前沿 Deep Research；适合投研与尽调 Agent。",
+   "links": [
+    "https://ergen.ai/",
+    "https://news.ycombinator.com/item?id=50386992"
+   ],
+   "topic": "ergen-world-model-mcp-finance-2026-11-06",
+   "firstSeen": "2026-11-06T10:05:22+08:00"
+  },
+  {
+   "id": "79c27fd1ad",
+   "title": "itch.io 上线「No AI」筛选：仍依赖创作者自评披露",
+   "summary": "搜索可过滤未使用生成式 AI 的作品，但只认创作者勾选，漏报照样出现；接续此前清理海量 AI 游戏的动作。",
+   "links": [
+    "https://www.neoteo.com/en/itchios-no-ai-filter-relies-on-creator-disclosures",
+    "https://www.engadget.com/2305699/itchio-adds-a-filter-for-games-with-gen-ai-disclosures/"
+   ],
+   "topic": "itchio-no-ai-filter-disclosure-2026-11",
+   "firstSeen": "2026-11-06T10:05:22+08:00"
   }
  ],
- "lastChecked": "2026-11-06T09:41:56+08:00"
+ "lastChecked": "2026-11-06T10:05:22+08:00"
 }
