@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T17:10:04+08:00",
+ "lastUpdated": "2026-11-06T17:40:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37014,7 +37014,63 @@
    ],
    "topic": "living-maps-bay-area-tech-2026-11-06",
    "firstSeen": "2026-11-06T17:10:04+08:00"
+  },
+  {
+   "id": "dde5983578",
+   "title": "Chainalysis 扩大披露：全量用户密码哈希与登录令牌暴露，KYT 等服务下线",
+   "summary": "链上分析公司 Chainalysis 更新 10 月 30 日事件调查：恶意方获取了全部用户的姓名、用户名、密码哈希与存活认证令牌，并采用 agentic 手法；公司已关闭 KYT、Reactor 等产品并要求重置密码与轮换 API Key。",
+   "links": [
+    "https://www.chainalysis.com/blog/security-incident-october-30/",
+    "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+    "https://x.com/i/trending/2118623341401780241"
+   ],
+   "topic": "chainalysis-all-users-creds-breach-2026-11",
+   "firstSeen": "2026-11-06T17:40:30+08:00"
+  },
+  {
+   "id": "13f4910530",
+   "title": "Anthropic：分析 20.7 万条研究会话，看科学家如何用 Claude",
+   "summary": "隐私保护统计显示，正式科学（计算机/数学/统计）相对用量更高，约 1/3 会话用于数据分析；配套情景估算称，若广泛采用现有能力，部分领域科研产出可接近翻倍。",
+   "links": [
+    "https://www.anthropic.com/research/how-researchers-use-claude",
+    "https://news.ycombinator.com/item?id=50389990"
+   ],
+   "topic": "anthropic-how-researchers-use-claude-2026-11-05",
+   "firstSeen": "2026-11-06T17:40:30+08:00"
+  },
+  {
+   "id": "e5569a295b",
+   "title": "Andy Matuschak：情境化「想法记忆」原型，想替代死记硬背闪卡",
+   "summary": "界面研究者提出围绕高亮与使用场景生成复习提示的系统，主张闪卡像「死鱼」脱离语境；文章讨论机器生成提示如何嵌入真实阅读与工作流。",
+   "links": [
+    "https://andymatuschak.org/situated-idea-memory-system/",
+    "https://news.ycombinator.com/item?id=50389857"
+   ],
+   "topic": "matuschak-situated-idea-memory-2026-11",
+   "firstSeen": "2026-11-06T17:40:30+08:00"
+  },
+  {
+   "id": "394a1070ac",
+   "title": "GPUI Community Edition：社区维护的 Zed GPU 加速 UI 框架",
+   "summary": "在 Blender UI 运行时（BUI）与 GPUI 对比冲上 HN 的同时，社区推出 GPUI-CE，以 MIT/Apache-2.0 继续维护 Zed 背后的 GPU 加速 Rust UI 框架。",
+   "links": [
+    "https://gpui-ce.github.io/",
+    "https://news.ycombinator.com/item?id=50389847"
+   ],
+   "topic": "gpui-community-edition-2026-11-06",
+   "firstSeen": "2026-11-06T17:40:30+08:00"
+  },
+  {
+   "id": "6fc8a90363",
+   "title": "FAA 终于淘汰空管系统里的软盘：现代化改造推进",
+   "summary": "Engadget 报道美国联邦航空局正推进空管基础设施升级，逐步淘汰仍依赖软盘的遗留环节，呼应多年来对空管技术债的批评。",
+   "links": [
+    "https://www.engadget.com/2308330/the-faa-is-finally-phasing-out-floppy-disks-from-air-traffic-control/",
+    "https://news.ycombinator.com/item?id=50389982"
+   ],
+   "topic": "faa-phasing-out-floppy-disks-atc-2026-11",
+   "firstSeen": "2026-11-06T17:40:30+08:00"
   }
  ],
- "lastChecked": "2026-11-06T17:10:04+08:00"
+ "lastChecked": "2026-11-06T17:40:30+08:00"
 }
