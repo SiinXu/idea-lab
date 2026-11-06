@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T12:34:27+08:00",
+ "lastUpdated": "2026-11-06T12:47:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36489,7 +36489,28 @@
    ],
    "topic": "serplens-claude-code-for-seo-2026-11-05",
    "firstSeen": "2026-11-06T12:34:27+08:00"
+  },
+  {
+   "id": "7c17863df3",
+   "title": "腾讯 Hy4：WorkBuddy 调用激增后推理集群十倍扩容",
+   "summary": "中新网 11 月 6 日报道：Hy4 接入 WorkBuddy 后额度被打满，腾讯已对推理集群十倍扩容并提高免费额度；同步称其在 Artificial Analysis 中国模型中排第二，并在 Agent Arena 开源组靠前（具体开源状态仍需对照榜单标注）。",
+   "links": [
+    "https://www.chinanews.com.cn/cj/2026/11-06/10727122.shtml",
+    "https://artificialanalysis.ai/models/tencent-hy4"
+   ],
+   "topic": "tencent-hy4-10x-capacity-agent-arena-2026-11-06",
+   "firstSeen": "2026-11-06T12:47:29+08:00"
+  },
+  {
+   "id": "28d55d91de",
+   "title": "字节 Seed 开源 Qwen3-8B 跨层转码器：94.2B 参数、Apache-2.0",
+   "summary": "Hugging Face 上线 ByteDance-Seed/Cross-Layer-TopK-CLT：覆盖 Qwen3-8B-Base 36 层、每层 32768 潜变量，fp32 约 377GB，降低机制可解释性研究的入场成本，但实际跑通仍需多卡环境。",
+   "links": [
+    "https://huggingface.co/ByteDance-Seed/Cross-Layer-TopK-CLT"
+   ],
+   "topic": "bytedance-seed-cross-layer-topk-clt-qwen3-8b-2026-11-05",
+   "firstSeen": "2026-11-06T12:47:29+08:00"
   }
  ],
- "lastChecked": "2026-11-06T12:34:27+08:00"
+ "lastChecked": "2026-11-06T12:47:29+08:00"
 }
