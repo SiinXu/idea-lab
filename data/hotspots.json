@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T03:59:35+08:00",
+ "lastUpdated": "2026-11-07T04:13:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -38493,7 +38493,62 @@
    ],
    "topic": "openai-alfozan-not-guilty-plea-2026-11-06",
    "firstSeen": "2026-11-07T03:59:35+08:00"
+  },
+  {
+   "id": "e30ae3ebeb",
+   "title": "Fly.io 公开十月内核漏洞应急复盘：全舰队打补丁重启约 10 小时",
+   "summary": "针对 CVE-2026-99999（与 Firecracker/校验和卸载相关）披露后，Fly.io 用约 10 小时分波重启全主机；未证实客户数据被读走，但建议旋转明文协议凭证。复盘强调 Agent 凭证应短效、边界默认会漏、加密私网流量。",
+   "links": [
+    "https://fly.io/blog/well-that-wasnt-fun/",
+    "https://news.ycombinator.com/item?id=50397310"
+   ],
+   "topic": "flyio-cve-2026-99999-postmortem-2026-11",
+   "firstSeen": "2026-11-07T04:13:04+08:00"
+  },
+  {
+   "id": "c2a9c09e6c",
+   "title": "CloneGuard：克隆仓库前只读扫描凭据窃取与后门套路",
+   "summary": "开源只读扫描器，无依赖：在跑之前检查仓库里的凭据盗窃、隐蔽联网、混淆代码和自动运行钩子；正出现在 HN，贴合假安全工具投毒与 agent 随便 clone 的风险。",
+   "links": [
+    "https://github.com/tharun208/cloneguard",
+    "https://news.ycombinator.com/item?id=50397435"
+   ],
+   "topic": "cloneguard-repo-malware-scan-2026-11",
+   "firstSeen": "2026-11-07T04:13:04+08:00"
+  },
+  {
+   "id": "2755621be9",
+   "title": "please do not escape：AI 编码 Agent 沙箱数据集上线",
+   "summary": "收集可给 coding agent 用的沙箱方案清单（YAML 可拉），起点来自 Show HN 讨论；方便对比 microVM、容器与托管沙箱，给「别让 Agent 逃逸」选型用。",
+   "links": [
+    "https://pleasedonotescape.com/",
+    "https://news.ycombinator.com/item?id=50397594"
+   ],
+   "topic": "pleasedonotescape-agent-sandbox-dataset-2026-11",
+   "firstSeen": "2026-11-07T04:13:04+08:00"
+  },
+  {
+   "id": "0c70037a8b",
+   "title": "谷歌收购 Crusoe 怀俄明数据中心地块",
+   "summary": "Crusoe 宣布东南怀俄明园区地块被谷歌收购，完成选址、审批与和 Tallgrass 的混合供电前期工作；Crusoe 称已签约超 6GW、管线超 40GW，同日 HN 亦有讨论。",
+   "links": [
+    "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+    "https://news.ycombinator.com/item?id=50397711"
+   ],
+   "topic": "google-acquires-crusoe-wyoming-site-2026-11-06",
+   "firstSeen": "2026-11-07T04:13:04+08:00"
+  },
+  {
+   "id": "192ef5084a",
+   "title": "Less Is More UI：给 Agent 的极简网页 UI Skill",
+   "summary": "开源 Agent Skill，按「少即是多 / 形式追随功能」约束生成极简网页 UI；出现在 HN 最新，可直接塞进 coding agent 工作流压花哨默认样式。",
+   "links": [
+    "https://github.com/Mendiak/less-is-more-ui",
+    "https://news.ycombinator.com/item?id=50397450"
+   ],
+   "topic": "less-is-more-ui-agent-skill-2026-11",
+   "firstSeen": "2026-11-07T04:13:04+08:00"
   }
  ],
- "lastChecked": "2026-11-07T03:59:35+08:00"
+ "lastChecked": "2026-11-07T04:13:04+08:00"
 }
