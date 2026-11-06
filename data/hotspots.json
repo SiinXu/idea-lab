@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T01:54:28+08:00",
+ "lastUpdated": "2026-11-07T02:12:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -38023,7 +38023,38 @@
    ],
    "topic": "anthropic-ipo-buyers-1-1t-bloomberg-2026-11-06",
    "firstSeen": "2026-11-07T01:54:28+08:00"
+  },
+  {
+   "id": "8db1c2906f",
+   "title": "Lichii：实验性 Switch 2 模拟器几天冲到约 3500 星",
+   "summary": "zortos293/Lichii 基于 Eglantine 等分支的 C++ 模拟器，自称「非常实验」；GitHub 日榜/热度榜上冲，适合当模拟器/逆向与开源社区题材。",
+   "links": [
+    "https://github.com/zortos293/Lichii"
+   ],
+   "topic": "lichii-switch-2-emulator-github-2026-11-06",
+   "firstSeen": "2026-11-07T02:12:24+08:00"
+  },
+  {
+   "id": "65b1398688",
+   "title": "彭博/路透：微软收缩向 Oracle 租用的 AI 算力，甲骨文股价承压",
+   "summary": "知情人士称微软未续约并逐步关掉从 Oracle 租来的 AI 云容量，属数十亿云合作再评估的一部分；报道后 Oracle 盘中跌约 3–5%，微软几无变动。",
+   "links": [
+    "https://www.investing.com/news/stock-market-news/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity-bloomberg-news-reports-5008946",
+    "https://news.ycombinator.com/item?id=50395933"
+   ],
+   "topic": "microsoft-wind-down-oracle-ai-capacity-2026-11-06",
+   "firstSeen": "2026-11-07T02:12:24+08:00"
+  },
+  {
+   "id": "dd3c7633ee",
+   "title": "Anthropic Project EVE：让 Claude 在 EVE 里做交易与多 Agent 编队",
+   "summary": "红队研究 11/6 发布：EVE Online 模拟市场里新模型利润可翻数倍；EVE Frontier 四人编队能协作，但被指示破坏的队友几乎抓不到——用来测代理经济与信任。",
+   "links": [
+    "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs"
+   ],
+   "topic": "anthropic-project-eve-claude-mmorpgs-2026-11-06",
+   "firstSeen": "2026-11-07T02:12:24+08:00"
   }
  ],
- "lastChecked": "2026-11-07T01:54:28+08:00"
+ "lastChecked": "2026-11-07T02:12:24+08:00"
 }
