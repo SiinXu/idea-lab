@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T11:16:39+08:00",
+ "lastUpdated": "2026-11-06T11:25:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36197,7 +36197,62 @@
    ],
    "topic": "smartthings-home-assistant-paid-api-2026-12",
    "firstSeen": "2026-11-06T11:16:39+08:00"
+  },
+  {
+   "id": "07a4d9c4f2",
+   "title": "Era 披露「Greeter」：中文框架借 Flowise 旧洞打穿 AI 基础设施",
+   "summary": "蜜罐里近 5000 条用户消息全是「hello」，回复却吐出身份、云凭证与主机侦察结果。攻击链利用 Flowise overrideConfig/CVE-2024-58351 做无持久化 RCE，Shodan 上仍可见大量暴露实例；文章给出 IoC 与加固建议。",
+   "links": [
+    "https://era.security/blog/greeter-flowise-ai-infrastructure-attack",
+    "https://news.ycombinator.com/item?id=50387732"
+   ],
+   "topic": "greeter-flowise-ai-infra-attack-2026-11",
+   "firstSeen": "2026-11-06T11:25:19+08:00"
+  },
+  {
+   "id": "5add25e925",
+   "title": "为何你的 Mac 可能根本没在扫恶意软件",
+   "summary": "XProtect Remediator 取代 MRT 后，笔记本未接电源时常跳过每日扫描；自 163 版起用户也无法再手动运行。系统几乎不向用户报告扫描结果，作者建议关注第三方透明扫描方案。",
+   "links": [
+    "https://eclecticlight.co/2026/11/05/why-your-mac-may-not-scan-for-malware/",
+    "https://news.ycombinator.com/item?id=50387639"
+   ],
+   "topic": "macos-xpr-malware-scan-silence-2026-11",
+   "firstSeen": "2026-11-06T11:25:19+08:00"
+  },
+  {
+   "id": "3aed2efd81",
+   "title": "KDE 应用目录上线 macOS 专区",
+   "summary": "apps.kde.org 现可按 macOS 平台筛选，列出 KDiff3、Lokalize、KmPlot、KMines 等多款已移植或可用的 KDE 应用，方便找桌面小工具与教育软件。",
+   "links": [
+    "https://apps.kde.org/en-gb/platforms/macos/",
+    "https://news.ycombinator.com/item?id=50387683"
+   ],
+   "topic": "kde-apps-macos-directory-2026-11",
+   "firstSeen": "2026-11-06T11:25:19+08:00"
+  },
+  {
+   "id": "8028c68000",
+   "title": "蓄热电池升温：用「烫热」储能补风光波动",
+   "summary": "《纽约时报》梳理高温热能储存（heat battery）商业化加速：把过剩电力变成可保温的热能，供工业与电网调峰；较锂电更偏长时、重工业场景。",
+   "links": [
+    "https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html",
+    "https://news.ycombinator.com/item?id=50387658"
+   ],
+   "topic": "heat-battery-thermal-storage-nyt-2026-11",
+   "firstSeen": "2026-11-06T11:25:19+08:00"
+  },
+  {
+   "id": "d29ac29ff6",
+   "title": "Farm Robotics Challenge：学生队用机器人解真实农场题",
+   "summary": "加州大学 ANR Innovate 与 AIFS 主办，设大学/社区学院/中学分部，奖金与创业支持超 20 万美元；2027 赛季预注册已开，提案截止 2026-12-13。",
+   "links": [
+    "https://www.farmroboticschallenge.ai",
+    "https://news.ycombinator.com/item?id=50387698"
+   ],
+   "topic": "farm-robotics-challenge-2027-2026-11",
+   "firstSeen": "2026-11-06T11:25:19+08:00"
   }
  ],
- "lastChecked": "2026-11-06T11:16:39+08:00"
+ "lastChecked": "2026-11-06T11:25:19+08:00"
 }
