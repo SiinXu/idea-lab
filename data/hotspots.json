@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T14:48:34+08:00",
+ "lastUpdated": "2026-11-06T15:10:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36792,7 +36792,38 @@
    ],
    "topic": "pwn-college-hn-surge-2026-11-06",
    "firstSeen": "2026-11-06T14:48:34+08:00"
+  },
+  {
+   "id": "4afd674d63",
+   "title": "Ari K 复古讽刺片《WE WERE ALWAYS BLUE》四小时破百万播放",
+   "summary": "中期选举后硅谷风向急转，艺术家 Ari K 用 80 年代功率情歌恶搞科技高管「价值观一夜更新」；X 上约 4 小时破百万播放、累计约 260 万曝光，成后选举周文化热梗。",
+   "links": [
+    "https://x.com/arikuschnir/status/2118433753030922551",
+    "https://x.com/i/trending/2118493639047352527"
+   ],
+   "topic": "ari-k-always-blue-satire-2026-11-05",
+   "firstSeen": "2026-11-06T15:10:49+08:00"
+  },
+  {
+   "id": "56b7bacf1d",
+   "title": "谷歌澄清学校 AI 政策：可关 Gemini 留搜索，但搜素里的 AI 关不掉",
+   "summary": "面对「拒绝 AI 就断搜索」的舆论，谷歌称学校可关掉 Gemini 应用并保留搜索；但 AI Overviews / AI Mode 仍绑在搜索上，没有「无 AI 的谷歌搜索」。DuckDuckGo 等正借机向学校推销默认关 AI 的方案。",
+   "links": [
+    "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/"
+   ],
+   "topic": "google-schools-gemini-search-clarification-2026-11-05",
+   "firstSeen": "2026-11-06T15:10:49+08:00"
+  },
+  {
+   "id": "89300c2abd",
+   "title": "Cramer：AI 股抛售还没完，但不是又一场互联网泡沫破裂",
+   "summary": "中期选举后数据中心监管忧虑拖累纳指，Jim Cramer 称半导体与 AI 基建股可能还有下行，但底层公司盈利，不同于当年互联网泡沫；建议留现金、别恐慌清仓。",
+   "links": [
+    "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-sell-off.html"
+   ],
+   "topic": "cramer-ai-selloff-not-dotcom-2026-11-05",
+   "firstSeen": "2026-11-06T15:10:49+08:00"
   }
  ],
- "lastChecked": "2026-11-06T14:48:34+08:00"
+ "lastChecked": "2026-11-06T15:10:49+08:00"
 }
