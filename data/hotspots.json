@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T10:20:40+08:00",
+ "lastUpdated": "2026-11-06T10:25:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36004,7 +36004,57 @@
    ],
    "topic": "sourcehut-registration-bypass-cve-2026-121728",
    "firstSeen": "2026-11-06T10:20:40+08:00"
+  },
+  {
+   "id": "0e4a474d09",
+   "title": "ServeTheHome 评测超微 Super AI Station：桌上 GB300 也能上架当 5U",
+   "summary": "ARS-511GD-NB-LCC 把 Grace + Blackwell Ultra 桌边机做成可转塔式/5U 机架：496GB CPU 内存、252GB HBM3E、双 400GbE，1600W 钛金电源，定位本地 Agent/推理工作站。",
+   "links": [
+    "https://www.servethehome.com/supermicro-super-ai-station-review-the-ai-server-that-doubles-as-a-workstation/"
+   ],
+   "topic": "supermicro-super-ai-station-sth-2026-11-05",
+   "firstSeen": "2026-11-06T10:25:28+08:00"
+  },
+  {
+   "id": "ae181ce8af",
+   "title": "Databricks 指南：OpenSharing、Clean Rooms、Marketplace 怎么选",
+   "summary": "按关系选工具——已知对象用 OpenSharing 实时只读共享；多方要合数又不想露底表用 Clean Rooms；面向陌生受众或发现数据/模型/MCP Server 用 Marketplace。",
+   "links": [
+    "https://www.databricks.com/blog/which-data-collaboration-tool-opensharing-clean-rooms-marketplace"
+   ],
+   "topic": "databricks-opensharing-cleanrooms-marketplace-guide-2026-11-05",
+   "firstSeen": "2026-11-06T10:25:28+08:00"
+  },
+  {
+   "id": "ec1fc0b78c",
+   "title": "巴西信贷担保基金 FGC 通报：保障金支付流程相关个人数据遭未授权访问",
+   "summary": "官方称 10 月 26 日发现，波及姓名、CPF、邮箱、出生日期及保障金税务/渠道信息；暂无外泄或资金损失证据，已报 ANPD 并通知当事人，提醒防钓鱼。",
+   "links": [
+    "https://www.fgc.org.br/comunicado"
+   ],
+   "topic": "brazil-fgc-data-breach-2026-11-05",
+   "firstSeen": "2026-11-06T10:25:28+08:00"
+  },
+  {
+   "id": "ecb76c570c",
+   "title": "Unsatz：不给公式模板，测大模型能不能自己发明科学假设结构",
+   "summary": "80 个跨 20 领域模拟系统；Agent 要自费买实验、写建模程序，只按未见实验预测打分。九模型解题率约 21%–60%，找变量易、写出物理作用律难。",
+   "links": [
+    "https://arxiv.org/abs/2611.03713"
+   ],
+   "topic": "unsatz-scientific-discovery-benchmark-2026-11",
+   "firstSeen": "2026-11-06T10:25:28+08:00"
+  },
+  {
+   "id": "4f55a997a9",
+   "title": "SambaNova × 超微：SN50 推理架与 NVIDIA GPU 拆分预填/解码",
+   "summary": "超微将组装销售搭载 SambaNova SN50 的推理系统，GPU 做 prompt prefill、SN50 做 token 解码；首批规划约 1 万颗芯片，主打 neo/主权云与企业机房补推理容量。",
+   "links": [
+    "https://sambanova.ai/press/sambanova-and-supermicro-partnership"
+   ],
+   "topic": "sambanova-supermicro-sn50-inference-2026-11",
+   "firstSeen": "2026-11-06T10:25:28+08:00"
   }
  ],
- "lastChecked": "2026-11-06T10:20:40+08:00"
+ "lastChecked": "2026-11-06T10:25:28+08:00"
 }
