@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T00:46:40+08:00",
+ "lastUpdated": "2026-11-07T00:47:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37766,7 +37766,18 @@
    ],
    "topic": "fox-closes-22b-roku-acquisition-2026-11-06",
    "firstSeen": "2026-11-07T00:46:40+08:00"
+  },
+  {
+   "id": "aa77fa0291",
+   "title": "663 条 Ask HN 统计：Claude Code 领跑，七种可抄的 Agent 编程套路",
+   "summary": "对 11 月 4 日 Ask HN「你现在的 AI agentic setup」663 条评论的人工清点：424 人点名工具，Claude Code 180、Codex 103；156 人同时用两种以上编码 Agent，148 人用开源权重/本地模型。提炼七种模式：多 worktree 并行、干净上下文二审、强模型规划+便宜模型施工、沙箱里才 skip-permissions、先写 definition of done、工单 headless 出 PR、手机遥控。适合做成 Idea Lab「Agent 工作流清单」点子。",
+   "links": [
+    "https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html",
+    "https://news.ycombinator.com/item?id=50394444"
+   ],
+   "topic": "hn-663-agentic-setups-patterns-2026-11-06",
+   "firstSeen": "2026-11-07T00:47:34+08:00"
   }
  ],
- "lastChecked": "2026-11-07T00:46:40+08:00"
+ "lastChecked": "2026-11-07T00:47:34+08:00"
 }
