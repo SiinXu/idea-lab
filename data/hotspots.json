@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T13:14:55+08:00",
+ "lastUpdated": "2026-11-06T13:28:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36605,7 +36605,40 @@
    ],
    "topic": "t3-code-desktop-quality-chart-viral-2026-11-06",
    "firstSeen": "2026-11-06T13:14:55+08:00"
+  },
+  {
+   "id": "036c7bb67d",
+   "title": "Tenspresso：成立仅约 3 个月的 AI 芯片新创洽谈 5 亿美元估值融资",
+   "summary": "前谷歌 TPU 工程师创办的 Sunnyvale 新创 Tenspresso 在拿到约 2000 万美元后，正洽谈至少 5000 万美元新融资、目标估值约 5 亿美元；主打长上下文专用芯片，首款设计目标 2027 年底至 2028 年初，并寻求绕开传统硅供应链瓶颈。Altimeter 等据报已接洽。",
+   "links": [
+    "https://www.investing.com/news/stock-market-news/chip-startup-tenspresso-eyes-500m-valuation--bloomberg-93CH-5001738",
+    "https://technews.tw/2026/11/06/ai-chip-startup-tenspresso-valuation-soars/"
+   ],
+   "topic": "tenspresso-500m-valuation-talks-2026-11",
+   "firstSeen": "2026-11-06T13:28:07+08:00"
+  },
+  {
+   "id": "563ad18453",
+   "title": "Core Scientific：年底前退出比特币挖矿，2027 年变纯 AI/HPC 托管",
+   "summary": "前比特币挖矿龙头在 Q3 财报电话会上确认：第四季度完成挖矿收缩，2027 年以高密度托管为主；本季托管收入约 2.154 亿美元（占比约 93%），挖矿仅约 7.5%。与 CoreWeave 约 590MW 合约中已有约 485MW 在计费。",
+   "links": [
+    "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges",
+    "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001839341-26-000028/q3fy26earningsdeckvfinal.htm"
+   ],
+   "topic": "core-scientific-exit-bitcoin-mining-ai-colo-2026-11-05",
+   "firstSeen": "2026-11-06T13:28:07+08:00"
+  },
+  {
+   "id": "f01c3fad45",
+   "title": "Sarvam Prism：开源「决策模型」，B200 上中位约 44ms、Apache-2.0",
+   "summary": "印度 Sarvam 基于 Sarvam 105B 发布 System-1 决策模型 Prism：一次前向给出校准概率，不开文本生成；官方测 25 个决策模型中，100ms 内平均分最高（约 71.8）。权重 Apache-2.0 上架 Hugging Face，亦提供 API。",
+   "links": [
+    "https://www.sarvam.ai/blogs/sarvam-prism",
+    "https://huggingface.co/sarvamai/prism"
+   ],
+   "topic": "sarvam-prism-decision-model-2026-11",
+   "firstSeen": "2026-11-06T13:28:07+08:00"
   }
  ],
- "lastChecked": "2026-11-06T13:14:55+08:00"
+ "lastChecked": "2026-11-06T13:28:07+08:00"
 }
