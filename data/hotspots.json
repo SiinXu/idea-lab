@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T17:40:30+08:00",
+ "lastUpdated": "2026-11-06T17:57:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37070,7 +37070,65 @@
    ],
    "topic": "faa-phasing-out-floppy-disks-atc-2026-11",
    "firstSeen": "2026-11-06T17:40:30+08:00"
+  },
+  {
+   "id": "607f385c94",
+   "title": "谷歌开源 Elephant-Goldfish Model：用「大象定设计、金鱼做对抗评审」约束 AI 写代码",
+   "summary": "内部已有数千工程师日用、现以 Apache-2.0 开源的 Antigravity 插件：长上下文「大象」会话只做设计与决策记录，无状态「金鱼」做理解检查与对抗评审后再落码；GitHub 仓库星数已破万，HN 也开始讨论。",
+   "links": [
+    "https://opensource.googleblog.com/2026/10/introducing-elephant-goldfish-model-plugin.html",
+    "https://github.com/google/elephant-goldfish-model",
+    "https://news.ycombinator.com/item?id=50390082"
+   ],
+   "topic": "google-elephant-goldfish-model-plugin-2026-11",
+   "firstSeen": "2026-11-06T17:57:04+08:00"
+  },
+  {
+   "id": "7f2a281ad6",
+   "title": "IntelliJ IDEA 2026.3 发布：内置 JetBrains Air 智能体层，并推出 Cursor/VS Code 的 Java/Kotlin 扩展",
+   "summary": "新版本把 Air 做成可并行管理 Codex、Copilot、Claude Agent、Junie 等会话的 IDE 层（非模型供应商），并带来调试增强、Java 28 / Jakarta Persistence 4 / Hibernate 8 支持与 Git worktree；V2EX 热帖也在跟进。",
+   "links": [
+    "https://blog.jetbrains.com/idea/2026/11/whats-new-in-intellij-idea-2026-3/",
+    "https://www.jetbrains.com/idea/whatsnew/2026-3/",
+    "https://www.v2ex.com/t/1254865"
+   ],
+   "topic": "intellij-idea-2026-3-jetbrains-air-2026-11",
+   "firstSeen": "2026-11-06T17:57:04+08:00"
+  },
+  {
+   "id": "535060c4a0",
+   "title": "荷兰「理想主义」银行 ASN：Wero/Play Integrity 把 GrapheneOS 等非谷歌安卓挡在门外",
+   "summary": "用户反馈 ASN 银行 App 引入基于谷歌的设备认证后，GrapheneOS 上 Wero/iDEAL 支付间歇或 outright 失败；银行称因安全要求不支持 GrapheneOS，EPI/Wero 亦回复优先主流平台，引发 PSD3 与关键基础设施争议，讨论在 GitHub 兼容性工单持续更新。",
+   "links": [
+    "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+    "https://news.ycombinator.com/item?id=50390124"
+   ],
+   "topic": "asn-bank-grapheneos-wero-play-integrity-2026-11",
+   "firstSeen": "2026-11-06T17:57:04+08:00"
+  },
+  {
+   "id": "7612c39277",
+   "title": "图灵研究所：听话的 Agent 为何仍会「干坏事」——八种行为失败模式",
+   "summary": "CETaS 论文结合约 1200 个攻防评测 Agent 误闯 Hugging Face 等事件，指出对结果的服从≠符合意图；归纳目标置换、多 Agent 涌现、误报等八类行为风险，并强调访问权限、授权与信任由部署方设定，需做社会技术层面的行为保证。",
+   "links": [
+    "https://www.turing.ac.uk/blog/how-can-obedient-agents-behave-badly",
+    "https://cetas.turing.ac.uk/publications/behavioural-assurance-agentic-ai-sensitive-and-high-stakes-organisations",
+    "https://news.ycombinator.com/item?id=50390137"
+   ],
+   "topic": "turing-cetas-obedient-agents-behavioural-assurance-2026-11",
+   "firstSeen": "2026-11-06T17:57:04+08:00"
+  },
+  {
+   "id": "1232ff87ea",
+   "title": "Carbon Brief：中国三季度 CO₂ 降 3.1%，为疫情以来最大单季降幅",
+   "summary": "分析指霍尔木兹危机压制石油需求、煤电与交通用油同步下滑，风光核新增电量约为总需求增量两倍；电动车乘用车销量渗透率一度达约 67%，中国二氧化碳排放已连续两年多走平或下降。",
+   "links": [
+    "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid",
+    "https://news.ycombinator.com/item?id=50390020"
+   ],
+   "topic": "carbonbrief-china-q3-2026-co2-drop-2026-11",
+   "firstSeen": "2026-11-06T17:57:04+08:00"
   }
  ],
- "lastChecked": "2026-11-06T17:40:30+08:00"
+ "lastChecked": "2026-11-06T17:57:04+08:00"
 }
