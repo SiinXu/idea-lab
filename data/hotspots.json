@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T19:28:47+08:00",
+ "lastUpdated": "2026-11-06T19:50:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37259,7 +37259,60 @@
    ],
    "topic": "docker-group-agent-wrote-etc-2026-11-06",
    "firstSeen": "2026-11-06T19:28:47+08:00"
+  },
+  {
+   "id": "420989c87f",
+   "title": "iPhone Lockdown Mode 被绕过：AirDrop 恶意 PDF 越狱，升级 iOS 27.2 后仍存活",
+   "summary": "安全团队 Calif 演示：在开启 Lockdown Mode 的 iPhone 18 Pro 上，经 AirDrop 投递恶意 PDF 即可利用；获得代码执行后升级到 iOS 27.2，恶意载荷仍在。尚未公开细节，属需用户接受文件的攻击，非零点击。",
+   "links": [
+    "https://www.privacyguides.org/news/2026/11/06/lockdown-mode-bypassed-in-new-iphone-exploit/",
+    "https://www.macrumors.com/2026/11/03/iphone-jailbreak-lockdown-mode/"
+   ],
+   "topic": "iphone-lockdown-mode-calif-airdrop-pdf-2026-11-06",
+   "firstSeen": "2026-11-06T19:50:06+08:00"
+  },
+  {
+   "id": "724370a8da",
+   "title": "linux-use：给 Linux 桌面的 Agent 优先 GUI 控制，读 AT-SPI 不靠截图坐标",
+   "summary": "开源 CLI 传感器/执行器：遍历无障碍树拿 ref、触发控件自身动作，支持 watch 事件流；故意不含 LLM，由外部 Agent 当循环。GTK/Qt 已验证，Wayland 上合成输入仍受限。",
+   "links": [
+    "https://javimosch.github.io/linux-use/",
+    "https://news.ycombinator.com/item?id=50390950"
+   ],
+   "topic": "linux-use-agent-gui-atspi-2026-11-06",
+   "firstSeen": "2026-11-06T19:50:06+08:00"
+  },
+  {
+   "id": "65406f62be",
+   "title": "DigitalOcean 推出 Cuttlefish：手机上审批/纠偏 Managed Agents",
+   "summary": "原生 iPhone 应用对接云端沙箱会话，可看实时推理与工具调用、批准高风险操作（需 Face ID）、中途纠偏，并预览产物；同步接入 Box Mount，Agent 在受控文件夹里改文件。",
+   "links": [
+    "https://www.digitalocean.com/blog/introducing-cuttlefish",
+    "https://apps.apple.com/us/app/cuttlefish-by-digitalocean/id6818391373"
+   ],
+   "topic": "digitalocean-cuttlefish-managed-agents-ios-2026-11",
+   "firstSeen": "2026-11-06T19:50:06+08:00"
+  },
+  {
+   "id": "95bed792f2",
+   "title": "瑞士食品冷链制冷系统遭首例已知网络攻击",
+   "summary": "瑞士媒体报道国内食品制冷系统首次确认遭受网络攻击，工业控制/运营技术安全议题再次被拉到台前。",
+   "links": [
+    "https://www.swissinfo.ch/eng/various/first-known-cyberattack-on-a-refrigeration-system-in-switzerland/92333384"
+   ],
+   "topic": "swiss-food-refrigeration-cyberattack-2026-11-06",
+   "firstSeen": "2026-11-06T19:50:06+08:00"
+  },
+  {
+   "id": "eed5ac5cee",
+   "title": "AMD CEO 苏姿丰：公司是「数据中心优先」",
+   "summary": "苏姿丰公开表态 AMD 以数据中心为先，强调 AI/数据中心 GPU 优先级，契合近期算力与基建叙事。",
+   "links": [
+    "https://x.com/i/trending/2118670640571969901"
+   ],
+   "topic": "amd-lisa-su-data-center-first-2026-11-06",
+   "firstSeen": "2026-11-06T19:50:06+08:00"
   }
  ],
- "lastChecked": "2026-11-06T19:28:47+08:00"
+ "lastChecked": "2026-11-06T19:50:06+08:00"
 }
