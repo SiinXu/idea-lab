@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T16:50:52+08:00",
+ "lastUpdated": "2026-11-06T17:10:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36960,7 +36960,61 @@
    ],
    "topic": "mooftcp-68k-mactcp-2026-11-06",
    "firstSeen": "2026-11-06T16:50:52+08:00"
+  },
+  {
+   "id": "0a8c76c420",
+   "title": "Pompliano 指控 Anthropic：Claude 理财上线前向 Silvia「摸底」",
+   "summary": "Anthropic 给美区付费用户上线 Claude Personal Finance（Plaid 只读连账户）后，Silvia 创始人 Anthony Pompliano 称对方自 4 月起接触其工程师打听产品细节，并提前透露上线日；Anthropic 未公开回应。",
+   "links": [
+    "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
+    "https://x.com/i/trending/2118626865116000712"
+   ],
+   "topic": "pompliano-silvia-anthropic-claude-finance-2026-11-05",
+   "firstSeen": "2026-11-06T17:10:04+08:00"
+  },
+  {
+   "id": "c776ff55c5",
+   "title": "马斯克称 SoftBank 正对涡轮机订单违约",
+   "summary": "在 ING 拍卖约 5 亿美元数据中心贷款（含 Stargate 新墨西哥切片）的讨论下，马斯克回复称 SoftBank 正在对涡轮机订单违约；目前未见 SoftBank 公开证实或否认。",
+   "links": [
+    "https://officechai.com/ai/softbank-is-defaulting-on-its-turbine-orders-claims-elon-musk/"
+   ],
+   "topic": "musk-softbank-turbine-default-claim-2026-11-06",
+   "firstSeen": "2026-11-06T17:10:04+08:00"
+  },
+  {
+   "id": "259437f152",
+   "title": "印度 CERT-In：Tata Motors iRA 车机 App 硬编码凭证",
+   "summary": "CERT-In 通告 CIVN-2026-0537 称 iRA 2.0 / iRA.ev 安装包含硬编码服务账号、API Key 与授权令牌，或致用户仿冒与数据窃取；厂商已推送更高版本修复。",
+   "links": [
+    "https://www.business-standard.com/companies/news/tata-motors-ira-apps-vulnerable-to-data-theft-user-impersonation-cert-in-126110500606_1.html",
+    "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
+    "https://news.ycombinator.com/item?id=50389260"
+   ],
+   "topic": "tata-motors-ira-hardcoded-creds-cert-in-2026-11",
+   "firstSeen": "2026-11-06T17:10:04+08:00"
+  },
+  {
+   "id": "c5e3e3ea36",
+   "title": "AirPointer：把 AirPods 充电盒当成 Mac 空中鼠标",
+   "summary": "开源 macOS 工具：合盖晃动充电盒移动光标、轻点前端点击；目前在 AirPods Pro 3 + Apple Silicon + macOS 26 上验证，会短暂断开耳机音频并消耗盒内诊断数据。",
+   "links": [
+    "https://github.com/musubipapi/airpointer"
+   ],
+   "topic": "airpointer-airpods-case-mac-pointer-2026-11-06",
+   "firstSeen": "2026-11-06T17:10:04+08:00"
+  },
+  {
+   "id": "cbe2ba7d2f",
+   "title": "Living Maps：湾区科技地理自 1960 年代起的可交互时间线",
+   "summary": "可视化地图串联半个多世纪湾区公司、实验室与园区变迁，适合当作科技史与选址研究素材；刚登上 HN。",
+   "links": [
+    "https://tomorrowasusual.com/living-maps/bay-area-tech/",
+    "https://news.ycombinator.com/item?id=50389498"
+   ],
+   "topic": "living-maps-bay-area-tech-2026-11-06",
+   "firstSeen": "2026-11-06T17:10:04+08:00"
   }
  ],
- "lastChecked": "2026-11-06T16:50:52+08:00"
+ "lastChecked": "2026-11-06T17:10:04+08:00"
 }
