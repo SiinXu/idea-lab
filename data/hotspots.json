@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T14:34:04+08:00",
+ "lastUpdated": "2026-11-06T14:48:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36770,7 +36770,29 @@
    ],
    "topic": "usa-today-ai-search-traffic-revenue-2026-11-05",
    "firstSeen": "2026-11-06T14:34:04+08:00"
+  },
+  {
+   "id": "f59ef446d6",
+   "title": "科幻小说对 AI 的预言有多准？James Yu 长文盘点",
+   "summary": "Sudowrite 创始人 James Yu 梳理经典科幻对 AI 的想象与现实差距，Ted Chiang《软件物体的生命周期》居首；HN 讨论升温。",
+   "links": [
+    "https://jamesyu.org/science-fiction-predictions-of-ai/",
+    "https://news.ycombinator.com/item?id=50388263"
+   ],
+   "topic": "james-yu-scifi-ai-predictions-2026-11-06",
+   "firstSeen": "2026-11-06T14:48:34+08:00"
+  },
+  {
+   "id": "4b0524348a",
+   "title": "Pwn.college 再登 HN 热榜：免费可交互网络安全训练平台",
+   "summary": "亚利桑那州立大学开源的动手型安全训练平台再次冲上 HN，分数快速攀升；适合做成「可闯关的安全课 / CTF 入门站」类 Idea Lab 点子参照。",
+   "links": [
+    "https://pwn.college/",
+    "https://news.ycombinator.com/item?id=50387796"
+   ],
+   "topic": "pwn-college-hn-surge-2026-11-06",
+   "firstSeen": "2026-11-06T14:48:34+08:00"
   }
  ],
- "lastChecked": "2026-11-06T14:34:04+08:00"
+ "lastChecked": "2026-11-06T14:48:34+08:00"
 }
