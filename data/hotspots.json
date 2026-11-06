@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T22:07:28+08:00",
+ "lastUpdated": "2026-11-06T22:20:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37508,7 +37508,30 @@
    ],
    "topic": "mistral-acquires-skiplabs-2026-11-05",
    "firstSeen": "2026-11-06T22:07:28+08:00"
+  },
+  {
+   "id": "84eda138c9",
+   "title": "Harness Leaderboard：同模型换编码 Agent 外壳，成功率可差约 24 个百分点",
+   "summary": "Joel Niklaus 在 Hugging Face 上线 Harness Leaderboard：固定模型/provider/推理力度，只换 harness，跑满约 2.88 万次试验。九款外壳中纯 bash 的 mini-swe-agent 平均解决率约 51.4% 居首，OpenClaw 约 27.3%；Pi 约 49.4% 且每解题成本约 $0.29。最佳外壳随模型而变，换 harness 的影响可接近换模型。",
+   "links": [
+    "https://huggingface.co/spaces/joelniklaus/harness-leaderboard",
+    "https://x.com/i/trending/2118702884808540501",
+    "https://github.com/JoelNiklaus/harness-optimization"
+   ],
+   "topic": "joel-niklaus-harness-leaderboard-2026-11-06",
+   "firstSeen": "2026-11-06T22:20:07+08:00"
+  },
+  {
+   "id": "1d278ae177",
+   "title": "英伟达 VFlash：视觉规划并行解码，机器人推理最高约快 5 倍",
+   "summary": "NVIDIA Research 发布 VFlash：给 Physical AI 的通用解码框架，一次并行起草完整视觉原语（轨迹/框/运动），相对自回归目标最高可降约 61% 的 3D 轨迹误差；在 Jetson Thor / DGX Spark 上机器人端到端推理约快 5 倍，驾驶规划解码可快数十倍。",
+   "links": [
+    "https://research.nvidia.com/labs/lpr/vflash/",
+    "https://arxiv.org/abs/2611.08449"
+   ],
+   "topic": "nvidia-vflash-visual-planning-2026-11",
+   "firstSeen": "2026-11-06T22:20:07+08:00"
   }
  ],
- "lastChecked": "2026-11-06T22:07:28+08:00"
+ "lastChecked": "2026-11-06T22:20:07+08:00"
 }
