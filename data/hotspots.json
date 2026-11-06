@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T21:01:40+08:00",
+ "lastUpdated": "2026-11-06T22:07:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -37452,7 +37452,63 @@
    ],
    "topic": "cloudflare-personal-agents-visibility-control-2026-11",
    "firstSeen": "2026-11-06T21:01:40+08:00"
+  },
+  {
+   "id": "a8d5826a18",
+   "title": "台湾启动金融稳定基金护盘：本周台股跌约 12%，已入熊市区间",
+   "summary": "美国中期选举后 AI/数据中心监管忧虑引爆亚股抛售，台股本周累计跌约 12%、距年内高点约跌 20%。台湾「国家金融安定基金」周五紧急授权可动用最高约 5000 亿新台币（约 151 亿美元）护盘；金管会拟自 11 月 9 日起收紧融券，并鼓励上市公司回购与法说。",
+   "links": [
+    "https://www.morningstar.com/news/dow-jones/202611064621/taiwan-activates-market-stabilization-measures-to-stem-ai-bleeding",
+    "https://news.ycombinator.com/item?id=50392087"
+   ],
+   "topic": "taiwan-nfsf-ai-selloff-stabilization-2026-11-06",
+   "firstSeen": "2026-11-06T22:07:28+08:00"
+  },
+  {
+   "id": "4d1662d67d",
+   "title": "欧盟初步认定 TikTok「For You」违反 DSA：算法「兔洞」伤心理健康",
+   "summary": "欧委会初步认定 TikTok 推荐系统把用户不断推入同类内容「兔洞」（如悲伤、身材焦虑），尤其伤害未成年人；要求改设计、更多听从用户明确偏好、少用观看时长做推荐，否则可能按全球营收最高 6% 罚款。属 DSA 对 TikTok 系列调查的新一轮初步认定。",
+   "links": [
+    "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes",
+    "https://www.cnbc.com/2026/11/06/eu-charges-tiktok-harmful-algorithmic-rabbit-hole-effects.html",
+    "https://news.ycombinator.com/item?id=50391911"
+   ],
+   "topic": "eu-tiktok-dsa-rabbit-hole-2026-11-06",
+   "firstSeen": "2026-11-06T22:07:28+08:00"
+  },
+  {
+   "id": "bbeeb7c801",
+   "title": "慕尼黑工大遭入侵：myTUM 密码被盗，校园管理系统紧急下线",
+   "summary": "TUM 通报未知攻击者攻破 myTUM 门户并窃取中央登录密码，其中含 TUMonline 系统管理员凭证，随后攻击校园管理系统；学校已停用相关账号并暂时关闭 TUMonline。可能泄露姓名、住址、生日等，教职工还有工位电话，学生还有学号/专业；已报案并建议改密、开启 MFA。",
+   "links": [
+    "https://www.tum.de/en/news-and-events/all-news/press-releases/details/it-security-incident-at-tum",
+    "https://news.ycombinator.com/item?id=50392125"
+   ],
+   "topic": "tum-mytum-tuimonline-breach-2026-11-06",
+   "firstSeen": "2026-11-06T22:07:28+08:00"
+  },
+  {
+   "id": "54942899e3",
+   "title": "韩国财长：AI 恐慌抛售下准备更多护盘，保证金抵押要求暂松三个月",
+   "summary": "KOSPI 盘中一度跌超 8% 触发暂停交易约 20 分钟。财经部、金融委、金监院与央行紧急会商后，财长李亨一称基本面稳健，并将自本月晚些时候起三个月内全面放宽股票贷款抵押监管，必要时再推额外稳定措施，以缓冲 AI/存储需求放缓预期带来的单边抛售。",
+   "links": [
+    "https://en.yna.co.kr/view/AEN20261106002551320",
+    "https://www.koreajoongangdaily.com/business/korea-moves-to-avert-forced-stock-sales-as-wall-street-rout-rattles-markets/12959721"
+   ],
+   "topic": "korea-margin-collateral-ai-selloff-2026-11-06",
+   "firstSeen": "2026-11-06T22:07:28+08:00"
+  },
+  {
+   "id": "2be186a08c",
+   "title": "Mistral 收购 SkipLabs：年内第五笔收购，加码 AI 写代码",
+   "summary": "法国 AI 公司 Mistral（估值约 250 亿美元）周四宣布收购本土六人创业公司 SkipLabs（2022 年成立，做反应式/编程相关工具），金额未披露；这是其不到一年内第五笔收购，意在加速代码生成这一关键垂直场景。",
+   "links": [
+    "https://www.lesechos.fr/tech-medias/intelligence-artificielle/mistral-accelere-dans-le-code-genere-par-ia-grace-a-une-nouvelle-acquisition-2261330",
+    "https://www.startupsacquired.com/deals/mistral-ai-acquires-skiplabs"
+   ],
+   "topic": "mistral-acquires-skiplabs-2026-11-05",
+   "firstSeen": "2026-11-06T22:07:28+08:00"
   }
  ],
- "lastChecked": "2026-11-06T21:01:40+08:00"
+ "lastChecked": "2026-11-06T22:07:28+08:00"
 }
