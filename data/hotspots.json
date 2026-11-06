@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T03:12:36+08:00",
+ "lastUpdated": "2026-11-07T03:29:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -38296,7 +38296,69 @@
    ],
    "topic": "mattermost-dm-claude-code-skill-2026-11-06",
    "firstSeen": "2026-11-07T03:12:36+08:00"
+  },
+  {
+   "id": "2a72dc9cbc",
+   "title": "Einsia 发布 Frontier3DBench：测 Coding Agent 的 3D 全栈创作",
+   "summary": "145 题跨 Blender 物体/场景与虚幻开放世界；GPT-6.1 Sol 总分 66.02 居首，开放世界 Astra 领先，参考图重建明显弱于纯文本建模。",
+   "links": [
+    "https://lab.einsia.ai/frontier3dbench",
+    "https://github.com/Einsia/Frontier3D",
+    "https://x.com/i/trending/2118780730817790268"
+   ],
+   "topic": "frontier3dbench-einsia-2026-11-06",
+   "firstSeen": "2026-11-07T03:29:40+08:00"
+  },
+  {
+   "id": "f91dd20b89",
+   "title": "开发者实测：多数任务不必派子智能体，主会话分叉更省上下文",
+   "summary": "社区对比「交接摘要」与「fork 主会话 + 提示缓存」：不少人发现单智能体更稳；与 Anthropic「先单循环」指南同向，正在 X 热议。",
+   "links": [
+    "https://x.com/i/trending/2118729995283525636"
+   ],
+   "topic": "subagent-fork-vs-solo-2026-11",
+   "firstSeen": "2026-11-07T03:29:40+08:00"
+  },
+  {
+   "id": "08ba0cce8c",
+   "title": "Bramble Office：用 Rust 重写的 iWork 风格套件",
+   "summary": "开源项目尝试用 Rust 克隆 Pages/Numbers/Keynote 一类办公套件，刚出现在 HN 最新帖，适合关注跨平台桌面生产力工具的人跟进。",
+   "links": [
+    "https://bramble-apps.github.io/"
+   ],
+   "topic": "bramble-office-rust-iwork-2026-11",
+   "firstSeen": "2026-11-07T03:29:40+08:00"
+  },
+  {
+   "id": "ecc7fd0b44",
+   "title": "Datadog：生产环境持续校验形式化规范",
+   "summary": "工程博文介绍如何把形式化规格嵌进线上校验流水线，让规范不只是文档，而是持续对照真实系统行为。",
+   "links": [
+    "https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/"
+   ],
+   "topic": "datadog-formal-spec-prod-2026-11",
+   "firstSeen": "2026-11-07T03:29:40+08:00"
+  },
+  {
+   "id": "29e8c4abba",
+   "title": "社区反感「AI 软件工厂」话术：扎实工程比品牌自动化更重要",
+   "summary": "React 编译器团队等开发者公开吐槽「软件工厂」营销：真正管用的是代码库质量、工具链和 token 投向，而不是再套一层工厂叙事。",
+   "links": [
+    "https://x.com/i/trending/2118625162127978888"
+   ],
+   "topic": "ai-software-factories-debate-2026-11",
+   "firstSeen": "2026-11-07T03:29:40+08:00"
+  },
+  {
+   "id": "e4ee069fc7",
+   "title": "Size-It-Up：比大小的轻量网页小游戏冲上 HN",
+   "summary": "Magnitudle 出的直觉估大小游戏，上线不久就出现在 HN 首页附近，适合当轻松流量钩子或灵感参考。",
+   "links": [
+    "https://magnitudle.com/size-it-up"
+   ],
+   "topic": "size-it-up-magnitudle-2026-11",
+   "firstSeen": "2026-11-07T03:29:40+08:00"
   }
  ],
- "lastChecked": "2026-11-07T03:12:36+08:00"
+ "lastChecked": "2026-11-07T03:29:40+08:00"
 }
