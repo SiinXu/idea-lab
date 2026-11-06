@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-06T11:40:29+08:00",
+ "lastUpdated": "2026-11-06T12:03:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -36302,7 +36302,62 @@
    ],
    "topic": "nhs-stride-rct-multi-cancer-blood-ai-2026-11",
    "firstSeen": "2026-11-06T11:40:29+08:00"
+  },
+  {
+   "id": "b384d4ed6c",
+   "title": "World Labs 发布 Frameboy：浏览器里实时操控 Atlas，最高约 15 fps",
+   "summary": "把两个月前的世界模型 Atlas 做成云端推流演示：键盘/鼠标开虚拟相机逛场景；也可先在 Viewfinder 搭场景再叠加实时探索。适合做沉浸预览与机器人仿真入口。",
+   "links": [
+    "https://www.worldlabs.ai/blog/atlas-realtime",
+    "https://frameboy.worldlabs.ai/"
+   ],
+   "topic": "world-labs-frameboy-atlas-realtime-2026-11-05",
+   "firstSeen": "2026-11-06T12:03:52+08:00"
+  },
+  {
+   "id": "cccf264ced",
+   "title": "Hugging Face 开源「终极 MoE 训练手册」：约 80 万 GPU 小时踩坑总结",
+   "summary": "覆盖专家规模、路由与负载均衡、all-to-all、剖析与服务等，带可跑脚本和几十张交互图；目标是让更多团队能自己训前沿 MoE，而不是只会调 API。",
+   "links": [
+    "https://huggingface.co/spaces/huggingface/moe-blogpost"
+   ],
+   "topic": "huggingface-ultimate-moe-training-handbook-2026-11-05",
+   "firstSeen": "2026-11-06T12:03:52+08:00"
+  },
+  {
+   "id": "cdfc155207",
+   "title": "NVIDIA Kubernetes Engine（NVKE）预览：给裸机 GPU 的管理面与工作集群",
+   "summary": "开源安装器可引导管理集群、经 NICo 开工作负载集群；已通过 Kubernetes 1.36 一致性测试，但仍属预览、不建议上生产。Hacker News 近一小时开始讨论。",
+   "links": [
+    "https://docs.nvidia.com/nvke/documentation/overview/preview-status-and-known-limitations/",
+    "https://github.com/dsx-ai-factory/nvke",
+    "https://news.ycombinator.com/item?id=50387738"
+   ],
+   "topic": "nvidia-kubernetes-engine-nvke-preview-2026-11-06",
+   "firstSeen": "2026-11-06T12:03:52+08:00"
+  },
+  {
+   "id": "0e9aef369d",
+   "title": "SB 53 作者 Scott Wiener 当选接替佩洛西：加州 AI 安全派进国会",
+   "summary": "加州参议员 Wiener 赢下旧金山国会席位；他推动过前沿模型透明度法案 SB 53，竞选时主打联邦级 AI 监管，后续立法博弈值得盯。",
+   "links": [
+    "https://www.latimes.com/california/story/2026-11-04/state-sen-scott-wiener-to-succeed-pelosi-in-san-francisco-house-seat-as-chan-concedes",
+    "https://www.kqed.org/news/12106936/scott-wiener-leads-in-san-francisco-congressional-race-to-succeed-nancy-pelosi"
+   ],
+   "topic": "scott-wiener-succeeds-pelosi-ai-safety-congress-2026-11",
+   "firstSeen": "2026-11-06T12:03:52+08:00"
+  },
+  {
+   "id": "d9f817c92c",
+   "title": "Airbnb 披露可投资并许可 CEO Chesky 自建 AI 实验室技术",
+   "summary": "公司文件称已与 Chesky 控制的新 AI lab 达成 IP/交易安排：Airbnb 付约 710 万美元并获部分内部许可，对未来融资有投资期权；实验室迄今由 Chesky 自掏腰包。",
+   "links": [
+    "https://www.unite.ai/airbnb-discloses-ai-lab-deal-with-investment-and-licensing-rights/",
+    "https://www.techmeme.com/261105/p67"
+   ],
+   "topic": "airbnb-chesky-stealth-ai-lab-filing-2026-11-05",
+   "firstSeen": "2026-11-06T12:03:52+08:00"
   }
  ],
- "lastChecked": "2026-11-06T11:40:29+08:00"
+ "lastChecked": "2026-11-06T12:03:52+08:00"
 }
