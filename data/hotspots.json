@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T20:02:13+08:00",
+ "lastUpdated": "2026-11-07T20:16:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41795,7 +41795,53 @@
    ],
    "topic": "tragedy-oxide-root-of-trust-2026-11-07",
    "firstSeen": "2026-11-07T20:02:13+08:00"
+  },
+  {
+   "id": "d441c4a47e",
+   "title": "谷歌：过时 TODO 评论会让编码 Agent 去追已修好的 bug",
+   "summary": "Google Developers Blog（11月6日）：百万级会话里约 13% 读到 TODO(bug)/FIXME；其中 6% 会跟进该 bug，且 83% 是用户没要求的。无提示偏航里约 41% 追已关闭工单，57% 扩到仍开放但不相关的范围；回归显示步骤 +70%、token +77%、等待时间 +105%。他们用 Agent 清库删过时 TODO，半年移除数千条、人工接受率超 95%。刚上 HN。",
+   "links": [
+    "https://developers.googleblog.com/en/agent-distraction/",
+    "https://news.ycombinator.com/item?id=50403839"
+   ],
+   "topic": "google-agent-distraction-stale-todos-2026-11-07",
+   "firstSeen": "2026-11-07T20:16:17+08:00"
+  },
+  {
+   "id": "6c01ccc962",
+   "title": "Zyphra 开源 ZYFA：AMD MI355X 上 FP8 Attention 最高约 1.76× 于 AITER",
+   "summary": "Zyphra（11月5日）发布面向 Instinct MI355X 的 FP8/BF16 prefill FlashAttention 内核 ZYFA：用 lean P、双 wave ping-pong 汇编调度与分块缩放，在真实激活上相对 AMD AITER 默认内核吞吐约 1.16–1.76×，头维 128 时数值误差低约 62–78%。代码 Apache 开源，论文已挂 arXiv。",
+   "links": [
+    "https://zyphra.com/our-work/zyfa",
+    "https://github.com/Zyphra/zyfa",
+    "https://arxiv.org/abs/2611.07496"
+   ],
+   "topic": "zyphra-zyfa-fp8-attention-mi355x-2026-11-07",
+   "firstSeen": "2026-11-07T20:16:17+08:00"
+  },
+  {
+   "id": "ffa80f6e94",
+   "title": "Perch AI 免费 Starter 含 DeepSeek V4.1 Flash，周末额度再加码",
+   "summary": "Perch 免费 Starter（无需信用卡）含每月约 20 美元用量，模型池含 DeepSeek V4.1 Flash、GLM 5.3 Flash、Laguna S 2.1，以及限时至 11月20日的 Qwen 3.8 Max。11月6日公告：Pro/Ultra 上 DeepSeek V4.1 Flash 无限用延至美东 11月8日晚，Starter 5小时/周限额本周末约翻倍。X 新闻热议。",
+   "links": [
+    "https://www.perchai.app/announcements",
+    "https://www.perchai.app/docs/plans/starter",
+    "https://x.com/i/trending/2119030687336702241"
+   ],
+   "topic": "perch-ai-starter-deepseek-weekend-2026-11-07",
+   "firstSeen": "2026-11-07T20:16:17+08:00"
+  },
+  {
+   "id": "72eaebcd85",
+   "title": "OpenAI 产品负责人 Tibo「地下室闯关」小游戏：通关可按 ChatGPT 重置",
+   "summary": "OpenAI 产品负责人 Tibo Sottiaux 在 poteto.com 上线像素风 Rooftop Reset：把角色从地下室救到屋顶按重置键；通关画面可跳转 ChatGPT。社区借 GPT-6 Cyber / 额度重置话题围观刷分。属趣味周边，非产品发布。",
+   "links": [
+    "https://poteto.com/",
+    "https://x.com/i/trending/2119024601116094636"
+   ],
+   "topic": "openai-tibo-poteto-rooftop-reset-2026-11-07",
+   "firstSeen": "2026-11-07T20:16:17+08:00"
   }
  ],
- "lastChecked": "2026-11-07T20:02:13+08:00"
+ "lastChecked": "2026-11-07T20:16:17+08:00"
 }
