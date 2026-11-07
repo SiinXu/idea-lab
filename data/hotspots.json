@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T16:45:52+08:00",
+ "lastUpdated": "2026-11-07T16:55:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41204,7 +41204,49 @@
    ],
    "topic": "orcaslicer-2-5-0-release-2026-11-07",
    "firstSeen": "2026-11-07T16:45:52+08:00"
+  },
+  {
+   "id": "5cecc12e37",
+   "title": "GitHub 发布 Agentic Engineering 指南：Plan → Build → Verify → Observe",
+   "summary": "GitHub 认为写码变快了，但规划、评审与生产排查没跟上；文章把 Copilot Agent 工作流拆成四阶段，并强调 IDE Plan Mode 先出只读方案再改代码。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/"
+   ],
+   "topic": "github-agentic-engineering-guide-2026-11",
+   "firstSeen": "2026-11-07T16:55:01+08:00"
+  },
+  {
+   "id": "c3f6a6cda5",
+   "title": "乌克兰伤兵首次用专用救援无人机撤离前线：SkyFall StarGate",
+   "summary": "卫报报道：士兵踩雷后约 8 天困在「杀伤区」，专用撤离无人机吊舱载人飞行约 29 公里、约 20 分钟，并带抗干扰导航；华邮亦称无人机正从杀手变成救援工具。",
+   "links": [
+    "https://www.theguardian.com/world/ng-interactive/2026/nov/07/how-injured-ukrainian-soldier-rescued-by-drone",
+    "https://www.washingtonpost.com/world/2026/11/06/ukraine-drones-are-death-now-they-are-rescuers-too/"
+   ],
+   "topic": "ukraine-skyfall-stargate-drone-evacuation-2026-11-07",
+   "firstSeen": "2026-11-07T16:55:01+08:00"
+  },
+  {
+   "id": "daeceecf77",
+   "title": "solo-to-team-skills：一个人统筹 AI 团队的开源技能包",
+   "summary": "今日新建的 GitHub 仓库冲上新星榜：强调派活、核证证据、步骤说清楚与案例复用，面向「人主导、多 Agent 协作」的工作流。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://github.com/dabingfy-dot/solo-to-team-skills"
+   ],
+   "topic": "solo-to-team-skills-github-2026-11-07",
+   "firstSeen": "2026-11-07T16:55:01+08:00"
+  },
+  {
+   "id": "c5c9c5a010",
+   "title": "SultanC：阿拉伯语优先的系统级编程语言，可自托管",
+   "summary": "登上 HN：带英文表层语法、所有权安全与模式匹配，原生 ARM64/x86-64，支持 LLVM 交叉编译与 WebAssembly，可在浏览器试用。",
+   "links": [
+    "https://github.com/sultan-language/sultanc",
+    "https://news.ycombinator.com/item?id=50402428"
+   ],
+   "topic": "sultanc-arabic-systems-language-2026-11-07",
+   "firstSeen": "2026-11-07T16:55:01+08:00"
   }
  ],
- "lastChecked": "2026-11-07T16:45:52+08:00"
+ "lastChecked": "2026-11-07T16:55:01+08:00"
 }
