@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T21:28:54+08:00",
+ "lastUpdated": "2026-11-07T21:44:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42083,7 +42083,72 @@
    ],
    "topic": "gputaskman-hanselman-vram-llm-2026-11-07",
    "firstSeen": "2026-11-07T21:28:54+08:00"
+  },
+  {
+   "id": "3f0630a4e3",
+   "title": "VibeShields：给 AI 拼装上线的应用做「门外检查」",
+   "summary": "面向 Lovable / Bolt / Cursor / v0 等 vibe coding 产物：验证域名归属后，只读扫描开放的 Supabase/Firebase 表与前端泄露密钥，并用白话说明问题并生成可粘回构建器的修复提示；支持每次部署复检与「Checked by」徽章。踩中 AI 建站安全空白，适合 Idea Lab 安全/合规类产品方向。",
+   "links": [
+    "https://vibeshields.com/",
+    "https://news.ycombinator.com/item?id=50404363"
+   ],
+   "topic": "vibeshields-ai-app-security-scan-2026-11-07",
+   "firstSeen": "2026-11-07T21:44:45+08:00"
+  },
+  {
+   "id": "73df73a8d3",
+   "title": "Logo Deal：一句话生成可编辑 SVG 商标，而不是只能下 PNG",
+   "summary": "描述品牌后输出真正矢量 SVG，可改颜色/字标/布局再导出；访客可免费试一次，付费计划约 $15/月起并含商用授权。补上多数 AI logo 工具「不可编辑」的短板，适合对照 Idea Lab 设计工具与数字商品方向。",
+   "links": [
+    "https://logo.deal/",
+    "https://news.ycombinator.com/item?id=50404321"
+   ],
+   "topic": "logo-deal-editable-svg-ai-logos-2026-11-07",
+   "firstSeen": "2026-11-07T21:44:45+08:00"
+  },
+  {
+   "id": "fa920df73f",
+   "title": "Notch Revenue：把 Stripe 今日/本月收入嵌进 Mac 刘海",
+   "summary": "Apple Silicon + macOS 14 原生应用，只读 Stripe 密钥存 Keychain、数据不过服务器；多账户汇总、约两小时同步，有新付款时刘海撒彩带。一次性 $19.99 无订阅，踩中独立开发者「少开一个后台」痛点。",
+   "links": [
+    "https://notchrevenue.com/?lang=en",
+    "https://news.ycombinator.com/item?id=50404183"
+   ],
+   "topic": "notch-revenue-stripe-mac-notch-2026-11-07",
+   "firstSeen": "2026-11-07T21:44:45+08:00"
+  },
+  {
+   "id": "971334dcf2",
+   "title": "Greg Isenberg：营销人正在取代「顶级工程师」成为早期创业刚需",
+   "summary": "观点称 AI 把产品构建成本压低后，瓶颈变成获客与注意力；内容营销与分发能力变成新护城河。对 Idea Lab 的 GTM、增长与分发脚本方向直接相关。",
+   "links": [
+    "https://www.gregisenberg.com/blog/marketers-new-engineers"
+   ],
+   "topic": "greg-isenberg-marketers-new-engineers-2026-11-07",
+   "firstSeen": "2026-11-07T21:44:45+08:00"
+  },
+  {
+   "id": "f758b085b2",
+   "title": "AI 抬高了设计下限：「还过得去」不再是卖点",
+   "summary": "X 热议称 AI 工具把设计与开发的地板抬高，像样的界面变成默认预期；Figma 等也强调人类品味与判断仍是差异化。和 Agent Skills / Impeccable 设计技能包同一条叙事线，适合资源站与 UI Hub 内容选题。",
+   "links": [
+    "https://x.com/i/trending/2119059375843164266",
+    "https://www.figma.com/blog/in-conversation-dylan-field-and-david-friedberg/"
+   ],
+   "topic": "ai-raises-design-baseline-kowalski-2026-11-07",
+   "firstSeen": "2026-11-07T21:44:45+08:00"
+  },
+  {
+   "id": "9c04ba884f",
+   "title": "用闲置小主机替换 GitHub Actions：家里桌面当定时构建机",
+   "summary": "作者把每日站点重建从排队漫长的免费 Actions 迁到 Proxmox + Docker + Crontab-UI 的家用小主机，自己控时区与密钥，推回 GitHub Pages。对 OPC/独立站「省 CI 账单、躲公共队列」有参考价值。",
+   "links": [
+    "https://asbedb.dev/musings/tiny-homelab-git-runner",
+    "https://news.ycombinator.com/item?id=50404413"
+   ],
+   "topic": "tiny-homelab-replace-github-actions-2026-11-07",
+   "firstSeen": "2026-11-07T21:44:45+08:00"
   }
  ],
- "lastChecked": "2026-11-07T21:28:54+08:00"
+ "lastChecked": "2026-11-07T21:44:45+08:00"
 }
