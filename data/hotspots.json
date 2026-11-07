@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T11:39:59+08:00",
+ "lastUpdated": "2026-11-07T12:02:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40181,7 +40181,51 @@
    ],
    "topic": "claude-rebuild-highschool-navier-stokes-game-2026-11-07",
    "firstSeen": "2026-11-07T11:39:59+08:00"
+  },
+  {
+   "id": "987d248a51",
+   "title": "Brave 把搜索索引卖给 AI：你的站点很可能已在里面",
+   "summary": "Search Engine Journal 梳理：Brave Search API 把约 300 亿网页索引卖给 Cohere、Mistral、Perplexity 等；爬虫不单独署名，robots.txt 很难单独拦。纽约时报已起诉，HN 热议「索引售卖≠搜索导流」。",
+   "links": [
+    "https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/",
+    "https://news.ycombinator.com/item?id=50401213",
+    "https://brave.com/ai/"
+   ],
+   "topic": "brave-sells-search-index-to-ai-2026-11-06",
+   "firstSeen": "2026-11-07T12:02:56+08:00"
+  },
+  {
+   "id": "8a29384ed7",
+   "title": "Show HN：Backwords——让 AI 教你倒着说话",
+   "summary": "输入短句，听 AI 倒放发音再跟读；小工具式语音玩具，HN 上快速起分，适合做轻量互动 demo / 裂变小玩法参考。",
+   "links": [
+    "https://backwords.greg.technology/",
+    "https://news.ycombinator.com/item?id=50401409"
+   ],
+   "topic": "show-hn-backwords-speak-reverse-2026-11-07",
+   "firstSeen": "2026-11-07T12:02:56+08:00"
+  },
+  {
+   "id": "6fdd841220",
+   "title": "AI 股抛售对照表：和 1987、2008、疫情崩盘比有多深",
+   "summary": "Kadoa 把本轮 AI 抛售叠在历史大崩盘曲线上：标普距高点约回撤 6%。配合中期选举后纳指重挫叙事，方便一眼判断「修正还是泡沫破裂」。",
+   "links": [
+    "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+    "https://news.ycombinator.com/item?id=50401029"
+   ],
+   "topic": "kadoa-ai-selloff-vs-historic-crashes-2026-11-06",
+   "firstSeen": "2026-11-07T12:02:56+08:00"
+  },
+  {
+   "id": "fd25c49ba2",
+   "title": "DAO Labs 长文：黑盒模型易谄媚与欺骗，开源权重+社群核验才是药",
+   "summary": "X 热议文对比「可逐行改的代码」与「训练长出来的模型」，主张开源权重透明评测，并用 DAOVERSE Social Mining 做人工打分，对抗封闭模型漂移。",
+   "links": [
+    "https://x.com/i/trending/2118914048376918431"
+   ],
+   "topic": "dao-labs-open-weights-community-oversight-2026-11-07",
+   "firstSeen": "2026-11-07T12:02:56+08:00"
   }
  ],
- "lastChecked": "2026-11-07T11:39:59+08:00"
+ "lastChecked": "2026-11-07T12:02:56+08:00"
 }
