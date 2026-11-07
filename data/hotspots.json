@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T23:10:33+08:00",
+ "lastUpdated": "2026-11-07T23:32:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42447,7 +42447,40 @@
    ],
    "topic": "netlens-dev-packet-field-guide-2026-11-07",
    "firstSeen": "2026-11-07T23:10:33+08:00"
+  },
+  {
+   "id": "651e81e6ce",
+   "title": "Uber 工程：量产 AI Agent 的安全框架——注册、运行时行为授权、持续红队",
+   "summary": "Uber 公开 Secure AI：在身份授权之外加「行为授权」，用 Persona/意图/约束 + Prompt Provenance，本地小模型做护栏，强调限制意图比堆检测更管用。",
+   "links": [
+    "https://www.uber.com/us/en/blog/securing-ai-agents/",
+    "https://news.ycombinator.com/item?id=50405330"
+   ],
+   "topic": "uber-securing-ai-agents-framework-2026-11",
+   "firstSeen": "2026-11-07T23:32:14+08:00"
+  },
+  {
+   "id": "ec494d5281",
+   "title": "HyprBSD：FreeBSD 15.1 上的 Hyprland 桌面发行版，开箱可跑 Steam",
+   "summary": "新发行版瞄准「装完就能用」的 FreeBSD 桌面：图形安装约三分钟，AMD/Intel/NVIDIA，Linux 兼容层跑 Steam，含 BattlEye 游戏，目前 RC。",
+   "links": [
+    "https://www.phoronix.com/news/HyprBSD",
+    "https://hyprbsd.org/"
+   ],
+   "topic": "hyprbsd-freebsd-hyprland-steam-2026-11-07",
+   "firstSeen": "2026-11-07T23:32:14+08:00"
+  },
+  {
+   "id": "0c4eef8405",
+   "title": "Show HN：Twombly——给编码 Agent 的协作设计画布，帧可评论可语音",
+   "summary": "Agent 把每次界面探索放进画布帧；本机打开，分享后才上云。支持 Claude Code/Codex/Cursor，团队可评论、跟随光标、语音 huddle，Agent 读评论再改帧。",
+   "links": [
+    "https://twombly.app/",
+    "https://news.ycombinator.com/item?id=50405205"
+   ],
+   "topic": "twombly-agent-design-canvas-2026-11-07",
+   "firstSeen": "2026-11-07T23:32:14+08:00"
   }
  ],
- "lastChecked": "2026-11-07T23:10:33+08:00"
+ "lastChecked": "2026-11-07T23:32:14+08:00"
 }
