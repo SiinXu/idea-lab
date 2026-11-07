@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T15:01:51+08:00",
+ "lastUpdated": "2026-11-07T15:15:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40918,7 +40918,38 @@
    ],
    "topic": "obelisk-app-store-ai-mention-9-8-2026-11-06",
    "firstSeen": "2026-11-07T15:01:51+08:00"
+  },
+  {
+   "id": "b7537dd35f",
+   "title": "GitClear：AI 写码时代可维护性滑坡——重复代码 +81%、重构 -70%",
+   "summary": "分析 6.23 亿次代码变更：块级重复升至每百万行 73（较 2023 +81%），移动重构从 2022 的 21% 跌到 2026 YTD 的 3.8%；复制粘贴抬头、遗留维护 -74%。吞吐在涨，长期债也在堆。",
+   "links": [
+    "https://www.gitclear.com/the_ai_code_quality_maintainability_gap",
+    "https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era"
+   ],
+   "topic": "gitclear-ai-maintainability-gap-2026",
+   "firstSeen": "2026-11-07T15:15:30+08:00"
+  },
+  {
+   "id": "f923f75927",
+   "title": "各行各业追问 Grok：AI 多久取代我的工作？",
+   "summary": "律师、工程师、会计到电工都在问时间表；Grok 答称初级法务研究三五年内多半被吃掉，持证律师全面替代要到 2030 年代初。2026 法律行业 AI 采用率已约 79%，焦虑与「增长仍靠人」并存。",
+   "links": [
+    "https://x.com/i/trending/2118919477169414537"
+   ],
+   "topic": "grok-when-will-ai-replace-jobs-2026-11-07",
+   "firstSeen": "2026-11-07T15:15:30+08:00"
+  },
+  {
+   "id": "8e3445655e",
+   "title": "路透：AI 股抛售后，Anthropic IPO 时点也遭投资人质疑",
+   "summary": "原计划约 11/9 当周路演、冲 11 月上市；卖盘后有人把 1.5 万亿估值当作上限，还想先看 10 月营收。若 AI 资产继续承压，不排除推迟到市场更稳再发。",
+   "links": [
+    "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/06/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-reuters-exclusive/"
+   ],
+   "topic": "anthropic-ipo-timing-ai-backlash-reuters-2026-11-06",
+   "firstSeen": "2026-11-07T15:15:30+08:00"
   }
  ],
- "lastChecked": "2026-11-07T15:01:51+08:00"
+ "lastChecked": "2026-11-07T15:15:30+08:00"
 }
