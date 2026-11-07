@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T01:43:08+08:00",
+ "lastUpdated": "2026-11-08T02:03:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42926,7 +42926,99 @@
    ],
    "topic": "sodium-ion-cost-parity-lfp-pv-magazine-2026-11",
    "firstSeen": "2026-11-08T01:43:08+08:00"
+  },
+  {
+   "id": "27a41580f5",
+   "title": "工信部征求意见：境内出厂机器人拟「一机一码」终身标识码",
+   "summary": "工信部装备工业一司就《机器人产品标识码管理暂行办法》征求意见（至 12 月 5 日），覆盖工业/服务/特种整机，出厂前赋码、20 个工作日内备案；人形试点已赋码约 2.8 万台，此次扩至全品类。",
+   "links": [
+    "https://www.miit.gov.cn/gzcy/yjzj/art/2026/art_ef16149bd27e4d7f95e5537e7dc68fdc.html",
+    "https://asia-tech-news.ghost.io/china-drafts-lifetime-id-codes-for-every-robot-it-makes-not-just-humanoids/",
+    "https://news.ycombinator.com/item?id=50406482",
+    "https://www.ithome.com/1/023/625.htm"
+   ],
+   "topic": "miit-robot-product-id-code-draft-2026-11",
+   "firstSeen": "2026-11-08T02:03:45+08:00"
+  },
+  {
+   "id": "cb0eb50e2c",
+   "title": "ESP32-S31 能跑 Linux：官方 BSP + 社区移植再登 HN",
+   "summary": "S31 带 Sv32 MMU 与 M/S/U 特权级，Espressif 提供 Buildroot/U-Boot 开发预览 BSP；社区有 Linux 6.18/更新内核移植，千兆以太网与 USB Host 让它更接近迷你 SBC，但仍受 PSRAM 容量限制。",
+   "links": [
+    "https://www.i-programmer.info/news/91-hardware/19197-the-esp32-s31-runs-linux.html",
+    "https://news.ycombinator.com/item?id=50406425",
+    "https://github.com/espressif/esp-linux-bsp",
+    "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/"
+   ],
+   "topic": "esp32-s31-runs-linux-hn-2026-11-07",
+   "firstSeen": "2026-11-08T02:03:45+08:00"
+  },
+  {
+   "id": "3475bd1a6d",
+   "title": "Show HN：Jacq——把模型与 kernel 描述编译成 CUDA 的 DSL",
+   "summary": "Impossible Computing 开源 Jacq：用领域特定语言描述模型与 kernel，再编译到 CUDA，面向高性能算子原型，刚上 HN 最新榜。",
+   "links": [
+    "https://github.com/ImpossibleComputing/jacq",
+    "https://news.ycombinator.com/item?id=50406532"
+   ],
+   "topic": "jacq-cuda-dsl-show-hn-2026-11-07",
+   "firstSeen": "2026-11-08T02:03:45+08:00"
+  },
+  {
+   "id": "b40120f5d6",
+   "title": "Show HN：Digdeep.fyi——DNSSEC / 邮件 / HTTP 的一站式 DNS 调试",
+   "summary": "新上线的 DNS 调试站，把 DNSSEC、邮件相关记录和 HTTP 解析排查收进同一工具，适合排 MX/SPF/DKIM 与证书链路问题。",
+   "links": [
+    "https://digdeep.fyi/",
+    "https://news.ycombinator.com/item?id=50406439"
+   ],
+   "topic": "digdeep-fyi-dns-debug-show-hn-2026-11-07",
+   "firstSeen": "2026-11-08T02:03:45+08:00"
+  },
+  {
+   "id": "7caccc69d2",
+   "title": "该全面拥抱 AVIF 了吗？",
+   "summary": "作者从体积、兼容性与编码成本重新梳理 AVIF，论证在主流浏览器已支持的情况下，是否还该默认 WebP/JPEG，而不是继续观望。",
+   "links": [
+    "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
+    "https://news.ycombinator.com/item?id=50406348"
+   ],
+   "topic": "avif-everywhere-michaelponders-2026-11-07",
+   "firstSeen": "2026-11-08T02:03:45+08:00"
+  },
+  {
+   "id": "24dd406eb9",
+   "title": "ZeBridge：设备端 Postgres 副本，靠 NATS 同步",
+   "summary": "在终端/边缘设备跑 PostgreSQL 副本，通过 NATS 与中心库同步，适合离线优先或弱网场景的本地查询，近期再登 HN。",
+   "links": [
+    "https://github.com/ndrean/ZeBridge",
+    "https://news.ycombinator.com/item?id=50354763"
+   ],
+   "topic": "zebridge-postgres-nats-replicas-2026-11",
+   "firstSeen": "2026-11-08T02:03:45+08:00"
+  },
+  {
+   "id": "b4e3b37991",
+   "title": "普通软件开发者的 AI 工具箱（2026）",
+   "summary": "Fredrik Meyer 分享日常真实在用的 AI 编码与写作工具组合，偏务实而非榜单，适合对照自己的工作流做加减。",
+   "links": [
+    "https://fredrikmeyer.net/2026/11/07/how-i-use-ai-2026.html",
+    "https://news.ycombinator.com/item?id=50406494"
+   ],
+   "topic": "fredrik-meyer-ai-tools-2026-11-07",
+   "firstSeen": "2026-11-08T02:03:45+08:00"
+  },
+  {
+   "id": "fc86d56720",
+   "title": "Show HN：Straitjacket——给 Agent 编码加厚护栏的 TypeScript 模板",
+   "summary": "高度约定的 TypeScript 起步模板，内置多层 guardrail，目标是降低 vibe coding / agent 乱改仓库的风险，刚上 HN。",
+   "links": [
+    "https://github.com/balajeerc/Straitjacket",
+    "https://news.ycombinator.com/item?id=50406402"
+   ],
+   "topic": "straitjacket-agent-ts-template-show-hn-2026-11-07",
+   "firstSeen": "2026-11-08T02:03:45+08:00"
   }
  ],
- "lastChecked": "2026-11-08T01:43:08+08:00"
+ "lastChecked": "2026-11-08T02:03:45+08:00"
 }
