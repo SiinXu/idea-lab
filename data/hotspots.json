@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T02:03:45+08:00",
+ "lastUpdated": "2026-11-08T02:10:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43018,7 +43018,43 @@
    ],
    "topic": "straitjacket-agent-ts-template-show-hn-2026-11-07",
    "firstSeen": "2026-11-08T02:03:45+08:00"
+  },
+  {
+   "id": "a83c33866c",
+   "title": "生命能「干等」多久？微生物休眠与地外污染风险",
+   "summary": "Maciej Cegłowski 梳理太空探测里的关键问题：微生物在紫外线、陨石与盐晶里能活多久，决定火星污染风险与岩石生源说是否站得住；HN 近两小时冲到四十多分。",
+   "links": [
+    "https://mceglowski.substack.com/p/how-long-can-life-wait",
+    "https://news.ycombinator.com/item?id=50405789"
+   ],
+   "topic": "ceglowski-how-long-can-life-wait-2026-11-07",
+   "firstSeen": "2026-11-08T02:10:57+08:00"
+  },
+  {
+   "id": "ce50c30622",
+   "title": "苏姿丰：AMD「数据中心优先」，消费级显卡别指望便宜",
+   "summary": "苏姿丰对 Yahoo Finance 称 AMD 是 data center first，数据中心业务 Q3→Q4 料环比增约 50%、2027 年目标翻倍以上；PCMag 据此指出游戏卡库存与溢价难缓解。",
+   "links": [
+    "https://finance.yahoo.com/video/amd-is-a-data-center-first-company-says-ceo-lisa-su-132618996.html",
+    "https://www.pcmag.com/news/good-luck-getting-a-cheap-gpu-amd-is-a-data-center-first-company-ceo-says",
+    "https://www.theverge.com/ai-artificial-intelligence/1028538/we-are-a-data-center-first-company-amd-ceo-lisa-su-says",
+    "https://news.ycombinator.com/item?id=50406064"
+   ],
+   "topic": "amd-lisa-su-data-center-first-gpu-2026-11",
+   "firstSeen": "2026-11-08T02:10:57+08:00"
+  },
+  {
+   "id": "f777d8aa2b",
+   "title": "币安 CFO Kaiser Ng 离职：63 亿美元盗案后换 Justin Yek",
+   "summary": "币安称 Ng 任职逾五年后「追求新事业」，过渡已做约半年，继任者为 Justin Yek；宣布时点紧接史上最大加密盗案，公司强调自担损失不转嫁用户。",
+   "links": [
+    "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+    "https://www.channelnewsasia.com/business/binance-cfo-kaiser-ng-steps-down-justin-yek-named-new-finance-chief-6533351",
+    "https://www.techmeme.com/261107/p13#a261107p13"
+   ],
+   "topic": "binance-cfo-kaiser-ng-exits-justin-yek-2026-11-07",
+   "firstSeen": "2026-11-08T02:10:57+08:00"
   }
  ],
- "lastChecked": "2026-11-08T02:03:45+08:00"
+ "lastChecked": "2026-11-08T02:10:57+08:00"
 }
