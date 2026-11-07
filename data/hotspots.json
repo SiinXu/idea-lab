@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T08:27:36+08:00",
+ "lastUpdated": "2026-11-07T08:39:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -39603,7 +39603,57 @@
    ],
    "topic": "norvig-chomsky-two-cultures-hn-2026-11-06",
    "firstSeen": "2026-11-07T08:27:36+08:00"
+  },
+  {
+   "id": "cc2c34e985",
+   "title": "Skymizer × 神基：SC26 单台风冷服务器跑 Kimi K3 2.8T",
+   "summary": "Skymizer 与 MiTAC 宣布将在 SC26 展示：用单台风冷服务器跑 2.8 万亿参数的 Kimi K3，主打 LPU/软硬协同的本地大模型推理，而不是堆机架。",
+   "links": [
+    "https://skymizer.ai/announcements/sc26-mitac-kimi-k3/"
+   ],
+   "topic": "skymizer-mitac-kimi-k3-sc26-2026-11",
+   "firstSeen": "2026-11-07T08:39:44+08:00"
+  },
+  {
+   "id": "cbd5d4bf07",
+   "title": "Boundary：教 Agent 写出可维护代码，而不只是能跑",
+   "summary": "Boundary 发文讨论如何让编码 Agent 写出可维护代码：约束结构、可测接口和评审回路，而不只追求一次生成能跑通。",
+   "links": [
+    "https://boundaryml.com/blog/teaching-agents-to-write-maintainable-code"
+   ],
+   "topic": "boundary-agents-maintainable-code-2026-11-06",
+   "firstSeen": "2026-11-07T08:39:44+08:00"
+  },
+  {
+   "id": "463c88f4ee",
+   "title": "Show HN：Goethe——三步在自有基建上高速托管模型",
+   "summary": "meshapplied/Goethe 自称「自托管 AI 基础设施」，强调三步就能在自己的机器上快速 serve 模型；Show HN 刚上新，适合关注本地/私有部署的人。",
+   "links": [
+    "https://github.com/meshapplied/Goethe"
+   ],
+   "topic": "goethe-self-hosted-ai-infra-hn-2026-11-06",
+   "firstSeen": "2026-11-07T08:39:44+08:00"
+  },
+  {
+   "id": "146c08cca6",
+   "title": "一天做出完整浏览器游戏：AI 堆栈加速也引来「没深度」批评",
+   "summary": "开发者晒出用 Opus、Flux、Three.js 等在 24 小时内做出完整浏览器游戏的流程；有人因此辞职做 AAA 向科幻射击，也有人吐槽贴图卡死、缺真正打磨。",
+   "links": [
+    "https://x.com/i/trending/2118611293850755377"
+   ],
+   "topic": "ai-24h-browser-games-debate-2026-11-06",
+   "firstSeen": "2026-11-07T08:39:44+08:00"
+  },
+  {
+   "id": "f2e610e209",
+   "title": "AST SpaceMobile 联手 Firefly 做 Blacklift：自研可复用火箭运蓝鸟星座",
+   "summary": "AST 与 Firefly 签下超 13 亿美元合作，自研约 20 吨级可复用 Blacklift，计划一次运最多 5 颗大型 BlueBird；目标约 2028 年底，同时 2027–28 仍会用第三方发射。",
+   "links": [
+    "https://x.com/i/trending/2118686644395966505"
+   ],
+   "topic": "ast-spacemobile-blacklift-firefly-2026-11-06",
+   "firstSeen": "2026-11-07T08:39:44+08:00"
   }
  ],
- "lastChecked": "2026-11-07T08:27:36+08:00"
+ "lastChecked": "2026-11-07T08:39:44+08:00"
 }
