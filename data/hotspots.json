@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T00:59:13+08:00",
+ "lastUpdated": "2026-11-08T01:16:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42805,7 +42805,50 @@
    ],
    "topic": "giga-fable-one-weight-matrix-0.8b-2026-11",
    "firstSeen": "2026-11-08T00:59:13+08:00"
+  },
+  {
+   "id": "205f4e514c",
+   "title": "Borland Turbo Pascal 7：他们再也做不出那样的东西了",
+   "summary": "Kevin Boone 回顾 TP7：内存里编译、无集成调试与 OWL，曾让 Windows 开发门槛骤降；认为若当年有「Turbo Pascal for Linux」，桌面或是另一番格局。现已冲上 HN 前列。",
+   "links": [
+    "https://kevinboone.me/tpwin.html",
+    "https://news.ycombinator.com/item?id=50405678"
+   ],
+   "topic": "borland-turbo-pascal-7-kevin-boone-2026-11-07",
+   "firstSeen": "2026-11-08T01:16:26+08:00"
+  },
+  {
+   "id": "1809d968f1",
+   "title": "8 美元 Linux 电脑（2022）再登 HN 热榜",
+   "summary": "旧文回潮：用极低成本零件搭一台可开机的 Linux 小机器；今日重回 HN 首页前列，唤起对「能动手的最低可行电脑」讨论。",
+   "links": [
+    "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+    "https://news.ycombinator.com/item?id=50404599"
+   ],
+   "topic": "8-dollar-linux-computer-2022-hn-revival-2026-11-07",
+   "firstSeen": "2026-11-08T01:16:26+08:00"
+  },
+  {
+   "id": "80d059b318",
+   "title": "Datastar：不绑框架的「超媒体」前端，用 SSE 推补丁",
+   "summary": "相对 HTMX/Alpine，Datastar 强调状态留在后端，经 SSE 推 HTML/信号补丁；多语言 SDK，Instabooks 等案例展示整页重渲也能很快。",
+   "links": [
+    "https://noteflakes.com/articles/2026-11-04-datastar",
+    "https://data-star.dev/"
+   ],
+   "topic": "datastar-hypermedia-sse-noteflakes-2026-11",
+   "firstSeen": "2026-11-08T01:16:26+08:00"
+  },
+  {
+   "id": "63d98bf908",
+   "title": "Ask HN：你是怎么让亲友改用自家 XMPP/Matrix 的？",
+   "summary": "作者吐槽自托管客户端 UX 远不如短信/WhatsApp，问成功「搞定家人」的人怎么推销；讨论集中在跨平台一致体验与群聊体验缺口。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50405250"
+   ],
+   "topic": "ask-hn-family-xmpp-matrix-2026-11-07",
+   "firstSeen": "2026-11-08T01:16:26+08:00"
   }
  ],
- "lastChecked": "2026-11-08T00:59:13+08:00"
+ "lastChecked": "2026-11-08T01:16:26+08:00"
 }
