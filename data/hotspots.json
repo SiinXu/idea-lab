@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T14:18:40+08:00",
+ "lastUpdated": "2026-11-07T14:26:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40761,7 +40761,63 @@
    ],
    "topic": "emacs-speed-of-thought-editing-2026-11-07",
    "firstSeen": "2026-11-07T14:18:40+08:00"
+  },
+  {
+   "id": "70b34fe83e",
+   "title": "加州 Prop.40「亿万富翁税」未过：硅谷豪掷反击奏效",
+   "summary": "LA Times / DDHQ：一次性对加州亿万富翁征 5% 资产税的 Prop.40 约 54% 对 46% 落败；Newsom、教师工会与科技富豪联盟反对，四位最富加州人（布林、黄仁勋、佩奇、扎克伯格）本将承担约四成税额。和中期选举后 AI 监管、数据中心压力同向。",
+   "links": [
+    "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
+    "https://news.ycombinator.com/item?id=50401798"
+   ],
+   "topic": "ca-prop40-billionaire-tax-rejected-2026-11-07",
+   "firstSeen": "2026-11-07T14:26:05+08:00"
+  },
+  {
+   "id": "4c08c66451",
+   "title": "古 DNA 证实：哥特人起源神话「从斯堪的纳维亚南下」大体属实",
+   "summary": "Science 综述多篇 Nature/Cell/Genome Biology：波兰等地墓葬显示接近完全的人群更替，基因与哥特式器物同步南迁；颠覆「只是精英文化扩散」的主流史学，HN 短时冲上前列。",
+   "links": [
+    "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+    "https://news.ycombinator.com/item?id=50401740"
+   ],
+   "topic": "goths-scandinavia-ancient-dna-science-2026-11-07",
+   "firstSeen": "2026-11-07T14:26:05+08:00"
+  },
+  {
+   "id": "06d2962b40",
+   "title": "Qoder 上线匿名模型 Qoduck：个人账号每日限免额度",
+   "summary": "11 月 7 日起 Qoder CN / 国际版个人用户每日固定次数免费调用隐身模型 Qoduck，额度内 0.0× 不计 Credits（含极高思考）；用尽后仍可按 0.5× 付费。IDE / JetBrains / CLI 暂不支持，企业套餐不可用。",
+   "links": [
+    "https://docs.qoder.cn/events/qoduck-free",
+    "https://docs.qoder.com/zh/events/qoduck-free"
+   ],
+   "topic": "qoder-qoduck-daily-free-2026-11-07",
+   "firstSeen": "2026-11-07T14:26:05+08:00"
+  },
+  {
+   "id": "03bdbe4948",
+   "title": "字节 TRAE 账号 11 月 18 日起并入豆包飞书体系",
+   "summary": "官方通知：CN 版个人账号自动升级为豆包飞书账号，代码/项目/会员权益保留，并可打通豆包、飞书等；企业客户不受影响。国内 AI IDE 身份体系再收紧到字节统一账号。",
+   "links": [
+    "https://docs.trae.cn/ide_important-notice-for-trae-account-upgrade-and-integration",
+    "https://www.ithome.com/1/023/552.htm"
+   ],
+   "topic": "trae-doubao-feishu-account-merge-2026-11-18",
+   "firstSeen": "2026-11-07T14:26:05+08:00"
+  },
+  {
+   "id": "a76d733197",
+   "title": "MIT VISTA：给视觉 Agent 做「图像版上下文工程」",
+   "summary": "把交互环境每一帧无损外存，Agent 可回看、放大像素并检索动作史；配 Claude Opus 5.0 在 ARC-AGI-3 上达 100 RHAE（比首次人类玩家更省步）。开源 harness，对游戏/机器人视觉 Agent 有直接参考。",
+   "links": [
+    "https://vista-research.github.io/",
+    "https://arxiv.org/abs/2610.02200",
+    "https://github.com/joshhhhhan/VISTA"
+   ],
+   "topic": "mit-vista-visual-agent-harness-2026-11",
+   "firstSeen": "2026-11-07T14:26:05+08:00"
   }
  ],
- "lastChecked": "2026-11-07T14:18:40+08:00"
+ "lastChecked": "2026-11-07T14:26:05+08:00"
 }
