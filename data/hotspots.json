@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T14:43:22+08:00",
+ "lastUpdated": "2026-11-07T15:01:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40868,7 +40868,57 @@
    ],
    "topic": "hf-solaiman-open-source-ai-costs-2026-11",
    "firstSeen": "2026-11-07T14:43:22+08:00"
+  },
+  {
+   "id": "94181c05be",
+   "title": "创作者用 Claude Code 搭「AI 视频剪辑工作室」",
+   "summary": "用 Whisper 转写、HyperFrames 做动效，把参考片喂给 Claude Code 练成可复用剪辑技能；搭配 T3 Code 可在手机遥控家里的 Mac Mini/VPS 渲染，适合差旅边控边出片。",
+   "links": [
+    "https://x.com/i/trending/2118954262407647601"
+   ],
+   "topic": "claude-code-ai-video-editing-studio-2026-11-07",
+   "firstSeen": "2026-11-07T15:01:51+08:00"
+  },
+  {
+   "id": "8e1d72574a",
+   "title": "OpenAI 与 Anthropic 互掐「下一款旗舰」发布时间",
+   "summary": "两边都推迟 GPT-6.2 Astra / 下一代 Claude 旗舰节奏，社区称作「谁先发谁吃亏」的鸡飞博弈；安全与科学侧更新照发，能力跃迁却集体静音。",
+   "links": [
+    "https://x.com/i/trending/2118880983525057013"
+   ],
+   "topic": "openai-anthropic-flagship-delay-standoff-2026-11-07",
+   "firstSeen": "2026-11-07T15:01:51+08:00"
+  },
+  {
+   "id": "e8e4330e50",
+   "title": "Fluxcut：改一处产品演示视频，不必整片重渲",
+   "summary": "针对 AI 视频「改一句全片重生成」的痛点，把脚本、时间线、画面、配音、BGM 拆成可单独重做的组件；可挂 Claude Code 插件先出初稿再局部改。",
+   "links": [
+    "https://fluxcut.substack.com/p/why-do-we-build-fluxcut"
+   ],
+   "topic": "fluxcut-partial-rerender-product-demo-2026-11-07",
+   "firstSeen": "2026-11-07T15:01:51+08:00"
+  },
+  {
+   "id": "9200cbe444",
+   "title": "传闻：苹果明年或拿掉 iPhone 操作按钮 Action Button",
+   "summary": "MacRumors 援引供应链消息称下一代 iPhone 可能取消侧边 Action Button；目前仍是传闻，但已上 HN 引发讨论。",
+   "links": [
+    "https://www.macrumors.com/2026/11/06/apple-rumored-to-drop-the-action-button/"
+   ],
+   "topic": "apple-iphone-drop-action-button-rumor-2026-11-07",
+   "firstSeen": "2026-11-07T15:01:51+08:00"
+  },
+  {
+   "id": "46439f23c8",
+   "title": "App Store 普查：榜单应用 9.8% 文案提到 AI",
+   "summary": "Obelisk 统计 17.8 万款上榜应用，9.8% 在名称/简介写 AI；设计类高达 43%。带内购/订阅的提到 AI 概率约是纯免费的三倍，评分几乎无差。",
+   "links": [
+    "https://theterminal.space/software/obelisk-app-store-census-ai-9-8-percent-stale-20-percent"
+   ],
+   "topic": "obelisk-app-store-ai-mention-9-8-2026-11-06",
+   "firstSeen": "2026-11-07T15:01:51+08:00"
   }
  ],
- "lastChecked": "2026-11-07T14:43:22+08:00"
+ "lastChecked": "2026-11-07T15:01:51+08:00"
 }
