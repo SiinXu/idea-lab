@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T08:59:00+08:00",
+ "lastUpdated": "2026-11-07T09:13:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -39664,7 +39664,40 @@
    ],
    "topic": "colossal-kehler-trade-secrets-suit-2026-11-06",
    "firstSeen": "2026-11-07T08:59:00+08:00"
+  },
+  {
+   "id": "fb893d2adf",
+   "title": "PSI：未公开 Anthropic 模型助证 Aaronson–Ambainis 猜想",
+   "summary": "物理实验室 PSI 用内部研究系统（含未公开 Anthropic 模型）在约三天内证出 2008 年开放的 Aaronson–Ambainis 猜想，Lean 机检通过；结论是量子对随机输入至多多项式加速，指数级优势仍需稀有结构。斯坦福相关研究者称其为「巨大结果」。",
+   "links": [
+    "https://psi.inc/research/aaronson-ambainis/",
+    "https://www.businessinsider.com/anthropic-quantum-computing-breakthrough-aaronson-ambainis-math-physics-psi-2026-11",
+    "https://x.com/i/trending/2118729991345123597",
+    "https://news.ycombinator.com/item?id=50393770"
+   ],
+   "topic": "psi-aaronson-ambainis-proof-2026-11-06",
+   "firstSeen": "2026-11-07T09:13:10+08:00"
+  },
+  {
+   "id": "a31577b593",
+   "title": "投行吐槽：AI 没裁员，却把工作量推得更高",
+   "summary": "投行从业者反馈 Claude 等工具接管了改 Logo、更联系人等琐事，但分析师要跟更多交易、写更细报告；讨论引用 Jevons 悖论——效率上升反而放大需求，技能被「商品化」后能做的人变多、卷的人也更多。",
+   "links": [
+    "https://x.com/i/trending/2118872040262250502"
+   ],
+   "topic": "ai-banking-jevons-workload-2026-11-07",
+   "firstSeen": "2026-11-07T09:13:10+08:00"
+  },
+  {
+   "id": "48f6ed5b47",
+   "title": "Google 清空 Antigravity / Argon 配额：周末放开搭应用",
+   "summary": "DeepMind 的 Varun Mohan 宣布重置 Gemini 与 Argon 配额，方便大家周末在 Antigravity 上用自然语言让 Agent 规划、写代码、测试并部署；配套 Googlebook 安卓笔记本也成了现场炫技道具。",
+   "links": [
+    "https://x.com/i/trending/2118872036252479981"
+   ],
+   "topic": "google-antigravity-quota-reset-weekend-2026-11-07",
+   "firstSeen": "2026-11-07T09:13:10+08:00"
   }
  ],
- "lastChecked": "2026-11-07T08:59:00+08:00"
+ "lastChecked": "2026-11-07T09:13:10+08:00"
 }
