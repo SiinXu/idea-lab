@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T19:44:04+08:00",
+ "lastUpdated": "2026-11-07T20:02:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41762,7 +41762,40 @@
    ],
    "topic": "offstage-cloud-ephemeral-macos-agent-sandbox-2026-11-07",
    "firstSeen": "2026-11-07T19:44:04+08:00"
+  },
+  {
+   "id": "85ef074843",
+   "title": "工信部加强智能体终端进网管理：预装 Agent 的手机/平板/穿戴须适配验证与 OTA 报备",
+   "summary": "工信厅信管〔2026〕42号（11月6日发布）：预置智能体的电信终端须在进网检测中做适配验证与涉诈评估，智能体宜配唯一身份码；OTA 现网升级须先报方案、专家评估征求意见后方可向用户开放；应用商店须公示适配列表，未声明同意则不可被智能体强制调用。对端侧 Agent 产品进入中国市场的合规门槛显著抬高。",
+   "links": [
+    "https://www.miit.gov.cn/jgsj/xgj/wjfb/art/2026/art_5066b9dffa93405a988e266ff12bf674.html",
+    "https://www.chinanews.com.cn/cj/2026/11-06/10727217.shtml"
+   ],
+   "topic": "miit-agent-terminal-network-access-2026-11",
+   "firstSeen": "2026-11-07T20:02:13+08:00"
+  },
+  {
+   "id": "51eaac83d3",
+   "title": "纽约时报：美商务部放行的 H200 中国组装商，有的登记地址是空壳办公室",
+   "summary": "时报实地查访：获批处理英伟达 H200 的 New Matrix、Maginfra 等公司，北京登记地址空无或无人使用；部分股权与已上实体清单的 Wise Road、浪潮等关联。约二十余家中国企业获许可，但实际对华出货仍极少；叠加东南亚转口与 Megaspeed 调查，出口管制执行的尽职调查成焦点。",
+   "links": [
+    "https://dnyuz.com/2026/11/07/u-s-cleared-nvidia-chips-to-chinese-firms-with-empty-offices-and-troubling-ties/",
+    "https://x.com/i/trending/2119032223299236218"
+   ],
+   "topic": "nyt-nvidia-h200-empty-office-china-firms-2026-11-07",
+   "firstSeen": "2026-11-07T20:02:13+08:00"
+  },
+  {
+   "id": "31cceeb0c0",
+   "title": "Oxide Root of Trust 的「悲剧」：把密钥仪式做对了，却仍然太难复制",
+   "summary": "Daniel Mangum 听完 Oxide and Friends 密钥仪式播客后的评论：YubiHSM、点阵打印分片、防拆包装等步骤做得很扎实，但真正的问题是——资源雄厚的团队做对了，中小硬件厂仍几乎无法照做。呼吁半导体与工具链把安全制造降到「像 Let's Encrypt 一样可默认」。刚上 HN。",
+   "links": [
+    "https://danielmangum.com/posts/tragedy-oxide-rot/",
+    "https://news.ycombinator.com/item?id=50403780"
+   ],
+   "topic": "tragedy-oxide-root-of-trust-2026-11-07",
+   "firstSeen": "2026-11-07T20:02:13+08:00"
   }
  ],
- "lastChecked": "2026-11-07T19:44:04+08:00"
+ "lastChecked": "2026-11-07T20:02:13+08:00"
 }
