@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T17:12:31+08:00",
+ "lastUpdated": "2026-11-07T17:26:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41293,7 +41293,49 @@
    ],
    "topic": "postgrespro-internals-pdf-hn-2026-11",
    "firstSeen": "2026-11-07T17:12:31+08:00"
+  },
+  {
+   "id": "a53850d86a",
+   "title": "伊朗关联油轮在霍尔木兹海峡海底光缆上空徘徊并「熄灯」",
+   "summary": "Windward 追踪显示多艘受制裁油轮与渔船在阿曼湾光缆走廊减速绕圈并关闭 AIS；伊朗官员威胁若美军再升级打击可能袭击海底光缆。伊拉克、科威特等国高度依赖该咽喉段外联，Meta 参与的 2Africa 也途经此区域。",
+   "links": [
+    "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump",
+    "https://windward.ai/blog/sanctioned-iran-linked-tankers-went-dark-over-gulf-of-oman-cables/"
+   ],
+   "topic": "iran-ships-hormuz-subsea-cables-2026-11",
+   "firstSeen": "2026-11-07T17:26:33+08:00"
+  },
+  {
+   "id": "92d74cf84e",
+   "title": "研究：用枚举/预处理器分歧 + 无分支 MBA，可让四家前沿模型漏报栈溢出",
+   "summary": "Cipher 演示把 strcpy 栈溢出改写成看起来有 min(n,9) 钳制的代码：enum 常量在 #if 里被预处理器当成 0，再配上形似哈希的位运算钳制，Nemotron / DeepSeek / GPT-5.5 / Sonnet 5.5 均未报出真实缺陷。",
+   "links": [
+    "https://cipher.org.uk/2026/11/06/AI-Source-Code-Analysis-Detection-Evasion-Techniques/"
+   ],
+   "topic": "cipher-ai-sca-evasion-enum-mba-2026-11-06",
+   "firstSeen": "2026-11-07T17:26:33+08:00"
+  },
+  {
+   "id": "7ad240ff66",
+   "title": "Keplr 钱包暂停 Google/Apple 登录：社交登录账户遭未授权转账",
+   "summary": "部分用 Google 或 Apple 创建的 Keplr 账户出现异常转出，官方暂停社交登录并与 Web3Auth 排查；助记词与硬件钱包账户初步看起来不受影响。社区估计 CosmOS 生态相关损失逾数十万美元。",
+   "links": [
+    "https://thedefiant.io/news/security/keplr-pauses-google-and-apple-login-after-unauthorized-transaction-reports",
+    "https://x.com/i/trending/2118960935272669668"
+   ],
+   "topic": "keplr-pause-social-login-drains-2026-11",
+   "firstSeen": "2026-11-07T17:26:33+08:00"
+  },
+  {
+   "id": "10c17f98d9",
+   "title": "Futhark：并行数组语言里的非确定性从哪来",
+   "summary": "Futhark 官方博客梳理并行归约、浮点与未指定求值顺序如何引入非确定性，以及编译器/运行时如何约束与记录这类行为——对写可复现高性能代码的人很实用。",
+   "links": [
+    "https://futhark-lang.org/blog/2026-11-04-nondeterminism.html"
+   ],
+   "topic": "futhark-nondeterminism-blog-2026-11-04",
+   "firstSeen": "2026-11-07T17:26:33+08:00"
   }
  ],
- "lastChecked": "2026-11-07T17:12:31+08:00"
+ "lastChecked": "2026-11-07T17:26:33+08:00"
 }
