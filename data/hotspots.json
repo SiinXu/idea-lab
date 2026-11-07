@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T23:42:29+08:00",
+ "lastUpdated": "2026-11-08T00:05:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42578,7 +42578,65 @@
    ],
    "topic": "fels-systems-language-compile-time-2026-11-07",
    "firstSeen": "2026-11-07T23:42:29+08:00"
+  },
+  {
+   "id": "c5f7214271",
+   "title": "复刻 Google Agent 沙箱：Firecracker 上 25ms 唤醒、空闲 fork 约 3MiB",
+   "summary": "作者用约 2200 行 Go 在 Firecracker 上复现 Google Agent Compute Engine 思路：热快照 CoW、按工具调用生命周期做 checkpoint、无网卡+vsock 代出凭证。裸机快照恢复约 25ms、64 个空闲 fork 各约 3MiB；嵌套虚拟化下 12 并发会卡死。附开源仓库与基准数据。",
+   "links": [
+    "https://antonau.tech/posts/2026/11/agents-microvm-firecracker/",
+    "https://news.ycombinator.com/item?id=50405649",
+    "https://github.com/gophernaut/llm-learning/tree/main/agents-micro-vm"
+   ],
+   "topic": "firecracker-agent-sandbox-antonau-2026-11-07",
+   "firstSeen": "2026-11-08T00:05:15+08:00"
+  },
+  {
+   "id": "cf907ea15d",
+   "title": "法国「每 GB 收 0.055 欧元」网税仅活五天：预算收入案被 458:0 否决连带作废",
+   "summary": "10 月 30 日国民议会以 11:10 通过向内容平台按流量征税的修正案后，11 月 4 日整份 2027 预算收入部分被 458:0 否决，该税随同失效。VideoLAN、OVHcloud 等曾警告成本；思路或在大选纲领里再出现，但本轮预算已死。",
+   "links": [
+    "https://www.techradar.com/pro/frances-new-internet-tax-which-was-meant-to-stop-tech-giants-from-sending-huge-amounts-of-data-to-your-smartphone-has-been-killed-off",
+    "https://www.actu-alt-plus.com/tech-ia-futur/taxe-gigaoctet-qui-a-vote-pour-contre-scrutin-deputes/41145/",
+    "https://news.ycombinator.com/item?id=50405468"
+   ],
+   "topic": "france-per-gb-tax-killed-budget-2026-11",
+   "firstSeen": "2026-11-08T00:05:15+08:00"
+  },
+  {
+   "id": "fe2d69a187",
+   "title": "科学美国人：量子计算表明「完全透明」材料不可能存在",
+   "summary": "理论物理学家证明，即使理想超流氦，光子也会通过量子过程把能量交给声子而逐渐衰减——地球直径量级路程才明显变暗，但损耗不可为零。预印本 10 月 8 日挂 arXiv，11 月 7 日 SciAm 报道。",
+   "links": [
+    "https://www.scientificamerican.com/article/nothing-can-be-fully-transparent-physicists-discover/",
+    "https://news.ycombinator.com/item?id=50405575"
+   ],
+   "topic": "sciam-nothing-fully-transparent-2026-11-07",
+   "firstSeen": "2026-11-08T00:05:15+08:00"
+  },
+  {
+   "id": "16b3502ecd",
+   "title": "Optimum mump2p 上以太坊主网：区块送达约快 2.5–3.5 倍，已加速约 34 亿美元质押",
+   "summary": "用随机线性网络编码的 sidecar，与 GossipSub 并行；Hub 数据显示相对 libp2p 约快 3.3 倍、尾延迟更稳。Blockdaemon、Everstake、ether.fi 等已接入；Signal 对验证者免费，Accelerate 面向 ≥200 密钥运营商。X 今日继续热议验证者加速效果。",
+   "links": [
+    "https://www.getoptimum.xyz/blog/3-4b-total-value-boosted-mump2p-is-live-on-ethereum-mainnet",
+    "https://blog.stake.fish/optimum-mump2p-ethereum-mainnet/",
+    "https://x.com/i/trending/2118596941743636755"
+   ],
+   "topic": "optimum-mump2p-ethereum-mainnet-2026-11",
+   "firstSeen": "2026-11-08T00:05:15+08:00"
+  },
+  {
+   "id": "8d1e1cb567",
+   "title": "PlanetScale：数据库里也有「网络延迟」——网络盘 vs 本地 NVMe",
+   "summary": "云库常见 EBS 式网络盘，每次缺页都是机内网络跳；Metal 用跨 AZ 本地 NVMe + 副本确认，读不再跨网、IOPS 无人工帽。文章还划了何时内存命中就够、何时必须上本地盘。",
+   "links": [
+    "https://planetscale.com/blog/the-hidden-latency-inside-your-database",
+    "https://news.ycombinator.com/item?id=50405485"
+   ],
+   "topic": "planetscale-hidden-db-latency-metal-2026-11-07",
+   "firstSeen": "2026-11-08T00:05:15+08:00"
   }
  ],
- "lastChecked": "2026-11-07T23:42:29+08:00"
+ "lastChecked": "2026-11-08T00:05:15+08:00"
 }
