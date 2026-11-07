@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T21:19:09+08:00",
+ "lastUpdated": "2026-11-07T21:28:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42026,7 +42026,64 @@
    ],
    "topic": "statewatch-cellebrite-eu-uk-69m-2026-11",
    "firstSeen": "2026-11-07T21:19:09+08:00"
+  },
+  {
+   "id": "eb8e266816",
+   "title": "Sherlock 再冲 GitHub 日榜：一天近两千星，跨 400+ 社交网络查用户名",
+   "summary": "老牌 OSINT 工具 sherlock-project/sherlock 今日 GitHub Trending 约 +1761 星、总量逼近 10 万；用用户名在 400+ 社交网络扫账号并导出 CSV/JSON，适合尽调、品牌监控与威胁情报。",
+   "links": [
+    "https://github.com/sherlock-project/sherlock",
+    "https://sherlockproject.xyz",
+    "https://gitnova.dev/en/r/sherlock-project/sherlock"
+   ],
+   "topic": "sherlock-osint-github-breakout-2026-11-07",
+   "firstSeen": "2026-11-07T21:28:54+08:00"
+  },
+  {
+   "id": "3e67a0cf72",
+   "title": "Hookshot：把 Switch 2 版《时之笛》静态重编译成原生 Windows 游戏",
+   "summary": "两天龄仓库 NotRexed/Hookshot 今日已近千星；用你自己的游戏文件把 Switch 2 remake 翻成原生可执行文件（非模拟器），支持手柄/键鼠、存档、插帧与超宽屏，延续近期 N64/Switch 重编译浪潮。",
+   "links": [
+    "https://github.com/NotRexed/Hookshot",
+    "https://gitnova.dev/en/r/NotRexed/Hookshot"
+   ],
+   "topic": "hookshot-oot-switch2-native-recomp-2026-11-07",
+   "firstSeen": "2026-11-07T21:28:54+08:00"
+  },
+  {
+   "id": "8c93ede7de",
+   "title": "Henge：在 iPhone / iPad 上跑 macOS，自带 JIT 与虚拟设备",
+   "summary": "Leviidev/Henge 不用 QEMU/Virtualization.framework，直接下官方 restore 镜像在设备上装 Sequoia；支持蓝牙键鼠、文件夹与剪贴板共享，五日龄仓库已冲到约 600 星。",
+   "links": [
+    "https://github.com/Leviidev/Henge",
+    "https://gitnova.dev/en/r/Leviidev/Henge"
+   ],
+   "topic": "henge-macos-on-iphone-ipad-2026-11-07",
+   "firstSeen": "2026-11-07T21:28:54+08:00"
+  },
+  {
+   "id": "0f3900459b",
+   "title": "Claude-Cage：给 Claude Code 的轻量 Linux 虚拟机，隔离网络与指纹",
+   "summary": "桌面端打包终端、浏览器与编辑器，专为登录 Claude / 跑 Claude Code 做网络出口与指纹隔离，支持多账号与代理订阅；一周龄仓库已超 500 星，踩中 Agent 密钥与账号风控痛点。",
+   "links": [
+    "https://github.com/Lee-xeo/Claude-Cage",
+    "https://lee-xeo.github.io/Claude-Cage/",
+    "https://gitnova.dev/en/r/Lee-xeo/Claude-Cage"
+   ],
+   "topic": "claude-cage-isolated-vm-2026-11-07",
+   "firstSeen": "2026-11-07T21:28:54+08:00"
+  },
+  {
+   "id": "d5689684c6",
+   "title": "Scott Hanselman 开源 gputaskman：终端里看清每个进程的显存与 LLM KV Cache",
+   "summary": "类 htop 的 GPU 监视器，覆盖 Windows（NVIDIA/AMD）、Linux 与 WSL；能拆模型权重与 KV cache 占用并导出 JSON，四日龄已三百多星，补上 Task Manager 只显示总量的空白。",
+   "links": [
+    "https://github.com/shanselman/gputaskman",
+    "https://gitnova.dev/en/r/shanselman/gputaskman"
+   ],
+   "topic": "gputaskman-hanselman-vram-llm-2026-11-07",
+   "firstSeen": "2026-11-07T21:28:54+08:00"
   }
  ],
- "lastChecked": "2026-11-07T21:20:02+08:00"
+ "lastChecked": "2026-11-07T21:28:54+08:00"
 }
