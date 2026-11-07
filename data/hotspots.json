@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T13:03:00+08:00",
+ "lastUpdated": "2026-11-07T13:15:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40472,7 +40472,48 @@
    ],
    "topic": "perplexity-engineer-safer-agents-2026-11-07",
    "firstSeen": "2026-11-07T13:03:00+08:00"
+  },
+  {
+   "id": "730ec9f89f",
+   "title": "WordPress.com 免费开放 ChatGPT / Claude 站点连接（MCP）",
+   "summary": "11 月内免费站也可接 WordPress ChatGPT 插件或 Claude 连接器，用对话上传草稿、清评论、跨站查待办；基于 MCP，权限可自选。",
+   "links": [
+    "https://wordpress.com/blog/2026/11/03/free-chatgpt-claude/"
+   ],
+   "topic": "wordpress-com-free-chatgpt-claude-mcp-2026-11",
+   "firstSeen": "2026-11-07T13:15:07+08:00"
+  },
+  {
+   "id": "5c1fbd9ca2",
+   "title": "MIT：单层肌肉细胞驱动的纸薄游泳机器人",
+   "summary": "凝胶骨架覆光敏肌肉细胞，闪光即可扑翼转向，穿行水迷宫；团队称更薄的生物混合机器人有望用于脆弱环境探测。",
+   "links": [
+    "https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929"
+   ],
+   "topic": "mit-paper-thin-muscle-aquabot-2026-11-07",
+   "firstSeen": "2026-11-07T13:15:07+08:00"
+  },
+  {
+   "id": "947fb54e6a",
+   "title": "中期选举后：民主党加码推动「禁止超级智能 / RSI」法案",
+   "summary": "Casar、Sanders 等推动永久禁止 ASI 并暂停高算力训练，违者可面临重罚；选后监管预期升温，科技股已有回撤。",
+   "links": [
+    "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
+    "https://x.com/i/trending/2118724584891650215"
+   ],
+   "topic": "democrats-ban-asi-rsi-post-midterms-2026-11-07",
+   "firstSeen": "2026-11-07T13:15:07+08:00"
+  },
+  {
+   "id": "e45698c31d",
+   "title": "Vibe coding 梗图热潮：用自然语言堆应用，成就感与安全争议同涨",
+   "summary": "Karpathy 提出的 vibe coding 又一轮出圈：几天出 App 却零掌控感、空仓库与补丁笑话刷屏，社区在快速原型与生产安全之间拉扯。",
+   "links": [
+    "https://x.com/i/trending/2118933859840491524"
+   ],
+   "topic": "vibe-coding-memes-rush-2026-11-07",
+   "firstSeen": "2026-11-07T13:15:07+08:00"
   }
  ],
- "lastChecked": "2026-11-07T13:03:00+08:00"
+ "lastChecked": "2026-11-07T13:15:07+08:00"
 }
