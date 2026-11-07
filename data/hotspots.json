@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T11:02:05+08:00",
+ "lastUpdated": "2026-11-07T11:15:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40063,7 +40063,28 @@
    ],
    "topic": "realpage-360m-settlement-hn-2026-11-06",
    "firstSeen": "2026-11-07T11:02:05+08:00"
+  },
+  {
+   "id": "c884f7155c",
+   "title": "Sophos 员工中招假面试编程题：VS Code 工作区设置一开终端就下马",
+   "summary": "Sophos 披露 INC-2026-002：员工把「面试作业」仓库当可信工作区打开后，终端配置被改写，两分钟内跑起 BeaverTail/InvisibleFerret；端点代理当时失灵。正值币安 63 亿美元案同套路热议，提醒把招聘作业当不可信代码。",
+   "links": [
+    "https://www.sophos.com/en-us/blog/fake-coding-test-reaches-security-company",
+    "https://www.sophos.com/en-us/trust/root-cause-analyses/inc-2026-002"
+   ],
+   "topic": "sophos-fake-coding-test-vscode-beavertail-2026-11",
+   "firstSeen": "2026-11-07T11:15:58+08:00"
+  },
+  {
+   "id": "0312487af4",
+   "title": "论文：给 Agentic 实体解析加「提交边界」授权护栏（DIO/ODI）",
+   "summary": "arXiv 提出把「推理可用证据」和「可授权持久身份变更的证据」拆开：未经验证材料不能单独批准 merge；两阶段监督在冲突未解、范围/版本失效时一律缓提交。概念架构，尚无实现与实测。",
+   "links": [
+    "https://arxiv.org/abs/2610.37407"
+   ],
+   "topic": "dio-odi-agentic-er-commit-boundary-arxiv-2610-37407",
+   "firstSeen": "2026-11-07T11:15:58+08:00"
   }
  ],
- "lastChecked": "2026-11-07T11:02:05+08:00"
+ "lastChecked": "2026-11-07T11:15:58+08:00"
 }
