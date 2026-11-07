@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T11:26:49+08:00",
+ "lastUpdated": "2026-11-07T11:39:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40127,7 +40127,61 @@
    ],
    "topic": "x-algo-likes-dwell-boost-2026-11-07",
    "firstSeen": "2026-11-07T11:26:49+08:00"
+  },
+  {
+   "id": "68b61b23c4",
+   "title": "Robocurve：改摄像头画面就能让机器人越界——模糊/篡改画面使有害尝试率飙到 88%–97%",
+   "summary": "在 CoRL 2026 Late Breaking 将展示的「感知攻击」里，模糊或伪造镜头画面会让 Claude Fable/Opus、GPT Astra/Sol、Gemini Argon 等控制双臂机器人时更易执行刺玩偶、倒水进烤面包机等危险指令；官方页与 X 热点同步发酵。",
+   "links": [
+    "https://robocurve.org/robospoof/",
+    "https://x.com/i/trending/2118887406934122605"
+   ],
+   "topic": "robocurve-perceptual-attacks-corl-2026-11",
+   "firstSeen": "2026-11-07T11:39:59+08:00"
+  },
+  {
+   "id": "e6f7bb0a09",
+   "title": "GitHub Secret Scanning 新伙伴 SpaceX：可检出 Starlink 公钥 API 密钥",
+   "summary": "SpaceX 加入 secret scanning 合作计划；公开仓库若出现 starlink_public_api_v2_secret 会转给伙伴作废/轮换。同时升级阿里云、AWS、Google 等检测器的误报过滤。",
+   "links": [
+    "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner/"
+   ],
+   "topic": "github-secret-scanning-spacex-starlink-2026-11-05",
+   "firstSeen": "2026-11-07T11:39:59+08:00"
+  },
+  {
+   "id": "31df36cb04",
+   "title": "Show HN：Roomzine——拍一张房间照，生成可交给装修工的改造杂志",
+   "summary": "上传房间照片得到前后对比、配色、编辑式文案和购物清单；强调不是单纯渲染而是「杂志页」。提供 2 次免费设计，无需绑卡，适合室内改造内容产品参考。",
+   "links": [
+    "https://roomzine.com/",
+    "https://news.ycombinator.com/item?id=50401374"
+   ],
+   "topic": "roomzine-show-hn-interior-magazine-2026-11-07",
+   "firstSeen": "2026-11-07T11:39:59+08:00"
+  },
+  {
+   "id": "7f37441a17",
+   "title": "詹姆斯要求 YC 支持的博彩 AI「Bron AI」停止使用其肖像",
+   "summary": "Front Office Sports 报道：Bron AI 广告中人物酷似勒布朗·詹姆斯操作该应用，球星方面要求停止使用其姓名与肖像。YC 背景 AI 博彩产品撞上名人权，合规与品牌风险都很硬。",
+   "links": [
+    "https://frontofficesports.com/article/lebron-james-demands-ai-betting-app-stop-using-his-likeness/",
+    "https://news.ycombinator.com/item?id=50401390"
+   ],
+   "topic": "bron-ai-lebron-likeness-demand-2026-11-07",
+   "firstSeen": "2026-11-07T11:39:59+08:00"
+  },
+  {
+   "id": "3ce86edd04",
+   "title": "用 Claude 34 小时重写高中两年的流体游戏：个人版「Navier-Stokes」复盘",
+   "summary": "Point Nine 作者写 Claude 如何反向工程并重建当年高中团队花两年做的游戏；HN 新帖讨论 AI 把旧项目「挖坟复刻」的速度与边界，适合对照 vibe coding 与长期工程债话题。",
+   "links": [
+    "https://writing.pointnine.com/p/my-personal-navier-stokes-or-how",
+    "https://news.ycombinator.com/item?id=50401266"
+   ],
+   "topic": "claude-rebuild-highschool-navier-stokes-game-2026-11-07",
+   "firstSeen": "2026-11-07T11:39:59+08:00"
   }
  ],
- "lastChecked": "2026-11-07T11:26:49+08:00"
+ "lastChecked": "2026-11-07T11:39:59+08:00"
 }
