@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T23:00:00+08:00",
+ "lastUpdated": "2026-11-07T23:10:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42379,7 +42379,75 @@
    ],
    "topic": "tinylm-552-param-maximally-tiny-2026-11-07",
    "firstSeen": "2026-11-07T23:00:00+08:00"
+  },
+  {
+   "id": "05f4c6a138",
+   "title": "Vondet：让 Claude 把计划写到一块看板，会话之间不再重讲",
+   "summary": "Show HN 新品：通过 MCP 接到 Claude Code / Claude App，AI 把目标、步骤、可推翻理由写进同一块板；关掉终端明天再开仍接着干，适合长任务与多人会话对齐。",
+   "links": [
+    "https://vondet.com/en",
+    "https://news.ycombinator.com/item?id=50405170"
+   ],
+   "topic": "vondet-claude-planning-board-mcp-2026-11-07",
+   "firstSeen": "2026-11-07T23:10:33+08:00"
+  },
+  {
+   "id": "a533b0c4a8",
+   "title": "SpecStream：面向 Agent 的实时网页搜索 API，WideSearch 榜首",
+   "summary": "Show HN：自然语言提问，一次 GET 返回答案、候选行与来源；自称 WideSearch / SimpleQA 领先，约 $5/千次，带 MCP 与 CLI，可当 agent 外挂检索。",
+   "links": [
+    "https://specstream.ai/search-api",
+    "https://news.ycombinator.com/item?id=50405189"
+   ],
+   "topic": "specstream-web-search-api-agents-2026-11-07",
+   "firstSeen": "2026-11-07T23:10:33+08:00"
+  },
+  {
+   "id": "4e58f7bd00",
+   "title": "Honeycomb Team Agents：主动式 AI SRE，不只等告警再救火",
+   "summary": "个人 Agent 用证据答生产问题；团队 Agent 按你写的目标跑——发版回归、埋点卫生、成本、agent 质量、知识库维护；按风险设观察/建议/审批/自治四级，12 月 1 日 re:Invent 正式上线。",
+   "links": [
+    "https://www.honeycomb.io/blog/honeycomb-team-agents-ai-sre-done-right",
+    "https://news.ycombinator.com/item?id=50405124"
+   ],
+   "topic": "honeycomb-team-agents-ai-sre-2026-11",
+   "firstSeen": "2026-11-07T23:10:33+08:00"
+  },
+  {
+   "id": "73f74bac2d",
+   "title": "Nature Methods：只用鸟鸣就能跨年识别同一只鸟，准确率最高约 96%",
+   "summary": "对 Ovenbird 雄鸟歌声做特征聚类，在加拿大阵列录音上验证可达约 96%；被动声学监测可估算存活率，少捕鸟、少戴脚环，代码与数据已开源。",
+   "links": [
+    "https://www.nature.com/articles/s41592-026-03303-7",
+    "https://www.science.org/content/article/ai-can-track-single-bird-over-time-based-solely-its-song",
+    "https://github.com/sammlapp/ovenbird-individual-recognition",
+    "https://news.ycombinator.com/item?id=50404785"
+   ],
+   "topic": "nature-methods-ovenbird-song-id-ai-2026-11",
+   "firstSeen": "2026-11-07T23:10:33+08:00"
+  },
+  {
+   "id": "946f48cd7c",
+   "title": "Retro Song Bird：插上 Game Boy 卡带就能听童年原声，还能当 USB 摄像头",
+   "summary": "硬件读 1900+ 卡带 ROM，寄存器级模拟四声道；可备份存档/ROM、导出 WAV、分轨进 DAW，插上 Game Boy Camera 还能变成约 128×112 的复古摄像头。",
+   "links": [
+    "https://www.retrosongbird.com/",
+    "https://news.ycombinator.com/item?id=50405172"
+   ],
+   "topic": "retro-song-bird-gameboy-cart-player-2026-11-07",
+   "firstSeen": "2026-11-07T23:10:33+08:00"
+  },
+  {
+   "id": "f2e4b8b4ce",
+   "title": "netlens.dev：在浏览器里按比特拆 TCP/IP 头，附 RFC 引用",
+   "summary": "交互式包字段指南：IPv4/6、TCP、QUIC、DNS、TLS 等 13 类协议；按偏移看保留位与合法范围，可贴 hex 解码校验，离线也能用。",
+   "links": [
+    "https://netlens.dev",
+    "https://news.ycombinator.com/item?id=50404758"
+   ],
+   "topic": "netlens-dev-packet-field-guide-2026-11-07",
+   "firstSeen": "2026-11-07T23:10:33+08:00"
   }
  ],
- "lastChecked": "2026-11-07T23:00:00+08:00"
+ "lastChecked": "2026-11-07T23:10:33+08:00"
 }
