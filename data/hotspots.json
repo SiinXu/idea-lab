@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T20:48:40+08:00",
+ "lastUpdated": "2026-11-07T20:58:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41932,7 +41932,59 @@
    ],
    "topic": "uk-soldier-sim-opsec-sextortion-estonia-2026-11-07",
    "firstSeen": "2026-11-07T20:48:40+08:00"
+  },
+  {
+   "id": "4d229b6454",
+   "title": "Ocarina Recomp：时之笛 PC 版静态重编译，免模拟器原生跑",
+   "summary": "基于自有 ROM 在 Windows 上静态重编译《塞尔达传说：时之笛》，免模拟器原生运行；仓库约一天涨到近 500 星，和 Switch 2 重制版是两条线。",
+   "links": [
+    "https://github.com/sostenesfreitas/ocarina-recomp"
+   ],
+   "topic": "ocarina-recomp-n64-native-2026-11-07",
+   "firstSeen": "2026-11-07T20:58:11+08:00"
+  },
+  {
+   "id": "7193ec35fa",
+   "title": "Phone-to-Webcam：扫码把手机当 Windows 摄像头，无水印无 App",
+   "summary": "手机浏览器扫码即可当 Windows 摄像头，宣称无手机 App、无水印；开源仓库一天内数百星，适合直播/会议备胎方案。",
+   "links": [
+    "https://github.com/PackArtisanMold/phone-to-webcam"
+   ],
+   "topic": "phone-to-webcam-webrtc-2026-11-07",
+   "firstSeen": "2026-11-07T20:58:11+08:00"
+  },
+  {
+   "id": "37dfb02f7a",
+   "title": "ToothPaste：硬件加密 BLE 剪贴板，把密码当 USB 键盘打出去",
+   "summary": "ESP32-S3 + 加密芯片，经 Web Bluetooth 把密码/键鼠指令 AES 加密后，以 USB HID 键盘打到目标机；面向 BIOS、隔离机和不想装密码管理器的场景，还带 Agent MCP 实验分支。",
+   "links": [
+    "https://brisk4t.github.io/blog/toothpaste/",
+    "https://github.com/Brisk4t/ToothPaste"
+   ],
+   "topic": "toothpaste-ble-usb-hid-clipboard-2026-11-07",
+   "firstSeen": "2026-11-07T20:58:11+08:00"
+  },
+  {
+   "id": "03047555ed",
+   "title": "Discord 弃 Electron 实测：双账号约省七成内存，启动屏也没了",
+   "summary": "Windows Latest 跟进 Discord 桌面端 Rust/GPUI 重写：早期 Phoenix 双账号约 290MB、无启动闪屏；文章呼吁更多 Win11 应用告别 Electron。",
+   "links": [
+    "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/"
+   ],
+   "topic": "discord-electron-kill-memory-benchmark-2026-11-06",
+   "firstSeen": "2026-11-07T20:58:11+08:00"
+  },
+  {
+   "id": "7eb5d00c0d",
+   "title": "T3 Code 官网加码：开源 Agent 编排层，自称已赢下本赛道",
+   "summary": "Theo 团队的 T3 Code 定位为自带订阅的多 Agent 控制面（Claude Code/Codex/Cursor/OpenCode 等）；Conductor 被 Meta 收编后，社区讨论升温，官网称超 50 万开发者在用。",
+   "links": [
+    "https://t3.codes/",
+    "https://x.com/i/trending/2119024602210861095"
+   ],
+   "topic": "t3-codes-control-plane-momentum-2026-11-07",
+   "firstSeen": "2026-11-07T20:58:11+08:00"
   }
  ],
- "lastChecked": "2026-11-07T20:48:40+08:00"
+ "lastChecked": "2026-11-07T20:58:11+08:00"
 }
