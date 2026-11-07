@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T00:41:18+08:00",
+ "lastUpdated": "2026-11-08T00:59:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42738,7 +42738,74 @@
    ],
    "topic": "postgres-skip-locked-queue-limits-2026-11",
    "firstSeen": "2026-11-08T00:41:18+08:00"
+  },
+  {
+   "id": "4069b86652",
+   "title": "Text.js：在 console.log 里跑全栈 React 应用",
+   "summary": "用自定义 reconciler + Yoga 在浏览器控制台逐帧渲染 React 19 App Router；同一套应用也能在终端 ANSI 和给编码 Agent 的 MCP 里读屏/按键。还内置了跑在 DevTools 里的 OpenCode Lite。适合做调试面板、Agent 可读 UI 等冷门但实用的壳。",
+   "links": [
+    "https://textjs.org/",
+    "https://news.ycombinator.com/item?id=50361657"
+   ],
+   "topic": "textjs-console-react-framework-2026-11",
+   "firstSeen": "2026-11-08T00:59:13+08:00"
+  },
+  {
+   "id": "9ba23c3081",
+   "title": "Tasfer：不用 contentEditable、在 2D Canvas 上自绘的开源编辑器",
+   "summary": "作者丢掉 contentEditable，自己量字排版画光标与选区，并做本地优先 + WebRTC/CRDT 协作、无账号。应用 AGPL、编辑器引擎 MIT（@tasfer/editor），支持 LaTeX/代码块/表格，可当笔记与协作文档的底座。",
+   "links": [
+    "https://www.hamza.se/blog/tasfer",
+    "https://www.tasfer.app/en/",
+    "https://news.ycombinator.com/item?id=50358094"
+   ],
+   "topic": "tasfer-canvas-text-editor-opensource-2026-11",
+   "firstSeen": "2026-11-08T00:59:13+08:00"
+  },
+  {
+   "id": "b2c0f7e610",
+   "title": "Datadog 那么贵，净利率为何只有约 4%？",
+   "summary": "Telemetry Machine 拆公开财报：毛利率约 80%，但人员成本占收入约 62–65%（约 8000 人，近半在销售/市场），R&D 约占收入 45%；>90% 收入来自年付超 10 万美元的大客户。结论：高价不是为了高利润，而是为了养活增长机器——对中小团队是「可替代」信号。",
+   "links": [
+    "https://telemetrymachine.com/blog/if-datadog-is-so-expensive-why-is-it-barely-profitable",
+    "https://news.ycombinator.com/item?id=50405966"
+   ],
+   "topic": "datadog-expensive-barely-profitable-2026-11-07",
+   "firstSeen": "2026-11-08T00:59:13+08:00"
+  },
+  {
+   "id": "856384ec20",
+   "title": "二维版本控制：用 Jujutsu 同时管「写作时间轴」和「教程章节轴」",
+   "summary": "Red Blob Games 写 Roguelike 教程时，既要自己改代码的历史，又要读者按章节推进的历史。用 Jujutsu 的 edit/absorb 把改动自动向前/向后滚到各章，最后导出约 54 个干净 Git commit（内部约 5000 次变更）。适合文档型/多阶段教程项目。",
+   "links": [
+    "https://www.redblobgames.com/blog/2026-09-27-jujutsu-experience/",
+    "https://lobste.rs/s/typesanitizer"
+   ],
+   "topic": "redblobgames-2d-version-control-jujutsu-2026-11",
+   "firstSeen": "2026-11-08T00:59:13+08:00"
+  },
+  {
+   "id": "37a1950c87",
+   "title": "RL Judge 怎么改写模型推理：span 级打分能让模型更快「锁答案」",
+   "summary": "在 Qwen3.5-4B 上对比纯 outcome GRPO 与加 agentic judge 的 span 信用：独立探针显示 judge 打高分的段落确实提高正确答案置信度；训练后 judge 策略比 baseline 少写约 1900 token 就锁死答案。对「同一批 rollout 榨出更多学习信号」很有参考价值。",
+   "links": [
+    "https://chinmaykarkar.com/blog/llm_credit_assignment/",
+    "https://news.ycombinator.com/item?id=50405843"
+   ],
+   "topic": "rl-judge-credit-assignment-reasoning-2026-11",
+   "firstSeen": "2026-11-08T00:59:13+08:00"
+  },
+  {
+   "id": "44bacbb261",
+   "title": "只改一个权重矩阵：0.8B 模型对话分类准确率从 0.41 提到 0.83",
+   "summary": "Giga 的 Fable 对 Qwen3.5-0.8B 做闭式编辑：测激活→定位末层 MLP 下投影→三轮岭回归改一个矩阵，无梯度、无 adapter。列表分类与自由生成准确率约翻倍，通用英文困惑度略升。展示「测内再改权」相对微调的另一条路。",
+   "links": [
+    "https://giga.ai/news/one-weight-matrix",
+    "https://news.ycombinator.com/item?id=50405905"
+   ],
+   "topic": "giga-fable-one-weight-matrix-0.8b-2026-11",
+   "firstSeen": "2026-11-08T00:59:13+08:00"
   }
  ],
- "lastChecked": "2026-11-08T00:41:18+08:00"
+ "lastChecked": "2026-11-08T00:59:13+08:00"
 }
