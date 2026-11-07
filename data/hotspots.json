@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T10:13:23+08:00",
+ "lastUpdated": "2026-11-07T10:32:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -39925,7 +39925,38 @@
    ],
    "topic": "gcp-z4m-storage-optimized-ga-2026-11-06",
    "firstSeen": "2026-11-07T10:13:23+08:00"
+  },
+  {
+   "id": "b3db6d7cea",
+   "title": "通义 Qwen 官宣预热「The becoming begins」：社区解读为 Qwen4",
+   "summary": "阿里 @Alibaba_Qwen 发短帖「The becoming begins.」，配图庄子「北冥有鱼，其名为_」，约 12 小时破 170 万浏览。官方未给型号、日期与参数；九月曾称 Qwen4 在训。适合盯住正式发布与开源权重窗口。",
+   "links": [
+    "https://x.com/Alibaba_Qwen/status/2118674834632978755",
+    "https://artificialwatch.com/wire/qwen-4-teaser-the-becoming-begins-what-alibaba-confirmed"
+   ],
+   "topic": "qwen4-teaser-becoming-begins-2026-11-06",
+   "firstSeen": "2026-11-07T10:32:52+08:00"
+  },
+  {
+   "id": "df141a94ae",
+   "title": "GitHub：Copilot 影响力看板补上 Chat 与 VS Code Agents 用量",
+   "summary": "企业/组织 28 天报告新增 chat、vscode_agent 两项；「Passive users」改名「Chat-first users」。更完整看清对话与 Agent 窗口的真实采用，但不计入原有 adoption phase。",
+   "links": [
+    "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage/"
+   ],
+   "topic": "github-copilot-impact-dashboard-chat-vscode-agent-2026-11-06",
+   "firstSeen": "2026-11-07T10:32:52+08:00"
+  },
+  {
+   "id": "5175c20e07",
+   "title": "GitHub Copilot 进 JetBrains Air 与 Xcode 编码助手",
+   "summary": "周更：JetBrains IDE 可通过 Air 跑本地/云端多 Agent 会话；Xcode 自带助手接入 Copilot，公测起于 Xcode 27.3 beta。另含 Agent Merge、CLI /settings 统一面板等。",
+   "links": [
+    "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2/"
+   ],
+   "topic": "github-copilot-jetbrains-air-xcode-2026-11-06",
+   "firstSeen": "2026-11-07T10:32:52+08:00"
   }
  ],
- "lastChecked": "2026-11-07T10:13:23+08:00"
+ "lastChecked": "2026-11-07T10:32:52+08:00"
 }
