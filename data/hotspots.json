@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T22:27:21+08:00",
+ "lastUpdated": "2026-11-07T22:42:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42310,7 +42310,41 @@
    ],
    "topic": "bobr-rootless-content-addressed-build-2026-11-07",
    "firstSeen": "2026-11-07T22:27:21+08:00"
+  },
+  {
+   "id": "6e01b7f8d2",
+   "title": "OpenCode 2.2.6：同配置 MCP 可跨项目共用一条连接",
+   "summary": "打开 pooling 后，相同 MCP 配置在多个项目里共用一个进程，启动更快、后台进程更少；顺带支持 worktree 脚本跑（opencode run -w）、--archived 归档 CI 会话，以及手机端 composer 触控坞。适合多仓库并行跑 Agent 的人关注。",
+   "links": [
+    "https://opencode.ai/changelog/v2.2.6",
+    "https://opencode.ai/llms.txt"
+   ],
+   "topic": "opencode-2-2-6-shared-mcp-pooling-2026-11-07",
+   "firstSeen": "2026-11-07T22:42:22+08:00"
+  },
+  {
+   "id": "ab8048406f",
+   "title": "Kevin Boone：我不太在乎网页是不是 AI 写的",
+   "summary": "HN 热议短文：把「不准确 / 不真实 / 未标注」三条常见抱怨拆开讨论，主张对陌生来源一律用前古腾堡式怀疑，而不是先按人机二分。适合内容站与资讯雷达产品讨论「AI 标注 vs 可信度」时引用。",
+   "links": [
+    "https://kevinboone.me/ai.html",
+    "https://news.ycombinator.com/item?id=50404622"
+   ],
+   "topic": "kevin-boone-dont-care-ai-web-content-2026-11-07",
+   "firstSeen": "2026-11-07T22:42:22+08:00"
+  },
+  {
+   "id": "3739fe142c",
+   "title": "Dune Shell：bash 与 Lisp 的「不洁」组合，专为可脚本化 Shell",
+   "summary": "Adam McDaniel 的 dunesh：保留管道/重定向/跑程序的同时，内置标准库与函数式抽象；解释器可换前端，配置用 ~/.dune-prelude。cargo 从 GitHub 安装。适合折腾开发者工具链与「可编程 shell」方向雷达。",
+   "links": [
+    "https://adam-mcdaniel.github.io/dune-website/",
+    "https://github.com/adam-mcdaniel/dune",
+    "https://news.ycombinator.com/item?id=50404732"
+   ],
+   "topic": "dune-shell-bash-lisp-2026-11-07",
+   "firstSeen": "2026-11-07T22:42:22+08:00"
   }
  ],
- "lastChecked": "2026-11-07T22:27:21+08:00"
+ "lastChecked": "2026-11-07T22:42:22+08:00"
 }
