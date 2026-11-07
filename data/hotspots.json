@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T20:58:11+08:00",
+ "lastUpdated": "2026-11-07T21:19:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41984,7 +41984,49 @@
    ],
    "topic": "t3-codes-control-plane-momentum-2026-11-07",
    "firstSeen": "2026-11-07T20:58:11+08:00"
+  },
+  {
+   "id": "c3121b04e5",
+   "title": "CNBC：中期选举反数据中心浪潮下，Anthropic IPO 正撞上 AI 民意反噬",
+   "summary": "11 月 7 日稿指出：地方公投 41 项里 40 项倒向限制数据中心，超半数选民称 AI 数据中心影响国会投票；Anthropic 仍拟 11 月中旬前后登纳斯达克，估值预期已从约 2 万亿下压到约 1–1.5 万亿，招股书还列出约 8954 亿美元算力/基建承诺支出。",
+   "links": [
+    "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html"
+   ],
+   "topic": "cnbc-anthropic-ipo-ai-data-center-backlash-2026-11-07",
+   "firstSeen": "2026-11-07T21:19:09+08:00"
+  },
+  {
+   "id": "f06c228dbe",
+   "title": "英国《数据中心公约》：2030 年前冲刺 6GW AI 算力，换电网优先接入",
+   "summary": "英政府文件要求战略数据中心自担电费、做社区受益计划、PUE≤1.3、年报水电能耗，并换取预留/重配并网容量、必要时临时场站发电；与美国多地公投封杀形成鲜明对照。",
+   "links": [
+    "https://www.gov.uk/government/publications/data-centre-covenant/the-data-centre-covenant",
+    "https://x.com/i/trending/2119044558138802533"
+   ],
+   "topic": "uk-data-centre-covenant-6gw-2030-2026-10-28",
+   "firstSeen": "2026-11-07T21:19:09+08:00"
+  },
+  {
+   "id": "5a23622e18",
+   "title": "苏格兰 FoI：官员警告超大规模数据中心或推高电价、加剧缺水",
+   "summary": "国内气候变化副司长在内部文件称本地可能「承担更高电价甚至供电不稳却几乎无直接收益」，并警告缺水已提前到四月；社区团体批评政府把反对声当成「要管控的风险」。",
+   "links": [
+    "https://www.thenational.scot/news/26705146.scottish-government-papers-reveal-ai-data-centre-concerns/",
+    "https://x.com/i/trending/2119035172637356153"
+   ],
+   "topic": "scotland-foi-datacentre-bills-water-2026-11",
+   "firstSeen": "2026-11-07T21:19:09+08:00"
+  },
+  {
+   "id": "1cf081a126",
+   "title": "Statewatch：欧英至少 1.5 亿欧元采购 Cellebrite，权利保障薄弱",
+   "summary": "调查梳理 2023 起逾 150 份公共合同、合计约 6940 万欧元（英国为最大买家，伦敦都市警察一笔三年约 790 万英镑）；系列报道还指向欧盟资金援助摩尔多瓦警队、EEAS 拒披露等透明度问题。",
+   "links": [
+    "https://statewatch.org/news/2026/november/eu-and-uk-spent-millions-on-israeli-phone-cracking-tech/"
+   ],
+   "topic": "statewatch-cellebrite-eu-uk-69m-2026-11",
+   "firstSeen": "2026-11-07T21:19:09+08:00"
   }
  ],
- "lastChecked": "2026-11-07T20:58:11+08:00"
+ "lastChecked": "2026-11-07T21:19:09+08:00"
 }
