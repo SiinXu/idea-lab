@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T15:15:30+08:00",
+ "lastUpdated": "2026-11-07T15:26:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40949,7 +40949,42 @@
    ],
    "topic": "anthropic-ipo-timing-ai-backlash-reuters-2026-11-06",
    "firstSeen": "2026-11-07T15:15:30+08:00"
+  },
+  {
+   "id": "5186d80b7e",
+   "title": "Claude Code「Don't Ask Again」把密码写进公开仓库：Apiiro 扫到 1122 份",
+   "summary": "点「Yes, and don't ask again」会把整条已批准命令（含明文密钥）写入 .claude/settings.local.json；只靠本机 global excludes，不进项目 .gitignore。Apiiro 在公开 GitHub 扫到 10.4 万份该文件，约 1.1%（1122 份）含密钥，共 1379 个秘密；扩大到历史/共享配置/聊天记录后约 2539 个。建议先轮换凭证，再 git rm --cached 并写入仓库 .gitignore。",
+   "links": [
+    "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html"
+   ],
+   "topic": "claude-code-dont-ask-again-secrets-apiiro-2026-11-07",
+   "firstSeen": "2026-11-07T15:26:35+08:00"
+  },
+  {
+   "id": "843ba0f589",
+   "title": "智元 G2 人形机器人上海便利店连班 24 小时：1730 项任务，6 台过 4 台",
+   "summary": "智元 Agibot 六台 Genie G2 在上海徐汇真实便利店直播值守，迎客、取货、做咖啡热食、补货与清洁共完成约 1730 项任务；清洁与巡架补货两台未过考核。面向「永不下班」的具身落地秀，但充电、人工协助与人机效率对比仍未公开。",
+   "links": [
+    "https://english.news.cn/20261104/38d3010af9c3490d8bb666623bd72bce/c.html",
+    "https://www.techspot.com/news/114445-six-humanoid-robots-worked-24-hour-shift-convenience.html",
+    "https://www.agibot.com/article/231/detail/134.html"
+   ],
+   "topic": "agibot-g2-shanghai-convenience-24h-2026-11-04",
+   "firstSeen": "2026-11-07T15:26:35+08:00"
+  },
+  {
+   "id": "2737d822fe",
+   "title": "Gravity Linux：面向 Apple Silicon 的 Fedora 衍生，M4 Mac mini 早鸟 Alpha",
+   "summary": "清洁室逆向的 Fedora remix，KDE Plasma + Wayland，宣称含 GPU 加速；目前 M4 Mac mini 为开发者 Alpha，休眠/电源管理未就绪。一条 curl 安装脚本从 macOS 分区安装，与 Asahi 路线并行，目标上游化。",
+   "links": [
+    "https://gravitylinux.org/",
+    "https://gravitylinux.org/blog/early-alpha-m4-mac-mini/",
+    "https://itsfoss.com/news/gravity-linux-launch/"
+   ],
+   "topic": "gravity-linux-m4-mac-mini-alpha-2026-11",
+   "firstSeen": "2026-11-07T15:26:35+08:00"
   }
  ],
- "lastChecked": "2026-11-07T15:15:30+08:00"
+ "lastChecked": "2026-11-07T15:26:35+08:00"
 }
