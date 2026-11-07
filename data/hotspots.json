@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T16:30:18+08:00",
+ "lastUpdated": "2026-11-07T16:45:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41163,7 +41163,48 @@
    ],
    "topic": "kinrox-mac-mpv-iphone-remote-2026-11-07",
    "firstSeen": "2026-11-07T16:30:18+08:00"
+  },
+  {
+   "id": "bcbafeca90",
+   "title": "UAVOS ApusNeo 太阳能飞机冲向 100 小时滞空：欧洲空域已飞到约 1.45 万米",
+   "summary": "西班牙富埃特文图拉起降的 ApusNeo 曾爬升到约 47600 英尺，当前长航程测试已飞过约 80 小时、目标 100 小时；白天光伏、夜间电池，瞄准野火红外盯梢一类高空长航时任务。",
+   "links": [
+    "https://newatlas.com/aircraft/uavos-apusneo-haps-solar-aircraft-100-hour-flight-fuerteventura/"
+   ],
+   "topic": "uavos-apusneo-100h-haps-2026-11-07",
+   "firstSeen": "2026-11-07T16:45:52+08:00"
+  },
+  {
+   "id": "6114cb8419",
+   "title": "Neon Current：常开 AI 主持的互联网电台，听众可短消息插话",
+   "summary": "新加坡开发者 Chang Sau Sheong 做的 Neon Current，电台由 AI 主持讨论，听众可在话题进行中提交简短观点，通过审核后可能被带进直播。刚上 HN newest。",
+   "links": [
+    "https://radio.neoncurrent.dev/",
+    "https://news.ycombinator.com/item?id=50402779"
+   ],
+   "topic": "neon-current-ai-radio-2026-11-07",
+   "firstSeen": "2026-11-07T16:45:52+08:00"
+  },
+  {
+   "id": "8e803ab488",
+   "title": "皮尤：约三分之一美国人曾离开过某个在线社区",
+   "summary": "Pew 短读显示约三分之一美国人离开过至少一个在线社区；常见原因包括氛围变差、时间不够和平台疲劳，对社区产品留存与内容治理有参考价值。",
+   "links": [
+    "https://www.pewresearch.org/short-reads/2026/11/06/about-a-third-of-americans-have-left-an-online-community/"
+   ],
+   "topic": "pew-left-online-community-2026-11-06",
+   "firstSeen": "2026-11-07T16:45:52+08:00"
+  },
+  {
+   "id": "5dd9a8b5cb",
+   "title": "OrcaSlicer 2.5.0 正式版发布",
+   "summary": "开源切片软件 OrcaSlicer 放出 v2.5.0 正式版，继续服务消费级/桌面级 3D 打印工作流。",
+   "links": [
+    "https://github.com/OrcaSlicer/OrcaSlicer/releases/tag/v2.5.0"
+   ],
+   "topic": "orcaslicer-2-5-0-release-2026-11-07",
+   "firstSeen": "2026-11-07T16:45:52+08:00"
   }
  ],
- "lastChecked": "2026-11-07T16:30:18+08:00"
+ "lastChecked": "2026-11-07T16:45:52+08:00"
 }
