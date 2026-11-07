@@ -849,6 +849,106 @@
    "shown": true,
    "at": "2026-11-06T01:13:19+00:00",
    "id": "579f1979a4"
+  },
+  {
+   "topic": "h81c7b4143",
+   "title": "内核 AI 补丁政策卡",
+   "who": "维护 Linux 发行版或内核模块、正被「要不要禁 AI 生成补丁」扯进争论的内核开发者和发行版维护者",
+   "pain": "团队口头规矩不一：有人一刀切拒收，有人默许，评审时说不清披露、署名和责任边界",
+   "why_now": "X 热议 Linus Torvalds 称内核禁止 AI「极其愚蠢」",
+   "mvp": "一张可勾选政策卡覆盖：是否允许 AI 辅助、必须披露哪些字段、署名与 Signed-off-by、人工复核门槛、拒收情形；可贴进 CONTRIBUTING，页面放 Workers，样式对接 UI Hub",
+   "money": "个人卡免费，团队多仓政策模板、评审缺口提醒和变更归档 $10/月",
+   "not_do": "不替社区立法，不代写内核补丁，不收集贡献者私人身份以外的追踪数据",
+   "evidence": [
+    "https://x.com/i/trending/2118758317246095757"
+   ],
+   "score": 10,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 2,
+    "reuse": 2,
+    "novel": 1
+   },
+   "why": "X 真讨论链接；政策卡两周可上并接 Workers/UI Hub；多仓模板与评审缺口提醒支撑 $10；内核 AI 补丁披露角新",
+   "shown": true,
+   "at": "2026-11-07T01:07:07+00:00",
+   "id": "02f04e9a3c"
+  },
+  {
+   "topic": "hef2a83f7f",
+   "title": "模型级联省费看板",
+   "who": "把贵模型当默认、账单飙升却说不清哪类请求其实小模型就够的 AI 产品负责人和平台工程",
+   "pain": "路由规则靠感觉：要么全走顶级模型烧钱，要么乱降级翻车，没有按任务难度分级的对照与回放",
+   "why_now": "HN 热议能向 Opus 求助的小模型以四分之一成本逼近 Opus 准确率",
+   "mvp": "一张看板按任务难度分档，并排「默认小模型 / 升级条件 / 回放样本 / 单位成本」；粘贴一周日志抽样估省费率，接到 Idea Lab 和 Workers",
+   "money": "个人看板免费，团队路由规则共享、周省费报告和阈值告警 $12/月",
+   "not_do": "不代跑真实生产流量，不锁定单一模型供应商，不把用户原文日志上传到第三方",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50397429"
+   ],
+   "score": 10,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 2,
+    "reuse": 2,
+    "novel": 1
+   },
+   "why": "HN 真帖；难度分档看板与日志抽样两周可做；接 Idea Lab/Workers；周省费报告支撑 $12；级联省费角新",
+   "shown": true,
+   "at": "2026-11-07T01:07:07+00:00",
+   "id": "6ac3eaae19"
+  },
+  {
+   "topic": "h3b1e4d9e2",
+   "title": "Rust sudo 迁移体检",
+   "who": "要把发行版或内部镜像切到 Rust 重写 sudo、又怕脚本和权限策略翻车的 SRE 与发行版工程师",
+   "pain": "标准 sudoers、别名、插件和自动化脚本与新实现对不齐，升级后才发现命令行为或审计字段变了",
+   "why_now": "HN 热议 Ubuntu 26.04 的 Rust sudo 与标准 sudo 不兼容",
+   "mvp": "一份可勾选体检覆盖：sudoers 语法子集、别名展开、插件/拦截器、NOPASSWD 与票据、审计日志字段；粘贴配置片段标红风险，结果页放 Workers 并对接 Idea Lab",
+   "money": "个人体检免费，团队多主机基线对照、升级窗口提醒和差异归档 $11/月",
+   "not_do": "不远程改生产 sudoers，不提供绕过审计的技巧，不收集主机上的私人凭证",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50354308"
+   ],
+   "score": 10,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 2,
+    "reuse": 2,
+    "novel": 1
+   },
+   "why": "HN 真帖；sudoers 子集体检两周可上；接 Workers/Idea Lab；多主机基线对照支撑 $11；Rust sudo 迁移时效新",
+   "shown": true,
+   "at": "2026-11-07T01:07:07+00:00",
+   "id": "7e44f5636b"
+  },
+  {
+   "topic": "anomalyco-rune-gpu-ui-2026-11",
+   "title": "GPU UI 框架选型卡",
+   "who": "想用原生 GPU 渲染做跨平台桌面或嵌入 Web 界面、却被性能承诺和工程成本绕晕的独立开发者和小型产品团队",
+   "pain": "标杆 demo 很炫，真落到可访问性、输入法、打包体积和团队熟悉栈时对不上，选型会开成口炮仗",
+   "why_now": "HN 热议 Rune：面向 macOS/Windows/Linux 与 Web 的原生 GPU 渲染 Rust UI 框架",
+   "mvp": "一张选型卡并排目标平台、渲染路径、可访问性、IME、打包体积、学习曲线和与 UI Hub 组件的对接成本；勾选后导出一页结论，页面放 Workers",
+   "money": "个人选型免费，团队多项目对照归档和框架变更提醒 $9/月",
+   "not_do": "不替框架做性能背书，不打包闭源 SDK，不收集用户机器指纹",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50394569"
+   ],
+   "score": 9,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 2,
+    "novel": 1
+   },
+   "why": "HN 真帖；选型卡两周可做并接 UI Hub/Workers；团队 $9 偏薄；GPU UI 框架对照角新",
+   "shown": true,
+   "at": "2026-11-07T01:07:07+00:00",
+   "id": "d3609e55f0"
   }
  ]
 }
