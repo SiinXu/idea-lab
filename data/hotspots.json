@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T19:15:04+08:00",
+ "lastUpdated": "2026-11-07T19:15:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41695,7 +41695,17 @@
    ],
    "topic": "fangshi-tile-mortar-robot-viral-2026-11-07",
    "firstSeen": "2026-11-07T19:15:04+08:00"
+  },
+  {
+   "id": "1e0c242426",
+   "title": "LocalThings 冲上 GitHub 日榜：局域网直连三星家电，不依赖 SmartThings 云",
+   "summary": "Home Assistant 自定义集成，用 OCF/CoAP+DTLS 在局域网控制洗衣机、空调、冰箱等；装好后可不经三星云。正值 SmartThings 官方 HA 集成将于 12 月起收费，开源本地替代热度抬升（日榜约 +180 星，累计约 900+）。",
+   "links": [
+    "https://github.com/mbillow/localthings"
+   ],
+   "topic": "localthings-samsung-ha-no-cloud-trending-2026-11-07",
+   "firstSeen": "2026-11-07T19:15:58+08:00"
   }
  ],
- "lastChecked": "2026-11-07T19:15:04+08:00"
+ "lastChecked": "2026-11-07T19:15:58+08:00"
 }
