@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T16:18:45+08:00",
+ "lastUpdated": "2026-11-07T16:30:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41129,7 +41129,41 @@
    ],
    "topic": "backendskills-agent-prod-guards-2026-11-07",
    "firstSeen": "2026-11-07T16:18:45+08:00"
+  },
+  {
+   "id": "8187f342f3",
+   "title": "Sonda：开源自托管静态分析与质量门禁（类 SonarQube）",
+   "summary": "Rust 写的开源静态分析：支持 JS/TS/Python/Java/C#/C/C++/Rust，按「新代码」判质量门禁，可本机 CLI 或 Docker 自托管；面向不想把代码送上云的团队。",
+   "links": [
+    "https://www.sonda.sh/",
+    "https://github.com/lvaoliveira/sonda",
+    "https://news.ycombinator.com/item?id=50402676"
+   ],
+   "topic": "sonda-static-analysis-quality-gates-2026-11-07",
+   "firstSeen": "2026-11-07T16:30:18+08:00"
+  },
+  {
+   "id": "6e55894519",
+   "title": "Slate Terminal：可让 Agent 定制面板的原生 macOS 终端",
+   "summary": "基于 libghostty 的原生 Mac 终端：可用插件加面板/命令，也可用 slate-term CLI 让 Claude Code、Codex 等 Agent 拆窗、写插件并保存成可启动工作区。",
+   "links": [
+    "https://slate.weichart.de/",
+    "https://news.ycombinator.com/item?id=50402445"
+   ],
+   "topic": "slate-terminal-agent-panels-2026-11-07",
+   "firstSeen": "2026-11-07T16:30:18+08:00"
+  },
+  {
+   "id": "753176f7e0",
+   "title": "Show HN：Kinrox——约 196MB 内存的 macOS 视频播放器 + iPhone 遥控",
+   "summary": "基于 libmpv 的极简 macOS 播放器，局域网用 iPhone 遥控；Show HN 同时提到可当低内存 Spotify 播放器，主打轻量本机媒体控制。",
+   "links": [
+    "https://github.com/awaik/Kinrox",
+    "https://news.ycombinator.com/item?id=50402682"
+   ],
+   "topic": "kinrox-mac-mpv-iphone-remote-2026-11-07",
+   "firstSeen": "2026-11-07T16:30:18+08:00"
   }
  ],
- "lastChecked": "2026-11-07T16:18:45+08:00"
+ "lastChecked": "2026-11-07T16:30:18+08:00"
 }
