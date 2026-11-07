@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T23:33:13+08:00",
+ "lastUpdated": "2026-11-07T23:42:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42501,7 +42501,84 @@
    ],
    "topic": "zed-editor-github-trending-2026-11-07",
    "firstSeen": "2026-11-07T23:33:13+08:00"
+  },
+  {
+   "id": "f095f65f07",
+   "title": "Agent Memory Poisoning：如何定位脏记忆、追溯并撤销损害",
+   "summary": "持久记忆让投毒与危害可隔周发生；OWASP 已单独列为 ASI06。文章讲恶意植入、误写、过期漂移三类，以及用因果库做出处、影响面与可撤销退休。",
+   "links": [
+    "https://medium.com/@MirArshadTalpur/agent-memory-poisoning-how-to-find-a-bad-memory-trace-it-and-undo-the-damage-7e9974c2583b",
+    "https://news.ycombinator.com/item?id=50405405"
+   ],
+   "topic": "agent-memory-poisoning-trace-undo-2026-11-07",
+   "firstSeen": "2026-11-07T23:42:29+08:00"
+  },
+  {
+   "id": "5e6218e4b5",
+   "title": "Don't Delegate Taste：别把审美外包给 AI",
+   "summary": "作者盘点 AI 仪表盘/落地页的「UI 气味」：圆角 KPI 卡、药丸标签、三拍标题、渐变强调词……主张 AI 没有品味，人要学 UX 而不是只叠 skill 补丁。",
+   "links": [
+    "https://mutto.fyi/posts/2026/10/ai-slop-ux/",
+    "https://news.ycombinator.com/item?id=50405413"
+   ],
+   "topic": "dont-delegate-taste-ai-slop-ux-2026-11-07",
+   "firstSeen": "2026-11-07T23:42:29+08:00"
+  },
+  {
+   "id": "d2241d300c",
+   "title": "Using AI should be joyful：用 Agent 新闻室陪中期选举",
+   "summary": "作者用一群常驻 Agent（含疯魔共和党评论员 Brick Liberty）实时盯选举，比多数追踪器更快翻盘；呼吁别只把 AI 当正经办公工具，多做有趣的一次性玩具。",
+   "links": [
+    "https://12gramsofcarbon.com/p/agentics-using-ai-should-be-joyful",
+    "https://news.ycombinator.com/item?id=50405439"
+   ],
+   "topic": "using-ai-should-be-joyful-nori-newsroom-2026-11-07",
+   "firstSeen": "2026-11-07T23:42:29+08:00"
+  },
+  {
+   "id": "4694e3f35d",
+   "title": "Morse Messenger：多数手机没有胁迫 PIN，他们做了紧急抹除",
+   "summary": "除 GrapheneOS 外主流系统无 duress PIN。Morse 可在锁屏两下抹掉本机聊天，并尽量让一对一对话从对方手机消失；真正的 Morse 胁迫 PIN 还在路上。",
+   "links": [
+    "https://www.joinmorse.com/blog/duress-pin",
+    "https://news.ycombinator.com/item?id=50405396"
+   ],
+   "topic": "morse-messenger-emergency-erase-duress-2026-11-07",
+   "firstSeen": "2026-11-07T23:42:29+08:00"
+  },
+  {
+   "id": "0bfd6adc98",
+   "title": "Show HN：HyperFlow H3 Flash——31B 音视频扩散压到约 14B",
+   "summary": "Video Rebirth 把 MiniMax-H3 压成约 13.7B、4–8 步 INT8/GGUF 的联合视频+音频生成模型，开源仓库刚上 HN。",
+   "links": [
+    "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+    "https://news.ycombinator.com/item?id=50405263"
+   ],
+   "topic": "hyperflow-h3-flash-video-rebirth-2026-11-07",
+   "firstSeen": "2026-11-07T23:42:29+08:00"
+  },
+  {
+   "id": "7d604a8f54",
+   "title": "MySQL 全在内存里为何仍比 Redis 慢 50 倍",
+   "summary": "Buffer Pool 命中时主键查询仍约 0.8–2ms，对 Redis 约 30–60μs：16KB 页 B+树、闩锁、MVCC undo、SQL 解析栈叠出来的架构税，不是磁盘问题。",
+   "links": [
+    "https://www.gunjan.tech/blogs/why-mysql-in-memory-reads-are-50x-slower-than-redis-even-with-0-disk-io",
+    "https://news.ycombinator.com/item?id=50405262"
+   ],
+   "topic": "mysql-buffer-pool-vs-redis-50x-2026-11-07",
+   "firstSeen": "2026-11-07T23:42:29+08:00"
+  },
+  {
+   "id": "aa017b0bad",
+   "title": "Show HN：Fels——带编译期执行的系统语言",
+   "summary": "小系统语言：分区内存防逃逸、错误当值、编译期可跑代码，还有用 Fels 写的链接器；刚上 Show HN。",
+   "links": [
+    "https://github.com/fels-lang/fels",
+    "https://news.ycombinator.com/item?id=50405227"
+   ],
+   "topic": "fels-systems-language-compile-time-2026-11-07",
+   "firstSeen": "2026-11-07T23:42:29+08:00"
   }
  ],
- "lastChecked": "2026-11-07T23:33:13+08:00"
+ "lastChecked": "2026-11-07T23:42:29+08:00"
 }
