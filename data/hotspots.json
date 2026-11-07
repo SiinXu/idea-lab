@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T20:16:17+08:00",
+ "lastUpdated": "2026-11-07T20:29:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41841,7 +41841,63 @@
    ],
    "topic": "openai-tibo-poteto-rooftop-reset-2026-11-07",
    "firstSeen": "2026-11-07T20:16:17+08:00"
+  },
+  {
+   "id": "73f982ca83",
+   "title": "两家车企 ForgeRock 身份链被打穿：路径混淆 RCE 可远程锁车/启动",
+   "summary": "Sam Curry 与 Shubham Shah 今天披露：两家未具名车企共用的 ForgeRock/OpenIDM 上，用 `/static%2f..;/system/console` 一类路径混淆绕过 WAF，默认 admin:admin 进 Felix 控制台，再经调度器装 OSGi servlet 拿生产 RCE；改邮箱密码后可走官方 App 同款流程拿令牌，完成定位、解锁与远程启动。厂商约两小时内修复并轮换凭据。刚上 HN。",
+   "links": [
+    "https://samcurry.net/forgerock",
+    "https://news.ycombinator.com/item?id=50403927"
+   ],
+   "topic": "samcurry-forgerock-automaker-rce-vehicle-2026-11-07",
+   "firstSeen": "2026-11-07T20:29:14+08:00"
+  },
+  {
+   "id": "32c056341c",
+   "title": "Leave AWS：按服务列出迁出替代方案，并附只读盘点 Agent 提示词",
+   "summary": "leaveaws.com 把常见 AWS 服务逐条对照可迁目的地，并提供可交给 Claude/Cursor 的盘点提示词；另附刻意去掉 GetObject/GetSecretValue 的只读 IAM 策略，方便用临时密钥让 Agent 列清单而不读数据。面向「用 Agent 规划下云」的实用目录，刚出现在 HN。",
+   "links": [
+    "https://leaveaws.com/",
+    "https://news.ycombinator.com/item?id=50403864"
+   ],
+   "topic": "leaveaws-catalog-agent-migration-prompts-2026-11-07",
+   "firstSeen": "2026-11-07T20:29:14+08:00"
+  },
+  {
+   "id": "eac1dab970",
+   "title": "Axon 再投 Skydio 约 12 亿美元：美加公共安全独家分销，持股约至 37%",
+   "summary": "Axon（11月5日）宣布向 Skydio 追加约 12 亿美元投资（现金+股票），投前估值约 52 亿美元，充分稀释后持股约 15%→37%，并成为美加公共安全渠道独家分销商。DFR（无人机先响应）场景宣称优先呼叫响应可缩短至约 65%，约 80% 部署中无人机先于警员到达；Skydio 称本财年预订额目标约 10 亿美元。交易预计 2026Q4–2027Q1 完成，Techmeme 今日仍在转。",
+   "links": [
+    "https://www.axon.com/newsroom/press-releases/axon-invests-1-2-billion-in-skydio-to-build-the-future-of-drone-as-first-responder",
+    "https://www.sec.gov/Archives/edgar/data/1069183/000162828026071150/axon-20261105.htm"
+   ],
+   "topic": "axon-skydio-1-2b-dfr-exclusive-2026-11-05",
+   "firstSeen": "2026-11-07T20:29:14+08:00"
+  },
+  {
+   "id": "dcc3c73020",
+   "title": "CesiumAstro 完成约 7.3 亿美元 D 轮：估值超 45 亿，公布 737 星 Synchronicity 星座",
+   "summary": "CesiumAstro（11月5日）宣布 Janus Henderson 领投的约 7.3 亿美元 Series D（含 EXIM/JPM 约 1 亿美元债务），估值逾 45 亿美元；同期公布面向商用/主权/防务的 AI 使能 Synchronicity 星座（规划 737 星，Ku/Ka/V 与边缘计算）。此前 Element-1 已入轨验证，2026 年累计披露融资逾约 12 亿美元。Techmeme 今日头条之一。",
+   "links": [
+    "https://www.cesiumastro.com/press-release/series-d",
+    "https://spacenews.com/cesiumastro-valued-at-more-than-4-5-billion-after-raising-funds-for-constellation-expansion/"
+   ],
+   "topic": "cesiumastro-730m-series-d-synchronicity-2026-11-05",
+   "firstSeen": "2026-11-07T20:29:14+08:00"
+  },
+  {
+   "id": "cf63145bac",
+   "title": "北京 Sand.ai 完成约 2 亿美元 A+：自称估值破 10 亿，备发 MAGI-2",
+   "summary": "视频生成创业公司 Sand.ai（11月5日）宣布约 2 亿美元 Series A+（基石资本与网宿科技联合领投等），称估值超过 10 亿美元、近 10 个月累计融资约 3 亿美元；资金用于基础模型与推理基建，并计划正式发布 MAGI-2。产品侧有 VidMuse；网宿披露拟以可转债/认股权等方式投入并合作边缘推理。TechNode 等今日跟进。",
+   "links": [
+    "https://technode.com/2026/11/06/sand-ai-raises-200-million-ahead-of-magi-2-video-model-release/",
+    "https://technode.global/2026/11/06/sand-ai-series-a-funding/",
+    "https://sand.ai/"
+   ],
+   "topic": "sand-ai-200m-series-a-plus-magi-2-2026-11-05",
+   "firstSeen": "2026-11-07T20:29:14+08:00"
   }
  ],
- "lastChecked": "2026-11-07T20:16:17+08:00"
+ "lastChecked": "2026-11-07T20:29:14+08:00"
 }
