@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T00:14:48+08:00",
+ "lastUpdated": "2026-11-08T00:26:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42671,7 +42671,30 @@
    ],
    "topic": "bitcoin-quantum-landmines-cory-fields-2026-11",
    "firstSeen": "2026-11-08T00:14:48+08:00"
+  },
+  {
+   "id": "f2e0b42634",
+   "title": "Vals 网络攻防榜：免费开源 DeepSeek V4.1 Flash 逼近 OpenAI 限定的 GPT-6 Sol Daybreak",
+   "summary": "Vals CyberOffense 让 Agent 独立攻打两套模拟企业网：Daybreak 完成约 81% 目标，开源权重 DeepSeek V4.1 Flash 约 73%，单次成本不到 3 美元（约 1/10），在 Nova 网甚至略胜；Kimi K3.1 Pro 次之，GLM 5.3 Flash 卡死。Wired 报道，凸显「靠门槛封锁攻击能力」越来越难。",
+   "links": [
+    "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+    "https://www.vals.ai/benchmarks/cyber_offense",
+    "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/"
+   ],
+   "topic": "vals-cyberoffense-deepseek-near-daybreak-2026-11",
+   "firstSeen": "2026-11-08T00:26:22+08:00"
+  },
+  {
+   "id": "ebc75f9ee8",
+   "title": "Omdia：Q3 全球平板出货暴跌 23% 至 3200 万台，iPad 跌 27.5%",
+   "summary": "平板出货创近三年新低，内存等元件短缺让厂商把平板降级处理、升级乏力；苹果 1158 万台仍居首，华为跌 43%，联想是前五唯一增长（+12%）。Omdia 预计 2028 年前难有像样复苏。Techmeme 今日上榜。",
+   "links": [
+    "https://omdia.tech.informa.com/pr/2026/nov/global-tablet-shipments-fall-23percent-to-32-million-in-q3-2026",
+    "https://www.techmeme.com/261107/p6"
+   ],
+   "topic": "omdia-tablet-shipments-q3-2026-down-23",
+   "firstSeen": "2026-11-08T00:26:22+08:00"
   }
  ],
- "lastChecked": "2026-11-08T00:14:48+08:00"
+ "lastChecked": "2026-11-08T00:26:22+08:00"
 }
