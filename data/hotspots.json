@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T12:13:27+08:00",
+ "lastUpdated": "2026-11-07T12:25:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40256,7 +40256,50 @@
    ],
    "topic": "github-copilot-usage-metrics-code-review-addressed-2026-11-05",
    "firstSeen": "2026-11-07T12:13:27+08:00"
+  },
+  {
+   "id": "2e28947368",
+   "title": "Prisma：npx create-db 五秒给编码 Agent 开临时 Postgres",
+   "summary": "一条命令、无需注册即可开真实 Prisma Postgres；--json 输出连接串供 Cursor/Claude Code/Codex 解析。未认领 24 小时自删，可免费认领永久保留。专门解决 Agent 沙箱难跑 Docker、SQLite 测不准生产的问题。",
+   "links": [
+    "https://www.prisma.io/blog/give-your-agent-a-database",
+    "https://www.prisma.io/docs/postgres/npx-create-db",
+    "https://github.com/prisma/create-db"
+   ],
+   "topic": "prisma-npx-create-db-agent-postgres-2026-11",
+   "firstSeen": "2026-11-07T12:25:02+08:00"
+  },
+  {
+   "id": "0a4a4ce8b5",
+   "title": "Show HN：Tmux-restore——重启后恢复窗口，并重开 Claude/Codex 会话",
+   "summary": "把 tmux 会话、布局和滚动缓冲一并持久化；支持 Claude Code、Codex、Gemini CLI、opencode、pi 在重启后回到原对话。给长时间跑 Agent 的开发者补上「断电不丢现场」。",
+   "links": [
+    "https://github.com/andrewboldi/tmux-restore",
+    "https://news.ycombinator.com/item?id=50355009"
+   ],
+   "topic": "tmux-restore-agent-sessions-hn-2026-11-07",
+   "firstSeen": "2026-11-07T12:25:02+08:00"
+  },
+  {
+   "id": "5101d1a486",
+   "title": "Cloudflare Zero Wire：关键 CVE 一站看懂影响面与修补",
+   "summary": "Radar 上的漏洞情报中心：用人话讲清严重互联网漏洞、受影响部署、修复步骤，并挂厂商通告与利用证据，分「需关注」与「参考」。适合做成站点/Agent 基础设施的每日 CVE 简报源。",
+   "links": [
+    "https://blog.cloudflare.com/zero-wire/"
+   ],
+   "topic": "cloudflare-zero-wire-cve-hub-2026-11-03",
+   "firstSeen": "2026-11-07T12:25:02+08:00"
+  },
+  {
+   "id": "dab63348f0",
+   "title": "Cloudflare：Privacy Pass 也要抗量子——VOLE 路线探路",
+   "summary": "现有 Privacy Pass 依赖经典 RSA/椭圆曲线，量子机可伪造令牌。博文介绍用多变量密码的 VOLE-IHAT/VOLE-ACT 候选方案，兼顾匿名限流与抗量子，但仍属研究、体积与成本开销大。",
+   "links": [
+    "https://blog.cloudflare.com/vole-mole/"
+   ],
+   "topic": "cloudflare-post-quantum-privacy-pass-vole-2026-11-06",
+   "firstSeen": "2026-11-07T12:25:02+08:00"
   }
  ],
- "lastChecked": "2026-11-07T12:13:27+08:00"
+ "lastChecked": "2026-11-07T12:25:02+08:00"
 }
