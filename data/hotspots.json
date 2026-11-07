@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T09:13:10+08:00",
+ "lastUpdated": "2026-11-07T09:32:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -39697,7 +39697,73 @@
    ],
    "topic": "google-antigravity-quota-reset-weekend-2026-11-07",
    "firstSeen": "2026-11-07T09:13:10+08:00"
+  },
+  {
+   "id": "20351b5d65",
+   "title": "Anthropic Project Swap：201 名员工让 Claude Agent 代为换书",
+   "summary": "六办公室 201 人各带一本书，五分钟闲聊后由 Claude Agent 上交易大厅议价互换；偏好对齐约 61%，短板在偏好捕捉而非谈判，更强模型比提示词更能抬高市场效率。刚冲上 HN 最新。",
+   "links": [
+    "https://www.anthropic.com/research/project-swap",
+    "https://news.ycombinator.com/item?id=50400665"
+   ],
+   "topic": "anthropic-project-swap-agent-book-market-2026-11",
+   "firstSeen": "2026-11-07T09:32:46+08:00"
+  },
+  {
+   "id": "7218c17709",
+   "title": "Alexa 答不上来就交给 Claude：开源家庭助手 hey-claude",
+   "summary": "Show HN：把 Claude 接到家庭助手链路，Alexa 搞不定时由 Claude 接管；仓库刚上新，讨论「语音入口 + 强模型兜底」的家用 Agent 形态。",
+   "links": [
+    "https://github.com/rg321/hey-claude",
+    "https://news.ycombinator.com/item?id=50400738"
+   ],
+   "topic": "hey-claude-alexa-fallback-2026-11-07",
+   "firstSeen": "2026-11-07T09:32:46+08:00"
+  },
+  {
+   "id": "ab3a94a7c5",
+   "title": "Intelligence Density：别只看 token 单价，要看「每单位智能」成本",
+   "summary": "Trajectory 提出以任务成本衡量智能密度，并用 density-aware training 压废话：Harvey 法律基准通过率仍约 8.3%，平均输出从约 9 万 token 降到 3.7 万；也缓解标准 RL 的奖励 hacking。",
+   "links": [
+    "https://www.trajectory.ai/field-notes/intelligence-density",
+    "https://news.ycombinator.com/item?id=50400474"
+   ],
+   "topic": "trajectory-intelligence-density-2026-11",
+   "firstSeen": "2026-11-07T09:32:46+08:00"
+  },
+  {
+   "id": "f38a17de3a",
+   "title": "探访宇树工厂：人形机器人仍靠人手，作者反而更看好西方自动化",
+   "summary": "Josef Chen 参观杭州宇树：绕组等工序大量人工，劳动成本仅约 8%；产品年年改不好上专用产线。作者认为西方工资高、政策逼国产化，反而更值得砸可换型的自动化与电机产线。",
+   "links": [
+    "https://josef.cn/blog/unitree",
+    "https://news.ycombinator.com/item?id=50400597"
+   ],
+   "topic": "unitree-factory-tour-west-automation-2026-11",
+   "firstSeen": "2026-11-07T09:32:46+08:00"
+  },
+  {
+   "id": "2769f47996",
+   "title": "纯 CSS 跑起 GPT-2：用可变字体做矩阵乘法，全程无 JS",
+   "summary": "Shubham Patil 把约 1.24 亿参数的 GPT-2 small 塞进纯 CSS：用可变字体 HVAR 做点积、滚动时间线读宽度、一天延迟 transition 当 KV cache；约 15 秒/token，首访约 250MB 字体。",
+   "links": [
+    "https://shubhampatil.dev/blog/gpt2-css",
+    "https://news.ycombinator.com/item?id=50400576"
+   ],
+   "topic": "gpt2-entirely-in-css-2026-11-06",
+   "firstSeen": "2026-11-07T09:32:46+08:00"
+  },
+  {
+   "id": "190bb24fc0",
+   "title": "逆向工程提醒：反编译器也会骗你，应用指令交叉核验",
+   "summary": "XRef 作者用公开样例演示：字段名→偏移→两千个诱骗写手→调用图打分；历史伪 C 曾把本该返回 4 的分支显示成 99。给 Agent 做逆向时，伪代码只能辅助，最终要对机器指令。",
+   "links": [
+    "https://prod.codes/blog/reverse-engineering-with-ai-your-decompiler-can-lie-to-you/",
+    "https://news.ycombinator.com/item?id=50400753"
+   ],
+   "topic": "xref-decompiler-can-lie-ai-re-2026-11-06",
+   "firstSeen": "2026-11-07T09:32:46+08:00"
   }
  ],
- "lastChecked": "2026-11-07T09:13:10+08:00"
+ "lastChecked": "2026-11-07T09:32:46+08:00"
 }
