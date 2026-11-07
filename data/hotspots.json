@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T17:26:33+08:00",
+ "lastUpdated": "2026-11-07T17:43:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41335,7 +41335,62 @@
    ],
    "topic": "futhark-nondeterminism-blog-2026-11-04",
    "firstSeen": "2026-11-07T17:26:33+08:00"
+  },
+  {
+   "id": "6637088a58",
+   "title": "CNN：民主党如何用「反数据中心」怒火翻红州",
+   "summary": "中期选举后复盘：亲 Talarico 的超级 PAC 在得州考夫曼县等 55 个县对数据中心 5 英里内选民点名攻击肯·帕克斯顿；俄亥俄至少 10 城通过禁建章程修正案。CNN 民调显示约 1/4 选民称 AI/数据中心对投票「关键」，本地建数据中心反对约 3:1。",
+   "links": [
+    "https://www.cnn.com/2026/11/07/politics/democrats-midterms-data-centers-ken-paxton-james-talarico"
+   ],
+   "topic": "cnn-democrats-data-center-backlash-midterms-2026-11-07",
+   "firstSeen": "2026-11-07T17:43:58+08:00"
+  },
+  {
+   "id": "ab74f4db3e",
+   "title": "Ubuntu 26.04 的 Rust coreutils 离 GNU 有多远：27 个工具约 2000 用例实测",
+   "summary": "有人对 Ubuntu 26.04 自带的 uutils 0.10.0、更新版 0.12.0 与 main，对照 GNU 9.12 做行为差分：cat/tac 等接近满分，comm/wc/head 等边缘用例差距大；部分缺口上游已修但未进 26.04，且 Ubuntu 自带的 GNU 9.7 相对 9.12 也有漂移。",
+   "links": [
+    "https://github.com/karolkulesza/port-anything/tree/main/showcases/ubuntu-uutils",
+    "https://news.ycombinator.com/item?id=50402949"
+   ],
+   "topic": "ubuntu-uutils-gnu-parity-diff-2026-11-07",
+   "firstSeen": "2026-11-07T17:43:58+08:00"
+  },
+  {
+   "id": "0fe782cf2b",
+   "title": "Show HN：给富士 X-T30 II 加 BLE 直连 instax Link 3 打印（还挖出固件色偏 bug）",
+   "summary": "作者逆向官方固件、用 SD 卡冷启动在 RAM 里跑补丁（不写 flash），补上相机里已有却未接线的蓝牙打印桩，并发现 Link 3 某能力位触发富士管线把 ARGB 当 YUV 编码的粉红鬼影。全程配合 Claude Code + Ghidra/Unicorn。",
+   "links": [
+    "https://ronangaillard.github.io/posts/fujifilm-x-t30-ii-instax-link-3/",
+    "https://github.com/ronangaillard/xt30ii-instax-link",
+    "https://news.ycombinator.com/item?id=50403007"
+   ],
+   "topic": "fujifilm-xt30ii-instax-link3-ble-mod-2026-11-07",
+   "firstSeen": "2026-11-07T17:43:58+08:00"
+  },
+  {
+   "id": "c63454566c",
+   "title": "DocuAPI：一份 API 把 PDF/Office 转成 Markdown、JSON 或 RAG 分块",
+   "summary": "面向做 AI 应用的开发者：上传 PDF/DOCX/PPTX 等，同步或异步返回带标题/表格结构的 Markdown、规范化 JSON，或可直接喂向量库的分块；强调不落库文档。Show HN 新鲜上线。",
+   "links": [
+    "https://www.docuapi.dev/",
+    "https://news.ycombinator.com/item?id=50403016"
+   ],
+   "topic": "docuapi-document-to-rag-chunks-2026-11-07",
+   "firstSeen": "2026-11-07T17:43:58+08:00"
+  },
+  {
+   "id": "9ac6d0b3a4",
+   "title": "用编码 Agent 要试几次，可能更像「标准高低」而不是「会不会用」",
+   "summary": "Codemanship 新文反驳「试得少=更会用 Claude Code」：作者周末 vibe coding 工作坊工具迭代很多次，更像库布里克多拍几遍；有研究认为「三小时顶三个月」和「自己写更快」两派分野，更可能来自质量门槛而不是 AI 技巧。",
+   "links": [
+    "https://codemanship.wordpress.com/2026/11/07/how-many-tries-we-need-using-coding-agents-may-say-more-about-standards-than-competence/",
+    "https://news.ycombinator.com/item?id=50403034"
+   ],
+   "topic": "codemanship-coding-agent-tries-standards-2026-11-07",
+   "firstSeen": "2026-11-07T17:43:58+08:00"
   }
  ],
- "lastChecked": "2026-11-07T17:26:33+08:00"
+ "lastChecked": "2026-11-07T17:43:58+08:00"
 }
