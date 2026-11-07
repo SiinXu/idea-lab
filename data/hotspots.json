@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T01:42:13+08:00",
+ "lastUpdated": "2026-11-08T01:43:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42916,7 +42916,17 @@
    ],
    "topic": "ai-software-factories-org-scaling-2026-11-07",
    "firstSeen": "2026-11-08T01:42:13+08:00"
+  },
+  {
+   "id": "f542a4d889",
+   "title": "钠离子电池逼近 LFP 成本平价：约 70 GWh 已有供货协议",
+   "summary": "行业报道称钠离子电池成本正逼近磷酸铁锂，且约 70 GWh 产能已被供货协议覆盖；HN 热度高，储能与低成本电动场景值得盯。",
+   "links": [
+    "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/"
+   ],
+   "topic": "sodium-ion-cost-parity-lfp-pv-magazine-2026-11",
+   "firstSeen": "2026-11-08T01:43:08+08:00"
   }
  ],
- "lastChecked": "2026-11-08T01:42:13+08:00"
+ "lastChecked": "2026-11-08T01:43:08+08:00"
 }
