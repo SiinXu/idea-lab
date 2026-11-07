@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T15:58:53+08:00",
+ "lastUpdated": "2026-11-07T16:18:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41041,7 +41041,95 @@
    ],
    "topic": "democrats-tech-probe-apple-meta-musk-2026-11-06",
    "firstSeen": "2026-11-07T15:58:53+08:00"
+  },
+  {
+   "id": "a45b862760",
+   "title": "剑桥论文提出 Inter-AI Morality：AI 之间如何彼此对待",
+   "summary": "剑桥/华威/伯克利/NYU 团队发文，把 AI 与 AI 的合作、监督、修改乃至终止视为独立道德领域；给出感知—判断—动机—行动与社会尺度研究议程，并附 GPT-4o 试点：同样求助，模型更优先「人类」而非「AI」。",
+   "links": [
+    "https://digitalminds.cam/inter-ai-morality.pdf",
+    "https://news.ycombinator.com/item?id=50402602"
+   ],
+   "topic": "inter-ai-morality-caviola-2026-11",
+   "firstSeen": "2026-11-07T16:18:45+08:00"
+  },
+  {
+   "id": "a4fe045778",
+   "title": "Bong：可自托管的 DuckDuckGo Bang 替代",
+   "summary": "开源自托管 bang 跳转：用 !g、!w 一类短命令直达搜索与站点，不依赖 DuckDuckGo 托管。适合隐私向个人检索入口。",
+   "links": [
+    "https://bong.glendalab.com",
+    "https://news.ycombinator.com/item?id=50402535"
+   ],
+   "topic": "bong-ddg-bang-alternative-2026-11-07",
+   "firstSeen": "2026-11-07T16:18:45+08:00"
+  },
+  {
+   "id": "3f3fc00ed7",
+   "title": "Show HN：Ryph——值班故障响应的自托管编程 Agent",
+   "summary": "面向团队的自托管 coding agent：挂在聊天与代码托管上，专司 incident response；强调本地可控、可进聊天与 forge，而不是纯云端黑盒。",
+   "links": [
+    "https://github.com/ryph-hq/ryph",
+    "https://news.ycombinator.com/item?id=50402421"
+   ],
+   "topic": "ryph-incident-coding-agents-2026-11-07",
+   "firstSeen": "2026-11-07T16:18:45+08:00"
+  },
+  {
+   "id": "25c4031275",
+   "title": "Galactica：给开发者与 Agent 用的 TypeScript 代码地图",
+   "summary": "追踪 JS/TS import、找出改动能影响的测试，并浏览依赖图；把代码库结构做成 Agent 与人都能用的导航层。",
+   "links": [
+    "https://github.com/cognitap/galactica",
+    "https://news.ycombinator.com/item?id=50402227"
+   ],
+   "topic": "galactica-ts-codebase-map-2026-11-07",
+   "firstSeen": "2026-11-07T16:18:45+08:00"
+  },
+  {
+   "id": "d7778c9e4e",
+   "title": "356 颗处理器裸 die 合集：真比例对照从 8008 到 Zen 5",
+   "summary": "sheets.works 汇总业余/研究者显微照片，覆盖 1972–2024 约 356 颗 CPU die；可按真实尺寸叠放对比，并链回各摄影师授权来源。",
+   "links": [
+    "https://sheets.works/data-viz/cpu-dies",
+    "https://news.ycombinator.com/item?id=50402632"
+   ],
+   "topic": "cpu-dies-photographed-gallery-2026-11-07",
+   "firstSeen": "2026-11-07T16:18:45+08:00"
+  },
+  {
+   "id": "7f190e51c8",
+   "title": "nngen：用文生图架构的扩散模型直接生成可用神经网络权重",
+   "summary": "把「生成图像」换成「生成 GenAI 模型权重」：以文本描述条件，扩散出可运行网络；Show HN 冲上 HN，方向是 GenAI 生成 GenAI。",
+   "links": [
+    "https://github.com/vagrillo/nngen",
+    "https://news.ycombinator.com/item?id=50402488"
+   ],
+   "topic": "nngen-diffusion-generates-nn-weights-2026-11-07",
+   "firstSeen": "2026-11-07T16:18:45+08:00"
+  },
+  {
+   "id": "191e3eb02f",
+   "title": "Slonbase：基于 PostgreSQL 的开源 PocketBase 式后端",
+   "summary": "单 Rust 二进制提供 REST/实时 API、角色鉴权、文件、hooks、SQL 控制台与多项目后台；兼容 PocketBase SDK，可横向扩展。",
+   "links": [
+    "https://github.com/ayeshrodz/slonbase",
+    "https://news.ycombinator.com/item?id=50402205"
+   ],
+   "topic": "slonbase-pocketbase-postgres-2026-11-07",
+   "firstSeen": "2026-11-07T16:18:45+08:00"
+  },
+  {
+   "id": "7880000710",
+   "title": "Backend Skills：专治 Agent「演示能过、上线就炸」的后端技能包",
+   "summary": "针对 Claude Code / Codex / Cursor：隐藏检查测 15 类后端任务；作者称加技能后严重失误从 25/150 降到 2/150，强调生产向约束而非 demo 绿过。",
+   "links": [
+    "https://github.com/globalmpc/backendskills",
+    "https://news.ycombinator.com/item?id=50402468"
+   ],
+   "topic": "backendskills-agent-prod-guards-2026-11-07",
+   "firstSeen": "2026-11-07T16:18:45+08:00"
   }
  ],
- "lastChecked": "2026-11-07T15:58:53+08:00"
+ "lastChecked": "2026-11-07T16:18:45+08:00"
 }
