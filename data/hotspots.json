@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T22:13:05+08:00",
+ "lastUpdated": "2026-11-07T22:27:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42264,7 +42264,53 @@
    ],
    "topic": "ea-wing-commander-ultima-remasters-steam-gog-2026-11",
    "firstSeen": "2026-11-07T22:13:05+08:00"
+  },
+  {
+   "id": "1eb66c023e",
+   "title": "微软开源 DACS：用节点本地盘给 AI 训练/推理缓存模型与数据集",
+   "summary": "Azure 把 Distributed Accelerator for Cloud Storage 开源：在 K8s GPU 节点的 NVMe/SSD 上做集群本地缓存，Blob 仍是持久源。训练评测里「卡住≥5 秒」的读盘比例从 14% 降到 0.1%；推理冷启动可复用已拉进集群的权重。含 C/C++/Python/Rust 客户端与 Helm。适合做成「GPU 旁路缓存」点子。",
+   "links": [
+    "https://opensource.microsoft.com/blog/2026/11/05/accelerate-data-access-for-inference-and-training-with-the-open-source-distributed-accelerator-for-cloud-storage/",
+    "https://github.com/Azure/dacs",
+    "https://news.ycombinator.com/item?id=50404680"
+   ],
+   "topic": "microsoft-dacs-open-source-gpu-cache-2026-11",
+   "firstSeen": "2026-11-07T22:27:21+08:00"
+  },
+  {
+   "id": "865631e636",
+   "title": "Show HN：Spindle——面向 OCaml 5 的全功能类型安全 Web 框架",
+   "summary": "基于 Eio、多核原生：路由即类型，自动出 OpenAPI、Zod/Melange 前端 schema，并带 WebSocket/SSE、MCP server 原语与 OpenTelemetry。作者称单核基准约比 NestJS 快 2 倍、比 FastAPI 快 5 倍。适合关注「契约驱动后端」的开发者雷达。",
+   "links": [
+    "https://github.com/hyphatech/spindle",
+    "https://hyphatech.github.io/spindle/",
+    "https://news.ycombinator.com/item?id=50377613"
+   ],
+   "topic": "spindle-ocaml5-web-framework-2026-11-07",
+   "firstSeen": "2026-11-07T22:27:21+08:00"
+  },
+  {
+   "id": "67b92b3f27",
+   "title": "NBC 选举夜「Big Board」是怎么做成的：改 JSON 几分钟上电视",
+   "summary": "EJ Fox 回顾与 NBC 做出 Steve Kornacki 手持触控县级地图：从 1 月原型一路演示到直播；选举夜在家 VPN+SSH 改 JSON、pm2 重启，几分钟后 Hulu 上就能看到改动。前端工程遇上广播级零容错压力的一手复盘。",
+   "links": [
+    "https://ejfox.com/projects/nbc-big-board",
+    "https://news.ycombinator.com/item?id=50361417"
+   ],
+   "topic": "nbc-big-board-ejfox-election-ui-2026-11",
+   "firstSeen": "2026-11-07T22:27:21+08:00"
+  },
+  {
+   "id": "4d21970355",
+   "title": "Show HN：Bobr——无根、内容寻址的 Linux 构建系统（类 Nix）",
+   "summary": "个人项目：用 Nickel 声明配方，用户命名空间沙箱构建内核/initramfs/根文件系统，可在 QEMU 启动；对象按内容哈希去重，文件系统树硬链接组装。比 Nix 更少强加目录布局，适合「可复现镜像/边车构建」方向关注。",
+   "links": [
+    "https://bobr.build/",
+    "https://news.ycombinator.com/item?id=50404764"
+   ],
+   "topic": "bobr-rootless-content-addressed-build-2026-11-07",
+   "firstSeen": "2026-11-07T22:27:21+08:00"
   }
  ],
- "lastChecked": "2026-11-07T22:13:05+08:00"
+ "lastChecked": "2026-11-07T22:27:21+08:00"
 }
