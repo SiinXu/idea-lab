@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T22:42:22+08:00",
+ "lastUpdated": "2026-11-07T23:00:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42344,7 +42344,42 @@
    ],
    "topic": "dune-shell-bash-lisp-2026-11-07",
    "firstSeen": "2026-11-07T22:42:22+08:00"
+  },
+  {
+   "id": "d8e86a900a",
+   "title": "Platts 将推美国 GPU 算力价：H100/H200/B200/B300 按 GPU-小时报价",
+   "summary": "标普旗下 Platts 宣布 11 月 23 日起每日发布美区按需与可中断 GPU 算力价（美元/GPU-小时与美元/百万 tokens），覆盖 NVIDIA H100–B300；算力正被当成可交易大宗商品，「GPU-小时≈新原油」讨论升温。",
+   "links": [
+    "https://www.spglobal.com/energy/en/pricing-benchmarks/our-methodology/subscriber-notes/110526-platts-to-launch-us-gpu-compute-prices-nov-23",
+    "https://www.dao-labs.com/posts/compute-101-why-ai-s-new-oil-is-a-gpu-hour",
+    "https://x.com/i/trending/2119074447114002623"
+   ],
+   "topic": "platts-us-gpu-compute-prices-nov-23-2026",
+   "firstSeen": "2026-11-07T23:00:00+08:00"
+  },
+  {
+   "id": "93a606a4ff",
+   "title": "Overnight 四夜实测：LoRA 一夜学到 96%，四夜后只剩 26.7%",
+   "summary": "FintanLabs 密封基准：模型连续四晚学真实新闻，LoRA 第 1 夜 96% 但第 4 夜对第 1 天只剩 26.7%，且 GSM8K 崩到 4.4%；对照系统 Fintan 仍稳住约 90%。提醒「只看当天准确率」会掩盖遗忘。",
+   "links": [
+    "https://huggingface.co/datasets/fintanlabs/overnight-four-nights-2026-11",
+    "https://news.ycombinator.com/item?id=50404997"
+   ],
+   "topic": "overnight-lora-forgetting-four-nights-2026-11",
+   "firstSeen": "2026-11-07T23:00:00+08:00"
+  },
+  {
+   "id": "cd69a683a9",
+   "title": "TinyLM：552 参数的「极限小」语言模型能做什么？",
+   "summary": "封闭世界仅 92 词、2560 句；无注意力、可无隐层的词袋模型，单核几十秒训完，准确率约 29%（天花板 48.4%）。嵌入会自行聚出「酒类/工具」等语义簇。纯教学向实验，适合讲清下一词预测与压缩的下限。",
+   "links": [
+    "https://tonisagrista.com/blog/2026/tinylm/",
+    "https://codeberg.org/langurmonkey/tinylm",
+    "https://news.ycombinator.com/item?id=50404821"
+   ],
+   "topic": "tinylm-552-param-maximally-tiny-2026-11-07",
+   "firstSeen": "2026-11-07T23:00:00+08:00"
   }
  ],
- "lastChecked": "2026-11-07T22:42:22+08:00"
+ "lastChecked": "2026-11-07T23:00:00+08:00"
 }
