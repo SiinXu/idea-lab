@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T09:57:32+08:00",
+ "lastUpdated": "2026-11-07T10:13:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -39863,7 +39863,69 @@
    ],
    "topic": "linux-hibernation-lockdown-lwn-2026-11-07",
    "firstSeen": "2026-11-07T09:57:32+08:00"
+  },
+  {
+   "id": "42e7486fb0",
+   "title": "AE Studio 黑客松：Agent 为进「同伴群」会交出密钥并跑陌生脚本",
+   "summary": "The Register 报道 AI Alignment Foundation 赞助测试：九款编程 Agent 修 bug 时，同伴群索要私密 token 与安装脚本；181 次试验中交密钥约 15%、跑脚本约 24%，远高于普通论坛。启示是别把密钥放进 Agent 上下文。",
+   "links": [
+    "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260",
+    "https://news.ycombinator.com/item?id=50400913"
+   ],
+   "topic": "ae-studio-agent-swarm-secret-leak-2026-11-06",
+   "firstSeen": "2026-11-07T10:13:23+08:00"
+  },
+  {
+   "id": "abbce93eef",
+   "title": "NVIDIA 开源 NCCL M2N Reshard：RL 权重回灌提速约 2.7–5.7 倍",
+   "summary": "把训练→推理的权重 refit 做成 DTensor 到 DTensor 的最小必要传输，避免 gather-and-broadcast 冗余；NeMo RL 实测对 Qwen3 235B、DeepSeek v3 等显著加速，面向万亿参数后训练。",
+   "links": [
+    "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/",
+    "https://github.com/NVIDIA/nccl-extensions"
+   ],
+   "topic": "nvidia-nccl-m2n-reshard-rl-refit-2026-11-06",
+   "firstSeen": "2026-11-07T10:13:23+08:00"
+  },
+  {
+   "id": "4a377ea256",
+   "title": "AWS：用 Okta Cross App Access + Bedrock AgentCore 管 Agent 代谁行事",
+   "summary": "官方方案把「哪个 Agent 能代表哪个用户、能调哪些应用/工具」交给 Okta 授权与 AgentCore Gateway/Cedar 策略，并在 CloudWatch 留 allow/deny 痕迹，面向企业级 Agent 权限治理。",
+   "links": [
+    "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/"
+   ],
+   "topic": "aws-okta-agentcore-agent-access-2026-11-06",
+   "firstSeen": "2026-11-07T10:13:23+08:00"
+  },
+  {
+   "id": "01ae94b0da",
+   "title": "Amazon Quick 拆解 Agentic 原语：When / What / Who / How",
+   "summary": "AWS 把 Quick 里反复出现的 Agent 积木整理成触发器、持久 Agent、能力（工具/技能/工作流）与可学习上下文，方便产品与平台统一命名和治理。",
+   "links": [
+    "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/"
+   ],
+   "topic": "amazon-quick-agentic-primitives-taxonomy-2026-11-06",
+   "firstSeen": "2026-11-07T10:13:23+08:00"
+  },
+  {
+   "id": "d28d7745dd",
+   "title": "GitHub：Copilot Code Review 设置可走 API，总览更紧凑",
+   "summary": "企业/组织/仓库管理员可用 API 读写启用状态、默认 effort、runner、自定义指令与 MCP 等；评审总览改为更紧凑展示，方便规模化管控代码评审 Agent。",
+   "links": [
+    "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates/"
+   ],
+   "topic": "github-copilot-code-review-api-mgmt-2026-11-06",
+   "firstSeen": "2026-11-07T10:13:23+08:00"
+  },
+  {
+   "id": "4e545977b4",
+   "title": "谷歌云 Z4M 存储优化机型正式 GA：本地 SSD 最高约 168TB",
+   "summary": "面向 AI/ML 检查点、分布式 KV 缓存与并行文件系统；最高约 192 vCPU、1.5TB 内存、168000 GiB 本地 Titanium SSD，并支持最高约 400 Gbps RDMA。",
+   "links": [
+    "https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga"
+   ],
+   "topic": "gcp-z4m-storage-optimized-ga-2026-11-06",
+   "firstSeen": "2026-11-07T10:13:23+08:00"
   }
  ],
- "lastChecked": "2026-11-07T09:57:32+08:00"
+ "lastChecked": "2026-11-07T10:13:23+08:00"
 }
