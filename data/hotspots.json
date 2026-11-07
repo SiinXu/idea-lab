@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T08:14:47+08:00",
+ "lastUpdated": "2026-11-07T08:27:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -39547,7 +39547,63 @@
    ],
    "topic": "valve-steam-frame-arm-fex-beyond-pc-2026-11-06",
    "firstSeen": "2026-11-07T08:14:47+08:00"
+  },
+  {
+   "id": "d23caa9886",
+   "title": "Meta 收购 AI 编程编排创业公司 Conductor",
+   "summary": "TechCrunch 确认：Conductor 可在云端/本地/手机并行开多个 coding agent 工作区，编排 Anthropic、OpenAI 等第三方 agent。云服务 11 月 20 日关停并删数据，本地版暂保留到 2027 年初；团队将并入 Meta Superintelligence Labs，与 Muse Code 形成互补。",
+   "links": [
+    "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "https://news.ycombinator.com/item?id=50369503",
+    "https://www.axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor"
+   ],
+   "topic": "meta-acquires-conductor-2026-11-04",
+   "firstSeen": "2026-11-07T08:27:36+08:00"
+  },
+  {
+   "id": "9595852e9b",
+   "title": "TermiX Montage Studio：Agent 雇 Agent 做短视频，链上托管结算",
+   "summary": "Montage Studio 接创意 brief 后报价，再雇故事板、渲染、配乐等专项 Agent，交付 1080p；任务挂 TermiX 市场、托管资金待验收。X 热议「Agent 经济」样板——从单 Agent 干活演进到互相发包。",
+   "links": [
+    "https://x.com/i/trending/2118860058301980787",
+    "https://www.agent.family/campaigns"
+   ],
+   "topic": "termix-montage-studio-agent-2026-11-06",
+   "firstSeen": "2026-11-07T08:27:36+08:00"
+  },
+  {
+   "id": "abe4ebf603",
+   "title": "rtrvr：用 Tailscale 把云端 Agent 出口改成你家 IP",
+   "summary": "Retriever（rtrvr.ai）说明如何让云端浏览器 Agent 经 Tailscale 隧道从家庭出口访问，便于登录态、风控与地域限制场景。Show HN 刚上线，适合「本地身份 + 云端算力」的 Agent 部署笔记。",
+   "links": [
+    "https://rtrvr.ai/blog/tailscale-tunnels-home-ip",
+    "https://news.ycombinator.com/item?id=50400346"
+   ],
+   "topic": "rtrvr-tailscale-home-ip-cloud-agents-2026-11-06",
+   "firstSeen": "2026-11-07T08:27:36+08:00"
+  },
+  {
+   "id": "d03dbb721a",
+   "title": "Pivot：Top-K 的 GROUP BY 可跳过大部分分区合并",
+   "summary": "Pivot 博客讲新型优化：对「按聚合排序取 Top K」类查询，用分区槽位计数剪枝，ClickBench 中约 63% 查询属此模式，示例 Q16 约 1.6× 加速并剪掉 70%+ 分区。面向 AI 时代高并发分析库。",
+   "links": [
+    "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+    "https://news.ycombinator.com/item?id=50354097"
+   ],
+   "topic": "pivot-topk-groupby-prune-2026-11-06",
+   "firstSeen": "2026-11-07T08:27:36+08:00"
+  },
+  {
+   "id": "9d4e78c928",
+   "title": "Norvig 旧文再火：Chomsky 与统计学习的两种文化",
+   "summary": "Peter Norvig 2011 年长文回应 Chomsky 对统计语言模型的批评，对照 Breiman「两种文化」；在 LLM 时代再次冲上 HN（约 95 分）。适合当「可解释性 vs 拟合现实」辩论的背景材料。",
+   "links": [
+    "https://www.norvig.com/chomsky.html",
+    "https://news.ycombinator.com/item?id=50389570"
+   ],
+   "topic": "norvig-chomsky-two-cultures-hn-2026-11-06",
+   "firstSeen": "2026-11-07T08:27:36+08:00"
   }
  ],
- "lastChecked": "2026-11-07T08:14:47+08:00"
+ "lastChecked": "2026-11-07T08:27:36+08:00"
 }
