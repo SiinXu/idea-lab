@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T18:48:51+08:00",
+ "lastUpdated": "2026-11-07T18:56:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41606,7 +41606,73 @@
    ],
    "topic": "nhs-palantir-fdp-possible-two-year-extension-2026-11",
    "firstSeen": "2026-11-07T18:48:51+08:00"
+  },
+  {
+   "id": "74e36d00f5",
+   "title": "Clawdcursor：用无障碍树驱动桌面，比截图 Computer-Use 省十几倍 token",
+   "summary": "本地桌面控制工具，优先读 a11y 树按元素名点击，实测找按钮约 38 token，截图回路常要上千；带验证与安全闸门，支持 MCP，对标 Anthropic Computer Use。",
+   "links": [
+    "https://clawdcursor.com/",
+    "https://news.ycombinator.com/item?id=50403289"
+   ],
+   "topic": "clawdcursor-a11y-desktop-agent-2026-11-07",
+   "firstSeen": "2026-11-07T18:56:06+08:00"
+  },
+  {
+   "id": "bb7265f807",
+   "title": "oMLX Prefill Accelerator：第二台 Mac 给长提示预填加速约 2.9×",
+   "summary": "大内存 Mac 跑完整模型，快 GPU 的第二台 Mac 只跑前几层预填；Thunderbolt/5GbE 即可。M3 Ultra+M5 Max 上 DeepSeek V4.1 Flash 64K 预填约 1060→3123 tok/s。",
+   "links": [
+    "https://github.com/jundot/omlx/releases/tag/v0.7.4.dev1",
+    "https://news.ycombinator.com/item?id=50403212"
+   ],
+   "topic": "omlx-prefill-accelerator-second-mac-2026-11-07",
+   "firstSeen": "2026-11-07T18:56:06+08:00"
+  },
+  {
+   "id": "979794dfd7",
+   "title": "美军 DoW 8430.01：AI 写的代码默认未验证，须可追溯、人工核验",
+   "summary": "国防部「加速任务软件」指令要求：标明 AI 触达的模型/版本，安全关键改动须人工批准，政府数据不出批准边界。GitLab 据此推 Duo Agent 审计与自托管网关。",
+   "links": [
+    "https://about.gitlab.com/blog/department-of-war-instruction-for-ai-generated-code/",
+    "https://news.ycombinator.com/item?id=50403408"
+   ],
+   "topic": "dow-8430-01-ai-code-verification-2026-11-07",
+   "firstSeen": "2026-11-07T18:56:06+08:00"
+  },
+  {
+   "id": "be8df44f62",
+   "title": "前特斯拉 Autopilot 负责人：纯视觉是「诡异的宗教立场」",
+   "summary": "GM 首席产品官 Sterling Anderson（2015–16 掌舵 Autopilot）称去掉雷达无视物理：摄像头穿不透浓雾、测不了瞬时速度；正值特斯拉在奥斯汀推纯摄像头无人车。",
+   "links": [
+    "https://electrek.co/2026/10/29/ex-tesla-autopilot-head-vision-only-weird-religious-stance/",
+    "https://news.ycombinator.com/item?id=50403147"
+   ],
+   "topic": "sterling-anderson-vision-only-weird-religious-2026-11-07",
+   "firstSeen": "2026-11-07T18:56:06+08:00"
+  },
+  {
+   "id": "643ad42350",
+   "title": "希腊公布 2026–2030 国家半导体战略草案并公开征求意见",
+   "summary": "希腊发展部发布微电子与芯片国家战略草案：设计/IP、产学研、人才、国防能源海事等应用、投资基建五大优先；HCCC 获约 363 万欧元，意见征集至 11 月 12 日。",
+   "links": [
+    "https://hccc.org.gr/greece-opens-a-new-chapter-in-microelectronics-and-semiconductors/",
+    "https://news.ycombinator.com/item?id=50403263"
+   ],
+   "topic": "greece-national-semiconductor-strategy-2026-11-07",
+   "firstSeen": "2026-11-07T18:56:06+08:00"
+  },
+  {
+   "id": "7562ac2fd2",
+   "title": "Upload Your RAM：恶搞站「把闲置内存捐给山姆·奥特曼」",
+   "summary": "针对「个人电脑塞太多 RAM 低效」言论的讽刺站，可选捐 2/4/16 GB；HN 短时冲到十余分，侧面反映对云端算力叙事的吐槽情绪。",
+   "links": [
+    "https://uploadyourram.org/",
+    "https://news.ycombinator.com/item?id=50403214"
+   ],
+   "topic": "upload-your-ram-satire-2026-11-07",
+   "firstSeen": "2026-11-07T18:56:06+08:00"
   }
  ],
- "lastChecked": "2026-11-07T18:48:51+08:00"
+ "lastChecked": "2026-11-07T18:56:06+08:00"
 }
