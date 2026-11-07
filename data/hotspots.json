@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T17:57:13+08:00",
+ "lastUpdated": "2026-11-07T18:12:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41446,7 +41446,41 @@
    ],
    "topic": "vale-prose-linting-agents-2026-11-07",
    "firstSeen": "2026-11-07T17:57:13+08:00"
+  },
+  {
+   "id": "a2f8f86086",
+   "title": "ThisBash：恶意浏览器扩展可借 Claude Dispatch 在本机跑代码",
+   "summary": "Forever Security 演示：能在 claude.ai 注入脚本的扩展，可把已登录且开启 Dispatch 的 Claude Desktop 当远程执行面——代点「允许」、装 npm 并跑安装脚本；跨设备配对时还可能打到工作机。Anthropic 5 月认领为重复问题，称将下线 Dispatch，但现有 Pro/Max/Ultra 用户仍可用，Remote Control/Cowork 也被指同源设计风险。",
+   "links": [
+    "https://forever.security/blog/thisbash-claude-dispatch-browser-extension-rce",
+    "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+    "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684"
+   ],
+   "topic": "claude-dispatch-thisbash-extension-rce-2026-11",
+   "firstSeen": "2026-11-07T18:12:50+08:00"
+  },
+  {
+   "id": "f5859b68b9",
+   "title": "GLP-1 试验版图：心衰、成瘾甚至「抗衰老」登记试验占比约翻三倍",
+   "summary": "MACCUS 扫 ClinicalTrials.gov：司美格鲁肽等肠促胰岛素类药物登记试验至少约 1800 项，过去 15 年里「非糖尿病/减重」占比约从 1/14 升到约 1/4；2024 年后新增跨 15 个病种，成瘾、心肾肝与阿尔茨海默等均有中期试验，商业与生物学信号一起把管道拉宽。",
+   "links": [
+    "https://maccus.fr/en/ozempic-drugs-trials-beyond-diabetes/",
+    "https://news.ycombinator.com/item?id=50393458"
+   ],
+   "topic": "glp1-trials-beyond-diabetes-maccus-2026-11",
+   "firstSeen": "2026-11-07T18:12:50+08:00"
+  },
+  {
+   "id": "81e98a9f55",
+   "title": "英国律所 decoded.legal 更新：五年全栈自由软件办公实录",
+   "summary": "Neil Brown 发 2026 版：Debian/GNOME + Thunderbird/mutt、Syncthing+radicale 取代 Nextcloud、Forgejo、paperless-ngx、GrapheneOS；明确不用 AI。对「专业服务如何自托管、少 SaaS」是少见的长文对照样本。",
+   "links": [
+    "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+    "https://news.ycombinator.com/item?id=50403066"
+   ],
+   "topic": "decoded-legal-foss-law-firm-2026-update",
+   "firstSeen": "2026-11-07T18:12:50+08:00"
   }
  ],
- "lastChecked": "2026-11-07T17:57:13+08:00"
+ "lastChecked": "2026-11-07T18:12:50+08:00"
 }
