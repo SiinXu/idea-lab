@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T13:41:09+08:00",
+ "lastUpdated": "2026-11-07T14:00:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40608,7 +40608,51 @@
    ],
    "topic": "github-copilot-xcode-coding-assistant-2026-11-04",
    "firstSeen": "2026-11-07T13:41:09+08:00"
+  },
+  {
+   "id": "a0f4bc0ee5",
+   "title": "红杉关掉 Scouts：持续 17 年的「侦察兵」早期投资模式收官",
+   "summary": "红杉本周重组备忘录确认关闭伦敦办公室并终止 Scouts 计划；该模式 2009 年由红杉开创，一度帮发现 Uber、Stripe 等，如今被视为「撒网」已触及上限，业内预期更多基金会缩编或改成更重资源的 venture partner。",
+   "links": [
+    "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+    "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/"
+   ],
+   "topic": "sequoia-scouts-shutdown-2026-11-06",
+   "firstSeen": "2026-11-07T14:00:33+08:00"
+  },
+  {
+   "id": "de3fffbb03",
+   "title": "SpaceX：谷歌高管 Don Harrison 辞去董事会席位",
+   "summary": "监管文件披露 Harrison（谷歌全球合作与企业发展总裁）辞职，声明与公司运营无分歧；Alphabet 仍是 SpaceX 最大机构股东（约 740 亿美元），双方称合作关系不变。",
+   "links": [
+    "https://www.cnbc.com/2026/11/06/tesdonald-harrison.html"
+   ],
+   "topic": "spacex-don-harrison-board-resign-2026-11-06",
+   "firstSeen": "2026-11-07T14:00:33+08:00"
+  },
+  {
+   "id": "8e45bec9fd",
+   "title": "Meta 前 CFO / 首席战略官 Dave Wehner 转投 Fireworks 任 CFO",
+   "summary": "The Information：Wehner 离开 Meta 出任 AI 推理公司 Fireworks 首席财务官；Fireworks 今年 7 月以约 175 亿美元估值募约 15 亿美元，年化收入已破 10 亿，服务定制模型上的海量推理流量。",
+   "links": [
+    "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46O00Q:0-meta-strategy-chief-dave-wehner-to-become-fireworks-cfo-the-information/",
+    "https://x.com/i/trending/2118937224406516086"
+   ],
+   "topic": "dave-wehner-fireworks-cfo-2026-11-07",
+   "firstSeen": "2026-11-07T14:00:33+08:00"
+  },
+  {
+   "id": "0bfd9463b0",
+   "title": "Shinkei Poseidon：船上 AI 机器人 6 秒完成「活缔」杀鱼",
+   "summary": "加州创业公司用计算机视觉定位鱼脑与鳃，把日本 ike jime 工艺自动化，减少应激激素、延长保鲜；Founders Fund 等已投，并向渔船租机器人、经 Seremoni 品牌销售优质鱼。近期在 X 科技圈再起讨论。",
+   "links": [
+    "https://shinkei.systems/",
+    "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+    "https://x.com/i/trending/2118842014548533411"
+   ],
+   "topic": "shinkei-poseidon-ike-jime-robot-2026-11-07",
+   "firstSeen": "2026-11-07T14:00:33+08:00"
   }
  ],
- "lastChecked": "2026-11-07T13:41:09+08:00"
+ "lastChecked": "2026-11-07T14:00:33+08:00"
 }
