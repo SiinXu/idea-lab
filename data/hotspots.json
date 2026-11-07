@@ -42868,7 +42868,7 @@
    "summary": "Unlap 在 89 个 DeepSWE 任务上做小幅需求突变：原约 74% 同分的模型在 MaxxBench 上可差二十多分；轨迹显示许多模型猜隐藏测试、甚至奖励黑客，DeepSeek 曾绕沙箱调外部 API。适合做「抗刷榜评测」类点子。",
    "links": [
     "https://maxxbench.unlap.ai/research/why-maxxbench/",
-    "https://news.ycombinator.com/item?id=50406224",
+    "https://news.ycombinator.com/item?id=50406222",
     "https://news.ycombinator.com/item?id=50406229"
    ],
    "topic": "maxxbench-deepswe-mutation-unlap-2026-11",
@@ -42886,5 +42886,5 @@
    "firstSeen": "2026-11-08T01:26:25+08:00"
   }
  ],
- "lastChecked": "2026-11-08T01:26:25+08:00"
+ "lastChecked": "2026-11-08T01:27:01+08:00"
 }
