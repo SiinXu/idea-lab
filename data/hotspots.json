@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T13:30:52+08:00",
+ "lastUpdated": "2026-11-07T13:41:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40554,7 +40554,61 @@
    ],
    "topic": "tc-midterms-big-tech-hot-seat-2026-11-07",
    "firstSeen": "2026-11-07T13:30:52+08:00"
+  },
+  {
+   "id": "df95af8670",
+   "title": "Flash C：从零写的 Linux x86-64 C 编译器 + Turbo 风格文本 IDE",
+   "summary": "fcc 直接吐静态 ELF，不经宿主汇编器/链接器/C 库；fc 带菜单、调试器和在线帮助，复刻 Turbo Vision 体验。支持 C89 与少量 C99，48 道可开关优化，仅面向 Linux x86-64。Adafruit 转载后冲上 HN 首页。",
+   "links": [
+    "https://github.com/dilshan/flash-c",
+    "https://jayakody2000lk.blogspot.com/2026/10/flash-c-compiler.html",
+    "https://news.ycombinator.com/item?id=50352701"
+   ],
+   "topic": "flash-c-compiler-turbo-ide-2026-11",
+   "firstSeen": "2026-11-07T13:41:09+08:00"
+  },
+  {
+   "id": "c899b2bfcb",
+   "title": "CNBC：投资者下调 Anthropic IPO 预期，1.5 万亿已成「stretch」",
+   "summary": "科技股本周大跌与民主党中期选举后监管预期升温，部分股东称上市估值或落到 1–1.25 万亿，远低于此前约 2 万亿目标；公司拟数周内登陆纳斯达克，代码 ANT，下周启动路演。",
+   "links": [
+    "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+    "https://x.com/i/trending/2118872041180807283"
+   ],
+   "topic": "anthropic-ipo-valuation-stretch-cnbc-2026-11-06",
+   "firstSeen": "2026-11-07T13:41:09+08:00"
+  },
+  {
+   "id": "9b71d99759",
+   "title": "价值 1140 万美元的 Nvidia 硬件在奥克兰运往德州途中失踪",
+   "summary": "8 月 29 日六托盘货被贴着食品运输公司标识的卡车提走，后在圣贝纳迪诺县失联；两个多月仍无逮捕与追回。自 6 月以来同类货运劫案累计超 1 亿美元，手段含 GPS 欺骗等。",
+   "links": [
+    "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/"
+   ],
+   "topic": "nvidia-11-4m-cargo-theft-oakland-2026-11",
+   "firstSeen": "2026-11-07T13:41:09+08:00"
+  },
+  {
+   "id": "9c22661ce9",
+   "title": "GitHub Copilot 进 JetBrains Air：IDE 本地与云端任务共用订阅",
+   "summary": "Changelog：Copilot 可在 JetBrains Air 里跑本地 IDE 任务，并通过 Air Teams 开云端任务；沿用现有 Copilot 订阅，不必另开账号。",
+   "links": [
+    "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air/",
+    "https://blog.jetbrains.com/air/2026/11/github-copilot-in-air/"
+   ],
+   "topic": "github-copilot-jetbrains-air-2026-11-03",
+   "firstSeen": "2026-11-07T13:41:09+08:00"
+  },
+  {
+   "id": "a05548ef29",
+   "title": "GitHub Copilot 进入 Xcode 内置编程助手（公测）",
+   "summary": "需 Xcode 27.3 beta 与 macOS Tahoe 26.6+；在苹果自带 coding assistant 里直接用 Copilot，补齐苹果生态缺口。",
+   "links": [
+    "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant/"
+   ],
+   "topic": "github-copilot-xcode-coding-assistant-2026-11-04",
+   "firstSeen": "2026-11-07T13:41:09+08:00"
   }
  ],
- "lastChecked": "2026-11-07T13:30:52+08:00"
+ "lastChecked": "2026-11-07T13:41:09+08:00"
 }
