@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T15:26:35+08:00",
+ "lastUpdated": "2026-11-07T15:47:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40984,7 +40984,42 @@
    ],
    "topic": "gravity-linux-m4-mac-mini-alpha-2026-11",
    "firstSeen": "2026-11-07T15:26:35+08:00"
+  },
+  {
+   "id": "9e9f501930",
+   "title": "东映（假面骑士母公司）定下生成式 AI 规则：今年起影视制作用 AI 画背景",
+   "summary": "东映社长吉村文雄在台北 TCCF 主题演讲中称，公司已制定生成式 AI 使用规范，今年起在影视制作中使用 AI（如生成背景），并在开发帮新人制片估算预算的 AI 系统、考虑用 AI 审核 IP 周边。东映 Games 首批三款原创游戏 2027 年上 Steam。特摄粉丝在 X 上强烈反弹，担心实拍特效传统被替代。",
+   "links": [
+    "https://variety.com/2026/film/markets-festivals/kamen-rider-studio-toei-generative-ai-rules-2027-game-slate-1236941104/",
+    "https://x.com/i/trending/2118709605312438500"
+   ],
+   "topic": "toei-generative-ai-rules-kamen-rider-2026-11",
+   "firstSeen": "2026-11-07T15:47:59+08:00"
+  },
+  {
+   "id": "0fe2c3cb3c",
+   "title": "Spotify AI 二创功能引艺人抵制：会员加价 4–5 美元即可让歌曲换曲风、换人翻唱",
+   "summary": "据 FT，Spotify 计划 2027 年一季度上线付费 AI 翻唱/混音功能，Premium 用户每月加 4–5 美元，可把民谣改成舞曲或让一位歌手「翻唱」另一位的歌，二创可上传并计入原曲榜单、版税回流原作者，需艺人逐个授权（已签环球、Merlin、Believe、Kobalt）。Jermaine Dupri 等喊话「要么分钱要么砍掉」，X 上出现下架威胁。",
+   "links": [
+    "https://www.techspot.com/news/114410-spotify-plans-users-remix-artists-songs-using-ai.html",
+    "https://www.heise.de/en/news/AI-generated-remixes-Spotify-plans-reportedly-delayed-by-artists-11507502.html",
+    "https://x.com/i/trending/2118852539118694745"
+   ],
+   "topic": "spotify-ai-remix-addon-backlash-2026-11",
+   "firstSeen": "2026-11-07T15:47:59+08:00"
+  },
+  {
+   "id": "936d0f7fa4",
+   "title": "《星球大战：零号连队》卖出约百万份后，开发商 Bit Reactor 仍裁员",
+   "summary": "EA 发行的回合制战术游戏 Star Wars Zero Company 8 月底上线、口碑不错，第三方估算首月约 100 万份、5000 万美元收入；工作室发售前曾让约 80% 员工无薪停职，11 月 6 日美术、UI、QA 多名开发者在 LinkedIn 宣布被裁，人数与后续更新计划未公布。",
+   "links": [
+    "https://outputlag.com/news/star-wars-zero-companys-studio-lays-off-developers-after-an-estimated-million-sales/",
+    "https://bespinbulletin.com/star-wars-zero-company-developer-bit-reactor-hit-with-layoffs/",
+    "https://x.com/i/trending/2118883123094044991"
+   ],
+   "topic": "bit-reactor-zero-company-layoffs-2026-11",
+   "firstSeen": "2026-11-07T15:47:59+08:00"
   }
  ],
- "lastChecked": "2026-11-07T15:26:35+08:00"
+ "lastChecked": "2026-11-07T15:47:59+08:00"
 }
