@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T18:56:06+08:00",
+ "lastUpdated": "2026-11-07T19:15:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41672,7 +41672,30 @@
    ],
    "topic": "upload-your-ram-satire-2026-11-07",
    "firstSeen": "2026-11-07T18:56:06+08:00"
+  },
+  {
+   "id": "273bbe1e41",
+   "title": "Need for Speed Underground 2 整棵 PC 代码搬进浏览器：可联机、最高约 120fps",
+   "summary": "粉丝项目 nfsu2.xyz 把 SPEED2.EXE 静态重编译进 Chrome/Firefox，支持自由驾驭与在线对战、手柄/方向盘/触控；基于 Talha Müderrisoğlu 的 NFSU2Recomp（MIT），不含游戏资源，需自备正版。HN 约 1.5 小时内升到二十余分。",
+   "links": [
+    "https://nfsu2.xyz/",
+    "https://github.com/th0mk/nfsu2-web",
+    "https://news.ycombinator.com/item?id=50403052"
+   ],
+   "topic": "nfsu2-browser-static-recomp-2026-11-07",
+   "firstSeen": "2026-11-07T19:15:04+08:00"
+  },
+  {
+   "id": "7a43b9f3e1",
+   "title": "工地铺砖机器人刷屏：方石机器人砂浆摊铺 + 视觉伺服贴砖",
+   "summary": "北京方石（Fangshi）等厂商的摊浆/贴砖机器人视频在 X 走热：可摊砂浆、背涂、视觉对缝，宣称日铺约百平、接缝精度亚毫米级；讨论集中在减负与维保、工种分工变化，人类仍负责收边与质检。",
+   "links": [
+    "https://www.fsarchirobot.com/products/stone-tile-laying-robot.html",
+    "https://x.com/i/trending/2119010813143027861"
+   ],
+   "topic": "fangshi-tile-mortar-robot-viral-2026-11-07",
+   "firstSeen": "2026-11-07T19:15:04+08:00"
   }
  ],
- "lastChecked": "2026-11-07T18:56:06+08:00"
+ "lastChecked": "2026-11-07T19:15:04+08:00"
 }
