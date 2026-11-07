@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T17:43:58+08:00",
+ "lastUpdated": "2026-11-07T17:57:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41390,7 +41390,63 @@
    ],
    "topic": "codemanship-coding-agent-tries-standards-2026-11-07",
    "firstSeen": "2026-11-07T17:43:58+08:00"
+  },
+  {
+   "id": "5ec03af4da",
+   "title": "每台 Mac 都有一套未公开的「家人」分类器：Personal Knowledge Graph",
+   "summary": "Eighth Rank 拆解：macOS 13 起本机守护进程会建关系图谱，含 144 维特征的家庭成员 XGBoost 分类器，分数落在 entityTagging.db；另文讨论图谱被滥用的风险。",
+   "links": [
+    "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+    "https://news.ycombinator.com/item?id=50403097",
+    "https://8rank.ai/game/apple-intelligence-knowledge-graph-in-the-wrong-hands"
+   ],
+   "topic": "apple-pkg-family-classifier-8rank-2026-11-07",
+   "firstSeen": "2026-11-07T17:57:13+08:00"
+  },
+  {
+   "id": "e3d93f2e2f",
+   "title": "Show HN：FastVM——空闲休眠、来包即醒的 MicroVM",
+   "summary": "面向沙箱/Agent 场景的 MicroVM：闲时休眠，有流量再唤醒；作者强调思路优先于代码成熟度，适合对照 Firecracker 一类编排。",
+   "links": [
+    "https://github.com/tuananh/fastvm",
+    "https://news.ycombinator.com/item?id=50403001"
+   ],
+   "topic": "fastvm-microvm-sleep-wake-2026-11-07",
+   "firstSeen": "2026-11-07T17:57:13+08:00"
+  },
+  {
+   "id": "8202dd1634",
+   "title": "Show HN：Rungrid——在多台本机并行跑 AI Agent 任务",
+   "summary": "控制面一次下发指令，每台 runner 起独立 Agent 实例做系统运维类工作（查版本、采指标、看日志）；MVP 候补中，方向对准「一台多机」的 Agent 编排。",
+   "links": [
+    "https://rungrid.space/",
+    "https://news.ycombinator.com/item?id=50402836"
+   ],
+   "topic": "rungrid-parallel-agent-runners-2026-11-07",
+   "firstSeen": "2026-11-07T17:57:13+08:00"
+  },
+  {
+   "id": "6f245ed270",
+   "title": "Show HN：Recall Radar——多国食品召回聚合 + ML 分级与邮件提醒",
+   "summary": "汇总美加英美欧南非召回源，按原因/严重度分类并做主题聚类与异常月份提示；带邮件告警，偏合规/消费安全小产品。",
+   "links": [
+    "https://brentbutkow.me/projects/recall-radar",
+    "https://news.ycombinator.com/item?id=50402907"
+   ],
+   "topic": "recall-radar-food-safety-ml-2026-11-07",
+   "firstSeen": "2026-11-07T17:57:13+08:00"
+  },
+  {
+   "id": "35a9b7d2d7",
+   "title": "Vale：给文档/Agent 输出做「像代码一样」的文风 lint",
+   "summary": "把风格指南写成 YAML 规则，在编辑器与 CI 里跑；Promptless 等已用它审 Agent 写的文档。新一轮 HN 讨论再把它推到视野里。",
+   "links": [
+    "https://vale.sh/",
+    "https://news.ycombinator.com/item?id=50403087"
+   ],
+   "topic": "vale-prose-linting-agents-2026-11-07",
+   "firstSeen": "2026-11-07T17:57:13+08:00"
   }
  ],
- "lastChecked": "2026-11-07T17:43:58+08:00"
+ "lastChecked": "2026-11-07T17:57:13+08:00"
 }
