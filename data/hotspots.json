@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T10:32:52+08:00",
+ "lastUpdated": "2026-11-07T10:44:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -39956,7 +39956,70 @@
    ],
    "topic": "github-copilot-jetbrains-air-xcode-2026-11-06",
    "firstSeen": "2026-11-07T10:32:52+08:00"
+  },
+  {
+   "id": "ad6ceafc04",
+   "title": "开发者热议：子代理摘要丢细节，是 AI 编码翻车主因之一",
+   "summary": "Alexander Yue 实测：主代理把上下文摘要给子代理，再拿回摘要，细节一路损耗，简单任务也会发错邮件。同会话 Opus 5.5 上，单主代理约 67 秒/$0.38，fork 检查点方案更慢但上下文更稳；社区倾向少用子代理、或改检索/单长跑代理。",
+   "links": [
+    "https://x.com/i/trending/2118894024954126408"
+   ],
+   "topic": "subagent-summary-loss-coding-agents-2026-11-07",
+   "firstSeen": "2026-11-07T10:44:26+08:00"
+  },
+  {
+   "id": "5dfb134487",
+   "title": "一句提示词：「找出应用里所有隐含状态机」",
+   "summary": "Steve Ruiz 的提示「find all of the implicit state machines in my app」持续发酵：把散落在布尔、标志位和条件分支里的模式揪出来再显式化。有人据此挖出旧 bug，也有人把结果转成 actor；适合当 coding agent 的廉价审计招。",
+   "links": [
+    "https://x.com/steveruizok/status/2116552016218710389",
+    "https://x.com/i/trending/2118891729676075014",
+    "https://aicodingweekly.news/stories/steve-ruiz-implicit-state-machines-prompt"
+   ],
+   "topic": "implicit-state-machines-prompt-steve-ruiz-2026-11-07",
+   "firstSeen": "2026-11-07T10:44:26+08:00"
+  },
+  {
+   "id": "c57d2721d9",
+   "title": "Diana：盯住本机所有编码 Agent 的终端，命令先问再跑",
+   "summary": "本地优先终端，把 Claude Code / Codex / Gemini CLI 等会话放进同一窗口：录命令与花费、回放改动，危险命令（如 force-push、rm）先拦住让你放行。免费下载，数据不离本机；HN 刚冒头，方向贴近「Agent 工作台」。",
+   "links": [
+    "https://heydiana.ai/",
+    "https://news.ycombinator.com/item?id=50401027"
+   ],
+   "topic": "diana-agent-terminal-heydiana-2026-11-07",
+   "firstSeen": "2026-11-07T10:44:26+08:00"
+  },
+  {
+   "id": "23359978bb",
+   "title": "GitHub：@GitHub 在 Slack / Teams 正式 GA，Teams 上线 Canvas",
+   "summary": "聊天里就能查 bug、开 Issue、改代码、提 PR；Teams 新增 Canvas 并排看方案/diff/预览。还能从对话里自动识别仓库、加快开会话，Issue/PR 描述会标注来自谁的 Slack/Teams 对话。",
+   "links": [
+    "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available/"
+   ],
+   "topic": "github-at-github-slack-teams-ga-2026-11-06",
+   "firstSeen": "2026-11-07T10:44:26+08:00"
+  },
+  {
+   "id": "bc2d0068f5",
+   "title": "AWS：Claude Code 任务丢给 Bedrock AgentCore 远程会话，交回 PR",
+   "summary": "本机 Claude Code 经插件把任务交到账户内 AgentCore Runtime（每任务独立 microVM），走 Bedrock 模型与护栏，跑 setup/test 后开 draft PR，从不自动合并。适合「关电脑也继续写」的远程编码 agent。",
+   "links": [
+    "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/"
+   ],
+   "topic": "aws-claude-code-bedrock-agentcore-remote-2026-11-06",
+   "firstSeen": "2026-11-07T10:44:26+08:00"
+  },
+  {
+   "id": "317a771eb3",
+   "title": "Amazon Bedrock 上线 Kimi K3.1 Pro（Highspeed）",
+   "summary": "月之暗面开源权重模型进 Bedrock：宣称原生多模态、约百万 token 上下文，面向编码与文档等 agent 场景，支持显式 prompt caching；走跨区域推理，套用 Bedrock 安全边界。",
+   "links": [
+    "https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock/"
+   ],
+   "topic": "aws-bedrock-kimi-k3-1-pro-2026-11-06",
+   "firstSeen": "2026-11-07T10:44:26+08:00"
   }
  ],
- "lastChecked": "2026-11-07T10:32:52+08:00"
+ "lastChecked": "2026-11-07T10:44:26+08:00"
 }
