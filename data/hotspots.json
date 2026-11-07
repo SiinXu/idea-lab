@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T20:29:14+08:00",
+ "lastUpdated": "2026-11-07T20:48:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41897,7 +41897,42 @@
    ],
    "topic": "sand-ai-200m-series-a-plus-magi-2-2026-11-05",
    "firstSeen": "2026-11-07T20:29:14+08:00"
+  },
+  {
+   "id": "a1017ad4e8",
+   "title": "MousePods：AirPods 3 头追踪跑上 Linux，并首次公开 Apple RemoteHID",
+   "summary": "开源工具在无苹果主机条件下读取 AirPods 3 / Pro 2 运动传感器当鼠标，顺带拆清 RemoteHID（HID over AACP）；作者用 Claude Code 大量探测，Hackaday / XDA 已跟进。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://github.com/starman-tech/mousepods",
+    "https://starman-tech.github.io/mousepods/",
+    "https://hackaday.com/2026/11/06/mousepods-reverse-engineers-head-tracking-data-from-stubborn-airpods/",
+    "https://news.ycombinator.com/item?id=50404075"
+   ],
+   "topic": "mousepods-airpods3-remotehid-linux-2026-11-07",
+   "firstSeen": "2026-11-07T20:48:40+08:00"
+  },
+  {
+   "id": "65cb9b80f7",
+   "title": "TunePing：互联网电台实时曲目索引，附 12 个可周末做的产品点子",
+   "summary": "约每分钟扫数万电台标题行并提供 JSON/MCP；文中列出反向 Shazam、广告跳台、独立音乐空播报告等可落地想法，适合 Idea Lab 再拆。",
+   "links": [
+    "https://tuneping.com/notes/twelve-things-to-build-on-a-live-radio-index/",
+    "https://news.ycombinator.com/item?id=50404079"
+   ],
+   "topic": "tuneping-live-radio-index-ideas-2026-11-07",
+   "firstSeen": "2026-11-07T20:48:40+08:00"
+  },
+  {
+   "id": "37716682ac",
+   "title": "英军士兵拒拔 SIM 遭色诈：爱沙尼亚部署 opsec 违令被军法处置",
+   "summary": "Ars 据爱沙尼亚报道与英军上诉文件：部署距俄边境约 90 英里前多次下令拔卡关定位，士兵未执行后裸照被盗勒索，认罪降衔并拘留 10 个月。",
+   "links": [
+    "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+    "https://news.ycombinator.com/item?id=50403962"
+   ],
+   "topic": "uk-soldier-sim-opsec-sextortion-estonia-2026-11-07",
+   "firstSeen": "2026-11-07T20:48:40+08:00"
   }
  ],
- "lastChecked": "2026-11-07T20:29:14+08:00"
+ "lastChecked": "2026-11-07T20:48:40+08:00"
 }
