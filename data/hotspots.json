@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T18:12:50+08:00",
+ "lastUpdated": "2026-11-07T18:27:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41480,7 +41480,67 @@
    ],
    "topic": "decoded-legal-foss-law-firm-2026-update",
    "firstSeen": "2026-11-07T18:12:50+08:00"
+  },
+  {
+   "id": "204a300113",
+   "title": "OpenCode Browse：本机真实浏览器交给 Agent，登录态与扩展都留在本地",
+   "summary": "Anomaly/OpenCode 推出 Browse：MCP + Chromium 扩展，用 Playwright 在后台标签驱动你已登录的 Chrome/Edge/Brave 等；登录、2FA、支付可交回用户点 Continue，支持截图/录屏/HAR 与站点 allowlist。兼容 Claude Code、Cursor、Codex、Zed 等 MCP 客户端，强调不上云、不另建账号。",
+   "links": [
+    "https://opencode.ai/product/browse",
+    "https://github.com/anomalyco/browse",
+    "https://x.com/i/trending/2119010813126365592"
+   ],
+   "topic": "opencode-browse-on-device-browser-agent-2026-11",
+   "firstSeen": "2026-11-07T18:27:01+08:00"
+  },
+  {
+   "id": "e9b23e8497",
+   "title": "美国中期选举：41 项数据中心地方公投里 40 项倒向限制或反对",
+   "summary": "Ballotpedia/CNBC 统计：10 州共 41 项数据中心相关地方公投，选民在禁建、部分禁建、半年暂停、分区与否决「挺建」提案等方面几乎一边倒；唯一例外是北达科他州 Harwood。叠加州长战对 AI 基建监管叙事，短期抬高数据中心落地与电力/水费政治风险。",
+   "links": [
+    "https://news.ballotpedia.org/2026/11/06/voters-favored-limiting-data-center-development-in-40-of-41-local-ballot-measures-on-nov-3/",
+    "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
+    "https://www.scientificamerican.com/article/2026-election-results-show-widespread-opposition-to-ai-data-centers/",
+    "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres"
+   ],
+   "topic": "us-midterms-data-center-ballot-40-of-41-2026-11",
+   "firstSeen": "2026-11-07T18:27:01+08:00"
+  },
+  {
+   "id": "e75cc60cd0",
+   "title": "Aave Labs 收购 Avon 团队：把固定利率借贷推进链上主流",
+   "summary": "Aave 官方宣布收购 Avon 团队与技术（固定/浮动利率市场与链上订单簿），Prince Sinha 等并入工程与商务；Aave 称存贷规模约 330 亿美元存款、130 亿美元贷款，目标给机构与金融科技补上可预期利率产品。未披露对价与上线时间。",
+   "links": [
+    "https://www.aave.com/blog/avon-acquisition",
+    "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901",
+    "https://thedefiant.io/news/defi/aave-labs-acquires-avon-team-to-develop-fixed-rate-lending",
+    "https://x.com/i/trending/2118735316119150903"
+   ],
+   "topic": "aave-labs-acquires-avon-fixed-rate-lending-2026-11",
+   "firstSeen": "2026-11-07T18:27:01+08:00"
+  },
+  {
+   "id": "5e03c5f64c",
+   "title": "谷歌、Meta、TikTok 联手起诉加州限制「成瘾式」未成年人社媒法",
+   "summary": "KQED 报道：三家平台起诉阻拦加州旨在遏制未成年人成瘾式社交产品设计的法律，称其违宪并损害合法服务；案件把「平台设计责任 vs 表达自由」再推上法庭，也影响其他州跟进立法的预期。",
+   "links": [
+    "https://www.kqed.org/news/12108703/google-meta-and-tiktok-sue-to-block-california-law-curbing-addictive-social-media-for-kids",
+    "https://news.ycombinator.com/item?id=50401846"
+   ],
+   "topic": "ca-kids-social-media-addiction-law-suit-goog-meta-tt-2026-11",
+   "firstSeen": "2026-11-07T18:27:01+08:00"
+  },
+  {
+   "id": "7d89670a1f",
+   "title": "欧洲抗议蔓延：活动人士闯入微软数据中心工地",
+   "summary": "路透：活动人士闯入微软数据中心在建工地，同类抗议在欧洲多地扩散，反对对象集中在用电、用水与地方规划。与美国中期选举数据中心公投共振，基建落地的社会许可成本继续上升。",
+   "links": [
+    "https://www.reuters.com/world/europe/activists-breach-microsoft-data-centre-construction-site-protests-spread-europe-2026-11-06/",
+    "https://news.ycombinator.com/item?id=50403187"
+   ],
+   "topic": "microsoft-eu-data-center-activist-breach-2026-11",
+   "firstSeen": "2026-11-07T18:27:01+08:00"
   }
  ],
- "lastChecked": "2026-11-07T18:12:50+08:00"
+ "lastChecked": "2026-11-07T18:27:01+08:00"
 }
