@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T16:55:01+08:00",
+ "lastUpdated": "2026-11-07T17:12:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41246,7 +41246,54 @@
    ],
    "topic": "sultanc-arabic-systems-language-2026-11-07",
    "firstSeen": "2026-11-07T16:55:01+08:00"
+  },
+  {
+   "id": "55552871ca",
+   "title": "Microsoft 开源 APM：给 AI Agent 用的依赖管理器（像 npm）",
+   "summary": "用一份 apm.yml 声明技能、提示词、插件与 MCP，再 apm install 装到 Copilot / Claude Code / Cursor 等；默认扫隐藏 Unicode、锁哈希，并按策略拦未声明的传递 MCP。Dependabot 已能给 APM 技能包升版。适合做成 Idea Lab 新点子。",
+   "links": [
+    "https://microsoft.github.io/apm/",
+    "https://github.com/microsoft/apm",
+    "https://news.ycombinator.com/item?id=50402824"
+   ],
+   "topic": "microsoft-apm-agent-package-manager-2026-11",
+   "firstSeen": "2026-11-07T17:12:31+08:00"
+  },
+  {
+   "id": "e71458c809",
+   "title": "Nature：硝酸甘油 + 振动床垫，健康人血中 Aβ 等脑源蛋白上升",
+   "summary": "芬兰团队在 Nature Communications 报告：舌下一氧化氮供体联合全身振动（瞄准 Piezo1）后，健康志愿者血中 Aβ40/42、GFAP 升高，并伴脑液影像变化；尚未证明能清斑块或改善认知，也不宜自行尝试。",
+   "links": [
+    "https://www.nature.com/articles/s41467-026-78894-y",
+    "https://www.newscientist.com/article/2597081-vibrating-mattress-helps-clear-alzheimers-protein-from-the-brain/",
+    "https://news.ycombinator.com/item?id=50402854"
+   ],
+   "topic": "nature-vasomechanic-abeta-efflux-2026-11",
+   "firstSeen": "2026-11-07T17:12:31+08:00"
+  },
+  {
+   "id": "8433593e68",
+   "title": "Jeff Dean：自我改进环不可能「无限加速」，Discovery Loop 要接地气",
+   "summary": "在斯坦福 HAI 与李飞飞对谈中，Dean 区分普通自改进与递归自改进，称训练、实验、算力与验收都有物理步骤，RSI 幻想成无限快不现实；其新公司 Discovery Loop 目标是把专家实验环提速约 20–50 倍。正撞上 METR/禁 RSI 讨论热度。",
+   "links": [
+    "https://officechai.com/ai/implausible-that-self-improvement-loops-will-run-infinitely-fast-jeff-dean/",
+    "https://www.discoveryloop.com/blog/announcing-discovery-loop/",
+    "https://hai.stanford.edu/events/confronting-our-ai-future-hope-fear-and-the-choices-ahead"
+   ],
+   "topic": "jeff-dean-rsi-not-infinitely-fast-discovery-loop-2026-11",
+   "firstSeen": "2026-11-07T17:12:31+08:00"
+  },
+  {
+   "id": "7b27c0b337",
+   "title": "Postgres Pro 公开《PostgreSQL Internals》英文 PDF",
+   "summary": "冲上 HN：系统讲解存储、进程、缓冲与查询执行等内核机制的免费教材，适合做成长期参考资源。",
+   "links": [
+    "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+    "https://news.ycombinator.com/item?id=50361765"
+   ],
+   "topic": "postgrespro-internals-pdf-hn-2026-11",
+   "firstSeen": "2026-11-07T17:12:31+08:00"
   }
  ],
- "lastChecked": "2026-11-07T16:55:01+08:00"
+ "lastChecked": "2026-11-07T17:12:31+08:00"
 }
