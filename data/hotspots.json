@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T00:26:22+08:00",
+ "lastUpdated": "2026-11-08T00:41:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42694,7 +42694,51 @@
    ],
    "topic": "omdia-tablet-shipments-q3-2026-down-23",
    "firstSeen": "2026-11-08T00:26:22+08:00"
+  },
+  {
+   "id": "4886ca7677",
+   "title": "0rwx：用类 Unix 权限位给「人怎么用 AI」分层",
+   "summary": "作者用 0/r/w/x 四档描述人对 AI 产出的审视能力：从完全手搓（0）、只读受启发（r）、读写协作（w），到自己已读不懂却还在执行（x）。重点不在用了什么工具，而在你还能不能审产出。刚上 HN，适合做成团队协作里的统一话术。",
+   "links": [
+    "https://0rwx.com/",
+    "https://news.ycombinator.com/item?id=50405734"
+   ],
+   "topic": "0rwx-ai-unix-permissions-framework-2026-11",
+   "firstSeen": "2026-11-08T00:41:18+08:00"
+  },
+  {
+   "id": "7f17a05e31",
+   "title": "Forwarded 头被框架默信：Rails / Jetty / Spring 可被伪造成源 IP 与 Host",
+   "summary": "多数反代只处理 X-Forwarded-*、却原样放行 RFC 7239 的 Forwarded；Rails、Jetty、Spring 等默认又优先读 Forwarded，导致客户端可伪造 IP/主机名/协议。作者已促成 Rails 8.1.4.1 修复与 Spring Boot 4.2 默认只信 X-F。建议代理丢弃未约定头、应用只启用代理真正写入的头。",
+   "links": [
+    "https://www.lkoskela.fi/blog/2026-11-05-forwarded-without-question/",
+    "https://lobste.rs/s/m5kism"
+   ],
+   "topic": "forwarded-header-spoofing-rails-jetty-spring-2026-11",
+   "firstSeen": "2026-11-08T00:41:18+08:00"
+  },
+  {
+   "id": "bf1f255647",
+   "title": "longbridge/nsh：Rust 写的跨端原生 UI 框架 Native Shell",
+   "summary": "一次编写可覆盖 iOS / Android / macOS / Windows / Linux / Web，GitHub 约 2k 星并反复出现在 HN；定位「动态下发的原生 UI 运行时」。适合做壳应用、桌面 Agent 面板这类要原生感又不想养多套前端的场景。",
+   "links": [
+    "https://github.com/longbridge/nsh",
+    "https://news.ycombinator.com/item?id=50405790"
+   ],
+   "topic": "longbridge-nsh-native-shell-rust-ui-2026-11-07",
+   "firstSeen": "2026-11-08T00:41:18+08:00"
+  },
+  {
+   "id": "3f75c0704e",
+   "title": "Postgres FOR UPDATE SKIP LOCKED 队列能撑到哪：1 核约 375 jobs/s 就顶",
+   "summary": "作者在 1 CPU / 默认 100 连接的 Postgres 18 上压测：64 worker 约 375 jobs/s 后 CPU 先于连接槽耗尽；共享 20 连接池后 128 worker 可到约 650 jobs/s。瓶颈常是 WAL 写与队头页争用，而不是「连接数不够」本身。",
+   "links": [
+    "https://garbagecollected.io/posts/postgres-task-queue-where-it-breaks/",
+    "https://lobste.rs/s/y8i714"
+   ],
+   "topic": "postgres-skip-locked-queue-limits-2026-11",
+   "firstSeen": "2026-11-08T00:41:18+08:00"
   }
  ],
- "lastChecked": "2026-11-08T00:26:22+08:00"
+ "lastChecked": "2026-11-08T00:41:18+08:00"
 }
