@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T14:00:33+08:00",
+ "lastUpdated": "2026-11-07T14:18:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40652,7 +40652,116 @@
    ],
    "topic": "shinkei-poseidon-ike-jime-robot-2026-11-07",
    "firstSeen": "2026-11-07T14:00:33+08:00"
+  },
+  {
+   "id": "ebbefde618",
+   "title": "Quanta：PBR 定理如何「杀死」爱因斯坦式客观实在",
+   "summary": "Charlie Wood 长文回顾 EPR、Bell 到 2012 年 PBR：在「客观实在」前提下，量子态不能只是头脑里的信息不完整；近期实验甚至用 PBR 当量子计算机校验探针。",
+   "links": [
+    "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/"
+   ],
+   "topic": "quanta-pbr-theorem-einstein-reality-2026-11-06",
+   "firstSeen": "2026-11-07T14:18:40+08:00"
+  },
+  {
+   "id": "c7627b9873",
+   "title": "George Church 离开 Radical Numerics：称功劳归属「龌龊」",
+   "summary": "Endpoints 报道：George Church 辞去 Radical Numerics 董事，指责公司未充分标注 Tabula Bioscience 在 AI 噬菌体研究中的贡献；公司称受保密约束。相关讨论登上 HN。",
+   "links": [
+    "https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/",
+    "https://news.ycombinator.com/item?id=50402123",
+    "https://qz.com/radical-numerics-acknowledges-tabula-bioscience-virus-research-110626"
+   ],
+   "topic": "church-quits-radical-numerics-credit-2026-11-07",
+   "firstSeen": "2026-11-07T14:18:40+08:00"
+  },
+  {
+   "id": "df8575ad14",
+   "title": "开发者热议「软件工厂」：卖流水线的自己却很少交代码",
+   "summary": "Dax（@thdxr）吐槽：一堆厂商推销可复制的 AI 软件工厂，自家却几乎不交代码；社区争论它是治理化工作流还是空话，和「先验证再自动化」一派形成对照。",
+   "links": [
+    "https://x.com/i/trending/2118940588137668926"
+   ],
+   "topic": "software-factory-debate-thdxr-2026-11-07",
+   "firstSeen": "2026-11-07T14:18:40+08:00"
+  },
+  {
+   "id": "cff492a117",
+   "title": "Show HN：对比两个 MCP 工具列表——多了 33 个工具 README 却没改",
+   "summary": "小工具 diff MCP server 暴露的 tool 清单，抓住「接口 silently drift」；对依赖 MCP 的 Agent / 自动化很实用。",
+   "links": [
+    "https://mcp.brydge-ai.com/diff.html",
+    "https://news.ycombinator.com/item?id=50401995"
+   ],
+   "topic": "mcp-tool-list-diff-show-hn-2026-11-07",
+   "firstSeen": "2026-11-07T14:18:40+08:00"
+  },
+  {
+   "id": "6c72c13a13",
+   "title": "Show HN：Tyler RSS——功能齐全的开源桌面 RSS 阅读器",
+   "summary": "GoodApps 上的开源桌面 RSS 客户端，强调本地可控与功能完整；RSS 复兴语境下又一个可自托管替代。",
+   "links": [
+    "https://goodapps.store/tyler-rss/",
+    "https://news.ycombinator.com/item?id=50402028"
+   ],
+   "topic": "tyler-rss-desktop-show-hn-2026-11-07",
+   "firstSeen": "2026-11-07T14:18:40+08:00"
+  },
+  {
+   "id": "55584261e5",
+   "title": "Envelox：整站强调「邮件完全属于你」的隐私客户端",
+   "summary": "新上线的隐私向邮件客户端，主打本地掌控与少追踪；和近期自托管邮箱 / JMAP 讨论同向。",
+   "links": [
+    "https://apps.mjanssen.nl/envelox/",
+    "https://news.ycombinator.com/item?id=50402044"
+   ],
+   "topic": "envelox-private-email-client-2026-11-07",
+   "firstSeen": "2026-11-07T14:18:40+08:00"
+  },
+  {
+   "id": "dc54a120bc",
+   "title": "Show HN：uniform——约 280KB 做 WASM 布局 + GPU 渲染的 Web UI",
+   "summary": "GitHub 开源工具链：用 WASM 布局、GPU 渲染搭响应式界面，体积约 280KB；追求「又小又好看」的前端实验。",
+   "links": [
+    "https://github.com/rkaehn/uniform",
+    "https://news.ycombinator.com/item?id=50401844"
+   ],
+   "topic": "uniform-wasm-gpu-ui-280kb-2026-11-07",
+   "firstSeen": "2026-11-07T14:18:40+08:00"
+  },
+  {
+   "id": "561ec9c734",
+   "title": "OpenNumLab：开源科学计算环境，冲 Matlab 替代首发",
+   "summary": "GitHub 新项目自称开源 Matlab 替代：面向数值与科学计算；能否形成生态仍待观察，但方向对独立研究者有吸引力。",
+   "links": [
+    "https://github.com/me-farza/opennumlab",
+    "https://news.ycombinator.com/item?id=50401901"
+   ],
+   "topic": "opennumlab-matlab-alternative-2026-11-07",
+   "firstSeen": "2026-11-07T14:18:40+08:00"
+  },
+  {
+   "id": "7b2e0b8cdb",
+   "title": "SigmaTrace：CPU/GPU 发起的 RDMA 通信，库无关可观测",
+   "summary": "arXiv 提出 SigmaTrace：不绑死特定通信库，给 CPU/GPU 启动的 RDMA 流量做可观测；超算与大规模训练排障向。",
+   "links": [
+    "https://arxiv.org/abs/2610.24328",
+    "https://news.ycombinator.com/item?id=50402005"
+   ],
+   "topic": "sigmatrace-rdma-observability-2026-11-07",
+   "firstSeen": "2026-11-07T14:18:40+08:00"
+  },
+  {
+   "id": "266a67054f",
+   "title": "Emacs「思维速度」编辑：快捷键与心流工作流再分享",
+   "summary": "Josh Blais 写如何把 Emacs 调到「想到就能改」；老话题新一轮分享，和 AI 编程并行时仍有一批硬核用户在加码编辑器本身。",
+   "links": [
+    "https://joshblais.com/blog/editing-at-the-speed-of-thought-in-emacs/",
+    "https://news.ycombinator.com/item?id=50402068"
+   ],
+   "topic": "emacs-speed-of-thought-editing-2026-11-07",
+   "firstSeen": "2026-11-07T14:18:40+08:00"
   }
  ],
- "lastChecked": "2026-11-07T14:00:33+08:00"
+ "lastChecked": "2026-11-07T14:18:40+08:00"
 }
