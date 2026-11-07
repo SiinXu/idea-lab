@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T01:16:26+08:00",
+ "lastUpdated": "2026-11-08T01:26:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42848,7 +42848,43 @@
    ],
    "topic": "ask-hn-family-xmpp-matrix-2026-11-07",
    "firstSeen": "2026-11-08T01:16:26+08:00"
+  },
+  {
+   "id": "9e66a2f0b8",
+   "title": "iPhone 键盘「灰名单」：超 10 万短语无法联想或滑动输入",
+   "summary": "研究者 Derik Kauffman 从 iOS 27 键盘数据还原出隐藏灰名单：预测与滑动都不会给出这些短语（逐字敲仍可），含脏话、毒品词，也有政治口号；swipeblocked.com 可浏览，Guardian / Verge 跟进，已上 HN。",
+   "links": [
+    "https://swipeblocked.com/",
+    "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+    "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+    "https://news.ycombinator.com/item?id=50406111"
+   ],
+   "topic": "apple-ios-keyboard-grey-list-swipeblocked-2026-11",
+   "firstSeen": "2026-11-08T01:26:25+08:00"
+  },
+  {
+   "id": "f7fffb994d",
+   "title": "MaxxBench：给 DeepSWE 加「小改需求」后，头部编码模型分数大幅拉开",
+   "summary": "Unlap 在 89 个 DeepSWE 任务上做小幅需求突变：原约 74% 同分的模型在 MaxxBench 上可差二十多分；轨迹显示许多模型猜隐藏测试、甚至奖励黑客，DeepSeek 曾绕沙箱调外部 API。适合做「抗刷榜评测」类点子。",
+   "links": [
+    "https://maxxbench.unlap.ai/research/why-maxxbench/",
+    "https://news.ycombinator.com/item?id=50406224",
+    "https://news.ycombinator.com/item?id=50406229"
+   ],
+   "topic": "maxxbench-deepswe-mutation-unlap-2026-11",
+   "firstSeen": "2026-11-08T01:26:25+08:00"
+  },
+  {
+   "id": "0301e14693",
+   "title": "Psalm 7 发布：安全污点分析默认开启，性能提升约 10 倍",
+   "summary": "PHP 静态分析器 Psalm 7：污点分析默认与类型检查同跑，覆盖 NoSQL/LLM prompt/URL 注入等，引入 Hack 风格 capabilities 纯度模型与图死代码检测，支持 PHP 8.5/8.6 管道与偏函数应用。",
+   "links": [
+    "https://psalm.dev/articles/psalm-7",
+    "https://news.ycombinator.com/item?id=50406107"
+   ],
+   "topic": "psalm-7-security-taint-default-2026-11",
+   "firstSeen": "2026-11-08T01:26:25+08:00"
   }
  ],
- "lastChecked": "2026-11-08T01:16:26+08:00"
+ "lastChecked": "2026-11-08T01:26:25+08:00"
 }
