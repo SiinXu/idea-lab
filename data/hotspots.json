@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T13:15:07+08:00",
+ "lastUpdated": "2026-11-07T13:30:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40513,7 +40513,48 @@
    ],
    "topic": "vibe-coding-memes-rush-2026-11-07",
    "firstSeen": "2026-11-07T13:15:07+08:00"
+  },
+  {
+   "id": "fe4697100c",
+   "title": "Asahi Linux 进度报告：Linux 7.3——M3 正式可用、雷电初版上游、GPU 画出三角形",
+   "summary": "M3 取消 EXPERT 标志并启用 DCP/休眠；Thunderbolt 补丁已上游且下游可发（暂无 PCIe/DP 隧道）；M3 GPU 逆向在 XDC 演示出三角形；项目因被 AI 与闭源方白嫖，仓库开始转向 GPLv2+。",
+   "links": [
+    "https://asahilinux.org/2026/11/progress-report-7-3/"
+   ],
+   "topic": "asahi-linux-progress-7-3-2026-11",
+   "firstSeen": "2026-11-07T13:30:52+08:00"
+  },
+  {
+   "id": "07f800e935",
+   "title": "Type.com：把 Claude Code / Codex 编排成全公司可复用的云端 Agent 工作流",
+   "summary": "面向团队的 Agent 编排平台：在隔离云机上跑完整 harness（不只模型 API），支持排程/Webhook、共享 MCP 连接与权限、运行历史与成本追踪；可从 Claude/Codex 一键部署，月费起 $50。",
+   "links": [
+    "https://type.com/",
+    "https://news.ycombinator.com/item?id=50401895"
+   ],
+   "topic": "type-com-agent-orchestrator-2026-11-07",
+   "firstSeen": "2026-11-07T13:30:52+08:00"
+  },
+  {
+   "id": "ea78895ad3",
+   "title": "NASA SPLICE：无人机验证精确着陆导航，备战月球与火星软着陆",
+   "summary": "Armstrong 中心用 Alta-X 无人机完成 SPLICE 制导导航试飞：实时建高程图、判定落点不安全时自动改道；技术就绪度提升后拟进 NASA 软件目录，多家商业月球着陆器已在评估。",
+   "links": [
+    "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/"
+   ],
+   "topic": "nasa-splice-precision-landing-2026-11",
+   "firstSeen": "2026-11-07T13:30:52+08:00"
+  },
+  {
+   "id": "0819cd72b7",
+   "title": "中期选举后：硅谷从「前排」掉进「热座」——监管、数据中心与股价同压",
+   "summary": "TechCrunch 复盘选后：OpenAI 挖 Schumer 之女、数据中心改称 compute campuses 等公关；民主党收紧 AI 监督预期升温，真正战场更在州立法与社区是否接纳数据中心，市场已在重估万亿 IPO。",
+   "links": [
+    "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/"
+   ],
+   "topic": "tc-midterms-big-tech-hot-seat-2026-11-07",
+   "firstSeen": "2026-11-07T13:30:52+08:00"
   }
  ],
- "lastChecked": "2026-11-07T13:15:07+08:00"
+ "lastChecked": "2026-11-07T13:30:52+08:00"
 }
