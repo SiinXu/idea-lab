@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T12:25:02+08:00",
+ "lastUpdated": "2026-11-07T12:44:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40299,7 +40299,136 @@
    ],
    "topic": "cloudflare-post-quantum-privacy-pass-vole-2026-11-06",
    "firstSeen": "2026-11-07T12:25:02+08:00"
+  },
+  {
+   "id": "f7e0ee34a5",
+   "title": "创业圈风向：AI 让产品好做了，营销人比工程师更抢手",
+   "summary": "Greg Isenberg 等指出写代码门槛下降后，获客与分发成瓶颈；有人整理 Linear/Notion/Stripe 的 GTM「大脑」喂给营销 Agent，方案有效率从约 48% 提到 88%。适合 Idea Lab：给 OPC 做「分发优先」的一人公司工具包。",
+   "links": [
+    "https://x.com/i/trending/2118924728832274940"
+   ],
+   "topic": "marketers-over-engineers-ai-gtm-2026-11-07",
+   "firstSeen": "2026-11-07T12:44:21+08:00"
+  },
+  {
+   "id": "e5708dfd30",
+   "title": "Higgsfield Miracle：把实拍视频拆成可编辑图层，像素级改脸改发色",
+   "summary": "私人测试中的 Miracle 用矢量化+深度+世界知识把视频拆层，可局部改色、去遮罩、换物体而不重生成整段；对标传统 rotoscope，创作者称能省掉 After Effects 大量手工。",
+   "links": [
+    "https://higgsfield.ai/miracle",
+    "https://x.com/i/trending/2118924729822195857"
+   ],
+   "topic": "higgsfield-miracle-video-layers-2026-11-07",
+   "firstSeen": "2026-11-07T12:44:21+08:00"
+  },
+  {
+   "id": "fa8c3aff10",
+   "title": "Ted Gioia：AI 商业模式正在塌——反 AI 选情与万亿市值回撤",
+   "summary": "Honest Broker 长文回顾其对数据中心反弹与泡沫的预警，称中期选举里数十项数据中心提案几乎全军覆没，并呼吁透明度、选择权、版权与环保底线；冲上 HN 新帖。",
+   "links": [
+    "https://www.honest-broker.com/p/the-ai-business-model-just-collapsed",
+    "https://news.ycombinator.com/item?id=50401626"
+   ],
+   "topic": "honest-broker-ai-business-model-collapsed-2026-11-07",
+   "firstSeen": "2026-11-07T12:44:21+08:00"
+  },
+  {
+   "id": "ae4a0097ef",
+   "title": "WSJ：量子还没砸开加密，AI 数学或许会先到",
+   "summary": "华尔街日报探讨 AI 在数学/密码分析上的加速，可能比实用量子计算机更早威胁现有在线加密；新帖登上 HN。",
+   "links": [
+    "https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2",
+    "https://news.ycombinator.com/item?id=50401675"
+   ],
+   "topic": "wsj-ai-beat-quantum-encryption-2026-11-07",
+   "firstSeen": "2026-11-07T12:44:21+08:00"
+  },
+  {
+   "id": "0f93e02b04",
+   "title": "Show HN：Promptcheckup——提示词改动的 pass/fail 回归，带 95% 置信区间",
+   "summary": "把提示词变更当成测试：跑样本、给通过/失败，并给出置信区间，方便 Agent/产品迭代时拦住「看起来更好其实更差」的改动。",
+   "links": [
+    "https://github.com/gael55x/promptcheckup",
+    "https://news.ycombinator.com/item?id=50401468"
+   ],
+   "topic": "show-hn-promptcheckup-2026-11-07",
+   "firstSeen": "2026-11-07T12:44:21+08:00"
+  },
+  {
+   "id": "7442dc63b7",
+   "title": "Show HN：S3mail——AWS 上无服务器个人邮箱，支持 JMAP",
+   "summary": "用 S3 等托管组件搭个人邮箱，走 JMAP 协议；面向想摆脱传统邮局、又要可编程收发的开发者。",
+   "links": [
+    "https://github.com/zero11-0203/s3mail",
+    "https://news.ycombinator.com/item?id=50401533"
+   ],
+   "topic": "show-hn-s3mail-jmap-aws-2026-11-07",
+   "firstSeen": "2026-11-07T12:44:21+08:00"
+  },
+  {
+   "id": "d0408474df",
+   "title": "Show HN：公开实测自家 prompt injection 过滤器（Hodor / Gatebolt）",
+   "summary": "团队把密钥泄漏类注入测试公开跑，展示过滤器拦不拦得住；对做 Agent 网关、工具调用护栏的人有参考价值。",
+   "links": [
+    "https://hodor.gatebolt.com/blog/secret-leak-test",
+    "https://news.ycombinator.com/item?id=50401639"
+   ],
+   "topic": "show-hn-hodor-prompt-injection-filter-2026-11-07",
+   "firstSeen": "2026-11-07T12:44:21+08:00"
+  },
+  {
+   "id": "111ec7ae74",
+   "title": "Figure 大厅摆出数百台 Figure 03：BotQ 号称一小时一台",
+   "summary": "CEO Brett Adcock 晒出大厅里成排人形机器人视频，配文「有一天全世界都会长这样」；工厂产能传闻到一小时一台，讨论物理 AI 落地节奏。",
+   "links": [
+    "https://x.com/i/trending/2118857591946182925"
+   ],
+   "topic": "figure-03-lobby-fleet-botq-2026-11-07",
+   "firstSeen": "2026-11-07T12:44:21+08:00"
+  },
+  {
+   "id": "35a4b12cc9",
+   "title": "用聊天记录给空房「装修」：把 AI 长期记忆可视化成梗图",
+   "summary": "用户丢一张空屋图，让 ChatGPT 等按「你对我的了解」往里填家具；结果从球衣到游戏房，既好玩也暴露个性化记忆能挖多深。",
+   "links": [
+    "https://x.com/i/trending/2118885281772269621"
+   ],
+   "topic": "ai-furnish-empty-room-chat-memory-2026-11-07",
+   "firstSeen": "2026-11-07T12:44:21+08:00"
+  },
+  {
+   "id": "f681a322a2",
+   "title": "给 vibe coding 出来的 Linux GUI 补上正经安全边界",
+   "summary": "AkitaOnRails 谈 AI 快速堆出来的桌面应用常缺沙箱与权限模型，并给出加固思路——在「能跑」和「能上线」之间补课。",
+   "links": [
+    "https://akitaonrails.com/en/2026/11/06/adding-proper-security-to-your-vibecoded-linux-gui-apps/",
+    "https://news.ycombinator.com/item?id=50401584"
+   ],
+   "topic": "vibecoded-linux-gui-security-akita-2026-11-07",
+   "firstSeen": "2026-11-07T12:44:21+08:00"
+  },
+  {
+   "id": "4ee0eb7cfa",
+   "title": "Lighting the Skies：探照灯如何照亮夜空（计算机史小品）",
+   "summary": "computer.rip 长文回顾探照灯技术与夜空照明史，冲上 HN 首页；偏硬件/光学史趣味阅读。",
+   "links": [
+    "https://computer.rip/2026-10-25-searchlights.html",
+    "https://news.ycombinator.com/item?id=50401414"
+   ],
+   "topic": "lighting-the-skies-searchlights-hn-2026-11-07",
+   "firstSeen": "2026-11-07T12:44:21+08:00"
+  },
+  {
+   "id": "53f0350dcf",
+   "title": "Ampere 开源 Panthera：自家 CPU 性能模型",
+   "summary": "AmpereComputing/panthera 把 CPU 性能模型开源，方便架构师与编译器/调度研究者做仿真与调优。",
+   "links": [
+    "https://github.com/AmpereComputing/panthera",
+    "https://news.ycombinator.com/item?id=50356722"
+   ],
+   "topic": "ampere-panthera-cpu-model-hn-2026-11-07",
+   "firstSeen": "2026-11-07T12:44:21+08:00"
   }
  ],
- "lastChecked": "2026-11-07T12:25:02+08:00"
+ "lastChecked": "2026-11-07T12:44:21+08:00"
 }
