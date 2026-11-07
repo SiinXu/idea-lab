@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T19:27:01+08:00",
+ "lastUpdated": "2026-11-07T19:44:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41739,7 +41739,30 @@
    ],
    "topic": "nvidia-spil-ase-cowos-packaging-financing-2026-11-06",
    "firstSeen": "2026-11-07T19:27:01+08:00"
+  },
+  {
+   "id": "293fe5d56f",
+   "title": "The Irish Warning：爱尔兰人均数据中心约 10 倍欧均，用电已近电网 23%",
+   "summary": "长文梳理爱尔兰数据中心外部性：用电约从 2015 年 5% 升至近 23%、披露合规差、水耗被间接电力用水放大、就业与税收贡献被高估。刚上 HN，对「反数据中心」中期选举叙事有对照价值。",
+   "links": [
+    "https://chappisacoff.substack.com/p/the-irish-warning-what-data-centres",
+    "https://news.ycombinator.com/item?id=50403559"
+   ],
+   "topic": "irish-warning-data-centres-cost-externalities-2026-11",
+   "firstSeen": "2026-11-07T19:44:04+08:00"
+  },
+  {
+   "id": "4d0cf21dd2",
+   "title": "Offstage Cloud：给 Agent 按秒计费的临时 macOS 沙箱",
+   "summary": "Show HN 新品：Apple silicon 上的短时 macOS 沙箱（约 $1.10/小时、按秒计费），预装 Xcode/iOS 模拟器，可跑 CI、让 coding agent 操控桌面；起送 $5 额度，并支持 GitHub Actions `runs-on: offstage-macos`。",
+   "links": [
+    "https://offstage.cloud/",
+    "https://api.offstage.cloud/SKILL.md",
+    "https://news.ycombinator.com/item?id=50403588"
+   ],
+   "topic": "offstage-cloud-ephemeral-macos-agent-sandbox-2026-11-07",
+   "firstSeen": "2026-11-07T19:44:04+08:00"
   }
  ],
- "lastChecked": "2026-11-07T19:27:01+08:00"
+ "lastChecked": "2026-11-07T19:44:04+08:00"
 }
