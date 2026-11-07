@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T02:52:56+08:00",
+ "lastUpdated": "2026-11-08T03:45:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43105,7 +43105,17 @@
    ],
    "topic": "openstick-10usd-homelab-2026-11-07",
    "firstSeen": "2026-11-08T02:52:56+08:00"
+  },
+  {
+   "id": "9cdb26c92a",
+   "title": "SpaceX 疑在得州 Starbase 建「超算」数据中心，新州长或拖慢计划",
+   "summary": "The Information 称公开记录显示 SpaceX 正在得州 Starbase 筹建一座「Starbase 超级计算机」数据中心；但民主党人 Gina Hinojosa 当选得州州长，可能让马斯克部分数据中心计划延后。",
+   "links": [
+    "https://www.theinformation.com/articles/blue-wave-may-stop-musks-texas-data-center-ambitions"
+   ],
+   "topic": "spacex-starbase-supercomputer-texas-2026-11-07",
+   "firstSeen": "2026-11-08T03:45:34+08:00"
   }
  ],
- "lastChecked": "2026-11-08T02:52:56+08:00"
+ "lastChecked": "2026-11-08T03:45:34+08:00"
 }
