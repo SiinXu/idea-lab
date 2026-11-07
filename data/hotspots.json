@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T15:47:59+08:00",
+ "lastUpdated": "2026-11-07T15:58:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41019,7 +41019,29 @@
    ],
    "topic": "bit-reactor-zero-company-layoffs-2026-11",
    "firstSeen": "2026-11-07T15:47:59+08:00"
+  },
+  {
+   "id": "c7f421bc49",
+   "title": "Meta 法国推自愿离职：约 100 人可拿 2.15 月薪/年 + 10 个月带薪过渡",
+   "summary": "继微软、谷歌之后，Meta 据报在法国以 RCC 集体协商方式开自愿离职，约 300 名员工里最多约 100 人可申请；方案含每服务一年 2.15 个月薪资补偿，以及 10 个月按 80% 薪资的流动假。申请截止约 11 月 5 日，是否扩到其他国家未公布。",
+   "links": [
+    "https://www.moneycontrol.com/news/business/companies/after-google-and-microsoft-meta-offers-voluntary-exit-packages-to-employees-report-14071641.html",
+    "https://me.peoplemattersglobal.com/news/strategic-hr/meta-joins-microsoft-and-google-in-offering-employees-voluntary-exit-packages-53212"
+   ],
+   "topic": "meta-france-voluntary-exit-rcc-2026-11",
+   "firstSeen": "2026-11-07T15:58:53+08:00"
+  },
+  {
+   "id": "35fad24fd4",
+   "title": "民主党中期大胜后：国会拟调查苹果、Meta 与马斯克系公司",
+   "summary": "华邮称民主党准备对大科技发起调查潮；据报道目标含苹果（与 ICE 追踪应用关系）、Meta（数据中心建设 NDA）、以及马斯克相关公司（含白宫用 Grok 筹划抓捕马杜罗等）。桑德斯、马基等已放话，华尔街随即抛售科技股。",
+   "links": [
+    "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/",
+    "https://sea.mashable.com/tech-industry/56674/apple-meta-elon-musks-companies-reportedly-in-the-crosshairs-of-congressional-investigation"
+   ],
+   "topic": "democrats-tech-probe-apple-meta-musk-2026-11-06",
+   "firstSeen": "2026-11-07T15:58:53+08:00"
   }
  ],
- "lastChecked": "2026-11-07T15:47:59+08:00"
+ "lastChecked": "2026-11-07T15:58:53+08:00"
 }
