@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T18:27:01+08:00",
+ "lastUpdated": "2026-11-07T18:48:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41540,7 +41540,73 @@
    ],
    "topic": "microsoft-eu-data-center-activist-breach-2026-11",
    "firstSeen": "2026-11-07T18:27:01+08:00"
+  },
+  {
+   "id": "25803a19c0",
+   "title": "Atlassian Q1：Agentic Multiplayer Protocol 让人与 Agent 同台协作",
+   "summary": "股东信披露云收入同比约 +30.5%、订阅 ARR 约 +22.5%；正式推 AMP——Agent 有独立身份、归因与审计，可在 Jira/Confluence/Loom 与 MCP 生态里当可见队友。平台上人机协作约每月 1000 万次，MCP 日调用约 1500 万次。",
+   "links": [
+    "https://www.atlassian.com/blog/company-news/shareholder-letter-q1fy27",
+    "https://www.atlassian.com/platform/agentic-multiplayer-protocol",
+    "https://www.sec.gov/Archives/edgar/data/1650372/000165037226000049/ex991q1fy27.htm"
+   ],
+   "topic": "atlassian-q1-fy27-amp-agentic-multiplayer-2026-11",
+   "firstSeen": "2026-11-07T18:48:51+08:00"
+  },
+  {
+   "id": "17331a330f",
+   "title": "Meta 开源 Astryx：为人和 Agent 共同构建的设计系统冲上 GitHub 日榜",
+   "summary": "基于 React + StyleX 的生产级组件库（150+ 无障碍组件、主题令牌、CLI/MCP），自称在 Meta 内部八年、支撑逾 1.3 万应用；强调 AI 可操作而非事后适配。仓库今日仍在活跃推送，日榜热度明显。",
+   "links": [
+    "https://astryx.atmeta.com/blog/introducing-astryx",
+    "https://github.com/meta/astryx",
+    "https://astryx.atmeta.com/"
+   ],
+   "topic": "meta-astryx-agent-ready-design-system-trending-2026-11-07",
+   "firstSeen": "2026-11-07T18:48:51+08:00"
+  },
+  {
+   "id": "71e1011ca0",
+   "title": "billion-context：长会话上下文压缩插件登 GitHub 日榜",
+   "summary": "开源插件宣称把「月级单会话、数十亿 token」压进约 100K 窗口，并称可省约 5 倍 token；面向 Claude Code / Cursor 等长跑 Agent。仓库今日仍在更新，日榜可见。",
+   "links": [
+    "https://github.com/ranxianglei/billion-context"
+   ],
+   "topic": "billion-context-compression-plugin-trending-2026-11-07",
+   "firstSeen": "2026-11-07T18:48:51+08:00"
+  },
+  {
+   "id": "10ba719313",
+   "title": "Anthropic 官方 Agent Skills 仓库再冲 GitHub 日榜",
+   "summary": "anthropics/skills 开源 Agent Skills 公共仓库持续热传，星数已约 18.8 万；昨日仍有推送。和第三方 skills 合集一起，技能包正成为编码 Agent 的默认扩展层。",
+   "links": [
+    "https://github.com/anthropics/skills"
+   ],
+   "topic": "anthropics-skills-github-trending-2026-11-07",
+   "firstSeen": "2026-11-07T18:48:51+08:00"
+  },
+  {
+   "id": "e7eee6dcd6",
+   "title": "印度数字权利组织：内政部长签字豁免采购 Cellebrite 手机取证工具",
+   "summary": "Internet Freedom Foundation 依据采购记录称：NIA 获批约 4.98 亿卢比购买 Cellebrite Premium，2026 年已有约 15 条相关标案；德里警察此前也持有同类工具。文章指出印度尚无规范解锁/拷贝/留存手机数据的专门法律。",
+   "links": [
+    "https://internetfreedom.in/the-home-minister-signed-off-on-it-who-is-cracking-indias-phones-and-whose-phones-have-they-cracked/",
+    "https://x.com/i/trending/2118995713350615235"
+   ],
+   "topic": "india-cellebrite-nia-iff-investigation-2026-11-07",
+   "firstSeen": "2026-11-07T18:48:51+08:00"
+  },
+  {
+   "id": "3226211943",
+   "title": "英媒：政府或把 NHS Palantir 联邦数据平台合同再延两年",
+   "summary": "Foxglove 援引 FT：评估认为四个月内无法替换，大臣或延长约两年；组织反驳称合同本就有最长 24 个月终止协助期，并质疑「显著成效」证据不足。与此前 NHS 要求事先核准成效宣传形成连续压力。",
+   "links": [
+    "https://www.foxglove.org.uk/2026/11/06/three-questions-ministers-palantir-nhs-contract/",
+    "https://www.telegraph.co.uk/news/2026/11/05/watson-cooper-dhsc-federated-data-platform-fdp/"
+   ],
+   "topic": "nhs-palantir-fdp-possible-two-year-extension-2026-11",
+   "firstSeen": "2026-11-07T18:48:51+08:00"
   }
  ],
- "lastChecked": "2026-11-07T18:27:01+08:00"
+ "lastChecked": "2026-11-07T18:48:51+08:00"
 }
