@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T14:26:05+08:00",
+ "lastUpdated": "2026-11-07T14:43:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40817,7 +40817,58 @@
    ],
    "topic": "mit-vista-visual-agent-harness-2026-11",
    "firstSeen": "2026-11-07T14:26:05+08:00"
+  },
+  {
+   "id": "ca6f08fa82",
+   "title": "Vercel Chat SDK：用 json-render 流式生成式 UI 卡片",
+   "summary": "Agent 输出带类型的 JSON 组件规格，json-render 转成 Slack Block Kit / Teams Adaptive Cards 等原生卡片，边生成边更新；目录覆盖表格、图表、按钮，少写各平台专用 tool。",
+   "links": [
+    "https://vercel.com/changelog/json-render-and-chat-sdk-agents"
+   ],
+   "topic": "vercel-json-render-chat-sdk-2026-11-06",
+   "firstSeen": "2026-11-07T14:43:22+08:00"
+  },
+  {
+   "id": "6585e438b6",
+   "title": "西班牙 Kabilio 融资 1000 万欧元：给会计师事务所上 AI 记账 Agent",
+   "summary": "Picus、Visionaries 领投；平台自动读发票、建议分录、对账，并试点用自然语言派发取票、对账、催缺件（邮件/WhatsApp）的 Agent，服务近 500 家事务所。",
+   "links": [
+    "https://tech.eu/2026/11/05/kabilio-raises-eur10m-to-expand-ai-accounting-platform-and-introduce-ai-agents/"
+   ],
+   "topic": "kabilio-10m-ai-accounting-agents-2026-11-05",
+   "firstSeen": "2026-11-07T14:43:22+08:00"
+  },
+  {
+   "id": "04a8a0d0d5",
+   "title": "PriceTimeMachine：每天猜老物件发明地与上市价",
+   "summary": "Show HN 式每日挑战：在地球上钉发明/首发地，再猜当年售价，系统换算通胀后今日等价；偏科技史怀旧小游戏，带排行榜。",
+   "links": [
+    "https://pricetimemachine.com/",
+    "https://news.ycombinator.com/item?id=50402136"
+   ],
+   "topic": "pricetimemachine-daily-tech-price-quiz-2026-11-07",
+   "firstSeen": "2026-11-07T14:43:22+08:00"
+  },
+  {
+   "id": "43b81c9cfa",
+   "title": "T3 Code 热议：手机遥控多 Agent，实测称省约四成 token",
+   "summary": "开源编排层叠在 Claude Code / Codex 之上，桌面、网页、手机都能批任务、切会话；有人停车位远程盯跑，社区也吐槽 UX 不如原生客户端。",
+   "links": [
+    "https://x.com/i/trending/2118740887974867125"
+   ],
+   "topic": "t3-code-mobile-remote-orchestration-2026-11-07",
+   "firstSeen": "2026-11-07T14:43:22+08:00"
+  },
+  {
+   "id": "bb779f39a6",
+   "title": "Hugging Face 政策负责人谈开源 AI：省钱之外还有隐藏成本",
+   "summary": "Irene Solaiman 提醒：算力、微调、安全与专业人力仍贵；主张按任务选够用模型，别默认堆前沿，并讨论谁真正从开源生态里赚钱。",
+   "links": [
+    "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"
+   ],
+   "topic": "hf-solaiman-open-source-ai-costs-2026-11",
+   "firstSeen": "2026-11-07T14:43:22+08:00"
   }
  ],
- "lastChecked": "2026-11-07T14:26:05+08:00"
+ "lastChecked": "2026-11-07T14:43:22+08:00"
 }
