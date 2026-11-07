@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T23:32:14+08:00",
+ "lastUpdated": "2026-11-07T23:33:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42480,7 +42480,28 @@
    ],
    "topic": "twombly-agent-design-canvas-2026-11-07",
    "firstSeen": "2026-11-07T23:32:14+08:00"
+  },
+  {
+   "id": "56787cc309",
+   "title": "VS Code / Copilot：本地 Agent 自动化支持 cron 与工作区自定义 Agent",
+   "summary": "VS Code 1.145：本机自动化可用五字段 cron、选用工作区自定义 Agent；云端仍只有日/周预设。机器需保持唤醒，漏跑不保证补跑。",
+   "links": [
+    "https://code.visualstudio.com/updates/v1_145",
+    "https://code.visualstudio.com/docs/agents/run/automations"
+   ],
+   "topic": "vscode-copilot-local-automations-cron-2026-11",
+   "firstSeen": "2026-11-07T23:33:13+08:00"
+  },
+  {
+   "id": "bfa9b4aac3",
+   "title": "Zed 编辑器再冲 GitHub 日榜：单日约 1100 星",
+   "summary": "高性能多人协作编辑器 Zed 今日重回 trending，单日约 1119 星，总星数约 9.4 万；与 Agent 工作流、Rust 桌面工具热度同涨。",
+   "links": [
+    "https://github.com/zed-industries/zed"
+   ],
+   "topic": "zed-editor-github-trending-2026-11-07",
+   "firstSeen": "2026-11-07T23:33:13+08:00"
   }
  ],
- "lastChecked": "2026-11-07T23:32:14+08:00"
+ "lastChecked": "2026-11-07T23:33:13+08:00"
 }
