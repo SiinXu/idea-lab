@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T11:15:58+08:00",
+ "lastUpdated": "2026-11-07T11:26:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40084,7 +40084,50 @@
    ],
    "topic": "dio-odi-agentic-er-commit-boundary-arxiv-2610-37407",
    "firstSeen": "2026-11-07T11:15:58+08:00"
+  },
+  {
+   "id": "ca87749f7e",
+   "title": "Nous Research 发布 Arete-27B：给通义 Qwen3.8-27B 做「西方价值观」后训练",
+   "summary": "在约 5280 万 token 的 SFT 后，自研评测上宣传话术占比从 22% 降到约 1%，事实分从 2.32 提到 2.98，Hermes Bench 几乎无回退；权重与评测集已开源，教师模型用 Inkling。",
+   "links": [
+    "https://nousresearch.com/arete",
+    "https://huggingface.co/NousResearch/Arete-27B",
+    "https://x.com/i/trending/2118885281432584213"
+   ],
+   "topic": "nous-arete-27b-qwen-western-values-2026-11-06",
+   "firstSeen": "2026-11-07T11:26:49+08:00"
+  },
+  {
+   "id": "238481c22b",
+   "title": "Meta 把 Active Memory / Active Focus 下放到 Muse 与 Meta AI 专用模型",
+   "summary": "用 Muse Wonder 蒸馏出的专用模型带上主动记忆与主动专注：关键信息遗忘约降 2.4 倍，遇意外障碍时日常任务完成率约升 67%，同步推给更多 Muse / Meta AI 用户。",
+   "links": [
+    "https://research.meta.ai/blog/specialized-models-for-muse-and-metaai",
+    "https://x.com/i/trending/2118773898007199973"
+   ],
+   "topic": "meta-muse-active-memory-focus-specialized-2026-11-06",
+   "firstSeen": "2026-11-07T11:26:49+08:00"
+  },
+  {
+   "id": "e79041d835",
+   "title": "X 上反 AI 灌水：levelsio 等公开万人级屏蔽列表",
+   "summary": "Pieter Levels 整理逾万个 AI 垃圾回复账号拟公开，Cloudflare 工程师 Dillon Mulroy 也维护约 780 个屏蔽号；用户用自动化批量屏蔽，争论误伤与平台治理。",
+   "links": [
+    "https://x.com/i/trending/2118740888729866383"
+   ],
+   "topic": "x-ai-slop-blocklist-levelsio-2026-11-07",
+   "firstSeen": "2026-11-07T11:26:49+08:00"
+  },
+  {
+   "id": "b6984f6c45",
+   "title": "X 算法再调：点赞权重创新高，阅读时长加分、点视频开分归零",
+   "summary": "开源代码显示点赞权重升至约 0.708，阅读时长按秒加权约 +25%，视频打开几乎不计分；另有规则压低大号下低质 AI 回复的扩散。",
+   "links": [
+    "https://x.com/i/trending/2118891729659277488"
+   ],
+   "topic": "x-algo-likes-dwell-boost-2026-11-07",
+   "firstSeen": "2026-11-07T11:26:49+08:00"
   }
  ],
- "lastChecked": "2026-11-07T11:15:58+08:00"
+ "lastChecked": "2026-11-07T11:26:49+08:00"
 }
