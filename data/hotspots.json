@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T12:44:21+08:00",
+ "lastUpdated": "2026-11-07T13:03:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40428,7 +40428,51 @@
    ],
    "topic": "ampere-panthera-cpu-model-hn-2026-11-07",
    "firstSeen": "2026-11-07T12:44:21+08:00"
+  },
+  {
+   "id": "51c2637607",
+   "title": "Airbnb Chesky：Muse、Instinct 等第三方 AI Agent 几乎没带来订单",
+   "summary": "Q3 电话会上称每天近 50 万单里，来自第三方 Agent 的预订「非常不重要」，流量自 10 月初见顶后未再涨；公司仍自建旅行 Agent，目标 2027 上半年以生成式界面上线。",
+   "links": [
+    "https://www.businessinsider.com/airbnb-ceo-ai-agents-muse-instinct-done-few-bookings-traffic-2026-11",
+    "https://x.com/i/trending/2118454911679840377"
+   ],
+   "topic": "airbnb-chesky-third-party-ai-agents-few-bookings-2026-11-07",
+   "firstSeen": "2026-11-07T13:03:00+08:00"
+  },
+  {
+   "id": "6463bcf748",
+   "title": "Show HN：预测市场这轮中期选举到底准不准？",
+   "summary": "Interactive 复盘把预测市场报价和中期选举结果对照，看市场有没有真正「预测」到结果，而不只是跟着民调走。",
+   "links": [
+    "https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms",
+    "https://news.ycombinator.com/item?id=50401451"
+   ],
+   "topic": "show-hn-prediction-markets-midterms-2026-11-07",
+   "firstSeen": "2026-11-07T13:03:00+08:00"
+  },
+  {
+   "id": "e5f9db033d",
+   "title": "Jennifer Daniel：下一批 4000 个 emoji 该长什么样？",
+   "summary": "前 Google emoji 负责人从苏美尔泥板聊到 Unicode：不能再堆名词按钮，更可能靠方向合字、语气变调和语义拼装往前走。",
+   "links": [
+    "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
+    "https://news.ycombinator.com/item?id=50384263"
+   ],
+   "topic": "jennifer-daniel-next-4000-emoji-2026-11-07",
+   "firstSeen": "2026-11-07T13:03:00+08:00"
+  },
+  {
+   "id": "cba5c85002",
+   "title": "Perplexity：我们如何工程化更安全的 Agent",
+   "summary": "官方博文拆解 safer agents 工程实践，强调在真实产品链路里做约束与评测，而不只堆提示词。",
+   "links": [
+    "https://www.perplexity.ai/hub/blog/how-we-engineer-safer-agents",
+    "https://news.ycombinator.com/item?id=50401733"
+   ],
+   "topic": "perplexity-engineer-safer-agents-2026-11-07",
+   "firstSeen": "2026-11-07T13:03:00+08:00"
   }
  ],
- "lastChecked": "2026-11-07T12:44:21+08:00"
+ "lastChecked": "2026-11-07T13:03:00+08:00"
 }
