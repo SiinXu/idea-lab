@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T19:15:58+08:00",
+ "lastUpdated": "2026-11-07T19:27:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -41705,7 +41705,41 @@
    ],
    "topic": "localthings-samsung-ha-no-cloud-trending-2026-11-07",
    "firstSeen": "2026-11-07T19:15:58+08:00"
+  },
+  {
+   "id": "dc17eeba94",
+   "title": "AlloyDB Express：给开发者和编码 Agent 的秒级、可休眠 PostgreSQL",
+   "summary": "谷歌云预览 AlloyDB Express：约 2 秒建库、空闲 15 分钟自动暂停不计费、支持 MCP/gcloud/Terraform；内置向量检索与 Gemini SQL，一键升生产 AlloyDB。面向 Agent 原型与 CI，按 CU-小时计费（约 $0.115）。",
+   "links": [
+    "https://cloud.google.com/blog/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping",
+    "https://docs.cloud.google.com/alloydb/docs/express-overview"
+   ],
+   "topic": "google-alloydb-express-agent-ready-postgres-2026-11",
+   "firstSeen": "2026-11-07T19:27:01+08:00"
+  },
+  {
+   "id": "fc8e4f6e59",
+   "title": "Deepinder Goyal 的 Temple：无麦/无屏「贴太阳穴」AI 健康穿戴，医生质疑脑血流宣称",
+   "summary": "Eternal 前 CEO 推出约 ₹85,000 的太阳穴贴片 Temple：自称「roomdeaf」靠振动听本人说话、兼做心率/睡眠等；首批 2027 年发货。X 上热议同时，医生批评脑血流/Entropy 证据不足，Goyal 称非医疗器械并承诺更多验证。",
+   "links": [
+    "https://economictimes.indiatimes.com/industry/cons-products/electronics/deepinder-goyal-unveils-temple-calls-it-humanitys-last-personal-device-ai-wearable-to-ship-in-2027/articleshow/135605074.cms",
+    "https://x.com/i/trending/2118358833143726087",
+    "https://www.businesstoday.in/technology/story/humanitys-last-personal-device-temple-founder-deepinder-goyal-shares-vision-for-ai-wearable-566286-2026-11-07"
+   ],
+   "topic": "temple-wearable-deepinder-goyal-roomdeaf-2026-11",
+   "firstSeen": "2026-11-07T19:27:01+08:00"
+  },
+  {
+   "id": "73242d17c4",
+   "title": "路透：英伟达向 ASE 旗下 SPIL 输血数十亿美元扩 CoWoS 先进封装",
+   "summary": "先进封装成 AI 芯片瓶颈。路透援引业内人士称英伟达向 ASE 子公司 SPIL 提供数十亿美元客户融资扩厂与设备；英伟达未回应、ASE 拒谈客户传闻。ASE 已上调 2026 资本开支，并称空间仍是最大约束。",
+   "links": [
+    "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-pouring-billions-ais-203007740.html",
+    "https://www.reuters.com/world/asia-pacific/ai-boom-turns-chip-packaging-into-next-battleground-semiconductors-2026-11-06/"
+   ],
+   "topic": "nvidia-spil-ase-cowos-packaging-financing-2026-11-06",
+   "firstSeen": "2026-11-07T19:27:01+08:00"
   }
  ],
- "lastChecked": "2026-11-07T19:15:58+08:00"
+ "lastChecked": "2026-11-07T19:27:01+08:00"
 }
