@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T02:10:57+08:00",
+ "lastUpdated": "2026-11-08T02:31:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43054,7 +43054,47 @@
    ],
    "topic": "binance-cfo-kaiser-ng-exits-justin-yek-2026-11-07",
    "firstSeen": "2026-11-08T02:10:57+08:00"
+  },
+  {
+   "id": "d9ecb4dbdc",
+   "title": "印度 IT 行业协会 Nasscom 主席：AI 让应届工科生更难找工作",
+   "summary": "Nasscom 主席 Rajesh Nambiar 接受日经亚洲采访称，AI 正压缩入门级岗位，印度新毕业工程师求职将更难，呼吁立即改革计算机课程。",
+   "links": [
+    "https://asia.nikkei.com/editor-s-picks/interview/india-s-it-lobby-chief-warns-grads-could-struggle-to-find-jobs-due-to-ai"
+   ],
+   "topic": "nasscom-ai-fresh-grads-jobs-2026-11-07",
+   "firstSeen": "2026-11-08T02:31:22+08:00"
+  },
+  {
+   "id": "44b214fd7f",
+   "title": "深圳 APEC 前清理灰色市场：走私芯片与赃物 iPhone 交易遭整顿",
+   "summary": "《金融时报》报道，深圳在 APEC 峰会前集中清理走私芯片、被盗 iPhone 等非法交易市场，这座科技重镇的灰色电子产业链面临收紧。",
+   "links": [
+    "https://www.ft.com/content/ea2ab632-1f5c-4e22-8fe2-f513e36a6862"
+   ],
+   "topic": "shenzhen-illicit-markets-cleanup-apec-2026-11-07",
+   "firstSeen": "2026-11-08T02:31:22+08:00"
+  },
+  {
+   "id": "090f843d17",
+   "title": "文件显示：谷歌斥资约 5.48 亿美元买入约 300 万股高通",
+   "summary": "The Information 据监管文件报道，谷歌买入约 300 万股高通股票，价值约 5.48 亿美元；高通正大举进军 AI 数据中心推理市场。",
+   "links": [
+    "https://www.theinformation.com/briefings/google-buys-548-million-qualcomm-shares"
+   ],
+   "topic": "google-buys-qualcomm-shares-548m-2026-11-06",
+   "firstSeen": "2026-11-08T02:31:22+08:00"
+  },
+  {
+   "id": "e45f662489",
+   "title": "马斯克：本季美国政府合同占 SpaceX 收入不到一成",
+   "summary": "据彭博，马斯克称本季度美国政府合同在 SpaceX 收入中占比将低于 10%，上季为 16.6%，2025 年约 20%，商业与星链收入占比持续抬升。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-06/spacex-to-get-under-10-of-revenue-from-us-government-musk-says"
+   ],
+   "topic": "spacex-us-gov-revenue-under-10pct-2026-11-06",
+   "firstSeen": "2026-11-08T02:31:22+08:00"
   }
  ],
- "lastChecked": "2026-11-08T02:10:57+08:00"
+ "lastChecked": "2026-11-08T02:31:22+08:00"
 }
