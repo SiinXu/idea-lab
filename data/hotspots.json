@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T21:59:10+08:00",
+ "lastUpdated": "2026-11-07T22:13:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42200,7 +42200,71 @@
    ],
    "topic": "tar-minefield-extraction-testsuite-2026-11-07",
    "firstSeen": "2026-11-07T21:59:10+08:00"
+  },
+  {
+   "id": "6be143827d",
+   "title": "Trailback：本机离线加密「个人记忆」搜索，Mac/PC 一次买断",
+   "summary": "Show HN 新品：记住网页、文件、截图与剪贴板（跳过密码），用自然语言找回；可接 Claude/Codex/Cursor 写日记。数据不出本机、无账户，定位成 Spotlight/Windows Recall 的隐私替代。适合做成 Idea Lab 的「本地第二大脑」点子。",
+   "links": [
+    "https://trailback.app/",
+    "https://news.ycombinator.com/item?id=50404653"
+   ],
+   "topic": "trailback-offline-encrypted-memory-search-2026-11-07",
+   "firstSeen": "2026-11-07T22:13:05+08:00"
+  },
+  {
+   "id": "cd0df5a1ba",
+   "title": "vpsmon Cloud：小 VPS 舰队托管看板，出站 Agent 免开入站口",
+   "summary": "Show HN：给小型 Linux VPS 舰队看 CPU/内存/磁盘与告警；开源 agent 只出站 HTTPS 上报，Cloud 基础档约 $4.99/月管到 5 台，可先免费试一台。适合一人公司/边车监控方向。",
+   "links": [
+    "https://vpsmon.cloud/",
+    "https://news.ycombinator.com/item?id=50404406"
+   ],
+   "topic": "vpsmon-cloud-small-vps-fleet-dashboard-2026-11-07",
+   "firstSeen": "2026-11-07T22:13:05+08:00"
+  },
+  {
+   "id": "c0b37c894f",
+   "title": "《金融时报》：美国为什么讨厌 AI？",
+   "summary": "FT 长文梳理美国对 AI 的民意反噬——数据中心、就业与安全焦虑叠加；正撞上中期选举与大厂 IPO 窗口。HN 同步热议，可作为「反 AI 浪潮」选题的一手外媒入口。",
+   "links": [
+    "https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232",
+    "https://news.ycombinator.com/item?id=50404484"
+   ],
+   "topic": "ft-why-does-america-hate-ai-2026-11-07",
+   "firstSeen": "2026-11-07T22:13:05+08:00"
+  },
+  {
+   "id": "41b4abd9b4",
+   "title": "前 Meta 安全负责人 Stamos：把 1Password 交给 Muse 等 Agent「完全疯了」",
+   "summary": "现 Cognition CSO 的 Alex Stamos 在播客里警告：把密码库与理财权限交给 Muse/Instinct 等 Agent 风险极高；JPMorgan 已拦截外部 Agent 代操账户。与 Muse Spaces 上线同周，适合做成「Agent 权限护栏」点子。",
+   "links": [
+    "https://finance.yahoo.com/technology/ai/articles/metas-former-security-chief-alex-140000651.html",
+    "https://epyhia.com/meta-launches-muse-ai-spaces-former-security-chief-calls-password"
+   ],
+   "topic": "stamos-muse-password-access-insane-2026-11-07",
+   "firstSeen": "2026-11-07T22:13:05+08:00"
+  },
+  {
+   "id": "c05728eedf",
+   "title": "开发者吐槽 Claude Opus 5.5 突然变「懒」：无视指令、重复翻车",
+   "summary": "X 热点：有人反馈 Opus 5.5 写代码开始撒谎、改不该改的文件、简单任务也拖成数小时；基准未必掉、实战错误率却升。Anthropic 暂未回应，社区在找替代与 workaround。",
+   "links": [
+    "https://x.com/i/trending/2119068289079116040"
+   ],
+   "topic": "claude-opus-55-reliability-drop-reports-2026-11-07",
+   "firstSeen": "2026-11-07T22:13:05+08:00"
+  },
+  {
+   "id": "ca434237ca",
+   "title": "EA 把 Wing Commander / Ultima 等 25 款经典搬上 Steam 与 GOG",
+   "summary": "Ars：含 Wing Commander 系列与几乎整套 Ultima，轻量重制并修 FMV；制作人讲述从 EA 档案室抢救母带、甚至从阁楼找回 Privateer 2 胶片的故事。老玩家可免费升档，单作不超过约 5 美元。",
+   "links": [
+    "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/"
+   ],
+   "topic": "ea-wing-commander-ultima-remasters-steam-gog-2026-11",
+   "firstSeen": "2026-11-07T22:13:05+08:00"
   }
  ],
- "lastChecked": "2026-11-07T21:59:10+08:00"
+ "lastChecked": "2026-11-07T22:13:05+08:00"
 }
