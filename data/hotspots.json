@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T07:58:03+08:00",
+ "lastUpdated": "2026-11-07T08:14:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -39502,7 +39502,52 @@
    ],
    "topic": "claude-robot-arm-paint-figure-03-campus-2026-11-06",
    "firstSeen": "2026-11-07T07:58:03+08:00"
+  },
+  {
+   "id": "75f5540cc1",
+   "title": "DeepMind：AI Agent 在数周内挖出遗留 1024 位 RSA 两处弱点",
+   "summary": "在人类密码学家指导下，模型找到签名伪造路径与更便宜的相关模数批量分解法；报道称部分场景可达约 1600 倍加速。公司强调现代 2048 位及以上密钥不受这些具体攻击影响，但「历史硬度假设」需持续压测。",
+   "links": [
+    "https://x.com/i/trending/2118777496661352781",
+    "https://cryptobriefing.com/google-deepmind-ai-rsa-1024-bit-weaknesses/",
+    "https://interestingengineering.com/ai-robotics/1600x-faster-google-deepmind-agents-expose-weaknesses-in-older-encryption-methods"
+   ],
+   "topic": "deepmind-rsa-1024-cryptanalysis-2026-11-06",
+   "firstSeen": "2026-11-07T08:14:47+08:00"
+  },
+  {
+   "id": "5750afac98",
+   "title": "The Slop Index：给各模型「AI 味」打分，越高越像机器人",
+   "summary": "对照 ChatGPT 出现前的真人写作，用机器指标加盲投给人投票，给数十个前沿模型打 0–100 的 slop 分（越高越像套话）。没有 LLM 当裁判；另开 arena 让人二选一投票。适合做成「反 AI 味」写作/客服文案工具的对标榜。",
+   "links": [
+    "https://www.theslopindex.com",
+    "https://news.ycombinator.com/item?id=50400178"
+   ],
+   "topic": "the-slop-index-ai-writing-benchmark-2026-11-06",
+   "firstSeen": "2026-11-07T08:14:47+08:00"
+  },
+  {
+   "id": "8b445b015f",
+   "title": "Factory 推出 Wargames：免费模拟国家级攻击，Droids 协助修复",
+   "summary": "申请通过后，Factory 出资做范围内攻防演练，分享发现并用其 Droids 协助修洞；强调书面授权、仅测自有系统、默认可中断。面向金融与前沿 AI 实验室客户的安全叙事，也是「Agent 时代红队即服务」信号。",
+   "links": [
+    "https://factory.com/wargames",
+    "https://news.ycombinator.com/item?id=50400176"
+   ],
+   "topic": "factory-wargames-nation-state-sim-2026-11-06",
+   "firstSeen": "2026-11-07T08:14:47+08:00"
+  },
+  {
+   "id": "b7791103b0",
+   "title": "Valve：Steam 正让「PC」本身变得可有可无",
+   "summary": "PCWorld 长文：Steam Deck/Proton 已让 Windows 可选；Steam Frame 用高通 Arm + FEX 翻译 x86，目标让游戏库不绑操作系统与 CPU 架构。核心仍是兼容层先做硬工程，再铺新形态硬件；反作弊仍是最大墙。",
+   "links": [
+    "https://www.pcworld.com/article/3266419/valve-escaped-windows-now-steam-is-breaking-free-from-the-pc-itself.html",
+    "https://news.ycombinator.com/item?id=50400063"
+   ],
+   "topic": "valve-steam-frame-arm-fex-beyond-pc-2026-11-06",
+   "firstSeen": "2026-11-07T08:14:47+08:00"
   }
  ],
- "lastChecked": "2026-11-07T07:58:03+08:00"
+ "lastChecked": "2026-11-07T08:14:47+08:00"
 }
