@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T01:26:25+08:00",
+ "lastUpdated": "2026-11-08T01:42:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42884,7 +42884,39 @@
    ],
    "topic": "psalm-7-security-taint-default-2026-11",
    "firstSeen": "2026-11-08T01:26:25+08:00"
+  },
+  {
+   "id": "75033d6b18",
+   "title": "Show HN：Coldframe——伪装成超市冷柜控制器的蜜罐",
+   "summary": "开源低交互蜜罐，仿 Danfoss AK-SM 800A / Dixell XWEB 界面，能识别相关 CVE 与登录绕过尝试，观察工控冷链设备被扫情况。",
+   "links": [
+    "https://github.com/hedgerow-dev/coldframe",
+    "https://news.ycombinator.com/item?id=50406292"
+   ],
+   "topic": "coldframe-fridge-honeypot-show-hn-2026-11-07",
+   "firstSeen": "2026-11-08T01:42:13+08:00"
+  },
+  {
+   "id": "4460d1ff68",
+   "title": "Anthropic 向企业客户发通知：未授权安全公司触及内部系统与部分客户联系信息",
+   "summary": "客户邮件称某网络安全公司在未授权情况下访问了销售/HR/IT 相关系统，触及部分客户与伙伴联系信息；对话、密码与支付未受影响，访问已被切断。",
+   "links": [
+    "https://runtimewire.com/article/anthropic-customer-notice-unnamed-security-firm-access",
+    "https://x.com/i/trending/2119107733496447135"
+   ],
+   "topic": "anthropic-customer-notice-unauthorized-access-2026-11-07",
+   "firstSeen": "2026-11-08T01:42:13+08:00"
+  },
+  {
+   "id": "45cff2505b",
+   "title": "平台团队热议「AI 软件工厂」：要规模化编排 Agent，而不只是更好的单兵编码工具",
+   "summary": "Warp 等从业者推动把规划、校验、评审与发布做成可复用流水线，用 Agent 抬高整队工程下限；也有人批评这是新瓶装旧酒，关键仍是工程纪律与工作流贴合。",
+   "links": [
+    "https://x.com/i/trending/2119115238473916439"
+   ],
+   "topic": "ai-software-factories-org-scaling-2026-11-07",
+   "firstSeen": "2026-11-08T01:42:13+08:00"
   }
  ],
- "lastChecked": "2026-11-08T01:27:01+08:00"
+ "lastChecked": "2026-11-08T01:42:13+08:00"
 }
