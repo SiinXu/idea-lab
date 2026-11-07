@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T00:05:15+08:00",
+ "lastUpdated": "2026-11-08T00:14:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42636,7 +42636,42 @@
    ],
    "topic": "planetscale-hidden-db-latency-metal-2026-11-07",
    "firstSeen": "2026-11-08T00:05:15+08:00"
+  },
+  {
+   "id": "814eae6b7e",
+   "title": "Let's Encrypt AI：目标 2027 年底让多数 AI GPU 上的对话走可验证机密计算",
+   "summary": "立场文件主张用 TEE + 远程证明保护提示词与回复，把「加密 AI 对话」做成默认；列举 Maple、Tinfoil、Privatemode 等现成机密推理服务，并呼吁 OpenAI、Anthropic 等把可验证机密推理开放给客户。HN 今日挂出。",
+   "links": [
+    "https://letsencrypt.ai/",
+    "https://news.ycombinator.com/item?id=50405484"
+   ],
+   "topic": "letsencrypt-ai-confidential-computing-2027-2026-11-07",
+   "firstSeen": "2026-11-08T00:14:48+08:00"
+  },
+  {
+   "id": "d8f8be87c6",
+   "title": "iyi：为人与编码 Agent 设计的编译语言，模块只读依赖声明",
+   "summary": "基于 Crystal 编译器，模块编译只对照依赖的声明而非实现体，宣称改一行重建约快 9 倍；自带 iyi mcp / lsp，可向 Agent 提供 context、check、fix、test。官网与 GitHub 今日上 HN。",
+   "links": [
+    "https://iyi.dev/",
+    "https://iyi.dev/agents/",
+    "https://github.com/iyilang/iyi",
+    "https://news.ycombinator.com/item?id=50405667"
+   ],
+   "topic": "iyi-lang-agents-declarations-2026-11-07",
+   "firstSeen": "2026-11-08T00:14:48+08:00"
+  },
+  {
+   "id": "5a5bfdbee9",
+   "title": "比特币开发者提「量子地雷」：偷币须押等额抵押，原主人可反杀",
+   "summary": "Bitcoin Core 开发者 Cory Fields 在 bitcoin-dev 提出思想实验：量子攻击者转走脆弱币须先从抗量子钱包押等额抵押并锁定等待期，原主人可揭示预埋证明拿回本金并收走抵押。不保护丢钥币；诚实持有人搬家也要押金。CoinDesk 报道，X 今日继续热议。",
+   "links": [
+    "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
+    "https://x.com/i/trending/2118855048985804859"
+   ],
+   "topic": "bitcoin-quantum-landmines-cory-fields-2026-11",
+   "firstSeen": "2026-11-08T00:14:48+08:00"
   }
  ],
- "lastChecked": "2026-11-08T00:05:15+08:00"
+ "lastChecked": "2026-11-08T00:14:48+08:00"
 }
