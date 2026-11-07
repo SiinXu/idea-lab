@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T21:44:45+08:00",
+ "lastUpdated": "2026-11-07T21:59:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -42148,7 +42148,59 @@
    ],
    "topic": "tiny-homelab-replace-github-actions-2026-11-07",
    "firstSeen": "2026-11-07T21:44:45+08:00"
+  },
+  {
+   "id": "bfa475de26",
+   "title": "MailDignity：给 AI 冷邮件加「体面」护栏，API/MCP 可接入",
+   "summary": "Show HN 上线的外呼过滤器：在 LLM 与发送队列之间做 PASS/REVIEW/FAIL，拦假客套、硬塞 Calendly、越权诊断；提供 API、MCP、Gmail/Outlook 扩展，试水期免绑卡。适合做成 Idea Lab 的「反 AI 外呼垃圾」点子。",
+   "links": [
+    "https://maildignity.com/",
+    "https://news.ycombinator.com/item?id=50404494"
+   ],
+   "topic": "maildignity-ai-outbound-guardrail-2026-11-07",
+   "firstSeen": "2026-11-07T21:59:10+08:00"
+  },
+  {
+   "id": "448dd6846c",
+   "title": "欧洲「Stop Dirty Data Centres」：15 国百余团体周末抗议超大 AI 机房",
+   "summary": "《卫报》：欧美中期选举反数据中心浪潮下，欧洲活动人士在波兰议会、都柏林、丹麦微软机房等地联动示威，要求暂停大型项目；并引用研究称 AI 机房碳排放到 2030 年或达 2023 年六倍。",
+   "links": [
+    "https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres"
+   ],
+   "topic": "europe-stop-dirty-data-centres-protests-2026-11",
+   "firstSeen": "2026-11-07T21:59:10+08:00"
+  },
+  {
+   "id": "c5683f02c2",
+   "title": "Project5pi：让 Claude 直接改 .flp，一句话出 FL Studio 工程与母带",
+   "summary": "新开源工具给 Claude 写歌点子后，直接编辑 FL Studio 20–2026 工程文件，无头渲染并检查混音，输出可打开的 .flp、MIDI 与母带 MP3。适合做成「AI 编曲直出 DAW」方向。",
+   "links": [
+    "https://github.com/ProjectFlowmar/project5pi-midi-for-claude"
+   ],
+   "topic": "project5pi-claude-fl-studio-flp-2026-11-07",
+   "firstSeen": "2026-11-07T21:59:10+08:00"
+  },
+  {
+   "id": "b4464cc2e4",
+   "title": "Sean Goedecke：跟设计师共事——一人是福，两人必掐；设计系统爱恨交织",
+   "summary": "工程师视角长文：设计师立刻能证明价值且文化距离反而有用；同一产品挂多名设计师常互相改稿；设计系统能统一千人 UI，却也逼产品组 CSS 魔改与版本地狱。",
+   "links": [
+    "https://www.seangoedecke.com/working-with-designers/"
+   ],
+   "topic": "seangoedecke-working-with-designers-2026-11-07",
+   "firstSeen": "2026-11-07T21:59:10+08:00"
+  },
+  {
+   "id": "d647b34d6a",
+   "title": "tar-minefield：把「解 tar 有多坑」做成可复现测试套件",
+   "summary": "Show HN：大量含糊歧义的 tar 样例与文档，逼各语言解压实现行为一致；附 GitHub 仓库与 DOI，适合安全/打包工具作者对照踩坑。",
+   "links": [
+    "https://stoppels.ch/tar/",
+    "https://github.com/haampie/tar-minefield"
+   ],
+   "topic": "tar-minefield-extraction-testsuite-2026-11-07",
+   "firstSeen": "2026-11-07T21:59:10+08:00"
   }
  ],
- "lastChecked": "2026-11-07T21:44:45+08:00"
+ "lastChecked": "2026-11-07T21:59:10+08:00"
 }
