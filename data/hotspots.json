@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T02:31:22+08:00",
+ "lastUpdated": "2026-11-08T02:52:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43094,7 +43094,18 @@
    ],
    "topic": "spacex-us-gov-revenue-under-10pct-2026-11-06",
    "firstSeen": "2026-11-08T02:31:22+08:00"
+  },
+  {
+   "id": "e4da1fc365",
+   "title": "10 美元 OpenStick 当家庭服务器：一根 4G 随身 Wi-Fi 棒能跑什么",
+   "summary": "作者把 10 美元的 OpenStick（512MB 内存、4 核 A53、4GB eMMC、带 4G 和 GPS、无风扇）刷成 Debian，用 Podman 跑 AdGuard Home、CastSponsorSkip 等轻量服务，当零噪音、低功耗的入门自托管机；HN 上升中。",
+   "links": [
+    "https://blog.bosscher.ch/posts/openstick/",
+    "https://news.ycombinator.com/item?id=50406670"
+   ],
+   "topic": "openstick-10usd-homelab-2026-11-07",
+   "firstSeen": "2026-11-08T02:52:56+08:00"
   }
  ],
- "lastChecked": "2026-11-08T02:31:22+08:00"
+ "lastChecked": "2026-11-08T02:52:56+08:00"
 }
