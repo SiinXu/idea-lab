@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T12:02:56+08:00",
+ "lastUpdated": "2026-11-07T12:13:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40225,7 +40225,38 @@
    ],
    "topic": "dao-labs-open-weights-community-oversight-2026-11-07",
    "firstSeen": "2026-11-07T12:02:56+08:00"
+  },
+  {
+   "id": "51a16b58b8",
+   "title": "Dependabot 支持 Agent Package Manager：技能包也能自动升版",
+   "summary": "GitHub Dependabot 可为 apm.yml 里的 git 依赖开版本更新 PR，并重写 apm.lock.yaml——专门盯 AI agent 的 skills / prompts / instructions。仅版本更新、不含安全更新；全计划可用，GHES 3.24 跟上。",
+   "links": [
+    "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager/",
+    "https://docs.github.com/en/code-security/reference/supply-chain-security/supported-ecosystems-and-repositories"
+   ],
+   "topic": "dependabot-agent-package-manager-apm-2026-11-03",
+   "firstSeen": "2026-11-07T12:13:27+08:00"
+  },
+  {
+   "id": "3bcdfa6e04",
+   "title": "GitHub 新 PR Overview 页公测：合并就绪摘要顶置",
+   "summary": "长 PR 不用再滚到页面底才看合并盒。Overview 把合并状态、阻塞项和下一步动作收到页顶紧凑摘要，并可筛未解决评论、按最新评论排序；页头按钮可切回经典视图，周末继续放量。",
+   "links": [
+    "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/"
+   ],
+   "topic": "github-pr-overview-page-preview-2026-11-05",
+   "firstSeen": "2026-11-07T12:13:27+08:00"
+  },
+  {
+   "id": "dcf7efe8bc",
+   "title": "GitHub：Copilot 用量 API 补上 Code Review 被采纳率",
+   "summary": "企业/组织仓库级 Copilot 用量报表新增 copilot_code_review 字段，统计评论数、有多少被标记为已处理，方便衡量「审了有没有用」而不只是开没开审查。",
+   "links": [
+    "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate/"
+   ],
+   "topic": "github-copilot-usage-metrics-code-review-addressed-2026-11-05",
+   "firstSeen": "2026-11-07T12:13:27+08:00"
   }
  ],
- "lastChecked": "2026-11-07T12:02:56+08:00"
+ "lastChecked": "2026-11-07T12:13:27+08:00"
 }
