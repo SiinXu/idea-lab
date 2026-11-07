@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T09:45:53+08:00",
+ "lastUpdated": "2026-11-07T09:57:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -39819,7 +39819,51 @@
    ],
    "topic": "claude-opus-5-5-basic-coding-struggle-wave-2026-11-07",
    "firstSeen": "2026-11-07T09:45:53+08:00"
+  },
+  {
+   "id": "9674d36412",
+   "title": "Show HN：SlopSlot——把 Claude Code 提示变成老虎机",
+   "summary": "Claude Code 插件：每次提示像拉老虎机，带积分、经验与徽章，偏娱乐向，也折射「vibe coding」趣味化。",
+   "links": [
+    "https://github.com/gajus/slopslot",
+    "https://news.ycombinator.com/item?id=50400511"
+   ],
+   "topic": "slopslot-claude-code-plugin-2026-11-07",
+   "firstSeen": "2026-11-07T09:57:32+08:00"
+  },
+  {
+   "id": "513242eebe",
+   "title": "开源 Code Copilot Team：可强制执行的多 Agent 编码 Harness",
+   "summary": "gosha70 开源 provider 中立 harness：规格驱动流程、跨厂商互审与安全护栏，Claude Code / Pi 一等支持，Cursor 等为顾问适配。",
+   "links": [
+    "https://github.com/gosha70/code-copilot-team",
+    "https://news.ycombinator.com/item?id=50400827"
+   ],
+   "topic": "code-copilot-team-harness-2026-11-07",
+   "firstSeen": "2026-11-07T09:57:32+08:00"
+  },
+  {
+   "id": "5e6ed18cb0",
+   "title": "Show HN：Select——靠可验证结果赚取自主权的 Agent 编排",
+   "summary": "开源 Agent 编排强调可验证结果、人工监督与「挣来的」自主权，而不是一上来全权放权。",
+   "links": [
+    "https://github.com/Kirby54/Select",
+    "https://news.ycombinator.com/item?id=50400882"
+   ],
+   "topic": "select-earned-autonomy-agents-2026-11-07",
+   "firstSeen": "2026-11-07T09:57:32+08:00"
+  },
+  {
+   "id": "777d0afb27",
+   "title": "LWN：把 Linux 休眠锁死——加固 hibernation 路径",
+   "summary": "LWN 讨论如何收紧 Linux hibernation，降低休眠镜像被篡改或误用的风险，属内核安全向加固。",
+   "links": [
+    "https://lwn.net/Articles/1103190/",
+    "https://news.ycombinator.com/item?id=50400495"
+   ],
+   "topic": "linux-hibernation-lockdown-lwn-2026-11-07",
+   "firstSeen": "2026-11-07T09:57:32+08:00"
   }
  ],
- "lastChecked": "2026-11-07T09:45:53+08:00"
+ "lastChecked": "2026-11-07T09:57:32+08:00"
 }
