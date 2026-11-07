@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-07T10:44:26+08:00",
+ "lastUpdated": "2026-11-07T11:02:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -40019,7 +40019,51 @@
    ],
    "topic": "aws-bedrock-kimi-k3-1-pro-2026-11-06",
    "firstSeen": "2026-11-07T10:44:26+08:00"
+  },
+  {
+   "id": "df1346203f",
+   "title": "Claude Code 2.1.319：MCP 任务后台化 + denyInsteadOfPrompting",
+   "summary": "GitHub 正式发版：终端里 MCP 工具若以 task 跑会立刻进后台，完成后再回传结果（可用 CLAUDE_CODE_DISABLE_MCP_TASK_BACKGROUND=1 改回阻塞等待）；新增 permissions.denyInsteadOfPrompting，遇权限询问直接拒绝并继续本轮。另有 /claude-api latency-optimize、/tasks「Earlier in this session」等。",
+   "links": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.319",
+    "https://vibehacker.com/news/claude-code-2-1-319-backgrounds-mcp-tasks-in-the-terminal-and-adds-denyinsteadof"
+   ],
+   "topic": "claude-code-2-1-319-mcp-deny-2026-11-06",
+   "firstSeen": "2026-11-07T11:02:05+08:00"
+  },
+  {
+   "id": "06bf5f88ac",
+   "title": "ESLint 正式支持 Shell 脚本：@eslint/shell 上线",
+   "summary": "官方语言插件用 mvdan-sh 解析 Bash / POSIX sh / mksh，规则对齐 ShellCheck（未加引号展开、无用变量、危险 read 等），提供 recommended 配置。可与 JS/JSON/Markdown/CSS 同一套 eslint.config 管构建脚本，是 ESLint 语言无关化又一步。",
+   "links": [
+    "https://eslint.org/blog/2026/11/eslint-shell-plugin-announcement/",
+    "https://news.ycombinator.com/item?id=50401107"
+   ],
+   "topic": "eslint-shell-plugin-2026-11-06",
+   "firstSeen": "2026-11-07T11:02:05+08:00"
+  },
+  {
+   "id": "fd1a4c4700",
+   "title": "Cursor 上线 Voice Chat：用语音实时指挥编码 Agent",
+   "summary": "Agents Window / IDE / Web / iOS 都可与 Agent 双向语音通话，边说需求边看 diff 与运行进度；底层用 Grok Voice（Ara/Eve/Leo 等音色）。Privacy Mode 零留存，每日有通话额度，静音约 10 分钟会挂断。",
+   "links": [
+    "https://cursor.com/changelog/voice-chat",
+    "https://cursor.com/docs/agent/voice-chat"
+   ],
+   "topic": "cursor-voice-chat-agents-2026-11-06",
+   "firstSeen": "2026-11-07T11:02:05+08:00"
+  },
+  {
+   "id": "43e93bdd14",
+   "title": "RealPage 算法定价案近 3.6 亿美元和解获批：租客集体获赔",
+   "summary": "联邦法院批准多轮和解总额近 3.6 亿美元；涉 YieldStar / AI Revenue Management 等方案的房东同意停向 RealPage 提供非公开数据用于竞对定价建议。州检察长仍有独立诉讼，算法合谋定价争议未完结；刚冲上 HN。",
+   "links": [
+    "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+    "https://news.ycombinator.com/item?id=50399991"
+   ],
+   "topic": "realpage-360m-settlement-hn-2026-11-06",
+   "firstSeen": "2026-11-07T11:02:05+08:00"
   }
  ],
- "lastChecked": "2026-11-07T10:44:26+08:00"
+ "lastChecked": "2026-11-07T11:02:05+08:00"
 }
