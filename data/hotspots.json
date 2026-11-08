@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T20:25:42+08:00",
+ "lastUpdated": "2026-11-08T20:44:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43842,7 +43842,18 @@
    ],
    "topic": "statcraft-safe-rust-spss-rewrite-hn-2026-11-08",
    "firstSeen": "2026-11-08T20:25:42+08:00"
+  },
+  {
+   "id": "ca74880b8f",
+   "title": "Anthropic 斥约 34 亿美元接手燃气发电机订单，为数据中心自备电力",
+   "summary": "《金融时报》报道，Anthropic 在 9 月底从圣安东尼奥供应商 OnePWR Solutions 接手约 1.7 吉瓦重型燃气发电机承诺，交易额约 34 亿美元，是目前已知 AI 实验室单笔发电设备采购最大的一笔；Anthropic 并未收购 OnePWR 本身。这些机组由 OnePWR 约两年前向卡特彼勒下单。",
+   "links": [
+    "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+    "https://www.investing.com/news/stock-market-news/anthropic-reportedly-strikes-34-billion-deal-for-gasfired-power-at-data-centres-5010208"
+   ],
+   "topic": "anthropic-3-4b-onepwr-gas-generators-2026-11-08",
+   "firstSeen": "2026-11-08T20:44:17+08:00"
   }
  ],
- "lastChecked": "2026-11-08T20:25:42+08:00"
+ "lastChecked": "2026-11-08T20:44:17+08:00"
 }
