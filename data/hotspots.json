@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T21:13:47+08:00",
+ "lastUpdated": "2026-11-08T21:27:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43898,7 +43898,18 @@
    ],
    "topic": "guardian-ai-clog-uk-public-bodies-2026-11-08",
    "firstSeen": "2026-11-08T21:13:47+08:00"
+  },
+  {
+   "id": "70c6ac8d89",
+   "title": "开发者发文「我不会再用 LLM 写代码」登上 HN",
+   "summary": "芬兰开发者 Kristian Polso 今天发文说，经过一年体验后，他决定在专业工作里主动不用大语言模型和 AI 编程助手。他自称有约十年机器学习经验，也在自己的 homelab 跑过本地模型和图像扩散。主要理由包括：长时间使用后会出现「LLM 脑雾」，微软等研究也提到认知负荷和信心变化；生成代码表面完整、注释和测试很多，细看却常绕远路甚至写出不必要的新逻辑；若代码几乎全由 agent 写，最后可能没人真正理解；他自己喜欢亲手写代码来想清楚问题；再加上数据中心能耗，以及美国公司与 GDPR、CLOUD Act 带来的数据管辖担忧。文章发出后很快登上 Hacker News 首页并引发讨论。",
+   "links": [
+    "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+    "https://news.ycombinator.com/item?id=50412591"
+   ],
+   "topic": "polso-no-llm-coding-hn-2026-11-08",
+   "firstSeen": "2026-11-08T21:27:25+08:00"
   }
  ],
- "lastChecked": "2026-11-08T21:13:47+08:00"
+ "lastChecked": "2026-11-08T21:27:25+08:00"
 }
