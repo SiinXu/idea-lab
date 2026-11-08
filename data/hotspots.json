@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T15:41:27+08:00",
+ "lastUpdated": "2026-11-08T16:18:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43591,7 +43591,20 @@
    ],
    "topic": "openai-tibo-terra-not-vs-opus-55-2026-11-08",
    "firstSeen": "2026-11-08T15:41:27+08:00"
+  },
+  {
+   "id": "d028de19c8",
+   "title": "Qwen 4 早期预览登顶 GameFeel：Flash-Early（Hawk）比 27B 更强",
+   "summary": "开发者 follistatin 向阿里要到早期 API 后，把 Qwen-4-27B 早期检查点（接口名 QoDuck）送进约 6 万道游戏平衡与机制理解题的 GameFeel Bench，自称开源里明显领先，只落后 Claude Opus 5.5-Max 和 Xhigh。随后他又测了 Flash 体量的混合专家模型 Qwen-4-Flash-Early（代号 Hawk），称成绩更好，而且输出的推理 token 更少；按对方账单，27B 约每题 0.16 美元、Flash 约 0.40 美元。作者也提醒这是偏科基准，不代表综合能力；讨论里有人认为，若它哪怕只和小幅整体实力相关，阿里这代会很猛。该测试贴随后形成 X 热议。",
+   "links": [
+    "https://x.com/follistatindev/status/2119220233751671186",
+    "https://x.com/follistatindev/status/2119129611510383014",
+    "https://x.com/teortaxesTex/status/2119207525275107461",
+    "https://x.com/i/trending/2119338733355077914"
+   ],
+   "topic": "qwen4-flash-early-hawk-gamefeel-2026-11-08",
+   "firstSeen": "2026-11-08T16:18:35+08:00"
   }
  ],
- "lastChecked": "2026-11-08T15:41:27+08:00"
+ "lastChecked": "2026-11-08T16:18:35+08:00"
 }
