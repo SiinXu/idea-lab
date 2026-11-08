@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T06:45:04+08:00",
+ "lastUpdated": "2026-11-09T07:29:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44244,7 +44244,18 @@
    ],
    "topic": "nvidia-jensen-huang-staff-letter-axios-2026-11-08",
    "firstSeen": "2026-11-09T06:45:04+08:00"
+  },
+  {
+   "id": "2fab79d06b",
+   "title": "KetchUp 登上 HN：用 Rust + WebGPU 写的开源 SketchUp 替代品",
+   "summary": "KetchUp 是一款免费开源的 3D 建模工具，主打木工和家具设计，可按精确尺寸规划书架、桌子和柜子，支持 Windows、macOS、Linux 和浏览器直接使用。作者称它用 Rust 和 WebGPU 构建，定位为 SketchUp 的开源替代。11 月 8 日以 Show HN 形式登上 HN。",
+   "links": [
+    "https://ketchup3d.github.io/app/",
+    "https://news.ycombinator.com/item?id=50418176"
+   ],
+   "topic": "ketchup-open-source-sketchup-rust-webgpu-hn-2026-11-08",
+   "firstSeen": "2026-11-09T07:29:51+08:00"
   }
  ],
- "lastChecked": "2026-11-09T06:45:04+08:00"
+ "lastChecked": "2026-11-09T07:29:51+08:00"
 }
