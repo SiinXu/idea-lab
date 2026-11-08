@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T14:02:33+08:00",
+ "lastUpdated": "2026-11-08T14:32:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43510,7 +43510,18 @@
    ],
    "topic": "cpuz-validator-ram-capacity-down-yoy-2026-11",
    "firstSeen": "2026-11-08T14:02:33+08:00"
+  },
+  {
+   "id": "a02a02774b",
+   "title": "Karpathy 用 Claude Code 几分钟做出 TristanTube：把精选科学视频做成可刷播放器",
+   "summary": "Andrej Karpathy 把 Tristan Hume 的科学与工程视频分级清单交给 Claude Code，很快做出类似 YouTube 的播放站 TristanTube，带分级筛选和电视模式。展示了「人工精选 + 快速 AI 搭站」的组合。",
+   "links": [
+    "https://karpathy.ai/tristan-tube",
+    "https://x.com/i/trending/2119193388322791487"
+   ],
+   "topic": "karpathy-tristantube-claude-code-2026-11-08",
+   "firstSeen": "2026-11-08T14:32:14+08:00"
   }
  ],
- "lastChecked": "2026-11-08T14:02:33+08:00"
+ "lastChecked": "2026-11-08T14:32:14+08:00"
 }
