@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T08:34:04+08:00",
+ "lastUpdated": "2026-11-08T09:44:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43232,7 +43232,31 @@
    ],
    "topic": "four-2s-any-integer-greenplace-hn-2026-11-07",
    "firstSeen": "2026-11-08T08:34:04+08:00"
+  },
+  {
+   "id": "58da23759e",
+   "title": "OpenAI Dots 能读取邮箱里的登录验证码，但输入时往往还会停一下",
+   "summary": "CryptoBriefing 报道，ChatGPT Pro / Business Premium 的常驻智能体 Dots 在用户授权后，能从绑定邮箱取出注册或登录用的一次性验证码；不过早期反馈称它看到验证码后仍常会犹豫，不会立刻代为输入。付款等敏感操作仍需用户接管。",
+   "links": [
+    "https://cryptobriefing.com/openai-dots-agents-2fa-email-codes/",
+    "https://help.openai.com/en/articles/20001530-getting-started-with-your-dot",
+    "https://x.com/i/trending/2119185512535675314"
+   ],
+   "topic": "openai-dots-email-2fa-codes-2026-11-07",
+   "firstSeen": "2026-11-08T09:44:12+08:00"
+  },
+  {
+   "id": "623d56e0a7",
+   "title": "马斯克：特斯拉更可能出租 Optimus，而不是卖掉",
+   "summary": "在 11 月 6 日 Baron 投资大会上，马斯克被问到 Optimus 是卖还是租时回答「大概会出租」。他估计单台制造成本起初约 3 万美元、之后可降到约 2 万美元，但未公布租金；对外交付目标仍约 2027 年底，此前先用于自家工厂。这和 FSD 订阅一样，走经常性收入。",
+   "links": [
+    "https://www.notateslaapp.com/news/4959/musk-tesla-will-rent-optimus-robots-instead-of-selling-them",
+    "https://teslanorth.com/2026/11/07/elon-musks-full-ron-baron-interview-2026-tesla-spacex-starship-ai-and-more/",
+    "https://x.com/i/trending/2118806660395454679"
+   ],
+   "topic": "tesla-optimus-rent-not-sell-baron-2026-11-06",
+   "firstSeen": "2026-11-08T09:44:12+08:00"
   }
  ],
- "lastChecked": "2026-11-08T08:34:04+08:00"
+ "lastChecked": "2026-11-08T09:44:12+08:00"
 }
