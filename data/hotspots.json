@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T18:29:22+08:00",
+ "lastUpdated": "2026-11-08T18:42:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43721,7 +43721,18 @@
    ],
    "topic": "github-504-status-green-2026-11-08",
    "firstSeen": "2026-11-08T18:29:22+08:00"
+  },
+  {
+   "id": "fc445913ac",
+   "title": "GitHub 正式承认故障：部分未登录用户出现超时",
+   "summary": "官方状态页于 10:36 UTC 发布事件「Increase in timeouts for some unauthenticated users」，目前为 Investigating，称正在调查部分服务性能受影响的报告。这与稍早开发者反馈的未登录访问 504、发行版下载和 CI 中断相符；此前状态页仍显示全部正常。",
+   "links": [
+    "https://www.githubstatus.com/incidents/pyynvrm1vskw",
+    "https://news.ycombinator.com/item?id=50412062"
+   ],
+   "topic": "github-unauth-timeouts-incident-2026-11-08",
+   "firstSeen": "2026-11-08T18:42:48+08:00"
   }
  ],
- "lastChecked": "2026-11-08T18:29:22+08:00"
+ "lastChecked": "2026-11-08T18:42:48+08:00"
 }
