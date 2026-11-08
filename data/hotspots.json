@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T20:12:26+08:00",
+ "lastUpdated": "2026-11-08T20:25:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43811,7 +43811,38 @@
    ],
    "topic": "linebender-jit-bitmap-text-rp2350-hn-2026-11-08",
    "firstSeen": "2026-11-08T20:12:26+08:00"
+  },
+  {
+   "id": "67671bdc8a",
+   "title": "Asahi Linux 将代码从 MIT 改到 GPLv2：防有人搬走未完成工作去赚钱",
+   "summary": "项目称有人从开发者个人仓库拿走开发中的功能，不署名或用大模型改写后发布，打算取代原项目并商业化。官方已开始把仓库改成 GPLv2 或更新版本，X 和 LWN 上都在讨论这次换许可。",
+   "links": [
+    "https://x.com/i/trending/2119200782025216481",
+    "https://lwn.net/Articles/1105936/"
+   ],
+   "topic": "asahi-linux-gplv2-relicense-x-2026-11-08",
+   "firstSeen": "2026-11-08T20:25:42+08:00"
+  },
+  {
+   "id": "41e5a95620",
+   "title": "WaveDudeNext 登上 HN：交互式二维波动光学模拟器",
+   "summary": "把任意图片变成折射场景，加上波源后可观察折射、衍射和干涉，还支持探针、强度图和导出视频。",
+   "links": [
+    "https://github.com/graealex/WaveDudeNext"
+   ],
+   "topic": "wavedudenext-2d-wave-simulator-hn-2026-11-08",
+   "firstSeen": "2026-11-08T20:25:42+08:00"
+  },
+  {
+   "id": "74e66ebef7",
+   "title": "有开发者独自用纯安全 Rust 重写 IBM SPSS：开源统计软件 StatCraft",
+   "summary": "作者在 HN 介绍 StatCraft，目标是做出高性能、内存安全、百分之百 Safe Rust 的开源统计分析工具。",
+   "links": [
+    "https://github.com/kobaltgit/StatCraft"
+   ],
+   "topic": "statcraft-safe-rust-spss-rewrite-hn-2026-11-08",
+   "firstSeen": "2026-11-08T20:25:42+08:00"
   }
  ],
- "lastChecked": "2026-11-08T20:12:26+08:00"
+ "lastChecked": "2026-11-08T20:25:42+08:00"
 }
