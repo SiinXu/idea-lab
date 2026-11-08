@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T07:59:21+08:00",
+ "lastUpdated": "2026-11-08T08:16:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43177,7 +43177,29 @@
    ],
    "topic": "tesla-2026-38-blocks-thirdparty-v2h-australia-2026-11-07",
    "firstSeen": "2026-11-08T07:59:21+08:00"
+  },
+  {
+   "id": "4112c090ed",
+   "title": "美国财政部切断加密交易所 MEXC 的美元通道：指控经手至少 160 亿美元非法资金",
+   "summary": "美国财政部 FinCEN 以「经济放逐行动」发布命令，禁止美国金融机构与全球前 20 大加密交易所之一 MEXC Global 收发资金（含加密转账）。财政部称 2021 年 5 月至 2026 年 5 月该所经手至少 160 亿美元与伊朗、朝鲜、俄罗斯规避制裁及网络犯罪相关的资金，包括与已制裁的 Garantex/Grinex 往来；命令在联邦公报刊登 30 日后生效，MEXC 称仍正常运营并已启动合规审查。",
+   "links": [
+    "https://home.treasury.gov/news/press-releases/sb0685",
+    "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows"
+   ],
+   "topic": "fincen-mexc-global-cut-off-2026-11-06",
+   "firstSeen": "2026-11-08T08:16:34+08:00"
+  },
+  {
+   "id": "2183c0f694",
+   "title": "Coinbase CEO Armstrong：用「幕僚长 + 各领域主 Agent」改工作流，决策收进一条本地队列",
+   "summary": "Armstrong 11 月 7 日发帖称，过去几周他把每个关注领域交给一只常驻主 Agent，再由一只「幕僚长」Agent 统管；各自主 Agent 再调度写代码、测试、催评审和协调同事的子 Agent。需要他拍板或验收的事项汇入一个本地网页应用的优先级队列，产品评审带截图和演示视频，他用语音和快捷键批量清队列。系统会学习他的偏好（他称为 Brian brain）改进初稿，但每项改动仍需人工审查和安全检查——目的是去掉事务，而不是取代判断。",
+   "links": [
+    "https://www.cryptotimes.io/2026/11/07/coinbase-ceo-restructures-workflow-around-ai-agents-and-human-reviews/",
+    "https://x.com/i/trending/2119219682615885989"
+   ],
+   "topic": "coinbase-armstrong-agent-queue-workflow-2026-11-07",
+   "firstSeen": "2026-11-08T08:16:34+08:00"
   }
  ],
- "lastChecked": "2026-11-08T07:59:21+08:00"
+ "lastChecked": "2026-11-08T08:16:34+08:00"
 }
