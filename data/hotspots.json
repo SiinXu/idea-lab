@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T16:18:35+08:00",
+ "lastUpdated": "2026-11-08T17:02:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43604,7 +43604,18 @@
    ],
    "topic": "qwen4-flash-early-hawk-gamefeel-2026-11-08",
    "firstSeen": "2026-11-08T16:18:35+08:00"
+  },
+  {
+   "id": "11bdea7187",
+   "title": "Rob Miles：别让我用你们网站上的 AI 助手，让我用我自己的",
+   "summary": "AI 安全研究者 Rob Miles 发帖说：「所有公司注意：我永远不想用你们网站上的 AI 助手，我想在你们的网站上用我自己的 AI 助手。」帖子发出后迅速传开，目前约有 2500 次喜欢、120 次转发和 70 多条回复，并形成 X 热议。附和的人认为，个人 Agent 很快会代劳购物、预订和比价，挡住外部助手的网站会像当年忽视手机端一样过时；也有人提到要用 MCP 这类接口让外部 Agent 安全接入，而一些公司仍想推自己的内置助手。",
+   "links": [
+    "https://x.com/robertskmiles/status/2119249454591336857",
+    "https://x.com/i/trending/2119349427769090559"
+   ],
+   "topic": "rob-miles-byo-ai-assistant-websites-2026-11-08",
+   "firstSeen": "2026-11-08T17:02:12+08:00"
   }
  ],
- "lastChecked": "2026-11-08T16:18:35+08:00"
+ "lastChecked": "2026-11-08T17:02:12+08:00"
 }
