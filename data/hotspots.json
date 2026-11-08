@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T22:24:53+08:00",
+ "lastUpdated": "2026-11-08T23:15:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43956,7 +43956,18 @@
    ],
    "topic": "qlabs-quadrillion-parameter-scaling-hn-2026-11-08",
    "firstSeen": "2026-11-08T22:24:53+08:00"
+  },
+  {
+   "id": "bcc5e65122",
+   "title": "Challenger：美国雇主 10 月以 AI 为由宣布的裁员降至全年最低",
+   "summary": "人事咨询公司 Challenger, Gray & Christmas 11 月 5 日发布报告称，美国雇主 10 月宣布裁员 43994 人，较去年同期下降 71%，为 2023 年以来同期最低。其中以人工智能为由的裁员为 1265 人，为今年单月最低；今年截至 10 月，AI 相关宣布裁员累计 121401 人，约占两成。市场/经济因素以 16407 人（占 37%）连续第二个月成为首要原因，年内累计 130531 人，已超过 AI。科技行业 10 月宣布裁员 5576 人，也是今年单月最低，但年内累计 171501 人，仍居各行业之首。这条数据今天在 X 上形成热点。",
+   "links": [
+    "https://www.challengergray.com/blog/october-layoffs-at-three-year-low-seasonal-hiring-plans-up-26/",
+    "https://x.com/i/trending/2119445833124847970"
+   ],
+   "topic": "challenger-october-2026-ai-cited-job-cuts-low",
+   "firstSeen": "2026-11-08T23:15:30+08:00"
   }
  ],
- "lastChecked": "2026-11-08T22:24:53+08:00"
+ "lastChecked": "2026-11-08T23:15:30+08:00"
 }
