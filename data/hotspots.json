@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T23:15:30+08:00",
+ "lastUpdated": "2026-11-08T23:28:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43967,7 +43967,18 @@
    ],
    "topic": "challenger-october-2026-ai-cited-job-cuts-low",
    "firstSeen": "2026-11-08T23:15:30+08:00"
+  },
+  {
+   "id": "778d66efbb",
+   "title": "Fidelity：Solana 今年成交笔数约占美国主要交易所的 15%，曾短暂超过纽交所周成交笔数",
+   "summary": "富达数字资产（Fidelity Digital Assets）11 月 6 日发布研究报告，资深分析师 Max Wadington 写道：2026 年迄今，Solana 的成交笔数平均约占其所比较的美国主要交易所的 15%，并曾在单周成交笔数上短暂超过纽约证券交易所。这是成交笔数而非成交金额；报告也提醒，链上活跃仍以加密原生资产为主，且纳斯达克数据显示 2025 年约一半美股成交量发生在交易所之外。报告同时提到，过去 12 个月 Solana 上的永续合约名义成交额超过 5900 亿美元。Solana 方面 11 月 8 日转发该结论后，这条对比今天在 X 上形成热点。",
+   "links": [
+    "https://www.fidelitydigitalassets.com/research-and-insights/solanas-competitive-advantage-chain-trading",
+    "https://x.com/i/trending/2119427746954944607"
+   ],
+   "topic": "fidelity-solana-15pct-us-exchange-trades-2026-11-08",
+   "firstSeen": "2026-11-08T23:28:15+08:00"
   }
  ],
- "lastChecked": "2026-11-08T23:15:30+08:00"
+ "lastChecked": "2026-11-08T23:28:15+08:00"
 }
