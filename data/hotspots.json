@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T12:03:16+08:00",
+ "lastUpdated": "2026-11-08T12:32:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43444,7 +43444,18 @@
    ],
    "topic": "vercel-ai-gateway-deepseek-v41-flash-1017-ultrafast-2026-11-07",
    "firstSeen": "2026-11-08T12:03:16+08:00"
+  },
+  {
+   "id": "60ab52ac29",
+   "title": "Richard Sutton：单靠蛮力算力不够产生智能，还需要巧妙的新方法",
+   "summary": "《Bitter Lesson》作者、强化学习先驱 Richard Sutton 发帖写道：「蛮力计算不足以产生智能。需要巧妙的新方法。AI 科学远未结束。」帖子迅速引发讨论：有人看成他在修正「算力碾压巧思」的观点，也有人认为这仍是在强调可扩展的方法创新，而不是靠堆人手写知识。",
+   "links": [
+    "https://x.com/RichardSSutton/status/2119142310894334262",
+    "https://x.com/i/trending/2119169787947270609"
+   ],
+   "topic": "sutton-brute-force-not-enough-2026-11-07",
+   "firstSeen": "2026-11-08T12:32:13+08:00"
   }
  ],
- "lastChecked": "2026-11-08T12:03:16+08:00"
+ "lastChecked": "2026-11-08T12:32:13+08:00"
 }
