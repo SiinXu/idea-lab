@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T17:14:28+08:00",
+ "lastUpdated": "2026-11-08T17:33:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43636,7 +43636,17 @@
    ],
    "topic": "isponsorblocktv-youtube-tv-hn-2026-11-08",
    "firstSeen": "2026-11-08T17:14:28+08:00"
+  },
+  {
+   "id": "e4d02fd5d9",
+   "title": "Agent 记忆也该有自己的「OpenTelemetry 时刻」",
+   "summary": "编码 Agent 的记忆散落在 AGENTS.md、Claude 记忆文件、Copilot Memory 和各种 MCP 里，彼此读不懂。LoreKit 作者对照可观测性当年的格式分裂，主张先约定数据模型和实时寻址，再让各家在存储与检索上竞争。文章登上 HN。",
+   "links": [
+    "https://www.lorekit.io/blog/open-agent-memory-format"
+   ],
+   "topic": "lorekit-open-agent-memory-otel-hn-2026-11-08",
+   "firstSeen": "2026-11-08T17:33:47+08:00"
   }
  ],
- "lastChecked": "2026-11-08T17:14:28+08:00"
+ "lastChecked": "2026-11-08T17:33:47+08:00"
 }
