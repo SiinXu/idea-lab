@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T09:44:12+08:00",
+ "lastUpdated": "2026-11-08T10:03:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43256,7 +43256,29 @@
    ],
    "topic": "tesla-optimus-rent-not-sell-baron-2026-11-06",
    "firstSeen": "2026-11-08T09:44:12+08:00"
+  },
+  {
+   "id": "058b8888a4",
+   "title": "把每台无线电变成雷达：用现成 4G/5G 信号做被动感知",
+   "summary": "Tiami Networks 介绍集成感知与通信（ISAC）：不必另发雷达波，而是把已有的 4G/5G 信号当作「机会照射源」，听反射和散射来探测移动目标。公司称这对低空、少射频特征、预编程或光纤遥控的无人机更有用，也可补摄像头和主动雷达的盲区；分辨力在不少场景可到米级或更高。感知在边缘完成（其 PolyEdge 传感器），不必把原始射频数据送上云。原文写于 8 月，现登上 HN 首页。",
+   "links": [
+    "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
+    "https://news.ycombinator.com/item?id=50358337"
+   ],
+   "topic": "tiami-isac-radio-into-radar-hn-2026-11",
+   "firstSeen": "2026-11-08T10:03:40+08:00"
+  },
+  {
+   "id": "f674010062",
+   "title": "Show HN：Where Were We——用照片 EXIF 做「何时何地」猜谜",
+   "summary": "作者做给妻子的周年礼物：上传旅行照片，用 EXIF 读出拍摄地点和时间，再变成可以发给朋友的网页小游戏，让人猜这张照片是在哪、在哪一年拍的。也可以手标地点。持有链接的人能看到这些照片和拍摄信息，一卷照片会在 30 天后自动删除。现登上 HN 首页。",
+   "links": [
+    "https://wherewerewe.app/",
+    "https://news.ycombinator.com/item?id=50408082"
+   ],
+   "topic": "wherewerewe-exif-photo-game-show-hn-2026-11-07",
+   "firstSeen": "2026-11-08T10:03:40+08:00"
   }
  ],
- "lastChecked": "2026-11-08T09:44:12+08:00"
+ "lastChecked": "2026-11-08T10:03:40+08:00"
 }
