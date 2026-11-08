@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T04:33:24+08:00",
+ "lastUpdated": "2026-11-09T06:45:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44232,7 +44232,19 @@
    ],
    "topic": "sergey-kuhne-ai-brain-fry-queue-hn-2026-11-08",
    "firstSeen": "2026-11-09T04:33:24+08:00"
+  },
+  {
+   "id": "913c352786",
+   "title": "黄仁勋致英伟达全员信：承认婚外情并道歉，表示全力配合董事会独立调查",
+   "summary": "Axios 公布黄仁勋 11 月 8 日发给英伟达员工的邮件全文：他承认对妻子不忠并道歉，称针对媒体报道的国家安全疑虑，董事会已启动独立调查，他支持并将全力配合。英伟达公共政策传播负责人 John Rizzo 表示，黄仁勋将继续担任 CEO，公司运营不受影响。此前彭博报道董事会将调查相关间谍案。登上 HN。",
+   "links": [
+    "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+    "https://news.ycombinator.com/item?id=50418016",
+    "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity"
+   ],
+   "topic": "nvidia-jensen-huang-staff-letter-axios-2026-11-08",
+   "firstSeen": "2026-11-09T06:45:04+08:00"
   }
  ],
- "lastChecked": "2026-11-09T04:33:24+08:00"
+ "lastChecked": "2026-11-09T06:45:04+08:00"
 }
