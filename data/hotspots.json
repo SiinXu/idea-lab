@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T21:27:25+08:00",
+ "lastUpdated": "2026-11-08T21:40:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43909,7 +43909,20 @@
    ],
    "topic": "polso-no-llm-coding-hn-2026-11-08",
    "firstSeen": "2026-11-08T21:27:25+08:00"
+  },
+  {
+   "id": "3d935ccb5a",
+   "title": "部分 ChatGPT 用户称已被静默路由到 GPT-6.2 Sol，晒出单次提示生成的 Three.js 三维场景",
+   "summary": "Token Gremlin（@TokenGremlin）今天发帖称，部分 ChatGPT 用户已被路由到尚未正式发布的 GPT-6.2 Sol，并展示用一次提示、Three.js、单个 HTML 文件生成的三维场景，其中包括黑洞吸积盘等画面。原帖约两小时内获得约 600 个赞、近 8.8 万次展示；他随后又称，自己被路由到该模型后，一次性测试的效果超过了 Opus 5.5。另有多名用户说自己的请求也被切到了新模型。也有人提醒，其中部分效果图其实仍是 GPT-6.1 Sol。OpenAI 尚未官宣 GPT-6.2 Sol。这条讨论迅速形成 X 热点。",
+   "links": [
+    "https://x.com/TokenGremlin/status/2119371334878744648",
+    "https://x.com/TokenGremlin/status/2119395930805879165",
+    "https://x.com/HarshithLucky3/status/2119379236826067411",
+    "https://x.com/i/trending/2119422870476542168"
+   ],
+   "topic": "chatgpt-gpt-62-sol-silent-routing-2026-11-08",
+   "firstSeen": "2026-11-08T21:40:13+08:00"
   }
  ],
- "lastChecked": "2026-11-08T21:27:25+08:00"
+ "lastChecked": "2026-11-08T21:40:13+08:00"
 }
