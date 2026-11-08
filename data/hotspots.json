@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T11:49:03+08:00",
+ "lastUpdated": "2026-11-08T12:03:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43432,7 +43432,19 @@
    ],
    "topic": "windows11-removes-pc-to-pc-migration-2026-11",
    "firstSeen": "2026-11-08T11:49:03+08:00"
+  },
+  {
+   "id": "0c1cf97223",
+   "title": "Vercel AI Gateway 上线 DeepSeek V4.1 Flash 1017 Ultrafast：经 Fireworks 加速，号称超过每秒 1000 token",
+   "summary": "Vercel 11 月 7 日更新称，DeepSeek V4.1 Flash 的 10 月 17 日版本通过 Fireworks 加速端点登陆 AI Gateway，公开预览、无需排队、没有会话时限，上下文约 100 万 token。它适合交互式写代码和 agent 工作流，可在 AI SDK、网关 Chat Completions，以及 Claude Code、Codex、Cursor 里选用 deepseek/deepseek-v4.1-flash-1017-ultrafast。模型页标价约为每百万输入 token 2.40 美元、输出 9.60 美元；开发者圈这小时在讨论它把编码往返从数秒级再压短。",
+   "links": [
+    "https://vercel.com/changelog/deepseek-v4-1-flash-1017-ultrafast-now-available-on-ai-gateway",
+    "https://vercel.com/ai-gateway/models/deepseek-v4.1-flash-1017-ultrafast",
+    "https://x.com/i/trending/2119276652207157749"
+   ],
+   "topic": "vercel-ai-gateway-deepseek-v41-flash-1017-ultrafast-2026-11-07",
+   "firstSeen": "2026-11-08T12:03:16+08:00"
   }
  ],
- "lastChecked": "2026-11-08T11:49:03+08:00"
+ "lastChecked": "2026-11-08T12:03:16+08:00"
 }
