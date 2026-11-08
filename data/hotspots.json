@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T10:03:40+08:00",
+ "lastUpdated": "2026-11-08T10:11:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43278,7 +43278,28 @@
    ],
    "topic": "wherewerewe-exif-photo-game-show-hn-2026-11-07",
    "firstSeen": "2026-11-08T10:03:40+08:00"
+  },
+  {
+   "id": "e9262ebde8",
+   "title": "铀立方揭开德国核计划失败原因：海森堡低估了所需材料",
+   "summary": "《美国科学院院刊 Nexus》新论文重新测算二战德国在海格洛赫的 B8 反应堆：按当时设计，要达到临界大约需要 1292 到 1775 块铀立方，以及整个战争期间挪威重水产量的两倍。海森堡曾说「再多一点铀就够了」，新计算认为他明显低估。德国柏林、戈托、莱比锡三组互不通气，石墨也因封锁只能用杂质更多的鲁尔冶金焦，论文认为以当时材料做不出天然铀石墨堆。原文 11 月 4 日刊出，现登上 HN 首页。",
+   "links": [
+    "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+    "https://news.ycombinator.com/item?id=50377661"
+   ],
+   "topic": "uranium-cubes-german-b8-pnas-nexus-hn-2026-11",
+   "firstSeen": "2026-11-08T10:11:10+08:00"
+  },
+  {
+   "id": "bc38616b3a",
+   "title": "Agent 写代码后，CI 和沙箱账单成了新痛点",
+   "summary": "开发者 Calvin Grunewald 说，代币之外，沙箱和 CI runner 已是全自动 Agent 开发里最大的开销：为了让大量 Agent 提交的 PR 都能快速跑完测试，他的 CI 账单一个月涨了一个数量级。他对比后认为，GitHub Actions、Blacksmith 这类托管 runner 多半是在 Firecracker 或 containerd 上加一层编排，溢价可达数十倍；自己做单租户编排或直接找云厂商会便宜很多。这条讨论正在 X 上发酵。",
+   "links": [
+    "https://x.com/i/trending/2119243489779277938"
+   ],
+   "topic": "agentic-ci-runner-costs-grunewald-2026-11-08",
+   "firstSeen": "2026-11-08T10:11:10+08:00"
   }
  ],
- "lastChecked": "2026-11-08T10:03:40+08:00"
+ "lastChecked": "2026-11-08T10:11:10+08:00"
 }
