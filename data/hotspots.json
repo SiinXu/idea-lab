@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T14:32:14+08:00",
+ "lastUpdated": "2026-11-08T14:50:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43521,7 +43521,30 @@
    ],
    "topic": "karpathy-tristantube-claude-code-2026-11-08",
    "firstSeen": "2026-11-08T14:32:14+08:00"
+  },
+  {
+   "id": "88db1c6691",
+   "title": "《金融时报》：加密行业担心民主党调查特朗普家族与行业关系",
+   "summary": "《金融时报》11 月 8 日报道，民主党拿下中期选举后，加密行业正准备迎接一场清算：当选议员已放话要调查特朗普家族及其与加密业的关联。行业前两年因白宫力挺数字资产而少有地顺风，如今可能面临更严的监督；具体调查范围和听证会安排以国会正式程序为准。",
+   "links": [
+    "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61",
+    "https://x.com/Techmeme/status/2119318114412507511"
+   ],
+   "topic": "ft-crypto-reckoning-trump-ties-midterms-2026-11-08",
+   "firstSeen": "2026-11-08T14:50:01+08:00"
+  },
+  {
+   "id": "91f5325da2",
+   "title": "CoreWeave 致信得州当选州长希诺霍萨：承诺自付电网升级、用闭环冷却",
+   "summary": "AI 云厂商 CoreWeave 联合创始人兼 CEO Michael Intrator 在 11 月 7 日致信得州当选州长吉娜·希诺霍萨，表示认同「数据中心增长必须让得州人受益」：社区应有发言权，居民不该为新基建买单，并保护水电与生活质量。信中称公司接入电网时会自行承担变电站和输电升级费用，新建容量将采用闭环液冷，日常用水可与同等体量的写字楼相当；同时欢迎她「已获许可的项目可以完工」的表态，并点名奥斯汀、丹顿、Dickens 县、普莱诺、理查森和朗德罗克六处在运营设施。希诺霍萨竞选时主张在保护措施到位前暂停新的数据中心项目。",
+   "links": [
+    "https://www.investing.com/news/stock-market-news/coreweave-seeks-truce-with-texas-governorelect-hinojosa-5010044",
+    "https://x.com/StockMKTNewz/status/2119242335058104812",
+    "https://x.com/i/trending/2119305571971240107"
+   ],
+   "topic": "coreweave-letter-hinojosa-texas-data-centers-2026-11-07",
+   "firstSeen": "2026-11-08T14:50:01+08:00"
   }
  ],
- "lastChecked": "2026-11-08T14:32:14+08:00"
+ "lastChecked": "2026-11-08T14:50:01+08:00"
 }
