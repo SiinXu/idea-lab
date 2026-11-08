@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T23:28:15+08:00",
+ "lastUpdated": "2026-11-08T23:47:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43978,7 +43978,19 @@
    ],
    "topic": "fidelity-solana-15pct-us-exchange-trades-2026-11-08",
    "firstSeen": "2026-11-08T23:28:15+08:00"
+  },
+  {
+   "id": "16300678c1",
+   "title": "彭博：苹果想让 Siri 更像 Agent，最早明年跟上 Dots、Muse 和 Grok",
+   "summary": "Mark Gurman 11 月 8 日在 Power On 通讯中写道，苹果希望 Siri 能像 ChatGPT Dots、Meta Muse 和 Grok 那样记住目标、自行判断下一步并持续推进，而不必用户逐步下达指令；他认为最早明年就能让 Siri「更像一个 Agent」。与此同时，iOS 28 第一个里程碑把编码和探索拉长到 6 周、集成缩短到 2 周（以往各 4 周），员工称更有时间试想法。AppleInsider 补充：Siri AI 对苹果自家 App 的更多控制预计 12 月随公开版到来，第三方 App 预览要到 2027 年春季。",
+   "links": [
+    "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/",
+    "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+    "https://appleinsider.com/articles/26/11/08/siri-ai-wont-get-more-control-of-apple-apps-until-spring-2027"
+   ],
+   "topic": "apple-siri-agentic-ios28-gurman-2026-11-08",
+   "firstSeen": "2026-11-08T23:47:36+08:00"
   }
  ],
- "lastChecked": "2026-11-08T23:28:15+08:00"
+ "lastChecked": "2026-11-08T23:47:36+08:00"
 }
