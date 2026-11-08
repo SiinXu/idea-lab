@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T01:12:25+08:00",
+ "lastUpdated": "2026-11-09T02:15:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44069,7 +44069,29 @@
    ],
    "topic": "ram-altman-unused-ram-script-hn-2026-11-08",
    "firstSeen": "2026-11-09T01:12:25+08:00"
+  },
+  {
+   "id": "fb420408f0",
+   "title": "《纽约时报》：引力波天体物理学家离开美国，转赴荷兰继续做 LISA",
+   "summary": "范德堡大学讲座教授、NASA 天体物理顾问委员会前主席 Kelly Holley-Bockelmann 因联邦经费受威胁、引力波空间观测站 LISA 两度面临砍预算，接受荷兰郁金香基金支持，前往莱顿空间研究所 SRON 继续研究。同事称眼下美国很难再被当作可靠合作方。",
+   "links": [
+    "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
+    "https://news.ycombinator.com/item?id=50414524"
+   ],
+   "topic": "holley-bockelmann-leaves-us-sron-hn-2026-11-08",
+   "firstSeen": "2026-11-09T02:15:42+08:00"
+  },
+  {
+   "id": "30515707ff",
+   "title": "用图来证等式：把 e-graph 理解成初始函子（2025）登上 HN",
+   "summary": "Evan Patterson 用范畴论解释 e-graph：图上推理的合法操作对应初始函子，可机械地做等式变换；文中演示了交换方形的粘贴律，以及由 f³=id=f⁵ 推出 f=id。",
+   "links": [
+    "https://www.epatters.org/post/e-graphs-1/",
+    "https://news.ycombinator.com/item?id=50412830"
+   ],
+   "topic": "egraphs-diagram-proofs-epatters-hn-2026-11-08",
+   "firstSeen": "2026-11-09T02:15:42+08:00"
   }
  ],
- "lastChecked": "2026-11-09T01:12:25+08:00"
+ "lastChecked": "2026-11-09T02:15:42+08:00"
 }
