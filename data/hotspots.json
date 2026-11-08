@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T11:14:59+08:00",
+ "lastUpdated": "2026-11-08T11:31:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43376,7 +43376,18 @@
    ],
    "topic": "claude-opus-datadog-grafana-migration-2026-11-08",
    "firstSeen": "2026-11-08T11:14:59+08:00"
+  },
+  {
+   "id": "949d17c0c9",
+   "title": "Pieter Levels：用 Claude Code 自己设计家具，称材料成本可比高端品牌省约 85%",
+   "summary": "Levels 11 月 7 日发文说，用 Claude Code（搭配 Opus 5.5 等能操作 Blender、FreeCAD 的模型）可以一块块设计家具并生成物料清单，再直接向供应商下单组装。他以装修时看到的天价基础材料为例：一张沙发标价 3 万美元。他举例 @theannalux 并无家具或编程背景，只在终端里用 Claude Code 从零设计了一张桌子。他估算相对 Poliform 一类品牌可省约 85%，相当于 3 万美元沙发降到约 4500 美元、8000 美元餐桌降到约 1200 美元。这些数字来自他本人的估算。该文这小时在 X 上继续传播。",
+   "links": [
+    "https://levels.io/claude-code-design-own-furniture",
+    "https://x.com/i/trending/2119174988599038116"
+   ],
+   "topic": "levelsio-claude-code-design-furniture-2026-11-07",
+   "firstSeen": "2026-11-08T11:31:18+08:00"
   }
  ],
- "lastChecked": "2026-11-08T11:14:59+08:00"
+ "lastChecked": "2026-11-08T11:31:18+08:00"
 }
