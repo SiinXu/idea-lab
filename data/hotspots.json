@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T20:02:39+08:00",
+ "lastUpdated": "2026-11-08T20:12:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43800,7 +43800,18 @@
    ],
    "topic": "petered-after-peter-principle-hn-2026-11-08",
    "firstSeen": "2026-11-08T20:02:39+08:00"
+  },
+  {
+   "id": "2803a1342d",
+   "title": "Linebender：给单片机做即时编译的点阵文字渲染",
+   "summary": "Raph Levien 在 RP2350 上用「追扫描线」渲染器，把字符串即时编译成 ARM 指令来画比例字体和字距。他测下来 JIT 大约 2.1 万周期、生成代码约 4.2 万周期，只占单核吞吐大约 2.6%。文章约一个半小时内登上 HN 首页。",
+   "links": [
+    "https://linebender.org/blog/jit-bitmap-text/",
+    "https://news.ycombinator.com/item?id=50412072"
+   ],
+   "topic": "linebender-jit-bitmap-text-rp2350-hn-2026-11-08",
+   "firstSeen": "2026-11-08T20:12:26+08:00"
   }
  ],
- "lastChecked": "2026-11-08T20:02:39+08:00"
+ "lastChecked": "2026-11-08T20:12:26+08:00"
 }
