@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T20:59:05+08:00",
+ "lastUpdated": "2026-11-08T21:13:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43876,7 +43876,29 @@
    ],
    "topic": "mizu-pymizu-zerocopy-shared-memory-hn-2026-11-08",
    "firstSeen": "2026-11-08T20:59:05+08:00"
+  },
+  {
+   "id": "dc0edca312",
+   "title": "DeepMind 科学负责人 Pushmeet Kohli：科研发现正经历「相变」，未来几周会有成果放出",
+   "summary": "Google DeepMind 科学副总裁、Google Cloud 首席科学家 Pushmeet Kohli 今天发帖说，团队在多个项目里看到科学研究的速度出现「真正的相变」，并称未来几周的发布中会看到端倪。帖子没有点名具体项目或日期。他的简介里列有 AlphaFold、AlphaGenome、AlphaCode、AlphaEvolve、AlphaEarth、AlphaProof，以及 Co-Scientist 和 SynthID。这条帖发出后迅速在 X 上传播，目前已有约 2000 个赞、7 万多次浏览。",
+   "links": [
+    "https://x.com/pushmeet/status/2119373171321196892",
+    "https://x.com/i/trending/2119416511525699610"
+   ],
+   "topic": "deepmind-kohli-phase-transition-science-2026-11-08",
+   "firstSeen": "2026-11-08T21:13:47+08:00"
+  },
+  {
+   "id": "8d5a66c3ea",
+   "title": "《卫报》：英国公共机构遭遇「AI clog」，聊天机器人生成的投诉信把办事窗口堵死",
+   "summary": "《卫报》报道，英国议员办公室、地方政府、法院和学校正被大量 AI 生成的投诉、问询和法律挑战淹没，有人称为「AI clog」。一名工党议员办公室的资深个案员说，大约一半邮件带有某种 AI 痕迹，读起来更费时。代表约 5600 名地方政府律师的协会负责人称，投诉信以前平均大约两页，现在多数长十倍，最长的已知约 200 页，还常引用其他司法辖区的判例，偶尔出现幻觉。信息专员办公室提醒：即使请求看起来由 AI 起草且有错误，公职人员仍须答复。伦敦交通局 2025-26 年度收到创纪录的 4769 件信息自由申请，并注意到更多疑似 AI 生成、技术表述常不准确的复议。研究者称之为「agentic flooding」。有机构开始设字数限制或考虑用 AI 摘要来应对。",
+   "links": [
+    "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+    "https://news.ycombinator.com/item?id=50412899"
+   ],
+   "topic": "guardian-ai-clog-uk-public-bodies-2026-11-08",
+   "firstSeen": "2026-11-08T21:13:47+08:00"
   }
  ],
- "lastChecked": "2026-11-08T20:59:05+08:00"
+ "lastChecked": "2026-11-08T21:13:47+08:00"
 }
