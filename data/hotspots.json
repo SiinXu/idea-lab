@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T12:46:03+08:00",
+ "lastUpdated": "2026-11-08T13:18:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43476,7 +43476,18 @@
    ],
    "topic": "goodbye-claude-hello-pi-hn-2026-11-08",
    "firstSeen": "2026-11-08T12:46:03+08:00"
+  },
+  {
+   "id": "deb19dfcd0",
+   "title": "印第安纳州布卢明顿市议会全票禁止超级智能：浏览器里用也算部署",
+   "summary": "布卢明顿市议会 11 月 4 日全票通过条例 2026-29，禁止在市内开发、分发或部署能递归自我改进、在几乎所有认知任务上超越人类的系统；通过浏览器、应用或 API 在市内使用也算部署。这是州和联邦尚未立法期间的临时公共安全措施，若印第安纳州日后出台框架，禁令将在 91 天后失效。",
+   "links": [
+    "https://www.idsnews.com/article/2026/11/bloomington-city-council-ai-commission-member-removal-udo",
+    "https://x.com/i/trending/2119295098496471108"
+   ],
+   "topic": "bloomington-asi-ban-ordinance-2026-29-2026-11-04",
+   "firstSeen": "2026-11-08T13:18:07+08:00"
   }
  ],
- "lastChecked": "2026-11-08T12:46:03+08:00"
+ "lastChecked": "2026-11-08T13:18:07+08:00"
 }
