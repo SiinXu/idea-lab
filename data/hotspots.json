@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T01:03:45+08:00",
+ "lastUpdated": "2026-11-09T01:12:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44056,7 +44056,20 @@
    ],
    "topic": "game-fail-artists-too-slow-ai-production-hn-2026-11-08",
    "firstSeen": "2026-11-09T01:03:45+08:00"
+  },
+  {
+   "id": "9c7c0459a2",
+   "title": "「Ram Altman」登上 HN：脚本可每天给奥特曼发邮件，汇报你电脑里闲置的内存",
+   "summary": "开发者 Iain Kay 做了一个 Linux Bash 脚本 Ram-Altman，每五分钟读一次 /proc/meminfo；可用内存超过 10% 时，每天最多生成一封讽刺邮件，汇报这台个人电脑里「没进数据中心」的空闲内存。仓库默认不填收件人，并提供 --dry-run 和测试套件，避免被拿去轰炸 OpenAI 邮箱。起因是奥特曼近日说个人电脑里的 DRAM「大概只用了 5%」、把内存留在个人设备上「相当糟糕」。项目主页在 ram-altman.lol，相关报道今天登上 HN。",
+   "links": [
+    "https://github.com/IainKay/ram-altman",
+    "https://ram-altman.lol/",
+    "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+    "https://news.ycombinator.com/item?id=50412766"
+   ],
+   "topic": "ram-altman-unused-ram-script-hn-2026-11-08",
+   "firstSeen": "2026-11-09T01:12:25+08:00"
   }
  ],
- "lastChecked": "2026-11-09T01:03:45+08:00"
+ "lastChecked": "2026-11-09T01:12:25+08:00"
 }
