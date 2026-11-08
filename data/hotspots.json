@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T10:11:10+08:00",
+ "lastUpdated": "2026-11-08T10:58:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43299,7 +43299,29 @@
    ],
    "topic": "agentic-ci-runner-costs-grunewald-2026-11-08",
    "firstSeen": "2026-11-08T10:11:10+08:00"
+  },
+  {
+   "id": "f07e9efe99",
+   "title": "Kit Langton 宣布新语言 Blood：号称比 Rust 更快，代码存在 SQLite 里",
+   "summary": "OpenCode 开发者 Kit Langton 在 X 上宣布正在做一门叫 Blood 的编程语言，自称比 Rust 更快，带效应系统、元编程、零成本 worktree 和语义合并，代码以内容寻址方式存在 SQLite。官网目前只有 Soon，还没有可下载实现，开发者圈讨论很热闹。",
+   "links": [
+    "https://blood-lang.org/",
+    "https://x.com/i/trending/2119239381202395150"
+   ],
+   "topic": "blood-lang-kit-langton-2026-11",
+   "firstSeen": "2026-11-08T10:58:31+08:00"
+  },
+  {
+   "id": "c7f1096311",
+   "title": "美国宇航局公布月球基地一揽子合同：CLPS 2 十年最高 100 亿美元，蓝源运送核动力探测车",
+   "summary": "美国宇航局周六在肯尼迪航天中心宣布新一轮月球基地合同：SpaceX、蓝源等 8 家公司入选为期十年、总额最高 100 亿美元的 CLPS 2 货运框架；蓝源再获约 9400 万美元（另有 1.4 亿美元期权）用 Mark 1 着陆器把核动力探测车 PROMISE 送往月球南极，目标约 2028 年底发射。同时还公布了约 13 亿美元的发射与轨道转移任务，以及 SpaceX 用星舰在 2028 年部署地月通信卫星的演示。",
+   "links": [
+    "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+    "https://x.com/i/trending/2119088885397586337"
+   ],
+   "topic": "nasa-moon-base-clps2-promise-2026-11-07",
+   "firstSeen": "2026-11-08T10:58:31+08:00"
   }
  ],
- "lastChecked": "2026-11-08T10:11:10+08:00"
+ "lastChecked": "2026-11-08T10:58:31+08:00"
 }
