@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T00:34:03+08:00",
+ "lastUpdated": "2026-11-09T00:41:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44000,7 +44000,29 @@
    ],
    "topic": "tesla-straubel-no-successful-launch-cto-2026-11-08",
    "firstSeen": "2026-11-09T00:34:03+08:00"
+  },
+  {
+   "id": "9b0e30367c",
+   "title": "分布式系统学者发文：写作是外置内存，LLM 时代更成比较优势",
+   "summary": "布法罗大学教授 Murat Demirbas 11 月 7 日发文，引用 Manuel Blum 的话：有纸笔才是图灵机，不写就只是有限自动机。他以写评审和写博客为例，说明写作是把思考卸到纸上的「核外计算」；没写下的想法往往也记不牢。文章还警告：亚马逊六页备忘录曾被当成「写清楚等于想清楚」的证据，但现在大模型能生成看起来像思考过的六页文字，自己动笔反而成了拉开差距的能力。文章已登上 HN 首页。",
+   "links": [
+    "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+    "https://news.ycombinator.com/item?id=50412067"
+   ],
+   "topic": "murat-writing-as-thinking-tool-hn-2026-11-08",
+   "firstSeen": "2026-11-09T00:41:35+08:00"
+  },
+  {
+   "id": "e8f4b82a2a",
+   "title": "鸟状扑翼无人机在空军演习中骗过探测系统，被识别成鸟",
+   "summary": "Task & Purpose 报道，Ornadyne 的 O1 扑翼无人机 9 月 17 日在爱德华兹空军基地「Game of Drones」演习中，躲开了其他公司部署的反无人机传感器，探测设备把它登记成一只鸟。这款约 1 磅重的仿生无人机用扑翼代替螺旋桨，更安静，续航超过一小时、航程约 10 公里，可携带小型摄像头；公司称还能改颜色、翼展和轮廓去匹配当地鸟类。联合创始人之一曾是 SpaceX 工程师。报道今天登上 HN 首页。",
+   "links": [
+    "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+    "https://news.ycombinator.com/item?id=50413885"
+   ],
+   "topic": "ornadyne-bird-drone-evades-detection-hn-2026-11-08",
+   "firstSeen": "2026-11-09T00:41:35+08:00"
   }
  ],
- "lastChecked": "2026-11-09T00:34:03+08:00"
+ "lastChecked": "2026-11-09T00:41:35+08:00"
 }
