@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T02:15:42+08:00",
+ "lastUpdated": "2026-11-09T02:49:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44091,7 +44091,19 @@
    ],
    "topic": "egraphs-diagram-proofs-epatters-hn-2026-11-08",
    "firstSeen": "2026-11-09T02:15:42+08:00"
+  },
+  {
+   "id": "d22e43442b",
+   "title": "美国参议院两党能源许可改革法案升温：报道称周一将举行程序性表决，要求数据中心自付电网成本",
+   "summary": "由共和党参议员 Shelley Moore Capito、Mike Lee 与民主党参议员 Sheldon Whitehouse、Martin Heinrich 共同推动的《两党美国可负担性与就业法案》（BAAJA）今天在 X 上形成热点。参议院能源与自然资源委员会 11 月 7 日发布替代修正案；Heinrich 说，法案会让数据中心为自己使用的电力和由此带来的电网升级付费，而不是把成本转给居民。The Verge 11 月 6 日报道，该法案旨在加快能源项目的联邦许可，同时收紧环境审查与诉讼窗口，并要求大型计算负荷用户承担输电增量及既有设施成本、在开工前向公用事业提供财务保证。X 上的讨论把地方选民反对数据中心的浪潮，与这项联邦加速审批的议程联系在一起；相关报道称，参议院最早周一（11 月 9 日）就会就推动该法案举行程序性表决。",
+   "links": [
+    "https://x.com/i/trending/2119481830684447034",
+    "https://www.energy.senate.gov/press/dem/heinrich-whitehouse-capito-lee-release-substitute-amendment-to-bipartisan-american-affordability-and-jobs-act-of-2026/",
+    "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote"
+   ],
+   "topic": "senate-baaja-data-center-permitting-vote-2026-11-08",
+   "firstSeen": "2026-11-09T02:49:06+08:00"
   }
  ],
- "lastChecked": "2026-11-09T02:15:42+08:00"
+ "lastChecked": "2026-11-09T02:49:06+08:00"
 }
