@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T14:50:01+08:00",
+ "lastUpdated": "2026-11-08T15:14:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43544,7 +43544,30 @@
    ],
    "topic": "coreweave-letter-hinojosa-texas-data-centers-2026-11-07",
    "firstSeen": "2026-11-08T14:50:01+08:00"
+  },
+  {
+   "id": "7fe2e69f52",
+   "title": "开发者把和编码 Agent 的交互改成「收件箱」模式",
+   "summary": "长任务让对话窗越来越像等邮件：Agent 会异步提问、等人批复。Plannotator Inbox 和 Novu Agent Inbox 把问题与审批收进收件箱，Ryan Dahl 等人也在讨论用引用和论坛式界面同时管多个 Agent。",
+   "links": [
+    "https://x.com/i/trending/2119319326763180369",
+    "https://plannotator.ai/blog/the-age-of-the-inbox/",
+    "https://www.novu.co/blog/agent-inbox/"
+   ],
+   "topic": "agent-inbox-email-style-ui-2026-11-08",
+   "firstSeen": "2026-11-08T15:14:29+08:00"
+  },
+  {
+   "id": "71dcb9b121",
+   "title": "路透：环保组织一边用 AI 巡林计兽，一边警告数据中心耗能",
+   "summary": "路透采访 15 家大型环保与保护组织，全都在用 AI 分析气候数据、追踪山火或统计濒危动物，同时担心数据中心推高用电、用水和排放。保护国际用卫星热点给柬埔寨巡护队发山火预警；拯救大象组织称 AI 几小时能看完以前九人九个月的航拍图。",
+   "links": [
+    "https://www.straitstimes.com/world/environmental-groups-embrace-ai-even-as-they-warn-of-data-centre-impacts",
+    "https://www.timeslive.co.za/news/sci-tech/2026-11-07-environmental-groups-embrace-ai-even-as-they-warn-of-data-centre-impacts/"
+   ],
+   "topic": "reuters-environmental-groups-embrace-ai-2026-11-07",
+   "firstSeen": "2026-11-08T15:14:29+08:00"
   }
  ],
- "lastChecked": "2026-11-08T14:50:01+08:00"
+ "lastChecked": "2026-11-08T15:14:29+08:00"
 }
