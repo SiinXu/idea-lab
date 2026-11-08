@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T10:58:31+08:00",
+ "lastUpdated": "2026-11-08T11:14:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43321,7 +43321,62 @@
    ],
    "topic": "nasa-moon-base-clps2-promise-2026-11-07",
    "firstSeen": "2026-11-08T10:58:31+08:00"
+  },
+  {
+   "id": "e2ddf63848",
+   "title": "五本难忘的编程书（2008）再登 HN 热榜",
+   "summary": "James Hague 2008 年的这篇旧文列出五本影响他思路、却不太常出现在经典书单上的书：Michael Abrash 的《Zen of Assembly Language》、Julian Noble 的《Scientific Forth》、Clifford Reiter 的《Fractals, Visualization, and J》、Susan Lammers 的《Programmers At Work》，以及 Leo Brodie 的《Thinking Forth》。他强调这些书写的是如何实现想法、拆解问题，而不是为技术而技术。原文写于 2008 年 2 月，现已冲上 HN 首页。",
+   "links": [
+    "https://prog21.dadgum.com/19.html",
+    "https://news.ycombinator.com/item?id=50406319"
+   ],
+   "topic": "five-memorable-programming-books-hague-hn-2026-11-07",
+   "firstSeen": "2026-11-08T11:14:59+08:00"
+  },
+  {
+   "id": "5fc0599aee",
+   "title": "GeoWorks：上世纪 90 年代差一点挑战 Windows 的轻量图形系统（2016）",
+   "summary": "Atlas Obscura 回顾 GeoWorks（由 Commodore 64 上的 GEOS 发展而来）：它能在 286/386 上流畅运行，带「家电/专业」双界面和办公套件，早期 AOL 的 PC 客户端也建立在它之上。但第三方开发几乎必须用当时约 7000 美元的 Sun 工作站，生态没起来；后来代码还出现在 Tandy Zoomer、诺基亚 9000 Communicator、Brother 电子打字机和 GeoBook 上网本上。2016 年旧文现登上 HN 首页。",
+   "links": [
+    "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+    "https://news.ycombinator.com/item?id=50406502"
+   ],
+   "topic": "geoworks-windows-competitor-atlas-obscura-hn-2026-11-07",
+   "firstSeen": "2026-11-08T11:14:59+08:00"
+  },
+  {
+   "id": "c283604615",
+   "title": "Chimera：在浏览器里用气流物理模拟人声，拖舌头就能发音",
+   "summary": "一款名为 Chimera 的浏览器声乐合成器正在 X 上传播：它不靠采样，而是模拟空气流过数字咽喉、口腔和鼻腔来发声，用户可拖动舌头、嘴唇和下巴，或用键盘/MIDI 演奏，还能在元音图上变形。页面提供男女与儿童体型、气压和声带「压紧」等控制。这和 Vocaloid 一类基于采样的工具不同，更接近可实时把玩的声道物理模型。",
+   "links": [
+    "https://chimera-vocal-synth.vercel.app/",
+    "https://x.com/i/trending/2119198390273675305"
+   ],
+   "topic": "chimera-vocal-tract-synth-browser-2026-11-08",
+   "firstSeen": "2026-11-08T11:14:59+08:00"
+  },
+  {
+   "id": "c3914f63f2",
+   "title": "哈佛与宾大学者：数据中心只解释了美国家庭电价涨幅的约 4%",
+   "summary": "华盛顿邮报报道一项哈佛与宾夕法尼亚大学研究者的研究：2020 至 2025 年的数据中心，大约只贡献了美国居民电价上涨的 4%；对工业用户电价涨幅的解释力更高，约 15%。作者认为天然气价格、老化电网和风暴修复等才是居民电费上涨的更主要因素，但他们也提醒数据中心用电仍在快速增长，可能在未来推高电价。论文已在 SSRN 公开，相关讨论这小时在 X 上升温。",
+   "links": [
+    "https://www.washingtonpost.com/climate-environment/2026/11/06/data-centers-may-not-be-raising-americans-electricity-bills-that-much/",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7580459",
+    "https://x.com/i/trending/2118784501065089526"
+   ],
+   "topic": "data-center-electricity-bills-harvard-penn-2026-11",
+   "firstSeen": "2026-11-08T11:14:59+08:00"
+  },
+  {
+   "id": "ffc5881e46",
+   "title": "有开发者用 Claude Opus 把监控从 Datadog 迁到 Grafana，称成本降到约 1/38",
+   "summary": "X 上有开发者分享：让 Claude Opus 把日志、告警和图表从 Datadog 迁到 Grafana 与 VictoriaMetrics，大约一天完成，并称相关开销降到原来的约三十八分之一、功能没有明显损失。讨论焦点是：当前头部编码模型已经能扛一部分基础设施迁移，而监控 SaaS 的高账单正在把团队推向可自托管的替代栈。具体数字来自当事人自述，尚未看到完整复盘。",
+   "links": [
+    "https://x.com/i/trending/2119263173127614677"
+   ],
+   "topic": "claude-opus-datadog-grafana-migration-2026-11-08",
+   "firstSeen": "2026-11-08T11:14:59+08:00"
   }
  ],
- "lastChecked": "2026-11-08T10:58:31+08:00"
+ "lastChecked": "2026-11-08T11:14:59+08:00"
 }
