@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T03:33:43+08:00",
+ "lastUpdated": "2026-11-09T04:01:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44174,7 +44174,29 @@
    ],
    "topic": "",
    "firstSeen": "2026-11-09T03:33:43+08:00"
+  },
+  {
+   "id": "ec6779b05e",
+   "title": "Outlook.com 未公开地拒收没有 DMARC 记录的域名邮件",
+   "summary": "邮件网关公司 MailRoute 称，自 2026-11-05 起，Outlook.com、Hotmail、Live 和 MSN 会以 550 5.7.1 拒收部分未发布 DMARC 的来信；小体积发送者也会中招，且微软没有发公告。补救是加一条 v=DMARC1; p=none 的 TXT 记录。登上 HN。",
+   "links": [
+    "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+    "https://news.ycombinator.com/item?id=50416158"
+   ],
+   "topic": "outlook-dmarc-rejection-hn-2026-11-08",
+   "firstSeen": "2026-11-09T04:01:19+08:00"
+  },
+  {
+   "id": "31e2b76431",
+   "title": "Dux 登上 HN：开源 Wayland 桌面套件，带文件管理和统一主题",
+   "summary": "Dux Modular Shell 面向 niri、Hyprland、Sway 等 Wayland 合成器，还带键盘优先的文件管理器、系统监视和登录界面，可用一套主题同步 GTK、Qt 和终端配色。免费开源。",
+   "links": [
+    "https://duxlabs.dev/",
+    "https://news.ycombinator.com/item?id=50416053"
+   ],
+   "topic": "dux-wayland-desktop-shell-hn-2026-11-08",
+   "firstSeen": "2026-11-09T04:01:19+08:00"
   }
  ],
- "lastChecked": "2026-11-09T03:33:43+08:00"
+ "lastChecked": "2026-11-09T04:01:19+08:00"
 }
