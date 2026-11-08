@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T02:49:06+08:00",
+ "lastUpdated": "2026-11-09T03:04:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44103,7 +44103,55 @@
    ],
    "topic": "senate-baaja-data-center-permitting-vote-2026-11-08",
    "firstSeen": "2026-11-09T02:49:06+08:00"
+  },
+  {
+   "id": "87ea9f6b57",
+   "title": "高盛收回交易员和银行家的 Claude Code：编码 Agent 仅限工程师使用",
+   "summary": "Bloomberg 11 月 2 日报道，高盛在 10 月更新的内部指引中，把 Anthropic 的 Claude Code 和微软 GitHub 的使用范围收窄到工程师；多数交易员和银行家不能再用这些会自己写代码、跑代码的第三方 Agent。量化「strats」仍可使用。交易员此前用它们跟踪客户成交、建模仓位并做图文材料，有人对此不满。今年 7 月，CIO Marco Argenti 还公开称赞非技术人员用 AI「vibe coding」再交给约 1.2 万名工程师打磨。发言人 Nick Carcaterra 说，银行会在试用后把工具交给最适合长期使用的人。该报道今天在 HN 迅速升温，约 45 分钟内超过 80 分、30 多条讨论。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50415628",
+    "https://news.bloomberglaw.com/capital-markets/goldman-restricts-traders-and-bankers-from-using-some-ai-tools",
+    "https://qz.com/goldman-sachs-restricts-ai-coding-tools-traders-bankers-110226",
+    "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+   ],
+   "topic": "goldman-sachs-restricts-claude-code-traders-2026-11-08",
+   "firstSeen": "2026-11-09T03:04:31+08:00"
+  },
+  {
+   "id": "30d0aa07ad",
+   "title": "《华尔街日报》：硅谷宣称 AI 能治愈疾病，药企 CEO 并不买账",
+   "summary": "《华尔街日报》报道，Anthropic CEO Dario Amodei 曾说未来 5 到 10 年可能治愈大多数人类疾病，但制药高管认为生物学太复杂，AI 单独做不到。Vertex 执行董事长 Jeff Leiden 称，曾让约 50 家 AI 公司筛过 1 万个化合物数据集，没有一家拿出可用药物，并把「AI 七年治愈 90% 疾病」称为胡说。阿斯利康 CEO Pascal Soriot 说，宣称 AI 能治愈癌症可能跳得太远。麦肯锡估计 2025 年全球 AI 药物发现融资约 84 亿美元，但尚无 AI 设计的药物获得 FDA 批准。药企仍在用 AI 选靶点、优化分子和匹配患者，只是不接受「AI 单独治愈疾病」的说法。该报道今天登上 HN。",
+   "links": [
+    "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+    "https://news.ycombinator.com/item?id=50415817",
+    "https://www.benzinga.com/news/health-care/26/11/62860238/drugmaker-ceos-say-ai-alone-cant-cure-diseases-challenge-silicon-valleys-bold-predictions-to-say-ai-is-going-to-cure-cancer"
+   ],
+   "topic": "wsj-ai-cure-disease-drugmaker-ceos-hn-2026-11-08",
+   "firstSeen": "2026-11-09T03:04:31+08:00"
+  },
+  {
+   "id": "01ccb50905",
+   "title": "《彭博》：常用 App 里的广告技术，成了警方追踪手机的工具",
+   "summary": "《彭博》调查报道，Penlink 出售的 Webloc 系统会汇总天气、游戏、邮件和宗教等常用 App 通过广告 SDK 收集的位置数据，供美国、英国等地执法部门查询。系统可重建一部手机过去数月的行踪，也能圈定某时某地出现过的设备；报道称在美国使用时往往无需搜查令。多伦多大学 Citizen Lab 分析的材料显示，其数据流可覆盖全球最多约 5 亿部设备。美国酒烟火器炸药局（ATF）在国会质询后，已于今年 6 月取消 Webloc 合同。该报道今天登上 HN。",
+   "links": [
+    "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+    "https://news.ycombinator.com/item?id=50415281",
+    "https://allaboutcookies.org/police-phone-tracking-weather-gaming-apps"
+   ],
+   "topic": "bloomberg-police-adtech-phone-tracking-hn-2026-11-08",
+   "firstSeen": "2026-11-09T03:04:31+08:00"
+  },
+  {
+   "id": "4f605cf78a",
+   "title": "PacketHound 登上 HN：给 Windows 做的「Little Snitch」出站防火墙",
+   "summary": "PacketHound 是一款免费开源的 Windows 10/11 出站防火墙，把系统自带防火墙改成「先问再放行」：应用首次联网时提示允许或阻止，并记住选择。它不安装内核驱动，规则就是普通的 Windows 防火墙规则，关闭软件后仍然生效；会自动放行真正的 Windows 组件，但仍会询问 PowerShell、curl 等常被滥用的系统工具。官网称当前版本 1.2.0，无账号、无广告、不收集数据。该项目今天登上 HN。",
+   "links": [
+    "https://packethound.app/",
+    "https://news.ycombinator.com/item?id=50415135"
+   ],
+   "topic": "packethound-windows-little-snitch-hn-2026-11-08",
+   "firstSeen": "2026-11-09T03:04:31+08:00"
   }
  ],
- "lastChecked": "2026-11-09T02:49:06+08:00"
+ "lastChecked": "2026-11-09T03:04:31+08:00"
 }
