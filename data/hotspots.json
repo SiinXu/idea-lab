@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T04:01:19+08:00",
+ "lastUpdated": "2026-11-09T04:33:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44196,7 +44196,43 @@
    ],
    "topic": "dux-wayland-desktop-shell-hn-2026-11-08",
    "firstSeen": "2026-11-09T04:01:19+08:00"
+  },
+  {
+   "id": "a24fdfddef",
+   "title": "英伟达董事会启动独立调查：黄仁勋据报成为外国情报工作的目标",
+   "summary": "英伟达董事会 11 月 8 日发表声明，因近期报道称创始人兼 CEO 黄仁勋成为外国情报工作的目标，将由独立董事委员会并借助外部独立律师展开调查。董事会称目前没有理由认为国家安全或公司机密已泄露，黄仁勋支持并配合审查。CNBC 称调查针对他与一名据称中国间谍的关联报道；彭博则称是在他向员工承认婚外情之后启动。声明登上 HN。",
+   "links": [
+    "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+    "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+    "https://news.bloomberglaw.com/artificial-intelligence/nvidia-board-to-probe-spying-case-after-ceo-admits-infidelity",
+    "https://news.ycombinator.com/item?id=50416801"
+   ],
+   "topic": "nvidia-board-huang-investigation-2026-11-08",
+   "firstSeen": "2026-11-09T04:33:24+08:00"
+  },
+  {
+   "id": "8605b79324",
+   "title": "SpaceX 星舰第 15 次试飞计划首次同时回收助推器和飞船",
+   "summary": "SpaceX 称星舰 Flight 15 最早于 2026-11-13 从得州 Starbase 起飞，发射窗口为美国中部时间下午 4:45 起，计划第一次把 Super Heavy 助推器和星舰飞船都回收到发射塔。若成功，这将是轨道发射系统首次完整回收。任务还将部署 26 颗 Starlink V3 卫星，飞船预计绕地球约 14 圈、飞行逾 22 小时后再尝试回收。登上 HN。",
+   "links": [
+    "https://www.spacex.com/launches/starship-flight-15",
+    "https://news.ycombinator.com/item?id=50416471",
+    "https://x.com/i/trending/2119489627438321894"
+   ],
+   "topic": "spacex-starship-flight-15-double-catch-2026-11-08",
+   "firstSeen": "2026-11-09T04:33:24+08:00"
+  },
+  {
+   "id": "45fb196cb1",
+   "title": "开发者分享对抗 AI「脑炸」的方法：用 Git 队列一次只处理一件事",
+   "summary": "Sergey Kuhne 发文描述用 Claude Code 或 Codex 同时开二十来个会话后注意力崩溃的「AI Brain Fry」。他的做法是把工单写成仓库里的 Markdown，由 Agent 循环处理，所有需要人拍板的事项汇入一个 owner inbox；每次只加载、决策并关闭一张工单，上下文随卡片关闭，而不是留在脑子里。11 月 8 日登上 HN 首页。",
+   "links": [
+    "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+    "https://news.ycombinator.com/item?id=50416363"
+   ],
+   "topic": "sergey-kuhne-ai-brain-fry-queue-hn-2026-11-08",
+   "firstSeen": "2026-11-09T04:33:24+08:00"
   }
  ],
- "lastChecked": "2026-11-09T04:01:19+08:00"
+ "lastChecked": "2026-11-09T04:33:24+08:00"
 }
