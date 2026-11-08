@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T11:31:18+08:00",
+ "lastUpdated": "2026-11-08T11:49:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43387,7 +43387,52 @@
    ],
    "topic": "levelsio-claude-code-design-furniture-2026-11-07",
    "firstSeen": "2026-11-08T11:31:18+08:00"
+  },
+  {
+   "id": "45b138912a",
+   "title": "约 60 万颗英伟达 H200 滞留香港：中国暂缓大规模进口许可",
+   "summary": "路透援引知情人士称，约 60 万颗运往中国大陆的 H200 积压在香港，等待中方进口审批；另有消息称几家大型互联网公司近几个月经中间渠道各拿到约 1 万颗。特朗普政府此前放行对华销售 H200 并加征 25% 出口关税，但北京对大规模放行仍持审慎态度。",
+   "links": [
+    "https://www.datacenterdynamics.com/en/news/almost-600000-nvidia-h200s-stranded-in-hong-kong-as-chinese-govt-stalls-on-import-approvals-report/",
+    "https://www.semafor.com/article/11/05/2026/nvidia-chips-stuck-in-hong-kong-over-china-approval",
+    "https://www.channelnewsasia.com/east-asia/nvidia-chips-pile-up-hong-kong-china-withhold-import-approval-6527371"
+   ],
+   "topic": "nvidia-h200-stranded-hong-kong-2026-11",
+   "firstSeen": "2026-11-08T11:49:03+08:00"
+  },
+  {
+   "id": "1e65cf9aed",
+   "title": "东南亚承接亚太约一半在建数据中心，泰国已暂停 49 个项目、搁置 117 个审批",
+   "summary": "《卫报》引述戴德梁行 2026 年报告：东南亚占亚太在建数据中心容量约一半，马来西亚柔佛运营容量从 2023 年的 94 兆瓦增至 2026 年的 1110 兆瓦。电力与水资源承压后，泰国在 2026 年 9 月暂停 49 个在建项目、搁置 117 个审批；柔佛数据中心已约占全州用电 24%。",
+   "links": [
+    "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia"
+   ],
+   "topic": "sea-data-center-pause-guardian-2026-11-07",
+   "firstSeen": "2026-11-08T11:49:03+08:00"
+  },
+  {
+   "id": "00564005a0",
+   "title": "Anthropic 支持的 Public First：中期选举投入超 6300 万美元，17 名国会候选人中 10 人当选",
+   "summary": "彭博报道，这家主张更严人工智能监管的超级政治行动委员会在 2026 中期选举砸下逾 6300 万美元，其支持的 17 名国会候选人中有 10 人获胜。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight",
+    "https://www.techmeme.com/261107/p17"
+   ],
+   "topic": "public-first-pac-midterms-63m-2026-11-07",
+   "firstSeen": "2026-11-08T11:49:03+08:00"
+  },
+  {
+   "id": "36c9086c21",
+   "title": "微软从 Windows 11 移除电脑对电脑迁移，改推 OneDrive 备份",
+   "summary": "微软支持页确认，Windows 11 的「电脑对电脑迁移」已随 2026 年 10 月 13 日的 KB5127648 对普通用户下线，用户被导向依赖 OneDrive 的 Windows 备份；免费账户仅有 5GB 空间。该功能本可通过 Wi-Fi 或网线在两台电脑间直接传文件和部分设置，无需上云。",
+   "links": [
+    "https://www.ghacks.net/2026/11/03/microsoft-removes-pc-to-pc-migration-from-windows-11-and-points-users-to-onedrive-based-windows-backup/",
+    "https://www.howtogeek.com/windows-11-removes-pc-to-pc-migration-tool/",
+    "https://support.microsoft.com/en-us/windows/experience/backup-recovery/transfer-your-files-and-settings-to-a-new-windows-pc"
+   ],
+   "topic": "windows11-removes-pc-to-pc-migration-2026-11",
+   "firstSeen": "2026-11-08T11:49:03+08:00"
   }
  ],
- "lastChecked": "2026-11-08T11:31:18+08:00"
+ "lastChecked": "2026-11-08T11:49:03+08:00"
 }
