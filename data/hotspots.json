@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T03:16:34+08:00",
+ "lastUpdated": "2026-11-09T03:33:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44162,7 +44162,19 @@
    ],
    "topic": "uk-lords-mandatory-csam-device-software-2026-11-08",
    "firstSeen": "2026-11-09T03:16:34+08:00"
+  },
+  {
+   "id": "b8b5e4012b",
+   "title": "开源验证码田野指南登上 HN：汇总 39 种常见类型",
+   "summary": "开发者把 reCAPTCHA、Cloudflare、hCaptcha 等约 39 种验证码整理成可检索目录，并配了网页版；作者写明供教育和授权研究使用。条目目前在 HN 首页。",
+   "links": [
+    "https://github.com/vsmutok/FuckCaptcha",
+    "https://vsmutok.github.io/FuckCaptcha/",
+    "https://news.ycombinator.com/item?id=50415078"
+   ],
+   "topic": "",
+   "firstSeen": "2026-11-09T03:33:43+08:00"
   }
  ],
- "lastChecked": "2026-11-09T03:16:34+08:00"
+ "lastChecked": "2026-11-09T03:33:43+08:00"
 }
