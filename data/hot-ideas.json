@@ -1024,6 +1024,81 @@
    "shown": true,
    "at": "2026-11-07T13:06:04+00:00",
    "id": "7eab86535f"
+  },
+  {
+   "topic": "apple-ios-keyboard-grey-list-swipeblocked-2026-11",
+   "title": "滑动输入屏蔽词清单",
+   "who": "在意输入法会不会悄悄改词的 iPhone 用户、记者和隐私研究者",
+   "pain": "滑动输入某个短语时键盘会换成别的词或怎么划都不出来，系统不给清单也不给开关，只能一遍遍试才知道自己撞上了屏蔽",
+   "why_now": "HN 热议《卫报》报道和研究者的 swipeblocked 清单：苹果滑动输入会屏蔽一批短语，包括政治用语，甚至有「iMessage isn't working」",
+   "mvp": "一页可搜索目录，汇总公开披露的滑动/自动完成屏蔽短语并按类别分组，附「如何自己复现」说明卡；页面放 Workers，样式对接 UI Hub",
+   "money": "个人查询免费，按 iOS 版本追踪清单变化的研究档和更新提醒 $8/月",
+   "not_do": "不采集用户实际输入内容，不绕过或修改系统键盘，不把清单说成官方完整名单",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50406111"
+   ],
+   "score": 7,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 1,
+    "novel": 0
+   },
+   "why": "HN 真实讨论；公开清单整理成检索页两周可做；付费面窄，swipeblocked 已免费提供核心名单；只复用 Workers；研究者站点已覆盖核心价值",
+   "shown": true,
+   "at": "2026-11-08T01:09:00+00:00",
+   "id": "1d1f1a5296"
+  },
+  {
+   "topic": "hcd8d75dc4",
+   "title": "站点安全联系人速查",
+   "who": "发现网站被挂马或供应链脚本投毒、需要合法通知站长的安全研究员和小型扫描团队",
+   "pain": "security.txt 采用率低，WHOIS 大多脱敏，一次写很多封通知信又像骚扰或勒索，直接送进浏览器黑名单又可能让本会修复的站长永远摘不下来",
+   "why_now": "HN 热议 Scott Helme：已知约 1.5 万个网站被感染，却找不到可规模化、又负责任的通知办法",
+   "mvp": "粘贴域名，只查公开联系通道：/.well-known/security.txt、DNS MX 是否接受 abuse@ 与 security@ 等 RFC 2142 邮箱、WHOIS 里的注册商 abuse 表格链接，并生成一封通知草稿；不代发邮件。页面放 Workers，样式对接 UI Hub",
+   "money": "单个域名查询免费，批量 100 个域名的通道探测和回复跟踪 $15/月",
+   "not_do": "不从网页正文抓取个人邮箱，不替用户对外发信，不公开感染站点名单，不收集访客浏览记录",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50396064"
+   ],
+   "score": 9,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 2,
+    "reuse": 1,
+    "novel": 1
+   },
+   "why": "HN 真实讨论；查 security.txt、MX 与注册商表格两周可做；安全团队批量通知有明确付费需求；只复用 Workers；把公开联系通道收成一页并出通知草稿的工具少见",
+   "shown": true,
+   "at": "2026-11-08T01:09:00+00:00",
+   "id": "ed0b5ebd76"
+  },
+  {
+   "topic": "maxxbench-deepswe-mutation-unlap-2026-11",
+   "title": "编程基准可信度体检",
+   "who": "按公开 DeepSWE、SWE-bench 一类分数选购或对比编程模型与 Agent 的技术负责人和平台工程",
+   "pain": "厂商甩出一个很高的基准分，但题目稍改约束——比如文件名必须小写——分数就崩；分不清模型是真能写代码，还是把评测背熟了",
+   "why_now": "HN 热议 MaxxBench：对 DeepSWE 题目做小幅变异后，不少模型尤其是小模型和 flash 变体分数明显下滑",
+   "mvp": "一张体检卡提供 8 条公开的变异模式（额外不变量、文件名大小写、轻度改规格），可粘进自己的 Agent 记录通过/失败；也可选填公开 API 对这 8 条自动跑一遍。页面放 Workers，样式对接 UI Hub",
+   "money": "首次对照免费，对自选模型名单每周复测并在变异分数偏移时提醒 $14/月",
+   "not_do": "不自称可取代官方基准，不训练或泄露非公开评测集，不抓取用户私有代码",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50406222"
+   ],
+   "score": 8,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 2,
+    "reuse": 1,
+    "novel": 0
+   },
+   "why": "HN 真实讨论；8 条变异提示卡两周可做；选模型的团队有评测预算；只复用 Workers；MaxxBench 已公布方法与结果，产品接近把论文打成卡片",
+   "shown": true,
+   "at": "2026-11-08T01:09:00+00:00",
+   "id": "0011ac2768"
   }
  ]
 }
