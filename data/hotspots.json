@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T21:40:13+08:00",
+ "lastUpdated": "2026-11-08T22:17:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43922,7 +43922,19 @@
    ],
    "topic": "chatgpt-gpt-62-sol-silent-routing-2026-11-08",
    "firstSeen": "2026-11-08T21:40:13+08:00"
+  },
+  {
+   "id": "390b7e9e2a",
+   "title": "马斯克转发哈萨比斯访谈：懂 AI 的一个人能胜过整支创业团队",
+   "summary": "一段流传的 DeepMind CEO 哈萨比斯访谈片段称，真正理解 AI 的一个人将胜过整支创业团队；五年内会用 AI 的人能以约十分之一人力运转公司。马斯克引用该片段并回复「Interesting」，讨论热度明显上升。",
+   "links": [
+    "https://x.com/elonmusk/status/2119406464372789396",
+    "https://x.com/i/status/2119093769991774480",
+    "https://x.com/i/trending/2119427746556522727"
+   ],
+   "topic": "hassabis-one-person-ai-company-musk-2026-11-08",
+   "firstSeen": "2026-11-08T22:17:29+08:00"
   }
  ],
- "lastChecked": "2026-11-08T21:40:13+08:00"
+ "lastChecked": "2026-11-08T22:17:29+08:00"
 }
