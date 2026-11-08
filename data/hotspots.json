@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T22:17:29+08:00",
+ "lastUpdated": "2026-11-08T22:24:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43934,7 +43934,29 @@
    ],
    "topic": "hassabis-one-person-ai-company-musk-2026-11-08",
    "firstSeen": "2026-11-08T22:17:29+08:00"
+  },
+  {
+   "id": "f9158f78a1",
+   "title": "开发者把盲用按键机刷成 Android 16：厂商称不可能升到 12",
+   "summary": "作者给视障母亲的 Kapsys SmartVision3（二手约 400 美元、出厂 Android 11）移植了 LineageOS 23.2 / Android 16，并自写无障碍按键和主屏应用。厂商曾称该机不可能升到 Android 12；文章记录了 init 崩溃、GSI/DSU 和签名校验的排障过程，目前登上 HN 首页。",
+   "links": [
+    "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+    "https://news.ycombinator.com/item?id=50366821"
+   ],
+   "topic": "android16-kapsys-smartvision3-keypad-hn-2026-11-08",
+   "firstSeen": "2026-11-08T22:24:53+08:00"
+  },
+  {
+   "id": "da75958d06",
+   "title": "新缩放律：数据受限时，算力最优参数量可达 Chinchilla 的约 7000 倍",
+   "summary": "Q 实验室新文提出，在固定数据集上把权重衰减、训练轮数和快照集成写进缩放律后，损失仍能随算力下降。外推到 5 万亿 token、10^29 FLOPs 时，算力最优参数量约为 Chinchilla 配方的 7000 倍，指向训练千万亿参数级模型。文章已登上 HN 首页。",
+   "links": [
+    "https://qlabs.sh/research/parameters",
+    "https://news.ycombinator.com/item?id=50352518"
+   ],
+   "topic": "qlabs-quadrillion-parameter-scaling-hn-2026-11-08",
+   "firstSeen": "2026-11-08T22:24:53+08:00"
   }
  ],
- "lastChecked": "2026-11-08T22:17:29+08:00"
+ "lastChecked": "2026-11-08T22:24:53+08:00"
 }
