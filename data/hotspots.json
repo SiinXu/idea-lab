@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T03:04:31+08:00",
+ "lastUpdated": "2026-11-09T03:16:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44151,7 +44151,18 @@
    ],
    "topic": "packethound-windows-little-snitch-hn-2026-11-08",
    "firstSeen": "2026-11-09T03:04:31+08:00"
+  },
+  {
+   "id": "572c9f3794",
+   "title": "《观察家报》：英国跨党派议员拟要求所有手机和平板预装拦截儿童性剥削内容的软件",
+   "summary": "《观察家报》报道，由保守党上院议员、前教育大臣 John Nash 和工党前保障事务大臣 Jess Phillips 牵头的跨党派联盟，准备向议会提出：在英国销售的所有智能手机和平板必须预装软件，用来阻止查看或制作儿童性剥削内容（含 AI 生成材料），直播也将无法进行；旧设备可能通过强制系统更新覆盖。政府已承诺立法，要求苹果和谷歌阻止儿童在设备上拍摄或分享裸照；Nash 说如果政府自己不立法，他会把修正案挂到即将出台的国家安全法案上。一份将于本周发表、有国际刑警组织（Interpol）和互联网观察基金会（IWF）参与的专家报告，主张用 AI 在设备端更早识别并阻断可疑内容。《观察家报》民调称，在简要介绍该技术后，80% 的受访者支持装到自己的手机或平板上。该报道今天登上 HN。",
+   "links": [
+    "https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign",
+    "https://news.ycombinator.com/item?id=50414331"
+   ],
+   "topic": "uk-lords-mandatory-csam-device-software-2026-11-08",
+   "firstSeen": "2026-11-09T03:16:34+08:00"
   }
  ],
- "lastChecked": "2026-11-09T03:04:31+08:00"
+ "lastChecked": "2026-11-09T03:16:34+08:00"
 }
