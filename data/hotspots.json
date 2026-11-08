@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T00:41:35+08:00",
+ "lastUpdated": "2026-11-09T01:03:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44022,7 +44022,41 @@
    ],
    "topic": "ornadyne-bird-drone-evades-detection-hn-2026-11-08",
    "firstSeen": "2026-11-09T00:41:35+08:00"
+  },
+  {
+   "id": "e8bb9b5c5c",
+   "title": "开源工具 BLA 走红：给软件加诱饵，消耗 AI 逆向 Agent 的额度",
+   "summary": "开发者 qybaihe 的 BLA（Blind LLM Agents）对着已发布的构建产物植入格式合法的诱饵和资源陷阱，让 REA 这类 AI 逆向工具撞上分析预算、跟着假线索跑并烧掉大量 token，同时声称不改变运行时行为。GitHub 仓库现约 3554 星，官网是 bla.tools；X 上形成新闻串，REA 项目也在讨论如何检测它。",
+   "links": [
+    "https://github.com/qybaihe/bla",
+    "https://bla.tools/",
+    "https://x.com/i/trending/2119471426621288551"
+   ],
+   "topic": "bla-blind-llm-agents-counter-rea-2026-11-08",
+   "firstSeen": "2026-11-09T01:03:45+08:00"
+  },
+  {
+   "id": "cac662825b",
+   "title": "2024 年旧文再登 HN：作者认为 Deno 的权限模型只是「假装沙箱」",
+   "summary": "Max Goldstein 在 2024 年 8 月 31 日的文章里写道，Deno 标榜「默认安全」的权限提示走的是终端标准输入输出，恶意程序可以伪装提示；像 --allow-run=uname 这类授权也挡不住通过 PATH 或动态加载器环境变量绕过限制。他认为真正的问题是 Deno 进程本身没有被操作系统沙箱隔离，权限系统可能带来虚假安全感。文章今天以约 25 分登上 HN 首页。",
+   "links": [
+    "https://goldstein.lol/posts/deno-security/",
+    "https://news.ycombinator.com/item?id=50413769"
+   ],
+   "topic": "deno-security-model-critique-hn-2026-11-08",
+   "firstSeen": "2026-11-09T01:03:45+08:00"
+  },
+  {
+   "id": "afb6ce8ada",
+   "title": "游戏制作人：没见过项目因为美术太慢而失败，AI 却在加速最便宜的那一层",
+   "summary": "制作人 Rob Sandberg 的长文今天登上 HN。他引用前 Take-Two AI 负责人 Luke Dicken 的话说「再多自动资产生成也修不好坏掉的方向盘」：软件返工常占工作量的 30%–50%，像《碧海黑帆》烧掉的是反复改方向，不是画得太慢。他担心生成式 AI 会让进行中的存货更多，方向一变写销更大，并建议先衡量返工率、决策延迟和决策耐久度，而不是工具速度。",
+   "links": [
+    "https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow",
+    "https://news.ycombinator.com/item?id=50414234"
+   ],
+   "topic": "game-fail-artists-too-slow-ai-production-hn-2026-11-08",
+   "firstSeen": "2026-11-09T01:03:45+08:00"
   }
  ],
- "lastChecked": "2026-11-09T00:41:35+08:00"
+ "lastChecked": "2026-11-09T01:03:45+08:00"
 }
