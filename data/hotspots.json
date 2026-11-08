@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T15:25:59+08:00",
+ "lastUpdated": "2026-11-08T15:41:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43579,7 +43579,19 @@
    ],
    "topic": "openai-rohan-varma-leaves-codex-2026-11-08",
    "firstSeen": "2026-11-08T15:25:59+08:00"
+  },
+  {
+   "id": "b30e5aa0e2",
+   "title": "OpenAI 产品负责人 Tibo：拿 GPT-6.1 Terra 和 Claude Opus 5.5 比并不公平",
+   "summary": "OpenAI 负责 Codex 与 ChatGPT 的 Tibo Sottiaux 回复网友「更喜欢 Opus 5.5 还是 GPT-6.1 Terra」时说，把 Terra 拿去跟 Opus 5.5 比让他觉得离谱：Terra 是好模型，但本来就不是用来打顶级联赛的，公司还有别的模型负责那个档位。该回复发出后迅速获得约 886 个赞、约 6.2 万次曝光，并形成 X 热议；有人把它读成官方承认 Opus 更强，也有人读成 OpenAI 在暗示真正的旗舰还没拿出来比。",
+   "links": [
+    "https://x.com/thsottiaux/status/2119304055126425939",
+    "https://x.com/JamesMalsawm/status/2118999401062347127",
+    "https://x.com/i/trending/2119330776617771513"
+   ],
+   "topic": "openai-tibo-terra-not-vs-opus-55-2026-11-08",
+   "firstSeen": "2026-11-08T15:41:27+08:00"
   }
  ],
- "lastChecked": "2026-11-08T15:25:59+08:00"
+ "lastChecked": "2026-11-08T15:41:27+08:00"
 }
