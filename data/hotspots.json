@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T08:16:34+08:00",
+ "lastUpdated": "2026-11-08T08:34:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43199,7 +43199,40 @@
    ],
    "topic": "coinbase-armstrong-agent-queue-workflow-2026-11-07",
    "firstSeen": "2026-11-08T08:16:34+08:00"
+  },
+  {
+   "id": "33d787897d",
+   "title": "开发者再报 Claude Opus 5.5「降智」，独立评测暂未测到下滑",
+   "summary": "本周 X 和 GitHub 上又一轮投诉，称 Opus 5.5 会重复已否决方案、读完文件却写出相反结论；有用户日志显示 10 月 19 日后需纠正的回答从约 5.2% 升到 25.4%。公开追踪器 LiveNerf、NerfBench 则显示分数仍在上线时的正常波动内，Anthropic 尚未公开回应。",
+   "links": [
+    "https://i10x.ai/news/claude-opus-5-5-nerf-complaints-data",
+    "https://github.com/anthropics/claude-code/issues/99572",
+    "https://x.com/i/trending/2119200785015689451"
+   ],
+   "topic": "claude-opus-5-5-nerf-complaints-vs-trackers-2026-11-07",
+   "firstSeen": "2026-11-08T08:34:04+08:00"
+  },
+  {
+   "id": "f68e38eafd",
+   "title": "摩根大通 CISO：把服务从公网收起来，别让未认证的 AI Agent 随便探测",
+   "summary": "Pat Opet 在 11 月 7 日提醒同行评估把公司服务从开放互联网上「抽象」出去：未认证的匿名 Agent 探测成本已经太低。他主张用身份层做隔离，把故障半径收成「停掉一个账号」；OpenAI 的 Greg Brockman 等人也转发并呼应「默认私有」。这和摩根大通早前禁止外部 Agent 用客户凭证登录是同一方向的安全思路。",
+   "links": [
+    "https://x.com/i/trending/2119198391204827524"
+   ],
+   "topic": "jpmorgan-opet-private-by-default-ai-agents-2026-11-07",
+   "firstSeen": "2026-11-08T08:34:04+08:00"
+  },
+  {
+   "id": "15a5be954f",
+   "title": "用四个 2 凑出任意整数：狄拉克的通解（2025）再登 HN",
+   "summary": "一篇 2025 年的数学科普文讲「只用四个数字 2 表示任意自然数」，从小学四则运算一路到阶乘、Gamma 函数，最后介绍狄拉克用嵌套根号和对数给出的通解。现登上 HN 首页并持续涨分。",
+   "links": [
+    "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+    "https://news.ycombinator.com/item?id=50408713"
+   ],
+   "topic": "four-2s-any-integer-greenplace-hn-2026-11-07",
+   "firstSeen": "2026-11-08T08:34:04+08:00"
   }
  ],
- "lastChecked": "2026-11-08T08:16:34+08:00"
+ "lastChecked": "2026-11-08T08:34:04+08:00"
 }
