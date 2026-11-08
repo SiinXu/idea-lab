@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T13:18:07+08:00",
+ "lastUpdated": "2026-11-08T14:02:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43487,7 +43487,30 @@
    ],
    "topic": "bloomington-asi-ban-ordinance-2026-29-2026-11-04",
    "firstSeen": "2026-11-08T13:18:07+08:00"
+  },
+  {
+   "id": "1a81a7142d",
+   "title": "苹果把至多约 500 亿美元利润放到新加坡，今年省税约 27 亿美元，超过爱尔兰",
+   "summary": "《金融时报》根据最新披露报道，苹果今年通过新加坡申报至多约 500 亿美元利润，据此节省约 27 亿美元税款，超过它经爱尔兰实现的约 26 亿美元税务节省。报道称新加坡已取代爱尔兰，成为这家 iPhone 公司最大的避税地。具体分项和有效税率以苹果向监管机构提交的申报文件为准。",
+   "links": [
+    "https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede",
+    "https://www.techmeme.com/261108/p1"
+   ],
+   "topic": "apple-singapore-tax-shelter-2-7bn-2026-11-08",
+   "firstSeen": "2026-11-08T14:02:33+08:00"
+  },
+  {
+   "id": "e84c9c8c57",
+   "title": "CPU-Z 统计：PC 内存容量首次同比下降，16GB 占比升至约 33%",
+   "summary": "CPU-Z 开发者 Doc TB 公布的 Validator 数据显示，提交校验的电脑里，32GB 仍最多（约 37.2%）但同比降约 2.5%，64GB 降至约 7.3%（同比约降 18%），这是该统计首次出现整机内存容量同比回落；16GB 升至约 33.0%（同比约增 12.9%），8GB 也升至约 11.0%。同期 DDR4 约占 54.5%（同比约增 6%），DDR5 约占 32.9%（同比约降 2.9%）。这些数字只统计主动提交校验的机器，不是出货普查；媒体普遍将其与 AI 需求推高的内存价格联系起来。",
+   "links": [
+    "https://videocardz.com/newz/cpu-z-statistics-show-32gb-and-64gb-ram-configurations-declining-year-over-year",
+    "https://dev.valid.cpuid.com/statistics/",
+    "https://x.com/i/trending/2119282317332193670"
+   ],
+   "topic": "cpuz-validator-ram-capacity-down-yoy-2026-11",
+   "firstSeen": "2026-11-08T14:02:33+08:00"
   }
  ],
- "lastChecked": "2026-11-08T13:18:07+08:00"
+ "lastChecked": "2026-11-08T14:02:33+08:00"
 }
