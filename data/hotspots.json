@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T12:32:13+08:00",
+ "lastUpdated": "2026-11-08T12:46:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43455,7 +43455,28 @@
    ],
    "topic": "sutton-brute-force-not-enough-2026-11-07",
    "firstSeen": "2026-11-08T12:32:13+08:00"
+  },
+  {
+   "id": "4fe6bf290b",
+   "title": "ZapFast：用 Rust 和 egui 写的原生 WhatsApp 客户端登上 HN",
+   "summary": "非官方桌面客户端，通过手机扫码绑定、不含浏览器内核。官网称 Linux 测试冷启动不到一秒、空闲约 200MB 内存，而 WhatsApp Web 约 1.13GB；支持多号码切换和本地加密存档，GitHub 已约 3389 星。作者提醒：使用非官方客户端可能违反 WhatsApp 条款，存在封号风险。",
+   "links": [
+    "https://github.com/crmne/zapfast",
+    "https://zapfast.rocks/"
+   ],
+   "topic": "zapfast-native-whatsapp-egui-2026-11-08",
+   "firstSeen": "2026-11-08T12:46:03+08:00"
+  },
+  {
+   "id": "e66f4eeac8",
+   "title": "有开发者告别 Claude Code，改用开源编程助手 Pi",
+   "summary": "Caleb 发文称自己长期使用 Claude Code，但因 IDE 一次只能连接一个会话、功能堆叠过快、系统提示和工具说明频繁改动且 token 开销偏大，决定改用更精简、可深度定制的开源助手 Pi。文章写于 9 月、11 月 7 日更新，刚登上 HN 引发讨论。",
+   "links": [
+    "https://caleb.software/posts/claude-to-pi.html"
+   ],
+   "topic": "goodbye-claude-hello-pi-hn-2026-11-08",
+   "firstSeen": "2026-11-08T12:46:03+08:00"
   }
  ],
- "lastChecked": "2026-11-08T12:32:13+08:00"
+ "lastChecked": "2026-11-08T12:46:03+08:00"
 }
