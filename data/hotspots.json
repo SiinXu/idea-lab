@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T17:02:12+08:00",
+ "lastUpdated": "2026-11-08T17:14:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43615,7 +43615,28 @@
    ],
    "topic": "rob-miles-byo-ai-assistant-websites-2026-11-08",
    "firstSeen": "2026-11-08T17:02:12+08:00"
+  },
+  {
+   "id": "302ce527e6",
+   "title": "联邦法官认定 Claude Max「5 倍/20 倍用量」广告可能误导用户",
+   "summary": "加州联邦治安法官 Alex Tse 11 月 6 日裁定，Anthropic 把 Claude Max 宣传成「比 Pro 多 5 倍或 20 倍用量」可能误导消费者：倍数主要按每 5 小时会话计算，按周上限原告估算 Max 5x 约 3.5 倍、Max 20x 约 6 倍。虚假广告等部分诉请被驳回，过失不实陈述和违约等核心主张继续审理。此案尚未证明，也未认证集体诉讼。",
+   "links": [
+    "https://www.courthousenews.com/anthropic-must-face-claims-its-claude-max-pitch-misled-users/"
+   ],
+   "topic": "anthropic-claude-max-usage-lawsuit-2026-11-06",
+   "firstSeen": "2026-11-08T17:14:28+08:00"
+  },
+  {
+   "id": "3ad26f087b",
+   "title": "iSponsorBlockTV 登上 HN：给电视版 YouTube 自动跳过赞助片段",
+   "summary": "开源项目 iSponsorBlockTV 可自托管，连接 Apple TV、Android TV、Roku、游戏机等 YouTube TV 客户端，用 SponsorBlock 数据自动跳过赞助和片头，也可在广告出现时静音或按跳过。GitHub 已有约 6761 星，今日登上 HN 首页。",
+   "links": [
+    "https://github.com/dmunozv04/iSponsorBlockTV",
+    "https://news.ycombinator.com/item?id=50410249"
+   ],
+   "topic": "isponsorblocktv-youtube-tv-hn-2026-11-08",
+   "firstSeen": "2026-11-08T17:14:28+08:00"
   }
  ],
- "lastChecked": "2026-11-08T17:02:12+08:00"
+ "lastChecked": "2026-11-08T17:14:28+08:00"
 }
