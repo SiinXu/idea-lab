@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T17:46:56+08:00",
+ "lastUpdated": "2026-11-08T18:02:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43666,7 +43666,29 @@
    ],
    "topic": "kirlian-photography-diy-equipment-hn-2026-11-08",
    "firstSeen": "2026-11-08T17:46:56+08:00"
+  },
+  {
+   "id": "881c7e1996",
+   "title": "SemiAnalysis 探访内蒙古「中国版 Stargate」：远景 Galaxy 数据中心",
+   "summary": "SemiAnalysis 实地走访乌兰察布远景 Galaxy 园区：规划约 800MW，首期 120MW 一年内交付，造价约为美国的五分之一；配套专属风电、5MW 固态变压器直转 800V 直流试点，液冷和风冷共用一路循环、不用中央冷水机组。作者称内蒙古正加速建设，几乎没有美国那样的反对声浪。今日登上 HN。",
+   "links": [
+    "https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner",
+    "https://news.ycombinator.com/item?id=50411720"
+   ],
+   "topic": "semianalysis-china-stargate-galaxy-inner-mongolia-2026-11-07",
+   "firstSeen": "2026-11-08T18:02:22+08:00"
+  },
+  {
+   "id": "b5d45a3a31",
+   "title": "《连线》：AI 公司正高价收购企业内部文件和邮件",
+   "summary": "Steven Levy 调查发现，Handshake、Micro1、Mercor 等数据中介正收购企业邮件、Slack、工单等流程数据来训练模型，报价从数十万到约 200 万美元。Spirit Airlines 破产资产拍卖曾包含约 8 万个邮箱和约 5 亿条内部消息，航班员工会反对后交易暂停。Anthropic 称不会向仍在运营的公司购买这类工作流数据。今日登上 HN。",
+   "links": [
+    "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+    "https://news.ycombinator.com/item?id=50411618"
+   ],
+   "topic": "wired-levy-buy-work-files-emails-ai-training-2026-11-06",
+   "firstSeen": "2026-11-08T18:02:22+08:00"
   }
  ],
- "lastChecked": "2026-11-08T17:46:56+08:00"
+ "lastChecked": "2026-11-08T18:02:22+08:00"
 }
