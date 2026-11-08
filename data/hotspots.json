@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T18:59:23+08:00",
+ "lastUpdated": "2026-11-08T19:16:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43743,7 +43743,42 @@
    ],
    "topic": "serenity-ai-bubble-infra-deleveraging-x-2026-11-08",
    "firstSeen": "2026-11-08T18:59:23+08:00"
+  },
+  {
+   "id": "5f4303dd36",
+   "title": "Vitalik：数据中心扩张放缓看起来是净正面的",
+   "summary": "以太坊联合创始人 Vitalik Buterin 发帖，表示不认同本周外界对「反数据中心运动」的强烈抵触。他认为算法会持续进步：两年后靠更多、更大的数据中心能做到的事，用今天已有的数据中心大概四年（甚至更快）也能做到，因此即便反数据中心一方取得极大成功，也不会带来灾难性后果。同时，世界需要更多时间去加固已经可见的网络安全问题，以及即将到来的生物等风险；科研应用还受 AI 之外许多因素瓶颈，AI 慢一年并不会让这些应用也慢整整一年。他因此认为算力超大规模扩张放缓相当净正面，而且这并不依赖争议性的「末日论」或递归自我改进论证。原帖约 40 分钟内获得约 470 赞、6.2 万次展示，并形成 X 热点。",
+   "links": [
+    "https://x.com/VitalikButerin/status/2119377918875079163",
+    "https://x.com/i/trending/2119386288474476936"
+   ],
+   "topic": "vitalik-anti-datacenter-slowdown-net-good-2026-11-08",
+   "firstSeen": "2026-11-08T19:16:57+08:00"
+  },
+  {
+   "id": "ab320eccf3",
+   "title": "OpenAI 的 Tibo 澄清：所有 ChatGPT Pro 套餐都没有 5 小时限额",
+   "summary": "OpenAI 产品负责人 Tibo（@thsottiaux）发帖澄清近期误解：所有 ChatGPT Pro 套餐都没有 5 小时限额，相对 Plus 的用量分别是 Pro 100 为 10 倍、Pro 200 为 20 倍、Pro 500 为 50 倍并包含 ultrafast。他随后还问大家，要不要加一档 Pro 50。官方帮助文档也写明，Pro 100、Pro 200 和 Pro 500 在 Work 和 Codex 上目前没有 5 小时窗口限制。原帖发出后获得约 5800 赞、超过 115 万次展示，并形成 X 热点。",
+   "links": [
+    "https://x.com/thsottiaux/status/2119296267545419987",
+    "https://x.com/thsottiaux/status/2119305294291612140",
+    "https://help.openai.com/en/articles/20001516-managing-usage-with-gpt-6-astra-in-work-and-codex",
+    "https://x.com/i/trending/2119307442920239169"
+   ],
+   "topic": "openai-tibo-pro-tiers-no-5h-limit-2026-11-08",
+   "firstSeen": "2026-11-08T19:16:57+08:00"
+  },
+  {
+   "id": "170ca67a91",
+   "title": "tetsuo 发布 AI 音乐短片《ATTENTION IS ALL YOU NEED》讲解 Transformer",
+   "summary": "艺术家 tetsuo（@tetsuoai）发布 AI 音乐短片《ATTENTION IS ALL YOU NEED》，用 5 分 26 秒、84 个镜头讲解 2017 年 Transformer 论文里的分词、嵌入和缩放点积注意力等概念。他称从写词到成片花了 26 小时 51 分钟，消耗约 101 亿 token，动用 131 个 agent 和 23354 次模型调用，使用了 Claude Opus 5.5、Grok 4.7、Qwen-Image、Seedance，以及为影片从零训练的 5100 万参数 SI 模型等；音乐是他自己写的钢琴旋律（灵感来自 Gouryella），后在 Suno 完成。原帖获得约 580 赞、近 2 万次展示，并形成 X 热点。",
+   "links": [
+    "https://x.com/tetsuoai/status/2119341048367665201",
+    "https://x.com/i/trending/2119383610444992961"
+   ],
+   "topic": "tetsuo-attention-is-all-you-need-agenc-mv-2026-11-08",
+   "firstSeen": "2026-11-08T19:16:57+08:00"
   }
  ],
- "lastChecked": "2026-11-08T18:59:23+08:00"
+ "lastChecked": "2026-11-08T19:16:57+08:00"
 }
