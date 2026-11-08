@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T18:02:22+08:00",
+ "lastUpdated": "2026-11-08T18:11:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43688,7 +43688,29 @@
    ],
    "topic": "wired-levy-buy-work-files-emails-ai-training-2026-11-06",
    "firstSeen": "2026-11-08T18:02:22+08:00"
+  },
+  {
+   "id": "71a2fc7bda",
+   "title": "美联社：美国人工智能安全评估机构被要求向白宫非正式汇报",
+   "summary": "美联社报道，负责评估新人工智能产品安全性的美国商务部下属独立机构「超级智能创新与标准推进中心」（CAISSI）目前没有常任负责人，并已停止公开发布研究成果。两名不愿具名的前政府官员称，该中心人员最近被要求非正式地向白宫某个办公室汇报。批评者担心，这种安排可能让行政部门政治化关键决策，并出于对科技行业的顾虑而改动研究报告。报道称，公众对失控人工智能智能体的担忧也在升温。",
+   "links": [
+    "https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13",
+    "https://www.wvnews.com/business/ap-technology-summarybrief-at-3-06-a-m-est/article_e8554731-1838-50d2-ab6a-279d9501958d.html"
+   ],
+   "topic": "caissi-white-house-reporting-ap-2026-11-08",
+   "firstSeen": "2026-11-08T18:11:17+08:00"
+  },
+  {
+   "id": "f6cd4e0856",
+   "title": "Commodore PET 专题再登 HN：作者称它是 1977 年第一台整机个人电脑",
+   "summary": "Ian Matthews 在 commodore.ca 上的长文回顾 Commodore PET：作者认为它于 1977 年 1 月芝加哥消费电子展公布并演示，比 Apple II 和 Radio Shack TRS-80 更早以整机形态出现。机器出厂即带键盘（含数字小键盘）、9 英寸显示器、盒式磁带机、1MHz MOS 6502 和 4K 内存；设计者是 Chuck Peddle，杰克·特拉米尔随后收购 MOS Technologies。文中还写道，机内 Commodore BASIC 由比尔·盖茨和保罗·艾伦的早期微软编写，且是微软少有的不限复制数量授权。今日登上 HN 首页。",
+   "links": [
+    "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+    "https://news.ycombinator.com/item?id=50408961"
+   ],
+   "topic": "commodore-pet-first-pc-hn-2026-11-08",
+   "firstSeen": "2026-11-08T18:11:17+08:00"
   }
  ],
- "lastChecked": "2026-11-08T18:02:22+08:00"
+ "lastChecked": "2026-11-08T18:11:17+08:00"
 }
