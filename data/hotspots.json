@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T18:11:17+08:00",
+ "lastUpdated": "2026-11-08T18:29:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43710,7 +43710,18 @@
    ],
    "topic": "commodore-pet-first-pc-hn-2026-11-08",
    "firstSeen": "2026-11-08T18:11:17+08:00"
+  },
+  {
+   "id": "e851ca03f1",
+   "title": "开发者再报 GitHub 504：状态页全绿，发行版下载和 CI 受影响",
+   "summary": "HN 半小时内冲上首页。多人反馈未登录访问仓库返回 504，发行版下载失败导致 CI 和 Terraform 中断；官方状态页仍显示全部正常。部分用户称已开始恢复。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50411818",
+    "https://www.githubstatus.com/"
+   ],
+   "topic": "github-504-status-green-2026-11-08",
+   "firstSeen": "2026-11-08T18:29:22+08:00"
   }
  ],
- "lastChecked": "2026-11-08T18:11:17+08:00"
+ "lastChecked": "2026-11-08T18:29:22+08:00"
 }
