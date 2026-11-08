@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T15:14:29+08:00",
+ "lastUpdated": "2026-11-08T15:25:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43567,7 +43567,19 @@
    ],
    "topic": "reuters-environmental-groups-embrace-ai-2026-11-07",
    "firstSeen": "2026-11-08T15:14:29+08:00"
+  },
+  {
+   "id": "e8a57abbc0",
+   "title": "OpenAI Codex 产品负责人 Rohan Varma 离职：他曾是 Cursor 首位产品经理",
+   "summary": "Rohan Varma 在 X 上宣布离开 OpenAI，称任期虽短却像经历了三四轮公司演变，暂不公布下家，先打几天 MapleStory 再继续工作。他此前是 Cursor 首位产品经理，后加入 Codex 并参与 Dots 智能体。该帖已超过 21 万次曝光、1200 个赞。",
+   "links": [
+    "https://x.com/TheRohanVarma/status/2119218729733312691",
+    "https://x.com/i/trending/2119329169284698443",
+    "https://runtimewire.com/article/rohan-varma-leaves-openai-codex-cursor"
+   ],
+   "topic": "openai-rohan-varma-leaves-codex-2026-11-08",
+   "firstSeen": "2026-11-08T15:25:59+08:00"
   }
  ],
- "lastChecked": "2026-11-08T15:14:29+08:00"
+ "lastChecked": "2026-11-08T15:25:59+08:00"
 }
