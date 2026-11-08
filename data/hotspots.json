@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T18:42:48+08:00",
+ "lastUpdated": "2026-11-08T18:59:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43732,7 +43732,18 @@
    ],
    "topic": "github-unauth-timeouts-incident-2026-11-08",
    "firstSeen": "2026-11-08T18:42:48+08:00"
+  },
+  {
+   "id": "157c1025a5",
+   "title": "「AI 泡沫」成周末新闻热词：有投资者称存储和光模块更像去杠杆",
+   "summary": "投资者 Serenity（@aleabitoreddit）发长文，反对把整条 AI 产业链都叫成泡沫。他写道：存储厂商远期市盈率大约只有 1 到 3 倍，且有超大规模云厂商的多年锁价长协；光模块公司如 POET 的企业价值甚至比净现金还低约 9700 万美元。他认为当前更像「2026 年 AI 去杠杆」，而不是基础需求崩掉；真正要小心的是部分私人公司估值、融资不当的 neocloud，以及实验室的估值和承诺。配图是谷歌新闻头条里密集出现的 “AI bubble” 标题。帖文约一小时内获得约 400 赞、6 万多次展示，并形成 X 热点。",
+   "links": [
+    "https://x.com/aleabitoreddit/status/2119363124147191823",
+    "https://x.com/i/trending/2119382319840813208"
+   ],
+   "topic": "serenity-ai-bubble-infra-deleveraging-x-2026-11-08",
+   "firstSeen": "2026-11-08T18:59:23+08:00"
   }
  ],
- "lastChecked": "2026-11-08T18:42:48+08:00"
+ "lastChecked": "2026-11-08T18:59:23+08:00"
 }
