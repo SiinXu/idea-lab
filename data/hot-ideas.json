@@ -1099,6 +1099,81 @@
    "shown": true,
    "at": "2026-11-08T01:09:00+00:00",
    "id": "0011ac2768"
+  },
+  {
+   "topic": "claude-code-dont-ask-again-secrets-apiiro-2026-11-07",
+   "title": "Agent 许可泄密扫描",
+   "who": "用 Claude Code、Codex 一类编程 Agent 的个人开发者和小团队安全负责人",
+   "pain": "点了「不要再问一次」后，整条命令连同密码或 token 被写进项目目录里的本地权限文件；文件本该只留在本机，却经常被提交到公开仓库，等发现时密钥已经暴露",
+   "why_now": "HN 热议 Apiiro 的调查：Claude Code 的 Don't Ask Again 会把含密码的命令写入 .claude/settings.local.json，公开 GitHub 上已发现 1122 个带口令的文件",
+   "mvp": "粘贴 settings.local.json 或同类 Agent 权限文件，用公开的密钥形态标出会随提交泄露的片段，并给出该忽略的路径和轮换步骤说明卡；页面放 Workers，样式对接 UI Hub",
+   "money": "单文件扫描免费，对自选公开仓库每周巡检、在新的权限文件里出现密钥时提醒 $12/月",
+   "not_do": "不保存用户粘贴的原文，不扫描用户未指定的仓库，不公开泄密名单，不把结果说成官方漏洞库",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50407882"
+   ],
+   "score": 7,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 1,
+    "novel": 0
+   },
+   "why": "HN 真实讨论；粘贴权限文件并按公开密钥形态标记两周可做；gitleaks 等免费工具已能扫密钥，付费巡检面窄；只复用 Workers；Apiiro 报告已覆盖核心发现，产品接近把调查做成自助粘贴页",
+   "shown": true,
+   "at": "2026-11-08T13:12:18+00:00",
+   "id": "2f1a510800"
+  },
+  {
+   "topic": "he66f4eeac",
+   "title": "编程套件迁移清单",
+   "who": "想从 Claude Code 换到 Pi 或其他开源套件、又怕丢掉订阅权益和日常工作流的开发者",
+   "pain": "换套件不是换一条命令：指令文件、权限与自动模式、上下文压缩、订阅能不能用在第三方套件里、扩展是否可信，每一项没对齐都要浪费几天",
+   "why_now": "HN 热议《Goodbye Claude, Hello Pi》：作者不满 Claude Code 系统提示频繁改动和功能堆叠，评论区大量讨论 TUI 与 GUI、订阅锁定，以及把套件改成自己的工作流",
+   "mvp": "一页对照卡，按指令文件、权限模型、上下文压缩、订阅与 API、沙箱、扩展列出从 Claude Code 迁到 Pi 及其他常见套件时要搬什么、会丢什么，并附可勾选的迁移清单；页面放 Workers，样式对接 UI Hub",
+   "money": "对照卡免费，针对团队仓库生成迁移差异报告并跟踪套件变更 $10/月",
+   "not_do": "不替用户导出或代登录任何订阅，不收集 OAuth 令牌，不声称某一套件全面优于另一套件",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50410107"
+   ],
+   "score": 8,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 1,
+    "novel": 1
+   },
+   "why": "HN 真实讨论；对照卡和可勾选清单两周可做；换套件多是一次性决策，月费意愿一般；只复用 Workers；把指令文件、权限、压缩、订阅和扩展的迁移差异收成一页的工具少见",
+   "shown": true,
+   "at": "2026-11-08T13:12:18+00:00",
+   "id": "71afa10a25"
+  },
+  {
+   "topic": "coldframe-fridge-honeypot-show-hn-2026-11-07",
+   "title": "冷柜控制器自查卡",
+   "who": "没有专职安全团队的商超门店技术对接人、制冷设备安装商和小型工控运维",
+   "pain": "联网冷柜控制器一旦暴露在公网，默认口令和已知漏洞就能被扫到；门店不会自己打补丁，厂商也很少默认提供隔离，等货柜化冻才知道出了事",
+   "why_now": "HN 热议 Show HN: Coldframe，一个伪装成 Danfoss AK-SM 800A 和 Dixell XWEB 界面的蜜罐；近期多国商超冷柜遭入侵已获确认，作者指出门店通常没有安全团队",
+   "mvp": "一页自查卡，汇总公开的控制器型号、厂商公告和 CVE 编号，列出「设备是否不该出现在公网、默认口令是否已改、厂商是否已发补丁」的检查步骤和公告链接；不提供利用方法，也不代扫他人设备。页面放 Workers，样式对接 UI Hub",
+   "money": "单品牌自查免费，多门店设备清单跟踪与新漏洞公告提醒 $15/月",
+   "not_do": "不未经授权扫描他人设备，不提供漏洞利用或绕过步骤，不公开真实受害门店名单，不收集访客填写的设备地址",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50406292"
+   ],
+   "score": 8,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 1,
+    "novel": 1
+   },
+   "why": "HN 真实讨论；汇总公开型号、厂商公告和 CVE 做成自查卡两周可做；门店一线采购预算弱，付费更靠安装商的多店跟踪；只复用 Workers；面向商超冷柜控制器的自查卡片少见。明确不做利用步骤和代扫，未落入禁区",
+   "shown": true,
+   "at": "2026-11-08T13:12:18+00:00",
+   "id": "211bc1b525"
   }
  ]
 }
