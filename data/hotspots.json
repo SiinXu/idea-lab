@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T03:45:34+08:00",
+ "lastUpdated": "2026-11-08T07:59:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43115,7 +43115,69 @@
    ],
    "topic": "spacex-starbase-supercomputer-texas-2026-11-07",
    "firstSeen": "2026-11-08T03:45:34+08:00"
+  },
+  {
+   "id": "2a97b9b147",
+   "title": "GitHub Next 开源 Ace：本地多人协作的 Agentic 开发工具",
+   "summary": "Ace 在你自己的 Mac 上跑 Agent，直接用本机 shell、Xcode、Docker 和钥匙串里的模型密钥；团队经 Tailscale 进入彼此的频道、一起指挥 Agent。自建的 directory 服务只同步「谁在主持哪个频道」，聊天和代码留在主机。MIT 许可，Agent 以你的用户权限运行，需只跟信任的人协作。",
+   "links": [
+    "https://ace.githubnext.com/"
+   ],
+   "topic": "github-next-ace-multiplayer-agentic-2026-11",
+   "firstSeen": "2026-11-08T07:59:21+08:00"
+  },
+  {
+   "id": "61e8b05ee2",
+   "title": "Show HN：EyesRhythm——本地监测眨眼节律和颈部活动的桌面伴侣",
+   "summary": "用摄像头在 Mac/Windows 上同时看眨眼频率和均匀度，合成 0–100 的 Ocular Rhythm Index，还可提醒转头放松颈部；无账号、无云、画面不离开本机。作者称长时间盯屏幕做研究后患上干眼，才做了这款非医疗向工具，现已登上 HN 首页。",
+   "links": [
+    "https://eyesrhythm.com/",
+    "https://news.ycombinator.com/item?id=50408350"
+   ],
+   "topic": "eyesrhythm-local-blink-companion-show-hn-2026-11-07",
+   "firstSeen": "2026-11-08T07:59:21+08:00"
+  },
+  {
+   "id": "e481f0a658",
+   "title": "MeccanicOS：基于 NixOS 的一体式 U 盘桌面系统，自带本地 AI",
+   "summary": "把 NixOS 收成一套可从 U 盘 Live、持久化或安装的桌面：Super+Space 命令栏统一打开应用、路径和提问；全盘 LUKS 加密、离线也能用，需要时再下载 nixpkgs 软件或用 Ollama 跑本地模型。还提供实验性「车队」管理，用 git、SSH 和 SQLite 统一配置一批机器。",
+   "links": [
+    "https://meccanicos.com/"
+   ],
+   "topic": "meccanicos-nixos-usb-desktop-2026-11-07",
+   "firstSeen": "2026-11-08T07:59:21+08:00"
+  },
+  {
+   "id": "61185e5b14",
+   "title": "Diamond Foundry 制成全球首块 200 毫米单晶金刚石晶圆",
+   "summary": "该公司宣布长出直径 200mm 的连续单晶金刚石，把金刚石从宝石尺度推进到半导体晶圆尺度，瞄准 AI 芯片散热和功率电子；CEO 称这让 300mm 也变得可预期。瓶颈一直是晶体尺寸，而非金刚石本身的导热和绝缘性能。",
+   "links": [
+    "https://www.df.com/insights/d200mm-single-crystal-diamond",
+    "https://news.ycombinator.com/item?id=50409132"
+   ],
+   "topic": "diamond-foundry-d200mm-single-crystal-2026-11-05",
+   "firstSeen": "2026-11-08T07:59:21+08:00"
+  },
+  {
+   "id": "c435ce4398",
+   "title": "《科学》：可穿戴脑机公司用用户脑电训练「大脑基础模型」，多数未明确告知",
+   "summary": "Science 调查 57 家消费级脑电公司的隐私政策：Interaxon 的 Muse 头带等已用约 5 万小时用户 EEG 训练大脑基础模型，政策起初并未写明；全球已积累数千万小时脑电。智利、加州、科罗拉多等已开始把神经数据列为敏感信息。",
+   "links": [
+    "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users"
+   ],
+   "topic": "science-wearable-brain-data-foundation-models-2026-11-04",
+   "firstSeen": "2026-11-08T07:59:21+08:00"
+  },
+  {
+   "id": "a7de81c211",
+   "title": "特斯拉 2026.38 软件默默切断第三方向住宅放电，澳洲车主首当其冲",
+   "summary": "车主反映 10 月起推送的 2026.38 分支会在数分钟内断开 Sigenergy 等第三方双向充电，更新说明只写「安全改进」。澳洲无法把 Powershare 改装到现有车上，且当地 Powershare 仅支持车对负载，第三方几乎是唯一的车供家途径。作者已向 ACCC 投诉互操作性。",
+   "links": [
+    "https://thedriven.io/2026/11/07/teslas-quiet-ev-software-update-is-unplugging-australian-homes/"
+   ],
+   "topic": "tesla-2026-38-blocks-thirdparty-v2h-australia-2026-11-07",
+   "firstSeen": "2026-11-08T07:59:21+08:00"
   }
  ],
- "lastChecked": "2026-11-08T03:45:34+08:00"
+ "lastChecked": "2026-11-08T07:59:21+08:00"
 }
