@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T20:44:17+08:00",
+ "lastUpdated": "2026-11-08T20:59:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43853,7 +43853,30 @@
    ],
    "topic": "anthropic-3-4b-onepwr-gas-generators-2026-11-08",
    "firstSeen": "2026-11-08T20:44:17+08:00"
+  },
+  {
+   "id": "5e9d3fd0e5",
+   "title": "Llama-modchip 登上 HN：号称在 64GB 内存、无显卡上跑 284B DeepSeek",
+   "summary": "开源项目 llama-modchip 登上 HN 首页。作者称用 Fractal-64 量化（约 3.75 bpw）和 SwiGLU-H2 压缩，把 DeepSeek-V4-Flash 284B 从约 76.9GiB 压到约 56.6GiB，峰值内存约 57.6GiB，可在纯 CPU、64GB 内存、256K 上下文下运行，预填充约 44.4 tok/s、生成约 9.1–14.7 tok/s；30B MoE 据称可到 25–111 tok/s。评论区有人指出这属于约 2bit 量化，输出质量存疑，也有人觉得 README 水分大、本质是改过的 llama.cpp。antirez 评论说，配上 128GB 统一内存会更快，可以到编码 agent 能用的速度。",
+   "links": [
+    "https://github.com/synchopate/llama-modchip",
+    "https://news.ycombinator.com/item?id=50411961"
+   ],
+   "topic": "llama-modchip-284b-deepseek-64gb-cpu-hn-2026-11-08",
+   "firstSeen": "2026-11-08T20:59:05+08:00"
+  },
+  {
+   "id": "d343395645",
+   "title": "Mizu 登上 HN：R 和 Python 用共享内存做零拷贝并行",
+   "summary": "作者介绍 mizu（R）和 pymizu（Python），底层是同一个 C 库 libmizu，用共享内存做无锁异步和并行。作者在 M4 Pro 上测得任务往返从套接字方案的大约 100 微秒降到 1 微秒以内；工作进程自己从无锁队列取任务，热路径尽量不进系统调用。Python 侧的 PoolExecutor 可当 concurrent.futures.Executor 的替换，NumPy、polars、pyarrow 和 pandas 能以零拷贝视图传递，R 与 Python 进程之间也能这样互换数据。只支持单机，API 仍是实验性的。Posit 博客有完整基准和示例。今日登上 HN。",
+   "links": [
+    "https://github.com/shikokuchuo/pymizu",
+    "https://opensource.posit.co/blog/2026-11-05_mizu-0-1-0/",
+    "https://news.ycombinator.com/item?id=50380051"
+   ],
+   "topic": "mizu-pymizu-zerocopy-shared-memory-hn-2026-11-08",
+   "firstSeen": "2026-11-08T20:59:05+08:00"
   }
  ],
- "lastChecked": "2026-11-08T20:44:17+08:00"
+ "lastChecked": "2026-11-08T20:59:05+08:00"
 }
