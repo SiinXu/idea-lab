@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-08T19:16:57+08:00",
+ "lastUpdated": "2026-11-08T20:02:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -43778,7 +43778,29 @@
    ],
    "topic": "tetsuo-attention-is-all-you-need-agenc-mv-2026-11-08",
    "firstSeen": "2026-11-08T19:16:57+08:00"
+  },
+  {
+   "id": "a7064e2068",
+   "title": "工程师重看《疑犯追踪》：当年的「机器」如今已不太像科幻",
+   "summary": "Wilson Tovar 写下重看这部 15 年前美剧的感受：SOPA/PIPA、Megaupload 关闭的年代记忆犹新，而剧中全知监控系统「The Machine」在今天看来已不再遥远。帖子约 40 分钟内冲上 HN 首页。",
+   "links": [
+    "https://krthr.co/person-of-interest/",
+    "https://news.ycombinator.com/item?id=50412318"
+   ],
+   "topic": "person-of-interest-krthr-hn-2026-11-08",
+   "firstSeen": "2026-11-08T20:02:39+08:00"
+  },
+  {
+   "id": "7cbf7714d7",
+   "title": "彼得原理之后：到了「无能层级」的人可能反过来伤害组织",
+   "summary": "Mandy Brown 读《独裁体制里的职业生涯》指出，升到能力上限的人未必就停在那里：为保住位子，他们可能接脏活、抹黑上级，或用忙碌和含糊来掩盖无能。文章一小时内登上 HN 首页。",
+   "links": [
+    "https://aworkinglibrary.com/writing/petered",
+    "https://news.ycombinator.com/item?id=50412152"
+   ],
+   "topic": "petered-after-peter-principle-hn-2026-11-08",
+   "firstSeen": "2026-11-08T20:02:39+08:00"
   }
  ],
- "lastChecked": "2026-11-08T19:16:57+08:00"
+ "lastChecked": "2026-11-08T20:02:39+08:00"
 }
