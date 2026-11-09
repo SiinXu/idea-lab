@@ -1174,6 +1174,106 @@
    "shown": true,
    "at": "2026-11-08T13:12:18+00:00",
    "id": "211bc1b525"
+  },
+  {
+   "topic": "hec6779b05",
+   "title": "域名发信 DMARC 体检",
+   "who": "有自有域名发通知邮件的独立开发者和小团队",
+   "pain": "Outlook 开始悄悄拒收没配 DMARC 的域名邮件，注册验证信发不出去，用户却什么提示都看不到",
+   "why_now": "这条消息刚在 HN 上升，很多人还不知道自己的域名已经被拒",
+   "mvp": "输入域名，读取公开的 SPF、DKIM、DMARC 记录，给出通过或缺失清单和可复制的修复记录，部署在 Cloudflare Workers 上",
+   "money": "基础体检免费；每周自动复查并在记录被改坏时提醒，按月订阅",
+   "not_do": "不代发邮件，不收集收件人数据，不做邮件营销",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50416158"
+   ],
+   "score": 8,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 2,
+    "novel": 0
+   },
+   "why": "HN 讨论链接；Workers 两周可做，复用 Cloudflare；DMARC 检查工具已有不少，新意低。",
+   "shown": true,
+   "at": "2026-11-09T01:06:02+00:00",
+   "id": "536e31539e"
+  },
+  {
+   "topic": "h68ff5ed66",
+   "title": "受监管团队 AI 编程准入单",
+   "who": "金融、医疗等受监管公司的工程负责人",
+   "pain": "大公司开始收回 AI 编程工具，团队想继续用却答不上合规会问的那几个问题",
+   "why_now": "高盛收回 Claude Code 的消息正在 HN 上升，同类讨论会马上增多",
+   "mvp": "一页问答表单，覆盖数据去向、权限范围、日志留存、模型供应商四类问题，导出可交给合规的 PDF 和 Markdown",
+   "money": "模板免费；按团队收费的定制模板和每季度更新版",
+   "not_do": "不出法律意见，不替公司做合规结论",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50415628"
+   ],
+   "score": 8,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 1,
+    "novel": 1
+   },
+   "why": "HN 讨论链接；问卷导出两周可做；付费方是企业，转化不确定；角度较新。",
+   "shown": true,
+   "at": "2026-11-09T01:06:02+00:00",
+   "id": "1c15c1dcac"
+  },
+  {
+   "topic": "lorekit-open-agent-memory-otel-hn-2026-11-08",
+   "title": "Agent 记忆事件字段表",
+   "who": "自己搭 Agent 记忆层的开发者",
+   "pain": "每个框架记忆的写入、读取、过期都用自己的字段名，出了问题没法对照排查",
+   "why_now": "「Agent 记忆需要自己的 OpenTelemetry」一文在 HN 上升，大家正在讨论统一格式",
+   "mvp": "一份公开的字段对照表加一个在线校验器：粘贴一段日志，标出缺哪些字段，数据留在浏览器里",
+   "money": "字段表开源免费；托管的日志检查和团队看板按月收费",
+   "not_do": "不做记忆存储本身，不抢各框架的位置",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50411467"
+   ],
+   "score": 6,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 1,
+    "money": 0,
+    "reuse": 1,
+    "novel": 1
+   },
+   "why": "HN 讨论链接；字段表加校验器要先有共识，两周偏紧；收费路径弱。",
+   "shown": false,
+   "at": "2026-11-09T01:06:02+00:00",
+   "id": "9587f3cc2d"
+  },
+  {
+   "topic": "hf2ecee9e5",
+   "title": "AI 代码上线前自查单",
+   "who": "用 vibe coding 做出产品、准备上线的独立开发者",
+   "pain": "大家在争论 vibe coding 快还是稳，但上线前到底该查哪几项，没有一张短清单",
+   "why_now": "X 上多条 vibe coding 速度与可靠性的争论同时升温",
+   "mvp": "十项可勾选的自查单：密钥有没有写进代码、登录和权限、依赖来源、错误页、备份等，每项附一条一分钟检查命令，结果可生成分享图",
+   "money": "自查单免费；自动扫描代码仓库并给出修复建议的版本按月收费",
+   "not_do": "不评判 vibe coding 好不好，不替人改代码",
+   "evidence": [
+    "https://x.com/i/trending/2118551198467080700"
+   ],
+   "score": 7,
+   "parts": {
+    "evidence": 2,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 2,
+    "novel": 0
+   },
+   "why": "X 趋势页链接，讨论较泛；自查单易做且可复用 Skills Lab；同类清单很多。",
+   "shown": true,
+   "at": "2026-11-09T01:06:02+00:00",
+   "id": "f24bc98fe3"
   }
  ]
 }
