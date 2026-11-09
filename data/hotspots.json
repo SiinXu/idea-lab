@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T03:42:43+08:00",
+ "lastUpdated": "2026-11-10T04:12:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45052,7 +45052,47 @@
    ],
    "topic": "deepx-dx-m2-edge-ai-chip-2026-11",
    "firstSeen": "2026-11-10T03:42:43+08:00"
+  },
+  {
+   "id": "b54a5923f7",
+   "title": "苹果开始卖 AI 用量：Logic Pro 上线 49.99 美元「Intelligence Usage Pack」，用完云端额度可加购",
+   "summary": "据 The Verge 11 月 9 日报道（最早由 9to5Mac 发现），苹果在 9 月公布部分 Apple Intelligence 功能的用量上限后，给 Logic Pro 加入了「购买更多用量」选项，一次性付费 49.99 美元。Logic Pro 内置的 AI 助手可以一句话新建歌曲、设置人声轨或修改工程，用量取决于对话复杂度。这类用量包针对依赖 OpenAI 或 Google Gemini 云端模型、因而有限额的功能；只能由购买的 Apple 账户使用，不支持家人共享，未用完的额度逐月结转，购买 12 个月后过期。Logic Pro 是苹果第一个对 AI 用量单独收费的应用，预计本月 Pixelmator Pro、Final Cut Pro、Motion 以及 Pages、Keynote、Numbers 等 Creator Studio 应用也会加入。",
+   "links": [
+    "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
+   ],
+   "topic": "apple-intelligence-usage-packs-2026-11",
+   "firstSeen": "2026-11-10T04:12:24+08:00"
+  },
+  {
+   "id": "9021bc9e2d",
+   "title": "硬件工程 AI 平台 Nominal 完成 2.4 亿美元 C 轮：8 个月估值翻三倍到 30 亿美元",
+   "summary": "据 TechCrunch 11 月 9 日报道，成立四年、总部位于奥斯汀的 Nominal 宣布完成 2.4 亿美元 C 轮融资，估值 30 亿美元，由 Lightspeed 领投、Insight Partners 联合领投。今年 3 月它刚以 10 亿美元估值拿到 Founders Fund 抢投的 1.55 亿美元 B 轮扩展，8 个月估值翻了三倍。Nominal 做的是专门用于复杂硬件工程和测试的 AI 平台，面向飞机、核反应堆和智能工厂等场景，目前有 80 家商业和政府客户，Anduril 是重要客户；10 月美国空军还通过 STRATFI 项目向它投入 7120 万美元。其他投资方包括红杉、General Catalyst 和 Lux Capital，CEO Cameron McCord 曾是美国海军潜艇军官和 Anduril 员工。",
+   "links": [
+    "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/"
+   ],
+   "topic": "nominal-series-c-3b-2026-11",
+   "firstSeen": "2026-11-10T04:12:24+08:00"
+  },
+  {
+   "id": "24fbdd6b45",
+   "title": "Instagram 推出 AI 滤镜生成器 Effect Builder：一句话描述就能做快拍特效，审核后全站可用",
+   "summary": "据 The Verge 11 月 9 日报道，Instagram 上线网页版 Effect Builder，美国 18 岁以上用户可以用文字描述想要的滤镜，并附上风格参考图，由 AI 生成快拍（Stories）特效。用户能上传自己的照片预览效果，再用追问的方式修改，还可以让 AI 把一句话提示扩写成详细的风格要求。做好的特效可直接提交给 Instagram，通过安全审核后会出现在快拍里供所有人使用，并标注、链接到创作者主页。这是 Instagram 上周把 Edits 应用推到 macOS 之后的又一个 AI 创作工具。",
+   "links": [
+    "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters"
+   ],
+   "topic": "instagram-effect-builder-2026-11",
+   "firstSeen": "2026-11-10T04:12:24+08:00"
+  },
+  {
+   "id": "a9d5fc43a0",
+   "title": "法国正式指认伊朗：欧洲超市冷柜和血库遭批量入侵、被远程调高温度",
+   "summary": "据 TechCrunch 11 月 9 日报道，法国政府正式将近期针对法国及欧洲各地数千台联网工业冷藏、冷冻设备的网络攻击归咎于伊朗。10 月到 11 月的两波攻击中，黑客远程闯入管理超市冷链设备的网页控制器，调高温度让食品变质；法国血库也遭入侵，但在血液受损前被拦下。研究人员指出这些网页控制器容易被远程攻破，部分受影响型号出自丹麦 Danfoss，已不再提供安全更新。这是今年又一起被归咎于伊朗的破坏性网络攻击，此前还有针对美国供水企业和医疗器械巨头 Stryker 的入侵；美国政府认为幕后是为德黑兰效力的亲伊朗黑客组织。",
+   "links": [
+    "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/"
+   ],
+   "topic": "france-attributes-freezer-hacks-iran-2026-11",
+   "firstSeen": "2026-11-10T04:12:24+08:00"
   }
  ],
- "lastChecked": "2026-11-10T03:42:43+08:00"
+ "lastChecked": "2026-11-10T04:12:24+08:00"
 }
