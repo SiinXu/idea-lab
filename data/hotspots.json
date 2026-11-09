@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T05:01:01+08:00",
+ "lastUpdated": "2026-11-10T06:00:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45102,7 +45102,18 @@
    ],
    "topic": "fervo-q3-12b-orders-2026-11",
    "firstSeen": "2026-11-10T05:01:01+08:00"
+  },
+  {
+   "id": "1516eb0c44",
+   "title": "DeepMind 物理仿真引擎 MuJoCo 发布 4.0：加入防穿模的推测接触和弹塑性形变，冲上 GitHub 热榜",
+   "summary": "Google DeepMind 于 11 月 6 日发布开源物理仿真器 MuJoCo 4.0.0，这是 3.0 以来的大版本，本周登上 GitHub Trending。MuJoCo 广泛用于机器人和强化学习研究。新版主要更新包括：推测接触（speculative contacts），防止高速运动的物体在一个时间步内穿过薄障碍物；弹塑性形变，关节、肌腱弹簧和连续体可以产生并保存永久变形；Python 包拆分为只含核心绑定和 C 库的 mujoco-core 与完整版。此外还改进了 RK4 积分精度、可形变体求解、Filament 渲染（阴影、地平线雾霾等），Python 包附带了手册和面向 AI 智能体的技能文档，并停止支持 Python 3.10。官方同时上线 mujoco.org 交互展示和 MuJoCo Live 浏览器演示。",
+   "links": [
+    "https://github.com/google-deepmind/mujoco/releases/tag/4.0.0",
+    "https://github.com/google-deepmind/mujoco/discussions/3773"
+   ],
+   "topic": "mujoco-4-0-release-2026-11",
+   "firstSeen": "2026-11-10T06:00:52+08:00"
   }
  ],
- "lastChecked": "2026-11-10T05:01:01+08:00"
+ "lastChecked": "2026-11-10T06:00:52+08:00"
 }
