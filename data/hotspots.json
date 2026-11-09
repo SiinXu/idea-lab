@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T17:54:48+08:00",
+ "lastUpdated": "2026-11-09T18:12:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44587,7 +44587,48 @@
    ],
    "topic": "jd-logistics-xinjiang-cargo-drone-2026-11",
    "firstSeen": "2026-11-09T17:54:48+08:00"
+  },
+  {
+   "id": "39d3d5d5b9",
+   "title": "马斯克 Terafab 规划曝光：2032 年月产 100 万片晶圆，其中 70 万片做存储芯片，直接对标三星",
+   "summary": "据日经新闻 11 月 9 日报道，SpaceX 与特斯拉合资的芯片厂 Terafab 已向日本设备商提出订购计划，并向供应商透露 2032 年月产能目标为 100 万片晶圆，其中 70 万片用于存储芯片、30 万片用于逻辑芯片；三星目前 DRAM 月产能约 65 万至 70 万片。Terafab 计划 2028 年第三季度量产，明年 5、6 月前后先在奥斯汀研发基地产出首款 SRAM 测试芯片，并按每年约 10 款芯片的节奏快速迭代。",
+   "links": [
+    "https://www.ithome.com/1/024/388.htm"
+   ],
+   "topic": "musk-terafab-memory-capacity-2026-11",
+   "firstSeen": "2026-11-09T18:12:40+08:00"
+  },
+  {
+   "id": "0565857c7a",
+   "title": "美国反数据中心声浪加剧，软银公司 CEO 称可能把 AI 云业务先转到其他国家",
+   "summary": "据彭博社 11 月 9 日报道，软银集团旗下电信运营商软银公司 CEO 宫川润一在业绩说明会上表示，民主党在中期选举中大胜、加上美国各地反对数据中心建设的声音高涨，美国形势\"恐怕对我们不太有利\"，若继续恶化，可能先在其他国家开展 AI 云业务。软银原计划在美国建最高 10GW 的数据中心；截至 9 月的半年内其云计算和 AI 收入增长 37%。Gartner 估计到 2030 年超过 3.5 万亿美元的 AI 基础设施投资可能面临减值风险。",
+   "links": [
+    "https://www.ithome.com/1/024/393.htm"
+   ],
+   "topic": "softbank-us-datacenter-backlash-2026-11",
+   "firstSeen": "2026-11-09T18:12:40+08:00"
+  },
+  {
+   "id": "1d98ddfbf9",
+   "title": "三星 One UI 9.5 将把 Bixby 改造成 AI 智能体：能在后台订酒店、做预约，还能自建每日定时任务",
+   "summary": "据 Sammobile 11 月 9 日实测未发布版本，新版 Bixby 可在后台代办订酒店、预约等日常事务；用户提出定期任务（如每天早上报汇率）后，Bixby 会自动生成任务并等待确认，之后可在新的 Actions 栏目里暂停、删除、置顶任务，并查看每日执行日志。该功能正在内部测试，有望明年初随 Galaxy S27 推出，旧机型能否升级尚不确定。",
+   "links": [
+    "https://www.ithome.com/1/024/386.htm"
+   ],
+   "topic": "samsung-bixby-agent-one-ui-9-5-2026-11",
+   "firstSeen": "2026-11-09T18:12:40+08:00"
+  },
+  {
+   "id": "8ceada5f95",
+   "title": "HN 热议：ChatGPT 桌面版会把本地 SSH agent 转发到远程机器，远端 AI 可用你的密钥推送私有仓库",
+   "summary": "Hacker News 用户发帖指出，ChatGPT 桌面版连接远程机器时会转发本地 SSH agent，远端运行的 Agent 因此能用你本机的 SSH 凭据认证，例如向你在 GitHub 上的私有仓库推送代码；发帖人附上了 openai/codex 仓库 PR 讨论作为依据。帖子引发对 AI 编程工具默认权限和凭据隔离的讨论。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50422628",
+    "https://github.com/openai/codex/pull/28131#discussion_r3410013180"
+   ],
+   "topic": "chatgpt-desktop-ssh-agent-forwarding-2026-11",
+   "firstSeen": "2026-11-09T18:12:40+08:00"
   }
  ],
- "lastChecked": "2026-11-09T17:54:48+08:00"
+ "lastChecked": "2026-11-09T18:12:40+08:00"
 }
