@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T00:06:03+08:00",
+ "lastUpdated": "2026-11-10T00:10:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44872,7 +44872,18 @@
    ],
    "topic": "medium-tk-app-2026-11",
    "firstSeen": "2026-11-10T00:06:03+08:00"
+  },
+  {
+   "id": "d55296af92",
+   "title": "Show HN 新项目 zebkit：把 Chromium 内核做成可嵌入的库，自称比 Electron 小 34%、冷启动快近 3 倍",
+   "summary": "开源项目 zebkit 把 Chromium 的 Blink、V8、PDFium、FFmpeg 等打包成一个能直接链接进自家应用的库，不带 Chrome 浏览器外壳，也没有 Electron 那样的 Node 运行时，支持 Linux、macOS、Windows，提供 C、Rust、Python、JavaScript 接口。README 给出的对比是：比 Electron 45.2.1 体积小 34%，冷启动 2.3 秒对 6.6 秒，单页内存少 29%；还内置完整 PDF 编辑接口，并为智能体开放 Playwright API 和 CDP。项目刚登上 HN 首页，做桌面端 AI 工具、浏览器智能体的开发者可以关注。",
+   "links": [
+    "https://github.com/ikey4u/zebkit",
+    "https://news.ycombinator.com/item?id=50426207"
+   ],
+   "topic": "zebkit-chromium-library-2026-11",
+   "firstSeen": "2026-11-10T00:10:35+08:00"
   }
  ],
- "lastChecked": "2026-11-10T00:06:03+08:00"
+ "lastChecked": "2026-11-10T00:10:35+08:00"
 }
