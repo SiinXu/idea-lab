@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T08:47:10+08:00",
+ "lastUpdated": "2026-11-09T09:13:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44266,7 +44266,18 @@
    ],
    "topic": "shubs-sam-curry-connected-car-unlock-plate-2026-11-08",
    "firstSeen": "2026-11-09T08:47:10+08:00"
+  },
+  {
+   "id": "407340189b",
+   "title": "Herb Sutter 发文复盘 C++26 被否：根本原因是语言之父 Stroustrup 与委员会意见相左",
+   "summary": "WG21 前召集人 Herb Sutter 发表提案 P4454R0（10 月 31 日），复盘 C++26 国际标准草案（DIS）投票失败的原因。他认为委员会对「契约（Contracts）」有约 90% 的共识，但 Bjarne Stroustrup 36 年来首次站到少数派一边、反对通过草案。各国标准机构看重他的意见，导致投票被否。文中对比了 C、Perl、JavaScript、Python、Rust 等语言创始人与维护方决裂的先例，并列出六条出路：跳过 C++26、移除契约后重新投票，或改为国家标准、转到 Linux 基金会推进。据文中说法，Stroustrup 最希望移除契约后重新投票。11 月 9 日登上 HN。",
+   "links": [
+    "https://isocpp.org/files/papers/P4454R0.pdf",
+    "https://news.ycombinator.com/item?id=50418818"
+   ],
+   "topic": "herb-sutter-p4454-cpp26-creator-vs-committee-2026-11-08",
+   "firstSeen": "2026-11-09T09:13:58+08:00"
   }
  ],
- "lastChecked": "2026-11-09T08:47:10+08:00"
+ "lastChecked": "2026-11-09T09:13:58+08:00"
 }
