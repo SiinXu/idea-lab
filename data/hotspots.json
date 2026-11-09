@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T11:32:10+08:00",
+ "lastUpdated": "2026-11-09T12:11:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44299,7 +44299,30 @@
    ],
    "topic": "aphyr-rip-harvest-bending-spoons-2026-11-08",
    "firstSeen": "2026-11-09T11:32:10+08:00"
+  },
+  {
+   "id": "16495ea32b",
+   "title": "猫王版权方与阿姆的出版商分别起诉 AI 音乐生成器 Suno",
+   "summary": "11 月 6 日，猫王（Elvis Presley）的多家版权方与阿姆（Eminem）作品出版商 Eight Mile Style 在美国加州北区联邦法院分别起诉 Suno。猫王一案援引田纳西州 2024 年的 ELVIS 法案，指控 Suno 让用户生成模仿猫王嗓音的歌曲；阿姆一案称 Suno 用 269 首阿姆作品训练模型，并通过爬虫和 yt-dlp 等工具绕过登录与付费墙，按每首最高 15 万美元索赔约 4035 万美元。Suno 回应称已禁止在提示词里使用歌手名和歌名。这是 Suno 继环球、索尼诉讼之后的又一轮版权压力，也说明「声音肖像」正成为 AI 音乐的新法律雷区，持牌训练数据和授权音色的需求在上升。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+    "https://variety.com/2026/music/news/elvis-eminem-sue-suno-ai-music-generator-1236941798/",
+    "https://copyrightnow.com/news/eight-mile-style-v-suno-eminem-compositions-ai-music-training-1201-cmi-copyright-complaint-ndcal/"
+   ],
+   "topic": "suno-elvis-eminem-lawsuits-2026-11",
+   "firstSeen": "2026-11-09T12:11:09+08:00"
+  },
+  {
+   "id": "4f1cb43783",
+   "title": "日本爱丽思欧雅玛旗下网店遭入侵：约 770 万人个人信息或已外泄",
+   "summary": "日本家居家电厂商爱丽思欧雅玛（Iris Ohyama）11 月 5 日发布第二报：旗下官方网店 Iris Plaza 使用的外部云服务 10 月 28 日被发现可疑文件，确认遭第三方未授权访问，约 580 万名会员（含已退会）和 190 万名非会员的姓名、地址、电话、邮箱、生日等可能外泄，在册会员的加密密码也在其中，信用卡信息不受影响。网店、SIMPLE STYLE 以及家电订阅等服务已全部停运，攻击者身份仍未查明。事件再次暴露零售企业对第三方云存储的依赖风险，也提醒用户更换在其他网站重复使用的密码。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+    "https://www.irisohyama.co.jp/news/2026/1105.pdf"
+   ],
+   "topic": "iris-ohyama-iris-plaza-breach-2026-11",
+   "firstSeen": "2026-11-09T12:11:09+08:00"
   }
  ],
- "lastChecked": "2026-11-09T11:32:10+08:00"
+ "lastChecked": "2026-11-09T12:11:09+08:00"
 }
