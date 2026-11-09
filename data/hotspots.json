@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T12:11:09+08:00",
+ "lastUpdated": "2026-11-09T13:12:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44322,7 +44322,29 @@
    ],
    "topic": "iris-ohyama-iris-plaza-breach-2026-11",
    "firstSeen": "2026-11-09T12:11:09+08:00"
+  },
+  {
+   "id": "c0f8ae477e",
+   "title": "DeepSeek Harness 上线不到三个月日活达 154 万，每天消耗约 92 万亿 Token",
+   "summary": "DeepSeek 11 月 8 日在 X 上披露：开源智能体应用 DeepSeek Harness 截至 11 月 4 日的日活用户达 154 万（按连接其官方服务器的用户计），而 9 月底桌面版刚上线时约为 27.1 万，一个多月涨了约 5.7 倍。彭博称该应用每天消耗约 92 万亿 Token，人均约 6000 万。Harness 的所有功能都以插件实现，目前约有 3.5 万个插件，六成用户自己做过插件；DeepSeek 计划推出官方插件市场，并为插件作者提供 Token 奖励、技术支持和推广。这是 AI 智能体推高算力需求的早期实证，插件生态也给独立开发者留出了新的分发入口。",
+   "links": [
+    "https://www.freemalaysiatoday.com/category/business/2026/11/09/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users",
+    "https://www.techmeme.com/261108/p12",
+    "https://www.asiae.co.kr/en/article/2026110909340604231"
+   ],
+   "topic": "deepseek-harness-154m-dau-2026-11",
+   "firstSeen": "2026-11-09T13:12:41+08:00"
+  },
+  {
+   "id": "8422634c9a",
+   "title": "MIT 等推出 WorldParticle：一个 AI 模型同时模拟沙粒、流体、软体和蛋白质",
+   "summary": "MIT 与英属哥伦比亚大学等团队 11 月 9 日发布 WorldParticle：把沙丘、液体、可变形物体乃至蛋白质分子都表示为粒子，用同一个深度学习模型逐步预测粒子运动，取代过去各自为政的专用模拟器。论文在六类物理现象上做了演示，精度高于传统数值模拟，模拟蛋白质结构随时间变化的速度约快 100 倍；由于学的是底层动力学而非写死方程，还能适应训练时没见过的材料和环境。可用于软体机器人、药物研发和工业设备设计等场景。",
+   "links": [
+    "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109"
+   ],
+   "topic": "mit-worldparticle-unified-physics-sim-2026-11",
+   "firstSeen": "2026-11-09T13:12:41+08:00"
   }
  ],
- "lastChecked": "2026-11-09T12:11:09+08:00"
+ "lastChecked": "2026-11-09T13:12:41+08:00"
 }
