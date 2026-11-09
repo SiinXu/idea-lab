@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T02:07:42+08:00",
+ "lastUpdated": "2026-11-10T02:27:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44986,7 +44986,18 @@
    ],
    "topic": "raspberry-pi-5-16gb-385-2026-11",
    "firstSeen": "2026-11-10T02:07:42+08:00"
+  },
+  {
+   "id": "62d589f281",
+   "title": "AWS 推出 Nitro Sandboxes：EKS Pod、ECS 任务和 AI 智能体各跑一个硬件隔离轻量虚拟机，免费可用",
+   "summary": "AWS 11 月 9 日发布 Nitro Sandboxes，由 Nitro 虚拟机管理程序管理的轻量虚拟机，可让每个 Amazon EKS Pod、ECS 任务或 AI 智能体都运行在独立的硬件隔离环境里，性能接近原生 EC2。它适合在同一台 EC2 实例上安全运行不可信、多租户或受监管的工作负载，例如执行大模型生成的代码；还支持加密证明，只有证明自身完整性的沙箱才能拿到密钥。在 EKS 或 ECS 中开启只需改一行配置，Pod Identity、VPC CNI、EBS/EFS/S3 和 CloudWatch 照常可用；也可在 EC2 上配合自己的 AMI 和 Firecracker 等虚拟机监视器直接使用。目前在全球所有商业区域、大多数 Nitro 实例上免费提供，对 E2B、Modal 等智能体沙箱创业公司形成直接竞争。",
+   "links": [
+    "https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/",
+    "https://news.ycombinator.com/item?id=50428199"
+   ],
+   "topic": "aws-nitro-sandboxes-2026-11",
+   "firstSeen": "2026-11-10T02:27:59+08:00"
   }
  ],
- "lastChecked": "2026-11-10T02:07:42+08:00"
+ "lastChecked": "2026-11-10T02:27:59+08:00"
 }
