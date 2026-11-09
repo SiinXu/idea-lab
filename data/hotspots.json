@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T01:23:07+08:00",
+ "lastUpdated": "2026-11-10T01:43:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44939,7 +44939,31 @@
    ],
    "topic": "nvidia-megaspeed-commerce-probe-halted-2026-11",
    "firstSeen": "2026-11-10T01:23:07+08:00"
+  },
+  {
+   "id": "ec91ece680",
+   "title": "WordPress 母公司 Automattic 推出 Spacefast：在 ChatGPT、Claude 里做的网站和应用，一句话就能上线",
+   "summary": "Automattic 11 月 9 日正式发布新公司 Spacefast，定位是「AI 做出来的东西的家」：用户继续在 ChatGPT、Claude、Cursor、Claude Code、Codex 等智能体里做网站或应用，让 AI 用 Spacefast 发布后，对话里就会返回一个私密链接，团队可直接在页面上评论，再由 AI 根据评论修改。它自带托管、自定义域名和数据库，应用登录、事务邮件和团队共享知识库将在几周内上线，支持 Next.js、TanStack Start、Astro 等，并提供 CLI（npx spacefast publish）和 MCP；底层跑在每月承载超 150 亿次页面浏览的 WordPress.com 基础设施上。个人版免费起步，Go 版每月 5 美元，Pro 版每人每月 15 美元。TechCrunch 指出它直接对标 Lovable、Emergent 等 vibe coding 平台，也是 WordPress 在 AI 冲击网站流量之下的转身。",
+   "links": [
+    "https://www.prnewswire.com/news-releases/automattic-launches-spacefast-a-new-company-that-gets-apps-and-websites-live-in-seconds-302933038.html",
+    "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+    "https://spacefast.com/",
+    "https://x.com/i/trending/2119841380700946514"
+   ],
+   "topic": "automattic-spacefast-launch-2026-11",
+   "firstSeen": "2026-11-10T01:43:21+08:00"
+  },
+  {
+   "id": "3c40bebd52",
+   "title": "Expo 联合创始人 Charlie Cheever 预览 Exact：为 AI 智能体设计的 Rust 原生应用框架，配套新 UI 语言 Contract",
+   "summary": "Quora 和 Expo 联合创始人 Charlie Cheever 11 月 9 日公开预览 Exact，代码以 MIT 协议放在 GitHub 的 expo/exact。开发者用新的声明式语言 Contract 描述界面，用 TypeScript 或 Rust 写数据逻辑，同一份应用可原生运行在 Web、macOS、iOS、Linux 上（Android 处于早期），没有 WebView 也没有 JS 桥。它按「智能体原生」设计：智能体通过截图、点击、输入、读状态等十个统一操作就能自己构建、运行、查看和测试应用，时钟也交给智能体控制以避免测试不稳定；Contract 改动 10 到 20 毫秒即可热更新。项目还处于 pre-alpha，Expo 表示会继续投入 React Native。",
+   "links": [
+    "https://github.com/expo/exact",
+    "https://x.com/i/trending/2119793254690357595"
+   ],
+   "topic": "expo-exact-agent-native-framework-2026-11",
+   "firstSeen": "2026-11-10T01:43:21+08:00"
   }
  ],
- "lastChecked": "2026-11-10T01:23:07+08:00"
+ "lastChecked": "2026-11-10T01:43:21+08:00"
 }
