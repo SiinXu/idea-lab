@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T03:29:38+08:00",
+ "lastUpdated": "2026-11-10T03:42:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45041,7 +45041,18 @@
    ],
    "topic": "infineon-300mm-sic-wafer-2026-11",
    "firstSeen": "2026-11-10T03:29:38+08:00"
+  },
+  {
+   "id": "913ed88b2f",
+   "title": "韩国芯片公司 DeepX 第二代边缘 AI 芯片 DX-M2 流片：5 瓦以内本地跑千亿参数大模型，主打机器人和无人机",
+   "summary": "据 EE Times 11 月 9 日报道，韩国边缘 AI 芯片初创公司 DeepX 完成第二代加速器 DX-M2 流片。该芯片采用 2 纳米工艺，算力 80 TOPS，内存带宽从上一代的 50GB/s 提高到 150GB/s，可在 5 瓦以内运行 200 亿到 1000 亿参数的模型（激活参数约 30 亿到 200 亿），速度每秒 10 到 30 个 token，支持混合专家模型和推测解码。DeepX 还与三星合作接入 LPDDR5x 存内计算（PIM），模拟显示 Llama3.1-8B 速度可提升 6.7 倍，但功耗为 2.7 倍。DX-M2 面向机器人、无人机、AI PC 和车载智能体，DeepX 称机器人厂商只需把英伟达 Isaac 的 API 换成自家 Newton 即可迁移。第一代 DX-M1 已量产，获得 100 多张订单；DX-M2 预计 2027 年 3 月送样、秋季量产，2028 年推出芯粒架构的 DX-M3。",
+   "links": [
+    "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+    "https://news.ycombinator.com/item?id=50429545"
+   ],
+   "topic": "deepx-dx-m2-edge-ai-chip-2026-11",
+   "firstSeen": "2026-11-10T03:42:43+08:00"
   }
  ],
- "lastChecked": "2026-11-10T03:29:38+08:00"
+ "lastChecked": "2026-11-10T03:42:43+08:00"
 }
