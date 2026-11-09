@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T14:08:01+08:00",
+ "lastUpdated": "2026-11-09T15:13:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44375,7 +44375,37 @@
    ],
    "topic": "apple-halo-humanoid-unitree-g1-2026-11",
    "firstSeen": "2026-11-09T14:08:01+08:00"
+  },
+  {
+   "id": "a1fc05b95f",
+   "title": "三星蚀刻工艺配方泄露给泛林半导体韩国分公司，三星总部定性为重大技术泄露",
+   "summary": "据 The Elec 报道、IT之家转述，三星电子的半导体蚀刻工艺配方（温度、压力、气体流量、处理时长等核心参数）被发现以独立文件形式传给了设备供应商泛林半导体（Lam Research）的韩国分公司。泛林原本只获准接收有限的设备运行数据用于维护，但韩国分公司多次通过不合规申请拿到未授权数据。三星今年下半年察觉，业内认为这可能与泛林韩国 11 月 6 日突然更换 CEO 有关。设备商借运维通道接触晶圆厂核心数据的风险由此被摆上台面。",
+   "links": [
+    "https://www.ithome.com/1/024/298.htm"
+   ],
+   "topic": "samsung-etch-recipe-leak-lam-research-korea-2026-11",
+   "firstSeen": "2026-11-09T15:13:36+08:00"
+  },
+  {
+   "id": "9679c13670",
+   "title": "阿里云 Token Plan 个人版额度上调约 75%，月费不变，Pro 档月费从 499 元降至 312 元",
+   "summary": "阿里云 11 月 9 日宣布上调 Token Plan 个人版订阅额度：Lite（39 元/月）从 1.15 万提升到 2 万 Credits，Essential（79 元/月）从 2.55 万到 4.5 万，Standard（139 元/月）从 4.5 万到 8 万；Pro 档额度从 18 万提到 20 万，月费从 499 元降到 312 元。四档单位额度成本都下降四成以上，存量用户当期额度也按新标准补齐。国内大模型订阅套餐的价格战还在加码。",
+   "links": [
+    "https://www.ithome.com/1/024/250.htm"
+   ],
+   "topic": "aliyun-token-plan-quota-up-2026-11",
+   "firstSeen": "2026-11-09T15:13:36+08:00"
+  },
+  {
+   "id": "984c6f60b3",
+   "title": "Epic 确认将为 Steam Deck 推出官方 Epic 游戏商店启动器，《堡垒之夜》仍受反作弊限制",
+   "summary": "Epic 传播总监 Jake Jones 对 GamingOnLinux 透露，Epic 计划为 Valve 的 Steam Deck 推出官方 Epic Games Store 启动器，并扩大新版 Linux 客户端支持的发行版，用户以后不用再靠 Heroic 等第三方工具。不过《堡垒之夜》短期内仍上不了 Steam Deck：新版 EAC Linux v2 反作弊要求 Secure Boot 和 TPM 2.0，Steam Deck 目前不支持，Epic 正与 Valve 商量方案。上线时间尚未公布。",
+   "links": [
+    "https://www.ithome.com/1/024/248.htm"
+   ],
+   "topic": "epic-store-launcher-steam-deck-2026-11",
+   "firstSeen": "2026-11-09T15:13:36+08:00"
   }
  ],
- "lastChecked": "2026-11-09T14:08:01+08:00"
+ "lastChecked": "2026-11-09T15:13:36+08:00"
 }
