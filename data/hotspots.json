@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T04:12:24+08:00",
+ "lastUpdated": "2026-11-10T05:01:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45092,7 +45092,17 @@
    ],
    "topic": "france-attributes-freezer-hacks-iran-2026-11",
    "firstSeen": "2026-11-10T04:12:24+08:00"
+  },
+  {
+   "id": "be6d9f9105",
+   "title": "AI 数据中心抢电带火地热：Fervo 已签合同收入达 119 亿美元，一季度从 72 亿暴涨，正为谷歌建 396 兆瓦电站",
+   "summary": "据 TechCrunch 11 月 9 日报道，地热发电公司 Fervo 在第三季度财报中披露，已签约合同收入达 119 亿美元，上季度为 72 亿美元。今年它把首座 100 兆瓦电站并网，并计划在 2028 年底前为谷歌建成 396 兆瓦的 Cape Google 400 项目，两者都位于犹他州 Cape Station，该地块估计可发电 8.4 吉瓦，此前专家认为只有约 4 吉瓦。Fervo 的新井更深更热，单井毛功率 15 兆瓦，几口井组成一个 GeoBlock，最新的已达 50 兆瓦，规模正好匹配一个数据中心机房，可以建一块上线一块。成本也在下降：Cape Station 一期每千瓦约 7000 美元，谷歌项目降到 5500 美元。公司本季经营亏损 4370 万美元，账上现金约 19 亿美元。",
+   "links": [
+    "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/"
+   ],
+   "topic": "fervo-q3-12b-orders-2026-11",
+   "firstSeen": "2026-11-10T05:01:01+08:00"
   }
  ],
- "lastChecked": "2026-11-10T04:12:24+08:00"
+ "lastChecked": "2026-11-10T05:01:01+08:00"
 }
