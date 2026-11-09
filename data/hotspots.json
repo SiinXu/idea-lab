@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T00:10:35+08:00",
+ "lastUpdated": "2026-11-10T00:26:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44883,7 +44883,18 @@
    ],
    "topic": "zebkit-chromium-library-2026-11",
    "firstSeen": "2026-11-10T00:10:35+08:00"
+  },
+  {
+   "id": "c35a9b4517",
+   "title": "同一块 H100，按小时租价从 2.69 美元到 12.29 美元：开源数据对比显示最贵与最便宜相差 4.57 倍",
+   "summary": "开源数据项目 data-receipts 抓取 AWS、Azure 官方价目接口和 RunPod 等新云的公开价格，把按需租用价统一换算成「每块 GPU 每小时」，并只在同型号同显存间比较。H100 SXM 80GB 最便宜的是 RunPod Community 2.69 美元，RunPod Secure 3.99 美元，AWS p5.48xlarge 6.88 美元，Azure ND96isr_H100_v5 高达 12.29 美元；一块卡跑满一个月，花费在 1964 到 8972 美元之间。作者也提醒差价不全是利润：Azure 的 ND 系列带 400Gbps InfiniBand、数据中心 SLA 和企业合规，单机微调用不上，多节点训练却离不开；对比只用按需价，预留和竞价实例会缩小差距。项目刚登上 HN，对正在选算力的小团队有直接参考价值。",
+   "links": [
+    "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+    "https://news.ycombinator.com/item?id=50427085"
+   ],
+   "topic": "h100-rental-price-spread-2026-11",
+   "firstSeen": "2026-11-10T00:26:51+08:00"
   }
  ],
- "lastChecked": "2026-11-10T00:10:35+08:00"
+ "lastChecked": "2026-11-10T00:26:51+08:00"
 }
