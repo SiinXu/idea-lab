@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T17:09:35+08:00",
+ "lastUpdated": "2026-11-09T17:32:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44547,7 +44547,17 @@
    ],
    "topic": "samsung-galaxy-ai-premium-subscription-2026-11",
    "firstSeen": "2026-11-09T17:09:35+08:00"
+  },
+  {
+   "id": "d0ab60f2e4",
+   "title": "日本 Shizuku AI 发布全双工语音模型 Shizuku-Duplex：边听边想，为 AI 伴侣铺路",
+   "summary": "日本 AI 实验室 Shizuku（雫）AI 11 月 8 日公布 Shizuku-Duplex，称其是继 OpenAI GPT-Live 之后第二个支持日语对话的全双工模型，不用等用户说完就开始思考。在 6 个参测模型中，它的日语对话自然度最高，响应质量仅次于 GPT-Live。模型分为负责对话的前台交互模型和异步处理复杂请求的后台模型，每 5 分钟压缩一次上下文，以 80 毫秒为一帧，可输出音频、文本独白和动作。团队正基于这项技术开发始终倾听、会表达自身感受的伴侣式 AI。",
+   "links": [
+    "https://www.ithome.com/1/024/377.htm"
+   ],
+   "topic": "shizuku-duplex-full-duplex-japanese-2026-11",
+   "firstSeen": "2026-11-09T17:32:01+08:00"
   }
  ],
- "lastChecked": "2026-11-09T17:09:35+08:00"
+ "lastChecked": "2026-11-09T17:32:01+08:00"
 }
