@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T10:47:51+08:00",
+ "lastUpdated": "2026-11-09T11:32:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44288,7 +44288,18 @@
    ],
    "topic": "matteo-raso-not-convinced-ai-bubble-2026-11-08",
    "firstSeen": "2026-11-09T10:47:51+08:00"
+  },
+  {
+   "id": "f09ab0b19a",
+   "title": "知名工程师 aphyr 发文《RIP, Harvest》：被 Bending Spoons 收购后月费从 13 美元涨到 134 美元",
+   "summary": "分布式系统测试工具 Jepsen 作者 Kyle Kingsbury（aphyr）11 月 8 日撰文，怀念自由职业者常用的计时开票工具 Harvest。Harvest 于 2025 年被曾大幅裁撤 Vimeo 的 Bending Spoons 收购，如今把老用户迁到「企业版」，他的月费从 13.32 美元涨到 133.98 美元；另一个 12.65 美元的「Flex」方案则要在约 3% 的刷卡手续费之外再抽 2%。他还说客服邮件已改由大模型自动回复，并公开征集替代的开票和记账工具。发布约 1.5 小时在 HN 获 36 分，反映出小型 SaaS 被收购后「涨价 + 降服务」引发的不满，也意味着简单开票工具存在替代机会。",
+   "links": [
+    "https://aphyr.com/posts/427-rip-harvest",
+    "https://news.ycombinator.com/item?id=50420035"
+   ],
+   "topic": "aphyr-rip-harvest-bending-spoons-2026-11-08",
+   "firstSeen": "2026-11-09T11:32:10+08:00"
   }
  ],
- "lastChecked": "2026-11-09T10:47:51+08:00"
+ "lastChecked": "2026-11-09T11:32:10+08:00"
 }
