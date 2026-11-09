@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T07:29:51+08:00",
+ "lastUpdated": "2026-11-09T08:47:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44255,7 +44255,18 @@
    ],
    "topic": "ketchup-open-source-sketchup-rust-webgpu-hn-2026-11-08",
    "firstSeen": "2026-11-09T07:29:51+08:00"
+  },
+  {
+   "id": "b1fb5a7055",
+   "title": "安全研究员 Shubs 与 Sam Curry 披露：凭车牌号就能远程解锁某大车企的车",
+   "summary": "Assetnote 联合创始人 Shubs（Shubham Shah）11 月 7 日发文，和 Sam Curry 一起披露某大车企联网车平台的漏洞链。在澳大利亚，只要知道车牌号，就能查到车架号和用户 ID，再借前端 JS 包里泄露的管理员凭据、绕过 WAF 的路径穿越和 MFA 绕过，给任意用户签发 App 令牌，远程发送开锁等指令。结合 Sam Curry 的另一篇文章，攻击范围覆盖澳大利亚、美国和加拿大的车辆，还能远程启动发动机。文章未公开车企名称，11 月 9 日登上 HN。",
+   "links": [
+    "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+    "https://news.ycombinator.com/item?id=50419215"
+   ],
+   "topic": "shubs-sam-curry-connected-car-unlock-plate-2026-11-08",
+   "firstSeen": "2026-11-09T08:47:10+08:00"
   }
  ],
- "lastChecked": "2026-11-09T07:29:51+08:00"
+ "lastChecked": "2026-11-09T08:47:10+08:00"
 }
