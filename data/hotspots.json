@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T15:44:06+08:00",
+ "lastUpdated": "2026-11-09T15:53:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44455,7 +44455,17 @@
    ],
    "topic": "ram-altman-idle-memory-script-2026-11",
    "firstSeen": "2026-11-09T15:44:06+08:00"
+  },
+  {
+   "id": "cf5da8f332",
+   "title": "三星 SDI 将为波士顿动力 Atlas 人形机器人供应电池，初期几乎独家供货",
+   "summary": "据韩媒 The Elec 报道、IT之家转述，三星 SDI 将为现代汽车集团旗下波士顿动力的人形机器人 Atlas 供应电池。LG 新能源虽也入选供应商，但受产能限制，初期出货预计几乎全由三星 SDI 负责。Atlas 计划 2028 年或之后量产，相关业务已交给现代摩比斯。每台机器人搭载 70 节 2170 圆柱电池（单节 5000mAh），电池包总容量约 1.3kWh。人形机器人正在成为电池厂的新战场。",
+   "links": [
+    "https://www.ithome.com/1/024/339.htm"
+   ],
+   "topic": "samsung-sdi-boston-dynamics-atlas-battery-2026-11",
+   "firstSeen": "2026-11-09T15:53:51+08:00"
   }
  ],
- "lastChecked": "2026-11-09T15:44:06+08:00"
+ "lastChecked": "2026-11-09T15:53:51+08:00"
 }
