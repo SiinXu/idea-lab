@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T01:11:39+08:00",
+ "lastUpdated": "2026-11-10T01:23:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44927,7 +44927,19 @@
    ],
    "topic": "ryan-dahl-100pct-ai-code-2026-11",
    "firstSeen": "2026-11-10T01:11:39+08:00"
+  },
+  {
+   "id": "27e896bcd9",
+   "title": "《纽约时报》：英伟达法务总顾问联系调查人员后，美商务部对 Megaspeed 走私芯片调查被叫停、转交司法部",
+   "summary": "据《纽约时报》11 月 9 日报道，美国商务部工业与安全局曾对新加坡数据中心公司 Megaspeed 展开数月调查，怀疑其把英伟达 AI 芯片转运到中国。2025 年 8 月，英伟达总法律顾问 Tim Teter 给调查人员发邮件打听案情，并称商务部负责出口管制的副部长 Jeff Kessler 允许他这样做；调查人员拒绝会面并上报，Kessler 回复「照章办事」，但内部担心案件因此受影响，随后案件被转交司法部，目前司法部正进行刑事调查。英伟达称此前调查未发现芯片被转运，所有已部署 GPU 均可追溯。这是继黄仁勋与疑似中国情报人员往来、英伟达董事会启动独立调查之后的又一进展，出口管制合规风险继续发酵。",
+   "links": [
+    "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+    "https://www.ndtvprofit.com/markets/us-commerce-probe-into-megaspeed-halted-after-nvidia-intervened-report-12305031",
+    "https://news.ycombinator.com/item?id=50427486"
+   ],
+   "topic": "nvidia-megaspeed-commerce-probe-halted-2026-11",
+   "firstSeen": "2026-11-10T01:23:07+08:00"
   }
  ],
- "lastChecked": "2026-11-10T01:11:39+08:00"
+ "lastChecked": "2026-11-10T01:23:07+08:00"
 }
