@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T22:18:10+08:00",
+ "lastUpdated": "2026-11-09T22:18:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44829,7 +44829,18 @@
    ],
    "topic": "gta6-preload-2026-11",
    "firstSeen": "2026-11-09T22:18:10+08:00"
+  },
+  {
+   "id": "140d4d1a89",
+   "title": "美团 LongCat-2.5 正式开源：MIT 协议可商用，1.6 万亿参数、百万上下文",
+   "summary": "继 11 月 2 日发布后，美团龙猫 11 月 9 日宣布开源面向长程智能体任务的原生多模态模型 LongCat-2.5，采用 MIT 协议，商用推理部署和二次训练都无需额外授权。模型总参数 1.6 万亿，每个 token 激活约 480 亿参数，支持 100 万上下文，在复杂代码库开发、完整项目构建、Visual Coding 和办公场景中端到端交付能力明显提升。视觉信号被编码成多层级离散 token，与文本共用同一主干；推理采用 W4A4 方案，把专家权重和激活都量化到 4 bit，并针对显存和带宽受限的国产算力芯片做了适配。权重已在 Hugging Face 公开。",
+   "links": [
+    "https://www.ithome.com/1/024/556.htm",
+    "https://huggingface.co/meituan-longcat/LongCat-2.5"
+   ],
+   "topic": "meituan-longcat-2-5-open-source-2026-11",
+   "firstSeen": "2026-11-09T22:18:56+08:00"
   }
  ],
- "lastChecked": "2026-11-09T22:18:10+08:00"
+ "lastChecked": "2026-11-09T22:18:56+08:00"
 }
