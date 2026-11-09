@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T18:23:45+08:00",
+ "lastUpdated": "2026-11-09T18:43:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44638,7 +44638,27 @@
    ],
    "topic": "ubs-ceo-ai-stocks-correction-2026-11",
    "firstSeen": "2026-11-09T18:23:45+08:00"
+  },
+  {
+   "id": "c9a289d85d",
+   "title": "谷歌 AI Studio 主管晒用 Gemini 4 把《塞尔达：时之笛重制版》移植到 iPhone Duo，遭版权批评后删帖",
+   "summary": "Google AI Studio 产品与设计主管 Ammaar Reshi 近日在 X 上发视频，展示用 AI 把任天堂《塞尔达传说：时之笛重制版》移植到 iPhone Duo 上运行，本意是展示 Gemini 4 的能力。但未经授权逆向移植游戏涉嫌侵犯任天堂版权，引来大量批评，他随后删除了帖子。近期已出现多起用 AI 逆向游戏的案例，甚至有人拿成果勒索原开发者，AI 逆向工程的版权和法律边界争议升温。",
+   "links": [
+    "https://www.ithome.com/1/024/433.htm"
+   ],
+   "topic": "google-ai-studio-zelda-port-controversy-2026-11",
+   "firstSeen": "2026-11-09T18:43:28+08:00"
+  },
+  {
+   "id": "46e0f92eb9",
+   "title": "AMD 显卡驱动被曝后台持续写盘：atieclxx.exe 每秒 1 到 5MB，一天最多 432GB，官方已着手调查",
+   "summary": "用户发现 AMD 显卡驱动的 AMD External Events Utility 服务（进程 atieclxx.exe，负责显示器接入检测、快捷键和 FreeSync 等）会在后台不停写 SSD，通常约每秒 1MB，部分用户报告达每秒 5MB，按 24 小时计算最多约 432GB。写入量不易察觉，但长期会消耗 SSD 寿命，对 128GB QLC 这类低耐久硬盘影响尤其大。AMD 芯片组驱动此前也出现过类似问题，官方已开始调查。",
+   "links": [
+    "https://www.ithome.com/1/024/435.htm"
+   ],
+   "topic": "amd-gpu-driver-ssd-write-bug-2026-11",
+   "firstSeen": "2026-11-09T18:43:28+08:00"
   }
  ],
- "lastChecked": "2026-11-09T18:23:45+08:00"
+ "lastChecked": "2026-11-09T18:43:28+08:00"
 }
