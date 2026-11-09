@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T02:27:59+08:00",
+ "lastUpdated": "2026-11-10T02:46:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44997,7 +44997,18 @@
    ],
    "topic": "aws-nitro-sandboxes-2026-11",
    "firstSeen": "2026-11-10T02:27:59+08:00"
+  },
+  {
+   "id": "feb2ba2115",
+   "title": "Meta 发布最小最高效模型 Muse Ember：每百万输入 0.1 美元，主打智能体子任务",
+   "summary": "Meta 超级智能实验室 11 月 9 日发布 Muse Ember（muse-ember-1.0），这是其最小、最高效的模型，专为智能体反复执行的工具调用、编码子任务、路由、信息抽取和长文档解析而设计。它在 Muse Code 和 Meta Model API 上线，定价为每百万输入 token 0.10 美元、输出 0.50 美元，支持 1M 上下文和最多 512K 输出，原生支持文本、图片、音频和视频。Meta 称它在 Artificial Analysis 智能指数上与 Claude Haiku 5.5 并列 36 分，但单任务成本约为后者最佳档的三分之一，且在 AutomationBench、Terminal-Bench 4.0、OSWorld 2.1 等多项评测领先 Haiku 5.5 和 GPT-6 Luna；它也是首个由 Muse Wonder Full 训练的模型。Box、Cline、Oracle、Cloudflare、You.com 已参与早期测试，适合作为低成本的子智能体模型。",
+   "links": [
+    "https://research.meta.ai/blog/muse-ember",
+    "https://news.ycombinator.com/item?id=50429024"
+   ],
+   "topic": "meta-muse-ember-launch-2026-11",
+   "firstSeen": "2026-11-10T02:46:10+08:00"
   }
  ],
- "lastChecked": "2026-11-10T02:27:59+08:00"
+ "lastChecked": "2026-11-10T02:46:10+08:00"
 }
