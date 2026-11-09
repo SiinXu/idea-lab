@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T02:53:13+08:00",
+ "lastUpdated": "2026-11-10T03:11:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45019,7 +45019,18 @@
    ],
    "topic": "softbank-grab-petros-malaysia-ai-infra-2026-11",
    "firstSeen": "2026-11-10T02:53:13+08:00"
+  },
+  {
+   "id": "ffe8a09e96",
+   "title": "Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2：输出快 30%、降价至每百万输入 8 美元，30 小时形式化证明费马大定理",
+   "summary": "Anthropic 于 11 月 9 日升级旗舰模型 Claude Fable 5.2 和 Mythos 5.2（二者为同一底层模型，Fable 带网络安全和生物安全防护、面向所有用户，Mythos 需通过网安或生命科学验证计划申请）。官方称新版在编程、推理和视觉上均有提升，输出比 5.1 快最多 30%，价格降至每百万输入 8 美元、输出 40 美元，并提供速度最高 2.5 倍的快速模式（16/80 美元）。基准表显示其在 FrontierSWE v2 达 69.9%、FrontierCode 2.0 达 49.1%，多数指标高于 Opus 5.5、GPT-6 Astra 和 Gemini 4 Carbon。内测中它完成了原本不可行的软件迁移、从零设计三款可用电子设备、解决两个黑洞物理开放问题，并用 30 小时形式化证明费马大定理。Fable 5.2 即日起在 AWS、Google Cloud、Azure 等平台上线，本周付费订阅用户还可获得额外 Fable 用量。",
+   "links": [
+    "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "https://news.ycombinator.com/item?id=50429906"
+   ],
+   "topic": "claude-fable-mythos-5-2-2026-11",
+   "firstSeen": "2026-11-10T03:11:44+08:00"
   }
  ],
- "lastChecked": "2026-11-10T02:53:13+08:00"
+ "lastChecked": "2026-11-10T03:11:44+08:00"
 }
