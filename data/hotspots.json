@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T21:15:33+08:00",
+ "lastUpdated": "2026-11-09T21:37:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44778,7 +44778,17 @@
    ],
    "topic": "sony-psvr2-discontinued-2026-11",
    "firstSeen": "2026-11-09T21:15:33+08:00"
+  },
+  {
+   "id": "9bd298fc35",
+   "title": "Graphite 研究：ChatGPT 占全球 AI 聊天机器人流量超 81%，没有对手份额过 10%",
+   "summary": "增长营销公司 Graphite 基于 Similarweb 数据的研究显示，ChatGPT 占全球主要 AI 聊天工具总流量的 81% 以上，月访问量在今年 9 月达到 613.5 亿次的历史新高，周活跃用户约 12 亿。过去一年 AI 服务向外部网站的引荐流量增长 92%，其中 60% 来自 ChatGPT；谷歌 AI 概览已出现在美国 62% 的搜索中。全球主要 AI 服务月访问量达 760 亿次，同比增长 37%，而美国只占 8.8%，九成以上的使用量来自美国以外。对做 AI 搜索可见度（GEO）和出海内容的人来说，ChatGPT 仍是最主要的流量入口。",
+   "links": [
+    "https://www.ithome.com/1/024/542.htm"
+   ],
+   "topic": "chatgpt-traffic-share-graphite-2026-11",
+   "firstSeen": "2026-11-09T21:37:33+08:00"
   }
  ],
- "lastChecked": "2026-11-09T21:15:33+08:00"
+ "lastChecked": "2026-11-09T21:37:33+08:00"
 }
