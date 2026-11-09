@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T06:00:52+08:00",
+ "lastUpdated": "2026-11-10T06:12:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45113,7 +45113,29 @@
    ],
    "topic": "mujoco-4-0-release-2026-11",
    "firstSeen": "2026-11-10T06:00:52+08:00"
+  },
+  {
+   "id": "1b18e8c9ac",
+   "title": "开发者实测：谷歌 Gemini 连接 Gmail 和云盘后，会在后台自动调取邮件和文件，内容可能进入人工审核",
+   "summary": "一位开发者在 GitHub 发布测试报告，登上 Hacker News 热榜。报告指出，谷歌 2023 年推出 Gemini 的 Workspace 扩展时曾承诺 Gmail、文档和云盘里的个人内容「不会被人工审核员看到」，但谷歌帮助文档和 10 月 16 日对原博客的修改已明确：连接的云盘和邮件内容会进入人工审核流程，审核员看到的「可能就是那封邮件或那个文件」，并提醒不要连接含机密信息的应用。作者称，在消费版 Gemini 开启「连接的应用」后，即使不用 @Drive 或 @Gmail，随口提到行程、账单、预订等话题也会触发后台检索，结果可能是不取数据、只给摘要、引用几句原文，甚至整份文件或邮件全文进入对话上下文。这对把私人邮箱接入 AI 助手的用户是一个隐私提醒。",
+   "links": [
+    "https://github.com/thisisme6598/gemini_files/",
+    "https://news.ycombinator.com/item?id=50429426"
+   ],
+   "topic": "gemini-connected-apps-human-review-2026-11",
+   "firstSeen": "2026-11-10T06:12:26+08:00"
+  },
+  {
+   "id": "1130d877dd",
+   "title": "美国邮政局推出官方 ZIP 邮编边界多边形数据：按真实投递地址生成、每季度更新，按授权付费提供",
+   "summary": "美国邮政局（USPS）在其商业门户 PostalPro 上线「USPS ZIP Code Boundaries」产品，登上 Hacker News 热榜第一。此前美国并没有官方的邮编边界地图，业界普遍使用人口普查局的近似区域（ZCTA）或商业数据。USPS 这份数据基于真实投递地址和位置生成全国邮编多边形，随投递点变化每季度更新四次，提供 GeoJSON 样例文件和技术指南，分内部使用、企业（可分发给子公司和合作方）、公开发布三种授权，需要填写订购表和许可协议。官方列举的用途包括地图导航、营销、保险、房地产、物流路线优化等。对做地理数据、本地服务和营销工具的开发者来说，这是首个可当「标准答案」的邮编边界来源。",
+   "links": [
+    "https://postalpro.usps.com/zcb",
+    "https://news.ycombinator.com/item?id=50431058"
+   ],
+   "topic": "usps-zip-code-boundaries-2026-11",
+   "firstSeen": "2026-11-10T06:12:26+08:00"
   }
  ],
- "lastChecked": "2026-11-10T06:00:52+08:00"
+ "lastChecked": "2026-11-10T06:12:26+08:00"
 }
