@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T00:42:01+08:00",
+ "lastUpdated": "2026-11-10T00:58:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44905,7 +44905,18 @@
    ],
    "topic": "ai-cold-email-hn-comment-2026-11",
    "firstSeen": "2026-11-10T00:42:01+08:00"
+  },
+  {
+   "id": "35743bc665",
+   "title": "加拿大实时支付系统 Real-Time Rail 正式上线：全天候实时清算结算，G7 首个上线即强制集中反欺诈",
+   "summary": "加拿大支付清算机构 Payments Canada 11 月 9 日宣布全国实时支付系统 Real-Time Rail（RTR）上线，银行、信用社和支付服务商可全年 365 天、每天 24 小时实时清算结算，采用 ISO 20022 富数据报文，由 CGI、德勤、IBM 和 Interac 参与建设。加拿大成为 G7 中首个在实时支付系统上线时就强制使用集中反欺诈服务的国家，包括收款人确认、交易风险评分、风险名单和欺诈情报平台。首批接入的有 Wealthsimple、KOHO、Paramount Commerce、美国银行等，主要银行将陆续加入，目标一年内覆盖九成以上加拿大人。C.D. Howe 研究所估计可节省最多 145 亿加元成本；此前加拿大和欧盟已承诺推动 RTR 与欧洲即时支付系统互联。对做跨境收款、金融科技出海北美的团队，这是新的接入窗口。",
+   "links": [
+    "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+    "https://news.ycombinator.com/item?id=50427362"
+   ],
+   "topic": "canada-real-time-rail-launch-2026-11",
+   "firstSeen": "2026-11-10T00:58:07+08:00"
   }
  ],
- "lastChecked": "2026-11-10T00:42:01+08:00"
+ "lastChecked": "2026-11-10T00:58:07+08:00"
 }
