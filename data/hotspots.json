@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T16:28:13+08:00",
+ "lastUpdated": "2026-11-09T16:47:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44495,7 +44495,29 @@
    ],
    "topic": "nebula-constellation-space-cloud-computing-2026-11",
    "firstSeen": "2026-11-09T16:28:13+08:00"
+  },
+  {
+   "id": "7ce0d3510c",
+   "title": "「Opus 5.5 被降智了吗？」HN 连发两帖，Claude Code 用户集中吐槽 11 月 3 日后表现变差",
+   "summary": "Hacker News 上「Is Opus 5.5 nerfed? Thinking patterns changed on November 3」一帖几小时内冲上首页，引用的推文称 Opus 5.5 的思考模式从 11 月 3 日起发生变化；前一晚另一帖「Tell HN: A flood of reports of Opus 5.5 being nerfed」汇总了 r/ClaudeCode 上十几条用户反馈，涉及性能回退、输出难以理解甚至误删数据。评论里有人称 medium 档「不再好用」，也有人建议用分布式基准持续监测，还有人怀疑厂商在上线后悄悄压成本。Anthropic 尚未公开回应，这类反馈目前仍属用户感受，未经证实。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50422069",
+    "https://news.ycombinator.com/item?id=50419019",
+    "https://twitter.com/shanemelaugh/status/2119192075505893695"
+   ],
+   "topic": "opus-5-5-nerf-reports-2026-11",
+   "firstSeen": "2026-11-09T16:47:17+08:00"
+  },
+  {
+   "id": "751b8472de",
+   "title": "近 5.5 万人联名反对谷歌在英国瑟罗克建大型数据中心：昆虫保护组织、环保团体和摩托车俱乐部结成联盟",
+   "summary": "据 WIRED 报道、IT之家转述，野生动物保护组织 Buglife 上周把一份近 5.5 万人签名的请愿书送到谷歌伦敦国王十字总部，要求放弃在伦敦以东约 24 公里的瑟罗克（Thurrock）建设大型数据中心。反对者包括担心濒危植物和稀有大黄蜂栖息地被毁的野保团体、认为数据中心污染过大的非营利组织 Foxglove，以及想收回场地恢复赛事的当地摩托车俱乐部。AI 数据中心扩张在欧洲遭遇的地方阻力越来越多元。",
+   "links": [
+    "https://www.ithome.com/1/024/357.htm"
+   ],
+   "topic": "google-thurrock-datacenter-petition-2026-11",
+   "firstSeen": "2026-11-09T16:47:17+08:00"
   }
  ],
- "lastChecked": "2026-11-09T16:28:13+08:00"
+ "lastChecked": "2026-11-09T16:47:17+08:00"
 }
