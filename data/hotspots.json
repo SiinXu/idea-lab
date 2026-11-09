@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T13:12:41+08:00",
+ "lastUpdated": "2026-11-09T13:47:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44344,7 +44344,18 @@
    ],
    "topic": "mit-worldparticle-unified-physics-sim-2026-11",
    "firstSeen": "2026-11-09T13:12:41+08:00"
+  },
+  {
+   "id": "8627f51ccc",
+   "title": "HN 热议长文《A Critique of GPUI》：Discord 拟用 Zed 的 GPUI 重写客户端，作者认为它的状态模型撑不起大型应用",
+   "summary": "开发者 zortax 11 月 8 日发表长文，评测 Zed 编辑器的 Rust 原生 GUI 框架 GPUI，以及 egui、Iced 等框架。起因是 Discord 宣布客户端将用 GPUI 重写，不少 AI 生成的应用也在选 egui。作者自测：在 3000 行的列表里改一个标签，GPUI 要 8.4 毫秒，不加缓存时高达 92 毫秒，egui 约 32 毫秒；而他参与开发、基于信号（signals）的 zgui 只要 0.69 毫秒。他的结论是：大型桌面应用需要框架自己追踪「哪个值变了、谁依赖它」，组件只运行一次、加细粒度信号是最简单的做法（他也说明 zgui 是自己的项目，数据仅供参考）。发布约 2 小时在 HN 获 46 分，Rust 原生 GUI 能否替代 Electron 正成为桌面开发的热门话题。",
+   "links": [
+    "https://blog.zortax.de/posts/a-critique-of-gpui",
+    "https://news.ycombinator.com/item?id=50420857"
+   ],
+   "topic": "critique-of-gpui-rust-gui-signals-2026-11",
+   "firstSeen": "2026-11-09T13:47:19+08:00"
   }
  ],
- "lastChecked": "2026-11-09T13:12:41+08:00"
+ "lastChecked": "2026-11-09T13:47:19+08:00"
 }
