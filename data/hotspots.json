@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T02:46:10+08:00",
+ "lastUpdated": "2026-11-10T02:53:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45008,7 +45008,18 @@
    ],
    "topic": "meta-muse-ember-launch-2026-11",
    "firstSeen": "2026-11-10T02:46:10+08:00"
+  },
+  {
+   "id": "ad049e12bd",
+   "title": "软银、Grab 与 PETROS 签约，拟投 18.5 亿美元在马来西亚建 AI 算力，长期目标 5GW",
+   "summary": "软银集团、Grab 与砂拉越国家石油公司 PETROS 于 11 月 9 日签署联合开发协议，拟以 18.5 亿美元初始种子资本在马来西亚建设 AI 基础设施，其中软银 10 亿美元、Grab 7.5 亿美元、PETROS 1 亿美元，长期目标是在砂拉越和马来西亚半岛建成 5GW 以上的 AI 算力。砂拉越项目初始投资 10 亿美元，由软银控股；半岛项目 8.5 亿美元，由 Grab 牵头并将引入长期战略投资者和项目融资。资金将按开发和客户合同里程碑分阶段投入，各方还会寻找更多投资者和超大规模云厂商客户，设施将遵循马来西亚可再生能源指引，配合该国「AI Nation 2030」计划。合资实体的最终条款仍待正式协议确定。",
+   "links": [
+    "https://group.softbank/en/news/press/20261109_0",
+    "https://theedgemalaysia.com/node/825069"
+   ],
+   "topic": "softbank-grab-petros-malaysia-ai-infra-2026-11",
+   "firstSeen": "2026-11-10T02:53:13+08:00"
   }
  ],
- "lastChecked": "2026-11-10T02:46:10+08:00"
+ "lastChecked": "2026-11-10T02:53:13+08:00"
 }
