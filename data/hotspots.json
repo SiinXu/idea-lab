@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T09:13:58+08:00",
+ "lastUpdated": "2026-11-09T10:47:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44277,7 +44277,18 @@
    ],
    "topic": "herb-sutter-p4454-cpp26-creator-vs-committee-2026-11-08",
    "firstSeen": "2026-11-09T09:13:58+08:00"
+  },
+  {
+   "id": "b4717b7762",
+   "title": "HN 热议博文《我不认为 AI 泡沫存在》：数据中心是一次性投入，推理本身很赚钱",
+   "summary": "开发者 Matteo Raso 11 月 8 日发文反驳「AI 泡沫即将破裂」的主流看法。他认为 AI 行业已承诺约 3 万亿美元、累计花费约 1.9 万亿美元，但这些主要是建设数据中心的一次性投入，而不是长期运营成本；建完后支出会大幅下降。文中引用 Anthropic S-1 文件称其每 1 美元算力可带来 2.08 美元收入，且收入已超过算力与基建投入之和。作者也承认，AI 公司通过复杂融资工具隐藏开支，这是「泡沫论」最有力的论据。发布约 3 小时内在 HN 获近 60 分。",
+   "links": [
+    "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
+    "https://news.ycombinator.com/item?id=50418975"
+   ],
+   "topic": "matteo-raso-not-convinced-ai-bubble-2026-11-08",
+   "firstSeen": "2026-11-09T10:47:51+08:00"
   }
  ],
- "lastChecked": "2026-11-09T09:13:58+08:00"
+ "lastChecked": "2026-11-09T10:47:51+08:00"
 }
