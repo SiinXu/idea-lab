@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T01:53:49+08:00",
+ "lastUpdated": "2026-11-10T02:07:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44975,7 +44975,18 @@
    ],
    "topic": "skyfall-ai-ceo-steve-2026-11",
    "firstSeen": "2026-11-10T01:53:49+08:00"
+  },
+  {
+   "id": "1a46264ab6",
+   "title": "内存涨价继续传导：树莓派 5 16GB 涨到 385 美元，不到两年前首发价才 120 美元",
+   "summary": "嵌入式媒体 CNX Software 报道，树莓派再次上调多数 16GB 内存型号价格：树莓派 5 16GB 售价升至 385 美元，比 4 月上一次涨价后又贵了 80 美元；CM5 计算模块 16GB 版涨 40 美元，无线 Lite 版起价 375 美元，只有树莓派 500+ 键盘电脑维持 410 美元起。该型号不到两年前首发时仅 120 美元。今年受内存价格高企影响的不止树莓派：4 月树莓派 4GB 以上全线涨价，7 月英伟达 Jetson 模块和开发套件最多涨 101%，10 月树莓派 2GB 型号也涨价。文章今天登上 HN，AI 带动的内存紧缺正推高创客、边缘 AI 和硬件创业的成本。",
+   "links": [
+    "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+    "https://news.ycombinator.com/item?id=50428801"
+   ],
+   "topic": "raspberry-pi-5-16gb-385-2026-11",
+   "firstSeen": "2026-11-10T02:07:42+08:00"
   }
  ],
- "lastChecked": "2026-11-10T01:53:49+08:00"
+ "lastChecked": "2026-11-10T02:07:42+08:00"
 }
