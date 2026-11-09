@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T22:18:56+08:00",
+ "lastUpdated": "2026-11-10T00:06:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44840,7 +44840,39 @@
    ],
    "topic": "meituan-longcat-2-5-open-source-2026-11",
    "firstSeen": "2026-11-09T22:18:56+08:00"
+  },
+  {
+   "id": "2bb18f2869",
+   "title": "迪士尼与 Adobe 签多年协议：用 Firefly Foundry 打造迪士尼专属「艺术家主导」生成式 AI 模型",
+   "summary": "迪士尼和 Adobe 11 月 9 日宣布多年战略合作，双方将基于 Adobe Firefly Foundry 为迪士尼共同开发专有的「艺术家主导」生成式 AI 模型，用于支持其内容制作流程。据 The Verge 报道，迪士尼还将提前获得 Adobe 的 AI 技术，用于度假区、邮轮、ESPN 体育图形等业务。这是大型内容公司用自家 IP 训练私有模型、而不是直接使用通用模型的又一个样板。",
+   "links": [
+    "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+    "https://www.reuters.com/business/media-telecom/disney-adobe-co-develop-custom-ai-models-tailored-media-giant-2026-11-09/",
+    "https://www.businesswire.com/news/home/20261109707511/en/Adobe-and-The-Walt-Disney-Company-Announce-Multi-Year-Strategic-Alliance-to-Support-Disney-Innovation-with-New-AI-Powered-Tools"
+   ],
+   "topic": "disney-adobe-firefly-foundry-2026-11",
+   "firstSeen": "2026-11-10T00:06:03+08:00"
+  },
+  {
+   "id": "b6c4ecf1f3",
+   "title": "欧盟《数字公平法》草案曝光：要求允许成年人关闭成瘾功能，并瞄准模拟恋爱关系的 AI 聊天机器人",
+   "summary": "据彭博社看到的草案，欧盟拟议中的《数字公平法》（Digital Fairness Act）将要求社交平台等公司让成年用户可以关闭容易让人上瘾的功能，同时把模拟情感或恋爱关系的 AI 聊天机器人纳入监管范围。这是继《数字服务法》之后，欧盟针对成瘾设计和 AI 陪伴类产品的新一轮约束，做陪伴类 AI 和社交产品出海欧洲的团队需要提前关注。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-09/eu-plans-crackdown-on-addictive-social-media-and-ai-bot-features"
+   ],
+   "topic": "eu-digital-fairness-act-draft-2026-11",
+   "firstSeen": "2026-11-10T00:06:03+08:00"
+  },
+  {
+   "id": "c6cd8ee6d8",
+   "title": "Medium 推出 AI 笔记与私密社交 App「TK」：2017 年以来首个重大新产品",
+   "summary": "Medium 11 月 9 日发布新 App TK，定位为由 AI 驱动的极简笔记、日记和私密社交网络，每天提供写作提示。据 The Verge 报道，这是 Medium 自 2017 年以来最大的一次新品发布，公司押注博客的未来更像群聊，Medium 也第一次不再只是一个博客平台。",
+   "links": [
+    "https://www.theverge.com/tech/1029676/medium-tk-notes-app"
+   ],
+   "topic": "medium-tk-app-2026-11",
+   "firstSeen": "2026-11-10T00:06:03+08:00"
   }
  ],
- "lastChecked": "2026-11-09T22:18:56+08:00"
+ "lastChecked": "2026-11-10T00:06:03+08:00"
 }
