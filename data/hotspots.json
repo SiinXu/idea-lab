@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T16:58:58+08:00",
+ "lastUpdated": "2026-11-09T17:09:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44537,7 +44537,17 @@
    ],
    "topic": "cn-journals-stop-email-submissions-2026-11",
    "firstSeen": "2026-11-09T16:58:58+08:00"
+  },
+  {
+   "id": "0551c01646",
+   "title": "消息称三星 Galaxy AI 将推付费订阅 Galaxy AI Premium：每月 4.99 美元，免费功能也设用量上限",
+   "summary": "据 SammyGuru 报道、IT之家转述，三星正准备测试 Galaxy AI Premium 订阅服务，月费 4.99 美元，订阅后可获得更多 AI 功能使用额度，部分功能将只对付费用户开放。早期体验计划需主动加入，测试期间的费用会退还。三星仍保留免费的 Galaxy AI 标准套餐（含浏览助手、Now Brief 等），但免费功能也会设使用上限。手机厂商的端侧 AI 正式走向收费。",
+   "links": [
+    "https://www.ithome.com/1/024/371.htm"
+   ],
+   "topic": "samsung-galaxy-ai-premium-subscription-2026-11",
+   "firstSeen": "2026-11-09T17:09:35+08:00"
   }
  ],
- "lastChecked": "2026-11-09T16:58:58+08:00"
+ "lastChecked": "2026-11-09T17:09:35+08:00"
 }
