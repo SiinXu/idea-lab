@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-09T15:53:51+08:00",
+ "lastUpdated": "2026-11-09T16:15:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44465,7 +44465,27 @@
    ],
    "topic": "samsung-sdi-boston-dynamics-atlas-battery-2026-11",
    "firstSeen": "2026-11-09T15:53:51+08:00"
+  },
+  {
+   "id": "0573fb42de",
+   "title": "阿里千问办公 2.0 发布：把 Agent 拉进工作群，多人与数字员工一起协作",
+   "summary": "据钉钉官方消息，千问办公 2.0 于 11 月 9 日发布，定位为面向个人与组织协作的 Team Agent。新版首推「协作」功能，可以组建团队成员和数字员工共同工作的协作空间，把 Agent 直接带进工作群；同时上线「人机共创」「资料空间」「自动任务」和「三端互联」等能力，所有功能已在千问办公客户端全量上线。办公 Agent 正从个人助手走向团队协作。",
+   "links": [
+    "https://www.ithome.com/1/024/350.htm"
+   ],
+   "topic": "qwen-office-2-team-agent-2026-11",
+   "firstSeen": "2026-11-09T16:15:25+08:00"
+  },
+  {
+   "id": "a2e769563f",
+   "title": "谷歌 Firebase Studio 将于 2027 年 3 月 22 日关闭，用户需迁往 Antigravity 或 AI Studio",
+   "summary": "据 Engadget 报道、IT之家转述，谷歌在线 IDE Firebase Studio 即将停用：新建工作区和注册已于今年 6 月关闭，现有用户可继续使用并迁移，但 2027 年 3 月 22 日正式关闭后，剩余数据将永久删除。谷歌建议用户转向 Google Antigravity 或 Google AI Studio。这款 2025 年 4 月才以预览版推出的 AI 开发工具不到两年就被收编，谷歌的 AI 编程产品线正在集中。",
+   "links": [
+    "https://www.ithome.com/1/024/345.htm"
+   ],
+   "topic": "google-firebase-studio-shutdown-2027-03",
+   "firstSeen": "2026-11-09T16:15:25+08:00"
   }
  ],
- "lastChecked": "2026-11-09T15:53:51+08:00"
+ "lastChecked": "2026-11-09T16:15:25+08:00"
 }
