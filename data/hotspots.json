@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T01:43:21+08:00",
+ "lastUpdated": "2026-11-10T01:53:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -44963,7 +44963,19 @@
    ],
    "topic": "expo-exact-agent-native-framework-2026-11",
    "firstSeen": "2026-11-10T01:43:21+08:00"
+  },
+  {
+   "id": "ecdb7b5852",
+   "title": "Skyfall AI 推出「AI CEO」Steve：收购三家小公司交给 AI 自主经营，再拿 200 万美元收购 5 家初创",
+   "summary": "由微软收购的深度学习实验室 Maluuba 原班人马创办的旧金山公司 Skyfall AI 11 月 9 日发布 Steve-001，称其为「自主经营业务的框架」，基于世界模型、递归自我改进、模拟和一组专职 AI 智能体，可运营 SaaS 产品、Shopify 应用等数字业务。Skyfall 已收购三家小型数字业务交给 Steve 运营（两家两个多月，一家一周），X 上流传其中一家营收增长 2.3 倍至 8307 美元。人类老板仍负责定方向和关键决策：策略引擎会按金额、客户影响等规则把每个动作分成自动执行、执行并通知、需审批或拦截四级，例如 30 美元以下退款可自动办理。公司同时推出 200 万美元「Steve 创业计划」，再收购 5 家初创完全交给 Steve 运营，并为每个项目开放公开看板。对一人公司和「AI 自动赚钱」方向是值得跟踪的样本。",
+   "links": [
+    "https://thenextweb.com/news/skyfall-ai-steve-001-autonomous-business",
+    "https://www.webwire.com/ViewPressRel.asp?SESSIONID=&aId=363914",
+    "https://x.com/i/trending/2119844239635017873"
+   ],
+   "topic": "skyfall-ai-ceo-steve-2026-11",
+   "firstSeen": "2026-11-10T01:53:49+08:00"
   }
  ],
- "lastChecked": "2026-11-10T01:43:21+08:00"
+ "lastChecked": "2026-11-10T01:53:49+08:00"
 }
