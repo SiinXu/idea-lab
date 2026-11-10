@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T01:28:46+08:00",
+ "lastUpdated": "2026-11-11T01:56:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45497,7 +45497,18 @@
    ],
    "topic": "dot-name-grandfathered",
    "firstSeen": "2026-11-11T01:28:46+08:00"
+  },
+  {
+   "id": "de95d8349f",
+   "title": "Chips and Cheese 深度实测 AMD Zen 6：EPYC 9686F 单线程比上代 EPYC 9575F 快约 21%，Zen 6c 首次在核心架构上与 Zen 6 分道",
+   "summary": "硬件评测站 Chips and Cheese 11 月 10 日发布 AMD 新一代 Zen 6 CPU 核心家族的微架构深度测试。要点：单线程终于能同时用上两组解码器；分支预测失误的代价更小；AI 量化推理常用的 VNNI 单元从 2 个翻倍到 4 个，512 位 VNNI 吞吐近乎翻倍；整数乘法单元则从 3 个减到 2 个。最大变化是「经典核」Zen 6 和「高密度核」Zen 6c 首次在乱序执行结构上不同：Zen 6c 的重排序缓冲区（640 对 576 项）等结构更大，更能扛内存延迟，Zen 6 则偏向高频。两者每核都有 4 MB L3，12 核 CCD 共 48 MB、32 核 CCD 共 128 MB。按估算的 SPEC CPU 2026 单线程成绩，EPYC 9686F（Zen 6）比 Zen 5 的 EPYC 9575F 整数快约 21%、浮点快约 18%；EPYC 9996（Zen 6c）频率低约 900 MHz 却与 9575F 持平，浮点比英伟达 Vera 高约 20%。",
+   "links": [
+    "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+    "https://news.ycombinator.com/item?id=50443090"
+   ],
+   "topic": "amd-zen-6",
+   "firstSeen": "2026-11-11T01:56:05+08:00"
   }
  ],
- "lastChecked": "2026-11-11T01:28:46+08:00"
+ "lastChecked": "2026-11-11T01:56:05+08:00"
 }
