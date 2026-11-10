@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T06:30:56+08:00",
+ "lastUpdated": "2026-11-10T09:08:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45147,7 +45147,19 @@
    ],
    "topic": "meta-fair-e-means-2026-11",
    "firstSeen": "2026-11-10T06:30:56+08:00"
+  },
+  {
+   "id": "8588438c1b",
+   "title": "开源网站 Watched 走红：输入任意地点，查出过去 7 天所有飞过头顶的卫星和它们真实拍到的照片",
+   "summary": "独立开发者在 Hacker News 发布 Watched（watched.earth），冲上首页、获 200 多赞。输入任何地点，网站用 SGP4 轨道算法和 CelesTrak 卫星目录，在浏览器里约半秒算出过去 7 天经过该地的所有卫星，再调取对应过境的 Sentinel-2、Landsat 和 NASA 真实影像；只有确实存在照片时才显示「被拍到」，且不保存用户位置。在轨约 1.7 万个物体全部用 GPU 实时绘制。代码已在 GitHub 开源（dev-Armaan/satellites）。评论区从事地理空间工作的用户称赞它能看到卫星拍下的具体影像，也有人用它规划徒步路线。这类把公开遥感数据做成好玩、可分享的消费级产品，是值得关注的创意方向。",
+   "links": [
+    "https://www.watched.earth",
+    "https://github.com/dev-Armaan/satellites",
+    "https://news.ycombinator.com/item?id=50428907"
+   ],
+   "topic": "watched-earth-satellite-passes-2026-11",
+   "firstSeen": "2026-11-10T09:08:54+08:00"
   }
  ],
- "lastChecked": "2026-11-10T06:30:56+08:00"
+ "lastChecked": "2026-11-10T09:08:54+08:00"
 }
