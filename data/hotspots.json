@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T20:31:32+08:00",
+ "lastUpdated": "2026-11-10T21:12:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45417,7 +45417,20 @@
    ],
    "topic": "deepmind-alphaproof-code-signal",
    "firstSeen": "2026-11-10T20:31:32+08:00"
+  },
+  {
+   "id": "26b496ffaa",
+   "title": "Anthropic 正式启动 IPO 路演：每股 70–78 美元，最多募资 644 亿美元，完全稀释估值最高约 1.4 万亿美元，代码 ANT",
+   "summary": "Anthropic 今天发布路演公告：计划发行 8.25 亿股 A 类普通股（其中约 8.01 亿股由公司发行、约 2365 万股由老股东出售），发行价区间 70–78 美元，申请在纳斯达克上市，代码「ANT」。按区间上限计算最多募资约 644 亿美元，完全稀释估值最高约 1.4 万亿美元，高于 5 月融资时的 9650 亿美元，但低于此前市场传的 2 万亿美元。CNBC 援引知情人士称，计划 11 月 18 日定价、19 日开始交易，散户配售比例约 20%，远高于一般 IPO 的 5%–10%，机构认购在该价格区间已足额覆盖；另有约 260 亿美元的战略投资者定向配售，合计募资或达 904 亿美元，有望成为仅次于 SpaceX 的史上第二大 IPO。",
+   "links": [
+    "https://www.anthropic.com/news/roadshow-launch",
+    "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+    "https://www.bbc.com/news/articles/crpdgd723x2zo",
+    "https://news.ycombinator.com/item?id=50439728"
+   ],
+   "topic": "anthropic-ipo-price-range-roadshow",
+   "firstSeen": "2026-11-10T21:12:00+08:00"
   }
  ],
- "lastChecked": "2026-11-10T20:31:32+08:00"
+ "lastChecked": "2026-11-10T21:12:00+08:00"
 }
