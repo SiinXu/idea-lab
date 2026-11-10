@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T00:24:36+08:00",
+ "lastUpdated": "2026-11-11T00:45:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45475,7 +45475,18 @@
    ],
    "topic": "gemini-4-carbon-ga",
    "firstSeen": "2026-11-11T00:24:36+08:00"
+  },
+  {
+   "id": "5bbcdb1d75",
+   "title": "Blender 5.3 发布：原生支持 3D 高斯泼溅（Gaussian Splats），可直接导入并用 EEVEE/Cycles 渲染，还加入 DLSS 4.5 降噪",
+   "summary": "开源 3D 软件 Blender 发布 5.3 版本，最大亮点是原生支持 3D 高斯泼溅：用照片或视频重建出的 3D 场景（PLY、SPZ、glTF 格式）可以直接导入为点云，用几何节点加工，并在 EEVEE、Cycles 中渲染，还能初步重新打光。这意味着手机扫描、AI 重建的场景能直接进入主流 3D 制作流程。其他更新：集成英伟达 DLSS 4.5 光线重建降噪，视口接近最终渲染质量；Principled BSDF 支持色散，玻璃和钻石能折射出彩虹；新增材质光照节点，方便做卡通渲染；EEVEE 支持全景和鱼眼相机；场景特效可像修改器一样堆叠（泛光、色差、胶片颗粒）；新增「项目」功能管理多文件；资产库可作为扩展分发，Poly Haven 免费素材可直接在 Blender 内安装；视频剪辑器加入波纹剪辑并初步支持 OpenTimelineIO；侧边栏支持 Ctrl/Cmd+F 搜索。",
+   "links": [
+    "https://www.blender.org/download/releases/5-3/",
+    "https://news.ycombinator.com/item?id=50442426"
+   ],
+   "topic": "blender-5-3",
+   "firstSeen": "2026-11-11T00:45:08+08:00"
   }
  ],
- "lastChecked": "2026-11-11T00:24:36+08:00"
+ "lastChecked": "2026-11-11T00:45:08+08:00"
 }
