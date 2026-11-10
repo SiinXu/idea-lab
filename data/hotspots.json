@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T12:11:14+08:00",
+ "lastUpdated": "2026-11-10T13:28:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45258,7 +45258,18 @@
    ],
    "topic": "claude-fable-5-2-artificial-analysis-index-65",
    "firstSeen": "2026-11-10T12:11:14+08:00"
+  },
+  {
+   "id": "9ea479c217",
+   "title": "开源 AI 炒股助手 daily_stock_analysis 再上 GitHub 日榜：星标近 7 万、单日 +500，v3.34.0 更新默认大模型并加安全中间件",
+   "summary": "国内开发者 ZhuLinsen 的开源项目 daily_stock_analysis 今天出现在 GitHub Trending 日榜，单日新增约 506 星，总星标约 6.9 万。它用大模型做多市场股票分析：汇总多源行情和实时新闻，生成决策看板并自动推送，可借 GitHub Actions 等方式零成本定时运行。11 月 9 日发布的 v3.34.0 新增可选的 FastAPI 安全中间件、定时模式可跳过重复的启动分析，并更新 Claude、Gemini、OpenAI、DeepSeek 的默认模型，新建渠道优先选用 MiniMax M3.1 Flash，以减少旧模型退役导致的配置失败；同时修复研究报告合成阶段预算过短、Telegram 消息长度计算等问题。说明「个人 AI 投研 + 自动推送」这类工具仍有很强的需求。",
+   "links": [
+    "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "https://github.com/ZhuLinsen/daily_stock_analysis/releases/tag/v3.34.0"
+   ],
+   "topic": "daily-stock-analysis-trending-v3-34-0",
+   "firstSeen": "2026-11-10T13:28:05+08:00"
   }
  ],
- "lastChecked": "2026-11-10T12:11:14+08:00"
+ "lastChecked": "2026-11-10T13:28:05+08:00"
 }
