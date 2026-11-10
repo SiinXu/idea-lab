@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T02:52:55+08:00",
+ "lastUpdated": "2026-11-11T03:11:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45530,7 +45530,18 @@
    ],
    "topic": "displaylink-patent",
    "firstSeen": "2026-11-11T02:52:55+08:00"
+  },
+  {
+   "id": "f8fef665ff",
+   "title": "“智能家居断网也该能用”冲上 HN 热榜：十年本地优先实践总结出 11 条规则，评论区晒出一堆离谱的联网依赖",
+   "summary": "开发者 Spencer Kittleson 发文总结自己十年来的家庭自动化原则：核心设备绝不依赖厂商服务器，断网后灯、锁、温控照常工作。他的方案基于 ESP 板刷 Tasmota 固件、MQTT 消息总线和树莓派上的 Node-RED，Alexa 只是“又一个开关入口”。文中列出 11 条规则，包括保留原有墙壁开关、云设备必须有带日志的 API、配置集中在一处、设备间用发布/订阅通信、电池至少一年一换等，并预告下一场分享会讨论 AI 智能体控制家居时的新规则。读者反馈里满是反面案例：断网无法切换输入源的电视、厂商倒闭后变砖的肉类温度计、要云登录才能首次使用的合成器。有读者建议买最便宜的硬件，再让大模型帮忙找本地优先的开源固件。文章在 Hacker News 获得 260 多分。",
+   "links": [
+    "https://docodethatmatters.com/home-automation-overnight-success/",
+    "https://news.ycombinator.com/item?id=50441707"
+   ],
+   "topic": "local-first-smart-home",
+   "firstSeen": "2026-11-11T03:11:04+08:00"
   }
  ],
- "lastChecked": "2026-11-11T02:52:55+08:00"
+ "lastChecked": "2026-11-11T03:11:04+08:00"
 }
