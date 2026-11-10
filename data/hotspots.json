@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T19:29:11+08:00",
+ "lastUpdated": "2026-11-10T19:43:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45395,7 +45395,18 @@
    ],
    "topic": "global-carbon-budget-2026",
    "firstSeen": "2026-11-10T19:29:11+08:00"
+  },
+  {
+   "id": "534e23320d",
+   "title": "前 Meta 工程师长文冲上 HN：AI 生成代码让代码库越来越脆弱，事故变多、修复变慢",
+   "summary": "Evan X. Merz 在博客中说，他在 Meta 时 90% 的代码已由 AI 生成（这是拿到像样绩效的最低要求），5 月被裁后到另一家大厂，现在 100% 用 AI 写代码。他总结了 AI 让代码库变脆弱的四个原因：测试浅、只测 getter/setter 和已覆盖路径；代码过度抽象；人越来越看不懂代码；PR 来得太快、审查只能扫一眼。他也列出了四个征兆：转向智能体编程一两年后事故明显增多、修复更慢、出现只有真实用户才看得到的错误、用户体验变差。文章今天在 Hacker News 快速上升，再次引发「AI 写代码的长期技术债」讨论。",
+   "links": [
+    "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+    "https://news.ycombinator.com/item?id=50438318"
+   ],
+   "topic": "ai-fragile-codebase",
+   "firstSeen": "2026-11-10T19:43:47+08:00"
   }
  ],
- "lastChecked": "2026-11-10T19:29:11+08:00"
+ "lastChecked": "2026-11-10T19:43:47+08:00"
 }
