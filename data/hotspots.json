@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T21:12:00+08:00",
+ "lastUpdated": "2026-11-10T21:37:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45430,7 +45430,18 @@
    ],
    "topic": "anthropic-ipo-price-range-roadshow",
    "firstSeen": "2026-11-10T21:12:00+08:00"
+  },
+  {
+   "id": "c07cc0e96e",
+   "title": "Ableton 发布 Live 13：内置步进音序器、支持 ARA 2 插件（Suite 附送 Melodyne essential），2027 年初正式上市",
+   "summary": "音乐制作软件 Ableton 今天公布下一代 DAW Live 13，HN 上关注度正在上升。新版本加入内置步进音序器片段、ARA 2 插件支持（可直接在 Live 里用 Melodyne 等做精细音频编辑）、可选 20 多种引擎的 Drum Synth 鼓合成器、「Capture Automation」（边调参数边捕捉成自动化）、在设备链和调音台里直接换预设的上下文浏览，以及新的多段和中侧（Mid-Side）Rack、最多 32 个宏控制等。Push 3 同步获得自定义布局、步进音序器和演出调音台。正式版 2027 年初推出；Live 12 用户现在预购 Live 13 打八折，新用户现在买 Live 12 可在发布日免费获得对应的 Live 13 版本，Standard 和 Suite 用户可申请有限名额的公测。",
+   "links": [
+    "https://www.ableton.com/en/live/",
+    "https://news.ycombinator.com/item?id=50439695"
+   ],
+   "topic": "ableton-live-13",
+   "firstSeen": "2026-11-10T21:37:40+08:00"
   }
  ],
- "lastChecked": "2026-11-10T21:12:00+08:00"
+ "lastChecked": "2026-11-10T21:37:40+08:00"
 }
