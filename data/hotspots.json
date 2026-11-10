@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T09:08:54+08:00",
+ "lastUpdated": "2026-11-10T10:29:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45159,7 +45159,18 @@
    ],
    "topic": "watched-earth-satellite-passes-2026-11",
    "firstSeen": "2026-11-10T09:08:54+08:00"
+  },
+  {
+   "id": "4c1a7c570c",
+   "title": "YC 掌门人 Garry Tan 的开源智能体记忆库 GBrain 冲上 GitHub 热榜：星标超 3.2 万，让多个 AI 助手共用一套可控记忆",
+   "summary": "Y Combinator 总裁 Garry Tan 发起的开源项目 GBrain（garrytan/gbrain）登上 GitHub 每日趋势榜，星标已超过 3.2 万。它给用户已在用的 AI 智能体加一层「自己掌控的记忆」：记录明确的事实及其来源，支持更正和撤回，并让同一份记忆在多个智能体之间共享。起步可以不需要 API 密钥、只用关键词检索，需要时再加语义搜索、归纳整理和后台信息补全；还支持把技能和知识放在一起，按授权共享给团队。项目采用 MIT 许可、可免费自托管，另有付费托管版 gbrain.io，可接入 ChatGPT、Claude 和 Cursor。跨智能体的共享记忆正在成为 AI 助手的基础设施方向。",
+   "links": [
+    "https://github.com/garrytan/gbrain",
+    "https://gbrain.io/"
+   ],
+   "topic": "garrytan-gbrain-agent-memory-2026-11",
+   "firstSeen": "2026-11-10T10:29:03+08:00"
   }
  ],
- "lastChecked": "2026-11-10T09:08:54+08:00"
+ "lastChecked": "2026-11-10T10:29:03+08:00"
 }
