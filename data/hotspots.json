@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T01:56:05+08:00",
+ "lastUpdated": "2026-11-11T02:15:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45508,7 +45508,18 @@
    ],
    "topic": "amd-zen-6",
    "firstSeen": "2026-11-11T01:56:05+08:00"
+  },
+  {
+   "id": "d438bd2ee1",
+   "title": "在线写代码即部署平台 Val Town 宣布关停：今天停止新注册，12 月 10 日转只读，明年 1 月 10 日全面下线，2 月 1 日开源",
+   "summary": "Val Town 创始人 Steve Krouse 11 月 10 日发文宣布逐步关停这家运营四年的平台。Val Town 让开发者在浏览器里写几行 TypeScript 就能直接得到 API、定时任务、邮件处理和小网站，是很多独立开发者和 AI 小工具的托管地。官方承认「在云计算领域竞争不过」。时间表：今天起停止新注册和升级，并暂停收费（现有订阅免费服务到底，年付用户部分退款）；2026 年 12 月 10 日进入只读模式（SQLite 和 Blob 存储除外）；2027 年 1 月 10 日所有服务下线；2027 年 2 月 1 日将 Val Town 开源。官方提供迁移到 Cloudflare、Vercel、Netlify、Render 的指南，并表示现在的大模型很擅长做这类迁移。对仍在 Val Town 上跑脚本或定时任务的人来说，需要在一个月内迁走。",
+   "links": [
+    "https://blog.val.town/winding-down",
+    "https://news.ycombinator.com/item?id=50443427"
+   ],
+   "topic": "val-town-shutdown",
+   "firstSeen": "2026-11-11T02:15:15+08:00"
   }
  ],
- "lastChecked": "2026-11-11T01:56:05+08:00"
+ "lastChecked": "2026-11-11T02:15:15+08:00"
 }
