@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T06:29:29+08:00",
+ "lastUpdated": "2026-11-11T06:53:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45646,7 +45646,18 @@
    ],
    "topic": "apple-harbor-local-ai",
    "firstSeen": "2026-11-11T06:29:29+08:00"
+  },
+  {
+   "id": "f7afa1dd4c",
+   "title": "VulnCheck 盘点 Anthropic Glasswing 七个月成绩：3.8 万条发现仅 217 条已修复，curl 审核 34 份 AI 报告中 19 份不是漏洞",
+   "summary": "漏洞情报公司 VulnCheck 11 月 10 日发布 Project Glasswing 第七个月追踪报告。作者统计，今年至今可归因于 Anthropic 的 CVE 共 442 个，约占全年 93,450 个 CVE 的 0.5%，其中仅 2 个被确认遭在野利用。Anthropic 自己的披露台账（11 月 2 日更新）列出 37,966 条发现，只有 7,349 条（19.4%）公开、217 条标记为已修复；9 月以来新增近 1.2 万条发现，却只多修复 15 条；被标为重复的有 1,654 条，是修复数的近 8 倍，另有 419 条撤回，但台账宣称的真阳性率反而从 90.8% 升到 94.2%。报告还指出，10 月上线的 OSS Scanner 报告完全由模型生成、未经人工复核，把核实工作转嫁给维护者：curl 收到 45 份报告，已公开的 34 份中 19 份被判定不是漏洞，6 份确认为低危，9 份待评估，误报率约 56%。作者认为 AI 找漏洞确实有效，但 Glasswing 的“高危、严重”叙事与实际结果差距明显。文章刚上 HN。",
+   "links": [
+    "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+    "https://news.ycombinator.com/item?id=50447074"
+   ],
+   "topic": "glasswing-vulncheck-november",
+   "firstSeen": "2026-11-11T06:53:54+08:00"
   }
  ],
- "lastChecked": "2026-11-11T06:29:29+08:00"
+ "lastChecked": "2026-11-11T06:53:54+08:00"
 }
