@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T10:29:03+08:00",
+ "lastUpdated": "2026-11-10T10:59:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45170,7 +45170,30 @@
    ],
    "topic": "garrytan-gbrain-agent-memory-2026-11",
    "firstSeen": "2026-11-10T10:29:03+08:00"
+  },
+  {
+   "id": "f37b680abc",
+   "title": "OpenAI 公开内部「急停系统」Control Room：研究用模型出问题时，35 秒内可切断其全部输出",
+   "summary": "OpenAI 发文介绍内部系统 Control Room，用来集中追踪研究基础设施上的所有模型任务，并在出现安全或安保隐患时快速叫停。它覆盖强化学习训练、评测、大规模采样和数据处理等研究任务，并与模型失控监测系统联动：一旦决定干预，35 秒内即可阻止该任务继续产生任何模型输出。机制是每个任务先向 Control Room 登记、拿到任务编号，推理引擎每次生成前都要向它确认任务是否仍被允许；被叫停的任务会被拒绝。35 秒的延迟来自授权缓存，OpenAI 正努力降到零。系统采用「出故障即停止」设计，Control Room 自身宕机时也会停止输出；所有做智能体推理的研究任务都必须有经过批准的安全论证。它已部署在全部研究基础设施上，对外服务的模型则另有下线机制。随着智能体越来越强，「刹车」正从模型内部转移到基础设施层。",
+   "links": [
+    "https://openai.com/index/control-room",
+    "https://interestingengineering.com/ai-robotics/openai-control-room-35-second-model-shutdown"
+   ],
+   "topic": "openai-control-room-2026-11",
+   "firstSeen": "2026-11-10T10:59:05+08:00"
+  },
+  {
+   "id": "7cd5e10290",
+   "title": "英伟达发布开放机器人模型 GR00T 2：看人类视频学技能，每个任务 5 次示范成功率达 95%，富士康、西门子已在试用",
+   "summary": "英伟达在美国奥斯汀的机器人学习大会 CoRL 2026 上发布 GR00T 2，这是基于 Cosmos 的开放「世界动作模型」：用一个扩散模型同时预测未来画面和机器人动作，训练数据包括 10 万小时英伟达开源的人类第一视角视频。官方数据显示，它不做针对性示范就能完成 50 项测试任务中的 40 项（至少成功一次）；每个任务给 1 次示范，平均成功率 71%，给 5 次可达 95%（研究页称 5 次示范、不到 3 分钟的机器人数据，在单张 RTX 5090 上微调 30 分钟即可）。它能把从人类示范学到的技能迁移到不同机器人身体上，AI 智能体还可通过接口按顺序调度技能并自动纠错；另有 20 亿参数的轻量版 GR00T 2 Turbo。富士康用于服务器制造自动化，西门子在评估工业用例。同时发布的开源训练框架 Isaac Lab 3.0 在灵巧操作测试中训练吞吐量最高提升 2.5 倍。英伟达尚未公布模型权重和数据集的发布时间与许可。",
+   "links": [
+    "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+    "https://research.nvidia.com/labs/gear/gr00t-2/",
+    "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/"
+   ],
+   "topic": "nvidia-gr00t-2-corl-2026",
+   "firstSeen": "2026-11-10T10:59:05+08:00"
   }
  ],
- "lastChecked": "2026-11-10T10:29:03+08:00"
+ "lastChecked": "2026-11-10T10:59:05+08:00"
 }
