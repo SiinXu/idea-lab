@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T11:29:00+08:00",
+ "lastUpdated": "2026-11-10T11:47:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45224,7 +45224,30 @@
    ],
    "topic": "tencent-yuanqi-shutdown-2026-11",
    "firstSeen": "2026-11-10T11:29:00+08:00"
+  },
+  {
+   "id": "656bab2af3",
+   "title": "波士顿动力给 Atlas 人形机器人换上轮子：没人教它怎么滑，强化学习自己学会冲刺、侧滑和原地跳转 360 度",
+   "summary": "波士顿动力 11 月 9 日发布约 3 分钟的视频「Atlas On a Roll」，把 Atlas 人形机器人的双脚换成市售滑板车轮，只多做了一个连接脚踝的转接件。机器人在模拟仓库里高速滑行、急转、侧向冲刺，还能原地跳起转一圈，并完成取箱、下蹲、够高处等动作。控制工程师 Andy Wu 介绍，轮子不是重点，目的是把执行器推到性能极限、检验电机模型是否准确；滑行动作是全身强化学习在 DeepMind 的 MuJoCo 仿真里自己学出来的，几乎完美迁移到真机，侧滑动作也是策略自己发现可以用轮子完成；360 度跳转用人类动作捕捉数据训练，第一次上真机就成功。公司强调带轮版不是产品，相关改进已用于标准双足 Atlas，后者目标是 2028 年进工厂。",
+   "links": [
+    "https://bostondynamics.com/blog/atlas-on-a-roll/",
+    "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
+    "https://www.theverge.com/tech/1029779/boston-dynamics-atlas-robot-balance-wheels"
+   ],
+   "topic": "boston-dynamics-atlas-on-wheels-2026-11",
+   "firstSeen": "2026-11-10T11:47:20+08:00"
+  },
+  {
+   "id": "458bb1a34b",
+   "title": "AI 借钱越来越贵：CoreWeave 债券收益率突破 16%，英伟达、博通、亚马逊的违约保险成本一个月涨四到八成",
+   "summary": "CNBC 报道（今天登上 Hacker News 热榜），AI 数据中心的融资成本正在上升。云算力公司 CoreWeave 票面利率 9.625% 的 2032 年债券收益率已升破 16%，五年期信用违约互换（CDS）一度超过 1289 个基点，高于 10 月峰值。即便是资产负债表最强的公司，市场也在要更多违约保护：英伟达 CDS 一个月涨 76%，博通涨 49%，亚马逊涨 44%（绝对水平仍低，英伟达约 139 个基点，甲骨文约 298）。背景是美国中期选举后，俄亥俄、得州、佐治亚三个数据中心大州换上民主党州长，高盛估计暂停令可能影响全美 45% 的规划算力。高盛统计 10 月 29 日以来已有 5 笔 AI 债券共 670 亿美元，并预计明年超大规模云厂商发债 4400 亿美元；Jefferies 策略师说，AI 军备竞赛最可能的结局是「信用卡被收走」。",
+   "links": [
+    "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+    "https://news.ycombinator.com/item?id=50435660"
+   ],
+   "topic": "coreweave-bond-yield-ai-credit-stress-2026-11",
+   "firstSeen": "2026-11-10T11:47:20+08:00"
   }
  ],
- "lastChecked": "2026-11-10T11:29:00+08:00"
+ "lastChecked": "2026-11-10T11:47:20+08:00"
 }
