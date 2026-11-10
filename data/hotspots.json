@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T18:14:49+08:00",
+ "lastUpdated": "2026-11-10T19:29:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45384,7 +45384,18 @@
    ],
    "topic": "queens-library-ransomware",
    "firstSeen": "2026-11-10T18:14:49+08:00"
+  },
+  {
+   "id": "367299b068",
+   "title": "《2026 全球碳预算》：化石燃料碳排放今年预计下降 0.4%，光伏、风电、电动车接住了三分之二的新增能源需求",
+   "summary": "全球碳计划（Global Carbon Project）今天发布第 21 版年度报告：2026 年化石燃料 CO2 排放预计为 382 亿吨，同比下降 0.4%，原因一是光伏、风电和电动车扩张，二是伊朗冲突引发能源冲击、石油排放下降 1.9%。中国预计下降 0.9%，全球因可再生能源和电动车避免的排放有一半在中国；美国降 1.3%，欧盟降 1.5%，印度增 4.4%。但计入毁林等土地利用排放后，总排放仍升至 433 亿吨；1.5°C 剩余碳预算只剩 1500 亿吨，按当前速度不到四年用完。同期《自然·气候变化》论文认为，清洁能源再加速，几年内全球排放就可能真正见顶回落。",
+   "links": [
+    "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+    "https://news.ycombinator.com/item?id=50437752"
+   ],
+   "topic": "global-carbon-budget-2026",
+   "firstSeen": "2026-11-10T19:29:11+08:00"
   }
  ],
- "lastChecked": "2026-11-10T18:14:49+08:00"
+ "lastChecked": "2026-11-10T19:29:11+08:00"
 }
