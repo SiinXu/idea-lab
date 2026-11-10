@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T11:47:20+08:00",
+ "lastUpdated": "2026-11-10T12:11:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45247,7 +45247,18 @@
    ],
    "topic": "coreweave-bond-yield-ai-credit-stress-2026-11",
    "firstSeen": "2026-11-10T11:47:20+08:00"
+  },
+  {
+   "id": "255b56db4a",
+   "title": "第三方评测出炉：Claude Fable 5.2（Max 档）在 Artificial Analysis 智能指数拿下 65 分登顶，但也是最慢、最贵的模型之一",
+   "summary": "独立评测机构 Artificial Analysis 公布 Claude Fable 5.2（Max 推理档）的成绩：智能指数 65 分，在 74 个可比模型中排名第一（同类中位数 40），该消息今天冲上 Hacker News 热榜（300+ 分）。代价同样醒目：首个回答 token 平均要等约 216 秒，每道评测题平均耗时 46.4 分钟（中位数 12.6 分钟），完成整套评测共输出 2.75 亿 token，是中位数的近 4 倍；价格为每百万输入 8 美元、输出 40 美元，平均每道题花费 26.54 美元，速度和成本排名都垫底。支持文本和图片输入、100 万 token 上下文。对开发者而言，意味着最强推理适合高价值难题，日常任务仍需权衡速度与成本。",
+   "links": [
+    "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "https://news.ycombinator.com/item?id=50431144"
+   ],
+   "topic": "claude-fable-5-2-artificial-analysis-index-65",
+   "firstSeen": "2026-11-10T12:11:14+08:00"
   }
  ],
- "lastChecked": "2026-11-10T11:47:20+08:00"
+ "lastChecked": "2026-11-10T12:11:14+08:00"
 }
