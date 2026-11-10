@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T03:59:19+08:00",
+ "lastUpdated": "2026-11-11T04:27:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45566,7 +45566,18 @@
    ],
    "topic": "starlink-mini-2",
    "firstSeen": "2026-11-11T03:59:19+08:00"
+  },
+  {
+   "id": "7737e173e3",
+   "title": "Anthropic 推出 Claude Whiteboards 与 Claude Sheets（测试版），Claude Dashboards 正式上线并更名 Claude Data：白板、表格、数据看板都能在 Claude 里协作完成",
+   "summary": "Anthropic 11 月 10 日宣布：Claude Whiteboards 和 Claude Sheets 开启测试，Claude Dashboards 结束测试、正式更名为 Claude Data，所有付费套餐可用，支持网页、桌面和移动端。Whiteboards 是团队与 Claude 共同头脑风暴的共享白板，能把口述的零散计划整理成带负责人和日期的时间线，复盘会上自动按主题归类便签、起草每人的行动项，完成后可转成文档或演示稿，或导入 Lucid、Miro 等工具。Sheets 可以一句话生成带多个标签页、公式、格式和下拉菜单的表格，逐格编辑并标注改动，可导出 .xlsx/CSV 或接入 Airtable、Asana、monday.com、Smartsheet。Claude Data 连接 Redshift、BigQuery、ClickHouse 等数据源，新增认证查询（统一指标口径）、数据故事、实时分享、设计系统、缓存和版本回滚，合作方包括 Amplitude、Mixpanel、PostHog 等。同时，交互式连接器现在可以在对话旁以完整应用形式打开 Adobe、Atlassian、Box、Notion。消息登上 Hacker News 首页，被视为 Claude 正从聊天助手扩展为办公协作套件。",
+   "links": [
+    "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "https://news.ycombinator.com/item?id=50443716"
+   ],
+   "topic": "claude-sheets-whiteboards-data",
+   "firstSeen": "2026-11-11T04:27:44+08:00"
   }
  ],
- "lastChecked": "2026-11-11T03:59:19+08:00"
+ "lastChecked": "2026-11-11T04:27:44+08:00"
 }
