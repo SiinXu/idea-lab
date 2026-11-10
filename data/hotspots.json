@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T06:09:36+08:00",
+ "lastUpdated": "2026-11-11T06:29:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45635,7 +45635,18 @@
    ],
    "topic": "mozilla-fingerprinting-study",
    "firstSeen": "2026-11-11T06:09:36+08:00"
+  },
+  {
+   "id": "77d255b4e9",
+   "title": "苹果被曝在做 Mac 新应用 Harbor：把 Mac 变成私有 AI 推理服务器，多台 Mac 可经雷雳 5 合并统一内存跑大模型",
+   "summary": "9to5Mac 11 月 10 日报道，爆料人 Aaron Perris 在 X 上发现苹果正在开发一款名为 Harbor 的 Mac 应用。按其描述，Harbor 能把 Mac 变成私有 AI 推理服务器，在 Apple Silicon 上本地运行开源权重模型，数据不离开本机、不上云；还能通过雷雳 5 连接多台 Mac，汇集统一内存，从而跑单台机器带不动的大模型，并支持更高并发。报道称 Harbor 目前以苹果旗下 Claris 品牌进行私下预览，可能在未来数周到数月内公开发布。今年 Mac Studio、Mac mini 等机型因适合本地跑模型而走红，Harbor 意味着苹果打算官方入局本地推理这一用法，对 Ollama、LM Studio、exo 等本地推理和 Mac 集群工具形成直接竞争。该消息正在 HN 首页上升。",
+   "links": [
+    "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "https://news.ycombinator.com/item?id=50446520"
+   ],
+   "topic": "apple-harbor-local-ai",
+   "firstSeen": "2026-11-11T06:29:29+08:00"
   }
  ],
- "lastChecked": "2026-11-11T06:09:36+08:00"
+ "lastChecked": "2026-11-11T06:29:29+08:00"
 }
