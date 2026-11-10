@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T16:16:06+08:00",
+ "lastUpdated": "2026-11-10T16:24:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45363,7 +45363,17 @@
    ],
    "topic": "kirin-9050-logic-folding-tau-chip",
    "firstSeen": "2026-11-10T16:16:06+08:00"
+  },
+  {
+   "id": "5427c369cf",
+   "title": "Notion 披露：AI 推理供应商 Fireworks 遭入侵，不到 1% 工作区的 Notion AI 聊天记录可能外泄",
+   "summary": "Notion 发布安全通告：11 月 6 日 Fireworks AI 通知其恶意人员可能获取了客户数据，8 日确认泄露数据中包含用于 Insights 功能的 Notion AI 聊天记录，涉及不到 1% 的工作区。这些记录未标注用户和工作区，也不含工具调用结果（如页面内容），其他工作区数据不受影响。Notion 已于 11 月 3 日断开与 Fireworks 的连接、删除数据、停用 Insights 并停止经 Fireworks 提供开源权重模型。受影响的工作区所有者已收到通知，可在侧边栏「?」中查看「Security incident review」；Notion 建议把在 Notion AI 里贴过的密码、API 密钥等立即轮换。",
+   "links": [
+    "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
+   ],
+   "topic": "notion-fireworks-ai-breach",
+   "firstSeen": "2026-11-10T16:24:21+08:00"
   }
  ],
- "lastChecked": "2026-11-10T16:16:06+08:00"
+ "lastChecked": "2026-11-10T16:24:21+08:00"
 }
