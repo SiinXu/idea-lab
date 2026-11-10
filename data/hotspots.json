@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T05:30:39+08:00",
+ "lastUpdated": "2026-11-11T05:40:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45588,7 +45588,31 @@
    ],
    "topic": "ha-mcp-trending",
    "firstSeen": "2026-11-11T05:30:39+08:00"
+  },
+  {
+   "id": "f9adcb2013",
+   "title": "AI Futures Project 把“超人类 AI 研究员”预测提前到 2027 年：METR 报告称 Anthropic 研发提速约一倍，约八成归功于 AI 自身",
+   "summary": "《AI 2027》情景作者所在的 AI Futures Project 11 月 10 日发布季度时间线更新。起因是 METR 最新评估：Anthropic 当前 AI 进展速度约为历史水平的两倍（区间 1.3 到 3 倍），其中“或许约 80%”的提速来自 AI 工具本身。团队据此估算 AI 带来的加速约为 1.7 倍，比他们不到三个月前最激进的模型给出的概率（不到 4%）还要快，相当于比《AI 2027》情景提前 5 个月。现在所有成员都预测“超人类 AI 研究员”（公司宁可全部依赖自动化 AI 研究员而不要顶尖人类团队的节点）很可能在 2027 年出现，前提是没有刻意放缓；他们还给出 35% 到 65% 的概率，认为能自动化几乎所有白领工作的 AI 会在 2028 年前到来。团队呼吁行业暂停或放缓前沿研发并推动国际协议。批评者指出，METR 报告大部分证据被删减，公开证据仍不充分。Techmeme 将其列为当日头条之一，X 上讨论热烈。",
+   "links": [
+    "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
+    "https://www.techmeme.com/261110/p38",
+    "https://x.com/i/trending/2120212183736812006"
+   ],
+   "topic": "aifp-timelines-2027-update",
+   "firstSeen": "2026-11-11T05:40:29+08:00"
+  },
+  {
+   "id": "b31c6c01b3",
+   "title": "MBZUAI 开源世界模型 PAN 2：根据动作和镜头计划模拟场景如何演变，29B 参数、Apache 2.0 许可，已并入 Hugging Face Diffusers",
+   "summary": "阿联酋穆罕默德·本·扎耶德人工智能大学（MBZUAI）基础模型研究院发布 PAN 2，一个面向智能体的开源基础世界模型。与预测下一个词的语言模型不同，它根据一段带时间的动作和镜头运动计划，生成场景随后的视频演变，比如挤压海绵滴水、猫踩过水坑留下湿脚印，让机器人和规划类智能体能先在虚拟环境里做“如果这样会怎样”的试验。核心是 29B 参数的双流多模态扩散 Transformer，支持文生视频和首帧图生视频，使用 Qwen3.5 文本编码器和 Wan2.2 VAE，默认开启提示词和视频安全检查。权重以 IFM/PAN2 名义发布在 Hugging Face，采用 Apache 2.0 许可；接入 Diffusers 的代码已于 11 月 10 日合并。该发布在 X 上进入科技热门，社区开始用它测试机器人和规划任务。",
+   "links": [
+    "https://huggingface.co/IFM/PAN2",
+    "https://github.com/huggingface/diffusers/pull/15202",
+    "https://x.com/i/trending/2120209108053721283"
+   ],
+   "topic": "mbzuai-pan2-world-model",
+   "firstSeen": "2026-11-11T05:40:29+08:00"
   }
  ],
- "lastChecked": "2026-11-11T05:30:39+08:00"
+ "lastChecked": "2026-11-11T05:40:29+08:00"
 }
