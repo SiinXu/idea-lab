@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T14:23:08+08:00",
+ "lastUpdated": "2026-11-10T14:44:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45292,7 +45292,18 @@
    ],
    "topic": "miri-do-not-accept-campaign-2026-11",
    "firstSeen": "2026-11-10T14:23:08+08:00"
+  },
+  {
+   "id": "2eaebfdb6c",
+   "title": "亚马逊用 4B 级「决策模型」替掉 Claude Sonnet 4.6 给内部工单打标签：效果持平、成本降 98%，一年省下数百万美元",
+   "summary": "AWS Strands Agents 团队博客（今天登上 Hacker News）披露：亚马逊内部规模最大的工单系统之一，原本用 Claude Sonnet 4.6 给客户升级、容量申请、告警、安全发现等工单归到 20 个类别，现在换成一个月前发布的 Strands Decider。决策模型不生成文本，只对给定选项输出概率和置信度，正好适合分类任务。团队选用基于 Gemma 4 E4B 的版本，跑在单张 A10G 的 SageMaker 实例上，单次请求约 640 毫秒；经过 Sonnet 与 Decider 双跑对比后全量切换。结果：平均调用耗时从 4215 毫秒降到 897 毫秒，每张工单 token 从 6724 降到 2010，输出只需 1 个 token；每百万张工单成本从约 2.22 万美元降到约 500 美元。为塞进 4096 token 窗口，他们把每个标签描述压缩成一两句话。启示：大量「选一个」的固定分类工作，不必再用通用大模型。",
+   "links": [
+    "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+    "https://news.ycombinator.com/item?id=50436640"
+   ],
+   "topic": "amazon-strands-decider-replaces-sonnet-ticket-labeling",
+   "firstSeen": "2026-11-10T14:44:50+08:00"
   }
  ],
- "lastChecked": "2026-11-10T14:23:08+08:00"
+ "lastChecked": "2026-11-10T14:44:50+08:00"
 }
