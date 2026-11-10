@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T05:40:29+08:00",
+ "lastUpdated": "2026-11-11T06:00:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45612,7 +45612,19 @@
    ],
    "topic": "mbzuai-pan2-world-model",
    "firstSeen": "2026-11-11T05:40:29+08:00"
+  },
+  {
+   "id": "f36eb145f3",
+   "title": "英伟达董事会聘请前纽约南区代理检察长 Joon H. Kim 及 Wachtell 律所独立调查黄仁勋间谍门，股价周二再跌约 6%",
+   "summary": "英伟达独立董事 11 月 10 日发表声明，聘请曾任美国纽约南区代理联邦检察官的 Joon H. Kim 及其所在的 Wachtell, Lipton, Rosen & Katz 律所，对周日宣布的事件开展“彻底、独立”的调查，核查 CEO 黄仁勋是否成为中国情报行动的目标，以及公司机密或美国国家安全是否受损。此前黄仁勋在致员工邮件中承认与前 Megaspeed 高管 Alice Huang 有婚外情，美国情报机构认为她向北京传递信息。Kim 曾受纽约州总检察长委托调查前州长科莫性骚扰案，NBC 评论称，请他出马说明董事会不打算让调查走过场。CNBC 报道，英伟达股价周一下跌超 4% 后周二再跌约 6%，投资者担心丑闻可能导致这位联合创始人被迫离任；公司仍表示黄仁勋将继续担任 CEO。特朗普周一称 FBI 也在调查，并表示相信黄仁勋不知道对方是间谍。",
+   "links": [
+    "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
+    "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
+    "https://www.nbcnews.com/business/corporations/ex-prosecutor-probe-jensen-huang-chinese-spy-affair-nvidia-rcna608628"
+   ],
+   "topic": "nvidia-wachtell-huang-probe",
+   "firstSeen": "2026-11-11T06:00:15+08:00"
   }
  ],
- "lastChecked": "2026-11-11T05:40:29+08:00"
+ "lastChecked": "2026-11-11T06:00:15+08:00"
 }
