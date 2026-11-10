@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T02:15:15+08:00",
+ "lastUpdated": "2026-11-11T02:52:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45519,7 +45519,18 @@
    ],
    "topic": "val-town-shutdown",
    "firstSeen": "2026-11-11T02:15:15+08:00"
+  },
+  {
+   "id": "57e90f7f78",
+   "title": "开发者用 Claude 为 DisplayLink 扩展坞写 Linux 开源驱动，被 Synaptics 专利威胁叫停：索赔 2.5 万美元起、每周再加 2.5 万",
+   "summary": "LWN 11 月 10 日报道：苏格兰开发者 Mike Lothian 因戴尔 DisplayLink 扩展坞在 Linux 上频繁崩溃，用 Claude 辅助编写了 Rust 版 DRM/KMS 驱动 Vino，第三版已能在不装官方软件的情况下驱动三代 DL3 扩展坞，并提交到 Linux 内核邮件列表。他向 DisplayLink 母公司 Synaptics 求助，换来的却是法务团队的停止侵权函：列出 125 项专利，要求撤回所有提交，随后又附上两项 2010 年英国专利的权利要求对照表，称不配合就索赔 2.5 万美元并每周再加 2.5 万。Synaptics 虽是开源专利互保组织 OIN 成员，但 OIN 认定编解码器不在保护范围内。Lothian 已下架 GitHub 仓库，驱动不再提交内核。此事在 Hacker News 和 LWN 评论区引发讨论：AI 让个人逆向和写驱动变得容易，但软件专利仍是开源开发者绕不过去的风险。",
+   "links": [
+    "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+    "https://news.ycombinator.com/item?id=50443824"
+   ],
+   "topic": "displaylink-patent",
+   "firstSeen": "2026-11-11T02:52:55+08:00"
   }
  ],
- "lastChecked": "2026-11-11T02:15:15+08:00"
+ "lastChecked": "2026-11-11T02:52:55+08:00"
 }
