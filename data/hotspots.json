@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T00:14:53+08:00",
+ "lastUpdated": "2026-11-11T00:24:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45464,7 +45464,18 @@
    ],
    "topic": "dotnet",
    "firstSeen": "2026-11-11T00:14:53+08:00"
+  },
+  {
+   "id": "a525fa830b",
+   "title": "Gemini 4 Carbon 全面开放：付费开发者、企业和 Ultra 用户今天起可用，Antigravity 同步预览一句话拉起智能体团队的 /swarm",
+   "summary": "谷歌 11 月 10 日宣布 Gemini 4 Carbon 正式向公众开放（两周前只给 Fairwind 计划里的网络安全防御方试用）。所有付费开发者和企业可通过 Google AI Studio、Gemini for business 的 API 使用，Google AI Ultra 订阅用户可在 Gemini App、搜索 AI 模式和 Google Antigravity 里使用。优惠价与 Argon 相同，每百万 token 输入 2 美元、输出 10 美元，11 月 30 日后涨到 4/20 美元。谷歌称 Carbon 在 CursorBench 4.0、Perplexity WANDR、Zapier AutomationBench 上排第一，单任务成本比第二名外部模型低一半以上。同时 Antigravity 预览 /swarm 功能：一个提示词就能拉起一组协作智能体，Carbon 负责架构、协调和审查，轻量模型并行干活，再由对抗式验证者检查每处改动；官方演示包括从 7 份市政规划 PDF 重建 3D 办公楼、两条提示词重做谷歌商店。安全方面，Carbon 在自适应红队测试中拦截 99% 攻击路径。参与免费科研计划的科学家也将获得 Carbon 访问权。",
+   "links": [
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+    "https://news.ycombinator.com/item?id=50442303"
+   ],
+   "topic": "gemini-4-carbon-ga",
+   "firstSeen": "2026-11-11T00:24:36+08:00"
   }
  ],
- "lastChecked": "2026-11-11T00:14:53+08:00"
+ "lastChecked": "2026-11-11T00:24:36+08:00"
 }
