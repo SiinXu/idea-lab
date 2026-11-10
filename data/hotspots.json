@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T23:10:06+08:00",
+ "lastUpdated": "2026-11-11T00:14:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45452,7 +45452,19 @@
    ],
    "topic": "holyarrs-self-hosted-media",
    "firstSeen": "2026-11-10T23:10:06+08:00"
+  },
+  {
+   "id": "8eacae9504",
+   "title": "微软正式发布 .NET 11 与 C# 15：联合类型（union）终于落地，SDK 自带 MCP 服务器模板，.NET 8/9 今天同时停止支持",
+   "summary": "微软在 .NET Conf 2026 首日（11 月 10 日）发布 .NET 11，这是一个享有两年支持的 STS 版本，由 7000 多名贡献者完成。最受关注的是 C# 15 的联合类型和 closed 封闭继承层次：一个值可以是几种声明类型之一，switch 时编译器会检查是否漏处理。AI 方面，SDK 直接内置 `dotnet new mcpserver` 模板，配合 Microsoft.Extensions.AI、Microsoft Agent Framework 和实验性的 Blazor AI 聊天组件（接入 AG-UI 协议），并推出给编程智能体用的 .NET Skills。其他亮点：CLI 默认用 Native AOT 宿主、MSBuild 服务器常驻提速；标准库内置 Zstandard 压缩、LINQ 新增 FullJoin；EF Core 11 支持 SQL Server 向量索引（实验）；.NET MAUI 默认改用 CoreCLR。需要注意，.NET 8 和 .NET 9 在同一天（2026 年 11 月 10 日）结束支持，仍在用的团队要尽快升级到 .NET 10（LTS）或 .NET 11。",
+   "links": [
+    "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+    "https://news.ycombinator.com/item?id=50442225",
+    "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime"
+   ],
+   "topic": "dotnet",
+   "firstSeen": "2026-11-11T00:14:53+08:00"
   }
  ],
- "lastChecked": "2026-11-10T23:10:06+08:00"
+ "lastChecked": "2026-11-11T00:14:53+08:00"
 }
