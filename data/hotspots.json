@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T14:44:50+08:00",
+ "lastUpdated": "2026-11-10T15:11:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45303,7 +45303,37 @@
    ],
    "topic": "amazon-strands-decider-replaces-sonnet-ticket-labeling",
    "firstSeen": "2026-11-10T14:44:50+08:00"
+  },
+  {
+   "id": "6289435bdb",
+   "title": "《华尔街日报》：Anthropic 不顾美股抛售坚持推进 IPO，本周定估值区间、最快下周四或周五挂牌",
+   "summary": "据《华尔街日报》报道，Anthropic 计划本周确定估值区间，下周四或周五开始交易。部分机构投资者正要求把估值压到上周讨论的 1.5 万亿美元以下（几个月前曾传 2 万亿）。这单 IPO 将被视为检验 AI 繁荣成色的风向标；对比之下，OpenAI 上周以约 1.25 万亿美元估值融资 110 亿美元，低于原定的 200 亿。",
+   "links": [
+    "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+   ],
+   "topic": "anthropic-ipo-go-ahead-2026-11",
+   "firstSeen": "2026-11-10T15:11:29+08:00"
+  },
+  {
+   "id": "09274ed8ec",
+   "title": "英伟达首起证券集体诉讼已立案：黄仁勋事件后股价单日跌 4.27%，至少四家律所争当首诉",
+   "summary": "董事会宣布调查黄仁勋与疑似中国间谍 Alice Huang 的关系后，英伟达周一股价下跌 4.27%（每股 7.97 美元）。Rosen 律所当天在加州北区联邦法院提起集体诉讼，指控公司和黄仁勋就 Megaspeed 关系发表虚假或误导性陈述，覆盖 2025-10-09 至 2026-11-08 期间买入的投资者。斯坦福法学教授 Bartlett 认为这是典型的「市场欺诈」诉讼，赔偿将与市值跌幅挂钩。",
+   "links": [
+    "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+   ],
+   "topic": "nvidia-securities-class-action-2026-11",
+   "firstSeen": "2026-11-10T15:11:29+08:00"
+  },
+  {
+   "id": "0cb7ad579a",
+   "title": "Otter.ai 一次新增 27 种语言、支持会中多语切换转写：中文普通话、粤语、马来语等 13 种今天上线",
+   "summary": "AI 会议记录工具 Otter.ai 宣布史上最大规模语言扩展，完成后共支持 31 种语言，并新增多语转写：会议中从英语切到韩语再切到葡萄牙语，也能自动识别、持续转写。首批上线的 13 种语言包括普通话、粤语、马来语、印尼语、越南语等，均跑在 Otter 自研语音模型上。此前它已推出 Work Mode 会前准备和 Live Assist 实时提示，正从转写工具走向会议 AI 工作台。",
+   "links": [
+    "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
+   ],
+   "topic": "otter-ai-multilingual-31-languages",
+   "firstSeen": "2026-11-10T15:11:29+08:00"
   }
  ],
- "lastChecked": "2026-11-10T14:44:50+08:00"
+ "lastChecked": "2026-11-10T15:11:29+08:00"
 }
