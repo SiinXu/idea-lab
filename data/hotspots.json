@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T03:41:24+08:00",
+ "lastUpdated": "2026-11-11T03:59:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45553,7 +45553,20 @@
    ],
    "topic": "modern-web-guidance",
    "firstSeen": "2026-11-11T03:41:24+08:00"
+  },
+  {
+   "id": "37655f516c",
+   "title": "SpaceX 发布 Starlink Mini 2：首款自带快拆电池的星链天线，续航 4.5 小时、厚度减到 23.1 毫米，首批邀请价 999 美元含一年 Roam 不限量",
+   "summary": "SpaceX 11 月 10 日正式发布第二代便携星链天线 Starlink Mini 2，把天线、Wi‑Fi 路由器和电池整合成一台笔记本大小的设备。据 The Verge 和 PCMag 报道，它内置可快速热插拔的电池，官方称单次充电可连续联网最长 4.5 小时，也可通过 USB‑C 接 60W 电源持续供电；备用电池另售。机身厚度从上一代的 38.5 毫米减到 23.1 毫米，重量约 3.5 磅，Wi‑Fi 从 5 升级到 6，保留 IP67 防尘防水和行驶中使用能力，并新增独立开机键。目前仅向部分美国用户发出邀请预订，价格 999 美元，含 SpaceX 标价 2100 美元的一年 Roam Unlimited 套餐，预计 12 月中旬发货，其他国家“即将推出”。消息在 Hacker News 首页引发讨论，焦点集中在价格偏高和户外、房车、船载场景。",
+   "links": [
+    "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+    "https://news.ycombinator.com/item?id=50444129",
+    "https://uk.pcmag.com/networking/168329/starlink-mini-2-has-a-swappable-battery-but-it-costs-way-more-than-expected",
+    "https://starlink.com/mini-2"
+   ],
+   "topic": "starlink-mini-2",
+   "firstSeen": "2026-11-11T03:59:19+08:00"
   }
  ],
- "lastChecked": "2026-11-11T03:41:24+08:00"
+ "lastChecked": "2026-11-11T03:59:19+08:00"
 }
