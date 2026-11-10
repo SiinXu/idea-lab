@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T04:27:44+08:00",
+ "lastUpdated": "2026-11-11T05:30:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45577,7 +45577,18 @@
    ],
    "topic": "claude-sheets-whiteboards-data",
    "firstSeen": "2026-11-11T04:27:44+08:00"
+  },
+  {
+   "id": "81f33d0f3f",
+   "title": "ha-mcp 登上 GitHub 趋势榜：用 Claude、ChatGPT 直接配置和自动化 Home Assistant 智能家居，87 个工具、一天新增近 800 星",
+   "summary": "开源项目 ha-mcp（homeassistant-ai/ha-mcp，MIT 许可）11 月 10 日出现在 GitHub 每日趋势榜，当天新增约 790 星，总星数约 6500。它是一个 MCP 服务器，让 Claude、ChatGPT 等 AI 助手通过 87 个工具直接查看和修改 Home Assistant 里的设备、自动化与配置。推荐安装方式是 HA-MCP 集成：通过 HACS 安装，或在 Home Assistant 2026.11 起内置的应用市场里直接搜索安装，在 Home Assistant 进程内运行，覆盖 OS、Supervised、Container、Core 各种部署。设置时需指定一个管理员账号（作者建议专门新建一个仅限本地登录的管理员账号，比用个人长期令牌更安全），再选择远程访问（秘密 URL 或 Home Assistant 登录）或仅限局域网，把生成的连接地址粘贴到 AI 客户端即可。文件和 YAML 编辑工具默认关闭，需手动开启。它的走红与当天 Hacker News 上“智能家居应能断网运行”的讨论相呼应：用户希望设备留在本地，同时用 AI 来管理自动化。",
+   "links": [
+    "https://github.com/homeassistant-ai/ha-mcp",
+    "https://homeassistant-ai.github.io/ha-mcp/"
+   ],
+   "topic": "ha-mcp-trending",
+   "firstSeen": "2026-11-11T05:30:39+08:00"
   }
  ],
- "lastChecked": "2026-11-11T04:27:44+08:00"
+ "lastChecked": "2026-11-11T05:30:39+08:00"
 }
