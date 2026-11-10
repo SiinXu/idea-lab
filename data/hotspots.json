@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T10:59:05+08:00",
+ "lastUpdated": "2026-11-10T11:13:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45193,7 +45193,17 @@
    ],
    "topic": "nvidia-gr00t-2-corl-2026",
    "firstSeen": "2026-11-10T10:59:05+08:00"
+  },
+  {
+   "id": "fb4fd4b9a9",
+   "title": "英伟达首尔 AI Day 出招：直接投资 4 家韩国 AI 与机器人初创，并与 SK 电讯、Rebellions 联手把韩国 NPU 接入 NVLink Fusion",
+   "summary": "据韩国《首尔经济日报》11 月 10 日报道，英伟达在首尔 COEX 举办的 AI Day Seoul 活动上意外宣布，将直接投资 4 家韩国初创公司：做数据中心无线互连部件的 Point2 Technology、大语言模型公司 Upstage 和 Motif Technologies，以及做机器人基础模型的 Realworld。这次由英伟达本体出资，而不是通过旗下风投 NVentures。同时，英伟达与 SK 电讯、韩国 AI 芯片公司 Rebellions 签署 NVLink Fusion 合作备忘录：Rebellions 下一代 NPU R200 将接入英伟达的高速互连网络，与 GPU 分担 AI 计算，SK 电讯在自家 AI 数据中心搭建混合系统做验证，Rebellions 计划 2028 年开始供货。这是英伟达继美国 Marvell、台湾联发科之后首次与韩国 NPU 公司正式合作，显示英伟达正用投资和开放互连来笼络推理芯片阵营。",
+   "links": [
+    "https://en.sedaily.com/finance/2026/11/10/nvidia-surprises-with-direct-investments-in-four-korean-ai"
+   ],
+   "topic": "nvidia-ai-day-seoul-korea-investments-2026-11",
+   "firstSeen": "2026-11-10T11:13:52+08:00"
   }
  ],
- "lastChecked": "2026-11-10T10:59:05+08:00"
+ "lastChecked": "2026-11-10T11:13:52+08:00"
 }
