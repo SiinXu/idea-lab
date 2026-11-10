@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T21:37:40+08:00",
+ "lastUpdated": "2026-11-10T23:10:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45441,7 +45441,18 @@
    ],
    "topic": "ableton-live-13",
    "firstSeen": "2026-11-10T21:37:40+08:00"
+  },
+  {
+   "id": "97dd0969d9",
+   "title": "开源项目 HolyArrs 冲上 HN：用一个 15 MB 的自托管应用替代 Sonarr、Radarr 等六件套，统一管理剧集、电影和音乐",
+   "summary": "开发者在 Hacker News 发布 Show HN 项目 HolyArrs（Go 编写，AGPL-3.0 开源），几小时内拿到近百分。家庭媒体服务器玩家通常要同时跑 Sonarr、Radarr、Lidarr、Bazarr、Prowlarr 和 Overseerr 六个应用，意味着六个登录、六个端口和六套 API Key；HolyArrs 把它们合成一个应用，镜像下载约 15 MB（六件套合计约 718 MB），管理 1 万部作品时空闲内存约 140 MB，支持 amd64、arm64 和 armv7。它提供类似流媒体的浏览界面、请求审批、按体积/画质/语言挑选版本的规则、字幕、播出日历，还能从原有六件套和 qBittorrent、SABnzbd 一键迁移配置，并可撤销。项目 11 月 9 日才建仓，GitHub 已有数百星。",
+   "links": [
+    "https://github.com/HolyArrs/HolyArrs",
+    "https://news.ycombinator.com/item?id=50439000"
+   ],
+   "topic": "holyarrs-self-hosted-media",
+   "firstSeen": "2026-11-10T23:10:06+08:00"
   }
  ],
- "lastChecked": "2026-11-10T21:37:40+08:00"
+ "lastChecked": "2026-11-10T23:10:06+08:00"
 }
