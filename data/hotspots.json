@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T00:45:08+08:00",
+ "lastUpdated": "2026-11-11T01:28:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45486,7 +45486,18 @@
    ],
    "topic": "blender-5-3",
    "firstSeen": "2026-11-11T00:45:08+08:00"
+  },
+  {
+   "id": "ad9eb20db0",
+   "title": "Verisign 撤回关停计划：2.2 万个 .name 三级域名和邮件转发将无限期保留，域名持有人长期抗争获胜",
+   "summary": "11 月 10 日，.name 三级域名（例如 neil.fraser.name 这种「名.姓.name」格式）持有人宣布胜利：域名注册局 Verisign 撤回了终止约 2.2 万个此类域名及其邮件转发的计划。今后将停止新注册三级 .name 域名，但所有现有域名和邮件转发会无限期保留。此前多名持有人向 ICANN（互联网域名管理机构）提交正式复议申请、请律师介入，并有人飞到巴厘岛在 ICANN 会议上当面陈情。这篇博文在 Hacker News 上一小时内过百分，也提醒大家：个人域名和邮箱的「永久性」取决于注册局政策，重要身份最好掌握在自己能迁移的域名上。",
+   "links": [
+    "https://neil.fraser.name/news/2026/11/10/",
+    "https://news.ycombinator.com/item?id=50442736"
+   ],
+   "topic": "dot-name-grandfathered",
+   "firstSeen": "2026-11-11T01:28:46+08:00"
   }
  ],
- "lastChecked": "2026-11-11T00:45:08+08:00"
+ "lastChecked": "2026-11-11T01:28:46+08:00"
 }
