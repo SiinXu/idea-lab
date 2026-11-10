@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T03:11:04+08:00",
+ "lastUpdated": "2026-11-11T03:41:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45541,7 +45541,19 @@
    ],
    "topic": "local-first-smart-home",
    "firstSeen": "2026-11-11T03:11:04+08:00"
+  },
+  {
+   "id": "ffb2e38642",
+   "title": "Chrome、Edge、Firefox 与 MDN 团队联合推出 Modern Web Guidance：给编码智能体装上现代 Web 技能，告别 2019 年式的老旧 JavaScript",
+   "summary": "Google Chrome 在 GitHub 开源 Modern Web Guidance，由 Chrome、Microsoft Edge、Mozilla Firefox 和 MDN 团队共同维护。它是一套供编码智能体调用的技能与命令行工具：针对大模型训练数据里旧代码过多、常常生成臃肿 JavaScript 的问题，把专家整理的现代 Web 平台用法和浏览器兼容性数据按需注入智能体上下文。内容覆盖 View Transitions 动画、容器查询、subgrid、oklch 颜色、Anchor Positioning、Popover API、:user-invalid 表单校验、INP 性能诊断、scheduler.yield、无障碍，以及浏览器内置的翻译、摘要等本地 AI 接口。一条 npx modern-web-guidance install 即可安装，还提供 search、retrieve 和 legacy-scan（扫描代码库中的过时写法）命令，并公开评测看板。项目以 Show HN 形式登上 Hacker News 首页。",
+   "links": [
+    "https://github.com/GoogleChrome/modern-web-guidance",
+    "https://news.ycombinator.com/item?id=50443812",
+    "https://developer.chrome.com/docs/modern-web-guidance"
+   ],
+   "topic": "modern-web-guidance",
+   "firstSeen": "2026-11-11T03:41:24+08:00"
   }
  ],
- "lastChecked": "2026-11-11T03:11:04+08:00"
+ "lastChecked": "2026-11-11T03:41:24+08:00"
 }
