@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T15:24:58+08:00",
+ "lastUpdated": "2026-11-10T15:47:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45343,7 +45343,17 @@
    ],
    "topic": "sshole-openssh-musl-exploited",
    "firstSeen": "2026-11-10T15:24:58+08:00"
+  },
+  {
+   "id": "731b359b01",
+   "title": "ClickHouse 收购 Postgres 平台 Xata：把「秒级数据库分支 + 缩容到零」带进 ClickHouse 托管 Postgres，专供 AI 智能体",
+   "summary": "Xata 宣布加入 ClickHouse，同日 ClickHouse 托管 Postgres 正式 GA。Xata 的核心能力是写时复制分支：TB 级数据库约 3 秒建出独立分支，只按差异计费，闲置时缩容到零、约 1 秒唤醒，并支持生产数据脱敏。它让每个 PR、每次智能体运行都能拥有隔离的真实数据库，客户每周创建数千个分支。双方将为 ClickHouse 托管 Postgres 加入分支能力和「智能体档」，现有 Xata 用户短期不受影响，之后逐步迁移。",
+   "links": [
+    "https://xata.io/blog/xata-is-joining-clickhouse"
+   ],
+   "topic": "clickhouse-acquires-xata",
+   "firstSeen": "2026-11-10T15:47:02+08:00"
   }
  ],
- "lastChecked": "2026-11-10T15:24:58+08:00"
+ "lastChecked": "2026-11-10T15:47:02+08:00"
 }
