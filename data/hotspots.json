@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T16:24:21+08:00",
+ "lastUpdated": "2026-11-10T18:14:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45373,7 +45373,18 @@
    ],
    "topic": "notion-fireworks-ai-breach",
    "firstSeen": "2026-11-10T16:24:21+08:00"
+  },
+  {
+   "id": "378a018797",
+   "title": "纽约皇后区公共图书馆遭勒索软件攻击：官网、App、电子借阅全部停摆，多数分馆公共电脑无法使用",
+   "summary": "皇后区公共图书馆（QPL）发布网络中断公告：一次勒索软件攻击造成全系统严重网络故障，官网、QPL 手机 App、数字媒体服务（电子书等）和多数分馆的公共电脑均受影响，续借暂停。目前各分馆免费 Wi-Fi、自助借还机已恢复，中央图书馆、法拉盛等 7 个分馆的公共电脑也已恢复，所有分馆照常开放、可正常借还实体书。该消息今天登上 Hacker News，再次说明公共机构是勒索软件的高发目标。",
+   "links": [
+    "https://connect.queenslibrary.org/",
+    "https://news.ycombinator.com/item?id=50437790"
+   ],
+   "topic": "queens-library-ransomware",
+   "firstSeen": "2026-11-10T18:14:49+08:00"
   }
  ],
- "lastChecked": "2026-11-10T16:24:21+08:00"
+ "lastChecked": "2026-11-10T18:14:49+08:00"
 }
