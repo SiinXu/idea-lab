@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T15:11:29+08:00",
+ "lastUpdated": "2026-11-10T15:24:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45333,7 +45333,17 @@
    ],
    "topic": "otter-ai-multilingual-31-languages",
    "firstSeen": "2026-11-10T15:11:29+08:00"
+  },
+  {
+   "id": "f00e71ef88",
+   "title": "OpenSSH + musl 高危漏洞「*sshole」已遭在野利用：超长密码即可免认证登录特权账户，Alpine Linux 首当其冲",
+   "summary": "漏洞编号 CVE-2026-123158，上周四公开，四天后 Greynoise、watchTowr 等安全公司均观测到攻击。条件是 OpenSSH 搭配 musl 库且未启用 PAM：攻击者对无密码账户输入超过 256 个字符的密码，musl 的哈希函数出错返回「*」，从而被当作匹配。Greynoise 发现名为 GT10 的团伙在东南亚蜜罐中植入带中文注释、疑似 AI 生成的后门 TAC Agent；另有僵尸网络和挖矿活动。OpenSSH 已发布修复，用户应尽快更新。",
+   "links": [
+    "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
+   ],
+   "topic": "sshole-openssh-musl-exploited",
+   "firstSeen": "2026-11-10T15:24:58+08:00"
   }
  ],
- "lastChecked": "2026-11-10T15:11:29+08:00"
+ "lastChecked": "2026-11-10T15:24:58+08:00"
 }
