@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T06:53:54+08:00",
+ "lastUpdated": "2026-11-11T06:54:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45657,7 +45657,18 @@
    ],
    "topic": "glasswing-vulncheck-november",
    "firstSeen": "2026-11-11T06:53:54+08:00"
+  },
+  {
+   "id": "5f987f0636",
+   "title": "tokio 团队的全栈 Rust 框架 Topcoat 登上 GitHub 趋势榜：服务端渲染组件直连数据库，$(...) 表达式自动编译成 JS 在浏览器即时运行，无需 wasm",
+   "summary": "Rust 异步运行时 tokio 背后的 tokio-rs 组织推出的 Topcoat 今天出现在 GitHub 趋势榜上，仓库目前约 6,700 星。它自称“完整的全栈 Rust 框架”，模块化、开箱即用，主打简单与开发效率。所有 HTML 都在服务端渲染，组件可以是异步函数、直接查询数据库，省去单独的 API 层；交互部分用 $(...) 写普通的、带类型检查的 Rust 表达式，首屏由服务端求值，同时被翻译成 JavaScript 在浏览器中即时重跑，不需要 wasm 包，也没有前端构建步骤。需要服务端数据的组件可标记为 #[shard]，参数变化时由服务端重新渲染并就地替换 HTML，适合实时搜索之类的场景。view! 宏模板贴近原生 HTML，可直接用 Rust 控制流。项目还专门为编码智能体提供 llms.txt 说明 API 与约定。官方注明仍处早期实验阶段，可能出现破坏性变更，MIT 许可。",
+   "links": [
+    "https://github.com/tokio-rs/topcoat",
+    "https://crates.io/crates/topcoat"
+   ],
+   "topic": "tokio-topcoat-rust-fullstack",
+   "firstSeen": "2026-11-11T06:54:41+08:00"
   }
  ],
- "lastChecked": "2026-11-11T06:53:54+08:00"
+ "lastChecked": "2026-11-11T06:54:41+08:00"
 }
