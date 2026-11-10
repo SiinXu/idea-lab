@@ -1374,6 +1374,106 @@
    "shown": false,
    "at": "2026-11-09T13:11:05+00:00",
    "id": "cd52f61a85"
+  },
+  {
+   "topic": "h1130d877d",
+   "title": "美国 ZIP 边界查询接口",
+   "who": "做美国配送范围、门店覆盖和区域定价的小团队开发者",
+   "pain": "以前只能用人口普查的近似边界或买付费数据，判断一个坐标属于哪个 ZIP 经常出错",
+   "why_now": "USPS 刚公开官方 ZIP 边界多边形，在 Hacker News 上热议",
+   "mvp": "把官方多边形切片放进 Cloudflare Worker，提供坐标查 ZIP、ZIP 查边界两个接口和一个可嵌入的地图预览，附与人口普查近似边界的差异图",
+   "money": "每月免费额度；超出按调用量订阅，批量导出按次收费",
+   "not_do": "不收集或出售个人地址，不做地址补全和营销名单",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50431058"
+   ],
+   "score": 7,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 1,
+    "money": 1,
+    "reuse": 2,
+    "novel": 0
+   },
+   "why": "HN 热议有真实讨论；全美多边形切片和接口两周偏紧；免费官方数据让付费空间有限；可复用 Cloudflare Workers；地理接口同类多，新意低",
+   "shown": true,
+   "at": "2026-11-10T01:07:36+00:00",
+   "id": "1b02d56bae"
+  },
+  {
+   "topic": "hf49487fb0",
+   "title": "大模型行为变化日报",
+   "who": "依赖 Claude、GPT 等 API 做产品或写代码的开发者",
+   "pain": "模型悄悄变了只能靠体感和吵架判断，没有同一套题的每日对照数据",
+   "why_now": "Hacker News 上「Opus 5.5 是否被削弱、11 月 3 日起思考方式变了」讨论超过 400 条",
+   "mvp": "固定 30 道编程和推理题，每天定时让几个主流模型各跑一遍，记录通过率、输出长度和延迟，画成趋势图，异常波动自动标出",
+   "money": "公开看板免费；团队用自己的题和 API key 做私有监控按月订阅",
+   "not_do": "不猜测厂商内部原因，不做模型排行榜，不转售 API",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50422069"
+   ],
+   "score": 7,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 1,
+    "novel": 0
+   },
+   "why": "HN 400+ 评论；固定题每日跑分两周可做；已有类似追踪站，付费意愿一般；与 Idea Lab 采集流程部分复用；新意不足",
+   "shown": true,
+   "at": "2026-11-10T01:07:36+00:00",
+   "id": "57f864f47b"
+  },
+  {
+   "topic": "h1b18e8c9a",
+   "title": "AI 助手人工审阅开关清单",
+   "who": "把工作邮件和网盘文件接进 AI 助手的上班族和小团队管理员",
+   "pain": "各家助手是否会把文件交给人工审阅、开关藏在哪里、企业版和个人版有何不同，说法分散又常改",
+   "why_now": "Hacker News 热帖称 Gemini 会把个人网盘文件和邮件交给人工标注员",
+   "mvp": "覆盖 6 个主流助手，每家一张卡：官方条款原文链接、是否人工审阅、关闭路径截图、核实日期，条款页变动时自动提醒重核",
+   "money": "清单免费；给团队管理员的一页合规说明和变动邮件提醒按月订阅",
+   "not_do": "不读取用户的文件或账号，不下法律结论，不渲染恐慌",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50429426"
+   ],
+   "score": 7,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 0,
+    "reuse": 1,
+    "novel": 1
+   },
+   "why": "HN 热帖；6 张卡两周轻松；清单类难收费；可沿用设计规范库的卡片与变动提醒；按助手整理人工审阅开关少见",
+   "shown": true,
+   "at": "2026-11-10T01:07:36+00:00",
+   "id": "235c739385"
+  },
+  {
+   "topic": "he22dd6f96",
+   "title": "大厂 Agent 技能库对照",
+   "who": "给团队写 Claude Code 或 Cursor 技能文件的工程负责人",
+   "pain": "不知道成熟公司的技能文件怎么拆分、写多长、怎么约束 Agent，只能从零摸索",
+   "why_now": "Jane Street 公开的 agent_skills 仓库正在 GitHub 上升",
+   "mvp": "在 Skills Lab 里收录 Jane Street 等公开技能仓库，按用途、长度、约束写法并排对比，每条附原文链接和可复制的精简模板",
+   "money": "对照免费；按团队技术栈生成整套技能文件包一次性付费",
+   "not_do": "不整份搬运原仓库内容，遵守各仓库许可证，不做 Agent 运行平台",
+   "evidence": [
+    "https://github.com/janestreet/agent_skills"
+   ],
+   "score": 6,
+   "parts": {
+    "evidence": 1,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 2,
+    "novel": 0
+   },
+   "why": "只有 GitHub 仓库，无真实讨论链接；Skills Lab 直接复用，两周可做；模板包付费弱；属技能合集常规做法",
+   "shown": false,
+   "at": "2026-11-10T01:07:36+00:00",
+   "id": "79749c0e21"
   }
  ]
 }
