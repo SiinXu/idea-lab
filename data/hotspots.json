@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-10T19:43:47+08:00",
+ "lastUpdated": "2026-11-10T20:31:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45406,7 +45406,18 @@
    ],
    "topic": "ai-fragile-codebase",
    "firstSeen": "2026-11-10T19:43:47+08:00"
+  },
+  {
+   "id": "f8c1a7370c",
+   "title": "DeepMind 发布 AlphaProof Code：AI 智能体四周内形式化验证 Signal 加密协议的真实代码，生成超 600 万行 Lean 证明",
+   "summary": "Google DeepMind 今天公布多模型智能体框架 AlphaProof Code：研究人员和模型一起把 Signal 协议的安全目标写成形式化规范（每条都经人工审核），再由 Gemini Carbon 驱动的智能体完成证明，共生成 600 多万行 Lean 代码，只有约 1% 需要人工复核。它证明的不只是协议设计，而是编译后实际运行在设备上的代码满足关键安全属性（如设备临时被攻破前后消息仍受保护）。DeepMind 称这是首次有广泛部署的加密协议实现被完整形式化验证，过去需要专家团队数年，这次只用了四周；把两个已修复的真实漏洞放回去后，系统也都证明了有漏洞版本不安全。Signal CTO Ehren Kret 称之为重大突破，相关验证产物将开源。",
+   "links": [
+    "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "https://news.ycombinator.com/item?id=50439193"
+   ],
+   "topic": "deepmind-alphaproof-code-signal",
+   "firstSeen": "2026-11-10T20:31:32+08:00"
   }
  ],
- "lastChecked": "2026-11-10T19:43:47+08:00"
+ "lastChecked": "2026-11-10T20:31:32+08:00"
 }
