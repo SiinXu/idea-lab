@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T06:54:41+08:00",
+ "lastUpdated": "2026-11-11T07:24:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45668,7 +45668,48 @@
    ],
    "topic": "tokio-topcoat-rust-fullstack",
    "firstSeen": "2026-11-11T06:54:41+08:00"
+  },
+  {
+   "id": "7435218c6f",
+   "title": "泄露文件：OpenAI 三季度营收环比大涨约 50% 至 100 亿美元，调整后营业利润率从 -150% 收窄到 -109%，仍远未盈利",
+   "summary": "据 The Information 报道，OpenAI 周二告诉投资者，第三季度营收环比增长近 50%，达到约 100 亿美元，而第二季度环比增速只有 17%，增长重新提速主要得益于市场对其较新模型的需求。《华尔街日报》援引泄露的内部文件进一步披露，OpenAI 调整后营业利润率从二季度的 -150% 改善到三季度的 -109%，亏损幅度在收窄，但公司离盈利仍很远，依旧在大额亏损中扩张。这组数字出炉时，竞争对手 Anthropic 正在 IPO 路演，两家头部大模型公司的增长与烧钱速度将被市场放在一起比较。",
+   "links": [
+    "https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter",
+    "https://www.wsj.com/business/earnings/openai-continues-to-suffer-heavy-losses-as-revenue-rises-to-10-billion-d2a96bbb"
+   ],
+   "topic": "openai-q3-2026-financials",
+   "firstSeen": "2026-11-11T07:24:11+08:00"
+  },
+  {
+   "id": "2a71bb15be",
+   "title": "Anthropic 招股书披露：英伟达计划在 IPO 时投资约 100 亿美元，约占本月新募资金一成，是巨头新承诺中最大一笔",
+   "summary": "《纽约时报》根据 Anthropic 的 S-1 招股文件报道，英伟达计划在 Anthropic 首次公开募股期间投资约 100 亿美元，约占 Anthropic 预计在 11 月（含 IPO）新筹集现金总额的 10%，也是多家科技巨头对这家 AI 公司新财务承诺中规模最大的一笔。Anthropic 本周已启动 IPO 路演，股票代码 ANT。英伟达此时正深陷黄仁勋丑闻和董事会独立调查，这笔投资也让芯片供应商与大模型客户之间的资本绑定更深。",
+   "links": [
+    "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html"
+   ],
+   "topic": "nvidia-10b-anthropic-ipo",
+   "firstSeen": "2026-11-11T07:24:11+08:00"
+  },
+  {
+   "id": "e53cde14cb",
+   "title": "CoreWeave 三季度营收同比增 168% 至 36.6 亿美元、超预期并上调全年指引，净亏损 7.09 亿美元，未交付订单增至 1325 亿美元",
+   "summary": "AI 云服务商 CoreWeave 周二公布第三季度财报：营收同比增长 168%，达到 36.6 亿美元，高于分析师预期的 35.5 亿美元；当季净亏损 7.09 亿美元；收入积压（已签约未确认订单）达到 1,325 亿美元，高于 6 月底的 1,040 亿美元。公司同时上调了 2026 年全年指引。CNBC 指出，这份财报说明市场对 AI 算力的需求依然旺盛。此前几天 CoreWeave 债券收益率一度突破 16%，市场对 AI 基础设施公司的借债成本和亏损扩张颇为担忧。",
+   "links": [
+    "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html"
+   ],
+   "topic": "coreweave-q3-2026-earnings",
+   "firstSeen": "2026-11-11T07:24:11+08:00"
+  },
+  {
+   "id": "0426e85ff8",
+   "title": "《金融时报》：美商务部把实体清单新增名单推迟两个月，与黄仁勋丑闻相关的 Megaspeed 不在名单中，尽管四个联邦机构力主列入",
+   "summary": "《金融时报》援引知情人士报道，美国商务部将新一批实体清单（出口管制黑名单）新增企业推迟两个月公布，且名单中没有 Megaspeed——尽管另外四个美国政府机构一直在推动将其列入。Megaspeed 与据称的中国间谍 Alice Huang 有关联，她被曝与英伟达 CEO 黄仁勋有婚外情。此前《纽约时报》报道，商务部对 Megaspeed 走私芯片的调查在英伟达法务总顾问联系调查人员后被叫停并转交司法部。这一决定可能进一步加剧外界对英伟达事件中政府处理方式的质疑。",
+   "links": [
+    "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06"
+   ],
+   "topic": "megaspeed-entity-list-delay",
+   "firstSeen": "2026-11-11T07:24:11+08:00"
   }
  ],
- "lastChecked": "2026-11-11T06:54:41+08:00"
+ "lastChecked": "2026-11-11T07:24:11+08:00"
 }
