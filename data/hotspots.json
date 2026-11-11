@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T06:25:08+08:00",
+ "lastUpdated": "2026-11-12T06:39:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46723,7 +46723,30 @@
    ],
    "topic": "jensen-huang-kimberly-powell-relationship-report",
    "firstSeen": "2026-11-12T06:25:08+08:00"
+  },
+  {
+   "id": "89f810b4a3",
+   "title": "《华尔街日报》独家：英伟达董事会准备撤换 CEO 黄仁勋，最快今天开会决定其去留",
+   "summary": "《华尔街日报》美东时间 11 月 11 日晚独家报道，英伟达正准备罢免 CEO 黄仁勋。此举源于公司对其与一名被指为间谍的中国女性婚外关系的调查；知情人士称，董事会最快当天就会开会决定他的去留。此前几天，《纽约时报》又曝出他与直接下属、医疗业务副总裁 Kimberly Powell 的关系，董事会已委托 Wachtell 律所做独立调查，多方呼吁他辞职。报道一出即登上 Hacker News 首页。黄仁勋是英伟达 1993 年的联合创始人，一手带领公司成为 AI 芯片霸主；若他真被撤换，将是 AI 产业链最大的一次管理层震荡，英伟达股价和整个 AI 板块情绪都可能受冲击。目前英伟达尚未公开回应。",
+   "links": [
+    "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+    "https://news.ycombinator.com/item?id=50459703"
+   ],
+   "topic": "nvidia-board-preparing-to-oust-jensen-huang",
+   "firstSeen": "2026-11-12T06:39:49+08:00"
+  },
+  {
+   "id": "59b5439cbd",
+   "title": "华为开源内部量化工具 MACaQ：32.5GB 显存 64 分钟量化 122B 大模型，文本、图像、视频、音频模型都能压成 GGUF 本地跑",
+   "summary": "华为计算系统实验室（huawei-csl）在 GitHub 开源了内部使用的模型量化工具 MACaQ（Model Agnostic Calibrated Quantization），登上 Hacker News 首页。官方称它能用 32.5GB 显存、64 分钟量化一个 1220 亿参数的模型；在 Llama-3-8B 上困惑度低于 MR-GPTQ 和 DuQuant++，或以快 11 倍的量化时间达到同等效果。它不只支持文本模型：可输出 2/3/4 比特 GGUF 给 llama.cpp 用（含 CPU 运行），也支持 vLLM 的 W4A4 推理，以及 Diffusers 下 FLUX.2、Wan2.2 视频、Stable Audio 等图像/视频/音频模型的 W4A4 量化，还适配华为昇腾。示例覆盖 Qwen3 稠密、混合和 MoE 模型，并附 arXiv 论文。对想在本地或小显卡上跑大模型的开发者，这是一个值得试的新选项。",
+   "links": [
+    "https://github.com/huawei-csl/MACaQ",
+    "https://arxiv.org/abs/2611.10649",
+    "https://news.ycombinator.com/item?id=50458166"
+   ],
+   "topic": "huawei-macaq-open-source-quantizer",
+   "firstSeen": "2026-11-12T06:39:49+08:00"
   }
  ],
- "lastChecked": "2026-11-12T06:25:08+08:00"
+ "lastChecked": "2026-11-12T06:39:49+08:00"
 }
