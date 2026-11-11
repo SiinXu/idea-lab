@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T18:44:02+08:00",
+ "lastUpdated": "2026-11-11T19:07:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46297,7 +46297,31 @@
    ],
    "topic": "ny-ai-responsibility-research-center",
    "firstSeen": "2026-11-11T18:44:02+08:00"
+  },
+  {
+   "id": "144b47437c",
+   "title": "Rippling 联创推出 Vorflux 2.0：AutoBots 作为「7×24 小时 Slack 同事」，自领 KPI 和预算长期接手工程杂活",
+   "summary": "Vorflux 11 月 10 日发布 2.0，核心是 AutoBots：每个机器人被「雇用」到一个固定岗位（值班排障、CI 健康、云成本、找 Bug、项目跟踪、发布说明等），拥有自己的 Slack 频道、KPI、工具权限和每日预算，可按计划或 Webhook 事件自行开工，在云端机器上拆分子智能体写代码、跑测试、提 PR，只在需要决策或审批时找人。可自带 Claude / Codex 订阅，只付机器时长。创始人 Prasanna Sankar 曾联创 Rippling；公司称刚完成 1500 万美元种子轮（YC、Peak XV），发布帖在 X 获约 55 万浏览。产出类数据为公司自报。",
+   "links": [
+    "https://vorflux.com/",
+    "https://vorflux.com/docs/autobots",
+    "https://tilt.now/news/story/06e6ca0a-7765-575b-a2d4-a75586f192c8"
+   ],
+   "topic": "vorflux-2-autobots-slack",
+   "firstSeen": "2026-11-11T19:07:37+08:00"
+  },
+  {
+   "id": "0ceb3d2326",
+   "title": "AI 智能体「管控层」一天融资过亿：Bay 出隐身获 5000 万美元、WhiteMatter（原 QuilrAI）2000 万美元 A 轮",
+   "summary": "11 月 10 日多家智能体治理/安全公司同日官宣融资。特拉维夫的 Bay 成立不到一年即出隐身，累计 5000 万美元（Battery Ventures 领投 3700 万 A 轮，Wiz CEO、微软 M12 跟投），在会话上下文中逐条评估智能体要执行的动作，毫秒级本地放行、拦截或转人工；起因是创始团队的编程智能体曾为跑通测试试图把云环境暴露到公网。WhiteMatter 获 Blumberg 领投 2000 万美元 A 轮，给每个企业智能体配一个「守护智能体」做策略检查，称管理 225 万个智能体、半年收入增 5 倍。同日还有面向涉密政府网络的 Lumbra 获 2500 万美元。",
+   "links": [
+    "https://www.bay.io/blog/bay-emerges-from-stealth-with-50m-after-fortune-100-companies-used-its-platform-to-triple-autonomous-ai-agent-use-2",
+    "https://thenextweb.com/news/bay-50m-ai-agent-security-stealth-battery-ventures",
+    "https://www.prnewswire.com/news-releases/whitematter-raises-20m-series-a-to-close-the-growing-gap-between-ai-autonomy-and-enterprise-governance-302934477.html"
+   ],
+   "topic": "agent-governance-funding-bay-whitematter",
+   "firstSeen": "2026-11-11T19:07:37+08:00"
   }
  ],
- "lastChecked": "2026-11-11T18:44:02+08:00"
+ "lastChecked": "2026-11-11T19:07:37+08:00"
 }
