@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T14:53:22+08:00",
+ "lastUpdated": "2026-11-11T15:08:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46112,7 +46112,28 @@
    ],
    "topic": "rapidus-2nm-delay-sram",
    "firstSeen": "2026-11-11T14:53:22+08:00"
+  },
+  {
+   "id": "369640935e",
+   "title": "Tendrils 获 Benchmark 领投 3000 万美元：要从零重做 CPU，造数千核并行处理器",
+   "summary": "芯片初创公司 Tendrils 宣布完成 3000 万美元融资，由 Benchmark 领投，英国主权 AI 基金、Conviction、SV Angels 等参投。公司认为现有 CPU 被向后兼容、缓存一致性和乱序执行拖累，计划抛开共享可变内存与线性指令流，打造数千核并行的通用处理器，并同步开发面向并行架构的开源语言 Vine。",
+   "links": [
+    "https://tendrils.co/blog/2026-11-10/30m-raised",
+    "https://news.ycombinator.com/from?site=tendrils.co"
+   ],
+   "topic": "tendrils-30m-redo-cpu",
+   "firstSeen": "2026-11-11T15:08:31+08:00"
+  },
+  {
+   "id": "303ca02a02",
+   "title": "微软开源 Sysinternals Process Explorer 的 macOS 原生版，登上 Hacker News 热榜",
+   "summary": "微软在 GitHub 发布 Process Explorer for Mac，用 Swift、SwiftUI 和 AppKit 原生实现 Windows 经典进程管理工具的核心体验：实时进程树、模块/句柄/线程查看、单进程详细属性、系统性能曲线和代码签名检查，并提供 macOS 专属的对应功能，可选特权辅助进程。",
+   "links": [
+    "https://github.com/microsoft/Procexp-Mac"
+   ],
+   "topic": "microsoft-process-explorer-mac",
+   "firstSeen": "2026-11-11T15:08:31+08:00"
   }
  ],
- "lastChecked": "2026-11-11T14:53:22+08:00"
+ "lastChecked": "2026-11-11T15:08:31+08:00"
 }
