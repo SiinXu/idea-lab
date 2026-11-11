@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T23:02:16+08:00",
+ "lastUpdated": "2026-11-11T23:17:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46474,7 +46474,39 @@
    ],
    "topic": "adobe-max-2026-sneaks",
    "firstSeen": "2026-11-11T23:02:16+08:00"
+  },
+  {
+   "id": "f3e91f75ed",
+   "title": "Atuin 18.24 推出 Threads：跨机器同步、搜索所有 AI 编程智能体会话，Claude Code 里开的任务可到 Codex 接着做",
+   "summary": "知名终端历史工具 Atuin 把「shell 历史」扩展到智能体会话：新功能 Threads 把散落在笔记本、开发服务器、临时云主机上的智能体会话收进一个可搜索的历史库，可在任意机器 atuin resume 继续，或把会话 fork 到另一个智能体框架（如从 Claude Code 转到 Codex）。同步端到端加密，可用官方服务器、自建或纯本地，采集需主动开启；还提供 MCP，让智能体自己检索过去的会话、理解当时为什么这么决策。作者认为智能体会话记录了命令、输出和意图，是比 shell 历史更有价值的「工作记忆」数据。",
+   "links": [
+    "https://blog.atuin.sh/threads-agent-sessions/",
+    "https://news.ycombinator.com/item?id=50453637"
+   ],
+   "topic": "atuin-threads-agent-sessions",
+   "firstSeen": "2026-11-11T23:17:41+08:00"
+  },
+  {
+   "id": "de395c3eeb",
+   "title": "Siri 联合创始人投资 Helix：用 4 秒语音在手机本地判断「是不是真人」和大致年龄，想替代验证码和刷脸年龄验证",
+   "summary": "Helix 完成 600 万美元融资（Chicago Ventures 领投），Siri 联合创始人 Dag Kittlaus 出任顾问。它的模型可在 iPhone 13 这类设备本地运行，通过一段约 4 秒的语音挑战判断用户是否为真人并估算年龄，用来补充或替代 CAPTCHA、拦截机器人；已有上门医疗服务商 Zeel 用它核验上门人员身份，还在试点用声音检测醉酒或痛苦状态。创始人称，全球年龄验证法规正在逼用户「用隐私换准入」，而它不识别具体说话人、存储的声纹也无法还原声音；但他也承认目前还不能可靠识别电话里的 AI 智能体。",
+   "links": [
+    "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/"
+   ],
+   "topic": "helix-voice-human-verification",
+   "firstSeen": "2026-11-11T23:17:41+08:00"
+  },
+  {
+   "id": "91b2878b43",
+   "title": "苹果关闭运行 28 年的 Apple Support Community 论坛：即日起只读，11 月 20 日永久下线",
+   "summary": "这个用户互助论坛的前身是 1998 年上线的 Apple Tech Exchange，多年来积累了海量用户之间的排障经验。苹果称经过对策略和用户需求的评估后决定关闭，引导用户改用官方 Apple Support 网站，但没有说明几十年的帖子会不会保存。HN 上不少人担心大量长尾问题的解决方案就此消失——这些内容也是搜索引擎和 AI 模型回答苹果问题的重要来源，「社区知识存档」再次成为话题。",
+   "links": [
+    "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+    "https://news.ycombinator.com/item?id=50453555"
+   ],
+   "topic": "apple-support-community-shutdown",
+   "firstSeen": "2026-11-11T23:17:41+08:00"
   }
  ],
- "lastChecked": "2026-11-11T23:02:16+08:00"
+ "lastChecked": "2026-11-11T23:17:41+08:00"
 }
