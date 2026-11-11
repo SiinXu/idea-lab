@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T16:08:52+08:00",
+ "lastUpdated": "2026-11-11T16:28:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46170,7 +46170,30 @@
    ],
    "topic": "marc-lou-100k-hackathon",
    "firstSeen": "2026-11-11T16:08:52+08:00"
+  },
+  {
+   "id": "8f59b53a2a",
+   "title": "Stripe 完成收购 OpenRouter：服务 1000 万开发者的 AI 模型路由平台正式并入，承诺保持模型中立",
+   "summary": "OpenRouter 与 Stripe 11 月 10 日先后在 X 上宣布，OpenRouter 已正式成为 Stripe 的一部分，完成 8 月 19 日宣布的收购。OpenRouter 用一个接口接入 80 多家厂商的 400 多个模型，称有超过 1000 万开发者和企业使用。双方表示将合作帮企业优化 token 路由与用量、探索新商业模式，OpenRouter 保留名称、产品和现有集成。收购价未公布，此前彭博报道超过 70 亿美元。",
+   "links": [
+    "https://testedintelligence.com/stripe-completes-openrouter-acquisition/",
+    "https://www.chaincatcher.com/en/article/2303497",
+    "https://x.com/i/trending/2120246624907567194"
+   ],
+   "topic": "stripe-openrouter-closed",
+   "firstSeen": "2026-11-11T16:28:02+08:00"
+  },
+  {
+   "id": "3b1ac6475f",
+   "title": "AI 视频公司 Higgsfield 称 10 月年化收入达 13.5 亿美元，三个月内冲 20 亿，自称仅次于 Anthropic 和 OpenAI",
+   "summary": "Higgsfield CEO Alex Mashrabov 11 月 11 日表示，公司年化收入（最近四周收入乘以 13）在 9 月突破 10 亿美元后，10 月升至 13.5 亿美元，一个月新增约 3.5 亿，并预计三个月内达到 20 亿。他称 Higgsfield 已是按收入排名第三的独立私营 AI 原生公司。增长主要来自品牌用其批量生成 AI 广告；该数字为公司自报、未经独立核实。",
+   "links": [
+    "https://dealroom.co/news/171523-higgsfield-says-its-run-rate-hit-1-35b-in-october-and-is-on-track-for-2b/",
+    "https://x.com/i/trending/2120327458574729471"
+   ],
+   "topic": "higgsfield-135b-run-rate",
+   "firstSeen": "2026-11-11T16:28:02+08:00"
   }
  ],
- "lastChecked": "2026-11-11T16:08:52+08:00"
+ "lastChecked": "2026-11-11T16:28:02+08:00"
 }
