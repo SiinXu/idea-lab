@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T23:46:31+08:00",
+ "lastUpdated": "2026-11-12T00:14:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46517,7 +46517,17 @@
    ],
    "topic": "verge-tv-privacy-17-questions",
    "firstSeen": "2026-11-11T23:46:31+08:00"
+  },
+  {
+   "id": "f0476f4b70",
+   "title": "谷歌 Labs 推出实验产品 Tabletop：用一句话「氛围编程」出家庭和朋友协作小工具，像 Google Doc 一样多人同时用",
+   "summary": "Tabletop 生成可定制的协作空间，外观有点像 Asana、Monday 这类工作管理软件，但面向个人和家庭生活：把链接、文件和想法丢进去，@tabletop 描述需求或选一个模板，就能生成互动式旅行行程、聚餐投票、AA 分账、比赛对阵表、存钱进度、家务表等小工具，再把邀请链接发到群聊里，大家同时使用。目前通过候补名单开放测试，仅限美国 18 岁以上用户。这是「给普通人用的 vibe coding」又一次落到具体场景：不是做应用，而是给一群人临时做一个能用的工具。",
+   "links": [
+    "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
+   ],
+   "topic": "google-labs-tabletop",
+   "firstSeen": "2026-11-12T00:14:21+08:00"
   }
  ],
- "lastChecked": "2026-11-11T23:46:31+08:00"
+ "lastChecked": "2026-11-12T00:14:21+08:00"
 }
