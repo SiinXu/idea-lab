@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T01:31:44+08:00",
+ "lastUpdated": "2026-11-12T02:01:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46573,7 +46573,17 @@
    ],
    "topic": "yogurt-open-source-granola",
    "firstSeen": "2026-11-12T01:31:44+08:00"
+  },
+  {
+   "id": "7288076ed0",
+   "title": "IBM 更新量子路线图：下一代 Nighthawk 将推出 500+ 可编程量子比特版本，多处理器互联从 9 台缩减为 2 台，2027 年开放双处理器系统",
+   "summary": "在本周的 IBM 量子开发者大会上，IBM 重申要在本十年结束前做出可纠错的量子计算机，并调整了路线：面向公众的通用处理器 Nighthawk 新增一个超过 500 个可编程量子比特的版本，同时把原计划互联的 Nighthawk 数量从 9 台降到 2 台，明年计划的总量子比特数不变，只是实现方式不同；2027 年将开放双处理器系统的访问。IBM 还宣传了 9 月发布的这一代 Nighthawk 上「硬件级量子比特重置」带来的性能提升。它的路线图分两条线：一条专门测试纠错所需的技术，一条给想在今天的量子硬件上试算法的用户提供高性能处理器。",
+   "links": [
+    "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/"
+   ],
+   "topic": "ibm-quantum-roadmap-nighthawk-2026-11",
+   "firstSeen": "2026-11-12T02:01:06+08:00"
   }
  ],
- "lastChecked": "2026-11-12T01:32:30+08:00"
+ "lastChecked": "2026-11-12T02:01:06+08:00"
 }
