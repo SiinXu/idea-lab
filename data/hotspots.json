@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T05:40:26+08:00",
+ "lastUpdated": "2026-11-12T05:52:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46691,7 +46691,17 @@
    ],
    "topic": "github-outage-2026-11-11-actions-pages-copilot",
    "firstSeen": "2026-11-12T05:40:26+08:00"
+  },
+  {
+   "id": "d05830646e",
+   "title": "HN 热文《魔法时代的 Emacs》：老牌 Emacs 用户坦言，AI 编程智能体一出现，Emacs 引以为傲的编辑速度、深度定制和 Lisp 表达力几乎全部失效",
+   "summary": "长文《Emacs in the Age of Magic》在 Hacker News 持续升温。作者是计算机科班出身、用了二十多年 Emacs 的程序员，自 2025 年 9 月开始用 Claude Code。他回顾了 Lisp 和 Emacs 在符号主义 AI 时代的渊源，并坦言：如今告诉 AI 想要什么就能完成工作，Emacs 用户过去自认领先的编辑速度、高度定制和 Lisp 的表达力「在我们停止打字的那一刻全部消失」。比如用 magit 提交代码要敲一串快捷键，现在 Claude Code 改完一段代码就会提示提交，按一下回车即可。文中还通过两个案例（如让 AI 写一个 Excalidraw 风格的 Emacs 模式），调侃新手把 AI 能力推向荒诞极限。文章反映出资深开发者在 AI 编程智能体普及后，对自己工具链和技能价值的重新审视。",
+   "links": [
+    "https://commandlinesystems.com/magic.txt"
+   ],
+   "topic": "emacs-in-the-age-of-magic-ai-coding",
+   "firstSeen": "2026-11-12T05:52:47+08:00"
   }
  ],
- "lastChecked": "2026-11-12T05:40:26+08:00"
+ "lastChecked": "2026-11-12T05:52:47+08:00"
 }
