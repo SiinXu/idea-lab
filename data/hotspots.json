@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T09:14:40+08:00",
+ "lastUpdated": "2026-11-11T09:30:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45765,7 +45765,61 @@
    ],
    "topic": "qantas-accenture-850-jobs",
    "firstSeen": "2026-11-11T09:14:40+08:00"
+  },
+  {
+   "id": "af7403b456",
+   "title": "Anthropic 推出 Claude Meetings 测试版：Claude 作为可见参会者加入视频会议，边听边起草计划、画时间线、调取工作数据",
+   "summary": "Anthropic 11 月 10 日发布 Claude Meetings，让团队把 Claude 作为可见的参会者拉进视频会议。会议进行中，Claude 跟随讨论实时开工：起草正在讨论的方案、在白板上排出时间线、回答会议聊天里的问题，并通过已连接的工作应用调取资料，例如去年的数据。会后，会议纪要、待办事项和 Claude 生成的材料都会保存在 claude.ai。该功能以测试版形式面向 Team 和 Enterprise 套餐推出，首发支持 Google Meet，其他平台后续跟进；同日发布的还有 Claude Whiteboards 和 Claude Sheets。会议记录类 AI 工具从「记下来」走向「当场把活干了」。",
+   "links": [
+    "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+   ],
+   "topic": "anthropic-claude-meetings",
+   "firstSeen": "2026-11-11T09:30:22+08:00"
+  },
+  {
+   "id": "7739f93bab",
+   "title": "智能戒指 Oura 以 6.25 亿美元现金收购 AI 初级诊疗公司 Counsel Health：从「告诉你身体怎么了」走向「帮你看病」",
+   "summary": "Oura 11 月 10 日宣布签署最终协议，以 6.25 亿美元现金（视价格调整）收购 AI 原生初级诊疗公司 Counsel Health，预计年内完成交割。Counsel 由医生和 AI 研究者创立，把医疗 AI 与自有执业医生结合：用户可从 Oura 的健康洞察出发或直接与医疗 AI 对话，需要时几分钟内升级到认证医生，全程在 Oura App 内完成，双方此前已在 6 月集成。Oura 称本季度增长 153%，会员超过 600 万；收购后 Counsel 继续服务企业客户，且不要求购买戒指，CEO Muthu Alagappan 将出任 Oura 首席临床 AI 官。TechCrunch 指出，Oura 几周前刚无限期推迟了最高 22 亿美元的 IPO。",
+   "links": [
+    "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "https://www.counselhealth.com/newsroom/oura-to-acquire-counsel-health-advancing-vision-for-more-connected-personalized-healthcare",
+    "https://www.fiercehealthcare.com/digital-health/oura-acquire-ai-virtual-primary-care-partner-counsel-health-625m"
+   ],
+   "topic": "oura-acquires-counsel-health",
+   "firstSeen": "2026-11-11T09:30:22+08:00"
+  },
+  {
+   "id": "def5e5e3c9",
+   "title": "AI 训练数据公司 Mercor 完成 7.5 亿美元 D 轮、估值翻倍至 200 亿美元，转向帮各行业企业评测和后训练自己的智能体",
+   "summary": "Mercor 11 月 10 日宣布完成 7.5 亿美元 D 轮融资，估值 200 亿美元，是 2025 年 10 月 100 亿美元估值的两倍；本轮包含员工股份回购，投资方有 Benchmark、Felicis、General Catalyst、英伟达、Salesforce、Zoom 以及 Apollo 关联基金等。Mercor 起家于 AI 招聘平台，如今运营一个 500 多万名专家的网络，付费让他们用专业知识训练和评测 AI 模型，主要客户一直是前沿大模型实验室。新资金将投入评测和后训练基础设施，搭建让智能体学习复杂专业流程的仿真环境，把同样的服务卖给各行业企业。联合 CEO Brendan Foody 说，经济中的每份工作都需要自己的 AI 智能体，每家公司都需要在自己的业务上训练和评测它们。",
+   "links": [
+    "https://www.mercor.com/blog/series-d/",
+    "https://www.businesswire.com/news/home/20261110410031/en/Mercor-Raises-%24750-Million-Series-D-at-%2420-Billion-Valuation-to-Help-Enterprises-Own-Their-Intelligence",
+    "https://thenextweb.com/news/mercor-750m-series-d-20bn-valuation"
+   ],
+   "topic": "mercor-series-d-20b",
+   "firstSeen": "2026-11-11T09:30:22+08:00"
+  },
+  {
+   "id": "d0e74c1664",
+   "title": "亚马逊 Ring 推出安防机器人产品线：室内巡逻无人机 Drone Cam 售 249.99 美元，商用巡逻机器人 Rover Cam 售 999.99 美元",
+   "summary": "亚马逊旗下 Ring 11 月 10 日发布 Ring Robotics 新品类，主打能自主巡逻、调查和响应的移动安防设备。Ring Drone Cam 是一款室内飞行安防摄像头，可按自定义路线飞到固定摄像头拍不到的角落；Ring Rover Cam 是面向商家的地面安防机器人，可自主巡逻、调查异常，并以最高 4K 画质直播。两款设备都由名为 AI Pilot 的自研系统驱动，能绘制空间地图、推荐巡逻点并自动避障，同时接入现有 Ring 设备和 App。Rover Cam 将于 2026 年 12 月 16 日在美国发货，Drone Cam 定于 2027 年 1 月 27 日发货。",
+   "links": [
+    "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot"
+   ],
+   "topic": "ring-robotics-drone-rover",
+   "firstSeen": "2026-11-11T09:30:22+08:00"
+  },
+  {
+   "id": "2c864d3cf0",
+   "title": "谷歌 11 月 Pixel 更新：Pixel 10 上线 Gemini Intelligence，可代办点咖啡、叫车、订餐等多步骤任务；Pixel Tag 防丢器 29.99 美元起",
+   "summary": "谷歌 11 月 10 日推送 November Pixel Drop。Gemini Intelligence 登陆 Pixel 10，包括语音输入升级 Rambler（自动去掉「嗯」之类的口头语并整理成通顺文字）、个性化建议，以及让 Gemini 代办买菜、叫车、点外卖、订餐厅等多步骤任务，这项代办功能新增日本、英国和印度。同时推出 Pixel Tag 防丢器，可塞进钱包，电池续航一年以上，借助超过 10 亿台安卓设备组成的 Find Hub 网络远程定位，并用 UWB 在近距离显示方向和距离；11 月 11 日开售，单个 29.99 美元，四件装 99.99 美元。更新从今天起在未来几周陆续推送。",
+   "links": [
+    "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/"
+   ],
+   "topic": "google-november-2026-pixel-drop",
+   "firstSeen": "2026-11-11T09:30:22+08:00"
   }
  ],
- "lastChecked": "2026-11-11T09:14:40+08:00"
+ "lastChecked": "2026-11-11T09:30:22+08:00"
 }
