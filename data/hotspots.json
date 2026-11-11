@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T16:28:02+08:00",
+ "lastUpdated": "2026-11-11T16:53:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46193,7 +46193,31 @@
    ],
    "topic": "higgsfield-135b-run-rate",
    "firstSeen": "2026-11-11T16:28:02+08:00"
+  },
+  {
+   "id": "21dd5588c0",
+   "title": "高盛、花旗等 21 家银行为稳定币项目 Faro 投入约 2.7 亿美元，计划 2027 年上半年推出美元稳定币",
+   "summary": "据彭博报道，高盛、花旗、桑坦德、德意志银行等 21 家金融机构共同出资约 2.7 亿美元，用于覆盖代号 Project Faro 的稳定币公司前五年运营成本。该公司拟在美国注册，先发行美元稳定币，之后扩展到其他 G7 货币、优先欧元版，目标 2027 年上半年上线，并按美国 GENIUS 法案和欧盟 MiCA 合规，正在物色 CEO。美元稳定币市场目前约 2930 亿美元，USDT 和 USDC 合计占约 84%。",
+   "links": [
+    "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+    "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027",
+    "https://x.com/i/trending/2120432367462650263"
+   ],
+   "topic": "project-faro-bank-stablecoin",
+   "firstSeen": "2026-11-11T16:53:55+08:00"
+  },
+  {
+   "id": "ad1c6934f0",
+   "title": "吞并华纳兄弟后的 Skydance 公布 60 亿美元降本计划：用 AI 工作流砍后台开支、用 AI 编程工具整合技术栈",
+   "summary": "Skydance 在三季度财报中披露，合并派拉蒙与华纳兄弟探索后，计划三年内实现至少 60 亿美元年化协同节省：后台与企业职能至少 22 亿（含规模化 AI 工作流）、技术至少 14 亿（含 AI 编程工具）、营销 10 亿、采购 14 亿。联席 CEO 埃里森称 AI 是给艺术家用的工具、不会取代他们，还会用 AI 加速拍片、降低成本；网上则有人批评这是借 AI 裁员降本。",
+   "links": [
+    "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+    "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000062/ex99_q326.htm",
+    "https://x.com/i/trending/2120376033077756180"
+   ],
+   "topic": "skydance-6b-ai-savings",
+   "firstSeen": "2026-11-11T16:53:55+08:00"
   }
  ],
- "lastChecked": "2026-11-11T16:28:02+08:00"
+ "lastChecked": "2026-11-11T16:53:55+08:00"
 }
