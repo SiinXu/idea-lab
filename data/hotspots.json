@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T10:16:52+08:00",
+ "lastUpdated": "2026-11-11T10:45:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45895,7 +45895,29 @@
    ],
    "topic": "double11-ai-token-on-sale",
    "firstSeen": "2026-11-11T10:16:52+08:00"
+  },
+  {
+   "id": "591d4b94a7",
+   "title": "Adobe MAX：Photoshop、Premiere 等将开放本地 MCP，让 ChatGPT、Claude 等外部智能体直接改原生工程文件，2027 年初私测",
+   "summary": "Adobe 11 月 10 日在 MAX 大会上预告 Creative Cloud 本地 MCP 集成：用户可以让自己惯用的第三方智能体（如 OpenAI、谷歌、Anthropic 的产品）在本机直接操作 Photoshop、Illustrator、Premiere 和 After Effects，修改原生工程文件，图层、矢量、素材箱和序列都保持可编辑，人可随时接手精修；智能体还能串联 Google Docs、Slack 等其他 MCP 工具，从读需求到交付一条龙。演示中 ChatGPT 在 9 分多钟内把一张 DJ 海报改出三位 DJ、两种语言、三种尺寸共 9 个可编辑画板。该功能 2027 年初私测。同时 Adobe 自家 Creative Agent 扩展到 Premiere、Illustrator、InDesign、After Effects 和 Frame.io（测试版），并预告可在后台持续处理素材的「常驻智能体」和整合位图、矢量、动效、3D 的 Firefly Design。",
+   "links": [
+    "https://news.adobe.com/news/2026/11/adobe-transforms-creative-cloud-tools",
+    "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+    "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+   ],
+   "topic": "adobe-max-2026-local-mcp",
+   "firstSeen": "2026-11-11T10:45:12+08:00"
+  },
+  {
+   "id": "9c9a12b6a9",
+   "title": "英伟达与 KAIST 联合 AI 研究中心五年投入 3 亿美元：明年前建成 100 多万套韩语数据集，开放给韩国企业商用训练自有模型",
+   "summary": "据《首尔经济日报》11 月 11 日报道，英伟达与韩国科学技术院（KAIST）共建的联合 AI 研究中心计划在明年前构建超过 100 万套韩语数据集，并允许韩国企业将其商用于各自的专有 AI 模型。双方五年合计投入 3 亿美元（约 4000 亿韩元），其中 80% 以上、约 2.5 亿美元用于算力资源。该中心定位为多家企业共用的技术底座，而非提升某一个模型的性能，今年起招聘全职研究员，每年至少支持 10 名 KAIST 研究人员。这延续了英伟达本周在首尔加码韩国 AI 生态的动作。",
+   "links": [
+    "https://en.sedaily.com/economy/2026/11/11/nvidia-kaist-to-build-1-million-korean-language-data-sets"
+   ],
+   "topic": "nvidia-kaist-korean-datasets",
+   "firstSeen": "2026-11-11T10:45:12+08:00"
   }
  ],
- "lastChecked": "2026-11-11T10:16:52+08:00"
+ "lastChecked": "2026-11-11T10:45:12+08:00"
 }
