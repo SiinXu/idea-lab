@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T03:11:09+08:00",
+ "lastUpdated": "2026-11-12T03:44:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46627,7 +46627,19 @@
    ],
    "topic": "eu-digital-fairness-act-official-proposal",
    "firstSeen": "2026-11-12T03:11:09+08:00"
+  },
+  {
+   "id": "c08e4def2b",
+   "title": "《经济学人》社论直接喊话「黄仁勋必须辞职」：共和党参议员 Cramer、前白宫经济顾问 Kudlow 也已公开要求他下台",
+   "summary": "英伟达 CEO 黄仁勋「间谍门」持续发酵。《经济学人》11 月 11 日发表社论《Jensen Huang must resign》，并称「他不该是唯一被追责的人」。此前参议院银行委员会共和党参议员 Kevin Cramer 表示「被要挟的风险太高」，董事会内部调查「远远不够」；特朗普时期白宫国家经济委员会主任 Kudlow 也在 Fox Business 上呼吁他「立即下台」。AI 媒体 Transformer 的 Shakeel Hashim 则指出，英伟达和黄仁勋本人此前多次称与 Megaspeed 前高管 Alice Huang 的往来「完全正常」，如今被证明不实，可能引发证券调查和投资者诉讼。与此同时，国会正考虑把 AI OVERWATCH 法案、芯片安全法案和 MATCH 法案塞进年底的《国防授权法》，收紧对华先进芯片出口。英伟达的管理层稳定和出口管制走向，都会直接影响 AI 算力供应和相关股票。",
+   "links": [
+    "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign",
+    "https://en.bloomingbit.io/feed/news/124171",
+    "https://www.transformernews.ai/p/jensen-huang-should-resign-nvidia-affair-megaspeed"
+   ],
+   "topic": "jensen-huang-resignation-calls-economist",
+   "firstSeen": "2026-11-12T03:44:19+08:00"
   }
  ],
- "lastChecked": "2026-11-12T03:11:09+08:00"
+ "lastChecked": "2026-11-12T03:44:19+08:00"
 }
