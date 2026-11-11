@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T15:59:36+08:00",
+ "lastUpdated": "2026-11-11T16:08:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46145,7 +46145,32 @@
    ],
    "topic": "anthropic-roadshow-age-of-miracles",
    "firstSeen": "2026-11-11T15:59:36+08:00"
+  },
+  {
+   "id": "80eae82c1c",
+   "title": "阿里开放 Qwen4-Max 预览：100 万 token 上下文、主打编程与智能体，仅限 Token Plan 订阅，11 月 25 日后下线",
+   "summary": "通义千问官宣「Qwen4 is coming」，旗舰 Qwen4-Max 即日起以 qwen4-max-preview 开放预览，支持文本、图像和视频输入，上下文 100 万 token，最大输出约 39 万 token（思考与回答共用），默认开启思考，兼容 OpenAI 和 Anthropic 接口。预览期为北京时间 11 月 11 日至 25 日，只能通过 Token Plan 订阅调用，不支持按量付费，期间消耗低至 2 折、夜间再打折；QwenWork、Qoder、Qwen App 和 QwenStudio 也可抢先用。官方暂未公布参数量、基准成绩和开源权重。",
+   "links": [
+    "https://news.sulat.com/2026/11/11/qwen4-max-preview-token-plan/",
+    "https://technode.com/2026/11/11/alibaba-opens-qwen4-max-preview-with-a-million-token-context-window/",
+    "https://www.alibabacloud.com/help/zh/model-studio/token-plan-personal-overview",
+    "https://x.com/i/trending/2120340656795042196"
+   ],
+   "topic": "qwen4-max-preview",
+   "firstSeen": "2026-11-11T16:08:52+08:00"
+  },
+  {
+   "id": "adea0b16ad",
+   "title": "Marc Lou 联手 Higgsfield 办「10 万美元黑客松」：11 月 16 日从零创业，30 天比谁利润最高，99 美元报名费引争议",
+   "summary": "独立开发者 Marc Lou 与 Jack Friks 获 Higgsfield 赞助，推出 30 天创业黑客松：参赛者须在 11 月 16 日起全新创办软件或手机 App 业务，按 TrustMRR 核验的利润（不是营收）排名，第一名奖 10 万美元现金，二三名分别是 iPhone Duo 和 MacBook Neo。提前报名 99 美元、开赛后 149 美元，Ship or Die 会员免费；域名、上架等须开赛后才能注册，否则取消资格。支持者认为收费能筛掉凑热闹的人，批评者认为赞助赛事还收费像是在卖课。",
+   "links": [
+    "https://www.ship-or-die.com/100k-hackathon",
+    "https://marclou.com/tweets/i-got-100-000-to-run-a-30-day-startup-hackathon",
+    "https://x.com/i/trending/2120301602200342759"
+   ],
+   "topic": "marc-lou-100k-hackathon",
+   "firstSeen": "2026-11-11T16:08:52+08:00"
   }
  ],
- "lastChecked": "2026-11-11T15:59:36+08:00"
+ "lastChecked": "2026-11-11T16:08:52+08:00"
 }
