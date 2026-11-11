@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T14:31:27+08:00",
+ "lastUpdated": "2026-11-11T14:53:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46102,7 +46102,17 @@
    ],
    "topic": "nwpu-nvidia-h200-blacklist",
    "firstSeen": "2026-11-11T14:31:27+08:00"
+  },
+  {
+   "id": "1f72d75c3a",
+   "title": "彭博：日本 Rapidus 仍未做出可用的 SRAM，恐错过 2028 年 3 月量产 2nm 芯片的期限",
+   "summary": "据彭博援引知情人士，日本国家队芯片厂 Rapidus 至今仍未制造出能正常工作的 SRAM。这是一个关键里程碑，原本需在 2026 年夏季前完成，才能赶上其 2028 年 3 月量产 2 纳米芯片的目标，因此 Rapidus 很可能无法按期实现量产。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-10/japan-s-rapidus-is-said-likely-to-miss-mass-production-deadline"
+   ],
+   "topic": "rapidus-2nm-delay-sram",
+   "firstSeen": "2026-11-11T14:53:22+08:00"
   }
  ],
- "lastChecked": "2026-11-11T14:40:40+08:00"
+ "lastChecked": "2026-11-11T14:53:22+08:00"
 }
