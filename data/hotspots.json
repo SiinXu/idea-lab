@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T11:42:20+08:00",
+ "lastUpdated": "2026-11-11T11:57:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45988,7 +45988,40 @@
    ],
    "topic": "gigabyte-ai-top-aero-rtx-spark",
    "firstSeen": "2026-11-11T11:42:20+08:00"
+  },
+  {
+   "id": "b664919746",
+   "title": "AI+人工安全运营公司 Daylight 完成 8000 万美元 B 轮，高盛另类投资领投，营收一年涨超 40 倍",
+   "summary": "纽约的 Daylight 11 月 10 日宣布完成 8000 万美元 B 轮融资，由高盛另类投资旗下成长股权部门领投，Okta Ventures 新加入，贝恩资本、Craft Ventures 等老股东跟投，累计融资 1.2 亿美元（外媒报道估值约 4 亿美元）。它的托管检测与响应服务把 AI 智能体和人类安全工程师组合起来：智能体处理日常安全运营，工程师负责需要人判断的决策，称可在几秒内发现威胁、几分钟内遏制，比传统托管安全商快最多 10 倍。客户包括 Lovable、LastPass、Miro 等，过去一年营收增长超 40 倍。创始团队来自以色列情报部队和安全独角兽 Torq，新资金将用于拓展欧洲、中东、非洲和亚太市场。",
+   "links": [
+    "https://daylight.ai/blog/as-ai-threats-surge-daylight-raises-80m-led-by-goldman-sachs-alternatives",
+    "https://startupreader.com/news/archive/2026-11-11"
+   ],
+   "topic": "daylight-security-series-b-80m",
+   "firstSeen": "2026-11-11T11:57:54+08:00"
+  },
+  {
+   "id": "48def81fdc",
+   "title": "给 AI 智能体做「长期记忆」的 Graphon Labs 完成 3500 万美元 A 轮，RRE 领投，出隐身不到半年",
+   "summary": "旧金山的 Graphon Labs 11 月 10 日宣布完成 3500 万美元 A 轮融资，RRE Ventures 领投，惠普、Energy Impact Partners、日立风投和 Gaia VC 参投，距离以 830 万美元种子轮走出隐身不到 6 个月，累计融资 4330 万美元。它用图论里的 graphon 框架，把企业的文档、视频和图片之间的关联连同来源与修改时间一起建成图谱，作为 Claude、GPT 等现成模型之下的持久记忆层，CEO 认为传统 RAG 像「把书页撕碎再翻找」。公司自称在 LoCoMo 长对话记忆测试上得分 93.9%、比整段对话塞进上下文少用 58% 的 token。现有客户包括旧金山 49 人队和日立，20 人团队计划再扩展到手机、笔记本和可穿戴设备的端侧记忆。",
+   "links": [
+    "https://www.businesswire.com/news/home/20261110959095/en/Graphon-Labs-Raises-%2435M-Series-A-to-Accelerate-AGI-with-Persistent-Intelligence",
+    "https://thenextweb.com/news/graphon-labs-35m-series-a-ai-agent-memory"
+   ],
+   "topic": "graphon-labs-series-a-agent-memory",
+   "firstSeen": "2026-11-11T11:57:54+08:00"
+  },
+  {
+   "id": "15015b7ecf",
+   "title": "Rackspace 与 Together AI 签约约 3.8 亿美元：为其推理业务专建英伟达 GB300 NVL72 液冷集群，2027 年中投用，但 GPU 融资尚未落实",
+   "summary": "老牌云托管商 Rackspace 11 月 10 日宣布与 Together AI 签订多年期基础设施协议，预计合同总值约 3.8 亿美元：Rackspace 将在专建的液冷机房部署并运营英伟达 GB300 NVL72 系统（配 Spectrum-X 以太网），包括供电、散热、网络和存储，Together AI 在上面运行开源模型推理云服务，计划 2027 年中投入使用。双方另签了不具约束力的意向书，探索未来扩容（Rackspace 称可能是数十亿美元级机会）和联合面向企业销售。但 Rackspace 明确表示购买 GPU 的融资尚未敲定，交易以融资到位为前提；它在 11 月 6 日刚完成一笔 6600 万美元的定向增发。",
+   "links": [
+    "https://www.rackspace.com/news/together-ai-strategic-agreement/",
+    "https://www.investing.com/news/company-news/rackspace-q3-2026-slides-ai-deals-drive-outlook-despite-revenue-decline-93CH-5015932"
+   ],
+   "topic": "rackspace-together-ai-gb300-deal",
+   "firstSeen": "2026-11-11T11:57:54+08:00"
   }
  ],
- "lastChecked": "2026-11-11T11:42:20+08:00"
+ "lastChecked": "2026-11-11T11:57:54+08:00"
 }
