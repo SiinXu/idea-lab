@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T09:45:37+08:00",
+ "lastUpdated": "2026-11-11T10:00:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45850,7 +45850,41 @@
    ],
    "topic": "bay-ai-agent-security-50m",
    "firstSeen": "2026-11-11T09:45:37+08:00"
+  },
+  {
+   "id": "b5864cc5dc",
+   "title": "软银二季度由盈转亏 1.12 万亿日元（约 70 亿美元）：为美国 AI 数据中心抢购发电设备的预付款计提 5972 亿日元损失",
+   "summary": "软银集团 11 月 10 日公布 2026 财年第二季度（7–9 月）财报，净亏损 1.12 万亿日元（约 70 亿美元），去年同期为净利润 2.5 万亿日元，这是约两年来首次季度亏损，远差于分析师预期。主要拖累是一笔 5972 亿日元（约 37 亿美元）的损失：软银此前担心电力设备短缺和交付周期长，提前为美国 AI 数据中心项目（如俄亥俄州 PORTS-Pike 园区）预付采购发电设备，截至 9 月底累计支付 94.8 亿美元，如今调整采购计划，部分预付款确认为损失。英特尔、Arm、Coupang 持股价值下跌也带来约 2701 亿日元损失，融资成本同比大增。电力正成为 AI 算力扩张最硬的约束。",
+   "links": [
+    "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+    "https://group.softbank/media/Project/sbg/sbg/pdf/ir/financials/financial_reports/financial-report_q2fy2026_01_en.pdf",
+    "https://www.mobileworldlive.com/ai-cloud/softbank-suffers-net-loss-on-us-data-centre-woes/"
+   ],
+   "topic": "softbank-fy26q2-loss-power-equipment",
+   "firstSeen": "2026-11-11T10:00:55+08:00"
+  },
+  {
+   "id": "065ecab1cc",
+   "title": "阿里芯片子公司平头哥获港交所放行分拆，已秘密递表申请香港主板上市，据报拟募资 20–30 亿美元",
+   "summary": "阿里巴巴 11 月 10 日公告，港交所已确认其可推进分拆全资子公司平头哥（上海）技术股份有限公司，平头哥已于 9 月 11 日以保密方式递交 A1 上市申请，计划在香港主板发行 H 股，上市后仍为阿里子公司。发行规模、结构和阿里持股降幅尚未确定，仍需港交所上市委员会批准及向中国证监会完成备案；《英文虎报》援引 IFR 称可能募资 20 亿至 30 亿美元。平头哥成立于 2018 年，提供全栈数据中心芯片，9 月发布的真武 V900 AI 芯片号称性能是上一代三倍、可扩展到 50 万卡集群，预计 2027 年一季度量产上市。今年 1 月百度昆仑芯也已秘密递表，国产 AI 芯片资产正密集登陆港股。",
+   "links": [
+    "https://data.alibabagroup.com/ir_filings/HKEX/09988/en/202611102026111001061/2026111001061.pdf",
+    "https://www.dealstreetasia.com/stories/alibabas-ai-chip-unit-t-head-files-for-ipo-in-hong-kong-500656",
+    "https://www.scmp.com/business/companies/article/3373974/alibaba-chip-unit-t-head-files-hong-kong-ipo-plan-amid-chinas-ai-self-sufficiency-drive"
+   ],
+   "topic": "alibaba-t-head-hk-ipo",
+   "firstSeen": "2026-11-11T10:00:55+08:00"
+  },
+  {
+   "id": "932154da39",
+   "title": "谷歌发布 Gemini Robotics 2.5：在奔驰产线测试 Apptronik 人形机器人 Apollo 2，零件配料成功率 96%",
+   "summary": "据韩国《朝鲜日报》11 月 11 日报道，谷歌在全面开放 Gemini 4 Carbon 的同时发布了 Gemini Robotics 2.5，用于增强机器人在真实环境中的感知和任务执行能力。谷歌称已在 200 多项任务上验证其精细操作能力；与机器人公司 Apptronik 和梅赛德斯-奔驰合作，在真实汽车生产线上测试人形机器人 Apollo 2，零件配料（kitting）成功率达 96%。在有障碍物的环境中任务完成率提升 33%，有人在旁边时提升 43%。大模型公司正把同一套基础模型能力延伸到工厂里的实体机器人。",
+   "links": [
+    "https://biz.chosun.com/en/en-it/2026/11/11/WN4UG7CZR5BCDFNAE7DKBCDQRE/"
+   ],
+   "topic": "google-gemini-robotics-2-5",
+   "firstSeen": "2026-11-11T10:00:55+08:00"
   }
  ],
- "lastChecked": "2026-11-11T09:45:37+08:00"
+ "lastChecked": "2026-11-11T10:00:55+08:00"
 }
