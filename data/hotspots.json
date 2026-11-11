@@ -46499,7 +46499,7 @@
   {
    "id": "91b2878b43",
    "title": "苹果关闭运行 28 年的 Apple Support Community 论坛：即日起只读，11 月 20 日永久下线",
-   "summary": "这个用户互助论坛的前身是 1998 年上线的 Apple Tech Exchange，多年来积累了海量用户之间的排障经验。苹果称经过对策略和用户需求的评估后决定关闭，引导用户改用官方 Apple Support 网站，但没有说明几十年的帖子会不会保存。HN 上不少人担心大量长尾问题的解决方案就此消失——这些内容也是搜索引擎和 AI 模型回答苹果问题的重要来源，「社区知识存档」再次成为话题。",
+   "summary": "这个用户互助论坛的前身是 1998 年上线的 Apple Tech Exchange，多年来积累了海量用户之间的排障经验。苹果称经过对策略和用户需求的评估后决定关闭，引导用户改用官方 Apple Support 网站，但没有说明几十年的帖子会不会保存。如果帖子随站点一起消失，大量长尾问题的解决方案将不再可查，「社区知识存档」问题再次被摆上台面。",
    "links": [
     "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
     "https://news.ycombinator.com/item?id=50453555"
@@ -46508,5 +46508,5 @@
    "firstSeen": "2026-11-11T23:17:41+08:00"
   }
  ],
- "lastChecked": "2026-11-11T23:17:41+08:00"
+ "lastChecked": "2026-11-11T23:19:09+08:00"
 }
