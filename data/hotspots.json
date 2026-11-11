@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T11:12:58+08:00",
+ "lastUpdated": "2026-11-11T11:32:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45964,7 +45964,19 @@
    ],
    "topic": "arm-cortex-m42",
    "firstSeen": "2026-11-11T11:12:58+08:00"
+  },
+  {
+   "id": "a548f4bc42",
+   "title": "独立游戏节 IGF 19 名评委宣布拒投任何用过生成式 AI 的游戏，《Big Walk》开发商 House House 承认不到 0.1% 代码受 LLM 影响并道歉",
+   "summary": "2027 年 3 月独立游戏节（IGF）的 19 名评委本周联名声明：今年提交作品中用生成式 AI 开发的游戏「显著增加」，他们将拒绝投票给「以任何形式」使用生成式 AI 的游戏，并明确「AI 生成的代码也不例外」，呼吁 IGF 未来全面禁止含 AI 生成内容的作品；签名者包括 Sam Barlow、《蔚蓝》作曲 Lena Raine。随后《无题大鹅模拟》团队 House House 披露，新作《Big Walk》在开发收尾阶段少量用聊天机器人排查第三方代码问题，例如修复 Unity URP 日出日落时阴影导致游戏变慢 50% 的 bug，估计受影响代码远不到 0.1%，并为缺少内部 AI 政策道歉。此事把「AI 辅助写代码算不算用 AI」的争论推到台前。",
+   "links": [
+    "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+    "https://gameinformer.com/2026/11/10/house-house-discloses-ai-use-for-under-01-of-big-walks-code-following-igf-voting",
+    "https://www.videogameschronicle.com/news/big-walk-studio-says-it-used-ai-sparingly-in-response-to-indie-award-jury-statement-against-its-use/"
+   ],
+   "topic": "igf-jurors-ai-big-walk",
+   "firstSeen": "2026-11-11T11:32:11+08:00"
   }
  ],
- "lastChecked": "2026-11-11T11:12:58+08:00"
+ "lastChecked": "2026-11-11T11:32:11+08:00"
 }
