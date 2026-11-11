@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T20:58:11+08:00",
+ "lastUpdated": "2026-11-11T21:10:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46413,7 +46413,28 @@
    ],
    "topic": "microsoft-auto-sr-ga-xbox-ally",
    "firstSeen": "2026-11-11T20:58:11+08:00"
+  },
+  {
+   "id": "8d8bc38f54",
+   "title": "谷歌工程师让 AI 智能体扫 NASA 激光雷达数据，72 小时内找到一处未登记的玛雅遗址",
+   "summary": "作者在秘鲁旅行时突发奇想，让 Gemini、ChatGPT、Claude、Grok 等多个智能体协作：自动寻找公开的 NASA 激光雷达（穿透树冠测地形）数据、筛选疑似人工地形，最终在墨西哥定位到一处此前无人报告的玛雅遗址，并在 72 小时内收到墨西哥政府官方回复。作者自称非考古专业，HN 讨论热度上升。「智能体 + 公开遥感数据」做发现型任务的门槛正在快速降低。",
+   "links": [
+    "https://pietromiotti.com/latest/maya-site/",
+    "https://news.ycombinator.com/from?site=pietromiotti.com"
+   ],
+   "topic": "ai-agents-nasa-lidar-unmapped-maya-site",
+   "firstSeen": "2026-11-11T21:10:14+08:00"
+  },
+  {
+   "id": "e82f105c45",
+   "title": "电压毛刺注入破解英伟达 GA100：把 8GB 矿卡 CMP 170HX 改成「A100-80G」，跑得比正品还快约 1.2 倍",
+   "summary": "研究者 Kate 发现 GA100 芯片存在电压故障注入漏洞，可烧写任意熔丝，把被阉割的 CMP 170HX 挖矿卡解锁为等效 A100-80G：启用全部约 120–126 个 SM（正品 A100 只开 108 个），并恢复 NVLink、PCIe Gen4 等被禁用功能。二手矿卡变数据中心算力卡，对廉价 AI 算力和英伟达产品分级都有冲击。",
+   "links": [
+    "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/"
+   ],
+   "topic": "ga100-voltage-glitch-cmp170hx-to-a100",
+   "firstSeen": "2026-11-11T21:10:14+08:00"
   }
  ],
- "lastChecked": "2026-11-11T20:58:11+08:00"
+ "lastChecked": "2026-11-11T21:10:14+08:00"
 }
