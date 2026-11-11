@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T06:08:51+08:00",
+ "lastUpdated": "2026-11-12T06:25:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46711,7 +46711,19 @@
    ],
    "topic": "united-airlines-bans-ai-agent-booking",
    "firstSeen": "2026-11-12T06:08:51+08:00"
+  },
+  {
+   "id": "8e5f1df4bf",
+   "title": "《纽约时报》再曝黄仁勋另一段婚外情：对象是直接向他汇报的英伟达医疗业务副总裁 Kimberly Powell；另据报道，特朗普 5 月访华前已被告知其「间谍门」",
+   "summary": "英伟达 CEO 黄仁勋「间谍门」再出新料。《纽约时报》11 月 11 日援引五名英伟达前员工和现员工的说法报道，黄仁勋（63 岁）还与直接向他汇报的医疗业务副总裁 Kimberly Powell（48 岁）有婚外关系，两人均已婚。据称今年 3 月英伟达大会期间，两人在圣何塞一家酒店举止亲密，被旁观者用手机拍下，黄仁勋的安保人员随后拦下此人，并提出让其签保密协议（《纽约时报》未看到该视频）。英伟达行为准则要求员工避免因「个人关系」产生利益冲突。记者打电话求证时，黄仁勋只说「我觉得你不该直接找我」就挂断；英伟达拒绝置评。同一天，《纽约时报》还报道，国务卿兼国家安全顾问鲁比奥今年 5 月在飞往北京的「空军一号」上就向特朗普通报过黄仁勋与疑似中国间谍的关系，这与特朗普周一称「当时没听说」的说法矛盾。新爆料正值董事会委托 Wachtell 律所独立调查、多方呼吁他辞职之际，英伟达的治理风险进一步升高。",
+   "links": [
+    "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+    "https://dnyuz.com/2026/11/11/jensen-huang-said-to-have-had-relationship-with-nvidia-executive-who-reports-to-him/",
+    "https://www.staradvertiser.com/2026/11/11/breaking-news/trump-knew-of-nvidia-ceos-suspected-spy-ties-before-beijing-visit/"
+   ],
+   "topic": "jensen-huang-kimberly-powell-relationship-report",
+   "firstSeen": "2026-11-12T06:25:08+08:00"
   }
  ],
- "lastChecked": "2026-11-12T06:08:51+08:00"
+ "lastChecked": "2026-11-12T06:25:08+08:00"
 }
