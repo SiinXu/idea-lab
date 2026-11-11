@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T19:07:37+08:00",
+ "lastUpdated": "2026-11-11T19:39:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46321,7 +46321,30 @@
    ],
    "topic": "agent-governance-funding-bay-whitematter",
    "firstSeen": "2026-11-11T19:07:37+08:00"
+  },
+  {
+   "id": "b22522d14a",
+   "title": "Tether AI 发布 0.8B 端侧智能体模型 BotPsy：手机上跑的工具调用助手，同尺寸工具使用能力称第一",
+   "summary": "Tether AI Research 11 月 11 日在 Hugging Face 发布 BotPsy：基于 Qwen3.5-0.8B 微调、专做函数调用与智能体流程的端侧个人助手，覆盖搜索调研、出行、电商金融、设备与车辆控制、文件、日历、邮件消息等场景。官方称其工具使用和智能体表现超过所测全部 1.2B 以内模型；红队测试不安全回复率从基座的 36% 降到 21%，推理 token 少约 3 倍、死循环率从 22.9% 降至 1.4%。将以 Apache 2.0 开放权重（bf16/Q8/Q4，含 GGUF，支持 llama.cpp）。数据为官方自报，小模型不适合高风险任务。",
+   "links": [
+    "https://huggingface.co/blog/qvac/botpsy"
+   ],
+   "topic": "tether-botpsy-0-8b-on-device-agent",
+   "firstSeen": "2026-11-11T19:39:30+08:00"
+  },
+  {
+   "id": "3ecb3b11fd",
+   "title": "上智院、复旦开源 1.9B 记忆模块 REMORY：给智能体「上下文压缩」补上软记忆，冻结主模型也能连跑数日",
+   "summary": "上海科学智能研究院联合复旦大学、上海创智学院开源 REMORY：长任务智能体做上下文压缩时，文字摘要会丢信息，REMORY 在摘要后追加一段学习得到的「残差软记忆 token」，帮冻结的主模型接近保留完整历史时的效果，训练只更新记忆模块、两张 H800 自监督完成。论文称在 SummHay 上仅用 5.2% 的输入位置逼近全上下文得分，在 BrowseComp、Terminal-Bench 2.1 上明显减少重复工具输出和报错；已发布 Qwen3.8-27B（1.9B 记忆）和 GLM-5.3-Flash（1.24B）两个检查点，MIT 许可。「接近 GPT-6.1-Terra」等说法来自团队宣传。",
+   "links": [
+    "https://github.com/1ring2rta/Remory",
+    "https://arxiv.org/html/2610.11287",
+    "https://huggingface.co/fudan-generative-ai/Qwen3.8-27B-REMORY-1.9B",
+    "https://www.c114.net.cn/ainews/144358.html"
+   ],
+   "topic": "remory-residual-memory-context-compaction",
+   "firstSeen": "2026-11-11T19:39:30+08:00"
   }
  ],
- "lastChecked": "2026-11-11T19:07:37+08:00"
+ "lastChecked": "2026-11-11T19:39:30+08:00"
 }
