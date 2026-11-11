@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T08:39:05+08:00",
+ "lastUpdated": "2026-11-11T09:14:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45732,7 +45732,40 @@
    ],
    "topic": "google-gemini-for-healthcare",
    "firstSeen": "2026-11-11T08:39:05+08:00"
+  },
+  {
+   "id": "5ca4dc7b6d",
+   "title": "OpenAI 正式推出「ChatGPT 商家」测试版：企业可认领主页、上传商品价格库存，并上线可投广告的 Business Agent",
+   "summary": "OpenAI 11 月 10 日发布 Businesses in ChatGPT 测试版，面向每周 12 亿 ChatGPT 用户。商家通过 Business Hub 认领并验证自己的企业，更新资料，自助上传带价格和库存的商品数据源；Shopify 商家可从 Business Hub 或 Shopify 后台直接连接店铺。后台提供聚合洞察，包括被提及次数、网站点击和引用其网站的对话主题，OpenAI 称不会向商家提供用户对话内容。符合条件的美国电商和在线服务商家还可以搭建 Business Agent，用户点开商家主页即可与其对话比较产品；商家能付费推广自己的 Business Agent，并把它作为 ChatGPT 广告的落地页，赞助内容会单独标注。这意味着「AI 搜索可见度」开始有官方入口和数据面板。",
+   "links": [
+    "https://openai.com/index/introducing-businesses-chatgpt"
+   ],
+   "topic": "openai-businesses-in-chatgpt-launch",
+   "firstSeen": "2026-11-11T09:14:40+08:00"
+  },
+  {
+   "id": "9c331579e2",
+   "title": "ChatGPT 企业版上架 AWS Marketplace：可用 AWS 账单采购并抵扣云承诺消费，含 Codex 与常驻智能体 dots",
+   "summary": "OpenAI 11 月 9 日宣布 ChatGPT Enterprise 在 AWS Marketplace 上架，企业可通过现有 AWS 采购和账单关系购买，符合条件的花费可计入 AWS EDP 或 PPA 承诺消费额度。套餐包含 Chat、ChatGPT Work、Codex 和常驻智能体 dots，功能与直接向 OpenAI 购买一致、同步更新；ChatGPT for Healthcare 和 ChatGPT for Financial Services 也可经此购买。价格不公开，需申请私有报价。页面同时说明 OpenAI 仍是数据处理方，AWS 只是子处理方，通过 Marketplace 购买并不保证数据都留在 AWS 环境内。这是 OpenAI 与亚马逊合作加深、争夺大企业采购预算的又一步。",
+   "links": [
+    "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "https://aws.amazon.com/marketplace/pp/prodview-sscra4m7iracg"
+   ],
+   "topic": "chatgpt-enterprise-aws-marketplace",
+   "firstSeen": "2026-11-11T09:14:40+08:00"
+  },
+  {
+   "id": "fb0affa8b4",
+   "title": "澳航以 AI 改造为由裁撤约 850 个企业职能岗位，财务、采购、人力和市场工作外包给埃森哲，多数转到印度",
+   "summary": "澳洲航空 11 月 10 日宣布与埃森哲签订多年合作，翻新后台系统、流程和数据，加快 AI 与自动化应用。CEO Vanessa Hudson 在全员邮件中称，公司依赖 1000 多个从未设计成协同工作的老旧应用，约 850 个企业职能岗位将在未来几年受影响，首批涉及财务、采购、人力和市场团队，相关服务将主要由埃森哲在印度的团队承接，首批变化预计 2027 年年中落地。澳航称会与员工和工会协商并尽量转岗；澳洲服务业工会表示此前被告知没有外包计划，将为每个岗位抗争。《卫报》指出这是三周内澳洲第三起大型企业裁员计划，此前还有 Canva 和澳洲国民银行。",
+   "links": [
+    "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
+    "https://www.abc.net.au/news/2026-11-10/850-jobs-to-go-from-qantas-as-airline-moves-roles-overseas/107368120",
+    "https://www.bbc.com/news/articles/cry838v4qzvyo"
+   ],
+   "topic": "qantas-accenture-850-jobs",
+   "firstSeen": "2026-11-11T09:14:40+08:00"
   }
  ],
- "lastChecked": "2026-11-11T08:39:05+08:00"
+ "lastChecked": "2026-11-11T09:14:40+08:00"
 }
