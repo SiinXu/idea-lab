@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T15:08:31+08:00",
+ "lastUpdated": "2026-11-11T15:59:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46133,7 +46133,19 @@
    ],
    "topic": "microsoft-process-explorer-mac",
    "firstSeen": "2026-11-11T15:08:31+08:00"
+  },
+  {
+   "id": "66c2aefbd4",
+   "title": "Anthropic 公开 IPO 路演视频：Amodei 称 AI 将在不到十年内让癌症、阿尔茨海默病、心脏病和精神疾病「成为过去」",
+   "summary": "Anthropic 随上市网站公开了约 42 分钟的路演视频。CEO Dario Amodei 称，只要把风险管理好，AI 能开创「奇迹时代」，让癌症、阿尔茨海默病、心脏病和精神疾病在不到十年内成为历史，并把安全包装成赢得社会信任的竞争优势。视频还披露三季度营收近 170 亿美元、同比增长 12 倍，并邀请百时美施贵宝、埃森哲、AIG 现身站台。医学界人士如 Eric Topol 认为这一时间表不现实，相关讨论正在 X 上发酵。",
+   "links": [
+    "https://omp.asia/anthropic-ipo-age-of-miracles/",
+    "https://www.techflowpost.com/en-US/newsletter/144051",
+    "https://x.com/i/trending/2120239707456213341"
+   ],
+   "topic": "anthropic-roadshow-age-of-miracles",
+   "firstSeen": "2026-11-11T15:59:36+08:00"
   }
  ],
- "lastChecked": "2026-11-11T15:08:31+08:00"
+ "lastChecked": "2026-11-11T15:59:36+08:00"
 }
