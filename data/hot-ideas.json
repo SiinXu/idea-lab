@@ -1574,6 +1574,106 @@
    "shown": false,
    "at": "2026-11-10T13:07:58+00:00",
    "id": "913b8970b1"
+  },
+  {
+   "topic": "hf8fef665f",
+   "title": "断网可用智能家居速查",
+   "who": "准备买智能灯、门锁、插座的家庭用户和 Home Assistant 玩家",
+   "pain": "商品页不写断网后还能不能用，云服务一停或网络一断，门锁和灯就失灵",
+   "why_now": "「智能家居设备应该能离线工作」正登上 HN 热榜第一，大家在交换哪些品牌能本地控制",
+   "mvp": "按品类列出常见型号，标注协议（Matter、Zigbee、Thread、Wi-Fi 云）和断网后能做什么，用户可提交实测结果",
+   "money": "速查免费，按户型生成的离线方案清单一次性付费",
+   "not_do": "不卖硬件，不做远程控制 App，不收集家庭设备数据",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50441707"
+   ],
+   "score": 6,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 1,
+    "money": 1,
+    "reuse": 1,
+    "novel": 0
+   },
+   "why": "HN 真实讨论；型号数据要人工积累，两周只能覆盖少量品类；收费点弱；和已有「隐私家电速查」角度重叠",
+   "shown": false,
+   "at": "2026-11-11T00:53:54+00:00",
+   "id": "311ebee6df"
+  },
+  {
+   "topic": "hd438bd2ee",
+   "title": "Val Town 脚本搬家到 Workers",
+   "who": "在 Val Town 上跑定时任务、小接口和 Webhook 的独立开发者",
+   "pain": "平台要停了，几十个小脚本、定时任务和环境变量得一个个手搬，漏一个就有服务悄悄断掉",
+   "why_now": "Val Town 宣布逐步关停，消息正在 HN 热榜上，用户都在问搬去哪里",
+   "mvp": "用户导出 Val 代码后上传，工具逐个转成 Workers 项目，定时任务转成 Cron Triggers，列出要手填的环境变量和不兼容的 API",
+   "money": "转换 3 个脚本免费，整账号批量迁移和迁移后巡检按次收费",
+   "not_do": "不代管用户的密钥和 Cloudflare 账号，不自建托管平台",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50443427"
+   ],
+   "score": 8,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 1,
+    "money": 1,
+    "reuse": 2,
+    "novel": 1
+   },
+   "why": "HN 停服讨论，需求明确且有时限；直接复用 Cloudflare Workers；代码转换覆盖面有限，市场随迁移窗口结束而缩小",
+   "shown": true,
+   "at": "2026-11-11T00:53:54+00:00",
+   "id": "1474fb55f1"
+  },
+  {
+   "topic": "hffb2e3864",
+   "title": "Agent 前端旧写法体检",
+   "who": "用 Claude Code、Cursor 等编程 Agent 写网页前端的开发者",
+   "pain": "Agent 还在手写弹窗、下拉和动画库，浏览器早有 dialog、popover、视图过渡等原生能力，代码又重又难维护",
+   "why_now": "HN 上一个 Show HN 项目专门把编程 Agent 从 2019 年的 JavaScript 写法拉到现代 Web 原生能力，说明这个痛点很普遍",
+   "mvp": "上传仓库或粘贴页面代码，标出可换成原生能力的旧写法，给出替换片段和浏览器支持情况，并导出一份给 Agent 用的规则文件",
+   "money": "单页体检免费，整仓扫描和按技术栈定制的 Agent 规则包付费",
+   "not_do": "不自动改用户代码，不做新的前端框架",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50443812"
+   ],
+   "score": 8,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 2,
+    "novel": 0
+   },
+   "why": "HN Show HN 证明痛点；规则扫描两周可做，复用设计规范库与 Skills Lab；但来源本身就是同类产品，新颖度不足，付费意愿一般",
+   "shown": true,
+   "at": "2026-11-11T00:53:54+00:00",
+   "id": "82fae8add3"
+  },
+  {
+   "topic": "h57e90f7f7",
+   "title": "Linux 扩展坞兼容速查",
+   "who": "用 Linux 笔记本外接多显示器的开发者和企业 IT",
+   "pain": "很多扩展坞靠 DisplayLink 芯片，Linux 上依赖专有驱动，买之前看不出它是原生 DP 输出还是 DisplayLink",
+   "why_now": "HN 热议 Synaptics 以专利主张让 DisplayLink 驱动的开发停下，Linux 用户担心手上的扩展坞以后不能用",
+   "mvp": "按型号列出扩展坞的芯片方案、视频输出方式和 Linux 实测状态，用户可提交 lsusb 结果补充，型号页可直接分享",
+   "money": "速查免费，企业按机型清单批量出兼容报告收费",
+   "not_do": "不分发或改写专有驱动，不卖扩展坞",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50443824"
+   ],
+   "score": 6,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 1,
+    "money": 1,
+    "reuse": 0,
+    "novel": 1
+   },
+   "why": "HN 真实讨论；硬件兼容数据靠众包，冷启动难；与现有资产无关；企业报告收费可能性一般",
+   "shown": false,
+   "at": "2026-11-11T00:53:54+00:00",
+   "id": "223323ae87"
   }
  ]
 }
