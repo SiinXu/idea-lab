@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T07:24:11+08:00",
+ "lastUpdated": "2026-11-11T08:39:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45709,7 +45709,30 @@
    ],
    "topic": "megaspeed-entity-list-delay",
    "firstSeen": "2026-11-11T07:24:11+08:00"
+  },
+  {
+   "id": "2de8f7597b",
+   "title": "Railway 发布 10 月安全事件完整报告：攻击者专挑 AI 服务商密钥，被盗密钥产生约 74 万美元盗刷，Railway 承诺兜底退款",
+   "summary": "部署平台 Railway 11 月 10 日公布 10 月 21 日安全事件的完整调查报告。Railway 称，根据取证分析，攻击者专门搜寻 AI 服务商的 API 密钥，判断这些密钥被转卖给分布式中转站，用于模型蒸馏。最多约 1.85% 的工作区（约 10 万个）的环境变量可能被解密，这是上限而非确认数字；攻击者还读取了 353 次构建的历史记录，并拿到 1,852 名用户的关联账户令牌（自带的 AI 智能体密钥和 GitHub OAuth 令牌），Railway 已全部重置，未发现有人用这些凭证登录 Railway 账户，也未发现客户数据库被访问。被盗密钥产生的未授权消费估计约 74 万美元：AWS Bedrock 和 Google Gemini 按现有反欺诈政策退款，OpenAI 等逐案审核，OpenRouter 坚持不退款，由 Railway 自掏腰包承担，对其他服务商拒绝退的部分 Railway 也会兜底。报告指出，OpenCode、Warp、Fireworks AI 等平台在 10 月 6 日至 23 日间也披露过类似盗窃，这是一连串针对存放 AI 密钥平台的攻击之一。",
+   "links": [
+    "https://blog.railway.com/p/incident-report-october-security-incident",
+    "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/"
+   ],
+   "topic": "railway-oct-incident-report",
+   "firstSeen": "2026-11-11T08:39:05+08:00"
+  },
+  {
+   "id": "3ed97e4f13",
+   "title": "谷歌云推出 Gemini for healthcare 医疗智能体：只读接入 Epic、Oracle Health 病历，自动整理病历、预授权和费用说明，先在美国预览",
+   "summary": "谷歌云 11 月 10 日发布 Gemini for healthcare，这是基于上月推出的通用 Gemini 企业智能体打造的医疗行业方案，面向医院和医保机构的临床与行政流程。它通过 open.epic API 和 Oracle Health 的 FHIR 接口只读调取患者的现有病症、用药、化验结果和临床记录，不回写病历，以保护数据完整性；NextGen Healthcare 接入将在未来几个月推出。它还连接 CMS 医保覆盖数据、NPI 医生注册库、RxNorm、ICD-10 等标准，以及 Optum、Waystar、GoodRx、Keragon（400 多个医疗应用）等第三方系统，用来核实保险资格、准备事先授权材料、解释费用，并能引用 ASCO 指南和 BMJ 临床决策内容。谷歌称方案支持 HIPAA 合规，多步骤流程在既定护栏和人工监督下执行，每个回答都标注来源；目前以预览形式向美国企业客户开放。",
+   "links": [
+    "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare",
+    "https://www.googlecloudpresscorner.com/2026-11-10-Google-Cloud-Launches-Gemini-for-Healthcare",
+    "https://www.beckershospitalreview.com/healthcare-information-technology/ai/google-launches-healthcare-ai-agent-with-epic-oracle-integrations/"
+   ],
+   "topic": "google-gemini-for-healthcare",
+   "firstSeen": "2026-11-11T08:39:05+08:00"
   }
  ],
- "lastChecked": "2026-11-11T07:24:11+08:00"
+ "lastChecked": "2026-11-11T08:39:05+08:00"
 }
