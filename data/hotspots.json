@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T05:52:47+08:00",
+ "lastUpdated": "2026-11-12T06:08:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46701,7 +46701,17 @@
    ],
    "topic": "emacs-in-the-age-of-magic-ai-coding",
    "firstSeen": "2026-11-12T05:52:47+08:00"
+  },
+  {
+   "id": "53bc56e14c",
+   "title": "美联航宣布禁止 AI 智能体代旅客订机票：称共享账号凭证有安全风险，代办值机还可能违反联邦规定",
+   "summary": "美国联合航空（United Airlines）11 月 11 日宣布，禁止未经授权的第三方个人 AI 智能体或助手代旅客预订航班，并更新订票和出票政策。美联航表示，把账号凭证交给 AI 助手可能泄露敏感信息，AI 的操作还可能导致意外购票、账户被改或里程被使用；用 AI 代办值机还可能违反联邦规定，比如旅客须亲自确认行李中没有违禁品。限制会直接在美联航自家数字平台上执行，也会通过旅行社和比价平台间接执行。航空分析师 Henry Harteveldt 认为，美联航是不想在谷歌搜索、比价网站和在线旅行社之外再多一个更强势的中间商，同时也想省下 AI 机器人大量查询航班带来的成本。不同的是，西南航空已经允许 ChatGPT 用户查看其航班库存。美联航机票仍可通过 Kayak、Hopper、Google Flights 等比价平台查询。这是大型消费品牌公开封堵「AI 代购、代办」的标志性案例，做智能体订票、出行助手的团队需要重新评估可行的接入方式。",
+   "links": [
+    "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
+   ],
+   "topic": "united-airlines-bans-ai-agent-booking",
+   "firstSeen": "2026-11-12T06:08:51+08:00"
   }
  ],
- "lastChecked": "2026-11-12T05:52:47+08:00"
+ "lastChecked": "2026-11-12T06:08:51+08:00"
 }
