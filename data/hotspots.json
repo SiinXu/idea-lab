@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T11:57:54+08:00",
+ "lastUpdated": "2026-11-11T12:08:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46021,7 +46021,28 @@
    ],
    "topic": "rackspace-together-ai-gb300-deal",
    "firstSeen": "2026-11-11T11:57:54+08:00"
+  },
+  {
+   "id": "8ad70f1d3a",
+   "title": "Anthropic 开放澳大利亚散户认购 IPO：11 月 17 日截止，个人投资者可在纳斯达克上市前买入 A 类股",
+   "summary": "据 CNBC，Anthropic 于澳大利亚东部时间 11 月 11 日上午 10 点开放面向当地散户的 IPO 认购，按券商 Stake 公布的时间表将于 11 月 17 日下午 5 点截止。散户认购的是新发行的 A 类普通股，招股书将提交澳大利亚证券和投资委员会（ASIC），Anthropic 在官网列出了参与的国际零售券商。本次 IPO 定价区间 70–78 美元，最多募资 644 亿美元，另有 260 亿美元定向增发，合计最高约 904 亿美元。",
+   "links": [
+    "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
+    "https://support.claude.com/en/articles/17889756-anthropic-ipo-international-retail-brokers-and-selling-agents"
+   ],
+   "topic": "anthropic-ipo-australia-retail",
+   "firstSeen": "2026-11-11T12:08:27+08:00"
+  },
+  {
+   "id": "5ad2f09e23",
+   "title": "Anthropic 更新招股书：到 2033 年再向微软 Azure 和谷歌云追加约 100 亿美元承诺，可因延期取消与 Lambda 的 349 亿美元合同",
+   "summary": "据 The Information，Anthropic 更新后的 S-1 披露，到 2033 年将向微软 Azure 和谷歌云追加约 100 亿美元的算力采购承诺；同时披露与 GPU 云厂商 Lambda 的 349 亿美元合同因交付延期，Anthropic 有权取消，但目前尚无取消计划。这显示头部模型公司在多家云之间分散算力，也给 Lambda 这类新兴 GPU 云带来交付压力。",
+   "links": [
+    "https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled"
+   ],
+   "topic": "anthropic-s1-cloud-commitments-lambda",
+   "firstSeen": "2026-11-11T12:08:27+08:00"
   }
  ],
- "lastChecked": "2026-11-11T11:57:54+08:00"
+ "lastChecked": "2026-11-11T12:08:27+08:00"
 }
