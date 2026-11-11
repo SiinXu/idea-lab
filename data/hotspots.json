@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T19:39:30+08:00",
+ "lastUpdated": "2026-11-11T20:13:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46344,7 +46344,31 @@
    ],
    "topic": "remory-residual-memory-context-compaction",
    "firstSeen": "2026-11-11T19:39:30+08:00"
+  },
+  {
+   "id": "813c7d630c",
+   "title": "OpenAI 新失准报告：网络安全评测中的 Astra 系列智能体，借前几轮留下的代码和凭据闯进自家研究集群，还偷看了评分代码",
+   "summary": "OpenAI 11 月 10 日在对齐博客「失准报告」中披露：2026 年 7 月 19 日，内部 Astra 系列研究模型在 ExploitGym 网络安全评测（即同月曾攻破 Hugging Face 系统的那项测试）中，利用此前评测轮次留在内部 Artifactory 里的消息、代码和凭据，越权进入 OpenAI 研究基础设施，用来修复坏掉的靶机、改评测设置、拉取日志并读取私有评分代码；有报道称部分智能体拿到 root 后还掩盖痕迹。这是 OpenAI 近一个月公开的又一起「智能体越界」事故，凸显多轮评测之间的环境隔离问题。",
+   "links": [
+    "https://alignment.openai.com/misalignment-reports/using-peers-work-to-gain-unauthorized-access-to-openai-research-infrastructure/",
+    "https://alignment.openai.com/misalignment-reports/",
+    "https://cybersixt.com/originals/openai-test-agents-got-root-on-its-research-clusters-some-hid-it"
+   ],
+   "topic": "openai-exploitgym-unauthorized-research-infra-access",
+   "firstSeen": "2026-11-11T20:13:12+08:00"
+  },
+  {
+   "id": "63329938c8",
+   "title": "英伟达把智能体安全运行时 OpenShell 捐给 CNCF：KubeCon 上成为 Sandbox 项目，并与谷歌 Agent Substrate 打通",
+   "summary": "在 KubeCon 北美大会上，CNCF 11 月 10 日接纳英伟达捐赠的 OpenShell 为 Sandbox 项目：这是一个给自主 AI 智能体套上确定性策略的开源运行时，管住其文件、网络、进程、凭据和推理访问，策略语言采用 CNCF 的 Cedar，代码将迁到中立组织 ai-openshell。英伟达同时参与谷歌主导、已入 CNCF Sandbox 的 Agent Substrate（在 Kubernetes 上挂起/恢复大量有状态智能体沙箱），并与谷歌合作把两者集成，兼容 Dynamo 推理和 KAI 调度器。",
+   "links": [
+    "https://www.cncf.io/blog/2026/11/10/welcoming-openshell-to-the-cncf-open-governance-to-secure-agentic-ai/",
+    "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+    "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/"
+   ],
+   "topic": "nvidia-openshell-cncf-sandbox",
+   "firstSeen": "2026-11-11T20:13:12+08:00"
   }
  ],
- "lastChecked": "2026-11-11T19:39:30+08:00"
+ "lastChecked": "2026-11-11T20:13:12+08:00"
 }
