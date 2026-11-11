@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T12:08:27+08:00",
+ "lastUpdated": "2026-11-11T12:27:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46042,7 +46042,27 @@
    ],
    "topic": "anthropic-s1-cloud-commitments-lambda",
    "firstSeen": "2026-11-11T12:08:27+08:00"
+  },
+  {
+   "id": "4b96dfc5cb",
+   "title": "Reddit 推出 Reddit Reviews：用 AI 把各子版块讨论汇总成商品评测页，首批覆盖 1 万件商品",
+   "summary": "Reddit 上线内置商品评测中心 Reddit Reviews：AI 收集并分析各子版块里讨论某件商品的帖子和评论，整理成一个商品页面，列出相关评论原文、优缺点和情绪倾向，并保留到原讨论的链接。首批覆盖电子产品、健康美容、家居园艺、服装四大类约 1 万件商品，被外界比作“众包版 Wirecutter”，直接挑战传统评测导购媒体，也让 Reddit 更靠近购物决策和电商导流。",
+   "links": [
+    "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping"
+   ],
+   "topic": "reddit-reviews-ai-product-hub",
+   "firstSeen": "2026-11-11T12:27:39+08:00"
+  },
+  {
+   "id": "354b905815",
+   "title": "Politico：美国 CFTC 警告预测市场 Kalshi 可能很快被起诉，因部分合约上线前未按规定通知监管",
+   "summary": "据 Politico 援引知情人士，美国商品期货交易委员会（CFTC）已警告预测市场巨头 Kalshi 可能面临即将到来的指控，原因是其推出某些合约时未按要求通知监管机构。Kalshi 表示正在处理该问题。这是近来高速扩张的预测市场行业面临的又一次重大监管压力。",
+   "links": [
+    "https://www.politico.com/news/2026/11/10/regulator-charges-prediction-market-kalshi-01159140"
+   ],
+   "topic": "cftc-kalshi-possible-charges",
+   "firstSeen": "2026-11-11T12:27:39+08:00"
   }
  ],
- "lastChecked": "2026-11-11T12:08:27+08:00"
+ "lastChecked": "2026-11-11T12:27:39+08:00"
 }
