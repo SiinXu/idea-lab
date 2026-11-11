@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T21:10:14+08:00",
+ "lastUpdated": "2026-11-11T22:39:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46434,7 +46434,17 @@
    ],
    "topic": "ga100-voltage-glitch-cmp170hx-to-a100",
    "firstSeen": "2026-11-11T21:10:14+08:00"
+  },
+  {
+   "id": "0ccfb511c0",
+   "title": "Plurai 获 1300 万美元种子轮：用自动驾驶式「仿真 + 合成数据」给 AI 智能体做上线前压测",
+   "summary": "创始人来自自动驾驶公司 Nexar、曾与 Waymo 合作仿真评测。Plurai 为企业的知识库和工具搭一个「数字孪生」，穷举智能体可能走的流程，专门找差旅超预算、跨库查询出错、长对话上下文过载这类边缘问题，可配合 Claude Code、Codex、Copilot、Cursor 使用。更大的计划是用仿真数据后训练小型开源权重模型，号称在与英伟达、Nebius 的测试中以更低成本胜过中档前沿模型。本轮由 Team8 领投。智能体评测、仿真和可靠性正在成为独立赛道。",
+   "links": [
+    "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
+   ],
+   "topic": "plurai-13m-seed-agent-simulation",
+   "firstSeen": "2026-11-11T22:39:51+08:00"
   }
  ],
- "lastChecked": "2026-11-11T21:10:14+08:00"
+ "lastChecked": "2026-11-11T22:39:51+08:00"
 }
