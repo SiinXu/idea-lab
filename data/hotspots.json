@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T23:17:41+08:00",
+ "lastUpdated": "2026-11-11T23:46:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46506,7 +46506,18 @@
    ],
    "topic": "apple-support-community-shutdown",
    "firstSeen": "2026-11-11T23:17:41+08:00"
+  },
+  {
+   "id": "ebbf54761e",
+   "title": "The Verge 向 11 家电视和流媒体设备厂商发出 17 个「是/否」隐私问题：你的电视在偷看、偷听什么？海信完全没回邮件",
+   "summary": "起因是 LG 被指通过电视监控用户。The Verge 资深评测编辑一个月前向亚马逊、苹果、谷歌、海信、LG、松下、Roku、三星、索尼、TCL 和沃尔玛旗下 Vizio 发出 17 个只能答「是或否」的问题，例如「电视会不会存储家中录到的音频或转写文本」，不让厂商用晦涩的隐私政策搪塞。目前三大电视厂商和所有主要流媒体设备公司给出了回答，部分公司拒答，海信完全没回复。文章把各家答案并排对比，覆盖语音收音、截屏识别观看内容（ACR）、本地存储敏感信息和上传云端等做法。该文登上 HN 首页，智能电视数据采集再次引发讨论。",
+   "links": [
+    "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+    "https://news.ycombinator.com/item?id=50453474"
+   ],
+   "topic": "verge-tv-privacy-17-questions",
+   "firstSeen": "2026-11-11T23:46:31+08:00"
   }
  ],
- "lastChecked": "2026-11-11T23:19:25+08:00"
+ "lastChecked": "2026-11-11T23:46:31+08:00"
 }
