@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T18:15:42+08:00",
+ "lastUpdated": "2026-11-11T18:44:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46274,7 +46274,30 @@
    ],
    "topic": "ginux-userspace-kernel",
    "firstSeen": "2026-11-11T18:15:42+08:00"
+  },
+  {
+   "id": "eb8072f84d",
+   "title": "MiniMax 开源 H3-Image 图像生成/编辑模型：4K 图 10 秒内出，最多参考 16 张图",
+   "summary": "MiniMax 11 月 11 日发布并开放权重的 H3-Image，基于 H3 底座，支持文生图、参考图生成和图像编辑；官方称 4096×4096 的 4K 图可在 10 秒内生成，速度约为主流方案的 5 倍，最多可理解并使用 16 张参考图。权重已上 Hugging Face（MiniMaxAI/MiniMax-H3-Image，非标准许可证），同时可通过 MiniMax API、MiniMax Code 和海螺 AI 使用；速度与质量为厂商自报。",
+   "links": [
+    "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+    "https://poyo.ai/hub/2026-11-11-ai-news"
+   ],
+   "topic": "minimax-h3-image-open-weights",
+   "firstSeen": "2026-11-11T18:44:02+08:00"
+  },
+  {
+   "id": "817ac5a889",
+   "title": "纽约州成立全美首个州立 AI 安全测试中心：80 多名研究者用 Empire AI 算力独立评测前沿模型",
+   "summary": "纽约州州长 Hochul 11 月 10 日宣布在 SUNY 宾汉姆顿大学成立 New York Center for AI Responsibility and Research，由 Cornell Tech 院长 Greg Morrisett 和哥大的 Jeannette Wing 任临时联合主任，汇集 80 多名研究者，借助 5 亿美元的 Empire AI 算力独立测试前沿 AI 的安全性、可操纵性和隐私风险。同时开放前沿 AI 开发者注册门户：依 RAISE 法案，大型开发者须在 2027 年 1 月 1 日前注册，并开始发布安全框架、72 小时内报告重大安全事件。中心只能评测已公开模型。",
+   "links": [
+    "https://www.governor.ny.gov/news/video-audio-photos-rush-transcript-governor-hochul-declares-ny-will-lead-nation-ai-science-and",
+    "https://www.politico.com/news/2026/11/10/new-york-hochul-first-state-ai-testing-program-01157713",
+    "https://www.engadget.com/2312487/new-york-will-independently-test-ai-models/"
+   ],
+   "topic": "ny-ai-responsibility-research-center",
+   "firstSeen": "2026-11-11T18:44:02+08:00"
   }
  ],
- "lastChecked": "2026-11-11T18:15:42+08:00"
+ "lastChecked": "2026-11-11T18:44:02+08:00"
 }
