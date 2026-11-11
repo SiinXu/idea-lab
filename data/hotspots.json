@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T18:14:47+08:00",
+ "lastUpdated": "2026-11-11T18:15:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46252,7 +46252,29 @@
    ],
    "topic": "us-nucleic-acid-synthesis-screening-policy",
    "firstSeen": "2026-11-11T18:14:47+08:00"
+  },
+  {
+   "id": "97c5f109dd",
+   "title": "TIS-100 Bench：16 个大模型挑战 Zachtronics 编程解谜，刷出 133 个新帕累托前沿点",
+   "summary": "Wincon 发布 TIS-100 Bench：把这款以极限汇编优化著称的解谜游戏和手册交给 16 个前沿/开源模型（不给社区排行榜），每题单次尝试 10–45 分钟持续优化。55 道题中 18 道出现社区从未达到的新前沿解，共 133 个新前沿点、3 项周期数绝对纪录；Opus 5.5 以 11 题领先，GPT-6 Astra 8 题、Gemini 4 Argon 7 题。玩家几天内又在模型方案基础上继续改进，登上 Hacker News 首页。",
+   "links": [
+    "https://tis-100.wincon.dev/",
+    "https://news.ycombinator.com/item?id=50448340"
+   ],
+   "topic": "tis-100-bench-llm",
+   "firstSeen": "2026-11-11T18:15:42+08:00"
+  },
+  {
+   "id": "7bd2c60903",
+   "title": "Rocky Linux 创始人 Greg Kurtzer 的 Ginux 转型为用户态内核：AI 智能体写出的 Rust 内核改做 Linux 隔离层",
+   "summary": "Ginux 起初是由 AI 编程智能体在资深工程师指导下构建、可 UEFI 启动并跑 Rocky Linux 10 用户空间的 Rust 内核；作者宣布该研究阶段结束（源码保留在 bootable-kernel 分支），转为以普通进程运行在 Linux 之上的用户态内核：对每个受管实例只开放所需的系统调用子集，逐个决定模拟、经校验后代理或拒绝，刻意且可版本化地「打破」完整 Linux ABI，用于工作负载隔离。登上 Hacker News 首页。",
+   "links": [
+    "https://github.com/gmkurtzer/ginux",
+    "https://news.ycombinator.com/item?id=50450007"
+   ],
+   "topic": "ginux-userspace-kernel",
+   "firstSeen": "2026-11-11T18:15:42+08:00"
   }
  ],
- "lastChecked": "2026-11-11T18:14:47+08:00"
+ "lastChecked": "2026-11-11T18:15:42+08:00"
 }
