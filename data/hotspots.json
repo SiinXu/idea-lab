@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T17:53:40+08:00",
+ "lastUpdated": "2026-11-11T18:14:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46241,7 +46241,18 @@
    ],
    "topic": "baidu-ernie-5-5-flash-preview",
    "firstSeen": "2026-11-11T17:53:40+08:00"
+  },
+  {
+   "id": "455d21240e",
+   "title": "美国发布《核酸合成筛查国家政策》：联邦资助科研须从认证供应商买合成 DNA，理由含「超级智能助力」风险",
+   "summary": "白宫 11 月 5 日发布 National Policy for Nucleic Acid Synthesis Screening，取代 2024 年的自愿框架：凡拿联邦生命科学经费的机构，合成核酸和台式 DNA 合成仪只能从认证供应商采购；供应商须做客户身份核验、用 NIST 认证的筛查器检查 50 个核苷酸以上的订单、上报可疑订单。分阶段落地：90 天出 NIST 标准、160 天公布首批供应商名单、250/340 天分别覆盖核酸和设备采购。Science 报道专家认为是进步，但 50bp 门槛可被拆单绕过。",
+   "links": [
+    "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+    "https://www.whitehouse.gov/wp-content/uploads/2026/11/NSTM-6-NASS-Policy.pdf"
+   ],
+   "topic": "us-nucleic-acid-synthesis-screening-policy",
+   "firstSeen": "2026-11-11T18:14:47+08:00"
   }
  ],
- "lastChecked": "2026-11-11T17:53:40+08:00"
+ "lastChecked": "2026-11-11T18:14:47+08:00"
 }
