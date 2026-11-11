@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T22:39:51+08:00",
+ "lastUpdated": "2026-11-11T23:02:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46444,7 +46444,37 @@
    ],
    "topic": "plurai-13m-seed-agent-simulation",
    "firstSeen": "2026-11-11T22:39:51+08:00"
+  },
+  {
+   "id": "ddb95c61a5",
+   "title": "DeepMind 发布 AlphaGenome 2：精确到单个细胞类型，预测基因突变如何致病",
+   "summary": "AlphaGenome 的继任者，用 68 种组织、1 亿多个单细胞图谱训练，能预测同一基因变异在不同细胞类型和状态下的影响。DeepMind 称它识别出的可改变基因表达的变异数量约为上一代最强模型的两倍，还能在不重新训练的情况下推断新的细胞类型，并指出实验数据的空白，帮实验室决定下一步做什么。AI for Science 正从蛋白结构走向「细胞级」遗传解读。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+   ],
+   "topic": "deepmind-alphagenome-2",
+   "firstSeen": "2026-11-11T23:02:16+08:00"
+  },
+  {
+   "id": "6619f09dbc",
+   "title": "Databricks 升级智能体 Genie：可无人值守完成多步骤长任务，CEO 亲自用它挖「没人敢跟老板说的坏消息」",
+   "summary": "新版 Genie 借助 Databricks 搭建的本体（ontology）理解客户平台里的数据，管理者可以把长流程任务直接交给它独立完成。CEO Ali Ghodsi 现场展示了真实用法：分析员工满意度调查里的低分项并筛掉高管提出的无效改进方案、复盘一场失败的销售会议并提炼客户要求的功能、为播客采访准备问题。他用「邓巴数 150」解释：公司超过 150 人后，老板很难听到真话，而智能体可以补上这条信息渠道。Databricks 正把 Genie 定位为面向企业管理层的常驻智能体。",
+   "links": [
+    "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/"
+   ],
+   "topic": "databricks-genie-long-running-exec-agent",
+   "firstSeen": "2026-11-11T23:02:16+08:00"
+  },
+  {
+   "id": "6e40d60431",
+   "title": "Adobe MAX 2026 实验项目：照片变可漫游的 3D 场景，跟 AI 角色「视频面试」来塑造人设",
+   "summary": "今年的 Sneaks 演示里，Project Screen Test 让创作者像打 FaceTime 一样和 AI 角色对话，逐步设定背景、性格、缺点和小动作，再让角色进入指定场景生成试镜动画，解决 AI 视频角色没有性格、难以控制的问题；Project Sight Span 把一张照片变成可以走动和换角度的 3D 空间，并自动补出画框外的物体和背景。另有把修图变成「复制粘贴」的工具。目前都只是实验，尚未确定是否进入正式产品。",
+   "links": [
+    "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai"
+   ],
+   "topic": "adobe-max-2026-sneaks",
+   "firstSeen": "2026-11-11T23:02:16+08:00"
   }
  ],
- "lastChecked": "2026-11-11T22:39:51+08:00"
+ "lastChecked": "2026-11-11T23:02:16+08:00"
 }
