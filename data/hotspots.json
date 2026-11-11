@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T10:45:12+08:00",
+ "lastUpdated": "2026-11-11T10:59:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45917,7 +45917,31 @@
    ],
    "topic": "nvidia-kaist-korean-datasets",
    "firstSeen": "2026-11-11T10:45:12+08:00"
+  },
+  {
+   "id": "571fb0494b",
+   "title": "OpenAI 收购 AI 旅行代理 Odessia：Sonder 创始人 Francis Davidson 加盟主攻「旅行的未来」，产品已下线",
+   "summary": "Odessia 创始人 Francis Davidson 11 月 10 日宣布公司被 OpenAI 收购，本人加入 OpenAI 专注旅行方向，OpenAI 发言人向 TechCrunch 确认了这次招募，交易条款未披露，外界普遍视为人才收购。Odessia 成立不到一年，获红杉领投约 600 万美元种子轮，通过一段对话就能规划并预订机票、酒店和行程，持有 IATA 旅行代理资质，可拿到酒店私有价和升级权益；Davidson 称今夏数万名早期用户通过它规划了年化逾 6000 万美元的旅行。服务现已停止，现有订单需联系官方客服。Skift 认为这说明 ChatGPT 想在旅行上做得更多，而不只是把用户导给 Booking 和 Expedia。",
+   "links": [
+    "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "https://skift.com/2026/11/10/a-year-after-sonders-collapse-francis-davidson-sells-his-ai-travel-startup-to-openai/",
+    "https://betakit.com/openai-acquires-sonder-co-founders-new-travel-tech-company-odessia/"
+   ],
+   "topic": "openai-acquires-odessia",
+   "firstSeen": "2026-11-11T10:59:38+08:00"
+  },
+  {
+   "id": "e18f58ec7d",
+   "title": "Anthropic 更新招股书：7 位联合创始人 IPO 中各卖约 337.8 万股、每人套现约 2.5 亿美元，合计 17.5 亿美元，仍握 51% 投票权",
+   "summary": "Anthropic 11 月 10 日更新的 S-1 显示，Dario Amodei、Daniela Amodei、Tom Brown、Jack Clark、Jared Kaplan、Sam McCandlish、Christopher Olah 七位联合创始人各出售 3,378,378 股，按 70–78 美元区间中值 74 美元计每人约 2.5 亿美元，合计约 17.5 亿美元，仅占各自持股约 1.5%。发行后每人约持有 3.2% 的 A 类股，合计约 22%，并通过每人一股超级投票权 F 类股合计控制约 51% 的投票权。彭博估算按区间中值每位创始人身家约 180 亿美元。文件还显示董事 Reed Hastings 拟通过捐赠基金认购 3 亿美元股票，公司 10 月底年化营收达 810 亿美元，比 9 月底多约 100 亿美元。",
+   "links": [
+    "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "https://news.bloomberglaw.com/capital-markets/anthropic-founders-to-cash-out-1-75-billion-in-blockbuster-ipo",
+    "https://qz.com/anthropic-founders-sell-250-million-ipo-111026"
+   ],
+   "topic": "anthropic-founders-ipo-cashout",
+   "firstSeen": "2026-11-11T10:59:38+08:00"
   }
  ],
- "lastChecked": "2026-11-11T10:45:12+08:00"
+ "lastChecked": "2026-11-11T10:59:38+08:00"
 }
