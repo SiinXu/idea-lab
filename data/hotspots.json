@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T16:53:55+08:00",
+ "lastUpdated": "2026-11-11T17:42:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46217,7 +46217,18 @@
    ],
    "topic": "skydance-6b-ai-savings",
    "firstSeen": "2026-11-11T16:53:55+08:00"
+  },
+  {
+   "id": "a44764839f",
+   "title": "「Open Source Says No」上线：汇总明确禁止 AI 生成贡献的开源项目",
+   "summary": "新站 osssaysno.com 收录 22 个禁止 LLM 生成 PR/文档/issue 的开源项目（如 immich、Meilisearch、okhttp、Servo、stb、Redox OS），并整理业界 AI 贡献政策目录，支持提交 GitHub 仓库自动核查政策；登上 Hacker News 热议，反映开源社区对“AI 垃圾 PR”的反弹，也带来 AI 贡献合规检查工具的机会。",
+   "links": [
+    "https://osssaysno.com",
+    "https://news.ycombinator.com/item?id=50451102"
+   ],
+   "topic": "oss-says-no-ai-contributions",
+   "firstSeen": "2026-11-11T17:42:20+08:00"
   }
  ],
- "lastChecked": "2026-11-11T16:53:55+08:00"
+ "lastChecked": "2026-11-11T17:42:20+08:00"
 }
