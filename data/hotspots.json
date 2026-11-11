@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T02:14:58+08:00",
+ "lastUpdated": "2026-11-12T02:27:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46605,7 +46605,19 @@
    ],
    "topic": "apple-learned-mips-rag-retrieval",
    "firstSeen": "2026-11-12T02:14:58+08:00"
+  },
+  {
+   "id": "70a69d3bb5",
+   "title": "AWS 官方推出本地模拟器 AWS Emulator：不用 AWS 账号、不调用云端就能在本机或 CI 里测试 AWS API，还附带给 AI 编程智能体的安装技能",
+   "summary": "aws/aws-emulator 是 AWS 官方的 AWS API 本地模拟器：启动后提供一个 API 端点，把 AWS CLI 或 SDK 的环境变量指向它，代码照常运行，操作的是模拟资源而不是真实云资源，无需 AWS 账号、无额外服务费。支持服务器模式（Linux 用 RPM/Debian 包，Windows/macOS 用 Docker）和 Rust 测试用的嵌入模式（每个测试一个进程内隔离实例）。快速上手的第一种方式是给 AI 编程智能体装 aws-emulator 技能，让智能体自己配好。每个版本会公布各服务与真实 AWS 的「保真度评分」，不支持的 API 在仓库 issues 目录公开列出；官方强调仅用于开发测试，不适合生产或安全测试。此前这一需求主要由第三方的 LocalStack 等工具满足，帖子以「AWS 终于做了自己的模拟器」登上 HN。",
+   "links": [
+    "https://github.com/aws/aws-emulator",
+    "https://docs.aws.amazon.com/emulator/latest/userguide/what-is-service.html",
+    "https://news.ycombinator.com/item?id=50456631"
+   ],
+   "topic": "aws-official-emulator",
+   "firstSeen": "2026-11-12T02:27:06+08:00"
   }
  ],
- "lastChecked": "2026-11-12T02:14:58+08:00"
+ "lastChecked": "2026-11-12T02:27:06+08:00"
 }
