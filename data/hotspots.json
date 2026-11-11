@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T09:30:22+08:00",
+ "lastUpdated": "2026-11-11T09:45:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45819,7 +45819,38 @@
    ],
    "topic": "google-november-2026-pixel-drop",
    "firstSeen": "2026-11-11T09:30:22+08:00"
+  },
+  {
+   "id": "139484b56b",
+   "title": "台积电董事会批准投资 Anthropic 和 OpenAI 各最多 5 亿美元，同时批准约 409 亿美元资本预算",
+   "summary": "台积电 11 月 10 日董事会决议：以 IPO 发行价认购 Anthropic 普通股不超过 5 亿美元，并认购 OpenAI 优先股不超过 5 亿美元，合计最多 10 亿美元。同次会议还批准约 409.27 亿美元资本预算，用于先进制程与先进封装产能、建厂及 2027 年研发投资，另设立不超过 5 亿美元的投资公司，对半导体产业链做战略投资；三季度营收 1.494 万亿新台币、净利 7630.6 亿新台币，每股派现 9 新台币。路透指出，全球最大代工厂不仅给 AI 公司供芯片，还开始持有头部大模型公司股份；Anthropic 同日公布每股 70–78 美元的 IPO 定价区间。",
+   "links": [
+    "https://pr.tsmc.com/english/news/3352",
+    "https://www.investing.com/news/stock-market-news/tsmc-to-invest-up-to-1-billion-in-anthropic-openai-5015908"
+   ],
+   "topic": "tsmc-invests-anthropic-openai",
+   "firstSeen": "2026-11-11T09:45:37+08:00"
+  },
+  {
+   "id": "776c47de92",
+   "title": "焊接机器人公司 Path Robotics 完成 3 亿美元 E 轮、估值 24.5 亿美元，18 个月 ARR 增长 17 倍，客户含洛克希德·马丁",
+   "summary": "美国俄亥俄州的 Path Robotics 11 月 10 日宣布完成 3 亿美元 E 轮融资，投后估值 24.5 亿美元，由 AI 成长基金 Georgian 领投，Tiger Global、雅马哈发动机风投、D. E. Shaw Ventures、NAVER Ventures 等参投。公司做制造业「物理 AI」，用视觉和机器学习让机器人完成传统自动化难以胜任的焊接等工序，过去 18 个月年度经常性收入增长 17 倍，客户包括造船商 HII、洛克希德·马丁和 Saronic，今年还与 HII 签下 6 亿美元按绩效付费的美国海军造船合同。新资金将用于从焊接扩展到更多制造任务和机器人形态（如四足移动焊接系统 Rove），并加大模型训练投入。",
+   "links": [
+    "https://www.businesswire.com/news/home/20261110046181/en/Path-Robotics-Announces-%24300-Million-Series-E-Financing-at-%242.45-Billion-Valuation-to-Scale-Physical-AI-for-Manufacturing"
+   ],
+   "topic": "path-robotics-series-e",
+   "firstSeen": "2026-11-11T09:45:37+08:00"
+  },
+  {
+   "id": "5c820cee17",
+   "title": "以色列 AI 安全初创 Bay 携 5000 万美元亮相：在 AI 智能体每个动作执行前先做审查，Wiz CEO 个人跟投",
+   "summary": "Bay AI 11 月 10 日正式亮相，累计融资 5000 万美元，其中 3700 万美元 A 轮由 Battery Ventures 领投，最初作为客户的美光通过 Micron Ventures 参投，Wiz CEO Assaf Rappaport 个人出资，另有 1300 万美元此前未披露的种子轮。Bay 的软件追踪企业内运行的所有 AI 智能体，无论它们在员工电脑、云端工作负载还是 SaaS 应用里，用同一套策略管理，并在智能体每次尝试执行操作之前进行审查放行。随着智能体开始真正动手操作企业系统，「执行前拦截」正成为 AI 安全的新赛道。",
+   "links": [
+    "https://siliconangle.com/2026/11/10/ai-security-startup-bay-launches-with-50m-to-vet-agent-actions-before-they-run/"
+   ],
+   "topic": "bay-ai-agent-security-50m",
+   "firstSeen": "2026-11-11T09:45:37+08:00"
   }
  ],
- "lastChecked": "2026-11-11T09:30:22+08:00"
+ "lastChecked": "2026-11-11T09:45:37+08:00"
 }
