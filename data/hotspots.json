@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T06:39:49+08:00",
+ "lastUpdated": "2026-11-12T07:58:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46746,7 +46746,19 @@
    ],
    "topic": "huawei-macaq-open-source-quantizer",
    "firstSeen": "2026-11-12T06:39:49+08:00"
+  },
+  {
+   "id": "8ea4be94c3",
+   "title": "「我意外成了百万富翁」：安全研究员一条玩笑推文称拿到 133 万美元 Chrome 漏洞赏金，被 AI 新闻和谷歌 AI 摘要当真传播",
+   "summary": "安全研究员 Lyra Rebane（名下有 14 个 Chrome CVE）发长文复盘一次「意外造谣」，在 Hacker News 上持续升温。起因是她 2022 年报告的一个 Chromium 漏洞复修时，谷歌误把她设成了验证人，使她拥有了编辑权限。她随手把赏金字段改成 1,333,337 美元，并发推玩梗「拿到谷歌漏洞赏金史上最高奖金」，随后又发视频和澄清说明这是玩笑。结果 X 上由「实验性 AI 贡献者」生成的社区笔记写错了细节，她发推反驳后笔记就消失了；AI 自动生成的播客新闻 Daily Vibe Casting 把推文当真写成「新闻」；谷歌 AI 摘要随即告诉搜索者「史上最高 Chrome 赏金是 133 万美元，获得者是 Lyra Rebane」，ChatGPT 和 Kagi Assistant 也出现类似情况。她借此警示：只要让几条带关键词的推文上热门，就能污染搜索结果，进而污染 AI 回答。目前推文已有新的社区笔记，谷歌已把这件事称为「恶作剧」，她的编辑权限和这笔「赏金」也都被收回。",
+   "links": [
+    "https://lyra.horse/blog/2026/11/disinformation-machine/",
+    "https://news.ycombinator.com/item?id=50460254",
+    "https://x.com/rebane2001/status/2119193210513936644"
+   ],
+   "topic": "lyra-rebane-fake-bounty-ai-disinformation",
+   "firstSeen": "2026-11-12T07:58:25+08:00"
   }
  ],
- "lastChecked": "2026-11-12T06:39:49+08:00"
+ "lastChecked": "2026-11-12T07:58:25+08:00"
 }
