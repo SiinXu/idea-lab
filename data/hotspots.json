@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T20:13:12+08:00",
+ "lastUpdated": "2026-11-11T20:58:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46368,7 +46368,52 @@
    ],
    "topic": "nvidia-openshell-cncf-sandbox",
    "firstSeen": "2026-11-11T20:13:12+08:00"
+  },
+  {
+   "id": "41dbe99c28",
+   "title": "微软 11 月补丁日再破千：修复 1,235 个漏洞，含已被利用的 Outlook 零日 CVE-2026-124194（Claude 协助发现）",
+   "summary": "微软连续第二个月单月补丁超千个，修复 66 个严重漏洞。已被在野利用的 Outlook 欺骗漏洞会在打开恶意消息文件后静默连接攻击者服务器并泄露 NTLMv2 哈希，CISA 已列入已知被利用漏洞目录；The Record 称该漏洞由研究者借助 Anthropic Claude 发现，微软今年披露漏洞已超 5,160 个。",
+   "links": [
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+    "https://therecord.media/patch-tuesday-microsoft-1000-bugs-again",
+    "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/"
+   ],
+   "topic": "microsoft-nov-2026-patch-tuesday-outlook-zero-day",
+   "firstSeen": "2026-11-11T20:58:11+08:00"
+  },
+  {
+   "id": "272048b8c2",
+   "title": "韩国最大 AI 角色聊天应用 Zeta 从苹果 App Store 消失，PolyBuzz、Chai 等此前已相继下架",
+   "summary": "Scatter Lab 旗下 Zeta 于 11 月 6–7 日在 51 个地区的 App Store 下架，官方称正与苹果沟通，已安装用户和安卓、网页版不受影响。自 10 月中旬以来 PolyBuzz、Tipsy Chat、Chai、Linky 等 AI 陪伴类应用也陆续从 iPhone 商店消失，外界视为苹果收紧 AI 聊天审核的信号。",
+   "links": [
+    "https://zdnet.co.kr/view/?no=20261111171900",
+    "https://www.isekaizero.ai/blog/ai-chat-apps-removed-from-app-store",
+    "https://companionhunt.com/news/zeta-app-store/"
+   ],
+   "topic": "apple-app-store-ai-companion-apps-removed-zeta",
+   "firstSeen": "2026-11-11T20:58:11+08:00"
+  },
+  {
+   "id": "a92c103556",
+   "title": "Meta 的 AI 智能体 Muse 登陆 Apple Watch 和 Wear OS：手腕上语音、文字下指令并审批任务",
+   "summary": "继 iPad 版之后，Muse 扩展到智能手表，支持文字、听写和语音通话三种交互，可在手表上批准或查看正在执行的任务，但智能体本体仍在手机上运行。近期 Meta 还为 Muse 推出 Spaces 即时小应用和头像视频聊天，加速争夺消费级 AI 智能体入口。",
+   "links": [
+    "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/"
+   ],
+   "topic": "meta-muse-apple-watch-wear-os",
+   "firstSeen": "2026-11-11T20:58:11+08:00"
+  },
+  {
+   "id": "02776d74a1",
+   "title": "微软 AI 超分 Auto SR 正式版上线：Xbox Ally X 掌机模式、1080p 可用，性能模式最高 120fps",
+   "summary": "对标英伟达 DLSS 的 Auto SR 结束预览，登陆 ROG Xbox Ally X、Xbox Ally X20 和部分 Copilot+ PC，首次支持电池掌机模式与 1080p 游戏；后续 Windows 更新将带来最高 120fps 的性能模式并兼容 Auto HDR，NPU 端侧 AI 超分开始进入掌机主战场。",
+   "links": [
+    "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling"
+   ],
+   "topic": "microsoft-auto-sr-ga-xbox-ally",
+   "firstSeen": "2026-11-11T20:58:11+08:00"
   }
  ],
- "lastChecked": "2026-11-11T20:13:12+08:00"
+ "lastChecked": "2026-11-11T20:58:11+08:00"
 }
