@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T01:17:16+08:00",
+ "lastUpdated": "2026-11-12T01:31:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46549,7 +46549,31 @@
    ],
    "topic": "jane-street-datacenter-false-smoke-alarm",
    "firstSeen": "2026-11-12T01:17:16+08:00"
+  },
+  {
+   "id": "3f42633dc5",
+   "title": "Klad：一款让 AI 编程智能体「真拿画笔」的 2D 绘画动画软件，Claude Code、Codex 通过命令行一笔一笔画，人能逐笔修改",
+   "summary": "Klad 是给人和智能体共同使用的 2D 绘画与动画应用：人在编辑器里用笔画，智能体（Claude Code、Codex 等能运行命令的都行）通过 klad 命令行用同样的笔刷画在同一张图上，双方实时看到对方的笔触。它没有内置图像模型，画什么由智能体决定，每一笔都保留路径、压感、笔刷和颜色，所以不用「重新生成碰运气」，哪片叶子不对就只改那片。官方示例里，智能体为一句「给我的游戏画个小芽怪物」画了 4,344 笔，再把部件分成 5 组、用 205 个关键帧做出行走动画。项目以源码可见（非标准开源）许可发布，在 HN 以 Show HN 形式亮相。",
+   "links": [
+    "https://github.com/klad-app/klad",
+    "https://klad.studio",
+    "https://news.ycombinator.com/item?id=50454951"
+   ],
+   "topic": "klad-agent-paint-app",
+   "firstSeen": "2026-11-12T01:31:44+08:00"
+  },
+  {
+   "id": "afe51a94bd",
+   "title": "Yogurt：Frigade 开源免费的 AI 会议笔记应用，对标 Granola，不往会议里塞机器人就能录音做纪要",
+   "summary": "产品引导工具公司 Frigade 发布 Yogurt，MIT 许可，主打「私密的 AI 会议笔记」：直接在电脑上录制通话，不需要把录音机器人拉进会议，生成会议摘要、按人分配的下一步和个人提醒。支持 macOS 14.4+（Apple Silicon）、Windows 10 和 Ubuntu 22.04+，需 8GB 内存。仓库 11 月 10 日创建，在 HN 以 Show HN「Granola 的免费、私密、开源替代品」亮相。AI 会议纪要这条赛道正在从付费 SaaS 走向开源和本地化。",
+   "links": [
+    "https://github.com/FrigadeHQ/yogurt",
+    "https://yogurt.so",
+    "https://news.ycombinator.com/item?id=50454625"
+   ],
+   "topic": "yogurt-open-source-granola",
+   "firstSeen": "2026-11-12T01:31:44+08:00"
   }
  ],
- "lastChecked": "2026-11-12T01:18:02+08:00"
+ "lastChecked": "2026-11-12T01:31:44+08:00"
 }
