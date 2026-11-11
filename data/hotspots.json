@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T11:32:11+08:00",
+ "lastUpdated": "2026-11-11T11:42:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -45976,7 +45976,19 @@
    ],
    "topic": "igf-jurors-ai-big-walk",
    "firstSeen": "2026-11-11T11:32:11+08:00"
+  },
+  {
+   "id": "527b692a1d",
+   "title": "技嘉推出 AI TOP AERO：约 1 升的 Windows 小主机塞进英伟达 RTX Spark N1X 和最高 128GB 统一内存，主打本地跑大模型和常驻智能体",
+   "summary": "技嘉 11 月 10 日发布 AI TOP AERO，定位「个人 AI 工作室」，采用英伟达 RTX Spark N1X 超级芯片（20 核 Grace Arm CPU + Blackwell RTX GPU，Notebookcheck 称 GPU 有 6144 个 CUDA 核心），配置最高 128GB LPDDR5X 统一内存和 4TB PCIe 5.0 固态硬盘，机身约 1 升，带 10GbE 网口、Wi-Fi 7 和 USB-C，运行 Windows 11。它支持英伟达 Nemotron 模型、CUDA 以及 LM Studio、Ollama、ComfyUI 等工具，可通过 NVIDIA PAIR（个人 AI 路由）把推理分摊到局域网内多台设备，让长时间运行的智能体和数据都留在本机。外媒称其对标 Mac Studio；价格和上市地区尚未公布。",
+   "links": [
+    "https://www.prnewswire.com/news-releases/gigabyte-expands-its-local-ai-portfolio-with-the-launch-of-ai-top-aero-powered-by-nvidia-rtx-spark-302934919.html",
+    "https://www.techpowerup.com/354649/gigabyte-launches-the-ai-top-aero-powered-by-nvidia-rtx-spark",
+    "https://www.notebookcheck.net/Gigabyte-takes-on-Mac-Studio-with-a-tiny-AI-PC-powered-by-Nvidia-RTX-Spark.1447215.0.html"
+   ],
+   "topic": "gigabyte-ai-top-aero-rtx-spark",
+   "firstSeen": "2026-11-11T11:42:20+08:00"
   }
  ],
- "lastChecked": "2026-11-11T11:32:11+08:00"
+ "lastChecked": "2026-11-11T11:42:20+08:00"
 }
