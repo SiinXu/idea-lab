@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T14:12:09+08:00",
+ "lastUpdated": "2026-11-11T14:31:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46092,7 +46092,17 @@
    ],
    "topic": "apple-support-community-closing",
    "firstSeen": "2026-11-11T14:12:09+08:00"
+  },
+  {
+   "id": "2956571701",
+   "title": "路透社：与解放军关系密切的西北工业大学上月仍买到英伟达 H200 芯片，尽管已被列入美国出口黑名单",
+   "summary": "据路透社查阅的记录，与中国人民解放军关系密切的西北工业大学上个月购买并获得了英伟达 H200 AI 芯片，而该校早已被列入美国出口管制实体清单。报道正值黄仁勋间谍门发酵、美方加强审视英伟达芯片流向之际，为芯片走私和出口管制执行漏洞再添新证据。",
+   "links": [
+    "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/"
+   ],
+   "topic": "nwpu-nvidia-h200-blacklist",
+   "firstSeen": "2026-11-11T14:31:27+08:00"
   }
  ],
- "lastChecked": "2026-11-11T14:13:10+08:00"
+ "lastChecked": "2026-11-11T14:31:27+08:00"
 }
