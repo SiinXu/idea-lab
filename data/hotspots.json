@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T02:01:06+08:00",
+ "lastUpdated": "2026-11-12T02:14:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46583,7 +46583,29 @@
    ],
    "topic": "ibm-quantum-roadmap-nighthawk-2026-11",
    "firstSeen": "2026-11-12T02:01:06+08:00"
+  },
+  {
+   "id": "6d11c95b80",
+   "title": "Apache HTTP Server 2.4.71 紧急发布：mod_http2 严重漏洞 CVE-2026-119618 可致堆损坏和远程代码执行，发现者之一是 Anthropic 的开源代码扫描器",
+   "summary": "Apache 软件基金会 11 月 11 日发布 httpd 2.4.71，修复 3 个漏洞。最严重的 CVE-2026-119618 评级为「严重」：mod_http2 的 assign_headers() 存在共享资源并发同步缺陷，可导致堆损坏和远程代码执行，影响 2.4.55 到 2.4.70，以及 GitHub 上 mod_h2 的 2.0.8 到 2.0.42。致谢名单里，Anthropic 的 OSS Scanner 于 10 月 26 日先报告，谷歌云漏洞研究团队 11 月 3 日也独立报告。同批还修复了 mod_md 空指针导致子进程崩溃（重要）和 mod_vhost_alias 1 字节栈溢出（低危）。启用 HTTP/2 的 Apache 服务器应尽快升级；这也是 AI 自动化漏洞挖掘在主流基础软件里拿到「严重」级 CVE 的又一例。",
+   "links": [
+    "https://httpd.apache.org/security/vulnerabilities_24.html",
+    "https://news.ycombinator.com/item?id=50453368"
+   ],
+   "topic": "apache-httpd-2-4-71-mod-http2-rce",
+   "firstSeen": "2026-11-12T02:14:58+08:00"
+  },
+  {
+   "id": "7a69c1b89e",
+   "title": "苹果 ML 研究：用小型神经网络学习「查询该往哪找」，让 RAG 向量检索更快更准（ICML 2026 论文）",
+   "summary": "最大内积搜索（MIPS）是推荐、搜索和 RAG 检索的核心：在数百万个向量里找和查询最匹配的那个。常规近似方法按「键」的几何结构聚类建索引，默认查询和键长得差不多；但在 RAG 里，查询是用户的短问题，键是长篇整理过的文档，两者差异很大。苹果研究人员在 ICML 2026 论文《用学习到的支撑函数摊销最大内积搜索》中，针对固定的向量库离线训练一次小型神经网络，学习典型查询通常匹配到哪里，把查询更快地路由到正确的簇，以前期训练成本换取推理时更快、更准的检索。苹果机器学习博客的解读文章今天登上 HN。",
+   "links": [
+    "https://machinelearning.apple.com/research/faster-retrieval",
+    "https://news.ycombinator.com/item?id=50455633"
+   ],
+   "topic": "apple-learned-mips-rag-retrieval",
+   "firstSeen": "2026-11-12T02:14:58+08:00"
   }
  ],
- "lastChecked": "2026-11-12T02:01:06+08:00"
+ "lastChecked": "2026-11-12T02:14:58+08:00"
 }
