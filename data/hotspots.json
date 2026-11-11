@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T04:02:03+08:00",
+ "lastUpdated": "2026-11-12T04:10:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46650,7 +46650,17 @@
    ],
    "topic": "term-sheet-please-yc-papers-please-game",
    "firstSeen": "2026-11-12T04:02:03+08:00"
+  },
+  {
+   "id": "cce714811b",
+   "title": "谷歌推出 Gemini Decisions API 和新模型 Gemini Decision 1：一次最多判断 1000 个是/否、多选、打分问题，150–250 毫秒出结果，输出不收费",
+   "summary": "继 OpenAI 推出 Decisions API 后，谷歌 11 月 11 日也发布了同类接口：Gemini Decisions API，由新模型 gemini-decision-1 驱动，可在 Google AI Studio 使用。它专做「封闭式决策」，比如工具选择、策略合规检查、模型路由和上下文打分。一次请求可输入文本、图片、音频、视频和 PDF（最长 256K token），同时提出最多 1000 个独立问题，题型分三种：是/否、多选（2–255 个选项）和按等级打分。模型不逐字生成答案，而是一次前向计算给所有选项打分，返回概率和 0–1 的置信度，端到端延迟 150–250 毫秒。价格为每百万输入 token 0.1 美元，输出 0 元，谷歌称在其基准测试上比 Gemini 3.5 Flash-Lite 便宜近 5 倍。谷歌内部已把它用于 Gemini Notebook 的模型路由（延迟最多降 40%）、Stitch 快速原型、表情选择和搜索里 MCP 工具的安全检测。OpenRouter、LangChain、Vercel、LiteLLM 等正在接入。做智能体路由、内容审核、质检打分的团队可以用它替代自训分类器。",
+   "links": [
+    "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+   ],
+   "topic": "gemini-decisions-api-launch",
+   "firstSeen": "2026-11-12T04:10:54+08:00"
   }
  ],
- "lastChecked": "2026-11-12T04:02:03+08:00"
+ "lastChecked": "2026-11-12T04:10:54+08:00"
 }
