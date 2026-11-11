@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T00:55:35+08:00",
+ "lastUpdated": "2026-11-12T01:17:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46538,7 +46538,18 @@
    ],
    "topic": "ai-activity-outcome-gap-shipping-faster",
    "firstSeen": "2026-11-12T00:55:35+08:00"
+  },
+  {
+   "id": "12a9550d1f",
+   "title": "一次误报烟雾警报差点淹掉 Jane Street 纽约唯一机房：空调被联动关停、喷淋管已充压，工程师狂奔进机房拔光所有电源",
+   "summary": "前 Jane Street 系统团队成员 Michael Bacarella 回忆：施工扬尘触发了机房烟雾报警，按设计，报警会让喷淋管道充入加压水，同时自动关闭机房空调以免助燃；喷头本身靠高温触发，于是没有制冷的机房持续升温，眼看要逼近喷头动作温度。住得离公司步行 9 分钟的他接到香港同事电话，冲上 33 楼，一排排拔掉所有设备的电源，室温最终停在约 143°F（约 62°C）。当时纽约主要市场已收盘，第二天就恢复运行。事后他用 OCaml 写了个监控：每分钟读取所有 Linux 服务器的板载温度取平均值，整体偏高就告警——比依赖空调或机房传感器的遥测更可靠。故事登上 HN 首页，讨论的是安全联锁设计互相冲突的典型案例。",
+   "links": [
+    "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "https://news.ycombinator.com/item?id=50455394"
+   ],
+   "topic": "jane-street-datacenter-false-smoke-alarm",
+   "firstSeen": "2026-11-12T01:17:16+08:00"
   }
  ],
- "lastChecked": "2026-11-12T00:56:15+08:00"
+ "lastChecked": "2026-11-12T01:17:16+08:00"
 }
