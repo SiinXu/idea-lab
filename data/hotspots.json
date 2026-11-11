@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T13:15:31+08:00",
+ "lastUpdated": "2026-11-11T14:12:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46072,7 +46072,27 @@
    ],
    "topic": "nvidia-scandal-ndaa-chip-export-limits",
    "firstSeen": "2026-11-11T13:15:31+08:00"
+  },
+  {
+   "id": "c3e82675d5",
+   "title": "Ars Technica：Grok Build 分享链接可被批量枚举，约 3.5 万个 AI 生成应用数据外泄，连 SpaceXSI 自家 24 个内部应用也中招",
+   "summary": "安全公司 Claroc 研究发现，SpaceXSI（SpaceX 与 xAI 合并后的公司）旗下 vibe coding 智能体 Grok Build 的应用分享链接虽做了随机化，但一个设计缺陷让任何人都能枚举出数千个在线项目，点开即可看到应用里的全部数据，涉及约 3.5 万个应用。泄露内容包括内部商业计划、广告方案、体检结果、某邮轮公司厨房清单、员工姓名和工号等；其中 24 个应用来自 SpaceXSI 自己，包括标注机密的销售新人入职计划、594 个客户的销售区域图和内部系统地址。Claroc 周日通报后未获回应，遂在 X 上点名马斯克。这再次暴露 AI 生成应用默认公开、缺少登录鉴权的安全隐患。",
+   "links": [
+    "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+   ],
+   "topic": "grok-build-share-link-data-leak",
+   "firstSeen": "2026-11-11T14:12:09+08:00"
+  },
+  {
+   "id": "27faaba5d3",
+   "title": "苹果官方支持社区论坛将于 11 月 20 日永久关闭：即日起只读，前身可追溯到 1998 年",
+   "summary": "9to5Mac 报道，苹果支持社区（Apple Support Community）11 月 10 日晚挂出公告：论坛将于 2026 年 11 月 20 日永久关闭，即日起不再接受新帖、仅可浏览，用户被引导到官方 Apple Support 网站。该论坛前身是 1998 年的 Apple Tech Exchange，后改名 Apple Discussions，2011 年以 Apple Support Communities 重新上线并引入声望体系，是全球用户互助排障的重要阵地。用户自发的问答社区关闭，也引发外界对 AI 客服取代社区支持的讨论。",
+   "links": [
+    "https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/"
+   ],
+   "topic": "apple-support-community-closing",
+   "firstSeen": "2026-11-11T14:12:09+08:00"
   }
  ],
- "lastChecked": "2026-11-11T13:15:31+08:00"
+ "lastChecked": "2026-11-11T14:12:09+08:00"
 }
