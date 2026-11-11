@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T03:44:19+08:00",
+ "lastUpdated": "2026-11-12T04:02:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46639,7 +46639,18 @@
    ],
    "topic": "jensen-huang-resignation-calls-economist",
    "firstSeen": "2026-11-12T03:44:19+08:00"
+  },
+  {
+   "id": "2eb3ce8c63",
+   "title": "Show HN 小游戏《Term Sheet, Please》：把《请出示文件》改成「YC 路演日后挑公司投资」，玩家当 VC 盖章放行或拒绝创业者",
+   "summary": "开发者 Bo Lau 在 Hacker News 发布网页小游戏《Term Sheet, Please》，玩法照搬独立游戏名作《Papers, Please》（请出示文件），但把边检官换成了风险投资人：设定在 YC 路演日后第一天，玩家逐个审查创业者的材料，盖章决定投或不投，还要识破各种造假和套路。帖子发布几小时内冲到 50 多分，评论两极：有人说「玩得很开心」「靠识破创始人的骗局拒掉他们很爽」，也有人批评原作讲的是极权下的边检，这样改编「有点别扭」，还有人质疑这是让大模型照着现成作品复刻，算不上原创。对做 AI 辅助小游戏、梗图式网页玩具的独立开发者来说，「名作玩法 + 创投圈热梗」是一种低成本拿流量的思路。",
+   "links": [
+    "https://termsheetplease.com/",
+    "https://news.ycombinator.com/item?id=50457230"
+   ],
+   "topic": "term-sheet-please-yc-papers-please-game",
+   "firstSeen": "2026-11-12T04:02:03+08:00"
   }
  ],
- "lastChecked": "2026-11-12T03:44:19+08:00"
+ "lastChecked": "2026-11-12T04:02:03+08:00"
 }
