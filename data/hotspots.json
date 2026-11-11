@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T17:42:20+08:00",
+ "lastUpdated": "2026-11-11T17:53:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46228,7 +46228,20 @@
    ],
    "topic": "oss-says-no-ai-contributions",
    "firstSeen": "2026-11-11T17:42:20+08:00"
+  },
+  {
+   "id": "546e2a2cfa",
+   "title": "百度发布文心 ERNIE 5.5 Flash Preview：280B MoE、1M 上下文，11 月 25 日前开源权重",
+   "summary": "百度 11 月 11 日发布 ERNIE 5.5 Flash Preview，基于此前 Base 的首个后训练版本：总参数 280B、激活 14B、支持 100 万 Token 上下文、生成速度超 200 tokens/s，主打编程、游戏开发（UE/Unity/Godot）、Blender/CAD 3D 建模、知识工作与视频创作；API 已上千帆（输入 1–2 元/百万、输出 4–8 元/百万，限时五折），OpenRouter 同步上架，权重计划以 Apache 2.0 开源。基准为厂商自报，尚待第三方复现。",
+   "links": [
+    "https://ernie.baidu.com/release/ernie-5-5-flash-preview/",
+    "https://www.ithome.com/1/025/451.htm",
+    "https://www.xinhuanet.com/tech/20261111/183aa161e70b4942b622e10b5e3da605/c.html",
+    "https://openrouter.ai/baidu/ernie-5.5-flash-preview"
+   ],
+   "topic": "baidu-ernie-5-5-flash-preview",
+   "firstSeen": "2026-11-11T17:53:40+08:00"
   }
  ],
- "lastChecked": "2026-11-11T17:42:20+08:00"
+ "lastChecked": "2026-11-11T17:53:40+08:00"
 }
