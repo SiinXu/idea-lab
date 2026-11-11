@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T04:39:13+08:00",
+ "lastUpdated": "2026-11-12T05:40:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46681,7 +46681,17 @@
    ],
    "topic": "why-still-working-this-hard-ai-ownership-dividend",
    "firstSeen": "2026-11-12T04:39:13+08:00"
+  },
+  {
+   "id": "f4ada09310",
+   "title": "GitHub 连续两天出现严重故障：Actions、Pages、Copilot 和 Webhook 同时受影响，状态页标为 Critical，约半小时后恢复",
+   "summary": "GitHub 状态页显示，美东时间 11 月 11 日 15:48（北京时间 12 日 04:48）起，Actions、Pages、Copilot 和 Webhook 等多个产品同时出现问题，影响等级标为「critical」，其中 Copilot 可用性下降。约 20 分钟后官方称故障已缓解，开始处理积压的 Actions 任务；16:21（北京时间 05:21）宣布积压全部处理完、服务完全恢复，并表示会公布详细的根因分析。就在故障前不久，Webhook 刚出过一次小故障；前一天（11 月 10 日）Git 操作和 Pull Request 也发生了一次 critical 级别的长时间延迟。Hacker News 上的故障帖迅速升温。GitHub 最近一个多月频繁宕机，依赖 Actions 做持续集成和部署、用 Pages 托管网站的团队，可以考虑准备备用的 CI 或部署通道。",
+   "links": [
+    "https://www.githubstatus.com/incidents/dvy0t3mvh1lg"
+   ],
+   "topic": "github-outage-2026-11-11-actions-pages-copilot",
+   "firstSeen": "2026-11-12T05:40:26+08:00"
   }
  ],
- "lastChecked": "2026-11-12T04:39:13+08:00"
+ "lastChecked": "2026-11-12T05:40:26+08:00"
 }
