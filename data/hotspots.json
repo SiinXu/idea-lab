@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T10:44:50+08:00",
+ "lastUpdated": "2026-11-12T10:57:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46933,7 +46933,19 @@
    ],
    "topic": "warren-coons-preserve-nvidia-china-records",
    "firstSeen": "2026-11-12T10:44:50+08:00"
+  },
+  {
+   "id": "dae1a68d62",
+   "title": "Semafor：英伟达部分董事倾向由 CFO 科莱特·克雷斯出任临时 CEO，董事会已向白宫通报会议安排",
+   "summary": "Semafor 11 日晚报道，知情人士称英伟达部分董事倾向在撤换黄仁勋后任命首席财务官科莱特·克雷斯（Colette Kress）为临时 CEO，但全体董事会尚未作出决定，董事们定于周三晚开会。一名白宫高级官员称，英伟达董事会已向白宫通报了这次会议安排。英伟达股价盘后跌超 8%，创 52 周新低。克雷斯自 2013 年起担任英伟达 CFO，此前曾在思科和微软任财务高管。英伟达长期没有公开的接班计划，也没有总裁或 COO 这样的二号人物，高管搜寻专家认为由 CFO 临时接任有助稳定投资者信心。",
+   "links": [
+    "https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj",
+    "https://seekingalpha.com/news/4671073-nvidia-board-weighs-cfo-colette-kress-as-interim-ceo-amid-jensen-huang-scrutiny-semafor",
+    "https://www.cfodive.com/news/nvidia-cfo-viewed-some-as-possible-interim-ceo/874268/"
+   ],
+   "topic": "nvidia-kress-interim-ceo",
+   "firstSeen": "2026-11-12T10:57:05+08:00"
   }
  ],
- "lastChecked": "2026-11-12T10:44:50+08:00"
+ "lastChecked": "2026-11-12T10:57:05+08:00"
 }
