@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T19:00:29+08:00",
+ "lastUpdated": "2026-11-12T19:40:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47118,7 +47118,27 @@
    ],
    "topic": "smic-q3-2026-earnings",
    "firstSeen": "2026-11-12T19:00:29+08:00"
+  },
+  {
+   "id": "a037ca28da",
+   "title": "Krebs 调查：全球最活跃的勒索软件团伙 Qilin，幕后或为 36 岁俄罗斯人 Aleksey Yakovtsev",
+   "summary": "Brian Krebs 在 Krebs on Security 发文，梳理俄罗斯“勒索软件即服务”团伙 Qilin 的运作。该团伙已成为全球最活跃的勒索软件组织，文章推断其幕后操盘者很可能是 36 岁的 Aleksey Mikhailovich Yakovtsev。",
+   "links": [
+    "https://www.techmeme.com/261112/p17"
+   ],
+   "topic": "krebs-qilin-ransomware-yakovtsev",
+   "firstSeen": "2026-11-12T19:40:17+08:00"
+  },
+  {
+   "id": "1ca0329d93",
+   "title": "The Intercept：俄罗斯恶作剧者冒充乌克兰官员，骗三名 OpenAI 国安与政策高管参加视频会议",
+   "summary": "据 The Intercept 报道，一伙俄罗斯恶作剧者冒充乌克兰官员，成功骗到三名 OpenAI 国家安全与政策方向的高管参加视频会议。OpenAI 回应称已“在内部采取措施”。这一事件暴露出 AI 公司在对外政务沟通中身份核验的薄弱环节，并在 X 上引发广泛讨论。",
+   "links": [
+    "https://www.techmeme.com/261112/p18"
+   ],
+   "topic": "russian-pranksters-openai-natsec-execs-video-call",
+   "firstSeen": "2026-11-12T19:40:17+08:00"
   }
  ],
- "lastChecked": "2026-11-12T19:00:29+08:00"
+ "lastChecked": "2026-11-12T19:40:17+08:00"
 }
