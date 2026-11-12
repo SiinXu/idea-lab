@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T10:32:15+08:00",
+ "lastUpdated": "2026-11-12T10:44:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46921,7 +46921,19 @@
    ],
    "topic": "applied-intuition-30b-round",
    "firstSeen": "2026-11-12T10:32:15+08:00"
+  },
+  {
+   "id": "8bcaf97572",
+   "title": "民主党参议员沃伦与库恩斯致信特朗普政府，要求保全英伟达对华芯片出口及黄仁勋婚外情相关的全部文件",
+   "summary": "《华尔街日报》11 日援引一封信件报道，民主党参议员伊丽莎白·沃伦和克里斯·库恩斯要求特朗普政府保全所有与英伟达芯片出口中国有关的文件，以及与黄仁勋同一名被怀疑为中国情报人员的女性之间婚外情有关的文件。保全文件的要求通常意味着国会准备后续调查或举行听证。同日英伟达董事会开会商议是否撤换黄仁勋。库恩斯此前已表示，要把调查特朗普政府、外国间谍与 AI 亿万富翁之间的关系列为优先事项。英伟达风波正从公司治理一路延伸到国会监督与对华出口管制。",
+   "links": [
+    "https://www.devdiscourse.com/article/international/4005475-top-democrats-ask-trump-administration-to-preserve-nvidia-china-records-wsj-reports",
+    "https://www.ynetnews.com/article/c6yh9vbw9",
+    "https://www.npr.org/2026/11/09/nx-s1-6032682/senator-chris-coons-congress-investigation-nvidia-national-security"
+   ],
+   "topic": "warren-coons-preserve-nvidia-china-records",
+   "firstSeen": "2026-11-12T10:44:50+08:00"
   }
  ],
- "lastChecked": "2026-11-12T10:32:15+08:00"
+ "lastChecked": "2026-11-12T10:44:50+08:00"
 }
