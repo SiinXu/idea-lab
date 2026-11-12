@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T02:58:40+08:00",
+ "lastUpdated": "2026-11-13T03:16:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47433,7 +47433,27 @@
    ],
    "topic": "rust-1-100-release",
    "firstSeen": "2026-11-13T02:58:40+08:00"
+  },
+  {
+   "id": "4f91681f66",
+   "title": "Apify 发生安全事件：攻击者用泄露凭证盗取多个账户凭据，已撤销 GitHub 等 OAuth 连接",
+   "summary": "爬虫与 Actor 平台 Apify 在状态页通报：11 月 9 日至 10 日，未授权第三方利用一个被泄露的凭证获取了多个账户凭据，并访问了相关 Apify 账户；公司于 11 日 12:13 UTC 发现并切断访问。作为预防，Apify 撤销了部分外部集成的 OAuth 连接（包括 GitHub），轮换了多项关键内部密钥，并已通知受影响用户和相关部门。从私有 GitHub 仓库构建 Actor 的用户需要重新授权 GitHub。事件已登上 Hacker News 首页。",
+   "links": [
+    "https://status.apify.com/incidents/sxd1dj5j6749"
+   ],
+   "topic": "apify-security-incident-2026-11",
+   "firstSeen": "2026-11-13T03:16:44+08:00"
+  },
+  {
+   "id": "5b3e85fd43",
+   "title": "安全研究员把 PostgreSQL 内核里潜伏 22 年的类型混淆漏洞做成远程代码执行（CVE-2026-6460）",
+   "summary": "研究员 Mehmet Ince 发布「托管 PostgreSQL 行业系统性风险」系列第 3 篇：他在复合类型里放入一个值，修改其中某个字段的类型后再读回，触发了 PostgreSQL 核心中存在 22 年的类型混淆，并做出了非常稳定的内存破坏利用（CVE-2026-6460）。他说这一发现源自此前对 pg_clickhouse 扩展的利用，过程中还借助 AI 智能体逐步学习 PostgreSQL 内部机制。文章正在 Hacker News 上被讨论，云数据库厂商的补丁进度值得关注。",
+   "links": [
+    "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/"
+   ],
+   "topic": "postgresql-cve-2026-6460-type-confusion-rce",
+   "firstSeen": "2026-11-13T03:16:44+08:00"
   }
  ],
- "lastChecked": "2026-11-13T02:58:40+08:00"
+ "lastChecked": "2026-11-13T03:16:44+08:00"
 }
