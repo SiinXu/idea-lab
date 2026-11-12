@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T23:30:24+08:00",
+ "lastUpdated": "2026-11-12T23:45:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47310,7 +47310,27 @@
    ],
    "topic": "langchain-300m-capitalg-3b",
    "firstSeen": "2026-11-12T23:30:24+08:00"
+  },
+  {
+   "id": "79cf7beb53",
+   "title": "The Information：Alice Huang 关联公司近期投资 DeepSeek，意在拉近关系并供应对华禁售的英伟达 Blackwell 芯片",
+   "summary": "据 The Information 援引知情人士报道，与被指为中国间谍、曾与黄仁勋有恋爱关系的 Alice Huang 相关的公司网络，近期投资了 DeepSeek，目的是与其建立更紧密的关系，并向其供应禁止对华销售的英伟达 Blackwell 芯片。此事可能进一步推动芯片出口管制收紧，并让 DeepSeek 受到更多审查。",
+   "links": [
+    "https://www.techmeme.com/261112/p37"
+   ],
+   "topic": "alice-huang-firms-invest-deepseek-blackwell",
+   "firstSeen": "2026-11-12T23:45:28+08:00"
+  },
+  {
+   "id": "1b0e46e484",
+   "title": "新云厂商 Nebius Q3 营收同比增 571% 至 9.81 亿美元超预期，但上调资本开支、指引偏弱，股价跌超 16%",
+   "summary": "据 CNBC 报道，新云厂商 Nebius 第三季度营收同比增长 571%，达到 9.808 亿美元，高于 9.075 亿美元的预期。但公司上调了 2026 年资本开支，业绩指引也偏弱，股价周四下跌超过 16%。AI 算力租赁增长很快，投资者却越来越担心重资产投入的回报。",
+   "links": [
+    "https://www.techmeme.com/261112/p36"
+   ],
+   "topic": "nebius-q3-revenue-stock-falls",
+   "firstSeen": "2026-11-12T23:45:28+08:00"
   }
  ],
- "lastChecked": "2026-11-12T23:30:24+08:00"
+ "lastChecked": "2026-11-12T23:45:28+08:00"
 }
