@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T14:10:34+08:00",
+ "lastUpdated": "2026-11-12T14:57:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47028,7 +47028,17 @@
    ],
    "topic": "chinese-ai-firms-rush-overseas-nvidia-compute",
    "firstSeen": "2026-11-12T14:10:34+08:00"
+  },
+  {
+   "id": "eb05eee3dd",
+   "title": "Radical Numerics 发布 Omnii Defense：可离线运行的边缘 AI 模型，称能识别天然与 AI 设计的病原体",
+   "summary": "据《连线》报道，生物 AI 公司 Radical Numerics 推出 Omnii Defense，这是一款可在边缘设备上运行的 AI 模型，公司称它无需联网即可识别自然存在的病原体以及经 AI 设计改造的病原体。该公司此前发布了生物大模型 Omnii-1，并用于首个上人体的 AI 设计噬菌体疗法。",
+   "links": [
+    "https://www.techmeme.com/261112/p5"
+   ],
+   "topic": "radical-numerics-omnii-defense-edge-pathogen",
+   "firstSeen": "2026-11-12T14:57:50+08:00"
   }
  ],
- "lastChecked": "2026-11-12T14:10:34+08:00"
+ "lastChecked": "2026-11-12T14:57:50+08:00"
 }
