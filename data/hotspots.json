@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T21:14:42+08:00",
+ "lastUpdated": "2026-11-12T22:15:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47218,7 +47218,38 @@
    ],
    "topic": "nvidia-employees-stunned-huang-affairs",
    "firstSeen": "2026-11-12T21:14:42+08:00"
+  },
+  {
+   "id": "b8785a000c",
+   "title": "英伟达宣布 CEO 交接：黄仁勋辞去 CEO、总裁及董事职务，CFO 科莱特·克雷斯任临时 CEO，股价跌超 10%",
+   "summary": "英伟达官方新闻稿宣布，黄仁勋辞去 CEO、总裁和董事会成员职务。CFO 科莱特·克雷斯出任临时 CEO，Harvey C. Jones 成为公司首位董事会主席，董事会继续物色正式 CEO 人选。消息公布后英伟达股价下跌超过 10%。这是近期“间谍门”和婚外情风波的结局，也是 AI 芯片行业的重大人事变动。",
+   "links": [
+    "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "https://www.techmeme.com/261112/p26"
+   ],
+   "topic": "nvidia-ceo-transition-huang-resigns",
+   "firstSeen": "2026-11-12T22:15:25+08:00"
+  },
+  {
+   "id": "7a81ed1f01",
+   "title": "谷歌与三星 Android XR「Intelligent Eyewear」智能眼镜开启预购：Warby Parker 镜框 395 美元起，Gentle Monster 款 449 美元起",
+   "summary": "据 Wired 报道，谷歌与三星合作的 Android XR 智能眼镜「Intelligent Eyewear」正式开放预购：三星负责硬件，Warby Parker 镜框款 395 美元起，Gentle Monster 款 449 美元起。AI 眼镜赛道再添巨头产品，与 Meta Ray-Ban 正面竞争。",
+   "links": [
+    "https://www.techmeme.com/261112/p28"
+   ],
+   "topic": "google-samsung-android-xr-glasses-preorder",
+   "firstSeen": "2026-11-12T22:15:25+08:00"
+  },
+  {
+   "id": "92eee4fbcb",
+   "title": "The Verge 评测 Apple HomeView：家居控制快、Siri AI 好用、表盘可自定义、音质出色，但 Siri 偶尔慢、壁挂支架偏贵",
+   "summary": "The Verge 发布苹果智能家居中枢 HomeView 的评测。优点：智能家居控制迅速，新版 Siri AI 实用，表盘可高度自定义，体积不大但音质出色。不足：Siri 有时响应慢，壁挂支架价格偏高。苹果正借 AI Siri 重新切入家庭屏市场。",
+   "links": [
+    "https://www.techmeme.com/261112/p27"
+   ],
+   "topic": "apple-homeview-review-verge",
+   "firstSeen": "2026-11-12T22:15:25+08:00"
   }
  ],
- "lastChecked": "2026-11-12T21:14:42+08:00"
+ "lastChecked": "2026-11-12T22:15:25+08:00"
 }
