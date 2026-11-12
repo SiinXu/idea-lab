@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T10:57:05+08:00",
+ "lastUpdated": "2026-11-12T11:46:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46945,7 +46945,19 @@
    ],
    "topic": "nvidia-kress-interim-ceo",
    "firstSeen": "2026-11-12T10:57:05+08:00"
+  },
+  {
+   "id": "b49868ed46",
+   "title": "The Information：美国商务部正敲定芯片管制新规，封堵中国 AI 公司经海外数据中心远程使用先进芯片及走私",
+   "summary": "据 The Information 11 日晚援引知情人士报道，美国商务部正在敲定一项酝酿已久的半导体管制更新，目标是阻止中国 AI 公司通过数据中心远程访问先进 AI 芯片，并防止芯片经由数据中心走私进入中国。现行出口管制只管实体芯片运往哪里，不管谁远程登录使用，字节、阿里、腾讯等被指曾通过泰国、马来西亚等地的数据中心租用英伟达算力。今年 8 月 The Information 就曾报道商务部在起草针对远程租用的规则。法律界人士指出，在《远程访问安全法》（RASA，众议院今年 1 月以 369 比 22 通过，目前卡在参议院）落地前，商务部监管远程访问的法定授权存疑，新规可能面临法律挑战。消息恰逢英伟达芯片走私中国的政治风暴持续发酵。",
+   "links": [
+    "https://www.techmeme.com/261111/p53",
+    "https://aiweekly.co/alerts/commerce-drafts-rule-to-shut-chinas-remote-ai-chip-access",
+    "https://www.freshfields.com/en/our-thinking/blogs/a-fresh-take/remote-access-or-remote-possibility-rasa-and-the-future-of-cloud-export-controls-102nfbw"
+   ],
+   "topic": "commerce-remote-access-chip-rule-finalizing",
+   "firstSeen": "2026-11-12T11:46:15+08:00"
   }
  ],
- "lastChecked": "2026-11-12T10:57:05+08:00"
+ "lastChecked": "2026-11-12T11:46:15+08:00"
 }
