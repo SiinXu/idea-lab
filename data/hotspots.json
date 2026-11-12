@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T23:45:28+08:00",
+ "lastUpdated": "2026-11-13T00:24:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47330,7 +47330,27 @@
    ],
    "topic": "nebius-q3-revenue-stock-falls",
    "firstSeen": "2026-11-12T23:45:28+08:00"
+  },
+  {
+   "id": "ee129214e4",
+   "title": "英伟达临时 CEO 科莱特·克雷斯发全员信：称公司正处于「极其艰难的时期」，定于 11 月 18 日召开全员大会",
+   "summary": "据 The Verge 报道，黄仁勋辞职后，新任临时 CEO 科莱特·克雷斯在内部邮件中称公司正经历「极其艰难的时期」，并宣布 11 月 18 日召开全员大会。外界关注英伟达如何稳住团队，以及管理层交接后战略是否会变。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang"
+   ],
+   "topic": "nvidia-kress-staff-email",
+   "firstSeen": "2026-11-13T00:24:39+08:00"
+  },
+  {
+   "id": "c0831b8d13",
+   "title": "特朗普公开喊话：蒂姆·库克是接替黄仁勋执掌英伟达的「唯一人选」",
+   "summary": "据 9to5Mac 报道，特朗普总统称苹果 CEO 蒂姆·库克是接替黄仁勋出任英伟达 CEO 的「唯一人选」，还说「传奇接替传奇」。英伟达 CEO 人选成了政商两界都在关注的话题，热度还在上升。",
+   "links": [
+    "https://9to5mac.com/2026/11/12/president-trump-calls-on-tim-cook-to-be-next-nvidia-ceo/"
+   ],
+   "topic": "trump-tim-cook-nvidia-ceo",
+   "firstSeen": "2026-11-13T00:24:39+08:00"
   }
  ],
- "lastChecked": "2026-11-12T23:45:28+08:00"
+ "lastChecked": "2026-11-13T00:24:39+08:00"
 }
