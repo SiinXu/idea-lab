@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T02:32:24+08:00",
+ "lastUpdated": "2026-11-13T02:58:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47412,7 +47412,28 @@
    ],
    "topic": "gemini-4-hydrogen-launch",
    "firstSeen": "2026-11-13T02:32:24+08:00"
+  },
+  {
+   "id": "46cce45f55",
+   "title": "微软 365 大规模故障：Outlook/Exchange Online 无法连接，Teams、SharePoint、Copilot 同时受影响",
+   "summary": "据 Variety 和 The National 报道，美东时间 11 月 12 日中午起，微软 Outlook 在美洲等地出现大规模故障。Downdetector 在下午 1 点前后已收到超过 12.9 万条报告，Teams、SharePoint、Copilot 等服务也受影响。微软称受影响的基础设施在多个区域负载过高，正在重启修复并考虑把流量切到备用设施。Hacker News 上还有人吐槽连微软状态页也挂了。",
+   "links": [
+    "https://variety.com/2026/digital/news/outlook-outage-microsoft-email-down-1236946411/",
+    "https://www.thenationalnews.com/future/technology/2026/11/12/microsoft-outlook-outage-email/"
+   ],
+   "topic": "microsoft-365-outlook-outage-2026-11-12",
+   "firstSeen": "2026-11-13T02:58:40+08:00"
+  },
+  {
+   "id": "ab0d1799a3",
+   "title": "Rust 1.100.0 发布：never 类型（!）终于稳定，wasm32-wasip3 升为 Tier 2",
+   "summary": "Rust 1.100.0 正式发布。它稳定了等待多年的 never 类型（!）和 extern \"custom\"，稳定了 -Cprofile-sample-use，并在 orphan 检查中默认启用新的 trait solver。wasm32-wasip3 升为 Tier 2，还新增了 powerpc64-sony-ps3 这个 Tier 3 目标。发布后在 Hacker News 获得 110 多个点赞。",
+   "links": [
+    "https://github.com/rust-lang/rust/releases/tag/1.100.0"
+   ],
+   "topic": "rust-1-100-release",
+   "firstSeen": "2026-11-13T02:58:40+08:00"
   }
  ],
- "lastChecked": "2026-11-13T02:32:24+08:00"
+ "lastChecked": "2026-11-13T02:58:40+08:00"
 }
