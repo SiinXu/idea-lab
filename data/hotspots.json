@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T19:40:17+08:00",
+ "lastUpdated": "2026-11-12T20:10:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47138,7 +47138,17 @@
    ],
    "topic": "russian-pranksters-openai-natsec-execs-video-call",
    "firstSeen": "2026-11-12T19:40:17+08:00"
+  },
+  {
+   "id": "263836069a",
+   "title": "谷歌推出实验性 AI 平台 Tabletop：可搭建可定制、多人协作的个人规划与协调中心，开放候补内测",
+   "summary": "据 The Verge 报道，谷歌推出实验性 AI 平台 Tabletop。用户可以搭建可定制的个人规划与协调“中心”，并和他人协作使用，适用于旅行、活动、家庭事务等需要多人协调的场景。目前以 Beta 形式通过候补名单开放。这说明 AI 助手正从单人对话走向多人共享的协作空间。",
+   "links": [
+    "https://www.techmeme.com/261112/p21"
+   ],
+   "topic": "google-tabletop-ai-planning-hubs-beta",
+   "firstSeen": "2026-11-12T20:10:03+08:00"
   }
  ],
- "lastChecked": "2026-11-12T19:40:17+08:00"
+ "lastChecked": "2026-11-12T20:10:03+08:00"
 }
