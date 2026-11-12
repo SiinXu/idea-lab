@@ -1799,6 +1799,106 @@
    "shown": true,
    "at": "2026-11-12T00:54:11+00:00",
    "id": "34df3cb7e6"
+  },
+  {
+   "topic": "h2f1463e50",
+   "title": "Actions 版本锁定体检",
+   "who": "维护开源仓库的个人开发者和小团队",
+   "pain": "workflow 里引用的是可变标签，上游被投毒时 CI 会直接拉到恶意代码，手动逐个查提交哈希又太烦",
+   "why_now": "HN 上「锁定你的 GitHub Actions」正在热议，供应链投毒事件接连出现",
+   "mvp": "粘贴仓库地址，Worker 读取公开 workflow 文件，列出没锁到提交哈希的 action，并生成替换好的 YAML 片段一键复制",
+   "money": "单仓体检免费；团队版每月 9 美元，可批量扫描多个仓库并每周提醒",
+   "not_do": "不托管用户代码，不要求仓库写权限，不自动提交 PR",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50459485"
+   ],
+   "score": 8,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 2,
+    "novel": 0
+   },
+   "why": "HN 真实讨论链接；Worker 读公开文件两周可做；但 pinact、StepSecurity 等免费工具已覆盖，付费意愿一般，新意低。",
+   "shown": true,
+   "at": "2026-11-12T12:58:22+00:00",
+   "id": "da484d5375"
+  },
+  {
+   "topic": "hcfccc77c5",
+   "title": "错题苏格拉底追问",
+   "who": "备考职业证书的自学者",
+   "pain": "刷题只看答案解析记不住，没人追问自己到底为什么选错",
+   "why_now": "Jane Street 公开苏格拉底式辅导做法，HN 正在讨论追问式 AI 辅导",
+   "mvp": "在现有刷题站错题页加「追问我」按钮，AI 只提问不给答案，三轮后再揭晓解析",
+   "money": "每天免费追问 5 次，会员每月 29 元不限次",
+   "not_do": "不原创题目，不代写作答，不承诺通过率",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50438261"
+   ],
+   "score": 8,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 2,
+    "novel": 0
+   },
+   "why": "HN 讨论链接；直接复用刷题站错题页，两周可上；追问式辅导已有 Khanmigo 等先例，订阅意愿中等。",
+   "shown": true,
+   "at": "2026-11-12T12:58:22+00:00",
+   "id": "e88708d8d4"
+  },
+  {
+   "topic": "he3fbb4dc2",
+   "title": "站点 Agent 流量占比卡",
+   "who": "独立站长和内容创作者",
+   "pain": "不知道访问里有多少是 AI Agent 和机器人，广告和转化数据被稀释",
+   "why_now": "X 上热议 AI Agent 已经占据大部分网络流量和内容生产",
+   "mvp": "一段 Cloudflare Worker 代码按 UA 和已知 Agent 标识统计人机比例，每天生成占比卡片",
+   "money": "单站免费；多站汇总和周报每月 5 美元",
+   "not_do": "不收集访客个人信息，不做反屏蔽绕过，不出售流量数据",
+   "evidence": [
+    "https://x.com/i/trending/2120570005054263519"
+   ],
+   "score": 6,
+   "parts": {
+    "evidence": 2,
+    "two_weeks": 2,
+    "money": 0,
+    "reuse": 2,
+    "novel": 0
+   },
+   "why": "X 趋势聚合页而非具体讨论帖；Cloudflare 后台已免费提供机器人流量分析，难收钱，新意不足。",
+   "shown": false,
+   "at": "2026-11-12T12:58:22+00:00",
+   "id": "3f17bcc9b9"
+  },
+  {
+   "topic": "hb4094a149",
+   "title": "AI 落地交付验收单",
+   "who": "给企业做 AI 落地的前线部署工程师和小型交付团队",
+   "pain": "Demo 很好看，上线后客户反复改需求，验收标准说不清，尾款一拖再拖",
+   "why_now": "X 上热议前线部署工程师正成为 AI 从 Demo 走向真实使用的关键岗位",
+   "mvp": "一页模板生成器：填入场景后输出数据范围、准确率目标、回退方案和交接文档的验收清单 PDF",
+   "money": "基础模板免费；行业模板包一次性 19 美元",
+   "not_do": "不做项目撮合，不代管客户数据，不提供咨询服务",
+   "evidence": [
+    "https://x.com/i/trending/2120841380994146390"
+   ],
+   "score": 5,
+   "parts": {
+    "evidence": 2,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 0,
+    "novel": 0
+   },
+   "why": "X 趋势聚合页；模板两周可做，但与现有资产无关，验收模板市面常见，一次性付费天花板低。",
+   "shown": false,
+   "at": "2026-11-12T12:58:22+00:00",
+   "id": "dba6daea4f"
   }
  ]
 }
