@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T07:10:14+08:00",
+ "lastUpdated": "2026-11-13T07:27:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47519,7 +47519,18 @@
    ],
    "topic": "taan-v1-preview-2026-11-12",
    "firstSeen": "2026-11-13T07:10:14+08:00"
+  },
+  {
+   "id": "d096a8a420",
+   "title": "权重取证报告：DeepSeek、月之暗面、MiniMax、蚂蚁的 6 个新模型带有英伟达 Blackwell 芯片「指纹」，而这类芯片对华出口需许可",
+   "summary": "Will DePue（Unemployment Labs）11 月 12 日发布报告，只用公开的模型权重做取证：PyTorch 在 GPU 上用 Philox 随机数初始化权重时，数值的排布取决于芯片的 SM（流式多处理器）数量，训练后未被更新的权重会保留这一排布。据此他判断 DeepSeek-V4-Flash/V4-Pro、Kimi K3/K3.1-Pro、MiniMax-M3、蚂蚁 Ling-3.1-flash 都是在 Blackwell（B200/B300 或 GB200/GB300）上初始化的，而同一家公司更早的模型对应 Hopper。其中 DeepSeek-V4-Flash 和 Kimi K3 已在实体 B300/GB200 上逐位复现；通义千问、智谱 GLM、腾讯、小米、阶跃的最新模型仍是 Hopper 特征。作者强调：这只说明用到了这类硬件，不能证明芯片在哪、怎么拿到，也不能断定违反出口管制。该文正在 Hacker News 首页热议。",
+   "links": [
+    "https://unemploymentlabs.com/checkpoint-forensics",
+    "https://news.ycombinator.com/item?id=50474883"
+   ],
+   "topic": "checkpoint-forensics-blackwell-2026-11-12",
+   "firstSeen": "2026-11-13T07:27:30+08:00"
   }
  ],
- "lastChecked": "2026-11-13T07:10:14+08:00"
+ "lastChecked": "2026-11-13T07:27:30+08:00"
 }
