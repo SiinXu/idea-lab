@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T09:12:49+08:00",
+ "lastUpdated": "2026-11-12T09:27:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46803,7 +46803,30 @@
    ],
    "topic": "a16z-b2a-economy-agents-traffic",
    "firstSeen": "2026-11-12T09:12:49+08:00"
+  },
+  {
+   "id": "934a0dba6d",
+   "title": "腾讯 AI 游戏陪玩应用「鹅次元」开启首测：AI 角色实时看你的游戏画面、语音聊局势出装，还能当桌宠、加 QQ 好友",
+   "summary": "腾讯「鹅次元」（Eciyuan / Goose Dimension）11 月 10 日在国内开启「元气首测」，Windows 客户端，用 QQ 或微信登录。首测上线夏夏、沈露白、谷雨、贝拉四位女性 AI 角色（男性角色入口已预留），各有人设、音色和擅长游戏。角色能识别并理解玩家的游戏画面，通过文字、语音、图片和可随时打断的实时通话，陪你分析《英雄联盟》《无畏契约》《CS2》的局势、出装和打法，《影之刃零》还支持全攻略和全收集陪玩。游戏外可当桌面宠物、一键换角色主题壁纸，加 QQ 好友后手机上继续聊、记忆同步。首测期间全部免费，正式收费方式未公布；腾讯也没公开用的是什么模型、数据如何处理，看屏幕加听语音的隐私问题引发讨论。Dexerto 等海外游戏媒体已跟进报道。",
+   "links": [
+    "https://eciyuan.qq.com/",
+    "https://www.dexerto.com/gaming/tencent-launches-ai-gaming-companion-that-watches-your-screen-and-gives-advice-3427298/",
+    "https://www.aihub.cn/news/tencent-e-cy-beta-test/"
+   ],
+   "topic": "tencent-eciyuan-ai-gaming-companion",
+   "firstSeen": "2026-11-12T09:27:13+08:00"
+  },
+  {
+   "id": "a03b0711ed",
+   "title": "英国《金融时报》：小特朗普入股的人形机器人公司 Foundation 正与以色列国防军洽谈，拟提供最多 1000 台 Phantom MK1 进入加沙哈马斯地道，甚至参与作战",
+   "summary": "《金融时报》11 日报道，旧金山人形机器人初创公司 Foundation Future Industries 联合创始人兼总裁 Mike LeBlanc 称正与以色列国防军总参谋长「直接谈判」，讨论供应最多 1000 台 Phantom MK1，用来巡逻加沙地下约 300 英里的哈马斯地道。他 9 月已带着机器人进地道考察，称机器人能探测绊线、排除诡雷，「作战是这些机器人最崇高的用途」，单台约 15 万美元。该公司成立于 2024 年，已从美军拿到超 7000 万美元合同，今年 2 月曾送两台到乌克兰前线做侦察和后勤测试。埃里克·特朗普 3 月出任首席战略顾问并持股，其发言人称他不参与经营和政府合同。目前只是公司单方说法，以色列国防部拒绝置评，尚无签约。人形机器人直接上战场，会让「机器人不用于作战」的行业共识和自主武器伦理争论再度升温。",
+   "links": [
+    "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a",
+    "https://www.telegraph.co.uk/us/news/2026/11/11/trump-humanoid-robots-hamas-tunnels/"
+   ],
+   "topic": "foundation-phantom-idf-gaza-tunnels",
+   "firstSeen": "2026-11-12T09:27:13+08:00"
   }
  ],
- "lastChecked": "2026-11-12T09:12:49+08:00"
+ "lastChecked": "2026-11-12T09:27:13+08:00"
 }
