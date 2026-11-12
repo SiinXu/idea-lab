@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T07:58:25+08:00",
+ "lastUpdated": "2026-11-12T08:14:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46758,7 +46758,18 @@
    ],
    "topic": "lyra-rebane-fake-bounty-ai-disinformation",
    "firstSeen": "2026-11-12T07:58:25+08:00"
+  },
+  {
+   "id": "01123b748b",
+   "title": "开源项目 Stela：让普通 x86 电脑「假装」成 Apple Silicon Mac，自带 ARM 转 x86 翻译器和给 N 卡用的 Metal 驱动，已能启动 macOS 27",
+   "summary": "GitHub 项目 Stela（GPL-2.0 开源，约 500 颗星）登上 Hacker News。它是一个 UEFI 启动程序，号称「给 x86-64 电脑用的通用 Apple Silicon 兼容层」：内置预编译加即时编译的翻译器，把 arm64e 代码转成 x86-64，覆盖 3000 多种 AArch64 指令编码，Intel、AMD 处理器都能跑；另外自带一个 Metal 驱动，把 Metal 着色器中间码直接编译成 Mesa 的 NIR，支持 GTX 16、RTX 20 系列及更新的英伟达显卡；同时模拟一台 M2 Mac mini 的硬件，可以运行 macOS 27。作者坦言 v0.1.0 版本很慢、启动成功率还低，需要关闭安全启动、准备 60GB 分区，安装时会联网下载 macOS。苹果全面转向自研芯片后，传统「黑苹果」路线基本断了，这个项目提供了一个新思路，但也存在授权协议上的争议风险。",
+   "links": [
+    "https://github.com/tylertms/Stela",
+    "https://news.ycombinator.com/item?id=50460154"
+   ],
+   "topic": "stela-apple-silicon-layer-x86",
+   "firstSeen": "2026-11-12T08:14:37+08:00"
   }
  ],
- "lastChecked": "2026-11-12T07:58:25+08:00"
+ "lastChecked": "2026-11-12T08:14:37+08:00"
 }
