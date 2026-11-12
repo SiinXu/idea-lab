@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T20:42:01+08:00",
+ "lastUpdated": "2026-11-12T20:59:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47178,7 +47178,17 @@
    ],
    "topic": "q-ctrl-290m-quantum-navigation",
    "firstSeen": "2026-11-12T20:42:01+08:00"
+  },
+  {
+   "id": "de1be55f76",
+   "title": "慕尼黑 SE3 获 Accel 领投 3000 万美元 A 轮：用“空间智能”把多路情报融合成可查询的 3D 战场地图",
+   "summary": "据《财富》报道，慕尼黑初创公司 SE3 完成 3000 万美元 A 轮融资，由 Accel 领投。它开发的“空间智能”软件可以把多路数据源融合成一张可查询的 3D 战场地图。欧洲国防 AI 赛道的融资仍在密集发生。",
+   "links": [
+    "https://www.techmeme.com/261112/p25"
+   ],
+   "topic": "se3-30m-series-a-spatial-intelligence",
+   "firstSeen": "2026-11-12T20:59:31+08:00"
   }
  ],
- "lastChecked": "2026-11-12T20:42:01+08:00"
+ "lastChecked": "2026-11-12T20:59:31+08:00"
 }
