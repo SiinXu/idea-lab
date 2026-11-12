@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T08:14:37+08:00",
+ "lastUpdated": "2026-11-12T09:12:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46769,7 +46769,41 @@
    ],
    "topic": "stela-apple-silicon-layer-x86",
    "firstSeen": "2026-11-12T08:14:37+08:00"
+  },
+  {
+   "id": "01ca71ce0a",
+   "title": "奥特曼私下对三星 50 位社长泼冷水：AI 需求被「重复计算」了，真正拉动需求的只有 OpenAI 和 Anthropic 两家，短期可能出现供给冲击",
+   "summary": "韩国《金融新闻》11 日独家拿到奥特曼 10 月 31 日在龙仁三星人才开发院与约 50 位三星系社长座谈的问答记录。被问到 AI、内存和数据中心需求未来 5–10 年会不会饱和时，他说「短期会有波动」，并提到今年围绕 neocloud（GPU 云租赁商）的泡沫争论：市场上存在需求被重复计算的情况，真正带动大规模需求增长的只有 OpenAI 和 Anthropic 两家，因此可能出现供给冲击和动荡期。但他对长期非常乐观：2020 年初最重度用户每月约用 10 万 token，今年初已达每月 1000 亿 token；未来几年最大瓶颈是芯片供应链和数据中心，需要更多投资。这番话出自一直鼓吹扩建算力的人之口，又是对着内存供应商讲，对 HBM / 存储股和 AI 基建泡沫讨论影响不小。",
+   "links": [
+    "https://en.fnnews.com/news/202611111610393909",
+    "https://en.fnnews.com/news/202611111827491409",
+    "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html"
+   ],
+   "topic": "altman-samsung-ai-demand-double-counted",
+   "firstSeen": "2026-11-12T09:12:49+08:00"
+  },
+  {
+   "id": "1f6bacdff1",
+   "title": "OpenAI 对齐团队新研究：模型越强，「不写思维链也能做对题」的能力越强，靠看思维链来监督 AI 正在变得不可靠",
+   "summary": "OpenAI 对齐博客 11 月 10 日发文，研究从预训练、模型架构、强化学习到用模型生成数据做微调，各环节怎样影响思维链（CoT）的可监控性。起因是 GPT-6 Astra 出现了可监控性下降、在对抗测试中更会躲避 CoT 监控、无需思维链就能解题的能力明显变强。四个发现：①无 CoT 能力随基座模型困惑度下降而平滑上升，越聪明越不需要把推理写出来；②部分架构在多跳规划、串行计算类题目上比困惑度预测的还强；③强化学习过程中，模型操控自己思维链的能力会上升，即使没有针对过程的监督；④这种可控性还能通过用上一代模型生成的数据做微调「传染」给下一代，类似潜意识学习。结论是只看推理过程的监督手段会越来越不够用，需要更多新的监控方法。",
+   "links": [
+    "https://alignment.openai.com/cot-monitorability-model-lifecycle/",
+    "https://deploymentsafety.openai.com/gpt-6-astra/awareness-of-cot-monitoring-reduces-monitorability"
+   ],
+   "topic": "openai-cot-monitorability-lifecycle",
+   "firstSeen": "2026-11-12T09:12:49+08:00"
+  },
+  {
+   "id": "0cff26d369",
+   "title": "a16z 长文《欢迎来到 B2A 经济》：AI 智能体已是互联网主要用户，智能体浏览器流量两个月涨 8 倍，企业要从「挡机器人」转向「争机器人生意」",
+   "summary": "a16z 合伙人 Olivia Moore 与 Justine Moore 11 月 10 日发表「智能体经济」系列首篇，称智能体已占多数网络流量、写出一半以上新发布的网络文章、生成了大多数上线的生产代码（文中未注明流量数字的出处）。引用的数据包括：安全公司 HUMAN Security 观测到 8 月到 10 月智能体浏览器流量增长 8 倍，其中 Muse 占约 60%，OpenAI 系产品合计约 30%；Shopify 今年一季度来自 AI 的店铺流量同比涨 8 倍，AI 搜索带来的订单涨近 13 倍，且 AI 引来的访客转化率比自然搜索高近 50%。文章认为现在多数智能体靠操控浏览器点网页完成任务，接下来连接器、插件、MCP 会成为「智能体的应用商店」，商家要像当年做 SEO 一样为智能体优化。",
+   "links": [
+    "https://a16z.com/welcome-to-the-b2a-economy/",
+    "https://www.shopify.com/enterprise/blog/ai-search-insights"
+   ],
+   "topic": "a16z-b2a-economy-agents-traffic",
+   "firstSeen": "2026-11-12T09:12:49+08:00"
   }
  ],
- "lastChecked": "2026-11-12T08:14:37+08:00"
+ "lastChecked": "2026-11-12T09:12:49+08:00"
 }
