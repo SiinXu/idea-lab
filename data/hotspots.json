@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T13:56:13+08:00",
+ "lastUpdated": "2026-11-12T14:10:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47018,7 +47018,17 @@
    ],
    "topic": "congress-bipartisan-export-controls-huang-falls-out-of-favor",
    "firstSeen": "2026-11-12T13:56:13+08:00"
+  },
+  {
+   "id": "8fdd5c5c12",
+   "title": "路透：担心美国收紧限制，中国 AI 公司争相在海外租用英伟达算力",
+   "summary": "据路透援引知情人士报道，在黄仁勋「间谍门」风波发酵、外界预期美国将进一步收紧限制之际，中国 AI 公司正争相在海外租用英伟达算力容量。此前 The Information 报道美国商务部正敲定新规，拟封堵中国公司经海外数据中心远程使用先进芯片的渠道。",
+   "links": [
+    "https://www.techmeme.com/261112/p4"
+   ],
+   "topic": "chinese-ai-firms-rush-overseas-nvidia-compute",
+   "firstSeen": "2026-11-12T14:10:34+08:00"
   }
  ],
- "lastChecked": "2026-11-12T13:57:20+08:00"
+ "lastChecked": "2026-11-12T14:10:34+08:00"
 }
