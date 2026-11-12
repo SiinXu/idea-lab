@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T04:27:10+08:00",
+ "lastUpdated": "2026-11-13T04:59:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47476,7 +47476,17 @@
    ],
    "topic": "reuters-huang-second-employee-relationship-2026-11-12",
    "firstSeen": "2026-11-13T04:27:10+08:00"
+  },
+  {
+   "id": "2d31f20a15",
+   "title": "康奈尔研究（Nature Energy）：数据中心只承担 38% 的电网扩建成本，其余 62% 主要由居民买单，低收入和农村家庭负担最重",
+   "summary": "康奈尔大学研究团队在 11 月 9 日的《Nature Energy》上发表论文，分析了美国四大电网 2020—2025 年的用电增长和基建项目。结果显示：2025 年与数据中心增长相关的基建成本共 82.5 亿美元，数据中心只付了 31.2 亿美元（38%），其余 51.3 亿美元（62%）主要落在居民身上，最低收入家庭新增的电费最高可占收入的 28%。同期输电投资从 20 亿美元涨到 340 亿美元。研究也估算，每吉瓦数据中心容量可带动约 1.5 万个就业岗位。该研究正在 Hacker News 上被讨论。",
+   "links": [
+    "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price"
+   ],
+   "topic": "cornell-data-center-grid-costs-nature-energy-2026-11",
+   "firstSeen": "2026-11-13T04:59:56+08:00"
   }
  ],
- "lastChecked": "2026-11-13T04:27:10+08:00"
+ "lastChecked": "2026-11-13T04:59:56+08:00"
 }
