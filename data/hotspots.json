@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T04:08:40+08:00",
+ "lastUpdated": "2026-11-13T04:27:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47465,7 +47465,18 @@
    ],
    "topic": "nonprofits-sue-frontier-ai-freeze-2026-11-12",
    "firstSeen": "2026-11-13T04:08:40+08:00"
+  },
+  {
+   "id": "c0e992001b",
+   "title": "路透独家：黄仁勋还与另一名英伟达员工有过亲密关系，此前已曝光两段婚外情",
+   "summary": "路透援引两名知情人士报道，已辞职的英伟达前 CEO 黄仁勋还与另一名英伟达女员工有过亲密关系，路透未公开其身份。此前曝光、并导致他周四辞职的两段婚外情，对象分别是被美国情报部门怀疑为中国间谍的 Alice Huang，以及英伟达医疗健康副总裁 Kimberly Powell。英伟达拒绝置评，黄仁勋、Powell 和董事会代表均未回应。消息已登上 Hacker News 首页。",
+   "links": [
+    "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+    "https://www.channelnewsasia.com/business/exclusive-former-nvidia-ceo-huang-had-relationship-second-employee-sources-say-6547376"
+   ],
+   "topic": "reuters-huang-second-employee-relationship-2026-11-12",
+   "firstSeen": "2026-11-13T04:27:10+08:00"
   }
  ],
- "lastChecked": "2026-11-13T04:08:40+08:00"
+ "lastChecked": "2026-11-13T04:27:10+08:00"
 }
