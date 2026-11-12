@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T01:43:30+08:00",
+ "lastUpdated": "2026-11-13T02:14:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47381,7 +47381,28 @@
    ],
    "topic": "nintendo-github-dmca-switch-emulators",
    "firstSeen": "2026-11-13T01:43:30+08:00"
+  },
+  {
+   "id": "162924df6f",
+   "title": "Semafor：美司法部多项调查或波及英伟达，涉反垄断及 Megaspeed、超微电脑两案",
+   "summary": "据 Semafor 援引美国官员消息，美国司法部有多项调查可能牵涉英伟达：一项以反垄断为由，另两项分别针对芯片走私相关的 Megaspeed 和超微电脑（Supermicro）。黄仁勋辞职后，英伟达还面临监管和合规的连锁压力。",
+   "links": [
+    "https://www.semafor.com/article/11/12/2026/us-doj-probes-nvidia"
+   ],
+   "topic": "doj-probes-nvidia-megaspeed-supermicro",
+   "firstSeen": "2026-11-13T02:14:07+08:00"
+  },
+  {
+   "id": "b59652e4ac",
+   "title": "The Information：英伟达临时 CEO 克雷斯或比黄仁勋更保守，曾反对为 OpenAI 兜底等高风险交易",
+   "summary": "据 The Information 报道，知情人士称，英伟达临时 CEO 科莱特·克雷斯的作风可能比黄仁勋更保守，她曾对黄仁勋的一些高风险交易提出异议，比如为 OpenAI 提供兜底支持。英伟达对 AI 生态的大手笔投资策略可能会收缩。",
+   "links": [
+    "https://www.theinformation.com/articles/interim-nvidia-ceo-colette-kress-tried-tame-nvidias-riskiest-bets",
+    "https://www.techmeme.com/261112/p45"
+   ],
+   "topic": "kress-conservative-nvidia-deals",
+   "firstSeen": "2026-11-13T02:14:07+08:00"
   }
  ],
- "lastChecked": "2026-11-13T01:43:30+08:00"
+ "lastChecked": "2026-11-13T02:14:07+08:00"
 }
