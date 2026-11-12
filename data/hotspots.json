@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T13:31:44+08:00",
+ "lastUpdated": "2026-11-12T13:42:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46998,7 +46998,17 @@
    ],
    "topic": "amd-broadcom-rally-nvidia-ceo-turmoil",
    "firstSeen": "2026-11-12T13:31:44+08:00"
+  },
+  {
+   "id": "24a2cff263",
+   "title": "《华尔街日报》：英伟达在把 Megaspeed 列入黑名单后，停止单独披露曾占营收 22% 的新加坡收入",
+   "summary": "《华尔街日报》专栏作者 Jonathan Weil 指出，英伟达自截至 2025 年 7 月的季度之后不再在财报中单列新加坡营收；当季新加坡占其总营收的 22%。停止披露的时间点恰在英伟达将新加坡公司 Megaspeed 列入内部黑名单之后。随着 Megaspeed 创始人 Alice Huang 与黄仁勋的关系曝光、芯片经东南亚流入中国的质疑升温，这一披露变化正受到重新审视。",
+   "links": [
+    "https://www.techmeme.com/261112/p2"
+   ],
+   "topic": "nvidia-singapore-revenue-disclosure-megaspeed",
+   "firstSeen": "2026-11-12T13:42:47+08:00"
   }
  ],
- "lastChecked": "2026-11-12T13:31:44+08:00"
+ "lastChecked": "2026-11-12T13:42:47+08:00"
 }
