@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T14:57:50+08:00",
+ "lastUpdated": "2026-11-12T15:15:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47038,7 +47038,17 @@
    ],
    "topic": "radical-numerics-omnii-defense-edge-pathogen",
    "firstSeen": "2026-11-12T14:57:50+08:00"
+  },
+  {
+   "id": "e270290ea1",
+   "title": "慕尼黑机器人公司 Agile Robots 获软银领投 5 亿美元融资，估值 85 亿美元",
+   "summary": "据彭博报道，总部位于慕尼黑的 Agile Robots 完成 5 亿美元融资，由软银领投，估值达 85 亿美元。该公司研发人形机器人、移动机器人、机械臂及控制软件，是欧洲估值最高的机器人创业公司之一，也反映出资本持续押注具身智能与工业机器人赛道。",
+   "links": [
+    "https://www.techmeme.com/261112/p6"
+   ],
+   "topic": "agile-robots-softbank-500m-8-5b",
+   "firstSeen": "2026-11-12T15:15:08+08:00"
   }
  ],
- "lastChecked": "2026-11-12T14:57:50+08:00"
+ "lastChecked": "2026-11-12T15:15:08+08:00"
 }
