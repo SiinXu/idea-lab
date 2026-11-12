@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T20:59:31+08:00",
+ "lastUpdated": "2026-11-12T21:14:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47188,7 +47188,37 @@
    ],
    "topic": "se3-30m-series-a-spatial-intelligence",
    "firstSeen": "2026-11-12T20:59:31+08:00"
+  },
+  {
+   "id": "8cc3e4a94c",
+   "title": "彭博盘点英伟达 CEO 潜在接班人：CFO 科莱特·克雷斯、CUDA 之父 Ian Buck、Arm CEO Rene Haas、苹果硬件主管 Johny Srouji",
+   "summary": "据彭博报道，英伟达正在为黄仁勋寻找接班人。报道列出的潜在人选有：CFO 科莱特·克雷斯、CUDA 发明者 Ian Buck、Arm CEO Rene Haas，以及苹果首席硬件官 Johny Srouji。给全球市值最高的芯片公司找新 CEO 难度极大，接班人选将直接影响英伟达的战略和市场预期。",
+   "links": [
+    "https://www.techmeme.com/261112/p14"
+   ],
+   "topic": "nvidia-ceo-candidates-bloomberg",
+   "firstSeen": "2026-11-12T21:14:42+08:00"
+  },
+  {
+   "id": "30d5e45406",
+   "title": "北京回应英伟达“间谍门”：美方应停止以捏造的“中国间谍叙事”为借口实施技术限制，特朗普与习近平下周会面",
+   "summary": "据彭博报道，中国官方回应围绕黄仁勋的间谍指控时表示，美国应停止编造所谓“中国间谍叙事”，不应以此作为技术限制的借口。中美元首预计下周会面，这起风波可能影响芯片出口管制谈判。",
+   "links": [
+    "https://www.techmeme.com/261112/p19"
+   ],
+   "topic": "beijing-responds-nvidia-spy-narrative",
+   "firstSeen": "2026-11-12T21:14:42+08:00"
+  },
+  {
+   "id": "cfa3026dfb",
+   "title": "《金融时报》：以忠于黄仁勋著称的英伟达员工得知其婚外情后震惊，部分人感到愤怒",
+   "summary": "据《金融时报》报道，英伟达员工一向以忠于创始人黄仁勋著称。第二段婚外情曝光后，许多员工深感震惊，部分人表示愤怒。黄仁勋能否继续担任 CEO 尚不明朗，公司内部士气与人才稳定成为新的关注点。",
+   "links": [
+    "https://www.techmeme.com/261112/p20"
+   ],
+   "topic": "nvidia-employees-stunned-huang-affairs",
+   "firstSeen": "2026-11-12T21:14:42+08:00"
   }
  ],
- "lastChecked": "2026-11-12T20:59:31+08:00"
+ "lastChecked": "2026-11-12T21:14:42+08:00"
 }
