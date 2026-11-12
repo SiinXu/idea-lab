@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T07:45:05+08:00",
+ "lastUpdated": "2026-11-13T07:56:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47553,7 +47553,54 @@
    ],
    "topic": "mirendil-series-a-1b-2026-11-12",
    "firstSeen": "2026-11-13T07:45:05+08:00"
+  },
+  {
+   "id": "c4f567f737",
+   "title": "HubSpot 联合创始人 Brian Halligan 回归 CEO，宣布「重新创业」：把公司改造成 AI 时代的「客户关系 Harness」，Yamini Rangan 卸任",
+   "summary": "HubSpot 11 月 12 日宣布 CEO Yamini Rangan 即日卸任并退出董事会，由联合创始人 Brian Halligan 重新出任 CEO，与联合创始人兼 CTO Dharmesh Shah 一起「重新创立」公司，从产品、销售到文化全面围绕 AI 重做。Halligan 在 X 上称 HubSpot 现在是「Customer Harness Company」，并表示不想看到公司被私募收购或萎缩。Rangan 任内客户从 13.5 万增至 31.1 万以上，营收从 2021 年的 13 亿美元增至 2026 年预计 37 亿美元，但 CMSWire 指出股价同比跌约 47%。CFO Kate Bueker 将于 2027 年 2 月退休，由 Adobe 高管 Karen Burgess 接任；公司重申第四季度和全年业绩指引。",
+   "links": [
+    "https://www.hubspot.com/company-news/leadership-transition",
+    "https://thenextweb.com/news/hubspot-brian-halligan-returns-ceo-refounding",
+    "https://www.cmswire.com/digital-marketing/brian-halligan-returns-as-hubspot-ceo-replacing-yamini-rangan/"
+   ],
+   "topic": "hubspot-halligan-returns-2026-11-12",
+   "firstSeen": "2026-11-13T07:56:17+08:00"
+  },
+  {
+   "id": "513b8e1808",
+   "title": "Anthropic 开放 Claude Managed Agents 自托管版私测：智能体服务、沙箱、凭据和会话记录全部跑在自家云或机房，模型请求可走 Bedrock 等",
+   "summary": "Anthropic 11 月 12 日宣布 Claude Managed Agents 自托管版进入私测：企业可在自己的云或本地机房运行整套服务，包括 Managed Agents 服务器（cma-server，跑智能体循环）、PostgreSQL 数据库（存智能体与会话历史）、在沙箱里执行 shell 和文件工具的 worker，以及接入企业身份系统的网页控制台。模型请求可发往 Anthropic、Amazon Bedrock、Google Agent Platform、Microsoft Foundry 或自建网关；API 与托管版相同，SDK 和 ant CLI 照常可用。此前 5 月只开放了沙箱自托管。官方提供 Docker Compose 快速上手（仅限开发环境），申请需联系 Anthropic 客户团队。",
+   "links": [
+    "https://claude.com/es/resources/articles/self-hosted-claude-managed-agents",
+    "https://platform.claude.com/docs/en/managed-agents/self-hosted/quickstart",
+    "https://thenextweb.com/news/anthropic-self-hosted-claude-managed-agents"
+   ],
+   "topic": "claude-managed-agents-self-hosted-2026-11-12",
+   "firstSeen": "2026-11-13T07:56:17+08:00"
+  },
+  {
+   "id": "e532bb4417",
+   "title": "李飞飞的 World Labs 向所有人开放 Atlas 世界模型：Viewfinder 用照片重建 3D 场景、Chisel 用积木式几何搭场景，并开放 API",
+   "summary": "World Labs 11 月 12 日把 Atlas 从合作伙伴预览改为注册即用。Viewfinder 可从单张图生成可漫游的 3D 世界，或用最多 64 张照片重建真实场景；Chisel 用平面、方块等基础几何搭布局，再用文字或参考图赋予风格，面向智能体式的 3D 创作流程。两者都能导出关键帧、视频片段和 3D 高斯泼溅（SPZ/PLY），另有把泼溅转网格（splats2Mesh，可进 Blender）和重新打光的工具。开发者 API 开放 atlasGenerate、atlasChisel、images2PosedRGBD 等端点。模型仍闭源、托管运行，暂无公开价格页，API 带 beta 标签。",
+   "links": [
+    "https://artrealmai.com/article/world-labs-atlas-open-to-everyone-viewfinder-chisel-api",
+    "https://alphasignal.ai/news/world-labs-opens-atlas-3d-world-model-to-all-developers",
+    "https://x.com/i/trending/2121025979250262495"
+   ],
+   "topic": "world-labs-atlas-open-2026-11-12",
+   "firstSeen": "2026-11-13T07:56:17+08:00"
+  },
+  {
+   "id": "8cd360e027",
+   "title": "Expo 推出给 AI 编程智能体用的云端 iOS 模拟器和安卓模拟器：智能体自己复现 bug、修复、在手机上验证，并把录屏贴进 PR",
+   "summary": "Expo 11 月 12 日向所有付费用户开放 Expo Simulators：Cursor、Claude Code、Codex 等能跑命令行的智能体可一键启动隔离的云端 iPhone/iPad 模拟器和安卓模拟器，安装构建、操作界面，并留下录屏、截图和日志作为证据；团队成员点链接就能打开正在运行的版本，无需 TestFlight。没有 Mac 也能在 Linux、Windows（WSL）或云端沙箱里跑 iOS 模拟器，支持多台并行。按模拟器分钟计费，每分钟 0.1 美元，Starter 及以上套餐每月含 60 分钟。官方提供 eas-simulator 技能；不提供实体机。Expo 称月底前还会发布让企业从用户反馈等渠道触发智能体、并防御提示注入的 Agent Sessions。",
+   "links": [
+    "https://www.prnewswire.com/news-releases/expo-launches-cloud-ios-simulators-and-android-emulators-for-ai-coding-agents-302937712.html",
+    "https://expo.dev/services/simulators"
+   ],
+   "topic": "expo-simulators-agents-2026-11-12",
+   "firstSeen": "2026-11-13T07:56:17+08:00"
   }
  ],
- "lastChecked": "2026-11-13T07:45:05+08:00"
+ "lastChecked": "2026-11-13T07:56:17+08:00"
 }
