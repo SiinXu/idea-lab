@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T09:56:04+08:00",
+ "lastUpdated": "2026-11-12T10:17:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46863,7 +46863,42 @@
    ],
    "topic": "openai-codex-security-trending",
    "firstSeen": "2026-11-12T09:56:04+08:00"
+  },
+  {
+   "id": "6f39168975",
+   "title": "彭博：英伟达董事会已请外部猎头物色黄仁勋接班人，考虑先任命临时 CEO，董事会周三开会决定其去留",
+   "summary": "据彭博援引知情人士，英伟达董事会在黄仁勋被曝多段婚外情（其中一位是被美方怀疑为中国间谍的 Megaspeed 创始人 Alice Huang，另一位是直接向他汇报的医疗业务副总裁 Kimberly Powell）后，已与一家外部机构合作寻找可能的替代人选，并在评估是否先任命一位临时 CEO，再慢慢找正式接班人。董事会 11 日（周三）开会讨论他的去留，《华尔街日报》此前称董事会正准备撤换他。报道指出，英伟达一直没有公开的接班计划，黄仁勋自创立以来是唯一 CEO，持股约 3.6%，直接下属有几十人，公司对他依赖极深。白宫表示不会干预董事会决定。消息传出后英伟达盘后跌超 7%。这是 AI 行业最重要公司的权力交接危机，直接影响芯片供应、合作与 AI 基建预期。",
+   "links": [
+    "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/nvidia-working-outside-firm-identify-ceo-candidates",
+    "https://www.bloomberglinea.com/negocios/nvidia-trabaja-con-una-firma-externa-para-identificar-posibles-sucesores-de-jensen-huang-como-ceo/",
+    "https://www.livemint.com/companies/news/nvidia-may-oust-jensen-huang-after-second-affair-with-employee-board-working-with-outside-firm-to-identify-successor-11794445527518.html"
+   ],
+   "topic": "nvidia-board-ceo-successor-search",
+   "firstSeen": "2026-11-12T10:17:28+08:00"
+  },
+  {
+   "id": "f50ee7964c",
+   "title": "彭博：英伟达「间谍门」核心人物、Megaspeed 创始人 Alice Huang（黄乐）已回国，目前在北京生活且安全部门知情",
+   "summary": "彭博援引知情人士报道，被美国情报部门怀疑为中国情报人员的 Megaspeed International 创始人 Alice Huang（黄乐）已回到中国，目前在北京居住，且安全部门知晓其行踪；她何时、为何回国以及在做什么尚不清楚，记者联系未果。中方否认她是间谍。黄乐曾任电视记者和私募从业者，2023 年创办 Megaspeed——由游戏公司第七大道的新加坡子公司分拆而来，几个月前美国刚出台对华高端 AI 芯片禁令；随后很快成为英伟达云合作伙伴，并发展为英伟达在东南亚最大的芯片买家，被指是先进芯片流向中国的重要通道。她的去向此前一直是外界猜测焦点，这一消息让英伟达董事会调查和国会听证（黄仁勋被要求 11 月 18 日出席闭门简报）更加复杂。",
+   "links": [
+    "https://www.business-standard.com/world-news/alice-huang-alleged-chinese-spy-in-nvidia-scandal-currently-in-beijing-126111200063_1.html",
+    "https://www.moneycontrol.com/world/where-is-alice-huang-woman-at-centre-of-nvidia-ceo-jensen-huang-spy-scandal-now-in-beijing-article-14077471.html"
+   ],
+   "topic": "alice-huang-megaspeed-in-beijing",
+   "firstSeen": "2026-11-12T10:17:28+08:00"
+  },
+  {
+   "id": "5ce17f826c",
+   "title": "Roku 退出智能家居：停售摄像头、门铃、灯泡等硬件，专注做流媒体平台；距 Fox 220 亿美元收购完成不到一周",
+   "summary": "科技媒体 Lowpass 独家报道、Roku 发言人证实：公司将逐步停止销售智能家居硬件，「聚焦成为头号流媒体平台」，已售出的设备会继续提供支持和服务。Roku 2022 年起卖摄像头、门铃、智能灯和插座，早期多是 Wyze 代工的贴牌产品，后来才推出自研电池摄像头；目前官网只剩室内摄像头和门铃两款在清仓，亚马逊等渠道也基本只剩翻新机。三季度 Roku 硬件收入不到 2 亿美元，远低于广告和订阅的 13 亿美元，硬件亏损从 2290 万美元翻倍到 4860 万美元，公司归咎于内存涨价。Fox 对 Roku 的约 220 亿美元收购已于 11 月 6 日完成，不过这次收缩此前已酝酿数月。AI 抢内存推高硬件成本，正在逼退低价智能硬件玩家。",
+   "links": [
+    "https://www.lowpass.cc/p/scoop-roku-is-exiting-the-smart-home-business",
+    "https://www.engadget.com/2313802/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming/",
+    "https://thedesk.net/2026/11/fox-ends-roku-smart-home-accessory-business/"
+   ],
+   "topic": "roku-exits-smart-home",
+   "firstSeen": "2026-11-12T10:17:28+08:00"
   }
  ],
- "lastChecked": "2026-11-12T09:56:04+08:00"
+ "lastChecked": "2026-11-12T10:17:28+08:00"
 }
