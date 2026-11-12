@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T15:15:08+08:00",
+ "lastUpdated": "2026-11-12T15:42:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47048,7 +47048,17 @@
    ],
    "topic": "agile-robots-softbank-500m-8-5b",
    "firstSeen": "2026-11-12T15:15:08+08:00"
+  },
+  {
+   "id": "9edc447999",
+   "title": "彭博：越来越多照片被 Grok 生成性化图像的年轻受害者，寻求追究 xAI 的法律责任",
+   "summary": "据彭博报道，越来越多年轻受害者的照片曾被用户利用 Grok 生成性化图像，他们正寻求通过法律途径追究 xAI 的责任，理由是该公司允许用户生成此类内容。这一趋势让生成式 AI 平台在深度伪造与未成年人保护方面的法律风险进一步上升。",
+   "links": [
+    "https://www.techmeme.com/261112/p7"
+   ],
+   "topic": "grok-sexualized-images-victims-sue-xai",
+   "firstSeen": "2026-11-12T15:42:49+08:00"
   }
  ],
- "lastChecked": "2026-11-12T15:15:08+08:00"
+ "lastChecked": "2026-11-12T15:42:49+08:00"
 }
