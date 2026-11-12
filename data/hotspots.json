@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T09:27:13+08:00",
+ "lastUpdated": "2026-11-12T09:44:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46826,7 +46826,32 @@
    ],
    "topic": "foundation-phantom-idf-gaza-tunnels",
    "firstSeen": "2026-11-12T09:27:13+08:00"
+  },
+  {
+   "id": "f4ba9db136",
+   "title": "Runway 开源机器人模型 Praxis-1：270 亿参数「世界动作模型」，Apache 2.0 可商用，在英伟达 RoboLab-120 榜上是最强开源机器人基础模型",
+   "summary": "做视频生成起家的 Runway 11 月 11 日把 9 月发布的 Praxis-1 完全开源：权重、推理和微调代码都用 Apache 2.0 许可，可商用，支持全量微调和 LoRA。它是 270 亿参数的混合专家扩散 Transformer，基于 Runway 的大规模视频预训练，每一步同时预测「接下来画面会变成什么样」和「机器人该怎么动」。在英伟达 RoboLab-120 仿真基准（120 个桌面任务）上，单臂 DROID 微调版成功率 46.2%，在世界动作模型和开源机器人基础模型中排第一（总榜第 5），超过 Black Forest Labs 的 FLUX 3 Action（42.9%）、英伟达 Cosmos3 Nano（36.8%）和 π0.5（28.0%）。已上架 Hugging Face（原生支持 LeRobot）、GitHub 和 vLLM-Omni，提供单臂、双臂和基座三个检查点及 NVFP4 量化版；单卡运行需要至少 80GB 显存。人形机器人公司 Noble Machines、工业机械臂公司 Standard Bots 等已在自家硬件上试用。",
+   "links": [
+    "https://runway.com/news/company-news/praxis-1-is-now-available",
+    "https://github.com/runwayml/praxis-1-oss",
+    "https://huggingface.co/collections/runwayml/praxis-1",
+    "https://research.nvidia.com/labs/srl/projects/robolab/leaderboard.html"
+   ],
+   "topic": "runway-praxis-1-open-weights",
+   "firstSeen": "2026-11-12T09:44:13+08:00"
+  },
+  {
+   "id": "9fcb62f6e3",
+   "title": "ElevenLabs 纽约峰会连发：语音转文字 Scribe v3 错误率降 27%、实时版降 43% 并首次支持区分说话人；再加 15 兆瓦英伟达算力，推会议记录应用 ElevenAI",
+   "summary": "ElevenLabs 11 月 10 日发布两款语音转文字模型：针对录音的 Scribe v3 在 102 种语言上比 v2 少 27% 的字词错误，说话人标注是其测试中最准的；面向实时场景的 Scribe v3 Live 比 v2 实时版少 43% 错误，延迟约 150 毫秒，首次支持实时区分谁在说话，并改进了话轮检测，开发者把模型 ID 改成 scribe_v3 / scribe_v3_live 即可升级，另有医疗对话优化版。11 日纽约峰会上又宣布扩大与英伟达合作：ElevenAgents 接入 Nemotron 3.5 Super VL，新增 15 兆瓦 Blackwell Ultra 和 Vera Rubin 算力，并为波兰国家电子医疗预约系统做本地部署的语音外呼智能体。同场还推出可用企业自家客服对话微调模型的服务、会议记录应用 ElevenAI（抢先体验）以及合作伙伴市场。原定出席的黄仁勋因英伟达董事会调查临时缺席。",
+   "links": [
+    "https://elevenlabs.io/blog/scribe-v3",
+    "https://elevenlabs.io/blog/nvidia",
+    "https://thenextweb.com/news/elevenlabs-summit-nyc-elevenai-custom-models-partner-program"
+   ],
+   "topic": "elevenlabs-scribe-v3-nyc-summit",
+   "firstSeen": "2026-11-12T09:44:13+08:00"
   }
  ],
- "lastChecked": "2026-11-12T09:27:13+08:00"
+ "lastChecked": "2026-11-12T09:44:13+08:00"
 }
