@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T11:46:15+08:00",
+ "lastUpdated": "2026-11-12T12:11:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46957,7 +46957,38 @@
    ],
    "topic": "commerce-remote-access-chip-rule-finalizing",
    "firstSeen": "2026-11-12T11:46:15+08:00"
+  },
+  {
+   "id": "8363ca5855",
+   "title": "Python 之禅作者、Timsort 发明者 Tim Peters 去世，Guido 发文悼念",
+   "summary": "Python 之父 Guido van Rossum 11 日在 discuss.python.org 发帖宣布，Tim Peters 已于今年 7 月 15 日去世。Tim 撰写了 PEP 20《Python 之禅》，2002 年为 Python 列表设计的 Timsort 排序算法后来被 Java 和 Android 采用；他早期说服 Guido 支持 int 与 float 混合运算，并以耐心幽默的邮件列表答疑得名「Timbot」。该帖登上 Hacker News 榜首，获近千赞。",
+   "links": [
+    "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "https://news.ycombinator.com/item?id=50450488"
+   ],
+   "topic": "tim-peters-in-memoriam-2026-11",
+   "firstSeen": "2026-11-12T12:11:37+08:00"
+  },
+  {
+   "id": "7d5e3218dd",
+   "title": "彭博：CoreWeave 拟最快下周发行 40 亿美元以上投资级贷款，收益率约 7%–7.5%，仅为其垃圾债一半",
+   "summary": "据彭博援引知情人士报道，AI 云算力公司 CoreWeave 计划最快下周通过投资级贷款融资 40 亿美元以上，预计收益率 7%–7.5%，约为其现有高收益（垃圾级）债券收益率的一半。此前 CoreWeave 债券收益率一度飙升，被视为 AI 信贷压力的风向标；若能以投资级结构融资，将显著降低其扩建数据中心的资金成本。",
+   "links": [
+    "https://www.techmeme.com/261111/p47"
+   ],
+   "topic": "coreweave-4b-investment-grade-loan-2026-11",
+   "firstSeen": "2026-11-12T12:11:37+08:00"
+  },
+  {
+   "id": "66375f1e04",
+   "title": "陶哲轩用编程智能体重做逻辑教学游戏「Lean Grimoire」：可实时显示 Lean 证明，还有奇幻模式",
+   "summary": "陶哲轩 11 日发博文介绍，他用现代编程智能体把 2018 年做的 JavaScript 交互式逻辑教材「QED」重建为「Lean Grimoire」：以「合成游戏」方式教命题逻辑和一阶逻辑，新增显示进行中 Lean 证明等功能，并加入把数学命题画成「药水」、表达式画成「卷轴」的奇幻模式。他正征集试玩者，希望将其用于教授逻辑证明和 Lean。",
+   "links": [
+    "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/"
+   ],
+   "topic": "terence-tao-lean-grimoire-game",
+   "firstSeen": "2026-11-12T12:11:37+08:00"
   }
  ],
- "lastChecked": "2026-11-12T11:46:15+08:00"
+ "lastChecked": "2026-11-12T12:11:37+08:00"
 }
