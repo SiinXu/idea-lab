@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T00:43:12+08:00",
+ "lastUpdated": "2026-11-13T01:43:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47371,7 +47371,17 @@
    ],
    "topic": "whoop-humans-social-network",
    "firstSeen": "2026-11-13T00:43:12+08:00"
+  },
+  {
+   "id": "121aeecde7",
+   "title": "任天堂向 GitHub 发出 4 份 DMCA 下架通知，清理 Switch 模拟器 Yuzu、Citron Neo 及改机芯片固件",
+   "summary": "据 IGN 报道，任天堂向 GitHub 发出了 4 份 DMCA 下架通知，针对 Switch 模拟器 Yuzu、Citron Neo 和改机芯片固件。这件事在 Hacker News 上热议，开源模拟器社区和游戏版权的冲突再次升级，代码托管平台的合规压力也随之上升。",
+   "links": [
+    "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep"
+   ],
+   "topic": "nintendo-github-dmca-switch-emulators",
+   "firstSeen": "2026-11-13T01:43:30+08:00"
   }
  ],
- "lastChecked": "2026-11-13T00:43:12+08:00"
+ "lastChecked": "2026-11-13T01:43:30+08:00"
 }
