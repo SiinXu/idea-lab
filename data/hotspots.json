@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T18:31:08+08:00",
+ "lastUpdated": "2026-11-12T18:47:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47078,7 +47078,37 @@
    ],
    "topic": "lumbra-25m-series-a-agentic-ai-intelligence",
    "firstSeen": "2026-11-12T18:31:08+08:00"
+  },
+  {
+   "id": "74ad3f3db0",
+   "title": "彭博：马化腾在年度讲话中表示，愿把腾讯约 10 万员工中的一半投入 AI 原生业务",
+   "summary": "据彭博援引知情人士报道，腾讯创始人马化腾在年度内部讲话中表示，愿意把公司约 10 万名员工中的一半调往 AI 原生业务。若属实，这将是中国互联网巨头在组织层面规模最大的 AI 转向之一，也说明大厂正从“AI 功能”走向“AI 原生产品”的人力重配。",
+   "links": [
+    "https://www.techmeme.com/261112/p11"
+   ],
+   "topic": "tencent-pony-ma-half-workforce-ai-native",
+   "firstSeen": "2026-11-12T18:47:12+08:00"
+  },
+  {
+   "id": "2efca9b5cd",
+   "title": "伦敦无人系统公司 Uforce 获 7 亿美元融资，英国国家财富基金与 Valor 联合领投，估值 60 亿美元",
+   "summary": "据彭博报道，伦敦的 Uforce 研发空中、海上和陆地无人载具，本轮融资 7 亿美元，由英国国家财富基金（National Wealth Fund）与 Valor Equity Partners 联合领投，估值 60 亿美元。欧洲国防科技与无人系统赛道的资本热度仍在升温。",
+   "links": [
+    "https://www.techmeme.com/261112/p12"
+   ],
+   "topic": "uforce-700m-6b-valuation-unmanned-vehicles",
+   "firstSeen": "2026-11-12T18:47:12+08:00"
+  },
+  {
+   "id": "5dbe3dedc6",
+   "title": "长文：AI 圈的“移交主义”（handoverism）——设想人类把未来方向交给 AI，现实中会是什么样",
+   "summary": "Ruxandra Teslo 在 Substack 发文，梳理 AI 社区中“把人类未来的方向托付给 AI”的“移交主义”思潮，并推演它在实践中可能的样子。作者认为，即便是所谓“正面”的愿景也颇具反乌托邦色彩。文章在 X 上引发 Bill Gurley 等人转发讨论。",
+   "links": [
+    "https://www.techmeme.com/261112/p10"
+   ],
+   "topic": "ai-handoverism-essay-ruxandra-teslo",
+   "firstSeen": "2026-11-12T18:47:12+08:00"
   }
  ],
- "lastChecked": "2026-11-12T18:31:08+08:00"
+ "lastChecked": "2026-11-12T18:47:12+08:00"
 }
