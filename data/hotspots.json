@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T00:24:39+08:00",
+ "lastUpdated": "2026-11-13T00:43:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47350,7 +47350,28 @@
    ],
    "topic": "trump-tim-cook-nvidia-ceo",
    "firstSeen": "2026-11-13T00:24:39+08:00"
+  },
+  {
+   "id": "5d3ea0678d",
+   "title": "美众议院外委会主席马斯特：黄仁勋已同意在感恩节前赴国会作证，可能闭门进行",
+   "summary": "据彭博社报道，美国众议院外交事务委员会主席布赖恩·马斯特称，黄仁勋已同意在感恩节前到国会作证，很可能闭门进行。他刚辞去英伟达 CEO，又被曝出与芯片出口相关的争议，这次作证可能牵动美国对华芯片管制的讨论。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-12/huang-agrees-to-testify-before-congress-soon-gop-lawmaker-says",
+    "https://www.techmeme.com/261112/p42"
+   ],
+   "topic": "jensen-huang-congress-testimony",
+   "firstSeen": "2026-11-13T00:43:12+08:00"
+  },
+  {
+   "id": "b1f5629282",
+   "title": "Whoop 推出「Whoop Humans」：应用内免费社交网络，会员可向获批关注者分享健康数据",
+   "summary": "据 TechCrunch 报道，可穿戴设备公司 Whoop 在应用内上线免费的自愿加入社交网络「Whoop Humans」，所有档位的会员都能把健康数据分享给自己批准的关注者。健康数据和社交结合是可穿戴赛道提升用户黏性的新尝试，隐私问题也值得关注。",
+   "links": [
+    "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/"
+   ],
+   "topic": "whoop-humans-social-network",
+   "firstSeen": "2026-11-13T00:43:12+08:00"
   }
  ],
- "lastChecked": "2026-11-13T00:24:39+08:00"
+ "lastChecked": "2026-11-13T00:43:12+08:00"
 }
