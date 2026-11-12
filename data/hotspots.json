@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T07:27:30+08:00",
+ "lastUpdated": "2026-11-13T07:45:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47530,7 +47530,30 @@
    ],
    "topic": "checkpoint-forensics-blackwell-2026-11-12",
    "firstSeen": "2026-11-13T07:27:30+08:00"
+  },
+  {
+   "id": "12bd08f747",
+   "title": "OpenAI「Cyber at the Frontier」发布会推出两款安全智能体：Daybreak Red Team 自动渗透测试、Defense Factory 自动写补丁；没等来 GPT-6.2 的网友失望",
+   "summary": "OpenAI 11 月 12 日举办网络安全主题发布会，总裁 Greg Brockman 主讲。Daybreak Red Team 是一组协作的安全智能体：根据源码和应用上下文寻找攻击路径、确认漏洞能否被利用，也能核实扫描器和漏洞赏金报告的真伪、验证补丁是否有效，目前为早期访问并开放候补名单。Daybreak Defense Factory 接收现有安全工具和 Red Team 的发现，由智能体沿代码追踪问题并在 Codex 里提出补丁，工程师审核测试后再合并，可通过 Codex 的 Daybreak 插件使用。据 The Register 报道智能体基于上周发布的 GPT-6 Cyber。未公布价格。X 上不少用户原本期待 GPT-6.2 新模型，对只发安全工具表示失望。",
+   "links": [
+    "https://openai.com/cyber-at-the-frontier/",
+    "https://www.thedeepview.com/articles/openai-sees-a-new-enterprise-frontier-in-cyber",
+    "https://x.com/i/trending/2121017843185762485"
+   ],
+   "topic": "openai-cyber-at-the-frontier-2026-11-12",
+   "firstSeen": "2026-11-13T07:45:05+08:00"
+  },
+  {
+   "id": "fa30837ea5",
+   "title": "前 Anthropic / DeepMind 研究员创办的 Mirendil 完成 10 亿美元 A 轮，估值约 50 亿美元：要用智能体把前沿 AI 研发「平民化」",
+   "summary": "Mirendil 11 月 12 日宣布完成 10 亿美元 A 轮，由 Kleiner Perkins 与 Clearlake Capital 领投，Battery、Doerr Capital、Elad Gil、Google、M13、Pear VC、S32 等跟投；据 a16z 招聘通讯，估值约 50 亿美元，是 4 个月前 2 亿美元种子轮估值的 5 倍。创始人 Behnam Neyshabur 与 Harsh Mehta 曾在 Google 参与 Gemini 数学与代码推理、在 Anthropic 领导 AI 科学家和自动化 AI 研发方向。公司称一名研究员借助智能体、用不到 1000 万美元算力在 3.5 个月里从零预训练出编程模型 Mirendil-Base，后训练版 Fern 支持最多 1000 万 token 上下文；私测产品 Lor 可让数百个智能体连续数天写代码、跑实验。",
+   "links": [
+    "https://mirendil.com/news/series-a/",
+    "https://a16zjobs.substack.com/p/mirendil-just-raised-1b-at-a-5b-valuation"
+   ],
+   "topic": "mirendil-series-a-1b-2026-11-12",
+   "firstSeen": "2026-11-13T07:45:05+08:00"
   }
  ],
- "lastChecked": "2026-11-13T07:27:30+08:00"
+ "lastChecked": "2026-11-13T07:45:05+08:00"
 }
