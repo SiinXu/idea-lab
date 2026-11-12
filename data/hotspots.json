@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T23:10:20+08:00",
+ "lastUpdated": "2026-11-12T23:30:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47300,7 +47300,17 @@
    ],
    "topic": "nvidia-stock-plunges-14pct-open",
    "firstSeen": "2026-11-12T23:10:20+08:00"
+  },
+  {
+   "id": "9ce2073d54",
+   "title": "LangChain 获 CapitalG 领投 3 亿美元融资，估值 30 亿美元，较 2025 年的 12.5 亿美元翻倍有余",
+   "summary": "据《华尔街日报》报道，AI 智能体开发框架公司 LangChain 完成 3 亿美元融资，由 Alphabet 旗下 CapitalG 领投，估值达 30 亿美元，2025 年时为 12.5 亿美元。LangChain 正主攻企业市场，帮助大公司构建和部署自己的 AI 智能体，说明资本仍在重押智能体基础设施。",
+   "links": [
+    "https://www.techmeme.com/261112/p35"
+   ],
+   "topic": "langchain-300m-capitalg-3b",
+   "firstSeen": "2026-11-12T23:30:24+08:00"
   }
  ],
- "lastChecked": "2026-11-12T23:10:20+08:00"
+ "lastChecked": "2026-11-12T23:30:24+08:00"
 }
