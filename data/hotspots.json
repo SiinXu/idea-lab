@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T09:44:13+08:00",
+ "lastUpdated": "2026-11-12T09:56:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46851,7 +46851,19 @@
    ],
    "topic": "elevenlabs-scribe-v3-nyc-summit",
    "firstSeen": "2026-11-12T09:44:13+08:00"
+  },
+  {
+   "id": "65f8a2e3ed",
+   "title": "GitHub 趋势榜：OpenAI 开源的漏洞扫描工具 Codex Security 冲上日榜，已破 1.1 万星，新版 Deep Scan 让多个审查进程并行找漏洞、互相核对证据",
+   "summary": "openai/codex-security 是 OpenAI 的代码安全命令行工具和 TypeScript SDK（npm 包 @openai/codex-security），能在 Codex 里、终端里或 CI 中扫描整个仓库、指定路径或 Git 改动，找出漏洞后自动验证、生成补丁、复核已有修复，还能起草 SECURITY.md、保存威胁模型、按 Git 历史推荐负责人，并把问题同步到 Linear、Jira、GitHub 或导出 SARIF/JSON/CSV。11 月 10 日发布的 0.9.1 版：Deep Scan 分批跑多轮独立的标准审查，各个工作进程可共享线索、互相核验证据，最终报告把同一修复方案的问题归并；默认开启导入第三方扫描器报告；提供带签名的 Mac 原生插件，并附 GitHub Action。项目今天登上 GitHub 日榜，星标约 1.18 万。AI 写代码越来越多，「AI 查 AI 写的漏洞」正在变成标配工具链。",
+   "links": [
+    "https://github.com/openai/codex-security",
+    "https://github.com/openai/codex-security/releases/tag/npm-v0.9.1",
+    "https://developers.openai.com/codex/security"
+   ],
+   "topic": "openai-codex-security-trending",
+   "firstSeen": "2026-11-12T09:56:04+08:00"
   }
  ],
- "lastChecked": "2026-11-12T09:44:13+08:00"
+ "lastChecked": "2026-11-12T09:56:04+08:00"
 }
