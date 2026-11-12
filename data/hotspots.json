@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T20:10:03+08:00",
+ "lastUpdated": "2026-11-12T20:31:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47148,7 +47148,27 @@
    ],
    "topic": "google-tabletop-ai-planning-hubs-beta",
    "firstSeen": "2026-11-12T20:10:03+08:00"
+  },
+  {
+   "id": "e729ad96be",
+   "title": "《金融时报》：泽连斯基称 Starshield 连续数日遭“系统性限速”，乌方认为这是在和谈期间向基辅施压",
+   "summary": "据英国《金融时报》报道，泽连斯基表示，SpaceX 的军用卫星通信服务 Starshield 连续数日遭到“系统性速度限制”，导致乌军拦截俄罗斯喷气式无人机更加困难。乌克兰官员认为，这是在 Witkoff 和 Kushner 与普京会面、和谈推进期间对基辅施压。卫星网络正成为地缘博弈的筹码。",
+   "links": [
+    "https://www.techmeme.com/261112/p22"
+   ],
+   "topic": "starshield-speed-restrictions-ukraine-nov-2026",
+   "firstSeen": "2026-11-12T20:31:11+08:00"
+  },
+  {
+   "id": "4233af52a5",
+   "title": "《纽约时报》：CFTC 主席 Selig 推翻长期政策，批准 Kalshi 等平台开展加密货币与股票永续合约交易",
+   "summary": "据《纽约时报》报道，美国商品期货交易委员会（CFTC）主席 Michael Selig 推翻了一项长期政策，批准 Kalshi 等平台提供加密货币和股票的永续合约交易，尽管 SEC 工作人员对此有顾虑。预测市场与衍生品平台的业务边界正在快速扩张。",
+   "links": [
+    "https://www.techmeme.com/261112/p23"
+   ],
+   "topic": "cftc-selig-perpetuals-kalshi",
+   "firstSeen": "2026-11-12T20:31:11+08:00"
   }
  ],
- "lastChecked": "2026-11-12T20:10:03+08:00"
+ "lastChecked": "2026-11-12T20:31:11+08:00"
 }
