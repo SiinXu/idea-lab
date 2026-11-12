@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T05:31:18+08:00",
+ "lastUpdated": "2026-11-13T07:10:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47496,7 +47496,30 @@
    ],
    "topic": "hark-handoff-2-2026-11-12",
    "firstSeen": "2026-11-13T05:31:18+08:00"
+  },
+  {
+   "id": "b953353605",
+   "title": "Bessemer 与 Newcomer 发布首份「AI 100」私营 AI 公司榜：Anthropic 第一、OpenAI 第二，百家公司合计估值约 3.6 万亿美元",
+   "summary": "Bessemer Venture Partners 与 Newcomer 在旧金山 Cerebral Valley AI 峰会（11 月 12 日）现场公布首份 AI 100，取代 Bessemer 做了十年的 Cloud 100。前十依次为 Anthropic、OpenAI、Databricks、Stripe、Waymo、Cognition、Anduril、Ramp、Fireworks、ElevenLabs。Bessemer 称上榜公司合计估值约 3.6 万亿美元（Newcomer 口径约 3.5 万亿），平均同比增长 480%，平均 ARR 倍数 57 倍，创新高；前沿大模型公司仅占 9% 的席位却占 55% 的总估值。评分权重：市场地位 35%、估值 30%、经营指标 20%、团队与文化 15%。",
+   "links": [
+    "https://www.bvp.com/atlas/the-ai-100-benchmarks-for-the-third-supercycle",
+    "https://www.newcomer.co/p/the-ai-100",
+    "https://ai100.newcomer.co/"
+   ],
+   "topic": "bessemer-ai-100-2026",
+   "firstSeen": "2026-11-13T07:10:14+08:00"
+  },
+  {
+   "id": "690803c5d8",
+   "title": "YC 孵化的 Taan 发布 v1-preview 配乐模型：上传视频即生成卡点原创配乐，可哼唱、给 MIDI 或用自然语言指定时间点",
+   "summary": "Taan.ai 的音乐基础模型能读取视频的剪辑点和情绪，一次生成与画面同步的原创背景音乐；也可组合视频、脚本和参考音频作为输入，用「8 秒紧张、停 2 秒、再 15 秒上扬」这样的口语指令控制节奏，并能只改某件乐器或某段时间而不整首重做。官网称音乐 100% 原创、可永久商用。据 X 上的讨论汇总，它支持下载分轨、训练数据全部有授权、创作者套餐每月 15 美元，团队自称在时间点提示上优于 ElevenLabs 和 Suno（自报数据，未经独立验证）。",
+   "links": [
+    "https://taan.ai/",
+    "https://x.com/i/trending/2120973859864158669"
+   ],
+   "topic": "taan-v1-preview-2026-11-12",
+   "firstSeen": "2026-11-13T07:10:14+08:00"
   }
  ],
- "lastChecked": "2026-11-13T05:31:18+08:00"
+ "lastChecked": "2026-11-13T07:10:14+08:00"
 }
