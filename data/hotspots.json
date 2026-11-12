@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T22:15:25+08:00",
+ "lastUpdated": "2026-11-12T22:40:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47249,7 +47249,28 @@
    ],
    "topic": "apple-homeview-review-verge",
    "firstSeen": "2026-11-12T22:15:25+08:00"
+  },
+  {
+   "id": "a01afa7b80",
+   "title": "新加坡披露：曾于 2025 年 6 月至 2026 年 2 月扣押 Alice Huang 护照，因美方几乎未提供协助，最终“严厉警告”后放人",
+   "summary": "据《纽约时报》报道，新加坡发表声明称，曾在 2025 年 6 月至 2026 年 2 月扣押英伟达“间谍门”核心人物 Alice Huang 的护照。由于美方提供的协助很少，最终在“严厉警告”后放她离开。此时距特朗普被告知她是间谍已过去数月，这为黄仁勋辞职风波增添了外交和情报层面的疑问。",
+   "links": [
+    "https://www.techmeme.com/261112/p30"
+   ],
+   "topic": "singapore-held-alice-huang-passport",
+   "firstSeen": "2026-11-12T22:40:55+08:00"
+  },
+  {
+   "id": "49abe3ac29",
+   "title": "《纽约时报》起底英伟达临时 CEO 科莱特·克雷斯：2013 年加入，曾任职思科与微软，任 CFO 期间公开批评美国对华出口管制",
+   "summary": "《纽约时报》介绍了接替黄仁勋的临时 CEO 科莱特·克雷斯：她 2013 年加入英伟达，此前在思科和微软任职。担任 CFO 期间，她曾批评美国对华芯片出口管制。另据 The Verge 报道，英伟达同时任命前 Synopsys CEO Harvey C. Jones 为首任董事会主席，宣布黄仁勋离任的新闻稿里没有他本人的引语。",
+   "links": [
+    "https://www.techmeme.com/261112/p31",
+    "https://www.techmeme.com/261112/p29"
+   ],
+   "topic": "colette-kress-profile-interim-ceo",
+   "firstSeen": "2026-11-12T22:40:55+08:00"
   }
  ],
- "lastChecked": "2026-11-12T22:15:25+08:00"
+ "lastChecked": "2026-11-12T22:40:55+08:00"
 }
