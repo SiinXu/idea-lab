@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T15:42:49+08:00",
+ "lastUpdated": "2026-11-12T18:31:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47058,7 +47058,27 @@
    ],
    "topic": "grok-sexualized-images-victims-sue-xai",
    "firstSeen": "2026-11-12T15:42:49+08:00"
+  },
+  {
+   "id": "9dbadb31da",
+   "title": "鸿海（富士康）Q3 营收同比增 47% 至约 954 亿美元，净利增 34%，AI 服务器与 iPhone Duo 需求驱动，并看好 2027 年",
+   "summary": "据彭博报道，鸿海第三季营收同比增长 47%，约 954 亿美元；净利润增长 34%，约 24 亿美元，均高于预期。增长主要来自 AI 服务器和 iPhone Duo 的需求，公司还预计 2027 年销售将保持强劲。这说明 AI 基础设施带动的代工景气仍在延续。",
+   "links": [
+    "https://www.techmeme.com/261112/p9"
+   ],
+   "topic": "foxconn-q3-2026-earnings-ai-iphone-duo",
+   "firstSeen": "2026-11-12T18:31:08+08:00"
+  },
+  {
+   "id": "52103fbea5",
+   "title": "为情报界在高安全环境中编排 AI 智能体的 Lumbra 完成 2500 万美元 A 轮融资",
+   "summary": "据 SiliconANGLE 报道，纽约初创公司 Lumbra 完成 2500 万美元 A 轮融资。它开发的“智能体操作系统”可以在情报机构等超高安全的计算环境中编排和管控 AI 智能体，确保关键情报送到正确的决策者手中。国防与情报场景正成为受控智能体部署的新赛道。",
+   "links": [
+    "https://www.techmeme.com/261112/p8"
+   ],
+   "topic": "lumbra-25m-series-a-agentic-ai-intelligence",
+   "firstSeen": "2026-11-12T18:31:08+08:00"
   }
  ],
- "lastChecked": "2026-11-12T15:42:49+08:00"
+ "lastChecked": "2026-11-12T18:31:08+08:00"
 }
