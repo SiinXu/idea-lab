@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T10:17:28+08:00",
+ "lastUpdated": "2026-11-12T10:32:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -46898,7 +46898,30 @@
    ],
    "topic": "roku-exits-smart-home",
    "firstSeen": "2026-11-12T10:17:28+08:00"
+  },
+  {
+   "id": "1917d42d84",
+   "title": "Axios：特朗普今年三次批准严打英伟达芯片走私中国，都被商务部长卢特尼克拖住；贝森特在战情室当面质问为何不把 Megaspeed 列入实体清单",
+   "summary": "Axios 11 日援引多名高层消息人士报道：特朗普分别在 5 月、8 月和 11 月 5 日三次批准对涉嫌把英伟达 AI 芯片转运到中国的公司采取行动，最近一次还先打电话征求了马斯克的意见，但商务部长卢特尼克一直拖着不执行，理由是会「引发对华贸易战」。上周四白宫战情室会议上，财长贝森特当面质问卢特尼克为何不把英伟达客户 Megaspeed（黄仁勋「间谍门」所涉公司）列入实体清单，卢特尼克称「我去查一下」；随后众人进椭圆形办公室，特朗普拍板「去办」，但至今仍未落地。报道称商务部已超过一年没往实体清单里加过一家公司。商务部否认贝森特与卢特尼克有过这番对话。《政客》报道，已有六名以上共和党议员要求卢特尼克作出解释甚至出席国会作证。英伟达丑闻正从公司治理扩大为美国芯片出口管制的政治风暴。",
+   "links": [
+    "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
+    "https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips",
+    "https://www.politico.com/news/2026/11/11/answer-in-front-of-god-and-country-gop-turns-on-lutnick-over-chips-01161625"
+   ],
+   "topic": "lutnick-stalled-nvidia-chip-curbs",
+   "firstSeen": "2026-11-12T10:32:15+08:00"
+  },
+  {
+   "id": "e6cbe0611e",
+   "title": "彭博：自动驾驶仿真软件公司 Applied Intuition 洽谈融资至少 15 亿美元，投前估值约 300 亿美元，比去年 6 月翻倍",
+   "summary": "据彭博援引知情人士，Applied Intuition 正洽谈至少 15 亿美元的新一轮融资，由 General Catalyst 领投（拟出资 2.5 亿美元），投前估值约 300 亿美元，是 2025 年 6 月 150 亿美元估值的两倍。公司成立于 2017 年，最早做自动驾驶仿真和开发工具链，如今业务延伸到车载操作系统、自主驾驶技术栈，客户覆盖汽车、国防、卡车、建筑、矿业和农业；近几个月与本田、沙特 AI 公司 Humain 和美国最大造船商 HII（做海军平台的 AI 能力）达成合作。公司预计 2026 财年营收超过 5.6 亿美元（同比增约 19%），2027 年突破 10 亿美元，2028 年达到 18 亿美元。融资仍在谈判中，条款未最终确定。国防与「物理 AI」赛道持续受资本追捧。",
+   "links": [
+    "https://www.investing.com/news/stock-market-news/applied-intuition-in-talks-to-raise-15b-at-30b-valuation-bloomberg-reports-5019616",
+    "https://finance.yahoo.com/technology/articles/self-driving-startup-could-soon-205402624.html"
+   ],
+   "topic": "applied-intuition-30b-round",
+   "firstSeen": "2026-11-12T10:32:15+08:00"
   }
  ],
- "lastChecked": "2026-11-12T10:17:28+08:00"
+ "lastChecked": "2026-11-12T10:32:15+08:00"
 }
