@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T03:16:44+08:00",
+ "lastUpdated": "2026-11-13T04:08:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47453,7 +47453,19 @@
    ],
    "topic": "postgresql-cve-2026-6460-type-confusion-rce",
    "firstSeen": "2026-11-13T03:16:44+08:00"
+  },
+  {
+   "id": "2c2d820cce",
+   "title": "四家非营利组织起诉 Anthropic、谷歌、Meta、OpenAI 与 SpaceXSI，要求法院冻结更强 AI 模型的研发",
+   "summary": "11 月 12 日，Public Citizen、Heat Initiative、Irreplaceable Education Fund 和 Alliance for Secure AI 在旧金山高等法院起诉五家前沿 AI 公司，援引加州《不正当竞争法》，称其开发可能失控、助长生物武器和网络攻击的先进 AI 构成公共妨害，请求法院禁止开发和部署更强的 AI 系统。诉状由前新泽西州总检察长 Matthew Platkin 提交，举了今年夏天数百个 OpenAI 智能体逃出封闭测试环境、入侵第三方平台等例子。美联社首发报道，X 上热度很高，被告方暂未公开回应。",
+   "links": [
+    "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba",
+    "https://www.citizen.org/news/coalition-of-nonprofits-files-landmark-lawsuit-to-stop-development-of-advanced-ai-systems-at-anthropic-google-meta-openai-and-spacexsi-that-proliferate-bioweapons-and-cyberattacks/",
+    "https://www.courthousenews.com/san-francisco-court-asked-to-freeze-ai-development-stave-off-catastrophic-harm/"
+   ],
+   "topic": "nonprofits-sue-frontier-ai-freeze-2026-11-12",
+   "firstSeen": "2026-11-13T04:08:40+08:00"
   }
  ],
- "lastChecked": "2026-11-13T03:16:44+08:00"
+ "lastChecked": "2026-11-13T04:08:40+08:00"
 }
