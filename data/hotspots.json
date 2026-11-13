@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T00:00:07+08:00",
+ "lastUpdated": "2026-11-14T00:16:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48026,7 +48026,20 @@
    ],
    "topic": "applied-materials-q4-fy26-record-2026-11-12",
    "firstSeen": "2026-11-14T00:00:07+08:00"
+  },
+  {
+   "id": "ce16a66f9a",
+   "title": "AI 歌曲首次登顶韩国 Melon「Top 100」：Suno 生成人声的《你成为梦想中的大人了吗？》压过 RESCENE、ILLIT 等 K-pop 新歌",
+   "summary": "11 月 13 日下午 5 点，AI 音乐项目 MEOMURU（머무르）的摇滚抒情单曲《你成为梦想中的大人了吗？》登上韩国最大音源平台 Melon「Top 100」第一，超过 RESCENE 新歌《With》、A2O LITE、ILLIT 等偶像团体作品，并保持到当晚 11 点，这是 AI 制作歌曲首次登顶该榜。歌曲 6 月发行，约 5 个月后逆袭；人声由 Suno AI 生成，企划和作词由制作团队 Glorywave（作曲家李容硕、崔成赫）完成，旋律与编曲也借助 Suno 生成后再人工挑选修改。听众以 30 多岁（36%）和 40 多岁（30%）为主，主打「成年人的烦恼」共鸣。团队表示该曲未在韩国音乐著作权协会登记、拿不到常规词曲版权费。此事在网上引发「AI 取代人类歌手」和榜单规则的争论，也说明 AI 音乐已从新奇实验进入主流榜单竞争。",
+   "links": [
+    "https://www.yna.co.kr/view/AKR20261113157000005",
+    "https://www.starnewskorea.com/en/music/2026/11/13/2026111323071575352",
+    "https://global.topstarnews.net/ja/articleView.html?idxno=16275894",
+    "https://x.com/i/trending/2121230755300794617"
+   ],
+   "topic": "meomuru-ai-song-melon-no1-2026-11-13",
+   "firstSeen": "2026-11-14T00:16:53+08:00"
   }
  ],
- "lastChecked": "2026-11-14T00:00:07+08:00"
+ "lastChecked": "2026-11-14T00:16:53+08:00"
 }
