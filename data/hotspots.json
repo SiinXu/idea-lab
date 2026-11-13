@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T20:12:46+08:00",
+ "lastUpdated": "2026-11-13T20:29:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47884,7 +47884,20 @@
    ],
    "topic": "global-ev-sales-oct-2026",
    "firstSeen": "2026-11-13T20:12:46+08:00"
+  },
+  {
+   "id": "b2c090d3ae",
+   "title": "GDC 2026 年 11 月行业报告：三分之一游戏从业者两年内被裁，美国达 39%，被裁者过半仍失业、27% 投了 100 份以上简历",
+   "summary": "GDC Festival of Gaming（游戏开发者大会）发布第 15 版《游戏行业现状》调查，覆盖 69 个国家 2,600 多名从业者：34% 的受访者在过去两年内被裁员，美国受访者为 39%，高于 1 月上一版的 28%（美国 33%）。被裁者中 54% 仍未找到工作（美国 59%），27% 投出了至少 100 份简历；3A 工作室员工过去一年受裁员影响的比例达 68%，QA、市场/公关和美术是裁员最重的岗位，9% 的人已彻底离开游戏业。在职者中只有 45% 认为自己未来 12 个月工作稳定。The Verge 同时指出，报告显示使用生成式 AI 的游戏开发者在增加。GDC 也提醒样本偏向欧美、且受裁员影响的人更愿意参与调查。叠加近期《Big Walk》因少量 AI 代码遭差评轰炸、Minecraft 模组作者用 Claude 救活旧项目引发争论，游戏业正处在「裁员 + AI 工具化」的双重压力下：面向独立开发者和被裁从业者的 AI 辅助开发、外包撮合、作品集与求职工具会有需求。",
+   "links": [
+    "https://gdconf.com/state-of-the-game-industry-november-2026/",
+    "https://www.gamedeveloper.com/business/one-in-three-developers-have-been-laid-off-within-the-last-two-years",
+    "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+    "https://x.com/i/trending/2121206309421039830"
+   ],
+   "topic": "gdc-state-of-industry-nov-2026",
+   "firstSeen": "2026-11-13T20:29:50+08:00"
   }
  ],
- "lastChecked": "2026-11-13T20:12:46+08:00"
+ "lastChecked": "2026-11-13T20:29:50+08:00"
 }
