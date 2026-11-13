@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T00:22:28+08:00",
+ "lastUpdated": "2026-11-14T00:46:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48052,7 +48052,20 @@
    ],
    "topic": "deepseek-api-full-app-features-2026-11-13",
    "firstSeen": "2026-11-14T00:22:28+08:00"
+  },
+  {
+   "id": "40e78db660",
+   "title": "llama.cpp 和 ggml 发布 1.0.0 正式版：本地跑大模型的核心库开始承诺 API 稳定，并加入 FP8 KV 缓存、MoE 专家缓存和语音合成接口",
+   "summary": "11 月 13 日，本地大模型推理库 llama.cpp 与底层张量库 ggml 同时发布 v1.0.0，Hugging Face 博客称这是给本地 AI 生态「更稳的地基」。项目诞生约 3.5 年，大量下游应用依赖它；从此按语义化版本管理：破坏公共 C 接口才升主版本，新功能、新模型、新后端升次版本，修 bug 升补丁版本。1.0.0 删除了 35 个已废弃函数，把推测解码（NextN）接口转正；新增 OCP FP8 KV 缓存、可设 CPU 分担比例的 MoE 专家内存缓存；支持 Kimi-K3.1-Pro、Ripple-65B 等新架构和 drama-3 语音合成；llama-server 加固了 SSRF、CORS、DNS 重绑定等安全问题，新增兼容 OpenAI 的 /v1/audio/speech 接口，并换上带聊天分组和 Markdown 编辑器的新网页界面。ggml 1.0.0 则在 CUDA、Metal、Vulkan、WebGPU 等后端做了大量性能优化。项目目前支持 150 多种模型架构。对做本地/隐私 AI 产品的开发者来说，接口稳定意味着集成成本和升级风险明显下降。",
+   "links": [
+    "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0",
+    "https://github.com/ggml-org/ggml/releases",
+    "https://x.com/i/trending/2121258171821904345"
+   ],
+   "topic": "llama-cpp-ggml-v1-0-0-2026-11-13",
+   "firstSeen": "2026-11-14T00:46:29+08:00"
   }
  ],
- "lastChecked": "2026-11-14T00:22:28+08:00"
+ "lastChecked": "2026-11-14T00:46:29+08:00"
 }
