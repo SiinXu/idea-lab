@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T05:46:26+08:00",
+ "lastUpdated": "2026-11-14T07:13:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48292,7 +48292,19 @@
    ],
    "topic": "faa-ground-stop-cause-atc-comms-2026-11-13",
    "firstSeen": "2026-11-14T05:46:26+08:00"
+  },
+  {
+   "id": "2d8033c891",
+   "title": "（事件发展中）FAA 停飞同一时间，美国国家气象局（NWS）也报告全国性网络与通信故障：雷达网站和天气产品无法访问或数据过时，两者是否有关尚无定论",
+   "summary": "FAA 全国停飞令的后续。11 月 13 日，美国国家气象局（NWS）在官网发布通知，称正遭遇「全国性互联网和通信问题」：网页上的天气产品可能打不开或数据过时，此前雷达平台 radar.weather.gov 也已出现故障；技术人员正在抢修，没有给出恢复时间。NWS 表示各地办公室仍在照常发布预警和预报，可以通过部分外部网站获取。这与 FAA 航路管制中心空地通信故障引发的全国停飞几乎同时发生，引发外界对美国关键基础设施的担忧，但目前没有任何权威来源确认两者有关。截至美东 18:03，FAA 空域状态页上已经没有在列的航路事件，但官方尚未正式宣布全面恢复，出行请以航空公司通知为准。",
+   "links": [
+    "https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage",
+    "https://www.timesnownews.com/world/us/us-news/nws-radar-outage-national-weather-service-faa-flight-ground-stop-article-156507109",
+    "https://apnews.com/live/ground-stop-aviation-flights-news-updates-11-13-2026"
+   ],
+   "topic": "nws-nationwide-comms-outage-amid-faa-stop-2026-11-13",
+   "firstSeen": "2026-11-14T07:13:44+08:00"
   }
  ],
- "lastChecked": "2026-11-14T05:46:26+08:00"
+ "lastChecked": "2026-11-14T07:13:44+08:00"
 }
