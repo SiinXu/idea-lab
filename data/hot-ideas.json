@@ -1899,6 +1899,81 @@
    "shown": false,
    "at": "2026-11-12T12:58:22+00:00",
    "id": "dba6daea4f"
+  },
+  {
+   "topic": "h0667a519c",
+   "title": "旧设备能跑哪个模型",
+   "who": "手里有旧笔记本、树莓派或旧手机，想离线跑本地大模型的开发者和爱好者",
+   "pain": "不知道自己的内存和 CPU 能撑多大的量化模型，下载几个 GB 试了才发现跑不动或慢到没法用",
+   "why_now": "HN 上「让 LLM 跑在小型和旧设备上」的帖子正在升温，大家在比拼低配机的实际速度",
+   "mvp": "输入内存、CPU 型号和有无显卡，页面给出能跑的模型和量化档位、预估每秒字数，并附社区实测记录的链接",
+   "money": "查询免费；导出一键安装脚本和配置包一次性 5 美元",
+   "not_do": "不托管或分发模型权重，不收集设备序列号，不做云端推理",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50468888"
+   ],
+   "score": 7,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 1,
+    "novel": 0
+   },
+   "why": "HN 真实讨论；查表两周可做；一次性 5 美元付费意愿弱；与已有 Mac 本机模型清单重叠，新意不足",
+   "shown": true,
+   "at": "2026-11-13T00:57:12+00:00",
+   "id": "3e7b1a9d61"
+  },
+  {
+   "topic": "rust-1-100-release",
+   "title": "Rust 1.100 升级影响卡",
+   "who": "维护 Rust crate 或用 Rust 写服务的开发者",
+   "pain": "新版本发布后要翻长长的发布说明，才知道哪些新 lint、弃用和最低版本变化会影响自己的项目",
+   "why_now": "Rust 1.100.0 刚发布，HN 上正在讨论这个里程碑版本的变化",
+   "mvp": "粘贴 Cargo.toml 和 rust-version，Worker 对照官方发布说明列出会触发的新 lint、已稳定可用的 API 和需要改的地方，一页可分享",
+   "money": "单项目免费；团队版每月 6 美元，可监控多个仓库并在每次发版时自动推送报告",
+   "not_do": "不编译或执行用户代码，不要求仓库写权限，不自动提交 PR",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50471793"
+   ],
+   "score": 6,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 1,
+    "money": 1,
+    "reuse": 1,
+    "novel": 0
+   },
+   "why": "HN 真实讨论；不编译只读 Cargo.toml 难以准确判断 lint 影响，两周做准有难度；发布说明摘要已很常见",
+   "shown": false,
+   "at": "2026-11-13T00:57:12+00:00",
+   "id": "81c881e7df"
+  },
+  {
+   "topic": "he772aa7aa",
+   "title": "Linux 开机慢原因解读",
+   "who": "自己维护 Linux 桌面、家用服务器或小型 VPS 的开发者",
+   "pain": "开机卡在某个服务几十秒，systemd-analyze 的输出看不懂，不知道是哪个依赖在拖后腿、该怎么改",
+   "why_now": "HN 上「在开机控制台实时显示 systemd 任务树」的帖子热度上升，大家在分享各自的开机排障经验",
+   "mvp": "粘贴 systemd-analyze blame 和 critical-chain 输出，页面画出关键路径，用大白话标出最慢的服务和常见改法（如禁用、延后、修依赖）",
+   "money": "解读免费；保存历史对比和多机器看板每月 4 美元",
+   "not_do": "不远程登录用户机器，不收集主机名和 IP，不自动修改系统配置",
+   "evidence": [
+    "https://news.ycombinator.com/item?id=50425017"
+   ],
+   "score": 8,
+   "parts": {
+    "evidence": 3,
+    "two_weeks": 2,
+    "money": 1,
+    "reuse": 1,
+    "novel": 1
+   },
+   "why": "HN 真实讨论；粘贴输出解析加图示两周可做；个人用户付费弱；站内无同类，有新意",
+   "shown": true,
+   "at": "2026-11-13T00:57:12+00:00",
+   "id": "3d36e95edb"
   }
  ]
 }
