@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T01:53:43+08:00",
+ "lastUpdated": "2026-11-14T02:15:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48129,7 +48129,28 @@
    ],
    "topic": "ellipsus-public-profiles-ao3-outage-2026-11-13",
    "firstSeen": "2026-11-14T01:53:43+08:00"
+  },
+  {
+   "id": "a1e895b935",
+   "title": "AI 帮忙破译哥德尔 1009 页速记笔记：Claude 两天整理出 650 页解读，找出 663 个定理，约 400 个经 Coq 验证成立",
+   "summary": "《卫报》11 月 13 日报道：逻辑学家哥德尔在 1940 年代初写下 16 本、共 1009 页的数学与逻辑「工作笔记」，大多用早已淘汰的德文 Gabelsberger 速记写成。芬兰赫尔辛基大学的 Jan von Plato 自 2017 年起带队研究（全球仅约 6 人能读这种速记），进度约每周一页。今年 9 月他把转写稿和自己写过的 6 本相关著作交给 Claude，两天内得到一份 650 页的完整解读（仍需人工逐页核对）。Claude 提取出 663 个哥德尔已证明、有证明草稿或有思路的定理；放进证明助手 Coq 检验后，约 400 个原样成立、约 200 个需补充条件后成立、约 50 个是错的。笔记里还有十几个 80 多年来无人研究过的逻辑方向，以及一个几乎完成的「选择公理独立性」证明——这正是科恩 1966 年获菲尔兹奖的成果，哥德尔当年称自己早已证明却拿不出证据。逻辑学家 Hamkins 提醒：多少归功于 Claude、多少归功于哥德尔，还需历史学家判断。这是 AI 用于大规模手稿研究和形式化验证的标志性案例。",
+   "links": [
+    "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+    "https://news.ycombinator.com/from?site=theguardian.com"
+   ],
+   "topic": "godel-notebooks-claude-coq-2026-11-13",
+   "firstSeen": "2026-11-14T02:15:19+08:00"
+  },
+  {
+   "id": "ed468bc0d6",
+   "title": "FBI：朝鲜黑客用假视频会议骗局「FaceStealer」18 个月盗走逾 4 亿美元加密货币，900 多名受害者多为加密与开源开发者",
+   "summary": "据 BBC 11 月 13 日报道，美国 FBI 和司法部披露，朝鲜国家支持的黑客在过去 18 个月里通过一种名为「FaceStealer」的社会工程骗局盗走超过 4 亿美元加密货币，受害者 900 多人，重点针对加密/Web3 从业者，尤其是开源软件的开发和维护者。手法是：用伪造或被盗的社交账号邀请目标参加冒牌 Zoom、Microsoft Teams 或 Google Meet 会议，播放目标熟人（此前受害者）的预录视频冒充真人，再假装音频故障，弹窗让目标点链接「修复声音」，实际下载恶意软件，进而控制设备、获取通讯录并继续扩散；通话还会被偷录，用来骗下一批人。FBI 称这种骗局「连最有经验、最有安全意识的技术人员也能骗过」。一周前币安刚披露被用假面试手法盗走创纪录的 63 亿美元，美方同样归咎朝鲜。提醒：会议中被要求下载「修复工具」时要高度警惕。",
+   "links": [
+    "https://www.bbc.com/news/articles/cqdj1ellpd70o"
+   ],
+   "topic": "fbi-facestealer-north-korea-400m-2026-11-13",
+   "firstSeen": "2026-11-14T02:15:19+08:00"
   }
  ],
- "lastChecked": "2026-11-14T01:53:43+08:00"
+ "lastChecked": "2026-11-14T02:15:19+08:00"
 }
