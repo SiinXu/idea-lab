@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T01:29:05+08:00",
+ "lastUpdated": "2026-11-14T01:39:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48104,7 +48104,20 @@
    ],
    "topic": "a2o-lite-neon-infinite-4dgs-mv-2026-11-13",
    "firstSeen": "2026-11-14T01:29:05+08:00"
+  },
+  {
+   "id": "52ef0d8405",
+   "title": "Solana 基金会推出 Solana Confidential Compute：在链上验证 AI 是否跑在可信硬件（TEE）里，主打私密 AI 和交易智能体，目前为未审计的测试网版本",
+   "summary": "11 月 13 日，Solana 基金会与私密 AI 初创公司 Nito 发布开源工具 Solana Confidential Compute，口号是「Private AI, verified onchain」。它包含一个 SDK 和一个链上验证程序：运行在机密虚拟机里的机器先在硬件内部生成签名密钥，由芯片签发绑定最新 Solana 区块的证明报告（attestation），链上程序验证芯片签名真伪、代码是否在白名单、报告是否新鲜后，记录该密钥、硬件类型和有效期；之后 AI 的每个回答都用这个密钥签名，任何应用或智能体只需最多 1,500 计算单元就能在自己的交易里查验，不必相信服务商「我没看你的数据」的承诺。目前支持英特尔 TDX 和 AMD SEV-SNP，英伟达 GPU 证明仍在开发；工具尚未完成安全审计，只在 devnet 运行，主网时间未定。Nito 是首个接入方，其私密 AI 聊天已在 trynito.ai 上线。基金会设想的场景包括私密 AI 助手、处理敏感商业数据的智能体和不外泄的交易策略。需要注意的是，TEE 方案最终仍依赖芯片厂商的信任。",
+   "links": [
+    "https://solanacompass.com/news/solana-foundation-and-nito-launch-solana-confidential-compute-on-devnet-to-verify-private-ai-onchain",
+    "https://cryptobriefing.com/solana-foundation-confidential-compute-trynitoai/",
+    "https://solana.com/news/solana-ai-the-democratization-layer",
+    "https://x.com/i/trending/2121291954629628048"
+   ],
+   "topic": "solana-confidential-compute-tee-2026-11-13",
+   "firstSeen": "2026-11-14T01:39:26+08:00"
   }
  ],
- "lastChecked": "2026-11-14T01:29:05+08:00"
+ "lastChecked": "2026-11-14T01:39:26+08:00"
 }
