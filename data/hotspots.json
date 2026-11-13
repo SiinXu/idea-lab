@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T10:40:47+08:00",
+ "lastUpdated": "2026-11-13T11:02:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47676,7 +47676,19 @@
    ],
    "topic": "nvidia-employees-petition-huang-return-2026-11-12",
    "firstSeen": "2026-11-13T10:40:47+08:00"
+  },
+  {
+   "id": "3bc1fb6251",
+   "title": "参院银行委员会主席蒂姆·斯科特要求黄仁勋 12 月 3 日、商务部长卢特尼克 12 月 10 日出席听证，不来就发传票",
+   "summary": "美国参议院银行委员会主席蒂姆·斯科特（共和党，南卡州）11 月 12 日晚分别致信刚辞去英伟达 CEO 的黄仁勋和商务部长卢特尼克，要求两人下月出席两场独立的监督听证：黄仁勋定在 12 月 3 日，卢特尼克定在 12 月 10 日。起因是黄仁勋与疑似中国间谍的 Alice Huang 的关系，以及商务部是否放任英伟达芯片对华出口。信中称如不自愿出席，委员会将动用包括传票在内的一切手段；斯科特在 X 上写道「The American people deserve answers」。Politico 报道商务部称卢特尼克已主动同意出席。另据路透，众院外委会主席马斯特等三位委员会主席已要求黄仁勋和英伟达总法律顾问 12 月 1 日、2 日接受闭门问询，白宫高层也在讨论是否让卢特尼克走人。美司法部长称尚未认定 Alice Huang 是否为间谍，中方否认。",
+   "links": [
+    "https://www.politico.com/live-updates/2026/11/12/congress/tim-scott-summons-jensen-huang-howard-lutnick-to-testify-over-nvidia-saga-01164124",
+    "https://news.bloomberglaw.com/banking-law/scott-asks-huang-lutnick-to-testify-before-senate-banking-panel",
+    "https://www.investing.com/news/stock-market-news/us-senate-banking-committee-chair-calls-on-jensen-huang-lutnick-to-testify-5023793"
+   ],
+   "topic": "senate-banking-scott-huang-lutnick-hearing-2026-11-12",
+   "firstSeen": "2026-11-13T11:02:20+08:00"
   }
  ],
- "lastChecked": "2026-11-13T10:40:47+08:00"
+ "lastChecked": "2026-11-13T11:02:20+08:00"
 }
