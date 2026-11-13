@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T13:56:57+08:00",
+ "lastUpdated": "2026-11-13T14:29:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47726,7 +47726,20 @@
    ],
    "topic": "samsung-modine-datacenter-cooling-talks-2026-11-12",
    "firstSeen": "2026-11-13T13:56:57+08:00"
+  },
+  {
+   "id": "1da3aabb72",
+   "title": "Vercel 开源 UI SDK（shadcn 与 Shu Ding 打造）：不给 Agent 成品组件，而是 50+ 个「交互行为」积木让它自己拼出新界面，并能直接读写组件状态",
+   "summary": "Vercel 于 11 月 12 日以公开测试版发布 UI SDK（Apache-2.0，npm 包 @ui-sdk/* 0.1.0-beta.1，GitHub vercel-labs/ui 已近 2000 星）。思路是把弹层、选择、键盘导航、焦点、拖拽排序、虚拟列表及配套 ARIA 抽象成 50 多个可复用「行为」（如 createPopup、createSelection、createTypeahead），Agent 装上 UI SDK skill 后按需组合，就能生成 Select、Combobox，乃至目录里没有的新组件，并同时输出 React、Vue、Svelte、Solid 与 Web Components 版本；另附 55 个无样式起步组件。Agent 也能通过 createAgent 桥接或 WebMCP 直接读取组件状态、调用动作，而不必看截图：官方在一个项目设置小测试里称用时 16 秒、成本 0.032 美元，普通浏览器工具则要 41 秒、0.073 美元（三次运行中位数，均为 Claude Code + Sonnet）。Vercel CEO Guillermo Rauch 把它比作「Agent 生成 UI 的 x86 指令集」。对做组件库、UI 资源站和 AI 生成界面的人，这意味着竞争点从「成品组件」转向「可组合行为 + Agent 可操作性」。",
+   "links": [
+    "https://ui-sdk.dev",
+    "https://github.com/vercel-labs/ui",
+    "https://news.sulat.com/2026/11/13/vercel-ui-sdk/",
+    "https://x.com/i/trending/2120970860567941210"
+   ],
+   "topic": "vercel-ui-sdk-agent-behaviors-2026-11-12",
+   "firstSeen": "2026-11-13T14:29:51+08:00"
   }
  ],
- "lastChecked": "2026-11-13T13:56:57+08:00"
+ "lastChecked": "2026-11-13T14:29:51+08:00"
 }
