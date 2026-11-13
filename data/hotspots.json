@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T09:55:27+08:00",
+ "lastUpdated": "2026-11-13T10:40:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47666,7 +47666,17 @@
    ],
    "topic": "chicago-schools-google-ai-search-2026-11-12",
    "firstSeen": "2026-11-13T09:55:27+08:00"
+  },
+  {
+   "id": "d3d3421ae2",
+   "title": "《连线》：英伟达员工内部发帖呼吁「把老板请回来」，1600 多条评论多数支持黄仁勋复职",
+   "summary": "WIRED 11 月 12 日报道，看过的内部通信显示：一名英伟达资深工程师在黄仁勋辞职前就在内部「意见箱」发帖，要求董事会采取行动前考虑员工意见，帖子至今已有 1600 多条评论，多数支持让黄仁勋回来，有匿名评论写道「If you believe in the mission, bring back THE boss」。还有员工发全员邮件，要求公开黄仁勋离职的内情。辞职消息公布后几小时内，约二十多名员工在领英发帖力挺黄仁勋，WIRED 没找到支持他辞职的员工帖子。黄仁勋周日在给员工的邮件中承认对妻子不忠，董事会周四宣布其辞职，由 CFO 克雷斯任临时 CEO、前 Synopsys CEO Harvey Jones 任董事长。WIRED 称这场风波已让英伟达市值蒸发约 1 万亿美元，并引来国会议员和 FBI 调查。英伟达及新董事长未回应置评。",
+   "links": [
+    "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/"
+   ],
+   "topic": "nvidia-employees-petition-huang-return-2026-11-12",
+   "firstSeen": "2026-11-13T10:40:47+08:00"
   }
  ],
- "lastChecked": "2026-11-13T09:55:27+08:00"
+ "lastChecked": "2026-11-13T10:40:47+08:00"
 }
