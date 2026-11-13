@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T08:09:15+08:00",
+ "lastUpdated": "2026-11-13T08:57:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47611,7 +47611,19 @@
    ],
    "topic": "apple-app-review-ai-flood-2026-11-12",
    "firstSeen": "2026-11-13T08:09:15+08:00"
+  },
+  {
+   "id": "cf42c662c9",
+   "title": "Arc 停服前夕，Dia 浏览器 1.57 补上 Arc 老用户最想要的功能：标签组可嵌套 8 层，AI 还能直接在 Figma 里做幻灯片、白板和改稿",
+   "summary": "The Browser Company 11 月 12 日发布 Dia 1.57（Mac）和 1.6（Windows）。标签组现在可以互相嵌套、最多 8 层，子组继承父组颜色，对应 Arc 的嵌套文件夹；还能设置新标签是否在组内打开。Figma 集成正式上线：连接账号后，Dia 不只能读设计稿、FigJam 和 Slides，还能按聊天指令新建和编辑，比如用模板做年终规划幻灯片、把头脑风暴画成 FigJam 图，或从 Slack、文档、日程里取信息填进设计。聊天也可以直接附上 Excel、Word、PowerPoint 文件做摘要。Arc 桌面版将于 12 月 22 日停止使用，Dia 正在加快接住迁移用户。",
+   "links": [
+    "https://www.diabrowser.com/release-notes/1-57-find-your-flow",
+    "https://www.diabrowser.com/changelog/mac/1-57-0",
+    "https://x.com/i/trending/2120991910043218121"
+   ],
+   "topic": "dia-1-57-nested-tabs-figma-2026-11-12",
+   "firstSeen": "2026-11-13T08:57:10+08:00"
   }
  ],
- "lastChecked": "2026-11-13T08:09:15+08:00"
+ "lastChecked": "2026-11-13T08:57:10+08:00"
 }
