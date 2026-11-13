@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T11:41:02+08:00",
+ "lastUpdated": "2026-11-13T12:58:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47700,7 +47700,20 @@
    ],
    "topic": "epoch-china-ai-revenue-vs-openai-anthropic-2026-11-12",
    "firstSeen": "2026-11-13T11:41:02+08:00"
+  },
+  {
+   "id": "b4769125db",
+   "title": "《Big Walk》因 AI 修 bug 遭 Steam 差评轰炸后口碑反弹：一天 366 条差评，近期好评回升到 87%，《战争机器》前主创力挺开发商",
+   "summary": "House House 公开承认在《Big Walk》开发收尾阶段少量用聊天机器人排查 Unity 阴影性能 bug（最终约 10 行代码，占比远低于 0.1%）后，Steam 评价骤变：11 月 9 日仅 3 条差评，10 日变成 426 好评对 366 差评，有玩家称已退款。随后风向回摆：《战争机器》三部曲首席设计师 Cliff Bleszinski 在 X 上称批评者「该放下架子了」，大量玩家发文认为「拿 AI 修连 Unity 都修不好的 bug 是最合理的用法」，近期好评率回升到约 87%，整体仍是「特别好评」。开发商说 Steam 只要求披露 AI 生成内容、不要求披露写代码或聊天机器人辅助，所以当初没标注，并承认缺少内部 AI 政策是失误。Ars Technica 称这场争论正在让独立游戏圈「清算」AI 辅助编程的边界。",
+   "links": [
+    "https://www.dexerto.com/gaming/big-walk-review-bombed-after-house-house-admits-ai-touched-well-under-0-1-of-code-3427480/",
+    "https://www.gamesradar.com/games/co-op/ex-gears-of-war-lead-says-big-walk-ai-critics-need-to-get-over-themselves-as-the-co-op-games-steam-reviews-bounce-back/",
+    "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+    "https://x.com/i/trending/2121087399224660288"
+   ],
+   "topic": "big-walk-steam-review-bomb-rebound-2026-11-12",
+   "firstSeen": "2026-11-13T12:58:06+08:00"
   }
  ],
- "lastChecked": "2026-11-13T11:41:02+08:00"
+ "lastChecked": "2026-11-13T12:58:06+08:00"
 }
