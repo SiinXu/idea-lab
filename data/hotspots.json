@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T09:38:05+08:00",
+ "lastUpdated": "2026-11-13T09:55:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47656,7 +47656,17 @@
    ],
    "topic": "sglang-consortium-summit-2026-11-12",
    "firstSeen": "2026-11-13T09:38:05+08:00"
+  },
+  {
+   "id": "7a5b5aeb10",
+   "title": "芝加哥公立学校回应谷歌「关 AI 就关搜索」：若不能单独屏蔽 AI 概览，就换别家搜索引擎；剑桥、芝加哥已有家长师生抗议",
+   "summary": "谷歌教育副总裁 Chris Phillips 本月初表示，K-12 学校如果全面禁用谷歌的 AI 服务，学生也将失去谷歌搜索，理由是搜索和 AI 已深度整合，被批评是在「要挟」学校。TechSpot 11 月 12 日援引 Chalkbeat Chicago 报道：已屏蔽 Gemini 等生成式 AI 的芝加哥公立学校（CPS）发言人称，学区正在想办法自行屏蔽搜索顶部的 AI 概览（AI Overviews）；如果做不到在没有 AI 的情况下用谷歌搜索，就会「改用其他搜索方案」。马萨诸塞州剑桥和芝加哥都出现了家长、教师和学生的抗议，约 30 人在谷歌办公室外喊「Hey Google, nice try. We don't want your Gemini」。这是此前 Kagi、DuckDuckGo 借机争抢学校市场之后，第一个公开表态可能弃用谷歌搜索的大型学区。",
+   "links": [
+    "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html"
+   ],
+   "topic": "chicago-schools-google-ai-search-2026-11-12",
+   "firstSeen": "2026-11-13T09:55:27+08:00"
   }
  ],
- "lastChecked": "2026-11-13T09:38:05+08:00"
+ "lastChecked": "2026-11-13T09:55:27+08:00"
 }
