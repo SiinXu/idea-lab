@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T01:39:26+08:00",
+ "lastUpdated": "2026-11-14T01:53:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48117,7 +48117,19 @@
    ],
    "topic": "solana-confidential-compute-tee-2026-11-13",
    "firstSeen": "2026-11-14T01:39:26+08:00"
+  },
+  {
+   "id": "87a2a2e6ed",
+   "title": "AO3 停机两周，反 AI 写作平台 Ellipsus 接住同人作者：注册量涨超 500%，11 月 13 日上线作者公开主页，可集中展示作品阅读链接",
+   "summary": "全球最大同人档案站 AO3 自 10 月 29 日因安全事件下线至今已两周（官方称最长停机 4 周），大量作者的作品被未经授权搬运到镜像站和 Google Drive 合集，引发作者与读者的冲突。主打「不用 AI、不拿作品训练 AI」的协作写作平台 Ellipsus 成了主要避风港：据《连线》报道，停机以来其新注册量增长超过 500%，作者分享作品用的公开「Reader 阅读链接」浏览量大增，两周内新增分享数十万条。11 月 13 日 Ellipsus 上线公开个人主页，作者可设置简介、头像、最多 5 个外部链接，并挑选要展示的公开作品，读者无需注册即可阅读，登录后可评论、点赞（props）；作者能控制可见范围、是否允许复制和评论。各同人圈作者迅速开始搭建主页。这说明当大平台出事故时，主打「作者掌控权 + 反 AI」的小众工具能快速抢到核心创作者群体。",
+   "links": [
+    "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+    "https://help.ellipsus.com/support/solutions/articles/205000067277-sharing-via-reader-link",
+    "https://x.com/i/trending/2121247194984374474"
+   ],
+   "topic": "ellipsus-public-profiles-ao3-outage-2026-11-13",
+   "firstSeen": "2026-11-14T01:53:43+08:00"
   }
  ],
- "lastChecked": "2026-11-14T01:39:26+08:00"
+ "lastChecked": "2026-11-14T01:53:43+08:00"
 }
