@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T20:29:50+08:00",
+ "lastUpdated": "2026-11-13T20:56:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47897,7 +47897,20 @@
    ],
    "topic": "gdc-state-of-industry-nov-2026",
    "firstSeen": "2026-11-13T20:29:50+08:00"
+  },
+  {
+   "id": "b1e34f241c",
+   "title": "菲律宾多地学生罢课抗议美国主导的 AI/半导体供应链计划「Pax Silica」：1,620 公顷经济安全区引发土地与水电之争",
+   "summary": "11 月 13 日（ASEAN 峰会前），菲律宾大学迪利曼分校、雅典耀大学、德拉萨大学、远东大学等多所高校学生在马尼拉、奎松市、碧瑶等地发起罢课游行，反对美国主导的「Pax Silica」计划和特朗普即将出席第 49 届东盟峰会（11 月 15–17 日）。Pax Silica 于 2025 年 12 月启动，旨在为 AI、半导体、关键矿产、能源和先进制造打造「可信伙伴」供应链；菲律宾今年 4 月加入，计划在打拉省 New Clark City 划出约 1,620 公顷（4,000 英亩）经济安全区。抗议者担心阿埃塔（Aeta）原住民和农民被迫迁离，以及园区对水电的巨大需求；学生团体称抗议将持续到峰会期间，UP 迪利曼还将连续四天驻营。这说明 AI 算力与芯片供应链在东南亚落地时，土地、能源和社区接受度正成为新的风险点。",
+   "links": [
+    "https://www.gmanetwork.com/news/topstories/nation/1009384/students-stage-walkout-vs-trump-visit-pax-silica-we-fight-for-our-future/story/",
+    "https://www.abs-cbn.com/news/nation/2026/11/13/students-stage-nationwide-protests-vs-pax-silica-trump-s-expected-ph-visit-1931",
+    "https://newsinfo.inquirer.net/2340908/baguio-students-stage-peaceful-walkout-against-pax-silica",
+    "https://x.com/i/trending/2121196826179297521"
+   ],
+   "topic": "philippines-pax-silica-student-walkout-2026-11-13",
+   "firstSeen": "2026-11-13T20:56:38+08:00"
   }
  ],
- "lastChecked": "2026-11-13T20:29:50+08:00"
+ "lastChecked": "2026-11-13T20:56:38+08:00"
 }
