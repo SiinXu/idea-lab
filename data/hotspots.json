@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T22:39:32+08:00",
+ "lastUpdated": "2026-11-13T23:24:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47987,7 +47987,33 @@
    ],
    "topic": "spacex-ai-grok-imagine-video-team-layoffs-2026-11-13",
    "firstSeen": "2026-11-13T22:39:32+08:00"
+  },
+  {
+   "id": "5bf4951adb",
+   "title": "OpenAI 推出 ChatGPT Wallet：Pro 用户的 dots 智能体可替你下单付款，每笔需 Face ID 等生物识别确认，Agent 拿不到真实卡号",
+   "summary": "OpenAI 11 月 13 日发布 ChatGPT Wallet，与美国运通、万事达、Visa 合作，先面向美国 18 岁以上的 ChatGPT Pro 用户在 dots（常驻云端的个人智能体）中上线，支持美国发行的运通、Chase、万事达和 Visa 卡。用户只需添加一次卡，dot 帮你找商品、比价、填结账页；每次付款前会展示商家、商品、总价、所用卡片以及是否为循环扣费，用户用 Face ID / 指纹确认后，卡组织生成一次性支付令牌（虚拟卡号），商家和 Agent 都看不到真实卡号，原有的信用卡积分和争议保护保留。OpenAI 同时发布面向商家的指南，提醒网站不要误拦 Agent、风控系统要识别合法的 Agent 订单。这是「Agent 代购物」正式接入主流卡组织的一步，对电商独立站来说，能否被 Agent 顺利下单正变成新的转化入口。",
+   "links": [
+    "https://openai.com/index/introducing-chatgpt-wallet/",
+    "https://help.openai.com/en/articles/20001654-making-purchases-with-chatgpt-wallet",
+    "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+    "https://x.com/i/trending/2121260659975573668"
+   ],
+   "topic": "openai-chatgpt-wallet-dots-2026-11-13",
+   "firstSeen": "2026-11-13T23:24:22+08:00"
+  },
+  {
+   "id": "75dbd7acae",
+   "title": "彭博：黄仁勋丑闻中心人物 Alice Huang 创办的上海龙腾智算，申报了 22 台装有禁运 H800 的戴尔服务器，存放在与 Megaspeed 有关的上海数据中心",
+   "summary": "彭博 11 月 13 日根据中国政府备案文件报道：Alice Huang（黄乐）十年前创办的上海龙腾智算，旗下子公司 2025 年 1 月把位于上海「长三角项目」数据中心的 193 台服务器抵押融资，估值约 4.85 亿元人民币（约 7,300 万美元），其中包括 22 台装有英伟达 H800（2023 年起禁止对华出口）的戴尔服务器和 52 台装有 H100 或 H200 的超微服务器。知情人士称，这批戴尔服务器最初卖给新加坡的英伟达云合作伙伴 Aperia Cloud Services，戴尔已于 2025 年 2 月因「未经授权转移」顾虑停止与其合作。Alice Huang 2017 年已退出龙腾股权，由其妹黄宇接任大股东；文件未说明芯片如何获得，也未证明她或英伟达知情。超微称其销售合规且与该设施无关；Megaspeed 表示正在自查出口管制合规，马来西亚也在调查其子公司。报道发布于黄仁勋辞任英伟达 CEO 的次日，他本月将赴国会作证，芯片出口管制执行再成焦点。",
+   "links": [
+    "https://news.bloomberglaw.com/business-and-practice/company-founded-by-alice-huang-got-banned-nvidia-chips-in-china",
+    "https://qz.com/nvidia-chips-alice-huang-shanghai-data-center-111326",
+    "https://www.thehindu.com/news/international/chinese-company-linked-to-alice-huang-shanghai-longteng-intelligent-computing-obtained-banned-nvidia-chips/article71697606.ece",
+    "https://x.com/i/trending/2121255682389246366"
+   ],
+   "topic": "bloomberg-alice-huang-longteng-h800-servers-2026-11-13",
+   "firstSeen": "2026-11-13T23:24:22+08:00"
   }
  ],
- "lastChecked": "2026-11-13T22:39:32+08:00"
+ "lastChecked": "2026-11-13T23:24:22+08:00"
 }
