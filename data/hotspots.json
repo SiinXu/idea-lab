@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T22:11:36+08:00",
+ "lastUpdated": "2026-11-13T22:26:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47961,7 +47961,20 @@
    ],
    "topic": "reuters-china-ai-projects-restricted-nvidia-chips-2026-11-13",
    "firstSeen": "2026-11-13T22:11:36+08:00"
+  },
+  {
+   "id": "80d4e929e9",
+   "title": "纽约梅隆银行 BNY 接入 Figment 验证节点：机构客户无需把以太坊转出托管即可质押赚收益，Solana 随后支持",
+   "summary": "11 月 12 日，Figment 宣布与 BNY（纽约梅隆银行）合作，用其验证节点基础设施支持 BNY 数字资产托管平台的质押服务：资产管理公司、ETF 发行方、企业和财富管理机构等合格客户，可以直接对托管在 BNY 的资产进行质押并获得奖励，资产不必离开银行托管体系。首批支持以太坊（ETH），之后是 Solana（SOL），尚未公布上线日期和费率。这是 BNY 继今年 8 月与 Galaxy 合作后的第二家质押节点提供商；Figment 称服务 1,500 多家机构，也是 Coinbase Prime、Ripple Custody 和摩根士丹利以太坊/Solana 产品背后的节点方。BNY 上月还扩大了与 Ripple 的托管合作，计划让客户通过银行铸造和赎回 RLUSD 稳定币。传统大银行把「托管 + 链上收益」打包成合规服务，说明加密资产正被纳入机构日常投资流程。",
+   "links": [
+    "https://www.figment.io/insights/figment-collaborates-with-bny-to-support-staking-on-bnys-digital-asset-custody-platform/",
+    "https://www.theblock.co/news/business/2026-11-12-bny-taps-figment-to-support-staking-on-its-digital-asset-custody-platform-438538",
+    "https://www.bny.com/corporate/global/en/solutions/platforms/digital-assets/why-the-institution-behind-your-staking-matters.html",
+    "https://x.com/i/trending/2121223276202537186"
+   ],
+   "topic": "bny-figment-eth-staking-custody-2026-11-12",
+   "firstSeen": "2026-11-13T22:26:02+08:00"
   }
  ],
- "lastChecked": "2026-11-13T22:11:36+08:00"
+ "lastChecked": "2026-11-13T22:26:02+08:00"
 }
