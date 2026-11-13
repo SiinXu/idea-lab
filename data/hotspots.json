@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T07:56:17+08:00",
+ "lastUpdated": "2026-11-13T08:09:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47600,7 +47600,18 @@
    ],
    "topic": "expo-simulators-agents-2026-11-12",
    "firstSeen": "2026-11-13T07:56:17+08:00"
+  },
+  {
+   "id": "10ab378046",
+   "title": "AI 生成应用涌入 App Store，苹果审核被指也用上 AI：多家 iOS 音乐 App 开发者被卡数周、遭「幻觉式」驳回",
+   "summary": "Synth Anatomy 11 月 12 日报道：随着人人都能用 AI「氛围编程」做 App 和 AUv3 插件，每天约有 10–20 款新 iOS 音乐 App 上架，苹果 App 审核明显拥堵，AudioThing、Sugar Bytes 等开发者的新品卡在审核里数周没有回音（苹果官方说法是 90% 的提交 48 小时内审完）。Unfiltered Audio 的 Michael Hetrick 称一款插件被驳回 4 次，其中一次审核员「幻觉」出要求为「Polyharmonic」一词出示技术授权，他怀疑苹果在用 AI 自动审核；独立开发者 Marek Dendes 的旗舰合成器 CRUX Synth 4 次被秒拒为「设计垃圾」「用模板生成」，申诉也无回应。文章在 Hacker News 上引发讨论。",
+   "links": [
+    "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+    "https://news.ycombinator.com/item?id=50474311"
+   ],
+   "topic": "apple-app-review-ai-flood-2026-11-12",
+   "firstSeen": "2026-11-13T08:09:15+08:00"
   }
  ],
- "lastChecked": "2026-11-13T07:56:17+08:00"
+ "lastChecked": "2026-11-13T08:09:15+08:00"
 }
