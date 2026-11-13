@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T22:26:02+08:00",
+ "lastUpdated": "2026-11-13T22:39:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47974,7 +47974,20 @@
    ],
    "topic": "bny-figment-eth-staking-custody-2026-11-12",
    "firstSeen": "2026-11-13T22:26:02+08:00"
+  },
+  {
+   "id": "fea6011e48",
+   "title": "The Information：SpaceX AI 部门裁掉 Grok Imagine 视频生成团队约 60 人，只留少数人维持运行，资源转向 AI 编程和 Agent",
+   "summary": "据 The Information 11 月 13 日报道，SpaceX 旗下 AI 部门（SpaceX Super Intelligence，由今年 2 月并入 SpaceX 的 xAI 组建）上周裁撤了负责 Grok Imagine 图像和视频生成工具的约 60 名员工，只留下少数人维持产品运行。Grok Imagine 目前仍对用户开放，但没有专门开发团队后前景不明。报道称，公司优先级已转向 AI 编程工具和 Agent 产品；视频生成算力成本远高于文本，OpenAI 今年早些时候也因成本关停了 Sora。马斯克 3 月曾说要在视频方向「加倍投入」，如今却收缩，加上独立评测显示 Grok Imagine 落后于领先模型，美国大厂中训练自研视频模型的玩家进一步减少；而字节 Seedance、快手、MiniMax 等中国公司仍把视频模型当作核心方向，在生成式视频上的优势可能进一步扩大。",
+   "links": [
+    "https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team",
+    "https://in.investing.com/news/stock-market-news/musks-ai-group-lays-off-60-staffers-from-grok-video-unit-the-information-reports-5703361",
+    "https://www.tmtpost.com/nictation/8204820.html",
+    "https://x.com/i/trending/2121249220082422096"
+   ],
+   "topic": "spacex-ai-grok-imagine-video-team-layoffs-2026-11-13",
+   "firstSeen": "2026-11-13T22:39:32+08:00"
   }
  ],
- "lastChecked": "2026-11-13T22:26:02+08:00"
+ "lastChecked": "2026-11-13T22:39:32+08:00"
 }
