@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T14:57:16+08:00",
+ "lastUpdated": "2026-11-13T15:13:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47752,7 +47752,19 @@
    ],
    "topic": "retell-ai-100m-arr-2026-11-12",
    "firstSeen": "2026-11-13T14:57:16+08:00"
+  },
+  {
+   "id": "b3c84623c4",
+   "title": "Brave Search API 支持 x402 智能体支付：无需注册和 API Key，Agent 用 USDC 按次付费搜索，每次 0.005 美元",
+   "summary": "Brave 11 月 12 日宣布 Search API 接入开放的 x402 支付协议：接入 x402 的端点不再校验 API Key，而是每次请求单独付费。Agent 发出未付款请求时收到 HTTP 402「需要付款」响应，里面写明本次价格和付款信息；Agent 签一笔 USDC 付款后重发请求，验证通过即返回搜索结果和 Base 链上交易回执。LLM Context（专为 Agent 提供搜索上下文的接口）以及网页、新闻、图片、视频、本地搜索均为每次 0.005 美元（每千次 5 美元），限时由 Brave 承担 Base 链 Gas 费，后续支持更多链和稳定币。官方推荐用 Stripe 开发的 CLI 钱包 Purl Wallet 给 Agent 充值。这是又一家主流 API 把「账号 + 套餐」换成「Agent 钱包即付即用」，在 Hacker News 上引发讨论；做 Agent 工具、付费 API 或数据服务的团队，可以参考这种无需注册、按次收费的变现方式。",
+   "links": [
+    "https://brave.com/blog/search-api-agentic-payments/",
+    "https://news.ycombinator.com/item?id=50477649",
+    "https://api-dashboard.search.brave.com/documentation/guides/agent-payments"
+   ],
+   "topic": "brave-search-api-x402-2026-11-12",
+   "firstSeen": "2026-11-13T15:13:05+08:00"
   }
  ],
- "lastChecked": "2026-11-13T14:57:16+08:00"
+ "lastChecked": "2026-11-13T15:13:05+08:00"
 }
