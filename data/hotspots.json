@@ -47780,7 +47780,7 @@
   {
    "id": "424fef9f8c",
    "title": "Octen 推出 Pulse Search：用生成式检索模型直接「猜」出网址，Agent 搜一次约 10 毫秒、每千次 0.1 美元，边想边搜不用停",
-   "summary": "AI 搜索 API 公司 Octen 发布 Pulse Search，思路是「模型即索引」：不走传统的查询理解、召回、排序流程，而是用一个生成式检索模型一次推理直接生成最可能的 10 个网址。lite 模式只返回网址和标题，服务端 P50 延迟约 10 毫秒（接近模型生成一个 token 的时间），每千次 0.1 美元；standard 模式约 20 毫秒，可附带摘要、全文和图片，每千次 0.2 美元。官方定位是找文档、官网、帮助中心、价格页这类「常去的页面」，新闻和新鲜内容仍要用普通 Web Search；同时提供 MCP 服务器，可接入 Claude、Cursor 等。Octen 的普通 Web Search 另有每月 20 美元不限量套餐，在 X 上被开发者称赞「终于可以把『只在必要时搜索』从提示词里删掉」。同一天 Brave 也推出 Agent 按次付费搜索，Agent 搜索层的价格战和延迟战正在升温；做 Agent 产品可以把搜索当成廉价的「外部记忆」高频调用。",
+   "summary": "AI 搜索 API 公司 Octen 发布 Pulse Search，思路是「模型即索引」：不走传统的查询理解、召回、排序流程，而是用一个生成式检索模型一次推理直接生成最可能的 10 个网址。lite 模式只返回网址和标题，服务端 P50 延迟约 10 毫秒（接近模型生成一个 token 的时间），每千次 0.1 美元；standard 模式约 20 毫秒，可附带摘要、全文和图片，每千次 0.2 美元。官方定位是找文档、官网、帮助中心、价格页这类「常去的页面」，新闻和新鲜内容仍要用普通 Web Search；同时提供 MCP 服务器，可接入 Claude、Cursor 等。Octen 的普通 Web Search 另有每月 20 美元不限量套餐，在 X 上被开发者称赞「终于可以把『只在必要时搜索』从提示词里删掉」。前一天 Brave 刚推出 Agent 按次付费搜索，Agent 搜索层的价格战和延迟战正在升温；做 Agent 产品可以把搜索当成廉价的「外部记忆」高频调用。",
    "links": [
     "https://octen.ai/blog/introducing-octen-pulse-search",
     "https://docs.octen.ai/capabilities/pulse-search",
@@ -47791,5 +47791,5 @@
    "firstSeen": "2026-11-13T16:54:04+08:00"
   }
  ],
- "lastChecked": "2026-11-13T16:54:04+08:00"
+ "lastChecked": "2026-11-13T16:55:07+08:00"
 }
