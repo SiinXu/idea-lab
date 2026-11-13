@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T00:16:53+08:00",
+ "lastUpdated": "2026-11-14T00:22:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48039,7 +48039,20 @@
    ],
    "topic": "meomuru-ai-song-melon-no1-2026-11-13",
    "firstSeen": "2026-11-14T00:16:53+08:00"
+  },
+  {
+   "id": "c1a85d8bd6",
+   "title": "DeepSeek 把 App 全套能力开放给 API：deepseek-flash 支持联网搜索带引用、文件解析、网址读取、安全审核和语音收发",
+   "summary": "DeepSeek 11 月 13 日发布 API 更新「The full DeepSeek App experience, now via API」：V4.1-Flash（模型名 deepseek-flash）在 Messages、Responses、Chat Completions 三种协议下都支持服务端处理的工具调用。新能力包括：带引用的网页/图片搜索、边推理边搜索读网页的深度思考搜索、PDF/Office/图片文件解析（可选纯文本或保留图表的富版式解析）、自动读取用户消息里的链接、输入输出安全审核（返回拒答标记）、会话标题生成，以及独立的语音转文字和文字转语音接口；搜索、抓取、OCR、ASR、TTS 也可单独调用。官方要求面向公众的应用必须开启安全审核，开发者仍需自行负责内容审核、大模型备案和 AI 内容标识。意义在于：开发者不用自己搭搜索、解析、语音链路，就能做出和 DeepSeek App 一样的聊天产品，进一步拉低做垂直 AI 助手的门槛。",
+   "links": [
+    "https://api-docs.deepseek.com/news/news261113/",
+    "https://api-docs.deepseek.com/guides/build_a_chatbot/",
+    "https://api-docs.deepseek.com/guides/document_parsing/",
+    "https://x.com/i/trending/2121265597845557287"
+   ],
+   "topic": "deepseek-api-full-app-features-2026-11-13",
+   "firstSeen": "2026-11-14T00:22:28+08:00"
   }
  ],
- "lastChecked": "2026-11-14T00:16:53+08:00"
+ "lastChecked": "2026-11-14T00:22:28+08:00"
 }
