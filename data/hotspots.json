@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T11:02:20+08:00",
+ "lastUpdated": "2026-11-13T11:41:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47688,7 +47688,19 @@
    ],
    "topic": "senate-banking-scott-huang-lutnick-hearing-2026-11-12",
    "firstSeen": "2026-11-13T11:02:20+08:00"
+  },
+  {
+   "id": "9f14478104",
+   "title": "中国六大 AI 公司年化营收合计约 110 亿美元，只有 OpenAI + Anthropic 的十分之一：字节 40 亿领跑，DeepSeek 约 10 亿",
+   "summary": "Epoch AI 的估算（截至 2026 年 9 月）近日经日经亚洲等报道后在 X 上热议：OpenAI 与 Anthropic 年化营收合计约 1050 亿美元（Anthropic 约 650 亿、OpenAI 约 400 亿），而字节、阿里、智谱（Z.ai）、月之暗面、DeepSeek、MiniMax 六家合计约 110 亿美元，约为前者的 10.5%。中方明细：字节约 40 亿、阿里 24 亿、智谱 18 亿、月之暗面和 DeepSeek 各约 10 亿、MiniMax 约 8 亿；字节和阿里只计模型即服务收入。原因包括价格更低、开源权重削弱定价权（智谱 GLM 权重上 OpenRouter 后自家份额 20 天内从 88% 掉到 22%）、更依赖云和广告等间接变现。注意：各公司数据取自 7–9 月不同时点，年化营收是外推，并非实际全年收入；OpenAI 9 月底年化已据报接近 700 亿美元，按此计算差距会更大。",
+   "links": [
+    "https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-other-china-ai-firms-have-just-10-the-revenue-of-openai-anthropic",
+    "https://aiindustrytoday.com/news/chinas-top-six-ai-firms-generate-about-10-of-openai-and-anthropics-combined-revenue-run-rate-epoch-ai-finds/",
+    "https://x.com/i/trending/2121064648892170538"
+   ],
+   "topic": "epoch-china-ai-revenue-vs-openai-anthropic-2026-11-12",
+   "firstSeen": "2026-11-13T11:41:02+08:00"
   }
  ],
- "lastChecked": "2026-11-13T11:02:20+08:00"
+ "lastChecked": "2026-11-13T11:41:02+08:00"
 }
