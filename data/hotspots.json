@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T16:54:04+08:00",
+ "lastUpdated": "2026-11-13T17:23:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47789,7 +47789,19 @@
    ],
    "topic": "octen-pulse-search-2026-11-13",
    "firstSeen": "2026-11-13T16:54:04+08:00"
+  },
+  {
+   "id": "f32554335e",
+   "title": "Thinking Machines 兑现承诺：Inkling 2 Small 全量权重以 Apache 2.0 登上 Hugging Face，可免费商用、微调和再分发",
+   "summary": "Mira Murati 创办的 Thinking Machines Lab 已把 11 月 5 日发布的多模态模型 Inkling 2 Small（总参 5940 亿的 MoE，每 token 激活约 170 亿）的全量权重放到 Hugging Face，采用宽松的 Apache 2.0 许可，提供 NVFP4 和 MXFP8 两种量化版本，可下载、改造并用进第三方产品。模型输入文本和图像、输出文本，面向 Agent/工具调用、编程助手、聊天和 RAG。官方模型卡同时给出 SGLang、vLLM、TokenSpeed、Unsloth 的本地推理配方，以及 Miles、SkyRL、Snowflake Cortex 等后训练方案，英伟达和 Fireworks 也已提供 API。Murati 在 X 上感谢团队和安全合作方，话题冲上 X 科技热点。对独立开发者来说，这意味着又多了一个美国厂商出品、许可证干净的大型开源多模态底座，可以拿来微调垂直 Agent 或做私有部署。",
+   "links": [
+    "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+    "https://huggingface.co/thinkingmachines/Inkling-2-Small-MXFP8",
+    "https://x.com/i/trending/2120988706840686725"
+   ],
+   "topic": "inkling-2-small-open-weights-2026-11-13",
+   "firstSeen": "2026-11-13T17:23:16+08:00"
   }
  ],
- "lastChecked": "2026-11-13T16:55:07+08:00"
+ "lastChecked": "2026-11-13T17:23:16+08:00"
 }
