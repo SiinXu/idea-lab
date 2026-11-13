@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T20:56:38+08:00",
+ "lastUpdated": "2026-11-13T21:14:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47910,7 +47910,19 @@
    ],
    "topic": "philippines-pax-silica-student-walkout-2026-11-13",
    "firstSeen": "2026-11-13T20:56:38+08:00"
+  },
+  {
+   "id": "9d6e5719c2",
+   "title": "路透独家：亚马逊秘密计划「World Product Graph」，要收录全球几乎所有商品数据（包括自己不卖的），对抗 AI 购物 Agent 和谷歌搜索",
+   "summary": "路透 11 月 13 日披露的亚马逊内部 PR/FAQ 文件显示，亚马逊计划打造「World Product Graph」：通过品牌方持续供数（已签下可口可乐、拜耳，并与宝洁开过 CEO 级峰会试点）和自行爬取其他零售商网站，汇集地球上几乎所有在售商品的规格、型号关系与对比信息，让用户不必离开亚马逊去谷歌、品牌官网、测评站和 Reddit 做功课。文件坦承其 AI 购物助手 Rufus（5 月改名 Alexa for Shopping）「很多回答事实错误或不完整」，每周约 8300 万次搜索且运行成本高，更全的数据可让它换用更便宜的模型。文件写的目标上线日期是 2027 年 10 月 1 日，但亚马逊回应称这只是过时的头脑风暴文档，并称 Alexa for Shopping 全球准确率约 97%。这意味着「商品数据 + AI 导购」正成为电商、搜索和 Agent 之间的新争夺点，品牌官网的结构化商品数据价值会上升。",
+   "links": [
+    "https://www.channelnewsasia.com/business/exclusive-amazons-plan-own-worlds-product-data-and-fight-ai-shopping-agents-6549286",
+    "https://live.euronext.com/en/financial-news/exclusive-amazons-plan-own-worlds-product-data-and-fight-ai-shopping-agents",
+    "https://x.com/i/trending/2121218052889202830"
+   ],
+   "topic": "amazon-world-product-graph-2026-11-13",
+   "firstSeen": "2026-11-13T21:14:32+08:00"
   }
  ],
- "lastChecked": "2026-11-13T20:56:38+08:00"
+ "lastChecked": "2026-11-13T21:14:32+08:00"
 }
