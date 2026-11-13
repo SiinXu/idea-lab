@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T05:25:54+08:00",
+ "lastUpdated": "2026-11-14T05:46:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48279,7 +48279,20 @@
    ],
    "topic": "faa-nationwide-ground-stop-2026-11-13",
    "firstSeen": "2026-11-14T05:25:54+08:00"
+  },
+  {
+   "id": "d12ce41833",
+   "title": "FAA 全国停飞令原因公布：多个航路管制中心空地通信故障，交通部长称「影响全部空管中心」，技术人员正在排查",
+   "summary": "上一条的后续。FAA 发表声明称，这次全国地面停飞是因为通信故障波及「多个航路交通管制中心（ARTCC）」，技术人员正在调查。美国交通部长 Sean Duffy 在 X 上的说法更严重：通信问题影响了「全部」航路管制中心，并承诺有进展会第一时间通报。有记者援引 FAA 内部通报，称原因是「滚动式频率中断」，即飞行员和管制员之间的无线电通信设施接连失效；如此全国规模的故障前所未有。停飞令美东 15:54 生效，通告写的有效期到美东 23:30。目前只能落地、不能起飞，入境国际航班逐个处理；亚特兰大等枢纽机场已确认出港航班全部暂停。截至目前，权威来源没有确认恢复时间。上一次全国停飞是 2023 年 1 月 NOTAM 系统故障，持续不到两小时；再往前一次是 2001 年 9·11 事件。",
+   "links": [
+    "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+    "https://www.hindustantimes.com/world-news/us-news/faa-issues-us-wide-ground-stops-due-to-rolling-frequency-outage-all-flight-departures-halted-101794603336870.html",
+    "https://www.dw.com/en/faa-orders-ground-stop-at-all-us-airports-due-to-extraordinary-circumstance-and-reasons-for-safety/a-79945062",
+    "https://www.cbsnews.com/atlanta/news/ground-stop-issued-at-hartsfield-jackson-atlanta-international-airport-due-to-extraordinary-circumstances-faa-says/"
+   ],
+   "topic": "faa-ground-stop-cause-atc-comms-2026-11-13",
+   "firstSeen": "2026-11-14T05:46:26+08:00"
   }
  ],
- "lastChecked": "2026-11-14T05:25:54+08:00"
+ "lastChecked": "2026-11-14T05:46:26+08:00"
 }
