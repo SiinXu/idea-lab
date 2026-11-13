@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T14:29:51+08:00",
+ "lastUpdated": "2026-11-13T14:57:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47739,7 +47739,20 @@
    ],
    "topic": "vercel-ui-sdk-agent-behaviors-2026-11-12",
    "firstSeen": "2026-11-13T14:29:51+08:00"
+  },
+  {
+   "id": "4f70c02501",
+   "title": "语音 AI 客服平台 Retell 年化营收破 1 亿美元：17 个月从 1000 万涨 10 倍，总融资仅 460 万美元、不到 80 人且已盈利",
+   "summary": "Retell 于 11 月 12 日宣布年化营收（ARR）突破 1 亿美元，距 2024 年 2 月公开上线不到三年，17 个月前还只有 1000 万美元。公司只做过一轮 460 万美元种子融资（Alt Capital 领投，Jack Altman、YC 合伙人 Michael Seibel、Lyft 联创 Rajat Suri 参与），2025 年已盈利，团队不到 80 人，营收规模与融资数亿美元的对手相当。平台让企业的业务人员自己搭建、运营和迭代联络中心语音 Agent，服务 4000 多家企业（含联想、CVS Health、BILL），每月接通 1 亿多通电话、支持 55 种以上语言，2026 年企业营收增长 9 倍。同周还推出专为实时客服通话训练的 Tell-1 模型，主打 100 毫秒内响应。创始团队多来自 Meta、TikTok、谷歌和字节。这是「小团队 + 垂直 Agent + 少融资」路线的又一个标杆，在 X 上被热议资本效率（每融 1 美元带来约 20 美元年营收）。",
+   "links": [
+    "https://www.businesswire.com/news/home/20261111211785/en/Retell-Surpasses-%24100M-in-Annualized-Run-Rate-as-Enterprises-Take-Control-of-Voice-AI",
+    "https://www.retellai.com/blog/retell-100m-revenue-run-rate",
+    "https://finance.yahoo.com/technology/ai/articles/voice-ai-startup-hits-100-140000102.html",
+    "https://x.com/i/trending/2120930853391851563"
+   ],
+   "topic": "retell-ai-100m-arr-2026-11-12",
+   "firstSeen": "2026-11-13T14:57:16+08:00"
   }
  ],
- "lastChecked": "2026-11-13T14:29:51+08:00"
+ "lastChecked": "2026-11-13T14:57:16+08:00"
 }
