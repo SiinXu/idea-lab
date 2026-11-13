@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T08:57:10+08:00",
+ "lastUpdated": "2026-11-13T09:12:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47623,7 +47623,28 @@
    ],
    "topic": "dia-1-57-nested-tabs-figma-2026-11-12",
    "firstSeen": "2026-11-13T08:57:10+08:00"
+  },
+  {
+   "id": "f980cc1f1e",
+   "title": "Edge0 开源 145B 端侧大模型 Edge0-145B：笔记本上峰值内存 29GB、解码 80+ token/s，主打本地编程与智能体",
+   "summary": "Edge0 于 11 月 12 日开源 Edge0-145B 与 Edge0-120B，并一起放出统一推理框架和部署工具，称这是首个 1450 亿参数的开源端侧模型。官方数据：在 MacBook Pro 等兼容笔记本上峰值内存约 29GB，预填充 1100+ token/s、解码 80+ token/s，典型功耗约 120W，支持 128K–256K 上下文；编程、推理和指令遵循成绩与部分前沿云端模型相当，还能自己规划、写代码、运行、调试并视觉检查结果。本地推理没有云端 API 费用，数据可以不出电脑、离线可用。此前其 Edge0-35B 在 iPhone 上约 2.5GB 内存跑到 37+ token/s。性能数据均为官方自报，有待社区复现。",
+   "links": [
+    "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+   ],
+   "topic": "edge0-145b-on-device-open-model-2026-11-12",
+   "firstSeen": "2026-11-13T09:12:55+08:00"
+  },
+  {
+   "id": "45ba1b64c4",
+   "title": "成立仅 4 个月的伦敦实验室 Continuous Intelligence 开源时间序列基础模型 ci-proto：fev-bench 51.5 分，超过谷歌、亚马逊同类模型",
+   "summary": "Continuous Intelligence 于 2026 年 7 月成立，近日发布首个时间序列基础模型家族 ci-proto，用于能源需求、健康监测等真实数据的零样本预测。最大的 ci-proto XL 有 1.67 亿参数，在 fev-bench 上得分 51.5，超过谷歌、亚马逊和 Mistral 的同类模型；上下文窗口是对手的 64 倍，可一次读入 200 多万个观测点、捕捉跨年份的规律。权重已在 Hugging Face 公开，可免费商用（以其许可证为准），在 X 上引发热议。",
+   "links": [
+    "https://huggingface.co/ContinuousIntelligence/ci-proto",
+    "https://x.com/i/trending/2120874465865425083"
+   ],
+   "topic": "ci-proto-time-series-foundation-model-2026-11-12",
+   "firstSeen": "2026-11-13T09:12:55+08:00"
   }
  ],
- "lastChecked": "2026-11-13T08:57:10+08:00"
+ "lastChecked": "2026-11-13T09:12:55+08:00"
 }
