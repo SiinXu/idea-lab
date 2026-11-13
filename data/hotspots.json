@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T05:09:19+08:00",
+ "lastUpdated": "2026-11-14T05:25:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48265,7 +48265,21 @@
    ],
    "topic": "meta-takes-prediction-app-2026-11-13",
    "firstSeen": "2026-11-14T05:09:19+08:00"
+  },
+  {
+   "id": "cfd336846f",
+   "title": "（事件发展中）美国 FAA 罕见发布全国地面停飞令：全美机场出港航班「因特殊情况、出于安全原因」原地待命，原因未公布，此前芝加哥两机场因设备故障停飞",
+   "summary": "美国联邦航空管理局（FAA）空管指挥中心 11 月 13 日美东时间约 15:54 发布通告：「因特殊情况、出于安全原因，全美所有机场实施地面停飞，所有出港航班原地待命，直至另行通知」；入境国际航班逐个处理。通告给出的预计结束时间为美中部时间 22:00（美东 23:00），但 FAA 没有确认何时恢复。几分钟前，芝加哥奥黑尔和中途机场已因「设备故障」（equipment outage）停飞，FAA 空域状态页上纽瓦克、拉斯维加斯、休斯敦等多个机场也显示因设备原因延误。航空监测账号和部分媒体称，问题可能与空管无线电通信有关（涉及堪萨斯城航路管制中心），但 FAA 至今没有公布原因，也没有回应媒体置评请求。这类全国停飞极少见：上一次是 2023 年 1 月 NOTAM（航行通告）系统故障，停飞约 90 分钟，造成 1 万多班延误、1300 多班取消。原因和影响规模仍在更新，出行请以航空公司和 FAA 状态页为准。",
+   "links": [
+    "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+    "https://apnews.com/article/flights-halted-airports-faa-f81b0904331dafad6133f291e5f531a8",
+    "https://www.news9.com/oklahoma-city-news/faa-reportedly-issues-nationwide-ground-stop",
+    "https://nasstatus.faa.gov/",
+    "https://twitter.com/flightradar24/status/2121347654714077605"
+   ],
+   "topic": "faa-nationwide-ground-stop-2026-11-13",
+   "firstSeen": "2026-11-14T05:25:54+08:00"
   }
  ],
- "lastChecked": "2026-11-14T05:09:19+08:00"
+ "lastChecked": "2026-11-14T05:25:54+08:00"
 }
