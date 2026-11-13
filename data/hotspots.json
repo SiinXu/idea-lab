@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T21:14:32+08:00",
+ "lastUpdated": "2026-11-13T21:30:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47922,7 +47922,20 @@
    ],
    "topic": "amazon-world-product-graph-2026-11-13",
    "firstSeen": "2026-11-13T21:14:32+08:00"
+  },
+  {
+   "id": "5f08f5e494",
+   "title": "泰国证监会拟给稳定币设「日限额」：每位客户在每家持牌平台每天充值、提现各限 500 万泰铢（约 14.8 万美元），只能转入转出本人钱包",
+   "summary": "泰国证监会（SEC）11 月 12 日就稳定币交易监管草案公开征求意见（截至 11 月 26 日）：经持牌数字资产平台进行的稳定币充值和提现，每位客户在每家平台每天各限 500 万泰铢，且转出、转入的账户或钱包必须经核验属于本人，禁止与他人钱包往来；平台须执行 Travel Rule、筛查骡子账户并用链上分析工具追踪高风险钱包，转账金额还要与客户收入和财务状况相符。交易所需披露做市商，经纪商不得为稳定币/泰铢交易对使用流动性提供商，部分场外交易设 300 万泰铢门槛；持牌平台间本人账户互转、经泰国央行批准的企业和做市商等可豁免，纯链上点对点转账不受影响。就在同一天，泰国刚上线让游客用 USDT/USDC 扫 PromptPay 付款的 WORPT，说明东南亚正在「放开稳定币支付场景」与「收紧反洗钱」之间找平衡，做跨境支付、出海收款或加密工具的团队需要关注合规成本。",
+   "links": [
+    "https://www.sec.or.th/EN/Pages/News_Detail.aspx?Lang=EN&NewsNo=253&NewsYear=2026&SECID=13562",
+    "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676",
+    "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange",
+    "https://x.com/i/trending/2121195146473824281"
+   ],
+   "topic": "thailand-sec-stablecoin-daily-cap-2026-11-12",
+   "firstSeen": "2026-11-13T21:30:53+08:00"
   }
  ],
- "lastChecked": "2026-11-13T21:14:32+08:00"
+ "lastChecked": "2026-11-13T21:30:53+08:00"
 }
