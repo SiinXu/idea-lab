@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T00:46:29+08:00",
+ "lastUpdated": "2026-11-14T00:56:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48065,7 +48065,20 @@
    ],
    "topic": "llama-cpp-ggml-v1-0-0-2026-11-13",
    "firstSeen": "2026-11-14T00:46:29+08:00"
+  },
+  {
+   "id": "b313181bfa",
+   "title": "彭博：Anthropic IPO 将中国内地和香港机构投资者挡在门外，多家承销行援引美国武器出口管制（ITAR）拒收订单；认购已超额约 6 倍",
+   "summary": "据彭博 11 月 13 日援引知情人士报道，来自中国内地和香港的机构投资者被排除在 Anthropic IPO 认购之外：多家承销银行拒绝接单，或认为这些订单基本拿不到配售，部分原因是美国《国际武器贸易条例》（ITAR）的限制。Anthropic 的招股书并未写明针对中国投资者的限制，公司拒绝置评。这一安排与此前 SpaceX IPO 相同——当时内地和香港投资者无法参与首发，但上市后可在二级市场买入。仍有人在想办法：一位中国科技公司创始人的家族办公室正尝试通过英属维尔京群岛信托下单，也有人考虑用 SPV 或收益互换间接参与。Anthropic IPO 计划 11 月 18 日定价、次日在纳斯达克以代码 ANT 交易，由高盛和摩根士丹利牵头、另有 20 家银行参与，连同私募最多募资 904 亿美元、估值约 1.4 万亿美元，目前认购需求约为可发行股数的 6 倍。中美 AI 竞争正从技术和芯片延伸到资本市场准入。",
+   "links": [
+    "https://archive.ph/wQmbq",
+    "https://in.investing.com/news/stock-market-news/anthropic-ipo-shuts-out-chinese-investors-amid-uschina-tensions-5703680",
+    "https://en.theblockbeats.news/flash/377267",
+    "https://x.com/i/trending/2121278015649075425"
+   ],
+   "topic": "anthropic-ipo-excludes-china-hk-investors-2026-11-13",
+   "firstSeen": "2026-11-14T00:56:48+08:00"
   }
  ],
- "lastChecked": "2026-11-14T00:46:29+08:00"
+ "lastChecked": "2026-11-14T00:56:48+08:00"
 }
