@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T15:13:05+08:00",
+ "lastUpdated": "2026-11-13T16:33:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47764,7 +47764,19 @@
    ],
    "topic": "brave-search-api-x402-2026-11-12",
    "firstSeen": "2026-11-13T15:13:05+08:00"
+  },
+  {
+   "id": "d08dadd9c4",
+   "title": "20 亿下载的 Minecraft 模组作者 YUNG 公开用 Claude Opus 救活搁置 5 年的 YUNG's Roads，却纠结「该不该发布」，社区围绕 AI 辅助开发吵翻",
+   "summary": "知名 Minecraft 模组作者 YUNG（作品累计下载超 20 亿次）11 月 10 日在 X 上坦白：自 2021 年断断续续开发的道路生成模组 YUNG's Roads 迟迟做不完，几个月前交给 Claude Opus 排查后，才发现几个从根上搞乱算法的隐蔽 bug。之后他几乎每天用 Claude 迭代：重构和优化道路生成算法、写文档、做游戏内测试，并做了一个实时调参的 Road Tuning 界面（地图上直接看路网，可调道路如何沿地形走、怎么过河、用什么材质）。他强调核心算法和创意仍是自己的，但担心反 AI 的「猎巫」，公开问大家还要不要发布。回复两极分化：有人支持创作者自由选工具，有人拒绝任何 AI 参与。这件事和此前《Big Walk》因 AI 修 bug 遭 Steam 差评的风波一起，把「老手用 AI 收尾 vs 氛围编程」的边界、要不要主动标注 AI 使用推上了热议，也提示做游戏和模组工具的团队：AI 辅助调试、可视化调参工具有真实需求，但面向玩家的沟通方式很关键。",
+   "links": [
+    "https://www.minecraft-france.fr/yung-ia-mods-minecraft-polemique/",
+    "https://www.whatpeoplemade.com/i/minecraft-modder-finished-long-delayed-roads-mod-with-cl-763570.html",
+    "https://x.com/i/trending/2120789048759582737"
+   ],
+   "topic": "yung-roads-claude-opus-2026-11-10",
+   "firstSeen": "2026-11-13T16:33:46+08:00"
   }
  ],
- "lastChecked": "2026-11-13T15:13:05+08:00"
+ "lastChecked": "2026-11-13T16:33:46+08:00"
 }
