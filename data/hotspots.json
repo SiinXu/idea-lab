@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T00:56:48+08:00",
+ "lastUpdated": "2026-11-14T01:11:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48078,7 +48078,20 @@
    ],
    "topic": "anthropic-ipo-excludes-china-hk-investors-2026-11-13",
    "firstSeen": "2026-11-14T00:56:48+08:00"
+  },
+  {
+   "id": "66162cadea",
+   "title": "巴西国有银行旗下保险公司 Caixa Vida e Previdência 遭入侵：全部 760 万活跃客户的姓名和税号 CPF 被拷走，部分含地址、电话、邮箱和生日",
+   "summary": "巴西国有银行 Caixa 体系内的寿险与养老金公司 Caixa Vida e Previdência（CVP）11 月 6 日发现遭未授权访问，客户登记数据库被复制到公司系统之外；其上市股东 Caixa Seguridade 于 11 月 12 日发布市场公告披露。已确认泄露的是现有和前客户的姓名与 CPF（巴西个人税号），覆盖全部 760 万活跃客户，部分记录还包含地址、电话、电子邮箱和出生日期。公司称初步评估没有证据显示保单金额、养老金余额、银行信息或密码等金融与认证数据被盗。CVP 已向巴西数据保护局 ANPD 报告（发现后 5 天），聘请外部取证公司调查、监控数据是否被公开，但只直接通知了电话或邮箱被泄露的客户和弱势群体，提醒警惕冒充保险、养老金、赔付名义的诈骗。这次事件在 Hacker News 上热度上升，再次说明「姓名 + 税号」级别的数据泄露足以支撑大规模精准诈骗。",
+   "links": [
+    "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+    "https://g1.globo.com/tecnologia/noticia/2026/11/12/caixa-ataque-dados-pix.ghtml",
+    "https://www.caixavidaeprevidencia.com.br/seguranca",
+    "https://cybersixt.com/originals/caixa-vida-e-previdencia-breach-exposes-data-of-7-6-million-customers"
+   ],
+   "topic": "caixa-vida-previdencia-breach-7-6m-2026-11-12",
+   "firstSeen": "2026-11-14T01:11:30+08:00"
   }
  ],
- "lastChecked": "2026-11-14T00:56:48+08:00"
+ "lastChecked": "2026-11-14T01:11:30+08:00"
 }
