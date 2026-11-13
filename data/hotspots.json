@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T02:15:19+08:00",
+ "lastUpdated": "2026-11-14T02:28:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48150,7 +48150,19 @@
    ],
    "topic": "fbi-facestealer-north-korea-400m-2026-11-13",
    "firstSeen": "2026-11-14T02:15:19+08:00"
+  },
+  {
+   "id": "c10693d4e7",
+   "title": "Deepnote 开源「主动型智能体」基准 Agent Initiative Benchmark：12 个模型在模拟公司 Slack 里比谁会适时出手，GPT-6 Astra 8.97 分居首，Grok 4.7 垫底",
+   "summary": "Deepnote 发布并开源 Agent Initiative Benchmark v1.0，测的是 AI 同事能否「不用叫也知道何时帮忙」。测试设在合成公司 PageMantle，它有 6 年业务记录、约 10GB 数据，分布在 Slack、Linear、Notion、HubSpot、Stripe、PostHog、BigQuery、Snowflake 等 11 个服务里（数据已放到 Hugging Face）。智能体从 Slack 对话出发，自行调查，再决定发不发言、说什么、@ 谁；如果问题已经有人处理，正确做法是保持沉默。50 个场景、8 类任务，由两个 LLM 评审打 0–10 分。结果：GPT-6 Astra 8.97（每任务 0.69 美元），GPT-6.1 Sol 8.65（仅 0.11 美元），Claude Fable 5.2 8.17（1.87 美元），之后依次是 Opus 5.5、Fable 5.1、Sonnet 5.5，Gemini 4 Argon 5.60，Grok 4.7 4.51 垫底。几个发现：每任务成本相差约 430 倍，最贵的三个模型只排第 3–5；几乎所有模型最弱的都是「该闭嘴时不闭嘴」；工具调用越多，分数反而越低。对做常驻 Slack/办公智能体的团队来说，这是选模型和控成本的直接参考。",
+   "links": [
+    "https://deepnote.com/research/benchmark",
+    "https://github.com/deepnote/agent-initiative-benchmark",
+    "https://x.com/i/trending/2121270359353688214"
+   ],
+   "topic": "deepnote-agent-initiative-benchmark-2026-11-13",
+   "firstSeen": "2026-11-14T02:28:00+08:00"
   }
  ],
- "lastChecked": "2026-11-14T02:15:19+08:00"
+ "lastChecked": "2026-11-14T02:28:00+08:00"
 }
