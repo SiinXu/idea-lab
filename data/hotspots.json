@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T23:24:22+08:00",
+ "lastUpdated": "2026-11-14T00:00:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48013,7 +48013,20 @@
    ],
    "topic": "bloomberg-alice-huang-longteng-h800-servers-2026-11-13",
    "firstSeen": "2026-11-13T23:24:22+08:00"
+  },
+  {
+   "id": "44911b66e9",
+   "title": "应用材料财报创纪录：季度营收 104.1 亿美元同比 +53%，预计 2027 年晶圆厂设备需求增长超 30%、云厂商资本开支破 1 万亿美元",
+   "summary": "半导体设备龙头应用材料（AMAT）11 月 12 日盘后公布 2026 财年第四季度业绩：营收 104.1 亿美元，同比增长 53%，创历史新高，高于市场预期的 103 亿美元；非 GAAP 每股收益 4.16 美元，同比增长 92%；全年营收 344.5 亿美元。增长主要来自 DRAM（DRAM 创新高，占半导体系统收入 33%）和先进封装（预计 2026 年增长约 90%，由 HBM 与 AI 需求驱动）。公司给出的下季度营收指引为 111 亿美元 ± 5 亿美元；管理层预计 2027 年晶圆厂设备（WFE）需求增长超过 30%、云厂商资本开支超过 1 万亿美元，中国收入占比将降到 25% 以下，并计划到 2028 年把系统产能翻倍。CEO Gary Dickerson 称 AI 持续带来半导体增量需求。公司还透露，内部软件开发者用 AI 工具后平均效率提升超 40%，月度 token 用量一年增长 50 多倍。在黄仁勋辞职引发芯片股抛售的当口，这份财报是「AI 基建需求仍在加速」的有力信号。",
+   "links": [
+    "https://www.appliedmaterials.com/us/en/newsroom/press-releases/111226-applied-materials-announces-fourth-qtr-fiscal-year-end-2026-results.html",
+    "https://www.fool.com/earnings/call-transcripts/2026/11/13/applied-amat-q4-2026-earnings-call-transcript/",
+    "https://finance.yahoo.com/markets/stocks/articles/applied-materials-fiscal-q4-earnings-212652867.html",
+    "https://x.com/i/trending/2120988710800150769"
+   ],
+   "topic": "applied-materials-q4-fy26-record-2026-11-12",
+   "firstSeen": "2026-11-14T00:00:07+08:00"
   }
  ],
- "lastChecked": "2026-11-13T23:24:22+08:00"
+ "lastChecked": "2026-11-14T00:00:07+08:00"
 }
