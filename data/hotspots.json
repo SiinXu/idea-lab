@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T07:13:44+08:00",
+ "lastUpdated": "2026-11-14T07:58:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48304,7 +48304,19 @@
    ],
    "topic": "nws-nationwide-comms-outage-amid-faa-stop-2026-11-13",
    "firstSeen": "2026-11-14T07:13:44+08:00"
+  },
+  {
+   "id": "1a63cae39c",
+   "title": "FAA 停飞最新进展：官方确认是「临时电信中断」，国土安全部称「没有遭攻击的迹象」；已取消 1000 多班、延误近 1 万班，波及加拿大和欧洲航班，停飞令仍未解除",
+   "summary": "美国全国停飞事件的后续。FAA 在 X 上确认，原因是「临时电信中断」，出于谨慎暂停了所有航班，并称「每一架飞机都有下落」，入境国际航班逐个处理。美国国土安全部部长 Markwayne Mullin 公开表示「没有迹象显示这是针对美国的攻击」「这不是又一个 9·11」，并称停飞与正在发生的微软故障无关。据 FlightAware 统计，各航司已取消 1000 多个航班、延误近 1 万个，影响已经扩散到美国境外，加拿大和欧洲也有航班被取消；停飞令发布时约 4000 架飞往美国机场的飞机在空中，均获准降落，但有乘客反映落地后不能滑行到登机口。夏威夷交通部称夏威夷航空和阿拉斯加航空的美国西海岸航线将恢复。截至美东约 19:00，FAA 通告仍写着「直至另行通知」，没有官方解除时间（通告有效期到美东 11 月 14 日 4:30）。更正此前的说法：FAA 状态页上没有在列的航路事件，并不代表停飞已经解除。这是 2001 年 9·11 以来第二次全国性停飞。",
+   "links": [
+    "https://www.bbc.com/news/live/c6z9dwn12037t",
+    "https://www.staradvertiser.com/2026/11/13/breaking-news/faa-issues-national-ground-stop-due-to-extraordinary-circumstance/",
+    "https://news.aa.com/news/news-details/2026/Update-on-FAAs-nationwide-ground-stop/"
+   ],
+   "topic": "faa-ground-stop-telecom-outage-no-attack-2026-11-13",
+   "firstSeen": "2026-11-14T07:58:33+08:00"
   }
  ],
- "lastChecked": "2026-11-14T07:13:44+08:00"
+ "lastChecked": "2026-11-14T07:58:33+08:00"
 }
