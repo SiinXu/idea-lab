@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T21:59:38+08:00",
+ "lastUpdated": "2026-11-13T22:11:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47948,7 +47948,20 @@
    ],
    "topic": "bill-gates-ft-ai-cyberattack-warning-2026-11-13",
    "firstSeen": "2026-11-13T21:59:38+08:00"
+  },
+  {
+   "id": "d81074c7ae",
+   "title": "路透调查：中国逾 32 亿美元 AI 算力项目仍围绕受限的英伟达 H100/H200/H800 建设，与英伟达「已被挤出中国数据中心市场」的说法形成反差",
+   "summary": "路透 11 月 13 日发布独家调查：审阅 150 多份中国招标公告、投资计划、施工合同和公司披露后，发现多个指定使用英伟达受美国出口管制芯片（H100、H200、H800）的 AI 算力项目，合计报告金额超过 230 亿元人民币（约 32 亿美元）。其中包括福建仙游拟建的 62 亿元算力中心（指定 H100）、国机集团子公司中标的陕西 30 亿元项目（H100/H200）、吉林 22.6 亿元项目（H100 与国产芯片混用，约 80% 靠银行贷款）、内蒙古拟装 625 台 H200 服务器的 15 亿元项目，以及甘肃一个约 3,072 颗英伟达芯片的 11.6 亿元施工合同；无锡的 H800 集群 2025 年 3 月已投入运行，深圳大学、被美国列入黑名单的西北工业大学也采购过少量 H100/H200。路透强调，金额包含建筑和电力等基础设施，不只是芯片支出，招标写了型号也不代表芯片已交付。在黄仁勋刚辞去 CEO、美国国会追问出口合规之际，这些依赖受限芯片的项目面临延期、成本上升或被迫改用国产芯片的风险。",
+   "links": [
+    "https://www.investing.com/news/stock-market-news/exclusivehuang-exit-and-us-scrutiny-imperil-3-billion-in-chinese-ai-projects-reliant-on-nvidia-5024462",
+    "https://www.investing.com/news/stock-market-news/chinas-3-billionplus-pipeline-of-nvidiapowered-ai-data-centres-5024599",
+    "https://www.telegraphindia.com/world/over-3-billion-in-chinese-ai-projects-use-nvidias-restricted-chips-despite-us-curbs/cid/2189273",
+    "https://x.com/i/trending/2121236566806872301"
+   ],
+   "topic": "reuters-china-ai-projects-restricted-nvidia-chips-2026-11-13",
+   "firstSeen": "2026-11-13T22:11:36+08:00"
   }
  ],
- "lastChecked": "2026-11-13T21:59:38+08:00"
+ "lastChecked": "2026-11-13T22:11:36+08:00"
 }
