@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T18:09:36+08:00",
+ "lastUpdated": "2026-11-13T18:25:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47824,7 +47824,44 @@
    ],
    "topic": "tsmc-employee-data-leak-2026-11-12",
    "firstSeen": "2026-11-13T18:09:36+08:00"
+  },
+  {
+   "id": "44da454e79",
+   "title": "Claude 大面积报错：claude.ai、Claude Code、控制台和 Cowork 登录认证异常，HN 连发「Claude Code 挂了」",
+   "summary": "Anthropic 状态页于 11 月 13 日 09:58（UTC）挂出事故「Elevated errors on claude.ai, Claude Code, and platform.claude.com」，称正在排查用户登录 Claude.ai 和 Claude Code 时的认证问题，影响范围包括 claude.ai、Claude 控制台（platform.claude.com）、Claude Code 和 Claude Cowork。Hacker News 上「Tell HN: Claude Code Is Down」和状态页帖子先后冲上首页。这次故障正好落在 Anthropic IPO 路演、Fable 5.2 刚发布、以及昨天微软 365 和前几天 GitHub 连续故障之后——越来越多团队把编码、写作流程押在单一 AI 服务上，一旦认证层出问题，整条工作流就停摆。对开发者来说，多模型兜底（Opus/Gemini/开源模型切换）、本地缓存会话和「AI 服务状态聚合 + 自动切换」工具的需求会更明显。",
+   "links": [
+    "https://status.claude.com/incidents/nn11wk485zfn",
+    "https://news.ycombinator.com/item?id=50481187",
+    "https://news.ycombinator.com/item?id=50480909"
+   ],
+   "topic": "claude-auth-outage-2026-11-13",
+   "firstSeen": "2026-11-13T18:25:15+08:00"
+  },
+  {
+   "id": "d8dba68fd0",
+   "title": "印度泰米尔纳德邦从公共图书馆下架 70,674 本疑似 AI 生成的「假书」，价值约 7 千万卢比，部长称是「印度首起 AI 骗局」",
+   "summary": "事情起于作家佩鲁马尔·穆鲁甘（Perumal Murugan）在哥印拜陀新开的 Periyar Arivulagam 图书馆发现：泰米尔语区约 1,800 本书来自一家小出版社 Agal Vilakku，作者陌生、定价虚高、ISBN 可疑，内容还有把古典作品当成诗人、张冠李戴作者等明显错误。马德拉斯高等法院已下令反贪部门立案调查并冻结相关出版社账户。泰米尔纳德邦图书馆部门 11 月 13 日称，全邦已下架 70,674 本疑似假书，当地媒体估算价值约 7 千万卢比（约 7 crore）；教育部长 A. Rajmohan 称这可能是「印度首起 AI 骗局」，并把责任归于上届政府的采购。BBC 指出目前仍不确定这些书是否确实由 AI 生成。这起事件说明 AI 批量造书已从亚马逊自出版蔓延到政府采购，「内容真伪检测、ISBN/出版社核验、采购审计」会成为图书馆和出版业的新刚需。",
+   "links": [
+    "https://www.bbc.com/news/articles/c54gne3plvrxo",
+    "https://www.dinamani.com/tamilnadu/2026/Nov/13/70674-fake-books-removed-from-libraries-in-tamilnadu",
+    "https://timesofindia.indiatimes.com/city/chennai/libraries-busy-identifying-removing-tainted-books-from-racks/articleshow/135769781.cms",
+    "https://x.com/i/trending/2120765912139636877"
+   ],
+   "topic": "tamil-nadu-ai-fake-library-books-2026-11",
+   "firstSeen": "2026-11-13T18:25:15+08:00"
+  },
+  {
+   "id": "652713915a",
+   "title": "泰国让游客用 USDT/USDC 扫码付款：监管沙盒应用 WORPT 把稳定币换成泰铢走 PromptPay，商家照常收泰铢",
+   "summary": "泰国证监会的 Tourist DigiPay 监管沙盒下，WORPT 应用已上线，由正大集团家族成员创办的 Waan Exchange 和电子钱包商 Wipay 联合运营，Tether 参与合作。外国游客用带芯片的电子护照完成刷脸 KYC 后，把以太坊上的 USDT/USDC 转入，按 1.5%（含税）手续费换成泰铢，就能扫描全泰国通用的 Thai QR PromptPay 付款，商家照常收到泰铢、无需接触加密货币；钱包余额上限 10 万泰铢、不能提现，Visa 预付卡计划 11 月中推出实体卡。《海峡时报》报道称，这是在游客数量和旅游收入下滑之际推出的试点，主攻韩国、日本、中东和东南亚的加密货币持有者，目标首年 20 万用户、18 个月带动 150 亿泰铢消费，话题在 X 上热议。稳定币「入境即消费」一旦跑通，东南亚其他旅游国可能跟进，也给跨境支付、旅行类 App 和面向游客的商户工具带来新场景。",
+   "links": [
+    "https://www.straitstimes.com/asia/se-asia/thailand-lets-tourists-turn-crypto-into-baht-for-spending",
+    "https://www.globenewswire.com/news-release/2026/10/26/3387817/0/en/worpt-now-available-under-thailand-s-tourist-digipay-regulatory-sandbox.html",
+    "https://x.com/i/trending/2121130519500849509"
+   ],
+   "topic": "thailand-worpt-stablecoin-tourist-pay-2026-11",
+   "firstSeen": "2026-11-13T18:25:15+08:00"
   }
  ],
- "lastChecked": "2026-11-13T18:09:36+08:00"
+ "lastChecked": "2026-11-13T18:25:15+08:00"
 }
