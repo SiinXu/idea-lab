@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T12:58:06+08:00",
+ "lastUpdated": "2026-11-13T13:56:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47713,7 +47713,20 @@
    ],
    "topic": "big-walk-steam-review-bomb-rebound-2026-11-12",
    "firstSeen": "2026-11-13T12:58:06+08:00"
+  },
+  {
+   "id": "24d127b05a",
+   "title": "彭博：三星电子洽购美国数据中心冷却厂商 Modine，市值约 56 亿美元，消息传出后盘后股价飙升约 28%",
+   "summary": "据彭博援引知情人士，三星电子正与总部位于威斯康星州的 Modine 洽谈收购，交易最快可能在未来几周达成，但尚无最终决定，谈判可能破裂，也可能出现其他竞购方。Modine 周四收盘 106.10 美元、市值约 56 亿美元，消息传出后盘后涨约 28% 至 135 美元以上。Modine 10 月刚把汽车与工业热管理业务分拆出去，专注数据中心冷却与商用暖通；7–9 月数据中心业务营收 4.397 亿美元、同比增 95%，主要来自北美超大规模云厂商，产品包括冷水机组、液冷冷却液分配单元（CDU）和干式冷却器，11 月 11 日刚在得州 Grand Prairie 新厂开始量产 2–3MW 冷水机组。三星去年已以 15 亿欧元收购德国暖通厂商 FläktGroup（参与 Stargate 项目），此举被视为三星继续押注 AI 数据中心「散热」这条卖铲子赛道；大金、LG、Vertiv 也在加码。",
+   "links": [
+    "https://news.bloomberglaw.com/tech-and-telecom-law/samsung-said-in-talks-to-acquire-data-center-cooling-firm-modine",
+    "https://www.investing.com/news/stock-market-news/samsung-in-talks-to-buy-data-center-cooling-firm-modine-bloomberg-news-reports-5023794",
+    "https://biz.chosun.com/en/en-it/2026/11/13/7T3RZVTN2ZGNHOQ7GX2XPBYGNY/",
+    "https://x.com/i/trending/2121041375902777496"
+   ],
+   "topic": "samsung-modine-datacenter-cooling-talks-2026-11-12",
+   "firstSeen": "2026-11-13T13:56:57+08:00"
   }
  ],
- "lastChecked": "2026-11-13T12:58:06+08:00"
+ "lastChecked": "2026-11-13T13:56:57+08:00"
 }
