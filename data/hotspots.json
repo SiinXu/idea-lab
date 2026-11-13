@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T02:28:00+08:00",
+ "lastUpdated": "2026-11-14T02:46:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48162,7 +48162,20 @@
    ],
    "topic": "deepnote-agent-initiative-benchmark-2026-11-13",
    "firstSeen": "2026-11-14T02:28:00+08:00"
+  },
+  {
+   "id": "1be6107d70",
+   "title": "Cognition 推出 Devin Apps：一句话让 Devin 做出内部工具或看板，直接托管在它的云电脑上，团队凭稳定链接登录使用",
+   "summary": "Cognition 11 月 13 日发布 Devin Apps。用户在侧边栏描述需要什么工具（也可以选指标看板、项目状态页、审核队列等模板），Devin 会先提问澄清，再搭建并上线，生成一个固定网址；之后每次修改都发布新版本、网址不变，新版本启动失败会自动回退到上一版。应用直接跑在 Devin 的机器上，能用团队现有的 MCP、集成和代码库，任何能提供 HTTP 服务的技术栈都行，可在同机运行 SQLite/Postgres，还能按计划自动拉取新数据或随分支变化重新部署。访问必须登录 Devin，可限定到指定成员、整个组织或整个企业，永不公开。借助内存快照，无人使用时机器休眠、打开时唤醒（首次加载要几秒），按机器唤醒时长计费。官方定位是内部工具、看板和预发布环境，不适合高流量生产服务；目前逐步开放。对比 Lovable、v0 等，这是「AI 工程师自己托管内部小工具」的新路线。",
+   "links": [
+    "https://devin.ai/blog/devin-apps",
+    "https://docs.devin.ai/product-guides/devin-apps",
+    "https://www.investing.com/news/stock-market-news/cognition-launches-devin-apps-for-team-web-application-building-93CH-5026196",
+    "https://x.com/i/trending/2121297584430141715"
+   ],
+   "topic": "devin-apps-cognition-2026-11-13",
+   "firstSeen": "2026-11-14T02:46:27+08:00"
   }
  ],
- "lastChecked": "2026-11-14T02:28:00+08:00"
+ "lastChecked": "2026-11-14T02:46:27+08:00"
 }
