@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T18:25:15+08:00",
+ "lastUpdated": "2026-11-13T19:38:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47861,7 +47861,19 @@
    ],
    "topic": "thailand-worpt-stablecoin-tourist-pay-2026-11",
    "firstSeen": "2026-11-13T18:25:15+08:00"
+  },
+  {
+   "id": "49f21649af",
+   "title": "《华尔街日报》：黄仁勋下台前曾当众贬低接班人克雷斯「像车灯前的鹿」，其女婿主导为买不起芯片的新云厂商提供融资担保",
+   "summary": "《华尔街日报》11 月 13 日报道，今年 8 月黄仁勋召集财务团队开会，讨论英伟达为「买不起芯片的公司」提供担保的问题日益膨胀，会上他打断时任 CFO、现临时 CEO 科莱特·克雷斯的汇报，称她「像车灯前的鹿」、只是「汇报型 CFO」。报道称，这类交易不少由黄仁勋的女婿、1 月升任副总裁的 Nico Caprez 牵头，向新兴云厂商和数据中心开发商提供融资，希望把它们变成长期客户；克雷斯曾追问如何挑选交易、如何给担保定价和计算回报，并在幕后试图约束 Caprez。7 月《华尔街日报》曝出英伟达考虑为 OpenAI 俄亥俄数据中心提供 2500 亿美元担保后，英伟达股价次日跌 5%；随后克雷斯重做方案，把初始承诺砍半，最终 8 月 17 日签约，目前为最多 1050 亿美元的分阶段担保。雅虎财经统计英伟达最新季报所列承诺和担保约 5300 亿美元。黄仁勋离任后，这张「AI 央行」式的担保网由更保守的克雷斯接手，新云厂商的融资成本和 AI 算力扩张节奏都可能受影响；英伟达将于下周二发布财报。",
+   "links": [
+    "https://www.tovima.com/wsj/before-his-ouster-jensen-huang-belittled-the-executive-replacing-him/",
+    "https://finance.yahoo.com/markets/article/jensen-huangs-exit-puts-nvidias-530-billion-web-of-ai-deals-under-the-microscope-153142269.html",
+    "https://x.com/i/trending/2121191997604298888"
+   ],
+   "topic": "wsj-huang-kress-nvidia-guarantees-2026-11-13",
+   "firstSeen": "2026-11-13T19:38:02+08:00"
   }
  ],
- "lastChecked": "2026-11-13T18:25:15+08:00"
+ "lastChecked": "2026-11-13T19:38:02+08:00"
 }
