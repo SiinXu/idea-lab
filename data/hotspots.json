@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T03:45:56+08:00",
+ "lastUpdated": "2026-11-14T04:42:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48228,7 +48228,20 @@
    ],
    "topic": "dwarkesh-rsi-essay-2026-11-13",
    "firstSeen": "2026-11-14T03:45:56+08:00"
+  },
+  {
+   "id": "79d48ebc63",
+   "title": "Perplexity 发布开放权重决策模型 Decider v1.3：新增 Locate 文本片段抽取，零样本重排序在 72 项检索任务上超过 Qwen3-Reranker-8B",
+   "summary": "Perplexity 11 月 13 日发布 pplx-decider-v1.3 和 pplx-decider-flash-v1.3，并公开训练细节。这类「决策模型」不生成长文，专门快速输出结构化判断：评判回答的忠实度、质量和安全性；按难度把请求路由给大模型或小模型；内容审核，以及识别钓鱼和工具输出里的提示词注入；内容过滤和打标签；搜索结果重排序。v1.3 新增 Locate 功能，可按类型或指令从输入中抽取原文片段，并给出字符位置和置信度。训练分三步：先用数百个公开数据集对基于 Qwen3.8-27B 的大模型做全量微调，再用 LoRA 做领域专项强化，最后用 LoRA 加视觉能力；Flash 版是从大模型蒸馏到 Qwen3.5-4B 得到的。评测全部是零样本：内部 200 多项任务，加上覆盖医疗、网络安全、编程、法律、金融等 7 个领域的公开集。在 72 项检索任务上，平均 nDCG@10 为 83.99，比 Qwen3-Reranker-8B 高 1.81 分。模型可以通过 Perplexity Decisions API、Hugging Face 和 OpenRouter 使用。官方建议：需要细致判断时用标准版，量大、标准清晰的分类和路由用 Flash 版（输入价格只有一半）。",
+   "links": [
+    "https://www.perplexity.ai/hub/blog/perplexity-decider",
+    "https://huggingface.co/perplexity-ai/pplx-decider-v1.3",
+    "https://docs.perplexity.ai/docs/decisions/quickstart",
+    "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/"
+   ],
+   "topic": "perplexity-decider-v1-3-2026-11-13",
+   "firstSeen": "2026-11-14T04:42:58+08:00"
   }
  ],
- "lastChecked": "2026-11-14T03:45:56+08:00"
+ "lastChecked": "2026-11-14T04:42:58+08:00"
 }
