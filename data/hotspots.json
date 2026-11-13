@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T17:23:16+08:00",
+ "lastUpdated": "2026-11-13T17:52:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -47801,7 +47801,19 @@
    ],
    "topic": "inkling-2-small-open-weights-2026-11-13",
    "firstSeen": "2026-11-13T17:23:16+08:00"
+  },
+  {
+   "id": "8ffea217fc",
+   "title": "K-pop 女团 H1-KEY 新歌 MV 被指几乎全由 AI 生成，成员辉曙：「我一个镜头都没拍」，粉丝发起 #No_AI_For_H1KEY 抵制",
+   "summary": "韩国女团 H1-KEY 的数字单曲《Unbelievable》于 11 月 13 日发布，但从预告开始就被粉丝指出 MV 带有明显的 AI 生成痕迹：脸部质感像塑料、动作僵硬、武器和服装有典型的生成瑕疵。成员辉曙（Hwiseo）在粉丝聊天平台上直言「这次 MV 我一个镜头都没拍」「那不是我」「也不是我的意见」「一切定下来之后我才看到」，粉丝据此认为公司把成员的脸「贴」进了 AI 视频，类似深度伪造。粉丝账号批评经纪公司拒绝撤下 AI 内容，发起 #No_AI_For_H1KEY，号召不推广 MV、改为支持打歌现场，话题冲上 X 热点。和以往只是海报或预告用 AI 不同，这次是艺人本人公开反对、而且涉及回归的核心 MV，显示 AI 换脸、生成式视频在娱乐工业中的知情同意与肖像权问题正在变得尖锐；做 AI 视频工具的团队也需要考虑授权、标注和真人参与的设计。",
+   "links": [
+    "https://www.koreaboo.com/news/4th-gen-group-become-victims-ai-exploitation-company-sparking-outrage/",
+    "https://kpopfizz.com/news/h1-key-s-unbelievable-comeback-hit-by-ai-backlash-as-hwiseo/",
+    "https://x.com/i/trending/2120566486666207688"
+   ],
+   "topic": "h1key-ai-mv-backlash-2026-11-13",
+   "firstSeen": "2026-11-13T17:52:43+08:00"
   }
  ],
- "lastChecked": "2026-11-13T17:23:16+08:00"
+ "lastChecked": "2026-11-13T17:52:43+08:00"
 }
