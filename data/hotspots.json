@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T07:58:33+08:00",
+ "lastUpdated": "2026-11-14T08:27:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48316,7 +48316,18 @@
    ],
    "topic": "faa-ground-stop-telecom-outage-no-attack-2026-11-13",
    "firstSeen": "2026-11-14T07:58:33+08:00"
+  },
+  {
+   "id": "8e94fbb059",
+   "title": "FAA 停飞续报：航路管制中心逐步恢复，开始分批放行起飞；已取消 1913 班、延误 10494 班；空管 AI 系统 SMART 的承包商声明「停飞与我们无关」",
+   "summary": "美国全国停飞事件的后续。FAA 在美东 18:00 刚过时表示，全国停飞令仍然有效，但「随着航路管制设施恢复，航班可以在与空管系统指挥中心协调后起飞」，也就是开始分批放行。据 ABC News，截至美东 18:04，全美已取消 1913 个航班、延误 10494 个。科技圈关注的一点：FAA 正在全国各设施推广一套名为 SMART 的 AI 空管系统，开发商 AirSpace Intel 在 X 上发表声明，称这次停飞「不是由 SMART 系统、公司的任何产品或我们与 FAA/空管的集成造成的」。达美航空允许周五、周六的乘客免费改签，美联航也免收改签费和票价差（新航班须在 11 月 12 日至 20 日之间）。BBC 援引国土安全部部长的话称，事件与周四开始的全球微软故障无关。截至本条发布，FAA 尚未正式宣布全面解除停飞，航司表示即使解除，恢复正常排班也需要时间。",
+   "links": [
+    "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?entryId=138126644&id=138125140",
+    "https://flowermoundtimes.com/articles/faa-lifts-nationwide-ground-stop-after-communications-failure-mwfm95gn"
+   ],
+   "topic": "faa-ground-stop-phased-departures-smart-ai-2026-11-13",
+   "firstSeen": "2026-11-14T08:27:38+08:00"
   }
  ],
- "lastChecked": "2026-11-14T07:58:33+08:00"
+ "lastChecked": "2026-11-14T08:27:38+08:00"
 }
