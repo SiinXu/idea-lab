@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T11:13:42+08:00",
+ "lastUpdated": "2026-11-14T11:56:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48505,7 +48505,20 @@
    ],
    "topic": "fed-financial-stability-report-ai-top-risk-2026-11-13",
    "firstSeen": "2026-11-14T11:13:42+08:00"
+  },
+  {
+   "id": "bd794a4ec5",
+   "title": "99 美元 AI 戒指 Interface 上线 Kickstarter：拇指一按就能让 Claude、ChatGPT 等 Agent 代办事；X 上称 72 小时 2383 单，比 Oura 首款戒指卖得快",
+   "summary": "AI 硬件初创公司 Natura 的智能戒指 Interface 于 11 月 10 日在 Kickstarter 开启预订，起价 99 美元，不锈钢材质，续航 6–12 天。按一下戒指上的按钮说出需求，就能把任务交给接入的 AI Agent（官方列出 Claude Code、Codex、Meta Muse 等）。它还能录会议、记语音笔记，并监测心率、HRV、血氧、睡眠和体温。任务进度和结果都在配套的 NatureOS 应用里查看，需要授权的操作会先让用户确认。TechCrunch 报道称，3–6 个月免费期后将收取每月 9 美元订阅费，首批面向 iPhone 和 Mac 用户，预计 12 月到 1 月发货。X 上流传的「72 小时 2383 单、超过 Oura 首款戒指」来自社区帖子，尚无官方核实。",
+   "links": [
+    "https://natura.inc/interface",
+    "https://www.kickstarter.com/projects/rollingsquare/interface-ai-smart-ring-for-voice-notes-agents-and-health",
+    "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+    "https://x.com/i/trending/2121420981285839240"
+   ],
+   "topic": "natura-interface-ai-agent-ring-kickstarter-2026-11",
+   "firstSeen": "2026-11-14T11:56:42+08:00"
   }
  ],
- "lastChecked": "2026-11-14T11:13:42+08:00"
+ "lastChecked": "2026-11-14T11:56:42+08:00"
 }
