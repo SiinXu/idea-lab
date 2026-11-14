@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T13:39:08+08:00",
+ "lastUpdated": "2026-11-14T14:00:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48565,7 +48565,19 @@
    ],
    "topic": "pj-ace-nexus-ep8-ai-film-cost-2026-11",
    "firstSeen": "2026-11-14T13:39:08+08:00"
+  },
+  {
+   "id": "26a46cce7c",
+   "title": "Cursor 公布 10 月安全事件复盘：源头是合作方 Fireworks 泄露了 Cursor 发的访问密钥，攻击者顺着训练数据里的明文凭证一路摸进内部工具，最终往扩展市场缓存塞了恶意版 Claude Code 扩展",
+   "summary": "Cursor 11 月 13 日发布调查结果：攻击者拿到 Cursor 发给推理服务商 Fireworks 的一把访问密钥（由 Fireworks 一方泄露），从一个只读存储桶里复制了部分编码智能体轨迹（主要是 2025 年、未开隐私模式、允许用于训练的会话）。其中少数轨迹含未脱敏的 API 凭证，涉及不到 0.01% 的客户；攻击者借此进入 Cursor 使用的部分 SaaS 工具，看到了归档的非生产代码仓库、部分客服记录和用户发给客服的凭证等。10 月 29 日，攻击者用偷来的凭证把伪造的 Anthropic Claude Code 扩展 2.1.312 / 2.1.313 放进 Cursor 扩展市场缓存，约 11 小时后被撤下，最多约 5000 名用户可能装到。Cursor 称隐私模式数据、客户代码仓库、生产系统和官方更新未受影响；已停用该密钥、把全部推理流量迁出 Fireworks、轮换所有内部凭证、重建扩展市场，并逐一通知受影响客户。对开发者的提醒：别把密钥贴进 AI 对话或发给客服，用过的密钥要轮换。",
+   "links": [
+    "https://cursor.com/blog/security-incident-update",
+    "https://www.unite.ai/cursor-traces-breach-to-access-key-exposed-by-fireworks-ai/",
+    "https://x.com/i/trending/2121471160281903283"
+   ],
+   "topic": "cursor-fireworks-key-breach-postmortem-2026-11",
+   "firstSeen": "2026-11-14T14:00:15+08:00"
   }
  ],
- "lastChecked": "2026-11-14T13:39:08+08:00"
+ "lastChecked": "2026-11-14T14:00:15+08:00"
 }
