@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T11:56:42+08:00",
+ "lastUpdated": "2026-11-14T12:17:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48518,7 +48518,29 @@
    ],
    "topic": "natura-interface-ai-agent-ring-kickstarter-2026-11",
    "firstSeen": "2026-11-14T11:56:42+08:00"
+  },
+  {
+   "id": "a9dc79e6aa",
+   "title": "Anthropic 重做 Claude Code「项目」：一句话定目标，协调者自动拆任务、开多条并行线程各自提 PR，并共享长期记忆",
+   "summary": "Anthropic 发布新版 Claude Code Projects（Beta）：在项目里设定目标并接入代码仓库后，由一个「协调者」负责拆分需求、分派给多条并行线程、审查产出并汇总结果，用户可在手机上随时干预，离开电脑后也会继续跑。每条线程都是一个独立的云端 Claude Code 会话，在自己的分支和仓库副本上工作，冲突按普通 PR 合并冲突处理；线程之间共享项目记忆，并新增收纳文件与产出物的「资料库」。首批向部分使用云端会话、且尚无项目的 Pro/Max 用户开放，一周内逐步扩大，Team/Enterprise 随后；官方提醒多线程会更快耗尽用量，本地运行线程「即将推出」。HN 讨论 50+ 条。",
+   "links": [
+    "https://claude.com/resources/articles/projects-redesigned",
+    "https://news.ycombinator.com/item?id=50492141"
+   ],
+   "topic": "claude-code-projects-parallel-threads-2026-11",
+   "firstSeen": "2026-11-14T12:17:17+08:00"
+  },
+  {
+   "id": "7039aca8db",
+   "title": "英伟达董事 Mark Stevens 在黄仁勋丑闻爆发前数周抛售约 9.46 亿美元股票，且未申报预设交易计划",
+   "summary": "据 Moneywise/雅虎财经援引 SEC 文件，英伟达第二大股东、董事 Mark Stevens 在 2026 年 8 月 31 日至 9 月 18 日分三批卖出约 420 万股，套现约 9.46 亿美元（成交价约 220–234 美元），且这些交易没有使用 10b5-1 预设交易计划。文章指出没有计划本身不一定违规，Stevens 仍持有约 2750 万股。黄仁勋已于 11 月 12 日辞职，科莱特·克雷斯任临时 CEO；11 月 13 日英伟达股价约 163 美元，自 10 月初以来市值蒸发约 1.7 万亿美元。HN 上该帖 2 小时内冲上首页。",
+   "links": [
+    "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+    "https://news.ycombinator.com/item?id=50492993"
+   ],
+   "topic": "nvidia-director-stevens-stock-sale-2026-11",
+   "firstSeen": "2026-11-14T12:17:17+08:00"
   }
  ],
- "lastChecked": "2026-11-14T11:56:42+08:00"
+ "lastChecked": "2026-11-14T12:17:17+08:00"
 }
