@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T12:17:17+08:00",
+ "lastUpdated": "2026-11-14T13:16:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48540,7 +48540,20 @@
    ],
    "topic": "nvidia-director-stevens-stock-sale-2026-11",
    "firstSeen": "2026-11-14T12:17:17+08:00"
+  },
+  {
+   "id": "61640531ee",
+   "title": "Amodei 在摩根大通总部与 Jamie Dimon 对谈：称算力采购是 Anthropic「最深的经营难题」，上市就是为了多留现金缓冲，并要「少承诺、多兑现」",
+   "summary": "11 月 13 日（美东），Anthropic CEO Dario Amodei 在摩根大通曼哈顿总部与 CEO Jamie Dimon 进行直播对谈，这是其 IPO 路演最后几站之一。他说算力是公司「最深的经营难题」：必须在不知道需求多大时提前数年锁定数据中心，因此「倾向于少买」，不够再补；被问为何现在上市，他表示更多现金能在两者之间留出缓冲，公司并不追求最高估值，而是要「少承诺、多兑现」。他还称模型已从 2023 年做不好高中数学进步到挑战菲尔兹奖级难题，生物医学会走同样的路，临床试验和审批会「先慢后快」地被攻克。据其 IPO 网站，Anthropic 预计周三定价、11 月 19 日（周四）开始交易，连同私募最多融资 904 亿美元，估值约 1.4 万亿美元。X 上相关讨论正在升温。",
+   "links": [
+    "https://finance.yahoo.com/markets/article/anthropic-ceo-dario-amodei-aims-to-underpromise-and-overdeliver-as-ipo-valuation-drops-below-2t-hopes-181234804.html",
+    "https://www.cnbc.com/video/2026/11/13/anthropic-ceo-amodei-speaks-with-jpmorgan-ceo-dimon-about-compute-commitments.html",
+    "https://www.investing.com/news/stock-market-news/anthropic-ceo-discusses-ai-safety-and-enterprise-adoption-5026259",
+    "https://x.com/i/trending/2121423092043940006"
+   ],
+   "topic": "amodei-dimon-jpmorgan-ipo-talk-2026-11",
+   "firstSeen": "2026-11-14T13:16:33+08:00"
   }
  ],
- "lastChecked": "2026-11-14T12:17:17+08:00"
+ "lastChecked": "2026-11-14T13:16:33+08:00"
 }
