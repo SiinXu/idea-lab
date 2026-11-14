@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T20:16:21+08:00",
+ "lastUpdated": "2026-11-14T20:55:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48622,7 +48622,20 @@
    ],
    "topic": "claude-pokemon-fangame-refusal",
    "firstSeen": "2026-11-14T20:16:21+08:00"
+  },
+  {
+   "id": "5286178b1d",
+   "title": "传闻：谷歌下一代大模型 Gemini 4 Krypton 已在 Arena 匿名测试，网友晒出 SVG、纯 JS 物理与音效作品，称将压过 Carbon，官方尚未确认",
+   "summary": "Hydrogen（11 月 12 日）和 Carbon 刚发布，X 上又开始流传谷歌下一代模型「Gemini 4 Krypton」。爆料帖（约 3.4 万浏览）称它正在 Arena 匿名测试，推理、编程和智能体能力都会明显提升。测试者 Tim Jayas 说自己拿到了「第一个检查点」，排序是 Krypton > Carbon > Argon > Hydrogen，并晒出用它生成的动画和《蒙娜丽莎》SVG；也有人晒出纯 JS 写的「植物杂志」页面，物理效果和音效都由代码生成。中文圈有人传「今晚发布、碾压 Fable 5.2」，X 的新闻摘要则说正式版预计下月。以上全部来自网友爆料和匿名对战结果，谷歌没有任何官方消息，发布时间和实际表现都待核实。看点：谷歌约一个月内连发 Argon、Carbon、Hydrogen，迭代节奏明显加快。",
+   "links": [
+    "https://x.com/adityaa_behera/status/2121517752154497311",
+    "https://x.com/TimJayas/status/2121555445643096066",
+    "https://x.com/abhinavflac/status/2121586801345441983",
+    "https://x.com/i/trending/2121586219159261193"
+   ],
+   "topic": "gemini-4-krypton-leak",
+   "firstSeen": "2026-11-14T20:55:08+08:00"
   }
  ],
- "lastChecked": "2026-11-14T20:16:21+08:00"
+ "lastChecked": "2026-11-14T20:55:08+08:00"
 }
