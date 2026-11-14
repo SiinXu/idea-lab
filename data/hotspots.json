@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T13:16:33+08:00",
+ "lastUpdated": "2026-11-14T13:39:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48553,7 +48553,19 @@
    ],
    "topic": "amodei-dimon-jpmorgan-ipo-talk-2026-11",
    "firstSeen": "2026-11-14T13:16:33+08:00"
+  },
+  {
+   "id": "9970c5927e",
+   "title": "AI 短片《Nexus》第 8 集花了 10.27 万美元、45 天：PJ Ace 称「终于解决了 AI 拍片」，网友吵翻——有人两天、79 美元就做出同类片段",
+   "summary": "AI 影视创作者 PJ Ace（PJ Accetturo）11 月 13 日发布科幻系列《Nexus》第 8 集《越狱》上篇（约 5 分钟），致敬宫崎骏《风之谷》，由 Beau Fipke 执导，Dreamina 赞助。他自称本集耗资 102,725 美元、45 天完成，其中约 80% 是人工、20% 是生成费用，并公开整套流程：先让 Claude 列出所需角色、道具和载具清单，再用图像模型大量试稿、用 Seedream 5.5 出 21:9「变形宽银幕」质感的场景图，最后用 Seedance 做动画，音频和镜头语言是本集重点。上篇发布后在 X 上引发争论：支持者认为音画质量明显进步，批评者认为是「烧钱炫技」、情感单薄、像《星球大战》的翻版，还有创作者称用 79 美元、两天就做出了类似效果。中下篇将在之后两周陆续发布。成本数字为创作者自报。",
+   "links": [
+    "https://threadreaderapp.com/thread/2121249226575511854",
+    "https://latentmatinee.com/films/nexus-prison-break-part-one/",
+    "https://x.com/i/trending/2121342496508670356"
+   ],
+   "topic": "pj-ace-nexus-ep8-ai-film-cost-2026-11",
+   "firstSeen": "2026-11-14T13:39:08+08:00"
   }
  ],
- "lastChecked": "2026-11-14T13:16:33+08:00"
+ "lastChecked": "2026-11-14T13:39:08+08:00"
 }
