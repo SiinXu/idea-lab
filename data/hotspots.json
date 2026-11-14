@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T21:16:17+08:00",
+ "lastUpdated": "2026-11-14T21:57:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48669,7 +48669,18 @@
    ],
    "topic": "theo-ai-makes-software-more-stable-2026-11-14",
    "firstSeen": "2026-11-14T21:16:17+08:00"
+  },
+  {
+   "id": "07afec2ab7",
+   "title": "EFF 发文批评 AI 眼镜、手表和录音挂件：「一直在录」的设备把旁人的隐私也变成了你的选择，HN 热度上升",
+   "summary": "电子前哨基金会（EFF）11 月 13 日发文，点名 Meta 和谷歌的 AI 智能眼镜、Apple Watch 的 Audio Intelligence 全天转写，以及亚马逊 Bee 可全天录音转写的设备，还有一批戒指、吊坠类 AI 记录硬件。文章认为，厂商讲的隐私保护只照顾设备主人，被拍、被录的旁人既不知情也无法退出；执法机构迟早会要求调取这些转写和摘要；而且「默认被记录」会改变朋友、同事间说话的社交规范。谷歌产品负责人也承认，仅向旁人发提醒「反而让人无所适从」。EFF 建议用户只在获得同意时使用，并向苹果等厂商提交反馈。Hacker News 上热度正在上升。看点：随身 AI 记录硬件和「旁观者同意」机制之间的冲突，可能成为监管和产品设计的下一个焦点。",
+   "links": [
+    "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+    "https://news.ycombinator.com/item?id=50496602"
+   ],
+   "topic": "eff-ambient-ai-wearables-bystander-privacy-2026-11-13",
+   "firstSeen": "2026-11-14T21:57:09+08:00"
   }
  ],
- "lastChecked": "2026-11-14T21:16:17+08:00"
+ "lastChecked": "2026-11-14T21:57:09+08:00"
 }
