@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T09:47:21+08:00",
+ "lastUpdated": "2026-11-14T09:56:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48398,7 +48398,54 @@
    ],
    "topic": "normal-ai-drone-one-week-2026-11-13",
    "firstSeen": "2026-11-14T09:47:21+08:00"
+  },
+  {
+   "id": "ec9b176990",
+   "title": "FAA 正式取消全国停飞令：空管指挥中心公告于美东 20:19（UTC 01:19）解除，航班陆续恢复",
+   "summary": "FAA 空中交通管制系统指挥中心（ATCSCC）发布第 005 号公告：「FAA 指挥中心全国停飞令已取消」，生效时间为 UTC 11 月 14 日 01:19，即美东周五 20:19。此前因空管设施「临时电信中断」，美国在下午约 4 点发布自 9·11 以来第二次全国停飞，导致上万航班延误、近两千班取消，Amtrak 订票系统也被涌来的改签旅客挤瘫。停飞令虽已解除，航司表示机组和机位错位要过一段时间才能理顺，周末仍可能有连锁延误。Hacker News 上相关帖子正在升温。",
+   "links": [
+    "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+    "https://news.ycombinator.com/item?id=50492601"
+   ],
+   "topic": "faa-nationwide-ground-stop-lifted-2026-11-14",
+   "firstSeen": "2026-11-14T09:56:45+08:00"
+  },
+  {
+   "id": "a5dd2195d6",
+   "title": "Google Antigravity 推出 Dynamic Workflows：让 AI 先写一段可审阅的 Python 脚本，再按脚本并行或串行指挥一群子智能体",
+   "summary": "谷歌的 AI 编程平台 Antigravity 开始灰度上线 Dynamic Workflows（App v2.32.0，11 月 13 日）。用户输入 /run-workflow 或直接用自然语言描述任务，主智能体就会写一段短 Python 脚本，用 parallel() 并行、pipeline() 串行来调度子智能体，比如每个改动文件派一个审阅者，或者「先写失败测试再修代码」。脚本运行前要经用户批准，子智能体各自在独立对话里工作，按 JSON Schema 返回结构化结果，不会污染主对话的上下文；跑通的脚本可以存进项目里反复复用。谷歌称这是「确定性的控制流，而不是会漂移的长对话」。目前仅对 Google AI Pro / Ultra 用户开放，旧版 Markdown 工作流同时被弃用。",
+   "links": [
+    "https://antigravity.google/docs/dynamic-workflows/",
+    "https://agenticfeed.io/google-antigravity-dynamic-workflows-scripted-subagents/",
+    "https://x.com/i/trending/2121353946925346862"
+   ],
+   "topic": "google-antigravity-dynamic-workflows-2026-11-13",
+   "firstSeen": "2026-11-14T09:56:45+08:00"
+  },
+  {
+   "id": "53159014de",
+   "title": "Sierra 发布「个人智能体协议」Poppy 1.0：Shopify 为全部商家默认开启，Meta 的 Muse 智能体访问每个网站都会先找 Poppy",
+   "summary": "客服 AI 公司 Sierra 发布 Personal Agent Protocol（Poppy）1.0，这是一套开放标准，规定个人 AI 智能体如何替用户与企业打交道。企业只要在 /.well-known/poppy.json 放一个声明文件，说明智能体能做什么、用户怎么登录；用户通过 OAuth 授权，决定自己的智能体能动哪些权限，底层复用 MCP、OpenAPI 和 UCP 等现有标准。本次发布：Shopify 让所有店铺自动生成 Poppy 文件，并与 Sierra 合写了电商扩展；Meta 的 Muse 已对所有用户启用 Poppy；Mercury、Synchrony、土耳其航空已上线；设计伙伴超过 100 家，包括达美航空、Intuit、Salesforce、Wix 等。不过规范仍标注为草案，后续可能有不兼容的改动。对开发者的意义：网站很快要同时为「人」和「替人办事的智能体」设计入口。",
+   "links": [
+    "https://sierra.ai/blog/releasing-poppy",
+    "https://thenextweb.com/news/sierra-poppy-1-0-shopify-meta-muse-personal-agents",
+    "https://x.com/i/trending/2121330558781554819"
+   ],
+   "topic": "sierra-poppy-personal-agent-protocol-1-0-2026-11",
+   "firstSeen": "2026-11-14T09:56:45+08:00"
+  },
+  {
+   "id": "3e39efb308",
+   "title": "Claude Code 桌面版支持用 mods 自定义主题：改配色、加动画背景，官方插件附 20 个动画场景，网友晒出「MySpace / Winamp 皮肤」怀旧风",
+   "summary": "Anthropic 的 ClaudeDevs 账号 11 月 13 日宣布，Claude Code 桌面版可以用 mods 自制主题：直接告诉 Claude 想要的样子，它就能改配色，并在对话后面画一层动画背景，甚至能响应代码事件，比如合并成功时放烟花。官方 theme-examples 插件（Apache 2.0）提供 20 个 SVG 动画场景（14 个深色、6 个浅色，有俯瞰泻湖、夜间珊瑚礁、锦鲤池、航班出发牌、盲文点阵星空等），用 /custom-theme 应用到项目或单个会话，需要 Claude Code 2.1.319 以上；终端不显示背景，云端会话支持「即将推出」。官方提醒：mod 是以用户权限运行、不受沙箱限制的代码，只装可信来源的。X 上开发者纷纷晒自己的 AI 生成场景，有人调侃把额度全用在做主题上了。",
+   "links": [
+    "https://news.sulat.com/2026/11/14/claude-code-desktop-custom-themes-mods/",
+    "https://ai-tracker.rootstudio.io/news/2026-11-13-claude-code-desktop-mods-themes",
+    "https://x.com/i/trending/2121398298695422356"
+   ],
+   "topic": "claude-code-desktop-custom-themes-mods-2026-11-13",
+   "firstSeen": "2026-11-14T09:56:45+08:00"
   }
  ],
- "lastChecked": "2026-11-14T09:47:21+08:00"
+ "lastChecked": "2026-11-14T09:56:45+08:00"
 }
