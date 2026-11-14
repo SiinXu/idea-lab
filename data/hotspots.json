@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T23:00:16+08:00",
+ "lastUpdated": "2026-11-14T23:39:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48726,7 +48726,18 @@
    ],
    "topic": "google-antigravity-teamwork-science-results-2026-11-13",
    "firstSeen": "2026-11-14T23:00:16+08:00"
+  },
+  {
+   "id": "5bfa2e37b7",
+   "title": "Show HN 新游戏 Terminactory：在终端里玩的悠闲工厂游戏，专门放在 AI 智能体旁边分屏「边等边玩」",
+   "summary": "开发者在 GitLab 开源 Terminactory，用 Rust 和 ratatui 写成，11 月 14 日登上 Hacker News 的 Show HN，约 1.5 小时涨到 33 分。玩法：采铜、煤、铁，冶炼、冲压后卖钱，靠研究逐步解锁计算机和石油；没有战斗，也不会随机坏，离线时工厂照样赚钱。它的定位是放在 AI 编程智能体旁边分屏：窗口窄时自动切换紧凑视图，智能体还能发短消息显示在游戏里，让人一边玩一边等它干活。安装方式是 cargo install，命令为 tfac，支持 macOS、Linux 和 WSL。看点：「等 AI 干活的空档」正在催生专门的工具和娱乐场景，比如智能体伴随式小游戏、状态提醒和终端里的陪伴类应用。",
+   "links": [
+    "https://gitlab.com/snipedbywifi/terminactory",
+    "https://news.ycombinator.com/item?id=50497132"
+   ],
+   "topic": "terminactory-terminal-idle-factory-agent-companion-2026-11-14",
+   "firstSeen": "2026-11-14T23:39:08+08:00"
   }
  ],
- "lastChecked": "2026-11-14T23:00:16+08:00"
+ "lastChecked": "2026-11-14T23:39:08+08:00"
 }
