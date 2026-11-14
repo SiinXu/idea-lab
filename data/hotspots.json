@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T10:38:25+08:00",
+ "lastUpdated": "2026-11-14T11:00:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48469,7 +48469,31 @@
    ],
    "topic": "olang-kenyan-writer-pangram-ai-detector-bias-2026-11",
    "firstSeen": "2026-11-14T10:38:25+08:00"
+  },
+  {
+   "id": "43c68870e7",
+   "title": "星舰第 15 次试飞：飞船第二次入轨并部署 26 颗 Starlink V3，但助推器中止「筷子夹」回收、在墨西哥湾坠海爆炸；飞船将于周六尝试首次返回发射塔被夹住",
+   "summary": "SpaceX 于美东 11 月 13 日 17:47 从 Starbase 发射星舰第 15 次试飞，目标是首次把两级都用发射塔机械臂「夹住」回收。热分离顺利，但超重型助推器在返航途中被叫停回收、改到墨西哥湾受控溅落，悬停片刻后在海面上方爆炸，原因暂未公布。上面级飞船约 26 分钟进入 275 公里近地轨道，这是星舰第二次入轨（第一次是 9 月 28 日的第 14 次试飞），并在 42 分钟内部署了 26 颗 Starlink V3 卫星。整个任务最长约 22 小时，飞船计划周六美东约 16:17 离轨，飞回 Starbase 尝试人类首次「从轨道返回原发射场并被塔夹住」；途中设有多个检查点，不满足条件就改落太平洋。",
+   "links": [
+    "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
+    "https://apnews.com/article/spacex-starship-rocket-elon-musk-f9452dd86770dda36828a35bb27d65ee",
+    "https://spacenews.com/starship-launches-on-15th-test-calls-off-booster-catch/"
+   ],
+   "topic": "starship-flight-15-orbit-booster-explodes-2026-11-13",
+   "firstSeen": "2026-11-14T11:00:44+08:00"
+  },
+  {
+   "id": "2211fd6f30",
+   "title": "增长机构 unfair.so 开源整套 X 发布打法：11 周 99 次发布、4671 个演示预约、110 万美元营收；一半「员工」是 Grok 机器人",
+   "summary": "创作者营销平台 unfair.so 在 unfair.so/strategy 公开了在 X 上做产品发布的完整打法：40 步检查清单、10 个 Grok 机器人、10 条提示词和 30 个模板。核心观点是「万物皆可发布」：大多数初创公司一年只发布两次，他们帮每个客户每周发布一到两次，新功能、集成、行业基准、客户案例、对本周新模型的看法都算。每次发布是一条强帖，加 30 到 60 位创作者在一小时内集中引用转发，用这一波爆发触发 X 的推荐算法，帖子浏览量中位数约 49.8 万。他们还建议先给每次发布定一个收入目标：首月新增 MRR 大致等于发布成本。官网显示创作者引用帖起价 20 美元，托管服务每月 990 美元起。对一人公司来说，这是一份可以直接照抄的冷启动分发 SOP。",
+   "links": [
+    "https://unfair.so/strategy",
+    "https://agihunt.info/en/p/1a1d7202224b03b2fc766fcefd4",
+    "https://x.com/i/trending/2121431235847434248"
+   ],
+   "topic": "unfair-so-x-launch-playbook-open-source-2026-11-13",
+   "firstSeen": "2026-11-14T11:00:44+08:00"
   }
  ],
- "lastChecked": "2026-11-14T10:38:25+08:00"
+ "lastChecked": "2026-11-14T11:00:44+08:00"
 }
