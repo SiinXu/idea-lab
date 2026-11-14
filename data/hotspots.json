@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T10:24:48+08:00",
+ "lastUpdated": "2026-11-14T10:38:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48457,7 +48457,19 @@
    ],
    "topic": "stephen-witt-nyt-jensen-huang-downfall-essay-2026-11",
    "firstSeen": "2026-11-14T10:24:48+08:00"
+  },
+  {
+   "id": "af713f0e18",
+   "title": "肯尼亚作家旧文《不是我写得像 ChatGPT，是 ChatGPT 写得像我》再刷屏：被 Pangram 判定为 AI 生成，引发「AI 检测器歧视后殖民英语」争论",
+   "summary": "Pangram 用「零食题」筛掉 AI 求职者的帖子走红后，肯尼亚作家 Marcus Olang' 2025 年 7 月发表在 Substack 上的文章又被大量转发。他认为，肯尼亚小学毕业考试（KCPE）作文训练出的正式文风，比如 furthermore、moreover 等连接词、平行句式、三段式论证，正是大模型模仿的「权威腔」，所以不是他像 AI，而是 AI 像受殖民教育体系训练出来的人。讽刺的是，有网友用 Pangram 扫描这篇 2000 多字的文章，结果被判定为大部分由 AI 生成。X 上看法两极：有人怀疑他确实用了 AI，也有人指出这恰好说明检测器会误伤非西方英语作者。Pangram CEO 曾表示，用 4959 篇黑人作者文本测试过、未发现偏差，但独立研究不多；2023 年就有研究发现多款检测器经常把非母语写作判为 AI。",
+   "links": [
+    "https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt",
+    "https://developai.substack.com/p/does-african-writing-get-unfairly",
+    "https://x.com/i/trending/2121414638399033695"
+   ],
+   "topic": "olang-kenyan-writer-pangram-ai-detector-bias-2026-11",
+   "firstSeen": "2026-11-14T10:38:25+08:00"
   }
  ],
- "lastChecked": "2026-11-14T10:24:48+08:00"
+ "lastChecked": "2026-11-14T10:38:25+08:00"
 }
