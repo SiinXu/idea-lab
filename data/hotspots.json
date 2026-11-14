@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T15:58:31+08:00",
+ "lastUpdated": "2026-11-14T19:59:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48599,7 +48599,18 @@
    ],
    "topic": "block-buzz-workspace",
    "firstSeen": "2026-11-14T15:58:31+08:00"
+  },
+  {
+   "id": "da392e14da",
+   "title": "Tim Sweeney 再批 Steam 强制 AI 披露标签「有毒」：称它把 AI 和烂游戏绑在一起，预言 AI 能让游戏开发效率提升 10 倍",
+   "summary": "据游戏资讯账号 Pirat_Nation 美东 11 月 14 日凌晨的帖子（约 8 万浏览、300 条回复），Epic Games CEO Tim Sweeney 又一次公开批评 Steam 要求开发者披露生成式 AI 使用情况的规定，称其「有毒」：标签会让玩家把 AI 等同于粗制滥造，惩罚负责任使用 AI 的团队，还可能被人借商店页标签带节奏压低销量。他认为 AI 最多能让游戏开发效率提升 10 倍，不用的工作室会落后。玩家两极分化：一方希望保留标签以避开「AI 垃圾」，另一方拿当年对 Unity 开屏 Logo 的偏见类比。Valve 坚持披露是玩家应得的信息。此前《Big Walk》因 AI 修 bug 遭差评轰炸，这场「AI 标签之争」还在升温。注：Sweeney 本人原帖未找到，以上来自二手报道。",
+   "links": [
+    "https://x.com/Pirat_Nation/status/2121513467509117393",
+    "https://x.com/i/trending/2121572439906021646"
+   ],
+   "topic": "sweeney-steam-ai-label-toxic",
+   "firstSeen": "2026-11-14T19:59:41+08:00"
   }
  ],
- "lastChecked": "2026-11-14T15:58:31+08:00"
+ "lastChecked": "2026-11-14T19:59:41+08:00"
 }
