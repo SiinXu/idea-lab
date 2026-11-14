@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T19:59:41+08:00",
+ "lastUpdated": "2026-11-14T20:16:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48610,7 +48610,19 @@
    ],
    "topic": "sweeney-steam-ai-label-toxic",
    "firstSeen": "2026-11-14T19:59:41+08:00"
+  },
+  {
+   "id": "3033ad9fba",
+   "title": "宝可梦同人游戏开发者每月花 2000 美元靠 Claude 做游戏，如今 Claude 拒绝继续处理官方宝可梦素材，相关帖子浏览量 57 万",
+   "summary": "免费 2D 即时对战同人游戏《Pokémon Arena 2D》的作者说，他每月在 AI 上花最多 2000 美元，每天投入 10–14 小时，主要靠 Claude 写代码和做设计，原计划 2026 年 12 月开 beta。现在只要涉及官方宝可梦角色和精灵图，Claude 就不再帮忙，即使素材已经存在本地、项目改了名也一样。作者认为是 Anthropic 收紧了版权限制，有网友推测与 10 月底 Claude Code 提示词新增的规则有关：同类型的原创游戏可以做，复刻某款具体的现有游戏不行。游戏资讯账号 Pirat_Nation 美东 11 月 13 日晚的帖子已有约 57 万浏览、4700 赞，IGN Portugal 等多语种媒体也有转载。评论两极：一方认为执行版权政策合理，另一方质疑在作者投入多年后才改规则；也有人说做游戏类工作 Codex 更宽松。看点：AI 编程平台的内容政策正直接决定同人和 IP 衍生项目能不能做下去。",
+   "links": [
+    "https://x.com/Pirat_Nation/status/2121454324651888668",
+    "https://x.com/IGNPortugal/status/2121193643822526481",
+    "https://x.com/i/trending/2121505846559752482"
+   ],
+   "topic": "claude-pokemon-fangame-refusal",
+   "firstSeen": "2026-11-14T20:16:21+08:00"
   }
  ],
- "lastChecked": "2026-11-14T19:59:41+08:00"
+ "lastChecked": "2026-11-14T20:16:21+08:00"
 }
