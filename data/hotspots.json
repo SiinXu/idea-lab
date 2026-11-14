@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T11:00:44+08:00",
+ "lastUpdated": "2026-11-14T11:13:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48493,7 +48493,19 @@
    ],
    "topic": "unfair-so-x-launch-playbook-open-source-2026-11-13",
    "firstSeen": "2026-11-14T11:00:44+08:00"
+  },
+  {
+   "id": "64d1fb7da3",
+   "title": "美联储金融稳定报告：87% 的受访市场人士把 AI 列为美国金融体系头号风险，半年前只有 50%",
+   "summary": "美联储 11 月 13 日发布半年度《金融稳定报告》。纽约联储在 9–10 月访问了 23 位券商、银行、基金和顾问机构人士，AI 成为被提及最多的「显著风险」（87%，春季调查时为 50%），远高于第二名的风险资产回调（52%）。受访者担心三件事：一是 AI 股估值过高，一旦盈利不及预期可能引发市场大幅回调；二是网络安全，既包括国家级黑客借 AI 发动攻击，也包括前沿 AI 模型本身造成的破坏；三是数据中心建设背后复杂的循环融资和高杠杆债务。其他高票风险包括长期利率上升（48%）、网络攻击（43%）和财政债务可持续性（43%）。报告强调，这只是受访者的观点，不代表美联储立场。",
+   "links": [
+    "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+    "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+    "https://money.usnews.com/investing/news/articles/2026-11-13/ai-rockets-to-top-of-worries-about-financial-system-in-latest-fed-survey"
+   ],
+   "topic": "fed-financial-stability-report-ai-top-risk-2026-11-13",
+   "firstSeen": "2026-11-14T11:13:42+08:00"
   }
  ],
- "lastChecked": "2026-11-14T11:00:44+08:00"
+ "lastChecked": "2026-11-14T11:13:42+08:00"
 }
