@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T14:00:15+08:00",
+ "lastUpdated": "2026-11-14T15:58:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48577,7 +48577,29 @@
    ],
    "topic": "cursor-fireworks-key-breach-postmortem-2026-11",
    "firstSeen": "2026-11-14T14:00:15+08:00"
+  },
+  {
+   "id": "f7cfdfd7bc",
+   "title": "阿里开源 AI 代码审查工具 Open Code Review 冲上 GitHub 日榜：内部用了两年、服务数万开发者，「确定性规则流水线 + LLM 智能体」混合架构逐行给评论，星标破 5 万",
+   "summary": "Open Code Review 原是阿里集团内部官方 AI 代码审查助手，过去两年服务数万名开发者，现以 Apache-2.0 协议开源，今天登上 GitHub 每日趋势榜，仓库星标约 5.09 万。它是命令行工具：先用确定性流水线跑内置多语言规则（空指针、线程安全、XSS、SQL 注入等），再由 LLM 智能体做补充判断，输出精确到行的审查意见；兼容 OpenAI 与 Anthropic 接口，支持 Claude Code、Codex、Cursor、Kimi Code，可通过 npm 安装，跨 Windows/macOS/Linux。最近版本 v1.13.9 于 11 月 13 日发布，更新频繁。对小团队的意义：可以自托管一套「规则兜底 + AI 补漏」的 PR 审查，比纯大模型审查少一些琐碎和臆想的意见。",
+   "links": [
+    "https://github.com/alibaba/open-code-review",
+    "https://open-codereview.ai"
+   ],
+   "topic": "alibaba-open-code-review",
+   "firstSeen": "2026-11-14T15:58:31+08:00"
+  },
+  {
+   "id": "53958cf51f",
+   "title": "Block 开源「人和 AI 智能体同处一室」的工作区 Buzz 登上 GitHub 日榜：可自托管，底层是 Nostr 中继，智能体有自己的密钥、频道权限和审计记录",
+   "summary": "Jack Dorsey 旗下 Block 的开源项目 Buzz 今天进入 GitHub 每日趋势榜，仓库星标约 3.7 万，Apache-2.0 协议；桌面端 v0.5.30 于美东 11 月 13 日晚发布。Buzz 看起来像团队聊天工作区，但每条消息、表情回应、工作流步骤、审批和 git 事件都是一条签名的 Nostr 事件，写进同一个日志。AI 智能体和人一样拥有独立身份密钥、频道成员资格与审计轨迹，可以开仓库、提补丁、审代码、跑工作流、编辑画布、调度其他智能体、加入语音会议。功能分支可以变成一个房间，补丁、CI、评审和合并决定都留在里面。中继和移动端（iOS/Android）在主仓库，桌面端在 block/buzz-app。看点：「Slack + 智能体」的开源、自托管替代方案开始成形。",
+   "links": [
+    "https://github.com/block/buzz",
+    "https://github.com/block/buzz-app"
+   ],
+   "topic": "block-buzz-workspace",
+   "firstSeen": "2026-11-14T15:58:31+08:00"
   }
  ],
- "lastChecked": "2026-11-14T14:00:15+08:00"
+ "lastChecked": "2026-11-14T15:58:31+08:00"
 }
