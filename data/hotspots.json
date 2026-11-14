@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T22:37:42+08:00",
+ "lastUpdated": "2026-11-14T23:00:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48715,7 +48715,18 @@
    ],
    "topic": "nvidia-glm-5-3-two-dgx-stations-vllm-2026-11-13",
    "firstSeen": "2026-11-14T22:37:42+08:00"
+  },
+  {
+   "id": "be81354d8a",
+   "title": "谷歌研究院公布 Antigravity /teamwork 多智能体成果：证明 2013 年 Courtade–Kumar 猜想、180 万行 Lean 形式化韦伊猜想、80 万行 Rust 重写 Zircon 微内核，并向外部开放",
+   "summary": "谷歌研究院 VP Vahab Mirrokni 11 月 13 日发文，介绍 Antigravity 的 /teamwork 多智能体框架（基于 Gemini 4 Argon、Carbon、Hydrogen）近几周的成果。设计思路：多个智能体并行探索，再交给 Lean 4 证明检查器、原样不动的测试集、硬件计时器等「证伪器」自动验证；每个智能体只拿到当前步骤需要的文件，避免长任务里上下文越来越乱。成果包括：与港中文等合作完整证明信息论里 2013 年的 Courtade–Kumar 猜想；LEAP 流程全自动产出约 180 万行 Lean 代码，完成韦伊猜想的机器验证形式化；两周把 Zircon 微内核剩余 C++ 改写成约 80 万行安全 Rust，可在 arm64 上启动；把 AV1 解码器 libgav1 改写成 Rust，最终比原版 C++ 快 20–30%；从零训练的 9x9 围棋引擎 8 天内提升约 2600 Elo。谷歌内部用它节省超过 1 PiB 内存，并把部分 TPU 任务的抢占减少 24%。/teamwork、/boost 和 Deep Review 已对外可用，另开放 1 万名学术研究者 6 个月免费最高档额度。注：以上数据均来自谷歌官方博客。看点：「多智能体加自动验证」正从演示走向长周期的科研和工程生产力工具。",
+   "links": [
+    "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+    "https://news.ycombinator.com/item?id=50496811"
+   ],
+   "topic": "google-antigravity-teamwork-science-results-2026-11-13",
+   "firstSeen": "2026-11-14T23:00:16+08:00"
   }
  ],
- "lastChecked": "2026-11-14T22:37:42+08:00"
+ "lastChecked": "2026-11-14T23:00:16+08:00"
 }
