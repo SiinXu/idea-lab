@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T09:24:22+08:00",
+ "lastUpdated": "2026-11-14T09:47:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48372,7 +48372,33 @@
    ],
    "topic": "amtrak-booking-outage-faa-ground-stop-2026-11-13",
    "firstSeen": "2026-11-14T09:24:22+08:00"
+  },
+  {
+   "id": "9abf6ae0be",
+   "title": "YC 新公司 Reason Machines 发布编码智能体框架 Reason：宣称「前沿编码水平、成本最高低 20 倍」，自家公开基准为比 Codex 每题便宜 22%",
+   "summary": "YC 2026 秋季批次的两人团队 Reason Machines 今天正式发布 Reason，定位是「最省钱的编码智能体框架（harness）」：同一个模型，换框架后账单可差最多 5 倍。它可接入用户自己的 API Key 和各家订阅，额度用完自动切到下一个；在云端 Linux/Mac 虚拟机、本地或 SSH 机器之间迁移会话，也能在 Slack 里 @Reason 直接拿回 PR。思路是极简工具集加用一段代码并行调用多个工具，并尽量提高提示缓存命中率。宣传语是「最高低 20 倍」，但官方博客自测数据为：在 GPT-6 Astra 上 Coding Agent Index 65.1 对 Codex 62.5，每个解决任务成本低 22%（未经 Artificial Analysis 认可）。创始人的发布帖当天约 1200 赞、850 条回复，提供 3 天免费试用。",
+   "links": [
+    "https://www.ycombinator.com/companies/reason-machines",
+    "https://reasonmachines.com/zh-hans/blog/introducing-reason-agent-1-1",
+    "https://ai-tracker.rootstudio.io/news/2026-11-13-reason-coding-harness",
+    "https://x.com/i/trending/2121400676047839508"
+   ],
+   "topic": "reason-machines-coding-harness-launch-2026-11-13",
+   "firstSeen": "2026-11-14T09:47:21+08:00"
+  },
+  {
+   "id": "a67e6b34c9",
+   "title": "硬件 AI 公司 Normal 实验：一周内让 AI 设计、采购零件并总装一架大型无人机，首飞即把包裹送到 SendCutSend 老板手里",
+   "summary": "为硬件团队做 AI 工程智能体（Zeus）的 Normal 发布实验视频：只给 AI 一周时间，从零造一架大型无人机。AI 参与了方案设计、仿真、原型和零部件下单（包括难找的部件），团队配合本地 3D 打印伙伴 Pantheon Design 完成总装，无人机随后飞往里诺，把首个载荷投递给钣金加工平台 SendCutSend 创始人 Jim Belosic。X 上讨论集中在「vibe manufacturing」：AI 加按需制造，正把以月计的硬件项目压缩到几天。Business Insider 本月也报道了普通人用大模型画零件图、直接在 SendCutSend 下单的潮流。",
+   "links": [
+    "https://agihunt.info/p/1a1d684a9083b401fa33d50733a",
+    "https://normal.ai/",
+    "https://x.com/i/trending/2121375403151368453",
+    "https://www.businessinsider.com/vibe-manufacturing-ai-prototypes-cad-coding-2026-11"
+   ],
+   "topic": "normal-ai-drone-one-week-2026-11-13",
+   "firstSeen": "2026-11-14T09:47:21+08:00"
   }
  ],
- "lastChecked": "2026-11-14T09:24:22+08:00"
+ "lastChecked": "2026-11-14T09:47:21+08:00"
 }
