@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T23:39:08+08:00",
+ "lastUpdated": "2026-11-14T23:53:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48737,7 +48737,42 @@
    ],
    "topic": "terminactory-terminal-idle-factory-agent-companion-2026-11-14",
    "firstSeen": "2026-11-14T23:39:08+08:00"
+  },
+  {
+   "id": "662ee0c257",
+   "title": "FBI 发布 FLASH 警报：开源 AI 渗透框架 ARTEX 被大规模武器化，部分入侵从锁定目标到拿到高权限不到 3 小时",
+   "summary": "FBI 于 11 月 13 日通过 IC3 发布 FLASH-20261113-001，点名 ARTEX。它是一个用 Go 写的开源多智能体自动渗透测试平台，能把自然语言目标转成攻击命令，可接入 Claude、GPT、DeepSeek、GLM、Grok、Kimi 等模型。FBI 称：自 2026 年 8 月起，多个恶意团伙用它攻击全球金融、政府、科技、国防、半导体、能源、医疗、电信、法律等行业，部分入侵从锁定目标到拿到高权限不到 3 小时；技术门槛很低的人也能同时对多个目标下手。点名的案例：韩国金融机构约 6.7 万人的个人信息被窃；ConnectWise Cloud Backup 供应链被攻破，波及 2250 多个下游租户。原作者 10 月已删除 GitHub 仓库，但分叉、备份和商业版 ARTEX PRO 仍在流传；11 月初研究人员数到 1600 多个公网暴露的控制台。FBI 首要建议：盘点并收缩对外暴露面（合作方门户、移动后端、老旧服务、第三方集成），并复查 Microsoft 365 的第三方应用授权。看点：AI 自动化攻击已进入执法机构正式预警阶段，面向中小企业的「暴露面盘点、第三方授权审计」类工具需求会上升。",
+   "links": [
+    "https://www.ic3.gov/CSA/2026/261113.pdf",
+    "https://therecord.media/artex-ai-tool-fbi-flash-alert",
+    "https://oodaloop.com/analysis/ooda-original/fbi-flash-on-artex-agentic-ai-hacking-frameworks-move-from-pen-testing-tool-to-mainstream-threat/"
+   ],
+   "topic": "fbi-flash-artex-ai-intrusions-2026-11-13",
+   "firstSeen": "2026-11-14T23:53:46+08:00"
+  },
+  {
+   "id": "45c7d0f6d8",
+   "title": "T3 Code 上线「对话改界面」：让 AI 智能体直接改应用 UI 并实时生效，Theo 发帖获 3800 赞",
+   "summary": "Theo（t3.gg）11 月 14 日宣布，开源 AI 编程工作台 T3 Code 支持在应用里完整自定义界面：直接让智能体改样式，界面实时刷新。帖子约 3800 赞、15.8 万浏览、300 多条回复，用户纷纷晒出改成紫色渐变、山景剪影等风格的界面。有人追问：T3 Code 自身更新后，自定义的界面怎么办？Theo 回复：那就让 Claude 修一下。T3 Code 可在一个应用里同时接入多个 Claude、Codex、Cursor 账号，近期还加入了内存压力过大时自动结束线程等功能。看点：「软件由用户的 AI 实时改造」正从概念走向产品，可延伸出主题市场、AI 换肤，以及可被智能体改写的应用框架等机会。",
+   "links": [
+    "https://x.com/theo/status/2121455838414201200",
+    "https://x.com/i/trending/2121628302553051623"
+   ],
+   "topic": "t3-code-agent-ui-customization-2026-11-14",
+   "firstSeen": "2026-11-14T23:53:46+08:00"
+  },
+  {
+   "id": "d1c129dd41",
+   "title": "Rocket Lab 电子号火箭完成第 100 次发射，成为最快达成百发的商业火箭",
+   "summary": "11 月 14 日（新西兰时间 18:30），Rocket Lab 的电子号（Electron）火箭从新西兰马希亚半岛 1 号发射场执行「The Mountain God Rises」任务，把日本 iQPS 的 YAMATSUMI-II（QPS-SAR-19）合成孔径雷达卫星送入 575 公里、倾角 42 度的近地轨道，任务成功。这是电子号第 100 次发射，Rocket Lab 称它是最快达到 100 次发射的商业研发火箭。这也是 iQPS 第 11 次搭乘电子号，iQPS 已再订 7 次专属发射，排到 2030 年。直播中公布的数据：累计造了 100 枚火箭、飞了 999 台卢瑟福发动机，部署 270 多个载荷。CEO Peter Beck 表示「下 100 次发射已经订满」。看点：小型火箭进入高频、常态化发射阶段，雷达遥感星座（夜间和穿云成像）的数据服务和下游应用空间在扩大。",
+   "links": [
+    "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-hits-100-electron-launches-fastest-commercial-rocket",
+    "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
+    "https://rocketlabcorp.com/missions/launches/iqps-the-mountain-god-rises/"
+   ],
+   "topic": "rocketlab-electron-100th-launch-2026-11-14",
+   "firstSeen": "2026-11-14T23:53:46+08:00"
   }
  ],
- "lastChecked": "2026-11-14T23:39:08+08:00"
+ "lastChecked": "2026-11-14T23:53:46+08:00"
 }
