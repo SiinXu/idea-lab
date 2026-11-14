@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T08:27:38+08:00",
+ "lastUpdated": "2026-11-14T09:13:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48327,7 +48327,41 @@
    ],
    "topic": "faa-ground-stop-phased-departures-smart-ai-2026-11-13",
    "firstSeen": "2026-11-14T08:27:38+08:00"
+  },
+  {
+   "id": "662908166f",
+   "title": "AI 检测公司 Pangram 用「你最爱吃什么零食？」筛简历：投递量减少 60%，102 份申请一字不差写「我不是 AI，我最爱 trail mix」",
+   "summary": "Pangram Labs 联合创始人 Max Spero 在 X 上公开招聘申请表里的一道「陷阱题」：问候选人最爱的零食，并暗示 AI 代投者回答一个机器学习概念。过去一个月的数据：27 份申请直接承认自己是 AI，1217 份写了机器学习术语，1051 份填 N/A；剩下 2002 份写零食，其中 102 份是完全相同的「I am not an LLM or AI Agent, so my favorite snack is trail mix」，还有大量「黑巧克力」「杏仁」模板答案。他称这道题让简历审核量降了 60%，并吐槽「求职申请被 AI 刷成了 DDoS」。话题在 X 上引发围观，Megan McArdle、Alex Tabarrok 等人转评：招聘端「反 AI 代投」的轻量验证题可能成为新常态。",
+   "links": [
+    "https://x.com/i/trending/2121407646096085202",
+    "https://teapaw.org/max_spero_"
+   ],
+   "topic": "pangram-favorite-snack-ai-job-applicants-2026-11-13",
+   "firstSeen": "2026-11-14T09:13:16+08:00"
+  },
+  {
+   "id": "4cb9dd6dfb",
+   "title": "前 Anthropic 研究员 Jacob Coxon：IPO 路演里一张「预训练算力乘数」曲线是他离职的关键原因，称算法进步呈超指数，Mythos 已可用一小部分算力重训",
+   "summary": "Anthropic 正以代码 ANT 推进 IPO 路演之际，前预训练研究员 Jacob Coxon（9 月 8 日公开辞职）在 X 上分享一张路演幻灯片：以对数坐标画出 2024 年 7 月到 2026 年 10 月的「预训练算力乘数」，曲线明显上翘，标注为「基于内部估算、仅作示意」。他认为这说明算法进步是超指数的，Mythos 并非偶然跃升，如今用原来一小部分算力就能重训，并对递归自我改进提前到来表示担忧。路演视频中 Tom Brown 也说过算力乘数会「相互叠加」，未来 Claude 可自行发现乘数。也有人质疑：数据点少、对数坐标易放大观感，TokenPost 指出公开备案材料日期晚于他辞职，无法证明幻灯片创建时间。",
+   "links": [
+    "https://cryptobriefing.com/former-anthropic-researcher-ipo-slide-departure/",
+    "https://x.com/i/trending/2121378005675319698",
+    "https://www.tokenpost.com/news/business/57088"
+   ],
+   "topic": "coxon-anthropic-ipo-compute-multiplier-slide-2026-11-13",
+   "firstSeen": "2026-11-14T09:13:16+08:00"
+  },
+  {
+   "id": "e67bec273b",
+   "title": "NEJM AI 研究：按 450 亿美元联邦医保账单拆解，放射科、病理科九成以上工作无「物理门槛」最易被 AI 替代，皮肤科、骨科受保护",
+   "summary": "斯坦福、UC Berkeley 与美国人口普查局研究者分析 2023 年 Medicare Part B 约 450 亿美元、近 59 万名医生、56 个专科的账单，按每项服务是否需要动手接触患者分类。结论：全部支付中 24% 属于 AI 碰不到的动手操作，21% 是 AI 理论上可直接完成的工作，另有 55% 是门诊问诊，最终取决于 AI 如何设计、部署和报销。专科差异很大：皮肤科 68%、骨科 53% 收入来自操作，相对安全；诊断放射科 96%、病理科 99% 几乎没有物理屏障。最大的不确定性落在人数最多的家庭医学和内科。论文发表在 NEJM AI，今天在 X 上被大量讨论。",
+   "links": [
+    "https://healthpolicy.fsi.stanford.edu/news/study-investigates-which-specialties-are-more-risk-ai-substitution",
+    "https://x.com/i/trending/2121353946132586591"
+   ],
+   "topic": "nejm-ai-medicare-physical-limits-ai-substitution-2026-11",
+   "firstSeen": "2026-11-14T09:13:16+08:00"
   }
  ],
- "lastChecked": "2026-11-14T08:27:38+08:00"
+ "lastChecked": "2026-11-14T09:13:16+08:00"
 }
