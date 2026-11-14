@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T20:55:08+08:00",
+ "lastUpdated": "2026-11-14T21:16:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48635,7 +48635,41 @@
    ],
    "topic": "gemini-4-krypton-leak",
    "firstSeen": "2026-11-14T20:55:08+08:00"
+  },
+  {
+   "id": "b26717d449",
+   "title": "TechPowerUp 转述《华尔街日报》：英伟达被指投资 AI 初创和小型云厂商让它们买自家 GPU，人为维持「芯片紧缺」，HN 732 分",
+   "summary": "TechPowerUp 11 月 14 日转述《华尔街日报》（经 Wccftech）报道：黄仁勋离任后，有说法称英伟达通过投资 AI 初创公司和小型云服务商，让它们反过来采购英伟达 GPU、建数据中心，以维持「需求旺盛」的观感，并消化台积电那边堆积的大量芯片产能。报道称背景是大型云厂商转向自研芯片，英伟达面临一批没有现成买家的 GPU；而临时 CEO 克雷斯曾提醒，这些小云厂商本身就买不起芯片，可能成为财务死胡同。这是此前「黄仁勋贬低克雷斯、为买不起芯片的公司做担保」报道的延伸解读，Hacker News 上已有 732 分、426 条评论，讨论集中在循环融资、反垄断风险和 AI 泡沫。注：「人为制造稀缺」是转述媒体的定性，属指控，尚未被证实。",
+   "links": [
+    "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "https://news.ycombinator.com/item?id=50493251"
+   ],
+   "topic": "nvidia-engineered-scarcity-startup-funding-2026-11-14",
+   "firstSeen": "2026-11-14T21:16:17+08:00"
+  },
+  {
+   "id": "10c60fc60c",
+   "title": "Unsloth 用 Dynamic V3.1 重做 Qwen3.8-27B 量化：同体积精度提升 5–10%，4-bit 只需 16–19GB 显存，并公开反驳 ISTA 量化评测",
+   "summary": "Unsloth 把 Qwen3.8-27B 的 GGUF 量化更新为 Dynamic V3.1（预览版）：官方称在 Terminal Bench 2.1、DeepSWE 1.1、LiveCodeBench v6 等基准上，同体积平均精度提升 5–10%，2–6 bit 大多已更新（3 bit 因提升不明显未换）。4-bit 版本可在 RTX 5080/4090 或 24GB 内存的 Mac 上运行，另有在 Blackwell 显卡上比 BF16 快约 1.5 倍的 NVFP4 版本，并支持 MTP 加速和 Codex 等工具的 developer 角色。文档还点名反驳 ISTA 的 GSQ-RCO 评测：称对方大概只跑了 1 次、上下文预算约 96K，Unsloth 跑 14 次后结论相反。Hacker News 约 182 分。看点：27B 级本地编程模型的「量化质量」正在成为开源社区的新竞争点。",
+   "links": [
+    "https://unsloth.ai/docs/models/qwen3.8",
+    "https://news.ycombinator.com/item?id=50491980"
+   ],
+   "topic": "unsloth-qwen38-27b-dynamic-v3-1-2026-11-11",
+   "firstSeen": "2026-11-14T21:16:17+08:00"
+  },
+  {
+   "id": "f3b8a3bd8b",
+   "title": "Theo 发帖「AI 会让软件整体更稳定」获 2500 赞，引发程序员大争论：AI 能修 bug 重构，还是 vibe coding 会制造更多缺陷？",
+   "summary": "t3.gg 创始人 Theo 美东 11 月 13 日深夜发帖称「软件整体会因为 AI 变得更稳定」，已有约 7.7 万浏览、2500 赞、近 300 条回复，并在 X 上形成热门话题。支持者认为 AI 擅长处理竞态条件等重复性 bug、重构和测试维护，能让工程师专注更大的问题；也有人说初期会先经历一段混乱，AI 会先挖出大量遗留漏洞。反对者则担心 vibe coding：开发者合并自己没看懂的 AI 代码，缺陷反而上升，另一条相关热帖甚至称编程是艺术、AI 写代码和 AI 画画一样冒犯。看点：「AI 代码质量与可靠性」正在从技术讨论变成大众话题，代码审查、测试自动化类工具有机会。注：热门话题里引用的调查数据来自 X 汇总，未逐一核实。",
+   "links": [
+    "https://x.com/theo/status/2121458046249665010",
+    "https://x.com/i/trending/2121549559734161865",
+    "https://x.com/i/trending/2121591174578438295"
+   ],
+   "topic": "theo-ai-makes-software-more-stable-2026-11-14",
+   "firstSeen": "2026-11-14T21:16:17+08:00"
   }
  ],
- "lastChecked": "2026-11-14T20:55:08+08:00"
+ "lastChecked": "2026-11-14T21:16:17+08:00"
 }
