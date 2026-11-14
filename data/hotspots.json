@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T23:53:46+08:00",
+ "lastUpdated": "2026-11-15T00:13:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48772,7 +48772,18 @@
    ],
    "topic": "rocketlab-electron-100th-launch-2026-11-14",
    "firstSeen": "2026-11-14T23:53:46+08:00"
+  },
+  {
+   "id": "3f060b226b",
+   "title": "Show HN 新工具 agweb：专给编程智能体用的 macOS 浏览器，多个 AI 同时操作网页也不抢你的键盘焦点",
+   "summary": "开发者 paul-nameless 在 Hacker News 发布开源项目 agweb：基于 WebKit（Safari 内核）的 macOS 浏览器，专供 Claude Code、Codex 等编程智能体用命令行（类似 playwright-cli 的 agweb 命令）驱动。卖点：窗口永不抢焦点，弹窗、文件选择、下载都在代码里处理；仪表盘（⌘D）实时显示每个智能体的所有标签页和最后一条命令；多个智能体各有独立工作区，命名配置文件可共享登录状态；闲置标签自动挂起，作者实测五个闲置页面占内存 590 MB，无头 Chrome 为 730 MB、Playwright Chrome 为 1.6 GB；点击和按键用原生 macOS 事件、指针模拟人手移动；`fill --secret-cmd` 可让密码不进入对话记录；内置 uBlock Origin 规则去广告，还能录制带指针的 MP4 演示视频。需 macOS 26 及以上。看点：「多智能体并行跑浏览器」正成为开发者日常痛点，面向智能体的浏览器、可观测性和凭据隔离工具是值得关注的新赛道。",
+   "links": [
+    "https://github.com/paul-nameless/agweb",
+    "https://news.ycombinator.com/item?id=50497147"
+   ],
+   "topic": "agweb-agent-browser-macos-2026-11-14",
+   "firstSeen": "2026-11-15T00:13:16+08:00"
   }
  ],
- "lastChecked": "2026-11-14T23:53:46+08:00"
+ "lastChecked": "2026-11-15T00:13:16+08:00"
 }
