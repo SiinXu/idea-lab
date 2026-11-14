@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T02:46:46+08:00",
+ "lastUpdated": "2026-11-15T05:46:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48816,7 +48816,20 @@
    ],
    "topic": "claude-deletes-law-professor-syllabus-2026-11-14",
    "firstSeen": "2026-11-15T02:46:46+08:00"
+  },
+  {
+   "id": "2388e00ebf",
+   "title": "星舰第 15 次试飞收官：上面级飞船从轨道返回，首次被发射塔「筷子」机械臂夹住回收，HN 热议",
+   "summary": "SpaceX 星舰 Flight 15 的上面级飞船（Ship）在发射约 22.5 小时、绕地球飞行后，于美东 11 月 14 日约 16:20 返回德州 Starbase，被发射塔的「筷子」机械臂稳稳夹住，这是人类首次从轨道回收星舰上面级。此前超重型助推器因燃料量低报警提前结束返航点火、放弃塔夹并改为墨西哥湾海上降落，在触水前爆炸，所以原定的「两级双回收」没有全部实现。本次任务还部署了 26 颗 Starlink V3 卫星。SpaceX 直播中称这是「缺失的那一环」：上面级可回收后，星舰完全复用、发射成本大幅下降的路线更近一步。看点：低成本重型运力可能带动卫星星座、太空制造、轨道数据中心等下游机会。",
+   "links": [
+    "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-14-2026-starship-first-double-landing-attempt",
+    "https://apnews.com/article/spacex-elon-musk-starship-rocket-df394c1b5a0f85e11194f9ff7db9ee6b",
+    "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+    "https://x.com/i/broadcasts/2brajgZlOKRMka"
+   ],
+   "topic": "starship-flight-15-ship-tower-catch-2026-11-14",
+   "firstSeen": "2026-11-15T05:46:16+08:00"
   }
  ],
- "lastChecked": "2026-11-15T02:46:46+08:00"
+ "lastChecked": "2026-11-15T05:46:16+08:00"
 }
