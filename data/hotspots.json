@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T21:57:09+08:00",
+ "lastUpdated": "2026-11-14T22:37:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48680,7 +48680,42 @@
    ],
    "topic": "eff-ambient-ai-wearables-bystander-privacy-2026-11-13",
    "firstSeen": "2026-11-14T21:57:09+08:00"
+  },
+  {
+   "id": "eabbe07a99",
+   "title": "意大利隐私监管罚 Meta 8.05 亿欧元（约 8.87 亿美元）：Facebook 安卓版「相册推荐」默认开启、未经单独同意读取用户照片和视频",
+   "summary": "意大利数据保护局（Garante Privacy）11 月 14 日宣布对 Meta 罚款 8.05 亿欧元，被认为是该机构开出的最大罚单，约占 Meta 全球营收的 0.47%。涉事的是 Facebook 安卓版 2023 年上线的「浏览时从相册获取推荐」功能：它会从手机相册挑选照片和视频建议用户发布，但相册权限是整个 App 共用的一次性授权，弹窗只写着「启用其他功能」，而且该功能默认开启，一旦授权，App 可长期读取整个相册。意大利约 2000 万安卓用户受影响。Meta 须在 60 天内把该功能改为默认关闭，并单独征求同意。监管机构还驳回了 Meta 认为应由爱尔兰管辖的主张，理由是 ePrivacy 规则没有「一站式」机制。本次调查不涉及是否用这些内容训练 AI（Meta 否认），2026 年新上线的相册云端处理功能将另行评估。看点：手机端 AI 功能读取本地数据，「单独、知情同意」正在成为欧洲的硬性要求。",
+   "links": [
+    "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10321080",
+    "https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html",
+    "https://www.politico.eu/article/italy-hits-meta-with-e805m-fine-over-privacy-law-violation/",
+    "https://news.ycombinator.com/item?id=50497009"
+   ],
+   "topic": "italy-garante-fines-meta-805m-gallery-access-2026-11-14",
+   "firstSeen": "2026-11-14T22:37:42+08:00"
+  },
+  {
+   "id": "1cd6c3ec19",
+   "title": "《Claude 妄想》：技术博主撰文嘲讽科技大佬把「AI 能写得和我一样好」当成超级智能，以比尔·盖茨盛赞 Claude 为例，HN 热度上升",
+   "summary": "博主 netmeister（Signs of Triviality）11 月 13 日发文《The Claude Delusion》。文章引用比尔·盖茨在《纽约时报》采访中的说法：他曾自己出生物题考 OpenAI 的模型，后来又说 Claude 写代码「和我一样好」、已经是「超人级」。作者认为，这正是科技圈成功人士的过度自信：把「会写代码」等同于全能，一旦 AI 接近自己的水平就宣布是超级智能，由此同时催生了「AI 毁灭人类」和「AI 解决一切问题」两种叙事；用「智能体失控」来说事，也成了开发者推卸责任的说辞。文章在 Hacker News 上升温，评论在讨论 AI 能力是否被高估。看点：对 AI 圈「超级智能叙事」的反弹正在扩大，与当天 Dwarkesh 把超级智能时间表提前到 2030 年形成对照。",
+   "links": [
+    "https://www.netmeister.org/blog/claude-delusion.html",
+    "https://news.ycombinator.com/item?id=50496921"
+   ],
+   "topic": "claude-delusion-essay-gates-2026-11-13",
+   "firstSeen": "2026-11-14T22:37:42+08:00"
+  },
+  {
+   "id": "8f2daa11c5",
+   "title": "英伟达教程：用两台 DGX Station 串联跑 7530 亿参数的 GLM-5.3，整体吞吐峰值 607.8 token/秒，本地也能跑前沿级大模型",
+   "summary": "英伟达开发者博客 11 月 13 日发布教程：智谱 GLM-5.3 的 NVFP4 量化版是 7530 亿参数的混合专家模型，每个 token 激活 400 亿参数，权重约 464GB，超过单块 GB300 的 252GB 显存。方案是用 ConnectX-8 RDMA 把两台 DGX Station 直连，再用 vLLM 做双机张量并行（TP=2），每块 GPU 约放一半权重，对外提供一个兼容 OpenAI 的 API，并开启多 token 预测（MTP）、FP8 KV 缓存和前缀缓存。在 SPEED-Bench 编程数据集上，16 并发时整体吞吐峰值 607.8 token/秒，单请求约 107 token/秒；32 并发时反降到 385 token/秒，平均延迟 453 秒。看点：开源前沿大模型进入「两台桌面工作站就能私有部署」的阶段，本地私有推理、敏感数据场景的部署服务有空间。",
+   "links": [
+    "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+    "https://news.ycombinator.com/item?id=50497155"
+   ],
+   "topic": "nvidia-glm-5-3-two-dgx-stations-vllm-2026-11-13",
+   "firstSeen": "2026-11-14T22:37:42+08:00"
   }
  ],
- "lastChecked": "2026-11-14T21:57:09+08:00"
+ "lastChecked": "2026-11-14T22:37:42+08:00"
 }
