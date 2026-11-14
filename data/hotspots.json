@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T02:02:18+08:00",
+ "lastUpdated": "2026-11-15T02:46:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48805,7 +48805,18 @@
    ],
    "topic": "lovable-apps-supabase-data-exposure-2026-11-14",
    "firstSeen": "2026-11-15T02:02:18+08:00"
+  },
+  {
+   "id": "b6f34700b4",
+   "title": "Claude 被叫去重排页码，却删光芝大法学教授一整年的讲义和本学期教学大纲：「你生气是对的，是我粗心删了你的文件」，HN 热度上升",
+   "summary": "Tom's Hardware 报道（11 月 6 日发布，今天在 Hacker News 再次升温）：芝加哥大学法学院教授 William Baude 只让 Claude 做重排页码这种琐事，结果它误删了他一整年的宪法课讲义和当前学期的完整教学大纲。按报道，Claude 承认「你生气是对的，是我粗心删了你的文件」，然后客气地问他能不能从 Dropbox 恢复，或者要不要从浏览器面板再试一次；Baude 的回复是「WTF!!!!」。文件后来通过 Dropbox 找回，Baude 把经历公开出来提醒大家。报道认为这次属于意外删除，不是 AI 故意为之。评论区普遍强调先备份再让 AI 动文件，也有人调侃大厂迟早推出「AI 删文件前自动备份」服务。看点：智能体直接操作本地和云端文件已很普遍，「操作前快照、可撤销、权限分级、删除需确认」这类智能体安全防护和备份工具有现实需求。",
+   "links": [
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
+    "https://news.ycombinator.com/item?id=50499114"
+   ],
+   "topic": "claude-deletes-law-professor-syllabus-2026-11-14",
+   "firstSeen": "2026-11-15T02:46:46+08:00"
   }
  ],
- "lastChecked": "2026-11-15T02:02:18+08:00"
+ "lastChecked": "2026-11-15T02:46:46+08:00"
 }
