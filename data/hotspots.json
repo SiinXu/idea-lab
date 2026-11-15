@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T20:11:12+08:00",
+ "lastUpdated": "2026-11-15T20:30:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49008,7 +49008,20 @@
    ],
    "topic": "nejm-doctor-ai-diagnosis",
    "firstSeen": "2026-11-15T20:11:12+08:00"
+  },
+  {
+   "id": "fd6d1fd42b",
+   "title": "Solana Breakpoint 2026 在伦敦开幕：首次落地欧洲，主题「代币超级周期」",
+   "summary": "Solana 年度旗舰大会 Breakpoint 2026 于 11 月 15–17 日在伦敦 Olympia 举行，这是它首次来到英国和欧洲，主办方预计有 100 多个国家的 6000–8000 人参会。大会主题是「代币超级周期」：第一天讲稳定币、支付、代币化股票与 RWA，第二天讲 AI 与智能体链上应用、消费级应用和预测市场。嘉宾包括 Zelle（ZelleUSD 跨境稳定币）、Bitwise（首只资产规模破 10 亿美元的 Solana 质押 ETF）、Backpack（1:1 背书的代币化股票）、Jupiter、Helius（主网隐私转账）、Y Combinator，还有 Boris Johnson 参加的「加密是否是英国经济未来」辩论。会场内外，MoonPay 推出面向 AI 智能体在 Solana 上结算的 PayBox，Solana Labs 推出代币化资产交易 App Leap。另一面，SOL 价格跌到约 70 美元，与会场热度形成反差。看点：稳定币支付和「AI 智能体付款」正成为公链叙事主线，传统金融机构正在入场。",
+   "links": [
+    "https://solana.com/breakpoint",
+    "https://solana.com/news/breakpoint-2026-london-speakers-2",
+    "https://rwanews.network/solana-breakpoint-2026-is-about-to-start-in-london-heres-who-has-the-most-hype-and-what-they-re-shipping/",
+    "https://x.com/i/trending/2121923341896515978"
+   ],
+   "topic": "solana-breakpoint-2026-london",
+   "firstSeen": "2026-11-15T20:30:40+08:00"
   }
  ],
- "lastChecked": "2026-11-15T20:11:12+08:00"
+ "lastChecked": "2026-11-15T20:30:40+08:00"
 }
