@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T02:27:45+08:00",
+ "lastUpdated": "2026-11-16T02:58:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49110,7 +49110,31 @@
    ],
    "topic": "nvidia-skillevaluator-agent-skills",
    "firstSeen": "2026-11-16T02:27:45+08:00"
+  },
+  {
+   "id": "e07251ea6d",
+   "title": "Scale「远程劳动指数」：Anthropic Fable 5.2 能按专业水准完成 41% 的真实 Upwork 外包项目，一年前榜首只有 2.5%",
+   "summary": "Scale Labs 与 AI 安全中心（CAIS）的 Remote Labor Index（RLI）用 240 个真实 Upwork 外包项目测 AI 智能体，项目来自 358 名认证自由职业者，覆盖 23 个领域，包括游戏开发、产品设计、建筑、数据分析和视频动画，总价值约 14.4 万美元。评审拿 AI 的交付物和当初人类实际交付的成果对比，问「一个讲理的客户会不会接受」，达到或超过人类水平才算完成。官方榜单（用 230 个私有项目打分）显示，11 月 9 日发布的 Anthropic Fable 5.2 自动化率为 41.25%，约是第二名 Opus 5.5（21.25%）和 OpenAI GPT-6 Astra（20.83%）的两倍；前代 Fable 5.1 为 17.92%。去年 10 月榜单刚上线时，第一名 Manus 只有 2.5%，一年涨了约 16 倍。注意：这不等于 AI 取代了 41% 的自由职业市场，只说明在这批具体任务上专家会接受它的完整交付，而且没有考虑客户反复修改的情况。这个话题今天在 X 上热议。看点：设计、数据、网站这类外包活，AI 智能体已经能独立交付四成，「AI 代工接单」类生意的门槛正在快速降低。",
+   "links": [
+    "https://labs.scale.com/leaderboard/rli",
+    "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/",
+    "https://x.com/i/trending/2122018979606614183"
+   ],
+   "topic": "remote-labor-index-fable-5-2-41pct",
+   "firstSeen": "2026-11-16T02:58:10+08:00"
+  },
+  {
+   "id": "4bcc9df551",
+   "title": "CNBC：小特朗普背书的军用人形机器人公司 Foundation 发不出工资，CEO 去年从公司借走 460 万美元买湾景豪宅",
+   "summary": "CNBC 11 月 14 日援引知情人士报道，旧金山军用人形机器人公司 Foundation Future Industries（产品为 Phantom 人形机器人，由小特朗普担任顾问并投资）10 月 30 日没能按时发工资，至今员工仍未拿到薪水。让员工尤其不满的是，CEO 兼联合创始人 Sankaet Pathak 去年从公司借了 460 万美元，当时称是短期借款；公开记录显示，一家以他为唯一负责人的 LLC 在 2025 年 10 月买下加州索萨利托一套 460 万美元、可俯瞰旧金山湾的房产。Pathak 是公司唯一的董事会成员，也持有多数股份，潜在投资人对公司治理表示担忧。公司今年 8 月也曾缺钱发薪，靠现有投资人的过桥贷款拖了约两天。报道还说，外界常提的 2400 万美元五角大楼合同其实来自它 2024 年收购的 Boardwalk Robotics，相关业绩里程碑尚未达成。Pathak 此前的金融科技公司 Synapse 已在 2024 年倒闭，导致大量客户存款无法取出。他在内部备忘录中说正在筹钱补发工资，公司仍在寻求以 30 亿美元估值融资。看点：人形机器人赛道融资火热，但治理缺位的公司现金流可能比想象中脆弱得多。",
+   "links": [
+    "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+    "https://www.humanoidsdaily.com/news/foundation-missed-payroll-pathak-4-6-million-loan",
+    "https://x.com/i/trending/2121650742389772376"
+   ],
+   "topic": "foundation-humanoid-missed-payroll-ceo-loan",
+   "firstSeen": "2026-11-16T02:58:10+08:00"
   }
  ],
- "lastChecked": "2026-11-16T02:27:45+08:00"
+ "lastChecked": "2026-11-16T02:58:10+08:00"
 }
