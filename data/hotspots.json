@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T22:12:45+08:00",
+ "lastUpdated": "2026-11-15T22:30:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49033,7 +49033,17 @@
    ],
    "topic": "nyt-lutnick-chip-rules-cantor-sea-datacenters",
    "firstSeen": "2026-11-15T22:12:45+08:00"
+  },
+  {
+   "id": "57809c39ab",
+   "title": "新款 OLED MacBook Pro 陷「频闪」争议：Notebookcheck 实测 PWM 仅 240Hz，部分用户头痛、眩晕后退货",
+   "summary": "苹果新款 MacBook Pro 首次用上串联 OLED 的 PROLED XDR 屏，画质好评如潮，但一批早期用户反映用后出现头痛、眼疲劳、眩晕甚至恶心，有人已经退货。MacRumors 论坛和 Reddit 上都出现了讨论帖，AppleInsider 11 月 10 日也发文跟进。争议集中在 PWM 调光：OLED 靠快速开关像素发光来调节亮度，频率低时，敏感人群容易不适。Notebookcheck 实测 14 英寸机型在 99% 及以下亮度存在 240Hz 频闪，而上一代 Mini-LED 版 M4 Pro MacBook Pro 实测为 14,880Hz。MacAnorak 11 月 14 日的长文梳理了这件事（11 月 15 日登上 HN），认为参数漂亮的屏幕对一部分人反而更难用，呼吁苹果正视。看点：笔记本全面转向 OLED 时，「低频闪 / DC 调光」可能成为新的卖点和投诉焦点，护眼检测和配件类产品也有机会。",
+   "links": [
+    "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"
+   ],
+   "topic": "macbook-pro-proled-pwm-flicker",
+   "firstSeen": "2026-11-15T22:30:42+08:00"
   }
  ],
- "lastChecked": "2026-11-15T22:12:45+08:00"
+ "lastChecked": "2026-11-15T22:30:42+08:00"
 }
