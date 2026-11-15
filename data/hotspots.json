@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T01:56:12+08:00",
+ "lastUpdated": "2026-11-16T02:27:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49099,7 +49099,18 @@
    ],
    "topic": "saas-invisible-backend-mcp-bustamante",
    "firstSeen": "2026-11-16T01:56:12+08:00"
+  },
+  {
+   "id": "118c92fa9d",
+   "title": "GitHub 热榜：英伟达开源 SkillEvaluator，给 AI 智能体技能「打分」，对比装与不装技能时的任务结果",
+   "summary": "NVIDIA/SkillEvaluator 今天登上 GitHub 每日趋势榜，约 1500 星，Apache-2.0 协议。它用来检查 AI 智能体技能（符合 Agent Skills 规范、由指令和配套文件组成的文件夹）的质量，并衡量技能对任务结果的实际影响：先做质量检查（含语义重叠检测），再生成合成评测数据，最后在真实智能体上对比有技能和没技能时的表现。用法有三种：`pip install skillevaluator` 后直接跑 CLI，第一层检查不需要 API 密钥；用 `skillevaluator ci init` 在每个 PR 上自动检查改动的技能（支持 GitHub 和 GitLab）；或者用 `npx skills add NVIDIA/SkillEvaluator` 装进 Claude Code、Codex 等智能体后直接问「我的技能好不好」。项目属于英伟达的 Verified Skills 流水线，附有 arXiv 论文和开发者博客。看点：技能市场越来越拥挤，「技能装上到底有没有用」开始有了可复现的评测工具，适合做技能榜单和质量认证。",
+   "links": [
+    "https://github.com/NVIDIA/SkillEvaluator",
+    "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/"
+   ],
+   "topic": "nvidia-skillevaluator-agent-skills",
+   "firstSeen": "2026-11-16T02:27:45+08:00"
   }
  ],
- "lastChecked": "2026-11-16T01:56:12+08:00"
+ "lastChecked": "2026-11-16T02:27:45+08:00"
 }
