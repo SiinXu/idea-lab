@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T04:12:07+08:00",
+ "lastUpdated": "2026-11-16T04:42:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49156,7 +49156,20 @@
    ],
    "topic": "alpha-school-ai-two-hour-school-missed-math-targets",
    "firstSeen": "2026-11-16T04:12:07+08:00"
+  },
+  {
+   "id": "1466aad121",
+   "title": "《金融时报》：黄仁勋本人正考虑重返英伟达 CEO，盟友组建硅谷「作战室」游说董事会，马斯克、Tim Sweeney 联署「Bring Jensen Back」公开信",
+   "summary": "《金融时报》11 月 15 日援引知情人士报道（路透转述），几天前因婚外情丑闻辞职的黄仁勋已在和亲信讨论重返英伟达 CEO 的可能。一名盟友称正在组建由硅谷高管组成的「作战室」游说董事会，并争取白宫支持，且这一行动得到黄仁勋本人认可。周末，马斯克和 Epic Games CEO Tim Sweeney 等人支持一封要求董事会「Bring Jensen Back」的公开信，一些英伟达员工也公开署名；大股东 Altimeter 的 Brad Gerstner 和 Atreides 的 Gavin Baker 周五致信董事会，要求「保留所有选项，包括黄仁勋回归」。阻力同样明显：美国财长贝森特周日表示英伟达需要「大刀阔斧的领导层改组」并从外部找 CEO；黄仁勋不像其他创始人那样拥有控股权，无法推翻董事会；董事会独立调查仍在进行，临时 CEO 科莱特·克雷斯正带队准备周二的季度财报。看点：这是继 OpenAI 之后又一场「创始人回归」博弈，结果将直接影响英伟达财报前后的股价和对华合规走向。",
+   "links": [
+    "https://www.investing.com/news/stock-market-news/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports-5028065",
+    "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
+    "https://nypost.com/2026/11/15/business/jensen-huangs-allies-pushing-nvidia-board-to-re-appoint-him-days-after-he-resigned-over-chinese-spy-employee-affairs/",
+    "https://news.ycombinator.com/item?id=50509883"
+   ],
+   "topic": "jensen-huang-weighs-nvidia-ceo-comeback-war-room",
+   "firstSeen": "2026-11-16T04:42:52+08:00"
   }
  ],
- "lastChecked": "2026-11-16T04:12:07+08:00"
+ "lastChecked": "2026-11-16T04:42:52+08:00"
 }
