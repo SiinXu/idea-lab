@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T11:24:31+08:00",
+ "lastUpdated": "2026-11-15T13:11:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48874,7 +48874,18 @@
    ],
    "topic": "faa-ground-stop-single-router-l3harris-root-cause",
    "firstSeen": "2026-11-15T11:24:31+08:00"
+  },
+  {
+   "id": "70a0782021",
+   "title": "islandcn 开源：用 shadcn 一行命令给任意 React 应用装上「灵动岛」，发布两天 GitHub 近 700 星",
+   "summary": "opencoredev 于 11 月 13 日开源 islandcn，一个仿 iPhone 灵动岛（Dynamic Island）的 React 组件，可通过 `npx shadcn add` 直接安装。核心引擎管理活动栈，支持空闲、紧凑、分裂、展开四种形态，弹簧动画参数按真机逐帧录屏拟合，支持长按、提醒和减少动态效果；自带上传进度、计时器、正在播放、来电、打车/外卖 ETA、录音、附近传输、电量等预设，并提供 playground 在线拼装。发布约两天已获近 700 星、50+ fork。看点：shadcn 注册表式「复制即用」高质感动效组件正成为前端新分发方式，适合收录进设计学院组件库，也可延伸出 SaaS 通知/进度提示类产品与付费组件包。",
+   "links": [
+    "https://github.com/opencoredev/islandcn",
+    "https://islandcn.dev"
+   ],
+   "topic": "islandcn-dynamic-island-react-shadcn",
+   "firstSeen": "2026-11-15T13:11:44+08:00"
   }
  ],
- "lastChecked": "2026-11-15T11:24:31+08:00"
+ "lastChecked": "2026-11-15T13:11:44+08:00"
 }
