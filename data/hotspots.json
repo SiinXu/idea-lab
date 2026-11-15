@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T17:28:47+08:00",
+ "lastUpdated": "2026-11-15T17:59:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48907,7 +48907,32 @@
    ],
    "topic": "gemini-4-carbon-low-thinking-reasoning-leak",
    "firstSeen": "2026-11-15T17:28:47+08:00"
+  },
+  {
+   "id": "c72b09c5ec",
+   "title": "韩国税务师考试状元承认用微型摄像头 + 生成式 AI 作弊，警方立案，主管机构将排查全部国家资格考试",
+   "summary": "34 岁的韩元锡（Han Won-seok）今年韩国税务师资格考试一试几乎满分（160 题答对 159 题，397.5/400），二试也位列第一；11 月 15 日他在律师 YouTube 频道认罪：用微型摄像头拍下考题、发给生成式 AI，再在智能手机上看答案，3 月注册会计师一试也用了同样方法（未通过）。四名监考员此前均称未发现异常。首尔警察厅已正式立案；韩国产业人力公团将以妨碍业务提起诉讼、撤销其合格资格，排查所有国家资格考试，并扩大「AI 监考」系统、考虑检查所有眼镜、引入射频探测器；总统府也就高考前防范 AI 作弊召开紧急会议。看点：AI + 可穿戴设备让高风险考试的作弊门槛骤降，考场反作弊（射频探测、智能眼镜检测、AI 监考）和考试形式改革将迎来需求。",
+   "links": [
+    "https://www.koreaherald.com/article/10937594",
+    "https://www.koreatimes.co.kr/southkorea/law-crime/20261115/top-tax-accountant-exam-scorer-admits-to-cheating-using-ai",
+    "https://www.asiae.co.kr/en/article/2026111515314207752",
+    "https://x.com/i/trending/2121846468218667454"
+   ],
+   "topic": "korea-tax-exam-ai-cheating",
+   "firstSeen": "2026-11-15T17:59:36+08:00"
+  },
+  {
+   "id": "1223713e5b",
+   "title": "爱丁堡逾 6000 人游行反对苏格兰 AI 数据中心：20 多个项目若全获批，峰值用电或翻三倍，要求先公开咨询",
+   "summary": "11 月 14 日，80 多个社区、气候、工会和反贫困组织发起游行，6000 多人沿皇家一英里走到苏格兰议会，要求政府在批准任何 AI 数据中心前开展全国公开咨询。苏格兰目前有 20 多个大小不一的 AI 数据中心提案；地球之友苏格兰测算 23 个提案合计将新增 9.1GW 峰值需求，约为现有 5GW 的近三倍，且到 2030 年数据中心可能成为苏格兰排放最多的行业。其中 Chapelcross 拟建 1000MW，而苏格兰现有最大的数据中心只有约 12MW。苏格兰政府表示年底前发布数据中心规划指引，并要求 50MW 以上项目提交环评。看点：AI 算力扩张在欧洲遭遇电价、用水和气候的社会阻力（丹麦、荷兰、西班牙、爱尔兰本月也有类似抗议），选址、能效与社区沟通将成为算力项目的关键成本。",
+   "links": [
+    "https://www.bbc.co.uk/news/articles/c8n50w445zgpo",
+    "https://foe.scot/press-release/thousands-march-to-stop-ai-data-centres/",
+    "https://x.com/i/trending/2121655623913968015"
+   ],
+   "topic": "edinburgh-march-against-ai-data-centres",
+   "firstSeen": "2026-11-15T17:59:36+08:00"
   }
  ],
- "lastChecked": "2026-11-15T17:28:47+08:00"
+ "lastChecked": "2026-11-15T17:59:36+08:00"
 }
