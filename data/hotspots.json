@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T11:02:34+08:00",
+ "lastUpdated": "2026-11-15T11:24:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48861,7 +48861,20 @@
    ],
    "topic": "eff-aclu-alpr-warrant-sixth-circuit-sturdivant",
    "firstSeen": "2026-11-15T11:02:34+08:00"
+  },
+  {
+   "id": "dbfc348e99",
+   "title": "FAA 全国停飞原因锁定「一台路由器」：L3Harris 铜线换光纤时新装的路由器每 4–5 秒发起 1000 多次连接请求，冲垮 22 个航路管制中心里的 17 个",
+   "summary": "美国交通部长达菲 11 月 14 日表示，导致 11 月 13 日全国停飞近 5 小时的元凶可能只是一台路由器：承包商 L3Harris 在一个偏远 FAA 站点做铜线换光纤的例行维护，新装的路由器开始向其他路由器狂发连接请求，每 4–5 秒超过 1000 次，造成空地通信和雷达数据不稳，波及 22 个航路管制中心中的 17 个。FAA 一时查不出根因，只能全国停飞；自周五以来受影响航班已超过 2 万班。路透社援引官员称，阿肯色州和得克萨斯州的路由器可能都有问题；被替换的设备已用了约 25 年，本该 2006 年就换掉。达菲说还在查是「L3Harris 安装失误，还是路由器本身有缺陷」。《华尔街日报》称故障路由器位于阿肯色州南部，相关报道正在 HN 上发酵。看点：关键基础设施的网络变更管理、广播风暴/连接风暴防护、老旧网络监控与故障演练类产品和咨询需求。",
+   "links": [
+    "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+    "https://www.straitstimes.com/world/us-aviation-shutdown-blamed-on-l3-harris-installed-router",
+    "https://www.nbcnews.com/news/us-news/router-problem-one-faa-site-led-nationwide-ground-stop-rcna609325",
+    "https://news.ycombinator.com/item?id=50503588"
+   ],
+   "topic": "faa-ground-stop-single-router-l3harris-root-cause",
+   "firstSeen": "2026-11-15T11:24:31+08:00"
   }
  ],
- "lastChecked": "2026-11-15T11:02:34+08:00"
+ "lastChecked": "2026-11-15T11:24:31+08:00"
 }
