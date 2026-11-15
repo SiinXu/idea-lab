@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T01:24:36+08:00",
+ "lastUpdated": "2026-11-16T01:56:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49089,7 +49089,17 @@
    ],
    "topic": "faa-ground-stop-controllers-dispute-duffy",
    "firstSeen": "2026-11-16T01:24:36+08:00"
+  },
+  {
+   "id": "4b6de9568a",
+   "title": "X 热议「SaaS 将沦为隐形后端」：微软 AI 负责人 Nicolas Bustamante 称 AI 智能体会接管用户对话，SaaS 应通过 MCP 暴露数据和工具",
+   "summary": "据 X 热门话题汇总，微软 AI 负责人 Nicolas Bustamante 发帖认为，随着 AI 智能体接管和用户的对话，SaaS 公司会从用户视线里「消失」，变成在幕后提供数据和工具的后端。他建议 SaaS 厂商通过 MCP 服务器开放自己的专有数据和工具，让 Claude 等模型去负责对话，厂商继续收订阅费、掌握数据控制权。他举了 HR 软件的例子：厂商只需提供薪资查询、审批等工具，不必自己做 AI 界面，token 成本由客户承担，利润率因此得以保住。MCP 是 Anthropic 提出、现归 Linux 基金会管理的开放标准，采用率在上升；讨论者认为，真正的智能体取代固定流程和独立 App 后，软件品类可能被合并。注意：这是 X 平台基于帖子生成的话题摘要，原帖细节有待核实。看点：对做 SaaS 和工具站的人来说，「先做 MCP 接口、再做界面」可能成为新的产品顺序。",
+   "links": [
+    "https://x.com/i/trending/2121799429653213500"
+   ],
+   "topic": "saas-invisible-backend-mcp-bustamante",
+   "firstSeen": "2026-11-16T01:56:12+08:00"
   }
  ],
- "lastChecked": "2026-11-16T01:24:36+08:00"
+ "lastChecked": "2026-11-16T01:56:12+08:00"
 }
