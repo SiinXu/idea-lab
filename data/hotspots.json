@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T07:47:11+08:00",
+ "lastUpdated": "2026-11-16T07:57:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49225,7 +49225,18 @@
    ],
    "topic": "internet-archive-salon-explorer",
    "firstSeen": "2026-11-16T07:47:11+08:00"
+  },
+  {
+   "id": "6910e2e44b",
+   "title": "SpaceXAI 南黑文数据中心泄漏约 5000 加仑冷却液：承包商接错软管，部分流入排水沟，州环保局监督清理",
+   "summary": "据孟菲斯 WREG 11 月 15 日报道，密西西比州环境质量局（MDEQ）称，SpaceXAI 位于南黑文（Southaven）的设施周六发生化学品泄漏。公司表示，承包商在移动储罐上接错软管，导致约 5000 加仑丙二醇外泄，大部分留在厂区内，但有部分流入附近排水沟；MDEQ 周日确认该物质为陶氏「DOWFROST HD」导热液，按 OSHA 标准属非危险混合物，目前已控制住、无直接公共健康威胁，清理承包商将挖除受影响土壤。WREG 摄影记者周六晚进入公共道路 Stanton Road 时被 SpaceXAI 安保请离。该消息 11 月 15 日登上 HN。看点：AI 数据中心大规模液冷带来新的环境与社区监管风险，冷却液泄漏监测、数据中心环境合规与周边社区沟通类服务值得关注。",
+   "links": [
+    "https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/",
+    "https://news.ycombinator.com/item?id=50511899"
+   ],
+   "topic": "spacexai-southaven-coolant-spill",
+   "firstSeen": "2026-11-16T07:57:32+08:00"
   }
  ],
- "lastChecked": "2026-11-16T07:47:11+08:00"
+ "lastChecked": "2026-11-16T07:57:32+08:00"
 }
