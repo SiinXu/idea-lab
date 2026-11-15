@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T03:30:53+08:00",
+ "lastUpdated": "2026-11-16T04:12:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49145,7 +49145,18 @@
    ],
    "topic": "microsoft-365-outage-phantasialand-chlorine-alarm-email",
    "firstSeen": "2026-11-16T03:30:53+08:00"
+  },
+  {
+   "id": "da5a45ac44",
+   "title": "年费 7.5 万美元的 AI 学校 Alpha School 被曝成绩不达标：约一半 K-8 学生没完成「数学学习速度翻倍」目标",
+   "summary": "《财富》11 月 14 日援引《纽约时报》看到的内部数据报道：主打「每天只上两小时 AI 课、学习速度翻倍」的美国私立连锁学校 Alpha School（学费最高每年 7.5 万美元，约 50 个校区、1500 名学生）只有 42% 的学生在数学和阅读上同时达到「两倍速」目标；在私立校区的 K-8 学生中，约一半没达到数学目标，约五分之一没达到阅读目标；入学时数学处于全美后 50% 的学生，只有 37% 达标。学校没有传统教师，只有负责激励学生的「引导员」，核心是名为 TimeBack 的 AI 辅导应用。Wired 报道有学生为了完成目标学到深夜，前员工向 404 Media 透露 AI 生成的教案有时「弊大于利」。Alpha 此前获得美国教育部长 McMahon、Reid Hoffman、Bill Ackman 等人公开力挺，目前正把软件推进公立学校。该报道 11 月 15 日登上 Hacker News。看点：「AI 替代老师」的教育叙事开始接受真实数据检验，AI 教育产品需要拿得出可验证的学习效果。",
+   "links": [
+    "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+    "https://news.ycombinator.com/item?id=50509953"
+   ],
+   "topic": "alpha-school-ai-two-hour-school-missed-math-targets",
+   "firstSeen": "2026-11-16T04:12:07+08:00"
   }
  ],
- "lastChecked": "2026-11-16T03:30:53+08:00"
+ "lastChecked": "2026-11-16T04:12:07+08:00"
 }
