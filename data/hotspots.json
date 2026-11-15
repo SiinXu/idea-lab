@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T23:54:54+08:00",
+ "lastUpdated": "2026-11-16T00:15:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49056,7 +49056,18 @@
    ],
    "topic": "ramaphosa-silicon-valley-ai-mission-2026",
    "firstSeen": "2026-11-15T23:54:54+08:00"
+  },
+  {
+   "id": "de1b04aef2",
+   "title": "HN 热议「所有 AI 生成的代码都应开源」：作者称闭源 AI 代码是「许可证洗白」，纯 AI 代码本就不该受版权保护",
+   "summary": "jQuery Terminal 作者 Jakub T. Jankiewicz 发文提出「热观点」：所有由 AI 生成的代码都应该开源，或用 CC0 放入公有领域。他给了两个理由。第一，大模型训练用了几十年来的开源代码，以及要求署名的 Stack Overflow（CC 协议）内容，都是未经许可、也没有署名就抓取的，把这些集体知识变成闭源代码，等于「许可证洗白」。第二，在法律上，纯 AI 生成的内容不是人创作的，不应受版权保护：美国「猴子自拍」案确立了非人类不能享有版权，美国版权局在 AI 问题上也引用了这一先例，Wikimedia Commons 也要求纯 AI 图片标为公有领域。不过各国规定不同，英国就给计算机生成作品有限的版权，所以作者主张主动开源最公平，尤其是那些人只写了提示词、连审查都没做的代码。文章 11 月 15 日登上 HN 首页，几小时内拿到约 190 分、130 多条评论，争论集中在 AI 代码的版权归属和开源许可证的约束力。看点：vibe coding 产出的代码到底归谁、能不能闭源商用，正在成为开发者和企业绕不开的合规问题。",
+   "links": [
+    "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "https://news.ycombinator.com/item?id=50507303"
+   ],
+   "topic": "all-ai-generated-code-should-be-open-source",
+   "firstSeen": "2026-11-16T00:15:45+08:00"
   }
  ],
- "lastChecked": "2026-11-15T23:54:54+08:00"
+ "lastChecked": "2026-11-16T00:15:45+08:00"
 }
