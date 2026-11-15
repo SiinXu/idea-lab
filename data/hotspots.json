@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T18:28:18+08:00",
+ "lastUpdated": "2026-11-15T19:40:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48957,7 +48957,33 @@
    ],
    "topic": "acurast-qwen-9b-on-phones",
    "firstSeen": "2026-11-15T18:28:18+08:00"
+  },
+  {
+   "id": "8b1c9ace4a",
+   "title": "Uber 确认数千名司机驾照信息被盗：源头是 AI 推理供应商 Fireworks 遭入侵，Notion、Cursor 之后又一受害客户",
+   "summary": "Uber 向多州总检察长提交的数据泄露通知显示：10 月 9 日服务商告知其内部凭证被盗，攻击者 10 月 7 日用这些凭证访问了 Uber 为该服务商专门开设的云存储，取走司机驾照图片及识别出的姓名、地址、出生日期和驾照号。TechCrunch 证实该服务商是 Fireworks AI。已披露人数包括南卡罗来纳 3,430 人、爱荷华约 2,999 人、马萨诸塞 2,567 人、罗得岛 1,873 人、佛蒙特 1,071 人，加州、伊利诺伊等地人数未公布，预计还会增加。Uber 称攻击者用的是合法凭证、未触发告警，已切断连接、轮换密钥，并通过 Cyberscout 提供免费信用监控。看点：AI 推理/训练供应商正成为供应链攻击的集中入口，把敏感数据交给模型服务商做处理时，隔离、最小权限和凭证轮换要按「对方迟早会被攻破」来设计。",
+   "links": [
+    "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+    "https://www.iowaattorneygeneral.gov/media/cms/11102026_Uber_Technologies_Inc_089721E61CBAB.pdf",
+    "https://www.engadget.com/2316881/uber-drivers-information-stolen-in-a-third-party-hack/",
+    "https://x.com/i/trending/2121435474480746672"
+   ],
+   "topic": "uber-driver-data-fireworks-breach",
+   "firstSeen": "2026-11-15T19:40:56+08:00"
+  },
+  {
+   "id": "c5725ed10e",
+   "title": "X 开源推荐算法改权重：「复制链接」从 20 降到 0，同期新增「诱导复制链接」垃圾内容识别",
+   "summary": "X 在 11 月 13 日推送到 GitHub 仓库 xai-org/x-algorithm 的更新（提交 590f392）中，把 home-mixer/params/param.rs 里的 ShareViaCopyLinkWeight 从 20.0 改成 0.0。它此前是正向权重里最大的一项，相当于回复的 4 倍。同一版本还在垃圾内容标签 SpamHighRecall 下加入了「CopyLinkBait」分类头，目前只出现在测试代码里。其余权重不变：互相关注者的回复 20、回复/引用/私信分享各 5、关注作者 4、点赞 0.708，举报 -234。vm-ranker 中同名参数仍为 20，线上实际读哪一份代码看不出来，X 也没有解释原因。看点：「求复制链接、求转发」式增长技巧失效，运营 X 账号应转向引发真实回复、回关和私信分享的原创内容。",
+   "links": [
+    "https://github.com/xai-org/x-algorithm/",
+    "https://thexalgorithmbook.com/updates/x-set-copy-link-weight-to-zero-november-13-2026",
+    "https://keywordseverywhere.com/news/social-algorithm-updates/",
+    "https://x.com/i/trending/2121641361653068057"
+   ],
+   "topic": "x-algorithm-copy-link-weight-zero",
+   "firstSeen": "2026-11-15T19:40:56+08:00"
   }
  ],
- "lastChecked": "2026-11-15T18:28:18+08:00"
+ "lastChecked": "2026-11-15T19:40:56+08:00"
 }
