@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T16:29:10+08:00",
+ "lastUpdated": "2026-11-15T17:28:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48896,7 +48896,18 @@
    ],
    "topic": "tencent-loopforge-coding-agent-sop",
    "firstSeen": "2026-11-15T16:29:10+08:00"
+  },
+  {
+   "id": "4ad602e15f",
+   "title": "Gemini 4 Carbon 低思考档「当众破防」：数学题答到一半把内部草稿刷满屏，惊呼「我一直在直接写给用户？！」",
+   "summary": "数学家 Alon Amit 用 Gemini 4 Carbon 问一道数学题时，忘了把思考档位从 Low 调回来；模型先把六屏左右的草稿推算直接输出到回答里，随后发现自己的思考标签早已关闭，惊呼「I WAS WRITING DIRECTLY TO THE USER?!」，还自称「effort 只有 0.05」，并对自己说「停下，深呼吸」。截图今天在 X 上被大量转发和玩梗，登上 X 热门话题。看点：可调推理深度的模型在最低档位下可能把内部推理泄露给用户，并暴露档位等内部参数；面向客户的产品不宜直接用最低思考档，接入时应做输出过滤与回归测试，也可衍生「模型行为异常监测/评测」类工具。",
+   "links": [
+    "https://x.com/i/trending/2121872944007872699",
+    "https://x.com/i/status/2121751642005721122"
+   ],
+   "topic": "gemini-4-carbon-low-thinking-reasoning-leak",
+   "firstSeen": "2026-11-15T17:28:47+08:00"
   }
  ],
- "lastChecked": "2026-11-15T16:29:10+08:00"
+ "lastChecked": "2026-11-15T17:28:47+08:00"
 }
