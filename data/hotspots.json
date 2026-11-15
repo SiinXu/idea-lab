@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T19:52:42+08:00",
+ "lastUpdated": "2026-11-15T20:11:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48996,7 +48996,19 @@
    ],
    "topic": "caine-prize-clears-author-pangram",
    "firstSeen": "2026-11-15T19:52:42+08:00"
+  },
+  {
+   "id": "aec598e7f2",
+   "title": "NEJM 临床叙事：基层医生靠 AI 聊天机器人确诊困扰患者十年的腹痛",
+   "summary": "《新英格兰医学杂志》11 月 14 日刊发初级保健医生、FDA AI 治理顾问 Shantanu Nundy 的文章《What the Robot Still Can’t Do》。文中的患者是一名 37 岁女性，上腹痛近十年，胃镜、幽门螺杆菌检测都正常，抑酸药也无效。Nundy 把完整病史输入一个 LLM 应用，模型几乎立刻给出功能性消化不良（一种肠脑互动障碍），指出孩子哭闹会诱发疼痛，并建议用阿米替林。三周后患者明显好转。Nundy 坦言，这是他执业 15 年来从未诊断过的病，治疗主要依据聊天机器人的输出。他也强调，观察神情、建立信任、跨语言共情仍是医生不可替代的部分。Eric Topol 转发后，这个病例在 X 上引发热议。看点：LLM 正成为医生的「第二意见」，临床决策支持的监管边界与人机分工将加速成形。",
+   "links": [
+    "https://www.library.wmuh.nhs.uk/wp/other-updates/gastroenterology/new-england-journal-of-medicine-search-results-for-gastroenterology/",
+    "https://agihunt.info/p/1a1dad7c810fa56141c0b582843",
+    "https://x.com/i/trending/2121704171317403824"
+   ],
+   "topic": "nejm-doctor-ai-diagnosis",
+   "firstSeen": "2026-11-15T20:11:12+08:00"
   }
  ],
- "lastChecked": "2026-11-15T19:52:42+08:00"
+ "lastChecked": "2026-11-15T20:11:12+08:00"
 }
