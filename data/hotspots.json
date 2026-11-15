@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T02:58:10+08:00",
+ "lastUpdated": "2026-11-16T03:30:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49134,7 +49134,18 @@
    ],
    "topic": "foundation-humanoid-missed-payroll-ceo-loan",
    "firstSeen": "2026-11-16T02:58:10+08:00"
+  },
+  {
+   "id": "357c9f3ea7",
+   "title": "微软 365 宕机引发现实事故：德国 Phantasialand 酒店泳池报警邮件没送达，15 名客人吸入氯气受伤",
+   "summary": "德国西部广播公司 WDR 11 月 14 日报道：上周五微软 365（含 Outlook）大范围故障期间，德国布吕尔 Phantasialand 主题乐园旗下 Ling Bao 酒店的泳池自动加药系统出现故障，向泳池注入了过量氯。系统其实已通过邮件发出报警，但因 Outlook 停摆邮件没有送达，现场无人知情。最终 15 名客人出现呼吸道刺激症状，4 人被送医，其中 1 人中度受伤留院观察；泳池一度关闭，换水后已重新开放。该事件 11 月 15 日登上 Hacker News 热榜。看点：把安全告警只押在单一 SaaS 邮件通道上是典型单点故障，工业/楼宇设备的告警冗余（短信、电话、本地声光报警）会被重新审视。",
+   "links": [
+    "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+    "https://news.ycombinator.com/item?id=50509411"
+   ],
+   "topic": "microsoft-365-outage-phantasialand-chlorine-alarm-email",
+   "firstSeen": "2026-11-16T03:30:53+08:00"
   }
  ],
- "lastChecked": "2026-11-16T02:58:10+08:00"
+ "lastChecked": "2026-11-16T03:30:53+08:00"
 }
