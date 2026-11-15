@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T10:10:55+08:00",
+ "lastUpdated": "2026-11-15T11:02:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48850,7 +48850,18 @@
    ],
    "topic": "nvidia-circular-financing-gpu-prices-techspot-2026-11-14",
    "firstSeen": "2026-11-15T10:10:55+08:00"
+  },
+  {
+   "id": "095d34482a",
+   "title": "EFF 联合 ACLU 向美国第六巡回上诉法院提交意见书：要求警方查询 Flock 等车牌识别（ALPR）数据库前必须先拿搜查令",
+   "summary": "EFF 与 ACLU 在 United States v. Sturdivant 案中提交法庭之友意见书。案情是：克利夫兰警方只知道劫匪的车型和颜色，不知道车牌，就在 Flock 和 ELSAG 两个车牌识别数据库里做了开放式检索，找到嫌疑人的车并将其逮捕。一审法院认为车牌公开可见，不受第四修正案保护。EFF 则主张，全国联网的车牌识别系统等于一台随时回看任何人行踪的「时光机」，这种检索本身就算「搜查」，应当先取得搜查令；上月已有联邦地区法院认定车牌识别是「无差别大规模监控」。文章发布于 11 月 9 日，今晚登上 HN 首页，1 小时内涨到约 32 分。看点：执法监控合规、隐私保护工具、监控摄像头地图类产品（如 MapQuest 监控图层）的需求在升温。",
+   "links": [
+    "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+    "https://news.ycombinator.com/item?id=50503255"
+   ],
+   "topic": "eff-aclu-alpr-warrant-sixth-circuit-sturdivant",
+   "firstSeen": "2026-11-15T11:02:34+08:00"
   }
  ],
- "lastChecked": "2026-11-15T10:10:55+08:00"
+ "lastChecked": "2026-11-15T11:02:34+08:00"
 }
