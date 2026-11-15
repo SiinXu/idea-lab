@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T20:30:40+08:00",
+ "lastUpdated": "2026-11-15T22:12:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49021,7 +49021,19 @@
    ],
    "topic": "solana-breakpoint-2026-london",
    "firstSeen": "2026-11-15T20:30:40+08:00"
+  },
+  {
+   "id": "2f54d572a5",
+   "title": "《纽约时报》：美商务部长卢特尼克力推放宽 AI 芯片出口规则，而受影响的东南亚数据中心是其家族公司 Cantor 的客户",
+   "summary": "《纽约时报》11 月 15 日报道：马来西亚柔佛一座代号 A201 的数据中心将于明年启用，内装数亿美元的英伟达最先进 AI 服务器，计划把算力租给一家中国科技巨头。这种做法合法，也绕开了美国禁止向中国企业直接出售顶级芯片的规定。运营方是新加坡的 Bitdeer，Cantor Fitzgerald 今年为其最高 10 亿美元的股票发行担任销售代理；Cantor 原由商务部长卢特尼克执掌，现由他的儿子们经营。报道称，卢特尼克正在主导起草针对这类「境外数据中心服务中国客户」的管制规则，并力推宽松版本：只覆盖新加坡、马来西亚、泰国、印尼、巴西、南非、挪威七国；只管未来出货，已装满美国芯片的数据中心豁免；中国客户用来训练模型时只需通报政府，不必自动申请许可；触发门槛也设得更高。政府内其他官员则希望全球覆盖。商务部回应称卢特尼克已完全剥离 Cantor 的财务利益，也没有就英伟达问题与该公司有过任何接触。看点：东南亚「为中国客户建的算力中心」能否继续存在，取决于这份规则最终的松紧程度。该报道发布当天在 HN 热度上升。",
+   "links": [
+    "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+    "https://dnyuz.com/2026/11/15/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business/",
+    "https://politicalwire.com/2026/11/15/howard-lutnicks-chip-rules-could-boost-family-business/"
+   ],
+   "topic": "nyt-lutnick-chip-rules-cantor-sea-datacenters",
+   "firstSeen": "2026-11-15T22:12:45+08:00"
   }
  ],
- "lastChecked": "2026-11-15T20:30:40+08:00"
+ "lastChecked": "2026-11-15T22:12:45+08:00"
 }
