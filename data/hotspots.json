@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T08:16:19+08:00",
+ "lastUpdated": "2026-11-15T10:10:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48839,7 +48839,18 @@
    ],
    "topic": "l3harris-statement-faa-ground-stop-2026-11-14",
    "firstSeen": "2026-11-15T08:16:19+08:00"
+  },
+  {
+   "id": "85985435b8",
+   "title": "TechSpot 解读 WSJ 报道：英伟达被指借「循环融资」消化台积电晶圆过剩、刻意维持 GPU 高价，消费级显卡普遍超建议价 160%",
+   "summary": "TechSpot 11 月 14 日援引《华尔街日报》对临时 CEO 科莱特·克雷斯的特写称：2026 年年中英伟达向台积电订购的芯片出现「雪崩式」过剩，公司随即加推对云厂商和 AI 公司的融资支持，用来消化产能、维持 GPU 高价，后来又放缓、暂停部分交易，其中包括为 OpenAI 超大数据中心提供的 2500 亿美元兜底。文章称数据中心挤占了 DRAM/NAND 产能，GeForce 显卡价格常常超过建议零售价的 160%，RTX 5090 基本买不到。HN 上这条讨论已超过 190 分。看点：显卡和内存价格追踪、二手 GPU 估价、算力租赁比价，以及「AI 泡沫/循环融资」可视化解读类内容，眼下都有流量。",
+   "links": [
+    "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+    "https://news.ycombinator.com/item?id=50501631"
+   ],
+   "topic": "nvidia-circular-financing-gpu-prices-techspot-2026-11-14",
+   "firstSeen": "2026-11-15T10:10:55+08:00"
   }
  ],
- "lastChecked": "2026-11-15T08:16:19+08:00"
+ "lastChecked": "2026-11-15T10:10:55+08:00"
 }
