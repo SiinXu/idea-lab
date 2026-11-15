@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T19:40:56+08:00",
+ "lastUpdated": "2026-11-15T19:52:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48983,7 +48983,20 @@
    ],
    "topic": "x-algorithm-copy-link-weight-zero",
    "firstSeen": "2026-11-15T19:40:56+08:00"
+  },
+  {
+   "id": "c92be48263",
+   "title": "凯恩非洲写作奖裁定获奖作品「不是 AI 写的」：Pangram 检测结论被推翻，明年起投稿须做 AI 声明",
+   "summary": "10 月 11 日《大西洋月刊》报道，AI 检测工具 Pangram 判定 2026 年凯恩非洲写作奖获奖短篇《The Blue Fighter》几乎全部由 AI 生成。奖项理事会当天启动内部审查，11 月 11 日公布结论：经过对作者、评委和首发刊物的访谈，并由独立数字取证调查员分析 4 份 Word 草稿的元数据（约 27 小时写作与修改，2025 年 4 月构思、6 月完成），没有发现使用生成式 AI 的证据，津巴布韦作者 Simbarashe Kundizeza 保留 1 万英镑奖金。理事会明确表示「仅凭 AI 检测工具不足以认定作者身份」，并宣布 2027 年（11 月 23 日开放投稿）起出版方和入围作者都须提交 AI 声明，同时出台评委指引和公开的审查流程。这一事件仍在 X 上发酵，Pangram 是否对非洲作者存在偏差也有争论。看点：AI 检测从「工具判定」转向「过程证据 + 人工审查」，写作过程留痕和作者身份证明可能成为新的产品机会。",
+   "links": [
+    "https://www.caineprize.com/press",
+    "https://apnews.com/article/caine-prize-africa-writers-kundizeza-ai-77b354cc6ddd135021c3ac5914fc7d77",
+    "https://www.bbc.com/news/articles/cmglr260z7eko",
+    "https://x.com/i/trending/2121924600754057447"
+   ],
+   "topic": "caine-prize-clears-author-pangram",
+   "firstSeen": "2026-11-15T19:52:42+08:00"
   }
  ],
- "lastChecked": "2026-11-15T19:40:56+08:00"
+ "lastChecked": "2026-11-15T19:52:42+08:00"
 }
