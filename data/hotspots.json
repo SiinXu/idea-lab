@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T00:28:06+08:00",
+ "lastUpdated": "2026-11-16T01:24:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49078,7 +49078,18 @@
    ],
    "topic": "dram-hbm-antitrust-suit-survives-dismissal",
    "firstSeen": "2026-11-16T00:28:06+08:00"
+  },
+  {
+   "id": "27fdb39782",
+   "title": "FAA 全国停飞「路由器说」遭空管员质疑：记者称采访 60 名管制员无人相信，交通部长否认与 8.75 亿美元 AI 空管系统 SMART 有关",
+   "summary": "美国交通部长 Duffy 把 11 月 13 日的全国停飞归因于交换机、路由器「被数据压垮」，第二天又补充说是承包商 L3Harris 把老铜线换成光纤时出的问题，正在调查是承包商失误还是路由器故障。但据 Common Dreams 报道，《华盛顿审查者报》记者 Anna Giaritelli 在 CNN 节目中说，她联系了 60 名空管员，「没人相信这个说法」，理由是这类设备切换通常在周中深夜、没有航班时做，不会选在周五下午的繁忙时段。Duffy 坚称刚在全美 22 个航路管制中心铺开的 8.75 亿美元 AI 空管系统 SMART「根本还没接上」，与停飞无关，同时借机再次向国会要 500 亿美元翻新空管系统。民主党众议员 Walkinshaw 引用 GAO 9 月报告，称其早已警告 FAA「用成本不确定和潜在中断换交付速度」；纽约州长 Hochul 要求 Duffy 辞职。据报道，这是 25 年来最长的全国停飞，约 150 万旅客受影响，周六又取消 4100 多班，FAA 预计周日晚恢复正常。该文登上 HN 首页。看点：关键基础设施升级出事后，「谁的锅」和 AI 系统是否被牵连，会直接影响后续的 500 亿预算和承包商问责。",
+   "links": [
+    "https://www.commondreams.org/news/duffy-ground-stop-explanation",
+    "https://news.ycombinator.com/item?id=50507791"
+   ],
+   "topic": "faa-ground-stop-controllers-dispute-duffy",
+   "firstSeen": "2026-11-16T01:24:36+08:00"
   }
  ],
- "lastChecked": "2026-11-16T00:28:06+08:00"
+ "lastChecked": "2026-11-16T01:24:36+08:00"
 }
