@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T04:42:52+08:00",
+ "lastUpdated": "2026-11-16T05:28:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49169,7 +49169,18 @@
    ],
    "topic": "jensen-huang-weighs-nvidia-ceo-comeback-war-room",
    "firstSeen": "2026-11-16T04:42:52+08:00"
+  },
+  {
+   "id": "64748288ec",
+   "title": "ULA 火神半人马座复飞失败：发射约 10 分钟后出现异常，40 颗亚马逊 Leo 宽带卫星全部损失",
+   "summary": "Space.com 报道：美国联合发射联盟（ULA）的火神半人马座（Vulcan Centaur）火箭于美东时间 11 月 15 日 12:40 从佛罗里达卡纳维拉尔角 41 号发射台起飞，搭载 40 颗亚马逊 Leo（原 Project Kuiper）宽带卫星，飞行约 10 分钟后发生异常，未能把卫星送入轨道。ULA 在发射 50 分钟后于 X 上确认失败，称尚无具体数据判断原因。这是火神火箭停飞 9 个月后的复飞任务：此前第 2 次（2024 年 10 月）和第 4 次（今年 2 月）飞行都出现固体助推器喷管烧穿脱落，美国太空军因此暂停了它的国家安全发射任务；本次助推器表现正常，却出现了更严重的新故障。这也是火神首次执行亚马逊 Leo 发射任务（Vulcan Leo 1）。亚马逊 Leo 计划部署 3200 多颗卫星，此前已通过 Atlas V、猎鹰 9 号和阿丽亚娜 6 号的 15 次发射送入约 400 颗，要与 SpaceX 星链竞争。看点：这次失败可能拖慢亚马逊卫星互联网的部署节奏，并进一步加深美国军方和商业发射对 SpaceX 的依赖。",
+   "links": [
+    "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+    "https://news.ycombinator.com/item?id=50510442"
+   ],
+   "topic": "ula-vulcan-return-to-flight-failure-amazon-leo-40-satellites-lost",
+   "firstSeen": "2026-11-16T05:28:43+08:00"
   }
  ],
- "lastChecked": "2026-11-16T04:42:52+08:00"
+ "lastChecked": "2026-11-16T05:28:43+08:00"
 }
