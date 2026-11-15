@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T05:28:43+08:00",
+ "lastUpdated": "2026-11-16T05:54:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49180,7 +49180,18 @@
    ],
    "topic": "ula-vulcan-return-to-flight-failure-amazon-leo-40-satellites-lost",
    "firstSeen": "2026-11-16T05:28:43+08:00"
+  },
+  {
+   "id": "294a13221f",
+   "title": "HN 热议「你的 AI 智能体会挑能改的那款」：AI 让写固件变便宜，硬件厂商开始开源固件，开放性将成为购买决策因素",
+   "summary": "开发者 Geoff Stearns 11 月 15 日发文：约 70 美元的口袋 FM 合成器 M-VAVE FM-1，玩家 9 月起自写固件，到 10 月已有虚拟模拟合成器、多轨律动机、暗黑氛围采样器甚至 Doom 移植，论坛上的开发者几乎都用 AI 编程工具完成。随后 M-VAVE 把官方固件以 GPLv3 开源，并提供开发套件和浏览器模拟器，还加入了 10 秒刷回原厂固件的工具；两周内 Behringer 也公开了 KICK 采样器和 IGNITE 音序器的固件源码，母公司称将开放部分设计让用户用 AI 自写固件，Akai 和 Erica Synths 也宣布跟进。作者认为：AI 能读懂无文档代码、为陌生芯片写代码，任何有可写闪存的设备都会变成平台；未来用户让智能体解决设备问题时，智能体会自己找或写固件，买电视、路由器、合成器时也会偏向「能改的那款」，签名固件和锁定的 Bootloader 会成为障碍。看点：「对智能体友好的硬件」可能成为新的产品卖点，也为固件模拟器、一键刷机/回滚工具等配套工具带来机会。",
+   "links": [
+    "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+    "https://news.ycombinator.com/item?id=50510799"
+   ],
+   "topic": "agents-pick-hackable-hardware-open-firmware",
+   "firstSeen": "2026-11-16T05:54:08+08:00"
   }
  ],
- "lastChecked": "2026-11-16T05:28:43+08:00"
+ "lastChecked": "2026-11-16T05:54:08+08:00"
 }
