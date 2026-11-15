@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T22:30:42+08:00",
+ "lastUpdated": "2026-11-15T23:54:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49043,7 +49043,20 @@
    ],
    "topic": "macbook-pro-proled-pwm-flicker",
    "firstSeen": "2026-11-15T22:30:42+08:00"
+  },
+  {
+   "id": "46e97c81d3",
+   "title": "南非总统拉马福萨率团赴硅谷开展为期一周的「AI 取经」：走访斯坦福、谷歌、思科、微软、Palo Alto Networks，主打「打造非洲 AI 经济」",
+   "summary": "南非总统拉马福萨 11 月 14 日抵达加州圣何塞，率领由政府、学界、企业、科研机构和大学生组成的代表团，开展 11 月 15–21 日的硅谷工作访问。日程：16 日出席 Semafor「硅谷与世界」峰会；17 日到斯坦福与风投和 AI 学者交流，参加总统炉边对话并参观机器人实验室；18 日在圣何塞举办「南非与 AI 的未来」研讨会，议题包括基础设施、政府 AI 应用、AI 安全和未来工作；19 日访问 Alphabet/Google 和思科；20 日访问 Palo Alto Networks 和微软体验中心，主题是 AI 时代的网络韧性与数字主权。核心活动以「打造非洲 AI 经济：基础设施、投资与创新」为主题，讨论数据中心、算力和稳定电力供应。南非总统府引用的数据：2026 年主要云厂商 AI 资本开支约 6500 亿美元，2025 年 AI 风投达 2590 亿美元。Semafor 指出，这次访问正值美南外交关系紧张。看点：非洲国家开始主动争取 AI 算力与投资，数据中心、能源和本地化 AI 服务可能出现新的合作和出海机会。",
+   "links": [
+    "https://www.sanews.gov.za/south-africa/president-lead-delegation-silicon-valley",
+    "https://www.sabcnews.com/sabcnews/ramaphosa-arrives-in-silicon-valley-to-advance-sas-ai-ambitions/",
+    "https://www.semafor.com/article/11/13/2026/s-africas-ramaphosa-takes-ai-pitch-to-musk-turf",
+    "https://x.com/i/trending/2121723491330539695"
+   ],
+   "topic": "ramaphosa-silicon-valley-ai-mission-2026",
+   "firstSeen": "2026-11-15T23:54:54+08:00"
   }
  ],
- "lastChecked": "2026-11-15T22:30:42+08:00"
+ "lastChecked": "2026-11-15T23:54:54+08:00"
 }
