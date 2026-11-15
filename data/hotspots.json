@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T17:59:36+08:00",
+ "lastUpdated": "2026-11-15T18:28:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -48932,7 +48932,32 @@
    ],
    "topic": "edinburgh-march-against-ai-data-centres",
    "firstSeen": "2026-11-15T17:59:36+08:00"
+  },
+  {
+   "id": "0f4205ef8c",
+   "title": "印度 Jio 停发「18 个月免费 Google AI Pro」：新充值用户改送 12 个月 Canva Pro / Pro Lite，已领取者保留剩余权益",
+   "summary": "Reliance Jio 的 Google AI Pro（Gemini）赠送活动已于 2026 年 10 月 29 日截止，新预付费用户不再能领取价值约 35,100 卢比的 18 个月订阅；已领取者只要持续保持 349 卢比以上的合格 5G 套餐即可继续使用。替代权益是 Canva：399 卢比套餐送 12 个月 Canva Pro（约 4,000 卢比），349 卢比及 2GB/天套餐送 Canva Pro Lite（约 1,590 卢比），在 MyJio App 领取。另据 Google 开发者论坛版主说法，Jio 赠送版 AI Pro 自 11 月 2 日起不能在 Antigravity 中使用第三方模型。看点：运营商捆绑 AI 订阅的补贴期正在退潮，从「送大模型」转向「送设计工具」，免费用户的留存与付费转化将是 Google 在印度的下一道考题。",
+   "links": [
+    "https://mobiletelco.in/telecom/jio-gemini-offer-canva-pro-recharge-plans/",
+    "https://telecomtalk.info/reliance-jio-removes-google-ai-pro-benefit/1013922/",
+    "https://www.jio.com/jiocanvaoffer/",
+    "https://x.com/i/trending/2121894928167190712"
+   ],
+   "topic": "jio-ends-free-google-ai-pro",
+   "firstSeen": "2026-11-15T18:28:18+08:00"
+  },
+  {
+   "id": "24d2eefaf1",
+   "title": "Acurast 实测：把 Coinbase 同款 Qwen3.5-9B 风控模型跑在 16GB 安卓手机上，每秒 9.3 token，7000 token 提示 3 分 15 秒读完",
+   "summary": "去中心化算力网络 Acurast 发布实测：4 bit 量化后约 5.7GB 的 Qwen3.5-9B 可装进 16GB 内存的旗舰安卓机，用 llama.cpp / 阿里 MNN 推理并对外提供 OpenAI 兼容 API。在骁龙 8 Elite 级机型上，读取提示最高 85.2 token/秒、生成 9.3 token/秒，一份 Coinbase 风控规模的 7000 token 提示需 3 分 15 秒（4B 约 1 分 37 秒，0.8B 约 15 秒）；测试租用 100 多台手机，单机每天约 0.6–1 ACU（约 5–10 美分）。注意：Coinbase 微调版是私有模型，测试用的是同规格的基础 Qwen 模型。看点：对能容忍等待的批量任务（风险评分、离线审核），「手机集群 + 小模型」提供了比 GPU 云更便宜、数据不出设备的推理路线。",
+   "links": [
+    "https://acurast.com/blog/network-and-tech/self-hosted-llm-phone/",
+    "https://cryptobriefing.com/coinbase-qwen-model-fraud-prevention/",
+    "https://x.com/i/trending/2121859240713429378"
+   ],
+   "topic": "acurast-qwen-9b-on-phones",
+   "firstSeen": "2026-11-15T18:28:18+08:00"
   }
  ],
- "lastChecked": "2026-11-15T17:59:36+08:00"
+ "lastChecked": "2026-11-15T18:28:18+08:00"
 }
