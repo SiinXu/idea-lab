@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T00:15:45+08:00",
+ "lastUpdated": "2026-11-16T00:28:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49067,7 +49067,18 @@
    ],
    "topic": "all-ai-generated-code-should-be-open-source",
    "firstSeen": "2026-11-16T00:15:45+08:00"
+  },
+  {
+   "id": "14ba8d1690",
+   "title": "美法官驳回三星、SK 海力士、美光撤案动议：内存「减产转 HBM 推高 DDR5 价格」反垄断集体诉讼继续审理",
+   "summary": "11 月 14 日，美国加州北区联邦法官 Noël Wise 全面驳回三星、SK 海力士和美光的联合撤案动议。原告是来自 5 个州的 17 名消费者和小企业，指控三家公司（2025 年三季度合计占全球 DRAM 营收 91% 以上）合谋从 2022 年底减产，再把产能转去做 AI 加速器用的 HBM，导致普通 DRAM 一年涨价 171.8%、18 个月涨 697%，却没有一家扩产。法官认为此案不是 2022 年被驳回的「DRAM II」案翻版：长期锁定 HBM 合同、拒签普通 DRAM 长约、美光关闭 30 年的 Crucial 消费品牌、推迟新厂、同一季度停产 DDR4，以及 2026 年 1 月三家几乎一致的客户审查做法，都足以让人合理推断存在合谋；她还引用三家 1998–2002 年的价格卡特尔前科。法官写道，这不是「老鹰互相盯着」，而更像「老鹰编队飞行」。三家需在 12 月 7 日前答辩，首次案件管理会议定于 2027 年 1 月 12 日。指控尚未被证实。此事登上 HN 首页约 365 分。看点：AI 抢走内存产能导致电脑、手机涨价，第一次走到了反垄断法庭。",
+   "links": [
+    "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+    "https://news.ycombinator.com/item?id=50502988"
+   ],
+   "topic": "dram-hbm-antitrust-suit-survives-dismissal",
+   "firstSeen": "2026-11-16T00:28:06+08:00"
   }
  ],
- "lastChecked": "2026-11-16T00:15:45+08:00"
+ "lastChecked": "2026-11-16T00:28:06+08:00"
 }
