@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T07:28:03+08:00",
+ "lastUpdated": "2026-11-16T07:47:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49214,7 +49214,18 @@
    ],
    "topic": "whop-nigeria-lagos-launch",
    "firstSeen": "2026-11-16T07:28:03+08:00"
+  },
+  {
+   "id": "28b10992cc",
+   "title": "互联网档案馆为停刊的 Salon 上线「Salon Explorer」：25 万多篇文章、2 万多名作者的 31 年数字新闻可按条件检索",
+   "summary": "运营 31 年的早期网络媒体 Salon 宣布停刊后，互联网档案馆（Internet Archive）11 月 12 日发文：Wayback Machine 近 30 年来一直在存档 Salon（先后用过 salon1999.com、salonmag.com 和 1999 年起的 salon.com），目前可检索到 25 万多篇文章；档案馆还推出实验性界面「Salon Explorer」，可按筛选条件浏览 2 万多名作者的作品。该文 11 月 15 日登上 HN。看点：媒体关停潮下，「把整站存档变成可检索、可策展的新产品」是现成方向，适合做停刊媒体/老博客的归档浏览器与 AI 检索。",
+   "links": [
+    "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+    "https://news.ycombinator.com/item?id=50511806"
+   ],
+   "topic": "internet-archive-salon-explorer",
+   "firstSeen": "2026-11-16T07:47:11+08:00"
   }
  ],
- "lastChecked": "2026-11-16T07:28:03+08:00"
+ "lastChecked": "2026-11-16T07:47:11+08:00"
 }
