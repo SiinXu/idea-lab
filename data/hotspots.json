@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T07:57:32+08:00",
+ "lastUpdated": "2026-11-16T12:00:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49236,7 +49236,20 @@
    ],
    "topic": "spacexai-southaven-coolant-spill",
    "firstSeen": "2026-11-16T07:57:32+08:00"
+  },
+  {
+   "id": "35a932a009",
+   "title": "英特尔遭股东集体诉讼：被指隐瞒 PC 需求下滑与渠道库存积压，10 月 30 日单日暴跌 28.6%、蒸发约 1400 亿美元",
+   "summary": "路透社 11 月 15 日报道：以密歇根州 Southfield 消防与警察退休基金为首的股东，11 月 13 日（周五）在加州圣何塞联邦法院对英特尔提起拟议集体诉讼（案号 26-cv-13758），CEO 陈立武与 CFO David Zinsner 同列被告。诉状称英特尔迟迟未披露 PC 销售放缓和 OEM/分销渠道库存积压对营收的冲击——内存涨价推高整机价格、压制需求，数据中心与 AI 带来的利好被抵消，且基板供应受限无法快速增产服务器 CPU；还指其在「灾难性」的第三季度中途（8 月中旬）以每股 95 美元增发 230 亿美元股票。第三季度 CCPG 营收 81 亿美元、环比降 9%，第四季度营收指引 150–160 亿美元，比市场预期低约 15 亿美元，股价 10 月 30 日跌 28.6%，上周五收于 59.66 美元。诉讼覆盖 2026 年 7 月 23 日至 10 月 29 日买入的股东，首席原告申请截止 2027 年 1 月 12 日。该消息当晚登上 HN。看点：「内存紧缺→PC 涨价→需求萎缩」的连锁反应正从财报传导到法律与资本市场，PC 硬件、二手/翻新电脑和配置性价比工具值得关注。",
+   "links": [
+    "https://www.reuters.com/business/intel-sued-by-shareholders-following-29-stock-plunge-2026-11-15/",
+    "https://www.bbc.com/news/articles/cw62p42p288do",
+    "https://www.globenewswire.com/news-release/2026/11/14/3403029/0/en/intc-investor-alert-robbins-geller-rudman-dowd-llp-files-class-action-lawsuit-against-intel-corporation-and-announces-opportunity-for-investors-with-substantial-losses-to-lead-the-.html",
+    "https://news.ycombinator.com/item?id=50513701"
+   ],
+   "topic": "intel-shareholder-class-action-pc-slump",
+   "firstSeen": "2026-11-16T12:00:28+08:00"
   }
  ],
- "lastChecked": "2026-11-16T07:57:32+08:00"
+ "lastChecked": "2026-11-16T12:00:28+08:00"
 }
