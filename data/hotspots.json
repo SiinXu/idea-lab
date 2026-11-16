@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T18:17:25+08:00",
+ "lastUpdated": "2026-11-16T18:40:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49372,7 +49372,20 @@
    ],
    "topic": "kuo-google-tpu-openai-anthropic-2029",
    "firstSeen": "2026-11-16T18:17:25+08:00"
+  },
+  {
+   "id": "8468cd1c94",
+   "title": "阿里正式发布 Qwen4-Max：2.4 万亿参数 MoE、每 token 只激活 710 亿，原生视觉 + 100 万上下文，API 每百万输入 1.5 美元，Code Arena 第 6",
+   "summary": "阿里 11 月 16 日正式发布 Qwen4-Max（此前 11 月 11 日只是仅限 Token Plan 的预览版）。官方称它是 Qwen 家族最强模型：总参数 2.4 万亿的稀疏 MoE，每 token 激活 710 亿，比 Qwen3.8-Max 少 25%；原生支持图像与视频理解，上下文 100 万 token。在自家 Work360 行业任务评测中，高推理档 token 用量比上一代少 35%，单任务平均成本降约 60%；Code Arena 排第 6。QwenCloud API 国际区每百万 token 输入 1.5 美元、输出 4.5 美元，缓存读取 0.075 美元，兼容 OpenAI 与 Anthropic 接口；Qwen4 系列小尺寸开放权重模型「即将发布」。登上 Hacker News 首页（480+ 分）。看点：便宜的百万上下文多模态旗舰适合做编程 / Agent 产品的低成本主力模型，值得跑一遍自家任务对比 Claude、Gemini。",
+   "links": [
+    "https://qwen.ai/blog?id=qwen4-max",
+    "https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783",
+    "https://www.qwencloud.com/models/qwen4-max",
+    "https://news.ycombinator.com/item?id=50513215"
+   ],
+   "topic": "qwen4-max-ga-2026-11-16",
+   "firstSeen": "2026-11-16T18:40:03+08:00"
   }
  ],
- "lastChecked": "2026-11-16T18:17:25+08:00"
+ "lastChecked": "2026-11-16T18:40:03+08:00"
 }
