@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T13:55:02+08:00",
+ "lastUpdated": "2026-11-16T15:01:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49326,7 +49326,29 @@
    ],
    "topic": "debian-6-1-0-55-kernel-ext4-crash",
    "firstSeen": "2026-11-16T13:55:02+08:00"
+  },
+  {
+   "id": "bfe9406dcd",
+   "title": "AI 编程 Agent 逆向 32 年老吉普的发动机 ECU：Claude Code 与 Codex 配合 3 美元 Arduino 读懂并控制车辆，HN 热度 400+",
+   "summary": "YouTube 创作者 Muhammad Zulali 发布视频《Claude reverse engineered my 32-year-old Jeep. Then it started controlling it.》，演示用 Claude Code 和 Codex 配合一块约 3 美元的 Arduino，逆向分析一辆 1994 年吉普车的 ECU 通信，进而读取数据并控制车辆功能。该帖在 Hacker News 获得 400 多分、近 200 条评论。看点：编程 Agent 正从写代码延伸到硬件逆向与嵌入式调试，「AI + 廉价硬件」的老车改装、汽车诊断与 DIY 教程具备内容与工具化机会，但也涉及车辆安全与合规风险。",
+   "links": [
+    "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+    "https://news.ycombinator.com/item?id=50463399"
+   ],
+   "topic": "claude-codex-jeep-ecu-reverse",
+   "firstSeen": "2026-11-16T15:01:24+08:00"
+  },
+  {
+   "id": "966523945e",
+   "title": "自托管地图瓦片变得又便宜又简单：Protomaps / PMTiles 单文件放进对象存储即可，全球地图约 5 美元/月",
+   "summary": "开发者 Bruce Röttgers 11 月 15 日撰文介绍 Protomaps 生态的 PMTiles 格式：整张地图打包成单个文件，通过 HTTP Range 请求按需读取，可直接部署到存储桶或 CDN；在 Cloudflare 上可用边缘函数把传统 x/y/z 路径转换为 Range 请求。文中以 Bunny.net 为例，139GB 的全球地图做 5 倍复制，存储成本约每月 5 美元，而 Mapbox 超出免费额度后每千次加载约 5 美元。该文登上 Hacker News 首页（270+ 分）。看点：地图类独立产品（旅行、房产、户外、数据可视化）可大幅降低爆量时的地图费用，适合做模板与部署教程。",
+   "links": [
+    "https://bruceroettgers.eu/blog/protomaps/",
+    "https://news.ycombinator.com/item?id=50509837"
+   ],
+   "topic": "protomaps-pmtiles-self-host",
+   "firstSeen": "2026-11-16T15:01:24+08:00"
   }
  ],
- "lastChecked": "2026-11-16T13:55:02+08:00"
+ "lastChecked": "2026-11-16T15:01:24+08:00"
 }
