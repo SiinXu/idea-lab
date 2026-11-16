@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T17:58:36+08:00",
+ "lastUpdated": "2026-11-16T18:17:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49360,7 +49360,19 @@
    ],
    "topic": "us-ai-national-champions-wsj-2026-11-15",
    "firstSeen": "2026-11-16T17:58:36+08:00"
+  },
+  {
+   "id": "48a1263d42",
+   "title": "郭明錤：OpenAI、Anthropic 大单把谷歌 TPU 出货能见度拉到 2029 年，两家 2028–2029 年合计约 2600 万颗，联发科成最大赢家",
+   "summary": "天风国际分析师郭明錤 11 月 15 日发文称，据最新产业调研，OpenAI 在 2028–2029 年约需 1200 万颗联发科设计的 TPU 8t（买断），Anthropic 约需 1400 万颗博通设计的 TPU 8i（租赁与买断并行），合计约占同期谷歌 TPU 出货的八成；他估计 2027–2029 年 TPU 出货分别为 800–900 万、1400–1500 万、1600–1800 万颗，2029 年仍在增长，早于市场普遍认为的 2028 年 AI 资本开支见顶。联发科将独家拿下 v9、v10 设计服务。他还称英伟达 CEO 交接不确定性正帮谷歌与客户谈「2028 年后长期规划」。看点：非英伟达算力生态（TPU、JAX/TorchTPU 迁移、推理成本优化）相关工具与服务需求可能上升。",
+   "links": [
+    "https://finance.yahoo.com/technology/ai/articles/more-pain-nvda-top-supply-050330578.html",
+    "https://en.kocpc.com.tw/archives/27686",
+    "https://x.com/i/trending/2122155370802303142"
+   ],
+   "topic": "kuo-google-tpu-openai-anthropic-2029",
+   "firstSeen": "2026-11-16T18:17:25+08:00"
   }
  ],
- "lastChecked": "2026-11-16T17:58:36+08:00"
+ "lastChecked": "2026-11-16T18:17:25+08:00"
 }
