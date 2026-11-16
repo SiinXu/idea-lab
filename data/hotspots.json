@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T05:47:19+08:00",
+ "lastUpdated": "2026-11-17T05:59:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49832,7 +49832,29 @@
    ],
    "topic": "bugmenot-closed",
    "firstSeen": "2026-11-17T05:47:19+08:00"
+  },
+  {
+   "id": "a2a03b401b",
+   "title": "加州理工数学教授因学生普遍用 AI 写作业，作业不再按对错评分、只看是否完成",
+   "summary": "Business Insider 记者旁听加州理工入门数学课：执教 17 年的 Yi Ni 教授表示几乎所有大学数学作业都能用 AI 完成，因此作业改为只按完成度给分。报道称部分学生甚至在重新考虑是否还要读数学专业，话题在 Hacker News 引发讨论。",
+   "links": [
+    "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
+    "https://news.ycombinator.com/item?id=50523022"
+   ],
+   "topic": "caltech-ai-homework-grading",
+   "firstSeen": "2026-11-17T05:59:15+08:00"
+  },
+  {
+   "id": "fc35e8978f",
+   "title": "Three.js 开发者 Ben Houston 长文：用 WebGPU 在网页里实现 AAA 游戏级室内光照管线",
+   "summary": "Ben Houston 的「Three.js 追平 AAA 画质」系列进度报告，逐阶段对照游戏引擎的光照管线：G-buffer、光照贴图、光照探针网格、屏幕空间反射与全局光照、TRAA/TAAU 时间抗锯齿与升采样，并列出 Three.js 已具备的能力和仍在评审中的 PR。WebGPU 普及让网页首次能像 AAA 游戏一样给室内场景打光。",
+   "links": [
+    "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+    "https://news.ycombinator.com/item?id=50523291"
+   ],
+   "topic": "threejs-aaa-lighting-webgpu",
+   "firstSeen": "2026-11-17T05:59:15+08:00"
   }
  ],
- "lastChecked": "2026-11-17T05:47:19+08:00"
+ "lastChecked": "2026-11-17T05:59:15+08:00"
 }
