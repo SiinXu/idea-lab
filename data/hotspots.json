@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T07:38:28+08:00",
+ "lastUpdated": "2026-11-17T07:59:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49909,7 +49909,29 @@
    ],
    "topic": "ccw-autonomous-weapons-treaty-us",
    "firstSeen": "2026-11-17T07:38:28+08:00"
+  },
+  {
+   "id": "81bd7f76e2",
+   "title": "逆向发现：Windows 11 在记录你用了哪些编程智能体和开发工具，默认随诊断数据上传微软",
+   "summary": "研究者 Xusheng Li 逆向 Windows 11 的 MissionControlAggregator.dll，发现其中硬编码了 codex、claude、copilot、cursor、antigravity 等编程智能体以及 python、dotnet、gcc、VS Code 等开发工具的进程名，功能开关名为 CLICodingAgentUsage。系统会记录这些工具的使用情况并写入诊断报告；只要没关闭默认开启的「可选诊断数据」，就会上传给微软。话题在 Hacker News 热议。",
+   "links": [
+    "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+    "https://news.ycombinator.com/item?id=50524736"
+   ],
+   "topic": "windows11-coding-agent-telemetry",
+   "firstSeen": "2026-11-17T07:59:18+08:00"
+  },
+  {
+   "id": "5c4fbe6517",
+   "title": "Optimizely 投毒事件扩大：Report URI 统计 178 家机构网站中招，含 IKEA、汇丰、Equifax、法荷航，已有加密货币被盗",
+   "summary": "安全公司 Report URI 的 Scott Helme 证实并补充此前 OPTIMJACK 披露：11 月 16 日攻击者改写 Optimizely Web 客户项目里的自定义 JavaScript，经官方 CDN 向 178 家机构网站访客投放恶意代码，除替换钱包地址、盗卡、偷 Cookie 和截图外，还会向 iPhone/iPad 投放 Coruna、DarkSword 漏洞利用工具包，已有链上转账给攻击者。截至 UTC 21:52 被感染脚本已从 169 个降到 1 个。",
+   "links": [
+    "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+    "https://news.ycombinator.com/item?id=50524767"
+   ],
+   "topic": "optimizely-compromise-178-orgs",
+   "firstSeen": "2026-11-17T07:59:18+08:00"
   }
  ],
- "lastChecked": "2026-11-17T07:38:28+08:00"
+ "lastChecked": "2026-11-17T07:59:18+08:00"
 }
