@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T15:01:24+08:00",
+ "lastUpdated": "2026-11-16T17:58:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49348,7 +49348,19 @@
    ],
    "topic": "protomaps-pmtiles-self-host",
    "firstSeen": "2026-11-16T15:01:24+08:00"
+  },
+  {
+   "id": "fbb28875c3",
+   "title": "《华尔街日报》：特朗普政府拟将英伟达、OpenAI、Anthropic 等 20 多家 AI 公司列为「国家冠军」，商务部长卢特尼克最快一周内公布",
+   "summary": "据《华尔街日报》11 月 15 日报道（路透、Investing.com、TNW 等转述），美国政府计划把英伟达、亚马逊、微软、OpenAI、Anthropic 等二十多家芯片与模型公司指定为 AI「国家冠军」，享受出口许可加速审批、政府为海外业务背书和联邦融资，并把美国芯片、模型等打包卖给外国政府与企业，对抗华为等中国对手。名单预计由商务部长卢特尼克在一周内公布，时间仍可能变化；恰逢黄仁勋辞职风波和特朗普本周赴深圳出席 APEC。看点：出海「全栈 AI 套餐」与合规/出口许可服务需求可能升温，海外市场对中美 AI 供应商的选边也将更明显。",
+   "links": [
+    "https://thenextweb.com/news/ai-national-champions-nvidia-openai-anthropic-trump",
+    "https://www.investing.com/news/stock-market-news/trump-administration-to-name-nvidia-other-ai-firms-as-us-national-champions-wsj-reports-5028349",
+    "https://x.com/i/trending/2122184464197640197"
+   ],
+   "topic": "us-ai-national-champions-wsj-2026-11-15",
+   "firstSeen": "2026-11-16T17:58:36+08:00"
   }
  ],
- "lastChecked": "2026-11-16T15:01:24+08:00"
+ "lastChecked": "2026-11-16T17:58:36+08:00"
 }
