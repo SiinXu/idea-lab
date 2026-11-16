@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T13:16:08+08:00",
+ "lastUpdated": "2026-11-16T13:55:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49315,7 +49315,18 @@
    ],
    "topic": "claude-trading-skills-trending",
    "firstSeen": "2026-11-16T13:16:08+08:00"
+  },
+  {
+   "id": "8be804d03e",
+   "title": "Debian 12 内核更新 6.1.0-55 引发服务器死机：多名用户报告 ext4 空指针崩溃，被标为「critical」，回退 6.1.0-54 可恢复",
+   "summary": "Debian 缺陷 #1154101（严重级别 critical）：11 月 14 日推送的 Debian 12（bookworm，现为 oldstable）内核 linux-image-6.1.0-55-amd64（6.1.192-1）升级重启后，服务器几分钟内 IMAP、SMTP、HTTP、SSH 全部失去响应，日志显示内核空指针解引用，崩溃点在 ext4 文件系统的 ext4_mb_load_buddy_gfp（释放块/截断文件时触发）。报告者在 GRUB 里选回 6.1.0-54 后恢复稳定；另有两位用户在 Xen 虚拟机上复现，其中一人执行 apt update 时 SSH 卡死，有人只能用系统盘备份恢复。11 月 16 日登上 HN 首页。看点：仍跑 Debian 12 的服务器与 VPS 暂缓升级或锁定内核版本；也再次说明「自动安全更新 + 无灰度」的风险，内核更新灰度、自动回滚和崩溃监控有需求。",
+   "links": [
+    "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+    "https://news.ycombinator.com/item?id=50514180"
+   ],
+   "topic": "debian-6-1-0-55-kernel-ext4-crash",
+   "firstSeen": "2026-11-16T13:55:02+08:00"
   }
  ],
- "lastChecked": "2026-11-16T13:17:02+08:00"
+ "lastChecked": "2026-11-16T13:55:02+08:00"
 }
