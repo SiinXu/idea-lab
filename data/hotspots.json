@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T18:40:03+08:00",
+ "lastUpdated": "2026-11-16T19:58:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49385,7 +49385,20 @@
    ],
    "topic": "qwen4-max-ga-2026-11-16",
    "firstSeen": "2026-11-16T18:40:03+08:00"
+  },
+  {
+   "id": "caaf86bfde",
+   "title": "欧洲 VC Plural 募得 10 亿欧元新基金：三分之二投种子到 A 轮硬科技（AI 基础设施、能源、国防、太空），Helsing、Proxima Fusion 早期投资方",
+   "summary": "由 Wise 联合创始人 Taavet Hinrikus、英国 AI 安全研究所主席 Ian Hogarth 等六位创业者出身合伙人管理的伦敦 / 塔林 / 巴黎 VC Plural 宣布募得 10 亿欧元（约 11 亿美元），约为 2022 年首期的近 4 倍、2024 年二期的 2 倍。约三分之二进入第三期早期基金，主投种子和 A 轮；三分之一用于加码 Helsing、Proxima Fusion、OLIX 等明星项目。重点方向为 AI 基础设施、能源、国防、医疗和太空，预计投 25–35 家公司，部分「登月」项目可能需要数亿美元起步；其投资组合今年已获超 30 亿美元后续融资。看点：欧洲硬科技与 AI 基础设施早期资金明显变多，做 AI 算力、能源、机器人方向的创业者可关注其投资偏好。",
+   "links": [
+    "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+    "https://www.pluralplatform.com/features/fund-3",
+    "https://news.crunchbase.com/venture/plural-closes-billion-euro-fund-european-ai-robotics-defense-startup-investment/",
+    "https://x.com/i/trending/2122260131639676997"
+   ],
+   "topic": "plural-eur1b-fund-3-2026-11",
+   "firstSeen": "2026-11-16T19:58:22+08:00"
   }
  ],
- "lastChecked": "2026-11-16T18:40:03+08:00"
+ "lastChecked": "2026-11-16T19:58:22+08:00"
 }
