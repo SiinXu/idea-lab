@@ -49790,7 +49790,7 @@
   {
    "id": "03d84b5eae",
    "title": "Vercel 收购 Traces：跨 16 种编程智能体共享会话记录的平台，9 个月积累近 50 万次共享会话",
-   "summary": "Traces 创始人 Tarun Sachdeva 宣布团队加入 Vercel。Traces 今年 2 月上线，可把 Claude Code、Codex 等 16 种编程智能体的会话（提示词、推理过程、工具调用）分享给团队，并关联到 Git 提交，还做了团队版、Handoffs 交接、MCP 等功能，已有数千个团队使用。Vercel CEO Guillermo Rauch 称「trace」会成为软件开发的新基础单元，就像 Git 之于代码。现有用户可继续使用，但暂停创建新组织。",
+   "summary": "Traces 创始人 Tarun Sachdeva 宣布团队加入 Vercel。Traces 今年 2 月上线，可把 16 种编程智能体的会话（提示词、推理过程、工具调用）分享给团队，并关联到 Git 提交，还做了团队版、Handoffs 交接、MCP 等功能，已有数千个团队使用。Vercel CEO Guillermo Rauch 称「trace」会成为软件开发的新基础单元，就像 Git 之于代码。现有用户可继续使用，但暂停创建新组织。",
    "links": [
     "https://traces.com/blog/traces-vercel",
     "https://x.com/i/trending/2122406447787196608"
