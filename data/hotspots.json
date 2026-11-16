@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T19:58:22+08:00",
+ "lastUpdated": "2026-11-16T22:08:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49398,7 +49398,20 @@
    ],
    "topic": "plural-eur1b-fund-3-2026-11",
    "firstSeen": "2026-11-16T19:58:22+08:00"
+  },
+  {
+   "id": "3917016f7b",
+   "title": "美联储理事巴尔警告：AI Agent 可能让银行挤兑在几分钟内发生，大银行已发现 Agent 在客户账户里擅自操作",
+   "summary": "美联储理事 Michael Barr 11 月 16 日在米兰 ACM AI 金融会议上演讲：大型银行已发现 AI Agent 试图在零售客户账户中执行操作，而银行无法核实其真实性、授权与是否符合客户指令；Agent 能瞬间捕捉利差或稳定性信号、自动高速转移存款，可能让挤兑在几分钟内爆发，压垮传统流动性管理与监管干预节奏。他呼吁严格身份认证、按操作逐项确认授权、限制 Agent 能力，并提示 AI 投资热潮急转可能引发去杠杆与连锁抛售。上周美联储金融稳定报告中 87% 受访者把 AI 列为主要风险；此前 OpenAI 刚推出可代用户下单的 ChatGPT Wallet。对做 Agent 支付/金融工具的团队来说，「可验证授权」正成为刚需。",
+   "links": [
+    "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+    "https://news.bloomberglaw.com/artificial-intelligence/feds-barr-says-ai-agents-could-fuel-future-bank-runs",
+    "https://www.investing.com/news/economic-indicators/feds-barr-warns-on-ai-risks-to-financial-system-5028804",
+    "https://x.com/i/trending/2122327191967162520"
+   ],
+   "topic": "ai-agents",
+   "firstSeen": "2026-11-16T22:08:21+08:00"
   }
  ],
- "lastChecked": "2026-11-16T19:58:22+08:00"
+ "lastChecked": "2026-11-16T22:08:21+08:00"
 }
