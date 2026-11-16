@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T06:23:09+08:00",
+ "lastUpdated": "2026-11-17T06:42:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49876,7 +49876,29 @@
    ],
    "topic": "optimjack-optimizely-skimmer",
    "firstSeen": "2026-11-17T06:23:09+08:00"
+  },
+  {
+   "id": "2df6684f77",
+   "title": "美联航系统大面积宕机，出发航班受影响；距 FAA 全国停飞仅隔几天",
+   "summary": "CNN 报道，美国联合航空 11 月 16 日（美东时间）出现大范围系统故障，出发航班受影响，空中航班和 United Express 不受影响，FAA 已知情。几天前 FAA 刚因罕见的全国地面停飞让所有航班停飞数小时。同一天美国多家大银行也发生故障，「软件系统接连崩溃」的讨论在 Hacker News 继续升温。",
+   "links": [
+    "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+    "https://news.ycombinator.com/item?id=50524165"
+   ],
+   "topic": "united-airlines-outage-2026-11-16",
+   "firstSeen": "2026-11-17T06:42:28+08:00"
+  },
+  {
+   "id": "b3cb919c18",
+   "title": "Spamhaus 11 月起逐步要求：所有发信 IP 必须有有效 HELO、反向 DNS（PTR）和匹配的 A 记录",
+   "summary": "反垃圾邮件组织 Spamhaus 更新发件人指南：从 2026 年 11 月起逐步推行硬性要求，每个发信 IP 都要配置有效的 HELO 主机名、反向 DNS（PTR）记录和匹配的 A 记录，并提供 HELO/DNS 检查工具。自建邮件服务器或用小众发信服务的网站和产品需要尽快自查，否则可能被拉黑、邮件进垃圾箱。",
+   "links": [
+    "https://www.spamhaus.org/sender-guidelines/",
+    "https://news.ycombinator.com/item?id=50523784"
+   ],
+   "topic": "spamhaus-helo-ptr-requirement",
+   "firstSeen": "2026-11-17T06:42:28+08:00"
   }
  ],
- "lastChecked": "2026-11-17T06:23:09+08:00"
+ "lastChecked": "2026-11-17T06:42:28+08:00"
 }
