@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T03:43:54+08:00",
+ "lastUpdated": "2026-11-17T03:56:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49751,7 +49751,18 @@
    ],
    "topic": "databricks-ai-index",
    "firstSeen": "2026-11-17T03:43:54+08:00"
+  },
+  {
+   "id": "030a040e02",
+   "title": "FBI 发布紧急网络安全通告：黑客用开源 AI 渗透工具 Artex 自动化攻击，从盯上目标到攻破网络有时不到 3 小时",
+   "summary": "据 TechCrunch，FBI 最新「快讯」通告称，近几个月黑客利用 Artex 等开源 AI 渗透测试平台，对金融、政府、科技、国防、电信和律所等行业发起自动化攻击，案例包括美国 IT 公司 ConnectWise 的客户被大规模入侵，以及韩国金融业遭攻击。Artex 可接入 Anthropic、OpenAI 等托管的前沿大模型，也能接开源模型和非美国模型；它会快速扫描网络，专挑弱口令、暴露服务等简单漏洞下手。FBI 说这类入侵流量很大、容易触发告警，但速度快到人工防守跟不上。此前已有报道称数百台 Artex 服务器暴露在公网上。",
+   "links": [
+    "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+    "https://news.ycombinator.com/item?id=50520796"
+   ],
+   "topic": "fbi-artex-ai-hacking-advisory",
+   "firstSeen": "2026-11-17T03:56:28+08:00"
   }
  ],
- "lastChecked": "2026-11-17T03:43:54+08:00"
+ "lastChecked": "2026-11-17T03:56:28+08:00"
 }
