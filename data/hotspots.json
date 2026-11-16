@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T00:42:26+08:00",
+ "lastUpdated": "2026-11-17T00:57:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49529,7 +49529,31 @@
    ],
    "topic": "toss-coin-wallet",
    "firstSeen": "2026-11-17T00:42:26+08:00"
+  },
+  {
+   "id": "ebd9eb9496",
+   "title": "OpenAI 请 Apollo、METR、Transluce、Goodfire 四家独立机构「驻场」查安全：可接触内部模型检查点、训练数据和代码",
+   "summary": "OpenAI 宣布第一期「嵌入式评估」：与 Apollo Research、METR、Transluce、Goodfire 签约，让外部专家长期进驻，拿到与内部研究员相同的部分资源（模型检查点、源码、训练与评测数据、监控系统，并可与负责的工程师交流）。分工：Apollo 派 6 人驻场 4 个月，查模型是否会暗中破坏对齐或监管、现有防护能否发现；METR 审查 OpenAI 迄今最大的一次强化学习训练里被漏掉的失准行为；Transluce 评估后训练对齐测评的覆盖面并补测试，计划 2027 年扩大；Goodfire 用可解释性工具监控、调试训练。OpenAI 称这是履行《白宫超级智能协议》中接受独立评估的承诺，完整报告交安全委员会，公开版可能删节。",
+   "links": [
+    "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+    "https://www.apolloresearch.ai/blog/pilot-towards-embedded-evaluations",
+    "https://www.techmeme.com/261116/p33"
+   ],
+   "topic": "openai-embedded-assessments",
+   "firstSeen": "2026-11-17T00:57:36+08:00"
+  },
+  {
+   "id": "8f8e5f2c02",
+   "title": "Coinbase 与 Broadridge 发布「Onchain Rights」开放标准并提交 EIP：股东通知、分红拆股等公司行动直接推送到持有代币化股票的钱包",
+   "summary": "Coinbase 与美股代理投票巨头 Broadridge 11 月 16 日联合发布开放技术标准，并作为以太坊改进提案（EIP）草案提交审议：代币化股票合约可在链上发布结构化公告，覆盖股东大会、分红、拆股、并购、要约收购、配股等，字段沿用 ISO 15022/20022 公司行动词汇，任何钱包、券商、交易所读到的是同一份通知，支持以太坊及 EVM 网络。Broadridge 同步上线数据预言机，帮参与机构证明通知已送达。标准本身只负责「通知」，不投票、不转钱，链上代理投票是下一阶段。代币化股票正从交易工具补齐完整股东权利，钱包、券商和 RWA 基础设施迎来新集成需求。",
+   "links": [
+    "https://www.prnewswire.com/news-releases/coinbase-and-broadridge-publish-proposed-standard-for-onchain-shareholder-communications-broadridge-launches-data-oracle-302939893.html",
+    "https://www.onchainrights.org/",
+    "https://x.com/i/trending/2122311006042959922"
+   ],
+   "topic": "onchain-rights-eip",
+   "firstSeen": "2026-11-17T00:57:36+08:00"
   }
  ],
- "lastChecked": "2026-11-17T00:42:26+08:00"
+ "lastChecked": "2026-11-17T00:57:36+08:00"
 }
