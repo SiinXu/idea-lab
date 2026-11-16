@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T06:42:28+08:00",
+ "lastUpdated": "2026-11-17T07:38:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49898,7 +49898,18 @@
    ],
    "topic": "spamhaus-helo-ptr-requirement",
    "firstSeen": "2026-11-17T06:42:28+08:00"
+  },
+  {
+   "id": "51a39fc57d",
+   "title": "联合国日内瓦会议讨论「杀手机器人」：美国预计反对启动具法律约束力的自主武器条约谈判",
+   "summary": "Newsweek 报道，《特定常规武器公约》第七次审议大会 11 月 16 日至 20 日在日内瓦召开，讨论能在无人干预下自行选择并攻击目标的自主武器下一步怎么管。联合国警告这类系统对平民的风险越来越大，但美国预计会反对启动有法律约束力的限制条约谈判。话题在 Hacker News 引发讨论。",
+   "links": [
+    "https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369",
+    "https://news.ycombinator.com/item?id=50524728"
+   ],
+   "topic": "ccw-autonomous-weapons-treaty-us",
+   "firstSeen": "2026-11-17T07:38:28+08:00"
   }
  ],
- "lastChecked": "2026-11-17T06:42:28+08:00"
+ "lastChecked": "2026-11-17T07:38:28+08:00"
 }
