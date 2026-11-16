@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T02:13:20+08:00",
+ "lastUpdated": "2026-11-17T02:26:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49647,7 +49647,31 @@
    ],
    "topic": "codex-capacity-errors",
    "firstSeen": "2026-11-17T02:13:20+08:00"
+  },
+  {
+   "id": "1947064156",
+   "title": "美国商务部 BIS 正式发布「远程访问」芯片管制临时规则：海外数据中心向中国等 D:5 国家企业提供大规模算力需申请许可，并对马来西亚、新加坡、印尼、泰国、巴西出口先进芯片加设许可",
+   "summary": "BIS 11 月 16 日发布临时最终规则（RIN 0694-AK50），封堵通过第三国数据中心远程使用美国先进 AI 芯片的路径。凡数据中心（不论位于何处）可能直接或间接向总部在 D:5 国家组（含中国、俄罗斯、伊朗、朝鲜等）或澳门的企业提供大量算力，出口、再出口或境内转移先进芯片和服务器都需申请许可。据 TechCrunch，门槛为总处理性能 1200 万 TPP，约相当于 750 张 H100/H200。数据中心和出口商须对客户股权做尽职调查，现有相关数据中心须在 90 天内取得许可，电商和社交平台的推荐系统豁免。同时，对印尼、马来西亚、新加坡、泰国、巴西五国出口先进芯片也需许可，美国总部企业除外。规则还收紧了晶圆厂和封装厂对先进制程芯片的推定审查，并正式废除拜登时期的 AI 扩散规则。东南亚数据中心和出海算力业务会直接受影响。",
+   "links": [
+    "https://media.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology",
+    "https://www.bis.gov/media/documents/rin-0694-ak50.pdf",
+    "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+    "https://apnews.com/article/nvidia-export-controls-chips-china-remote-access-60f868d3bb430b85a8657b27d421096e"
+   ],
+   "topic": "bis-remote-access-rule",
+   "firstSeen": "2026-11-17T02:26:31+08:00"
+  },
+  {
+   "id": "1555aa3c1b",
+   "title": "Harmonic 的 Aristotle 支持 Rust 形式化验证：可证明 unsafe 代码无未定义行为、C 转 Rust 前后行为一致，并与 Solana 基金会合作",
+   "summary": "Harmonic 宣布 Aristotle 在 C 和 Verilog 之外新增 Rust 支持。它能证明 Rust 代码没有未定义行为、完全符合规格，包括 unsafe 块内的代码；把 C 重写成 Rust 时，还能证明新旧代码行为一致。在真实 Solana 程序上，Aristotle 对开源订单簿 Manifest 证明了 28 条性质，并发现一个已修复的舍入 bug；在主经纪商 Project 0 上，证明了存取、借还、清算按任意顺序发生时账本都保持一致。Harmonic 同时与 Solana 基金会合作，帮助开发者验证智能合约。现已开放自助使用，按用量计费。CEO 称，越来越多关键 Rust 代码由 AI 编写，证明正确比测试更重要。",
+   "links": [
+    "https://www.harmonic.fun/news/aristotle-rust-verification/",
+    "https://news.ycombinator.com/item?id=50520270"
+   ],
+   "topic": "aristotle-rust",
+   "firstSeen": "2026-11-17T02:26:31+08:00"
   }
  ],
- "lastChecked": "2026-11-17T02:13:20+08:00"
+ "lastChecked": "2026-11-17T02:26:31+08:00"
 }
