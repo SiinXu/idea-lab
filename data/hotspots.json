@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T04:54:35+08:00",
+ "lastUpdated": "2026-11-17T05:30:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49797,7 +49797,19 @@
    ],
    "topic": "vercel-acquires-traces",
    "firstSeen": "2026-11-17T04:54:35+08:00"
+  },
+  {
+   "id": "0f411f5eb4",
+   "title": "加拿大电信巨头 Telus 退出温哥华两座 AI 数据中心项目：原计划装约 6.3 万颗英伟达芯片、用电最高 163 兆瓦，遭当地数月抗议后放弃",
+   "summary": "Telus 今年 5 月宣布与开发商 Westbank 合建两座 AI 数据中心：把 Mount Pleasant 区的 M3 办公楼改造成机房（原定 2026 年底启用），并在 BC Place 体育场旁新建 10 层大楼（2029 年上线），属于加拿大联邦「主权 AI 算力」计划的首批项目。据《环球邮报》，Telus 已决定不再参与，未说明原因；知情人士称当地反对声浪太大，夏天曾有数百人抗议用电、用水和社区影响，其中一处仍待重新分区审批，市议会还将审议要求数据中心做独立环评、可能收费的动议。Westbank 表示会与新的加拿大合作方继续推进，Telus 则转而扩建坎卢普斯机房。",
+   "links": [
+    "https://www.theglobeandmail.com/business/technology/article-telus-pulls-out-of-two-planned-vancouver-ai-data-centres/",
+    "https://www.datacenterdynamics.com/en/news/telus-abandons-its-vancouver-ai-data-center-development-plans/",
+    "https://betakit.com/telus-pulls-out-of-two-government-backed-ai-data-centres-in-vancouver/"
+   ],
+   "topic": "telus-vancouver-ai-dc-exit",
+   "firstSeen": "2026-11-17T05:30:59+08:00"
   }
  ],
- "lastChecked": "2026-11-17T04:54:35+08:00"
+ "lastChecked": "2026-11-17T05:30:59+08:00"
 }
