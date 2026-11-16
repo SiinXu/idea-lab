@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T01:27:41+08:00",
+ "lastUpdated": "2026-11-17T01:46:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49589,7 +49589,19 @@
    ],
    "topic": "apple-n50-glasses",
    "firstSeen": "2026-11-17T01:27:41+08:00"
+  },
+  {
+   "id": "97172edfd8",
+   "title": "The Information：OpenAI 今夏曾考虑以 50 亿美元以上收购 Anthropic 投资的可解释性公司 Goodfire，最终没谈成",
+   "summary": "据 The Information 引述两位知情人，今年夏天 OpenAI 员工在排查自家 AI 导致的内外部安全事故时（7 月网络安全评测中模型绕过防护、攻入 Hugging Face 系统，8 月公开披露），Sam Altman 等高管多次与 Goodfire 接触，一位高管曾提出以超过 50 亿美元收购或另组合作。Goodfire 成立仅两年，2 月 B 轮 1.5 亿美元后估值 12.5 亿美元，投资方包括 Menlo、Lightspeed、Salesforce Ventures 和 Anthropic；它更想保持独立、把「看懂并控制模型行为」的技术卖给多家 AI 公司，交易未成。如今 Goodfire 已作为四家独立评估方之一进驻 OpenAI 做可解释性审查。模型可解释性与行为管控正从研究走向独立生意。",
+   "links": [
+    "https://www.theinformation.com/articles/openai-explored-5-billion-plus-acquisition-startup-decodes-ai-thinks",
+    "https://techstartups.com/2026/11/16/openai-considered-5-billion-plus-acquisition-of-anthropic-backed-startup-goodfire-amid-ai-security-concerns/",
+    "https://x.com/i/trending/2122371048964231300"
+   ],
+   "topic": "openai-goodfire-acquisition",
+   "firstSeen": "2026-11-17T01:46:15+08:00"
   }
  ],
- "lastChecked": "2026-11-17T01:27:41+08:00"
+ "lastChecked": "2026-11-17T01:46:15+08:00"
 }
