@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T05:59:15+08:00",
+ "lastUpdated": "2026-11-17T06:13:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49854,7 +49854,18 @@
    ],
    "topic": "threejs-aaa-lighting-webgpu",
    "firstSeen": "2026-11-17T05:59:15+08:00"
+  },
+  {
+   "id": "244112fb8e",
+   "title": "卡内基梅隆大学推出 CS Learn：计算机课程免费上 YouTube，含 AI 智能体、机器学习系统等课",
+   "summary": "CMU 计算机学院上线 CS Learn，把七个系的课程录像免费放上 YouTube，免费课件随后推出。11 月陆续首播的课程包括 10-605 大数据机器学习、15-442 机器学习系统（陈天奇、贾志浩）、11-768 AI 智能体（Daniel Fried、Graham Neubig）、17-645 生产环境中的机器学习等，2027 年 1 月还有概率与计算、多模态机器学习等课。话题在 Hacker News 热议。",
+   "links": [
+    "https://www.cs.cmu.edu/learn/",
+    "https://news.ycombinator.com/item?id=50522980"
+   ],
+   "topic": "cmu-cs-learn-free-youtube",
+   "firstSeen": "2026-11-17T06:13:30+08:00"
   }
  ],
- "lastChecked": "2026-11-17T05:59:15+08:00"
+ "lastChecked": "2026-11-17T06:13:30+08:00"
 }
