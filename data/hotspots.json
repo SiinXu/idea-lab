@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T02:26:31+08:00",
+ "lastUpdated": "2026-11-17T02:44:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49671,7 +49671,41 @@
    ],
    "topic": "aristotle-rust",
    "firstSeen": "2026-11-17T02:26:31+08:00"
+  },
+  {
+   "id": "7111bcc6e9",
+   "title": "斯坦福教授 Yejin Choi 与 XGBoost 作者 Carlos Guestrin 创办 Noeri，首轮融资 1.1 亿美元：做「上岗后持续自我改进」的企业 AI",
+   "summary": "Noeri 成立于 2026 年 5 月，由两位斯坦福教授担任联合 CEO：Yejin Choi 是麦克阿瑟天才奖得主，曾任职 Ai2 和英伟达；Carlos Guestrin 是 XGBoost 作者，曾创办被苹果收购的 Turi 并主管苹果机器学习。公司宣布获得 1.1 亿美元融资，由 Menlo Ventures 领投，Madrona、Kindred、Wing、NEA 跟投，英伟达、思科、Snowflake 是战略投资方，估值未披露。它的系统先学习企业自己的数据和工作流，再改进任务周围的整个系统，包括 harness、skills、指令、工具、每一步用哪个模型，必要时也改模型参数。每项改动都附说明并交人审批，像代码评审一样。闭源和开源模型都支持，数据、工作流和模型归客户所有。总部在帕洛阿尔托，另设苏黎世办公室。",
+   "links": [
+    "https://www.businesswire.com/news/home/20261116056631/en/Noeri-Founded-by-Leading-Stanford-AI-Professors-Launches-with-%24110-Million-to-Empower-Companies-to-Build-and-Own-Their-AI",
+    "https://www.geekwire.com/2026/former-uw-ai-researchers-yejin-choi-and-carlos-guestrin-raise-110m-for-ai-startup-noeri/",
+    "https://www.noeri.ai/"
+   ],
+   "topic": "noeri-110m",
+   "firstSeen": "2026-11-17T02:44:42+08:00"
+  },
+  {
+   "id": "d806cc5cfb",
+   "title": "开发者实测：多邻国「屏蔽浪费时间 App」功能拿到屏幕使用时间权限后，卸载多邻国也要输屏幕时间密码",
+   "summary": "正在做「扑克版多邻国」的开发者 Rhett Owen 发现：多邻国有个功能会申请 iOS 屏幕使用时间权限，在完成当天课程前屏蔽你选的 App，而第一个选项就是「所有 App 和类别」。开启后，再想卸载多邻国，系统会要求输入屏幕使用时间密码；即使之后关掉屏蔽功能也一样。不记得密码的用户几乎没法删掉它。作者称这是他见过最有创意的暗黑模式，搜索时还被 Gemini 否认有这回事。这篇文章登上 HN 首页，引发对用系统权限做留存的讨论。",
+   "links": [
+    "https://blog.rhett.info/duolingo-screen-time-uninstall/",
+    "https://news.ycombinator.com/item?id=50520825"
+   ],
+   "topic": "duolingo-screen-time",
+   "firstSeen": "2026-11-17T02:44:42+08:00"
+  },
+  {
+   "id": "a687638c56",
+   "title": "《自然·可持续发展》哈佛研究：美国仅约 400 座超大规模数据中心一年用电量就相当于整个密歇根州，排放是 AI 热潮前的三倍",
+   "summary": "哈佛陈曾熙公共卫生学院团队用行业资料和卫星数据整理出 403 座超大规模数据中心（2024 年 5 月到 2025 年 5 月间运营），再结合区域电网的能源结构，建模估算各设施的用电和碳排放。结果显示，这些数据中心一年用电与密歇根全州相当，其中多数来自化石能源，排放约为 AI 热潮前的三倍；弗吉尼亚、俄勒冈、俄亥俄、艾奥瓦四州合计占一半以上。研究还没算上自建燃气电厂（表后供电）的数据中心。据 BloombergNEF 估计，排队中的表后电厂如果全部建成，美国总排放可能增加 10%。美国能源信息署已完成 10 个州的数据中心用电试点调查，正在设计自愿性调查。",
+   "links": [
+    "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
+    "https://news.ycombinator.com/item?id=50520697"
+   ],
+   "topic": "hyperscale-dc-michigan",
+   "firstSeen": "2026-11-17T02:44:42+08:00"
   }
  ],
- "lastChecked": "2026-11-17T02:26:31+08:00"
+ "lastChecked": "2026-11-17T02:44:42+08:00"
 }
