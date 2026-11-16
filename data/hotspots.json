@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T00:22:52+08:00",
+ "lastUpdated": "2026-11-17T00:42:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49505,7 +49505,31 @@
    ],
    "topic": "apple-health-ai-study",
    "firstSeen": "2026-11-17T00:22:52+08:00"
+  },
+  {
+   "id": "fcbaf2152a",
+   "title": "前 Freshworks 高管创办的 AI 原生 CRM Dreamteam 融资 5300 万美元：用 4 个 AI「同事」替销售录数据、写跟进、盯管道，叫板 Salesforce、HubSpot",
+   "summary": "Dreamteam 2025 年由三位前 Freshworks 高管创立，11 月 16 日宣布种子轮 + A 轮共 5300 万美元，分别由 Together Fund（Freshworks 联合创始人 Girish Mathrubootham 的基金）和 Accel 领投，Premji Invest 跟投。核心是「Company Brain」：自动从邮件、会议、日历和客户对话里沉淀客户上下文，免去销售手动录 CRM；4 个 AI 同事分别负责客户调研、会前准备与跟进邮件、管道风险与预测、用自然语言配置 CRM，发给客户的内容由人审批。还有自然语言搭应用的 Magic Apps，并开放 API 和 MCP 服务器给外部 Agent 调用。开卖 3 个月签下 13 国 100 多家客户，已替换部分 Salesforce、HubSpot 用户。「把老 SaaS 品类从零按 Agent 重做」再获验证。",
+   "links": [
+    "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+    "https://techfundingnews.com/ex-freshworks-founders-dreamteam-raises-53m-to-challenge-salesforce-with-ai-native-crm-and-virtual-sales-coworkers/",
+    "https://x.com/i/trending/2122364728190378261"
+   ],
+   "topic": "dreamteam-ai-crm",
+   "firstSeen": "2026-11-17T00:42:26+08:00"
+  },
+  {
+   "id": "0e1e8d91ad",
+   "title": "韩国 3000 万用户金融超级 App Toss 上线非托管加密钱包：App 内一键创建，按通讯录转 ETH、USDT、USDC，不用抄钱包地址",
+   "summary": "Toss 运营方 Viva Republica 本周推出「Toss Coin Wallet」，所有用户都能在首页「资产」里直接创建，无需另行申请或资格审核。初期只支持以太坊网络上的 ETH、USDT、USDC：可从外部交易所/钱包收款、转出、查余额和流水；最大卖点是按手机联系人转账，免去长串地址。采用非托管结构，Toss 不代管资产，平台不收手续费，只付以太坊 gas。这是 Toss 今年组建数字资产团队后的首个面向用户的产品；此前已与 Circle 签稳定币支付备忘录，并申请了「TOSSKRW」等数十个稳定币商标，等待韩国《数字资产基本法》落地后再决定是否自建链。超级 App 把自托管钱包直接塞给大众，是稳定币支付落地的风向标。",
+   "links": [
+    "https://en.edaily.co.kr/news/eda202611165186/",
+    "https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847",
+    "https://x.com/i/trending/2122260130859512125"
+   ],
+   "topic": "toss-coin-wallet",
+   "firstSeen": "2026-11-17T00:42:26+08:00"
   }
  ],
- "lastChecked": "2026-11-17T00:22:52+08:00"
+ "lastChecked": "2026-11-17T00:42:26+08:00"
 }
