@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T01:13:39+08:00",
+ "lastUpdated": "2026-11-17T01:27:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49577,7 +49577,19 @@
    ],
    "topic": "tencent-hy4-flash",
    "firstSeen": "2026-11-17T01:13:39+08:00"
+  },
+  {
+   "id": "06ea2ffe5f",
+   "title": "彭博古尔曼：苹果首款智能眼镜 N50 定于 2027 年 6 月 WWDC 发布，没有显示屏，靠 Siri 操控 iPhone 里的 App 叫车、订座、点咖啡",
+   "summary": "据彭博 Mark Gurman 最新一期 Power On，苹果代号 N50 的智能眼镜计划 2027 年 6 月 WWDC 亮相、年底前出货，软件进度落后可能推迟。原型比 Meta 第二代 Ray-Ban 略薄，摄像头开孔与镜框齐平，音质被内部称为「业界领先」，用耳侧 Tic Tac 大小的磁吸接口边戴边充。首代没有 AR 显示，核心是 Siri：借摄像头识别建筑、看冰箱食材推荐菜、导航、翻译路牌和对话。第三方开发者无需做眼镜专用 App，只要让 Siri 能调用 iPhone App 里的具体动作（叫车、订餐厅、点咖啡、购物、买电影票），由配对 iPhone 执行；仅支持较新 iPhone，不支持安卓。相关 Siri 精细操控 App 的能力已进 iOS 27.3 测试版，苹果自家 App 12 月上线、第三方 2027 年开放——「App 能被 Agent 调用」正在变成新入口。",
+   "links": [
+    "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/",
+    "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+    "https://x.com/i/trending/2122167295917306302"
+   ],
+   "topic": "apple-n50-glasses",
+   "firstSeen": "2026-11-17T01:27:41+08:00"
   }
  ],
- "lastChecked": "2026-11-17T01:13:39+08:00"
+ "lastChecked": "2026-11-17T01:27:41+08:00"
 }
