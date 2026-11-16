@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T01:57:07+08:00",
+ "lastUpdated": "2026-11-17T02:13:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49636,7 +49636,18 @@
    ],
    "topic": "jiff-1-0",
    "firstSeen": "2026-11-17T01:57:07+08:00"
+  },
+  {
+   "id": "075ff9dbd4",
+   "title": "OpenAI Codex 负责人 Tibo：Codex 的「model at capacity」报错可能已基本解决，帖子 86 万浏览",
+   "summary": "OpenAI Codex 负责人 Tibo（@thsottiaux）发帖称，团队「可能真的修好了」困扰用户的「model at capacity」（模型满载）报错，并附了一张趋势图。据 X 新闻对该图的解读，受影响的日活用户占比从 10 月中旬峰值约 6.8% 降到 11 月初约 0.085%，降幅约 80 倍，主要靠 WebSocket 重试和过载延迟等后端重试逻辑改进。帖子约 86 万浏览、近 8000 赞、2000 多条回复。这说明在编码 Agent 竞争中，稳定性和基础设施已和模型能力同等重要。",
+   "links": [
+    "https://x.com/thsottiaux/status/2122206990101536852",
+    "https://x.com/i/trending/2122261408637206608"
+   ],
+   "topic": "codex-capacity-errors",
+   "firstSeen": "2026-11-17T02:13:20+08:00"
   }
  ],
- "lastChecked": "2026-11-17T01:57:07+08:00"
+ "lastChecked": "2026-11-17T02:13:20+08:00"
 }
