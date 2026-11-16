@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T06:13:30+08:00",
+ "lastUpdated": "2026-11-17T06:23:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49865,7 +49865,18 @@
    ],
    "topic": "cmu-cs-learn-free-youtube",
    "firstSeen": "2026-11-17T06:13:30+08:00"
+  },
+  {
+   "id": "1d687ea29d",
+   "title": "安全研究者披露「OPTIMJACK」：Optimizely 脚本包被注入恶意代码，CNN、Zoom、BBC 等网站访客遭加密货币地址替换和盗卡",
+   "summary": "安全博客 Amirul Cyber 报告，攻击者把恶意 JavaScript 注入多家机构的 Optimizely A/B 测试脚本包，向 CNN、Zoom、Fox News、BBC、Salesforce、GitLab 等约 15 个知名网站的访客投放窃取脚本：替换粘贴的加密货币钱包地址、盗取信用卡表单并截图回传。作者建议所有加载 Optimizely 的网站检查实际下发的脚本包、启用 CSP 告警。目前为研究者单方披露，Hacker News 正在讨论。",
+   "links": [
+    "https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/",
+    "https://news.ycombinator.com/item?id=50523300"
+   ],
+   "topic": "optimjack-optimizely-skimmer",
+   "firstSeen": "2026-11-17T06:23:09+08:00"
   }
  ],
- "lastChecked": "2026-11-17T06:13:30+08:00"
+ "lastChecked": "2026-11-17T06:23:09+08:00"
 }
