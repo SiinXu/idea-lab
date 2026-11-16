@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T12:32:18+08:00",
+ "lastUpdated": "2026-11-16T12:43:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49282,7 +49282,18 @@
    ],
    "topic": "coles-cyber-incident-2026-11",
    "firstSeen": "2026-11-16T12:32:18+08:00"
+  },
+  {
+   "id": "674f2568ed",
+   "title": "谷歌官方 Chrome DevTools MCP 冲上 GitHub 日榜（单日 +717 星，总星约 5.7 万）：v1.13 给编程 Agent 加上日志断点与页面级网络 Mock",
+   "summary": "Chrome DevTools 团队维护的 chrome-devtools-mcp（定位「给编程 Agent 用的 Chrome DevTools」）11 月 16 日登上 GitHub Trending 日榜，当日新增约 717 星，总星数约 5.7 万。11 月 11 日发布的 v1.13.0 新增三项能力：基于 DevTools BreakpointManager 的日志断点（logpoints）、按页面生效的网络 Mock，以及支持把上游真实响应作为 Mock 基础；另修复了二进制请求体保存、无 X 服务器时提示改用 --headless、Claude Code 插件用 npx --prefix 启动等问题，并补充 Pi 客户端配置文档。同日日榜上还有谷歌的 modern-web-guidance-src、阿里 open-code-review、腾讯 LoopForge 等 Agent 工具链项目。看点：让 Agent 自己打开浏览器调试、抓网络、改接口返回正成为前端开发标配，围绕它的调试技能包、测试 Mock 模板和教程有机会。",
+   "links": [
+    "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "https://github.com/ChromeDevTools/chrome-devtools-mcp/releases/tag/chrome-devtools-mcp-v1.13.0"
+   ],
+   "topic": "chrome-devtools-mcp-v1-13-trending",
+   "firstSeen": "2026-11-16T12:43:36+08:00"
   }
  ],
- "lastChecked": "2026-11-16T12:32:18+08:00"
+ "lastChecked": "2026-11-16T12:43:36+08:00"
 }
