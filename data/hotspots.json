@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T22:56:46+08:00",
+ "lastUpdated": "2026-11-16T23:14:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49435,7 +49435,18 @@
    ],
    "topic": "web",
    "firstSeen": "2026-11-16T22:56:46+08:00"
+  },
+  {
+   "id": "7cc4bd0d8d",
+   "title": "开源 Coral（Rust，Apache-2.0）上 Show HN：自托管 Agent 网关，让 Agent 自己写 TypeScript 工具并按策略审批每次调用",
+   "summary": "Coral 是一个自托管网关，放在 AI Agent 和企业系统（GitHub、Slack 等）之间：Agent 通过写简短的 TypeScript 程序调用工具，跑通后可保存为自定义工具复用；每次底层调用都先按「允许 / 询问 / 禁止」策略检查，再注入凭据转发。与普通 MCP 网关只控制「能看到哪些工具」不同，自定义工具本身可以写死规则（例如只关闭 30 天无活动的工单、只改一个字段），实现更细粒度的权限。官方演示称复用自定义工具后同一任务省 35% token、快 31%。仓库约 4900 星，今天上 Show HN。对做企业 Agent 落地、权限审计、工具复用的团队有参考价值。",
+   "links": [
+    "https://github.com/withcoral/coral",
+    "https://news.ycombinator.com/item?id=50517803"
+   ],
+   "topic": "coral-agent-gateway",
+   "firstSeen": "2026-11-16T23:14:01+08:00"
   }
  ],
- "lastChecked": "2026-11-16T22:56:46+08:00"
+ "lastChecked": "2026-11-16T23:14:01+08:00"
 }
