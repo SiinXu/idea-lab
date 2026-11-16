@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T00:57:36+08:00",
+ "lastUpdated": "2026-11-17T01:13:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49553,7 +49553,31 @@
    ],
    "topic": "onchain-rights-eip",
    "firstSeen": "2026-11-17T00:57:36+08:00"
+  },
+  {
+   "id": "e9e7341995",
+   "title": "Perplexity 成立 Frontier Research：投入 1 万多张 GPU 打造「自动科研科学家」，承诺开源模型、数据和评测",
+   "summary": "Perplexity 11 月 16 日宣布成立 Frontier Research，目标是能自主做研究的 AI 系统：自己提问题、查已有证据、找空白、提假设、设计并跑实验、估计不确定性、更新结论。方向涵盖多智能体编排、强化学习、持续学习、系统和预训练；CTO Denis Yarats 称会用真实用户使用 Perplexity 的方式构造合成数据和环境，在 1 万多张 GPU 上规模化强化学习。CEO Aravind Srinivas 承诺开源模型和工具，定期发布论文、数据和基准，成果在 Perplexity 产品里实测；目前在旧金山、帕洛阿尔托、纽约、伦敦招人。尚无性能结果和发布时间表。",
+   "links": [
+    "https://www.perplexity.ai/en-GB/hub/blog/introducing-perplexity-frontier-research",
+    "https://research.perplexity.ai/",
+    "https://x.com/i/trending/2122367568191050161"
+   ],
+   "topic": "perplexity-frontier-research",
+   "firstSeen": "2026-11-17T01:13:39+08:00"
+  },
+  {
+   "id": "43861bf73c",
+   "title": "腾讯发布混元 Hy4 flash：总参数 224B、每 token 只激活 12B，输入每百万 token 0.07 美元，WorkBuddy 限免到 11 月 30 日",
+   "summary": "腾讯 11 月 16 日推出迄今性价比最高的混元模型 Hy4 flash：MoE 架构，总参数 224B（含 64B Engram 参数）、激活 12B，原生多模态、100 万上下文。API 价每百万 token 输入 0.07 美元（约 0.5 元）、输出 0.281 美元、缓存命中 0.003 美元，约为 Hy4 的十几分之一。85 名 WorkBuddy 用户对 27 类 259 个办公任务盲测，满意度接近 Claude Haiku 5.5，耗时最短、单任务成本最低；官方建议日常搜索、文档、做 PPT、简单前端和电脑操作用 flash，长程编程仍用 Hy4。已上腾讯云 TokenHub（11 月 30 日前 5 折）、WorkBuddy（国内/国际版每日免费额度至 11 月 30 日）、元宝、企业微信、QQ 等，即将上 OpenRouter，并计划开放权重。",
+   "links": [
+    "https://hy.tencent.ai/research/hy4-flash",
+    "https://technode.com/2026/11/16/tencent-launches-hy4-flash-cutting-ai-task-costs-by-95-in-internal-tests/",
+    "https://www.woshipm.com/ai/6494450.html"
+   ],
+   "topic": "tencent-hy4-flash",
+   "firstSeen": "2026-11-17T01:13:39+08:00"
   }
  ],
- "lastChecked": "2026-11-17T00:57:36+08:00"
+ "lastChecked": "2026-11-17T01:13:39+08:00"
 }
