@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T05:30:59+08:00",
+ "lastUpdated": "2026-11-17T05:47:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49809,7 +49809,30 @@
    ],
    "topic": "telus-vancouver-ai-dc-exit",
    "firstSeen": "2026-11-17T05:30:59+08:00"
+  },
+  {
+   "id": "e5299b48a8",
+   "title": "美联储主席沃什在 AI 生产力与就业专题会上列出三种「超级智能」经济情景：普惠增长、增长但失业上升、或 AI 让人失望引发估值下跌",
+   "summary": "沃什在美联储理事会与旧金山联储合办的生产力与就业专题会上致开幕辞，他按联邦政府新用语把 AI 称作「超级智能」（SI）。他说美联储工作人员已开始用模型推演几种可能：一是生产率提升、收益在劳动者和资本之间广泛分享，GDP 增速持续高于长期均值并保持接近充分就业；二是经济仍高增长，但自动化替代岗位，失业率升到充分就业水平以上；三是 AI 不及预期，大量资本投入和股市上涨之后预期回报下滑、估值回落，导致经济放缓、失业明显上升。他强调这些只是情景推演，不是预测。该专题组成员包括马克·安德森、微软 Xbox CEO Asha Sharma 和斯坦福经济学家 Charles Jones。",
+   "links": [
+    "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+    "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+    "https://finance.yahoo.com/economy/policy/article/warsh-kicks-off-first-task-force-hearing-on-how-ai-could-fuel-growth-or-disrupt-jobs-171720426.html"
+   ],
+   "topic": "fed-warsh-ai-scenarios",
+   "firstSeen": "2026-11-17T05:47:19+08:00"
+  },
+  {
+   "id": "2fcd213784",
+   "title": "老牌共享账号网站 BugMeNot 宣布关闭",
+   "summary": "BugMeNot 长期让网友共享各类网站的公共登录账号，用来绕过强制注册。现在官网只剩一句：「BugMeNot has closed. Thanks to everyone who envisioned a better internet.」没有说明关闭原因。这条消息在 Hacker News 引发讨论。",
+   "links": [
+    "https://www.bugmenot.com/",
+    "https://news.ycombinator.com/item?id=50523601"
+   ],
+   "topic": "bugmenot-closed",
+   "firstSeen": "2026-11-17T05:47:19+08:00"
   }
  ],
- "lastChecked": "2026-11-17T05:30:59+08:00"
+ "lastChecked": "2026-11-17T05:47:19+08:00"
 }
