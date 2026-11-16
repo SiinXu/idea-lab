@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T22:46:42+08:00",
+ "lastUpdated": "2026-11-16T22:56:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49424,7 +49424,18 @@
    ],
    "topic": "ai-infra",
    "firstSeen": "2026-11-16T22:46:42+08:00"
+  },
+  {
+   "id": "ab7e946914",
+   "title": "神秘域名 w2rt6byl5nf1opmc-a.com 冲进 Majestic Million 全球第 8：无法解析、11 月 11 日才首次注册，却号称有 2.4 亿条外链",
+   "summary": "博主 jack.cab 在 HN 上（2 小时 120+ 分）发文：一个至今无法解析的乱码域名，在 Majestic Million（按引用子网数排名的老牌网站榜单）里排到第 8，仅次于谷歌、Facebook、YouTube、苹果等，是前 100 中增长最快的；Majestic 显示其有 2.41 亿条 nofollow 外链、来自约 516 万个引用域名，但 Ahrefs 只查到 53 条；证书透明度记录显示该域名 11 月 11 日才首次被注册，晚于大部分外链出现时间。它还排进 Tranco 第 38，这个本该抗操纵的学术榜单也受了影响。作者猜测是版权陷阱、排名漏洞被刷，或被黑网站批量挂链，但尚无定论。提醒：依赖 Tranco/Majestic 做爬虫种子、安全白名单或 SEO 评估的工具，可能已被污染。",
+   "links": [
+    "https://jack.cab/blog/siterate",
+    "https://news.ycombinator.com/item?id=50517602"
+   ],
+   "topic": "web",
+   "firstSeen": "2026-11-16T22:56:46+08:00"
   }
  ],
- "lastChecked": "2026-11-16T22:46:42+08:00"
+ "lastChecked": "2026-11-16T22:56:46+08:00"
 }
