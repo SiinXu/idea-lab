@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T12:43:36+08:00",
+ "lastUpdated": "2026-11-16T12:57:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49293,7 +49293,18 @@
    ],
    "topic": "chrome-devtools-mcp-v1-13-trending",
    "firstSeen": "2026-11-16T12:43:36+08:00"
+  },
+  {
+   "id": "2bfebb9afa",
+   "title": "Skydio 推出「歪着长」的固定翼无人机 F10 Lightrunner：相机装在翼尖、只向左转圈，配机械臂空中抓取的 MegaDock 全自动起降",
+   "summary": "IEEE Spectrum 机器人编辑 Evan Ackerman 报道：Skydio 新款自主相机无人机 F10 Lightrunner 采用不对称设计——把相机放在一侧翼尖，绕目标盘旋时「只要一直左转」，机翼和尾翼就不会遮挡镜头，解决了固定翼侦察无人机低空转弯画面被遮的老问题。为平衡相机带来的重量和阻力，F10 单独加长了这一侧机翼，并把两台电机不对称布置；全程用模型预测控制（MPC），一套控制策略覆盖从悬停到约 100 英里/小时最高速的整个飞行包线，没有「悬停/巡航模式」切换。配套的 MegaDock 可用机械臂在空中抓取、回收并充电最多 5 架 F10，实现 3 架轮流飞、2 架充电的连续作业；人员仅需远程监督，双 5G 模组通信，最长续航 2 小时，内置避障相机和降落伞。该文 11 月 15 日登上 HN 首页。看点：「无人机即服务」走向全自动值守，公共安全与巡检场景的调度平台、航拍数据处理和行业解决方案有空间。",
+   "links": [
+    "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+    "https://news.ycombinator.com/item?id=50512296"
+   ],
+   "topic": "skydio-f10-lightrunner",
+   "firstSeen": "2026-11-16T12:57:25+08:00"
   }
  ],
- "lastChecked": "2026-11-16T12:43:36+08:00"
+ "lastChecked": "2026-11-16T12:57:25+08:00"
 }
