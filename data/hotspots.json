@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T02:44:42+08:00",
+ "lastUpdated": "2026-11-17T02:56:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49705,7 +49705,29 @@
    ],
    "topic": "hyperscale-dc-michigan",
    "firstSeen": "2026-11-17T02:44:42+08:00"
+  },
+  {
+   "id": "048976bfa0",
+   "title": "TRMNL 发布第三款硬件 Frame：31.5 英寸全彩电子墨水屏，装在自家木工坊手工做的木框里，首批约 470 台开放预订",
+   "summary": "做电子墨水信息屏的 TRMNL 推出 Frame，用 Spectra 6 彩色墨水屏，可同时显示日程、天气和艺术画作。新功能包括按固定时刻刷新（减少闪屏、更省电）、插 microSD 完全离线运行、背部额外 USB-C 常供电，横竖挂都行。团队自研的色彩转换引擎 Lazarus 将开源。创始人说公司自 2024 年 7 月起已向 79 个国家发货 6 万台；首批 Frame 先发美国、加拿大、墨西哥、澳大利亚，大部分 2027 年初交付，并新增「本地艺术」插件让人投稿和卖画。HN 发布 1.5 小时冲上首页。",
+   "links": [
+    "https://trmnl.com/blog/introducing-frame",
+    "https://news.ycombinator.com/item?id=50519354"
+   ],
+   "topic": "trmnl-frame-color-epaper",
+   "firstSeen": "2026-11-17T02:56:17+08:00"
+  },
+  {
+   "id": "08b6934a6d",
+   "title": "热议长文《软件正在系统性崩坏》：微软两天全球宕机、美国 FAA 全国停飞接连发生，作者认为 AI 既是原因也是症状",
+   "summary": "开发者 Jimmy Breck-McKye 撰文盘点 2026 年的连串事故：本周末微软全球宕机两天、FAA 下令全美航班停飞，四周前 PHP 严重漏洞 PHP2Shell，以及 eMudhra 因私钥过弱导致数千张 SSL 证书失效。他认为这些事故直接原因不同，但都指向同一个问题：系统复杂到没人看得清全貌，靠自动化脚本和临时修补堆起来；AI 让攻击者几小时就能找到复杂漏洞，滥用 AI 写代码也在加速腐蚀。文章发布 40 分钟在 HN 拿到约 70 分。",
+   "links": [
+    "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+    "https://news.ycombinator.com/item?id=50520866"
+   ],
+   "topic": "software-systemic-breakdown",
+   "firstSeen": "2026-11-17T02:56:17+08:00"
   }
  ],
- "lastChecked": "2026-11-17T02:44:42+08:00"
+ "lastChecked": "2026-11-17T02:56:17+08:00"
 }
