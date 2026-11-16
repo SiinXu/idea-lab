@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T12:57:25+08:00",
+ "lastUpdated": "2026-11-16T13:16:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49304,7 +49304,18 @@
    ],
    "topic": "skydio-f10-lightrunner",
    "firstSeen": "2026-11-16T12:57:25+08:00"
+  },
+  {
+   "id": "ec453d1217",
+   "title": "开源「Claude 交易技能包」登 GitHub 日榜（单日 +706 星，总星约 5700）：面向上班族投资者的市场体检、组合复盘与交易日志工作流",
+   "summary": "日本开发者 tradermonty 的 claude-trading-skills（MIT 协议）11 月 16 日登上 GitHub Trending 日榜，当日新增约 706 星，总星数约 5700。项目把 Claude Skills 组织成面向「时间有限的个人投资者」的交易流程工具包：以长期投资、ETF 和股息股为核心，行情合适时用有纪律的波段交易做卫星仓位；提供机器可读的工作流清单，例如 15 分钟每日市场体检（市场宽度分析、上升趋势分析、仓位敞口教练，基础版无需 API）和每周长期组合复盘，覆盖风控、交易计划、交易日志与复盘改进。作者强调它不是喊单或荐股服务，不替用户做买卖决定，也不承诺收益，仅供教育与研究用途。看点：「垂直领域 Agent 技能包」正在成为新的开源爆款形态，金融、法务、运营等专业流程打包成技能 + 工作流清单，可做付费模板、中文本地化版或配套课程。",
+   "links": [
+    "https://github.com/tradermonty/claude-trading-skills",
+    "https://tradermonty.github.io/claude-trading-skills/"
+   ],
+   "topic": "claude-trading-skills-trending",
+   "firstSeen": "2026-11-16T13:16:08+08:00"
   }
  ],
- "lastChecked": "2026-11-16T12:57:25+08:00"
+ "lastChecked": "2026-11-16T13:16:08+08:00"
 }
