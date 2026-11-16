@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T03:13:40+08:00",
+ "lastUpdated": "2026-11-17T03:43:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49739,7 +49739,19 @@
    ],
    "topic": "us-bank-outage-1116",
    "firstSeen": "2026-11-17T03:13:40+08:00"
+  },
+  {
+   "id": "959f154df3",
+   "title": "Databricks 发布公开「AI 指数」：企业里开源权重模型的 token 占比从 7 月的 7.3% 涨到 30.9%，只用一家模型厂商的企业从 64% 降到 28%",
+   "summary": "Databricks 用 1 万多家企业经 Unity Gateway 调用模型的匿名数据，加上基于自家私有代码库真实 PR、用隐藏测试评分的编码 Agent 基准，推出每周更新的「Databricks AI 指数」。数据显示：截至 11 月 2 日，开源权重模型占企业 token 流量 30.9%（7 月为 7.3%），其中智谱约占六成、DeepSeek 约 28%；只用单一模型厂商的企业比例从 64% 降到 28%。闭源阵营里，Claude Opus 5.5 发布六周内占闭源 token 从 7.2% 升到 37.9%，Anthropic 份额升至 68.8%。编码基准中 DeepSeek V4.1 和 GLM 5.3 以 93.1% 通过率并列第三，前十里有三个开源模型；报告还指出，完成一个任务的实际成本和单价 token 价格关系不大。",
+   "links": [
+    "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
+    "https://developers.databricks.com/ai-index",
+    "https://x.com/i/trending/2122402365118533637"
+   ],
+   "topic": "databricks-ai-index",
+   "firstSeen": "2026-11-17T03:43:54+08:00"
   }
  ],
- "lastChecked": "2026-11-17T03:13:40+08:00"
+ "lastChecked": "2026-11-17T03:43:54+08:00"
 }
