@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T01:56:02+08:00",
+ "lastUpdated": "2026-11-17T01:57:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49625,7 +49625,18 @@
    ],
    "topic": "openai-academic-researchers",
    "firstSeen": "2026-11-17T01:56:02+08:00"
+  },
+  {
+   "id": "36cf899b19",
+   "title": "Rust 时间库 Jiff 发布 1.0：BurntSushi 承诺长期不做破坏性升级，uv、Cargo、Jujutsu 等已在生产中使用",
+   "summary": "ripgrep 作者 Andrew Gallant（BurntSushi）发布 Jiff 1.0，并写了一篇完整的 API 导览。Jiff 把时区放在 API 的核心位置，自动处理夏令时等常见坑，设计上参考 JavaScript 的 Temporal：Span 对应 Duration，Timestamp 对应 Instant，civil 类型对应 plain 类型。新版支持 strftime/strptime、「友好」时长格式，以及通过 ICU4X 做本地化格式。uv、Cargo、Starship、fd、Nushell、mise、Jujutsu、uutils/coreutils 已在用，AWS LLRT 也基于它实现了 Temporal。作者表示，除非发现重大缺陷，否则会一直保持 1.0，让它可以放心当作公共依赖。",
+   "links": [
+    "https://burntsushi.net/jiff/",
+    "https://news.ycombinator.com/item?id=50519744"
+   ],
+   "topic": "jiff-1-0",
+   "firstSeen": "2026-11-17T01:57:07+08:00"
   }
  ],
- "lastChecked": "2026-11-17T01:56:02+08:00"
+ "lastChecked": "2026-11-17T01:57:07+08:00"
 }
