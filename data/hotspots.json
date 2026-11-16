@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T23:14:01+08:00",
+ "lastUpdated": "2026-11-16T23:40:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49446,7 +49446,31 @@
    ],
    "topic": "coral-agent-gateway",
    "firstSeen": "2026-11-16T23:14:01+08:00"
+  },
+  {
+   "id": "35e4efe6e2",
+   "title": "以色列 AI 安全公司 Corma 出隐身仅 3 个月就成独角兽：NEA 领投 1.25 亿美元 A 轮，估值 10 亿美元",
+   "summary": "Corma 从零训练专门用于防御型网络安全的基础模型，并以「AI 安全员工队伍」形式部署在企业现有安全工具旁，自动做威胁狩猎、事件调查与响应，目标是做防御方的「安全超级智能」。本轮 1.25 亿美元 A 轮由 NEA 领投，红杉、Khosla、Coatue 跟投，累计融资 1.85 亿美元（8 月刚以 6000 万美元种子轮出隐身）。公司约 20 人，总部在特拉维夫和旧金山，团队来自 Google DeepMind 和以色列 8200 部队；称已被多家财富 100/500 企业采用，服务器容量扩了 24 倍。创始人观点：通用大模型让攻击方先变强，防御需要专门模型。",
+   "links": [
+    "https://www.businesswire.com/news/home/20261116743982/en/Corma-Raises-%24125M-Series-A-at-%241B-Valuation-to-Scale-Its-Frontier-Foundation-Model-for-Cyber-Defense-as-Fortune-500-Adoption-of-Its-Models-Surges",
+    "https://www.corma.ai/blog/three-months-in",
+    "https://www.calcalistech.com/ctechnews/article/bjiqapu0me",
+    "https://x.com/i/trending/2122350517049254392"
+   ],
+   "topic": "corma-series-a",
+   "firstSeen": "2026-11-16T23:40:26+08:00"
+  },
+  {
+   "id": "97e2b5f594",
+   "title": "设计师 Josh Puckett 发布免费开源字体 Allo：基于 Inter 重绘的「圆润版 Inter」，粗细、圆度、光学尺寸三轴可调",
+   "summary": "Allo 由 Inter 4.2 起步、每个字形都重新绘制，主打温暖友好又不幼稚的界面字体：字重 100–900、圆度 0–100 可调，光学尺寸 14–32 在正文与标题间自动切换；带真斜体、表格数字、分数、随大写字母抬高的标点、输入 -> 自动变箭头等上下文替换，覆盖 50+ 种语言。采用 SIL OFL 开源许可，可免费商用，提供 zip 下载、npm 包 allo-font 和 GitHub 源文件。Inter 作者 Rasmus Andersson 称赞它是「很棒的圆润版 Inter」，设计圈正在做仪表盘、产品界面试用。",
+   "links": [
+    "https://allo.joshpuckett.me/",
+    "https://x.com/i/trending/2122347755473367480"
+   ],
+   "topic": "allo-font",
+   "firstSeen": "2026-11-16T23:40:26+08:00"
   }
  ],
- "lastChecked": "2026-11-16T23:14:01+08:00"
+ "lastChecked": "2026-11-16T23:40:26+08:00"
 }
