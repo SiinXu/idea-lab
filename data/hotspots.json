@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T02:56:17+08:00",
+ "lastUpdated": "2026-11-17T03:13:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49727,7 +49727,19 @@
    ],
    "topic": "software-systemic-breakdown",
    "firstSeen": "2026-11-17T02:56:17+08:00"
+  },
+  {
+   "id": "4e32d38408",
+   "title": "美国多家大银行周一同时故障：摩根大通、美国银行、富国、Capital One 和 Zelle 用户无法登录 App、看不到余额",
+   "summary": "据《纽约邮报》，美东时间 11 月 16 日下午，Downdetector 上摩根大通故障报告超过 3300 条，美国银行和富国银行合计约 1400 条，Capital One 和转账应用 Zelle 也出现大量报告，很多用户打不开手机银行、查不到余额。摩根大通回应称「因技术问题，部分交易处理变慢，但客户仍可访问账户和资金」，正在尽快修复；故障原因暂未公布。这次故障发生在微软两天全球宕机和 FAA 全美停飞之后，HN 上多条相关帖子同时冲榜。",
+   "links": [
+    "https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/",
+    "https://news.ycombinator.com/item?id=50521357",
+    "https://news.ycombinator.com/item?id=50521045"
+   ],
+   "topic": "us-bank-outage-1116",
+   "firstSeen": "2026-11-17T03:13:40+08:00"
   }
  ],
- "lastChecked": "2026-11-17T02:56:17+08:00"
+ "lastChecked": "2026-11-17T03:13:40+08:00"
 }
