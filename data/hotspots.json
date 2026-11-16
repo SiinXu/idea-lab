@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T01:46:15+08:00",
+ "lastUpdated": "2026-11-17T01:56:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49601,7 +49601,31 @@
    ],
    "topic": "openai-goodfire-acquisition",
    "firstSeen": "2026-11-17T01:46:15+08:00"
+  },
+  {
+   "id": "d79d9bddcf",
+   "title": "AMD 完成 82 亿美元收购李飞飞的 World Labs：增发约 1498 万股，李飞飞出任 AMD 执行副总裁兼首席科学家",
+   "summary": "AMD 11 月 16 日宣布已于 11 月 13 日完成对 World Labs 的收购。这笔交易 9 月以约 82 亿美元 AMD 股票谈定，最终向原股东增发 14,978,322 股（见 8-K/A 文件）。李飞飞加入 AMD，任执行副总裁兼首席科学家，直接向苏姿丰汇报。World Labs 做生成和模拟可交互 3D 世界的模型，以及机器人学习与仿真；团队将继续做基础模型研究，并与 AMD 工程师一起，把模型能力反哺到下一代硬件、软件和系统。芯片厂直接收购世界模型团队，是「模型和算力一起优化」路线的明确信号。",
+   "links": [
+    "https://newsroom.amd.com/news/amd-completes-acquisition-world-labs/",
+    "https://ir.amd.com/financial-information/sec-filings/content/0001193125-26-462340/0001193125-26-462340.pdf",
+    "https://finance.yahoo.com/technology/article/amd-finalizes-82-billion-world-labs-acquisition-adds-godmother-of-ai-as-evp-and-chief-scientist-171451986.html"
+   ],
+   "topic": "amd-world-labs-closed",
+   "firstSeen": "2026-11-17T01:56:02+08:00"
+  },
+  {
+   "id": "f26f2a4dfd",
+   "title": "OpenAI 扩大「ChatGPT 学术研究者计划」：目标让 20 万名研究者免费用 ChatGPT，11 月 23 日开放 5 万个名额先到先得",
+   "summary": "OpenAI 宣布，7 月启动的学术研究者试点已覆盖 33 个国家的 2 万名研究者。下一轮 11 月 23 日开放申请，取消抽签，改为先到先得发放 5 万个名额，每个名额含申请人和最多两名合作者的免费 ChatGPT Plus。全计划目标 20 万人，是 7 月目标的两倍。试点用的是 Pro，但多数人用量没超过 Plus 额度，所以改发 Plus 以覆盖更多团队。默认不用计划内数据训练模型，中国大陆和香港不在开放范围内。同日还发布了 1800 多名参与者的研究报告：受访者估计，没有 AI 的话，同等质量的工作要花近两倍时间。另外，OpenAI 向西蒙斯基金会的数学新计划出资 500 万美元。",
+   "links": [
+    "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "https://openai.com/index/science-at-the-frontier/",
+    "https://www.semafor.com/article/11/16/2026/openai-announces-program-boosting-access-to-ai-for-scientists"
+   ],
+   "topic": "openai-academic-researchers",
+   "firstSeen": "2026-11-17T01:56:02+08:00"
   }
  ],
- "lastChecked": "2026-11-17T01:46:15+08:00"
+ "lastChecked": "2026-11-17T01:56:02+08:00"
 }
