@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T12:00:28+08:00",
+ "lastUpdated": "2026-11-16T12:10:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49249,7 +49249,29 @@
    ],
    "topic": "intel-shareholder-class-action-pc-slump",
    "firstSeen": "2026-11-16T12:00:28+08:00"
+  },
+  {
+   "id": "0a2c564cc1",
+   "title": "uBlock Origin 曝一键式通用 XSS：恶意网站可伪造元素拾取器，往任意站点注入「受信任过滤器」执行 JS（已修复）",
+   "summary": "安全研究者 Smitty van Bodegom 11 月 15 日披露：Firefox 版 uBlock Origin（MV2）的元素拾取器存在通用 XSS，MV3 版 uBO Lite 也受类似但较轻的影响，现已修复并发布 GitHub 安全公告。攻击链：借默认过滤规则 no-fetch-if 发出的 XHR 泄露扩展的随机 UUID → 把拾取器页面 epicker-ui.html 嵌进透明 iframe → 用 postMessage 驱动拾取器，在 opt 字段里塞换行注入任意 trusted 脚本过滤器 → 诱导用户点一下隐形的「Create」按钮，即可在任意网站运行攻击者的 JS。修复之一是让真正的拾取器从内容脚本拿到一次性口令再握手。作者称漏洞主要由 GPT-5.6 Sol 找到、PoC 代码多由 Claude 编写，本人负责验证和撰文。HN 首页约 130 赞。看点：AI 辅助挖浏览器扩展漏洞正在变得高效，扩展安全审计、postMessage/iframe 接口检查工具有需求。",
+   "links": [
+    "https://iter.ca/post/ubo-uxss/",
+    "https://news.ycombinator.com/item?id=50513160"
+   ],
+   "topic": "ublock-origin-epicker-uxss",
+   "firstSeen": "2026-11-16T12:10:40+08:00"
+  },
+  {
+   "id": "83b3b22004",
+   "title": "Tor 网络遭持续 DDoS，大多数中继被海量客户端电路淹没；官方紧急发布 0.4.9.17 修复 IPv6 相关防护",
+   "summary": "Tor 项目 11 月 13 日发布安全版本 0.4.9.17，包含一系列安全修复，其中最关键的是与 IPv6 处理相关的中继 DoS 防御。官方说明这是对「正在进行的 DDoS 攻击」的快速响应：攻击影响了大多数中继运营者，中继正被海量客户端电路淹没；问题不好解决，团队仍在评估更多防御措施，预计近期还会有新版本。官方呼吁中继运营者尽快升级，升级后无需额外操作。该公告 11 月 15 日登上 HN 首页。看点：匿名网络与去中心化基础设施抗 DDoS 能力受考验，中继监控、自动升级与流量异常告警工具有现实需求。",
+   "links": [
+    "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+    "https://news.ycombinator.com/item?id=50512441"
+   ],
+   "topic": "tor-0-4-9-17-ddos-response",
+   "firstSeen": "2026-11-16T12:10:40+08:00"
   }
  ],
- "lastChecked": "2026-11-16T12:00:28+08:00"
+ "lastChecked": "2026-11-16T12:10:40+08:00"
 }
