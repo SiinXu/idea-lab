@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-16T23:40:26+08:00",
+ "lastUpdated": "2026-11-17T00:02:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49470,7 +49470,18 @@
    ],
    "topic": "allo-font",
    "firstSeen": "2026-11-16T23:40:26+08:00"
+  },
+  {
+   "id": "cb381b007f",
+   "title": "调查：亚马逊黑五/网一「精选折扣」近三分之一根本不省钱，近十分之一反而比活动前一个月更贵",
+   "summary": "美国智库 Groundwork Collaborative 11 月 16 日发布报告《Deal or Decoy?》，追踪亚马逊 2024、2025 年黑五与网一官方「精选好价」页面上的 350 多款商品：近 1/3 的「折扣」与活动前一个月同价甚至更低，近 1/10 活动价反而更高。报告称这是「诱饵式折扣」，呼吁监管。今年黑五临近，此文冲上 HN 首页热议；历史价格追踪、真实折扣核验类插件和 AI 比价 Agent 再次成为机会点。",
+   "links": [
+    "https://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+    "https://news.ycombinator.com/item?id=50517488"
+   ],
+   "topic": "amazon-decoy-deals",
+   "firstSeen": "2026-11-17T00:02:10+08:00"
   }
  ],
- "lastChecked": "2026-11-16T23:40:26+08:00"
+ "lastChecked": "2026-11-17T00:02:10+08:00"
 }
