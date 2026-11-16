@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T00:02:10+08:00",
+ "lastUpdated": "2026-11-17T00:22:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49481,7 +49481,31 @@
    ],
    "topic": "amazon-decoy-deals",
    "firstSeen": "2026-11-17T00:02:10+08:00"
+  },
+  {
+   "id": "713744beab",
+   "title": "Liquid AI 发布 d1.2 / d1.2-ultra 决策模型：新增音频输入和 5 类结构化任务，ultra 登顶 Artificial Analysis 决策指数",
+   "summary": "Liquid AI 11 月 16 日发布 d1.2 与 d1.2-ultra：输入支持文本、图片和音频，输出是带概率的结构化答案。新增 5 类任务：读取发票金额等字段（读不到就返回「未找到」）、抽取个人信息等片段并给出位置、图中框选目标并计数、估算数量并给区间、多选分类。d1.2-ultra 在 Artificial Analysis 决策指数 v2.1 拿到 75 分排第一，d1.2 69 分排第六，两者都在性价比前沿。只按输入计费：每百万输入 token 分别 0.042 美元和 0.02 美元，输出免费，上下文 64K；已上 Liquid API，OpenRouter、Vercel 即将上线，权重计划开放但未定日期。适合发票/单据抽取、工单分类、音频检测这类 Agent 流水线。",
+   "links": [
+    "https://www.liquid.ai/blog/d1-2",
+    "https://alphasignal.ai/news/liquidai-s-d1-2-ultra-tops-decision-index-with-near-perfect-confidence",
+    "https://x.com/i/trending/2122355745052365063"
+   ],
+   "topic": "liquid-d1-2",
+   "firstSeen": "2026-11-17T00:22:52+08:00"
+  },
+  {
+   "id": "db8bc03a88",
+   "title": "苹果联手 OpenEvidence 上线「Apple Health AI 研究」App：招募最多 20 万美国用户问健康问题、给 AI 回答打分",
+   "summary": "苹果 11 月 15 日在 HLTH 大会宣布 Apple Health AI Usage Study，配套 App 已上美国 App Store，免费。研究由苹果设计，回答引擎来自医生 AI 搜索 OpenEvidence，引用 NEJM、JAMA、Nature 等同行评审来源。用户可自愿共享 HealthKit 的静息心率、睡眠、化验结果等数据，获得个性化解读、就诊准备摘要和运动/饮食计划，并为回答的准确度、相关性打分，每月填问卷。参与条件：21 岁以上、iPhone 15 Pro 及以上、iOS 26；研究持续 12 个月以上。苹果称数据不用于训练模型，OpenEvidence 24 小时内删除问答记录。外界视为苹果把 AI 健康问答引入 Health App 或 Siri 前的大规模测试。",
+   "links": [
+    "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+    "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "https://apps.apple.com/us/app/apple-health-ai-study-app/id6800060365"
+   ],
+   "topic": "apple-health-ai-study",
+   "firstSeen": "2026-11-17T00:22:52+08:00"
   }
  ],
- "lastChecked": "2026-11-17T00:02:10+08:00"
+ "lastChecked": "2026-11-17T00:22:52+08:00"
 }
