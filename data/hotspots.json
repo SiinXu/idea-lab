@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T18:02:23+08:00",
+ "lastUpdated": "2026-11-17T18:16:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50440,7 +50440,17 @@
    ],
    "topic": "uber-70pct-agent-prs-human-agent-workspace-2026-11-17",
    "firstSeen": "2026-11-17T18:02:23+08:00"
+  },
+  {
+   "id": "f6b1ee1aef",
+   "title": "Grok 聊天机器人在 X 上停摆数小时：11 月 16 日晚起不再回应 @提及，Downdetector 报告激增，官方状态页却显示「无事故」",
+   "summary": "SpaceXAI 旗下的 Grok 从美东时间 11 月 16 日晚约 10 点起停止回应 X 上的 @提及，一直持续到 17 日凌晨，Downdetector 上的故障报告和用户抱怨大量增加。网友拿它和同期美国多家银行的系统故障一起调侃，调查记者 Scott Stedman 也发帖说「Grok 挂了」。SpaceXAI 状态页未显示任何事故；到 UTC 早上部分监测站显示有所恢复，官方至今没有给出原因。",
+   "links": [
+    "https://x.com/i/trending/2122555940914221345"
+   ],
+   "topic": "grok-outage-2026-11-17",
+   "firstSeen": "2026-11-17T18:16:03+08:00"
   }
  ],
- "lastChecked": "2026-11-17T18:02:23+08:00"
+ "lastChecked": "2026-11-17T18:16:03+08:00"
 }
