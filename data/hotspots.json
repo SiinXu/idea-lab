@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T01:57:59+08:00",
+ "lastUpdated": "2026-11-18T02:10:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50846,7 +50846,19 @@
    ],
    "topic": "openai-gpt-6-2-astra-sol-launch-2026-11-17",
    "firstSeen": "2026-11-18T01:57:59+08:00"
+  },
+  {
+   "id": "8cb287e66a",
+   "title": "苹果 iCloud、App Store、Apple Pay 等多项服务大面积故障：用户被意外登出 iCloud 后无法重新验证，App Store Connect 也受影响",
+   "summary": "据 9to5Mac，美东时间周二中午起，苹果多项服务出现明显故障：用户反映 iPhone 和 Mac 上 iCloud 被意外登出，重新登录时验证失败或报未知错误；App Store 无法加载或下载应用，Apple Music、Apple Pay、Apple Support 和 iPhone 激活也受影响，开发者无法访问 App Store Connect。Downdetector 上多项苹果服务报障，但苹果系统状态页面截至报道时仍显示一切正常。这是近一周内又一起大规模服务中断，此前有微软 Outlook、美国全国航班停飞、摩根大通网银故障和 NSA 内网宕机。看点：接连的大厂故障凸显第三方状态监控、故障告警和多云容灾工具的价值。",
+   "links": [
+    "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
+    "https://news.ycombinator.com/item?id=50535268",
+    "https://news.ycombinator.com/item?id=50535238"
+   ],
+   "topic": "apple-icloud-app-store-outage-2026-11-17",
+   "firstSeen": "2026-11-18T02:10:19+08:00"
   }
  ],
- "lastChecked": "2026-11-18T01:57:59+08:00"
+ "lastChecked": "2026-11-18T02:10:19+08:00"
 }
