@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T11:12:41+08:00",
+ "lastUpdated": "2026-11-17T11:31:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50055,7 +50055,27 @@
    ],
    "topic": "deepseek-usage-limits-compute-2026-11-17",
    "firstSeen": "2026-11-17T11:12:41+08:00"
+  },
+  {
+   "id": "76ed7ac59a",
+   "title": "Gemini Notebook 新功能：一句「make me a site」，把你上传的资料变成可交互网页",
+   "summary": "谷歌 Gemini Notebook 让 18 岁以上用户输入「make me a site」加描述，就能根据已上传的资料生成可点击的交互页面，如元素周期表、历史时间线、销售图表、项目跟踪看板，可新标签打开或分享。由 Gemini 4 Hydrogen 驱动，网页版已对个人和 Google Workspace 用户开放，移动端稍后上线。",
+   "links": [
+    "https://x.com/i/trending/2122513719733416374"
+   ],
+   "topic": "gemini-notebook-make-me-a-site-2026-11-17",
+   "firstSeen": "2026-11-17T11:31:15+08:00"
+  },
+  {
+   "id": "887a9d54e3",
+   "title": "HN 热文：远程跑编程智能体却不交出凭据，作者开源 lend 让 Agent「借用」本机密钥并逐次审批",
+   "summary": "作者把 Claude Code、Codex 等智能体跑在可丢弃的云端 VM 上，SSH 密钥、1Password、已登录的 gh 和云 CLI 留在笔记本。自写工具 lend 让远程智能体经审批调用本机工具，密钥本身智能体看不到，支持租期（lease）和操作记录，并可在手机上通过 Ovis 卡片批准；配合为编程智能体设计的终端复用器 herdr 并行管理多个 Agent。",
+   "links": [
+    "https://blog.antonio.cx/running-agents-with-lend"
+   ],
+   "topic": "lend-agent-credentials-2026-11-17",
+   "firstSeen": "2026-11-17T11:31:15+08:00"
   }
  ],
- "lastChecked": "2026-11-17T11:12:41+08:00"
+ "lastChecked": "2026-11-17T11:31:15+08:00"
 }
