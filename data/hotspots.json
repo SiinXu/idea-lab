@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T02:10:19+08:00",
+ "lastUpdated": "2026-11-18T02:30:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50858,7 +50858,27 @@
    ],
    "topic": "apple-icloud-app-store-outage-2026-11-17",
    "firstSeen": "2026-11-18T02:10:19+08:00"
+  },
+  {
+   "id": "465875cf69",
+   "title": "机器人公司 Genesis AI 完成 5 亿美元 A 轮、估值 35 亿美元：Khosla、Premji、Eclipse 领投，英伟达和 Eric Schmidt 参投，靠全球工人戴传感手套采集灵巧手数据",
+   "summary": "总部位于巴黎和硅谷的 Genesis AI（2024 年由周衔、Théophile Gervet 创立）11 月 17 日宣布 5 亿美元 A 轮融资，估值 35 亿美元，由 Khosla Ventures、Premji Invest、Eclipse 领投，英伟达、Eric Schmidt 等参投。公司做全栈机器人：自研轮式机器人 Eno（被戏称为「带轮子的 iMac」）和自研模型 GENE，训练数据来自全球 100 多名戴传感手套的工人，目标是像人手一样精细操作。CEO 称重点在执行而非新突破，计划明年扩产，2027 年在制造和物流场景大规模部署。看点：具身智能融资持续升温，「人类示范数据采集」本身正在成为一门生意。",
+   "links": [
+    "https://x.com/i/trending/2122746522672718297"
+   ],
+   "topic": "genesis-ai-500m-series-a-dexterous-robots-2026-11-17",
+   "firstSeen": "2026-11-18T02:30:59+08:00"
+  },
+  {
+   "id": "c42532fa98",
+   "title": "联邦披露文件：Anthropic 向卢比奥前幕僚长的游说公司 Continental Strategy 累计支付 74 万美元，游说 AI 发展与国家安全",
+   "summary": "联邦游说披露显示，Anthropic 在 2025 年向 Continental Strategy 支付 29 万美元，2026 年截至 9 月又付 45 万美元，游说议题为 AI 发展和国家安全。这家公司由卢比奥长期幕僚长 Alberto Enrique Martinez 领导，报告接触过国家安全委员会、商务部、国防部、财政部、国务院和国会。文件只列出大致活动，未说明具体会面或影响了哪些政策，引发对 AI 公司游说关系的追问。看点：在对华芯片出口管制等议题上，前沿 AI 公司的政策游说投入正在加码，也将成为 Anthropic 上市前后的舆论焦点。",
+   "links": [
+    "https://x.com/i/trending/2122731132949033212"
+   ],
+   "topic": "anthropic-continental-strategy-lobbying-740k-2026-11-17",
+   "firstSeen": "2026-11-18T02:30:59+08:00"
   }
  ],
- "lastChecked": "2026-11-18T02:10:19+08:00"
+ "lastChecked": "2026-11-18T02:30:59+08:00"
 }
