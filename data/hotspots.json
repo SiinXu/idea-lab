@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T08:29:07+08:00",
+ "lastUpdated": "2026-11-17T10:15:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49943,7 +49943,28 @@
    ],
    "topic": "howie-joins-google-labs",
    "firstSeen": "2026-11-17T08:29:07+08:00"
+  },
+  {
+   "id": "b5e8d962ca",
+   "title": "Amodei 警告开源 AI 风险：开放发布后无法监控、无法收回，X 上掀起「安全还是垄断」之争",
+   "summary": "Anthropic CEO Dario Amodei 称，自家受控模型可以追踪用途、随时撤销访问，而开源模型一旦放出就无从管控、可能酿成危险。批评者认为这是大厂借安全之名把强大模型锁进订阅，并联系起 Altman 「算力集中在数据中心」的说法；开源派则反驳少数公司垄断才是更大风险。",
+   "links": [
+    "https://x.com/i/trending/2122486399895060794",
+    "https://x.com/i/trending/2122489004000166170"
+   ],
+   "topic": "amodei-open-source-risk-2026-11-16",
+   "firstSeen": "2026-11-17T10:15:08+08:00"
+  },
+  {
+   "id": "49f700b270",
+   "title": "Altman 被剪辑成「OpenAI 已实现 AGI」：Semafor 大会原话其实是在讲安全",
+   "summary": "11 月 16 日 Semafor「硅谷与世界」大会上，Altman 解释 OpenAI 出于安全考虑会压住能自我改进的 AI，并称 AGI 的定义边界很模糊。被截断的片段在 X 上疯传，配文「以前没有 AGI，现在有了」，事实核查者贴出完整原话澄清他并未宣布实现 AGI。",
+   "links": [
+    "https://x.com/i/trending/2122431271733448861"
+   ],
+   "topic": "altman-agi-clip-semafor-2026-11-16",
+   "firstSeen": "2026-11-17T10:15:08+08:00"
   }
  ],
- "lastChecked": "2026-11-17T08:29:07+08:00"
+ "lastChecked": "2026-11-17T10:15:08+08:00"
 }
