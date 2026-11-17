@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T04:22:30+08:00",
+ "lastUpdated": "2026-11-18T04:38:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51049,7 +51049,27 @@
    ],
    "topic": "coinbase-ventures-agentic-trading-map-2026-11-17",
    "firstSeen": "2026-11-18T04:22:30+08:00"
+  },
+  {
+   "id": "98147fa0b1",
+   "title": "Compute Desk 获 Lightspeed 领投 4500 万美元种子轮：要把 GPU 算力做成像石油一样可交易的大宗商品，已发布 B300 预留算力日度价格指数",
+   "summary": "由前 Meta GPU 扩建负责人 Andrawes Bahou 和 David López Mateos 创办的 Compute Desk 完成 4500 万美元种子轮，Lightspeed 领投。公司搭建算力交易清算所和金融工具：每天发布 $DESKB300 等价格指数（B300 预留算力），已被云厂商、对冲基金和银行用作期货、期权定价基准；Compute Clear 负责实物 GPU 交割结算，解决多年期刚性合同的问题。看点：算力正在金融化，价格指数、对冲工具和二级市场是新基础设施机会。",
+   "links": [
+    "https://x.com/i/trending/2122788238524125212"
+   ],
+   "topic": "compute-desk-45m-gpu-trading-2026-11-17",
+   "firstSeen": "2026-11-18T04:38:57+08:00"
+  },
+  {
+   "id": "e54fa96cd6",
+   "title": "独立 AI 作者 Jasmine Sun（Substack 3.9 万订阅）加入《纽约时报》观点版：将开设每周 AI 通讯、参与科技社论并客串 Hard Fork 播客",
+   "summary": "Jasmine Sun 宣布结束两年独立写作，加入纽约时报 Opinion，负责每周 AI 通讯、科技社论，并在 Hard Fork 播客露面。她有斯坦福社会学背景、做过 Substack 产品经理，早期报道过数据中心反对潮等 AI 社会影响。看点：AI 独立创作者被主流媒体吸纳，说明「把 AI 讲给普通人听」的内容需求旺盛，个人 AI 通讯仍是可行的起步路径。",
+   "links": [
+    "https://x.com/i/trending/2122739990677389531"
+   ],
+   "topic": "jasmine-sun-nyt-ai-writer-2026-11-17",
+   "firstSeen": "2026-11-18T04:38:57+08:00"
   }
  ],
- "lastChecked": "2026-11-18T04:22:30+08:00"
+ "lastChecked": "2026-11-18T04:38:57+08:00"
 }
