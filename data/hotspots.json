@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T10:15:08+08:00",
+ "lastUpdated": "2026-11-17T10:46:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49964,7 +49964,27 @@
    ],
    "topic": "altman-agi-clip-semafor-2026-11-16",
    "firstSeen": "2026-11-17T10:15:08+08:00"
+  },
+  {
+   "id": "3f11e12f23",
+   "title": "Mitchell Hashimoto 发布 Rex：基于 libghostty 的原生 macOS 终端，让远程服务器用起来像本机",
+   "summary": "Vagrant 作者、Ghostty 作者 Hashimoto 演示新工具 Rex：终端与多路复用器合二为一，自动复制粘贴、拖放文件、端口转发后直接在本地浏览器打开远程网页服务；会话常驻后台服务器，换设备断开重连不丢进度，经 Tailscale 连 Mac、Linux、FreeBSD。早期用户称它「干掉了我整套配置」。",
+   "links": [
+    "https://x.com/i/trending/2122513715702698057"
+   ],
+   "topic": "hashimoto-rex-remote-dev-2026-11-17",
+   "firstSeen": "2026-11-17T10:46:55+08:00"
+  },
+  {
+   "id": "d0d7c382f5",
+   "title": "韩国金融委：科技公司可成为韩元稳定币发行方第一大股东，但银行合计须持股过半",
+   "summary": "韩国金融服务委员会数字金融政策负责人 Yoo Young-joon 在论坛上确认，现行规则不禁止科技公司在稳定币联合体中做单一最大股东，只要银行合计持股过半、提供资本与合规背书。日本在试点日元稳定币，台湾在起草类似「银行控股」规则，香港已发牌，亚洲本币稳定币竞速加快。",
+   "links": [
+    "https://x.com/i/trending/2122464094586298660"
+   ],
+   "topic": "korea-won-stablecoin-tech-stake-2026-11-17",
+   "firstSeen": "2026-11-17T10:46:55+08:00"
   }
  ],
- "lastChecked": "2026-11-17T10:15:08+08:00"
+ "lastChecked": "2026-11-17T10:46:55+08:00"
 }
