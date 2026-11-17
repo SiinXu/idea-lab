@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T22:01:46+08:00",
+ "lastUpdated": "2026-11-17T22:46:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50640,7 +50640,37 @@
    ],
    "topic": "x-llm-slop-visibility-rules-2026-11-17",
    "firstSeen": "2026-11-17T22:01:46+08:00"
+  },
+  {
+   "id": "1d7eb6e8c9",
+   "title": "Coinbase 推出 ChatGPT 插件：美国用户可直接在对话里用自然语言查行情、管理持仓、下单股票、加密货币和衍生品，每笔订单都需确认卡片批准",
+   "summary": "新插件把 Coinbase 账户接入 ChatGPT，美国用户可以用日常语言查看市场、分析组合、设置定投并交易股票、加密货币和衍生品。每笔订单都必须经用户在确认卡片上明确批准，由人做最终决定。Coinbase 称这是在已有 AI 工具基础上，降低新手投资门槛。",
+   "links": [
+    "https://x.com/i/trending/2122700328202059985"
+   ],
+   "topic": "coinbase-chatgpt-trading-plugin-2026-11-17",
+   "firstSeen": "2026-11-17T22:46:55+08:00"
+  },
+  {
+   "id": "2a2e0905f1",
+   "title": "英伟达在 SC26 发布 DGX Spark HPC 开发套件：四台 DGX Spark 用 ConnectX-7 连成环，桌面上就有 512GB 统一内存、4 PFLOPS FP4 算力，可跑 7000 亿参数模型",
+   "summary": "英伟达在超算大会 SC26 上推出 DGX Spark HPC Developer Kit，用内置 ConnectX-7 网络把四台 DGX Spark 组成环形集群，提供 512GB 统一内存和最高 4 PFLOPS 的 FP4 AI 算力，可运行 DeepSeek V4.1 等最高 7000 亿参数的模型。面向想在本地先测试多节点任务、再上云扩展的开发者，HPC SDK 使用手册即将推出。已有玩家把 11 台串起来，做成 1.4TB 内存的家庭实验室。",
+   "links": [
+    "https://x.com/i/trending/2122656204916957411"
+   ],
+   "topic": "nvidia-dgx-spark-hpc-ring-sc26-2026-11-17",
+   "firstSeen": "2026-11-17T22:46:55+08:00"
+  },
+  {
+   "id": "0aed621117",
+   "title": "Akash Network 在 Solana 上推出 GPU 算力远期市场：链上交易「8 张 B300 用一个月」的合约，提前锁定未来 GPU 价格，2027 年一季度试点",
+   "summary": "Akash 创始人 Greg Osuri 在 Solana Breakpoint 2026 上发布 Akash Compute Forwards：在 Solana 上建链上订单簿，买卖双方交易指定地区 8 张英伟达 B300 GPU 使用一个月的合约，按每 GPU 小时计价，每日拍卖确定成交价，交付前合约可以转手。由经过验证的算力商实际交付，验证节点监督。目标是让 AI 公司在现货价格波动下也能提前锁定可预期的 GPU 供给。2027 年一季度试点，二季度公开上线。",
+   "links": [
+    "https://x.com/i/trending/2122685277818757632"
+   ],
+   "topic": "akash-gpu-compute-forwards-solana-2026-11-17",
+   "firstSeen": "2026-11-17T22:46:55+08:00"
   }
  ],
- "lastChecked": "2026-11-17T22:01:46+08:00"
+ "lastChecked": "2026-11-17T22:46:55+08:00"
 }
