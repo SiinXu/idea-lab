@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T15:12:08+08:00",
+ "lastUpdated": "2026-11-17T15:23:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50238,7 +50238,47 @@
    ],
    "topic": "ao3-back-online-2026-11-17",
    "firstSeen": "2026-11-17T15:12:08+08:00"
+  },
+  {
+   "id": "1b9a7a07e8",
+   "title": "Paul Christiano 播客警告：不放慢的话，AI 远超人类的概率约 33%，未来 12 个月内「剥夺人类控制权」风险约 10%",
+   "summary": "对齐研究中心（ARC）负责人、新近加入 OpenAI 董事会的 Paul Christiano 在 11 月 16 日一期节目中给出上述估计，并引用 METR 11 月 5 日报告：自 2025 年 10 月以来 Anthropic 研发速度约翻倍，主要靠 AI 辅助自身开发。言论在 X 上引发对 AI 安全时间表的新一轮争论。",
+   "links": [
+    "https://x.com/i/trending/2121983479747355023"
+   ],
+   "topic": "christiano-superintelligence-risk-podcast-2026-11-17",
+   "firstSeen": "2026-11-17T15:23:02+08:00"
+  },
+  {
+   "id": "4ebe2e967e",
+   "title": "Google Antigravity 全面重做界面：为多智能体「蜂群」而建，实时看板、成员名册和关系图同屏，配合 /swarm 指令",
+   "summary": "Google Antigravity 团队发布界面大改版，围绕并行运行多个 AI 智能体重新设计：协调者智能体在隔离空间里调度各类专职子智能体，验证者智能体检查进度，用户通过实时看板、名册和图谱掌握全局。底层由 Gemini 4 Carbon 驱动，新增 /swarm 功能，演示项目是一款雨夜工业风游戏。",
+   "links": [
+    "https://x.com/i/trending/2122588364734083575"
+   ],
+   "topic": "antigravity-swarm-interface-redesign-2026-11-17",
+   "firstSeen": "2026-11-17T15:23:02+08:00"
+  },
+  {
+   "id": "0cc232c42d",
+   "title": "传闻：卸任英伟达 CEO 的黄仁勋考虑另起炉灶，创办一家私有半导体公司与英伟达竞争",
+   "summary": "黄仁勋辞去英伟达 CEO 和董事职务后，有报道称他正考虑创办一家私有芯片公司：可凭行业关系募资数百亿美元、保留创始人完全控制权，并从 AI 客户和工程师圈子拉人。观察人士指出竞业限制、人才挖角和与老东家正面竞争等现实障碍。目前仍属报道和传闻，未见本人确认。",
+   "links": [
+    "https://x.com/i/trending/2122590088274346109"
+   ],
+   "topic": "jensen-huang-new-chip-company-rumor-2026-11-17",
+   "firstSeen": "2026-11-17T15:23:02+08:00"
+  },
+  {
+   "id": "0d7db68271",
+   "title": "汇丰以八成多面值折价甩卖 3 亿美元 Stargate 数据中心贷款：甲骨文已对新墨西哥 Project Jupiter 发不可抗力通知",
+   "summary": "这笔贷款属于甲骨文关联的新墨西哥州 Doña Ana 县 Project Jupiter 约 180 亿美元融资包的一部分，该项目与 OpenAI 的 Stargate 计划相关。此前甲骨文因许可延误和当地环保阻力向开发商发出不可抗力通知。几天前 ING 刚拍卖约 5 亿美元同类贷款，交易员担心正在出现「AI 次级债危机」苗头，银行在甩掉优先级贷款风险。",
+   "links": [
+    "https://x.com/i/trending/2122576220135297202"
+   ],
+   "topic": "hsbc-stargate-jupiter-loan-discount-2026-11-17",
+   "firstSeen": "2026-11-17T15:23:02+08:00"
   }
  ],
- "lastChecked": "2026-11-17T15:12:08+08:00"
+ "lastChecked": "2026-11-17T15:23:02+08:00"
 }
