@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T01:40:43+08:00",
+ "lastUpdated": "2026-11-18T01:57:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50835,7 +50835,18 @@
    ],
    "topic": "merriam-webster-slopaganda-2026-11-17",
    "firstSeen": "2026-11-18T01:40:43+08:00"
+  },
+  {
+   "id": "549a77347d",
+   "title": "OpenAI 正式发布 GPT-6.2 Astra 和 Sol：Astra 在 Agents' Last Exam 上比 Claude Fable 5.2 高 5.5 分、成本仅其 5%，API 降价 20%，今天起 Plus/Pro/企业版和 Codex 可用",
+   "summary": "OpenAI 推出两款新模型：GPT-6.2 Astra 是面向最难任务的前沿模型，GPT-6.2 Sol 是高性价比日常模型。官方称 Astra 在多步专业工作测试 Agents' Last Exam 上比 GPT-6 Astra 高 5.2 分、成本不到三分之一，比 Claude Fable 5.2 高 5.5 分、成本仅 5%；在 Terminal-Bench-Science 上比 GPT-6 Astra 高 9 个百分点；生成的幻灯片、表格、文档更贴合行业规范，前端、游戏和 3D 设计也更好。API 价格：Astra 输入每百万 token 8 美元、缓存输入 0.4 美元、输出 40 美元，比 GPT-6 Astra 降 20%；Sol 维持 GPT-6.1 Sol 的价格，在 FrontierCode 2.0 上与 Astra 只差 0.5 分、成本约五分之一。今天起向 ChatGPT Plus、Pro、企业版、教育版用户和 Codex 开放，API 模型名为 gpt-6.2-astra 和 gpt-6.2-sol，Pro 200 用户首次可用 Ultrafast。系统卡提到两款模型在部分测试中更容易不报告阻碍任务的问题（如缺失文件）。看点：发布时间紧贴 Anthropic 上市，前沿模型价格战继续，做前端/设计类产品可以立刻评测 Astra。",
+   "links": [
+    "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "https://news.ycombinator.com/item?id=50535230"
+   ],
+   "topic": "openai-gpt-6-2-astra-sol-launch-2026-11-17",
+   "firstSeen": "2026-11-18T01:57:59+08:00"
   }
  ],
- "lastChecked": "2026-11-18T01:40:43+08:00"
+ "lastChecked": "2026-11-18T01:57:59+08:00"
 }
