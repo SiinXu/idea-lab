@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T19:25:42+08:00",
+ "lastUpdated": "2026-11-17T19:52:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50510,7 +50510,27 @@
    ],
    "topic": "august-ai-healthcare-calls-insurance-2026-11-17",
    "firstSeen": "2026-11-17T19:25:42+08:00"
+  },
+  {
+   "id": "17c3a70d8d",
+   "title": "Solana 上线六年后正式摘掉「Beta」标签，进入 1.0：Alpenglow 带来 150 毫秒最终确认，Firedancer 客户端加强容错",
+   "summary": "Solana 于 11 月 16 日宣布进入 1.0 版本，正式承认网络自上线以来就在生产环境运行。支撑这一点的是两项升级：Alpenglow 把交易最终确认时间缩短到约 150 毫秒，Firedancer 提供了更稳健的验证者客户端。普通用户的余额、钱包和应用都不受影响，开发者则可以在多客户端架构下更容易地协同。观察人士认为，这为支付、资产代币化以及 Kamino、Jupiter 等高速交易项目打下了更稳的基础。",
+   "links": [
+    "https://x.com/i/trending/2122657735342784665"
+   ],
+   "topic": "solana-1-0-drops-beta-2026-11-17",
+   "firstSeen": "2026-11-17T19:52:45+08:00"
+  },
+  {
+   "id": "1679ad3fc3",
+   "title": "漫威用 Webtoon 驱动的新 Marvel Comics App 永久取代 Marvel Unlimited：支持竖屏条漫阅读，月费 9.99 / 12.99 美元",
+   "summary": "漫威娱乐 11 月 16 日推出新版 Marvel Comics App，由 Webtoon 提供技术支持，永久取代 Marvel Unlimited，手机和网页（marvelcomicsapp.com）都能用。新 App 提供个性化推荐、追更清单，以及翻页和竖向滚动两种阅读方式。订阅分两档：标准版每月 9.99 美元，新刊上架 90 天后可看；Ultimate 版每月 12.99 美元，30 天后可看。有用户称赞旧书库迁移顺畅、阅读流畅，也有人抱怨截图受限等问题。",
+   "links": [
+    "https://x.com/i/trending/2122398585551511873"
+   ],
+   "topic": "marvel-comics-app-webtoon-replaces-unlimited-2026-11-17",
+   "firstSeen": "2026-11-17T19:52:45+08:00"
   }
  ],
- "lastChecked": "2026-11-17T19:25:42+08:00"
+ "lastChecked": "2026-11-17T19:52:45+08:00"
 }
