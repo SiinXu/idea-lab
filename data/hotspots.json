@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T17:14:18+08:00",
+ "lastUpdated": "2026-11-17T17:28:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50410,7 +50410,17 @@
    ],
    "topic": "iceye-bid-avio-2026-11-17",
    "firstSeen": "2026-11-17T17:14:18+08:00"
+  },
+  {
+   "id": "05f3253443",
+   "title": "Leopold Aschenbrenner 的 AI 基金 Q3 持仓大砍 92%：清仓闪迪、美光、台积电，七成多资产押在 SharonAI、Bloom Energy 看涨期权等三笔",
+   "summary": "前 OpenAI 研究员 Aschenbrenner 2024 年创办的 AI 主题基金最新 13F 显示，Q3 完全退出 Sandisk、美光、台积电等仓位，并减持 IREN、CleanSpark，转向看涨期权，73.7% 资产集中在 SharonAI 股票、Bloom Energy 看涨期权等三笔押注。市场把这看作「AI 基建交易」风向的一个信号。",
+   "links": [
+    "https://x.com/i/trending/2122454678462214361"
+   ],
+   "topic": "aschenbrenner-fund-q3-13f-cut-2026-11-17",
+   "firstSeen": "2026-11-17T17:28:55+08:00"
   }
  ],
- "lastChecked": "2026-11-17T17:14:18+08:00"
+ "lastChecked": "2026-11-17T17:28:55+08:00"
 }
