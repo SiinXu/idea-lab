@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T23:43:45+08:00",
+ "lastUpdated": "2026-11-17T23:56:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50721,7 +50721,28 @@
    ],
    "topic": "vals-ai-military-targeting-simulation-2026-11-17",
    "firstSeen": "2026-11-17T23:43:45+08:00"
+  },
+  {
+   "id": "86292454bf",
+   "title": "OpenAI 与北约合作 AI 网络防御：北约通信与信息局通过 Daybreak 计划用 OpenAI 模型全天候狩猎威胁、找漏洞、部署修复，每月处理约 3000 亿 token",
+   "summary": "OpenAI 的 Daybreak 计划向北约通信与信息局（NCIA）开放先进模型，用于排查可疑活动、发现漏洞并在盟国网络中推送修复；北约核心机构每月输入输出 token 已达 3000 亿量级。北约网络防御中心还把这套工具接入 2026 年「Crossed Swords」演习，在人工监督下训练 AI 智能体；欧盟网络安全局 ENISA 以及法国、德国、波兰的团队也获得了类似访问权限。看点：AI 安全攻防正从企业走向国家和联盟级采购，「AI 安全运营」是可以做垂直工具和服务的方向。",
+   "links": [
+    "https://x.com/i/trending/2122707238322057606"
+   ],
+   "topic": "openai-nato-daybreak-cyber-defense-2026-11-17",
+   "firstSeen": "2026-11-17T23:56:25+08:00"
+  },
+  {
+   "id": "715137d935",
+   "title": "FrontierHarness Eval v1.1：27,280 次编码智能体运行、830 亿 token 测出，64.5% 的推理花费烧在没通过的任务上；换模型时也该换 harness",
+   "summary": "Runta 联合 Baseten 用 22 个 harness × 5 个模型 × 62 个任务 × 4 次尝试做了最大规模的编码智能体 harness 榜单。结论：每个模型的最佳性价比 harness 都不同（GLM-5.3 配 Codex CLI、Kimi-K3 配 Alma 等），Codex CLI 的成本排名在不同模型下从第 1 掉到第 16；整体 64.5% 的花费流向失败（52.7%）和超时（11.8%）的运行。表现最好的 harness 共同点是：一个 shell 工具承担 61%–93% 的调用、工具少而薄。看点：为团队挑选「模型+harness」组合、提前止损失败运行，是降本工具的机会。",
+   "links": [
+    "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+    "https://news.ycombinator.com/item?id=50532191"
+   ],
+   "topic": "frontierharness-eval-v1-1-failed-runs-cost-2026-11-17",
+   "firstSeen": "2026-11-17T23:56:25+08:00"
   }
  ],
- "lastChecked": "2026-11-17T23:43:45+08:00"
+ "lastChecked": "2026-11-17T23:56:25+08:00"
 }
