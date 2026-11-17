@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T02:42:40+08:00",
+ "lastUpdated": "2026-11-18T02:58:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50908,7 +50908,27 @@
    ],
    "topic": "lemonade-midnight-ai-software-factory-2026-11-17",
    "firstSeen": "2026-11-18T02:42:40+08:00"
+  },
+  {
+   "id": "e45105f047",
+   "title": "Cognition 发布 Devin Bots：带长期记忆和权限的常驻 AI 工程师，可连续数天到数周推进目标、互相分派任务并合并 PR",
+   "summary": "Cognition 推出 Devin Bots（devin.ai/bots）：智能体在会话之间保留记忆、权限和上下文，可围绕高层目标自主排查问题、分派给其他 Devin、跑测试并合并 PR。早期案例：一个 Bot 44 天为安卓应用合并 1134 个 PR，另一个把 UI 卡顿降低 70%，还有团队用 20 个 Bot 运营手游工作室、每周发版。看点：编码智能体从「一次性任务」走向「常驻队友」，围绕它的监控、权限和成本管理会成为新需求。",
+   "links": [
+    "https://x.com/i/trending/2122746523968835595"
+   ],
+   "topic": "cognition-devin-bots-2026-11-17",
+   "firstSeen": "2026-11-18T02:58:45+08:00"
+  },
+  {
+   "id": "8f0dcd11cf",
+   "title": "MarketWatch：AI 聊天机器人和 AI 概览正大幅削减网站流量，Reddit 10 月每周少了 100 多万次搜索引荐，Fiverr CEO 称之为「地震」",
+   "summary": "MarketWatch 报道，谷歌 AI Overviews 和各类聊天机器人直接给出答案，网站引荐流量明显下滑：Reddit CEO 称 10 月每周搜索引荐减少超 100 万次，Fiverr CEO 形容这是在线平台的「地震」。讨论中不少人建议转向邮件列表等自有渠道。看点：「点击经济」退潮，内容站和独立开发者需要把 AI 搜索可见度和私域订阅当作核心渠道。",
+   "links": [
+    "https://x.com/i/trending/2122763631313985762"
+   ],
+   "topic": "ai-chatbots-cut-web-traffic-marketwatch-2026-11-17",
+   "firstSeen": "2026-11-18T02:58:45+08:00"
   }
  ],
- "lastChecked": "2026-11-18T02:42:40+08:00"
+ "lastChecked": "2026-11-18T02:58:45+08:00"
 }
