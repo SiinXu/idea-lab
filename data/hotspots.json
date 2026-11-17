@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T16:17:19+08:00",
+ "lastUpdated": "2026-11-17T16:31:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50339,7 +50339,38 @@
    ],
    "topic": "bengaluru-tech-summit-2026-ai-beyond-2026-11-17",
    "firstSeen": "2026-11-17T16:17:19+08:00"
+  },
+  {
+   "id": "4f8b85c3ec",
+   "title": "AI 体育播客 Beatline Sports 遭记者群嘲：给 NFL、NBA、MLB、NHL 各队几乎每天出两人对谈节目，声音机械、念错人名、只会复述比分",
+   "summary": "Beatline Sports 为多个联盟的球队开设播客订阅源，用两位 AI 主播每天分析比赛或前瞻。纳什维尔记者 Alex Daugherty、新泽西记者 Daniel Amoia 等公开批评其声音生硬、人名读错、观点只是比分表复述。Awful Announcing 调查确认该运营方使用生成式 AI 制作内容。同期电竞赛事用 AI 解说替代人类解说员也引发不满。",
+   "links": [
+    "https://x.com/i/trending/2122535070926094746",
+    "https://x.com/i/trending/2122548644607910218"
+   ],
+   "topic": "beatline-ai-sports-podcasts-backlash-2026-11-17",
+   "firstSeen": "2026-11-17T16:31:50+08:00"
+  },
+  {
+   "id": "8a496c12fc",
+   "title": "电影《Young Washington》片场用字节 BytePlus Seedance 做「生成式第二摄制组」：约 30 秒出实拍 + AI 环境合成预览",
+   "summary": "导演 Jon Erwin 在 2026 年电影《Young Washington》中，用 BytePlus 的 Seedance 把实拍镜头与 AI 生成的环境即时合成，约 30 秒出预览，帮助团队当场发现视线、光线不匹配等问题，加快各部门对齐，甚至省掉冷水拍摄等高风险场景。讨论中也有人担心这会让决策过于仓促。",
+   "links": [
+    "https://x.com/i/trending/2122599995341689110"
+   ],
+   "topic": "young-washington-seedance-onset-previz-2026-11-17",
+   "firstSeen": "2026-11-17T16:31:50+08:00"
+  },
+  {
+   "id": "845b7e25bd",
+   "title": "AI 编程的「理解债」：几分钟生成 schema、API 和测试，审查幻觉、补测试和查安全却要几个小时",
+   "summary": "开发者在 X 上集中讨论 AI 写代码的隐性成本：生成很快，但排查幻觉、补齐测试、确保安全耗时更长。讨论引用的数据称 AI 编写的 GitHub 提交问题率约 15%、不少 bug 长期滞留；谷歌提到「智能体分心」会让任务多出约 70% 的步骤。",
+   "links": [
+    "https://x.com/i/trending/2122606231080894625"
+   ],
+   "topic": "ai-coding-comprehension-debt-2026-11-17",
+   "firstSeen": "2026-11-17T16:31:50+08:00"
   }
  ],
- "lastChecked": "2026-11-17T16:17:19+08:00"
+ "lastChecked": "2026-11-17T16:31:50+08:00"
 }
