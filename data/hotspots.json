@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T17:28:55+08:00",
+ "lastUpdated": "2026-11-17T17:40:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50420,7 +50420,17 @@
    ],
    "topic": "aschenbrenner-fund-q3-13f-cut-2026-11-17",
    "firstSeen": "2026-11-17T17:28:55+08:00"
+  },
+  {
+   "id": "9018952ccd",
+   "title": "纳德拉在播客中承认：Anthropic 的 Claude Code 让自家 VS Code 的地位暗淡了",
+   "summary": "微软 CEO 萨提亚·纳德拉在一次播客访谈中谈到，Claude Code 让用户用自然语言描述任务，由它在终端里自己探索代码库、改文件、跑测试并反复迭代。不少开发者表示现在很少打开 VS Code，主要只用它审阅 AI 提出的改动；也有人仍坚持在编辑器里调试和掌控细节。讨论认为编程习惯正快速转向「验证与监督」。",
+   "links": [
+    "https://x.com/i/trending/2122622282950484027"
+   ],
+   "topic": "nadella-claude-code-vscode-2026-11-17",
+   "firstSeen": "2026-11-17T17:40:04+08:00"
   }
  ],
- "lastChecked": "2026-11-17T17:28:55+08:00"
+ "lastChecked": "2026-11-17T17:40:04+08:00"
 }
