@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T04:38:57+08:00",
+ "lastUpdated": "2026-11-18T04:59:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51069,7 +51069,37 @@
    ],
    "topic": "jasmine-sun-nyt-ai-writer-2026-11-17",
    "firstSeen": "2026-11-18T04:38:57+08:00"
+  },
+  {
+   "id": "4cf60c1e98",
+   "title": "Alljoined 发布 AIR-O：用普通无创 EEG 脑电头戴设备读取注意力，实时生成你正在想的画面",
+   "summary": "创业公司 Alljoined（负责人 Jonathan Xu）推出 AIR-O，用无创脑电信号解码使用者正在关注的内容，并实时生成对应图像。团队此前做过基于 fMRI 的 MindEye2，这次转向更便宜的 EEG 硬件，并公开了大规模训练数据集。演示中受试者看着玻璃花房，笔记本上就生成了相近画面。看点：脑机接口从昂贵设备走向消费级头戴，「意念输入」类交互和配套隐私问题都会成为新话题。",
+   "links": [
+    "https://x.com/i/trending/2122770228442784016"
+   ],
+   "topic": "alljoined-air-o-eeg-image-2026-11-17",
+   "firstSeen": "2026-11-18T04:59:07+08:00"
+  },
+  {
+   "id": "df10e8e0fe",
+   "title": "Ramp 品牌负责人 Paul Jun 发文《Brand as Software》第二篇：让资深设计师少做白皮书和 PPT，转而搭建工具和 AI 智能体来守住品牌质量",
+   "summary": "Paul Jun 介绍 Ramp 如何把品牌工作当软件做：把资深设计师从重复产出中抽出来，与工程师搭档，把「质量标准」写成可扩展的工具和智能体，例如让 AI 智能体在数百个素材中检查 Logo 使用是否一致，以此保护只有人能做的创意判断；这建立在 Ramp 新品牌体系「Solar System」之上。文章在设计圈引发热议。看点：「品牌规范 → 可执行的智能体检查」是设计团队的新工作方式，也是设计类 SaaS 和技能包的机会。",
+   "links": [
+    "https://x.com/i/trending/2122777735873659295"
+   ],
+   "topic": "ramp-brand-as-software-2026-11-17",
+   "firstSeen": "2026-11-18T04:59:07+08:00"
+  },
+  {
+   "id": "b51592ca63",
+   "title": "澳大利亚 Trellis Data 发布主权大模型 Agentaus 1：2200 亿参数、数据全部留在澳洲服务器，面向政府、国防和执法",
+   "summary": "堪培拉公司 Trellis Data（创始人 Michael 和 Rachel Gately 夫妇）推出 Agentaus 1，220B 参数，全部运行在澳大利亚本土服务器，用户对话不用于训练、可按要求永久删除。MMLU-Pro 得分 84.4%，全球排名第 43；提供免费档和付费档，可接入办公工具处理文档。看点：继印度 Sarvam 之后，又一个国家级「主权 AI」落地，数据驻留和合规是中小国家模型的核心卖点。",
+   "links": [
+    "https://x.com/i/trending/2122791710535352377"
+   ],
+   "topic": "trellis-agentaus-1-sovereign-ai-2026-11-17",
+   "firstSeen": "2026-11-18T04:59:07+08:00"
   }
  ],
- "lastChecked": "2026-11-18T04:38:57+08:00"
+ "lastChecked": "2026-11-18T04:59:07+08:00"
 }
