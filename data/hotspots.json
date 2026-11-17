@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T22:46:55+08:00",
+ "lastUpdated": "2026-11-17T23:00:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50670,7 +50670,18 @@
    ],
    "topic": "akash-gpu-compute-forwards-solana-2026-11-17",
    "firstSeen": "2026-11-17T22:46:55+08:00"
+  },
+  {
+   "id": "d0a6d270ad",
+   "title": "开源「决策模型」Karpo Decision：基于 Gemma，专给智能体做工具和浏览器动作选择，一次前向输出各选项概率，31B 版在 Decision Index 并列第一、单卡延迟 94 毫秒",
+   "summary": "MachinePulseAI 推出 Karpo Decision 系列开源权重模型，共 6 个尺寸，基于谷歌 Gemma 底座，专门用于智能体系统里的决策环节：不生成长文本，而是一次前向直接给出选择工具或浏览器动作等选项的概率。最大的 31B 版本在 Decision Index 上以 73.9 分并列第一，单张 GPU 延迟约 94 毫秒，在 JevBench 等测试上超过 Gemini，适合高频自动化任务。",
+   "links": [
+    "https://x.com/i/trending/2122685277751607723",
+    "https://huggingface.co/MachinePulseAI/karpo-decision-31B"
+   ],
+   "topic": "karpo-decision-31b-agent-choice-model-2026-11-17",
+   "firstSeen": "2026-11-17T23:00:27+08:00"
   }
  ],
- "lastChecked": "2026-11-17T22:46:55+08:00"
+ "lastChecked": "2026-11-17T23:00:27+08:00"
 }
