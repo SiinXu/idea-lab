@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T04:15:45+08:00",
+ "lastUpdated": "2026-11-18T04:22:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51028,7 +51028,28 @@
    ],
    "topic": "java4shell-java17-rce-2026-11-17",
    "firstSeen": "2026-11-18T04:15:45+08:00"
+  },
+  {
+   "id": "5c3482855f",
+   "title": "jQuery 4.1.0 与 3.8.0 同日发布：3.x 线就此「交棒」只修关键 bug，4.1 改为全面用 querySelectorAll，并修复选择器 ReDoS 漏洞",
+   "summary": "jQuery 官方发布 4.x 首个小版本 4.1.0，同时推出 3.8.0 作为 3.x 的「告别版」：此后 3.x 只接收关键安全和 bug 修复，官方建议借助升级指南和 jQuery Migrate 迁移到 4.x。两条线都修复了选择器标识符匹配中的 ReDoS（灾难性回溯可卡死页面）；4.1 新增 jqXHR.responseURL、支持表单关联自定义元素序列化，内部改为全面使用 querySelectorAll，uniqueSort 从 O(N²) 优化到 O(N)。看点：仍有大量老站跑 jQuery 3.x，「一键升级/安全巡检」类工具和服务有现实需求。",
+   "links": [
+    "https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch/",
+    "https://github.com/jquery/jquery/releases/tag/4.1.0"
+   ],
+   "topic": "jquery-4-1-0-3-8-0-2026-11-17",
+   "firstSeen": "2026-11-18T04:22:30+08:00"
+  },
+  {
+   "id": "86971951f9",
+   "title": "Coinbase Ventures 发布「智能体交易」市场地图：AI 智能体按自然语言目标完成研究、策略、仓位和风控，覆盖加密、股票、衍生品和预测市场",
+   "summary": "Coinbase Ventures 绘制 agentic trading 版图，分为执行场所（如 Coinbase、Kraken）、让智能体长期运行的工具层，以及来自彭博、Nansen 等数据商的情报层。报告认为长期价值在于专业化情报、用户留存和可验证的信任机制，并提到自家「Coinbase for Agents」交易量增长很快。看点：「让 AI 替你交易」正从概念变成有分层的赛道，风控限额、可审计和信任层是新创业切口。",
+   "links": [
+    "https://x.com/i/trending/2122770233354232253"
+   ],
+   "topic": "coinbase-ventures-agentic-trading-map-2026-11-17",
+   "firstSeen": "2026-11-18T04:22:30+08:00"
   }
  ],
- "lastChecked": "2026-11-18T04:15:45+08:00"
+ "lastChecked": "2026-11-18T04:22:30+08:00"
 }
