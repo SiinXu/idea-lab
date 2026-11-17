@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T00:24:12+08:00",
+ "lastUpdated": "2026-11-18T00:42:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50773,7 +50773,28 @@
    ],
    "topic": "nsa-net-classified-network-outage-2026-11-17",
    "firstSeen": "2026-11-18T00:24:12+08:00"
+  },
+  {
+   "id": "e4eab6d604",
+   "title": "谷歌签下首个「超热地热」商业购电协议：Quaise Energy 在俄勒冈纽贝里火山附近用微波钻穿岩层，为 AI 数据中心供电 50MW",
+   "summary": "Quaise Energy 宣布与谷歌签署购电协议，从俄勒冈中部纽贝里火山附近的 Project Obsidian 采购 50 兆瓦电力，据报道价值超过 5 亿美元。项目先常规钻到约 2.5 英里，再用高功率微波设备汽化岩石钻到约 3 英里深、温度超过 300°C 的地层，把水变成蒸汽实现全天候零碳发电，预计 2030 年供电，单井产能有望是传统地热的 10 倍。看点：AI 数据中心的电力缺口正把新型清洁能源推向商业化，算力+能源是持续的大主题。",
+   "links": [
+    "https://x.com/i/trending/2122689190601294206"
+   ],
+   "topic": "google-quaise-superhot-geothermal-oregon-2026-11-17",
+   "firstSeen": "2026-11-18T00:42:40+08:00"
+  },
+  {
+   "id": "a03cd42dff",
+   "title": "Mistral 在欧洲免费送 3 个月 Vibe Pro：称 Vibe 编程助手 + Le Chonk 是全球最强开源「模型+harness」组合，编码胜过 GLM / DeepSeek",
+   "summary": "Mistral 官方宣布，为庆祝 Mistral Vibe 搭配 Le Chonk 模型成为「全球最好的开源模型-harness 组合」，欧洲用户前 3 个月可免费使用 Vibe，用优惠码 LECHONK 领取，限时先到先得；官方还称其编码能力强于 GLM 和 DeepSeek。帖子发出约一小时获得 4 万多次浏览、近千点赞，并登上 HN。看点：开源模型厂商开始用「模型+编码 harness」打包抢开发者，欧洲本土 AI 正借补贴式促销争夺市场。",
+   "links": [
+    "https://x.com/MistralAI/status/2122713540666806397",
+    "https://news.ycombinator.com/item?id=50533571"
+   ],
+   "topic": "mistral-vibe-pro-free-europe-lechonk-2026-11-17",
+   "firstSeen": "2026-11-18T00:42:40+08:00"
   }
  ],
- "lastChecked": "2026-11-18T00:24:12+08:00"
+ "lastChecked": "2026-11-18T00:42:40+08:00"
 }
