@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T10:46:55+08:00",
+ "lastUpdated": "2026-11-17T10:55:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49984,7 +49984,38 @@
    ],
    "topic": "korea-won-stablecoin-tech-stake-2026-11-17",
    "firstSeen": "2026-11-17T10:46:55+08:00"
+  },
+  {
+   "id": "404dff4b1c",
+   "title": "GitHub 日榜：开源 Office SDK Univer 单日涨 1800 多星，主打「给人和 AI 智能体用的办公套件」",
+   "summary": "Univer 把表格、文档的编辑、公式计算、协同和文件处理做成可嵌入的 SDK，开源核心采用 Apache-2.0，总星数约 2.79 万。11 月 16 日连发 v1.5.1、v1.5.2，这次把定位改为「打造你自己的 AI Office」，让智能体也能直接读写表格和文档。",
+   "links": [
+    "https://github.com/dream-num/univer",
+    "https://github.com/dream-num/univer/releases/tag/v1.5.2"
+   ],
+   "topic": "univer-ai-office-sdk-trending-2026-11-17",
+   "firstSeen": "2026-11-17T10:55:42+08:00"
+  },
+  {
+   "id": "01778b564c",
+   "title": "Claude-BugHunter 冲上 GitHub 日榜：82 个 Claude Code 技能打包做漏洞挖掘和外部红队",
+   "summary": "MIT 协议，单日新增约 1100 星，总计约 7500 星。内含 82 个技能、15 条斜杠命令，整理了 24 类核心漏洞下 681 种已公开报告的模式，另有企业身份和基础设施攻击矩阵；面向漏洞赏金与授权渗透测试场景。",
+   "links": [
+    "https://github.com/elementalsouls/Claude-BugHunter"
+   ],
+   "topic": "claude-bughunter-skills-2026-11-17",
+   "firstSeen": "2026-11-17T10:55:42+08:00"
+  },
+  {
+   "id": "d9a650738e",
+   "title": "AG-UI 智能体前端交互协议登上 GitHub 日榜：单日近 800 星，总计约 1.9 万",
+   "summary": "AG-UI（Agent-User Interaction Protocol）定义智能体与前端应用之间的事件流协议，让智能体的流式输出、工具调用、状态同步能直接接进网页和 App 界面，MIT 协议。与 MCP（接工具）、A2A（智能体互联）形成互补，适合做带界面的 Agent 产品。",
+   "links": [
+    "https://github.com/ag-ui-protocol/ag-ui"
+   ],
+   "topic": "ag-ui-protocol-trending-2026-11-17",
+   "firstSeen": "2026-11-17T10:55:42+08:00"
   }
  ],
- "lastChecked": "2026-11-17T10:46:55+08:00"
+ "lastChecked": "2026-11-17T10:55:42+08:00"
 }
