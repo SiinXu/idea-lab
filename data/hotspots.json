@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T00:42:40+08:00",
+ "lastUpdated": "2026-11-18T00:55:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50794,7 +50794,18 @@
    ],
    "topic": "mistral-vibe-pro-free-europe-lechonk-2026-11-17",
    "firstSeen": "2026-11-18T00:42:40+08:00"
+  },
+  {
+   "id": "558b39f246",
+   "title": "黄仁勋辞任后首次公开表态：承认「给董事会制造了问题，深感后悔」，愿配合独立调查，若董事会需要愿回归英伟达 CEO",
+   "summary": "据 CNBC 获得的书面声明，上周辞去英伟达 CEO 的黄仁勋语气诚恳：承认在个人生活中犯了严重错误、完全承担责任，并承诺配合董事会的独立调查（英伟达已聘请 Wachtell Lipton 调查其行为是否危及国家安全或公司机密）。他表示，若董事会认为他回归符合股东、员工、公司和美国的最大利益，将「荣幸地回来担任 CEO」。此前要求他回归的网上请愿已超 18 万签名，特朗普周一也表示对此持开放态度，但 CNBC 周一报道董事会并未考虑让他回归，且正在挑选 CEO 猎头。英伟达本周二将公布第三季度财报。看点：英伟达领导层变动直接牵动 AI 算力供应链与市场情绪。",
+   "links": [
+    "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+    "https://news.ycombinator.com/item?id=50534044"
+   ],
+   "topic": "jensen-huang-first-statement-open-to-return-2026-11-17",
+   "firstSeen": "2026-11-18T00:55:12+08:00"
   }
  ],
- "lastChecked": "2026-11-18T00:42:40+08:00"
+ "lastChecked": "2026-11-18T00:55:12+08:00"
 }
