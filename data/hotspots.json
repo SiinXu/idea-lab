@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T11:57:10+08:00",
+ "lastUpdated": "2026-11-17T12:11:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50107,7 +50107,28 @@
    ],
    "topic": "warsh-ai-superintelligence-scenarios-2026-11-17",
    "firstSeen": "2026-11-17T11:57:10+08:00"
+  },
+  {
+   "id": "b50b1bc2bb",
+   "title": "开发者用 AI 读地图数据在 Minecraft 里生成 1:1 地球，worldcraft.gg 开放 Java 版玩家进服",
+   "summary": "开发者 Thijs（@cdngdev）用地图数据训练 AI，先生成 1:1 比例的旧金山，随后扩展到全球；玩家可用 Minecraft Java 版连 worldcraft.gg 进入游览。AI 程序化生成真实地理场景，在 X 上引发围观。",
+   "links": [
+    "https://x.com/i/trending/2122499125388456015",
+    "https://worldcraft.gg"
+   ],
+   "topic": "worldcraft-minecraft-1to1-earth-ai-2026-11-17",
+   "firstSeen": "2026-11-17T12:11:32+08:00"
+  },
+  {
+   "id": "27ed99b9eb",
+   "title": "小餐馆用免费 AI 生成菜品招牌翻车：卷饼像外星生物、早餐颗粒感，旧金山咖啡馆展板遭涂鸦",
+   "summary": "预算紧张的小餐馆、餐车和咖啡馆用 Canva 等工具里的免费 AI 生成宣传图，出现质感诡异、看着像变质的菜品图，被网友嘲讽，旧金山一家咖啡馆的展板还被涂鸦抵制。部分店主称客流反而增加，批评者认为这说明对食物本身不上心；美国餐饮协会调查显示 26% 的经营者在试用 AI。",
+   "links": [
+    "https://x.com/i/trending/2122159366346277178"
+   ],
+   "topic": "restaurants-ai-food-signs-backlash-2026-11-17",
+   "firstSeen": "2026-11-17T12:11:32+08:00"
   }
  ],
- "lastChecked": "2026-11-17T11:57:10+08:00"
+ "lastChecked": "2026-11-17T12:11:32+08:00"
 }
