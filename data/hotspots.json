@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T07:59:18+08:00",
+ "lastUpdated": "2026-11-17T08:29:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -49931,7 +49931,19 @@
    ],
    "topic": "optimizely-compromise-178-orgs",
    "firstSeen": "2026-11-17T07:59:18+08:00"
+  },
+  {
+   "id": "fa6b1906e2",
+   "title": "Google Labs 收编 AI 日程助手 Howie 团队，转做面向小企业的 AI 工具",
+   "summary": "Google Labs 宣布西雅图创业公司 Howie 团队加入。Howie 做的是通过邮件帮人安排会议、管理日历的 AI 助手，累计融资 700 万美元。Google Labs 表示将借助团队的日历自动化经验，一起开发面向小企业的直觉式 AI 工具；Howie 称现有客户会继续获得服务，交易金额未披露。此前 Axios 曾在 11 月 2 日报道 Alphabet 与 Howie 进入收购谈判后期。",
+   "links": [
+    "https://runtimewire.com/article/howie-joins-google-labs-to-build-ai-scheduling-tools-for-small-businesses",
+    "https://www.axios.com/pro/merger-deals/2026/11/02/google-alphabet-howie-ai-assistant",
+    "https://x.com/i/trending/2122469900782325977"
+   ],
+   "topic": "howie-joins-google-labs",
+   "firstSeen": "2026-11-17T08:29:07+08:00"
   }
  ],
- "lastChecked": "2026-11-17T07:59:18+08:00"
+ "lastChecked": "2026-11-17T08:29:07+08:00"
 }
