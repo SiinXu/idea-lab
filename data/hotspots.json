@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T23:08:29+08:00",
+ "lastUpdated": "2026-11-17T23:31:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50691,7 +50691,27 @@
    ],
    "topic": "us-interim-final-rule-sea-ai-chip-remote-access-2026-11-17",
    "firstSeen": "2026-11-17T23:08:29+08:00"
+  },
+  {
+   "id": "246f1a63c5",
+   "title": "李彦宏、雷军在深圳 APEC 工商领导人峰会上齐声警告：AI 投入远超商业回报，当务之急是找到真正高价值的应用，而不是更强的模型",
+   "summary": "在 AI 泡沫担忧和黄仁勋辞职引发的市场震荡下，百度创始人李彦宏和小米创始人雷军 11 月 17 日在深圳 APEC 工商领导人峰会上都指出，巨额资本开支和能赚钱的 AI 落地之间的差距正在拉大。李彦宏说，最紧迫的任务是为大模型找到并做出对的高价值应用。百度前一天刚公布营收连续第六个季度下滑。",
+   "links": [
+    "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
+   ],
+   "topic": "baidu-xiaomi-ceos-ai-hype-returns-apec-2026-11-17",
+   "firstSeen": "2026-11-17T23:31:17+08:00"
+  },
+  {
+   "id": "534d1dcd1d",
+   "title": "HN 热文：别再用 AI 做第 N 个待办 App 了，把力气花在改进现有开源软件上：更快、一键安装、好运维、更轻量",
+   "summary": "Jordan Krueger 撰文称，每天都有人晒周末用 AI 做出的习惯打卡、待办和笔记 App，但现有开源软件真正缺的是能在便宜服务器上跑、一步装好、出错能看懂。他建议把 AI 辅助编程用在四件事上：提速（以 uv 比 pip 快 8–10 倍为例）、简化安装、加管理界面、安全升级和备份、降低资源占用。同时提醒别给维护者添乱：先沟通再写代码、带数据、小步提交、声明用了 AI 并负责到底，curl 就曾因 AI 生成的虚假漏洞报告叫停漏洞赏金。",
+   "links": [
+    "https://jordankrueger.com/blog/better-open-source-not-more-apps/"
+   ],
+   "topic": "better-open-source-not-more-apps-2026-11-17",
+   "firstSeen": "2026-11-17T23:31:17+08:00"
   }
  ],
- "lastChecked": "2026-11-17T23:08:29+08:00"
+ "lastChecked": "2026-11-17T23:31:17+08:00"
 }
