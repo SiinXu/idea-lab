@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T18:43:05+08:00",
+ "lastUpdated": "2026-11-17T18:59:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50470,7 +50470,37 @@
    ],
    "topic": "kutcher-sound-ventures-anthropic-ipo-stake-2026-11-17",
    "firstSeen": "2026-11-17T18:43:05+08:00"
+  },
+  {
+   "id": "a1682bf83f",
+   "title": "开源离线求生资料库 Lastbook 爆火：一天被下载 100TB，31 分钟就跑掉 8.2TB；急救、净水、灾难预案、离线百科、地图、教学视频全装本机",
+   "summary": "Lastbook 把红十字会的急救知识、世卫组织的饮水安全指南、FEMA 的灾难预案、离线百科、详细地图和实操视频打包，可在 Mac、Windows 和 Linux 上本地运行，不需要联网。作者 farbood 称一天被下载约 100TB，最快 31 分钟就跑出 8.2TB。安装包从几 GB 到几百 GB 不等，还可选装一个 17GB 的本地 AI。项目在 GitHub 开源并欢迎贡献，比如急救员来源的医学文章；网友已在讨论用旧平板加太阳能做成断网也能用的应急终端。",
+   "links": [
+    "https://x.com/i/trending/2122535076034686999"
+   ],
+   "topic": "lastbook-offline-survival-library-2026-11-17",
+   "firstSeen": "2026-11-17T18:59:11+08:00"
+  },
+  {
+   "id": "8af8d52538",
+   "title": "Anthropic 的 Claude Code 团队约 90% 代码由 Claude 编写和审查：靠端到端测试、属性测试、差分测试做验证闭环，智能体最多自修 3 次再交给人",
+   "summary": "Claude Code 团队分享，目前约 90% 的代码编写和审查交给 Claude。支撑这一点的是一套验证闭环：模拟真实用户流程的端到端测试、随机输入的属性测试，以及针对系统改动的差分测试。提交前用一个「verify」技能跑关键检查，配合有针对性的可靠性清单；智能体最多尝试修三次，仍不行就请人介入，核心规则始终在主分支上受保护。讨论认为，AI 写代码的关键已从生成转向验证。",
+   "links": [
+    "https://x.com/i/trending/2122475475020714038"
+   ],
+   "topic": "claude-code-team-90pct-verification-loops-2026-11-17",
+   "firstSeen": "2026-11-17T18:59:11+08:00"
+  },
+  {
+   "id": "93b75f8ffa",
+   "title": "Solana 基金会控股 CoinGecko：拿下这家加密数据平台多数股权，计划在网站、GeckoTerminal 和 App 里加入基于 Solana 的交易",
+   "summary": "Solana 基金会宣布对 CoinGecko 进行多数股权投资。CoinGecko 是头部加密数据平台，每月有数千万用户和约 18 万名开发者在用。双方计划加强链上资产、现实世界资产（RWA）和衍生品的数据基础设施，推出新的市场情报产品，并在网站、GeckoTerminal 和 App 内上线由 Solana 驱动的交易功能。CEO Bobby Ong 表示对合作感到兴奋。",
+   "links": [
+    "https://x.com/i/trending/2122622283529310705"
+   ],
+   "topic": "solana-foundation-majority-stake-coingecko-2026-11-17",
+   "firstSeen": "2026-11-17T18:59:11+08:00"
   }
  ],
- "lastChecked": "2026-11-17T18:43:05+08:00"
+ "lastChecked": "2026-11-17T18:59:11+08:00"
 }
