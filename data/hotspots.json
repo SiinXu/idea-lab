@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T00:17:29+08:00",
+ "lastUpdated": "2026-11-18T00:24:12+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50762,7 +50762,18 @@
    ],
    "topic": "eu-temu-dsa-illegal-products-preliminary-2026-11-17",
    "firstSeen": "2026-11-18T00:17:29+08:00"
+  },
+  {
+   "id": "654cd43c84",
+   "title": "CNN 独家：美国国家安全局内部机密通信网 NSA Net 宕机，暂无网络攻击证据，员工改为错峰到岗",
+   "summary": "据六名知情人士，NSA 用于内部传递机密信息的网络 NSA Net 出现故障，目前没有证据显示是网络攻击；NSA 正在排查影响范围，并对人员实行错峰到岗。官员表示有多重冗余和备用网络，不影响向正在亚洲出访的特朗普传递紧急情报。这是近期又一起重大技术故障：上周五美国全国航班因阿肯色州一台路由器故障停飞数小时，上周微软 Outlook、Teams 也大面积中断。看点：关键基础设施的单点故障频发，可观测性、故障演练和冗余设计类工具受关注。",
+   "links": [
+    "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+    "https://news.ycombinator.com/item?id=50532849"
+   ],
+   "topic": "nsa-net-classified-network-outage-2026-11-17",
+   "firstSeen": "2026-11-18T00:24:12+08:00"
   }
  ],
- "lastChecked": "2026-11-18T00:17:29+08:00"
+ "lastChecked": "2026-11-18T00:24:12+08:00"
 }
