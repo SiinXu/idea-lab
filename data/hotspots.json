@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T21:17:23+08:00",
+ "lastUpdated": "2026-11-17T21:38:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50600,7 +50600,27 @@
    ],
    "topic": "kospi-below-5000-ai-doubts-2026-11-17",
    "firstSeen": "2026-11-17T21:17:23+08:00"
+  },
+  {
+   "id": "91cb919755",
+   "title": "DeepMind 衍生公司 Isomorphic Labs 完成 50 亿美元 C 轮：红杉和 Greenoaks 领投、a16z 新进，距上轮 21 亿美元融资仅半年，传估值约 500 亿美元",
+   "summary": "Demis Hassabis 宣布 AI 药物研发公司 Isomorphic Labs 完成 50 亿美元 C 轮融资，由 Greenoaks 和红杉资本联合领投，a16z 等新投资者与 Alphabet 一起参投。资金将用于扩展 IsoDDE 等 AI 药物设计引擎，从头重做新药发现流程，缩短时间、降低成本。公司还没有进入人体试验，据报估值已到约 500 亿美元。",
+   "links": [
+    "https://x.com/i/trending/2122666533943955551"
+   ],
+   "topic": "isomorphic-labs-5b-series-c-2026-11-17",
+   "firstSeen": "2026-11-17T21:38:31+08:00"
+  },
+  {
+   "id": "b870137491",
+   "title": "Revolut 计划推出 4 只区块链基金：让 8000 万用户用几欧元碎片化投资私募市场",
+   "summary": "Revolut 董事长 Martin Gilbert 在伦敦 Solana Breakpoint 大会上表示，公司打算基于区块链推出 4 只基金，把私募股权等难以交易的资产切成小份额，让用户小额买入，并借助链上交易提升流动性。这建立在 Revolut 已与 Apollo、Ares 等管理人合作的平台之上。有用户担心费用、风险和 Revolut 过往的服务问题，上线时间尚未公布。",
+   "links": [
+    "https://x.com/i/trending/2122677390946304180"
+   ],
+   "topic": "revolut-blockchain-private-market-funds-2026-11-17",
+   "firstSeen": "2026-11-17T21:38:31+08:00"
   }
  ],
- "lastChecked": "2026-11-17T21:17:23+08:00"
+ "lastChecked": "2026-11-17T21:38:31+08:00"
 }
