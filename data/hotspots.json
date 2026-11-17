@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T13:14:13+08:00",
+ "lastUpdated": "2026-11-17T13:29:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50188,7 +50188,27 @@
    ],
    "topic": "jiangshan-map-trending-2026-11-17",
    "firstSeen": "2026-11-17T13:14:13+08:00"
+  },
+  {
+   "id": "db727a533c",
+   "title": "印度 Sarvam AI 公开上线 Token Factory：一个 OpenAI 兼容 API 调用多款开源权重模型，本地机房、卢比计费、数据不出境",
+   "summary": "估值 15 亿美元的班加罗尔创业公司 Sarvam AI 开放 Token Factory 平台，提供自研 105B 模型、DeepSeek V4.1 Flash、GLM 5.3、Gemma 4 31B 等模型，支持可选零数据留存，自研模型推理速度号称 888 TPS；算力来自印度 IndiaAI Mission 的 H100 补贴。批评者质疑其优先托管外国开源模型、而非打造印度本土前沿模型。主权 AI 云 + 本地计费模式值得关注。",
+   "links": [
+    "https://x.com/i/trending/2122445081944936646"
+   ],
+   "topic": "sarvam-token-factory-launch-2026-11-17",
+   "firstSeen": "2026-11-17T13:29:59+08:00"
+  },
+  {
+   "id": "170df906a8",
+   "title": "澳洲五金零售巨头 Bunnings 裁撤 350 个技术岗：外包给塔塔咨询，转向 AI 与印度、菲律宾团队",
+   "summary": "Wesfarmers 旗下 Bunnings 将裁掉 230 个正式技术岗并终止 120 份外包合同，通过与 Tata Consultancy Services 合作把工作转往印度和菲律宾，澳洲技术团队缩减 40% 至约 500 人，12 月开始、2027 年 6 月完成。公司称这是为应对购物习惯变化和竞争，配合 Buddy 购物助手等 AI 工具；门店岗位不受影响。",
+   "links": [
+    "https://x.com/i/trending/2122559677976268837"
+   ],
+   "topic": "bunnings-tech-layoffs-ai-offshoring-2026-11-17",
+   "firstSeen": "2026-11-17T13:29:59+08:00"
   }
  ],
- "lastChecked": "2026-11-17T13:14:13+08:00"
+ "lastChecked": "2026-11-17T13:29:59+08:00"
 }
