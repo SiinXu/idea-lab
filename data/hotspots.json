@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T07:10:27+08:00",
+ "lastUpdated": "2026-11-18T07:42:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51181,7 +51181,18 @@
    ],
    "topic": "nvidia-q3-fy2027-earnings-board-no-huang-return-2026-11-17",
    "firstSeen": "2026-11-18T07:10:27+08:00"
+  },
+  {
+   "id": "b53e942a5e",
+   "title": "微软 ONNX Runtime 代码仓库突然从 GitHub 消失：microsoft/onnxruntime 与 onnxruntime-genai 均返回 404，原因未公布",
+   "summary": "Hacker News 用户发现，微软开源的跨平台模型推理引擎 ONNX Runtime 的 GitHub 仓库 microsoft/onnxruntime 已无法访问；我们实测该仓库和配套的生成式 AI 仓库 onnxruntime-genai 网页与 GitHub API 都返回 404，官网 onnxruntime.ai 仍可打开。微软暂未说明是误操作、迁移还是下架。ONNX Runtime 被 Windows ML、大量端侧和服务端 AI 应用依赖。看点：如果长时间不恢复，依赖 GitHub 源码构建、CI 拉取和 issue 的团队会受影响，开源依赖镜像、供应链备份和替代推理引擎会受关注。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50539610",
+    "https://github.com/microsoft/onnxruntime"
+   ],
+   "topic": "microsoft-onnxruntime-github-404-2026-11-17",
+   "firstSeen": "2026-11-18T07:42:52+08:00"
   }
  ],
- "lastChecked": "2026-11-18T07:10:27+08:00"
+ "lastChecked": "2026-11-18T07:42:52+08:00"
 }
