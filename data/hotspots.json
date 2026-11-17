@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T03:58:39+08:00",
+ "lastUpdated": "2026-11-18T04:15:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51008,7 +51008,27 @@
    ],
    "topic": "lancedb-series-b-57m-2026-11-17",
    "firstSeen": "2026-11-18T03:58:39+08:00"
+  },
+  {
+   "id": "c44f002d6d",
+   "title": "OpenAI 与安全团队 Calif 用 GPT-6 Cyber 模型在苹果全线设备挖出 35 个漏洞：部分访问一个网页就能远程接管，还造出绕过锁定模式的利用链",
+   "summary": "OpenAI 和 Calif 的研究人员用 GPT-6 Cyber 模型扫描 iPhone、Mac、iPad、Apple Watch、Apple TV 和 Vision Pro，共发现 35 个漏洞，其中几个可远程接管设备，模型还构造出能绕过苹果 Lockdown Mode 的利用；已通报苹果，不少补丁已发布，建议尽快更新系统。看点：AI 挖洞速度和深度在快速提升，攻防两端都被加速，「AI 安全审计 + 人工复核」的服务需求会继续增长。",
+   "links": [
+    "https://x.com/i/trending/2122781188360397088"
+   ],
+   "topic": "openai-calif-35-apple-vulns-2026-11-17",
+   "firstSeen": "2026-11-18T04:15:45+08:00"
+  },
+  {
+   "id": "bd8b8e76f9",
+   "title": "Java 17 高危远程代码执行漏洞「Java4Shell」在甲骨文补丁日前数小时曝光：Base64 解码器内存损坏，评分 9.2，无需登录即可利用",
+   "summary": "安全公司 Calif 发现并上报 Java4Shell（CVE-2026-114938），影响 OpenJDK 17.0.6 及之后版本，源于 Base64 解码器的内存损坏，CVSS 9.2，面向公网的服务器可能被未授权远程执行代码。甲骨文今天修复 11 个可远程利用的 Java SE 漏洞（如 17.0.21），但尚未确认是否包含这一 CVE；目前未见在野利用。专家建议盘点 Java 运行时、尽快升级，必要时临时禁用 Base64 intrinsics。看点：用 Java 17 跑后端的团队今天就该排查。",
+   "links": [
+    "https://x.com/i/trending/2122725443522429032"
+   ],
+   "topic": "java4shell-java17-rce-2026-11-17",
+   "firstSeen": "2026-11-18T04:15:45+08:00"
   }
  ],
- "lastChecked": "2026-11-18T03:59:54+08:00"
+ "lastChecked": "2026-11-18T04:15:45+08:00"
 }
