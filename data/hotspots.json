@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T02:30:59+08:00",
+ "lastUpdated": "2026-11-18T02:42:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50878,7 +50878,37 @@
    ],
    "topic": "anthropic-continental-strategy-lobbying-740k-2026-11-17",
    "firstSeen": "2026-11-18T02:30:59+08:00"
+  },
+  {
+   "id": "dded77e153",
+   "title": "Islo 发布「企业软件工厂」并获 1500 万美元融资：给 AI 编码智能体配隔离环境、确定性构建流水线和人工审核，Insight Partners 领投、与 Databricks 合作",
+   "summary": "Islo 推出 Enterprise Software Factory，让 AI 编码智能体从写代码片段升级为企业级可信工作流：每个任务在隔离环境中运行，经过带测试和人工审核的确定性构建流程，并用团队自己的数据做评估；可处理重构、修 bug 和功能交付，全程可审计，不绑定单一模型。同时宣布 Insight Partners 投资的 1500 万美元融资和 Databricks 合作。看点：「生成代码」已不稀缺，企业真正买单的是验证、审计和管控层，这是 AI 编码赛道的下一个卡位点。",
+   "links": [
+    "https://x.com/i/trending/2122753424647491896"
+   ],
+   "topic": "islo-enterprise-software-factory-15m-2026-11-17",
+   "firstSeen": "2026-11-18T02:42:40+08:00"
+  },
+  {
+   "id": "c2abf81bd2",
+   "title": "微软 Ignite 2026 在旧金山开幕（11 月 17–20 日）：主打 AI 智能体落地，SharePoint 和 OneDrive 成为 Copilot 与智能体的核心知识底座",
+   "summary": "微软年度大会 Ignite 2026 今天在旧金山 Moscone 中心开幕，开场主题演讲在 Chase Center 举行，聚焦 AI 智能体、Copilot、云和安全，强调让 AI 从试验走向日常工具、扎根于企业自有知识，SharePoint 和 OneDrive 被定位为 Copilot 与智能体的核心平台。纳德拉在 X 上为大会预热，线上提供免费数字通行证和直播。看点：接下来几天微软会密集发布企业智能体相关产品，值得跟踪哪些能力会对第三方 Copilot 插件和智能体创业公司形成替代或带来机会。",
+   "links": [
+    "https://x.com/i/trending/2122441813915316532"
+   ],
+   "topic": "microsoft-ignite-2026-kickoff-2026-11-17",
+   "firstSeen": "2026-11-18T02:42:40+08:00"
+  },
+  {
+   "id": "7bcdd441f2",
+   "title": "保险科技 Lemonade 投资者日发布「Midnight」AI 软件工厂：团队下班后系统通宵自己写大部分代码，在保保费增长 34% 至 15.5 亿美元",
+   "summary": "Lemonade 联合创始人 Shai Wininger 在纽约第三届投资者日上发布 Lemonade OS Midnight，一套能在夜间自主编写大部分代码的软件工厂，推进其「AI 原生保险公司」愿景。平台还为客户提供个人 AI 智能体来比价投保和理赔，并用持续车载遥测数据定价：年轻司机保费低 22%，使用特斯拉 FSD 的用户低 31%。公司在保保费同比增长 34% 至 15.5 亿美元，目标 2027 年盈利。看点：传统行业公司开始公开把「AI 自主写代码」当作投资者故事，自动驾驶保险是新兴细分市场。",
+   "links": [
+    "https://x.com/i/trending/2122753417085063674"
+   ],
+   "topic": "lemonade-midnight-ai-software-factory-2026-11-17",
+   "firstSeen": "2026-11-18T02:42:40+08:00"
   }
  ],
- "lastChecked": "2026-11-18T02:30:59+08:00"
+ "lastChecked": "2026-11-18T02:42:40+08:00"
 }
