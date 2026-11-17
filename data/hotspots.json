@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T23:56:25+08:00",
+ "lastUpdated": "2026-11-18T00:17:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50742,7 +50742,27 @@
    ],
    "topic": "frontierharness-eval-v1-1-failed-runs-cost-2026-11-17",
    "firstSeen": "2026-11-17T23:56:25+08:00"
+  },
+  {
+   "id": "4e40bf8d8b",
+   "title": "Revid.ai 靠「霸占 ChatGPT 推荐」10 周把每周注册从 355 涨到 781：AI 搜索时代的新 SEO 打法",
+   "summary": "Revid.ai 创始人 Tibo 公开增长打法：ChatGPT 回答「最好的 XX 工具」时会联网检索，并大量引用近期的榜单类文章（listicle）。团队用 Outrank 找出关键榜单、用 Squad 争取上榜位置、用 Bazzly 布局 Reddit 讨论，并持续更新内容保持新鲜度，让 Revid.ai 在 AI 视频生成、Shorts、UGC 广告、电商视频等推荐里排在前面，每周注册在 10 周内翻倍。看点：GEO（生成式引擎优化）正在变成可复制的获客渠道，适合给自己的站点做 AI 搜索可见度布局。",
+   "links": [
+    "https://x.com/i/trending/2122712182706127351"
+   ],
+   "topic": "revid-ai-chatgpt-listicle-geo-growth-2026-11-17",
+   "firstSeen": "2026-11-18T00:17:29+08:00"
+  },
+  {
+   "id": "bf960a432a",
+   "title": "欧盟委员会初步认定 Temu 违反《数字服务法》：没能主动拦住违规玩具、电子产品和化妆品上架，最高可罚全球营业额 6%",
+   "summary": "欧盟委员会 11 月 17 日公布初步调查结论：Temu 主要在商品上架后才被动处理，在高风险品类上的审核和处罚机制无效，导致不合规的玩具、电子产品、化妆品出现在平台上。Temu 现在可以查阅证据并回应，如果最终确认违规，最高可被处以全球年营业额 6% 的罚款。看点：欧盟对跨境电商平台的合规审查持续收紧，主动式商品合规检测和风控工具有需求。",
+   "links": [
+    "https://x.com/i/trending/2122722791472464317"
+   ],
+   "topic": "eu-temu-dsa-illegal-products-preliminary-2026-11-17",
+   "firstSeen": "2026-11-18T00:17:29+08:00"
   }
  ],
- "lastChecked": "2026-11-17T23:56:25+08:00"
+ "lastChecked": "2026-11-18T00:17:29+08:00"
 }
