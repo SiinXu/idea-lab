@@ -8,3 +8,8 @@ Disallow: /
 
 User-agent: Reflectionbot
 Disallow: /
+
+# 2026-11-17: ElevenlabsCrawler — sitewide disallow
+User-agent: ElevenlabsCrawler
+Disallow: /
+
