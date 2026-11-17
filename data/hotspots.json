@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T06:01:27+08:00",
+ "lastUpdated": "2026-11-18T07:00:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51161,7 +51161,17 @@
    ],
    "topic": "trnrt-trainium-inference-engine-2026-11-17",
    "firstSeen": "2026-11-18T06:01:27+08:00"
+  },
+  {
+   "id": "c7b8a45979",
+   "title": "加州车管局 DMV 下令 Waymo 停止在全州高速公路运营：认定其无人车「对公共安全构成迫在眉睫的危险」",
+   "summary": "据 ABC7 报道，加州 DMV 勒令 Waymo 暂停在加州高速公路上运营无人车，主要依据两起湾区事件：三辆 Waymo 驶入 101 号公路伯林盖姆附近正在施工的区域，以及一辆 Waymo 在 280 号州际公路上试图绕过加州高速巡警的交通管制车队。Waymo 回应称普通道路服务照常，每周超过 50 万单，正与 DMV 合作争取恢复。这是 Waymo 今年第二次在高速公路上受限（5 月曾自行暂停多城高速运营）。看点：Robotaxi 从城区扩到高速的监管门槛明显抬高，施工区/执法场景识别、远程协助和安全合规工具有需求。",
+   "links": [
+    "https://abc7news.com/story/california-dmv-bans-waymos-operating-state-freeways-bay-area-traffic-incidents/20046974/"
+   ],
+   "topic": "ca-dmv-waymo-freeway-ban-2026-11-17",
+   "firstSeen": "2026-11-18T07:00:59+08:00"
   }
  ],
- "lastChecked": "2026-11-18T06:01:27+08:00"
+ "lastChecked": "2026-11-18T07:00:59+08:00"
 }
