@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T21:38:31+08:00",
+ "lastUpdated": "2026-11-17T22:01:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50620,7 +50620,27 @@
    ],
    "topic": "revolut-blockchain-private-market-funds-2026-11-17",
    "firstSeen": "2026-11-17T21:38:31+08:00"
+  },
+  {
+   "id": "46c7ebfa00",
+   "title": "Anthropic 应用 AI 团队给企业的建议：别按组织架构堆多智能体，单个智能体循环加按需工具通常更好、更快、更便宜，有客户运行时间减半",
+   "summary": "Anthropic 应用 AI 团队根据企业实际落地经验指出，一个智能体循环加上按需调用的轻量工具和护栏，在质量、速度和成本上通常胜过层层嵌套子智能体的多智能体设计，一位客户因此把运行时间缩短了一半。照着公司组织架构去设计智能体，容易丢失上下文、责任不清。建议先从简单做起，只有指标证明需要时才引入子智能体。",
+   "links": [
+    "https://x.com/i/trending/2122685281803334081"
+   ],
+   "topic": "anthropic-simple-single-agent-guidance-2026-11-17",
+   "firstSeen": "2026-11-17T22:01:46+08:00"
+  },
+  {
+   "id": "8d2e81d2b4",
+   "title": "X 开源代码曝光「LLM slop」打压规则：被判定为 AI 垃圾帖的回复 30 天内对非关注者降权，被标记的账号 7 天推荐受限",
+   "summary": "X 在开源仓库中公开了识别低质量 AI 生成内容的规则：帖子被标为 llm_slop_post 后会加上 30 天的 RiskyHighVizReply 标签，回复对非关注者的可见度被压低；账号被标为 llm_slop_user 则会有 7 天的 SpamHighRecall 标签，推荐范围缩小，但大粉丝量账号常常可以跳过检查。有人欢迎垃圾内容减少，也有人担心正常用 AI 辅助写作被误伤。",
+   "links": [
+    "https://x.com/i/trending/2122687266393137180"
+   ],
+   "topic": "x-llm-slop-visibility-rules-2026-11-17",
+   "firstSeen": "2026-11-17T22:01:46+08:00"
   }
  ],
- "lastChecked": "2026-11-17T21:38:31+08:00"
+ "lastChecked": "2026-11-17T22:01:46+08:00"
 }
