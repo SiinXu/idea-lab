@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T01:11:51+08:00",
+ "lastUpdated": "2026-11-18T01:25:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50815,7 +50815,17 @@
    ],
    "topic": "economists-ai-flood-peer-review-collapse-2026-11-17",
    "firstSeen": "2026-11-18T01:11:51+08:00"
+  },
+  {
+   "id": "b1bf302e82",
+   "title": "稳定币跨境换汇创业公司 Codex 完成 3000 万美元 A 轮：Pantera 领投、投后估值 1.3 亿美元，不到一年年化交易量做到 250 亿美元",
+   "summary": "成立于 2024 年的 Codex 宣布完成 3000 万美元 A 轮融资，由 Pantera Capital 领投，Dragonfly 和 Coinbase Ventures 跟投，投后估值 1.3 亿美元。公司用 USDC、USDT 等稳定币做 7×24 小时跨境支付和换汇，主攻亚洲，正扩展到拉美和撒哈拉以南非洲，宣称 30 分钟内结算、无需预存资金，不到一年年化交易量已达 250 亿美元。新资金将用于 AI 自动化、招聘和全球扩张。看点：稳定币正在切入传统外汇和跨境收款市场，对需要收海外款的个人和小团队是值得关注的新通道。",
+   "links": [
+    "https://x.com/i/trending/2122731128888979947"
+   ],
+   "topic": "codex-stablecoin-fx-30m-series-a-2026-11-17",
+   "firstSeen": "2026-11-18T01:25:48+08:00"
   }
  ],
- "lastChecked": "2026-11-18T01:11:51+08:00"
+ "lastChecked": "2026-11-18T01:25:48+08:00"
 }
