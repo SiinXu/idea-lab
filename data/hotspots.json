@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T10:55:42+08:00",
+ "lastUpdated": "2026-11-17T11:12:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50015,7 +50015,47 @@
    ],
    "topic": "ag-ui-protocol-trending-2026-11-17",
    "firstSeen": "2026-11-17T10:55:42+08:00"
+  },
+  {
+   "id": "9cc18ee234",
+   "title": "谷歌威胁情报组：首次在真实攻击中发现「全自动」AI 黑客，多智能体系统自己找漏洞、写利用代码",
+   "summary": "谷歌 GTIG 报告称，一伙俄语黑客用名为 exploit_agent 的多智能体系统，自动分析软件补丁、发现漏洞并生成利用代码，攻击法国媒体、娱乐和教育类网站，全程无需人工。另有来自中国、伊朗、朝鲜的国家背景团伙用 AI 做侦察、社工和向加密公司投假简历。报告预计低水平全自动攻击很快普及，高级版数月内出现，防守方须做到机器速度。",
+   "links": [
+    "https://x.com/i/trending/2122410092322828538"
+   ],
+   "topic": "google-gtig-autonomous-ai-attacks-2026-11-17",
+   "firstSeen": "2026-11-17T11:12:41+08:00"
+  },
+  {
+   "id": "737e367d79",
+   "title": "OpenAI 给 ChatGPT for Healthcare 上「电脑操作」智能体：能在电子病历系统里点击填写、起草医嘱和保险预授权",
+   "summary": "11 月 16 日更新：智能体可操作电子病历等应用，起草医嘱、准备保险申请；新增更强的临床检索和 20 多个插件（资格核验、排班等），接入 Cigna、CVS Health 等伙伴。OpenAI 称收件箱任务临床安全评测达 99%；美国临床医生可免费使用，API 走 HIPAA 合规。也有人担心信任与责任归属。",
+   "links": [
+    "https://x.com/i/trending/2122402364288065745"
+   ],
+   "topic": "openai-chatgpt-healthcare-agents-2026-11-16",
+   "firstSeen": "2026-11-17T11:12:41+08:00"
+  },
+  {
+   "id": "ca1692d43d",
+   "title": "YC 创业公司开源 OpenCrawl：给 Claude Code、Codex、Cursor 等编程智能体建「共享工作区」",
+   "summary": "OpenCrawl 归档各智能体的会话记录，接入 GitHub 和 Linear，并提供留言板让不同智能体互相检索彼此做过的尝试、协同推进，不再各自在笔记本和沙箱里重复劳动。开发者视其为「软件工厂」里智能体舰队的协调层，也有人质疑模型很快会自己学会协调。",
+   "links": [
+    "https://x.com/i/trending/2122526695286768018"
+   ],
+   "topic": "opencrawl-agent-shared-workspace-2026-11-17",
+   "firstSeen": "2026-11-17T11:12:41+08:00"
+  },
+  {
+   "id": "a0a533356c",
+   "title": "DeepSeek 因算力吃紧收紧免费用户：单次输入限 4 万字符、每日配额，超 7 天未活跃的对话不再支持续聊",
+   "summary": "X 上大量用户反馈 DeepSeek App 和网页端出现新限制，主要影响免费用户，起因是全球请求量创新高导致算力紧张。同期阿里发布 Qwen4-Max 主打「更省 token、任务成本降六成以上」，国产模型在算力与价格上的竞争更直接。",
+   "links": [
+    "https://x.com/i/trending/2122524634625253511"
+   ],
+   "topic": "deepseek-usage-limits-compute-2026-11-17",
+   "firstSeen": "2026-11-17T11:12:41+08:00"
   }
  ],
- "lastChecked": "2026-11-17T10:55:42+08:00"
+ "lastChecked": "2026-11-17T11:12:41+08:00"
 }
