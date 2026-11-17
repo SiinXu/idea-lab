@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T15:44:09+08:00",
+ "lastUpdated": "2026-11-17T16:00:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50298,7 +50298,27 @@
    ],
    "topic": "huggingface-openrouter-integration-2026-11-17",
    "firstSeen": "2026-11-17T15:44:09+08:00"
+  },
+  {
+   "id": "015a1c0e4f",
+   "title": "嫌 DocuSign 15 人团队一年 8100 美元太贵，Kevin Rose 自己做了开源电子签名工具 SignuDoc：Vercel 一键自托管、按席位零收费",
+   "summary": "SignuDoc 支持白标品牌、审计记录、防篡改印章，文档存放在用户自己的云里，部署在 Vercel 上不按人头收费。这引发「AI 让人人都能自造工具、冲击高价 SaaS」的讨论（DocuSign 年营收约 32 亿美元）；也有人指出 Documenso 等开源方案早已存在，企业仍看重信任与合规。",
+   "links": [
+    "https://x.com/i/trending/2122486395289629054"
+   ],
+   "topic": "kevin-rose-signudoc-docusign-alternative-2026-11-17",
+   "firstSeen": "2026-11-17T16:00:41+08:00"
+  },
+  {
+   "id": "87ba6de11f",
+   "title": "《半条命 2》22 周年遇大规模开发资料泄露：8.5GB 压缩包解开约 33GB，含早期 HEV 防护服模型、剧情草稿和被砍掉的敌人设计",
+   "summary": "Valve 于 2004 年 11 月 16 日发售《半条命 2》，周年当天玩家纷纷致敬，同时一份泄露档案曝光了 1999 年起的最早期制作文件：戈登·弗里曼和艾莉克斯·万斯的早期模型、剧情初稿，以及迫击炮合成体等被删敌人。Valve 尚未回应。",
+   "links": [
+    "https://x.com/i/trending/2122109255729795520"
+   ],
+   "topic": "half-life-2-22nd-anniversary-dev-leak-2026-11-17",
+   "firstSeen": "2026-11-17T16:00:41+08:00"
   }
  ],
- "lastChecked": "2026-11-17T15:44:09+08:00"
+ "lastChecked": "2026-11-17T16:00:41+08:00"
 }
