@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T11:31:15+08:00",
+ "lastUpdated": "2026-11-17T11:47:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50075,7 +50075,18 @@
    ],
    "topic": "lend-agent-credentials-2026-11-17",
    "firstSeen": "2026-11-17T11:31:15+08:00"
+  },
+  {
+   "id": "7cbe33bc1f",
+   "title": "魁北克海地裔作家 Thélyson Orélien 处女作被 AI 检测器判近 100% 生成，出版社随即解约，他坚称是自己写的",
+   "summary": "Pangram 等检测工具给 Orélien 的小说打出接近 100% 的 AI 分，出版方据此终止合作，尽管他否认并有元数据佐证。同期凯恩非洲写作奖获奖作也曾被质疑后经访谈和元数据核查洗清。多伦多大学教授为 Pangram 长文本低误判率辩护，Timnit Gebru 等则警告不应只凭检测器定罪，出版与学术界「机器判定 vs 人工复核」之争升温。",
+   "links": [
+    "https://x.com/i/trending/2122221887849681341",
+    "https://x.com/i/trending/2121794250043973708"
+   ],
+   "topic": "orelien-pangram-publisher-drop-2026-11-17",
+   "firstSeen": "2026-11-17T11:47:26+08:00"
   }
  ],
- "lastChecked": "2026-11-17T11:31:15+08:00"
+ "lastChecked": "2026-11-17T11:47:26+08:00"
 }
