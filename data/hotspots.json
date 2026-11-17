@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T12:43:38+08:00",
+ "lastUpdated": "2026-11-17T12:54:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50148,7 +50148,17 @@
    ],
    "topic": "nate-silver-ai-backlash-prediction-2026-11-17",
    "firstSeen": "2026-11-17T12:43:38+08:00"
+  },
+  {
+   "id": "5fd5103546",
+   "title": "金融 App 抢做「万能平台」：Robinhood、Coinbase、Polymarket、Kalshi 把股票、加密、预测市场塞进一个 App",
+   "summary": "Robinhood 从股票扩到加密和预测市场，Polymarket 与 Kalshi 则从事件合约扩到永续合约和股票；Coinbase 自称「Everything Exchange」，预测市场年化收入已达 2 亿美元，还计划推出 AI 智能体工具。有人主张专注单品，但多数人认为胜负取决于用户留存、收益分成和跨品种统一保证金。",
+   "links": [
+    "https://x.com/i/trending/2122546751924318611"
+   ],
+   "topic": "finance-apps-everything-platform-2026-11-17",
+   "firstSeen": "2026-11-17T12:54:07+08:00"
   }
  ],
- "lastChecked": "2026-11-17T12:43:38+08:00"
+ "lastChecked": "2026-11-17T12:54:07+08:00"
 }
