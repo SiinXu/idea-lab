@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T15:23:02+08:00",
+ "lastUpdated": "2026-11-17T15:44:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50278,7 +50278,27 @@
    ],
    "topic": "hsbc-stargate-jupiter-loan-discount-2026-11-17",
    "firstSeen": "2026-11-17T15:23:02+08:00"
+  },
+  {
+   "id": "f68cb83600",
+   "title": "Perplexity 年化营收突破 10 亿美元，同时上线 Monitor API：每 1000 次运行 1 美元，替人或智能体盯话题、事件和网页更新",
+   "summary": "CEO Aravind Srinivas 在 Semafor 采访中宣布 10 亿美元年化营收，称花费只有一家即将上市同行的五分之一，并提前完成年底目标，不排除申请 IPO。新产品 Monitor 是按次计费的监控 API，主题、事件或网页有相关变化时通过 webhook 通知用户或 AI 智能体。",
+   "links": [
+    "https://x.com/i/trending/2122586650655981924"
+   ],
+   "topic": "perplexity-1b-arr-monitor-api-2026-11-17",
+   "firstSeen": "2026-11-17T15:44:09+08:00"
+  },
+  {
+   "id": "171d8e7cf4",
+   "title": "Hugging Face 直接接入 OpenRouter：160 个对话模型、38 家实验室，自动挑最快、最便宜、最稳的推理服务商",
+   "summary": "Hugging Face 11 月 16 日宣布把 OpenRouter 集成进平台：请求经 OpenRouter 网络路由到最合适的服务商，调用轨迹回传 Hugging Face 用于评测。CEO Clément Delangue 的定位是「Hugging Face 负责存储和协作，OpenRouter 负责推理」。",
+   "links": [
+    "https://x.com/i/trending/2122406447795614103"
+   ],
+   "topic": "huggingface-openrouter-integration-2026-11-17",
+   "firstSeen": "2026-11-17T15:44:09+08:00"
   }
  ],
- "lastChecked": "2026-11-17T15:23:02+08:00"
+ "lastChecked": "2026-11-17T15:44:09+08:00"
 }
