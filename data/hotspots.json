@@ -51002,7 +51002,7 @@
   {
    "id": "a7b5287720",
    "title": "多模态数据平台 LanceDB 完成 5750 万美元 B 轮：Bessemer、Innovation Endeavors 联合领投，营收同比增长超 10 倍，客户含英伟达、Netflix、Midjourney",
-   "summary": "LanceDB 面向 PB 级视频、图像等非结构化数据，帮做机器人和视频模型的团队管理训练数据。本轮 5750 万美元 B 轮由 Bessemer 和 Innovation Endeavors 联合领投，累计融资 9850 万美元。CEO 施畅（pandas 联合作者）称现有数据工具跟不上 AI 的多模态需求。看点：AI 基础设施的投资焦点正从算力延伸到「多模态数据层」，视频和传感器数据的存储、检索、清洗工具仍有大空间。",
+   "summary": "LanceDB 面向 PB 级视频、图像等非结构化数据，帮做机器人和视频模型的团队管理训练数据。本轮 5750 万美元 B 轮由 Bessemer 和 Innovation Endeavors 联合领投，累计融资 9850 万美元。CEO Chang She（pandas 联合作者）称现有数据工具跟不上 AI 的多模态需求。看点：AI 基础设施的投资焦点正从算力延伸到「多模态数据层」，视频和传感器数据的存储、检索、清洗工具仍有大空间。",
    "links": [
     "https://x.com/i/trending/2122763625358053402"
    ],
@@ -51010,5 +51010,5 @@
    "firstSeen": "2026-11-18T03:58:39+08:00"
   }
  ],
- "lastChecked": "2026-11-18T03:58:39+08:00"
+ "lastChecked": "2026-11-18T03:59:54+08:00"
 }
