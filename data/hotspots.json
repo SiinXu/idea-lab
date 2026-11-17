@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T03:27:07+08:00",
+ "lastUpdated": "2026-11-18T03:40:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50968,7 +50968,27 @@
    ],
    "topic": "john-deere-loader-rl-acrobatics-2026-11-17",
    "firstSeen": "2026-11-18T03:27:07+08:00"
+  },
+  {
+   "id": "85dc22e696",
+   "title": "商汤开源 SenseNova-Loop-9B 多模态模型：循环复用层的设计让 9B 小模型对标更大模型，4-bit 权重仅 4.9GB，可在消费级显卡运行",
+   "summary": "商汤开源 SenseNova-Loop-9B，支持文本和图像输入、最长 512K 上下文，擅长智能体任务、编码、文档理解和数据分析。它通过「循环」结构在推理时复用层，在 AutomationBench、GAIA 等基准上追平或超过 Qwen3.8-27B 等更大模型；4-bit 量化后约 4.9GB，低显存消费级 GPU 即可本地运行，Apache 2.0 许可。看点：本地可跑的小模型智能体能力继续上升，端侧和私有化部署的应用门槛进一步降低。",
+   "links": [
+    "https://x.com/i/trending/2122753417676480547"
+   ],
+   "topic": "sensetime-sensenova-loop-9b-2026-11-17",
+   "firstSeen": "2026-11-18T03:40:47+08:00"
+  },
+  {
+   "id": "9f524e92c3",
+   "title": "新基准 SWE-CoWork：让 AI 编码智能体像同事一样接手半成品任务，Claude Opus 5.5 完整完成率仅 6.93%，GPT-6 Astra 为 7.92%",
+   "summary": "TokenWave.AI 发布 SWE-CoWork（11 月 15 日上 arXiv），用 101 个真实开源任务、覆盖 11 种语言，模拟职场协作：智能体需要向模拟同事提问、查文档、写代码并通过隐藏测试，82% 的需求来自「同事」。结果显示 Claude Opus 5.5 部分测试通过率 63.84%，但完整完成率仅 6.93%，GPT-6 Astra 为 7.92%；主要失败点在交接和返工。看点：编码智能体单兵能力强，但「团队协作 + 需求澄清」仍是短板，围绕交接、上下文传递的工具有空间。",
+   "links": [
+    "https://x.com/i/trending/2122733884710477985"
+   ],
+   "topic": "swe-cowork-benchmark-2026-11-17",
+   "firstSeen": "2026-11-18T03:40:47+08:00"
   }
  ],
- "lastChecked": "2026-11-18T03:27:07+08:00"
+ "lastChecked": "2026-11-18T03:40:47+08:00"
 }
