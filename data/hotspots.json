@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T12:54:07+08:00",
+ "lastUpdated": "2026-11-17T13:14:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50158,7 +50158,37 @@
    ],
    "topic": "finance-apps-everything-platform-2026-11-17",
    "firstSeen": "2026-11-17T12:54:07+08:00"
+  },
+  {
+   "id": "52adf762d4",
+   "title": "谷歌 Stitch 官方技能库 stitch-skills 登上 GitHub 日榜：单日 500+ 星，让 Claude Code、Cursor 等直接调用 Stitch 出设计",
+   "summary": "google-labs-code/stitch-skills 是配合 Stitch MCP 服务器使用的 Agent Skills 库，遵循 Agent Skills 开放标准，可在 Antigravity、Gemini CLI、Claude Code、Cursor 等编码智能体中使用；Apache-2.0 协议，总星数近 9800，今日新增约 529 星。",
+   "links": [
+    "https://github.com/google-labs-code/stitch-skills"
+   ],
+   "topic": "google-stitch-skills-trending-2026-11-17",
+   "firstSeen": "2026-11-17T13:14:13+08:00"
+  },
+  {
+   "id": "14832d8209",
+   "title": "谷歌研究院开源 PaperOrchestra：多智能体协作自动写 AI 论文，登上 GitHub 日榜",
+   "summary": "google-research/paper-orchestra 是用多个智能体分工完成 AI 研究论文写作的框架，Apache-2.0 协议，总星约 1700，今日新增 300+ 星。自动化科研写作再引关注，也让「AI 写论文、AI 审论文」的讨论升温。",
+   "links": [
+    "https://github.com/google-research/paper-orchestra"
+   ],
+   "topic": "google-paper-orchestra-trending-2026-11-17",
+   "firstSeen": "2026-11-17T13:14:13+08:00"
+  },
+  {
+   "id": "c8a5b5ab37",
+   "title": "开源中国历史交互地图「江山时序」走红 GitHub：18 个朝代、198 个疆域快照、古今地名谱系和诗词路线",
+   "summary": "DeanChensj/jiangshan-map 把公元前 403 年至今的中国疆域变迁做成可交互的地图时间轴，含古今地名演变和古典诗词路线，GPL-3.0 协议，总星约 7100，今日新增近 300 星，是文化类可视化项目的出圈样本。",
+   "links": [
+    "https://github.com/DeanChensj/jiangshan-map"
+   ],
+   "topic": "jiangshan-map-trending-2026-11-17",
+   "firstSeen": "2026-11-17T13:14:13+08:00"
   }
  ],
- "lastChecked": "2026-11-17T12:54:07+08:00"
+ "lastChecked": "2026-11-17T13:14:13+08:00"
 }
