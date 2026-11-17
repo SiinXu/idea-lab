@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T02:58:45+08:00",
+ "lastUpdated": "2026-11-18T03:07:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50928,7 +50928,27 @@
    ],
    "topic": "ai-chatbots-cut-web-traffic-marketwatch-2026-11-17",
    "firstSeen": "2026-11-18T02:58:45+08:00"
+  },
+  {
+   "id": "23791fed6f",
+   "title": "微软 AI 发布编码模型 MAI Code 2 和 Code 2 Flash：号称以 GPT 6.1 Sol 40% 的成本拿到 98% 的表现，已上线 GitHub Copilot",
+   "summary": "微软 AI 推出两款面向日常企业编码的模型：MAI Code 2 主打生产级改动、深度调试、多文件实现和仓库级推理，官方称在四项基准平均拿到 GPT 6.1 Sol 98% 的表现、成本 40%，相当于 Claude Opus 5.5 的 96%、成本仅 5%；盲评前端应用时 67% 的评审更偏好它而非 GPT-6 Sol。Flash 版面向高频小改动。两者已在 GitHub Copilot 可用，Flash 在 Foundry 限量预览，之后将上 OpenRouter、Vercel、OpenCode、Kilo。看点：编码模型进入「够用 + 极低价」竞争，微软开始用自研模型替换 Copilot 和 M365 背后的 OpenAI 依赖。",
+   "links": [
+    "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+   ],
+   "topic": "microsoft-mai-code-2-2026-11-17",
+   "firstSeen": "2026-11-18T03:07:59+08:00"
+  },
+  {
+   "id": "9a1c9d829e",
+   "title": "Output Labs 发布生物垂直基础模型 Bonbon：用 3.2 万亿 token 自建数据集学习分子与蛋白相互作用，实验命中率 61.5%，入选 NeurIPS 2026 口头报告",
+   "summary": "Output Labs AI 推出 Bonbon，一个专注生物领域的基础模型，可自主学习分子和蛋白质相互作用并预测功能结果而不只是结合。官方称速度比同类模型快约 5 万倍，在湿实验中抑制目标的命中率达 61.5%，传统筛选约 0.1%。看点：继 Isomorphic 大额融资后，AI 药物发现正从通用大模型转向垂直基础模型，数据集构建是核心壁垒。",
+   "links": [
+    "https://x.com/i/trending/2122766842573828535"
+   ],
+   "topic": "output-labs-bonbon-bio-model-2026-11-17",
+   "firstSeen": "2026-11-18T03:07:59+08:00"
   }
  ],
- "lastChecked": "2026-11-18T02:58:45+08:00"
+ "lastChecked": "2026-11-18T03:07:59+08:00"
 }
