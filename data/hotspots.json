@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T05:42:56+08:00",
+ "lastUpdated": "2026-11-18T06:01:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51139,7 +51139,29 @@
    ],
    "topic": "anthropic-s1-compute-74-training-2026-11-17",
    "firstSeen": "2026-11-18T05:42:56+08:00"
+  },
+  {
+   "id": "3c581d5bc4",
+   "title": "Purism 发起 Librem 5 v2 众筹：八核 RISC-V 处理器、跑自家 PureOS，主打不用安卓和 iOS、不需要大厂账号的隐私手机",
+   "summary": "隐私硬件公司 Purism 11 月 17 日宣布第二款手机 Librem 5 v2 开启众筹，采用八核 RISC-V 处理器，运行基于自由软件的 PureOS。官方承认要做成完整可用的手机，图形、外设、功耗和应用兼容还有大量工程要补。看点：RISC-V 首次以消费级手机形态冲击大众市场，「去大厂化」隐私设备和开放架构生态（应用移植、驱动、工具链）可能出现新机会，但众筹交付风险也要盯紧。",
+   "links": [
+    "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
+    "https://news.ycombinator.com/from?site=puri.sm"
+   ],
+   "topic": "purism-librem-5-v2-risc-v-2026-11-17",
+   "firstSeen": "2026-11-18T06:01:27+08:00"
+  },
+  {
+   "id": "b9d3a2821d",
+   "title": "开源推理引擎 TrnRT 登上 Hacker News：在单台 AWS Trainium2 机器上跑 GLM-5.3-Flash，支持 100 万 token 上下文和 OpenAI 兼容接口",
+   "summary": "RunAnywhere 开源了面向 AWS Trainium 芯片的大模型推理引擎 TrnRT（Apache 2.0，GitHub 约 1600 星）：在一台 trn2.48xlarge 上提供 OpenAI 兼容 API，解码阶段用 NKI「巨型内核」实现约每半层一个内核，并在显存和主机内存间维持前缀缓存，首个支持模型是 GLM-5.3-Flash。看点：英伟达之外的推理算力（Trainium 等）开始有开源软件栈，低成本自托管推理、跨芯片部署服务和性能调优咨询值得关注。",
+   "links": [
+    "https://github.com/RunanywhereAI/trnrt",
+    "https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels"
+   ],
+   "topic": "trnrt-trainium-inference-engine-2026-11-17",
+   "firstSeen": "2026-11-18T06:01:27+08:00"
   }
  ],
- "lastChecked": "2026-11-18T05:42:56+08:00"
+ "lastChecked": "2026-11-18T06:01:27+08:00"
 }
