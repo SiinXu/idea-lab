@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T23:16:47+08:00",
+ "lastUpdated": "2026-11-18T23:53:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51525,7 +51525,18 @@
    ],
    "topic": "google-self-improvement-memory-harness-2026-11",
    "firstSeen": "2026-11-18T23:16:47+08:00"
+  },
+  {
+   "id": "16043a46c1",
+   "title": "Nginx 曝两个 HTTP/2 未授权远程代码执行漏洞（CVSS 9.2）：其中一个藏了 11 年，Wiz 用 AI 代码扫描挖出，F5 今日发补丁",
+   "summary": "11 月 18 日，Wiz Research 联合 Ikotas Labs、Metnir、Rapid7、Xint 披露 Nginx 两个严重漏洞 CVE-2026-123633（HTTP/2 释放后重用）和 CVE-2026-123007（整数下溢），CVSS 4.0 评分均为 9.2，攻击者无需登录即可在服务器上执行代码；前提是开启了 HTTP/2。后者可追溯到 2015 年的 Nginx 1.9.5，Wiz 实测仅提供静态文件、不带后端和第三方模块的 Nginx 也能被打穿。F5 已于当天发布安全更新。值得注意的是，Wiz 称两个漏洞都是用自家 AI 代码扫描 harness「Wiz Atlas」发现，并借助 Gemini 4 Carbon 和 ChatGPT 5.6 Sol 验证可利用性。登上 HN 首页。看点：Nginx 支撑超 2.25 亿个网站，自建服务器、VPS 和反代用户应尽快升级；AI 挖洞正在把老牌基础软件的陈年漏洞批量翻出来，「AI 漏洞扫描 + 补丁提醒」类服务需求上升。",
+   "links": [
+    "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+    "https://news.ycombinator.com/item?id=50547374"
+   ],
+   "topic": "nginx-http2-rce-cve-2026-11",
+   "firstSeen": "2026-11-18T23:53:48+08:00"
   }
  ],
- "lastChecked": "2026-11-18T23:16:47+08:00"
+ "lastChecked": "2026-11-18T23:53:48+08:00"
 }
