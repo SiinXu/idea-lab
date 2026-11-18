@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T17:55:45+08:00",
+ "lastUpdated": "2026-11-18T18:10:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51413,7 +51413,39 @@
    ],
    "topic": "claude-code-code-mode-2026-11",
    "firstSeen": "2026-11-18T17:55:45+08:00"
+  },
+  {
+   "id": "a854c52f25",
+   "title": "微软官方 AI Agent 包 agent-framework 在 PyPI 遭劫持：1.26.1 和 1.26.2 版本只要 Python 一启动就偷 Azure、CI 和云密钥",
+   "summary": "安全圈 11 月 18 日披露，微软官方的 Python AI 智能体框架 agent-framework 在 PyPI 上被投毒：恶意版本 1.26.1 和 1.26.2 在 Python 解释器启动时即执行，即使代码里没有 import 它，也会窃取 Azure 凭据、CI 令牌和其他云端密钥；PyPI 下架第一个版本后，攻击者 33 分钟内又传了第二个，两版都已被移除。看点：Agent 框架正成为供应链攻击的新目标，装过这两个版本的团队需立即轮换密钥；「依赖包投毒监控 / 密钥自动轮换」类工具需求上升。",
+   "links": [
+    "https://x.com/i/status/2122829002981130469"
+   ],
+   "topic": "pypi-microsoft-agent-framework-hijack-2026-11",
+   "firstSeen": "2026-11-18T18:10:51+08:00"
+  },
+  {
+   "id": "40e04114b9",
+   "title": "WSJ：Anthropic 认购需求超预期，拟把 IPO 发行价上调到每股 80 美元以上，估值或达 1.5–1.6 万亿美元",
+   "summary": "据《华尔街日报》报道，Anthropic（代码 ANT）因投资者需求强于预期，计划将 IPO 价格提高到每股 80 美元以上，高于原定的 70–78 美元区间；顾问讨论的估值约 1.5 万亿至 1.6 万亿美元，高于原区间对应的约 1.33 万亿美元。早期投资方 Sound Ventures（Ashton Kutcher 联合创办）约 4.35 亿美元的投入据称已价值约 70 亿美元。看点：史上最大规模之一的 AI 公司上市即将定价，将重新给 AI 模型公司估值定锚，并带动二级市场 AI 概念和相关代币化股票热度。",
+   "links": [
+    "https://x.com/i/status/2122744324307947814",
+    "https://x.com/i/status/2122445042941899174"
+   ],
+   "topic": "anthropic-ipo-price-raise-2026-11",
+   "firstSeen": "2026-11-18T18:10:51+08:00"
+  },
+  {
+   "id": "d0a95bb99c",
+   "title": "iOS 27.3 测试版给 Siri 高级 AI 功能加每日用量上限：需要大量服务器算力的复杂请求按天限额，Siri 还可选择接入健康数据",
+   "summary": "苹果在 iOS 27.3 开发者测试版中为 Siri 的复杂请求（如结合个人上下文的多步骤查询等需重度服务器处理的任务）设置每日额度，同时带来 iCloud+ 升级；beta 2 中 Siri AI 还新增可选的健康数据访问权限。看点：继 DeepSeek 收紧免费额度后，连苹果也开始对端侧之外的云端 AI 算力做配额管理，「AI 用量限额」正成为各大产品的常态，用量监控和多模型分流工具有市场。",
+   "links": [
+    "https://x.com/i/status/2122392832216645859",
+    "https://x.com/i/status/2122424286442906030"
+   ],
+   "topic": "ios-27-3-siri-daily-limits-2026-11",
+   "firstSeen": "2026-11-18T18:10:51+08:00"
   }
  ],
- "lastChecked": "2026-11-18T17:55:45+08:00"
+ "lastChecked": "2026-11-18T18:10:51+08:00"
 }
