@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T21:01:50+08:00",
+ "lastUpdated": "2026-11-18T21:25:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51491,7 +51491,18 @@
    ],
    "topic": "codeberg-domain-suspended-namesilo-2026-11",
    "firstSeen": "2026-11-18T21:01:50+08:00"
+  },
+  {
+   "id": "6fc8c039af",
+   "title": "能量模型推理器 EBR：仅 1.8M 参数解 Sudoku-Extreme 达 99.9%，推理算力比次优模型省 345 倍，登上 HN 热榜",
+   "summary": "杜克、UIUC、哈佛的研究者提出 Energy-Based Reasoners（EBR）：让循环推理模型在潜空间学习一个「能量函数」，把每轮迭代变成对能量的梯度下降——能量值可直接给候选答案打分、无需外部验证器，梯度既指导修正，也天然给出何时停止的信号。论文称仅 1.8M 参数就在 Sudoku-Extreme 上达到 99.9% 准确率，推理计算量比次优模型少 345 倍；在 N 皇后、图着色上也取得多解覆盖率 SOTA 且单样本准确率接近 100%。11 月 18 日登上 Hacker News 首页（约 136 分）。看点：「小模型 + 自带验证信号的迭代推理」可能让排班、约束求解、规划类任务在端侧以极低成本运行，适合做垂直求解器类工具。",
+   "links": [
+    "https://energy-based-reasoners.github.io/",
+    "https://news.ycombinator.com/item?id=50543989"
+   ],
+   "topic": "energy-based-reasoners-2026-11",
+   "firstSeen": "2026-11-18T21:25:27+08:00"
   }
  ],
- "lastChecked": "2026-11-18T21:01:50+08:00"
+ "lastChecked": "2026-11-18T21:25:27+08:00"
 }
