@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T06:23:29+08:00",
+ "lastUpdated": "2026-11-19T06:46:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51926,7 +51926,18 @@
    ],
    "topic": "maritime-agent-cloud-yc",
    "firstSeen": "2026-11-19T06:23:29+08:00"
+  },
+  {
+   "id": "1828812e37",
+   "title": "伪装成 GPTBot / ClaudeBot 的扫描器在偷 AI 密钥：Octopus、Gecko、Tortoise 专找 .env 和 Claude Code、Cursor 等工具的配置文件",
+   "summary": "tin.computer 在自家 10 个网站上从 9 月底观察到 11 月 18 日，发现三类扫描器：Octopus 轮换 32 个 AI 爬虫名字，每个网站租一台新的 Google Cloud 机器（15 个区域共 97 台，多数存活不到 1 小时），先像 Chrome 一样浏览，再按 Next.js / Vite / 静态站框架在约 10 秒内请求约 300 个机密文件；Gecko 是 .NET 程序，专门请求 /.claude/settings.json、/.cursor/mcp.json 等 AI 编码工具的密钥文件，路径清单五周内从 4 个增至 26 个；Tortoise 规模小、请求慢。文章给出可在日志中检索的特征串，运营者身份尚未确认。看点：「AI 爬虫」UA 不能直接放行；个人站长和小团队应检查部署产物里有无 .env / AI 工具配置泄露，「站点 Agent 流量审计」本身也是可做的小工具。",
+   "links": [
+    "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
+    "https://news.ycombinator.com/item?id=50550461"
+   ],
+   "topic": "fake-ai-crawler-key-scanners",
+   "firstSeen": "2026-11-19T06:46:50+08:00"
   }
  ],
- "lastChecked": "2026-11-19T06:23:29+08:00"
+ "lastChecked": "2026-11-19T06:46:50+08:00"
 }
