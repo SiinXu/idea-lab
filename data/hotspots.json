@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T14:42:46+08:00",
+ "lastUpdated": "2026-11-18T14:55:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51325,7 +51325,29 @@
    ],
    "topic": "tencent-hy4-flash-open-weights-hf-2026-11",
    "firstSeen": "2026-11-18T14:42:46+08:00"
+  },
+  {
+   "id": "d021019fd8",
+   "title": "实测揭秘：Claude 大规模学过蛋白质序列——给冷门细菌蛋白开头就能续写氨基酸，Fable 5.2 胜过所有开源蛋白语言模型",
+   "summary": "研究者 Xinming Tu 用 668 个几乎没有论文、无已解析结构的冷门细菌和古菌蛋白做「下一个氨基酸」预测测试，并用打乱顺序的同一序列做对照。结果只有最新的 Claude Fable 5.2 和 Opus 5.5 能明显预测真实序列、对打乱序列则不行，说明它们训练时大规模吃进了 UniProt 一类的蛋白序列数据，而不只是论文文字；其他前沿模型没有这种迹象。Fable 5.2 超过测试的所有开源蛋白语言模型，Opus 5.5 与最大的 ProtGPT3-10B 持平。看点：通用大模型正在悄悄变成生物序列模型，AI 制药、蛋白设计工具和生物安全评估都要重新估算通用模型的能力边界。",
+   "links": [
+    "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+    "https://news.ycombinator.com/item?id=50541619"
+   ],
+   "topic": "claude-trained-protein-sequences-probe-2026-11",
+   "firstSeen": "2026-11-18T14:55:10+08:00"
+  },
+  {
+   "id": "3ede266c56",
+   "title": "为什么 Gemini 4 Carbon 这么慢？Kernel 拆解：同一修 bug 任务它要近一小时，Opus、Astra 只要几分钟，主因是步骤和工具调用多得多",
+   "summary": "Kernel 团队在私有评测（给出只描述症状的 bug 报告，让 Agent 定位并修复）里发现 Gemini 4 Carbon 常常耗时接近一小时，而 Claude Opus 和 GPT-6 Astra 只需几分钟；Theo 等开发者也公开吐槽它「慢到没法用」。逐步追踪后发现：推理速度慢只解释了与 Astra 相比 16–30%、与 Opus 相比 45–49% 的额外耗时，其余来自更长的执行轨迹——Carbon 每个任务走的步骤、调用的工具和消耗的 token 都多得多。看点：选编码 Agent 模型不能只看榜单分数，还要看单任务时长和成本，「什么时候该停」的工程判断正成为新的差异点。",
+   "links": [
+    "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+    "https://news.ycombinator.com/item?id=50541790"
+   ],
+   "topic": "gemini-4-carbon-slowness-kernel-analysis-2026-11",
+   "firstSeen": "2026-11-18T14:55:10+08:00"
   }
  ],
- "lastChecked": "2026-11-18T14:42:46+08:00"
+ "lastChecked": "2026-11-18T14:55:10+08:00"
 }
