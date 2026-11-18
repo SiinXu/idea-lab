@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T15:37:59+08:00",
+ "lastUpdated": "2026-11-18T17:09:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51359,7 +51359,40 @@
    ],
    "topic": "gemini-tasks-free-six-countries-hydrogen-2026-11",
    "firstSeen": "2026-11-18T15:37:59+08:00"
+  },
+  {
+   "id": "8129f68e26",
+   "title": "GitHub 新星 rust-anything 两天 2100+ 星：把整个应用逐块改写成 Rust，每一步都对照原程序录制的行为校验",
+   "summary": "开源项目 rust-anything（MIT 许可，11 月 16 日创建）两天内在 GitHub 收获 2100 多颗星。它帮你把 CLI、服务端和库「一块一块」重写成 Rust，每一步都拿原程序录下的行为做对照校验，保证迁移过程中应用始终能用；支持 Node.js/TypeScript、Python、C、Go、Ruby、Java，PHP 和 C# 处于预览，README 提供简中、繁中等 17 种语言，可通过 npm 和 crates.io 安装。看点：AI 让「整仓库换语言」变得可行，以行为录制做回归保障是关键，适合想降本提速的老项目，也催生「代码迁移即服务」的生意。",
+   "links": [
+    "https://github.com/erkamyaman/rust-anything",
+    "https://www.npmjs.com/package/rust-anything",
+    "https://crates.io/crates/rust-anything"
+   ],
+   "topic": "rust-anything-incremental-rust-rewrite-2026-11",
+   "firstSeen": "2026-11-18T17:09:55+08:00"
+  },
+  {
+   "id": "e9a68a300e",
+   "title": "免费开源 32 个 AI 营销技能包 boring-marketing-skills：调研、定位、文案、SEO、AI 搜索、广告、邮件一条龙，还有本地商家专用包",
+   "summary": "营销人 James Dickerson（@boringmarketer）11 月 16 日开源 boring-marketing-skills（MIT 许可），两天约 600 星。它给 Claude Code、Codex、Cursor 等 Agent 提供 32 个营销技能，覆盖调研、定位、文案、落地页、SEO、AI 搜索可见度、广告、邮件和内容，另有一套针对本地商家的深度技能包；据作者说都来自真实投放，不依赖任何付费工具。一条 npx skills add 即可安装，先运行 /start-here 输入商家名，它会读取官网和评价、生成品牌档案，再推荐下一步该用的技能。看点：营销正在被打包成可复用的 Agent 技能，小团队和个人可以低成本搭「AI 营销部」，给本地商家做代运营的服务门槛也进一步降低。",
+   "links": [
+    "https://github.com/boringmarketer/boring-marketing-skills",
+    "https://boringmarketing.com"
+   ],
+   "topic": "boring-marketing-skills-agent-pack-2026-11",
+   "firstSeen": "2026-11-18T17:09:55+08:00"
+  },
+  {
+   "id": "a70cae4c16",
+   "title": "开源 Agent 技能 inference-optimisation 近千星：让 AI 自动「爬坡」调优本地大模型推理速度，笔记本核显 256K 预填充提速 2.1 倍",
+   "summary": "sybil-solutions 11 月 16 日开源 inference-optimisation（MIT 许可），两天近 1000 星。这是一个给 Claude Code 等 Agent 用的技能，能在任意硬件、任意量化下自动调优本地大模型服务的速度，覆盖单用户和并发解码、投机解码、预填充、KV 缓存、启动时间和首 token 延迟。方法是先算理论上限、一次只改一个变量、和交替对照组比较、记录包括失败在内的每次结果，并要求通过长上下文检索稳定性检查。作者公布的实测：Intel Arc B390 核显笔记本跑 35B-A3B 模型，单用户解码 43.6→53 tok/s，256K 预填充 297→628 tok/s，启动 113→43 秒。看点：「让 Agent 自己做性能工程」正在变成可复制的技能，本地部署和边缘推理的调优成本会大幅下降。",
+   "links": [
+    "https://github.com/sybil-solutions/inference-optimisation-skill"
+   ],
+   "topic": "inference-optimisation-agent-skill-2026-11",
+   "firstSeen": "2026-11-18T17:09:55+08:00"
   }
  ],
- "lastChecked": "2026-11-18T15:37:59+08:00"
+ "lastChecked": "2026-11-18T17:09:55+08:00"
 }
