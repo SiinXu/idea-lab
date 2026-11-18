@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T01:16:03+08:00",
+ "lastUpdated": "2026-11-19T01:29:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51680,7 +51680,31 @@
    ],
    "topic": "uscc-2026-report-china-military-nvidia-chips",
    "firstSeen": "2026-11-19T01:16:03+08:00"
+  },
+  {
+   "id": "8198535ddb",
+   "title": "Netlify 「重新创业」全面改版：新品牌、新官网、新应用，转向非开发者和 AI 智能体；独家报道称年化营收年底达 1.3 亿美元、增长近 130%",
+   "summary": "11 月 18 日，Netlify CEO Matt Biilmann 宣布推出「全新 Netlify」：新品牌、新网站和从第一性原理重做的应用体验，称这是公司十年来最大的一次变化。据 X 新闻摘要，新平台让非技术用户用自然语言描述应用、实时预览，再与 AI 智能体和开发者协作上线。科技记者 Alex Konrad 独家报道称，三年前 Netlify 一度停滞，如今围绕「刚接触 AI 的非开发者」重新定位后增长近 130%，预计年底年化营收达 1.3 亿美元。看点：老牌开发者托管平台集体转向 vibe coding 用户（Lovable 同日两周年），面向非程序员的部署、域名、数据库一站式服务竞争加剧。",
+   "links": [
+    "https://x.com/biilmann/status/2123088138428129501",
+    "https://x.com/alexrkonrad/status/2123071895599976528",
+    "https://x.com/i/trending/2123097633459769791"
+   ],
+   "topic": "netlify-relaunch-ai-agents-2026-11",
+   "firstSeen": "2026-11-19T01:29:05+08:00"
+  },
+  {
+   "id": "4eb9d1810d",
+   "title": "OpenAI 题材电影《ARTIFICIAL》正式预告发布：卢卡·瓜达尼诺执导，安德鲁·加菲尔德饰演 Sam Altman，圣诞节限量上映、1 月 8 日全面公映",
+   "summary": "11 月 18 日，卢卡·瓜达尼诺（Luca Guadagnino）新片《ARTIFICIAL》官方账号发布正式预告：安德鲁·加菲尔德主演，尤拉·鲍里索夫、莫妮卡·巴巴罗、库珀·霍夫曼、杰森·施瓦茨曼、克里斯·奥多德、艾克·巴林霍尔茨和马克·里朗斯出演，宣传语为「our future is in their hands」，圣诞节在部分影院上映，1 月 8 日全面上映。据 X 新闻摘要，加菲尔德饰演 OpenAI CEO Sam Altman，影片讲述 OpenAI 的发展历程；已看过的影评人称影片按 OpenAI 时间线推进，并借 Ilya 的视角展开。看点：AI 公司内斗与创始人故事进入主流影视，AI 题材解读、科普和周边内容会迎来一波流量。",
+   "links": [
+    "https://x.com/artificial_mov/status/2123098913926504842",
+    "https://x.com/PopCrave/status/2123099320396509450",
+    "https://x.com/i/trending/2123104084261761469"
+   ],
+   "topic": "artificial-movie-trailer-guadagnino-2026-11",
+   "firstSeen": "2026-11-19T01:29:05+08:00"
   }
  ],
- "lastChecked": "2026-11-19T01:16:03+08:00"
+ "lastChecked": "2026-11-19T01:29:05+08:00"
 }
