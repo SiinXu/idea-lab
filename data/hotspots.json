@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T18:53:44+08:00",
+ "lastUpdated": "2026-11-18T19:45:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51457,7 +51457,19 @@
    ],
    "topic": "stripe-press-3d-bookstore-2026-11",
    "firstSeen": "2026-11-18T18:53:44+08:00"
+  },
+  {
+   "id": "e11d9eb51b",
+   "title": "Gemini 4 Neon 提前现身 Vertex AI 计费目录：每百万输入 3 美元、输出 15 美元，定位介于 Hydrogen 和 Carbon/Argon 之间",
+   "summary": "11 月 18 日 Google 的 Logan Kilpatrick 和 Rody Davis 相继只发了一个词「Gemini」，引发新模型发布猜测；数小时后，Gemini 4 Neon 出现在 Google Cloud Vertex AI 的模型目录与计费里，价格为每百万输入 token 3 美元、输出 15 美元，介于便宜的 Hydrogen 和更贵的 Carbon/Argon 之间。网传早期基准：AA Index v0.5.1 得 67 分，HLE-Diamond 多模态推理 83.4%（尚未经官方确认）。计费已上线但 Google 还未官宣公开可用，此前 Carbon 于 11 月 10 日、Hydrogen 于 11 月 12 日接连发布。看点：Gemini 4 系列在 10 天内补齐中档价位，主流模型价格带正在快速细分，按任务选模型、多模型路由的价值继续上升。",
+   "links": [
+    "https://x.com/i/status/2122876403091959982",
+    "https://x.com/i/status/2122878477083017727",
+    "https://x.com/i/status/2122972077804171495"
+   ],
+   "topic": "gemini-4-neon-vertex-2026-11",
+   "firstSeen": "2026-11-18T19:45:44+08:00"
   }
  ],
- "lastChecked": "2026-11-18T18:53:44+08:00"
+ "lastChecked": "2026-11-18T19:45:44+08:00"
 }
