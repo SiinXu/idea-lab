@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T00:17:36+08:00",
+ "lastUpdated": "2026-11-19T00:27:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51548,7 +51548,32 @@
    ],
    "topic": "misanthropic-statement-anthropic-ipo-2026-11",
    "firstSeen": "2026-11-19T00:17:36+08:00"
+  },
+  {
+   "id": "2a0ff9fbd9",
+   "title": "Lovable 两周年：创始人 Anton Osika 发公开信「少刷屏、多动手做东西」，官方片子主打「人人都能塑造世界」",
+   "summary": "11 月 18 日，vibe coding 平台 Lovable 官方宣布成立两周年并发布短片，口号仍是「you can shape the world」。CEO Anton Osika 同步发长文和 lovable.dev 上的公开信，核心观点是把「应该有人做」换成「我们来做吧」，并劝大家「少花时间刷信息流，多花时间做点东西」。据 X 新闻摘要，平台已累计生成 7000 多万个项目、月访问量约 10 亿（数字来自摘要，未见官方单独公告）。看点：AI 建站/做应用正从程序员工具变成大众创作工具，面向非技术用户的模板、教程和「把想法做成应用」代做服务仍有空间。",
+   "links": [
+    "https://x.com/Lovable/status/2122993498484007192",
+    "https://x.com/antonosika/status/2122995197428822219",
+    "https://lovable.dev/vision/letter-from-anton",
+    "https://x.com/i/trending/2123027334722633928"
+   ],
+   "topic": "lovable-2nd-anniversary-2026-11",
+   "firstSeen": "2026-11-19T00:27:43+08:00"
+  },
+  {
+   "id": "528e060614",
+   "title": "AI 检测器 Pangram 被「拼接旧书原句」骗过：学者让 Claude 只摘录 1900–2020 年出版物的原句拼成新段落，被判 100% 人写",
+   "summary": "11 月 18 日，学术写作博主 Mushtaq Bilal 发帖演示：让 Claude 不写一个自己的字，只从 1900 到 2020 年的出版物里挑现成句子拼成新文章，Pangram 就会把这段「100% AI 产出」判为 100% 人类写作，帖子 4.5 万+浏览、600+ 收藏。评论区有人指出这本质是「自动化抄袭」，也有人认为检测器为压低误判率必然留下这类空子。看点：AI 检测在教育、出版、招聘的使用争议还会持续，查重 + 来源追溯 + 写作过程留痕的组合工具更有需求。",
+   "links": [
+    "https://x.com/MushtaqBilalPhD/status/2122996991928270864",
+    "https://x.com/MariaLingon/status/2123007933046984769",
+    "https://x.com/i/trending/2123074623357010308"
+   ],
+   "topic": "pangram-fooled-by-quote-collage-2026-11",
+   "firstSeen": "2026-11-19T00:27:43+08:00"
   }
  ],
- "lastChecked": "2026-11-19T00:17:36+08:00"
+ "lastChecked": "2026-11-19T00:27:43+08:00"
 }
