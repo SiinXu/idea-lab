@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T00:58:38+08:00",
+ "lastUpdated": "2026-11-19T01:16:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51634,7 +51634,53 @@
    ],
    "topic": "inside-deutsche-bank-leak-2026-11",
    "firstSeen": "2026-11-19T00:58:38+08:00"
+  },
+  {
+   "id": "5dbbce4400",
+   "title": "微软 AI 在 Ignite 一口气发布 7 款自研模型：MAI Cyber 2 Flash 成本不到 GPT-6 Astra 的 2%，实时语音 MAI Realtime 1 每分钟 1 美分起",
+   "summary": "微软 AI（MAI）11 月 17 日在 Ignite 发布 7 款主打性价比的新模型，面向需要 7×24 跑智能体的开发者和企业。官方称：MAI Cyber 2 Flash 在 CyberGym-E2E 上质量超过 GPT-6 Astra，单任务成本不到其 2%；MAI Code 2 以约 40% 价格达到 GPT-6.1 Sol 98% 的编码水平，对比 Opus 5.5 以 5% 价格拿到 96%；MAI Code 2 Flash 对标 GPT-6 Luna 和 Haiku 5.5；MAI Image 2.7 登顶 Artificial Analysis 图像编辑榜，价格约为 GPT Image 2.6 Sunburst 的五分之一；MAI Realtime 1 语音对话每音频分钟 0.01 美元起；Dragon Copilot Transcribe 基于 MAI Transcribe 2，每月支撑 1000 万次问诊；决策模型 Decision 1.1 比 GPT-6.1 Sol 快 50 倍、便宜 79 倍。自研第二代 AI 芯片 Maia 200 已投产，每瓦 token 提升 1.7 倍。看点：大厂把模型价格压到「低一个数量级」，做实时语音客服、安全扫描、批量图像编辑的应用层成本会明显下降。",
+   "links": [
+    "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "https://news.ycombinator.com/item?id=50548021"
+   ],
+   "topic": "microsoft-mai-seven-models-ignite-2026",
+   "firstSeen": "2026-11-19T01:16:03+08:00"
+  },
+  {
+   "id": "37d5c6453f",
+   "title": "Terra Security 披露 KVM 虚拟机逃逸漏洞 CVE-2026-99312：在普通 DigitalOcean 云主机里读到宿主机约 127GB 内存，潜伏近 4 年",
+   "summary": "安全公司 Terra Security 研究员 Oren Yomtov 11 月 18 日发文披露 CVE-2026-99312：Linux 内核自带的 KVM 虚拟化在 AMD CPU 且开启嵌套虚拟化时，有一条代码路径在重置时忘了更新嵌套页表指针，导致释放后重用（use-after-free），客户机只需自己虚拟机里的 root 权限即可越界访问宿主机内存。团队在一台普通 DigitalOcean droplet 上读到了宿主机内核版本和约 127GB 宿主机内存（同机其他租户的数据也在其中），并在自有 AMD 裸金属服务器上演示了向宿主内核页写入 32 字节——任意写是实现代码执行的基础。该漏洞在内核中存在近四年，且是由一次安全修复引入的；HN 已上热榜。看点：多租户云的隔离边界再受挑战，开启嵌套虚拟化的云厂商和自建虚拟化平台需尽快打补丁，云安全审计与漏洞自动化挖掘需求继续升温。",
+   "links": [
+    "https://www.terra.security/blog/kvm-guest-to-host-escape",
+    "https://news.ycombinator.com/item?id=50548004"
+   ],
+   "topic": "kvm-guest-to-host-escape-cve-2026-99312",
+   "firstSeen": "2026-11-19T01:16:03+08:00"
+  },
+  {
+   "id": "0ec864a186",
+   "title": "AI 生物分子设计公司 Boltz 完成 1.1 亿美元 A 轮：Bessemer 领投，6 月以来用户「分子 token」用量涨 50 倍，已与全球前 20 大药企中的 6 家合作",
+   "summary": "11 月 18 日，从 MIT 孵化的开源生物分子 AI 公司 Boltz 宣布完成 1.1 亿美元 A 轮融资，由 Bessemer Venture Partners 领投。联合创始人 Gabriele Corso 称，自 6 月以来用户的分子 token 用量增长 50 倍，已与全球 20 大药企中的 6 家建立合作，目标是「把 AI 生物分子设计带给每一位科学家」。Endpoints News 独家报道称这是伦敦又一笔大型 AI 生物融资；英伟达此前也宣布计划投资 Boltz。看点：AI 药物设计从模型开源走向企业平台化，围绕湿实验验证、数据标注和药企工作流集成的服务需求在增加。",
+   "links": [
+    "https://x.com/GabriCorso/status/2123072420571746463",
+    "https://x.com/AndrewE_Dunn/status/2123034717423358374",
+    "https://x.com/i/trending/2123101214678081909"
+   ],
+   "topic": "boltz-110m-series-a-2026-11",
+   "firstSeen": "2026-11-19T01:16:03+08:00"
+  },
+  {
+   "id": "9ad339088f",
+   "title": "美中经济与安全审查委员会 2026 年报：中国军方正设法获取英伟达最先进 AI 芯片，用于「智能化战争」",
+   "summary": "CNBC 11 月 18 日报道，美中经济与安全审查委员会（USCC）2026 年度报告称，中国军方一直在积极寻求英伟达最先进的半导体，以推进把 AI 融入武器、指挥和后勤等环节的「智能化战争」。据 X 新闻摘要，报告认为华为、寒武纪等国产芯片仍有差距，相关实体会借助远程访问马来西亚等地英伟达数据中心等方式绕开限制（细节以报告原文为准）。WatcherGuru 转发该消息浏览量超 26 万。看点：美国对华芯片出口管制和境外算力租用的审查可能继续收紧，东南亚 GPU 云与算力租赁业务的合规风险上升。",
+   "links": [
+    "https://x.com/CNBC/status/2123007264143380519",
+    "https://x.com/WatcherGuru/status/2123007550849441965",
+    "https://x.com/i/trending/2123077214505693438"
+   ],
+   "topic": "uscc-2026-report-china-military-nvidia-chips",
+   "firstSeen": "2026-11-19T01:16:03+08:00"
   }
  ],
- "lastChecked": "2026-11-19T00:58:38+08:00"
+ "lastChecked": "2026-11-19T01:16:03+08:00"
 }
