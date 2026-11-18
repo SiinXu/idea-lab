@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T14:55:10+08:00",
+ "lastUpdated": "2026-11-18T15:37:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51347,7 +51347,19 @@
    ],
    "topic": "gemini-4-carbon-slowness-kernel-analysis-2026-11",
    "firstSeen": "2026-11-18T14:55:10+08:00"
+  },
+  {
+   "id": "cb1d8f8bc8",
+   "title": "谷歌把 Gemini「任务」模式免费推给六国数亿用户：切到 Task 就能让 AI 代打电话、付账单、办杂事，新模型 Gemini 4 Hydrogen 驱动",
+   "summary": "11 月 17 日，谷歌宣布 Gemini App 的 Tasks（原 Spark 智能体）免费向美国、日本、韩国、加拿大、澳大利亚和印度的数亿用户开放，由新的 Gemini 4 Hydrogen 模型驱动。用户在首页把开关从 Chat 切到 Task，说出需求，Gemini 就会自己去打电话、下单、付账单等，可随时插话补充指令，并在关键步骤（如付款）前暂停征求确认。在美国还能把邮件转发到 gemini@google.com 或发短信给 Gemini 交办任务。看点：「替你办事」的个人智能体从付费尝鲜变成免费大众功能，会直接挤压做代办、订票、客服外呼的小型 AI 工具，也给商家带来「被 AI 打电话」的新接待场景。",
+   "links": [
+    "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+    "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+   ],
+   "topic": "gemini-tasks-free-six-countries-hydrogen-2026-11",
+   "firstSeen": "2026-11-18T15:37:59+08:00"
   }
  ],
- "lastChecked": "2026-11-18T14:55:10+08:00"
+ "lastChecked": "2026-11-18T15:37:59+08:00"
 }
