@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T12:27:44+08:00",
+ "lastUpdated": "2026-11-18T12:59:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51258,7 +51258,40 @@
    ],
    "topic": "cerebras-disaggregated-inference-2026-11-17",
    "firstSeen": "2026-11-18T12:27:44+08:00"
+  },
+  {
+   "id": "ec92e1b251",
+   "title": "前谷歌地图、Uber 高管创办的 Voyage Labs 发布 AI 旅行代理 Atlas：发消息说想法就能自动调研、订机票酒店并盯价格，获 Kleiner Perkins 领投 1200 万美元种子轮",
+   "summary": "Voyage Labs 联合创始人 Manik Gupta（曾负责 Google Maps、任职 Uber）和 Yogesh Jain 本周推出 AI 旅行代理 Atlas：用户通过网页或短信描述出行想法（如滑雪度假、晚餐安排），Atlas 负责调研、给出个性化方案、通过合作方预订机票和酒店，并持续监控价格变化和行程中断。目前开放内测，下一步扩展餐饮和体验类供应商。看点：长周期、主动式的「会办事」旅行 Agent 开始拿到大额融资，垂直领域 Agent（旅行、本地生活）与 OTA 供应链集成是可复制的方向。",
+   "links": [
+    "https://x.com/manikgupta/status/2122736720542396523",
+    "https://x.com/i/status/2122874295445848309"
+   ],
+   "topic": "voyage-labs-atlas-travel-agent-seed-2026-11",
+   "firstSeen": "2026-11-18T12:59:38+08:00"
+  },
+  {
+   "id": "84db008bfa",
+   "title": "BrowseComp、SimpleQA 作者 Jason Wei 离开 Meta TBD 实验室，加盟估值 200 亿美元的 AI 训练数据公司 Mercor 任首席科学家",
+   "summary": "知名 AI 研究员 Jason Wei（先后任职 Google Brain、OpenAI、Meta，推动思维链推理和智能体研究，创建 SimpleQA、BrowseComp、HealthBench 等行业通用基准）宣布在 Meta TBD 实验室工作一年后加入 Mercor 任首席科学家，负责数据、评测和研究团队。Mercor 通过专家网络为大模型提供高质量训练数据，近期以 200 亿美元估值完成 7.5 亿美元 D 轮。Wei 表示「越来越多公司在训练模型，数据将塑造下一个前沿」。看点：顶级研究员流向数据与评测公司，说明专家数据、评分细则（rubric）和评测基准正成为 AI 竞争的关键资产。",
+   "links": [
+    "https://x.com/BrendanFoody/status/2122825607763689873",
+    "https://x.com/_jasonwei/status/2122826605362127094"
+   ],
+   "topic": "jason-wei-joins-mercor-2026-11-17",
+   "firstSeen": "2026-11-18T12:59:38+08:00"
+  },
+  {
+   "id": "09ca9f495b",
+   "title": "Google AI Studio 大更新：可直接在平台里买域名绑定 AI 生成的网站，还能做 Android 应用并一键发布到个人 Play 库",
+   "summary": "Google AI Studio 11 月 17 日更新：支持在平台内直接购买并绑定自定义域名，给用 Gemini 生成的网页项目挂上自有品牌；Android 应用构建能力升级，内置模拟器支持高清和音频，可接 Firestore 数据库和登录认证跨设备同步数据，并能几步发布到个人 Play 应用库（目前仅限美国），还可在应用里安全接入 AI 能力。看点：大厂把「一句话做应用→上线→绑域名」的全链路收进一个平台，独立 vibe coding 工具的差异化压力加大，也降低了个人做小应用和落地页的门槛。",
+   "links": [
+    "https://x.com/OfficialLoganK/status/2122818500763009273",
+    "https://x.com/GoogleAIStudio/status/2122752241887068565"
+   ],
+   "topic": "google-ai-studio-android-custom-domains-2026-11-17",
+   "firstSeen": "2026-11-18T12:59:38+08:00"
   }
  ],
- "lastChecked": "2026-11-18T12:27:44+08:00"
+ "lastChecked": "2026-11-18T12:59:38+08:00"
 }
