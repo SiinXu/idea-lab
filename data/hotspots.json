@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T05:58:15+08:00",
+ "lastUpdated": "2026-11-19T06:17:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51882,7 +51882,19 @@
    ],
    "topic": "xlue-health-world-model-seed",
    "firstSeen": "2026-11-19T05:58:15+08:00"
+  },
+  {
+   "id": "d8e15cff6d",
+   "title": "YC 文档解析初创 Unsiloed AI 获 Felicis 领投 750 万美元种子轮：把扫描件、表格、乱 PDF 变成 AI Agent 能像查数据库一样读的数据，olmOCR-Bench 自报 88.0 超 GPT-5.5",
+   "summary": "仅 7 人的 YC F25 公司 Unsiloed AI 宣布完成 750 万美元种子轮，由 Felicis 领投，Y Combinator、Orange Collective、Uncorrelated Ventures 等跟投；创始人 Aman 的宣布帖已有 300 多万次浏览。它主打「文档的可计算层」：把金融、法律、医疗行业里的扫描件、复杂表格、电子表格解析成 Agent 可检索、可推理的结构化数据。公司称其解析器在 Allen AI 公开的 olmOCR-Bench（1403 份 PDF、8413 个单元测试）上得分 88.0，高于 GPT-5.5 的 84.6（为公司自报数据）。看点：「Agent 读不懂文件」是落地第一道坎，面向小企业的发票/合同/报表一键转结构化数据、行业专用解析模板、文档进 Agent 的中间件，都是一周内可做的细分生意。",
+   "links": [
+    "https://x.com/aman_unsiloed/status/2123062651098140715",
+    "https://x.com/kimmonismus/status/2123129135598125390",
+    "https://x.com/i/trending/2123160059429466613"
+   ],
+   "topic": "unsiloed-ai-document-parsing-seed",
+   "firstSeen": "2026-11-19T06:17:29+08:00"
   }
  ],
- "lastChecked": "2026-11-19T05:58:56+08:00"
+ "lastChecked": "2026-11-19T06:17:29+08:00"
 }
