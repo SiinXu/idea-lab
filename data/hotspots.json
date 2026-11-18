@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T12:59:38+08:00",
+ "lastUpdated": "2026-11-18T13:08:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51291,7 +51291,29 @@
    ],
    "topic": "google-ai-studio-android-custom-domains-2026-11-17",
    "firstSeen": "2026-11-18T12:59:38+08:00"
+  },
+  {
+   "id": "ed667ea0e1",
+   "title": "Palmer Luckey 公开秘密项目 SLAB：设计寿命 1000 年的海上浮动工业平台，让金属加工、海水淡化、医疗研究等产业避开州和地方法规",
+   "summary": "Oculus 创始人、Anduril 联合创始人 Palmer Luckey 在 X 上透露，他用 2014 年把 Oculus 卖给 Facebook 的钱开发了海上家园（seastead）项目 SLAB，设计寿命 1000 年，目标是比陆地选址更便宜，并让金属加工、医疗研究与治疗、海水淡化、炼油、化工等受州和地方法规掣肘的美国产业有地方运营；2017 年他和几位朋友以 10 亿美元估值出资，称项目「还有很长的路要走，但已取得重大进展」。概念图展示了建有工厂和直升机坪的巨型混凝土平台，网上反应从兴奋到质疑可行性都有。看点：「监管套利 + 海上基础设施」被硬科技富豪当作再工业化路径提出，相关的海工、合规和离岸产业话题可能升温。",
+   "links": [
+    "https://x.com/PalmerLuckey/status/2122861334371180795",
+    "https://x.com/Polymarket/status/2122907902034018721"
+   ],
+   "topic": "palmer-luckey-slab-seastead-2026-11-17",
+   "firstSeen": "2026-11-18T13:08:08+08:00"
+  },
+  {
+   "id": "16a7e70f25",
+   "title": "Meta 个人 AI 智能体 Muse 登陆澳大利亚：可管邮件、通过 Ticketek 订票，接入 Canva、realestate.com.au 等本地伙伴，Apple Watch 和 WearOS 支持语音",
+   "summary": "Meta 11 月 17 日在澳大利亚上线个人 AI 智能体 Muse，覆盖 iOS、Android、网页和 Mac，免费可用并提供订阅增值功能。Muse 能处理管理邮件、通过 Ticketek 订票、做健身计划等实际任务，本地合作伙伴包括 Canva 和 realestate.com.au，执行操作前需用户审批；语音模式已在 Apple Watch 和 Android WearOS 上线。Meta 首席 AI 官 Alexandr Wang 发帖宣传。同日澳洲公司 Trellis Data 也发布了主权大模型 Agentaus 1。看点：大厂个人 Agent 开始按国家逐个落地并绑定本地服务商，各地的票务、房产、生活服务平台接入 Agent 生态会是新的分发渠道。",
+   "links": [
+    "https://x.com/alexandr_wang/status/2122762964419870792",
+    "https://x.com/Muse/status/2122797416856658255"
+   ],
+   "topic": "meta-muse-australia-launch-2026-11-17",
+   "firstSeen": "2026-11-18T13:08:08+08:00"
   }
  ],
- "lastChecked": "2026-11-18T12:59:38+08:00"
+ "lastChecked": "2026-11-18T13:08:08+08:00"
 }
