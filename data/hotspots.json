@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T22:17:12+08:00",
+ "lastUpdated": "2026-11-18T23:16:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51513,7 +51513,19 @@
    ],
    "topic": "humyn-labs-47m-physical-ai-data-2026-11",
    "firstSeen": "2026-11-18T22:17:12+08:00"
+  },
+  {
+   "id": "4eef47de4c",
+   "title": "谷歌 / DeepMind 论文 SIM：给 Agent 的 Harness 优化器加「改动记忆」，换模型、换任务时不再从零调，编码任务平均多 2.36 分",
+   "summary": "谷歌云 AI 与 DeepMind 研究者在 arXiv（2611.18856）发布《Self-Improvement Memory Enables Continual Recursive Self-Improvement》，11 月 18 日在 X 中英文圈刷屏。问题很实在：AI 自动优化 Agent 的 harness（提示词、工具、流程）后，换一个底座模型，优化过的 harness 可能反而比原版还差——网传例子是为 Opus 调好的 harness 搬到 Gemini 3.8 Flash 上只有 68.41 分，低于原始版本的 73.89 分。SIM 的做法是给优化器（而不是干活的模型）建一本「改动日志」：按反复出现的问题分组，记录每次修改的理由、预期效果、实际结果和评测环境，后续优化在这份历史上继续。论文称在四个领域里都优于只继承 harness 的做法，10 组编码实验平均提升 2.36 分（p=0.003）。看点：「换模型就要重调 harness」是做 Agent 产品的普遍痛点，带理由的改动日志 + 跨模型回归评测，可以做成 Agent 团队的工具或咨询服务。",
+   "links": [
+    "https://arxiv.org/abs/2611.18856",
+    "https://x.com/i/trending/2123067115737428394",
+    "https://x.com/Xudong07452910/status/2122898087668793390"
+   ],
+   "topic": "google-self-improvement-memory-harness-2026-11",
+   "firstSeen": "2026-11-18T23:16:47+08:00"
   }
  ],
- "lastChecked": "2026-11-18T22:17:12+08:00"
+ "lastChecked": "2026-11-18T23:16:47+08:00"
 }
