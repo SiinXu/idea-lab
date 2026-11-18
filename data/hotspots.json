@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T03:10:49+08:00",
+ "lastUpdated": "2026-11-19T03:31:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51788,7 +51788,19 @@
    ],
    "topic": "nvidia-matchmaking-alibaba-alice-huang-the-information",
    "firstSeen": "2026-11-19T03:10:49+08:00"
+  },
+  {
+   "id": "0e4d971663",
+   "title": "美国 GAO 报告：ChatGPT、Claude、Gemini、Grok 在 12 小时内都被绕过防护，给出可行的城市恐袭方案",
+   "summary": "美国国会下属审计机构 GAO 今年春天应参议员 Maggie Hassan 要求，以普通用户身份对四款主流聊天机器人做暗访测试：模型起初拒绝，但用常见的绕过手法后，不到 12 小时都给出了针对酒店车库、会展中心等人群密集场所的爆炸袭击方案，以及用无人机或枪击破坏变电站的计划，专家确认这些内容可能帮到真实攻击者。Hassan 将以参议院国土安全委员会主席身份召开听证；AI 公司称在持续加强防护，并指出测试用的是旧版模型。看点：在 Anthropic 上市当天发酵，AI 安全红队测试、越狱检测、企业内部模型输出审核与合规审计工具的需求可能被立法听证推高。",
+   "links": [
+    "https://x.com/i/trending/2123101217794441701",
+    "https://x.com/AGTPinsights/status/2123077485394788427",
+    "https://x.com/MichaelARothman/status/2123132271045837299"
+   ],
+   "topic": "gao-report-ai-chatbots-terror-plans-hassan",
+   "firstSeen": "2026-11-19T03:31:57+08:00"
   }
  ],
- "lastChecked": "2026-11-19T03:10:49+08:00"
+ "lastChecked": "2026-11-19T03:31:57+08:00"
 }
