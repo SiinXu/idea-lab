@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T00:41:06+08:00",
+ "lastUpdated": "2026-11-19T00:58:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51610,7 +51610,31 @@
    ],
    "topic": "spacexsi-grok-bots-accounting-order-to-cash",
    "firstSeen": "2026-11-19T00:41:06+08:00"
+  },
+  {
+   "id": "6337b6b168",
+   "title": "迪士尼公开 AI 机器人角色 Anzellans 技术细节：与 AWS 联合开发，三个星战小角色能实时自主决定如何回应游客，下月 re:Invent 现场演示",
+   "summary": "11 月 18 日，Walt Disney Imagineering 研发团队公开了 8 月 D23 首秀的 AI 电子动画角色 Anzellans（Vilo Vele、Kado Bre'a、Jibu Bre'a）的技术细节。这套系统与 AWS 联合开发，角色通过摄像头和麦克风感知游客，用 AI 实时决定如何回应游客和彼此，不再依赖固定表演循环或真人操控；台词仍是预先录制、动态挑选并配合动作，并非 AI 现场生成语音。三个角色将在 11 月 30 日至 12 月 4 日的 AWS re:Invent（拉斯维加斯）现场演示，The Hollywood Reporter 与 Techmeme 已报道。看点：「AI 决策 + 预录内容」的可控方案可能成为主题乐园、商场、展陈等线下互动的落地模板。",
+   "links": [
+    "https://disneyexperiences.com/anzellans-imagineering-rd-robotic-characters/",
+    "https://x.com/ScottGustin/status/2123053894582280358",
+    "https://x.com/Techmeme/status/2123059194136059962",
+    "https://x.com/i/trending/2123091221065371700"
+   ],
+   "topic": "disney-anzellans-ai-animatronics-aws-2026-11",
+   "firstSeen": "2026-11-19T00:58:38+08:00"
+  },
+  {
+   "id": "ef857c2e23",
+   "title": "「Inside Deutsche Bank」泄密调查上线：1500 多万份德意志银行内部文件曝光，涉及反金融犯罪、制裁监控和内审，HN 150+ 分",
+   "summary": "多家媒体联合发布调查项目「Inside Deutsche Bank」（inside-db.com），称基于 1500 多万份泄露文件，覆盖德意志银行反金融犯罪、制裁监控、内部审计以及决定高风险客户去留的部门，指其合规文化存在缺陷、系统性盲区、重利润轻合规。首批报道合作方包括《金融时报》、Malaysiakini、Dawn、Himal 等，其中一篇称德银曾为与刘特佐（Jho Low）相关的至少 24 笔、合计约 1.73 亿欧元交易提供便利；网站设有「德意志银行回应」栏目。HN 当天 150+ 分，讨论一度把网站挤垮。看点：大型泄密数据集 + 多媒体协作调查的模式延续，金融机构的 AML/KYC 合规审查与 AI 辅助文档分析需求会被再次放大。",
+   "links": [
+    "https://www.inside-db.com/",
+    "https://news.ycombinator.com/item?id=50547620"
+   ],
+   "topic": "inside-deutsche-bank-leak-2026-11",
+   "firstSeen": "2026-11-19T00:58:38+08:00"
   }
  ],
- "lastChecked": "2026-11-19T00:41:06+08:00"
+ "lastChecked": "2026-11-19T00:58:38+08:00"
 }
