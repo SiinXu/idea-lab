@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T05:26:08+08:00",
+ "lastUpdated": "2026-11-19T05:47:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51859,7 +51859,18 @@
    ],
    "topic": "grok-bot-community-directory-launch",
    "firstSeen": "2026-11-19T05:26:08+08:00"
+  },
+  {
+   "id": "b2c084a412",
+   "title": "谷歌正式发布 Gemini 4 Neon：AA 智能指数 61 分排第 3、编程智能体指数第 1，每百万输入 3 美元/输出 15 美元、100 万上下文，今天起进 Gemini API、App 和 Antigravity",
+   "summary": "谷歌 DeepMind 11 月 18 日官宣 Gemini 4 Neon（此前已在 Vertex 计费目录泄露），主打「前沿级智能 + 快速端到端完成任务」：xhigh 思考档在 Artificial Analysis 智能指数得 61 分、总排第 3，Artificial Analysis 编程智能体指数 58.6 排第 1，Vals Index 第 2，Agent Arena 中途纠偏能力第 2，并称在内部测试里「编造率」创新低。商业与办公场景成绩突出：法律检索和税务智能体基准第 1、Zapier 自动化基准 56.3% 第 1、模拟经营自动售货机的 Vending-Bench 2 赚 16843 美元第 1。定价每百万输入 3 美元（缓存输入 0.15 美元，便宜 95%）、输出 15 美元，上下文 100 万 token；在 Antigravity 里可当「指挥官」调度多个并行的 Hydrogen 子智能体。今天起在 Google AI Studio 的 Gemini API、企业版、Antigravity（付费 Pro/Ultra）和 Gemini App（Pro/Ultra）上线。看点：中档价格拿到接近顶级的办公/财税/自动化能力，适合给小企业做财税整理、表格建模、多文档汇总等按次收费的 AI 服务。",
+   "links": [
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "https://news.ycombinator.com/item?id=50552424"
+   ],
+   "topic": "google-gemini-4-neon-official-launch",
+   "firstSeen": "2026-11-19T05:47:15+08:00"
   }
  ],
- "lastChecked": "2026-11-19T05:26:59+08:00"
+ "lastChecked": "2026-11-19T05:47:15+08:00"
 }
