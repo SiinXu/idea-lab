@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T01:41:04+08:00",
+ "lastUpdated": "2026-11-19T01:53:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51728,7 +51728,18 @@
    ],
    "topic": "finney-foundation-open-technology-rebrand",
    "firstSeen": "2026-11-19T01:41:04+08:00"
+  },
+  {
+   "id": "a3f22a6d62",
+   "title": "AI 智能体通讯基础设施 Linq 完成 9000 万美元 B 轮：a16z 领投、Ben Horowitz 入董事会，DoorDash 已用它在短信里帮用户点餐下单，新推「高清通话」和电脑操作能力",
+   "summary": "11 月 18 日，Linq 联合创始人 Elliott Potter 宣布完成 9000 万美元新融资，由 a16z 领投，Ben Horowitz 加入董事会，累计融资超 1.2 亿美元。Linq 让 AI 智能体可以通过短信/iMessage「像朋友一样被联系到」：Poke 去年在其上线，DoorDash、TownAI、tomo 等现在都在 Linq 上运行智能体，客户累计处理消息超 10 亿条；DoorDash 用它在一个对话里帮用户找餐、建购物车并结账。Linq 已成为苹果消息服务提供商（Apple Messaging Service Provider），并新推 HD Calling，让智能体打出接近手机音质的电话，还为智能体提供实体计算设施以操作软件，Kernel 是首批电脑操作客户。看点：「发短信/打电话给 AI 办事」正成为新入口，面向商家的对话式智能体搭建、客服外呼与预约代办服务机会增多。",
+   "links": [
+    "https://x.com/elliott__potter/status/2123101308232044770",
+    "https://x.com/i/trending/2123107517685178704"
+   ],
+   "topic": "linq-90m-series-b-a16z-agents-messaging",
+   "firstSeen": "2026-11-19T01:53:42+08:00"
   }
  ],
- "lastChecked": "2026-11-19T01:41:04+08:00"
+ "lastChecked": "2026-11-19T01:53:42+08:00"
 }
