@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T20:24:11+08:00",
+ "lastUpdated": "2026-11-18T21:01:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51480,7 +51480,18 @@
    ],
    "topic": "us-chinese-ai-model-disclosure-rule-2026-11",
    "firstSeen": "2026-11-18T20:24:11+08:00"
+  },
+  {
+   "id": "814baa6f47",
+   "title": "开源代码托管平台 Codeberg 整站断网：域名被注册商 NameSilo 暂停并转交滥用团队，HN 235 分热议",
+   "summary": "11 月 18 日，GitHub 的非营利开源替代 Codeberg 官方状态号确认 codeberg.org 完全无法访问：域名注册在 NameSilo，从账户里「整个消失」，随后注册商确认域名被暂停、案件已转交滥用团队，仍在等最终决定。HN 讨论区有人给出临时绕行办法（在 hosts 里把 codeberg.org 指向官方 IP），并热议注册商/CDN 凭投诉随意下架的风险。看点：独立开发者和小站把域名、托管压在单一服务商上的风险被再次放大；「多注册商备份 + 域名/DNS 健康监控 + 依赖源镜像」的可靠性工具和服务有现实需求。",
+   "links": [
+    "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+    "https://news.ycombinator.com/item?id=50544261"
+   ],
+   "topic": "codeberg-domain-suspended-namesilo-2026-11",
+   "firstSeen": "2026-11-18T21:01:50+08:00"
   }
  ],
- "lastChecked": "2026-11-18T20:24:11+08:00"
+ "lastChecked": "2026-11-18T21:01:50+08:00"
 }
