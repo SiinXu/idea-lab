@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T07:12:24+08:00",
+ "lastUpdated": "2026-11-19T07:55:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51948,7 +51948,29 @@
    ],
    "topic": "onehouse-lakegres-vector-search",
    "firstSeen": "2026-11-19T07:12:24+08:00"
+  },
+  {
+   "id": "53c12fea74",
+   "title": "OpenAI 公开内部研究用 AI 数据：编码 Agent 独立完成 2–4 小时任务的比例从 3 月的 23% 升到 46%，研究员人均日花费中位数约 2400 美元",
+   "summary": "OpenAI 今天发布其研究团队使用 AI 的最新数据：研究员的 AI 使用量仍在指数增长，Agent 能独立完成的任务越来越长——2–4 小时任务成功率 46%（3 月为 23%），4–8 小时任务 35%（3 月为 13%）；10 月研究员每日 AI 花费中位数约 2400 美元，不少人表示宁可少 40% 的团队人手也要保留这些工具。同时强调关键决策仍需人类参与，安全相关投入自 1 月起增加 77%，并公开四层防护体系、呼吁行业透明披露 AI 自我改进风险。看点：「长任务 Agent」的可靠性在半年内翻倍，按任务时长计费、把 2–8 小时的外包活交给 Agent 的服务会更可行。",
+   "links": [
+    "https://x.com/OpenAI/status/2123191365983248653",
+    "https://x.com/i/trending/2123198257639698697"
+   ],
+   "topic": "openai-research-agents-46pct",
+   "firstSeen": "2026-11-19T07:55:38+08:00"
+  },
+  {
+   "id": "bb36e395f4",
+   "title": "Architect Labs 发布 Frostbite：由 AI Agent 集群从理论一路设计到版图的「交互网」CPU，25 个负载上能效比平均为同类 Arm CPU 的 4.6 倍",
+   "summary": "Architect Labs 称，他们只给 Agent 提供交互网（interaction nets）理论，Agent 集群就从零共同设计出指令集和芯片架构，并完成设计、验证、优化直到最终 GDS 版图。官方数据显示，在 25 个工作负载上每瓦性能平均为同类 Arm CPU 的 4.6 倍，在未见过的任务上优势更大，矩阵运算、搜索类问题最高约 20 倍；设计依靠局部重写和显式依赖实现大规模并行，省去大缓存和锁等开销。团队计划推出 FPGA 体验环境、操作系统支持，并开源 RTL 和 ISA。看点：继 OpenAI 用模型辅助芯片设计后，「Agent 端到端造专用芯片」成为新的叙事，数据为厂商自报。",
+   "links": [
+    "https://x.com/architectlabs/status/2123187520276152487",
+    "https://x.com/i/trending/2123179523847962664"
+   ],
+   "topic": "architect-labs-frostbite-cpu",
+   "firstSeen": "2026-11-19T07:55:38+08:00"
   }
  ],
- "lastChecked": "2026-11-19T07:12:24+08:00"
+ "lastChecked": "2026-11-19T07:55:38+08:00"
 }
