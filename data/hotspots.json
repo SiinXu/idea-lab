@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T11:53:47+08:00",
+ "lastUpdated": "2026-11-18T12:08:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51226,7 +51226,17 @@
    ],
    "topic": "first-person-labs-second-seed-2026-11-17",
    "firstSeen": "2026-11-18T11:53:47+08:00"
+  },
+  {
+   "id": "9ea6266113",
+   "title": "首届 SGLang Summit 发布 SGLang v1.0 和 Miles v0.2：开源推理引擎已被 332 家机构使用，Meta 用它支撑数十亿用户的线上推理",
+   "summary": "开源大模型推理框架 SGLang 在旧金山举办首届 SGLang Summit（两天、2000 多人参会、90 多场技术演讲），正式发布 SGLang v1.0 和强化学习框架 Miles v0.2，并宣布 SGLang 联盟九家创始成员：英伟达、AMD、英特尔、谷歌、Meta、Thinking Machines、Cloudflare、Modal、RadixArk。官方称 SGLang 已被 332 家机构采用，Meta 用它跑服务数十亿用户的生产推理，Modal、Cloudflare、LinkedIn 等分享了落地经验。看点：开源推理栈走向 1.0 稳定版，围绕 SGLang 的部署、调优、托管推理和 RL 训练服务会更成熟，降低跑开源模型的成本门槛。",
+   "links": [
+    "https://x.com/sgl_project/status/2122736431009595422"
+   ],
+   "topic": "sglang-summit-v1-2026-11-17",
+   "firstSeen": "2026-11-18T12:08:03+08:00"
   }
  ],
- "lastChecked": "2026-11-18T11:53:47+08:00"
+ "lastChecked": "2026-11-18T12:08:03+08:00"
 }
