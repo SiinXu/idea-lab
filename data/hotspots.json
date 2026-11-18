@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T13:08:08+08:00",
+ "lastUpdated": "2026-11-18T14:42:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51313,7 +51313,19 @@
    ],
    "topic": "meta-muse-australia-launch-2026-11-17",
    "firstSeen": "2026-11-18T13:08:08+08:00"
+  },
+  {
+   "id": "b891f3a3e2",
+   "title": "腾讯混元 Hy4 flash 开源权重上线 Hugging Face：224B 总参 / 12B 激活 MoE，提供 FP8 版和基座模型，可本地部署",
+   "summary": "腾讯在 Hugging Face 公开了 Hy4 flash 的模型权重，包括指令版 tencent/Hy4-flash、FP8 量化版 Hy4-flash-FP8 和基座模型 Hy4-flash-base，非私有、无需申请即可下载（许可证标注为 other，需看腾讯自有条款）。Hy4 flash 于 11 月 16 日发布：MoE 架构总参数 224B、每 token 激活 12B，原生多模态、100 万上下文，API 输入每百万 token 约 0.07 美元，盲测办公任务满意度接近 Claude Haiku。看点：便宜又能本地跑的中国开源模型再添一员，适合做文档、PPT、简单 Agent 的私有化部署和低成本推理服务，也会推动 vLLM/SGLang 适配和量化分发生态。",
+   "links": [
+    "https://huggingface.co/tencent/Hy4-flash",
+    "https://huggingface.co/tencent/Hy4-flash-FP8",
+    "https://huggingface.co/tencent/Hy4-flash-base"
+   ],
+   "topic": "tencent-hy4-flash-open-weights-hf-2026-11",
+   "firstSeen": "2026-11-18T14:42:46+08:00"
   }
  ],
- "lastChecked": "2026-11-18T13:08:08+08:00"
+ "lastChecked": "2026-11-18T14:42:46+08:00"
 }
