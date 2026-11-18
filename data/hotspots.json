@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T04:43:43+08:00",
+ "lastUpdated": "2026-11-19T05:02:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51836,7 +51836,19 @@
    ],
    "topic": "resolve-ai-sre-1-incident-rca-model",
    "firstSeen": "2026-11-19T04:43:43+08:00"
+  },
+  {
+   "id": "9ff8a7176c",
+   "title": "Bespoke Labs 发布多智能体协作基准 MAC Bench：8 个前沿模型智能体组队只比单兵略强，而且「互不说话」的团队反而得分更高",
+   "summary": "Bespoke Labs 推出 Multi Agent Coordination Bench，用 12 个每个 4 小时的长任务（设计火星采样返回任务并写飞控软件、恢复大停电电网、空管、僵尸防御等）测试 Opus 5.5、GPT-6.1 Sol、Gemini 4 Argon 等前沿模型的团队协作能力，任务设计成每个智能体的工作都依赖队友。结果：单个智能体平均 0.35 分，8 个智能体互相沟通的团队 0.42 分，8 个不沟通的团队却有 0.44 分，只有 Opus 能从互发消息中获益；8 人团队成本是单兵的 8.8 倍，但在 36 组任务-模型组合中有 30 组能以中位数 2.2 倍的速度追上单兵最终分数。看点：「多智能体群」目前主要靠堆人手提速而非真协作，智能体之间的任务拆分、共享状态、冲突合并工具仍是空白，适合做协作编排层和评测服务。",
+   "links": [
+    "https://x.com/bespokelabsai/status/2123099143996616741",
+    "https://x.com/madiator/status/2123112450866454550",
+    "https://x.com/i/trending/2123145813258035560"
+   ],
+   "topic": "bespoke-labs-multi-agent-coordination-bench",
+   "firstSeen": "2026-11-19T05:02:16+08:00"
   }
  ],
- "lastChecked": "2026-11-19T04:43:43+08:00"
+ "lastChecked": "2026-11-19T05:02:16+08:00"
 }
