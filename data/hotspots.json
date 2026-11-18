@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T23:53:48+08:00",
+ "lastUpdated": "2026-11-19T00:17:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51536,7 +51536,19 @@
    ],
    "topic": "nginx-http2-rce-cve-2026-11",
    "firstSeen": "2026-11-18T23:53:48+08:00"
+  },
+  {
+   "id": "1968c708cf",
+   "title": "Anthropic 上市前夕遭联名炮轰：CAIS、FLI 发起「MisAnthropic 声明」，Hugging Face 联创、Gary Marcus、Lessig 等签名，指其打着安全旗号冒进研发自我改进 AI",
+   "summary": "11 月 18 日，在 Anthropic 准备 IPO 之际，Center for AI Safety（CAIS）与未来生命研究所（FLI）等推动发布「MisAnthropic Statement」，称「Anthropic 不是一家安全的 AI 公司，我们必须拒绝它以更大利益之名积累权力的鲁莽尝试」，批评其一边警告递归自我改进（RSI）AI 的危险、一边全力研发。FLI 称签名者包括 Hugging Face 联合创始人 Thomas Wolf、法学家 Lawrence Lessig、Gary Marcus、Beff Jezos 和 FLI 领导层等，X 新闻摘要还提到 CAIS 的 Dan Hendrycks、UC 伯克利 Will Fithian、哈佛 Stephen Casper；Techmeme 已收录。值得注意的是签名横跨 AI 安全派与加速派。看点：头部 AI 公司 IPO 叙事将面对更多「安全品牌 vs 商业扩张」的公开质疑，AI 治理、合规评估和第三方安全审计的关注度会继续上升。",
+   "links": [
+    "https://x.com/FLI_org/status/2123080853135794217",
+    "https://x.com/Techmeme/status/2123084647727026354",
+    "https://x.com/i/trending/2123085234254078016"
+   ],
+   "topic": "misanthropic-statement-anthropic-ipo-2026-11",
+   "firstSeen": "2026-11-19T00:17:36+08:00"
   }
  ],
- "lastChecked": "2026-11-18T23:53:48+08:00"
+ "lastChecked": "2026-11-19T00:17:36+08:00"
 }
