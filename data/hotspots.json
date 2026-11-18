@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T01:29:05+08:00",
+ "lastUpdated": "2026-11-19T01:41:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51704,7 +51704,31 @@
    ],
    "topic": "artificial-movie-trailer-guadagnino-2026-11",
    "firstSeen": "2026-11-19T01:29:05+08:00"
+  },
+  {
+   "id": "c7d3ecb006",
+   "title": "OpenAI 公布用自家模型做芯片设计：帮 AMD 旗舰 GPU IP 在不到 5 个月里提升最多 14% PPA，自研推理芯片 Jalapeño 实测获益，并与 Synopsys 合作推 GPT-Synopsys",
+   "summary": "11 月 18 日 OpenAI 官方发文称，与 AMD 合作时，其模型在不到五个月内为 AMD 旗舰 GPU IP 找到最多 14% 的 PPA（性能、功耗、面积）改进，而这些设计此前已由 AMD 工程师优化多年；同样方法也改进了 OpenAI 首款自研推理芯片 Jalapeño，收益已在真实硅片上验证。OpenAI 还公布了新的芯片设计评测，显示模型在部分芯片设计任务上进步，并宣布与 EDA 巨头 Synopsys 合作开发 GPT-Synopsys，把模型能力接入其设计与验证工具，面向更多芯片设计师。官方帖 10 万+浏览，市场解读为「5 个月拿到一年的芯片改进」。看点：AI 进入 EDA 核心环节，芯片设计自动化、验证与 IP 优化服务会成为 AI 落地的高价值赛道。",
+   "links": [
+    "https://openai.com/index/advancing-chip-design-with-our-models/",
+    "https://x.com/OpenAI/status/2123100386638877054",
+    "https://x.com/i/trending/2123104089676603448"
+   ],
+   "topic": "openai-ai-chip-design-amd-14pct-gpt-synopsys",
+   "firstSeen": "2026-11-19T01:41:04+08:00"
+  },
+  {
+   "id": "0ed4512d96",
+   "title": "比特币政策研究所更名「Finney 开放技术基金会」：以 Hal Finney 命名，在华盛顿为开源 AI、加密通讯和数字现金游说",
+   "summary": "11 月 17 日，Bitcoin Policy Institute（BPI）宣布更名为 Finney Foundation for Open Technology，以比特币早期开发者 Hal Finney 命名，称「华盛顿正在决定谁能构建和使用强大技术，我们认为答案应该是所有人」。新机构的范围扩展到开源 AI、数字现金、加密通讯和去中心化计算，比特币仍是重点，原 BPI 项目继续保留；将向决策者提供研究、政策建议和教育项目，主张个人掌控自己依赖的工具、在开放中建设。官宣帖浏览量约 14 万。看点：开源 AI 政策游说力量在增加，与「闭源更安全」阵营的争论（Anthropic、加州诉 OpenAI 等）将更激烈。",
+   "links": [
+    "https://x.com/joinFinney/status/2122708482746880491",
+    "https://x.com/joinFinney/status/2122708484852416605",
+    "https://x.com/i/trending/2122717385379701141"
+   ],
+   "topic": "finney-foundation-open-technology-rebrand",
+   "firstSeen": "2026-11-19T01:41:04+08:00"
   }
  ],
- "lastChecked": "2026-11-19T01:29:05+08:00"
+ "lastChecked": "2026-11-19T01:41:04+08:00"
 }
