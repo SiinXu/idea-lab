@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T03:31:57+08:00",
+ "lastUpdated": "2026-11-19T03:38:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51800,7 +51800,18 @@
    ],
    "topic": "gao-report-ai-chatbots-terror-plans-hassan",
    "firstSeen": "2026-11-19T03:31:57+08:00"
+  },
+  {
+   "id": "abe03c170f",
+   "title": "谷歌 DeepMind 向 AI Ultra 用户开放世界模型 Genie 4：边逛边打字改天气、加角色，首次配上实时原生音频，并上线社区画廊可二创",
+   "summary": "谷歌 11 月 18 日更新 Project Genie：符合条件的 Google AI Ultra 订阅者可首次用上 Genie 4，在浏览器里生成可走动的交互世界，并在探索途中输入新提示词实时改环境，比如切换天气、放进角色或改变剧情走向，画面同时配上随场景变化的环境音和角色对白。新增「Project Genie 智能体」用对话帮你搭世界，社区画廊可发布、探索和二创别人的作品；Genie 3 也升级为单次最长 3 分钟（原 60 秒）、可串联多个世界、支持全景图起步。AI Pro 用户可先排队。看点：可交互世界生成开始走向大众订阅产品，互动短剧/小游戏原型、文旅与教育场景的虚拟导览、提示词模板与世界作品分享社区都有早期机会。",
+   "links": [
+    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+    "https://news.ycombinator.com/item?id=50550415"
+   ],
+   "topic": "google-deepmind-genie-4-project-genie-ultra",
+   "firstSeen": "2026-11-19T03:38:45+08:00"
   }
  ],
- "lastChecked": "2026-11-19T03:31:57+08:00"
+ "lastChecked": "2026-11-19T03:38:45+08:00"
 }
