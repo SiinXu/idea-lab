@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T01:53:42+08:00",
+ "lastUpdated": "2026-11-19T02:30:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51739,7 +51739,33 @@
    ],
    "topic": "linq-90m-series-b-a16z-agents-messaging",
    "firstSeen": "2026-11-19T01:53:42+08:00"
+  },
+  {
+   "id": "d94277f393",
+   "title": "Google Labs 推出 Stitch Loop：上线后仍 24 小时盯生产数据的「产品智能体」，自动沙箱测试修复并提 PR，人工批准才合并",
+   "summary": "11 月 18 日，Google 与 Stitch 官方账号发布 Stitch Loop 实验：普通编码智能体在代码上线后就停手，Stitch Loop 则持续监控生产数据，围绕用户设定的目标循环工作，在沙箱里测试修复并开 PR，由人审批。内置安全（基于 Gemini 4 Carbon 和 DeepMind CodeMender）、延迟、无障碍三类 Loop，也可自定义。据转发帖，它可接入 GitHub 和实时使用数据、支持 180+ 集成；全球候补名单今日开放，Google AI Ultra 用户优先。看点：AI 编程从「写完代码」走向「对指标负责」，面向小团队的转化率/性能/安全持续优化代运营、以及为特定行业做现成 Loop 模板都有机会。",
+   "links": [
+    "https://x.com/stitchbygoogle/status/2123100817863663686",
+    "https://x.com/Google/status/2123101724047200432",
+    "https://stitch.google.com/loop",
+    "https://x.com/i/trending/2123113793958146552"
+   ],
+   "topic": "google-stitch-loop-product-agent-2026-11",
+   "firstSeen": "2026-11-19T02:30:34+08:00"
+  },
+  {
+   "id": "b0d586a03b",
+   "title": "Reson8 开源语音转文字模型 Rumble-2-Flash：专攻口音、抢话、电话和噪音场景，40+ 语言、Apache 2.0、可在手机本地运行",
+   "summary": "Reson8 发布开放权重的 Rumble-2-Flash 语音识别模型，作者 @raoulritterr 称其优于 20 倍体量的模型、小到可在手机上运行，已上 Hugging Face。@omarsar0 介绍它专门用重口音、多人交叠说话、电话录音和背景噪音等「真实难音频」训练，覆盖 40+ 语言，Apache 2.0 许可，可本地处理保护隐私；开发者 @hiarun02 用印度口音实测并分享录屏。据 X 自动生成的新闻摘要，模型仅 0.5B 参数，在 14 种英语口音的求助热线通话上准确率约 92%。看点：免费可商用的本地语音识别降低了电话客服质检、会议纪要、外语口音转写等小工具的成本，适合做隐私敏感行业（医疗、法律、热线）的离线方案。",
+   "links": [
+    "https://x.com/raoulritterr/status/2123053360773271563",
+    "https://x.com/omarsar0/status/2123060794124386461",
+    "https://x.com/hiarun02/status/2123060499063726505",
+    "https://x.com/i/trending/2123077207887065519"
+   ],
+   "topic": "reson8-rumble-2-flash-open-stt-2026-11",
+   "firstSeen": "2026-11-19T02:30:34+08:00"
   }
  ],
- "lastChecked": "2026-11-19T01:53:42+08:00"
+ "lastChecked": "2026-11-19T02:31:57+08:00"
 }
