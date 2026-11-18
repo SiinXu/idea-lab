@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T17:09:55+08:00",
+ "lastUpdated": "2026-11-18T17:55:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51392,7 +51392,28 @@
    ],
    "topic": "inference-optimisation-agent-skill-2026-11",
    "firstSeen": "2026-11-18T17:09:55+08:00"
+  },
+  {
+   "id": "4220ee6225",
+   "title": "KPMG 首次用 AI 审计英国上市公司：100 多个自主 AI 代理与传统团队并行审计一家富时 250 公司，「AI 能挖得深得多」",
+   "summary": "据《金融时报》独家报道，四大会计师事务所之一 KPMG 完成了首次基于 AI 的英国上市公司审计试点：针对一家未具名的富时 250 公司财报，部署 100 多个自主 AI 代理负责数据收集、分析和底稿记录，同时与常规审计团队并行对照，结果显示 AI 能比人工团队挖得更深。看点：审计这类高度依赖数据和流程的专业服务开始被 Agent 群体实质性接手，面向中小会计所、财务团队的「AI 审计/对账/底稿助手」会迎来需求窗口。",
+   "links": [
+    "https://x.com/i/status/2122925624138613190",
+    "https://x.com/i/status/2122958032296726790"
+   ],
+   "topic": "kpmg-ai-audit-uk-2026-11",
+   "firstSeen": "2026-11-18T17:55:45+08:00"
+  },
+  {
+   "id": "e6911155a3",
+   "title": "Claude Code 推出实验性 Code Mode：Claude 写 JavaScript 脚本把 Bash、Read、Edit 等工具串起来并行跑，长命令执行中也能回复你",
+   "summary": "Anthropic 在 Claude Code v2.1.323 及之后版本加入实验性 Code Mode，用环境变量 CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1 开启。开启后 Claude 不再逐个调用工具，而是写脚本把多个工具组合起来、部分并行执行，从而减少 token 消耗，并能在长命令还在跑时继续和用户对话。看点：「用代码编排工具调用」正成为编程 Agent 的主流范式（此前 OpenCode 等也有类似模式），会进一步降低长任务成本、提高自动化复杂度。",
+   "links": [
+    "https://x.com/i/status/2122801681939234950"
+   ],
+   "topic": "claude-code-code-mode-2026-11",
+   "firstSeen": "2026-11-18T17:55:45+08:00"
   }
  ],
- "lastChecked": "2026-11-18T17:09:55+08:00"
+ "lastChecked": "2026-11-18T17:55:45+08:00"
 }
