@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-17T16:31:50+08:00",
+ "lastUpdated": "2026-11-18T17:55:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -50370,7 +50370,1050 @@
    ],
    "topic": "ai-coding-comprehension-debt-2026-11-17",
    "firstSeen": "2026-11-17T16:31:50+08:00"
+  },
+  {
+   "id": "633264a2cf",
+   "title": "Chamath 喊话「所有现有软件都该重写」：前 AI 时代的低效和不安全还能忍，AI 时代会直接拖垮企业；其 8090 Labs 今年为「AI 原生软件工厂」融资 1.35 亿美元",
+   "summary": "风投人 Chamath Palihapitiya 发帖称，旧软件的低效与安全隐患在 AI 时代将变成致命问题，主张自上而下重写，并内建可审计、漂移检测和验证能力。他 2024 年创办的 8090 Labs 今年融资 1.35 亿美元，做 AI 原生「软件工厂」平台。这一表态正赶上 X 上关于「软件工厂」和「理解债」的集中讨论。",
+   "links": [
+    "https://x.com/i/trending/2122604656241356916"
+   ],
+   "topic": "chamath-rewrite-all-software-8090-2026-11-17",
+   "firstSeen": "2026-11-17T16:57:57+08:00"
+  },
+  {
+   "id": "0b811fc55d",
+   "title": "音乐人用 Claude Fable 5.2 把 64 段自己的单音人声拼成整首《All Star》：无伴奏，视频网格每格一张脸唱一个音",
+   "summary": "开发者兼音乐人 A.J. 录下自己音域内的 64 段人声片段，让 Anthropic 的 Fable 5.2 编排拼接成完整的《All Star》，并发布每个音对应一张自己脸的网格视频；他此前还做过用 259 段模拟喉音合成、靠听众大脑「脑补」成曲的实验。",
+   "links": [
+    "https://x.com/i/trending/2122606227356270839"
+   ],
+   "topic": "all-star-64-voice-clips-fable-2026-11-17",
+   "firstSeen": "2026-11-17T16:57:57+08:00"
+  },
+  {
+   "id": "a946282641",
+   "title": "路透调查 300 多份论文、专利和文件：中国企业用「蒸馏」大量调用 GPT-4、o1 等美国模型输出训练国产模型，已从实验室走向产业化",
+   "summary": "路透审阅 300 多份论文、专利和文件后发现，中国机构通过蒸馏技术批量生成美国顶尖模型的回答、代码和解题过程，用来训练更小更高效的国产模型（如阿里 Qwen2.5），并已有公司自动化采集数据，政策层面也在推动。美国官员称这接近窃取知识产权，可能削弱 11 月 16 日新出的芯片管制；但蒸馏通常难以完全追平领先模型，在其他地方也属合法做法。",
+   "links": [
+    "https://x.com/i/trending/2122615723902259648"
+   ],
+   "topic": "reuters-china-distillation-us-models-2026-11-17",
+   "firstSeen": "2026-11-17T17:14:18+08:00"
+  },
+  {
+   "id": "9076b72f32",
+   "title": "芬兰卫星公司 ICEYE 以 20.5 亿欧元要约收购意大利火箭商 Avio：每股 41 欧元、溢价 21.3%，雷达卫星与 Vega 火箭打通「端到端」航天",
+   "summary": "ICEYE 通过其意大利子公司对 Avio S.p.A. 全部股份发出每股 41 欧元的要约，估值 20.5 亿欧元，较 11 月 16 日收盘价溢价 21.3%。若完成，ICEYE 的合成孔径雷达卫星情报业务将与 Avio 的 Vega 火箭和推进技术合并，形成从发射到数据的一体化航天能力。",
+   "links": [
+    "https://x.com/i/trending/2122612354592727468"
+   ],
+   "topic": "iceye-bid-avio-2026-11-17",
+   "firstSeen": "2026-11-17T17:14:18+08:00"
+  },
+  {
+   "id": "05f3253443",
+   "title": "Leopold Aschenbrenner 的 AI 基金 Q3 持仓大砍 92%：清仓闪迪、美光、台积电，七成多资产押在 SharonAI、Bloom Energy 看涨期权等三笔",
+   "summary": "前 OpenAI 研究员 Aschenbrenner 2024 年创办的 AI 主题基金最新 13F 显示，Q3 完全退出 Sandisk、美光、台积电等仓位，并减持 IREN、CleanSpark，转向看涨期权，73.7% 资产集中在 SharonAI 股票、Bloom Energy 看涨期权等三笔押注。市场把这看作「AI 基建交易」风向的一个信号。",
+   "links": [
+    "https://x.com/i/trending/2122454678462214361"
+   ],
+   "topic": "aschenbrenner-fund-q3-13f-cut-2026-11-17",
+   "firstSeen": "2026-11-17T17:28:55+08:00"
+  },
+  {
+   "id": "9018952ccd",
+   "title": "纳德拉在播客中承认：Anthropic 的 Claude Code 让自家 VS Code 的地位暗淡了",
+   "summary": "微软 CEO 萨提亚·纳德拉在一次播客访谈中谈到，Claude Code 让用户用自然语言描述任务，由它在终端里自己探索代码库、改文件、跑测试并反复迭代。不少开发者表示现在很少打开 VS Code，主要只用它审阅 AI 提出的改动；也有人仍坚持在编辑器里调试和掌控细节。讨论认为编程习惯正快速转向「验证与监督」。",
+   "links": [
+    "https://x.com/i/trending/2122622282950484027"
+   ],
+   "topic": "nadella-claude-code-vscode-2026-11-17",
+   "firstSeen": "2026-11-17T17:40:04+08:00"
+  },
+  {
+   "id": "a387cb341b",
+   "title": "Uber 七成以上 PR 已由 AI 智能体提交、每天跑 3 万次技能调用：开发重心转向「人机协同工作台」",
+   "summary": "X 上关于「软件工厂」的讨论提到，Uber 超过 70% 的 Pull Request 由智能体生成，每天执行约 3 万次技能调用；工程师像管理一支通宵干活的大团队一样管理几十个智能体，被权限请求叫醒去批 PR。Nate Silver 认为 2025 年中以来编程能力进步明显，Yaron Minsky 则指出设计与代码整洁度上的张力。讨论焦点转向人机协同工作台：响应快、统一收件箱处理智能体提问、方便多任务，让人负责意图和判断。",
+   "links": [
+    "https://x.com/i/trending/2122448318051553488"
+   ],
+   "topic": "uber-70pct-agent-prs-human-agent-workspace-2026-11-17",
+   "firstSeen": "2026-11-17T18:02:23+08:00"
+  },
+  {
+   "id": "f6b1ee1aef",
+   "title": "Grok 聊天机器人在 X 上停摆数小时：11 月 16 日晚起不再回应 @提及，Downdetector 报告激增，官方状态页却显示「无事故」",
+   "summary": "SpaceXAI 旗下的 Grok 从美东时间 11 月 16 日晚约 10 点起停止回应 X 上的 @提及，一直持续到 17 日凌晨，Downdetector 上的故障报告和用户抱怨大量增加。网友拿它和同期美国多家银行的系统故障一起调侃，调查记者 Scott Stedman 也发帖说「Grok 挂了」。SpaceXAI 状态页未显示任何事故；到 UTC 早上部分监测站显示有所恢复，官方至今没有给出原因。",
+   "links": [
+    "https://x.com/i/trending/2122555940914221345"
+   ],
+   "topic": "grok-outage-2026-11-17",
+   "firstSeen": "2026-11-17T18:16:03+08:00"
+  },
+  {
+   "id": "02cec6b41d",
+   "title": "第 29 届非洲科技节在开普敦开幕，主打 AI：45 个非洲国家 1.35 万多名代表参会，OpenAI、亚马逊、Meta 到场",
+   "summary": "非洲科技节（Africa Tech Festival 2026）今天在开普敦国际会议中心开幕，会期到 11 月 19 日，议题覆盖电信、数据中心、AI、网络安全、初创企业和数字化转型。南非副总统马沙蒂莱线上致辞，呼吁非洲用本土 AI 人才和本地语言解决自己的问题，并加大投资和合作。豪登省 AI 社区也借机把本地创新者和全球机会对接起来。与此同时，总统拉马福萨正率团在硅谷谈 AI 合作。",
+   "links": [
+    "https://x.com/i/trending/2122631818671525938"
+   ],
+   "topic": "africa-tech-festival-2026-cape-town-2026-11-17",
+   "firstSeen": "2026-11-17T18:25:15+08:00"
+  },
+  {
+   "id": "04b58d257c",
+   "title": "Anthropic 上市在即，Ashton Kutcher 的 Sound Ventures 或成大赢家：2023 年起投入约 4.35 亿美元，按 1.4 万亿美元估值这部分股份或值 70 亿美元",
+   "summary": "演员 Ashton Kutcher 与 Guy Oseary 联合创办的 Sound Ventures 从 2023 年起向 Anthropic 投了约 4.35 亿美元，另向 OpenAI 投入 3000 万美元，后者如今估值已超 12 亿美元。若 Anthropic 按目标的 1.4 万亿美元估值以代码 ANT 在纳斯达克上市，这笔持股可能值 70 亿美元左右，不过收益要按基金结构分给出资人。Kutcher 今年早些时候已把重心转向一家新的 AI 基础设施公司。网上一边夸他眼光准，一边讨论早期押注 AI 实验室的回报规模。",
+   "links": [
+    "https://x.com/i/trending/2122639696735989816"
+   ],
+   "topic": "kutcher-sound-ventures-anthropic-ipo-stake-2026-11-17",
+   "firstSeen": "2026-11-17T18:43:05+08:00"
+  },
+  {
+   "id": "a1682bf83f",
+   "title": "开源离线求生资料库 Lastbook 爆火：一天被下载 100TB，31 分钟就跑掉 8.2TB；急救、净水、灾难预案、离线百科、地图、教学视频全装本机",
+   "summary": "Lastbook 把红十字会的急救知识、世卫组织的饮水安全指南、FEMA 的灾难预案、离线百科、详细地图和实操视频打包，可在 Mac、Windows 和 Linux 上本地运行，不需要联网。作者 farbood 称一天被下载约 100TB，最快 31 分钟就跑出 8.2TB。安装包从几 GB 到几百 GB 不等，还可选装一个 17GB 的本地 AI。项目在 GitHub 开源并欢迎贡献，比如急救员来源的医学文章；网友已在讨论用旧平板加太阳能做成断网也能用的应急终端。",
+   "links": [
+    "https://x.com/i/trending/2122535076034686999"
+   ],
+   "topic": "lastbook-offline-survival-library-2026-11-17",
+   "firstSeen": "2026-11-17T18:59:11+08:00"
+  },
+  {
+   "id": "8af8d52538",
+   "title": "Anthropic 的 Claude Code 团队约 90% 代码由 Claude 编写和审查：靠端到端测试、属性测试、差分测试做验证闭环，智能体最多自修 3 次再交给人",
+   "summary": "Claude Code 团队分享，目前约 90% 的代码编写和审查交给 Claude。支撑这一点的是一套验证闭环：模拟真实用户流程的端到端测试、随机输入的属性测试，以及针对系统改动的差分测试。提交前用一个「verify」技能跑关键检查，配合有针对性的可靠性清单；智能体最多尝试修三次，仍不行就请人介入，核心规则始终在主分支上受保护。讨论认为，AI 写代码的关键已从生成转向验证。",
+   "links": [
+    "https://x.com/i/trending/2122475475020714038"
+   ],
+   "topic": "claude-code-team-90pct-verification-loops-2026-11-17",
+   "firstSeen": "2026-11-17T18:59:11+08:00"
+  },
+  {
+   "id": "93b75f8ffa",
+   "title": "Solana 基金会控股 CoinGecko：拿下这家加密数据平台多数股权，计划在网站、GeckoTerminal 和 App 里加入基于 Solana 的交易",
+   "summary": "Solana 基金会宣布对 CoinGecko 进行多数股权投资。CoinGecko 是头部加密数据平台，每月有数千万用户和约 18 万名开发者在用。双方计划加强链上资产、现实世界资产（RWA）和衍生品的数据基础设施，推出新的市场情报产品，并在网站、GeckoTerminal 和 App 内上线由 Solana 驱动的交易功能。CEO Bobby Ong 表示对合作感到兴奋。",
+   "links": [
+    "https://x.com/i/trending/2122622283529310705"
+   ],
+   "topic": "solana-foundation-majority-stake-coingecko-2026-11-17",
+   "firstSeen": "2026-11-17T18:59:11+08:00"
+  },
+  {
+   "id": "83d83e28e5",
+   "title": "AI 替你打医疗电话、排队扯保险：August 发短信就能约医保内门诊、申诉理赔，内测期已替用户在电话里等了 2.4 万多分钟",
+   "summary": "August 让用户用短信说明需求，比如预约医保网络内的门诊或对保险理赔提出申诉，再由 AI 去打电话、在线上排队等待并把事情办完。内测期间它已替早期用户在电话里等了 2.4 万多分钟，其中一位用户单次等了 366 分钟，另一位追回了 1255 美元理赔。公司获得 Accel 等机构 1200 万美元投资，免费内测版建立在一个已帮 1000 万人看懂自身健康状况的平台上，涉及临床的部分由持证医生把关。",
+   "links": [
+    "https://x.com/i/trending/2122649441413005780"
+   ],
+   "topic": "august-ai-healthcare-calls-insurance-2026-11-17",
+   "firstSeen": "2026-11-17T19:25:42+08:00"
+  },
+  {
+   "id": "17c3a70d8d",
+   "title": "Solana 上线六年后正式摘掉「Beta」标签，进入 1.0：Alpenglow 带来 150 毫秒最终确认，Firedancer 客户端加强容错",
+   "summary": "Solana 于 11 月 16 日宣布进入 1.0 版本，正式承认网络自上线以来就在生产环境运行。支撑这一点的是两项升级：Alpenglow 把交易最终确认时间缩短到约 150 毫秒，Firedancer 提供了更稳健的验证者客户端。普通用户的余额、钱包和应用都不受影响，开发者则可以在多客户端架构下更容易地协同。观察人士认为，这为支付、资产代币化以及 Kamino、Jupiter 等高速交易项目打下了更稳的基础。",
+   "links": [
+    "https://x.com/i/trending/2122657735342784665"
+   ],
+   "topic": "solana-1-0-drops-beta-2026-11-17",
+   "firstSeen": "2026-11-17T19:52:45+08:00"
+  },
+  {
+   "id": "1679ad3fc3",
+   "title": "漫威用 Webtoon 驱动的新 Marvel Comics App 永久取代 Marvel Unlimited：支持竖屏条漫阅读，月费 9.99 / 12.99 美元",
+   "summary": "漫威娱乐 11 月 16 日推出新版 Marvel Comics App，由 Webtoon 提供技术支持，永久取代 Marvel Unlimited，手机和网页（marvelcomicsapp.com）都能用。新 App 提供个性化推荐、追更清单，以及翻页和竖向滚动两种阅读方式。订阅分两档：标准版每月 9.99 美元，新刊上架 90 天后可看；Ultimate 版每月 12.99 美元，30 天后可看。有用户称赞旧书库迁移顺畅、阅读流畅，也有人抱怨截图受限等问题。",
+   "links": [
+    "https://x.com/i/trending/2122398585551511873"
+   ],
+   "topic": "marvel-comics-app-webtoon-replaces-unlimited-2026-11-17",
+   "firstSeen": "2026-11-17T19:52:45+08:00"
+  },
+  {
+   "id": "350a0b851c",
+   "title": "物理学家 Handmer 让 Opus 5.5 深度审读 5 万篇天体物理论文，挖出约 1000 处错误，成本约 200 美元：同行评审漏掉了数百处重大问题",
+   "summary": "物理学家 Handmer 用 AI 模型 Opus 5.5 对 5 万篇天体物理论文做深度审查，找出约 1000 处错误，其中数百处是传统同行评审没发现的重大问题。他直言同行评审「不太擅长」纠错，并认为 AI 能把定量科学的推进速度提高 1000 倍以上。整个项目花费约 200 美元，有人称赞性价比惊人；Nova Spivack 等人则提醒，AI 自己也会出错，仍需要人来把关。讨论聚焦在 AI 能否缓解科研纠错慢、难复现的问题。",
+   "links": [
+    "https://x.com/i/trending/2122652647824228432"
+   ],
+   "topic": "handmer-opus-audits-50k-astrophysics-papers-2026-11-17",
+   "firstSeen": "2026-11-17T20:11:59+08:00"
+  },
+  {
+   "id": "c27b22b55d",
+   "title": "米哈游展示会玩《崩坏：星穹铁道》的 AI 智能体：基于阿里 Qwen3-VL、只看画面和手柄操作，支线任务成功率超 80%，用于自动测试新关卡",
+   "summary": "米哈游（Hoyoverse）推出 Gamer AI，基于阿里 Qwen3-VL 模型，用数千小时游戏录像训练。它只靠屏幕画面和标准操作来玩，在《崩坏：星穹铁道》里小游戏成功率约 50%，支线任务超过 80%，多款游戏测试中表现优于 GPT-6.1 Sol 等对手。这个工具约在 11 月 13 日发布，主要用来自动测试新任务和新功能。玩家调侃它可以代刷日常、却抽不了卡，也有人讨论它对重复性任务和游戏乐趣的影响。",
+   "links": [
+    "https://x.com/i/trending/2122657731639148928"
+   ],
+   "topic": "hoyoverse-gamer-ai-honkai-star-rail-2026-11-17",
+   "firstSeen": "2026-11-17T20:11:59+08:00"
+  },
+  {
+   "id": "f275d2ed50",
+   "title": "美国三一学院哲学系全票通过：学生任何课程作业都禁止主动使用 AI，从头脑风暴到参考文献一律不行",
+   "summary": "位于哈特福德的三一学院哲学系全体教师投票决定，禁止学生在任何课程作业中主动使用 AI，理由是 AI 会削弱思考、阅读、写作、表达、推理和过有道德生活的能力。这让全系有了统一规则，推动者之一 Shane Ewegen 此前还呼吁学校从 AI 公司撤资。网上有人认为这条禁令执行不了、过于保守，也有人称赞它守住了独立完成的哲学训练。",
+   "links": [
+    "https://x.com/i/trending/2122659527564890298"
+   ],
+   "topic": "trinity-college-philosophy-bans-ai-2026-11-17",
+   "firstSeen": "2026-11-17T20:11:59+08:00"
+  },
+  {
+   "id": "d61b8b598f",
+   "title": "英国政府拍板：NHS 与 Palantir 的 3.3 亿英镑数据平台合同延长两年、2029 年终止，之后重新招标并优先英国本土供应商",
+   "summary": "英国卫生和社会保健部没有动用 2027 年的提前终止条款，而是把这份 3.3 亿英镑的合同延长两年，作为过渡，2027 年底启动新一轮采购，优先考虑英国本土供应商。官方称此举是为了培养国内技术能力、重建公众信任，同时保证候诊名单、出院协调等数据打通的业务不中断。前医生 Julia Grace Patterson 和 Good Law Project 等倡导团体称这是一场胜利。",
+   "links": [
+    "https://x.com/i/trending/2122406447749427229"
+   ],
+   "topic": "uk-nhs-palantir-contract-end-2029-2026-11-17",
+   "firstSeen": "2026-11-17T20:29:29+08:00"
+  },
+  {
+   "id": "c4e1dda983",
+   "title": "华为推出新子品牌 OSTA，首款宽屏手机 O1 Pro：麒麟 9030S、7000mAh 电池、2 亿像素主摄，11 月 20 日发布",
+   "summary": "华为新子品牌 OSTA 的首款手机 O1 Pro 采用 6.39 英寸 1.5K OLED 宽屏、超窄边框，搭载麒麟 9030S，最高 16GB 内存加 1TB 存储，配 2 亿像素主摄和 5000 万像素潜望长焦，电池 7000mAh、支持 66W 快充，机身厚 6.68 毫米、重 200 克，有三种配色。国内已开放预约，11 月 20 日正式发布时公布价格，运行带 AI 功能的鸿蒙系统。",
+   "links": [
+    "https://x.com/i/trending/2122633253060280829"
+   ],
+   "topic": "huawei-osta-o1-pro-2026-11-17",
+   "firstSeen": "2026-11-17T20:29:29+08:00"
+  },
+  {
+   "id": "b93c781ebb",
+   "title": "美银 11 月基金经理调查：科技股净超配从 37% 骤降到 12%，创 2006 年以来最大单月降幅，创纪录 38% 认为企业在 AI 上投资过度",
+   "summary": "美国银行 11 月对 169 位基金经理（管理约 4610 亿美元）的调查显示，科技股净超配比例一个月内从 37% 降到 12%，是 2006 年 6 月以来最大的月度降幅。创纪录的 38% 受访者认为企业在 AI 上投资过度，52% 预计至少一家大型云厂商很快会削减资本开支，「AI 泡沫」被列为头号风险。不过衰退担忧只有 3%，现金仓位很低，受访者更看好 2027 年的美国以外市场。",
+   "links": [
+    "https://x.com/i/trending/2122675551043301716"
+   ],
+   "topic": "bofa-fms-tech-overweight-drop-2026-11-17",
+   "firstSeen": "2026-11-17T21:17:23+08:00"
+  },
+  {
+   "id": "af7b8c5a62",
+   "title": "韩国 KOSPI 自 2 月以来首次跌破 5000 点：单日跌 2.59%、蒸发 133 万亿韩元，三星和 SK 海力士领跌，市场对 AI 开支能否持续的疑虑加深",
+   "summary": "11 月 17 日 KOSPI 收于 4968.48 点，跌 132 点，四连跌，三星电子跌 3.3%、SK 海力士跌 1.96%。美国半导体股走弱（与英伟达管理层变动和新的出口管制有关）带动抛售，指数较 6 月高点已累计下跌 47%，是 2008 年以来最陡的跌幅之一。市场正等待英伟达财报给出方向。",
+   "links": [
+    "https://x.com/i/trending/2122614167442276770"
+   ],
+   "topic": "kospi-below-5000-ai-doubts-2026-11-17",
+   "firstSeen": "2026-11-17T21:17:23+08:00"
+  },
+  {
+   "id": "91cb919755",
+   "title": "DeepMind 衍生公司 Isomorphic Labs 完成 50 亿美元 C 轮：红杉和 Greenoaks 领投、a16z 新进，距上轮 21 亿美元融资仅半年，传估值约 500 亿美元",
+   "summary": "Demis Hassabis 宣布 AI 药物研发公司 Isomorphic Labs 完成 50 亿美元 C 轮融资，由 Greenoaks 和红杉资本联合领投，a16z 等新投资者与 Alphabet 一起参投。资金将用于扩展 IsoDDE 等 AI 药物设计引擎，从头重做新药发现流程，缩短时间、降低成本。公司还没有进入人体试验，据报估值已到约 500 亿美元。",
+   "links": [
+    "https://x.com/i/trending/2122666533943955551"
+   ],
+   "topic": "isomorphic-labs-5b-series-c-2026-11-17",
+   "firstSeen": "2026-11-17T21:38:31+08:00"
+  },
+  {
+   "id": "b870137491",
+   "title": "Revolut 计划推出 4 只区块链基金：让 8000 万用户用几欧元碎片化投资私募市场",
+   "summary": "Revolut 董事长 Martin Gilbert 在伦敦 Solana Breakpoint 大会上表示，公司打算基于区块链推出 4 只基金，把私募股权等难以交易的资产切成小份额，让用户小额买入，并借助链上交易提升流动性。这建立在 Revolut 已与 Apollo、Ares 等管理人合作的平台之上。有用户担心费用、风险和 Revolut 过往的服务问题，上线时间尚未公布。",
+   "links": [
+    "https://x.com/i/trending/2122677390946304180"
+   ],
+   "topic": "revolut-blockchain-private-market-funds-2026-11-17",
+   "firstSeen": "2026-11-17T21:38:31+08:00"
+  },
+  {
+   "id": "46c7ebfa00",
+   "title": "Anthropic 应用 AI 团队给企业的建议：别按组织架构堆多智能体，单个智能体循环加按需工具通常更好、更快、更便宜，有客户运行时间减半",
+   "summary": "Anthropic 应用 AI 团队根据企业实际落地经验指出，一个智能体循环加上按需调用的轻量工具和护栏，在质量、速度和成本上通常胜过层层嵌套子智能体的多智能体设计，一位客户因此把运行时间缩短了一半。照着公司组织架构去设计智能体，容易丢失上下文、责任不清。建议先从简单做起，只有指标证明需要时才引入子智能体。",
+   "links": [
+    "https://x.com/i/trending/2122685281803334081"
+   ],
+   "topic": "anthropic-simple-single-agent-guidance-2026-11-17",
+   "firstSeen": "2026-11-17T22:01:46+08:00"
+  },
+  {
+   "id": "8d2e81d2b4",
+   "title": "X 开源代码曝光「LLM slop」打压规则：被判定为 AI 垃圾帖的回复 30 天内对非关注者降权，被标记的账号 7 天推荐受限",
+   "summary": "X 在开源仓库中公开了识别低质量 AI 生成内容的规则：帖子被标为 llm_slop_post 后会加上 30 天的 RiskyHighVizReply 标签，回复对非关注者的可见度被压低；账号被标为 llm_slop_user 则会有 7 天的 SpamHighRecall 标签，推荐范围缩小，但大粉丝量账号常常可以跳过检查。有人欢迎垃圾内容减少，也有人担心正常用 AI 辅助写作被误伤。",
+   "links": [
+    "https://x.com/i/trending/2122687266393137180"
+   ],
+   "topic": "x-llm-slop-visibility-rules-2026-11-17",
+   "firstSeen": "2026-11-17T22:01:46+08:00"
+  },
+  {
+   "id": "1d7eb6e8c9",
+   "title": "Coinbase 推出 ChatGPT 插件：美国用户可直接在对话里用自然语言查行情、管理持仓、下单股票、加密货币和衍生品，每笔订单都需确认卡片批准",
+   "summary": "新插件把 Coinbase 账户接入 ChatGPT，美国用户可以用日常语言查看市场、分析组合、设置定投并交易股票、加密货币和衍生品。每笔订单都必须经用户在确认卡片上明确批准，由人做最终决定。Coinbase 称这是在已有 AI 工具基础上，降低新手投资门槛。",
+   "links": [
+    "https://x.com/i/trending/2122700328202059985"
+   ],
+   "topic": "coinbase-chatgpt-trading-plugin-2026-11-17",
+   "firstSeen": "2026-11-17T22:46:55+08:00"
+  },
+  {
+   "id": "2a2e0905f1",
+   "title": "英伟达在 SC26 发布 DGX Spark HPC 开发套件：四台 DGX Spark 用 ConnectX-7 连成环，桌面上就有 512GB 统一内存、4 PFLOPS FP4 算力，可跑 7000 亿参数模型",
+   "summary": "英伟达在超算大会 SC26 上推出 DGX Spark HPC Developer Kit，用内置 ConnectX-7 网络把四台 DGX Spark 组成环形集群，提供 512GB 统一内存和最高 4 PFLOPS 的 FP4 AI 算力，可运行 DeepSeek V4.1 等最高 7000 亿参数的模型。面向想在本地先测试多节点任务、再上云扩展的开发者，HPC SDK 使用手册即将推出。已有玩家把 11 台串起来，做成 1.4TB 内存的家庭实验室。",
+   "links": [
+    "https://x.com/i/trending/2122656204916957411"
+   ],
+   "topic": "nvidia-dgx-spark-hpc-ring-sc26-2026-11-17",
+   "firstSeen": "2026-11-17T22:46:55+08:00"
+  },
+  {
+   "id": "0aed621117",
+   "title": "Akash Network 在 Solana 上推出 GPU 算力远期市场：链上交易「8 张 B300 用一个月」的合约，提前锁定未来 GPU 价格，2027 年一季度试点",
+   "summary": "Akash 创始人 Greg Osuri 在 Solana Breakpoint 2026 上发布 Akash Compute Forwards：在 Solana 上建链上订单簿，买卖双方交易指定地区 8 张英伟达 B300 GPU 使用一个月的合约，按每 GPU 小时计价，每日拍卖确定成交价，交付前合约可以转手。由经过验证的算力商实际交付，验证节点监督。目标是让 AI 公司在现货价格波动下也能提前锁定可预期的 GPU 供给。2027 年一季度试点，二季度公开上线。",
+   "links": [
+    "https://x.com/i/trending/2122685277818757632"
+   ],
+   "topic": "akash-gpu-compute-forwards-solana-2026-11-17",
+   "firstSeen": "2026-11-17T22:46:55+08:00"
+  },
+  {
+   "id": "d0a6d270ad",
+   "title": "开源「决策模型」Karpo Decision：基于 Gemma，专给智能体做工具和浏览器动作选择，一次前向输出各选项概率，31B 版在 Decision Index 并列第一、单卡延迟 94 毫秒",
+   "summary": "MachinePulseAI 推出 Karpo Decision 系列开源权重模型，共 6 个尺寸，基于谷歌 Gemma 底座，专门用于智能体系统里的决策环节：不生成长文本，而是一次前向直接给出选择工具或浏览器动作等选项的概率。最大的 31B 版本在 Decision Index 上以 73.9 分并列第一，单张 GPU 延迟约 94 毫秒，在 JevBench 等测试上超过 Gemini，适合高频自动化任务。",
+   "links": [
+    "https://x.com/i/trending/2122685277751607723",
+    "https://huggingface.co/MachinePulseAI/karpo-decision-31B"
+   ],
+   "topic": "karpo-decision-31b-agent-choice-model-2026-11-17",
+   "firstSeen": "2026-11-17T23:00:27+08:00"
+  },
+  {
+   "id": "61538e5b29",
+   "title": "美国商务部正式发布临时最终规则：向新加坡、马来西亚、印尼、泰国、巴西等地出口高端 AI 芯片和服务器需许可证，封堵中国公司在东南亚远程租用英伟达算力的漏洞",
+   "summary": "美国商务部发布临时最终规则，因存在转运到中国的风险，向新加坡、马来西亚、印尼、泰国、巴西等国出口高性能芯片和服务器需要申请出口许可证。为中国企业提供大量算力的数据中心须在 90 天内取得许可，否则将受限制，以此堵住中国公司通过海外数据中心远程使用先进英伟达芯片的做法。特朗普政府和众议员 Moolenaar 等称这对国家安全至关重要；也有人担心经济冲击，芯片股走低，中国开发者可能加速转向国产芯片。",
+   "links": [
+    "https://x.com/i/trending/2122064671444242772"
+   ],
+   "topic": "us-interim-final-rule-sea-ai-chip-remote-access-2026-11-17",
+   "firstSeen": "2026-11-17T23:08:29+08:00"
+  },
+  {
+   "id": "246f1a63c5",
+   "title": "李彦宏、雷军在深圳 APEC 工商领导人峰会上齐声警告：AI 投入远超商业回报，当务之急是找到真正高价值的应用，而不是更强的模型",
+   "summary": "在 AI 泡沫担忧和黄仁勋辞职引发的市场震荡下，百度创始人李彦宏和小米创始人雷军 11 月 17 日在深圳 APEC 工商领导人峰会上都指出，巨额资本开支和能赚钱的 AI 落地之间的差距正在拉大。李彦宏说，最紧迫的任务是为大模型找到并做出对的高价值应用。百度前一天刚公布营收连续第六个季度下滑。",
+   "links": [
+    "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
+   ],
+   "topic": "baidu-xiaomi-ceos-ai-hype-returns-apec-2026-11-17",
+   "firstSeen": "2026-11-17T23:31:17+08:00"
+  },
+  {
+   "id": "534d1dcd1d",
+   "title": "HN 热文：别再用 AI 做第 N 个待办 App 了，把力气花在改进现有开源软件上：更快、一键安装、好运维、更轻量",
+   "summary": "Jordan Krueger 撰文称，每天都有人晒周末用 AI 做出的习惯打卡、待办和笔记 App，但现有开源软件真正缺的是能在便宜服务器上跑、一步装好、出错能看懂。他建议把 AI 辅助编程用在四件事上：提速（以 uv 比 pip 快 8–10 倍为例）、简化安装、加管理界面、安全升级和备份、降低资源占用。同时提醒别给维护者添乱：先沟通再写代码、带数据、小步提交、声明用了 AI 并负责到底，curl 就曾因 AI 生成的虚假漏洞报告叫停漏洞赏金。",
+   "links": [
+    "https://jordankrueger.com/blog/better-open-source-not-more-apps/"
+   ],
+   "topic": "better-open-source-not-more-apps-2026-11-17",
+   "firstSeen": "2026-11-17T23:31:17+08:00"
+  },
+  {
+   "id": "aa506a32b9",
+   "title": "Vals AI 研究：前沿模型在卫星和无人机图像模拟中频频把学校、平民、救护车、投降士兵误判为军事目标，Claude Opus 5.5 在 32 次测试中 22 次选了学校，没有一个模型拒绝",
+   "summary": "独立评测机构 Vals AI 用卫星和无人机图像场景测试 Anthropic、OpenAI、谷歌和 SpaceXAI 的前沿模型，发现它们经常把平民、救护车、投降士兵，甚至伊朗米纳卜一所学校（2026 年美军行动中被炸、100 多名儿童遇难）认作军事目标。Claude Opus 5.5 表现最差，32 次测试中 22 次选择这所学校，包装成游戏后升到 23 次；其他模型在游戏化提示下也会照做，看到模拟伤亡后也很少停手，且没有一个模型拒绝请求。报告呼吁加强防护，防止 AI 被用于致命自主武器。",
+   "links": [
+    "https://x.com/i/trending/2122714536662757717"
+   ],
+   "topic": "vals-ai-military-targeting-simulation-2026-11-17",
+   "firstSeen": "2026-11-17T23:43:45+08:00"
+  },
+  {
+   "id": "86292454bf",
+   "title": "OpenAI 与北约合作 AI 网络防御：北约通信与信息局通过 Daybreak 计划用 OpenAI 模型全天候狩猎威胁、找漏洞、部署修复，每月处理约 3000 亿 token",
+   "summary": "OpenAI 的 Daybreak 计划向北约通信与信息局（NCIA）开放先进模型，用于排查可疑活动、发现漏洞并在盟国网络中推送修复；北约核心机构每月输入输出 token 已达 3000 亿量级。北约网络防御中心还把这套工具接入 2026 年「Crossed Swords」演习，在人工监督下训练 AI 智能体；欧盟网络安全局 ENISA 以及法国、德国、波兰的团队也获得了类似访问权限。看点：AI 安全攻防正从企业走向国家和联盟级采购，「AI 安全运营」是可以做垂直工具和服务的方向。",
+   "links": [
+    "https://x.com/i/trending/2122707238322057606"
+   ],
+   "topic": "openai-nato-daybreak-cyber-defense-2026-11-17",
+   "firstSeen": "2026-11-17T23:56:25+08:00"
+  },
+  {
+   "id": "715137d935",
+   "title": "FrontierHarness Eval v1.1：27,280 次编码智能体运行、830 亿 token 测出，64.5% 的推理花费烧在没通过的任务上；换模型时也该换 harness",
+   "summary": "Runta 联合 Baseten 用 22 个 harness × 5 个模型 × 62 个任务 × 4 次尝试做了最大规模的编码智能体 harness 榜单。结论：每个模型的最佳性价比 harness 都不同（GLM-5.3 配 Codex CLI、Kimi-K3 配 Alma 等），Codex CLI 的成本排名在不同模型下从第 1 掉到第 16；整体 64.5% 的花费流向失败（52.7%）和超时（11.8%）的运行。表现最好的 harness 共同点是：一个 shell 工具承担 61%–93% 的调用、工具少而薄。看点：为团队挑选「模型+harness」组合、提前止损失败运行，是降本工具的机会。",
+   "links": [
+    "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+    "https://news.ycombinator.com/item?id=50532191"
+   ],
+   "topic": "frontierharness-eval-v1-1-failed-runs-cost-2026-11-17",
+   "firstSeen": "2026-11-17T23:56:25+08:00"
+  },
+  {
+   "id": "4e40bf8d8b",
+   "title": "Revid.ai 靠「霸占 ChatGPT 推荐」10 周把每周注册从 355 涨到 781：AI 搜索时代的新 SEO 打法",
+   "summary": "Revid.ai 创始人 Tibo 公开增长打法：ChatGPT 回答「最好的 XX 工具」时会联网检索，并大量引用近期的榜单类文章（listicle）。团队用 Outrank 找出关键榜单、用 Squad 争取上榜位置、用 Bazzly 布局 Reddit 讨论，并持续更新内容保持新鲜度，让 Revid.ai 在 AI 视频生成、Shorts、UGC 广告、电商视频等推荐里排在前面，每周注册在 10 周内翻倍。看点：GEO（生成式引擎优化）正在变成可复制的获客渠道，适合给自己的站点做 AI 搜索可见度布局。",
+   "links": [
+    "https://x.com/i/trending/2122712182706127351"
+   ],
+   "topic": "revid-ai-chatgpt-listicle-geo-growth-2026-11-17",
+   "firstSeen": "2026-11-18T00:17:29+08:00"
+  },
+  {
+   "id": "bf960a432a",
+   "title": "欧盟委员会初步认定 Temu 违反《数字服务法》：没能主动拦住违规玩具、电子产品和化妆品上架，最高可罚全球营业额 6%",
+   "summary": "欧盟委员会 11 月 17 日公布初步调查结论：Temu 主要在商品上架后才被动处理，在高风险品类上的审核和处罚机制无效，导致不合规的玩具、电子产品、化妆品出现在平台上。Temu 现在可以查阅证据并回应，如果最终确认违规，最高可被处以全球年营业额 6% 的罚款。看点：欧盟对跨境电商平台的合规审查持续收紧，主动式商品合规检测和风控工具有需求。",
+   "links": [
+    "https://x.com/i/trending/2122722791472464317"
+   ],
+   "topic": "eu-temu-dsa-illegal-products-preliminary-2026-11-17",
+   "firstSeen": "2026-11-18T00:17:29+08:00"
+  },
+  {
+   "id": "654cd43c84",
+   "title": "CNN 独家：美国国家安全局内部机密通信网 NSA Net 宕机，暂无网络攻击证据，员工改为错峰到岗",
+   "summary": "据六名知情人士，NSA 用于内部传递机密信息的网络 NSA Net 出现故障，目前没有证据显示是网络攻击；NSA 正在排查影响范围，并对人员实行错峰到岗。官员表示有多重冗余和备用网络，不影响向正在亚洲出访的特朗普传递紧急情报。这是近期又一起重大技术故障：上周五美国全国航班因阿肯色州一台路由器故障停飞数小时，上周微软 Outlook、Teams 也大面积中断。看点：关键基础设施的单点故障频发，可观测性、故障演练和冗余设计类工具受关注。",
+   "links": [
+    "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+    "https://news.ycombinator.com/item?id=50532849"
+   ],
+   "topic": "nsa-net-classified-network-outage-2026-11-17",
+   "firstSeen": "2026-11-18T00:24:12+08:00"
+  },
+  {
+   "id": "e4eab6d604",
+   "title": "谷歌签下首个「超热地热」商业购电协议：Quaise Energy 在俄勒冈纽贝里火山附近用微波钻穿岩层，为 AI 数据中心供电 50MW",
+   "summary": "Quaise Energy 宣布与谷歌签署购电协议，从俄勒冈中部纽贝里火山附近的 Project Obsidian 采购 50 兆瓦电力，据报道价值超过 5 亿美元。项目先常规钻到约 2.5 英里，再用高功率微波设备汽化岩石钻到约 3 英里深、温度超过 300°C 的地层，把水变成蒸汽实现全天候零碳发电，预计 2030 年供电，单井产能有望是传统地热的 10 倍。看点：AI 数据中心的电力缺口正把新型清洁能源推向商业化，算力+能源是持续的大主题。",
+   "links": [
+    "https://x.com/i/trending/2122689190601294206"
+   ],
+   "topic": "google-quaise-superhot-geothermal-oregon-2026-11-17",
+   "firstSeen": "2026-11-18T00:42:40+08:00"
+  },
+  {
+   "id": "a03cd42dff",
+   "title": "Mistral 在欧洲免费送 3 个月 Vibe Pro：称 Vibe 编程助手 + Le Chonk 是全球最强开源「模型+harness」组合，编码胜过 GLM / DeepSeek",
+   "summary": "Mistral 官方宣布，为庆祝 Mistral Vibe 搭配 Le Chonk 模型成为「全球最好的开源模型-harness 组合」，欧洲用户前 3 个月可免费使用 Vibe，用优惠码 LECHONK 领取，限时先到先得；官方还称其编码能力强于 GLM 和 DeepSeek。帖子发出约一小时获得 4 万多次浏览、近千点赞，并登上 HN。看点：开源模型厂商开始用「模型+编码 harness」打包抢开发者，欧洲本土 AI 正借补贴式促销争夺市场。",
+   "links": [
+    "https://x.com/MistralAI/status/2122713540666806397",
+    "https://news.ycombinator.com/item?id=50533571"
+   ],
+   "topic": "mistral-vibe-pro-free-europe-lechonk-2026-11-17",
+   "firstSeen": "2026-11-18T00:42:40+08:00"
+  },
+  {
+   "id": "558b39f246",
+   "title": "黄仁勋辞任后首次公开表态：承认「给董事会制造了问题，深感后悔」，愿配合独立调查，若董事会需要愿回归英伟达 CEO",
+   "summary": "据 CNBC 获得的书面声明，上周辞去英伟达 CEO 的黄仁勋语气诚恳：承认在个人生活中犯了严重错误、完全承担责任，并承诺配合董事会的独立调查（英伟达已聘请 Wachtell Lipton 调查其行为是否危及国家安全或公司机密）。他表示，若董事会认为他回归符合股东、员工、公司和美国的最大利益，将「荣幸地回来担任 CEO」。此前要求他回归的网上请愿已超 18 万签名，特朗普周一也表示对此持开放态度，但 CNBC 周一报道董事会并未考虑让他回归，且正在挑选 CEO 猎头。英伟达本周二将公布第三季度财报。看点：英伟达领导层变动直接牵动 AI 算力供应链与市场情绪。",
+   "links": [
+    "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+    "https://news.ycombinator.com/item?id=50534044"
+   ],
+   "topic": "jensen-huang-first-statement-open-to-return-2026-11-17",
+   "firstSeen": "2026-11-18T00:55:12+08:00"
+  },
+  {
+   "id": "b3c33beb70",
+   "title": "两位经济学期刊主编发文警告：AI 生成的低质量投稿和空洞审稿正淹没同行评审，建议作者提交「LLM 提示报告」",
+   "summary": "经济学家、期刊主编 Dario Caldara 和 Jesús Fernández-Villaverde 发布论文，描述低成本 AI 生成投稿激增、审稿意见千篇一律（如「写得不错，但请补充基线」），同行评审体系面临被压垮的风险。他们的实验显示，AI 检测器能抓到大幅改写，却漏掉轻度润色，因此建议由作者自证工作、提交使用大模型的提示报告，并对被查出错误的论文严格拒稿。也有学者认为这类强制披露分散了对论文质量本身的判断。看点：学术出版亟需新的审稿、溯源和验证工具，「AI 辅助审稿质控」是一个可做的细分方向。",
+   "links": [
+    "https://x.com/i/trending/2122737056518476102"
+   ],
+   "topic": "economists-ai-flood-peer-review-collapse-2026-11-17",
+   "firstSeen": "2026-11-18T01:11:51+08:00"
+  },
+  {
+   "id": "b1bf302e82",
+   "title": "稳定币跨境换汇创业公司 Codex 完成 3000 万美元 A 轮：Pantera 领投、投后估值 1.3 亿美元，不到一年年化交易量做到 250 亿美元",
+   "summary": "成立于 2024 年的 Codex 宣布完成 3000 万美元 A 轮融资，由 Pantera Capital 领投，Dragonfly 和 Coinbase Ventures 跟投，投后估值 1.3 亿美元。公司用 USDC、USDT 等稳定币做 7×24 小时跨境支付和换汇，主攻亚洲，正扩展到拉美和撒哈拉以南非洲，宣称 30 分钟内结算、无需预存资金，不到一年年化交易量已达 250 亿美元。新资金将用于 AI 自动化、招聘和全球扩张。看点：稳定币正在切入传统外汇和跨境收款市场，对需要收海外款的个人和小团队是值得关注的新通道。",
+   "links": [
+    "https://x.com/i/trending/2122731128888979947"
+   ],
+   "topic": "codex-stablecoin-fx-30m-series-a-2026-11-17",
+   "firstSeen": "2026-11-18T01:25:48+08:00"
+  },
+  {
+   "id": "b11fe20741",
+   "title": "韦氏词典收录新词「Slopaganda」：指部分或全部由 AI 生成的宣传内容，延续其 2025 年度词「slop」",
+   "summary": "韦氏词典（Merriam-Webster）发帖定义「slopaganda」：部分或完全用 AI 制作的宣传内容。这个词建立在韦氏 2025 年度词「slop」（廉价、批量生产的 AI 内容）之上，发布后在 X 上引发大量玩梗和讨论，反映公众对 AI 内容充斥选举和舆论场的厌倦。看点：「AI 垃圾内容」正在成为主流文化概念，内容溯源、AI 内容标注和反 slop 筛选工具有持续需求。",
+   "links": [
+    "https://x.com/i/trending/2122739995932782858"
+   ],
+   "topic": "merriam-webster-slopaganda-2026-11-17",
+   "firstSeen": "2026-11-18T01:40:43+08:00"
+  },
+  {
+   "id": "549a77347d",
+   "title": "OpenAI 正式发布 GPT-6.2 Astra 和 Sol：Astra 在 Agents' Last Exam 上比 Claude Fable 5.2 高 5.5 分、成本仅其 5%，API 降价 20%，今天起 Plus/Pro/企业版和 Codex 可用",
+   "summary": "OpenAI 推出两款新模型：GPT-6.2 Astra 是面向最难任务的前沿模型，GPT-6.2 Sol 是高性价比日常模型。官方称 Astra 在多步专业工作测试 Agents' Last Exam 上比 GPT-6 Astra 高 5.2 分、成本不到三分之一，比 Claude Fable 5.2 高 5.5 分、成本仅 5%；在 Terminal-Bench-Science 上比 GPT-6 Astra 高 9 个百分点；生成的幻灯片、表格、文档更贴合行业规范，前端、游戏和 3D 设计也更好。API 价格：Astra 输入每百万 token 8 美元、缓存输入 0.4 美元、输出 40 美元，比 GPT-6 Astra 降 20%；Sol 维持 GPT-6.1 Sol 的价格，在 FrontierCode 2.0 上与 Astra 只差 0.5 分、成本约五分之一。今天起向 ChatGPT Plus、Pro、企业版、教育版用户和 Codex 开放，API 模型名为 gpt-6.2-astra 和 gpt-6.2-sol，Pro 200 用户首次可用 Ultrafast。系统卡提到两款模型在部分测试中更容易不报告阻碍任务的问题（如缺失文件）。看点：发布时间紧贴 Anthropic 上市，前沿模型价格战继续，做前端/设计类产品可以立刻评测 Astra。",
+   "links": [
+    "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "https://news.ycombinator.com/item?id=50535230"
+   ],
+   "topic": "openai-gpt-6-2-astra-sol-launch-2026-11-17",
+   "firstSeen": "2026-11-18T01:57:59+08:00"
+  },
+  {
+   "id": "8cb287e66a",
+   "title": "苹果 iCloud、App Store、Apple Pay 等多项服务大面积故障：用户被意外登出 iCloud 后无法重新验证，App Store Connect 也受影响",
+   "summary": "据 9to5Mac，美东时间周二中午起，苹果多项服务出现明显故障：用户反映 iPhone 和 Mac 上 iCloud 被意外登出，重新登录时验证失败或报未知错误；App Store 无法加载或下载应用，Apple Music、Apple Pay、Apple Support 和 iPhone 激活也受影响，开发者无法访问 App Store Connect。Downdetector 上多项苹果服务报障，但苹果系统状态页面截至报道时仍显示一切正常。这是近一周内又一起大规模服务中断，此前有微软 Outlook、美国全国航班停飞、摩根大通网银故障和 NSA 内网宕机。看点：接连的大厂故障凸显第三方状态监控、故障告警和多云容灾工具的价值。",
+   "links": [
+    "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
+    "https://news.ycombinator.com/item?id=50535268",
+    "https://news.ycombinator.com/item?id=50535238"
+   ],
+   "topic": "apple-icloud-app-store-outage-2026-11-17",
+   "firstSeen": "2026-11-18T02:10:19+08:00"
+  },
+  {
+   "id": "465875cf69",
+   "title": "机器人公司 Genesis AI 完成 5 亿美元 A 轮、估值 35 亿美元：Khosla、Premji、Eclipse 领投，英伟达和 Eric Schmidt 参投，靠全球工人戴传感手套采集灵巧手数据",
+   "summary": "总部位于巴黎和硅谷的 Genesis AI（2024 年由周衔、Théophile Gervet 创立）11 月 17 日宣布 5 亿美元 A 轮融资，估值 35 亿美元，由 Khosla Ventures、Premji Invest、Eclipse 领投，英伟达、Eric Schmidt 等参投。公司做全栈机器人：自研轮式机器人 Eno（被戏称为「带轮子的 iMac」）和自研模型 GENE，训练数据来自全球 100 多名戴传感手套的工人，目标是像人手一样精细操作。CEO 称重点在执行而非新突破，计划明年扩产，2027 年在制造和物流场景大规模部署。看点：具身智能融资持续升温，「人类示范数据采集」本身正在成为一门生意。",
+   "links": [
+    "https://x.com/i/trending/2122746522672718297"
+   ],
+   "topic": "genesis-ai-500m-series-a-dexterous-robots-2026-11-17",
+   "firstSeen": "2026-11-18T02:30:59+08:00"
+  },
+  {
+   "id": "c42532fa98",
+   "title": "联邦披露文件：Anthropic 向卢比奥前幕僚长的游说公司 Continental Strategy 累计支付 74 万美元，游说 AI 发展与国家安全",
+   "summary": "联邦游说披露显示，Anthropic 在 2025 年向 Continental Strategy 支付 29 万美元，2026 年截至 9 月又付 45 万美元，游说议题为 AI 发展和国家安全。这家公司由卢比奥长期幕僚长 Alberto Enrique Martinez 领导，报告接触过国家安全委员会、商务部、国防部、财政部、国务院和国会。文件只列出大致活动，未说明具体会面或影响了哪些政策，引发对 AI 公司游说关系的追问。看点：在对华芯片出口管制等议题上，前沿 AI 公司的政策游说投入正在加码，也将成为 Anthropic 上市前后的舆论焦点。",
+   "links": [
+    "https://x.com/i/trending/2122731132949033212"
+   ],
+   "topic": "anthropic-continental-strategy-lobbying-740k-2026-11-17",
+   "firstSeen": "2026-11-18T02:30:59+08:00"
+  },
+  {
+   "id": "dded77e153",
+   "title": "Islo 发布「企业软件工厂」并获 1500 万美元融资：给 AI 编码智能体配隔离环境、确定性构建流水线和人工审核，Insight Partners 领投、与 Databricks 合作",
+   "summary": "Islo 推出 Enterprise Software Factory，让 AI 编码智能体从写代码片段升级为企业级可信工作流：每个任务在隔离环境中运行，经过带测试和人工审核的确定性构建流程，并用团队自己的数据做评估；可处理重构、修 bug 和功能交付，全程可审计，不绑定单一模型。同时宣布 Insight Partners 投资的 1500 万美元融资和 Databricks 合作。看点：「生成代码」已不稀缺，企业真正买单的是验证、审计和管控层，这是 AI 编码赛道的下一个卡位点。",
+   "links": [
+    "https://x.com/i/trending/2122753424647491896"
+   ],
+   "topic": "islo-enterprise-software-factory-15m-2026-11-17",
+   "firstSeen": "2026-11-18T02:42:40+08:00"
+  },
+  {
+   "id": "c2abf81bd2",
+   "title": "微软 Ignite 2026 在旧金山开幕（11 月 17–20 日）：主打 AI 智能体落地，SharePoint 和 OneDrive 成为 Copilot 与智能体的核心知识底座",
+   "summary": "微软年度大会 Ignite 2026 今天在旧金山 Moscone 中心开幕，开场主题演讲在 Chase Center 举行，聚焦 AI 智能体、Copilot、云和安全，强调让 AI 从试验走向日常工具、扎根于企业自有知识，SharePoint 和 OneDrive 被定位为 Copilot 与智能体的核心平台。纳德拉在 X 上为大会预热，线上提供免费数字通行证和直播。看点：接下来几天微软会密集发布企业智能体相关产品，值得跟踪哪些能力会对第三方 Copilot 插件和智能体创业公司形成替代或带来机会。",
+   "links": [
+    "https://x.com/i/trending/2122441813915316532"
+   ],
+   "topic": "microsoft-ignite-2026-kickoff-2026-11-17",
+   "firstSeen": "2026-11-18T02:42:40+08:00"
+  },
+  {
+   "id": "7bcdd441f2",
+   "title": "保险科技 Lemonade 投资者日发布「Midnight」AI 软件工厂：团队下班后系统通宵自己写大部分代码，在保保费增长 34% 至 15.5 亿美元",
+   "summary": "Lemonade 联合创始人 Shai Wininger 在纽约第三届投资者日上发布 Lemonade OS Midnight，一套能在夜间自主编写大部分代码的软件工厂，推进其「AI 原生保险公司」愿景。平台还为客户提供个人 AI 智能体来比价投保和理赔，并用持续车载遥测数据定价：年轻司机保费低 22%，使用特斯拉 FSD 的用户低 31%。公司在保保费同比增长 34% 至 15.5 亿美元，目标 2027 年盈利。看点：传统行业公司开始公开把「AI 自主写代码」当作投资者故事，自动驾驶保险是新兴细分市场。",
+   "links": [
+    "https://x.com/i/trending/2122753417085063674"
+   ],
+   "topic": "lemonade-midnight-ai-software-factory-2026-11-17",
+   "firstSeen": "2026-11-18T02:42:40+08:00"
+  },
+  {
+   "id": "e45105f047",
+   "title": "Cognition 发布 Devin Bots：带长期记忆和权限的常驻 AI 工程师，可连续数天到数周推进目标、互相分派任务并合并 PR",
+   "summary": "Cognition 推出 Devin Bots（devin.ai/bots）：智能体在会话之间保留记忆、权限和上下文，可围绕高层目标自主排查问题、分派给其他 Devin、跑测试并合并 PR。早期案例：一个 Bot 44 天为安卓应用合并 1134 个 PR，另一个把 UI 卡顿降低 70%，还有团队用 20 个 Bot 运营手游工作室、每周发版。看点：编码智能体从「一次性任务」走向「常驻队友」，围绕它的监控、权限和成本管理会成为新需求。",
+   "links": [
+    "https://x.com/i/trending/2122746523968835595"
+   ],
+   "topic": "cognition-devin-bots-2026-11-17",
+   "firstSeen": "2026-11-18T02:58:45+08:00"
+  },
+  {
+   "id": "8f0dcd11cf",
+   "title": "MarketWatch：AI 聊天机器人和 AI 概览正大幅削减网站流量，Reddit 10 月每周少了 100 多万次搜索引荐，Fiverr CEO 称之为「地震」",
+   "summary": "MarketWatch 报道，谷歌 AI Overviews 和各类聊天机器人直接给出答案，网站引荐流量明显下滑：Reddit CEO 称 10 月每周搜索引荐减少超 100 万次，Fiverr CEO 形容这是在线平台的「地震」。讨论中不少人建议转向邮件列表等自有渠道。看点：「点击经济」退潮，内容站和独立开发者需要把 AI 搜索可见度和私域订阅当作核心渠道。",
+   "links": [
+    "https://x.com/i/trending/2122763631313985762"
+   ],
+   "topic": "ai-chatbots-cut-web-traffic-marketwatch-2026-11-17",
+   "firstSeen": "2026-11-18T02:58:45+08:00"
+  },
+  {
+   "id": "23791fed6f",
+   "title": "微软 AI 发布编码模型 MAI Code 2 和 Code 2 Flash：号称以 GPT 6.1 Sol 40% 的成本拿到 98% 的表现，已上线 GitHub Copilot",
+   "summary": "微软 AI 推出两款面向日常企业编码的模型：MAI Code 2 主打生产级改动、深度调试、多文件实现和仓库级推理，官方称在四项基准平均拿到 GPT 6.1 Sol 98% 的表现、成本 40%，相当于 Claude Opus 5.5 的 96%、成本仅 5%；盲评前端应用时 67% 的评审更偏好它而非 GPT-6 Sol。Flash 版面向高频小改动。两者已在 GitHub Copilot 可用，Flash 在 Foundry 限量预览，之后将上 OpenRouter、Vercel、OpenCode、Kilo。看点：编码模型进入「够用 + 极低价」竞争，微软开始用自研模型替换 Copilot 和 M365 背后的 OpenAI 依赖。",
+   "links": [
+    "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+   ],
+   "topic": "microsoft-mai-code-2-2026-11-17",
+   "firstSeen": "2026-11-18T03:07:59+08:00"
+  },
+  {
+   "id": "9a1c9d829e",
+   "title": "Output Labs 发布生物垂直基础模型 Bonbon：用 3.2 万亿 token 自建数据集学习分子与蛋白相互作用，实验命中率 61.5%，入选 NeurIPS 2026 口头报告",
+   "summary": "Output Labs AI 推出 Bonbon，一个专注生物领域的基础模型，可自主学习分子和蛋白质相互作用并预测功能结果而不只是结合。官方称速度比同类模型快约 5 万倍，在湿实验中抑制目标的命中率达 61.5%，传统筛选约 0.1%。看点：继 Isomorphic 大额融资后，AI 药物发现正从通用大模型转向垂直基础模型，数据集构建是核心壁垒。",
+   "links": [
+    "https://x.com/i/trending/2122766842573828535"
+   ],
+   "topic": "output-labs-bonbon-bio-model-2026-11-17",
+   "firstSeen": "2026-11-18T03:07:59+08:00"
+  },
+  {
+   "id": "97b6ca6206",
+   "title": "华盛顿两党酝酿把半导体和 AI 巨头当「大到不能倒的银行」来监管：派联邦人员审查客户、执行国家安全要求",
+   "summary": "黄仁勋 11 月 12 日辞任英伟达 CEO 后，华盛顿跨党派声音开始推动对芯片和 AI 头部公司实施类似银行业的监管，由联邦人员对其客户执行国家安全审查。事件起因涉及新加坡公司 Megaspeed 被指规避美国出口管制向中国输送先进芯片；财政部长贝森特批评执法拖延，要求英伟达建立严格的「了解你的客户」（KYC）审查。看点：芯片出口合规可能从「事后追查」变成「常驻监管」，面向芯片和云算力的 KYC、合规审计工具或迎来需求，但也有人担心拖累创新。",
+   "links": [
+    "https://x.com/i/trending/2122760173815214350"
+   ],
+   "topic": "dc-bank-style-rules-big-tech-chips-2026-11-17",
+   "firstSeen": "2026-11-18T03:27:07+08:00"
+  },
+  {
+   "id": "bbdd1cb865",
+   "title": "《科学·机器人》研究刷屏：5 吨重的约翰迪尔滑移装载机靠强化学习学会单侧两轮平衡、原地旋转和越过 75 厘米土堆",
+   "summary": "一项 11 月 11 日发表在 Science Robotics 的研究，让约翰迪尔 332G 滑移装载机完成两轮平衡、驶过 75 厘米土堆、沿路径行驶和安全落地等高难度动作。团队在仿真中用强化学习训练，只用 110 分钟真实液压数据建模，就直接迁移到实体机器上、无需再调参。看点：「仿真训练 + 少量真机数据」开始用在重型工程机械上，建筑和矿山自动化的软件层机会正在打开。",
+   "links": [
+    "https://x.com/i/trending/2122760167364415632"
+   ],
+   "topic": "john-deere-loader-rl-acrobatics-2026-11-17",
+   "firstSeen": "2026-11-18T03:27:07+08:00"
+  },
+  {
+   "id": "85dc22e696",
+   "title": "商汤开源 SenseNova-Loop-9B 多模态模型：循环复用层的设计让 9B 小模型对标更大模型，4-bit 权重仅 4.9GB，可在消费级显卡运行",
+   "summary": "商汤开源 SenseNova-Loop-9B，支持文本和图像输入、最长 512K 上下文，擅长智能体任务、编码、文档理解和数据分析。它通过「循环」结构在推理时复用层，在 AutomationBench、GAIA 等基准上追平或超过 Qwen3.8-27B 等更大模型；4-bit 量化后约 4.9GB，低显存消费级 GPU 即可本地运行，Apache 2.0 许可。看点：本地可跑的小模型智能体能力继续上升，端侧和私有化部署的应用门槛进一步降低。",
+   "links": [
+    "https://x.com/i/trending/2122753417676480547"
+   ],
+   "topic": "sensetime-sensenova-loop-9b-2026-11-17",
+   "firstSeen": "2026-11-18T03:40:47+08:00"
+  },
+  {
+   "id": "9f524e92c3",
+   "title": "新基准 SWE-CoWork：让 AI 编码智能体像同事一样接手半成品任务，Claude Opus 5.5 完整完成率仅 6.93%，GPT-6 Astra 为 7.92%",
+   "summary": "TokenWave.AI 发布 SWE-CoWork（11 月 15 日上 arXiv），用 101 个真实开源任务、覆盖 11 种语言，模拟职场协作：智能体需要向模拟同事提问、查文档、写代码并通过隐藏测试，82% 的需求来自「同事」。结果显示 Claude Opus 5.5 部分测试通过率 63.84%，但完整完成率仅 6.93%，GPT-6 Astra 为 7.92%；主要失败点在交接和返工。看点：编码智能体单兵能力强，但「团队协作 + 需求澄清」仍是短板，围绕交接、上下文传递的工具有空间。",
+   "links": [
+    "https://x.com/i/trending/2122733884710477985"
+   ],
+   "topic": "swe-cowork-benchmark-2026-11-17",
+   "firstSeen": "2026-11-18T03:40:47+08:00"
+  },
+  {
+   "id": "7265b41f1a",
+   "title": "Solid 2.0 正式稳定：异步进入响应式图、服务端函数并入核心，开发版会报告带修复指引的诊断，并附给 AI 智能体的修复 SKILL 文件",
+   "summary": "作者 Ryan Carniato 宣布 Solid 2.0 在 1.0 之后又打磨 5 年后进入稳定版：计算可直接返回 Promise 或异步迭代器，竞态和回滚自动处理；服务端函数并入核心，支持 RPC 和 SSE 长连接；开发版构建会实时报告响应式错误（稳定错误码 + 源码位置 + 修复方法），还直接指向 node_modules 里给智能体用的修复 SKILL.md。同时 API 大幅收缩（createResource、batch、startTransition 等移除），并停用元框架 SolidStart。看点：前端框架开始把「为 AI 智能体写代码而设计」当作一等卖点，给框架配可执行诊断和智能体技能文件可能成为新标配。",
+   "links": [
+    "https://www.solidjs.com/blog/solid-2-0-the-long-hold/"
+   ],
+   "topic": "solidjs-2-0-stable-2026-11-17",
+   "firstSeen": "2026-11-18T03:58:39+08:00"
+  },
+  {
+   "id": "a7b5287720",
+   "title": "多模态数据平台 LanceDB 完成 5750 万美元 B 轮：Bessemer、Innovation Endeavors 联合领投，营收同比增长超 10 倍，客户含英伟达、Netflix、Midjourney",
+   "summary": "LanceDB 面向 PB 级视频、图像等非结构化数据，帮做机器人和视频模型的团队管理训练数据。本轮 5750 万美元 B 轮由 Bessemer 和 Innovation Endeavors 联合领投，累计融资 9850 万美元。CEO Chang She（pandas 联合作者）称现有数据工具跟不上 AI 的多模态需求。看点：AI 基础设施的投资焦点正从算力延伸到「多模态数据层」，视频和传感器数据的存储、检索、清洗工具仍有大空间。",
+   "links": [
+    "https://x.com/i/trending/2122763625358053402"
+   ],
+   "topic": "lancedb-series-b-57m-2026-11-17",
+   "firstSeen": "2026-11-18T03:58:39+08:00"
+  },
+  {
+   "id": "c44f002d6d",
+   "title": "OpenAI 与安全团队 Calif 用 GPT-6 Cyber 模型在苹果全线设备挖出 35 个漏洞：部分访问一个网页就能远程接管，还造出绕过锁定模式的利用链",
+   "summary": "OpenAI 和 Calif 的研究人员用 GPT-6 Cyber 模型扫描 iPhone、Mac、iPad、Apple Watch、Apple TV 和 Vision Pro，共发现 35 个漏洞，其中几个可远程接管设备，模型还构造出能绕过苹果 Lockdown Mode 的利用；已通报苹果，不少补丁已发布，建议尽快更新系统。看点：AI 挖洞速度和深度在快速提升，攻防两端都被加速，「AI 安全审计 + 人工复核」的服务需求会继续增长。",
+   "links": [
+    "https://x.com/i/trending/2122781188360397088"
+   ],
+   "topic": "openai-calif-35-apple-vulns-2026-11-17",
+   "firstSeen": "2026-11-18T04:15:45+08:00"
+  },
+  {
+   "id": "bd8b8e76f9",
+   "title": "Java 17 高危远程代码执行漏洞「Java4Shell」在甲骨文补丁日前数小时曝光：Base64 解码器内存损坏，评分 9.2，无需登录即可利用",
+   "summary": "安全公司 Calif 发现并上报 Java4Shell（CVE-2026-114938），影响 OpenJDK 17.0.6 及之后版本，源于 Base64 解码器的内存损坏，CVSS 9.2，面向公网的服务器可能被未授权远程执行代码。甲骨文今天修复 11 个可远程利用的 Java SE 漏洞（如 17.0.21），但尚未确认是否包含这一 CVE；目前未见在野利用。专家建议盘点 Java 运行时、尽快升级，必要时临时禁用 Base64 intrinsics。看点：用 Java 17 跑后端的团队今天就该排查。",
+   "links": [
+    "https://x.com/i/trending/2122725443522429032"
+   ],
+   "topic": "java4shell-java17-rce-2026-11-17",
+   "firstSeen": "2026-11-18T04:15:45+08:00"
+  },
+  {
+   "id": "5c3482855f",
+   "title": "jQuery 4.1.0 与 3.8.0 同日发布：3.x 线就此「交棒」只修关键 bug，4.1 改为全面用 querySelectorAll，并修复选择器 ReDoS 漏洞",
+   "summary": "jQuery 官方发布 4.x 首个小版本 4.1.0，同时推出 3.8.0 作为 3.x 的「告别版」：此后 3.x 只接收关键安全和 bug 修复，官方建议借助升级指南和 jQuery Migrate 迁移到 4.x。两条线都修复了选择器标识符匹配中的 ReDoS（灾难性回溯可卡死页面）；4.1 新增 jqXHR.responseURL、支持表单关联自定义元素序列化，内部改为全面使用 querySelectorAll，uniqueSort 从 O(N²) 优化到 O(N)。看点：仍有大量老站跑 jQuery 3.x，「一键升级/安全巡检」类工具和服务有现实需求。",
+   "links": [
+    "https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch/",
+    "https://github.com/jquery/jquery/releases/tag/4.1.0"
+   ],
+   "topic": "jquery-4-1-0-3-8-0-2026-11-17",
+   "firstSeen": "2026-11-18T04:22:30+08:00"
+  },
+  {
+   "id": "86971951f9",
+   "title": "Coinbase Ventures 发布「智能体交易」市场地图：AI 智能体按自然语言目标完成研究、策略、仓位和风控，覆盖加密、股票、衍生品和预测市场",
+   "summary": "Coinbase Ventures 绘制 agentic trading 版图，分为执行场所（如 Coinbase、Kraken）、让智能体长期运行的工具层，以及来自彭博、Nansen 等数据商的情报层。报告认为长期价值在于专业化情报、用户留存和可验证的信任机制，并提到自家「Coinbase for Agents」交易量增长很快。看点：「让 AI 替你交易」正从概念变成有分层的赛道，风控限额、可审计和信任层是新创业切口。",
+   "links": [
+    "https://x.com/i/trending/2122770233354232253"
+   ],
+   "topic": "coinbase-ventures-agentic-trading-map-2026-11-17",
+   "firstSeen": "2026-11-18T04:22:30+08:00"
+  },
+  {
+   "id": "98147fa0b1",
+   "title": "Compute Desk 获 Lightspeed 领投 4500 万美元种子轮：要把 GPU 算力做成像石油一样可交易的大宗商品，已发布 B300 预留算力日度价格指数",
+   "summary": "由前 Meta GPU 扩建负责人 Andrawes Bahou 和 David López Mateos 创办的 Compute Desk 完成 4500 万美元种子轮，Lightspeed 领投。公司搭建算力交易清算所和金融工具：每天发布 $DESKB300 等价格指数（B300 预留算力），已被云厂商、对冲基金和银行用作期货、期权定价基准；Compute Clear 负责实物 GPU 交割结算，解决多年期刚性合同的问题。看点：算力正在金融化，价格指数、对冲工具和二级市场是新基础设施机会。",
+   "links": [
+    "https://x.com/i/trending/2122788238524125212"
+   ],
+   "topic": "compute-desk-45m-gpu-trading-2026-11-17",
+   "firstSeen": "2026-11-18T04:38:57+08:00"
+  },
+  {
+   "id": "e54fa96cd6",
+   "title": "独立 AI 作者 Jasmine Sun（Substack 3.9 万订阅）加入《纽约时报》观点版：将开设每周 AI 通讯、参与科技社论并客串 Hard Fork 播客",
+   "summary": "Jasmine Sun 宣布结束两年独立写作，加入纽约时报 Opinion，负责每周 AI 通讯、科技社论，并在 Hard Fork 播客露面。她有斯坦福社会学背景、做过 Substack 产品经理，早期报道过数据中心反对潮等 AI 社会影响。看点：AI 独立创作者被主流媒体吸纳，说明「把 AI 讲给普通人听」的内容需求旺盛，个人 AI 通讯仍是可行的起步路径。",
+   "links": [
+    "https://x.com/i/trending/2122739990677389531"
+   ],
+   "topic": "jasmine-sun-nyt-ai-writer-2026-11-17",
+   "firstSeen": "2026-11-18T04:38:57+08:00"
+  },
+  {
+   "id": "4cf60c1e98",
+   "title": "Alljoined 发布 AIR-O：用普通无创 EEG 脑电头戴设备读取注意力，实时生成你正在想的画面",
+   "summary": "创业公司 Alljoined（负责人 Jonathan Xu）推出 AIR-O，用无创脑电信号解码使用者正在关注的内容，并实时生成对应图像。团队此前做过基于 fMRI 的 MindEye2，这次转向更便宜的 EEG 硬件，并公开了大规模训练数据集。演示中受试者看着玻璃花房，笔记本上就生成了相近画面。看点：脑机接口从昂贵设备走向消费级头戴，「意念输入」类交互和配套隐私问题都会成为新话题。",
+   "links": [
+    "https://x.com/i/trending/2122770228442784016"
+   ],
+   "topic": "alljoined-air-o-eeg-image-2026-11-17",
+   "firstSeen": "2026-11-18T04:59:07+08:00"
+  },
+  {
+   "id": "df10e8e0fe",
+   "title": "Ramp 品牌负责人 Paul Jun 发文《Brand as Software》第二篇：让资深设计师少做白皮书和 PPT，转而搭建工具和 AI 智能体来守住品牌质量",
+   "summary": "Paul Jun 介绍 Ramp 如何把品牌工作当软件做：把资深设计师从重复产出中抽出来，与工程师搭档，把「质量标准」写成可扩展的工具和智能体，例如让 AI 智能体在数百个素材中检查 Logo 使用是否一致，以此保护只有人能做的创意判断；这建立在 Ramp 新品牌体系「Solar System」之上。文章在设计圈引发热议。看点：「品牌规范 → 可执行的智能体检查」是设计团队的新工作方式，也是设计类 SaaS 和技能包的机会。",
+   "links": [
+    "https://x.com/i/trending/2122777735873659295"
+   ],
+   "topic": "ramp-brand-as-software-2026-11-17",
+   "firstSeen": "2026-11-18T04:59:07+08:00"
+  },
+  {
+   "id": "b51592ca63",
+   "title": "澳大利亚 Trellis Data 发布主权大模型 Agentaus 1：2200 亿参数、数据全部留在澳洲服务器，面向政府、国防和执法",
+   "summary": "堪培拉公司 Trellis Data（创始人 Michael 和 Rachel Gately 夫妇）推出 Agentaus 1，220B 参数，全部运行在澳大利亚本土服务器，用户对话不用于训练、可按要求永久删除。MMLU-Pro 得分 84.4%，全球排名第 43；提供免费档和付费档，可接入办公工具处理文档。看点：继印度 Sarvam 之后，又一个国家级「主权 AI」落地，数据驻留和合规是中小国家模型的核心卖点。",
+   "links": [
+    "https://x.com/i/trending/2122791710535352377"
+   ],
+   "topic": "trellis-agentaus-1-sovereign-ai-2026-11-17",
+   "firstSeen": "2026-11-18T04:59:07+08:00"
+  },
+  {
+   "id": "ecb9747f10",
+   "title": "SID AI 发布搜索模型 SID-2：用成群的小智能体协同检索，号称比 Opus 和 Astra 快 8 倍、成本只有 1/20，已开放 API",
+   "summary": "SID AI 今天推出 SID-2，用协调起来的小型智能体「蜂群」做搜索和检索，官方称效果超过 Opus、Astra 等头部模型，速度快 8 倍、成本约 1/20，支持私有数据和可调推理强度，API 已在 sid.ai 开放。联合创始人 Max Rumpf 认为到 2030 年 AI 每天可能生成相当于整个互联网的文本，企业数据也会从 TB 级涨到 PB 级。看点：「小模型群体 + 检索」正挑战「一个大模型包办」，企业私有数据搜索是可切入的细分市场。",
+   "links": [
+    "https://x.com/i/trending/2122795325932937673"
+   ],
+   "topic": "sid-ai-sid-2-swarm-search-2026-11-17",
+   "firstSeen": "2026-11-18T05:12:05+08:00"
+  },
+  {
+   "id": "6567092fdb",
+   "title": "Apollo CEO Marc Rowan 在 CNBC 直言：英伟达已成 AI 繁荣的「银行」，一旦收紧供应商融资，大批 neocloud 可能断粮",
+   "summary": "Apollo 全球管理公司 CEO Marc Rowan 在 CNBC《Squawk on the Street》上表示，租 GPU 算力的 neocloud 严重依赖英伟达的供应商融资和担保来购买芯片、建数据中心；AI 总投资可能达 6–8 万亿美元并重塑信贷市场。讨论中以 CoreWeave 为例，称其到 2026 年三季度债务敞口约 151.9 亿美元、大部分与英伟达相关贷款有关。看点：AI 基建的资金链高度集中在英伟达身上，叠加英伟达近期管理层动荡，算力租赁价格和 neocloud 信用风险值得盯紧。",
+   "links": [
+    "https://x.com/i/trending/2122791715182719148"
+   ],
+   "topic": "apollo-rowan-nvidia-ai-bank-neocloud-2026-11-17",
+   "firstSeen": "2026-11-18T05:24:44+08:00"
+  },
+  {
+   "id": "9a5e29a3a7",
+   "title": "Anthropic 研究员 Tao Lin 采访观点刷屏：AI 将在多数任务上超过人类，大部分人可能永久失业、依赖福利",
+   "summary": "Anthropic 研究员 Tao Lin 在近期采访中预测：人们会短暂转向新岗位，随后这些岗位也被 AI 接手，实体机器人在动手类工作上会滞后一些。网上反应两极，有人斥为「反人类」，也有人认为护士、厨师等职业会留下，或把它看作通往共享富足的路径；讨论还引用了盖茨、鲁比尼等人关于高失业率和全民基本收入的说法。看点：AI 就业冲击已成为主流情绪话题，围绕技能转型、再就业和「AI 时代副业」的内容和工具有持续流量。",
+   "links": [
+    "https://x.com/i/trending/2122795334531211493"
+   ],
+   "topic": "anthropic-tao-lin-ai-unemployment-2026-11-17",
+   "firstSeen": "2026-11-18T05:41:56+08:00"
+  },
+  {
+   "id": "8ab094873f",
+   "title": "Anthropic S-1 披露算力去向：约 74% 用于训练，仅 26% 服务付费用户；Brad Gerstner 质疑数据中心是否需要无限扩张",
+   "summary": "据 X 上的讨论，Anthropic S-1 文件显示，近期训练及相关活动占算力约 74%，面向客户的推理约 26%，相关支出约 186 亿美元。投资人 Brad Gerstner 指出，公司今年用了约 2GW，若按每美元算力带来的收入提升约 4.3 倍推算，明年可能只需约 500MW 就能支撑预计的 1000 亿美元收入。也有人认为前沿模型竞赛中训练需求不会下降，并提到 IPO 前已锁定约 9000 亿美元基础设施合同。看点：推理效率与算力供需判断会直接影响 GPU 云和数据中心相关创业的方向。",
+   "links": [
+    "https://x.com/i/trending/2122798599079686461"
+   ],
+   "topic": "anthropic-s1-compute-74-training-2026-11-17",
+   "firstSeen": "2026-11-18T05:42:56+08:00"
+  },
+  {
+   "id": "3c581d5bc4",
+   "title": "Purism 发起 Librem 5 v2 众筹：八核 RISC-V 处理器、跑自家 PureOS，主打不用安卓和 iOS、不需要大厂账号的隐私手机",
+   "summary": "隐私硬件公司 Purism 11 月 17 日宣布第二款手机 Librem 5 v2 开启众筹，采用八核 RISC-V 处理器，运行基于自由软件的 PureOS。官方承认要做成完整可用的手机，图形、外设、功耗和应用兼容还有大量工程要补。看点：RISC-V 首次以消费级手机形态冲击大众市场，「去大厂化」隐私设备和开放架构生态（应用移植、驱动、工具链）可能出现新机会，但众筹交付风险也要盯紧。",
+   "links": [
+    "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
+    "https://news.ycombinator.com/from?site=puri.sm"
+   ],
+   "topic": "purism-librem-5-v2-risc-v-2026-11-17",
+   "firstSeen": "2026-11-18T06:01:27+08:00"
+  },
+  {
+   "id": "b9d3a2821d",
+   "title": "开源推理引擎 TrnRT 登上 Hacker News：在单台 AWS Trainium2 机器上跑 GLM-5.3-Flash，支持 100 万 token 上下文和 OpenAI 兼容接口",
+   "summary": "RunAnywhere 开源了面向 AWS Trainium 芯片的大模型推理引擎 TrnRT（Apache 2.0，GitHub 约 1600 星）：在一台 trn2.48xlarge 上提供 OpenAI 兼容 API，解码阶段用 NKI「巨型内核」实现约每半层一个内核，并在显存和主机内存间维持前缀缓存，首个支持模型是 GLM-5.3-Flash。看点：英伟达之外的推理算力（Trainium 等）开始有开源软件栈，低成本自托管推理、跨芯片部署服务和性能调优咨询值得关注。",
+   "links": [
+    "https://github.com/RunanywhereAI/trnrt",
+    "https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels"
+   ],
+   "topic": "trnrt-trainium-inference-engine-2026-11-17",
+   "firstSeen": "2026-11-18T06:01:27+08:00"
+  },
+  {
+   "id": "c7b8a45979",
+   "title": "加州车管局 DMV 下令 Waymo 停止在全州高速公路运营：认定其无人车「对公共安全构成迫在眉睫的危险」",
+   "summary": "据 ABC7 报道，加州 DMV 勒令 Waymo 暂停在加州高速公路上运营无人车，主要依据两起湾区事件：三辆 Waymo 驶入 101 号公路伯林盖姆附近正在施工的区域，以及一辆 Waymo 在 280 号州际公路上试图绕过加州高速巡警的交通管制车队。Waymo 回应称普通道路服务照常，每周超过 50 万单，正与 DMV 合作争取恢复。这是 Waymo 今年第二次在高速公路上受限（5 月曾自行暂停多城高速运营）。看点：Robotaxi 从城区扩到高速的监管门槛明显抬高，施工区/执法场景识别、远程协助和安全合规工具有需求。",
+   "links": [
+    "https://abc7news.com/story/california-dmv-bans-waymos-operating-state-freeways-bay-area-traffic-incidents/20046974/"
+   ],
+   "topic": "ca-dmv-waymo-freeway-ban-2026-11-17",
+   "firstSeen": "2026-11-18T07:00:59+08:00"
+  },
+  {
+   "id": "499e87d187",
+   "title": "英伟达黄仁勋辞职后首份财报超预期、指引上调：董事会主席当场表态不打算让黄仁勋回任 CEO，盘后股价涨超 3%",
+   "summary": "据 CNBC 直播报道，英伟达 11 月 17 日盘后公布 2027 财年第三季度业绩，营收较去年同期的 570 亿美元翻倍以上，利润和营收均超预期；下季度营收指引约 1300 亿美元（同比约增 90%），高于分析师平均 1251 亿美元，全年增速预期从 70% 上调到 75%，且仍不计入任何中国数据中心收入。董事会主席 Harvey Jones 在电话会开场表示不打算让黄仁勋回任 CEO，临时 CEO 科莱特·克雷斯称公司「一切照常」。贝索斯同日建议董事会从内部选新 CEO。看点：AI 算力需求仍在加速，但英伟达本月股价已跌 24%，领导层变动与对华限制叠加，供应链、替代芯片和算力租赁格局可能出现新机会。",
+   "links": [
+    "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html"
+   ],
+   "topic": "nvidia-q3-fy2027-earnings-board-no-huang-return-2026-11-17",
+   "firstSeen": "2026-11-18T07:10:27+08:00"
+  },
+  {
+   "id": "b53e942a5e",
+   "title": "微软 ONNX Runtime 代码仓库突然从 GitHub 消失：microsoft/onnxruntime 与 onnxruntime-genai 均返回 404，原因未公布",
+   "summary": "Hacker News 用户发现，微软开源的跨平台模型推理引擎 ONNX Runtime 的 GitHub 仓库 microsoft/onnxruntime 已无法访问；我们实测该仓库和配套的生成式 AI 仓库 onnxruntime-genai 网页与 GitHub API 都返回 404，官网 onnxruntime.ai 仍可打开。微软暂未说明是误操作、迁移还是下架。ONNX Runtime 被 Windows ML、大量端侧和服务端 AI 应用依赖。看点：如果长时间不恢复，依赖 GitHub 源码构建、CI 拉取和 issue 的团队会受影响，开源依赖镜像、供应链备份和替代推理引擎会受关注。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50539610",
+    "https://github.com/microsoft/onnxruntime"
+   ],
+   "topic": "microsoft-onnxruntime-github-404-2026-11-17",
+   "firstSeen": "2026-11-18T07:42:52+08:00"
+  },
+  {
+   "id": "c6c361c53b",
+   "title": "OpenAI 推出 ChatGPT for Sales：新销售插件加 30 多个合作伙伴插件，打通 Salesforce、HubSpot、Gong 等销售工具",
+   "summary": "OpenAI 11 月 17 日发布 ChatGPT for Sales 体验，整合新的 Sales 插件和 30 多个新增或增强的合作伙伴插件（含 Salesforce、HubSpot、Gong、ZoomInfo、Clay、Attio 等），可调取客户数据做客户调研、会前简报和跟进，让销售少做杂活、推进成交。Greg Brockman 也转发称「ChatGPT for all things sales」。看点：通用 AI 正直接切入垂直 SaaS 工作流，销售类小工具和 CRM 插件型创业会被挤压，反过来围绕插件生态的集成、行业话术模板和数据清洗服务出现新机会。",
+   "links": [
+    "https://openai.com/index/introducing-chatgpt-for-sales/",
+    "https://x.com/ChatGPT/status/2122818162995634504"
+   ],
+   "topic": "openai-chatgpt-for-sales-2026-11-17",
+   "firstSeen": "2026-11-18T11:53:47+08:00"
+  },
+  {
+   "id": "0b0e654658",
+   "title": "首笔 GPU 租赁价格场外期权成交：Hyperbolic 用 500 万美元 B200 看跌期权对冲算力租金下跌",
+   "summary": "Architect、Luxor 与 Hyperbolic 宣布完成首笔针对 GPU 租赁价格的场外（OTC）期权交易：Architect 通过其 CFTC 介绍经纪商设计了一份 500 万美元的定制看跌期权，以 Silicon Data 的英伟达 B200 租赁价格指数结算，Luxor 定价并作为交易对手，Hyperbolic 借此对冲未来 B200 出租收入下跌的风险。看点：算力正在被金融化成可交易的大宗商品，GPU 价格指数、算力期货/对冲、租金风控工具会成为新赛道。",
+   "links": [
+    "https://luxor.tech/news/corporate-news/article/luxor-architect-hyperbolic-first-otc-option-gpu-rental-prices",
+    "https://x.com/BrettHarrison/status/2122712514794500559",
+    "https://x.com/luxor/status/2122707848786284962"
+   ],
+   "topic": "gpu-rental-otc-put-option-2026-11-17",
+   "firstSeen": "2026-11-18T11:53:47+08:00"
+  },
+  {
+   "id": "4d06d13b59",
+   "title": "First Person Labs 发布 Second 并获 a16z 领投 1000 万美元种子轮：在 Mac 本地建一个「你的模型」，供各类 Agent 通过 API 调用",
+   "summary": "First Person Labs 推出 Second：安装在 Mac 上，持续汇总你的工作习惯、优先级、待办、写作样本和偏好，提炼成一个归你所有的「可携带用户模型」，并以实时 API 和上下文包的形式提供给你选择的 Agent；默认在设备本地运行，由用户控制哪些应用和 Agent 能访问。a16z 领投 1000 万美元种子轮，两位创始人分别来自斯坦福/DeepMind 的 AI 隐私研究和网络安全方向。看点：「个人上下文层」正在成为 Agent 时代的新基础设施，隐私可控的记忆/画像服务、跨 Agent 上下文协议值得关注。",
+   "links": [
+    "https://x.com/kenziyuliu/status/2122755334305669625",
+    "https://x.com/a16z/status/2122756295744983543"
+   ],
+   "topic": "first-person-labs-second-seed-2026-11-17",
+   "firstSeen": "2026-11-18T11:53:47+08:00"
+  },
+  {
+   "id": "9ea6266113",
+   "title": "首届 SGLang Summit 发布 SGLang v1.0 和 Miles v0.2：开源推理引擎已被 332 家机构使用，Meta 用它支撑数十亿用户的线上推理",
+   "summary": "开源大模型推理框架 SGLang 在旧金山举办首届 SGLang Summit（两天、2000 多人参会、90 多场技术演讲），正式发布 SGLang v1.0 和强化学习框架 Miles v0.2，并宣布 SGLang 联盟九家创始成员：英伟达、AMD、英特尔、谷歌、Meta、Thinking Machines、Cloudflare、Modal、RadixArk。官方称 SGLang 已被 332 家机构采用，Meta 用它跑服务数十亿用户的生产推理，Modal、Cloudflare、LinkedIn 等分享了落地经验。看点：开源推理栈走向 1.0 稳定版，围绕 SGLang 的部署、调优、托管推理和 RL 训练服务会更成熟，降低跑开源模型的成本门槛。",
+   "links": [
+    "https://x.com/sgl_project/status/2122736431009595422"
+   ],
+   "topic": "sglang-summit-v1-2026-11-17",
+   "firstSeen": "2026-11-18T12:08:03+08:00"
+  },
+  {
+   "id": "695d1f9a1c",
+   "title": "随机实验实锤：谷歌 AI 概览让外部网站点击减少约 40%，已覆盖六成以上美国关键词；AI 助手带来的流量仅占 0.3%",
+   "summary": "Revscope 汇总多方数据的长文登上 Hacker News：研究者在美国桌面端随机对部分用户隐藏 AI 概览，对比发现出现 AI 概览时外部网站点击下降约 40%。DataForSEO 两千万关键词面板显示，带 AI 概览的结果占比从 2024 年 9 月的 5.93% 升到 2026 年 8 月的 61.43%，精选摘要几乎消失（8.96%→0.44%），论坛讨论块也从 21% 降到 7%。今年 3 月 AI 助手只给网站带来 0.3% 的流量；GEO（生成式引擎优化）基本等于 SEO 加两点：出现在 AI 常引用的第三方站点、把页面写得便于引用。看点：靠搜索流量的内容站和工具站要重新算账，转向第三方平台曝光、可引用内容和私域渠道。",
+   "links": [
+    "https://revscope.co/blog/search-seo-geo-2026/",
+    "https://news.ycombinator.com/item?id=50540178"
+   ],
+   "topic": "revscope-ai-overviews-cut-clicks-40pct-2026",
+   "firstSeen": "2026-11-18T12:27:44+08:00"
+  },
+  {
+   "id": "3c17f9a231",
+   "title": "Cerebras 上线「拆分推理」：GPU 负责读提示词、晶圆级芯片负责吐字，同样极速下每兆瓦产出 token 提高 5 倍",
+   "summary": "Cerebras 11 月 17 日宣布拆分推理方案已投入生产：GPU 处理提示词预填（prefill），Cerebras 晶圆级引擎负责逐字生成（decode），在保持超高输出速度的同时，每兆瓦电力产出的 token 提升约 5 倍。该方案既用于 Cerebras 推理云，也开放给基础设施合作伙伴在自有数据中心部署；配合新发布的 CS-4、扩产和规划中的 700MW 数据中心，瞄准 2027 年智能体应用对高速推理的需求。看点：电力成为推理瓶颈后，「异构拆分」成为主流方向，快速推理 API 的价格和供给可能进一步改善，对做实时 Agent 产品的团队是利好。",
+   "links": [
+    "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+    "https://news.ycombinator.com/item?id=50540472"
+   ],
+   "topic": "cerebras-disaggregated-inference-2026-11-17",
+   "firstSeen": "2026-11-18T12:27:44+08:00"
+  },
+  {
+   "id": "ec92e1b251",
+   "title": "前谷歌地图、Uber 高管创办的 Voyage Labs 发布 AI 旅行代理 Atlas：发消息说想法就能自动调研、订机票酒店并盯价格，获 Kleiner Perkins 领投 1200 万美元种子轮",
+   "summary": "Voyage Labs 联合创始人 Manik Gupta（曾负责 Google Maps、任职 Uber）和 Yogesh Jain 本周推出 AI 旅行代理 Atlas：用户通过网页或短信描述出行想法（如滑雪度假、晚餐安排），Atlas 负责调研、给出个性化方案、通过合作方预订机票和酒店，并持续监控价格变化和行程中断。目前开放内测，下一步扩展餐饮和体验类供应商。看点：长周期、主动式的「会办事」旅行 Agent 开始拿到大额融资，垂直领域 Agent（旅行、本地生活）与 OTA 供应链集成是可复制的方向。",
+   "links": [
+    "https://x.com/manikgupta/status/2122736720542396523",
+    "https://x.com/i/status/2122874295445848309"
+   ],
+   "topic": "voyage-labs-atlas-travel-agent-seed-2026-11",
+   "firstSeen": "2026-11-18T12:59:38+08:00"
+  },
+  {
+   "id": "84db008bfa",
+   "title": "BrowseComp、SimpleQA 作者 Jason Wei 离开 Meta TBD 实验室，加盟估值 200 亿美元的 AI 训练数据公司 Mercor 任首席科学家",
+   "summary": "知名 AI 研究员 Jason Wei（先后任职 Google Brain、OpenAI、Meta，推动思维链推理和智能体研究，创建 SimpleQA、BrowseComp、HealthBench 等行业通用基准）宣布在 Meta TBD 实验室工作一年后加入 Mercor 任首席科学家，负责数据、评测和研究团队。Mercor 通过专家网络为大模型提供高质量训练数据，近期以 200 亿美元估值完成 7.5 亿美元 D 轮。Wei 表示「越来越多公司在训练模型，数据将塑造下一个前沿」。看点：顶级研究员流向数据与评测公司，说明专家数据、评分细则（rubric）和评测基准正成为 AI 竞争的关键资产。",
+   "links": [
+    "https://x.com/BrendanFoody/status/2122825607763689873",
+    "https://x.com/_jasonwei/status/2122826605362127094"
+   ],
+   "topic": "jason-wei-joins-mercor-2026-11-17",
+   "firstSeen": "2026-11-18T12:59:38+08:00"
+  },
+  {
+   "id": "09ca9f495b",
+   "title": "Google AI Studio 大更新：可直接在平台里买域名绑定 AI 生成的网站，还能做 Android 应用并一键发布到个人 Play 库",
+   "summary": "Google AI Studio 11 月 17 日更新：支持在平台内直接购买并绑定自定义域名，给用 Gemini 生成的网页项目挂上自有品牌；Android 应用构建能力升级，内置模拟器支持高清和音频，可接 Firestore 数据库和登录认证跨设备同步数据，并能几步发布到个人 Play 应用库（目前仅限美国），还可在应用里安全接入 AI 能力。看点：大厂把「一句话做应用→上线→绑域名」的全链路收进一个平台，独立 vibe coding 工具的差异化压力加大，也降低了个人做小应用和落地页的门槛。",
+   "links": [
+    "https://x.com/OfficialLoganK/status/2122818500763009273",
+    "https://x.com/GoogleAIStudio/status/2122752241887068565"
+   ],
+   "topic": "google-ai-studio-android-custom-domains-2026-11-17",
+   "firstSeen": "2026-11-18T12:59:38+08:00"
+  },
+  {
+   "id": "ed667ea0e1",
+   "title": "Palmer Luckey 公开秘密项目 SLAB：设计寿命 1000 年的海上浮动工业平台，让金属加工、海水淡化、医疗研究等产业避开州和地方法规",
+   "summary": "Oculus 创始人、Anduril 联合创始人 Palmer Luckey 在 X 上透露，他用 2014 年把 Oculus 卖给 Facebook 的钱开发了海上家园（seastead）项目 SLAB，设计寿命 1000 年，目标是比陆地选址更便宜，并让金属加工、医疗研究与治疗、海水淡化、炼油、化工等受州和地方法规掣肘的美国产业有地方运营；2017 年他和几位朋友以 10 亿美元估值出资，称项目「还有很长的路要走，但已取得重大进展」。概念图展示了建有工厂和直升机坪的巨型混凝土平台，网上反应从兴奋到质疑可行性都有。看点：「监管套利 + 海上基础设施」被硬科技富豪当作再工业化路径提出，相关的海工、合规和离岸产业话题可能升温。",
+   "links": [
+    "https://x.com/PalmerLuckey/status/2122861334371180795",
+    "https://x.com/Polymarket/status/2122907902034018721"
+   ],
+   "topic": "palmer-luckey-slab-seastead-2026-11-17",
+   "firstSeen": "2026-11-18T13:08:08+08:00"
+  },
+  {
+   "id": "16a7e70f25",
+   "title": "Meta 个人 AI 智能体 Muse 登陆澳大利亚：可管邮件、通过 Ticketek 订票，接入 Canva、realestate.com.au 等本地伙伴，Apple Watch 和 WearOS 支持语音",
+   "summary": "Meta 11 月 17 日在澳大利亚上线个人 AI 智能体 Muse，覆盖 iOS、Android、网页和 Mac，免费可用并提供订阅增值功能。Muse 能处理管理邮件、通过 Ticketek 订票、做健身计划等实际任务，本地合作伙伴包括 Canva 和 realestate.com.au，执行操作前需用户审批；语音模式已在 Apple Watch 和 Android WearOS 上线。Meta 首席 AI 官 Alexandr Wang 发帖宣传。同日澳洲公司 Trellis Data 也发布了主权大模型 Agentaus 1。看点：大厂个人 Agent 开始按国家逐个落地并绑定本地服务商，各地的票务、房产、生活服务平台接入 Agent 生态会是新的分发渠道。",
+   "links": [
+    "https://x.com/alexandr_wang/status/2122762964419870792",
+    "https://x.com/Muse/status/2122797416856658255"
+   ],
+   "topic": "meta-muse-australia-launch-2026-11-17",
+   "firstSeen": "2026-11-18T13:08:08+08:00"
+  },
+  {
+   "id": "b891f3a3e2",
+   "title": "腾讯混元 Hy4 flash 开源权重上线 Hugging Face：224B 总参 / 12B 激活 MoE，提供 FP8 版和基座模型，可本地部署",
+   "summary": "腾讯在 Hugging Face 公开了 Hy4 flash 的模型权重，包括指令版 tencent/Hy4-flash、FP8 量化版 Hy4-flash-FP8 和基座模型 Hy4-flash-base，非私有、无需申请即可下载（许可证标注为 other，需看腾讯自有条款）。Hy4 flash 于 11 月 16 日发布：MoE 架构总参数 224B、每 token 激活 12B，原生多模态、100 万上下文，API 输入每百万 token 约 0.07 美元，盲测办公任务满意度接近 Claude Haiku。看点：便宜又能本地跑的中国开源模型再添一员，适合做文档、PPT、简单 Agent 的私有化部署和低成本推理服务，也会推动 vLLM/SGLang 适配和量化分发生态。",
+   "links": [
+    "https://huggingface.co/tencent/Hy4-flash",
+    "https://huggingface.co/tencent/Hy4-flash-FP8",
+    "https://huggingface.co/tencent/Hy4-flash-base"
+   ],
+   "topic": "tencent-hy4-flash-open-weights-hf-2026-11",
+   "firstSeen": "2026-11-18T14:42:46+08:00"
+  },
+  {
+   "id": "d021019fd8",
+   "title": "实测揭秘：Claude 大规模学过蛋白质序列——给冷门细菌蛋白开头就能续写氨基酸，Fable 5.2 胜过所有开源蛋白语言模型",
+   "summary": "研究者 Xinming Tu 用 668 个几乎没有论文、无已解析结构的冷门细菌和古菌蛋白做「下一个氨基酸」预测测试，并用打乱顺序的同一序列做对照。结果只有最新的 Claude Fable 5.2 和 Opus 5.5 能明显预测真实序列、对打乱序列则不行，说明它们训练时大规模吃进了 UniProt 一类的蛋白序列数据，而不只是论文文字；其他前沿模型没有这种迹象。Fable 5.2 超过测试的所有开源蛋白语言模型，Opus 5.5 与最大的 ProtGPT3-10B 持平。看点：通用大模型正在悄悄变成生物序列模型，AI 制药、蛋白设计工具和生物安全评估都要重新估算通用模型的能力边界。",
+   "links": [
+    "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+    "https://news.ycombinator.com/item?id=50541619"
+   ],
+   "topic": "claude-trained-protein-sequences-probe-2026-11",
+   "firstSeen": "2026-11-18T14:55:10+08:00"
+  },
+  {
+   "id": "3ede266c56",
+   "title": "为什么 Gemini 4 Carbon 这么慢？Kernel 拆解：同一修 bug 任务它要近一小时，Opus、Astra 只要几分钟，主因是步骤和工具调用多得多",
+   "summary": "Kernel 团队在私有评测（给出只描述症状的 bug 报告，让 Agent 定位并修复）里发现 Gemini 4 Carbon 常常耗时接近一小时，而 Claude Opus 和 GPT-6 Astra 只需几分钟；Theo 等开发者也公开吐槽它「慢到没法用」。逐步追踪后发现：推理速度慢只解释了与 Astra 相比 16–30%、与 Opus 相比 45–49% 的额外耗时，其余来自更长的执行轨迹——Carbon 每个任务走的步骤、调用的工具和消耗的 token 都多得多。看点：选编码 Agent 模型不能只看榜单分数，还要看单任务时长和成本，「什么时候该停」的工程判断正成为新的差异点。",
+   "links": [
+    "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+    "https://news.ycombinator.com/item?id=50541790"
+   ],
+   "topic": "gemini-4-carbon-slowness-kernel-analysis-2026-11",
+   "firstSeen": "2026-11-18T14:55:10+08:00"
+  },
+  {
+   "id": "cb1d8f8bc8",
+   "title": "谷歌把 Gemini「任务」模式免费推给六国数亿用户：切到 Task 就能让 AI 代打电话、付账单、办杂事，新模型 Gemini 4 Hydrogen 驱动",
+   "summary": "11 月 17 日，谷歌宣布 Gemini App 的 Tasks（原 Spark 智能体）免费向美国、日本、韩国、加拿大、澳大利亚和印度的数亿用户开放，由新的 Gemini 4 Hydrogen 模型驱动。用户在首页把开关从 Chat 切到 Task，说出需求，Gemini 就会自己去打电话、下单、付账单等，可随时插话补充指令，并在关键步骤（如付款）前暂停征求确认。在美国还能把邮件转发到 gemini@google.com 或发短信给 Gemini 交办任务。看点：「替你办事」的个人智能体从付费尝鲜变成免费大众功能，会直接挤压做代办、订票、客服外呼的小型 AI 工具，也给商家带来「被 AI 打电话」的新接待场景。",
+   "links": [
+    "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+    "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+   ],
+   "topic": "gemini-tasks-free-six-countries-hydrogen-2026-11",
+   "firstSeen": "2026-11-18T15:37:59+08:00"
+  },
+  {
+   "id": "8129f68e26",
+   "title": "GitHub 新星 rust-anything 两天 2100+ 星：把整个应用逐块改写成 Rust，每一步都对照原程序录制的行为校验",
+   "summary": "开源项目 rust-anything（MIT 许可，11 月 16 日创建）两天内在 GitHub 收获 2100 多颗星。它帮你把 CLI、服务端和库「一块一块」重写成 Rust，每一步都拿原程序录下的行为做对照校验，保证迁移过程中应用始终能用；支持 Node.js/TypeScript、Python、C、Go、Ruby、Java，PHP 和 C# 处于预览，README 提供简中、繁中等 17 种语言，可通过 npm 和 crates.io 安装。看点：AI 让「整仓库换语言」变得可行，以行为录制做回归保障是关键，适合想降本提速的老项目，也催生「代码迁移即服务」的生意。",
+   "links": [
+    "https://github.com/erkamyaman/rust-anything",
+    "https://www.npmjs.com/package/rust-anything",
+    "https://crates.io/crates/rust-anything"
+   ],
+   "topic": "rust-anything-incremental-rust-rewrite-2026-11",
+   "firstSeen": "2026-11-18T17:09:55+08:00"
+  },
+  {
+   "id": "e9a68a300e",
+   "title": "免费开源 32 个 AI 营销技能包 boring-marketing-skills：调研、定位、文案、SEO、AI 搜索、广告、邮件一条龙，还有本地商家专用包",
+   "summary": "营销人 James Dickerson（@boringmarketer）11 月 16 日开源 boring-marketing-skills（MIT 许可），两天约 600 星。它给 Claude Code、Codex、Cursor 等 Agent 提供 32 个营销技能，覆盖调研、定位、文案、落地页、SEO、AI 搜索可见度、广告、邮件和内容，另有一套针对本地商家的深度技能包；据作者说都来自真实投放，不依赖任何付费工具。一条 npx skills add 即可安装，先运行 /start-here 输入商家名，它会读取官网和评价、生成品牌档案，再推荐下一步该用的技能。看点：营销正在被打包成可复用的 Agent 技能，小团队和个人可以低成本搭「AI 营销部」，给本地商家做代运营的服务门槛也进一步降低。",
+   "links": [
+    "https://github.com/boringmarketer/boring-marketing-skills",
+    "https://boringmarketing.com"
+   ],
+   "topic": "boring-marketing-skills-agent-pack-2026-11",
+   "firstSeen": "2026-11-18T17:09:55+08:00"
+  },
+  {
+   "id": "a70cae4c16",
+   "title": "开源 Agent 技能 inference-optimisation 近千星：让 AI 自动「爬坡」调优本地大模型推理速度，笔记本核显 256K 预填充提速 2.1 倍",
+   "summary": "sybil-solutions 11 月 16 日开源 inference-optimisation（MIT 许可），两天近 1000 星。这是一个给 Claude Code 等 Agent 用的技能，能在任意硬件、任意量化下自动调优本地大模型服务的速度，覆盖单用户和并发解码、投机解码、预填充、KV 缓存、启动时间和首 token 延迟。方法是先算理论上限、一次只改一个变量、和交替对照组比较、记录包括失败在内的每次结果，并要求通过长上下文检索稳定性检查。作者公布的实测：Intel Arc B390 核显笔记本跑 35B-A3B 模型，单用户解码 43.6→53 tok/s，256K 预填充 297→628 tok/s，启动 113→43 秒。看点：「让 Agent 自己做性能工程」正在变成可复制的技能，本地部署和边缘推理的调优成本会大幅下降。",
+   "links": [
+    "https://github.com/sybil-solutions/inference-optimisation-skill"
+   ],
+   "topic": "inference-optimisation-agent-skill-2026-11",
+   "firstSeen": "2026-11-18T17:09:55+08:00"
+  },
+  {
+   "id": "4220ee6225",
+   "title": "KPMG 首次用 AI 审计英国上市公司：100 多个自主 AI 代理与传统团队并行审计一家富时 250 公司，「AI 能挖得深得多」",
+   "summary": "据《金融时报》独家报道，四大会计师事务所之一 KPMG 完成了首次基于 AI 的英国上市公司审计试点：针对一家未具名的富时 250 公司财报，部署 100 多个自主 AI 代理负责数据收集、分析和底稿记录，同时与常规审计团队并行对照，结果显示 AI 能比人工团队挖得更深。看点：审计这类高度依赖数据和流程的专业服务开始被 Agent 群体实质性接手，面向中小会计所、财务团队的「AI 审计/对账/底稿助手」会迎来需求窗口。",
+   "links": [
+    "https://x.com/i/status/2122925624138613190",
+    "https://x.com/i/status/2122958032296726790"
+   ],
+   "topic": "kpmg-ai-audit-uk-2026-11",
+   "firstSeen": "2026-11-18T17:55:45+08:00"
+  },
+  {
+   "id": "e6911155a3",
+   "title": "Claude Code 推出实验性 Code Mode：Claude 写 JavaScript 脚本把 Bash、Read、Edit 等工具串起来并行跑，长命令执行中也能回复你",
+   "summary": "Anthropic 在 Claude Code v2.1.323 及之后版本加入实验性 Code Mode，用环境变量 CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1 开启。开启后 Claude 不再逐个调用工具，而是写脚本把多个工具组合起来、部分并行执行，从而减少 token 消耗，并能在长命令还在跑时继续和用户对话。看点：「用代码编排工具调用」正成为编程 Agent 的主流范式（此前 OpenCode 等也有类似模式），会进一步降低长任务成本、提高自动化复杂度。",
+   "links": [
+    "https://x.com/i/status/2122801681939234950"
+   ],
+   "topic": "claude-code-code-mode-2026-11",
+   "firstSeen": "2026-11-18T17:55:45+08:00"
   }
  ],
- "lastChecked": "2026-11-17T16:31:50+08:00"
+ "lastChecked": "2026-11-18T17:55:45+08:00"
 }
