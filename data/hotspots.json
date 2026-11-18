@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T02:30:34+08:00",
+ "lastUpdated": "2026-11-19T03:10:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51765,7 +51765,30 @@
    ],
    "topic": "reson8-rumble-2-flash-open-stt-2026-11",
    "firstSeen": "2026-11-19T02:30:34+08:00"
+  },
+  {
+   "id": "eaf6e4558b",
+   "title": "摩根大通与现代信用卡完成「两家机构的 AI 智能体互相谈判」概念验证：在 Kinexys 区块链上自动比价换汇、跨境调拨资金",
+   "summary": "据 CoinDesk 11 月 18 日报道，现代信用卡（Hyundai Card）与摩根大通在其区块链平台 Kinexys 上完成概念验证：两家机构各自的 AI 智能体相互通信，在预设额度内自动管理现金、就外汇报价进行谈判并执行跨境转账，全程无需人工介入。据 X 自动生成的新闻摘要，现代信用卡的智能体会检查海外子公司余额、比较汇率，再指示摩根大通的智能体换汇调拨；后者先核验身份与授权，大额操作转人工复核，本次为模拟测试未动用真钱，双方计划 2027 年初扩大测试。看点：「智能体对智能体」的企业金融交易开始落地，面向中小企业的自动对账、换汇比价和资金调度助手，以及智能体权限与审计工具会是新机会。",
+   "links": [
+    "https://x.com/CoinDesk/status/2123012924289462670",
+    "https://x.com/coinbureau/status/2123046064626507798",
+    "https://x.com/i/trending/2123038949614514297"
+   ],
+   "topic": "jpmorgan-hyundai-card-kinexys-agent-to-agent-fx",
+   "firstSeen": "2026-11-19T03:10:49+08:00"
+  },
+  {
+   "id": "d87ba5927f",
+   "title": "The Information 独家：英伟达销售团队曾为阿里巴巴与 Alice Huang 牵线，帮助其在美国出口管制前后寻找获取芯片的变通渠道",
+   "summary": "据 The Information 记者 Juro Osawa 与 Qianer Liu 的独家报道（经 @jingyanghk 转述），英伟达曾在阿里巴巴与 Alice Huang 之间「牵线做媒」，帮助这家中国科技巨头寻找绕开美国出口管制的办法。据 X 自动生成的新闻摘要，此事发生在 2022 年 8 月美国限制 A100 等先进芯片之前，英伟达销售人员两次介绍双方，Alice Huang 的公司由此拿下阿里这一客户，并获得银行贷款购买英伟达芯片、通过东南亚数据中心提供算力；英伟达表示一直遵守出口法规，相关调查仍在继续。看点：这一系列丑闻持续发酵，中国企业海外算力租用与芯片合规的审查会更严，合规算力中介、出口管制合规咨询与审计服务的需求可能上升。",
+   "links": [
+    "https://x.com/jingyanghk/status/2122892475539038397",
+    "https://x.com/i/trending/2123113802896130121"
+   ],
+   "topic": "nvidia-matchmaking-alibaba-alice-huang-the-information",
+   "firstSeen": "2026-11-19T03:10:49+08:00"
   }
  ],
- "lastChecked": "2026-11-19T02:31:57+08:00"
+ "lastChecked": "2026-11-19T03:10:49+08:00"
 }
