@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T07:42:52+08:00",
+ "lastUpdated": "2026-11-18T11:53:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51192,7 +51192,41 @@
    ],
    "topic": "microsoft-onnxruntime-github-404-2026-11-17",
    "firstSeen": "2026-11-18T07:42:52+08:00"
+  },
+  {
+   "id": "c6c361c53b",
+   "title": "OpenAI 推出 ChatGPT for Sales：新销售插件加 30 多个合作伙伴插件，打通 Salesforce、HubSpot、Gong 等销售工具",
+   "summary": "OpenAI 11 月 17 日发布 ChatGPT for Sales 体验，整合新的 Sales 插件和 30 多个新增或增强的合作伙伴插件（含 Salesforce、HubSpot、Gong、ZoomInfo、Clay、Attio 等），可调取客户数据做客户调研、会前简报和跟进，让销售少做杂活、推进成交。Greg Brockman 也转发称「ChatGPT for all things sales」。看点：通用 AI 正直接切入垂直 SaaS 工作流，销售类小工具和 CRM 插件型创业会被挤压，反过来围绕插件生态的集成、行业话术模板和数据清洗服务出现新机会。",
+   "links": [
+    "https://openai.com/index/introducing-chatgpt-for-sales/",
+    "https://x.com/ChatGPT/status/2122818162995634504"
+   ],
+   "topic": "openai-chatgpt-for-sales-2026-11-17",
+   "firstSeen": "2026-11-18T11:53:47+08:00"
+  },
+  {
+   "id": "0b0e654658",
+   "title": "首笔 GPU 租赁价格场外期权成交：Hyperbolic 用 500 万美元 B200 看跌期权对冲算力租金下跌",
+   "summary": "Architect、Luxor 与 Hyperbolic 宣布完成首笔针对 GPU 租赁价格的场外（OTC）期权交易：Architect 通过其 CFTC 介绍经纪商设计了一份 500 万美元的定制看跌期权，以 Silicon Data 的英伟达 B200 租赁价格指数结算，Luxor 定价并作为交易对手，Hyperbolic 借此对冲未来 B200 出租收入下跌的风险。看点：算力正在被金融化成可交易的大宗商品，GPU 价格指数、算力期货/对冲、租金风控工具会成为新赛道。",
+   "links": [
+    "https://luxor.tech/news/corporate-news/article/luxor-architect-hyperbolic-first-otc-option-gpu-rental-prices",
+    "https://x.com/BrettHarrison/status/2122712514794500559",
+    "https://x.com/luxor/status/2122707848786284962"
+   ],
+   "topic": "gpu-rental-otc-put-option-2026-11-17",
+   "firstSeen": "2026-11-18T11:53:47+08:00"
+  },
+  {
+   "id": "4d06d13b59",
+   "title": "First Person Labs 发布 Second 并获 a16z 领投 1000 万美元种子轮：在 Mac 本地建一个「你的模型」，供各类 Agent 通过 API 调用",
+   "summary": "First Person Labs 推出 Second：安装在 Mac 上，持续汇总你的工作习惯、优先级、待办、写作样本和偏好，提炼成一个归你所有的「可携带用户模型」，并以实时 API 和上下文包的形式提供给你选择的 Agent；默认在设备本地运行，由用户控制哪些应用和 Agent 能访问。a16z 领投 1000 万美元种子轮，两位创始人分别来自斯坦福/DeepMind 的 AI 隐私研究和网络安全方向。看点：「个人上下文层」正在成为 Agent 时代的新基础设施，隐私可控的记忆/画像服务、跨 Agent 上下文协议值得关注。",
+   "links": [
+    "https://x.com/kenziyuliu/status/2122755334305669625",
+    "https://x.com/a16z/status/2122756295744983543"
+   ],
+   "topic": "first-person-labs-second-seed-2026-11-17",
+   "firstSeen": "2026-11-18T11:53:47+08:00"
   }
  ],
- "lastChecked": "2026-11-18T07:42:52+08:00"
+ "lastChecked": "2026-11-18T11:53:47+08:00"
 }
