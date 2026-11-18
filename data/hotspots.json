@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T00:27:43+08:00",
+ "lastUpdated": "2026-11-19T00:41:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51573,7 +51573,44 @@
    ],
    "topic": "pangram-fooled-by-quote-collage-2026-11",
    "firstSeen": "2026-11-19T00:27:43+08:00"
+  },
+  {
+   "id": "c2fea803cb",
+   "title": "The Information：微软接近再卖给字节跳动约 5 亿美元 Azure AI 服务，主要用来调用 OpenAI 模型，引发 OpenAI 不满",
+   "summary": "据 The Information 报道（Techmeme 转述），字节跳动正与微软深入洽谈，在原本每年约 10 亿美元的 Azure AI 与云支出之外再追加约 5 亿美元，主要用于通过 Azure 调用 OpenAI 模型。OpenAI 担心中国公司借此「蒸馏」其模型训练竞品；微软称未发现字节这样做，认为对方主要用于软件开发。OpenAI 自身限制多数中国公司直接访问，但微软的授权允许其通过 Azure 向中国客户出售 OpenAI 模型。看点：微软与 OpenAI 关系再添摩擦，叠加美方讨论强制披露使用中国模型，跨境 AI 采购与合规会更敏感。",
+   "links": [
+    "https://x.com/Techmeme/status/2123055670702600485",
+    "https://x.com/wallstengine/status/2123055198323318923",
+    "https://x.com/i/trending/2123064553420489156"
+   ],
+   "topic": "microsoft-bytedance-azure-openai-500m-2026-11",
+   "firstSeen": "2026-11-19T00:41:06+08:00"
+  },
+  {
+   "id": "baa959b0cd",
+   "title": "Perplexity 上线 Context API：一次读 10 个网页、返回干净 Markdown/HTML，每 1000 个网址 1 美元；CEO 称 IPO 或提前到 2027 年一季度递表",
+   "summary": "11 月 18 日 Perplexity 开发者账号宣布 Context API 上线：每次调用最多读取 10 个 URL，按页返回干净的 .md、HTML、链接和摘要片段，官方称 92.3% 的网址能拿到可用内容、事实召回 87.9%、内容精确率 80.3%，价格为每抓取 1000 个网址 1 美元。同日 Inc42 报道，CEO Aravind Srinivas 表示在年化营收突破 10 亿美元（超出 7.5 亿美元目标）后，美国 IPO 递表最早可能提前到 2027 年一季度，原计划是 2028 年；印度借 Airtel 合作成为其最大市场。看点：给 Agent 用的「网页读取 / 抓取」API 正在被大厂压价，做爬虫中间层的创业公司要找差异化。",
+   "links": [
+    "https://x.com/perplexitydevs/status/2123085051013546406",
+    "https://x.com/Inc42/status/2122929718047453459",
+    "https://x.com/i/trending/2123091223439409553"
+   ],
+   "topic": "perplexity-context-api-ipo-q1-2027",
+   "firstSeen": "2026-11-19T00:41:06+08:00"
+  },
+  {
+   "id": "f2f12e44bc",
+   "title": "SpaceXSI 让 5 个 Grok Bot 在会计团队「全职上岗」：负责开户到回款全流程，开票从约 24 小时缩到几分钟，官方帖 250 万+浏览",
+   "summary": "SpaceXSI 官方 @bot 账号发帖称，5 个 Grok Bot 已在会计团队担任全职角色，像人类同事一样入职、培训和管理，覆盖订单到回款（order-to-cash）流程。转述帖列出分工：客户账号开通与到期回收、核对合同并开票（约 24 小时缩到几分钟）、账单答疑（估计每天为会计团队省约 8 小时）、到账与发票匹配（3–4 小时缩到约 30 分钟）、客户咨询及退款协调（退款仍需人工批准）。SpaceX CFO Bret Johnsen 称 Grok Bot「可能是目前最好的智能体 AI 方案」。官方帖浏览量超 250 万。看点：财务、账单、催收等标准化后台流程是 AI 员工最先落地的场景，面向中小企业的「AI 财务助理」配置与代运营服务有需求。",
+   "links": [
+    "https://x.com/bot/status/2122771386456551516",
+    "https://x.com/cb_doge/status/2122772667606716641",
+    "https://x.com/XFreeze/status/2122798613327999377",
+    "https://x.com/i/trending/2122802065273418160"
+   ],
+   "topic": "spacexsi-grok-bots-accounting-order-to-cash",
+   "firstSeen": "2026-11-19T00:41:06+08:00"
   }
  ],
- "lastChecked": "2026-11-19T00:27:43+08:00"
+ "lastChecked": "2026-11-19T00:41:06+08:00"
 }
