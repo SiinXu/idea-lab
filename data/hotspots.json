@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T03:38:45+08:00",
+ "lastUpdated": "2026-11-19T04:16:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51811,7 +51811,20 @@
    ],
    "topic": "google-deepmind-genie-4-project-genie-ultra",
    "firstSeen": "2026-11-19T03:38:45+08:00"
+  },
+  {
+   "id": "aa8e8f6fae",
+   "title": "可灵 AI 推出图像模型 Kling Image 4.0：原生 8K、一次出最多 10 张风格一致的组图、可渲染最多 2000 字多语种文字，fal、Higgsfield、Runware 等首日接入",
+   "summary": "快手旗下可灵 AI 发布首个主打静态图的大版本 Kling Image 4.0：画面光影和皮肤纹理更写实，支持 2K/4K/原生 8K 输出（16:9 最高 10880×6144），一个提示词可生成最多 10 张角色和色调一致的系列图，并能在图中排版最多 2000 字、七种语言的清晰文字，还能做网页/商品详情长图；单次请求可组合最多 10 张参考图。fal、Higgsfield（支持选中物体再用文字局部修改）、Runware、each::labs、Fotor 等平台已上线 API，日本创作者已在晒用它做漫画分镜的完整流程。看点：电商商品图与详情长图、广告组图、漫画/绘本分镜等批量出图服务门槛进一步降低，适合做垂直场景的模板化出图工具。",
+   "links": [
+    "https://x.com/Kling_ai/status/2123039965638795389",
+    "https://x.com/higgsfield_ai/status/2122881330136682506",
+    "https://x.com/runware/status/2122706412019097696",
+    "https://x.com/i/trending/2122827663920320910"
+   ],
+   "topic": "kling-image-4-launch",
+   "firstSeen": "2026-11-19T04:16:06+08:00"
   }
  ],
- "lastChecked": "2026-11-19T03:38:45+08:00"
+ "lastChecked": "2026-11-19T04:16:06+08:00"
 }
