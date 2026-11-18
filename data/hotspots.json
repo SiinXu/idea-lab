@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T05:02:16+08:00",
+ "lastUpdated": "2026-11-19T05:26:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51848,7 +51848,18 @@
    ],
    "topic": "bespoke-labs-multi-agent-coordination-bench",
    "firstSeen": "2026-11-19T05:02:16+08:00"
+  },
+  {
+   "id": "3ba9726229",
+   "title": "Grok Bot 社区目录 grok-bot.directory 上线：社区开发者提交的 Bot 和 App 按销售、营销、工程、设计等分类可一键添加，与官方 Marketplace 互补",
+   "summary": "由 cursor.directory 团队做的 Grok Bot 社区目录今日上线，分 Bots 和 Apps 两栏，按销售、营销、运营、工程、产品、设计、个人等分类筛选，有热门/最新/最高排行，开发者可直接提交自己的 Bot 或给 Bot 增加工具与技能的 App；官方精选仍放在 Grok Bot Marketplace。首页热门包括 Cursor 的 SWE 软件工程 Bot、Hiten Shah 的产品创意压力测试 Bot、This Week in AI 的长视频切片 Bot、做网站运营与 SEO 审计的 Website Ops 等。看点：Bot 分发渠道刚起步、竞争还少，针对具体岗位或小生意场景（跨境电商客服、网站运营、旅行规划等）打磨一个高质量 Bot 并提交上榜，是低成本获取早期用户和建立个人品牌的窗口。",
+   "links": [
+    "https://grok-bot.directory",
+    "https://x.com/i/trending/2123121150431551865"
+   ],
+   "topic": "grok-bot-community-directory-launch",
+   "firstSeen": "2026-11-19T05:26:08+08:00"
   }
  ],
- "lastChecked": "2026-11-19T05:02:16+08:00"
+ "lastChecked": "2026-11-19T05:26:08+08:00"
 }
