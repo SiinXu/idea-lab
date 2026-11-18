@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T12:08:03+08:00",
+ "lastUpdated": "2026-11-18T12:27:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51236,7 +51236,29 @@
    ],
    "topic": "sglang-summit-v1-2026-11-17",
    "firstSeen": "2026-11-18T12:08:03+08:00"
+  },
+  {
+   "id": "695d1f9a1c",
+   "title": "随机实验实锤：谷歌 AI 概览让外部网站点击减少约 40%，已覆盖六成以上美国关键词；AI 助手带来的流量仅占 0.3%",
+   "summary": "Revscope 汇总多方数据的长文登上 Hacker News：研究者在美国桌面端随机对部分用户隐藏 AI 概览，对比发现出现 AI 概览时外部网站点击下降约 40%。DataForSEO 两千万关键词面板显示，带 AI 概览的结果占比从 2024 年 9 月的 5.93% 升到 2026 年 8 月的 61.43%，精选摘要几乎消失（8.96%→0.44%），论坛讨论块也从 21% 降到 7%。今年 3 月 AI 助手只给网站带来 0.3% 的流量；GEO（生成式引擎优化）基本等于 SEO 加两点：出现在 AI 常引用的第三方站点、把页面写得便于引用。看点：靠搜索流量的内容站和工具站要重新算账，转向第三方平台曝光、可引用内容和私域渠道。",
+   "links": [
+    "https://revscope.co/blog/search-seo-geo-2026/",
+    "https://news.ycombinator.com/item?id=50540178"
+   ],
+   "topic": "revscope-ai-overviews-cut-clicks-40pct-2026",
+   "firstSeen": "2026-11-18T12:27:44+08:00"
+  },
+  {
+   "id": "3c17f9a231",
+   "title": "Cerebras 上线「拆分推理」：GPU 负责读提示词、晶圆级芯片负责吐字，同样极速下每兆瓦产出 token 提高 5 倍",
+   "summary": "Cerebras 11 月 17 日宣布拆分推理方案已投入生产：GPU 处理提示词预填（prefill），Cerebras 晶圆级引擎负责逐字生成（decode），在保持超高输出速度的同时，每兆瓦电力产出的 token 提升约 5 倍。该方案既用于 Cerebras 推理云，也开放给基础设施合作伙伴在自有数据中心部署；配合新发布的 CS-4、扩产和规划中的 700MW 数据中心，瞄准 2027 年智能体应用对高速推理的需求。看点：电力成为推理瓶颈后，「异构拆分」成为主流方向，快速推理 API 的价格和供给可能进一步改善，对做实时 Agent 产品的团队是利好。",
+   "links": [
+    "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+    "https://news.ycombinator.com/item?id=50540472"
+   ],
+   "topic": "cerebras-disaggregated-inference-2026-11-17",
+   "firstSeen": "2026-11-18T12:27:44+08:00"
   }
  ],
- "lastChecked": "2026-11-18T12:08:03+08:00"
+ "lastChecked": "2026-11-18T12:27:44+08:00"
 }
