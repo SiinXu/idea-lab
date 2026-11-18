@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T06:46:50+08:00",
+ "lastUpdated": "2026-11-19T07:12:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51937,7 +51937,18 @@
    ],
    "topic": "fake-ai-crawler-key-scanners",
    "firstSeen": "2026-11-19T06:46:50+08:00"
+  },
+  {
+   "id": "49820ab8ff",
+   "title": "Onehouse Lakegres 上线湖仓原生向量检索：不用单独的向量数据库，直接在 Hudi / Iceberg 表里建索引、用 Postgres 接口查询",
+   "summary": "Onehouse 今天宣布 Lakegres 支持向量搜索：索引作为派生元数据存放在现有或新建的 Hudi、Iceberg 开放表中，可随时构建或删除，不需要改写数据文件；它把向量聚类并存储量化编码，由写表的同一批提交一起维护，数据和索引都留在用户自己的存储桶里。官方称在 2.47 亿条向量上热查询中位延迟 63.5 毫秒，约为 Databricks AI Search 的 10 倍快（厂商自测）。看点：Agent 需要检索的客服记录、日志、文档多在比业务库大 100–1000 倍的数据湖里，「数据不搬家就能做 RAG」会降低企业知识库 Agent 的成本与同步负担。",
+   "links": [
+    "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats",
+    "https://news.ycombinator.com/item?id=50549438"
+   ],
+   "topic": "onehouse-lakegres-vector-search",
+   "firstSeen": "2026-11-19T07:12:24+08:00"
   }
  ],
- "lastChecked": "2026-11-19T06:46:50+08:00"
+ "lastChecked": "2026-11-19T07:12:24+08:00"
 }
