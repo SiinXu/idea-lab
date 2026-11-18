@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T06:17:29+08:00",
+ "lastUpdated": "2026-11-19T06:23:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51894,7 +51894,39 @@
    ],
    "topic": "unsiloed-ai-document-parsing-seed",
    "firstSeen": "2026-11-19T06:17:29+08:00"
+  },
+  {
+   "id": "7bedfda97b",
+   "title": "RadixArk 发布首个模型 DaisyRose-27B：只用 1200 道精选长程 Agent 任务做强化学习，Terminal-Bench 4.1 通过率从 5.6% 翻倍到 12%",
+   "summary": "SGLang 团队背后的 RadixArk 基于 Qwen3.8-27B，用自家 RL 框架 Miles 在 144 张 H200 上训练 18 天，任务与 Eigent AI 合作筛选：每道题都针对原模型会犯的错误重新设计，会话最长 100 万 token。除 Terminal-Bench 外，推理、指令遵循、编码基准也全面提升，并开放 BF16 / FP8 / NVFP4 权重。看点：「少量高质量任务 + 高效 RL」让小团队也能把开源模型调成可用的长程 Agent；面向中小企业的垂直 Agent（运维、数据处理）可以考虑用自有任务集做同类后训练。",
+   "links": [
+    "https://www.radixark.com/blog/daisyrose-27b",
+    "https://news.ycombinator.com/item?id=50551046"
+   ],
+   "topic": "radixark-daisyrose-27b",
+   "firstSeen": "2026-11-19T06:23:29+08:00"
+  },
+  {
+   "id": "21efcf41c8",
+   "title": "Mastra 开源「Mastra Factory」软件工厂：可在 Slack 里 @ 的 Agent 看板，上周独立开出并合并 238 个 PR",
+   "summary": "TypeScript Agent 框架 Mastra（周下载近 400 万）在 Show HN 开源了内部用来维护自身代码的 Factory：一个可配置的 Agent 看板，底层用 Mastra 的持久化 Agent 跑长会话、对话记忆、带出处引用的 Markdown 知识 wiki、订阅 PR 评论的信号机制，以及可定制的云沙箱编码环境（正在接入 Claude Code、Codex）。上周 Factory 合并 238 个 PR，人类合并 630 个。看点：「AI 软件工厂」从概念走到可直接部署的开源实现，小团队可以照搬这套看板 + Slack 触发的工作流。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50548660"
+   ],
+   "topic": "mastra-factory-open-source",
+   "firstSeen": "2026-11-19T06:23:29+08:00"
+  },
+  {
+   "id": "724823e096",
+   "title": "YC F26 公司 Maritime 发布「Agent 原生云」：沙箱之外，一并托管 Agent 的休眠/唤醒、持久存储、触发器与调度",
+   "summary": "Maritime 创始人在 Launch HN 中指出，沙箱只解决了 AI Agent 基础设施约 10% 的问题：他们访谈了数百家做 Agent 的公司，发现选了沙箱后仍要自建生命周期管理（sleep/wake、持久存储、触发器、定时调度）等。Maritime 想把这些打包成托管云，覆盖从个人助理、编码 Agent 到医疗专用 Agent 的生产部署。看点：「Agent 托管」正从沙箱赛道分化出完整 PaaS 层，常驻型 Agent 的部署门槛会继续下降。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50549188",
+    "https://maritime.sh"
+   ],
+   "topic": "maritime-agent-cloud-yc",
+   "firstSeen": "2026-11-19T06:23:29+08:00"
   }
  ],
- "lastChecked": "2026-11-19T06:17:29+08:00"
+ "lastChecked": "2026-11-19T06:23:29+08:00"
 }
