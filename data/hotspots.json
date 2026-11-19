@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T08:15:01+08:00",
+ "lastUpdated": "2026-11-19T08:31:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51982,7 +51982,19 @@
    ],
    "topic": "palo-alto-acquires-applied-compute",
    "firstSeen": "2026-11-19T08:15:01+08:00"
+  },
+  {
+   "id": "25c96fa5a2",
+   "title": "Anthropic 正式完成 IPO 定价：每股 83 美元、发行 9.8 亿股（按定价计约 813 亿美元），11 月 19 日以代码 ANT 在纳斯达克上市",
+   "summary": "Anthropic 官方公告：A 类普通股 IPO 定价每股 83 美元，高于此前传出的「80 美元以上」；共发行 9.8 亿股，其中约 9.56 亿股由公司出售、约 2365 万股由部分老股东出售，承销商另有 30 天内最多增购 1.47 亿股的选择权；SEC 已于 11 月 18 日宣布注册声明生效，股票预计 11 月 19 日在纳斯达克全球精选市场挂牌、11 月 20 日交割，高盛和摩根士丹利担任承销商。X 上的汇总报道称对应估值约 1.5 万亿美元、认购需求约 5000 亿美元。看点：史上规模最大的科技 IPO 之一落地，AI 模型公司估值从此有了公开市场锚点，也会带动 Claude 生态工具和「AI 投资资讯」类内容的关注度。",
+   "links": [
+    "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+    "https://news.ycombinator.com/item?id=50553843",
+    "https://x.com/i/trending/2122986843943911816"
+   ],
+   "topic": "anthropic-ipo-priced-83",
+   "firstSeen": "2026-11-19T08:31:16+08:00"
   }
  ],
- "lastChecked": "2026-11-19T08:15:01+08:00"
+ "lastChecked": "2026-11-19T08:31:16+08:00"
 }
