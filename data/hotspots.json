@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T07:55:38+08:00",
+ "lastUpdated": "2026-11-19T08:15:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51970,7 +51970,19 @@
    ],
    "topic": "architect-labs-frostbite-cpu",
    "firstSeen": "2026-11-19T07:55:38+08:00"
+  },
+  {
+   "id": "017aa4c872",
+   "title": "Palo Alto Networks 以 45 亿美元全股票收购 Applied Compute：成立不到两年、16 天前刚以 32.5 亿美元估值融资的「企业自有开源模型」平台",
+   "summary": "网络安全巨头 Palo Alto Networks 在发布超预期的第一财季财报（营收 34.4 亿美元，并上调全年指引）时宣布，以约 45 亿美元全股票收购 Applied Compute。这家由前 OpenAI 研究员 Yash Patil、Rhythm Garg、Linden Li 创办的旧金山公司，帮助企业用自有数据和业务流程训练、运行并持续改进开源权重模型与 AI Agent，18 个月内年化收入从零做到 1 亿美元以上；CEO Nikesh Arora 称这块业务最终可能比核心安全业务还大，消息后公司股价盘后上涨约 8–10%。看点：「安全 + 私有化模型训练」正在合流，企业私有部署、数据不出域的定制 Agent 成为大厂抢购的方向。",
+   "links": [
+    "https://x.com/i/trending/2123163232990830858",
+    "https://x.com/securityblvd/status/2123204685834121247",
+    "https://x.com/Orlon21/status/2123206726862201147"
+   ],
+   "topic": "palo-alto-acquires-applied-compute",
+   "firstSeen": "2026-11-19T08:15:01+08:00"
   }
  ],
- "lastChecked": "2026-11-19T07:55:38+08:00"
+ "lastChecked": "2026-11-19T08:15:01+08:00"
 }
