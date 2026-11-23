@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-23T15:16:43+08:00",
+ "lastUpdated": "2026-11-23T15:43:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52170,7 +52170,18 @@
    ],
    "topic": "tesla-ai5-optimus-first",
    "firstSeen": "2026-11-23T15:16:43+08:00"
+  },
+  {
+   "id": "a86187e6a6",
+   "title": "印度 Sarvam AI 发布 Sarvam-105B-1711：105B 的 Flash-Lite 级新版本，指令遵循、工具调用和印度语言能力提升",
+   "summary": "Sarvam AI 发布 105B 模型的新检查点 Sarvam-105B-1711，定位 Flash-Lite 档。官方称在指令遵循、对话、工具调用和印度语言的综合平均上，相比其他主流 Flash-Lite 模型达到新的性价比（帕累托）前沿；较上一版主要提升了 IFBench 指令遵循、Tau2 工具调用和自家 Indic 语言评测成绩。看点：主权 AI 路线下，本土厂商以低成本中型模型抢占多语言与 Agent 工具调用场景。",
+   "links": [
+    "https://x.com/i/status/2124532170505273661",
+    "https://x.com/i/status/2124532175106404588"
+   ],
+   "topic": "sarvam-105b-1711",
+   "firstSeen": "2026-11-23T15:43:53+08:00"
   }
  ],
- "lastChecked": "2026-11-23T15:16:43+08:00"
+ "lastChecked": "2026-11-23T15:44:28+08:00"
 }
