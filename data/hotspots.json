@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T02:55:44+08:00",
+ "lastUpdated": "2026-11-24T03:09:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52496,7 +52496,41 @@
    ],
    "topic": "xnu-linux-macos-userspace",
    "firstSeen": "2026-11-24T02:55:44+08:00"
+  },
+  {
+   "id": "337ad9a074",
+   "title": "a16z 领投 1.1 亿美元种子轮：Dreamer 作者 Danijar Hafner 创办 Embo，用「世界模型」给机器人造大脑",
+   "summary": "旧金山新公司 Embo 完成 1.1 亿美元种子轮，由 Andreessen Horowitz 领投。创始人 Danijar Hafner 是 Dreamer 系列世界模型智能体的作者。Embo 认为世界模型是下一代前沿 AI：先用互联网规模的视频和机器人数据预训练，让机器人能预判动作后果、从失误中恢复，并在陌生环境里稳定干活，而不是只在演示里叠衣服、做饭。",
+   "links": [
+    "https://a16z.com/announcement/investing-in-embo/",
+    "https://www.unite.ai/robot-ai-startup-embo-secures-110m-seed-investment-led-by-a16z/"
+   ],
+   "topic": "embo-world-model-robot-seed",
+   "firstSeen": "2026-11-24T03:09:32+08:00"
+  },
+  {
+   "id": "321596b1cc",
+   "title": "Signal 默认开启「屏蔽 Siri AI」：iOS 27 上禁止截屏和录屏，防止手机自带 AI 助手读取聊天内容",
+   "summary": "Signal 8.37 起在 iOS 27 上默认开启「Block Siri AI」，阻止截屏、录屏和 Siri AI 读取屏幕，用户可在 设置 > 隐私 里关闭或暂停 10 分钟；Android 版 8.35.1 起，在 Gemini 等 AI 助手试图读取屏幕时会自动开启屏幕安全。Signal 表示，系统级 AI 助手越来越多默认就能看屏幕，所以改为默认防护。Mac 版暂不支持。",
+   "links": [
+    "https://support.signal.org/hc/en-us/articles/11338514641306-Screen-security-blocking-Google-Gemini-and-Siri-AI",
+    "https://9to5mac.com/2026/11/20/signal-now-blocks-screenshots-on-iphone-to-stop-siri-ai-from-seeing-chats/",
+    "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/"
+   ],
+   "topic": "signal-block-siri-ai-screenshots",
+   "firstSeen": "2026-11-24T03:09:32+08:00"
+  },
+  {
+   "id": "374010059d",
+   "title": "马斯克向数百名工程师承认 SpaceX 在 AI 上落后对手，转而优先把算力租给 Anthropic 和谷歌赚钱，并砍掉多个 AI 项目",
+   "summary": "据报道，马斯克向 SpaceX 数百名工程师展示数据，承认公司 AI 能力落后于竞争对手，决定优先出租 GPU 算力换收入，并削减了几个 AI 项目。Anthropic 是最大租户：12 月全部合同算力到位后，每月约付 31 亿美元，合同至 2029 年总额最高 1205 亿美元；谷歌也在付费租用。外界认为这让马斯克陷入两难：对手正变成他最大的客户。",
+   "links": [
+    "https://mlq.ai/news/anthropic-and-google-pay-musks-spacex-billions-a-month-for-compute-as-he-tells-staff-it-is-falling-behind-in-ai/",
+    "https://www.investing.com/news/stock-market-news/musks-ai-push-faces-a-dilemma-as-rivals-become-major-customers-5046067"
+   ],
+   "topic": "spacex-musk-falling-behind-rents-compute",
+   "firstSeen": "2026-11-24T03:09:32+08:00"
   }
  ],
- "lastChecked": "2026-11-24T02:55:44+08:00"
+ "lastChecked": "2026-11-24T03:09:32+08:00"
 }
