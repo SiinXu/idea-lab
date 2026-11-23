@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T04:02:19+08:00",
+ "lastUpdated": "2026-11-24T04:03:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52572,7 +52572,18 @@
    ],
    "topic": "spaceman-macos-tiling-wm",
    "firstSeen": "2026-11-24T04:02:19+08:00"
+  },
+  {
+   "id": "32e8cf1338",
+   "title": "OpenAI 把 GPT-6.2 Sol 放进 ChatGPT 聊天页：Plus、Pro、企业版陆续上线，擅长复杂指令、联网比价和看图",
+   "summary": "OpenAI 11 月 23 日开始在全球逐步推送专为 ChatGPT 聊天页优化的 GPT-6.2（Sol）版本，覆盖 Plus、Pro、Business 和 Enterprise 用户（企业版需管理员开启）。官方说它更会处理带详细要求的复杂请求和联网查资料，比如比较周末酒店时权衡价格和位置并给出推荐；读图和比价能力也有提升。",
+   "links": [
+    "https://exame.com/inteligencia-artificial/chatgpt-gpt-6-2-sol-aba-chat/",
+    "https://learn.chatgpt.com/docs/whats-new/gpt-62-astra-sol"
+   ],
+   "topic": "gpt-6-2-sol-chatgpt-chat-tab",
+   "firstSeen": "2026-11-24T04:03:08+08:00"
   }
  ],
- "lastChecked": "2026-11-24T04:02:19+08:00"
+ "lastChecked": "2026-11-24T04:03:08+08:00"
 }
