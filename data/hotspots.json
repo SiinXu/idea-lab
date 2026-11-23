@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T01:14:43+08:00",
+ "lastUpdated": "2026-11-24T01:43:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52438,7 +52438,19 @@
    ],
    "topic": "marlowe-277m-seed",
    "firstSeen": "2026-11-24T01:14:43+08:00"
+  },
+  {
+   "id": "23b3618bc1",
+   "title": "MachinePulse 开源 Karpo-browser 浏览器 Agent 全栈：「System 1 决策模型 + System 2 规划」双系统，宣称任务成功率 89%、成本很低",
+   "summary": "MachinePulse 发布了 Karpo-browser 浏览器 Agent 框架。它把「快思考」和「慢思考」分开：大模型（System 2）负责定目标和填写内容，开源的 Karpo Decision 27B Act（System 1，基于 Qwen3.8-27B 微调的 26.1B 多模态模型）负责在页面给出的选项里，一次前向计算就选出点击、输入、滚动等动作，不用逐字生成文本，所以更快也更便宜。官方称任务成功率约 89%，权重在 Hugging Face，代码在 GitHub。",
+   "links": [
+    "https://karpo.ai/blog/karpo-browser",
+    "https://huggingface.co/MachinePulseAI/karpo-decision-27B-act",
+    "https://karpo.ai/zh/blog/karpo-browser"
+   ],
+   "topic": "karpo-browser-agent-stack",
+   "firstSeen": "2026-11-24T01:43:18+08:00"
   }
  ],
- "lastChecked": "2026-11-24T01:14:43+08:00"
+ "lastChecked": "2026-11-24T01:43:18+08:00"
 }
