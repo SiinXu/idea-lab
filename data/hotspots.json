@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-23T17:42:33+08:00",
+ "lastUpdated": "2026-11-23T19:12:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52238,7 +52238,19 @@
    ],
    "topic": "solana-ai-agent-infra",
    "firstSeen": "2026-11-23T17:42:33+08:00"
+  },
+  {
+   "id": "3045d2fcac",
+   "title": "神舟二十四号完成发射演练：将把巴基斯坦首位航天员送上天宫空间站，最早 11 月 25 日发射",
+   "summary": "长征二号F火箭已在酒泉卫星发射中心就位，并完成发射合练。巴基斯坦候选航天员 Muhammad Zeeshan Ali 和 Khurram Daud 中，将有一人以载荷专家身份在天宫空间站停留约一周，随后乘神舟二十三号返回。这是中国空间站首次搭载外国航天员。发射日期由巴基斯坦规划部长给出，中方尚未官宣。",
+   "links": [
+    "https://www.indiatoday.in/science/story/who-will-be-pakistans-first-astronaut-suspense-builds-as-china-preps-for-launch-3044901-2026-11-23",
+    "https://www.arabnews.pk/pakistan/china-completes-launch-drill-for-mission-carrying-pakistans-first-astronaut-3007767",
+    "https://tribune.com.pk/story/2641029/pakistan-set-to-send-first-astronaut-to-chinas-tiangong-space-station-through-shenzhou-24-mission"
+   ],
+   "topic": "shenzhou-24-pakistan-astronaut",
+   "firstSeen": "2026-11-23T19:12:29+08:00"
   }
  ],
- "lastChecked": "2026-11-23T17:42:33+08:00"
+ "lastChecked": "2026-11-23T19:12:29+08:00"
 }
