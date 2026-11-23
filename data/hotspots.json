@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T01:43:18+08:00",
+ "lastUpdated": "2026-11-24T02:16:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52450,7 +52450,19 @@
    ],
    "topic": "karpo-browser-agent-stack",
    "firstSeen": "2026-11-24T01:43:18+08:00"
+  },
+  {
+   "id": "61dcf11694",
+   "title": "DeepMind 用 Gemini 4 Agent 团队 + Lean 形式化验证找量子算法：惯性约束聚变模拟的量子电路成本降到 1/10.9",
+   "summary": "Google DeepMind 联合 Google Quantum AI 让 Gemini 4 Agent 团队自动搜索更高效的量子算法，每个结果都用 Lean 4 做形式化证明，确保正确。在惯性约束聚变的「阻止本领」模拟上，它们找到的电路把时空成本降到原来的 1/10.9，所需量子比特从 5650 个减到 4374 个。关键思路是把电子相互作用转到实空间网格上，并利用泡利不相容原理。这和 Lean 复核黎曼猜想证明一样，是「AI Agent + 形式化验证」做科研的又一个例子，药物分子模拟等方向也有成果。",
+   "links": [
+    "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "https://arxiv.org/abs/2611.09822v2",
+    "https://quantumcomputingreport.com/google-deepmind-and-google-quantum-ai-use-lean-4-to-discover-formally-verified-quantum-algorithms/"
+   ],
+   "topic": "deepmind-gemini4-quantum-algorithms-lean",
+   "firstSeen": "2026-11-24T02:16:13+08:00"
   }
  ],
- "lastChecked": "2026-11-24T01:43:18+08:00"
+ "lastChecked": "2026-11-24T02:16:13+08:00"
 }
