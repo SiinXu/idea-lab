@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T04:03:08+08:00",
+ "lastUpdated": "2026-11-24T04:17:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52583,7 +52583,18 @@
    ],
    "topic": "gpt-6-2-sol-chatgpt-chat-tab",
    "firstSeen": "2026-11-24T04:03:08+08:00"
+  },
+  {
+   "id": "98b8cb7955",
+   "title": "Arm 律师函逼停热门 AArch64 指令速查站「Jon's Arm Reference」：12 月 4 日关站，HN 近 300 分热议",
+   "summary": "开发者 Jon Palmisc 维护多年的 arm.jonpalmisc.com，提供 Armv8-A / Armv9-A 的 AArch64 指令集和系统寄存器可搜索参考，是很多底层和逆向开发者的常用书签。站长在首页公告：Arm 的律师通知他下架网站，否则将采取法律行动，网站将于 2026 年 12 月 4 日停止服务，他会想办法让旧链接继续可用。消息登上 Hacker News 首页，开发者普遍批评 Arm 官方文档难用却打压社区替代品。",
+   "links": [
+    "https://arm.jonpalmisc.com/",
+    "https://vuink.com/post/arm-d-djonpalmisc-d-dcom"
+   ],
+   "topic": "arm-jonpalmisc-reference-takedown",
+   "firstSeen": "2026-11-24T04:17:11+08:00"
   }
  ],
- "lastChecked": "2026-11-24T04:03:08+08:00"
+ "lastChecked": "2026-11-24T04:17:11+08:00"
 }
