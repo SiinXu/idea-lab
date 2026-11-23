@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-23T22:54:26+08:00",
+ "lastUpdated": "2026-11-23T23:14:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52273,7 +52273,18 @@
    ],
    "topic": "wells-fargo-ai-agent-liability-terms",
    "firstSeen": "2026-11-23T22:54:26+08:00"
+  },
+  {
+   "id": "f7c23c9fb2",
+   "title": "Bret Taylor 的 Sierra 完成 17.5 亿美元 F 轮融资，估值 300 亿美元，半年内翻倍",
+   "summary": "AI 客服 Agent 公司 Sierra 宣布 F 轮融资 17.5 亿美元，由 Greenoaks 和 Lightspeed 领投，Benchmark、红杉、GV、Tiger Global 等此前的领投方全部跟投。估值从今年 5 月的 158 亿美元涨到 300 亿美元。联合创始人 Bret Taylor（前 Salesforce 联席 CEO、OpenAI 董事长）把 Sierra 定位成每家公司的「数字前门」，也就是企业面向客户的 AI Agent 入口。这说明 AI 客服和 CX Agent 赛道的资本热度还在升温。",
+   "links": [
+    "https://sierra.ai/blog/series-f-30b",
+    "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+   ],
+   "topic": "sierra-series-f-30b",
+   "firstSeen": "2026-11-23T23:14:53+08:00"
   }
  ],
- "lastChecked": "2026-11-23T22:54:26+08:00"
+ "lastChecked": "2026-11-23T23:14:53+08:00"
 }
