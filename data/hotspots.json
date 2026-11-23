@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-23T19:12:29+08:00",
+ "lastUpdated": "2026-11-23T21:57:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52250,7 +52250,18 @@
    ],
    "topic": "shenzhou-24-pakistan-astronaut",
    "firstSeen": "2026-11-23T19:12:29+08:00"
+  },
+  {
+   "id": "6a6f2e03f1",
+   "title": "诺华 CEO 泼冷水：AI 5–10 年内治不好癌症，但能把新药研发从 12 年缩到 8 年",
+   "summary": "诺华 CEO、同时担任 Anthropic 董事的 Vas Narasimhan 接受《金融时报》采访，否认 AI 行业「5 到 10 年治愈癌症」的说法。他预计未来十年 AI 能把平均新药研发周期从 12 年缩短到 8 年，并把进入首次人体试验的药物成功率从 8% 提到 12%。这番话正好赶上 Anthropic 上市，被看作 AI 医疗叙事的一次降温。",
+   "links": [
+    "https://www.swissinfo.ch/eng/ai-and-medicine/novartis-rejects-ai-industry-hopes-to-cure-cancer-in-five-to-10-years/92422024",
+    "https://www.indiatoday.in/technology/news/story/ai-will-not-cure-cancer-in-5-to-10-years-says-novartis-ceo-who-sits-on-anthropics-board-3044965-2026-11-23"
+   ],
+   "topic": "novartis-ceo-ai-cancer-timeline",
+   "firstSeen": "2026-11-23T21:57:31+08:00"
   }
  ],
- "lastChecked": "2026-11-23T19:12:29+08:00"
+ "lastChecked": "2026-11-23T21:57:31+08:00"
 }
