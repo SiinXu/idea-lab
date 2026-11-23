@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T00:52:58+08:00",
+ "lastUpdated": "2026-11-24T01:14:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52415,7 +52415,30 @@
    ],
    "topic": "vercel-ai-gateway-audited-zdr",
    "firstSeen": "2026-11-24T00:52:58+08:00"
+  },
+  {
+   "id": "e82796adc9",
+   "title": "独立浏览器 Ladybird 正式进入 Alpha：从零自研引擎、不基于 Chromium/WebKit，已开放 macOS 和 Linux 下载",
+   "summary": "由 Andreas Kling 主导的开源浏览器 Ladybird 宣布进入 Alpha 阶段。macOS 用户拖进「应用程序」就能安装，Linux 推荐用 Flatpak，也有独立压缩包。Ladybird 的渲染和 JavaScript 引擎都从零写起，不依赖 Chromium、WebKit 或 Gecko，靠捐款运营、不接搜索引擎分成。它是近年少有的真正独立浏览器引擎，Alpha 版本还会有不少 bug 和功能缺失。",
+   "links": [
+    "https://ladybird.org/posts/alpha/",
+    "https://ladybird.org/download/"
+   ],
+   "topic": "ladybird-browser-alpha",
+   "firstSeen": "2026-11-24T01:14:43+08:00"
+  },
+  {
+   "id": "562a612d86",
+   "title": "Marlowe 拿下 2.77 亿美元种子轮、估值 11.5 亿美元：要建「多芯片 AI 工厂」，专跑 AMD 和 Etched 等非英伟达芯片做推理",
+   "summary": "Convoy 联合创始人 Dan Lewis 和前微软高管 Kutta Srinivasan 创办的 Marlowe 完成 2.77 亿美元种子轮，由 Accel 领投，估值 11.5 亿美元。公司要建设和运营针对非英伟达芯片优化的 AI 推理基础设施，先从 AMD GPU 和 Etched 的 Transformer 专用芯片做起。推理需求暴涨、英伟达供货紧张，「去英伟达化」的推理云正在吸引大额资本。",
+   "links": [
+    "https://www.geekwire.com/2026/beyond-nvidia-convoy-co-founder-and-former-microsoft-leader-raise-277m-to-rethink-ai-infrastructure/",
+    "https://marlowe.ai/introducing-marlowe.html",
+    "https://qz.com/marlowe-277-million-non-nvidia-ai-chips-seed-112326"
+   ],
+   "topic": "marlowe-277m-seed",
+   "firstSeen": "2026-11-24T01:14:43+08:00"
   }
  ],
- "lastChecked": "2026-11-24T00:52:58+08:00"
+ "lastChecked": "2026-11-24T01:14:43+08:00"
 }
