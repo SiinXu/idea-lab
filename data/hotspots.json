@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T00:14:13+08:00",
+ "lastUpdated": "2026-11-24T00:31:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52343,7 +52343,31 @@
    ],
    "topic": "moldyroost-iphone-malvertising",
    "firstSeen": "2026-11-24T00:14:13+08:00"
+  },
+  {
+   "id": "be9c8fb91e",
+   "title": "英伟达董事会反转：一致决定让黄仁勋立即回任总裁、CEO 和董事，股价盘中一度大涨约 35%",
+   "summary": "11 月 23 日，英伟达宣布董事会全票通过，黄仁勋即日起回任总裁、CEO 兼董事。几天前董事会主席还公开表示不打算让他回来。官方称这一决定是在与黄仁勋多次会谈并听取美国政府高层意见后做出的。消息带动英伟达股价盘中最多涨约 35%，IREN 等 AI 基础设施股也跟着反弹。此前他因个人丑闻和相关调查辞职，参院听证等后续事项仍待观察。",
+   "links": [
+    "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+    "https://apnews.com/article/nvidia-jensen-huang-39d4b34ffaa867b4e669893b5fd5028f",
+    "https://www.axios.com/2026/11/23/nvidia-board-jensen-huang-as-ceo"
+   ],
+   "topic": "nvidia-reinstates-jensen-huang",
+   "firstSeen": "2026-11-24T00:31:24+08:00"
+  },
+  {
+   "id": "f706853f9c",
+   "title": "网络安全史上最大并购之一：CrowdStrike 以约 439 亿美元全股票收购 Zscaler，把零信任网络并入 Falcon 平台",
+   "summary": "CrowdStrike 宣布全股票收购 Zscaler，每股 Zscaler 换 1.135 股 CrowdStrike，折合每股约 260.41 美元，溢价 34%，交易总值约 439 亿美元。Zscaler CEO Jay Chaudhry 留任负责原业务并加入董事会。双方称 AI 让网络攻击变得更快，需要把终端安全和零信任网络整合到一个平台上。交易预计在 CrowdStrike 2028 财年下半年完成，还需股东批准和监管审查。",
+   "links": [
+    "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-zscaler-bringing-network-security-and-zero",
+    "https://www.cnbc.com/2026/11/23/crowdstrike-to-buy-zscaler.html",
+    "https://news.bloomberglaw.com/mergers-and-acquisitions/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler"
+   ],
+   "topic": "crowdstrike-acquires-zscaler",
+   "firstSeen": "2026-11-24T00:31:24+08:00"
   }
  ],
- "lastChecked": "2026-11-24T00:14:13+08:00"
+ "lastChecked": "2026-11-24T00:31:24+08:00"
 }
