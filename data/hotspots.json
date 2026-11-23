@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-23T23:25:28+08:00",
+ "lastUpdated": "2026-11-24T00:14:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52296,7 +52296,54 @@
    ],
    "topic": "amazon-decart-optimization-stack",
    "firstSeen": "2026-11-23T23:25:28+08:00"
+  },
+  {
+   "id": "734abc29f9",
+   "title": "Anthropic 上市首个交易周就迎来 2 倍杠杆 ETF：GraniteShares 的 AIL/ANS 和 Tradr 的 ANTT/ANTZ 今日同步开盘",
+   "summary": "11 月 23 日，GraniteShares 在纳斯达克推出 AIL（2 倍做多 Anthropic）和 ANS（2 倍做空），Tradr 在 Cboe 推出 ANTT 和 ANTZ，另有 Leverage Shares、Defiance、ProShares 等跟进。这些产品每日重置，只适合短线交易，不适合长期持有。新股刚上市几天就有一批多空杠杆工具，说明市场对 Anthropic 股价波动的押注需求很旺。",
+   "links": [
+    "https://www.globenewswire.com/news-release/2026/11/23/3408339/0/en/graniteshares-launches-ail-and-ans-putting-both-sides-of-anthropic-on-one-exchange.html",
+    "https://www.prnewswire.com/news-releases/tradr-launches-2x-long-and-short-leveraged-etfs-on-anthropic-302947356.html",
+    "https://wolf.financial/blog/anthropic-2x-etfs-start-trading"
+   ],
+   "topic": "anthropic-2x-leveraged-etfs",
+   "firstSeen": "2026-11-24T00:14:13+08:00"
+  },
+  {
+   "id": "743d96fe6f",
+   "title": "德国 Aleph Alpha 发布开源模型 Kolibri 1.1：75B 总参、3B 激活的英德双语 MoE，单任务 GPU 用时降到 1/3.4",
+   "summary": "Aleph Alpha 在 Kolibri 1.0 发布七周后推出 1.1 版，权重以 Apache 2.0 协议放在 Hugging Face。新版用了稀疏注意力架构，推理更省，单任务 GPU 用时比 1.0 少 3.4 倍，输出 token 少约 41%，综合分从 66.6% 升到 73.2%，支持 100 万 token 上下文。官方称它在 3–4B 激活参数这一档的英语和德语成绩都最强，还超过了 GPT-OSS 120B 和 Mistral Small 4。llama.cpp 已有对应 PR。",
+   "links": [
+    "https://aleph-alpha.com/en/blog/kolibri-1-1/",
+    "https://github.com/ggml-org/llama.cpp/pull/32891"
+   ],
+   "topic": "aleph-alpha-kolibri-1-1",
+   "firstSeen": "2026-11-24T00:14:13+08:00"
+  },
+  {
+   "id": "d1abac37dc",
+   "title": "宝洁扩大「无人值守工厂」：全球已有 15 个以上站点可整班无人运转，计划到 2030 年削减 20–30% 的生产供应链人员",
+   "summary": "宝洁（P&G）表示，「熄灯工厂」式的无人值守班次将从 2027 财年起继续扩大，预计到 2030 年制造效率最多提升 20%，生产供应链人员（含外包）减少 20%–30%。这是 2027–2030 财年最多 100 亿美元生产力节省目标的一部分。消费品巨头把自动化直接写进裁员目标，是 AI 和机器人冲击制造业就业的又一个明确信号。",
+   "links": [
+    "https://qz.com/procter-gamble-plans-factories-unattended-shifts-112226",
+    "https://www.indiatoday.in/jobs/story/pg-is-making-factories-run-without-humans-plans-to-cut-30-of-jobs-by-2030-tchc-3044835-2026-11-23",
+    "https://news.bloomberglaw.com/daily-labor-report/p-g-aims-to-reduce-manufacturing-workforce-up-to-30-by-2030-1"
+   ],
+   "topic": "pg-lights-out-factories",
+   "firstSeen": "2026-11-24T00:14:13+08:00"
+  },
+  {
+   "id": "533d08969f",
+   "title": "Confiant 曝光 MoldyRoost 恶意广告行动：打开广告落地页就能入侵旧版 iPhone，翻备忘录和相册找加密钱包助记词",
+   "summary": "安全公司 Confiant 发现，MoldyRoost 在 5 月 12 日到 11 月 17 日间用 480 多个恶意广告域名覆盖 47 个国家，香港受害最重，其次是日本、新加坡。用户只要打开广告落地页，存在漏洞的 iOS 就会被国家级水平的漏洞链攻破，攻击者会搜索备忘录文字和相册里的二维码来找助记词，还会窃取钥匙串密码、短信和位置记录。建议尽快升级 iOS，别把助记词存在手机里。",
+   "links": [
+    "https://blog.confiant.com/p/moldyroost-a-malvertising-machine",
+    "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows",
+    "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap"
+   ],
+   "topic": "moldyroost-iphone-malvertising",
+   "firstSeen": "2026-11-24T00:14:13+08:00"
   }
  ],
- "lastChecked": "2026-11-23T23:25:28+08:00"
+ "lastChecked": "2026-11-24T00:14:13+08:00"
 }
