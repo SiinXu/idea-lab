@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T05:30:11+08:00",
+ "lastUpdated": "2026-11-24T06:17:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52682,7 +52682,50 @@
    ],
    "topic": "wonder-code-components",
    "firstSeen": "2026-11-24T05:30:11+08:00"
+  },
+  {
+   "id": "1d9e99ead1",
+   "title": "OpenAI 联手思科开源 Shirudo：让 AI Agent 实时写 eBPF 规则挡住漏洞利用，系统不停机、给打补丁争取时间",
+   "summary": "11 月 23 日 OpenAI 发布由 Cisco 与 OpenAI 共同打造的开源 Linux 运行时 Shirudo。它让「守护型」Agent 监控系统，并动态编写 eBPF 控制规则拦截针对漏洞的攻击，无需停机，防守方可以有更多时间测试和上线正式补丁。这是 AI 安全从「找漏洞」走向「机器速度实时防守」的一步。",
+   "links": [
+    "https://x.com/OpenAI/status/2124980590717911527"
+   ],
+   "topic": "openai-cisco-shirudo",
+   "firstSeen": "2026-11-24T06:17:06+08:00"
+  },
+  {
+   "id": "9647d11bfb",
+   "title": "Hoplite 获 Collison 兄弟领投 550 万美元并上线 Swarms：云端成千上万个 Agent 并行写代码",
+   "summary": "由利默里克大学辍学生 Ryan Morrissey 等创立的 Hoplite 宣布完成 550 万美元融资，Stripe 创始人 John 与 Patrick Collison 领投，Paul Graham、YC、Theo Browne、20VC 等参投，同时推出多 Agent 编程产品 Swarms。CEO 称未来是「云上成千上万个 Agent」，任何可验证的任务只受 token 和时间限制。",
+   "links": [
+    "https://x.com/ryan_morr/status/2124928034298028311",
+    "https://x.com/etnshow/status/2124967874821231076"
+   ],
+   "topic": "hoplite-swarms",
+   "firstSeen": "2026-11-24T06:17:06+08:00"
+  },
+  {
+   "id": "7feb7151f8",
+   "title": "SnyderBench：前沿模型设计的政治学研究方案，盲评中 93% 胜过哈佛顶级学者 Jim Snyder",
+   "summary": "Free Systems 实验室发布新评测 SnyderBench：让 AI 生成社会科学研究问题和研究设计，再由博士专家与哈佛政治经济学家 Jim Snyder 的真实论文方案盲评对比。结果前沿模型（如 OpenAI Astra 6.2）在约 93% 的对决中胜出，而 GPT-4 时代远不及。说明 AI 在「模糊、靠判断」的科研设计上也在快速逼近甚至超过顶尖专家。",
+   "links": [
+    "https://x.com/freesystemslab/status/2124893586722562076",
+    "https://x.com/ahall_research/status/2124889867968741878"
+   ],
+   "topic": "snyderbench",
+   "firstSeen": "2026-11-24T06:17:06+08:00"
+  },
+  {
+   "id": "1e7c8a72eb",
+   "title": "瑞士机器人初创 CO:PROD 出隐身即获 600 万美元种子前融资：标准化模块+统一软件，让造机器人像写软件一样快",
+   "summary": "瑞士公司 CO:PROD 于 11 月 23 日结束隐身，宣布 600 万美元 pre-seed 融资（瑞士史上最大之一），要解决机器人开发中的「集成地狱」：提供开箱即可互相配合的标准化硬件组件，并在上面提供易用的统一软件层。",
+   "links": [
+    "https://x.com/vincentslab/status/2124910920350749044",
+    "https://x.com/vincentslab/status/2124946417936736508"
+   ],
+   "topic": "coprod-robotics",
+   "firstSeen": "2026-11-24T06:17:06+08:00"
   }
  ],
- "lastChecked": "2026-11-24T05:30:11+08:00"
+ "lastChecked": "2026-11-24T06:17:06+08:00"
 }
