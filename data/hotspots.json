@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T02:16:13+08:00",
+ "lastUpdated": "2026-11-24T02:25:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52462,7 +52462,19 @@
    ],
    "topic": "deepmind-gemini4-quantum-algorithms-lean",
    "firstSeen": "2026-11-24T02:16:13+08:00"
+  },
+  {
+   "id": "1fbb7fcd07",
+   "title": "OpenAI 推出 OpenWorks 试点：出钱请本地 AI 专家免费一对一辅导美国小商家，并送 3 个月 ChatGPT Business",
+   "summary": "OpenAI 宣布 OpenWorks 试点项目，资助和培训一批「OpenWorks 合作伙伴」（本地 AI 专家），由他们免费给独立经营的美国小商家做一对一辅导和工作坊，帮餐馆、零售店、服务公司和制造商用 AI 拓客、投广告、搭建小工具。参与的商家还能免费使用 3 个月 ChatGPT Business。软件/SaaS 公司以及有风投或私募股权背景的企业不在范围内。项目目前覆盖 20 个社区。这相当于 OpenAI 直接下场做「AI 落地服务」，也说明面向中小商家的 AI 陪跑和咨询是真实需求。",
+   "links": [
+    "https://openai.com/openworks/",
+    "https://openai.com/index/helping-small-businesses-put-ai-to-work/",
+    "https://runtimewire.com/article/openai-launches-openworks-to-pay-local-ai-experts-to-coach-small-businesses-for"
+   ],
+   "topic": "openai-openworks-small-business",
+   "firstSeen": "2026-11-24T02:25:39+08:00"
   }
  ],
- "lastChecked": "2026-11-24T02:16:13+08:00"
+ "lastChecked": "2026-11-24T02:25:39+08:00"
 }
