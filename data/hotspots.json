@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-23T12:01:58+08:00",
+ "lastUpdated": "2026-11-23T12:09:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52071,7 +52071,29 @@
    ],
    "topic": "ai-generalized-riemann-hypothesis-proof-debate",
    "firstSeen": "2026-11-23T12:01:58+08:00"
+  },
+  {
+   "id": "75f9b75352",
+   "title": "Pieter Levels 公开「AI 水军回复」屏蔽名单 blockedforaireply.levels.io：约 3700 个账号，一键屏蔽并提供 JSON API",
+   "summary": "独立开发者 Pieter Levels 上线公开名单，收录约 3700 个在 X 上发重复、空洞、疑似 AI 生成回复的账号，提供一键屏蔽按钮和 JSON API，他称自己帖子下的垃圾回复已明显减少。支持者欢迎更干净的时间线，批评者（包括一些独立开发者）则抱怨误伤、缺乏证据的公开点名；申诉需公开发誓不再用 AI 回复，Levels 称复核后误判率约 0.1%。看点：「AI 垃圾内容过滤 / 信誉名单」正成为社交平台上的刚需工具方向。",
+   "links": [
+    "https://x.com/i/status/2124173662597075020",
+    "https://x.com/i/status/2124209048128016777"
+   ],
+   "topic": "levels-blockedforaireply-list",
+   "firstSeen": "2026-11-23T12:09:50+08:00"
+  },
+  {
+   "id": "dd155b2f2f",
+   "title": "Pliny「词表手术」：只改「cannot」等拒答词的嵌入、不动核心权重，就让开源 Inkling 2 Mini 的拒答率大幅下降",
+   "summary": "越狱研究者 Pliny the Liberator 发布「Vocab Surgery」方法：把「cannot」等拒答 token 的嵌入向「can」等顺从 token 方向编辑，在 264 亿参数的 Inkling-2-Mini 上显著降低拒答率，而无需改动核心权重；配合「Sure, here are the detailed step-by-step instructions」这类预填短语效果更强。另有研究者发布用迭代 abliteration 得到的「Inkling-2-Mini-heretic」版本，拒答率同样骤降且能力基本保留。看点：开源本地模型的安全对齐依旧脆弱，部署方需要外置的内容安全与审计层。",
+   "links": [
+    "https://x.com/i/status/2124584972866498884",
+    "https://x.com/i/status/2124611786553082158"
+   ],
+   "topic": "pliny-vocab-surgery-inkling-2-mini",
+   "firstSeen": "2026-11-23T12:09:50+08:00"
   }
  ],
- "lastChecked": "2026-11-23T12:01:58+08:00"
+ "lastChecked": "2026-11-23T12:09:50+08:00"
 }
