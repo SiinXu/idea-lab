@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-23T12:45:30+08:00",
+ "lastUpdated": "2026-11-23T13:08:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52137,7 +52137,18 @@
    ],
    "topic": "no-speaker-macbook-trackpad-haptic-audio",
    "firstSeen": "2026-11-23T12:45:30+08:00"
+  },
+  {
+   "id": "43a5ad4881",
+   "title": "MemOS 联合英伟达发布 MemT-1.0-Pro：基于 Nemotron 3 Ultra，把持久记忆直接做进模型架构，已在 Hugging Face 开放",
+   "summary": "MemOS 与 NVIDIA 合作推出 MemT-1.0-Pro，以 Nemotron 3 Ultra 为骨干，在架构内嵌入固定大小的记忆块，模型可逐 token 读、写、更新和遗忘信息，不必依赖越来越长的上下文或外部检索工具。官方称其在同类记忆基准上领先，模型已在 Hugging Face 开放。看点：Agent 长期记忆正从「外挂 RAG / 记忆库」走向「模型原生记忆」，长期陪伴、个人助理类应用可能受益。",
+   "links": [
+    "https://x.com/i/status/2124623963087126562",
+    "https://x.com/i/status/2124682970258866274"
+   ],
+   "topic": "memos-memt-1-0-pro-built-in-memory",
+   "firstSeen": "2026-11-23T13:08:35+08:00"
   }
  ],
- "lastChecked": "2026-11-23T12:45:30+08:00"
+ "lastChecked": "2026-11-23T13:08:35+08:00"
 }
