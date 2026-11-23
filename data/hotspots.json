@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T00:31:24+08:00",
+ "lastUpdated": "2026-11-24T00:42:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52367,7 +52367,44 @@
    ],
    "topic": "crowdstrike-acquires-zscaler",
    "firstSeen": "2026-11-24T00:31:24+08:00"
+  },
+  {
+   "id": "77d7464e6b",
+   "title": "深圳自变量机器人（X Square Robot）发布 WALL-OSS-1.0：基于 Qwen3.5 的原生 VLA 具身基础模型，312 个真机任务零样本成功率 55.1%",
+   "summary": "11 月 23 日，自变量机器人发布 WALL-OSS-1.0。这是一个视觉-语言-动作（VLA）基础模型，不针对具体任务微调也能听懂开放式指令并操作真实机器人，在 312 个真机任务上的零样本成功率为 55.1%。完整基座权重标注「即将开放」，目前先在 Hugging Face 放出 4B 的 Lite 版 RoboDojo 微调检查点，采用 Apache 2.0 协议，推理和评测代码在 GitHub 的 wall-x 仓库。",
+   "links": [
+    "https://x2robot.com/blogs/wall-oss-1-en/",
+    "https://www.globenewswire.com/news-release/2026/11/23/3408046/0/en/x-square-robot-introduces-wall-oss-1-0-understand-more-act-better-a-native-foundation-model-for-the-physical-world.html",
+    "https://github.com/X-Square-Robot/wall-x"
+   ],
+   "topic": "x-square-wall-oss-1-0",
+   "firstSeen": "2026-11-24T00:42:07+08:00"
+  },
+  {
+   "id": "aa52748596",
+   "title": "弗吉尼亚和俄勒冈两州总检察长起诉 SpaceX（X、xAI 母公司）：指 Grok 生成并传播儿童性剥削和未经同意的性化图像",
+   "summary": "弗吉尼亚州总检察长 Jay Jones 和俄勒冈州总检察长 Dan Rayfield 分别提起诉讼，被告包括 SpaceX、SpaceXAI 和 X。诉状称 Grok 的图像生成防护措施不足，导致平台上出现大量儿童性剥削内容和未经同意的深度伪造性图像，违反了州消费者保护法。这是美国州政府首次直接就生成式 AI 图像滥用起诉马斯克旗下公司，可能成为 AI 平台内容责任的标志性案件。",
+   "links": [
+    "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+    "https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-takes-legal-action-against-grok-for-failing-to-block-child-exploitation/",
+    "https://apnews.com/article/grok-lawsuit-elon-musk-ai-abuse-images-452cc64e7169a55868f797982d0e8238",
+    "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/"
+   ],
+   "topic": "va-or-sue-spacex-grok-images",
+   "firstSeen": "2026-11-24T00:42:07+08:00"
+  },
+  {
+   "id": "f8174bf4cb",
+   "title": "阿联酋上线政府 AI 管家 Mira：公民、居民和游客用一个智能体办理全部政府服务，不用再在多个平台间来回切换",
+   "summary": "迪拜酋长穆罕默德·本·拉希德在有约 1000 名官员出席的活动上发布了新的政府服务模式和 AI 管家「Mira」。Mira 是统一入口，可以跨部门理解需求、办理手续、主动提醒，目标是让人们不再需要分别登录多个政府平台。这是继此前与 OpenAI 合作打造「AI 原生政府」之后，阿联酋把 AI Agent 直接用于全民公共服务的又一步。",
+   "links": [
+    "https://www.mediaoffice.ae/en/news/2026/novemebr/23-11/mohammed-bin-rashid-launches-new-uae-government-services-model-and-ai-agent-mira",
+    "https://www.thenationalnews.com/news/uae/2026/11/23/uae-unveils-government-ai-assistant-called-mira-to-boost-public-services/",
+    "https://gulfnews.com/uae/sheikh-mohammed-says-uae-governments-new-ai-assistant-mira-will-eliminate-need-for-multiple-platforms-1.500758155"
+   ],
+   "topic": "uae-mira-government-ai-agent",
+   "firstSeen": "2026-11-24T00:42:07+08:00"
   }
  ],
- "lastChecked": "2026-11-24T00:31:24+08:00"
+ "lastChecked": "2026-11-24T00:42:07+08:00"
 }
