@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-23T15:43:53+08:00",
+ "lastUpdated": "2026-11-23T16:00:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52181,7 +52181,29 @@
    ],
    "topic": "sarvam-105b-1711",
    "firstSeen": "2026-11-23T15:43:53+08:00"
+  },
+  {
+   "id": "a10dece9a3",
+   "title": "南非总统拉马福萨结束硅谷之行：拟设 1 亿兰特 AI 创投基金和信用担保基金，并定下 90 天落地计划",
+   "summary": "拉马福萨在硅谷访问收尾的记者会上宣布，南非拟设立 1 亿兰特的风险投资基金和信用担保基金，扶持 AI 及更广泛科技领域的初创公司；政府将对创业者的投入进行配套，并邀请私营部门共建融资生态。随行的科学家兼创业者 Siyabulela Xuza 强调要在总统提出的 90 天期限内把考察所得变成具体项目，让中小企业和创业者都能抓住 AI 机会。看点：新兴市场开始用政府配套基金 + 限期计划推动本土 AI 创业。",
+   "links": [
+    "https://x.com/i/status/2124376384285945875",
+    "https://x.com/i/status/2124380005530534018"
+   ],
+   "topic": "south-africa-ai-vc-fund-90-day",
+   "firstSeen": "2026-11-23T16:00:01+08:00"
+  },
+  {
+   "id": "0a61758ac4",
+   "title": "MyClaw 3.0 发布：把 Claude Code、Codex、OpenClaw 等任意 Agent 套进「自带工具的 AI 同事」，配 5000+ 实时数据源和最高 64 核云电脑",
+   "summary": "MyClaw 推出 3.0，主打「开箱即用的 AI 同事」而不是需要人盯着的空白 Agent：可接入 Claude Code、Codex、Hermes、Pi、OpenClaw 等任意 harness 并共享上下文，内置 5000 多个实时数据源，提供最高 64 vCPU / 128GB 内存 / 1.28TB 存储的云端电脑，并可通过浏览器、Slack、Teams、Telegram、WhatsApp 使用，约 30 秒就绪。X 新闻相关话题称其 7 个月用户达 110 万（官方帖未直接给出该数字）。看点：Agent 赛道从「聊天助手」转向「带电脑、带工具、带数据的团队成员」。",
+   "links": [
+    "https://x.com/i/status/2123053283665203371",
+    "https://x.com/i/status/2124724496720605199"
+   ],
+   "topic": "myclaw-3-ai-teammates",
+   "firstSeen": "2026-11-23T16:00:01+08:00"
   }
  ],
- "lastChecked": "2026-11-23T15:44:28+08:00"
+ "lastChecked": "2026-11-23T16:00:01+08:00"
 }
