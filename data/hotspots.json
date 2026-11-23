@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T04:46:47+08:00",
+ "lastUpdated": "2026-11-24T04:59:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52628,7 +52628,29 @@
    ],
    "topic": "atlassian-ai-pdlc-direction-over-speed",
    "firstSeen": "2026-11-24T04:46:47+08:00"
+  },
+  {
+   "id": "13c6c27ea3",
+   "title": "实测 25 款 AI 购物助手、200 次真实下单只成功 28 次：成功率 14%，没有一款全部完成",
+   "summary": "Assistant Benchmark 让 25 个 AI 助手各完成 8 个真实购物任务，共 200 次下单尝试，覆盖 Nike、Amazon、Target 等商店，最终只有 28 单被商家接受，成功率 14%。失败原因：付款前被网站拦截占 36%，助手自身出错占 27.5%，未完成占 12%，付款被拒占 6.5%，被取消或退款占 4%。在银行把 Agent 操作风险转嫁给用户、沃尔玛等开放 Agent 接口的同时，「代理电商」离真正可用还很远。",
+   "links": [
+    "https://assistantbenchmark.com/reports/consumer-ai-commerce"
+   ],
+   "topic": "assistant-benchmark-ai-shopping-14pct",
+   "firstSeen": "2026-11-24T04:59:36+08:00"
+  },
+  {
+   "id": "0ca6228b8d",
+   "title": "YC F26 公司 Perit 4.5 个月营收超 1100 万美元：雇客服、店主等真实从业者录语音和第一视角视频，卖给前沿 AI 实验室",
+   "summary": "Perit 招募各行业专家，在真实家庭和工作场所用胸戴或头戴相机录制第一视角视频，并采集语音、代码和多模态数据，覆盖 9 种语言，再交给从业者打分，卖给前沿 AI 实验室做训练和强化学习环境。公司称成立 4.5 个月营收已超 1100 万美元，还上线了 Perit Marketplace：个人可提交自有数据或搭建 RL 任务，由 Perit 对接实验室并分成。",
+   "links": [
+    "https://www.ycombinator.com/companies/peritai",
+    "https://perit.ai/",
+    "https://www.producthunt.com/products/perit-marketplace"
+   ],
+   "topic": "perit-ai-expert-training-data-yc",
+   "firstSeen": "2026-11-24T04:59:36+08:00"
   }
  ],
- "lastChecked": "2026-11-24T04:46:47+08:00"
+ "lastChecked": "2026-11-24T04:59:36+08:00"
 }
