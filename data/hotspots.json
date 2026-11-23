@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T00:42:07+08:00",
+ "lastUpdated": "2026-11-24T00:52:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52404,7 +52404,18 @@
    ],
    "topic": "uae-mira-government-ai-agent",
    "firstSeen": "2026-11-24T00:42:07+08:00"
+  },
+  {
+   "id": "28c4d4a7a2",
+   "title": "Vercel AI Gateway 推出「审计版零数据保留」：只把请求路由给通过独立安全审计、证明不留存提示词的推理服务商，并做金丝雀抽检",
+   "summary": "11 月 23 日，Vercel 给 AI Gateway 加了 Audited ZDR 档位。开启后，整个团队的请求只会路由和故障转移到那些已公开独立审计报告、能证明不持久保存提示词、输出、文件、日志和缓存的推理服务商。Vercel 还会持续用「金丝雀」探针抽查服务商是否真的不留数据。此前 Dragos 用金丝雀令牌发现多家推理服务商偷存提示词、OpenRouter 随后下架服务商，「零数据保留」从一句承诺变成了需要审计证明的硬指标。",
+   "links": [
+    "https://vercel.com/blog/introducing-audited-zdr-on-ai-gateway",
+    "https://vercel.com/changelog/ai-gateway-now-runs-canary-zdr-audits"
+   ],
+   "topic": "vercel-ai-gateway-audited-zdr",
+   "firstSeen": "2026-11-24T00:52:58+08:00"
   }
  ],
- "lastChecked": "2026-11-24T00:42:07+08:00"
+ "lastChecked": "2026-11-24T00:52:58+08:00"
 }
