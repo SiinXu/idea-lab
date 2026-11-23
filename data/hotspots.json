@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T04:59:36+08:00",
+ "lastUpdated": "2026-11-24T05:12:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52650,7 +52650,18 @@
    ],
    "topic": "perit-ai-expert-training-data-yc",
    "firstSeen": "2026-11-24T04:59:36+08:00"
+  },
+  {
+   "id": "2403662f85",
+   "title": "印度 Sarvam AI 推出 Dictate 听写 API：自动去掉口误、重复和语气词，直接输出想写的文字，支持英语和 22 种印度语言",
+   "summary": "Sarvam 发布面向开发者的听写接口 Sarvam Dictate：说话人常会重复、改口、用模型没见过的专有名词，Dictate 会同时返回原始转写和整理后的「想写的文本」，覆盖英语和 22 种印度语言，可传入词表、上下文和风格。单段音频最长 30 秒，价格每分钟 0.5 卢比，官方称准确率超过 Gemini 3.5 Transcribe。适合做输入法、笔记和客服场景的语音输入。",
+   "links": [
+    "https://www.sarvam.ai/blogs/sarvam-dictate",
+    "https://docs.sarvam.ai/api/api-guides-tutorials/dictate/overview"
+   ],
+   "topic": "sarvam-dictate-api",
+   "firstSeen": "2026-11-24T05:12:45+08:00"
   }
  ],
- "lastChecked": "2026-11-24T04:59:36+08:00"
+ "lastChecked": "2026-11-24T05:12:45+08:00"
 }
