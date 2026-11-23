@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-23T23:14:53+08:00",
+ "lastUpdated": "2026-11-23T23:25:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52284,7 +52284,19 @@
    ],
    "topic": "sierra-series-f-30b",
    "firstSeen": "2026-11-23T23:14:53+08:00"
+  },
+  {
+   "id": "d83fc11b83",
+   "title": "亚马逊约 75 亿美元买下 Decart 的 AI 优化技术栈和团队，给 Trainium 芯片补软件、对抗英伟达",
+   "summary": "亚马逊与以色列 AI 创业公司 Decart 签约，收购其专有的 Optimization Stack（DOS）技术，三位联合创始人和工程团队也一起加入，交易额据报约 75 亿美元。DOS 用来加速 AI 模型在 Trainium 等硬件上的训练和推理，Decart 宣称做实时视频时比 GPU 快 4 倍、成本减半。亚马逊没有买 Decart 的模型本身。据 Calcalist 报道，Decart 此前和 Anthropic、英伟达的收购谈判都没谈成。这类「买技术加招团队」的交易，正成为大厂补齐自研芯片软件生态的常见做法。",
+   "links": [
+    "https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization",
+    "https://www.calcalistech.com/ctechnews/article/g0mtcg4mi",
+    "https://qz.com/amazon-decart-acquisition-ai-chips-software-112326"
+   ],
+   "topic": "amazon-decart-optimization-stack",
+   "firstSeen": "2026-11-23T23:25:28+08:00"
   }
  ],
- "lastChecked": "2026-11-23T23:14:53+08:00"
+ "lastChecked": "2026-11-23T23:25:28+08:00"
 }
