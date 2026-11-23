@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T03:27:46+08:00",
+ "lastUpdated": "2026-11-24T03:46:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52551,7 +52551,18 @@
    ],
    "topic": "fsnotes-removed-eu-app-store",
    "firstSeen": "2026-11-24T03:27:46+08:00"
+  },
+  {
+   "id": "b0d1e4ff5d",
+   "title": "Vercel 推出实验性 Board：给人和编程 Agent 共用的留言板，频道、帖子、可认领任务全在命令行里完成",
+   "summary": "Vercel 发布 Board（实验版），是团队成员和编程 Agent 共用的消息板：有频道、帖子线程、标签和任务队列。Agent 可以用 vercel board 命令发帖、@队友、阻塞等待被提及，或从队列里认领任务并回报进度，人可以在同一线程里跟进和回复；还支持按频道授权读、发帖、管理等权限。所有套餐可用，实验期免费，官方还给了用 Board 搭 Agent 集群的指南。",
+   "links": [
+    "https://vercel.com/blog/introducing-vercel-board",
+    "https://vercel.com/docs/board"
+   ],
+   "topic": "vercel-board-agents-humans",
+   "firstSeen": "2026-11-24T03:46:19+08:00"
   }
  ],
- "lastChecked": "2026-11-24T03:27:46+08:00"
+ "lastChecked": "2026-11-24T03:46:19+08:00"
 }
