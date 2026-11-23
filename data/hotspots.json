@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T03:46:19+08:00",
+ "lastUpdated": "2026-11-24T04:02:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52562,7 +52562,17 @@
    ],
    "topic": "vercel-board-agents-humans",
    "firstSeen": "2026-11-24T03:46:19+08:00"
+  },
+  {
+   "id": "9a1d67cb89",
+   "title": "Kit Langton 发布 macOS 平铺窗口管理器 Spaceman：专为 Apple 芯片打造，窗口并排不重叠、支持 10 个编号工作区，免费预览",
+   "summary": "开发者 Kit Langton（opencode 团队）推出 Spaceman，一个面向 Apple 芯片 Mac（macOS 14 以上）的平铺式窗口管理器：自动把窗口并排铺开、互不遮挡，支持 10 个编号工作区和键盘快捷操作，目前免费预览。发布推文短时间内获得数千浏览，是 Rectangle、AeroSpace 之外的新选择。",
+   "links": [
+    "https://anoma.ly/spaceman"
+   ],
+   "topic": "spaceman-macos-tiling-wm",
+   "firstSeen": "2026-11-24T04:02:19+08:00"
   }
  ],
- "lastChecked": "2026-11-24T03:46:19+08:00"
+ "lastChecked": "2026-11-24T04:02:19+08:00"
 }
