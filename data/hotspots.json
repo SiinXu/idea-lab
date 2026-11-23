@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-23T16:24:51+08:00",
+ "lastUpdated": "2026-11-23T16:37:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52215,7 +52215,19 @@
    ],
    "topic": "antigravity-t3code-no-ban",
    "firstSeen": "2026-11-23T16:24:51+08:00"
+  },
+  {
+   "id": "9ddec0d6b4",
+   "title": "NHS 启动全球最大 AI 辅助乳腺癌筛查试验 EDITH：3 年内邀请近 70 万名女性，首批已入组",
+   "summary": "英国 NHS 11 月 23 日宣布，开始邀请女性加入全球规模最大的 AI 辅助乳腺筛查试验 EDITH：未来 3 年约 70 万名参加常规筛查的女性、全英约 30 个站点参与，由政府通过 NIHR 出资约 1000 万英镑。AI 工具与放射科医生一起审阅乳腺 X 光片，检验能否更早发现癌症，并减少目前「双人阅片」对专科医生的占用；女性可选择退出，临床决定仍由 NHS 人员做出。看点：医疗 AI 从单点研究走向全国级前瞻性随机试验，结果将决定 AI 能否正式进入国家筛查流程。",
+   "links": [
+    "https://www.england.nhs.uk/2026/11/first-women-join-world-leading-ai-assisted-nhs-breast-screening-trial/",
+    "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo",
+    "https://x.com/i/status/2124758472549888501"
+   ],
+   "topic": "nhs-edith-ai-breast-screening-trial",
+   "firstSeen": "2026-11-23T16:37:37+08:00"
   }
  ],
- "lastChecked": "2026-11-23T16:24:51+08:00"
+ "lastChecked": "2026-11-23T16:37:37+08:00"
 }
