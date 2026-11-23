@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T04:22:59+08:00",
+ "lastUpdated": "2026-11-24T04:46:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52605,7 +52605,30 @@
    ],
    "topic": "rauch-personal-eval-gemini-neon-vs-opus",
    "firstSeen": "2026-11-24T04:22:59+08:00"
+  },
+  {
+   "id": "e277391e1a",
+   "title": "Anthropic 推出 Claude Ship 测试版：AI 审 PR、修失败检查和合并冲突，还能按团队规则自动批准常规改动",
+   "summary": "Claude Ship 是一组面向 GitHub 拉取请求的 Agent，目前对 Claude Team 和 Enterprise 用户开放测试：Code Review 查逻辑错误、安全漏洞和边界情况；PR Steward 自动修复失败的 CI 检查、合并冲突和评审意见；Claude Approvals 按仓库里的 .claude/approvals.yml 策略批准常规改动，或要求人工签字，可先观察模式再设为必过检查。The Verge、The New Stack 均有报道，「AI 自己批准 PR」引发争议。",
+   "links": [
+    "https://claude.com/resources/articles/introducing-claude-ship",
+    "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+    "https://thenewstack.io/anthropic-claude-ship-approvals/"
+   ],
+   "topic": "anthropic-claude-ship-beta",
+   "firstSeen": "2026-11-24T04:46:47+08:00"
+  },
+  {
+   "id": "cd475ad091",
+   "title": "Atlassian 公开 AI 研发实验教训：十来个团队打破岗位边界、几周清空积压，一个月后却失速——方向比速度更重要",
+   "summary": "Atlassian 让约 10 个团队的工程师、产品经理和设计师都用 AI 直接写代码上线、不分角色，起初几周就清空了积压需求；但一个月后势头消退，因为人人都在「划船」，没人定方向、做关键取舍。之后产品和设计回到掌舵位置：排优先级、补充客户背景、把关质量。Atlassian 发布了 3 条经验和一份 AI 产品研发流程（AI PDLC）手册。",
+   "links": [
+    "https://www.atlassian.com/blog/how-we-build/3-lessons-from-rebuilding-atlassians-product-development-lifecycle-for-people-and-agents",
+    "https://sherifmansour.medium.com/direct-the-ship-dont-row-it-28785929626f"
+   ],
+   "topic": "atlassian-ai-pdlc-direction-over-speed",
+   "firstSeen": "2026-11-24T04:46:47+08:00"
   }
  ],
- "lastChecked": "2026-11-24T04:22:59+08:00"
+ "lastChecked": "2026-11-24T04:46:47+08:00"
 }
