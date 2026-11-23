@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-23T12:29:28+08:00",
+ "lastUpdated": "2026-11-23T12:45:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52104,7 +52104,40 @@
    ],
    "topic": "forward-deployed-engineer-demand-729pct",
    "firstSeen": "2026-11-23T12:29:28+08:00"
+  },
+  {
+   "id": "b23940ac8b",
+   "title": "智谱 Z.ai 推出 GLM-5.4：编程和多模态视觉能力升级，GLM Coding Plan 周额度用户比 GLM-5.3 多 50% 用量",
+   "summary": "Z.ai（智谱）发布 GLM-5.4，面向编程与 Agent 任务，带来更强的代码能力和多模态（视觉）能力，先向 GLM Coding Plan 用户开放，周额度用户可用量比 GLM-5.3 多 50%。Zixuan Li 宣布了此次更新，距 8 月的 GLM-5.3 不久。开发者称 UI 截图分析等功能实用，但也有人希望看到公开基准和付费计划之外的开放渠道。看点：国产编程模型订阅套餐的迭代与额度竞争仍在加速。",
+   "links": [
+    "https://x.com/i/status/2124719275864670681",
+    "https://x.com/i/status/2124713182811816366"
+   ],
+   "topic": "zai-glm-5-4-launch",
+   "firstSeen": "2026-11-23T12:45:30+08:00"
+  },
+  {
+   "id": "d9de32c880",
+   "title": "pequalnp.com 直播 AI Agent 群攻 P vs NP：每个证明或反例都由 Lean 即时检验，已积累数百条主张、尚无突破",
+   "summary": "11 月 22 日上线的 pequalnp.com 同时运行多个 AI Agent，有的试图证明 P=NP、有的试图否证，另有红队 Agent 专门找漏洞，所有主张都由 Lean 证明助手即时检验并形成公开记录，目前已有数百条主张但无一成功。MIT 的 Ryan Williams 概括了三种可能结局：给出不实用算法的 P=NP 证明、更难的否证，或罕见的不可判定。看点：紧随 AI 证明黎曼猜想的热度，「Agent + 形式化验证 + 公开直播」成了新的科研展示形式。",
+   "links": [
+    "https://x.com/i/status/2124697909333746059",
+    "https://x.com/i/status/2124620393571135701"
+   ],
+   "topic": "pequalnp-ai-agents-lean-livestream",
+   "firstSeen": "2026-11-23T12:45:30+08:00"
+  },
+  {
+   "id": "869327aa34",
+   "title": "开源工具 NO SPEAKER 把 MacBook 触控板变成扬声器：用 Force Touch 震动马达发出 100Hz–4kHz 的声音",
+   "summary": "开发者 Cody Collier 开源 NO SPEAKER，利用 2015 年以后 MacBook 的 Force Touch 触觉马达振动触控板玻璃来发声，频率范围约 100 Hz 到 4 kHz；它调用 macOS 文字转语音，把音频映射为每秒最多 4000 次的马达脉冲，终端一行安装或下载 App 即可。演示里静音的笔记本也能「说唱」，已衍生出模拟机械键盘音的 MechPad 等分支，还有人设想做 MIDI 乐器。看点：硬件「另类用法」类小工具天然适合传播。",
+   "links": [
+    "https://x.com/i/status/2124505859883716918",
+    "https://x.com/i/status/2124609681146462326"
+   ],
+   "topic": "no-speaker-macbook-trackpad-haptic-audio",
+   "firstSeen": "2026-11-23T12:45:30+08:00"
   }
  ],
- "lastChecked": "2026-11-23T12:29:28+08:00"
+ "lastChecked": "2026-11-23T12:45:30+08:00"
 }
