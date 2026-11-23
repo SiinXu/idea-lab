@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-23T21:57:31+08:00",
+ "lastUpdated": "2026-11-23T22:54:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52261,7 +52261,19 @@
    ],
    "topic": "novartis-ceo-ai-cancer-timeline",
    "firstSeen": "2026-11-23T21:57:31+08:00"
+  },
+  {
+   "id": "dcc2c6a8f4",
+   "title": "富国银行新条款 11 月 24 日生效：用 AI Agent 操作网银「风险自负」，Agent 发起的交易一律算本人授权",
+   "summary": "富国银行更新《在线访问协议》，新增第 15 条「第三方 AI 代理」：用户用外部 AI 工具或 Agent 登录账户属于「风险自负」，Agent 发起的请求和交易都视为用户本人授权，银行不负责监控 Agent 的行为，还可以随时限制或封禁特定 AI 工具。用户要自己管理和撤销 Agent 的访问权限。富国没有像摩根大通、花旗、嘉信那样直接封禁凭证登录，而是把责任整个转给用户。摩根大通的新版数字服务协议也写明，Agent 做的一切都算用户授权，2027 年 1 月 1 日生效。WIRED 等媒体指出，Regulation E 对未授权转账的保护在 Agent 场景下被大幅架空。",
+   "links": [
+    "https://www.wellsfargo.com/mobile-online-banking/updates/",
+    "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+    "https://www.americanbanker.com/news/wells-fargo-wants-customers-to-prove-theyve-revoked-ai-agents"
+   ],
+   "topic": "wells-fargo-ai-agent-liability-terms",
+   "firstSeen": "2026-11-23T22:54:26+08:00"
   }
  ],
- "lastChecked": "2026-11-23T21:57:31+08:00"
+ "lastChecked": "2026-11-23T22:54:26+08:00"
 }
