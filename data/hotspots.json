@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-23T16:37:37+08:00",
+ "lastUpdated": "2026-11-23T17:42:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52227,7 +52227,18 @@
    ],
    "topic": "nhs-edith-ai-breast-screening-trial",
    "firstSeen": "2026-11-23T16:37:37+08:00"
+  },
+  {
+   "id": "d5cb754c49",
+   "title": "Solana 上线 solana.ai：给 AI Agent 的「机器经济」基础设施，含 x402 按次付费、机密计算聊天和自主交易 Agent Milo",
+   "summary": "Solana 推出 solana.ai，定位「为智能而建的开放基础设施」，让开发者构建能直接在链上交易和付款的 AI Agent。官网展示：约 200 毫秒结算、每笔不到一美分，Agent 可通过 x402 为每次 API 调用即时付费；pay.sh 让任何带 Solana 钱包的 Agent 用 USDC 按次调用数百种互联网服务，无需账号和 API Key；另有端到端加密到机密硬件的 AI 聊天（Solana Confidential Compute），以及全天候自主交易的 Agent「Milo」。看点：「Agent 支付」赛道上，公链直接下场做免账号、按调用计费的 API 市场。",
+   "links": [
+    "https://solana.ai",
+    "https://x.com/i/status/2124791732285985211"
+   ],
+   "topic": "solana-ai-agent-infra",
+   "firstSeen": "2026-11-23T17:42:33+08:00"
   }
  ],
- "lastChecked": "2026-11-23T16:37:37+08:00"
+ "lastChecked": "2026-11-23T17:42:33+08:00"
 }
