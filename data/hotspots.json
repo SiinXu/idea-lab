@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T04:17:11+08:00",
+ "lastUpdated": "2026-11-24T04:22:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52594,7 +52594,18 @@
    ],
    "topic": "arm-jonpalmisc-reference-takedown",
    "firstSeen": "2026-11-24T04:17:11+08:00"
+  },
+  {
+   "id": "399d63adfb",
+   "title": "Vercel CEO Rauch 晒「个人评测」：让 Agent 分析自己全部编程会话，结论选 Gemini 4 Neon 而非 Claude Opus 5.5",
+   "summary": "Guillermo Rauch 让 Fable 复盘他在 fx.sh 编程 Agent 上的全部会话，比较 Claude Opus 5.5 和 Gemini 4 Neon 哪个更适合自己。他晒出的数据显示：Neon 需要用户纠正的比例 1.0%（Opus 3.2%），被中途取消的比例 1.4%（Opus 9.3%），但 Opus 单轮更快。Rauch 称谷歌「全面回归」却被严重低估，帖子引发开发者用自己的会话日志做「个人评测」的讨论。这只是他个人场景的结论，不是公开基准。",
+   "links": [
+    "https://vibecoding.ai618.cc/zh/n/e484474d2e1e/",
+    "https://vercel.com/changelog/gemini-4-neon-now-available-on-ai-gateway"
+   ],
+   "topic": "rauch-personal-eval-gemini-neon-vs-opus",
+   "firstSeen": "2026-11-24T04:22:59+08:00"
   }
  ],
- "lastChecked": "2026-11-24T04:17:11+08:00"
+ "lastChecked": "2026-11-24T04:22:59+08:00"
 }
