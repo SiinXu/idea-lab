@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-23T16:00:01+08:00",
+ "lastUpdated": "2026-11-23T16:24:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52203,7 +52203,19 @@
    ],
    "topic": "myclaw-3-ai-teammates",
    "firstSeen": "2026-11-23T16:00:01+08:00"
+  },
+  {
+   "id": "082155fac1",
+   "title": "「用 Antigravity 会被封 Gemini 账号」传言被辟谣：DeepMind 的 Antigravity 开发者表示在 T3 Code 中使用 Antigravity 绝不会被封",
+   "summary": "近日开发者圈流传「通过第三方工具使用 Google Antigravity 会导致 Gemini 账号被封」的说法。参与 Antigravity 开发的 DeepMind 成员 Patrick 公开回应：在 T3 Code 中使用 Antigravity「永远不会」被封，并称自己已只用 Gemini 4 Neon 写代码、刚给 T3 Code 提交了第一个 PR。T3 Code 方面转发称「这是最官方的说法」，并表示他已贡献多项改进 Gemini 支持的代码。看点：大厂编程 Agent 与第三方编排工具的关系从封禁担忧转向主动共建。",
+   "links": [
+    "https://x.com/i/status/2124265732540387418",
+    "https://x.com/i/status/2124266892991115362",
+    "https://x.com/i/status/2124213504827646111"
+   ],
+   "topic": "antigravity-t3code-no-ban",
+   "firstSeen": "2026-11-23T16:24:51+08:00"
   }
  ],
- "lastChecked": "2026-11-23T16:00:01+08:00"
+ "lastChecked": "2026-11-23T16:24:51+08:00"
 }
