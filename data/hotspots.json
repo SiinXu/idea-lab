@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T05:12:45+08:00",
+ "lastUpdated": "2026-11-24T05:30:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52661,7 +52661,28 @@
    ],
    "topic": "sarvam-dictate-api",
    "firstSeen": "2026-11-24T05:12:45+08:00"
+  },
+  {
+   "id": "0ad14ce38e",
+   "title": "两党议员痛批英伟达让黄仁勋回任：共和党议员称「品格失败」，特朗普对 CNBC 说是他亲自促成回归",
+   "summary": "英伟达宣布黄仁勋回任总裁兼 CEO 后（他 11 天前刚辞职），美国国会两党议员纷纷表达愤怒并要求调查。众议院网络与信息技术小组委员会主席、共和党人 Don Bacon 称「搞不懂为什么还要他回来，这是品格失败」，矛头指向商务部长卢特尼克；民主党参议员 Ron Wyden 说这证明「国家安全被卖给出价最高的人」。特朗普在 CNBC 专访中表示是他亲自说服董事会，「这笔交易是我谈成的」。英伟达芯片流入中国的问题仍是焦点。",
+   "links": [
+    "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html"
+   ],
+   "topic": "congress-blasts-nvidia-huang-return",
+   "firstSeen": "2026-11-24T05:30:11+08:00"
+  },
+  {
+   "id": "7bcf47eddf",
+   "title": "设计工具 Wonder 上线 Code Components：设计直接变成带属性、变体和状态的代码组件，人和 Agent 改一处、全站同步",
+   "summary": "Wonder 是一个让人和 AI Agent 在同一画布上做设计和写代码的工具。11 月 23 日上线的 Code Components 可以把任意设计变成可复用组件，支持属性、变体、状态、替换和覆盖；不论是用户还是 Agent 修改，所有页面的实例都会跟着更新，也能把现有代码导入画布。这是 Figma Code Layers 之外，又一个把设计系统和代码绑在一起、给 Agent 用的方案。",
+   "links": [
+    "https://wonder.design/changelog",
+    "https://wonder.design/docs/bring-your-code-onto-the-canvas"
+   ],
+   "topic": "wonder-code-components",
+   "firstSeen": "2026-11-24T05:30:11+08:00"
   }
  ],
- "lastChecked": "2026-11-24T05:12:45+08:00"
+ "lastChecked": "2026-11-24T05:30:11+08:00"
 }
