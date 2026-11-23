@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T08:31:16+08:00",
+ "lastUpdated": "2026-11-23T12:01:58+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -51994,7 +51994,84 @@
    ],
    "topic": "anthropic-ipo-priced-83",
    "firstSeen": "2026-11-19T08:31:16+08:00"
+  },
+  {
+   "id": "70c9e26960",
+   "title": "蚂蚁集团 InclusionAI 开源医疗大模型 LingSante-3.1：560B 的 flash 版在 HealthBench Professional 拿下 65.72 分，配套 124B 多模态版读片读报告",
+   "summary": "蚂蚁 InclusionAI 实验室发布 LingSante-3.1-flash（5600 亿参数），主打复杂医学推理和临床工作流，在 HealthBench Professional 上以 65.72 分领先，报道称超过 GPT-6 Astra 等模型；配套的 LingSante-3.1-air-VL（1240 亿参数）处理医学影像和报告，在 AFUMED-Derm、MIMIC-CXR 等评测领先。两者以 MIT 许可上架 Hugging Face，定位研究用途，医院可本地私有部署、数据不出院。看点：开源医疗模型进入可私有化落地阶段，围绕本地部署、合规和垂直工作流的服务机会变多。",
+   "links": [
+    "https://x.com/i/status/2124523916819648945",
+    "https://x.com/i/status/2124555085640610194"
+   ],
+   "topic": "ant-lingsante-3-1-medical-open-models",
+   "firstSeen": "2026-11-23T12:01:58+08:00"
+  },
+  {
+   "id": "e10cecaf48",
+   "title": "Thinking Machines 发布 Inkling 2 Mini：20GB 装得下、32GB Mac 或单张消费级显卡就能跑，100B 以下开源模型 Agent 编程第一",
+   "summary": "Thinking Machines Lab 推出紧凑版开源权重模型 Inkling 2 Mini，体积约 20GB，可在 32GB 内存的 Mac 或单张消费级 GPU 上流畅运行；在 DeepSWE v1.1 上得分 48.2%，在 100B 参数以下的开源模型中 Agent 编程基准领先，支持 100 万 token 上下文和图像输入，Apache 2.0 许可发布在 Hugging Face。社区已做出去审查版本和自定义推理引擎进一步提速，不过也有人指出与闭源前沿模型仍有差距。看点：本地私有的编程 Agent 门槛进一步降低。",
+   "links": [
+    "https://x.com/i/status/2124666181147881504",
+    "https://x.com/i/status/2124597483045294278"
+   ],
+   "topic": "thinking-machines-inkling-2-mini",
+   "firstSeen": "2026-11-23T12:01:58+08:00"
+  },
+  {
+   "id": "3ecf085449",
+   "title": "WSJ：Databricks 洽谈以 2250 亿美元估值融资数十亿美元，比 8 月的 1900 亿美元再涨近 20%",
+   "summary": "据《华尔街日报》报道，数据与 AI 软件公司 Databricks 正就新一轮数十亿美元融资进行早期谈判，估值约 2250 亿美元，较 8 月 1900 亿美元那轮上涨近 20%。报道称其年化收入在 2026 年年中达到 70 亿美元，CEO Ali Ghodsi 以市场波动为由继续推迟 IPO。看点：私募资本让 AI 基础设施巨头可以长期不上市，企业数据 + AI 平台仍是资本最追捧的赛道之一。",
+   "links": [
+    "https://x.com/i/status/2124611734321373473",
+    "https://x.com/i/status/2124611891951759484"
+   ],
+   "topic": "databricks-225b-valuation-talks",
+   "firstSeen": "2026-11-23T12:01:58+08:00"
+  },
+  {
+   "id": "9c333ef9ee",
+   "title": "Visa 推出实验性「Agent 钱包」Visa CLI：用 Visa 卡给 AI Agent 做身份验证，让它在 Tempo 链上接活赚 OUSD 稳定币",
+   "summary": "Visa 上线 Visa CLI agent wallet（app.visacli.sh），符合条件的美国用户可连接钱包、用 Visa 卡验证自己的 AI Agent（不扣款），再注册到 Tempo 区块链上承接付费任务，如短视频、音乐、梗图、市场调研，收入为 OUSD 稳定币；人类通过额度上限和审批保持控制。Visa Crypto Labs 负责人 Cuy Sheffield 称这是让 Agent 扩展个人能力、把想法变成有偿产出的方式，基础设施合作方包括 Turnkey。看点：「Agent 打工赚钱」有了支付巨头背书的身份与结算通道，Agent 经济的接单市场雏形出现。",
+   "links": [
+    "https://x.com/i/status/2124555774320062807",
+    "https://x.com/i/status/2124555218071478277"
+   ],
+   "topic": "visa-cli-agent-wallet-tempo",
+   "firstSeen": "2026-11-23T12:01:58+08:00"
+  },
+  {
+   "id": "ebe64632cd",
+   "title": "Dragos 调查发现模型路由链路存在提示词窃取：OpenRouter 下架 3 家服务商、撤销 125 个端点的零数据保留标记",
+   "summary": "Dragos 研究人员在 2026 年 7–11 月测试了多家模型路由和推理服务商，发现有 3 家主机在主动窃取提示词、部分转售商例行记录日志，并有 125 个 OpenRouter 端点无视零数据保留（ZDR）标记。OpenRouter 随后下架这 3 家服务商、撤销相关端点的 ZDR 状态并通知受影响客户，同时表示自身系统未被攻破。专家称这是 AI 供应链的警钟，建议转向可验证隐私（如加密执行环境），并轮换可能经由受影响链路暴露的凭证。看点：「可验证的模型调用隐私」可能成为新的采购标准和产品机会。",
+   "links": [
+    "https://x.com/i/status/2124158024352964794",
+    "https://x.com/i/status/2124315081899200715"
+   ],
+   "topic": "openrouter-offboards-providers-dragos-prompt-theft",
+   "firstSeen": "2026-11-23T12:01:58+08:00"
+  },
+  {
+   "id": "13deb10780",
+   "title": "OpenAI 首席科学家 Pachocki 发文公开历代模型 log-perplexity 数据，呼吁行业共同限制预训练直到监控工具跟上",
+   "summary": "OpenAI 首席科学家 Jakub Pachocki 在 11 月 22 日的文章中公布了从 GPT-3.5（2022 年 0.99）到 GPT-6.2 Astra（0.761）以及一款未发布模型（0.732）的 log-perplexity 数据，把数值下降与对话、推理、网络安全、数学等能力突破对应起来，并警告 2027 年前可能出现能力「雪崩」，呼吁行业在监控工具完善前共同设定预训练上限。Sam Altman、Greg Brockman 表示支持，微软 AI CEO Mustafa Suleyman 承诺也会公开相关指标。看点：前沿实验室开始用统一可比的指标讨论安全阈值。",
+   "links": [
+    "https://x.com/i/status/2124549218995949967",
+    "https://x.com/i/status/2124555086039015911"
+   ],
+   "topic": "pachocki-perplexity-pretraining-limits-essay",
+   "firstSeen": "2026-11-23T12:01:58+08:00"
+  },
+  {
+   "id": "17f25ccc8a",
+   "title": "AI 证明广义黎曼猜想引发「超级智能」大讨论：独立方用 Claude 和 Lean 复核，Alexandr Wang 称其为人类最高智力成就",
+   "summary": "一项由 AI 完成的广义黎曼猜想（1859 年提出、关于素数分布）证明在网上持续发酵。报道称独立复核方使用 Anthropic 的 Claude 和 Lean 等工具确认了证明。Meta 首席 AI 官 Alexandr Wang 称这是借助一个我们并不理解的「外星心智」达成的人类智力巅峰，同时提醒控制远超人类的 AI 将面临挑战；马斯克则称欢迎奇点。看点：AI + 形式化验证（Lean）在数学上的突破会带动自动证明、验证工具和相关教育内容的关注度。",
+   "links": [
+    "https://x.com/i/status/2124464633490850164",
+    "https://x.com/i/status/2124636606959345776"
+   ],
+   "topic": "ai-generalized-riemann-hypothesis-proof-debate",
+   "firstSeen": "2026-11-23T12:01:58+08:00"
   }
  ],
- "lastChecked": "2026-11-19T08:31:16+08:00"
+ "lastChecked": "2026-11-23T12:01:58+08:00"
 }
