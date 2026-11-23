@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T03:09:32+08:00",
+ "lastUpdated": "2026-11-24T03:27:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52530,7 +52530,28 @@
    ],
    "topic": "spacex-musk-falling-behind-rents-compute",
    "firstSeen": "2026-11-24T03:09:32+08:00"
+  },
+  {
+   "id": "932119e2ec",
+   "title": "Nothing 揭晓首款 AI 设备 Ear (note)：耳机录通话、充电盒麦克风录线下会议，App 自动转写和总结，12 月 8 日发布",
+   "summary": "Nothing 公布此前预告的 AI 原生新品：Ear (note) 耳机。耳机本身可录电话，充电盒上的麦克风能录面对面会议，按 Talk 键开始录音；配套 App 提供转写、摘要，并可与 AI Agent 交互。12 月 8 日发布，价格未公布。这是 Carl Pei 所说「不是新屏幕、不是 App」的 AI 硬件路线，直接对标 Plaud 等 AI 录音笔。",
+   "links": [
+    "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+    "https://gizmodo.com/nothings-mysterious-ai-device-is-a-pair-of-note-taking-wireless-earbuds-2000844014"
+   ],
+   "topic": "nothing-ear-note-ai-earbuds",
+   "firstSeen": "2026-11-24T03:27:46+08:00"
+  },
+  {
+   "id": "42afc3642f",
+   "title": "开源笔记 App FSNotes 上架 9 年后被苹果从全部欧洲 App Store 下架：开发者两次工单均无回复，HN 热议",
+   "summary": "乌克兰独立开发者 glushchenko 发文称，开源 macOS/iOS 笔记应用 FSNotes 被苹果从所有欧洲区 App Store 下架，起因是 10 月销售款未到账。他已在 App Store Connect 补齐欧盟《数字服务法》（DSA）要求的交易商合规信息，并提交乌克兰政府的个体户登记文件，但 11 月 5 日和 17 日开的两个支持工单至今无人回复。帖子登上 Hacker News，引发对苹果审核和 DSA 合规流程的讨论。",
+   "links": [
+    "https://github.com/glushchenko/fsnotes/discussions/2056"
+   ],
+   "topic": "fsnotes-removed-eu-app-store",
+   "firstSeen": "2026-11-24T03:27:46+08:00"
   }
  ],
- "lastChecked": "2026-11-24T03:10:11+08:00"
+ "lastChecked": "2026-11-24T03:27:46+08:00"
 }
