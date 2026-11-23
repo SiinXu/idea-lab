@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T02:25:39+08:00",
+ "lastUpdated": "2026-11-24T02:55:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52474,7 +52474,29 @@
    ],
    "topic": "openai-openworks-small-business",
    "firstSeen": "2026-11-24T02:25:39+08:00"
+  },
+  {
+   "id": "109d2f6894",
+   "title": "Kagi Mail 公测：付费搜索引擎 Kagi 推出隐私邮箱和日历，无广告、不扫描邮件，支持自定义域名和无限别名",
+   "summary": "11 月 23 日，Kagi 开放 Kagi Mail 公测，提供 @kagimail.com 地址，也可以绑定自己的域名。服务包含 50 GB 存储、无限别名和域名、日历和可选的 AI 功能，主打不靠广告、不拿邮件训练模型。Kagi Ultimate 会员免费使用，其他用户免费试用 60 天后每年 99 美元。这是继付费搜索之后，Kagi 用「付费换隐私」挑战 Gmail，在 Hacker News 上讨论很热。",
+   "links": [
+    "https://blog.kagi.com/kagi-mail-public-beta",
+    "https://kagi.com/products/mail"
+   ],
+   "topic": "kagi-mail-public-beta",
+   "firstSeen": "2026-11-24T02:55:44+08:00"
+  },
+  {
+   "id": "c4e4ef619e",
+   "title": "开源项目 XNU Linux：把苹果 XNU 内核做成 Linux 内核模块，不用虚拟机就能在 arm64 Linux 上跑完整的 macOS 图形界面",
+   "summary": "GitHub 项目 AFK-surf/xnulinux 把苹果开源的 XNU 内核编译成 Linux 可加载模块（xnu.ko），再用 fki.ko 把内存、计时器、文件、网络和 GPU 访问转接给 Linux。这样不靠虚拟机，就能把 macOS 27 系统盘一路启动到登录窗口、WindowServer、Dock、访达，并运行 Safari 和 Chrome。目前需要支持 PAC 和 4K 页的 arm64 Linux 主机，以及用户自备的 macOS 磁盘镜像。项目在 HN 上获得 500 多分，Phoronix 也做了报道。",
+   "links": [
+    "https://github.com/AFK-surf/xnulinux/",
+    "https://www.phoronix.com/news/XNU-Linux"
+   ],
+   "topic": "xnu-linux-macos-userspace",
+   "firstSeen": "2026-11-24T02:55:44+08:00"
   }
  ],
- "lastChecked": "2026-11-24T02:25:39+08:00"
+ "lastChecked": "2026-11-24T02:55:44+08:00"
 }
