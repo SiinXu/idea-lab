@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T12:57:06+08:00",
+ "lastUpdated": "2026-11-24T13:08:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52907,7 +52907,18 @@
    ],
    "topic": "figure-helix-apple-moving-table-musk",
    "firstSeen": "2026-11-24T12:57:06+08:00"
+  },
+  {
+   "id": "bdfb833f71",
+   "title": "T3 Code 作者 Theo 怒怼中文魔改版：MIT 开源可以随便 fork，但用「T3 Code」名字误导用户不行，「Temu3 Code」嘲讽引中文区反弹",
+   "summary": "有中文博主吐槽某中文版 T3 Code 界面混乱，原作者 Theo 转发称这是「中国山寨版」，又补一句「Temu3 Code」，引发中文开发者不满。Theo 随后澄清：fork 代码没问题，问题在于沿用「T3 Code」名称误导用户。事件折射出开源项目许可证与商标、品牌使用的边界之争。",
+   "links": [
+    "https://x.com/i/status/2125070353663967644",
+    "https://x.com/i/status/2124838130595643642"
+   ],
+   "topic": "t3-code-chinese-fork-naming-dispute",
+   "firstSeen": "2026-11-24T13:08:06+08:00"
   }
  ],
- "lastChecked": "2026-11-24T12:57:06+08:00"
+ "lastChecked": "2026-11-24T13:08:06+08:00"
 }
