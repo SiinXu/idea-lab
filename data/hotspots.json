@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T00:15:37+08:00",
+ "lastUpdated": "2026-11-25T00:25:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53290,7 +53290,29 @@
    ],
    "topic": "anthropic-hunger-strike-rsi",
    "firstSeen": "2026-11-25T00:15:37+08:00"
+  },
+  {
+   "id": "b19419bdfa",
+   "title": "WSJ：Stripe 洽谈员工股份要约收购，估值逼近 2000 亿美元",
+   "summary": "据《华尔街日报》援引知情人士，Stripe 正与投资人商谈新一轮员工老股转让（tender offer），估值接近 2000 亿美元，交易可能在明年初完成。在 Anthropic 等 AI 公司 IPO 波动之际，Stripe 继续选择不上市、通过要约给员工提供流动性。",
+   "links": [
+    "https://x.com/i/status/2125233343574982924",
+    "https://x.com/i/status/2125237006569717943"
+   ],
+   "topic": "stripe-200b-tender-offer",
+   "firstSeen": "2026-11-25T00:25:37+08:00"
+  },
+  {
+   "id": "267bb4789d",
+   "title": "哲学家 Bostrom：超级智能 AI 可能让人类寿命延长到约 1400 岁",
+   "summary": "《超级智能》作者、哲学家 Nick Bostrom 最新表态称，超级智能 AI 若能解决衰老相关问题，人类可能活到约 1400 岁。言论在 Anthropic 安全争议和 AI 失业讨论升温的同一天传开，引发 X 上关于 AI 乐观派与末日派的新一轮争论。",
+   "links": [
+    "https://x.com/i/status/2125241780748644454",
+    "https://x.com/i/status/2125234231039131949"
+   ],
+   "topic": "bostrom-ai-1400-years",
+   "firstSeen": "2026-11-25T00:25:37+08:00"
   }
  ],
- "lastChecked": "2026-11-25T00:15:37+08:00"
+ "lastChecked": "2026-11-25T00:25:37+08:00"
 }
