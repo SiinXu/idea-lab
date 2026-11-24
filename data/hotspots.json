@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T13:23:30+08:00",
+ "lastUpdated": "2026-11-24T14:13:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52928,7 +52928,18 @@
    ],
    "topic": "wacom-mbo-mbk-partners-delisting",
    "firstSeen": "2026-11-24T13:23:30+08:00"
+  },
+  {
+   "id": "e31ecd8cb5",
+   "title": "美商务部把 Megaspeed 列入实体清单：这家处在英伟达丑闻中心的公司及其新加坡、马来西亚、泰国关联方被禁买先进 AI 芯片",
+   "summary": "美国商务部周一把 Megaspeed 及其在新加坡、马来西亚和泰国的关联公司加入实体清单，今后采购先进 AI 芯片等敏感物项须申请许可。该公司涉嫌把英伟达芯片转运到中国，是近期英伟达风波的核心之一，此举也让东南亚算力中转链条面临更严格审查。",
+   "links": [
+    "https://x.com/i/status/2124987975196922318",
+    "https://x.com/i/status/2124954101393850472"
+   ],
+   "topic": "megaspeed-entity-list-commerce",
+   "firstSeen": "2026-11-24T14:13:14+08:00"
   }
  ],
- "lastChecked": "2026-11-24T13:23:30+08:00"
+ "lastChecked": "2026-11-24T14:13:14+08:00"
 }
