@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T01:53:24+08:00",
+ "lastUpdated": "2026-11-25T02:14:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53378,7 +53378,18 @@
    ],
    "topic": "xbox-project-helix-pc-hybrid",
    "firstSeen": "2026-11-25T01:53:24+08:00"
+  },
+  {
+   "id": "66f1089ea0",
+   "title": "开源自托管 AI 智能体 OpenClaw 迎来一周年：社区称这一天是「Agentic 开发」的生日",
+   "summary": "OpenClaw 官方发布一周年回顾视频，感谢提交补丁、分享配置和帮助新人的贡献者。这个自托管 AI 智能体可通过 WhatsApp、Slack 等应用处理邮件、运行代码等任务，有开发者在 X 上把 steipete 开始做 OpenClaw 的那天称为「Agentic 开发的生日」，感叹这一切只过了一年。",
+   "links": [
+    "https://x.com/i/status/2125273417561850199",
+    "https://x.com/i/status/2125206474024526131"
+   ],
+   "topic": "openclaw-first-anniversary",
+   "firstSeen": "2026-11-25T02:14:52+08:00"
   }
  ],
- "lastChecked": "2026-11-25T01:53:24+08:00"
+ "lastChecked": "2026-11-25T02:14:52+08:00"
 }
