@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T21:26:45+08:00",
+ "lastUpdated": "2026-11-24T21:50:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53245,7 +53245,19 @@
    ],
    "topic": "tsmc-texas-brazos-fab",
    "firstSeen": "2026-11-24T21:26:45+08:00"
+  },
+  {
+   "id": "e628c0b264",
+   "title": "Anthropic 股价盘前跌破 83 美元 IPO 发行价：Axios 曝员工安全担忧后，上市热度迅速降温",
+   "summary": "彭博报道，Anthropic 股价在 11 月 24 日美股盘前交易中跌破 83 美元的 IPO 发行价。此前 Axios 报道称，二十多名 OpenAI 和 Anthropic 员工担心未发布模型进步过快、安全措施跟不上；再加上联合创始人上市当天减持、Amodei 旧 Slack 言论引发争议，市场情绪转弱。消息很快登上 HN 首页。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+    "https://news.ycombinator.com/item?id=50627836",
+    "https://x.com/i/status/2125195749465977220"
+   ],
+   "topic": "anthropic-below-ipo-price",
+   "firstSeen": "2026-11-24T21:50:04+08:00"
   }
  ],
- "lastChecked": "2026-11-24T21:26:45+08:00"
+ "lastChecked": "2026-11-24T21:50:04+08:00"
 }
