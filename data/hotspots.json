@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T21:15:47+08:00",
+ "lastUpdated": "2026-11-24T21:26:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53233,7 +53233,19 @@
    ],
    "topic": "llm-agents-work-for-parent-companies",
    "firstSeen": "2026-11-24T21:15:47+08:00"
+  },
+  {
+   "id": "df2093e198",
+   "title": "台积电拟在德州 Brazos 县建 226 亿美元 2 纳米晶圆厂，向州政府申请房产税减免，亚利桑那仍是备选",
+   "summary": "路透社报道，台积电美国子公司向德州审计长办公室提交文件，计划在 College Station 附近的 Brazos 县 3200 多英亩土地上建设一座或多座晶圆厂，总投资 226 亿美元，生产 2 纳米及更先进的 AI、高性能计算和手机芯片，预计带来至少 2099 个直接岗位。文件称，房产税减免是决定是否落地德州的关键，亚利桑那仍是竞争选址；项目尚未最终拍板。",
+   "links": [
+    "https://www.investing.com/news/stock-market-news/tsmc-unit-seeks-texas-property-tax-limit-for-proposed-226-billion-chip-making-facility-5047345",
+    "https://www.kbtx.com/2026/11/23/worlds-leading-semiconductor-manufacturer-eyes-brazos-county-3200-acre-facility/",
+    "https://x.com/i/status/2125210831810068603"
+   ],
+   "topic": "tsmc-texas-brazos-fab",
+   "firstSeen": "2026-11-24T21:26:45+08:00"
   }
  ],
- "lastChecked": "2026-11-24T21:15:47+08:00"
+ "lastChecked": "2026-11-24T21:26:45+08:00"
 }
