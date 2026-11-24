@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T15:11:35+08:00",
+ "lastUpdated": "2026-11-24T15:22:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53004,7 +53004,18 @@
    ],
    "topic": "amodei-slack-video-games-ai-job-loss",
    "firstSeen": "2026-11-24T15:11:35+08:00"
+  },
+  {
+   "id": "beca06c30d",
+   "title": "印度反对派青年团冲进 Meta 办公室讨要 Instagram 账号：Meta 今年上半年在印度限制 540 万条帖子或账号，是去年全年的约 77 倍",
+   "summary": "印度国大党青年组织因其主席等人的 Instagram 账号 11 月 19 日被封，冲进 Meta 海得拉巴办公室并在孟买、古尔冈抗议，指责 Meta 听命执政党 BJP、大规模限制批评政府的记者和创作者。抗议次日两个账号被恢复，组织再给 Meta 7 天期限。数据显示 Meta 2026 年上半年在印度限制超 540 万条帖子或账号（2025 全年约 7 万），政府 3–7 月发出近 20 万份封禁令，平台须在 3 小时内删除被标记内容。",
+   "links": [
+    "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
+    "https://news.ycombinator.com/item?id=50624487"
+   ],
+   "topic": "india-opposition-storms-meta-instagram-accounts",
+   "firstSeen": "2026-11-24T15:22:59+08:00"
   }
  ],
- "lastChecked": "2026-11-24T15:11:35+08:00"
+ "lastChecked": "2026-11-24T15:22:59+08:00"
 }
