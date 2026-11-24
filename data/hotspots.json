@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T08:14:13+08:00",
+ "lastUpdated": "2026-11-24T08:46:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52736,7 +52736,18 @@
    ],
    "topic": "stripe-agentic-commerce-repeat",
    "firstSeen": "2026-11-24T08:14:13+08:00"
+  },
+  {
+   "id": "fc068c48fc",
+   "title": "USV 孵化的 Supertake 获 2000 万美元种子轮：用一句大白话说出你的判断，AI 帮你变成分散化、连券商的投资组合",
+   "summary": "Supertake 是 Union Square Ventures 孵化的投资产品：用户用自然语言写下自己对世界的看法（比如某个趋势会起来），AI 把它转成分散化的投资组合并连接券商账户下单，不懂投资也能「投自己的想法」。11 月 23 日宣布完成 2000 万美元种子轮（Adjacent 领投、USV 等参投），并请来前 Coinbase 的两位高管分任 CEO 和 CTO；上线约一个月，已有内测用户投入真金白银。",
+   "links": [
+    "https://x.com/i/status/2124913167348187517",
+    "https://x.com/i/status/2124913729057824924"
+   ],
+   "topic": "supertake-seed",
+   "firstSeen": "2026-11-24T08:46:50+08:00"
   }
  ],
- "lastChecked": "2026-11-24T08:14:13+08:00"
+ "lastChecked": "2026-11-24T08:46:50+08:00"
 }
