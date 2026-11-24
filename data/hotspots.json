@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T20:28:28+08:00",
+ "lastUpdated": "2026-11-24T21:02:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53211,7 +53211,18 @@
    ],
    "topic": "jevons-ai-tokens-capex",
    "firstSeen": "2026-11-24T20:28:28+08:00"
+  },
+  {
+   "id": "d5db552c09",
+   "title": "Kadoa 国会交易监测：特朗普今年 28 次买入、15 次卖出英伟达股票，另有 37 名议员持有或交易，正赶上黄仁勋辞职又回任",
+   "summary": "数据公司 Kadoa 汇总了特朗普和 37 名美国国会议员已披露的全部英伟达股票交易：特朗普 2026 年共 28 笔买入（合计 510 万至 1670 万美元）、15 笔卖出。英伟达从 10 月高点跌 48% 后，11 月 23 日董事会让黄仁勋回任、称参考了美国政府高层意见，股价单日涨 33%。该页面登上 HN，引发对政商利益冲突的讨论。",
+   "links": [
+    "https://www.kadoa.com/congress/insights/trump-nvidia",
+    "https://news.ycombinator.com/item?id=50626861"
+   ],
+   "topic": "kadoa-washington-nvidia-trades",
+   "firstSeen": "2026-11-24T21:02:11+08:00"
   }
  ],
- "lastChecked": "2026-11-24T20:28:28+08:00"
+ "lastChecked": "2026-11-24T21:02:11+08:00"
 }
