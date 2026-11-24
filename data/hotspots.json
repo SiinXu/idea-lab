@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T04:43:34+08:00",
+ "lastUpdated": "2026-11-25T05:15:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53541,7 +53541,18 @@
    ],
    "topic": "claude-artifacts-install-as-app",
    "firstSeen": "2026-11-25T04:43:34+08:00"
+  },
+  {
+   "id": "ca7efd0c9b",
+   "title": "PrismML 发布三值量化模型 Ternary Bonsai 2.5 27B：仅 5.9GB，SWE-bench Verified 75.6，本地跑编程 Agent 逼近全精度 Qwen3.8 27B",
+   "summary": "PrismML 推出 Ternary Bonsai 2.5 27B，基于 Qwen3.8 27B 的三值量化版本，体积保持 5.9GB，但智能体编程、多轮工具调用和多步任务执行大幅增强：SWE-bench Verified 从上一版的 60.8 升到 75.6（全精度基座为 80.6），AppWorld 从 51.2 升到 90.5，并减少了过度思考和重复循环，适合在本地设备上处理私有文件和工具。",
+   "links": [
+    "https://prismml.com/news/bonsai-2-5-27b",
+    "https://news.ycombinator.com/item?id=50633922"
+   ],
+   "topic": "ternary-bonsai-2-5-27b",
+   "firstSeen": "2026-11-25T05:15:43+08:00"
   }
  ],
- "lastChecked": "2026-11-25T04:43:34+08:00"
+ "lastChecked": "2026-11-25T05:15:43+08:00"
 }
