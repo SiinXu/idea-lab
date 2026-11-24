@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T15:56:04+08:00",
+ "lastUpdated": "2026-11-24T16:59:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53036,7 +53036,19 @@
    ],
    "topic": "meta-muse-launches-uk",
    "firstSeen": "2026-11-24T15:56:04+08:00"
+  },
+  {
+   "id": "70e8b292ce",
+   "title": "trynix.dev 换上 unkernel 引擎：浏览器里直接跑 30 万个 Nix 包，Firefox、OpenGL、音频和网络都能用，比 qemu-wasm 快 2–32 倍",
+   "summary": "Farid Zakaria 发文《2035 came early》：他的 trynix.dev 改用 Pooya Parsa 11 月 19 日发布的 unkernel（把 Linux 内核编译成 WebAssembly，只模拟用户程序），在浏览器里启动速度比 qemu-wasm 快 2 到 32 倍，还支持联网、Wayland 窗口合成、virgl OpenGL 和音频，可直接跑纸牌、glxgears、Firefox 等图形程序。作者称 LLM 让「JavaScript/Wasm 吞噬一切」的预言提前多年成真，HN 热议中。",
+   "links": [
+    "https://fzakaria.com/2026/11/23/2035-came-early",
+    "https://trynix.dev",
+    "https://news.ycombinator.com/item?id=50624497"
+   ],
+   "topic": "trynix-unkernel-linux-wasm-browser",
+   "firstSeen": "2026-11-24T16:59:21+08:00"
   }
  ],
- "lastChecked": "2026-11-24T15:56:04+08:00"
+ "lastChecked": "2026-11-24T16:59:21+08:00"
 }
