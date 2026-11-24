@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T14:41:28+08:00",
+ "lastUpdated": "2026-11-24T15:11:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52960,7 +52960,51 @@
    ],
    "topic": "baidu-ernie-55-flash-preview-weights-released",
    "firstSeen": "2026-11-24T14:41:28+08:00"
+  },
+  {
+   "id": "5a38c81d0f",
+   "title": "Zed 把 GPUI 拆成独立仓库：GPU 加速、即时模式与保留模式结合的 Rust UI 框架单独维护",
+   "summary": "Zed 团队新建 zed-industries/gpui 仓库，把自家编辑器底层的 GPU 加速 Rust UI 框架从 Zed 主仓库中独立出来，方便其他项目直接使用。此前 Discord 等团队已在讨论用 GPUI 替代 Electron，此举在 Hacker News 获 200+ 赞，Rust 原生桌面 UI 生态再受关注。",
+   "links": [
+    "https://github.com/zed-industries/gpui",
+    "https://news.ycombinator.com/item?id=50619103"
+   ],
+   "topic": "zed-gpui-own-repository",
+   "firstSeen": "2026-11-24T15:11:35+08:00"
+  },
+  {
+   "id": "1951d3d0ae",
+   "title": "Declare：给人和 AI 共用的 UI 语言——像 SQL 之于数据库，官网本身由 LLM 用它写成",
+   "summary": "David Temkin 发布 Declare，一种面向界面的领域专用语言，主打「可表达且可由编译器验证」。示例日历应用仅 568 行代码、gzip 后 177KB，四种视图连续缩放、可拖拽编辑，全部由人设计、AI 编写，零手写代码；另有带窗口、Dock 和菜单的桌面示例，可在浏览器里在线编辑运行。",
+   "links": [
+    "https://davidtemkin.github.io/declarelang/",
+    "https://news.ycombinator.com/item?id=50622854"
+   ],
+   "topic": "declare-ui-language-for-ai",
+   "firstSeen": "2026-11-24T15:11:35+08:00"
+  },
+  {
+   "id": "d0f92b38f6",
+   "title": "纽约州立法禁止车企卖车后收订阅费：座椅加热、增强导航、辅助驾驶等内置功能不得再按月收费",
+   "summary": "纽约州州长 Hochul 11 月 23 日签署 S.9348A/A.10411A 法案，禁止汽车厂商和经销商在消费者购车后，对座椅加热、增强导航、免手驾驶、娱乐系统等已内置且无持续成本的功能收取订阅或激活费用，并要求提高价格透明度。该消息在 Hacker News 获 200+ 赞，「软件订阅化硬件」模式面临监管压力。",
+   "links": [
+    "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+    "https://news.ycombinator.com/item?id=50622774"
+   ],
+   "topic": "ny-bans-car-feature-subscription-fees",
+   "firstSeen": "2026-11-24T15:11:35+08:00"
+  },
+  {
+   "id": "296e420805",
+   "title": "WSJ 曝 Amodei 旧 Slack 消息：曾设想用沉浸式电子游戏安抚因 AI 失业的人群，X 上引发强烈反弹",
+   "summary": "《华尔街日报》对 Anthropic 联合创始人 Dario 与 Daniela Amodei 的人物报道披露，Amodei 在 OpenAI 时期的 Slack 讨论中曾把电子游戏作为缓解 AI 大规模失业带来的政治动荡的一种出路。消息在 Anthropic 刚完成 IPO 之际传开，网友将其与赫拉利「用游戏和药物控制无用之人」的说法并列转发，批评声浪迅速扩大。",
+   "links": [
+    "https://x.com/i/status/2124561333597209078",
+    "https://x.com/i/status/2124933750924656977"
+   ],
+   "topic": "amodei-slack-video-games-ai-job-loss",
+   "firstSeen": "2026-11-24T15:11:35+08:00"
   }
  ],
- "lastChecked": "2026-11-24T14:41:28+08:00"
+ "lastChecked": "2026-11-24T15:11:35+08:00"
 }
