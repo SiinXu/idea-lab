@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T02:59:06+08:00",
+ "lastUpdated": "2026-11-25T03:14:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53400,7 +53400,61 @@
    ],
    "topic": "taan-v1-music-model",
    "firstSeen": "2026-11-25T02:59:06+08:00"
+  },
+  {
+   "id": "885c135b56",
+   "title": "MCP 两周岁：Anthropic 推出「Skills over MCP」公测与 Tasks 正式版，MCP 服务器可自带使用手册",
+   "summary": "Anthropic 在 MCP 协议发布两周年之际宣布：MCP 服务器现在可以随附自己的 Skills（多步骤任务的详细操作指南，按需加载），让 Claude Code 开箱即会用；Tasks 能力同步进入正式可用。MCP 正从「连接工具和数据」演进为标准化智能体之间的通信与编排。",
+   "links": [
+    "https://x.com/i/status/2125289794871963935",
+    "https://x.com/i/status/2125292098165612585"
+   ],
+   "topic": "mcp-two-years-skills-tasks",
+   "firstSeen": "2026-11-25T03:14:07+08:00"
+  },
+  {
+   "id": "f65488fa96",
+   "title": "Google Workspace MCP 服务器和 gwscli 命令行正式上线：Gmail、Drive、Docs 等 8 个服务，个人账号一键开通、每产品每天免费 5000 次",
+   "summary": "谷歌 Workspace 工程 VP 宣布 Workspace MCP 服务器、Workspace CLI 与 Google Cloud Agent Gateway 正式可用，给 AI 智能体一条带 DLP 检查和人工确认的标准接入通道。覆盖 Gmail、Drive、Docs、Sheets、Slides、Calendar、Chat、Tasks 共 8 个服务；新的个人模式一键配置，无需企业版或绑卡，免费额度每个产品每天 5000 次请求，发送类操作内置人工确认。",
+   "links": [
+    "https://x.com/i/status/2125275496355348799",
+    "https://x.com/i/status/2125296446459056156"
+   ],
+   "topic": "google-workspace-mcp-ga",
+   "firstSeen": "2026-11-25T03:14:07+08:00"
+  },
+  {
+   "id": "2c04721514",
+   "title": "AI 安全、安全与法律专家联合推出「Accountable Agents Framework」：用隐私保护的智能体 ID，让银行和网站分辨真用户的 AI 代理与恶意 Bot",
+   "summary": "一批 AI 安全、网络安全和法律专家提出可自愿采用的「可问责智能体框架」：给 AI 智能体发放保护隐私的身份标识，网站和银行可据此验证某个代理背后有负责任的真实用户，从而区别对待正常智能体与恶意自动化流量。",
+   "links": [
+    "https://x.com/i/status/2125228191719579785"
+   ],
+   "topic": "accountable-agents-framework",
+   "firstSeen": "2026-11-25T03:14:07+08:00"
+  },
+  {
+   "id": "0750108697",
+   "title": "微软内部拉响「Code Red」：11 月 12 日全球大宕机 24 小时，Outlook、Teams、Copilot 全线瘫痪，纳德拉公开道歉",
+   "summary": "据 Reuters 披露的内部备忘录，一个 7 月更新中潜伏的 Windows 缺陷在 11 月 12 日引发长达 24 小时的全球故障，Outlook、Teams、Copilot 等服务中断，波及美国、澳大利亚、日本的航空、交易和政府业务。工程师在应急中发送了 1.1 万多条消息，有高管称两天内经历了「十年份的失败」，微软随即进入 Code Red 状态。",
+   "links": [
+    "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+    "https://news.ycombinator.com/item?id=50631157"
+   ],
+   "topic": "microsoft-code-red-outage",
+   "firstSeen": "2026-11-25T03:14:07+08:00"
+  },
+  {
+   "id": "13f0648788",
+   "title": "GreyNoise 披露针对 Check Point 安全管理服务器的入侵活动：22 家机构中招，攻击者疑用 LLM 和智能体自动化扫描与利用",
+   "summary": "GreyNoise 通过蜜罐网络发现代号 GT13 的入侵活动：10 月 17 日至 11 月 2 日间，攻击者用 99 个 IP 攻陷 24 台 Check Point 安全管理服务器，波及金融、能源、政府、交通、制造等行业的至少 22 家机构，遍布欧美亚澳。利用的漏洞包括 Check Point SmartConsole 认证绕过、Citrix NetScaler、Ivanti、Windows NetLogon 等，GreyNoise 认为攻击者借助 LLM 和智能体系统完成扫描、利用和工具开发。",
+   "links": [
+    "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+    "https://news.ycombinator.com/item?id=50630594"
+   ],
+   "topic": "greynoise-gt13-check-point",
+   "firstSeen": "2026-11-25T03:14:07+08:00"
   }
  ],
- "lastChecked": "2026-11-25T02:59:06+08:00"
+ "lastChecked": "2026-11-25T03:14:50+08:00"
 }
