@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T18:14:10+08:00",
+ "lastUpdated": "2026-11-24T18:27:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53091,7 +53091,28 @@
    ],
    "topic": "venice-ai-200m-arr",
    "firstSeen": "2026-11-24T18:14:10+08:00"
+  },
+  {
+   "id": "efd83c9db8",
+   "title": "谷歌专利曝光「My Channel」：24 小时 AI 电视频道，用你的观看记录、照片和声音生成以你为主角的节目，并插入定制广告",
+   "summary": "一份 2025 年 5 月提交、2026 年 11 月 19 日公开的谷歌专利描述了名为「My Channel」的个性化 AI 频道：根据观看历史、人口属性、位置、照片和语音等数据，持续生成以观众本人为主角的视频内容，并嵌入定制广告。消息在 X 上迅速扩散，不少人批评这会摧毁共同文化、加剧隐私担忧。",
+   "links": [
+    "https://x.com/i/status/2124930755281265017",
+    "https://x.com/i/status/2124937906967965809"
+   ],
+   "topic": "google-my-channel-ai-tv-patent",
+   "firstSeen": "2026-11-24T18:27:08+08:00"
+  },
+  {
+   "id": "d43220d186",
+   "title": "JENNIE 所属公司 OA Entertainment 对多个账号提起刑事诉讼：打击 AI 深度伪造、恶意剪辑和诽谤内容",
+   "summary": "11 月 24 日，BLACKPINK 成员 JENNIE 的经纪公司 OA Entertainment 宣布，已在韩国国内外对多个制作和传播 AI 深度伪造、恶意剪辑、性化物化及诽谤内容的账号提起刑事诉讼并采取法律行动，AI 换脸侵害艺人权益的话题再度升温。",
+   "links": [
+    "https://x.com/i/status/2125104836509368691"
+   ],
+   "topic": "jennie-oa-deepfake-lawsuit",
+   "firstSeen": "2026-11-24T18:27:08+08:00"
   }
  ],
- "lastChecked": "2026-11-24T18:14:10+08:00"
+ "lastChecked": "2026-11-24T18:27:08+08:00"
 }
