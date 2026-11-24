@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T19:26:09+08:00",
+ "lastUpdated": "2026-11-24T19:38:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53167,7 +53167,29 @@
    ],
    "topic": "axios-openai-anthropic-staff-safety-fears",
    "firstSeen": "2026-11-24T19:26:09+08:00"
+  },
+  {
+   "id": "dac281dc29",
+   "title": "韩国金融委员会公布《数字资产基本法》草案：2017 年以来首次重新允许 ICO，韩元稳定币先由银行控股财团发行",
+   "summary": "11 月 24 日，韩国金融委员会（FSC）公布《数字资产基本法》草案：在充分信息披露前提下重新允许 ICO（2017 年起被禁），韩元稳定币首批由银行占多数的财团发行，交易所大股东持股上限为 20%，并引入交易所牌照制度。草案将提交国会审议。",
+   "links": [
+    "https://x.com/i/status/2125121131111665904",
+    "https://x.com/i/status/2124813074020626821"
+   ],
+   "topic": "korea-digital-asset-act-ico",
+   "firstSeen": "2026-11-24T19:38:06+08:00"
+  },
+  {
+   "id": "796c738a59",
+   "title": "独立调查：Polymarket「黄仁勋是否回归英伟达」盘口疑现内幕交易，大额买入发生在特朗普公开表态前 89 分钟",
+   "summary": "一位开发者用自建的链上监控算法追踪 Polymarket 敏感盘口，发布调查长文：在「黄仁勋 2026 年底前是否重返英伟达」市场中，有资金在深夜集中建仓，时间恰好比特朗普公开表态早 89 分钟，随后英伟达官宣黄仁勋回任。文章逐笔列出 Polygon 交易哈希，登上 HN，引发对预测市场内幕交易的讨论。",
+   "links": [
+    "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
+    "https://news.ycombinator.com/item?id=50626578"
+   ],
+   "topic": "polymarket-insider-jensen-huang",
+   "firstSeen": "2026-11-24T19:38:06+08:00"
   }
  ],
- "lastChecked": "2026-11-24T19:26:09+08:00"
+ "lastChecked": "2026-11-24T19:38:06+08:00"
 }
