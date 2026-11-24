@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T14:13:14+08:00",
+ "lastUpdated": "2026-11-24T14:28:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52939,7 +52939,17 @@
    ],
    "topic": "megaspeed-entity-list-commerce",
    "firstSeen": "2026-11-24T14:13:14+08:00"
+  },
+  {
+   "id": "cb179d2494",
+   "title": "Replit CEO Amjad Masad 会见美国副总统万斯：谈 AI 领导力、网络安全和软件基础设施现代化，力推美国开源权重模型",
+   "summary": "Replit CEO Amjad Masad 发帖称上周五与副总统万斯会面，讨论美国 AI 领导力、网络安全和政府软件基础设施现代化，并重点呼吁扶持美国开源权重 AI：盟友想要主权 AI、正越来越多转向中国开源模型，美国创业公司也需要有竞争力的模型生态。这次会面在 X 上引发两极争议。",
+   "links": [
+    "https://x.com/i/status/2125008810041610359"
+   ],
+   "topic": "replit-masad-vance-open-weight-ai",
+   "firstSeen": "2026-11-24T14:28:13+08:00"
   }
  ],
- "lastChecked": "2026-11-24T14:13:14+08:00"
+ "lastChecked": "2026-11-24T14:28:13+08:00"
 }
