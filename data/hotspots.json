@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T15:42:53+08:00",
+ "lastUpdated": "2026-11-24T15:56:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53025,7 +53025,18 @@
    ],
    "topic": "anthropic-58-firms-ai-organizational-change-report",
    "firstSeen": "2026-11-24T15:42:53+08:00"
+  },
+  {
+   "id": "588fbc085b",
+   "title": "Meta 个人 AI 智能体 Muse 登陆英国：购物、订行程、管日程，iOS、安卓、网页和 WhatsApp 全端可用",
+   "summary": "继澳大利亚之后，Meta 把个人 AI 智能体 Muse 推向英国，面向 18 岁以上用户，可在 iOS、Android、网页和 WhatsApp 上代办购物、预订行程、安排日程等日常任务，并接入英国本地服务。Meta 官方账号以「all your bits and bobs, sorted」宣传，Muse 正逐国扩张。",
+   "links": [
+    "https://x.com/i/status/2125107155338711179",
+    "https://x.com/i/status/2125111851654815995"
+   ],
+   "topic": "meta-muse-launches-uk",
+   "firstSeen": "2026-11-24T15:56:04+08:00"
   }
  ],
- "lastChecked": "2026-11-24T15:42:53+08:00"
+ "lastChecked": "2026-11-24T15:56:04+08:00"
 }
