@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T11:30:52+08:00",
+ "lastUpdated": "2026-11-24T12:14:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52843,7 +52843,40 @@
    ],
    "topic": "ethereum-foundation-security-team-ai-quantum",
    "firstSeen": "2026-11-24T11:30:52+08:00"
+  },
+  {
+   "id": "d1ff13765f",
+   "title": "OpenAI 用 GPT-6 Cyber 一次性验证 948 个 Linux 内核提权漏洞：自动复现并生成补丁，已与维护者合作推进上游修复",
+   "summary": "OpenAI 安全研究员公布实验：一条基于 GPT-6 Cyber 的自动化流水线扫描 Linux 内核、在虚拟机里复现问题，一次运行就确认了 948 个可拿到本地 root 权限的漏洞，并为每个生成待审补丁；团队正与内核维护者合作把修复合入上游。",
+   "links": [
+    "https://x.com/i/status/2125007927098699827",
+    "https://x.com/i/status/2125027477877887231"
+   ],
+   "topic": "openai-gpt6-cyber-948-linux-kernel-bugs",
+   "firstSeen": "2026-11-24T12:14:15+08:00"
+  },
+  {
+   "id": "e3e600460a",
+   "title": "OpenAI 宣布 12 月 23 日下线 GPT-5.6：Chat 里的 Sol、Work 和 Codex 里的 Sol 与 Terra 全部停用，今后只保留两代以内模型",
+   "summary": "OpenAI 宣布 12 月 23 日起停用 Chat 中的 GPT-5.6 Sol，以及 Work 和 Codex 中的 GPT-5.6 Sol 与 Terra。官方表示今后发布新模型时，一般会淘汰落后两代的旧模型，把算力让给更强的模型，依赖旧模型的工作流需提前迁移。",
+   "links": [
+    "https://x.com/i/status/2124981905380569283",
+    "https://x.com/i/status/2124988211621707815"
+   ],
+   "topic": "openai-gpt56-deprecation-dec23",
+   "firstSeen": "2026-11-24T12:14:15+08:00"
+  },
+  {
+   "id": "4f1346d440",
+   "title": "DeepSeek 估值 860 亿美元，梁文锋持股 67.4%、身家约 550 亿美元：成全球最富的 AI 模型公司创始人",
+   "summary": "随 DeepSeek 新一轮约 150 亿美元融资完成，公司估值约 860 亿美元，创始人梁文锋持股 67.4%，身家今年翻了三倍多，约 550 亿美元，超过 Altman、Brockman 和 Amodei 三人之和，位列中国第三富豪。",
+   "links": [
+    "https://x.com/i/status/2125034851720163811",
+    "https://x.com/i/status/2125025174697242764"
+   ],
+   "topic": "deepseek-liang-wenfeng-55b-net-worth",
+   "firstSeen": "2026-11-24T12:14:15+08:00"
   }
  ],
- "lastChecked": "2026-11-24T11:30:52+08:00"
+ "lastChecked": "2026-11-24T12:14:15+08:00"
 }
