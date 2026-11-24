@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T00:25:37+08:00",
+ "lastUpdated": "2026-11-25T01:08:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53312,7 +53312,29 @@
    ],
    "topic": "bostrom-ai-1400-years",
    "firstSeen": "2026-11-25T00:25:37+08:00"
+  },
+  {
+   "id": "3cd02d89de",
+   "title": "TheStage AI 发布免费端侧语音 App Edgent：iPhone 和 Mac 本地听写、会议纪要、可打断语音对话，飞行模式也能用",
+   "summary": "TheStage AI 推出 Edgent，免费、无需注册，所有语音识别都在设备本地运行：任意 Mac 应用内听写、带说话人标注的会议纪要和摘要、实时字幕、词级时间戳和语种识别。底层整合 TheWhisper、Qwen3-ASR、Parakeet-TDT，其中 0.8B 的 TheWhisper Turbo 在多语种 Open ASR 榜单排第 6，超过 OpenAI gpt-transcribe。",
+   "links": [
+    "https://x.com/i/status/2125244296182063561",
+    "https://x.com/i/status/2125251343883415926"
+   ],
+   "topic": "edgent-on-device-speech",
+   "firstSeen": "2026-11-25T01:08:57+08:00"
+  },
+  {
+   "id": "2e5a19eb80",
+   "title": "Harvey 用 Tenet 训练配方后训练 4 个美国开源权重模型：Meta Muse Spark Open 首个在法律 Agent 基准全通过率超 30%",
+   "summary": "法律 AI 公司 Harvey 与 Baseten 把此前用在 Kimi K3 上的 Tenet 后训练配方，应用到 Meta、英伟达、Reflection AI、Thinking Machines 的四个美国开源权重模型（Muse Spark Open、Nemotron 3.5 Super VL 等），称美国开源模型已追上非美模型，Muse Spark Open 成为首个在 Legal Agent Bench 全通过率超过 30% 的模型。",
+   "links": [
+    "https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models",
+    "https://x.com/i/status/2125259420259250209"
+   ],
+   "topic": "harvey-tenet-us-open-weights",
+   "firstSeen": "2026-11-25T01:08:57+08:00"
   }
  ],
- "lastChecked": "2026-11-25T00:25:37+08:00"
+ "lastChecked": "2026-11-25T01:08:57+08:00"
 }
