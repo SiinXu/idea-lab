@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T18:27:08+08:00",
+ "lastUpdated": "2026-11-24T18:38:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53112,7 +53112,18 @@
    ],
    "topic": "jennie-oa-deepfake-lawsuit",
    "firstSeen": "2026-11-24T18:27:08+08:00"
+  },
+  {
+   "id": "ef3ddcc39a",
+   "title": "TasteVal 测评：GPT-6.2 Astra 的「实验研究品味」达到顶尖人类专家的 4.9 倍，创最高纪录，Claude Fable 5.2 为 2.5 倍",
+   "summary": "评测机构在 X 上公布 TasteVal 结果：OpenAI 的 GPT-6.2 Astra 在判断哪些实验值得做的「研究品味」上，估计达到其最好人类专家的 4.9 倍，是迄今测得的最高分；Anthropic 的 Claude Fable 5.2 为 2.5 倍。AI 能否自主挑选研究方向、加速科研的讨论随之升温。",
+   "links": [
+    "https://x.com/i/status/2124973722989957377",
+    "https://x.com/i/status/2125150185143906642"
+   ],
+   "topic": "tasteval-gpt-6-2-astra",
+   "firstSeen": "2026-11-24T18:38:29+08:00"
   }
  ],
- "lastChecked": "2026-11-24T18:27:08+08:00"
+ "lastChecked": "2026-11-24T18:38:29+08:00"
 }
