@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T01:24:16+08:00",
+ "lastUpdated": "2026-11-25T01:39:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53345,7 +53345,18 @@
    ],
    "topic": "stoke-nova-slc14",
    "firstSeen": "2026-11-25T01:24:16+08:00"
+  },
+  {
+   "id": "10635deb5d",
+   "title": "前 SpaceXAI 联创张国栋创办 Epochal，发布 Time Portal：让 AI Agent 按「当时」的样子浏览过去 30 年互联网",
+   "summary": "新创公司 Epochal 发布 Time Portal 公测：一个号称首个真正「时间点」的浏览环境，收录跨越 30 年、数万亿网页，Agent 只能看到某一天之前存在的内容，用来训练和评测 AI 预测未来的能力。团队认为「预测未来是智能最好的衡量」，这是他们 3 个月从零做出的第一个热身项目。",
+   "links": [
+    "https://x.com/i/status/2125270859715875210",
+    "https://x.com/i/status/2125271096492736861"
+   ],
+   "topic": "epochal-time-portal",
+   "firstSeen": "2026-11-25T01:39:15+08:00"
   }
  ],
- "lastChecked": "2026-11-25T01:24:16+08:00"
+ "lastChecked": "2026-11-25T01:39:15+08:00"
 }
