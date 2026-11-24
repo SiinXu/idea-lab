@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T10:58:49+08:00",
+ "lastUpdated": "2026-11-24T11:10:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52822,7 +52822,17 @@
    ],
    "topic": "x-profile-work-experience",
    "firstSeen": "2026-11-24T10:58:49+08:00"
+  },
+  {
+   "id": "a6edca5eb3",
+   "title": "Anthropic 把连接器和技能合并成 Claude「插件」：一处接工具、教新技能，插件目录超 1 万个，免费版起全量上线",
+   "summary": "Anthropic 宣布 Claude 的连接器（Connectors，接 Google Drive 等外部工具）和技能（Skills，教 Claude 做特定任务）统一为「插件」，以后接工具、加技能或两者兼有都走同一入口。已在 Free、Pro、Max、Ultra 方案上线，Team 和 Enterprise 即将跟进，插件目录可浏览超过 10,000 个插件。",
+   "links": [
+    "https://x.com/i/status/2124970294523945328"
+   ],
+   "topic": "claude-unified-plugins",
+   "firstSeen": "2026-11-24T11:10:20+08:00"
   }
  ],
- "lastChecked": "2026-11-24T10:59:43+08:00"
+ "lastChecked": "2026-11-24T11:10:20+08:00"
 }
