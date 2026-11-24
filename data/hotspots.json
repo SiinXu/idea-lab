@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T05:44:54+08:00",
+ "lastUpdated": "2026-11-25T06:01:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53574,7 +53574,18 @@
    ],
    "topic": "t3-code-telemetry-backlash",
    "firstSeen": "2026-11-25T05:44:54+08:00"
+  },
+  {
+   "id": "858d5734fa",
+   "title": "并行跑多个编程 Agent 的桌面应用 Paradev 改回 MIT 全开源：承认 2 月收紧许可证是错误，已有 160+ 贡献者、1400+ fork",
+   "summary": "Paradev（原 Superset）是一款同时运行 Claude Code、Codex 等多个编程智能体的桌面应用。团队宣布撤回 2 月改用的限制性许可证，重新采用 MIT 协议完全开源，欢迎任何人 fork、修改或基于它做自己的产品；项目目前已有 160 多名贡献者和 1400 多个 fork。",
+   "links": [
+    "https://x.com/i/status/2125293469136732635",
+    "https://x.com/i/status/2125294131996221892"
+   ],
+   "topic": "paradev-mit-open-source",
+   "firstSeen": "2026-11-25T06:01:47+08:00"
   }
  ],
- "lastChecked": "2026-11-25T05:44:54+08:00"
+ "lastChecked": "2026-11-25T06:01:47+08:00"
 }
