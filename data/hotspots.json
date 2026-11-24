@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T20:11:52+08:00",
+ "lastUpdated": "2026-11-24T20:28:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53200,7 +53200,18 @@
    ],
    "topic": "riemann-proof-alpoge-clarification",
    "firstSeen": "2026-11-24T20:11:52+08:00"
+  },
+  {
+   "id": "e0ad3efb80",
+   "title": "长文《更便宜的 token 撑不起 5600 亿美元资本开支》：token 用量和单价同速变化，杰文斯悖论救不了 AI 收入",
+   "summary": "Philipp Dubach 在 HN 热文中算账：谷歌月处理 token 从 2024 年 5 月的 9.7 万亿涨到 2026 年 5 月的 3.2 千万亿（330 倍），但单价同样暴跌，收入并未同步增长；五大云厂商 2026 年前三季度资本开支已达 5600 亿美元。作者认为，填补开支与收入缺口要靠抢占原本付给人力的预算，「按结果计价」正是厂商的出路。",
+   "links": [
+    "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+    "https://news.ycombinator.com/item?id=50625888"
+   ],
+   "topic": "jevons-ai-tokens-capex",
+   "firstSeen": "2026-11-24T20:28:28+08:00"
   }
  ],
- "lastChecked": "2026-11-24T20:11:52+08:00"
+ "lastChecked": "2026-11-24T20:28:28+08:00"
 }
