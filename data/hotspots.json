@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T17:43:20+08:00",
+ "lastUpdated": "2026-11-24T18:14:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53070,7 +53070,28 @@
    ],
    "topic": "config-ai-fpga-llm-compiler",
    "firstSeen": "2026-11-24T17:43:20+08:00"
+  },
+  {
+   "id": "01f80ec904",
+   "title": "Gemini 4 Neon 实测出圈：在 Karpathy autoresearch 框架下对基座模型的提升是 Opus 的 1.76 倍，代码注释「读起来很不真实」",
+   "summary": "过去一天，有开发者用 Andrej Karpathy 的 autoresearch 设置独立测评谷歌 Gemini 4 Neon：在留出数据上，它对基座模型的提升幅度约为 Opus 的 1.76 倍，最佳改动是一段 20 行的 bigram 记忆模块。另一条高赞帖晒出 Neon 写的代码注释，称「阅读体验非常不真实」，引发对新模型研究与编程能力的热议。",
+   "links": [
+    "https://x.com/i/status/2124974823306609076",
+    "https://x.com/i/status/2125018427790344654"
+   ],
+   "topic": "gemini-4-neon-autoresearch",
+   "firstSeen": "2026-11-24T18:14:10+08:00"
+  },
+  {
+   "id": "770e6e79fa",
+   "title": "隐私优先的 AI 平台 Venice.ai 年化收入突破 2 亿美元：聚合数百个模型，提供 OpenAI 兼容 API",
+   "summary": "由 ShapeShift 创始人 Erik Voorhees 于 2024 年推出的 Venice.ai 宣布年化收入（ARR）突破 2 亿美元。它通过网页端和 OpenAI 兼容 API 提供数百个文本、图像、视频、音频和代码模型，主打隐私与少审查，成为模型聚合赛道的又一增长样本。",
+   "links": [
+    "https://x.com/i/status/2125059544569274703"
+   ],
+   "topic": "venice-ai-200m-arr",
+   "firstSeen": "2026-11-24T18:14:10+08:00"
   }
  ],
- "lastChecked": "2026-11-24T17:43:20+08:00"
+ "lastChecked": "2026-11-24T18:14:10+08:00"
 }
