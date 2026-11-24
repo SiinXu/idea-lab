@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T18:53:06+08:00",
+ "lastUpdated": "2026-11-24T19:09:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53145,7 +53145,18 @@
    ],
    "topic": "pixxel-gigapixxel-bengaluru",
    "firstSeen": "2026-11-24T18:53:06+08:00"
+  },
+  {
+   "id": "ce679889ed",
+   "title": "Phoronix 实测十年跨度：AMD EPYC Zen 6 对比初代 Zen 1，几何平均性能提升 12.1 倍，AI 负载最高 133 倍",
+   "summary": "Phoronix 用刚上市的 EPYC 9006「Venice」系列（256 核 Zen 6C、1GB L3 缓存的 EPYC 9996 和高频版 9686F）对比 2017 年的初代旗舰 EPYC 7601（32 核），在真实负载中测得几何平均 12.1 倍提升，AI 负载最高达 133 倍，同时比较了能效，登上 HN 热榜引发对服务器 CPU 十年进化的讨论。",
+   "links": [
+    "https://www.phoronix.com/review/amd-epyc-9006-7601",
+    "https://news.ycombinator.com/item?id=50624061"
+   ],
+   "topic": "amd-epyc-zen6-vs-zen1",
+   "firstSeen": "2026-11-24T19:09:01+08:00"
   }
  ],
- "lastChecked": "2026-11-24T18:53:06+08:00"
+ "lastChecked": "2026-11-24T19:09:01+08:00"
 }
