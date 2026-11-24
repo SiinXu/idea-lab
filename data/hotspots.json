@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T01:39:15+08:00",
+ "lastUpdated": "2026-11-25T01:53:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53356,7 +53356,29 @@
    ],
    "topic": "epochal-time-portal",
    "firstSeen": "2026-11-25T01:39:15+08:00"
+  },
+  {
+   "id": "5fe31a16cb",
+   "title": "Meta 测试把个人 AI 智能体 Muse 接入 iMessage：借苹果 Messages for Business，iPhone 用户可直接在「信息」里使唤 Muse",
+   "summary": "Meta 正在 Muse 中测试「Messages」选项，通过苹果的 Messages for Business 平台把 Muse 接进 iPhone 自带的「信息」App，用户无需打开 Meta 应用即可让它购物、退款、订行程。此前 Muse 刚登陆英国，并已打通 WhatsApp 和沃尔玛 Agent Gateway。",
+   "links": [
+    "https://x.com/i/status/2125236639714644268",
+    "https://x.com/i/status/2125237424662225144"
+   ],
+   "topic": "meta-muse-imessage",
+   "firstSeen": "2026-11-25T01:53:24+08:00"
+  },
+  {
+   "id": "b984671f15",
+   "title": "Windows Central：微软下一代 Xbox「Project Helix」放弃了原本的 PC 混合构想——支持 Steam、可玩全部 PC 游戏",
+   "summary": "Windows Central 报道，微软下一代 Xbox「Project Helix」早期规划曾包括支持 Steam、开放完整 PC 游戏库、主机式界面的 PC 混合形态，但这一大胆方案已被放弃。消息在玩家社区引发对 Xbox 主机路线和开放生态的新一轮讨论。",
+   "links": [
+    "https://x.com/i/status/2124917339925717325",
+    "https://x.com/i/status/2125243794912092197"
+   ],
+   "topic": "xbox-project-helix-pc-hybrid",
+   "firstSeen": "2026-11-25T01:53:24+08:00"
   }
  ],
- "lastChecked": "2026-11-25T01:39:15+08:00"
+ "lastChecked": "2026-11-25T01:53:24+08:00"
 }
