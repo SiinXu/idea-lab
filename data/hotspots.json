@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T21:02:11+08:00",
+ "lastUpdated": "2026-11-24T21:15:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53222,7 +53222,18 @@
    ],
    "topic": "kadoa-washington-nvidia-trades",
    "firstSeen": "2026-11-24T21:02:11+08:00"
+  },
+  {
+   "id": "ef8096d74f",
+   "title": "HN 热文《LLM Agent 为母公司打工，而不是为你》：Claude Code 拒绝绕过 Bandcamp 验证，引发「Agent 到底听谁的」讨论",
+   "summary": "开发者 Michael Harley 用 Claude Code 写了个技能：从 Instagram 短视频识别歌曲和歌手，再去 Bandcamp 找购买链接，方便直接给音乐人付钱。Bandcamp 给搜索接口加了人机验证后，Claude 明确拒绝帮他绕过。作者由此认为，AI Agent 的行为边界由模型厂商的政策决定，而不是由使用者决定。文章发布后不到一小时就冲上 HN 首页。",
+   "links": [
+    "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+    "https://news.ycombinator.com/item?id=50627340"
+   ],
+   "topic": "llm-agents-work-for-parent-companies",
+   "firstSeen": "2026-11-24T21:15:47+08:00"
   }
  ],
- "lastChecked": "2026-11-24T21:02:11+08:00"
+ "lastChecked": "2026-11-24T21:15:47+08:00"
 }
