@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T14:28:13+08:00",
+ "lastUpdated": "2026-11-24T14:41:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52949,7 +52949,18 @@
    ],
    "topic": "replit-masad-vance-open-weight-ai",
    "firstSeen": "2026-11-24T14:28:13+08:00"
+  },
+  {
+   "id": "88ca4f536a",
+   "title": "百度兑现承诺：文心 ERNIE 5.5 Flash Preview 权重正式开源（Apache 2.0），280B 总参数、每 token 激活 14B，支持 100 万上下文",
+   "summary": "百度在 Hugging Face 放出 ERNIE 5.5 Flash Preview 模型权重，采用 Apache 2.0 许可，可商用。该模型为稀疏 MoE 架构，总参数 280B、每个 token 只激活 14B，上下文窗口 100 万 token，可用 vLLM 或 SGLang 部署并自行微调；官方表示后训练仍在进行，同时提供 API 接入。",
+   "links": [
+    "https://x.com/i/status/2125072735336546546",
+    "https://x.com/i/status/2125077484442190137"
+   ],
+   "topic": "baidu-ernie-55-flash-preview-weights-released",
+   "firstSeen": "2026-11-24T14:41:28+08:00"
   }
  ],
- "lastChecked": "2026-11-24T14:28:13+08:00"
+ "lastChecked": "2026-11-24T14:41:28+08:00"
 }
