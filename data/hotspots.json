@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T12:31:46+08:00",
+ "lastUpdated": "2026-11-24T12:57:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52897,7 +52897,17 @@
    ],
    "topic": "okx-ice-tokenized-securities-venue",
    "firstSeen": "2026-11-24T12:31:46+08:00"
+  },
+  {
+   "id": "7b2156f587",
+   "title": "Figure CEO 回应马斯克「挪桌子就拿不到苹果」质疑：晒出 Helix 零样本全自主视频，桌子被移动后机器人照样抓到苹果",
+   "summary": "马斯克在 iConnections 峰会上说，很多机器人演示是摆拍，桌子一挪就抓不到苹果。Figure AI CEO Brett Adcock 随即发布视频：搭载 Helix 模型的 Figure 机器人在零样本、完全自主的情况下，桌子被移动后仍能抓起苹果，引发人形机器人路线之争的新一轮讨论。",
+   "links": [
+    "https://x.com/i/status/2124963178916524276"
+   ],
+   "topic": "figure-helix-apple-moving-table-musk",
+   "firstSeen": "2026-11-24T12:57:06+08:00"
   }
  ],
- "lastChecked": "2026-11-24T12:31:46+08:00"
+ "lastChecked": "2026-11-24T12:57:06+08:00"
 }
