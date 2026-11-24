@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T06:17:06+08:00",
+ "lastUpdated": "2026-11-24T08:14:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52725,7 +52725,18 @@
    ],
    "topic": "coprod-robotics",
    "firstSeen": "2026-11-24T06:17:06+08:00"
+  },
+  {
+   "id": "9a18013a07",
+   "title": "Stripe 数据：AI Agent 代购物复购率高——首单后 56% 用户会再下单，买满 9 次后升到 78%，沃尔玛拥抱 Agent、亚马逊却在封堵",
+   "summary": "Stripe 最新数据显示：10 月中前通过 AI Agent 完成首单的用户中，56% 回来下了第二单；累计 9 单后复购率升到 78%，且多在同一品类。沃尔玛积极对接购物 Agent，亚马逊则在屏蔽 Agent，形成对比。另有团队跑了 1.1 万多次 Agent 测试，研究 Agent 如何决定推荐哪些商品——「被 Agent 推荐」正在成为新的分发渠道。",
+   "links": [
+    "https://x.com/i/status/2124895744775667767",
+    "https://x.com/i/status/2124963980481556930"
+   ],
+   "topic": "stripe-agentic-commerce-repeat",
+   "firstSeen": "2026-11-24T08:14:13+08:00"
   }
  ],
- "lastChecked": "2026-11-24T06:17:06+08:00"
+ "lastChecked": "2026-11-24T08:14:13+08:00"
 }
