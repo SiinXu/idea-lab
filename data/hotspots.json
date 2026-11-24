@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T17:08:40+08:00",
+ "lastUpdated": "2026-11-24T17:43:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53059,7 +53059,18 @@
    ],
    "topic": "x-web-ui-redesign-backlash",
    "firstSeen": "2026-11-24T17:08:40+08:00"
+  },
+  {
+   "id": "fc1571f280",
+   "title": "Config AI 推 FPGA 编译器：把 PyTorch 模型映射到 FPGA 提速 19 倍，Kimi K3 Nano 跑出 4.8 万 token/秒，但遭质疑演示混用 Taalas ASIC",
+   "summary": "Config AI（获 Max Planck 研究所和 Google for Startups 支持）开发编译器，把 LLM 各层映射到可重构 FPGA 的时间缩短 19 倍，宣称已部署 Kimi K3 Nano 达到每秒 4.8 万 token，下一步瞄准 20B–700B 参数模型，口号是「让 GPT-6.2 级模型免费」。宣传视频在 X 走红，但有人指出视频中 1.5 万 token/秒的演示其实是 Taalas 的固化 ASIC（ChatJimmy），且 FPGA 内存带宽约 819GB/s，远低于 H200 的 4.8TB/s，云上单价也比 L4 GPU 更贵，引发对 FPGA 推理路线的争论。",
+   "links": [
+    "https://x.com/i/status/2125079387188142575",
+    "https://x.com/i/status/2125101437386707045"
+   ],
+   "topic": "config-ai-fpga-llm-compiler",
+   "firstSeen": "2026-11-24T17:43:20+08:00"
   }
  ],
- "lastChecked": "2026-11-24T17:08:40+08:00"
+ "lastChecked": "2026-11-24T17:43:20+08:00"
 }
