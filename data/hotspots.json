@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T15:22:59+08:00",
+ "lastUpdated": "2026-11-24T15:42:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53015,7 +53015,17 @@
    ],
    "topic": "india-opposition-storms-meta-instagram-accounts",
    "firstSeen": "2026-11-24T15:22:59+08:00"
+  },
+  {
+   "id": "0e5102b1b7",
+   "title": "Anthropic 访谈 58 家企业发布新报告：AI 的大部分价值来自重组岗位和组织，而不是简单加一个工具",
+   "summary": "Anthropic 新研究基于对法律、金融、制造等行业 58 家企业的访谈：快速数据分析这类低投入用法只带来有限收益，高价值场景（如合并后的编程 Agent、重新定义的文档审核流程）需要对岗位职责做大改，才能明显提速或解锁新能力。直接裁员不多，但企业放缓招聘并削减部分外包；员工普遍抵触 AI，把 AI 收益分给员工有助于减少阻力。Ethan Mollick 转发点评后引发讨论。",
+   "links": [
+    "https://x.com/i/status/2125098309928812898"
+   ],
+   "topic": "anthropic-58-firms-ai-organizational-change-report",
+   "firstSeen": "2026-11-24T15:42:53+08:00"
   }
  ],
- "lastChecked": "2026-11-24T15:22:59+08:00"
+ "lastChecked": "2026-11-24T15:42:53+08:00"
 }
