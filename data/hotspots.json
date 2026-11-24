@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T19:38:06+08:00",
+ "lastUpdated": "2026-11-24T20:11:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53189,7 +53189,18 @@
    ],
    "topic": "polymarket-insider-jensen-huang",
    "firstSeen": "2026-11-24T19:38:06+08:00"
+  },
+  {
+   "id": "4dda5060c8",
+   "title": "AI 证明黎曼猜想后续：Anthropic 数学家 Alpoge 澄清「25 万页」只是玩笑，承认大量代码是「垃圾」，但证明已获 Lean 独立核验",
+   "summary": "此前与 Claude 合作宣布形式化证明黎曼猜想的 Anthropic 数学家 Levent Alpoge 发长文反思：论文里「25 万页以上」的说法只是他觉得大数字好笑的玩笑，却被网友当真；他承认很多代码质量很差，但强调证明由独立 Lean 专家核验。同时，一张 1700 万行、17.5 万个文件的 Lean 证明结构图在 X 上疯传，被称为「外星数学时代」的开端。",
+   "links": [
+    "https://x.com/i/status/2124987173439209561",
+    "https://x.com/i/status/2124830445389119988"
+   ],
+   "topic": "riemann-proof-alpoge-clarification",
+   "firstSeen": "2026-11-24T20:11:52+08:00"
   }
  ],
- "lastChecked": "2026-11-24T19:38:06+08:00"
+ "lastChecked": "2026-11-24T20:11:52+08:00"
 }
