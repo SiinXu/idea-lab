@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T04:25:40+08:00",
+ "lastUpdated": "2026-11-25T04:43:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53530,7 +53530,18 @@
    ],
    "topic": "cia-odni-unclassified-breach",
    "firstSeen": "2026-11-25T04:25:40+08:00"
+  },
+  {
+   "id": "cae95c4151",
+   "title": "Claude 桌面端上线「Install as app」测试版：让 Claude 做的 Artifact 一键变成 Mac / Windows 独立应用，可调连接器、发通知、进菜单栏",
+   "summary": "Anthropic 在 Claude 桌面 App（Mac 和 Windows）推出测试功能：让 Claude 生成一个 Artifact 后点击「Install as app」，即可像普通软件一样拥有独立窗口和图标打开。这些应用可以使用你的连接器，并在授权后调用系统能力，如发送通知、添加菜单栏项目，零代码就能做出并分享 Claude 驱动的桌面小工具。",
+   "links": [
+    "https://x.com/i/status/2125315491522650299",
+    "https://x.com/i/status/2125310111149416682"
+   ],
+   "topic": "claude-artifacts-install-as-app",
+   "firstSeen": "2026-11-25T04:43:34+08:00"
   }
  ],
- "lastChecked": "2026-11-25T04:25:40+08:00"
+ "lastChecked": "2026-11-25T04:43:34+08:00"
 }
