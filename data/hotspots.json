@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T08:46:50+08:00",
+ "lastUpdated": "2026-11-24T09:14:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52747,7 +52747,50 @@
    ],
    "topic": "supertake-seed",
    "firstSeen": "2026-11-24T08:46:50+08:00"
+  },
+  {
+   "id": "7e689a2455",
+   "title": "Anthropic 公开 Claude 发现的「VP ≠ VNP（对所有域）」证明：论文和 Lean 4 形式化全由 AI 完成，尚无人类数学家审核",
+   "summary": "Anthropic 在 GitHub 的 formal-math 仓库放出 vp-vnp 文件夹：内部研究版 Claude 证明，对任意域，哈密顿圈多项式（以及特征非 2 时的积和式）的算术电路需要超多项式规模，因此代数复杂度里的 VP 严格小于 VNP，近似电路同样成立。论文和 Lean 4 证明都由 AI 写成，官方明确说这不解决 P vs NP，且没有人类数学家检查过证明，但 Lean 可复现编译并用第二个独立内核复核。登上 HN 首页数小时即 200+ 分、180+ 评论。",
+   "links": [
+    "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+    "https://news.ycombinator.com/item?id=50620102"
+   ],
+   "topic": "anthropic-vp-vnp-proof",
+   "firstSeen": "2026-11-24T09:14:57+08:00"
+  },
+  {
+   "id": "8a65f0a9a9",
+   "title": "开源邮件服务器 Stalwart 1.2 变身 Exchange 平替：实现 MAPI over HTTP、EWS、ActiveSync，Outlook 不用换就能连",
+   "summary": "Rust 写的开源邮件服务器 Stalwart 11 月 23 日发布 1.2.0，实现了微软 Exchange 的整套协议（MAPI over HTTP、Exchange Web Services、ActiveSync、Autodiscover）。经典版 Outlook、Mac 版 Outlook、苹果邮件和手机邮件 App 都能像连 Exchange 一样连上它，企业可以离开 Exchange 而员工不必换邮件客户端。HN 首页 2 小时 170+ 分。",
+   "links": [
+    "https://stalw.art/blog/"
+   ],
+   "topic": "stalwart-exchange-replacement",
+   "firstSeen": "2026-11-24T09:14:57+08:00"
+  },
+  {
+   "id": "180a7ed7ad",
+   "title": "Qoder 上线神秘编程模型 HungerG：身份保密，11 月 23–30 日在 Qoder 和 Qoder IDE 免费不限量试用",
+   "summary": "AI 编程平台 Qoder 独家上线代号 HungerG 的隐身模型，不公布出自哪家，邀请用户拿真实任务试用并猜作者，11 月 23 日至 30 日免费、不扣额度。社区已用「鹈鹕骑自行车」「黑洞」等经典测试晒出效果，猜测背后厂商成了新话题。",
+   "links": [
+    "https://x.com/i/status/2124899980632822148",
+    "https://x.com/i/status/2124954200119631970"
+   ],
+   "topic": "qoder-hungerg-stealth-model",
+   "firstSeen": "2026-11-24T09:14:57+08:00"
+  },
+  {
+   "id": "df08ab47e0",
+   "title": "NariQ 把 Qwen3.8-27B 压到 10GB：3 比特量化在长程 Agent 编程、数学和看图任务上追平 BF16，单卡可跑",
+   "summary": "Nari Labs 发布 NariQ v1 量化版 Qwen3.8-27B（3 / 2.5 / 2 比特 GGUF，需配合其 llama.cpp 分支）。用真实编程 Agent 轨迹校准的网格编码训练后量化，让 10.1GB 的 3 比特版在 DeepSWE v1.1、Terminal-Bench 2.1、AIME 等测试上与 53.8GB 的 BF16 原版持平甚至略高；2 比特版明显掉分。本地跑强 Agent 编程模型的门槛进一步降低，登上 HN 首页。",
+   "links": [
+    "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+    "https://news.ycombinator.com/item?id=50611402"
+   ],
+   "topic": "nariq-qwen-27b-quant",
+   "firstSeen": "2026-11-24T09:14:57+08:00"
   }
  ],
- "lastChecked": "2026-11-24T08:46:50+08:00"
+ "lastChecked": "2026-11-24T09:14:57+08:00"
 }
