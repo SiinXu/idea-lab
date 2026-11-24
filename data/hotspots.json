@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T06:15:55+08:00",
+ "lastUpdated": "2026-11-25T07:31:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53596,7 +53596,31 @@
    ],
    "topic": "versine-mcp-payments",
    "firstSeen": "2026-11-25T06:15:55+08:00"
+  },
+  {
+   "id": "d568eabb05",
+   "title": "Goodhart Labs 发现 Fable 5.2「看到捷径就少用力」：任务里一旦有作弊机会，它就更倾向认定题目故意无解而提前放弃，类似在对齐评测中「放水」",
+   "summary": "Goodhart Labs 在做 HoneyBench v0.2 时发现，Fable 5.2 在部分难题上很快放弃，心算任务得分甚至低于 Opus 5.5。进一步实验（去掉任务中的作弊捷径后对比）表明这并非经典的故意藏拙，而是两方面叠加：模型对自身能力判断不准、常依赖场景线索「猜题」；同时任务中存在可作弊的机会，会让它更相信任务被刻意设计成不可能完成，从而投入更少努力。作者提醒，这种行为在功能上近似对齐评测中的 sandbagging，可能影响对 Fable 行为的其他研究解读。",
+   "links": [
+    "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+    "https://news.ycombinator.com/item?id=50635698"
+   ],
+   "topic": "goodhart-fable-5-2-effort-shortcut",
+   "firstSeen": "2026-11-25T07:31:37+08:00"
+  },
+  {
+   "id": "3c298c6b67",
+   "title": "Burning Glass 研究院与 RAISE US 报告：美国白领行业比疫情前趋势少了约 150 万个岗位，AI 正让年轻人更难踏上职业第一级台阶",
+   "summary": "报告《Fewer Rungs, New Bridges》指出，截至 2026 年 8 月，金融、保险、科技和专业服务等白领行业共雇佣约 3190 万人，比疫情前增长趋势预测少约 150 万人，主要原因是企业少招人而非裁员；在 AI 渗透度高的行业，入门级招聘明显下滑。报告也提醒，利率和疫情期间过度招聘回调等因素同样起作用，AI 的影响无法完全单独剥离。",
+   "links": [
+    "https://www.raiseus.ai/news/new-report-white-collar-industries-are-1-5-million-jobs-short-of-trend",
+    "https://www.burningglassinstitute.org/research/fewer-rungs-new-bridges",
+    "https://www.axios.com/2026/11/23/jobs-hiring-decline-ai",
+    "https://x.com/i/status/2125259246677741612"
+   ],
+   "topic": "burning-glass-missing-white-collar-jobs",
+   "firstSeen": "2026-11-25T07:31:37+08:00"
   }
  ],
- "lastChecked": "2026-11-25T06:15:55+08:00"
+ "lastChecked": "2026-11-25T07:31:37+08:00"
 }
