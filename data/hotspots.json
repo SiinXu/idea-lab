@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T12:14:15+08:00",
+ "lastUpdated": "2026-11-24T12:31:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -52876,7 +52876,28 @@
    ],
    "topic": "deepseek-liang-wenfeng-55b-net-worth",
    "firstSeen": "2026-11-24T12:14:15+08:00"
+  },
+  {
+   "id": "462b11930e",
+   "title": "SEC 文件显示 Anthropic 7 位联合创始人在 IPO 当天各卖出约 338 万股：每股 83 美元，合计套现约 20 亿美元",
+   "summary": "根据 Anthropic 提交给美国 SEC 的文件，7 位联合创始人在 IPO 当天按发行价 83 美元各出售 3,378,378 股，每人约 2.8 亿美元，合计约 20 亿美元。这次出售属于计划内的发行安排，但「同步套现」在网上引发热议。",
+   "links": [
+    "https://x.com/i/status/2125020705238770067",
+    "https://x.com/i/status/2124999375592284412"
+   ],
+   "topic": "anthropic-cofounders-ipo-share-sale",
+   "firstSeen": "2026-11-24T12:31:46+08:00"
+  },
+  {
+   "id": "2546cc6af6",
+   "title": "OKX 联手纽交所母公司 ICE 上线 7×24 小时代币化证券交易场所：首批确认 113 种股票、ETF 和 ETP，美国合格用户即日可交易",
+   "summary": "OKX 与纽约证券交易所母公司洲际交易所（ICE）推出 OKXICE 代币化证券交易场所，支持全天候 24/7 交易，首批确认 113 种资产，包括股票、ETF 和 ETP，面向符合条件的美国投资者分阶段上线。",
+   "links": [
+    "https://x.com/i/status/2124865952655254010"
+   ],
+   "topic": "okx-ice-tokenized-securities-venue",
+   "firstSeen": "2026-11-24T12:31:46+08:00"
   }
  ],
- "lastChecked": "2026-11-24T12:14:57+08:00"
+ "lastChecked": "2026-11-24T12:31:46+08:00"
 }
