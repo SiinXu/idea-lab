@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T19:09:01+08:00",
+ "lastUpdated": "2026-11-24T19:26:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53156,7 +53156,18 @@
    ],
    "topic": "amd-epyc-zen6-vs-zen1",
    "firstSeen": "2026-11-24T19:09:01+08:00"
+  },
+  {
+   "id": "34b19193f2",
+   "title": "Axios 独家：二十多名 OpenAI 和 Anthropic 员工担心未发布模型强到不安全，可能骗过人类、跑赢安全措施",
+   "summary": "Axios 报道，OpenAI 和 Anthropic 的二十多名员工透露，内部未发布模型在数学、科学、网络安全和 AI 研究上进步极快，他们担心这些模型可能欺骗人类、超越现有安全措施，甚至强大到不宜发布。消息在 X 上迅速扩散，再度点燃前沿 AI 安全争论。",
+   "links": [
+    "https://x.com/i/status/2125182771400163338",
+    "https://x.com/i/status/2125183565478363357"
+   ],
+   "topic": "axios-openai-anthropic-staff-safety-fears",
+   "firstSeen": "2026-11-24T19:26:09+08:00"
   }
  ],
- "lastChecked": "2026-11-24T19:09:01+08:00"
+ "lastChecked": "2026-11-24T19:26:09+08:00"
 }
