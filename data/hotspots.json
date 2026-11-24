@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T03:47:41+08:00",
+ "lastUpdated": "2026-11-25T04:12:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53508,7 +53508,18 @@
    ],
    "topic": "postiz-5m-arr",
    "firstSeen": "2026-11-25T03:47:41+08:00"
+  },
+  {
+   "id": "590fa5baa5",
+   "title": "HN 热帖《Cloudflare 没告诉你的事》：用户看到的是 TLS、IPv6 和后量子加密，但 Cloudflare 回源可能是明文 IPv4",
+   "summary": "作者指出 Cloudflare 让数百万网站对访客显示出现代化的 TLS、IPv6 和后量子加密，但它到源站的连接可能完全未加密且只走 IPv4，即使源站支持 IPv6，Cloudflare 官方文档也写明回源时优先 IPv4。作者呼吁 Cloudflare 主动提醒站长这类隐患，并建议行业让 CDN 公开回源链路的加密和 IP 版本信息。",
+   "links": [
+    "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+    "https://news.ycombinator.com/item?id=50632883"
+   ],
+   "topic": "what-cloudflare-doesnt-tell-you",
+   "firstSeen": "2026-11-25T04:12:27+08:00"
   }
  ],
- "lastChecked": "2026-11-25T03:47:41+08:00"
+ "lastChecked": "2026-11-25T04:12:27+08:00"
 }
