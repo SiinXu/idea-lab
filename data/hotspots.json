@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T06:01:47+08:00",
+ "lastUpdated": "2026-11-25T06:15:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53585,7 +53585,18 @@
    ],
    "topic": "paradev-mit-open-source",
    "firstSeen": "2026-11-25T06:01:47+08:00"
+  },
+  {
+   "id": "6014a04f08",
+   "title": "YC F26 公司 Versine 在 HN 发布：给 AI 助手接上「会转账的 MCP」，聊天就能收付款、批量 AA，底层是自托管 USDC 钱包",
+   "summary": "Versine 把一个带余额的钱包包装成 MCP，用户的 AI 助手可以直接发起转账或收款：大额需在 App 里用 passkey 确认，可一次向最多 100 人收付款，对方没有账户也能 2 分钟提现到银行卡，还可给信任联系人设置免确认支付。创始团队来自 Stripe、Databricks、Amazon，背后每个用户是 Base 链上的自托管 USDC 钱包；目前主打聚餐分账、团体出游、牌局结算等重度 Agent 用户，计划扩展成完整的「银行即 MCP」。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50634426",
+    "https://versine.com"
+   ],
+   "topic": "versine-mcp-payments",
+   "firstSeen": "2026-11-25T06:15:55+08:00"
   }
  ],
- "lastChecked": "2026-11-25T06:01:47+08:00"
+ "lastChecked": "2026-11-25T06:15:55+08:00"
 }
