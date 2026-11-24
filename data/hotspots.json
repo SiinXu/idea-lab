@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T03:24:12+08:00",
+ "lastUpdated": "2026-11-25T03:47:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53486,7 +53486,29 @@
    ],
    "topic": "chrome-cve-2026-134401",
    "firstSeen": "2026-11-25T03:24:12+08:00"
+  },
+  {
+   "id": "2fefe1fe48",
+   "title": "OpenAI 也晒出「VP ≠ VNP」证明：在 openai/math 仓库公开预印本，称 11 月 6 日就已解出、早于 Anthropic",
+   "summary": "继 Anthropic 公开由 Claude 完成的 VP ≠ VNP 证明后，OpenAI 在 GitHub 仓库 openai/math 发布了自己的预印本（日期标为 11 月 23 日），并在 history.md 中写明 11 月 6 日即已得出结果，引发 HN 热议「AI 实验室数学竞赛」与优先权之争。",
+   "links": [
+    "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+    "https://news.ycombinator.com/item?id=50632756"
+   ],
+   "topic": "openai-vp-vnp-proof",
+   "firstSeen": "2026-11-25T03:47:41+08:00"
+  },
+  {
+   "id": "7b3c5fe257",
+   "title": "开源社媒排程工具 Postiz 年收入达 500 万美元、100% 自筹：一个月新增 200 万 ARR，创始人拍 9 分钟视频拆解增长打法",
+   "summary": "Postiz 创始人宣布 ARR 达到 500 万美元，完全没融资，过去一个月就新增 200 万，正逼近 600 万。他认为 build in public、SEO、投广告这些老打法已不够，目标是每天 10 万曝光、「无处不在」：从 X 上捕捉趋势，围绕明确结果做内容，再改写成 SEO 文章、LinkedIn 帖子、TikTok 图文和 AI 视频分发。",
+   "links": [
+    "https://x.com/i/status/2125220184948699631",
+    "https://x.com/i/status/2125259346137473430"
+   ],
+   "topic": "postiz-5m-arr",
+   "firstSeen": "2026-11-25T03:47:41+08:00"
   }
  ],
- "lastChecked": "2026-11-25T03:24:12+08:00"
+ "lastChecked": "2026-11-25T03:47:41+08:00"
 }
