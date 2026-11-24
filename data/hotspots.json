@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T21:50:04+08:00",
+ "lastUpdated": "2026-11-25T00:15:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53257,7 +53257,40 @@
    ],
    "topic": "anthropic-below-ipo-price",
    "firstSeen": "2026-11-24T21:50:04+08:00"
+  },
+  {
+   "id": "9e59af473e",
+   "title": "乌克兰调查人员在俄军无人机和巡航导弹残骸中发现英伟达 Jetson Orin 模块，AI 芯片出口管制再受质疑",
+   "summary": "乌克兰调查人员从俄罗斯攻击无人机和巡航导弹中回收了英伟达 Jetson Orin 模块，其中一架 Molniya 无人机自主攻击了扎波罗热的一座加油站，造成 3 名平民死亡。事件与美国商务部刚把 Megaspeed 等公司列入实体清单的走私争议叠加，AI 边缘芯片流向武器的问题在 X 上持续发酵。",
+   "links": [
+    "https://x.com/i/status/2124918076953018511",
+    "https://x.com/i/status/2125150836972290524"
+   ],
+   "topic": "nvidia-jetson-russian-drones",
+   "firstSeen": "2026-11-25T00:15:37+08:00"
+  },
+  {
+   "id": "f62ac75716",
+   "title": "光模块厂 Applied Optoelectronics 拿下 22 亿美元数据中心供货大单：2027 年交付 15 亿美元 800G 光模块",
+   "summary": "Applied Optoelectronics（AAOI）宣布与数据中心客户签订 2026 年 12 月至 2030 年的供货协议，总额 22 亿美元：其中 15 亿美元为 2027 年交付的 800G 光模块，7 亿美元为 2028–2029 年的激光芯片，美国本土产品 2027 年一季度开始出货。AI 光互连需求继续外溢到二线厂商。",
+   "links": [
+    "https://x.com/i/status/2125215193139663292",
+    "https://x.com/i/status/2125202738346598791"
+   ],
+   "topic": "aaoi-2-2b-datacenter-deal",
+   "firstSeen": "2026-11-25T00:15:37+08:00"
+  },
+  {
+   "id": "9a387df850",
+   "title": "活动人士在 Anthropic 办公室外绝食抗议，要求禁止「递归自我改进」AI 研究",
+   "summary": "一名叫 Callender 的活动人士在 Anthropic 办公室外开始绝食，列出 8 个结束条件，包括 Anthropic 停止全部 AI 研究、把 80% 资金用于游说国际 AI 条约，或公开警示生存风险。恰逢 Anthropic 股价跌破 IPO 价、员工安全担忧报道发酵，AI 安全议题热度上升。",
+   "links": [
+    "https://x.com/i/status/2124974551838974403",
+    "https://x.com/i/status/2125039737144823959"
+   ],
+   "topic": "anthropic-hunger-strike-rsi",
+   "firstSeen": "2026-11-25T00:15:37+08:00"
   }
  ],
- "lastChecked": "2026-11-24T21:50:04+08:00"
+ "lastChecked": "2026-11-25T00:15:37+08:00"
 }
