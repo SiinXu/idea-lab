@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T07:18:10+08:00",
+ "lastUpdated": "2026-11-26T07:53:17+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54653,7 +54653,18 @@
    ],
    "topic": "relativity-terran-r-first-stage-mated",
    "firstSeen": "2026-11-26T07:18:10+08:00"
+  },
+  {
+   "id": "d93dc83ee2",
+   "title": "Obsidian 发布官方 AI 智能体连接器：Claude、ChatGPT、Grok 等可直接读写本地 Markdown 笔记库，数据仍留在用户设备上",
+   "summary": "Obsidian 宣布为各家 AI 智能体推出官方连接器，让多个智能体共享同一个知识库并互相协作，同时数据以开放格式保存在本地、归用户所有。连接器为智能体提供操作技能和使用说明，覆盖 Canvas、Bases、模板、双链等功能，官方称能用更少 token 更快地操作笔记库，并会随新功能持续更新。",
+   "links": [
+    "https://x.com/i/status/2125700941156651151",
+    "https://x.com/i/status/2125704452640518491"
+   ],
+   "topic": "obsidian-official-agent-connectors",
+   "firstSeen": "2026-11-26T07:53:17+08:00"
   }
  ],
- "lastChecked": "2026-11-26T07:18:10+08:00"
+ "lastChecked": "2026-11-26T07:53:17+08:00"
 }
