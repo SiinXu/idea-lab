@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T00:32:20+08:00",
+ "lastUpdated": "2026-11-26T01:02:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54344,7 +54344,18 @@
    ],
    "topic": "sbi-smfg-solana-global-launch",
    "firstSeen": "2026-11-26T00:32:20+08:00"
+  },
+  {
+   "id": "69cf71e845",
+   "title": "开发者称写开源推理引擎 TensorFold 代码被 Anthropic 永久封号：3 天触发 105 次「反蒸馏」标记，申诉被驳回且不给理由",
+   "summary": "X 用户 Netrunner 称，他已完成实名认证（KYC）的 Anthropic 账号在亚洲出差期间被封，申诉后官方维持「最终决定」但不说明原因。他用谷歌 Gemini 4 Neon 翻查自己的使用日志，发现 3 天内触发了 105 次反蒸馏标记，起因是在为开源推理引擎 TensorFold 写 logit 校验和 draft head（投机解码）相关代码。看点：继此前有公司被 Anthropic 指控用 API 蒸馏之后，AI 厂商的反蒸馏风控开始误伤正常写推理代码的开发者，引发对自动封号透明度的讨论。以上为当事人单方说法，Anthropic 未公开回应细节。",
+   "links": [
+    "https://x.com/i/status/2125498274698457507",
+    "https://x.com/i/status/2125413366105780547"
+   ],
+   "topic": "anthropic-ban-tensorfold-dev-anti-distillation",
+   "firstSeen": "2026-11-26T01:02:06+08:00"
   }
  ],
- "lastChecked": "2026-11-26T00:32:20+08:00"
+ "lastChecked": "2026-11-26T01:02:06+08:00"
 }
