@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T21:30:26+08:00",
+ "lastUpdated": "2026-11-25T21:57:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54256,7 +54256,18 @@
    ],
    "topic": "cloudflare-workers-free-email-sending",
    "firstSeen": "2026-11-25T21:30:26+08:00"
+  },
+  {
+   "id": "90c7db0cb2",
+   "title": "谷歌悄悄在 GitHub 放出 6 篇数学论文，全部由跑在 Gemini 4 上的 AI 智能体 Cogentic 完成：称首个提示之后无人参与",
+   "summary": "谷歌研究院的公开 GitHub 目录新增 6 篇由 AI 智能体 Cogentic（基于 Gemini 4）生成的数学论文，涉及数论、计算复杂性、博弈论和图论。网传亮点包括：首次完整证明任意整数都能在数域筛法的速度量级内分解（1992 年以来的已证纪录被刷新）、首个不依赖随机性和假设的亚指数确定性分解方法、小特征域离散对数的新进展，以及对 log-rank 猜想、Harary 边重构猜想等老问题的推进。看点：继 OpenAI 的矩阵乘法证明之后，大厂 AI 数学成果密集出炉，结论仍有待同行审核。",
+   "links": [
+    "https://x.com/i/status/2125574747882704951",
+    "https://x.com/i/status/2125547001433526759"
+   ],
+   "topic": "google-cogentic-six-math-papers",
+   "firstSeen": "2026-11-25T21:57:53+08:00"
   }
  ],
- "lastChecked": "2026-11-25T21:30:26+08:00"
+ "lastChecked": "2026-11-25T21:57:53+08:00"
 }
