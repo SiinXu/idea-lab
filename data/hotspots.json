@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T13:02:21+08:00",
+ "lastUpdated": "2026-11-25T13:11:01+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53851,7 +53851,29 @@
    ],
    "topic": "acurast-obsidio-smartphone-ddos-testing",
    "firstSeen": "2026-11-25T13:02:21+08:00"
+  },
+  {
+   "id": "838aeedf54",
+   "title": "青少年用 Claude 等 AI 一天内把泄露的《GTA 6》Xbox 版重编译到 PC 跑起来，Take-Two 对 GitHub 仓库及 2900 个分叉发 DMCA，「Project Leonida」被迫关停",
+   "summary": "由青少年开发者 NotRexed 牵头的「Project Leonida」，借助 Claude 等 AI 工具，对泄露的 209GB《GTA 6》Xbox 版本做静态重编译移植到 PC，不到一天就让菜单跑到 45 帧并能做基础操作。Rockstar 母公司 Take-Two 随即对 GitHub 仓库及其约 2900 个分叉发出 DMCA 下架通知，项目服务器关闭。类似的 Mac 和 Windows 移植仍在进行。这件事展示了 AI 辅助逆向和重编译的速度，也把相关版权风险推到台前。",
+   "links": [
+    "https://x.com/i/status/2125235809053749693",
+    "https://x.com/i/status/2125225853474803793"
+   ],
+   "topic": "gta6-leaked-pc-port-project-leonida-dmca",
+   "firstSeen": "2026-11-25T13:11:01+08:00"
+  },
+  {
+   "id": "7251c19d6b",
+   "title": "日本独立开发者做的「童年记忆猜年龄」小测验爆火：根据你记得的电视节目、流行语和科技产品推断年龄，挤爆服务器",
+   "summary": "日本独立开发者けぴ（欠品ちゃんネル）11 月 23 日上线一款免费小测验，按你对不同年代电视节目、流行语、校园生活和科技产品（从软盘到 BeReal）的记忆自适应提问，推断出的年龄准得惊人，玩法类似 Akinator。玩完生成彩色「记忆地层」卡片，适合晒到社交平台；无需注册，流量大到服务器吃紧并传播到海外。这是一个用怀旧加可分享卡片做病毒传播的典型小产品。",
+   "links": [
+    "https://x.com/i/status/2124818930967695590",
+    "https://x.com/i/status/2125129869726302462"
+   ],
+   "topic": "japan-nostalgia-age-guess-quiz-viral",
+   "firstSeen": "2026-11-25T13:11:01+08:00"
   }
  ],
- "lastChecked": "2026-11-25T13:02:21+08:00"
+ "lastChecked": "2026-11-25T13:11:01+08:00"
 }
