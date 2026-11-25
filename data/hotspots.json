@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T07:31:37+08:00",
+ "lastUpdated": "2026-11-25T08:56:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53620,7 +53620,19 @@
    ],
    "topic": "burning-glass-missing-white-collar-jobs",
    "firstSeen": "2026-11-25T07:31:37+08:00"
+  },
+  {
+   "id": "30200af8b8",
+   "title": "The Information：OpenAI CFO Sarah Friar 称 3000 亿美元网络安全市场仍被低估，Brockman 断言「网络安全毫无疑问会比写代码更大」",
+   "summary": "据 The Information 报道，OpenAI 首席财务官 Sarah Friar 认为，把网络安全市场估在 3000 亿美元以上的说法仍大大低估了其潜力；总裁 Greg Brockman 则表示，网络安全「毫无疑问」会成为比 AI 编程更大的生意。不过 OpenAI 如何在这一赛道与 Anthropic、谷歌竞争、规模化仍不清楚。有投资人评论称，AI 急需编程之后的「第二幕」，网络安全很可能就是它。",
+   "links": [
+    "https://x.com/theinformation/status/2125250631896023154",
+    "https://thein.fo/48FsJD3",
+    "https://x.com/kevinsxu/status/2125325913877357052"
+   ],
+   "topic": "openai-cybersecurity-bigger-than-coding",
+   "firstSeen": "2026-11-25T08:56:04+08:00"
   }
  ],
- "lastChecked": "2026-11-25T07:31:37+08:00"
+ "lastChecked": "2026-11-25T08:56:04+08:00"
 }
