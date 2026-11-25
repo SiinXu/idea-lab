@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T13:11:01+08:00",
+ "lastUpdated": "2026-11-25T13:31:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53873,7 +53873,40 @@
    ],
    "topic": "japan-nostalgia-age-guess-quiz-viral",
    "firstSeen": "2026-11-25T13:11:01+08:00"
+  },
+  {
+   "id": "e54ee22769",
+   "title": "《我的世界》之父 Notch 态度反转：公开向 Anthropic 要「无限 token、更快响应」，说自己认同其 AI 宣言，正用 Claude 做新游戏",
+   "summary": "Markus「Notch」Persson 在 X 上请 Anthropic 给他不限量的 Claude token 和更快的响应，称自己付得起钱、也认同对方的 AI 宣言，目前正借助 AI 工具开发地牢爬塔 Roguelike《Levers and Chests》。他 7 月还发过反 AI 帖，此前也批评 AI 写代码「烂得离谱」，试过氛围编程后才改了口。知名开发者转向，成了这波「AI 编程说服怀疑者」讨论中的标志性案例。",
+   "links": [
+    "https://x.com/i/status/2125326211559661640",
+    "https://x.com/i/status/2124956108687298792"
+   ],
+   "topic": "notch-reverses-ai-stance-claude",
+   "firstSeen": "2026-11-25T13:31:14+08:00"
+  },
+  {
+   "id": "c54c688681",
+   "title": "五角大楼考虑向 Hadrian 提供 150 亿美元贷款：这家获小特朗普旗下 1789 Capital 投资的自动化工厂公司，要建十几座工厂造精密零件、弹药和无人机",
+   "summary": "据报道，美国国防部正在讨论向 Hadrian Automation 提供约 150 亿美元贷款，用于建设十几座生产精密零部件、弹药和无人机的自动化工厂。Hadrian 已获得超过 10 亿美元私人融资，投资方包括小唐纳德·特朗普参与的 1789 Capital。五角大楼内部文件对其快速扩产的能力有所担忧；发言人称讨论仍属初步阶段，并否认受政治影响。这件事引发对国防制造业补贴和利益冲突的争议。",
+   "links": [
+    "https://x.com/i/status/2125373202901655973",
+    "https://x.com/i/status/2125363941346025559"
+   ],
+   "topic": "pentagon-15b-loan-hadrian",
+   "firstSeen": "2026-11-25T13:31:14+08:00"
+  },
+  {
+   "id": "a8e62fbc4c",
+   "title": "SEC 给 Molecule 发无异议函：生物科研「项目代币」可不按证券注册发售，持有者只能投票决定研究方向、没有股权和分红",
+   "summary": "11 月 24 日，美国 SEC 工作人员向瑞士生物科技平台 Molecule AG 及其美国子公司 LabsCo 出具无异议函，允许其发售偏实用功能的 Project Tokens 而无需注册为证券。这些代币让持有者对科研方向投票，但不代表所有权、也不分享利润，与股权明确分开。Molecule 首席法务官 Benjamin Snipes 称这是 DeSci（去中心化科研）的重要监管里程碑，为「社区出资做研究」提供了合规路径。",
+   "links": [
+    "https://x.com/i/status/2125295091749474336",
+    "https://x.com/i/status/2125322008020005093"
+   ],
+   "topic": "sec-no-action-molecule-research-tokens",
+   "firstSeen": "2026-11-25T13:31:14+08:00"
   }
  ],
- "lastChecked": "2026-11-25T13:11:01+08:00"
+ "lastChecked": "2026-11-25T13:31:14+08:00"
 }
