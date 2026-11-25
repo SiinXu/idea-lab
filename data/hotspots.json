@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T03:00:21+08:00",
+ "lastUpdated": "2026-11-26T03:16:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54421,7 +54421,51 @@
    ],
    "topic": "abstract-robot-cloud-inference-2-5m-hf0",
    "firstSeen": "2026-11-26T03:00:21+08:00"
+  },
+  {
+   "id": "f5c267f936",
+   "title": "OpenAI 开始小范围测试 Private Inference：企业推理全程硬件隔离、可验证，OpenAI 员工接触不到客户数据",
+   "summary": "OpenAI 宣布在「OpenAI Private Intelligence」产品线下测试 Private Inference，先向少量企业客户开放。它提供推理过程中的硬件隔离和可验证的管控，并与零数据保留（ZDR）、Private Safety Processing 搭配，安全审查自动完成、无需人工查看客户内容。Altman 称更强的隐私保护会让前沿 AI 进入更多机密场景。看点：大模型厂商开始拼「机密计算」，金融、医疗、法务等不敢上云的需求可能被打开，也给私有化部署/可信执行环境创业公司带来竞争。",
+   "links": [
+    "https://x.com/i/status/2125638790593274259",
+    "https://x.com/i/status/2125642883801997653"
+   ],
+   "topic": "openai-private-inference-test",
+   "firstSeen": "2026-11-26T03:16:16+08:00"
+  },
+  {
+   "id": "d195ea423f",
+   "title": "伦敦初创 Sequent 获 220 万美元种子前融资：用 AI 自动找形式化证明，从数学上证明代码不会出错，Jaan Tallinn 基金领投",
+   "summary": "Sequent 由 Jaan Tallinn 的 Metaplanet 和 Frachtis 联合领投。其平台 Alan 让工程师用自然语言描述安全规则，AI 自动寻找证明，并由 HOL4 证明检查器验证，覆盖所有可能情形而非只靠测试。团队起源于 2021 年 Vyper 编译器漏洞导致 Curve 池子损失约 5000 万美元的事件，Curve 也成了首个客户；先支持 Vyper 合约，计划扩展到 Solidity、Rust 和 Python。看点：AI 写代码越来越多，「AI 证明 AI 写的代码」可能成为新的基础设施赛道。",
+   "links": [
+    "https://x.com/i/status/2125580512416907307",
+    "https://x.com/i/status/2125585149454934122"
+   ],
+   "topic": "sequent-2-2m-ai-formal-verification",
+   "firstSeen": "2026-11-26T03:16:16+08:00"
+  },
+  {
+   "id": "1a60a435e2",
+   "title": "五角大楼与通用汽车、福特洽谈量产军用无人机：想借汽车工厂和供应链造电机、传感器、激光雷达",
+   "summary": "据独家报道，美国国防官员正与通用、福特以及 Magna 等汽车零部件供应商讨论，利用汽车工业的产线和供应链生产无人机部件，以解决小型无人机厂商产能跟不上「未来几年数百万架」计划的问题。外界将其比作二战时汽车厂转产军工，但利润率低、资金、供应链和作战需求都是难点，目前尚未签约。看点：无人机进入「汽车式量产」阶段，电机、传感器、激光雷达供应链可能迎来新订单。",
+   "links": [
+    "https://x.com/i/status/2125182412267118955",
+    "https://x.com/i/status/2125633079205105857"
+   ],
+   "topic": "pentagon-gm-ford-drone-mass-production",
+   "firstSeen": "2026-11-26T03:16:16+08:00"
+  },
+  {
+   "id": "9dead8dee6",
+   "title": "小鹏 AI Day 2026：人形机器人 IRON 在 2000 名观众前自主行走、双语现场问答，计划 2027 年 1 月量产做门店导购",
+   "summary": "在广州举行的小鹏 AI Day 上，身高 170 厘米的 IRON 机器人现场演示自主导航、中英双语问答和自然互动，搭载 3 颗图灵 AI 芯片、算力 2250 TOPS。与去年被质疑「里面藏了人」不同，这次它直接在人群中走动并回答现场提问。活动还安排了无人驾驶 Robotaxi 试乘，小鹏计划 2027 年量产 YOYO-01，IRON 则从 2027 年 1 月起量产、先用作门店导购。看点：车企造人形机器人进入量产倒计时，商用导购是最早落地的场景之一。",
+   "links": [
+    "https://x.com/i/status/2125494272145404406",
+    "https://x.com/i/status/2125458579960565971"
+   ],
+   "topic": "xpeng-ai-day-2026-iron-humanoid",
+   "firstSeen": "2026-11-26T03:16:16+08:00"
   }
  ],
- "lastChecked": "2026-11-26T03:00:21+08:00"
+ "lastChecked": "2026-11-26T03:16:16+08:00"
 }
