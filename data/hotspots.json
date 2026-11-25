@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T20:40:31+08:00",
+ "lastUpdated": "2026-11-25T20:55:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54214,7 +54214,18 @@
    ],
    "topic": "nvidia-q4-gaming-gpu-supply-cut",
    "firstSeen": "2026-11-25T20:40:31+08:00"
+  },
+  {
+   "id": "3e2bd2765a",
+   "title": "Axios：Anthropic 内部不少人认为未来应把部分决策「移交」给超级智能 AI，Meta 的 Alexandr Wang 等高管公开反对",
+   "summary": "Axios 报道，Anthropic 内部有一种相当普遍的看法：当 AI 能做出更好的决定、挽救更多生命时，坚持让人类掌控某些关键决策反而可能是不道德的，因此人类应把部分决策交给超级智能 AI。这一观点遭到其他 AI 高管反驳：Meta 的 Alexandr Wang 表示「我们不应该接受把社会『移交』给 AI」，Sam Altman 本月早些时候也说过类似的话。Anthropic 回应称，Dario Amodei 多次主张保持人类控制，Claude 也被训练成不破坏人类监督。看点：「AI 移交」正在从哲学讨论变成头部公司之间的公开路线分歧，可能成为未来几年的政治议题。",
+   "links": [
+    "https://x.com/i/status/2125557008682119472",
+    "https://x.com/i/status/2125538821429244310"
+   ],
+   "topic": "axios-anthropic-ai-handover-debate",
+   "firstSeen": "2026-11-25T20:55:14+08:00"
   }
  ],
- "lastChecked": "2026-11-25T20:40:31+08:00"
+ "lastChecked": "2026-11-25T20:55:14+08:00"
 }
