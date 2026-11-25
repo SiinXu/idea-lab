@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T01:02:06+08:00",
+ "lastUpdated": "2026-11-26T01:30:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54355,7 +54355,18 @@
    ],
    "topic": "anthropic-ban-tensorfold-dev-anti-distillation",
    "firstSeen": "2026-11-26T01:02:06+08:00"
+  },
+  {
+   "id": "eb59a66a71",
+   "title": "比特币挖矿遭「算力劫持」：攻击者用 BGP 路由劫持冒充矿池，11 月 20 日同一秒把 1000 多个矿场的算力导走，根源是明文 Stratum V1 协议",
+   "summary": "矿池 Braiins 确认，攻击者没有入侵任何矿机或矿池，而是对外宣告覆盖矿池 IP 的更精确 BGP 路由，重置矿机连接后冒充矿池，从另一家大型公共矿池拿真实任务转发给矿机，矿机提交的份额全部记到攻击者名下。11 月 20 日的一次事件中，欧洲 1000 多个挖矿站点在同一秒被导向假矿池。问题出在业内仍普遍使用的明文 Stratum V1 协议：矿机无法验证给它派活的是谁，矿机照常运转、收益却被偷走。Braiins 呼吁全球矿工和矿池尽快迁移到带加密认证的 Stratum V2。",
+   "links": [
+    "https://x.com/i/status/2125624580295331926",
+    "https://x.com/i/status/2125630058014417204"
+   ],
+   "topic": "bitcoin-hashrate-hijack-bgp-stratum-v1-braiins",
+   "firstSeen": "2026-11-26T01:30:38+08:00"
   }
  ],
- "lastChecked": "2026-11-26T01:02:06+08:00"
+ "lastChecked": "2026-11-26T01:30:38+08:00"
 }
