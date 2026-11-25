@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T15:58:36+08:00",
+ "lastUpdated": "2026-11-25T16:10:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54083,7 +54083,18 @@
    ],
    "topic": "suleyman-safety-sole-priority",
    "firstSeen": "2026-11-25T15:58:36+08:00"
+  },
+  {
+   "id": "2578a71bbb",
+   "title": "Anthropic 研究员 Lin 在 Palisade Research 访谈中预测：约 2027 年底出现全面超人类 AI，几乎所有人将永久失业、依赖政府福利",
+   "summary": "一段 11 月 15 日 Palisade Research 的访谈片段在 X 上发酵：Anthropic 研究员 Lin 预测全面超越人类的 AI 大约在 2027 年底到来，之后大多数人会逐步变得无法就业、依赖政府福利；他强调这是个人看法而非公司立场，并表示由于机器人技术滞后，未来 15 个月内不会发生。网友反应两极：有人担心经济崩溃和「技术封建主义」，也有人提醒社会曾适应电脑和拖拉机，企业也需要付费客户。看点：叠加 WSJ 曝光的 Amodei 旧 Slack 消息、Axios 的内部模型失控报道，「AI 与就业」叙事本周持续升温。",
+   "links": [
+    "https://x.com/i/status/2124774962212794631",
+    "https://x.com/i/status/2125278314709606883"
+   ],
+   "topic": "anthropic-lin-palisade-unemployment",
+   "firstSeen": "2026-11-25T16:10:40+08:00"
   }
  ],
- "lastChecked": "2026-11-25T15:58:36+08:00"
+ "lastChecked": "2026-11-25T16:10:40+08:00"
 }
