@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T18:29:12+08:00",
+ "lastUpdated": "2026-11-25T18:40:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54148,7 +54148,18 @@
    ],
    "topic": "alice-huang-nvidia-servers-collateral",
    "firstSeen": "2026-11-25T18:29:12+08:00"
+  },
+  {
+   "id": "af589602be",
+   "title": "韩国独立开发者不会写代码、靠 AI「氛围编程」做出 Steam 游戏《Slotbound》：首周卖出 20 万份、总收入约 133 万美元",
+   "summary": "韩国开发者 Kim Min（OptimaArch）11 月 12 日在 Steam 上架 9.99 美元的老虎机构筑类游戏《Slotbound》：玩家转动 3×3 老虎机来生存和组合流派。上线六天销量超 20 万份，总收入约 133 万美元，好评率 91%（特别好评）。开发者本人不会编程，几乎全部代码和部分美术由 GitHub Copilot、Cursor、Claude、Gemini 等 AI 工具生成，历时约一年，主要成本只是每月约 3 万韩元的 AI 订阅费和 Steam 上架费。看点：一人用 AI 做小而精的玩法创新游戏，正在成为可复制的独立开发路径。",
+   "links": [
+    "https://x.com/i/status/2125485386009084378",
+    "https://x.com/i/status/2125533506562298071"
+   ],
+   "topic": "slotbound-solo-ai-steam-1m",
+   "firstSeen": "2026-11-25T18:40:18+08:00"
   }
  ],
- "lastChecked": "2026-11-25T18:29:12+08:00"
+ "lastChecked": "2026-11-25T18:40:18+08:00"
 }
