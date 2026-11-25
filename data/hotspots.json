@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T12:09:33+08:00",
+ "lastUpdated": "2026-11-25T12:25:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53752,7 +53752,40 @@
    ],
    "topic": "claude-opus-5-6-stealth-test-rumor",
    "firstSeen": "2026-11-25T12:09:33+08:00"
+  },
+  {
+   "id": "5d94144894",
+   "title": "Cognition 发布 SWE-2.1：基于 Kimi K3 纯强化学习训练，FrontierCode 2.0 从 24.1 升到 41.3，另有网安版和 Cerebras 600 tok/s 极速版",
+   "summary": "Cognition 于 11 月 24 日发布 Devin 编程模型 SWE-2.1，在 Kimi K3 底座上用纯强化学习训练。按官方数据，FrontierCode 2.0 从 24.1 提升到 41.3，ExploitBench 从 36.1 提升到 80.0。同时推出防御性安全工作用的网安变体（安全限制更宽松），以及与 Cerebras 合作、每秒约 600 token 的极速版。Devin Pro、Max 和 Teams 用户可免费试用两周。开发者正拿它和 Claude Opus 5.5 对比。",
+   "links": [
+    "https://x.com/i/status/2125305349414523061",
+    "https://x.com/i/status/2125395798124806224"
+   ],
+   "topic": "cognition-swe-2-1-kimi-k3-rl",
+   "firstSeen": "2026-11-25T12:25:08+08:00"
+  },
+  {
+   "id": "38eda185a2",
+   "title": "AI 编程工作台 Conductor 从 Tauri 换成 Electron：打开工作区快 71%、启动快 4.6 倍、内存少 35%，但安装包从 200MB 涨到 500MB",
+   "summary": "并行管理多个编程 Agent 的桌面应用 Conductor，联合创始人 Charlie Holtz 宣布底层从 Tauri 迁到 Electron。他称打开工作区提速 71%、启动快 4.6 倍、内存占用降 35%，代价是下载包从约 200MB 涨到约 500MB，更新日志也写明 Electron 更稳定。部分冲着轻量 Tauri 来的老用户感到意外，但开发者圈不少人认为「优化好的 Electron 未必比轻量框架差」，再次点燃桌面框架之争。",
+   "links": [
+    "https://x.com/i/status/2125351294965805147",
+    "https://x.com/i/status/2125415579620143488"
+   ],
+   "topic": "conductor-tauri-to-electron",
+   "firstSeen": "2026-11-25T12:25:08+08:00"
+  },
+  {
+   "id": "3ffdfdf5aa",
+   "title": "Josh Comeau 上线「Button Sounds」：专业录制的按钮点击、按压音效合集，登上 HN",
+   "summary": "前端教育博主 Josh W. Comeau 发布 Button Sounds 网站，收集专业录制的各种实体按钮点击和按压声音，供网页和应用做交互音效。发布后很快登上 Hacker News 首页，讨论集中在 UI 声音反馈能否提升手感，以及如何避免打扰用户。适合做 UI 微交互的设计师和开发者参考。",
+   "links": [
+    "https://buttons.joshwcomeau.com/",
+    "https://news.ycombinator.com/item?id=50638032"
+   ],
+   "topic": "josh-comeau-button-sounds",
+   "firstSeen": "2026-11-25T12:25:08+08:00"
   }
  ],
- "lastChecked": "2026-11-25T12:10:11+08:00"
+ "lastChecked": "2026-11-25T12:25:08+08:00"
 }
