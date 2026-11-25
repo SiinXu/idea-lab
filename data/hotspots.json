@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T06:10:51+08:00",
+ "lastUpdated": "2026-11-26T06:24:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54575,7 +54575,40 @@
    ],
    "topic": "neiry-pigeon-brain-implant-drones",
    "firstSeen": "2026-11-26T06:10:51+08:00"
+  },
+  {
+   "id": "81d8cbc383",
+   "title": "标普把英伟达 AA 信用评级列入负面观察：黄仁勋被罢免又复职风波后，担忧董事会独立性和接班安排",
+   "summary": "S&P Global Ratings 将英伟达的 AA 信用评级列入 CreditWatch Negative，理由是近期 CEO 黄仁勋先被罢免、随后在白宫介入下复职，暴露出董事会独立性、高管监督和接班规划方面的问题。评级机构表示可能下调评级，这是这场公司治理风波首次波及英伟达的信用层面。",
+   "links": [
+    "https://x.com/i/status/2125661646769012923",
+    "https://x.com/i/status/2125607497700413707"
+   ],
+   "topic": "sp-nvidia-creditwatch-negative-governance",
+   "firstSeen": "2026-11-26T06:24:34+08:00"
+  },
+  {
+   "id": "9d8e571683",
+   "title": "伦敦 Europa Fusion 结束隐身：要造「制造聚变装置的机器」，用模块化脉冲电源和 AI 把聚变变成学习曲线问题，目标每年部署数百座电站",
+   "summary": "Europa Fusion Industries 正式亮相，团队由物理学家、工程师和技师组成。它不只造单台聚变装置，而是想像工厂一样量产，用可反复放电的模块化脉冲电源驱动器加快迭代，并借助 AI 让聚变「成为学习速率问题」，长期目标是每年部署数百座聚变电站。",
+   "links": [
+    "https://x.com/i/status/2125638570777948326",
+    "https://x.com/i/status/2125638353307549839"
+   ],
+   "topic": "europa-fusion-stealth-fusion-factory",
+   "firstSeen": "2026-11-26T06:24:34+08:00"
+  },
+  {
+   "id": "bc325ae522",
+   "title": "英伟达同意赔 2.9 亿美元和解 2018 年投资者诉讼：被指当年隐瞒加密货币挖矿带来的营收",
+   "summary": "据路透社报道，英伟达同意支付 2.9 亿美元，和解 2017 年 8 月至 2018 年 11 月间买入股票的投资者提起的集体诉讼。原告称英伟达误导股东，把大量来自加密挖矿的显卡销售算作游戏业务营收。和解消息恰逢英伟达 CEO 风波和信用评级被列入观察。",
+   "links": [
+    "https://x.com/i/status/2125625731686302109",
+    "https://x.com/i/status/2125642665773445235"
+   ],
+   "topic": "nvidia-290m-crypto-mining-settlement",
+   "firstSeen": "2026-11-26T06:24:34+08:00"
   }
  ],
- "lastChecked": "2026-11-26T06:10:51+08:00"
+ "lastChecked": "2026-11-26T06:24:34+08:00"
 }
