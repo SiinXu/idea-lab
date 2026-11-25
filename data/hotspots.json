@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T00:17:31+08:00",
+ "lastUpdated": "2026-11-26T00:32:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54322,7 +54322,29 @@
    ],
    "topic": "wapo-shenzhen-nvidia-b300-gray-market-3m",
    "firstSeen": "2026-11-26T00:17:31+08:00"
+  },
+  {
+   "id": "474ab7adb9",
+   "title": "波兰触觉机器人公司 Lute 完成 2000 万美元种子轮：做基于触觉输入的机器人基础模型，Naval 等跟投",
+   "summary": "Lute 由 Paweł Budzianowski 和 Krzysztof Walas 于 2026 年 1 月创立，主张大多数机器人和物理 AI 只靠视觉，只能知道物体在哪，却不知道该用多大力、怎么抓，所以要做以触觉为输入的基础模型。公司宣布完成 2000 万美元 pre-seed 加种子轮，由 OTB Ventures 和 FORWARD one 联合领投，Seedcamp、Credo Ventures、Naval、ff Venture Capital、Borusan Ventures 跟投。据报道其 Lute-0 模型已落地欧洲最大的汽车零部件分销商、医院和零售场景，能处理没见过的蔬菜和易变形零食。看点：「触觉」正在成为具身智能的新赛道。",
+   "links": [
+    "https://x.com/i/status/2125609202378821722",
+    "https://x.com/i/status/2125612981476303023"
+   ],
+   "topic": "lute-tactile-robotics-20m-seed",
+   "firstSeen": "2026-11-26T00:32:20+08:00"
+  },
+  {
+   "id": "fdb00e47fe",
+   "title": "日本 SBI 控股和三井住友金融集团联手 Solana 基金会，推出 SBI Solana Global：在 Solana 上做稳定币支付和资产代币化",
+   "summary": "SBI 控股、三井住友金融集团（SMFG）与 Solana 基金会宣布成立 SBI Solana Global，把稳定币支付、代币化资产和链上金融服务搬到 Solana 上，先从日本起步，再扩展到亚洲和全球。官方称两家合计资产约 2.3 万亿美元、客户超过 8000 万。看点：日本大型传统金融机构正式押注公链，稳定币和 RWA 在亚洲的落地可能提速。",
+   "links": [
+    "https://x.com/i/status/2125515694645321742",
+    "https://x.com/i/status/2125518993570070968"
+   ],
+   "topic": "sbi-smfg-solana-global-launch",
+   "firstSeen": "2026-11-26T00:32:20+08:00"
   }
  ],
- "lastChecked": "2026-11-26T00:17:31+08:00"
+ "lastChecked": "2026-11-26T00:32:20+08:00"
 }
