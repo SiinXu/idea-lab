@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T09:11:05+08:00",
+ "lastUpdated": "2026-11-25T09:42:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53674,7 +53674,18 @@
    ],
    "topic": "jensen-spy-story-hoax-claim",
    "firstSeen": "2026-11-25T09:11:05+08:00"
+  },
+  {
+   "id": "0cc40e5774",
+   "title": "隐私优先 AI 助手 Maple AI 完成 530 万美元种子轮：Epic Ventures 领投、Draper 跟投，主打「默认私密、人人可验证」的 AI",
+   "summary": "Maple AI 宣布完成 530 万美元种子轮融资，由 Epic Ventures 领投，Draper Associates、Ramez Naam 和 Epoch VC 参投。产品用开源可审计模型、可信执行环境（TEE）加密飞地和端到端加密聊天来处理对话与任务，承诺数据不会被用于训练。投资方认为 AI 正在成为最私密的软件，隐私不能只靠政策承诺，必须做进架构里。",
+   "links": [
+    "https://x.com/i/status/2125377545709248916",
+    "https://x.com/i/status/2125400059911266482"
+   ],
+   "topic": "maple-ai-seed-5-3m",
+   "firstSeen": "2026-11-25T09:42:53+08:00"
   }
  ],
- "lastChecked": "2026-11-25T09:11:05+08:00"
+ "lastChecked": "2026-11-25T09:42:53+08:00"
 }
