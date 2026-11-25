@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T05:40:51+08:00",
+ "lastUpdated": "2026-11-26T06:10:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54542,7 +54542,40 @@
    ],
    "topic": "polymarket-compute-gpu-rental-markets-2028",
    "firstSeen": "2026-11-26T05:40:51+08:00"
+  },
+  {
+   "id": "da01bcb853",
+   "title": "推测编码（Speculative Encoding）：一个 2.35B MoE 直接在不同模型的隐藏状态之间互译，多智能体不用重复读长上下文",
+   "summary": "研究团队推出 speculative encoding：用单个 2.35B 参数的 MoE 网络，把一个模型的隐藏状态直接翻译成另一个模型能用的表示，覆盖 4 个家族 7 个模型、全部 42 个方向。在长文档上保留基座约 96.9% 的准确率，预填充延迟最多降低 7.5 倍，让多智能体集群共享上下文时不必每个模型各读一遍。",
+   "links": [
+    "https://x.com/i/status/2125627502802653330",
+    "https://x.com/i/status/2125625946229064118"
+   ],
+   "topic": "speculative-encoding-latent-handoff-moe",
+   "firstSeen": "2026-11-26T06:10:51+08:00"
+  },
+  {
+   "id": "0120e2c03e",
+   "title": "「权重空间脑植入」：研究者让 Claude 写小程序直接嵌进 LLM 权重，给 Qwen3-0.6B 装上计算器、规则检查器和纠错器",
+   "summary": "Dimitris Papailiopoulos 展示让 Claude 编写小型「机器」并直接写入模型权重的实验：这些「植入物」平时休眠，需要时才激活，在 Qwen3-0.6B 上加入了计算器、规则检查、错误检测甚至「眼睛」等能力，用来修补冻结模型在特定任务上的短板，引发关于不重新训练也能改模型能力的讨论。",
+   "links": [
+    "https://x.com/i/status/2125617058331160951",
+    "https://x.com/i/status/2125617072952442912"
+   ],
+   "topic": "weight-space-brain-implants-llm",
+   "firstSeen": "2026-11-26T06:10:51+08:00"
+  },
+  {
+   "id": "d4afece0b3",
+   "title": "俄罗斯神经科技公司 Neiry 推出「鸽子无人机」：给活鸽子植入脑机接口、背上摄像头，远程操控做航拍，被批虐待动物",
+   "summary": "多方帖子与报道称，俄罗斯公司 Neiry 给鸽子做手术植入神经接口，并加装太阳能背包和摄像头，操作员通过电信号刺激大脑远程控制飞行路线，用于商业航拍等场景。视频在 X 上传播后引发动物伦理争议，也有人担心其被用于侦察。",
+   "links": [
+    "https://x.com/i/status/2125668342606241875",
+    "https://x.com/i/status/2125698817659916345"
+   ],
+   "topic": "neiry-pigeon-brain-implant-drones",
+   "firstSeen": "2026-11-26T06:10:51+08:00"
   }
  ],
- "lastChecked": "2026-11-26T05:40:51+08:00"
+ "lastChecked": "2026-11-26T06:10:51+08:00"
 }
