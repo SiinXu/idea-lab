@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T20:55:14+08:00",
+ "lastUpdated": "2026-11-25T21:15:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54225,7 +54225,27 @@
    ],
    "topic": "axios-anthropic-ai-handover-debate",
    "firstSeen": "2026-11-25T20:55:14+08:00"
+  },
+  {
+   "id": "2f796a2d4e",
+   "title": "马斯克现身英伟达总部力挺黄仁勋复职：董事会一致恢复其 CEO 职务，马斯克称这是「纠正错误」",
+   "summary": "英伟达董事会一致投票让联合创始人黄仁勋重新担任 CEO 兼总裁后，马斯克亲自到访英伟达总部与黄仁勋会面，并公开称复职是在纠正一个错误。与此同时英伟达股价盘前继续下跌超 5%，复职带来的反弹已回吐近半。看点：科技大佬公开站队，丑闻、政府介入与股价波动交织，英伟达治理风波仍在发酵。",
+   "links": [
+    "https://x.com/i/status/2125530884564500830"
+   ],
+   "topic": "musk-visits-nvidia-hq-huang-return",
+   "firstSeen": "2026-11-25T21:15:48+08:00"
+  },
+  {
+   "id": "486d28f771",
+   "title": "Linus Torvalds 怒斥 Linux 开发者「赶紧收拾好」：EXT4 在 7.4 rc 阶段塞进 4.1 万行含 AI 生成修复的更新",
+   "summary": "一个超过 4.1 万行改动的 EXT4 文件系统拉取请求在 Linux 7.4 的稳定期（rc 阶段）才提交，其中包含 AI 生成的 bug 修复和数千个新的 KUnit 测试。Torvalds 公开批评时机和体量，要求开发者「get your shit together」。看点：AI 让代码产量暴增，开源维护者的审查带宽和发布纪律正成为新瓶颈。",
+   "links": [
+    "https://x.com/i/status/2125480948519362692"
+   ],
+   "topic": "torvalds-ext4-41k-ai-pr-linux-7-4",
+   "firstSeen": "2026-11-25T21:15:48+08:00"
   }
  ],
- "lastChecked": "2026-11-25T20:55:14+08:00"
+ "lastChecked": "2026-11-25T21:15:48+08:00"
 }
