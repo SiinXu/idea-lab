@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T10:12:44+08:00",
+ "lastUpdated": "2026-11-25T10:30:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53696,7 +53696,18 @@
    ],
    "topic": "openai-matmul-exponent-nine-fourths",
    "firstSeen": "2026-11-25T10:12:44+08:00"
+  },
+  {
+   "id": "a58808d0bc",
+   "title": "PenGPT 登上 HN：6M 参数小 Transformer 看几个字就能模仿陌生人笔迹，54M 版本按文字提示画素描",
+   "summary": "研究者 Sam Greydanus 发布 PenGPT：把笔迹点吸附到网格，变成八方向移动加落笔、抬笔共十个符号，再用 BPE 合并成 token，交给普通的解码器 Transformer。6M 参数的模型会写印刷体和草书，只需读到某人 1–3 个真实单词就能延续其笔迹；54M 参数的模型借助 SigLIP 2 向量按文字提示画草图。数据来自 1255 位书写者的约 49.6 万个单词扫描（用视觉语言模型转写、InkSight 还原笔画）和约 47.8 万幅草图。作者总结这个项目「80% 靠数据、15% 靠速度、5% 靠架构」，是对「苦涩的教训」的一次实践。",
+   "links": [
+    "https://greydanus.github.io/2026/11/12/pengpt/",
+    "https://news.ycombinator.com/item?id=50637056"
+   ],
+   "topic": "pengpt-handwriting-sketch-transformer",
+   "firstSeen": "2026-11-25T10:30:02+08:00"
   }
  ],
- "lastChecked": "2026-11-25T10:12:44+08:00"
+ "lastChecked": "2026-11-25T10:30:02+08:00"
 }
