@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T01:30:38+08:00",
+ "lastUpdated": "2026-11-26T01:45:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54366,7 +54366,29 @@
    ],
    "topic": "bitcoin-hashrate-hijack-bgp-stratum-v1-braiins",
    "firstSeen": "2026-11-26T01:30:38+08:00"
+  },
+  {
+   "id": "a239ffc49b",
+   "title": "商汤开源 SenseNova U1.6 生图模型：会自己检查图里的文字有没有写错并重画修正，ComfyUI 首次原生支持这一自纠错流程",
+   "summary": "商汤发布 SenseNova U1.6，基于 Neo-unify 架构，主打「生成→检查→修正」的原生自纠错：生成信息图、海报等图片后，模型会把图中文字和提示词对照，发现错字就局部重画，同时保持版式和风格不变。官方称用户评测中整体美感比 U1.5 提升约 10%，已在 GitHub 和 Hugging Face 开放，并提供在线 Playground。看点：AI 生图「文字写错」是老难题，自纠错能力让海报、信息图这类商用场景更可用。",
+   "links": [
+    "https://x.com/i/status/2125046695436386816",
+    "https://x.com/i/status/2125095595467853868"
+   ],
+   "topic": "sensenova-u1-6-self-correcting-image-model",
+   "firstSeen": "2026-11-26T01:45:06+08:00"
+  },
+  {
+   "id": "c3a1395c36",
+   "title": "Fortune：亚马逊与 Meta 谈判，可能允许 Meta 的 AI 购物智能体 Muse 直接在亚马逊下单，距亚马逊封堵 Muse 仅两个月",
+   "summary": "据 Fortune 报道，亚马逊和 Meta 正在商谈一项协议，让 Meta 的个人 AI 智能体 Muse 能直接在亚马逊购物。9 月 Muse 未经许可尝试在亚马逊下单后被封，Meta 用户结账时只看到报错。双方经过多轮谈判，正在敲定搜索结果展示、广告和稳定的商品访问等细节。看点：从「封堵」转向「谈合作」，说明大型零售平台开始为 AI 购物智能体设定准入和分成规则，Agent 电商的规则正在成形。",
+   "links": [
+    "https://x.com/i/status/2125516670072770686",
+    "https://x.com/i/status/2125519078370541917"
+   ],
+   "topic": "amazon-meta-muse-shopping-talks-fortune",
+   "firstSeen": "2026-11-26T01:45:06+08:00"
   }
  ],
- "lastChecked": "2026-11-26T01:30:38+08:00"
+ "lastChecked": "2026-11-26T01:45:06+08:00"
 }
