@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T15:43:04+08:00",
+ "lastUpdated": "2026-11-25T15:58:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54072,7 +54072,18 @@
    ],
    "topic": "telos-live-1-omni-modal",
    "firstSeen": "2026-11-25T15:43:04+08:00"
+  },
+  {
+   "id": "8fa1341566",
+   "title": "微软 AI CEO Suleyman 表态：行业现在必须把全部精力转向安全与对齐，呼应 Sutskever 2022 年的警告",
+   "summary": "11 月 25 日，微软 AI 负责人 Mustafa Suleyman 公开表示，随着模型能力快速跃升，整个行业现在应把重心完全放在安全和对齐上。这呼应了 Ilya Sutskever 2022 年「大家很快都得转向安全」的说法。讨论中有人强调「AI 精神病」、社会工程等现实威胁比哲学争论更紧迫，也有人质疑对齐可能固化权力等级；还有匿名研究员声称所在实验室已到早期 AGI 阶段、计划在超级智能前暂停（未经证实）。看点：紧接 Axios 曝光 OpenAI、Anthropic 员工担忧内部模型失控，大厂高管集体转向「安全优先」叙事。",
+   "links": [
+    "https://x.com/i/status/2125446171909136630",
+    "https://x.com/i/status/2125459460487528491"
+   ],
+   "topic": "suleyman-safety-sole-priority",
+   "firstSeen": "2026-11-25T15:58:36+08:00"
   }
  ],
- "lastChecked": "2026-11-25T15:43:04+08:00"
+ "lastChecked": "2026-11-25T15:58:36+08:00"
 }
