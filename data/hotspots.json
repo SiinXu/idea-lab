@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T07:00:40+08:00",
+ "lastUpdated": "2026-11-26T07:18:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54630,7 +54630,30 @@
    ],
    "topic": "grammarly-rewrites-flagged-ai-detectors",
    "firstSeen": "2026-11-26T07:00:40+08:00"
+  },
+  {
+   "id": "f2ef9fb0d9",
+   "title": "Anthropic 股价收复 83 美元 IPO 发行价：从当日低点反弹约 14%，散户连续两天加仓、单日买入超 1 亿美元",
+   "summary": "跌破发行价两天后，Anthropic（$ANT）盘中抹去跌幅转涨，重回每股 83 美元 IPO 价之上，从当日低点反弹约 14%，约 1370 亿美元市值回补。数据显示散户周一净买入超 1 亿美元，连续第二天增加，$ANT 成为当日散户买入第二多的股票。",
+   "links": [
+    "https://x.com/i/status/2125645220524286373",
+    "https://x.com/i/status/2125649023810117921",
+    "https://x.com/i/status/2125643178975936763"
+   ],
+   "topic": "anthropic-stock-reclaims-83-ipo-price",
+   "firstSeen": "2026-11-26T07:18:10+08:00"
+  },
+  {
+   "id": "12989aa840",
+   "title": "Relativity Space 完成 Terran R 一级箭体总装：13 台 Aeon R 发动机、推力超 340 万磅，即将运往 Stennis 试车",
+   "summary": "Relativity Space 宣布 Terran R 一级已在长滩完成发动机与箭体的整合，这是该项目迄今最大的一体化硬件，下一站是 NASA Stennis 航天中心做测试。同一天 Stoke Space 也晒出 Nova 一级吊装完成、准备加注演练，商业中型可复用火箭竞赛进入硬件冲刺阶段。",
+   "links": [
+    "https://x.com/i/status/2125689450818933079",
+    "https://x.com/i/status/2125676892292563335"
+   ],
+   "topic": "relativity-terran-r-first-stage-mated",
+   "firstSeen": "2026-11-26T07:18:10+08:00"
   }
  ],
- "lastChecked": "2026-11-26T07:00:40+08:00"
+ "lastChecked": "2026-11-26T07:18:10+08:00"
 }
