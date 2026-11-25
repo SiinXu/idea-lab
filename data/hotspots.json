@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T17:37:42+08:00",
+ "lastUpdated": "2026-11-25T18:08:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54105,7 +54105,28 @@
    ],
    "topic": "eu-stef-50b-tech-fund",
    "firstSeen": "2026-11-25T17:37:42+08:00"
+  },
+  {
+   "id": "99997786e8",
+   "title": "OpenAI 修正 Codex 计量漏洞：GPT-6.2 Astra / Sol（含 Ultrafast）此前少扣额度，修复后用户会更快撞到限额，价格不变",
+   "summary": "OpenAI 今天给 Codex 用户发邮件：部分 GPT-6.2 Astra 和 Sol 请求（包括 Ultrafast 模式）此前「消耗的额度比预期少」，现已修正，用户可能会发现更早触达使用上限。订阅价格不变，但官方没有给出额度到底收紧了多少。不少开发者吐槽此前的「慷慨额度」原来是计费错误。看点：重度 Codex 用户的实际成本变相上涨，长时间跑 Ultrafast 前建议先看用量设置；也给 Claude Code 等竞品留出抢用户的窗口。",
+   "links": [
+    "https://x.com/i/status/2125427689460785413",
+    "https://x.com/i/status/2125447138859487283"
+   ],
+   "topic": "codex-gpt62-usage-metering-fix",
+   "firstSeen": "2026-11-25T18:08:38+08:00"
+  },
+  {
+   "id": "bbef1e94d1",
+   "title": "Ask HN 热帖：Anthropic 指控一家公司用 API 蒸馏模型、限 24 小时自证清白，当事人称只跑了自动化回归测试",
+   "summary": "一位开发者在 HN 发帖称，Anthropic 指控他的公司利用 Claude API 做模型蒸馏，并要求 24 小时内证明自己没有。他表示公司并不训练自己的模型，唯一可能被标记的是每次调整 AI 设置时跑的自动化回归基准测试，并问如何在不泄露用户隐私的前提下自证。帖子获得约 280 分、220 条评论，讨论集中在大模型厂商反蒸馏检测的误伤、申诉机制缺失和平台依赖风险。看点：做 AI 应用的团队需要留存评测与调用日志、准备多模型备份。",
+   "links": [
+    "https://news.ycombinator.com/item?id=50630809"
+   ],
+   "topic": "hn-anthropic-distillation-accusation",
+   "firstSeen": "2026-11-25T18:08:38+08:00"
   }
  ],
- "lastChecked": "2026-11-25T17:37:42+08:00"
+ "lastChecked": "2026-11-25T18:08:38+08:00"
 }
