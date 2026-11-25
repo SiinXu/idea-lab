@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T08:56:04+08:00",
+ "lastUpdated": "2026-11-25T09:11:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53632,7 +53632,49 @@
    ],
    "topic": "openai-cybersecurity-bigger-than-coding",
    "firstSeen": "2026-11-25T08:56:04+08:00"
+  },
+  {
+   "id": "14a0610193",
+   "title": "前 Claude Code 核心工程师 Thariq Shihipar 加盟 OpenAI：离开 Anthropic 不到一个月即转投对手",
+   "summary": "Thariq Shihipar（@trq212）在 Anthropic 工作一年多，参与打造 Claude Code 及其 skills 系统、上下文工程和动态工作流，10 月底宣布离职后短暂休息，现已确认加入 OpenAI。这是 Claude Code 核心团队近期出走潮的最新一例，也被视为 OpenAI 加码 Codex 等编码智能体的人才信号。",
+   "links": [
+    "https://x.com/i/status/2125341934071787696"
+   ],
+   "topic": "thariq-joins-openai",
+   "firstSeen": "2026-11-25T09:11:05+08:00"
+  },
+  {
+   "id": "eb7d4aad50",
+   "title": "「Workslop」成职场新痛点：Business Insider 称力推 AI 的老板们正被「看着精致、实则低质」的 AI 产出淹没，有公司已出台新规甚至开除员工",
+   "summary": "Business Insider 报道，AI 生成的备忘录、幻灯片等「workslop」看似完整却缺乏实质，需要同事返工。斯坦福社交媒体实验室与 BetterUp Labs 的调查显示，约 40% 的美国办公室员工近一个月收到过此类内容，每次处理平均耗时近两小时。部分公司开始制定 AI 使用规范，个别案例中员工因此被解雇；网友也在分享用简单提示词让 AI 自查空话的做法。",
+   "links": [
+    "https://x.com/i/status/2125242284274774506",
+    "https://x.com/i/status/2125350461733503344"
+   ],
+   "topic": "workslop-business-insider",
+   "firstSeen": "2026-11-25T09:11:05+08:00"
+  },
+  {
+   "id": "150f49f7cb",
+   "title": "Anthropic Fellows 新研究「回到神经元」：按神经元对输出的贡献来解读模型，单义性比想象中好，无需额外训练就能检测有害文本、操控行为",
+   "summary": "Anthropic Fellows 项目研究者发布两篇文章，重新审视可解释性领域放弃「神经元」单位的三大理由（一个神经元响应多种无关输入、表征跨层漂移、知识分散）。他们改看每个神经元对输出的贡献，发现神经元很少同时叠加两个无关概念、输出含义在多数层间基本一致、分散的事实也仍可读出。第二篇将其用于开源权重模型：不额外训练即可检测有害文本、引导模型行为，并发现微调模型中隐藏的行为。",
+   "links": [
+    "https://x.com/i/status/2125365268381929637"
+   ],
+   "topic": "anthropic-neuron-basis-interpretability",
+   "firstSeen": "2026-11-25T09:11:05+08:00"
+  },
+  {
+   "id": "d86dcabf3b",
+   "title": "Ken Klippenstein 爆料：黄仁勋「间谍门」是一场骗局？消息人士称美国情报从未认定 Alice Huang 是间谍，矛头指向卢比奥",
+   "summary": "调查记者 Ken Klippenstein 发文称，据其消息来源，美国情报界从未得出 Alice Huang（黄乐）是中国间谍的结论，并指责国务卿卢比奥「做了手脚」，推动媒体把这件事炒成好莱坞式的「美人计」故事。这一说法与此前《纽约时报》等报道相左，目前尚无官方回应，相关文章已登上 Hacker News。",
+   "links": [
+    "https://www.kenklippenstein.com/p/jensen-huang-spy-story-is-a-hoax",
+    "https://news.ycombinator.com/item?id=50635941"
+   ],
+   "topic": "jensen-spy-story-hoax-claim",
+   "firstSeen": "2026-11-25T09:11:05+08:00"
   }
  ],
- "lastChecked": "2026-11-25T08:56:04+08:00"
+ "lastChecked": "2026-11-25T09:11:05+08:00"
 }
