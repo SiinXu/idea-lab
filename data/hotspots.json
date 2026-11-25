@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T21:15:48+08:00",
+ "lastUpdated": "2026-11-25T21:30:26+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54245,7 +54245,18 @@
    ],
    "topic": "torvalds-ext4-41k-ai-pr-linux-7-4",
    "firstSeen": "2026-11-25T21:15:48+08:00"
+  },
+  {
+   "id": "b25ef3c2ea",
+   "title": "Cloudflare Workers 免费版开放邮件发送：可向已验证地址免费发提醒、报告和通知，支持 Workers 绑定、REST API 和 SMTP",
+   "summary": "Cloudflare 宣布 Email Sending 已加入 Workers Free 计划：开发阶段无需付费套餐，就能通过 Workers binding、REST API 或 SMTP 向已验证的邮箱地址发送告警、报表和通知，上线生产时再升级即可。看点：独立开发者和副业项目的通知链路又少了一个付费依赖，适合用来做监控告警、每日报告这类小工具。",
+   "links": [
+    "https://x.com/i/status/2125564566755291247",
+    "https://x.com/i/status/2125573239229587688"
+   ],
+   "topic": "cloudflare-workers-free-email-sending",
+   "firstSeen": "2026-11-25T21:30:26+08:00"
   }
  ],
- "lastChecked": "2026-11-25T21:15:48+08:00"
+ "lastChecked": "2026-11-25T21:30:26+08:00"
 }
