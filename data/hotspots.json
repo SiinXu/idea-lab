@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T19:13:21+08:00",
+ "lastUpdated": "2026-11-25T20:28:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54181,7 +54181,29 @@
    ],
    "topic": "project-gutenberg-hacked-offline",
    "firstSeen": "2026-11-25T19:13:21+08:00"
+  },
+  {
+   "id": "08cbca6b52",
+   "title": "《我的世界》之父 Notch 晒出用 AI 氛围编程做的 WebGPU 封装工具：让 WebGPU 写起来顺手得多，有人感兴趣就免费开源",
+   "summary": "Markus Persson（Notch）发帖称，他用 AI「氛围编程」做了一个让 WebGPU 用起来舒服很多的工具，如果大家有兴趣，他愿意整理后免费分享出来：「我负担得起这些 token，为什么不拿来做点好事——好的 API。」WebGPU 是浏览器调用设备 GPU 的新一代标准，原生 API 门槛较高。此前 Notch 刚从公开反对 AI 转为向 Anthropic 要「无限 token」。看点：知名开发者亲自示范用 AI 做开发者工具，WebGPU 生态的易用层可能迎来一波新项目。",
+   "links": [
+    "https://x.com/i/status/2125484918457221394",
+    "https://x.com/i/status/2125497509640634606"
+   ],
+   "topic": "notch-vibe-coded-webgpu-tool",
+   "firstSeen": "2026-11-25T20:28:27+08:00"
+  },
+  {
+   "id": "ffad66169d",
+   "title": "HN 榜首：开发者逆向 Windows「响度均衡」音效并移植到 Linux PipeWire，开源项目 pw-loudness-eq",
+   "summary": "GitHub 开源项目 pw-loudness-eq 逆向分析了 Windows 自带的「响度均衡（Loudness Equalization）」音效——它能自动压平音量忽大忽小的问题，是不少用户从 Windows 迁到 Linux 时最怀念的功能之一——并把它移植成 PipeWire 音频滤镜。项目发布不到一小时就冲上 Hacker News 首页第一。看点：Linux 桌面补齐 Windows 体验细节的小工具依然很受欢迎，逆向 + 移植是独立开发者的低成本切入口。",
+   "links": [
+    "https://github.com/xoxorwr/pw-loudness-eq",
+    "https://news.ycombinator.com/item?id=50641171"
+   ],
+   "topic": "pw-loudness-eq-pipewire",
+   "firstSeen": "2026-11-25T20:28:27+08:00"
   }
  ],
- "lastChecked": "2026-11-25T19:13:21+08:00"
+ "lastChecked": "2026-11-25T20:28:27+08:00"
 }
