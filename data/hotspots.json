@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T04:57:04+08:00",
+ "lastUpdated": "2026-11-26T05:11:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54509,7 +54509,29 @@
    ],
    "topic": "shane-legg-minimal-agi-before-2028-over-50pct",
    "firstSeen": "2026-11-26T04:57:04+08:00"
+  },
+  {
+   "id": "15e1cca3e7",
+   "title": "Dario Amodei 亲自发帖反驳 Axios 报道：「我不认为人类应把自由意志交给 AI」，称说他主张这点很荒谬",
+   "summary": "针对 Axios「对手 AI 公司领导人反对 Anthropic 把人类主导权交给 AI 的设想」的报道，Anthropic CEO Dario Amodei 在 X 上回应：他写过数百页文章，核心主题之一就是 AI 必须受合法的民主程序治理。他指出，自古希腊罗马以来，独裁的鼓吹者都声称独裁决策更快更好，而治理权必须留在人类手中；开车、药物设计这类具体任务可以自动化，但不能交出核心决策权。他还提到公司拒绝武器用途等做法。看点：Anthropic 刚上市、股价承压，CEO 亲自下场灭火，AI 治理与控制权之争正从实验室内部蔓延到公众舆论。",
+   "links": [
+    "https://x.com/i/status/2125656399392690605",
+    "https://x.com/i/status/2125532966340239395"
+   ],
+   "topic": "amodei-rebuts-axios-surrender-free-will",
+   "firstSeen": "2026-11-26T05:11:42+08:00"
+  },
+  {
+   "id": "61672d643f",
+   "title": "神舟二十四号成功对接天宫：巴基斯坦首位航天员 Muhammad Zeeshan Ali 进驻中国空间站，中国载人航天首次外籍联合飞行",
+   "summary": "11 月 25 日，神舟二十四号从酒泉发射，巴基斯坦空军飞行员 Muhammad Zeeshan Ali 与中国航天员唐洪波、武一同入驻天宫空间站，受到神舟二十三号乘组迎接。Ali 在北京训练了 7 个月，将开展生物技术、材料科学以及微重力对种子影响等实验，还配备了 100 多道清真航天餐。这是中国载人航天计划首次与外国航天员联合飞行，正逢中巴建交 75 周年。看点：天宫开始承接国际航天员，太空科研合作与「太空外交」可能成为新的增长点。",
+   "links": [
+    "https://x.com/i/status/2125424632408707077",
+    "https://x.com/i/status/2125487134538879396"
+   ],
+   "topic": "shenzhou-24-pakistan-astronaut-docks-tiangong",
+   "firstSeen": "2026-11-26T05:11:42+08:00"
   }
  ],
- "lastChecked": "2026-11-26T04:57:04+08:00"
+ "lastChecked": "2026-11-26T05:11:42+08:00"
 }
