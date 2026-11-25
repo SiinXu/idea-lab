@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T01:45:06+08:00",
+ "lastUpdated": "2026-11-26T02:13:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54388,7 +54388,29 @@
    ],
    "topic": "amazon-meta-muse-shopping-talks-fortune",
    "firstSeen": "2026-11-26T01:45:06+08:00"
+  },
+  {
+   "id": "afed6763ee",
+   "title": "1Password 披露安全事件：攻击者盗用一名员工的 GitHub 账号侵入部分后台系统，部分用户姓名和邮箱泄露，密码库内容未受影响",
+   "summary": "密码管理器 1Password 于 11 月 25 日公布，11 月 19 日发现有人未经授权访问其部分后端系统，入口是一名员工被盗的 GitHub 账号。泄露内容包括一部分用户的姓名、邮箱地址和一些非敏感令牌；公司强调用户密码库内容、密码、各类机密以及保护它们的加密密钥都没有被访问或泄露，服务正常运行，已请第三方安全专家核查。看点：安全厂商自身也会从开发者账号这类供应链入口被突破；被泄露邮箱的用户要提防冒充 1Password 的钓鱼邮件。",
+   "links": [
+    "https://x.com/i/status/2125642686443258030",
+    "https://x.com/i/status/2125648357565624549"
+   ],
+   "topic": "1password-breach-employee-github-account-2026-11",
+   "firstSeen": "2026-11-26T02:13:44+08:00"
+  },
+  {
+   "id": "b71a32d716",
+   "title": "AI 媒体和软件公司 Every 完成 1750 万美元 A 轮、投后估值 1.1 亿美元：要帮个人和团队变成「AI 原生」",
+   "summary": "Dan Shipper 创办的 Every 宣布完成 1750 万美元 A 轮融资，投后估值 1.1 亿美元，由 IA Ventures 的 Jesse Beyroutey 领投，《大西洋月刊》CEO Nicholas Thompson、Stainless 的 Alex Rattray 和 betaworks 跟投。Every 以 AI 深度长文和自研 AI 工具起家，新融资将用于帮助个人和团队转型为 AI 原生的工作方式。看点：「内容+工具」的 AI 媒体模式拿到机构认可，是独立创作者和小团队做 AI 产品的参考样本。",
+   "links": [
+    "https://x.com/i/status/2125615579964833827",
+    "https://x.com/i/status/2125615855933567045"
+   ],
+   "topic": "every-series-a-17-5m-110m-valuation",
+   "firstSeen": "2026-11-26T02:13:44+08:00"
   }
  ],
- "lastChecked": "2026-11-26T01:45:06+08:00"
+ "lastChecked": "2026-11-26T02:13:44+08:00"
 }
