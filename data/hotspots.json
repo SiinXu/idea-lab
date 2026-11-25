@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T12:25:08+08:00",
+ "lastUpdated": "2026-11-25T12:42:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53785,7 +53785,51 @@
    ],
    "topic": "josh-comeau-button-sounds",
    "firstSeen": "2026-11-25T12:25:08+08:00"
+  },
+  {
+   "id": "9d7be88844",
+   "title": "Midjourney 发布动漫模型 Niji V8：提示词更精准、角色一致性更强，并配套专用编辑工具，换姿势、换背景时人物保持不变",
+   "summary": "Midjourney 推出新一代动漫风格模型 Niji V8，主打按提示词精准出图、角色前后一致、画面连贯性达到一线水平，另配专用编辑工具，让人物在不同姿势和背景下保持稳定。在 Discord 里加 --niji 8 或在网页端即可启用。早期测试者晒出不少高清动作场面和精细场景，称它能改变动漫风格插画和分镜叙事的做法。",
+   "links": [
+    "https://x.com/i/status/2125328040624521639",
+    "https://x.com/i/status/2125362478720651604"
+   ],
+   "topic": "midjourney-niji-v8",
+   "firstSeen": "2026-11-25T12:42:45+08:00"
+  },
+  {
+   "id": "416305bf6c",
+   "title": "OpenAI 把 ChatGPT 自助广告平台 Ads Manager 扩展到几十个国家，面向中小品牌；广告只对免费版和 Go 用户展示",
+   "summary": "OpenAI 的自助广告投放平台 Ads Manager 已覆盖几十个国家，按对话上下文和用户意图投放广告，只出现在免费版和 Go 套餐中，付费订阅仍无广告。Similarweb 和 Greg Brockman 都提到它能帮小品牌按意图触达用户。同时 OpenAI 修正了 GPT-6.2 Astra 等模型的用量计算方式，可能让用户感觉额度变紧；Business 团队在年底前可免费重置一次额度并使用快速模式。舆论褒贬不一。对独立开发者来说，这是一个新的按意图投放的获客渠道。",
+   "links": [
+    "https://x.com/i/status/2125391380038230058",
+    "https://x.com/i/status/2125419140471022056"
+   ],
+   "topic": "chatgpt-ads-manager-expansion-smb",
+   "firstSeen": "2026-11-25T12:42:45+08:00"
+  },
+  {
+   "id": "9a7cd2922c",
+   "title": "YC W26 公司 LegalOS 推出面向科技创始人的 AI 快速签证服务：用数千份成功申请自动起草、律师终审，自称几十件全部获批，引发争议",
+   "summary": "LegalOS 自称「AI 原生移民律所」，根据数千份成功获批的申请材料自动起草签证文件，最终由持证律师审核，号称已提交的几十件申请全部获批，服务全球招聘科技人才的团队。支持者称赞速度快；批评者如 Andrew Torba 称之为「签证工厂」，也有人恶搞或质疑其在自动化和就业问题上的取向。讨论中有人晒出截图，显示 YC 投了一批类似的移民科技初创。",
+   "links": [
+    "https://x.com/i/status/2125375311441502361",
+    "https://x.com/i/status/2125376619334467699"
+   ],
+   "topic": "legalos-ai-visa-yc-w26",
+   "firstSeen": "2026-11-25T12:42:45+08:00"
+  },
+  {
+   "id": "777816c50f",
+   "title": "前端开发者实测绕开 iOS Safari 60 帧限制：在 120Hz 屏幕上让网页交互接近原生流畅，登上 HN",
+   "summary": "Rida F'kih 撰文指出：除非在 Safari 开发者设置里关闭「Prefer Page Rendering Updates near 60fps」，否则 WebKit 会在 120Hz 屏幕上把 requestAnimationFrame 以及触摸、指针事件都限制在 60Hz，这是移动网页「手感差」的根源。受 React Aria 可滑动面板和 React 作者 Jordan Walke 原生手感实验的启发，他介绍了不改设置就能突破这一限制、做出接近原生交互的方法。适合做移动 Web 和 PWA 交互的开发者参考。",
+   "links": [
+    "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+    "https://news.ycombinator.com/item?id=50637890"
+   ],
+   "topic": "ios-safari-60fps-limit-bypass",
+   "firstSeen": "2026-11-25T12:42:45+08:00"
   }
  ],
- "lastChecked": "2026-11-25T12:25:08+08:00"
+ "lastChecked": "2026-11-25T12:42:45+08:00"
 }
