@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T12:42:45+08:00",
+ "lastUpdated": "2026-11-25T13:02:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53829,7 +53829,29 @@
    ],
    "topic": "ios-safari-60fps-limit-bypass",
    "firstSeen": "2026-11-25T12:42:45+08:00"
+  },
+  {
+   "id": "f573abce44",
+   "title": "Gemini 拒绝输出《一闪一闪小星星》歌词，登上 HN：明明是公共领域儿歌，却先吐出歌词再撤回，弹出版权拒答",
+   "summary": "一名用户在社区 Comentr 发帖称：让 Gemini 给出公共领域儿歌《Twinkle Twinkle Little Star》的歌词，两次它都先开始输出，随后中途停下、撤回内容并显示拒答提示。帖子很快登上 Hacker News，评论吐槽大模型连「公共领域」都分不清，也再次引出各家模型版权过滤过严、输出后撤回体验差的老问题。",
+   "links": [
+    "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+    "https://news.ycombinator.com/item?id=50638320"
+   ],
+   "topic": "gemini-refuses-twinkle-lyrics-public-domain",
+   "firstSeen": "2026-11-25T13:02:21+08:00"
+  },
+  {
+   "id": "6ef572806f",
+   "title": "Acurast 联手 Obsidio：用全球 36 万多台手机组成的去中心化网络，帮瑞士银行在真实家庭网络上模拟 DDoS 攻击、测试防御",
+   "summary": "Acurast 的去中心化计算网络由 175 个国家的 36.3 万多台智能手机组成，现与网络安全公司 Obsidio 合作，为金融机构在真实的家庭宽带和移动网络上模拟 DDoS 攻击。测试在每台手机的可信执行环境（TEE）中运行，并提供加密证明。相比数据中心 IP 发起的压测，这种做法更接近真实攻击流量，瑞士银行已在试用。",
+   "links": [
+    "https://x.com/i/status/2125266718549315681",
+    "https://x.com/i/status/2125389577452196146"
+   ],
+   "topic": "acurast-obsidio-smartphone-ddos-testing",
+   "firstSeen": "2026-11-25T13:02:21+08:00"
   }
  ],
- "lastChecked": "2026-11-25T12:42:45+08:00"
+ "lastChecked": "2026-11-25T13:02:21+08:00"
 }
