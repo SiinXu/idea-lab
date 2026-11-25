@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T14:53:52+08:00",
+ "lastUpdated": "2026-11-25T15:11:08+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54017,7 +54017,51 @@
    ],
    "topic": "anthropic-siren-sandbox-escape-eval",
    "firstSeen": "2026-11-25T14:53:52+08:00"
+  },
+  {
+   "id": "b8dde6a9f1",
+   "title": "GitHub 恶搞 Issue 走红 HN：「财政部 CIO 忙着 vibecoding，没空修 FinCEN」——可疑交易报告批量申报系统已宕机多日",
+   "summary": "有人在美国财政部 CIO 个人项目 legatum 的 GitHub 仓库里提了一个标着 bug 的 Issue，吐槽他忙着用 AI 写游戏，而金融犯罪执法网络 FinCEN 的申报系统迟迟没修好。评论区引用记者 Catherine Rampell 的爆料：可疑交易报告（SAR）批量申报从 11 月 20 日起中断，24 日仍未恢复，部分手动申报也收不到回执。看点：政府官员公开 vibecoding 与公共系统故障形成反差，成了「AI 时代谁来维护老系统」的讨论样本。",
+   "links": [
+    "https://github.com/samcorcos/legatum/issues/147",
+    "https://news.ycombinator.com/item?id=50638647"
+   ],
+   "topic": "treasury-cio-vibecoding-fincen-outage",
+   "firstSeen": "2026-11-25T15:11:08+08:00"
+  },
+  {
+   "id": "ebaf1c3066",
+   "title": "开发者把 Qwen 小模型拆到 5600 个 AWS Lambda 上做推理：能跑，但成本是 GPU 的约 80 倍，登上 HN",
+   "summary": "Noah Lindner 受 Remotion 用大规模并行 Lambda 渲染视频的启发，尝试不用 GPU、把基于 Qwen3.5-4B 微调的决策模型 H2O-Lightning 分层扇出到 5600 个 Lambda 上推理。实验证明技术上可行，但延迟和成本都远不如 GPU，作者自嘲「负利润 80 倍」。看点：一篇诚实的失败复盘，帮人搞清楚无服务器 CPU 跑大模型推理的边界。",
+   "links": [
+    "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+    "https://news.ycombinator.com/item?id=50638070"
+   ],
+   "topic": "qwen-on-5600-lambdas",
+   "firstSeen": "2026-11-25T15:11:08+08:00"
+  },
+  {
+   "id": "dc30af1bec",
+   "title": "ProofAtlas 用多家大模型两两对比，给 500 个数学未解难题排「重要性」榜单",
+   "summary": "ProofAtlas 上线「最重要的 500 个数学开放问题」榜单：让 OpenAI、Claude、GLM、DeepSeek 等模型两两比较问题的重要性，再用可靠性加权模型合成排名，每条都附精确表述、进展状态和出处，已解决的问题保留原排名。站方强调这只是模型评估，不是专家共识，也不预测谁先被解决。看点：正赶上 AI 证明数学猜想的热潮，「AI 选题 + AI 攻题」的工具链正在成形。",
+   "links": [
+    "https://www.proofatlas.ai/open-problems/",
+    "https://news.ycombinator.com/item?id=50637871"
+   ],
+   "topic": "proofatlas-open-problems-ranking",
+   "firstSeen": "2026-11-25T15:11:08+08:00"
+  },
+  {
+   "id": "65185b2b6e",
+   "title": "Show HN：1998–2006 年 3dfx、NVIDIA、ATI 显卡官方技术演示，用原始文件重建后在浏览器里重新跑起来",
+   "summary": "GPU Demo Gallery 把 Voodoo2、GeForce 256、GeForce2 等显卡当年用来炫技的官方演示（Borg 立方体、弹簧气泡、闪电钢板、无边草地、小池塘等）从原始文件重建，直接在网页里交互运行，可以戳气泡、点水面。看点：复古图形学 + WebGL 复刻，很适合做怀旧向内容和前端炫技灵感。",
+   "links": [
+    "https://gpu-demo-gallery.pages.dev/",
+    "https://news.ycombinator.com/item?id=50638503"
+   ],
+   "topic": "gpu-demo-gallery-retro",
+   "firstSeen": "2026-11-25T15:11:08+08:00"
   }
  ],
- "lastChecked": "2026-11-25T14:53:52+08:00"
+ "lastChecked": "2026-11-25T15:11:45+08:00"
 }
