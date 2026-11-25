@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T09:42:53+08:00",
+ "lastUpdated": "2026-11-25T10:12:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53685,7 +53685,18 @@
    ],
    "topic": "maple-ai-seed-5-3m",
    "firstSeen": "2026-11-25T09:42:53+08:00"
+  },
+  {
+   "id": "30d03f1057",
+   "title": "OpenAI 数学仓库再挂重磅预印本：证明矩阵乘法指数 ω 恰好等于 9/4，给出匹配下界，终结「ω=2」猜想",
+   "summary": "OpenAI 在 openai/math 仓库发布预印本《The matrix multiplication exponent is nine fourths》（2026-11-24），声称在任意域上证明方阵乘法指数 ω=9/4：对每个 n≥2，用形式算术电路计算两个 n×n 矩阵的乘积至少需要 ⌈n^(9/4)/2⌉ 个乘除门。论文称 9/4 的上界此前已由 OpenAI（复数域）及 Amanov、van den Berg、Zuiddam（任意域）给出，本文补上下界：思路是若指数更小，就能把张量网络压缩到违反「多组列表元素互异检测」的下界。若成立，长期猜想的 ω=2 将被否定。Hacker News 讨论中有人指出原帖标题「O(n^2.25)」不准确，应为 Θ(n^2.25)；该结果尚待同行独立审核。",
+   "links": [
+    "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "https://news.ycombinator.com/item?id=50637220"
+   ],
+   "topic": "openai-matmul-exponent-nine-fourths",
+   "firstSeen": "2026-11-25T10:12:44+08:00"
   }
  ],
- "lastChecked": "2026-11-25T09:42:53+08:00"
+ "lastChecked": "2026-11-25T10:12:44+08:00"
 }
