@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T21:57:53+08:00",
+ "lastUpdated": "2026-11-25T22:17:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54267,7 +54267,18 @@
    ],
    "topic": "google-cogentic-six-math-papers",
    "firstSeen": "2026-11-25T21:57:53+08:00"
+  },
+  {
+   "id": "955b1253f3",
+   "title": "Drupal 核心高危漏洞「Fail2Install」遭在野利用：无需登录即可重装在线网站并远程执行代码，CISA 已列入 KEV 目录",
+   "summary": "Drupal 核心安装器漏洞 CVE-2026-132165（CVSS 9.8，代号 Fail2Install）已被攻击者实际利用：数据库检查失败会被误判为「站点尚未安装」，匿名攻击者可借此重新安装正在运行的网站并实现远程代码执行。受影响版本包括 10.6.22 及更早、11.0–11.3.22、11.4.0–11.4.13。美国 CISA 已将其加入已知被利用漏洞（KEV）目录。看点：Drupal 支撑大量政府和企业网站，用 Drupal 的站点应尽快升级。",
+   "links": [
+    "https://x.com/i/status/2125551411270455668",
+    "https://x.com/i/status/2125560380915159259"
+   ],
+   "topic": "drupal-fail2install-cve-2026-132165-kev",
+   "firstSeen": "2026-11-25T22:17:07+08:00"
   }
  ],
- "lastChecked": "2026-11-25T21:57:53+08:00"
+ "lastChecked": "2026-11-25T22:17:07+08:00"
 }
