@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T13:31:14+08:00",
+ "lastUpdated": "2026-11-25T13:46:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53906,7 +53906,29 @@
    ],
    "topic": "sec-no-action-molecule-research-tokens",
    "firstSeen": "2026-11-25T13:31:14+08:00"
+  },
+  {
+   "id": "cde7f1703c",
+   "title": "Intruder 研究：利用 AWS 弹性 IP 的「悬空 DNS」，每个只花约 3 美元就接管了美国财政部子域名，2026 年这种攻击仍然可行",
+   "summary": "安全公司 Intruder 的顾问 Tom Steer 发文：DNS 记录仍指向已释放的 AWS 弹性 IP 时，攻击者可以反复申请和释放 EIP，直到「抽中」该地址，从而接管子域名，进而窃取凭证。团队从公开的漏洞赏金范围中枚举子域名，只覆盖了不到 1% 的 IP 空间，就找到了美国财政部域名下真实可接管的子域名，平均每个成本约 3 美元，已经通过漏洞赏金报告并修复。作者提醒：AWS 的封禁措施仍有空隙，各团队应尽快清理悬空 DNS 记录。文章已登上 HN。",
+   "links": [
+    "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+    "https://news.ycombinator.com/item?id=50638478"
+   ],
+   "topic": "aws-eip-dangling-dns-treasury-subdomain-takeover",
+   "firstSeen": "2026-11-25T13:46:32+08:00"
+  },
+  {
+   "id": "e980ab12f0",
+   "title": "Coinbase CEO Armstrong 长文：AI Agent 将在加密轨道上自主交易，借哈耶克思想主张让 AI 像 DeFi 一样去中心化",
+   "summary": "Brian Armstrong 发长文阐述 Coinbase 为「智能体经济」搭建金融工具的愿景：AI Agent 用加密支付轨道和去中心化模型自主完成交易。他借用经济学家哈耶克关于分散知识的思想，主张让 AI 像去中心化金融那样去中心化，由众多专精的开源权重模型通过市场机制协作，而不是由少数闭源巨头垄断。评论区围绕 Agent 支付、开源模型和中心化风险展开讨论。",
+   "links": [
+    "https://x.com/i/status/2125352109587489169",
+    "https://x.com/i/status/2125379358986506483"
+   ],
+   "topic": "armstrong-agentic-economy-crypto-rails-hayek",
+   "firstSeen": "2026-11-25T13:46:32+08:00"
   }
  ],
- "lastChecked": "2026-11-25T13:31:14+08:00"
+ "lastChecked": "2026-11-25T13:46:32+08:00"
 }
