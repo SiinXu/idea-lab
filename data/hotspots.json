@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T10:30:02+08:00",
+ "lastUpdated": "2026-11-25T11:24:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -53707,7 +53707,18 @@
    ],
    "topic": "pengpt-handwriting-sketch-transformer",
    "firstSeen": "2026-11-25T10:30:02+08:00"
+  },
+  {
+   "id": "f152ec1405",
+   "title": "设计师 Robbie Tilton 开源 Mac 视频剪辑器 Editroom：仅 23MB，可手动剪也可交给 AI Agent 剪，内置 MCP 服务器",
+   "summary": "Robbie Tilton 发布免费开源的 Mac 视频编辑器 Editroom，称做它是因为觉得 iMovie 难用、Resolve 太复杂、Premiere 太重。功能包括调色与 LUT（支持 HDR 和 Log）、变速、转场与淡入淡出、逐词对齐的自动字幕、按台词或画面内容搜索素材，AI 剪辑既可在本地跑，也可接 Claude 或 ChatGPT，并内置 MCP 服务器方便智能体调用。安装包只有 23MB，而 Premiere 约 6.95GB。发布帖浏览量已超 5 万，对演示中调色效果的评价有好有坏。",
+   "links": [
+    "https://robbietilton.com/editroom",
+    "https://x.com/i/status/2125325175663350160"
+   ],
+   "topic": "editroom-open-source-ai-video-editor",
+   "firstSeen": "2026-11-25T11:24:39+08:00"
   }
  ],
- "lastChecked": "2026-11-25T10:30:02+08:00"
+ "lastChecked": "2026-11-25T11:24:39+08:00"
 }
