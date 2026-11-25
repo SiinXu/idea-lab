@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T03:47:07+08:00",
+ "lastUpdated": "2026-11-26T04:08:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54487,7 +54487,18 @@
    ],
    "topic": "hf-scaling-swarms-field-report-legion-msgboard",
    "firstSeen": "2026-11-26T03:47:07+08:00"
+  },
+  {
+   "id": "bb5e413993",
+   "title": "Scott Aaronson 发长文惊呼「HOLY SHIT」冲上 HN 榜首：OpenAI 又称证明傅里叶变换线性门复杂度恰为 N·(log N)^½，上下界同时给出",
+   "summary": "量子计算学者 Scott Aaronson 在博客写道，学界还没消化完 OpenAI 和 Anthropic 的 VP≠VNP 证明、矩阵乘法指数 ω=9/4，OpenAI 又发布新结果：计算傅里叶变换所需的线性门数量恰为 N·(log N)^(1/2+o(1))。上界打破了 1960 年代 FFT 以来的 O(N log N)，还给出匹配的下界。他还提到 Yupan Liu 借助 AI 证明了 QIP(2)=PSPACE，称 AI 参与已经「见怪不怪」，复杂度理论正迎来一整片新大陆。该文在 Hacker News 迅速冲到第一。注意：这些都是 OpenAI 自行发布的结果，尚待同行审核。看点：AI 批量解决计算机科学基础难题的节奏还在加快，算法、密码学、编译器优化都可能受影响。",
+   "links": [
+    "https://scottaaronson.blog/?p=10379",
+    "https://news.ycombinator.com/item?id=50646108"
+   ],
+   "topic": "aaronson-holy-shit-fft-tight-bound-openai",
+   "firstSeen": "2026-11-26T04:08:47+08:00"
   }
  ],
- "lastChecked": "2026-11-26T03:47:07+08:00"
+ "lastChecked": "2026-11-26T04:08:47+08:00"
 }
