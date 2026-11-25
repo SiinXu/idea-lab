@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T03:26:38+08:00",
+ "lastUpdated": "2026-11-26T03:47:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54476,7 +54476,18 @@
    ],
    "topic": "intel-court-filings-trump-10pct-stake-pressure",
    "firstSeen": "2026-11-26T03:26:38+08:00"
+  },
+  {
+   "id": "9fe6da53d9",
+   "title": "Hugging Face 发布千级智能体集群实战报告《Scaling Swarms to Thousands of Agents》：开源 Legion 和 Msgboard，公开 18.4 万条智能体协作消息",
+   "summary": "继此前用 1000 个 DeepSeek 智能体写出纯 Python 聊天机器人 PyBot（64 万行代码、55 万行测试，SmolTalkBench 胜率 26%）之后，Hugging Face 发布完整复盘：怎样同时启动上千个智能体、如何协作、差点把 Git 和 Hub 搞崩的经历、在开放式任务中引导集群，以及用「想法盆地」衡量方案多样性。同时开源批量启动智能体的 Legion、供智能体互相通信的 Msgboard，以及全部 18.4 万条协作消息数据集。看点：大规模智能体集群的工程经验原本只在少数实验室内部流传，现在有了开源的工具和方法论。",
+   "links": [
+    "https://x.com/i/status/2125612908499349833",
+    "https://x.com/i/status/2125609674791665930"
+   ],
+   "topic": "hf-scaling-swarms-field-report-legion-msgboard",
+   "firstSeen": "2026-11-26T03:47:07+08:00"
   }
  ],
- "lastChecked": "2026-11-26T03:26:38+08:00"
+ "lastChecked": "2026-11-26T03:47:07+08:00"
 }
