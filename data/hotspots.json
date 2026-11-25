@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T02:13:44+08:00",
+ "lastUpdated": "2026-11-26T03:00:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54410,7 +54410,18 @@
    ],
    "topic": "every-series-a-17-5m-110m-valuation",
    "firstSeen": "2026-11-26T02:13:44+08:00"
+  },
+  {
+   "id": "30421037d9",
+   "title": "机器人云推理创业公司 Abstract 获 HF0 等 250 万美元融资：把机器人的 AI 放到云端跑，往返仅 30 毫秒，机器人本体不用装 GPU",
+   "summary": "Abstract 宣布从 HF0 拿到 250 万美元，Susa Ventures 以及来自 OpenAI、Anthropic、英伟达的天使投资人参投。它在自家云端 GPU 集群上运行机器人 AI 模型：机器人把摄像头数据传上去，约 30 毫秒拿回动作指令，这样机器人本体不需要板载 GPU，造价更低。一个 API Key 可调用 8 个机器人模型，包括 π0.5 和 MolmoAct2，现已开放注册。看点：「机器人推理即服务」可能降低具身智能硬件门槛，类似当年云计算之于网站。",
+   "links": [
+    "https://x.com/i/status/2125650766438523377",
+    "https://x.com/i/status/2125653096873300187"
+   ],
+   "topic": "abstract-robot-cloud-inference-2-5m-hf0",
+   "firstSeen": "2026-11-26T03:00:21+08:00"
   }
  ],
- "lastChecked": "2026-11-26T02:13:44+08:00"
+ "lastChecked": "2026-11-26T03:00:21+08:00"
 }
