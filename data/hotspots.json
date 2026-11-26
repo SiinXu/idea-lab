@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T18:54:37+08:00",
+ "lastUpdated": "2026-11-26T19:43:30+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55084,7 +55084,18 @@
    ],
    "topic": "commandcode-moat",
    "firstSeen": "2026-11-26T18:54:37+08:00"
+  },
+  {
+   "id": "6f6a6b07f1",
+   "title": "谷歌新 API 条款：2027 年 2 月 1 日起 AI 智能体访问 Gmail、Drive 等 Workspace 必须走官方 MCP 服务器，而 Gmail MCP 目前不能发信",
+   "summary": "谷歌 11 月 24 日在 8 个 Workspace MCP 服务器正式上线的同时发布「Workspace AI Tools Addendum」：凡由 AI 智能体、AI 框架或模型驱动的工具，2027 年 2 月 1 日起必须通过谷歌 MCP 访问 Workspace，伪装规避可被封禁；直接调 REST API 的智能体将被限制在 Standard 配额。问题是 Gmail MCP 只能搜索、读信、建草稿和打标签，发送、回复、转发需「合作伙伴权限」。条款还要求数据只用于用户授权任务，向量嵌入、记忆索引等可被限制保留 30 天，邮件助手类产品约有两个月调整期。",
+   "links": [
+    "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+    "https://news.ycombinator.com/item?id=50653477"
+   ],
+   "topic": "google-workspace-agent-mcp-terms",
+   "firstSeen": "2026-11-26T19:43:30+08:00"
   }
  ],
- "lastChecked": "2026-11-26T18:54:37+08:00"
+ "lastChecked": "2026-11-26T19:43:30+08:00"
 }
