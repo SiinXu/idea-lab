@@ -55099,7 +55099,7 @@
   {
    "id": "eb8298af7a",
    "title": "Anthropic「Claude for Open Source」计划：开源维护者和活跃贡献者可免费领 6 个月 Claude Ultra，滚动申请、名额上限 1 万人",
-   "summary": "Anthropic 为开源社区推出 Claude for Open Source：满足任一条件即可申请 6 个月免费 Claude Ultra，包括包有 500+ 依赖仓库或月下载 20 万+、CPython/Rust/Node.js/Apache/CNCF/Linux 内核等项目的核心成员、近 12 个月在他人仓库合并 100+ PR、仓库有 20+ 外部贡献者，或 OpenSSF 关键性评分 ≥0.4；不完全符合也可说明情况申请。到期前会邮件提醒，不会自动续费扣款。",
+   "summary": "Anthropic 为开源社区推出 Claude for Open Source：满足任一条件即可申请 6 个月免费 Claude Ultra，包括包有 500+ 依赖仓库或月下载 20 万+、CPython/Rust/Node.js/Apache/CNCF/Linux 内核等项目的核心成员、近 12 个月在他人仓库合并 100+ PR、仓库有 20+ 外部贡献者，或 OpenSSF 关键性评分 ≥0.4；不完全符合也可说明情况申请。到期后免费订阅结束，Anthropic 会提前发邮件提醒。",
    "links": [
     "https://x.com/i/status/2125866799304695878",
     "https://t.co/up2V6IDBR4"
@@ -55108,5 +55108,5 @@
    "firstSeen": "2026-11-26T21:02:01+08:00"
   }
  ],
- "lastChecked": "2026-11-26T21:02:01+08:00"
+ "lastChecked": "2026-11-26T21:02:43+08:00"
 }
