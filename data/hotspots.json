@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T00:13:54+08:00",
+ "lastUpdated": "2026-11-27T00:47:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55216,7 +55216,18 @@
    ],
    "topic": "openai-gpt62-billing-fix-banked-reset",
    "firstSeen": "2026-11-27T00:13:54+08:00"
+  },
+  {
+   "id": "b57cacd06e",
+   "title": "Ledger 硬件钱包支持 Solana「明文签名」：交易界面直接显示转出/收到哪些代币、授予了什么权限，告别只看原始数据的「盲签」",
+   "summary": "11 月 26 日 Solana 生态宣布 Clear Signing 上线：在 Ledger 硬件钱包上签 Solana 交易时，屏幕会用人能读懂的方式列出发送和收到的代币以及授予的权限，而不再只显示一串原始数据。盲签一直是钓鱼和授权盗币的主要入口，这一更新对 DeFi 兑换、钱包和 dApp 开发者都意味着要适配新的可读交易描述。",
+   "links": [
+    "https://x.com/i/status/2125934915569193418",
+    "https://x.com/i/status/2125949931282407795"
+   ],
+   "topic": "ledger-solana-clear-signing",
+   "firstSeen": "2026-11-27T00:47:13+08:00"
   }
  ],
- "lastChecked": "2026-11-27T00:13:54+08:00"
+ "lastChecked": "2026-11-27T00:47:13+08:00"
 }
