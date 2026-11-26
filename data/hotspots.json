@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T12:26:09+08:00",
+ "lastUpdated": "2026-11-26T12:42:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54830,7 +54830,19 @@
    ],
    "topic": "ai-short-guardian-angel-chess-with-death",
    "firstSeen": "2026-11-26T12:26:09+08:00"
+  },
+  {
+   "id": "0c9c781e8c",
+   "title": "GPT-6.2 Astra 登顶 GDPx 专家任务榜：19.3% 领先 Claude Fable 5.2（16.4%），热门的 Gemini 4 Neon 仅排第 6",
+   "summary": "GDPx 用 206 道私有专家级任务覆盖 11 个领域，测模型最高推理档位表现；Astra 的优势集中在材料科学、RSI、芯片与硬件设计、金融和法律等，材料科学比此前最佳高 19.4%，但软件工程相对落后，有人认为这正是 X 上程序员不买账的原因。",
+   "links": [
+    "https://x.com/i/status/2125743598587003170",
+    "https://x.com/i/status/2125743599576867003",
+    "https://x.com/i/status/2125791910543360088"
+   ],
+   "topic": "gpt-6-2-astra-gdpx-leaderboard",
+   "firstSeen": "2026-11-26T12:42:06+08:00"
   }
  ],
- "lastChecked": "2026-11-26T12:26:09+08:00"
+ "lastChecked": "2026-11-26T12:42:06+08:00"
 }
