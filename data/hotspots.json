@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T10:09:16+08:00",
+ "lastUpdated": "2026-11-26T11:53:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54785,7 +54785,18 @@
    ],
    "topic": "treg-people-api",
    "firstSeen": "2026-11-26T10:09:16+08:00"
+  },
+  {
+   "id": "e128afec74",
+   "title": "华尔街日报：Aschenbrenner 的 AI 基金 Situational Awareness 三季度亏损 65%，夏天一度濒临崩盘，被追保后把大部分股票卖给 Citadel",
+   "summary": "致投资人信显示，这只押注 AI 基建的高杠杆基金 Q3 净值腰斩以上，遭遇追加保证金后被迫减仓并调整策略，但年内仍上涨约 88%；Aschenbrenner 称当前是「见过潜在回报最高的投资机会」，被视为 AI 交易拥挤与杠杆风险的风向标。",
+   "links": [
+    "https://x.com/i/status/2125743260781961348",
+    "https://x.com/i/status/2125742993705484360"
+   ],
+   "topic": "situational-awareness-q3-loss-65",
+   "firstSeen": "2026-11-26T11:53:51+08:00"
   }
  ],
- "lastChecked": "2026-11-26T10:09:16+08:00"
+ "lastChecked": "2026-11-26T11:53:51+08:00"
 }
