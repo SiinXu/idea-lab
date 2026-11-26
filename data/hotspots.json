@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T06:59:59+08:00",
+ "lastUpdated": "2026-11-27T07:39:49+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55427,7 +55427,18 @@
    ],
    "topic": "ai-made-self-hosting-fun-again",
    "firstSeen": "2026-11-27T06:59:59+08:00"
+  },
+  {
+   "id": "07c1699e2e",
+   "title": "波兰国防部 11 月 27 日与 Palantir 签约引入 AI 作战决策系统 Maven（波兰代号「土星」）：融合无人机、卫星、雷达情报，识别目标并向指挥官推荐行动",
+   "summary": "波兰宣布与 Palantir 合作，把 AI 引入军事决策。国防部将于 11 月 27 日签约采购 Maven Smart System，在波兰的代号为 Saturn（土星）。系统融合无人机、卫星、雷达和情报数据分析战场态势、识别目标，并向指挥官推荐作战应对。Maven 已被美军使用，北约也在部署自己的版本；波兰 2024 年测试过 Palantir 技术，10 月签了意向书。这是欧洲国家军队采购 AI 决策系统的又一个案例，也是 Palantir 在欧洲防务市场的扩张。",
+   "links": [
+    "https://x.com/i/status/2125977032479642111",
+    "https://x.com/i/status/2125996134451519751"
+   ],
+   "topic": "poland-palantir-maven-saturn-contract",
+   "firstSeen": "2026-11-27T07:39:49+08:00"
   }
  ],
- "lastChecked": "2026-11-27T06:59:59+08:00"
+ "lastChecked": "2026-11-27T07:39:49+08:00"
 }
