@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T01:10:31+08:00",
+ "lastUpdated": "2026-11-27T01:29:40+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55238,7 +55238,18 @@
    ],
    "topic": "tencent-dfly2-speculative-decoding",
    "firstSeen": "2026-11-27T01:10:31+08:00"
+  },
+  {
+   "id": "9d26507c88",
+   "title": "普京在 Sber「AI Journey」大会警告：AI 自主性上升，可能变成伤害全人类的危险力量，呼吁俄罗斯发展主权 AI",
+   "summary": "普京在莫斯科由俄罗斯联邦储蓄银行（Sber）主办的 AI Journey 大会上发言，称 AI 自主性越来越强，既可用于创造也可能用于破坏，尤其在军事领域，未来可能成为危害全人类的现实威胁；他同时呼吁俄罗斯发展自主可控的主权 AI。相关剪辑在 X 上快速扩散。",
+   "links": [
+    "https://x.com/i/status/2125988222862061598",
+    "https://x.com/i/status/2125989753233301567"
+   ],
+   "topic": "putin-ai-journey-2026-warning",
+   "firstSeen": "2026-11-27T01:29:40+08:00"
   }
  ],
- "lastChecked": "2026-11-27T01:10:31+08:00"
+ "lastChecked": "2026-11-27T01:29:40+08:00"
 }
