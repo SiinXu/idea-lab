@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T05:01:20+08:00",
+ "lastUpdated": "2026-11-27T06:08:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55351,7 +55351,29 @@
    ],
    "topic": "robbyant-lingbot-navi-spatial-memory-open-source",
    "firstSeen": "2026-11-27T05:01:20+08:00"
+  },
+  {
+   "id": "b87dd5c63f",
+   "title": "Effect 生态推出 Effect UI 公开预览：基于 Effect 和 Elm 架构的前端库，组件状态变化和副作用都写成显式的值，主打对 AI 编程智能体友好",
+   "summary": "Effect 团队发布 Effect UI 公开预览，它延续 Foldkit 0.x，把前端拆成自包含组件，状态转换显式声明、副作用作为值处理，代码结构更可预测，便于 AI 编程智能体阅读和修改。官网本身就是用 Effect UI 搭的，源码在 GitHub 公开；目前还没上 npm，需要从 pkg.pr.new 安装快照版本，Foldkit 0.x 用户可直接升级而不用重写。发布帖在 X 上获得不少开发者称赞。",
+   "links": [
+    "https://ui.effect.website/",
+    "https://github.com/Effect-TS/ui",
+    "https://x.com/i/status/2125825604272451629"
+   ],
+   "topic": "effect-ui-public-preview",
+   "firstSeen": "2026-11-27T06:08:59+08:00"
+  },
+  {
+   "id": "4e748ec53b",
+   "title": "Thorsten Ball 发《2026 年 11 月，怎样不用智能体》：三个月前的智能体用法现在可能只是「表演」，比如在智能体跑测试前先人工审代码、逐行看 diff 求安心",
+   "summary": "开发者 Thorsten Ball 在 X 上分享一份智能体工作流反模式清单，称「现在是 2026 年 11 月，你三个月前使用智能体的方式现在可能只是表演」。他点名的习惯包括：在智能体自己跑完测试之前就先人工预审代码、依赖逐行 diff 来获得信心等。帖子引发开发者讨论智能体工作流迭代之快，以及人类审查该放在流程哪个环节。",
+   "links": [
+    "https://x.com/i/status/2126006279176921404"
+   ],
+   "topic": "thorsten-ball-how-not-to-use-agents-nov-2026",
+   "firstSeen": "2026-11-27T06:08:59+08:00"
   }
  ],
- "lastChecked": "2026-11-27T05:01:20+08:00"
+ "lastChecked": "2026-11-27T06:08:59+08:00"
 }
