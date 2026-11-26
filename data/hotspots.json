@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T22:11:19+08:00",
+ "lastUpdated": "2026-11-26T22:26:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55172,7 +55172,18 @@
    ],
    "topic": "kutaragi-end-of-consoles-cloud-ai",
    "firstSeen": "2026-11-26T22:11:19+08:00"
+  },
+  {
+   "id": "9dfdb41aa4",
+   "title": "GitHub 官方点名 AnyPS5：把 PS5 可执行文件转成 PC 原生运行的开源工具，8 月以来狂揽 5.8 万星，正撞上《GTA VI》仅登主机发售",
+   "summary": "GitHub 官方账号推荐 AnyPS5，这个工具能把 PS5 程序转换为在 PC 上原生运行，自 8 月以来获得超过 5.8 万 star。时间点正值 Rockstar《GTA VI》只在 PS5 和 Xbox Series X|S 发售，引发争议：有人说 GitHub 此举胆大，因为 Take-Two 刚对类似的 GTA 6 移植项目发了 DMCA 下架；也有人认为 Rockstar 一贯拖延 PC 版才催生了这类社区项目。AnyPS5 强调用户须自备游戏文件，且 GTA 6 目前还不能玩。",
+   "links": [
+    "https://x.com/i/status/2125922657522635237",
+    "https://x.com/i/status/2125948944777941381"
+   ],
+   "topic": "github-anyps5-gta6",
+   "firstSeen": "2026-11-26T22:26:42+08:00"
   }
  ],
- "lastChecked": "2026-11-26T22:11:19+08:00"
+ "lastChecked": "2026-11-26T22:26:42+08:00"
 }
