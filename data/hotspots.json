@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T06:39:31+08:00",
+ "lastUpdated": "2026-11-27T06:59:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55395,7 +55395,39 @@
    ],
    "topic": "coreweave-bond-yield-ai-debt-cds-warning",
    "firstSeen": "2026-11-27T06:39:31+08:00"
+  },
+  {
+   "id": "2a319e00b2",
+   "title": "摩根大通、花旗被曝出售部分 AI 贷款敞口：用合成结构把贷款留在表内、把违约风险转给外部投资者，给 AI 繁荣放贷的银行开始减仓",
+   "summary": "据 Semafor 报道（X 上多个财经账号转发），摩根大通和花旗正向投资者推销其 AI 贷款组合的一部分，以降低对 AI 债务的风险敞口、腾出放贷额度。部分交易采用合成结构：贷款仍在银行资产负债表上，但亏损风险转嫁给外部投资者。这与 CoreWeave 债券收益率飙升、AI 数据中心信贷预警同时出现，说明为 AI 基建融资的一方也在对冲回报不确定性。",
+   "links": [
+    "https://x.com/i/status/2126038201949364557",
+    "https://x.com/i/status/2125984172875694377"
+   ],
+   "topic": "jpmorgan-citi-offload-ai-loan-exposure",
+   "firstSeen": "2026-11-27T06:59:59+08:00"
+  },
+  {
+   "id": "696434bb35",
+   "title": "育碧要求所有新游戏立项说明如何使用生成式 AI，不用就得详细解释原因；员工称这是「自上而下的 AI 精神病噩梦」",
+   "summary": "据育碧在职员工透露，公司要求所有提交新游戏方案的团队说明打算如何用生成式 AI 加快开发，不打算使用的必须详细解释为什么不需要，方案不谈 AI 就不予批准。这一做法被认为由 CEO Yves Guillemot 推动，目的是加快小型项目的原型制作。一名员工形容这是「自上而下的 AI 精神病噩梦」，员工感觉被 AI 包围。游戏行业对生成式 AI 的抵触与管理层强推之间的冲突再度成为热议话题。",
+   "links": [
+    "https://x.com/i/status/2125968822272455134",
+    "https://x.com/i/status/2125891936456429993"
+   ],
+   "topic": "ubisoft-genai-mandatory-in-game-pitches",
+   "firstSeen": "2026-11-27T06:59:59+08:00"
+  },
+  {
+   "id": "19dd464158",
+   "title": "HN 热帖《AI 让自托管重新变得好玩》：基础设施配置都在 Git 里，交给 AI 编程智能体改 Docker Compose，试新服务几乎没摩擦",
+   "summary": "博主 Jan-Lukas Else 写道，自己自托管多年、热情一度消退，但最近几个月又兴奋起来，原因恰恰是 AI：他的基础设施大多以 Docker Compose、脚本和配置文件的形式放在 Git 仓库里，AI 编程智能体可以像改普通软件项目一样改这些配置。以前要花一晚上读更新日志和排查问题而懒得做的改动，现在随手就能完成。文章在 Hacker News 上获得讨论，反映 AI 智能体正在降低自托管和家庭实验室的门槛。",
+   "links": [
+    "https://janlukas.blog/posts/ai-self-hosting"
+   ],
+   "topic": "ai-made-self-hosting-fun-again",
+   "firstSeen": "2026-11-27T06:59:59+08:00"
   }
  ],
- "lastChecked": "2026-11-27T06:39:31+08:00"
+ "lastChecked": "2026-11-27T06:59:59+08:00"
 }
