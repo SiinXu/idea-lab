@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T06:08:59+08:00",
+ "lastUpdated": "2026-11-27T06:30:46+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55373,7 +55373,18 @@
    ],
    "topic": "thorsten-ball-how-not-to-use-agents-nov-2026",
    "firstSeen": "2026-11-27T06:08:59+08:00"
+  },
+  {
+   "id": "5248f95f19",
+   "title": "Cloudflare Workers 负责人 Kenton Varda：每天收到几封求职自荐信，几乎全是 AI 智能体代写，「你那篇博客打动了我」式套话让定向邮件失去信任",
+   "summary": "Cloudflare 的 Kenton Varda 在 X 上说，以前求职者专门给他写邮件很少见，往往代表对方真心喜欢 Cloudflare Workers；现在每天收到好几封，他确信几乎都是 AI 智能体写的，常用「你关于某篇博客的文章引起了我的注意」这类模板。他表示用 AI 在公司常规招聘系统里投简历没问题，但他从不用 AI 过滤邮件，单独写给某人的邮件本来有一份隐性约定。帖子引发求职者与招聘方的大讨论：一方认为企业也在用 AI 筛人，算公平；另一方认为 AI 冷邮件正在毁掉一对一外联的信任。",
+   "links": [
+    "https://x.com/i/status/2125767584477790270",
+    "https://x.com/i/status/2125971862429565256"
+   ],
+   "topic": "kenton-varda-ai-written-job-cold-emails",
+   "firstSeen": "2026-11-27T06:30:46+08:00"
   }
  ],
- "lastChecked": "2026-11-27T06:08:59+08:00"
+ "lastChecked": "2026-11-27T06:30:46+08:00"
 }
