@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T21:02:01+08:00",
+ "lastUpdated": "2026-11-26T21:16:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55106,7 +55106,40 @@
    ],
    "topic": "claude-for-open-source-ultra",
    "firstSeen": "2026-11-26T21:02:01+08:00"
+  },
+  {
+   "id": "bd9bf8d9e6",
+   "title": "美国新规卡住中国大模型迭代：智谱 GLM-5.5 原定 11 月发布的 3 万亿参数版本或推迟到 2027 年初，月之暗面 Kimi K4 发版周期从 6 个月拉长到 12 个月",
+   "summary": "美国 11 月 19 日起要求海外数据中心向中国公司出租大规模 H100 级算力须申请许可证，堵住了「东南亚租卡」的路子；叠加对向 OpenAI、Anthropic 模型蒸馏的更严管控，据报道智谱 GLM-5.5 推迟到 2027 年初或更晚，Kimi K4 因失去海外算力转向谷歌、Meta 等替代方案，中国实验室靠快速迭代保持竞争力的节奏被拖慢。",
+   "links": [
+    "https://x.com/i/status/2125887732035867002",
+    "https://x.com/i/status/2125899930996740427"
+   ],
+   "topic": "us-chip-curbs-delay-glm55-kimi-k4",
+   "firstSeen": "2026-11-26T21:16:33+08:00"
+  },
+  {
+   "id": "f22b3d8b45",
+   "title": "Karpathy 用 Claude 桌面端不到 8 小时写出 4.5 万行代码的「美国策略地图」：把 GDP、就业、电厂、灾害等真实数据铺成 25 公里六边形网格，像玩《文明》",
+   "summary": "地图把 GDP 当金币产出、城市按产业分区（如圣何塞「科技园区」、底特律「汽车城」），包含 19 个交互视图、524 个都市区页面和县级数据浏览器，已公开可玩；网友随即做出新加坡版和 1870 年代历史版「Founding Fathers」，展示 AI 把公共数据快速变成交互式教育产品的能力。",
+   "links": [
+    "https://x.com/i/status/2125779541952246039",
+    "https://x.com/i/status/2125833108251394212"
+   ],
+   "topic": "karpathy-us-strategy-map-hex",
+   "firstSeen": "2026-11-26T21:16:33+08:00"
+  },
+  {
+   "id": "080817a589",
+   "title": "「The Last Boring Slide」刷屏 150 万次浏览：疑似未发布的 Claude Opus 5.6 一次生成从纯文字幻灯片演变成 Three.js 动画的交互演示",
+   "summary": "@fluxxrider 11 月 25 日晒出一份用测试者称为 Claude Opus 5.6 生成的交互式演示，从一张朴素幻灯片逐步展开成图形、视频和 Three.js 动画，讲述 AI 加速到 2070 年的故事，被赞「审美封神」；官方最新仍是 Opus 5.5，但多名用户称 11 月 24 日起已灰度拿到更强版本。",
+   "links": [
+    "https://x.com/i/status/2125787240467157288",
+    "https://x.com/i/status/2125910807943037163"
+   ],
+   "topic": "claude-opus-56-last-boring-slide",
+   "firstSeen": "2026-11-26T21:16:33+08:00"
   }
  ],
- "lastChecked": "2026-11-26T21:02:43+08:00"
+ "lastChecked": "2026-11-26T21:16:33+08:00"
 }
