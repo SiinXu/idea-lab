@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T08:58:32+08:00",
+ "lastUpdated": "2026-11-26T09:16:55+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54731,7 +54731,29 @@
    ],
    "topic": "denver-man-egg-attacks-waymo-30-times",
    "firstSeen": "2026-11-26T08:58:32+08:00"
+  },
+  {
+   "id": "0452d68d88",
+   "title": "逆向分析：TypeSafe 的「System One」判断模型 Jev 很可能是微调版 Qwen3.5-35B-A3B，冲上 HN 首页",
+   "summary": "Modaic 团队通过推理延迟特征（预填充速度、稀疏 MoE 行为）比对多个开源底座，推断以校准判断为卖点的 Jev 是基于 Qwen3.5-35B-A3B 微调；文章讨论自训「System One」模型时选对底座对成本和速度的决定性作用。",
+   "links": [
+    "https://modaic.dev/blog/latency-doesnt-lie",
+    "https://news.ycombinator.com/item?id=50648823"
+   ],
+   "topic": "jev-qwen35-latency",
+   "firstSeen": "2026-11-26T09:16:55+08:00"
+  },
+  {
+   "id": "5bb9d27ec8",
+   "title": "戴尔 Q3 营收 549 亿美元同比翻倍：AI 服务器收入 220 亿美元暴增 291%，AI 订单积压 1323 亿美元",
+   "summary": "戴尔 FY27 第三季度营收同比增 103%，ISG 收入 420 亿美元增 198%，AI Factory 客户达 7500 家，全年营收指引上调至 2020 亿美元；迈克尔·戴尔发帖称「世界对智能的需求正在加速」。",
+   "links": [
+    "https://x.com/i/status/2125379712948072778",
+    "https://x.com/i/status/2125343747969871959"
+   ],
+   "topic": "dell-q3fy27-ai-servers",
+   "firstSeen": "2026-11-26T09:16:55+08:00"
   }
  ],
- "lastChecked": "2026-11-26T08:58:32+08:00"
+ "lastChecked": "2026-11-26T09:16:55+08:00"
 }
