@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T04:28:57+08:00",
+ "lastUpdated": "2026-11-27T04:42:50+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55316,7 +55316,30 @@
    ],
    "topic": "mac-agent-browser-computer-use-16-tool-benchmark",
    "firstSeen": "2026-11-27T04:28:57+08:00"
+  },
+  {
+   "id": "32b6eb4d64",
+   "title": "Sber 开源 GigaChat 4：旗舰 708B MoE（激活 41B）用 MIT 协议放出权重，支持 100 万 token 上下文，快速和推理两种模式合在一个模型里",
+   "summary": "俄罗斯 Sber 11 月 26 日发布 GigaChat 4，有 708B（激活 41B）和 37B（激活 4B）两款模型，都支持百万 token 上下文、工具调用，并且快速回答和先推理再回答两种模式共用同一个检查点。708B 旗舰的权重以 MIT 协议放到 Hugging Face，提供 FP8、BF16、GGUF、基座和中间检查点，GitHub 上有完整技术报告；37B 只限个人非商业使用。发布当天正赶上普京在 Sber AI Journey 大会上呼吁发展「主权 AI」，X 上有人称它已超过整个欧盟 AI 产业，引发争议。",
+   "links": [
+    "https://giga.chat/blog/posts/gigachat-4",
+    "https://huggingface.co/ai-sage/GigaChat4-708B-A41B",
+    "https://github.com/salute-developers/gigachat4",
+    "https://x.com/i/status/2126003297421041744"
+   ],
+   "topic": "sber-gigachat-4-open-weights-708b",
+   "firstSeen": "2026-11-27T04:42:50+08:00"
+  },
+  {
+   "id": "a360a14d4c",
+   "title": "OpenRouter 用 2026 全年数据检验杰文斯悖论：token 越便宜用得越多这一规律目前仍成立，但最近几个月明显减弱",
+   "summary": "OpenRouter 官方分析了平台 2026 年的 token 用量、token 单价和总支出，回答 AI 是否存在「杰文斯悖论」：价格下降带来的用量增长足以让总支出上升。结论是目前仍成立，但近几个月的效应比年初弱。这正好接上此前「更便宜的 token 撑不起 5600 亿美元资本开支」的讨论，也和 AI 数据中心债务、信贷市场预警等话题一起，成为判断 AI 基础设施投资回报的新数据点。",
+   "links": [
+    "https://x.com/i/status/2125998076896920034"
+   ],
+   "topic": "openrouter-jevons-paradox-token-data-2026",
+   "firstSeen": "2026-11-27T04:42:50+08:00"
   }
  ],
- "lastChecked": "2026-11-27T04:28:57+08:00"
+ "lastChecked": "2026-11-27T04:42:50+08:00"
 }
