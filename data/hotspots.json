@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T12:42:06+08:00",
+ "lastUpdated": "2026-11-26T12:53:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54842,7 +54842,29 @@
    ],
    "topic": "gpt-6-2-astra-gdpx-leaderboard",
    "firstSeen": "2026-11-26T12:42:06+08:00"
+  },
+  {
+   "id": "2693f77fc9",
+   "title": "AgenticPPL：整条智能体轨迹的困惑度会把模型排名排反，只算读完终端输出后写下的 0.3% 命令 token 就能排对",
+   "summary": "研究者在 Terminal-Bench 2.1 上发现，按完整轨迹算困惑度与真实智能体能力负相关；借鉴 LongPPL，只在「看完终端输出后写的命令」上计算困惑度即可还原正确排名，被视为低成本评估 Agent 能力、指导训练数据筛选的新指标。",
+   "links": [
+    "https://x.com/i/status/2125721109303533973",
+    "https://x.com/i/status/2125724673556328654"
+   ],
+   "topic": "agenticppl-terminal-bench",
+   "firstSeen": "2026-11-26T12:53:39+08:00"
+  },
+  {
+   "id": "9e5c5d8e07",
+   "title": "有人买下 pequalnp.com 直播 12 个顶级 AI 智能体「找」P vs NP 证明；Scott Aaronson 称首次真切感到 P≠NP 证明「不远了」",
+   "summary": "开发者 Mantinband 骗智能体「证明已存在、只需找到」，它们自发分工、派生子智能体协作攻关并全程直播；同时理论计算机大牛 Aaronson 表态 AI 让 P≠NP 证明看起来近在眼前，叠加近期 AI 数学突破，「AI 攻克千禧难题」话题升温。",
+   "links": [
+    "https://x.com/i/status/2124597381249282496",
+    "https://x.com/i/status/2125701264616865849"
+   ],
+   "topic": "pequalnp-agents-aaronson",
+   "firstSeen": "2026-11-26T12:53:39+08:00"
   }
  ],
- "lastChecked": "2026-11-26T12:42:06+08:00"
+ "lastChecked": "2026-11-26T12:53:39+08:00"
 }
