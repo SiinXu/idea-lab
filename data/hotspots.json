@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T12:53:39+08:00",
+ "lastUpdated": "2026-11-26T13:40:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54864,7 +54864,28 @@
    ],
    "topic": "pequalnp-agents-aaronson",
    "firstSeen": "2026-11-26T12:53:39+08:00"
+  },
+  {
+   "id": "e9c05bceae",
+   "title": "华尔街日报：英伟达销售一把手 Jay Puri 与超微电脑高管 Cenly Chen 多年恋爱后结婚，正值超微争抢英伟达芯片并卷入走私指控",
+   "summary": "据现任和前任同事透露，黄仁勋的老部下 Puri 在超微竞争英伟达 AI 芯片配额期间与其高管交往，二人今年 3 月在 Big Sur 成婚；Chen 被做空机构 Muddy Waters 指涉协助向中国走私英伟达服务器。这是黄仁勋罢免复职风波后又一桩英伟达高管与客户的关系争议，公司治理风险持续发酵。",
+   "links": [
+    "https://x.com/i/status/2125784770235838615",
+    "https://x.com/i/status/2125793211881062910"
+   ],
+   "topic": "nvidia-jay-puri-supermicro-cenly-chen",
+   "firstSeen": "2026-11-26T13:40:59+08:00"
+  },
+  {
+   "id": "34f99a514e",
+   "title": "蚂蚁 Ling 团队发布 LingSante-Live：前台即时应答、后台深度推理的实时多模态健康陪伴架构，可在运动中全双工指导",
+   "summary": "LingSante-Live 把「快回应」和「慢思考」拆成前后台双通道，边感知用户正在进行的活动（如锻炼）边给出指导，并公开架构、四个演示和评测，指向 AI 健康助手从问答走向持续陪练。",
+   "links": [
+    "https://x.com/i/status/2125597171454300581"
+   ],
+   "topic": "ant-ling-lingsante-live",
+   "firstSeen": "2026-11-26T13:40:59+08:00"
   }
  ],
- "lastChecked": "2026-11-26T12:53:39+08:00"
+ "lastChecked": "2026-11-26T13:40:59+08:00"
 }
