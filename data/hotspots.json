@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T04:42:50+08:00",
+ "lastUpdated": "2026-11-27T05:01:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55339,7 +55339,19 @@
    ],
    "topic": "openrouter-jevons-paradox-token-data-2026",
    "firstSeen": "2026-11-27T04:42:50+08:00"
+  },
+  {
+   "id": "ec344ef827",
+   "title": "蚂蚁灵波 Robbyant 开源 LingBot-Navi 导航模型：机器人带「跨任务空间记忆」，用一句话描述目标就能自己找、自己规划路线，对场景越熟走得越快",
+   "summary": "蚂蚁旗下具身智能公司 Robbyant（灵波）开源 LingBot-Navi，基于 LingBot-Map 2.0 的可复用 3D 空间记忆：机器人探索时持续建记忆，之后的任务直接复用，减少重复搜索。它把历史场景、当前画面和自然语言串在一起，能做目标定位、图像定位、空间问答、路线预测和局部导航，用户只需描述目标，不用一步步指路。推理代码和模型权重以 Apache-2.0 发布在 GitHub 和 Hugging Face，同时开放 511 个重建办公场景的数据集。这是继 LingBot-VLA、LingBot-Touch 之后，蚂蚁具身智能开源系列的又一款。",
+   "links": [
+    "https://x.com/i/status/2126020732610302086",
+    "https://github.com/Robbyant/lingbot-navi",
+    "https://huggingface.co/robbyant/lingbot-navi"
+   ],
+   "topic": "robbyant-lingbot-navi-spatial-memory-open-source",
+   "firstSeen": "2026-11-27T05:01:20+08:00"
   }
  ],
- "lastChecked": "2026-11-27T04:42:50+08:00"
+ "lastChecked": "2026-11-27T05:01:20+08:00"
 }
