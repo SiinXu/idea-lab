@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T00:47:13+08:00",
+ "lastUpdated": "2026-11-27T01:10:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55227,7 +55227,18 @@
    ],
    "topic": "ledger-solana-clear-signing",
    "firstSeen": "2026-11-27T00:47:13+08:00"
+  },
+  {
+   "id": "0096618024",
+   "title": "腾讯混元开源 DFly2 投机解码草稿模型：直接复用主模型 KV 缓存，长上下文与智能体任务最高提速 4.2 倍，DeepSeek-V4.1-Flash 64K 吞吐 +81%",
+   "summary": "腾讯开源 Hy4 flash 的投机解码 drafter DFly2：每个草稿层直接读取目标模型的 KV 缓存和 top-k token 选择，无需额外 prefill、不占额外 KV 显存，草稿开销在任意上下文长度下保持不变。官方数据：Hy4 flash 智能体任务最高 4.2 倍加速，比同配方 DSpark 快约 30%、草稿接受率高 10.4%；在 64K 上下文下让 DeepSeek-V4.1-Flash 推理吞吐提升最高 81%，也适用于 GLM-5.3-Flash 等稀疏模型。代码和权重已放上 GitHub 与 Hugging Face。",
+   "links": [
+    "https://x.com/i/status/2125928146113585468",
+    "https://x.com/i/status/2125968859450802415"
+   ],
+   "topic": "tencent-dfly2-speculative-decoding",
+   "firstSeen": "2026-11-27T01:10:31+08:00"
   }
  ],
- "lastChecked": "2026-11-27T00:47:13+08:00"
+ "lastChecked": "2026-11-27T01:10:31+08:00"
 }
