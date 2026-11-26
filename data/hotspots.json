@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T13:40:59+08:00",
+ "lastUpdated": "2026-11-26T13:52:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54885,7 +54885,29 @@
    ],
    "topic": "ant-ling-lingsante-live",
    "firstSeen": "2026-11-26T13:40:59+08:00"
+  },
+  {
+   "id": "ab24ba808f",
+   "title": "Anthropic 把 Messages API 从 Python 整体迁到 Rust，大部分代码由 Claude 写：单请求 CPU 降约 70%、内存降 80%+，首 token 延迟降 20%",
+   "summary": "Anthropic 工程博客披露，2024 年初到 2026 年秋 API 流量暴涨约 1800 倍，倒逼重写核心服务；团队用旧服务做「真值」，让成组 Claude 智能体比对新旧版本差异并逐一修复，切换全程不停机，被视为 AI 主导大型生产系统重写的标杆案例。",
+   "links": [
+    "https://x.com/i/status/2125627317263466739",
+    "https://x.com/i/status/2125667586545517022"
+   ],
+   "topic": "anthropic-messages-api-rust-migration",
+   "firstSeen": "2026-11-26T13:52:53+08:00"
+  },
+  {
+   "id": "c1c22c9030",
+   "title": "「AI VPN」Venice 隐私承诺遭质疑：研究者扒出多数模型实际转给 Baseten、Fireworks 等第三方，一天经 OpenRouter 卖出 1130 亿 ZDR token",
+   "summary": "研究者 KTibow 等调查发现 Venice 18 个图像模型中 14 个经第三方推理商运行，并非自有算力；Venice 回应称标「Private」的模型确为零数据留存，标「Anonymous」的 Opus、GPT 等则应假定供应商会存储提示词。年入 2 亿美元的隐私 AI 平台再引「零留存到底靠不靠谱」讨论。",
+   "links": [
+    "https://x.com/i/status/2125766657213939943",
+    "https://x.com/i/status/2125819529871933473"
+   ],
+   "topic": "venice-ai-privacy-probe",
+   "firstSeen": "2026-11-26T13:52:53+08:00"
   }
  ],
- "lastChecked": "2026-11-26T13:40:59+08:00"
+ "lastChecked": "2026-11-26T13:52:53+08:00"
 }
