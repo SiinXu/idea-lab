@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T14:08:35+08:00",
+ "lastUpdated": "2026-11-26T14:25:04+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54919,7 +54919,18 @@
    ],
    "topic": "nvidia-halts-sea-server-shipments",
    "firstSeen": "2026-11-26T14:08:35+08:00"
+  },
+  {
+   "id": "8bf1664c9f",
+   "title": "开发者抛弃 Linux，用纯 x86-64 汇编写出 24KB 操作系统，内置 Qwen3-0.6B 开机 0.1 秒内直接进 AI 对话，比 Linux 上的 llama.cpp 最快快 54%",
+   "summary": "Alexey Fateev 的 asm-llm-os 仅 24,252 字节，不依赖 Linux、C、Rust 或 libc，74–94 毫秒引导进 64 位长模式、唤醒全部 CPU 核心，直接从物理内存映射 614MB 的 Q8 权重，通过 VGA、键盘和串口进行带 KV 缓存的多轮对话；被转发称「LLM 正把 50 年操作系统开发压缩成一篇文章长度的代码」。",
+   "links": [
+    "https://x.com/i/status/2125682626056839259",
+    "https://x.com/i/status/2125738915382563242"
+   ],
+   "topic": "asm-llm-os-24kb-qwen3",
+   "firstSeen": "2026-11-26T14:25:04+08:00"
   }
  ],
- "lastChecked": "2026-11-26T14:08:35+08:00"
+ "lastChecked": "2026-11-26T14:25:04+08:00"
 }
