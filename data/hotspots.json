@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T18:22:31+08:00",
+ "lastUpdated": "2026-11-26T18:38:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55062,7 +55062,18 @@
    ],
    "topic": "pakistan-claude-bomb-arrest",
    "firstSeen": "2026-11-26T18:22:31+08:00"
+  },
+  {
+   "id": "6237947233",
+   "title": "Vitalik 新长文《开源芯片设计浅探》：用 Verilog + Yosys/OpenROAD + SKY130 等开源 PDK 走完芯片设计全流程，主张开放可验证的硬件",
+   "summary": "Vitalik Buterin 发布博客，从写一个简单的有状态 Verilog 电路讲起，介绍用 Yosys、OpenROAD 做综合与布局布线，再在 SKY130、GF180 等开源工艺套件上生成可流片的版图，并以约 240 行实现 Keccak-256 的 leanSeal ASIC 为例。他认为真正的安全需要公开 GDS 文件、让第三方能检查硅片本身；开源芯片性能落后一代左右，但对钱包、IoT 等多数非 AI 场景已经够用。",
+   "links": [
+    "https://x.com/i/status/2125826087129358766",
+    "https://t.co/wHWMD0UwIy"
+   ],
+   "topic": "vitalik-open-source-chip-design",
+   "firstSeen": "2026-11-26T18:38:36+08:00"
   }
  ],
- "lastChecked": "2026-11-26T18:22:31+08:00"
+ "lastChecked": "2026-11-26T18:38:36+08:00"
 }
