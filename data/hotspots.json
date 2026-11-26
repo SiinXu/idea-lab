@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T21:16:33+08:00",
+ "lastUpdated": "2026-11-26T21:28:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55139,7 +55139,18 @@
    ],
    "topic": "claude-opus-56-last-boring-slide",
    "firstSeen": "2026-11-26T21:16:33+08:00"
+  },
+  {
+   "id": "f6ec94a423",
+   "title": "AI 智能体冲击 Zapier：分析 3000 个工作流发现低频任务用智能体跑贵 2.1 倍，Noah Kagan 发现自己 123 个 Zap 大多闲置，Zapier 押注 MCP 层自救",
+   "summary": "直接连接应用的 AI 智能体正在挤压 Zapier 这类自动化平台，有建设者认为 Zapier 是 Anthropic 或 OpenAI 收购获取上万集成的理想标的。Zapier 方面回应：智能体擅长思考，但跨 1 万多个应用的稳定重复动作仍由 Zapier 更可靠、更便宜，并在做 MCP 服务器和企业治理；也有创业者把 Zapier 换成 n8n + Claude 降本。行业共识正走向「智能体处理动态工作、Zapier 管稳定流程」的混合形态。",
+   "links": [
+    "https://x.com/i/status/2125856543690342764",
+    "https://x.com/i/status/2125590135227957619"
+   ],
+   "topic": "ai-agents-vs-zapier-mcp",
+   "firstSeen": "2026-11-26T21:28:32+08:00"
   }
  ],
- "lastChecked": "2026-11-26T21:16:33+08:00"
+ "lastChecked": "2026-11-26T21:28:32+08:00"
 }
