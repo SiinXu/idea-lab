@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T06:30:46+08:00",
+ "lastUpdated": "2026-11-27T06:39:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55384,7 +55384,18 @@
    ],
    "topic": "kenton-varda-ai-written-job-cold-emails",
    "firstSeen": "2026-11-27T06:30:46+08:00"
+  },
+  {
+   "id": "a62fca728e",
+   "title": "AI 债务亮红灯：CoreWeave 2031 年到期债券收益率约 17.9%，比 CCC+ 评级的赞比亚国债还高，CDS 隐含 5 年内违约概率超 70%",
+   "summary": "X 上热传 CoreWeave 债券数据：2031 年到期债券收益率约 17.91%，高于 CCC+ 评级的赞比亚 10 年期国债（约 16.34%）；另有帖子引用彭博报道称其 2032 年债券收益率从 6 月的 9.4% 升到 16.9%，信用违约互换隐含 5 年内违约概率超过 70%，英伟达、Alphabet、甲骨文、SpaceX 的违约保护成本也创纪录。市场核心疑问是：AI 基础设施的现金流能否在债务到期前到来。",
+   "links": [
+    "https://x.com/i/status/2125757454621282319",
+    "https://x.com/i/status/2125612300950458394"
+   ],
+   "topic": "coreweave-bond-yield-ai-debt-cds-warning",
+   "firstSeen": "2026-11-27T06:39:31+08:00"
   }
  ],
- "lastChecked": "2026-11-27T06:30:46+08:00"
+ "lastChecked": "2026-11-27T06:39:31+08:00"
 }
