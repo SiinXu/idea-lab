@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T14:25:04+08:00",
+ "lastUpdated": "2026-11-26T15:17:13+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54930,7 +54930,51 @@
    ],
    "topic": "asm-llm-os-24kb-qwen3",
    "firstSeen": "2026-11-26T14:25:04+08:00"
+  },
+  {
+   "id": "0e01e5db69",
+   "title": "NFS2ROOT：Linux 内核 NFS 服务端潜伏 12 年的免认证远程 root 漏洞（CVE-2026-99362，9.8 分），由 AI 安全智能体 Antara 自主打通利用链",
+   "summary": "OpenSec 披露：自 Linux 3.16（2014）起，内核 nfsd 在认证前解析网络输入，攻击者只需一条连到 tcp/2049 的 TCP 连接即可越界写 61 字节内核堆，串联后拿到 root shell；默认启用 NFSv4.1/4.2 的文件服务器、NAS、K8s 存储节点均受影响。已在 6.12.117、6.18.61、7.3.2、7.4-rc1 修复，未打补丁前应防火墙封锁 2049 端口。HN 首页 120+ 分。",
+   "links": [
+    "https://opensec.in/blog/nfs2root-cve-2026-99362",
+    "https://news.ycombinator.com/item?id=50647161"
+   ],
+   "topic": "nfs2root-cve-2026-99362",
+   "firstSeen": "2026-11-26T15:17:13+08:00"
+  },
+  {
+   "id": "8816d170be",
+   "title": "安全专家 Hanno Böck 公开批评 Ubuntu 修内核高危漏洞太慢：远程 TCP 内存破坏 NoisyTCP 公开 9 天仍无补丁，AMD KVM 逃逸也未修",
+   "summary": "oss-security 邮件列表帖子指出，NoisyTCP（CVE-2026-99288）11 月 16 日公开时其他发行版已有修复，Ubuntu 至今未发；11 月 18 日公开的 AMD 虚拟化 KVM 宿主逃逸（CVE-2026-99312）同样无补丁，此前另一个远程 TCP 漏洞也拖了数周且疑似已被在野利用。作者认为 Ubuntu 不跟 kernel.org 长期支持内核、自行回移补丁拖慢了响应。HN 首页近 250 分。",
+   "links": [
+    "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+    "https://news.ycombinator.com/item?id=50647181"
+   ],
+   "topic": "ubuntu-slow-kernel-security-response",
+   "firstSeen": "2026-11-26T15:17:13+08:00"
+  },
+  {
+   "id": "19f2f984a8",
+   "title": "《纽约时报》要求自由摄影师别升级 Photoshop 2027：新版 AI 功能「用得不明显」，可能让照片元数据被标成 AI 生成",
+   "summary": "The Verge 看到的内部邮件显示，纽时摄影负责人提醒自由摄影师不要使用最新版 Photoshop，因为新版的 AI Assisted Editor、提示词改图、AI 放大、自动重构图等功能会以用户不易察觉的方式介入，并在元数据中把照片标记为 AI 生成，危及新闻摄影真实性。HN 讨论 270+ 条。",
+   "links": [
+    "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "https://news.ycombinator.com/item?id=50647673"
+   ],
+   "topic": "nyt-photoshop-2027-ai-metadata",
+   "firstSeen": "2026-11-26T15:17:13+08:00"
+  },
+  {
+   "id": "23df494564",
+   "title": "minipg：把 PostgreSQL 做成单个可执行文件，一个 .pgdb 目录就是整个数据库，无需配置服务器或 Docker",
+   "summary": "Jeff Lindsay（progrium）发布 minipg：内嵌官方 postgres:18-alpine 镜像，借 Zig 写的 h9（Plan 9 内核）直接在宿主虚拟化层上运行 Alpine 的 Postgres 二进制，不用启动 Linux 内核、虚拟机镜像或 Docker；数据、配置、密码和版本都装在 .pgdb 目录里，用时自动起服务、闲置自动停，还能 minipg run 给应用注入 DATABASE_URL，并有浏览器内演示。",
+   "links": [
+    "https://progrium.github.io/minipg/",
+    "https://news.ycombinator.com/item?id=50650892"
+   ],
+   "topic": "minipg-postgres-single-executable",
+   "firstSeen": "2026-11-26T15:17:13+08:00"
   }
  ],
- "lastChecked": "2026-11-26T14:25:04+08:00"
+ "lastChecked": "2026-11-26T15:17:13+08:00"
 }
