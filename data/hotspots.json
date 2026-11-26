@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T23:38:45+08:00",
+ "lastUpdated": "2026-11-27T00:13:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55205,7 +55205,18 @@
    ],
    "topic": "google-gemini-bots-leak",
    "firstSeen": "2026-11-26T23:38:45+08:00"
+  },
+  {
+   "id": "15af2e299b",
+   "title": "OpenAI 承认 GPT-6.2 上线计费出错：Astra/Sol 用量被误打折，修复后额度消耗分别快 40% 和 25%，全员补一次「额度重置」",
+   "summary": "Codex 与 ChatGPT 负责人 Tibo Sottiaux 发文：GPT-6.2 发布时的计费错误让大多数订阅用户的 Astra 和 Sol 用量被误打折。现已修复，同样的工作量会更快耗尽套餐额度——与上周相比 Astra 快约 40%、Sol 快约 25%，但仍比 6 Astra / 6.1 Sol 更耐用；其他模型不受影响，过去的差额不追收。作为补偿，Go、Plus、Pro、Business 用户每人获得一次可存的额度重置，现已上线。",
+   "links": [
+    "https://x.com/i/status/2125784147889393806",
+    "https://x.com/i/status/2125853628250599730"
+   ],
+   "topic": "openai-gpt62-billing-fix-banked-reset",
+   "firstSeen": "2026-11-27T00:13:54+08:00"
   }
  ],
- "lastChecked": "2026-11-26T23:38:45+08:00"
+ "lastChecked": "2026-11-27T00:13:54+08:00"
 }
