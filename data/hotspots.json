@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T15:17:13+08:00",
+ "lastUpdated": "2026-11-26T15:59:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54974,7 +54974,40 @@
    ],
    "topic": "minipg-postgres-single-executable",
    "firstSeen": "2026-11-26T15:17:13+08:00"
+  },
+  {
+   "id": "03746de77f",
+   "title": "SpaceX 下调英伟达 GPU 出租价：小集群 Blackwell 现货降到每卡时 10–12 美元，Anthropic 不续租的 5 万张 H200 集群明年初起 5 美元/卡时对外出租",
+   "summary": "据 X 上的讨论，SpaceX 把较小集群的 Blackwell GPU 现货价从约 15–15.5 美元/卡时降到 10–12 美元，向给 Anthropic、谷歌等大客户的价格看齐；Anthropic 不再续租其 5 万张 H200 集群，SpaceX 计划 2027 年初起以每卡时 5 美元转租给他人。分析认为算力价格正在松动，同时 SpaceX 仍在推进 2027 年的轨道 AI 卫星计划。",
+   "links": [
+    "https://x.com/i/status/2125578664599302172",
+    "https://x.com/i/status/2125592874159046938"
+   ],
+   "topic": "spacex-gpu-rental-price-cut",
+   "firstSeen": "2026-11-26T15:59:28+08:00"
+  },
+  {
+   "id": "785c7f34d9",
+   "title": "谷歌 Antigravity 感恩节给全体用户重置 Gemini 额度：Gemini 4 Neon 用量全部回满，今年第 17 次全员刷新",
+   "summary": "Google DeepMind 的 Varun Mohan 宣布为所有 Antigravity 用户重置配额，Gemini 4 Neon 的编程和智能体用量恢复满额，团队成员号召大家假期继续开发。此时正值 OpenAI 修复计量漏洞、收紧 GPT-6.2 用量，两家在编程智能体额度上的反差引发讨论。",
+   "links": [
+    "https://x.com/i/status/2125851902009311306",
+    "https://x.com/i/status/2125853424801734981"
+   ],
+   "topic": "antigravity-thanksgiving-quota-reset",
+   "firstSeen": "2026-11-26T15:59:28+08:00"
+  },
+  {
+   "id": "322e87164b",
+   "title": "斯坦福物理学家 arXiv 新论文：从光锥出发对引力做代数量子化，在真实 4 维时空里复现黑洞熵和半经典爱因斯坦方程",
+   "summary": "预印本《An algebraic quantization of gravity from the null cone》于 11 月 23 日上线，用零锥（光锥）求解引力约束、构造非微扰希尔伯特空间，并复现黑洞熵等关键结果，被网友称为迈向自洽量子引力的重大进展；也有人质疑仍需同行评审，并注意到写作过程可能借助了 AI。",
+   "links": [
+    "https://x.com/i/status/2125809711509336342",
+    "https://x.com/i/status/2125824855371137475"
+   ],
+   "topic": "algebraic-quantum-gravity-null-cone",
+   "firstSeen": "2026-11-26T15:59:28+08:00"
   }
  ],
- "lastChecked": "2026-11-26T15:17:54+08:00"
+ "lastChecked": "2026-11-26T15:59:28+08:00"
 }
