@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T16:57:10+08:00",
+ "lastUpdated": "2026-11-26T18:13:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55029,7 +55029,29 @@
    ],
    "topic": "sensenova-roborsi-27b",
    "firstSeen": "2026-11-26T16:57:10+08:00"
+  },
+  {
+   "id": "1b1bd1dae7",
+   "title": "Mitchell Hashimoto 的 Rex 终端支持「重启后恢复程序」：联合 herdr 发布开放终端协议 OSC 7577，任何程序都能用普通转义序列声明重启方式",
+   "summary": "Rex 现在能在服务端重启后把正在运行的程序恢复回来，底层是新公开的 OSC 7577 协议，经多位终端模拟器与终端程序作者评审。它不依赖特定终端或带外通道，任何程序都可实现；Rex 首发内置 Claude Code 支持（在会话启动 hook 里发出 OSC 7577），并用 Lua 配置按程序逐个开启恢复，以控制安全风险。",
+   "links": [
+    "https://x.com/i/status/2125713695233970521",
+    "https://www.superlogical.com/rex/docs/build/program-resume"
+   ],
+   "topic": "rex-osc-7577",
+   "firstSeen": "2026-11-26T18:13:56+08:00"
+  },
+  {
+   "id": "136b273160",
+   "title": "Marcin Wichary 整理 69 份历代 UI 设计规范合集：从 1980 年代 Amiga、Mac 到 Android Material，附 PDF 与网页镜像存档",
+   "summary": "Aresluna 新上线的「UI style guides」收录各公司从 1980 年代至今的界面设计规范（interface guidelines），覆盖 Amiga Workbench、Android Design 与 Material Design 各版本等，提供原始 PDF、Internet Archive 和网站镜像链接，在 Hacker News 获得近 180 分，是做界面设计和设计史研究的现成资料库。",
+   "links": [
+    "https://aresluna.org/ui-style-guides/",
+    "https://news.ycombinator.com/item?id=50649834"
+   ],
+   "topic": "aresluna-ui-style-guides",
+   "firstSeen": "2026-11-26T18:13:56+08:00"
   }
  ],
- "lastChecked": "2026-11-26T16:57:10+08:00"
+ "lastChecked": "2026-11-26T18:13:56+08:00"
 }
