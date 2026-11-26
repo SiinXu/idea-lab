@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T03:15:03+08:00",
+ "lastUpdated": "2026-11-27T04:28:57+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55306,7 +55306,17 @@
    ],
    "topic": "amd-llama-cpp-rdna-boosts-fork",
    "firstSeen": "2026-11-27T03:15:03+08:00"
+  },
+  {
+   "id": "20ce334f12",
+   "title": "Matt Van Horn 在一台 Apple Silicon Mac 上实测 16 款智能体浏览器 / 电脑操控工具：冷门的 Ardia（3k 星）和 OpenCode browse 胜过 5.4 万星的 agent-browser 和 Stagehand，cua-driver 拿下原生 Mac 应用操控第一",
+   "summary": "Matt Van Horn 为了让 T3 Code 里的智能体少把活儿丢回给人，横评 16 款 agent 浏览器和 computer-use 工具。结论：浏览器选 Ardia + Cua，热加载最快 396 毫秒，没有 Chrome 授权弹窗和调试提示条，内置提示词注入防护，还支持 1Password 和 Touch ID 通行密钥；想留在 Chrome 就用 OpenCode browse，只占 18MB 内存，页面快照比 Stagehand 小 53 倍；操控原生 Mac 应用选 cua-driver，占 27MB 内存且不抢焦点，有 5 套方案底层都用它。云端隔离环境方面，Boat 1.9 秒（中位数）拉起 4 台 Ubuntu 虚拟机，成本 0.001 美元。文中还提到 MIT 等把桌面程序逆向成 MCP，让 FreeCAD 快 55 倍、token 少 35 倍。他说完整的 16 款工具评分表和配置提示词放在长文里。",
+   "links": [
+    "https://x.com/i/status/2125974014032323047"
+   ],
+   "topic": "mac-agent-browser-computer-use-16-tool-benchmark",
+   "firstSeen": "2026-11-27T04:28:57+08:00"
   }
  ],
- "lastChecked": "2026-11-27T03:15:03+08:00"
+ "lastChecked": "2026-11-27T04:28:57+08:00"
 }
