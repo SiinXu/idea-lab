@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T09:16:55+08:00",
+ "lastUpdated": "2026-11-26T09:29:02+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54753,7 +54753,17 @@
    ],
    "topic": "dell-q3fy27-ai-servers",
    "firstSeen": "2026-11-26T09:16:55+08:00"
+  },
+  {
+   "id": "88561823ce",
+   "title": "Neuralink 获 FDA 批准启动 LINK 关键性试验：美国首个植入式脑机接口 pivotal 试验，ALS 患者可报名",
+   "summary": "Neuralink 官方宣布 FDA 批准 LINK 试验，这是美国首个植入式脑机接口的关键性（注册前）临床试验，基于此前 30 多名受试者的经验，测试 N1 植入物的安全性和有效性；官宣帖数小时内超 29 万次浏览。",
+   "links": [
+    "https://x.com/neuralink/status/2125694580544680185"
+   ],
+   "topic": "neuralink-link-pivotal-fda",
+   "firstSeen": "2026-11-26T09:29:02+08:00"
   }
  ],
- "lastChecked": "2026-11-26T09:16:55+08:00"
+ "lastChecked": "2026-11-26T09:29:02+08:00"
 }
