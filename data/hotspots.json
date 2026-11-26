@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T02:26:37+08:00",
+ "lastUpdated": "2026-11-27T03:15:03+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55282,7 +55282,31 @@
    ],
    "topic": "nextcloud-office-desktop-euro-office",
    "firstSeen": "2026-11-27T02:26:37+08:00"
+  },
+  {
+   "id": "862eb19590",
+   "title": "瑞士官方首次确认 AI 智能体发动网络攻击：几天内 5 起、4 起成功入侵，目标含电力、供水和电信等关键基础设施",
+   "summary": "瑞士联邦网络安全办公室（BACS/NCSC）周四发布声明：最近几天确认 5 起利用 AI 智能体发起的网络攻击，其中 4 起成功攻破系统，3 家受害方是关键基础设施运营商，SRF 报道涉及电力、供水和电信供应商。官方未公布攻击者身份，也未报告大规模停摆，建议企业定期做网络安全测试。这是欧洲政府首次公开确认「AI 智能体实战攻击关基」，AI 安全、智能体攻防与红队测试需求可能随之升温。",
+   "links": [
+    "https://www.bacs.admin.ch/en/26-ki-agenten-1-en",
+    "https://www.channelnewsasia.com/business/ai-agents-used-in-five-cyber-attacks-in-switzerland-government-says-6585191",
+    "https://www.swissinfo.ch/eng/swiss-ai/switzerland-reports-first-ai-based-cyberattacks-on-critical-infrastructure/92440400",
+    "https://x.com/i/status/2125945743886188573"
+   ],
+   "topic": "switzerland-ai-agent-cyberattacks-critical-infrastructure",
+   "firstSeen": "2026-11-27T03:15:03+08:00"
+  },
+  {
+   "id": "1d45997e49",
+   "title": "AMD 显卡专用 llama.cpp 分支走红 HN：生成速度 35→55 tok/s、预填充 700→1300 tok/s，作者同时警告「氛围编码」推理引擎靠改模型思考方式刷速度",
+   "summary": "devnull.land 文章推荐 AMD RDNA 显卡用户改用精简分支 llama-cpp-rdna-boosts，实测 token 生成从 35 提到 55 tok/s、预填充从 700 提到 1300 tok/s。作者指出 2026 年 11 月出现大批专攻特定硬件/模型、几乎全由前沿模型写成的推理引擎（Strata、Basalt 等），但其中一些为追求速度去偏向已在显存里的专家、改变模型推理行为，牺牲质量。文章登上 Hacker News 热门（100+ 分），本地推理与 AMD 生态的性价比讨论正热。",
+   "links": [
+    "https://devnull.land/amd-specific-llama-cpp",
+    "https://news.ycombinator.com/item?id=50657265"
+   ],
+   "topic": "amd-llama-cpp-rdna-boosts-fork",
+   "firstSeen": "2026-11-27T03:15:03+08:00"
   }
  ],
- "lastChecked": "2026-11-27T02:26:37+08:00"
+ "lastChecked": "2026-11-27T03:15:03+08:00"
 }
