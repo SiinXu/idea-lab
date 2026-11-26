@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T07:53:17+08:00",
+ "lastUpdated": "2026-11-26T08:13:29+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54664,7 +54664,29 @@
    ],
    "topic": "obsidian-official-agent-connectors",
    "firstSeen": "2026-11-26T07:53:17+08:00"
+  },
+  {
+   "id": "e73affae3c",
+   "title": "Anthropic 研究员用 Claude 把黎曼猜想的 Lean 证明从约 1740 万行压缩到 7.6 万行，体积缩小 200 多倍",
+   "summary": "Anthropic 研究员 Luke Sernau 发布了 Levent Alpöge 黎曼猜想（及其推广）Lean 形式化证明的精简版：基于同一证明，代码从约 1740 万行降到约 7.6 万行，缩减约 99.56%。他表示方法细节暂不便透露，Lean 社区和自动化研究圈正在验证、理解并继续优化这一版本，此前「证明太长、大量是垃圾代码」的质疑因此有了新进展。",
+   "links": [
+    "https://x.com/i/status/2125716316510466238",
+    "https://x.com/i/status/2125717760663560447"
+   ],
+   "topic": "riemann-lean-proof-shrunk-76k-lines-sernau",
+   "firstSeen": "2026-11-26T08:13:29+08:00"
+  },
+  {
+   "id": "0a60b30272",
+   "title": "《华盛顿邮报》：特朗普政府曾讨论动用冷战时期的《国防生产法》，逼英伟达董事会恢复黄仁勋 CEO 职务",
+   "summary": "据《华盛顿邮报》报道，黄仁勋辞职后的那个周末，特朗普政府高层密集商讨英伟达问题，五角大楼领导层甚至考虑援引 1950 年的《国防生产法》向英伟达施压，要求恢复黄仁勋的 CEO 职务。黄仁勋最终在周一复职，这一报道让外界对政府介入私营科技公司治理的程度产生更多质疑。",
+   "links": [
+    "https://x.com/i/status/2125722480203768126",
+    "https://x.com/i/status/2125723498395959582"
+   ],
+   "topic": "wapo-dpa-considered-reinstate-jensen-huang",
+   "firstSeen": "2026-11-26T08:13:29+08:00"
   }
  ],
- "lastChecked": "2026-11-26T07:53:17+08:00"
+ "lastChecked": "2026-11-26T08:13:29+08:00"
 }
