@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T09:29:02+08:00",
+ "lastUpdated": "2026-11-26T09:41:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54763,7 +54763,18 @@
    ],
    "topic": "neuralink-link-pivotal-fda",
    "firstSeen": "2026-11-26T09:29:02+08:00"
+  },
+  {
+   "id": "43c31e43dd",
+   "title": "SpaceXAI 官网公开 19 份 Grok Bot 实战指南：按销售、工程、招聘等部门拆解内部 Bot 配置与例行任务，用户照搬组建 AI 员工团队",
+   "summary": "SpaceXAI 发布免费的 Grok Bot playbook 合集，覆盖入门、模板、创始人销售、售后等场景，附组织架构和人工审批环节；X 上有人把工程师 Lauren Tan「1 个总管 Bot + 3 个经理 + 16 个执行 Bot」的配置整理成可复制的组织图，一人公司和创始人纷纷跟进。",
+   "links": [
+    "https://x.com/i/status/2125295960494391554",
+    "https://x.com/i/status/2125325696914383054"
+   ],
+   "topic": "spacexai-grok-bot-playbooks",
+   "firstSeen": "2026-11-26T09:41:31+08:00"
   }
  ],
- "lastChecked": "2026-11-26T09:29:02+08:00"
+ "lastChecked": "2026-11-26T09:41:31+08:00"
 }
