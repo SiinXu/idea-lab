@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T18:38:36+08:00",
+ "lastUpdated": "2026-11-26T18:54:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55073,7 +55073,18 @@
    ],
    "topic": "vitalik-open-source-chip-design",
    "firstSeen": "2026-11-26T18:38:36+08:00"
+  },
+  {
+   "id": "64a870b6a9",
+   "title": "Command Code 推出「AI 界的 Costco」Moat 会员：每月 5 美元，不设 5 小时/周额度上限，按批发价调用 GLM-5.3、DeepSeek 等模型，主打替代 OpenRouter",
+   "summary": "Command Code 上线 Moat 会员制：会员集中采购数百万亿 token 换取批发价，每月 5 美元即可无 5 小时、周额度限制地调用各模型，官方称全部是满血权重并自测基准，每个模型只有一个价格，不必在上百家供应商里挑选；如 GLM-5.3 Flash 会员价比非会员便宜约 70%。另有 10 美元/月的 Goat 档，含 100 美元用量。该产品登上 Hacker News 首页。",
+   "links": [
+    "https://commandcode.ai/moat",
+    "https://news.ycombinator.com/item?id=50652184"
+   ],
+   "topic": "commandcode-moat",
+   "firstSeen": "2026-11-26T18:54:37+08:00"
   }
  ],
- "lastChecked": "2026-11-26T18:38:36+08:00"
+ "lastChecked": "2026-11-26T18:54:37+08:00"
 }
