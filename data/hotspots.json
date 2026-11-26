@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T22:26:42+08:00",
+ "lastUpdated": "2026-11-26T23:38:45+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55183,7 +55183,29 @@
    ],
    "topic": "github-anyps5-gta6",
    "firstSeen": "2026-11-26T22:26:42+08:00"
+  },
+  {
+   "id": "eb7fb98f42",
+   "title": "Cloudflare 推出 Search for Agents 测试版：一键开关就给网站加上 /.well-known/search 搜索端点，自动建索引、按 HTTP 查询直接返回 Markdown 原文段落，免费版也能用",
+   "summary": "Cloudflare 11 月 25 日上线 Search for Agents（beta）：任意站点开启后会在 /.well-known/search 暴露可被发现的搜索接口，自动索引站内内容，AI 智能体用简单 HTTP 请求就能拿到精确的 Markdown 段落；所有套餐含免费版均可用（有用量限制），原有 Bot 规则和防火墙照常生效。Atom.com 等早期用户已开启以提升被智能体发现的概率，对做 GEO 的站点是直接可用的新入口。",
+   "links": [
+    "https://x.com/i/status/2125930378066002388",
+    "https://x.com/i/status/2125962631794098492"
+   ],
+   "topic": "cloudflare-search-for-agents",
+   "firstSeen": "2026-11-26T23:38:45+08:00"
+  },
+  {
+   "id": "00ee3f4e2a",
+   "title": "谷歌被曝内测「Gemini Bots」：可创建并部署能独立执行任务的个性化 AI 智能体，现有 Gems 将迁移过去，疑似接入 NotebookLM",
+   "summary": "X 上的代码泄露显示谷歌正在打造 Gemini Bots：界面里出现机器人选择器、把现有 Gems 迁移过去的流程和操作审批机制，并有与 NotebookLM 集成的线索；宣传图用了星形 logo 和名为 Neon 的动漫角色。谷歌尚未官宣，但方向与近期推出的主动式 Gemini Tasks 一致。",
+   "links": [
+    "https://x.com/i/status/2125879076632273243",
+    "https://x.com/i/status/2125859484367294807"
+   ],
+   "topic": "google-gemini-bots-leak",
+   "firstSeen": "2026-11-26T23:38:45+08:00"
   }
  ],
- "lastChecked": "2026-11-26T22:26:42+08:00"
+ "lastChecked": "2026-11-26T23:38:45+08:00"
 }
