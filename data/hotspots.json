@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T08:30:59+08:00",
+ "lastUpdated": "2026-11-26T08:58:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54708,7 +54708,30 @@
    ],
    "topic": "opencode-psychoscript-pausable-js-runtime",
    "firstSeen": "2026-11-26T08:30:59+08:00"
+  },
+  {
+   "id": "276691da96",
+   "title": "CBS 调查：两家加州公司在采购英伟达最先进 AI 芯片，实际却由中国企业控股，其中一家还是英伟达美国「优选合作伙伴」",
+   "summary": "CBS News 调查发现，圣何塞的 RiCloud AI 和 Aivres（前身为浪潮旗下美国公司）都在购买英伟达顶级 AI 芯片，但母公司均为中国企业。其中一家是英伟达在美的「优选合作伙伴」，其中国母公司 CEO 毕业于军校；另一家则是在中国母公司被列入黑名单后改名。报道在黄仁勋复职、对华出口管制争议升温之际发布。",
+   "links": [
+    "https://x.com/i/status/2125738806766714888",
+    "https://x.com/i/status/2125737015258022321",
+    "https://x.com/i/status/2125735637752139910"
+   ],
+   "topic": "cbs-chinese-owned-california-nvidia-chip-buyers",
+   "firstSeen": "2026-11-26T08:58:32+08:00"
+  },
+  {
+   "id": "ba6ab076b6",
+   "title": "丹佛一男子专挑 Waymo 无人出租车下手：用交通锥把车困住再扔鸡蛋，已发生至少 30 起",
+   "summary": "据警方和 Waymo 方面说法，丹佛一名男子多次用交通锥挡住 Waymo 自动驾驶出租车，让车辆无法前进，随后从自己车里或步行朝车身砸鸡蛋，再迅速离开。Waymo 称此类事件已至少 30 次。Waymo 扩张到新城市后，居民对无人车的抵触与针对性破坏再次成为话题。",
+   "links": [
+    "https://x.com/i/status/2125730401582829661",
+    "https://x.com/i/status/2125744414291300640"
+   ],
+   "topic": "denver-man-egg-attacks-waymo-30-times",
+   "firstSeen": "2026-11-26T08:58:32+08:00"
   }
  ],
- "lastChecked": "2026-11-26T08:30:59+08:00"
+ "lastChecked": "2026-11-26T08:58:32+08:00"
 }
