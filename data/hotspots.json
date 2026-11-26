@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T16:12:59+08:00",
+ "lastUpdated": "2026-11-26T16:57:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55018,7 +55018,18 @@
    ],
    "topic": "unfair-growaf-x-growth-leaderboard",
    "firstSeen": "2026-11-26T16:12:59+08:00"
+  },
+  {
+   "id": "ecad8c1e32",
+   "title": "商汤开源具身模型 SenseNova-RoboRSI-27B：后训练全程没用真机数据，只靠仿真里多轮递归自我改进，RoboDojo 得分 34.7 超过 GPT-6 Astra（27.6）",
+   "summary": "Apache 2.0 开源的 SenseNova-RoboRSI-27B 在模型与训练环境上做了三轮递归自我改进；同一套权重只适配相机、状态和控制接口就能部署到 Piper、Piper X 机械臂，被认为是可信的仿真到真机迁移结果。配套的 VLA2Agent 估算每个动作监督目标成本约 0.02 美元，而跑完整智能体轨迹约 0.5 美元，具身训练数据成本有望大降。",
+   "links": [
+    "https://x.com/i/status/2125862758516478084",
+    "https://x.com/i/status/2125859503321292801"
+   ],
+   "topic": "sensenova-roborsi-27b",
+   "firstSeen": "2026-11-26T16:57:10+08:00"
   }
  ],
- "lastChecked": "2026-11-26T16:12:59+08:00"
+ "lastChecked": "2026-11-26T16:57:10+08:00"
 }
