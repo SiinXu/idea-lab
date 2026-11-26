@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T21:28:32+08:00",
+ "lastUpdated": "2026-11-26T21:37:43+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55150,7 +55150,18 @@
    ],
    "topic": "ai-agents-vs-zapier-mcp",
    "firstSeen": "2026-11-26T21:28:32+08:00"
+  },
+  {
+   "id": "85a2970eed",
+   "title": "蚂蚁 Ming-Image-0.2-Design 登顶 Artificial Analysis 开源权重文生图榜（Elo 1095）：海报、信息图、文字渲染最强，即将推出可拆成 35 个独立 RGBA 图层的 Layer 模型",
+   "summary": "蚂蚁集团 11 月 26 日发布开源图像模型 Ming-Image-0.2-Design，在 Artificial Analysis AA-Image-T2I v2.1 开源权重榜以 1095 Elo 排第一，擅长海报、信息图和清晰文字等设计任务，可直接输出透明背景的可编辑素材；配套的 Layer 模型能把一张图拆成 35 个独立 RGBA 图层，便于二次编辑和做动画，设计师认为能省去反复重新生成和画质劣化的麻烦。",
+   "links": [
+    "https://x.com/i/status/2125916926048358827",
+    "https://x.com/i/status/2125942341903253726"
+   ],
+   "topic": "ant-ming-image-02-design",
+   "firstSeen": "2026-11-26T21:37:43+08:00"
   }
  ],
- "lastChecked": "2026-11-26T21:28:32+08:00"
+ "lastChecked": "2026-11-26T21:37:43+08:00"
 }
