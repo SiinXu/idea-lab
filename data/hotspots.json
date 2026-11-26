@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T01:29:40+08:00",
+ "lastUpdated": "2026-11-27T02:26:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55249,7 +55249,40 @@
    ],
    "topic": "putin-ai-journey-2026-warning",
    "firstSeen": "2026-11-27T01:29:40+08:00"
+  },
+  {
+   "id": "c83866a1db",
+   "title": "「AI 治愈了几种疾病？」计数网站上线冲上 HN：答案是 0——至今没有一款 AI 发现的药物获 FDA/EMA 批准",
+   "summary": "diseasescuredbyai.com 用一个大大的 0 统计「被 AI 发现的疗法治愈的疾病数」：截至 2026 年 11 月，AI 发现的药物没有一款获 FDA 或 EMA 批准；到 2025 年 7 月共有 63 家公司的 117 个 AI 候选药进入人体试验，只有 Rentosertib（肺纤维化）进入 III 期。页面还列出计数变成 1 需要满足的条件（靶点和分子都由 AI 选出、获监管批准、真正治愈），对照 AI 制药市场 2025 年 69.3 亿美元的规模，在 Hacker News 引发对 AI 医疗叙事的讨论。",
+   "links": [
+    "https://diseasescuredbyai.com/",
+    "https://news.ycombinator.com/item?id=50657307"
+   ],
+   "topic": "diseases-cured-by-ai-counter-zero",
+   "firstSeen": "2026-11-27T02:26:37+08:00"
+  },
+  {
+   "id": "18cfa8107c",
+   "title": "The Register：英伟达把液冷入口温度提到 45°C，数据中心冷水机组可能就此被淘汰，制冷能耗降 50–70%、用水降 80–95%",
+   "summary": "Dan Olds 在 SC26 观察后撰文：英伟达今年给出的 45°C 液冷入口温度意味着大多数地区只用屋顶干冷器（高温时加绝热辅助）就够，不再需要昂贵、耗电、维护重的冷水机组。按厂商与公开估算，制冷能耗可比传统冷水机+冷却塔方案降低 50%–70%，整体数据中心用电降 10%–20%，用水降 80%–95%；液冷行业正出现大型工业供应商收购先行者的整合潮，AMD、Intel、Arm 预计会跟进。",
+   "links": [
+    "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+    "https://news.ycombinator.com/item?id=50655278"
+   ],
+   "topic": "nvidia-45c-inlet-kills-datacenter-chiller",
+   "firstSeen": "2026-11-27T02:26:37+08:00"
+  },
+  {
+   "id": "de9c79db32",
+   "title": "Nextcloud Office 桌面版上线：基于欧洲主权办公套件 Euro-Office，免费开源、可离线，支持 Windows/macOS/Linux",
+   "summary": "Nextcloud 推出由 Euro-Office 驱动的 Nextcloud Office Desktop 应用正式版：免费开源，可离线编辑文档，与浏览器中的 Nextcloud Hub 无缝切换并协同编辑，强调对微软 Office 文件的高兼容性。Euro-Office 是在欧洲开发和治理的主权协作办公套件，今年 6 月发布首个生产版本，这一桌面版今天登上 Hacker News 热门，契合欧洲去美国云依赖的趋势。",
+   "links": [
+    "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+    "https://news.ycombinator.com/item?id=50654289"
+   ],
+   "topic": "nextcloud-office-desktop-euro-office",
+   "firstSeen": "2026-11-27T02:26:37+08:00"
   }
  ],
- "lastChecked": "2026-11-27T01:29:40+08:00"
+ "lastChecked": "2026-11-27T02:26:37+08:00"
 }
