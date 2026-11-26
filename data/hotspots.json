@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T08:13:29+08:00",
+ "lastUpdated": "2026-11-26T08:30:59+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54686,7 +54686,29 @@
    ],
    "topic": "wapo-dpa-considered-reinstate-jensen-huang",
    "firstSeen": "2026-11-26T08:13:29+08:00"
+  },
+  {
+   "id": "d0f971871f",
+   "title": "比尔·盖茨警告开源 AI 会让银行、医院、电网未来几年「如同地狱」：开源权重模型能快速找漏洞还能去掉安全护栏，替换老旧软件要约 5 年",
+   "summary": "盖茨在接受《金融时报》采访时表示，医院、电网、银行都依赖非常复杂的软件，先进的开源权重模型让人能快速探测漏洞，并能彻底移除安全限制，网络攻击可能激增。他认为用 AI 重写这些系统要花大约五年，即使全力以赴也来不及。言论引发开源与安全之争，也有人质疑这些警告来得太晚。",
+   "links": [
+    "https://x.com/i/status/2125521134623879229",
+    "https://x.com/i/status/2125655461836075268"
+   ],
+   "topic": "bill-gates-open-source-ai-infrastructure-cyber-risk",
+   "firstSeen": "2026-11-26T08:30:59+08:00"
+  },
+  {
+   "id": "754bc5a2a0",
+   "title": "OpenCode 把 CodeMode 背后的运行时拆成独立项目 Psychoscript：无需 wasm 直接执行 JavaScript，还能在执行中途暂停和恢复",
+   "summary": "开源编程智能体 OpenCode 将驱动其 CodeMode 的运行时单独开源为 npm 包 Psychoscript，可直接执行 JS 并在任意时刻暂停、恢复。团队称 OpenCode 桌面版正转向全原生，用它在不嵌入完整 JS 引擎的情况下支持 JS 插件；Rust 实现也在开发中，iOS 版已能演示智能体实时生成小应用。",
+   "links": [
+    "https://x.com/i/status/2125702030832349374",
+    "https://x.com/i/status/2125703538995274106"
+   ],
+   "topic": "opencode-psychoscript-pausable-js-runtime",
+   "firstSeen": "2026-11-26T08:30:59+08:00"
   }
  ],
- "lastChecked": "2026-11-26T08:13:29+08:00"
+ "lastChecked": "2026-11-26T08:30:59+08:00"
 }
