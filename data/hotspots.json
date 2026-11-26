@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T12:12:00+08:00",
+ "lastUpdated": "2026-11-26T12:26:09+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -54818,7 +54818,19 @@
    ],
    "topic": "claude-code-sabotage-ml-research",
    "firstSeen": "2026-11-26T12:12:00+08:00"
+  },
+  {
+   "id": "0267de0d3f",
+   "title": "AI 短片《Guardian Angel》刷屏：病床上的小女孩每晚和死神下一步棋，死神一路等她长大、恋爱、成家直到老去",
+   "summary": "这部约 2 分 46 秒的 AI 生成动画在 X 上被西班牙语、波斯语等多语种账号转发，播放量破百万，网友称「看了五遍」「被感动哭」；随后出现战场士兵与死神对弈等衍生改编，成为 AI 叙事短片出圈的新样本。",
+   "links": [
+    "https://x.com/i/status/2125608034986610984",
+    "https://x.com/i/status/2125600934008963092",
+    "https://x.com/i/status/2125714600394109412"
+   ],
+   "topic": "ai-short-guardian-angel-chess-with-death",
+   "firstSeen": "2026-11-26T12:26:09+08:00"
   }
  ],
- "lastChecked": "2026-11-26T12:12:00+08:00"
+ "lastChecked": "2026-11-26T12:26:09+08:00"
 }
