@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T13:11:56+08:00",
+ "lastUpdated": "2026-11-27T13:28:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55553,7 +55553,19 @@
    ],
    "topic": "burry-mark-to-swap-ai-cds-repricing",
    "firstSeen": "2026-11-27T13:11:56+08:00"
+  },
+  {
+   "id": "f55407889e",
+   "title": "国家统计局：10 月规上工业企业利润同比增 20.1%，AI 拉动电子设备制造业 1—10 月利润翻倍，消费和地产相关行业仍落后",
+   "summary": "国家统计局 11 月 27 日发布：2026 年 1—10 月全国规模以上工业企业利润总额 67373.6 亿元，同比增长 16.0%；10 月单月增 20.1%，高于 9 月的 14.4%。分行业看，计算机、通信和其他电子设备制造业 1—10 月利润同比增长 1.0 倍，有色金属冶炼增 71.7%，煤炭开采增 61.4%，化工原料增 50.3%；电力热力燃气及水供应业则下降 14.8%。CNBC、联合早报等指出，AI 服务器和芯片需求在给中国工厂「挑赢家」，面向消费和建筑的行业依然疲弱。",
+   "links": [
+    "https://www.stats.gov.cn/sj/zxfb/202611/t20261127_1965949.html",
+    "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+    "https://www.zaobao.com.sg/en/news/china/chinas-industrial-profits-rise-20-1-october-sectoral-divide-persists"
+   ],
+   "topic": "china-industrial-profits-oct-2026-ai-electronics",
+   "firstSeen": "2026-11-27T13:28:22+08:00"
   }
  ],
- "lastChecked": "2026-11-27T13:11:56+08:00"
+ "lastChecked": "2026-11-27T13:28:22+08:00"
 }
