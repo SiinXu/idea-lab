@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T16:02:27+08:00",
+ "lastUpdated": "2026-11-27T16:22:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55642,7 +55642,18 @@
    ],
    "topic": "jera-anthropic-meta-tokyo-power-plant-datacenters",
    "firstSeen": "2026-11-27T16:02:27+08:00"
+  },
+  {
+   "id": "e3d9fa231b",
+   "title": "欧盟委员会表态：浏览器竞争是《数字市场法》的优先事项，正在推动 iPhone/iPad 上的第三方浏览器真正和 Safari 竞争",
+   "summary": "开放网络倡导组织 Open Web Advocacy（OWA）联合人权、消费者权益、自由软件组织，以及欧洲主要出版协会、创业组织和独立浏览器厂商，发出公开信，要求欧盟让 iOS 上出现真正的浏览器和 Web App 竞争。欧盟委员会在回应 Politico 时称，浏览器「实际上是进入网络的入口」，也是出版商触达读者的主要渠道之一，「浏览器竞争是《数字市场法》（DMA）的优先事项之一」，并表示正在沟通，确保竞品浏览器能在 iPhone、iPad 上与 Safari「有效竞争」。如果 iOS 真正放开非 WebKit 内核和 Web App 能力，Web 应用和独立浏览器（如刚发布 alpha 的 Ladybird）在欧洲会迎来新机会。",
+   "links": [
+    "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+    "https://news.ycombinator.com/item?id=50664191"
+   ],
+   "topic": "eu-dma-browser-competition-priority-ios",
+   "firstSeen": "2026-11-27T16:22:31+08:00"
   }
  ],
- "lastChecked": "2026-11-27T16:02:27+08:00"
+ "lastChecked": "2026-11-27T16:22:31+08:00"
 }
