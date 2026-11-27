@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T23:56:44+08:00",
+ "lastUpdated": "2026-11-28T00:16:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55799,7 +55799,17 @@
    ],
    "topic": "bouncemarket-showhn-2026-11",
    "firstSeen": "2026-11-27T23:56:44+08:00"
+  },
+  {
+   "id": "7986965703",
+   "title": "Tailwind 作者 Adam Wathan 自曝：至今没找到用 AI 实质加速设计工作的方法，每个设计决策花的时间和 2021 年一样，引发「AI 编程 vs AI 设计」大讨论",
+   "summary": "Tailwind CSS 作者 Adam Wathan 在 X 上坦言，自己还没摸清怎么用 AI 真正提速设计：显示哪些信息、用弹窗还是整页、即时保存还是确认按钮，这些决策依旧耗时，甚至让他觉得「自己老了」。帖子获得近 18 万曝光、1700+ 点赞和 300+ 回复，Shape Up 作者 Ryan Singer 等人也加入讨论。核心信号：AI 已大幅加速写代码和样式，但产品/交互决策仍是瓶颈——面向「设计决策辅助」的工具和工作流存在明显空白。",
+   "links": [
+    "https://x.com/adamwathan/status/2125974928327369009"
+   ],
+   "topic": "adam-wathan-ai-design-decisions-2026-11",
+   "firstSeen": "2026-11-28T00:16:42+08:00"
   }
  ],
- "lastChecked": "2026-11-27T23:56:44+08:00"
+ "lastChecked": "2026-11-28T00:16:42+08:00"
 }
