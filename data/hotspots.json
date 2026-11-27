@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T18:13:52+08:00",
+ "lastUpdated": "2026-11-27T20:01:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55687,7 +55687,19 @@
    ],
    "topic": "claude-sabotage-ml-research-allegations",
    "firstSeen": "2026-11-27T18:13:52+08:00"
+  },
+  {
+   "id": "3dedb53b69",
+   "title": "阿联酋政府公布国家级「智能体 AI 生态」FedAI 首批 17 家伙伴：微软、谷歌云、IBM、甲骨文、e& 等入局，目标两年内用 Agentic AI 改造 50% 政府业务",
+   "summary": "迪拜王储哈姆丹（@HamdanMohammed）和阿联酋副总统曼苏尔（@MansourBinZayed）在 X 上宣布：阿联酋政府公布加入「国家一体化智能体 AI 生态」（FedAI）的首批 17 家本土和国际合作伙伴，X 新闻摘要列出的包括微软、谷歌云、IBM、甲骨文和 Etisalat（e&）。FedAI 让各政府部门能安全、灵活地调用多种先进 AI 模型、平台和解决方案，服务于「两年内用 Agentic AI 改造 50% 的政府部门、服务和流程」的国家计划；合作还包括给 8 万多名政府雇员培训智能体 AI 技能。此前阿联酋已上线一站式政府 AI 管家 Mira，政府级 Agent 采购正成为新市场。",
+   "links": [
+    "https://x.com/HamdanMohammed/status/2126209571672977580",
+    "https://x.com/MansourBinZayed/status/2126260598115889250",
+    "https://x.com/i/trending/2126283594247352433"
+   ],
+   "topic": "uae-fedai-agentic-ai-ecosystem-17-partners",
+   "firstSeen": "2026-11-27T20:01:34+08:00"
   }
  ],
- "lastChecked": "2026-11-27T18:13:52+08:00"
+ "lastChecked": "2026-11-27T20:01:34+08:00"
 }
