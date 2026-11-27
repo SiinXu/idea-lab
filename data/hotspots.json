@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T23:16:14+08:00",
+ "lastUpdated": "2026-11-27T23:26:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55777,7 +55777,18 @@
    ],
    "topic": "iran-mehr-ai-video-bigtech-2026-11",
    "firstSeen": "2026-11-27T23:16:14+08:00"
+  },
+  {
+   "id": "01cdd83d3c",
+   "title": "历史学家实测 GPT-6.2 Astra：22 分钟内自主查明耶鲁拜内克图书馆一本 1808 年匿名速写本的作者，还挖出一份毛皮贸易史的新史料",
+   "summary": "历史学家 Mark Humphries 在 Substack「Generative History」发文：他 10 月底起在 ChatGPT 桌面端提前测试 OpenAI 的 GPT-6.2 Astra，让它确认耶鲁大学拜内克古籍善本图书馆所藏一本 1808 年匿名速写本的作者。模型只用公开的一手和二手资料，22 分钟内就提出假设，在纸质档案里找到一份鲜为人知的文献，预言这份文献能证实假设，结果确实证实了。这份文献本身对加拿大史和毛皮贸易史研究也是重要发现。他还让模型利用账本内部的算术关系，对照 353 张图片核对并修正一份 8002 行的手写账本转录。作者认为，「AI 自主做研究」正从数学这类确定性领域扩展到历史这样的非确定性领域。文章已上 HN。",
+   "links": [
+    "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+    "https://news.ycombinator.com/item?id=50667744"
+   ],
+   "topic": "gpt62-astra-history-sketchbook-2026-11",
+   "firstSeen": "2026-11-27T23:26:24+08:00"
   }
  ],
- "lastChecked": "2026-11-27T23:16:14+08:00"
+ "lastChecked": "2026-11-27T23:26:24+08:00"
 }
