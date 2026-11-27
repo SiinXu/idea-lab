@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T09:54:44+08:00",
+ "lastUpdated": "2026-11-27T10:39:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55495,7 +55495,18 @@
    ],
    "topic": "fcc-spacex-million-satellite-space-datacenters-eso",
    "firstSeen": "2026-11-27T09:54:44+08:00"
+  },
+  {
+   "id": "f809947e58",
+   "title": "黑五硬盘反而更贵：20TB WD EasyStore 两年前 249.99 美元，今年黑五「特价」549.99 美元，每 TB 从 12.5 涨到 27.5 美元，自托管玩家开始缩减硬盘数量",
+   "summary": "自托管博主 Alex Kretzschmar（ktz.me）翻出 2018 年以来的黑五购盘收据：2023 年 10 月 18TB 硬盘每 TB 只要 11.11 美元，2024 年 11 月 20TB WD EasyStore 卖 249.99 美元；而今年 Best Buy 同款黑五促销价却是 549.99 美元，每 TB 27.5 美元，翻了一倍多。翻新企业级硬盘渠道也不再便宜。他打算把服务器从 10 块盘缩到 5 块 20TB 盘，硬着头皮重建 ZFS 存储池。文章登上 HN，与此前内存涨价推高树莓派、拖累手机销量的消息一起，反映消费级存储硬件持续涨价。",
+   "links": [
+    "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+    "https://news.ycombinator.com/item?id=50661646"
+   ],
+   "topic": "black-friday-hard-drive-prices-doubled",
+   "firstSeen": "2026-11-27T10:39:42+08:00"
   }
  ],
- "lastChecked": "2026-11-27T09:54:44+08:00"
+ "lastChecked": "2026-11-27T10:39:42+08:00"
 }
