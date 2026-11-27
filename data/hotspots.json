@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T10:39:42+08:00",
+ "lastUpdated": "2026-11-27T12:24:35+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55506,7 +55506,31 @@
    ],
    "topic": "black-friday-hard-drive-prices-doubled",
    "firstSeen": "2026-11-27T10:39:42+08:00"
+  },
+  {
+   "id": "a39051ff58",
+   "title": "彭博：SAP 拟为 AI 转型裁员至少 1 万人、约占全球员工 9%，产品、工程和销售团队首当其冲",
+   "summary": "彭博 11 月 26 日援引知情人士报道，欧洲最大软件公司 SAP 正筹划一项 AI 时代重组计划，至少裁撤 1 万个岗位，约占全球员工的 9%，主要涉及产品、工程和销售部门。最终人数尚未敲定，可能在与工会谈判后调整；SAP 未予确认。路透、The Next Web、《纽约邮报》跟进，爱尔兰媒体担忧当地岗位受波及。这是继育碧强推生成式 AI 等消息后，又一家传统软件巨头以 AI 为由大规模调整人力。",
+   "links": [
+    "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
+    "https://www.reuters.com/5f374b32b07b/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/",
+    "https://thenextweb.com/news/sap-job-cuts-10000-ai-restructuring-bloomberg",
+    "https://x.com/i/status/2125996278089658444"
+   ],
+   "topic": "sap-10000-job-cuts-ai-restructuring",
+   "firstSeen": "2026-11-27T12:24:35+08:00"
+  },
+  {
+   "id": "9c5de8d398",
+   "title": "xAI 被曝用 C/C++ 加少量汇编从零重写 Grok 训练与推理栈：弃用 JAX 和 SGLang，2.5 万亿参数 Grok 4.8 预训练已在新栈上完成",
+   "summary": "X 上一篇长帖整理称，xAI 把 Grok 训练和推理的核心栈从零重写，主体用 C，辅以 C++ 和少量直接操作英伟达 SM 的汇编，训练端不再用 JAX、推理端不再用 SGLang，目标是提高 GB300 级硬件上的 MFU、降低延迟和每步算力成本。帖子称约 2.5 万亿参数的 Grok 4.8 已在新栈上完成预训练，正在做强化学习。马斯克在相关讨论中回复「You'll see」。相比 Claude、GPT、Gemini 普遍依赖 PyTorch/JAX 等高层框架，这种做法极为少见，但能否转化为更好的模型仍待验证。",
+   "links": [
+    "https://x.com/i/status/2126100962221982066",
+    "https://x.com/elonmusk/status/2126063829398573212"
+   ],
+   "topic": "xai-grok-stack-rewrite-c-cpp",
+   "firstSeen": "2026-11-27T12:24:35+08:00"
   }
  ],
- "lastChecked": "2026-11-27T10:39:42+08:00"
+ "lastChecked": "2026-11-27T12:24:35+08:00"
 }
