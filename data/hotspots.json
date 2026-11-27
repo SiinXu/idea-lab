@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T12:24:35+08:00",
+ "lastUpdated": "2026-11-27T12:41:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55530,7 +55530,19 @@
    ],
    "topic": "xai-grok-stack-rewrite-c-cpp",
    "firstSeen": "2026-11-27T12:24:35+08:00"
+  },
+  {
+   "id": "9120ea836f",
+   "title": "Anthropic 员工政治献金遭 X 上围攻：AnthroPAC 已向两党国会候选人捐出约 19.8 万美元，批评者称「喊暂停 AI 的议员都拿了 Anthropic 的钱」",
+   "summary": "Anthropic 员工出资的政治行动委员会 AnthroPAC（FEC 编号 C00946111）截至 10 月 14 日募得约 40.4 万美元、支出约 32.2 万美元；按 Transformer 选举追踪站 11 月 26 日的数据，已向两党国会候选人直接捐款约 19.8 万美元，包括共和党参议员 Risch 7500 美元，以及舒默、希夫、坎特韦尔等多名民主党人各 3500 美元。11 月 27 日 X 上有帖子贴出名单，称「任何谈论暂停 AI 的两党政客多半拿了 Anthropic 的钱」，引发加速派转发围攻。同时 Dario Amodei 刚发长文否认「让超级智能替人类做公共决策」的传闻，AI 公司的政治影响力成了新的舆论战场。",
+   "links": [
+    "https://www.fec.gov/data/committee/C00946111/",
+    "https://elections.transformernews.ai/pacs/C00946111",
+    "https://x.com/i/status/2126134031448252851"
+   ],
+   "topic": "anthropic-employee-pac-donations-backlash",
+   "firstSeen": "2026-11-27T12:41:00+08:00"
   }
  ],
- "lastChecked": "2026-11-27T12:24:35+08:00"
+ "lastChecked": "2026-11-27T12:41:00+08:00"
 }
