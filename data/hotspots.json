@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T06:09:53+08:00",
+ "lastUpdated": "2026-11-28T06:25:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56003,7 +56003,29 @@
    ],
    "topic": "patients-reject-ai-consent-form-medical-scribe-2026-11",
    "firstSeen": "2026-11-28T06:09:53+08:00"
+  },
+  {
+   "id": "7587fccb61",
+   "title": "美国特拉华州拟于明年 1 月提交立法，允许 AI 智能体独立经营公司、无需人类董事，人类所有者或可免于担责",
+   "summary": "Polymarket 发帖称特拉华州将在明年 1 月推出立法，允许 AI 智能体自行运营公司，可能为其人类所有者提供责任隔离，约 42 万曝光、5300+ 赞；Kalshi 同步跟进（约 25 万曝光）。X 新闻摘要称，这源于该州人工智能委员会 2026 年 6 月的一份草案，提出「人工智能公司（AIC）」这一新实体形态。信号：「智能体即法人」进入立法议程，围绕 AI 公司的注册代办、合规审计、责任保险、智能体身份与支付账户的服务会出现新需求。",
+   "links": [
+    "https://x.com/Polymarket/status/2126343792856891828",
+    "https://x.com/Kalshi/status/2126358440599568800"
+   ],
+   "topic": "delaware-ai-run-companies-aic-law-2026-11",
+   "firstSeen": "2026-11-28T06:25:31+08:00"
+  },
+  {
+   "id": "88f256d784",
+   "title": "Michael Nielsen 下架自己的经典免费教材《神经网络与深度学习》，并发文阐述对 AI 风险的担忧",
+   "summary": "物理学家、量子计算教材作者 Michael Nielsen 发帖称已撤下他 2011–2015 年写的免费在线书《Neural Networks and Deep Learning》，约 20 万曝光、1700+ 赞；牛津哲学家 Toby Ord 转发其配套短文，称其以「一贯的道德清晰」讨论当下 AI 局势。X 新闻摘要称，他写书时 AGI 似乎还很遥远，如今出于对 AI 灾难性风险的担忧而下架。信号：顶级 AI 教育者开始以行动表达安全立场，AI 安全叙事正从研究圈扩散到教育和开源内容领域。",
+   "links": [
+    "https://x.com/michael_nielsen/status/2126359767362748777",
+    "https://x.com/tobyordoxford/status/2126367403726749797"
+   ],
+   "topic": "michael-nielsen-takes-down-nn-book-ai-risk-2026-11",
+   "firstSeen": "2026-11-28T06:25:31+08:00"
   }
  ],
- "lastChecked": "2026-11-28T06:09:53+08:00"
+ "lastChecked": "2026-11-28T06:25:31+08:00"
 }
