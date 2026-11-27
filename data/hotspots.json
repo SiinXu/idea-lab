@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T06:25:31+08:00",
+ "lastUpdated": "2026-11-28T07:46:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56025,7 +56025,29 @@
    ],
    "topic": "michael-nielsen-takes-down-nn-book-ai-risk-2026-11",
    "firstSeen": "2026-11-28T06:25:31+08:00"
+  },
+  {
+   "id": "98e62d36d5",
+   "title": "Greg Isenberg 观察到新趋势：创业者拿 VC 的钱经营个人影响力，项目失败后转做全职创作者、年入 50 万至 500 万美元并自举孵化新产品",
+   "summary": "Greg Isenberg 发帖总结一条新路径：融资 → 用风投资金「公开构建」积累受众 → 创业失败 → 退回全职创作者、年收入 50 万–500 万美元 → 用自有流量自举孵化新产品、不再融资。帖子约 13.6 万曝光、1900+ 赞；Adobe 前 CPO Scott Belsky 回复称「这类 VC 补贴很多，只是很少被讨论，但很普遍」。信号：受众是独立开发者最耐久的资产，「先建账号矩阵、再在受众之上孵化产品」的打法越来越被认可，相关的创作者增长工具和受众变现基础设施有需求。",
+   "links": [
+    "https://x.com/gregisenberg/status/2126356350875709581",
+    "https://x.com/scottbelsky/status/2126364099550572724"
+   ],
+   "topic": "isenberg-vc-funded-founders-become-creators-2026-11",
+   "firstSeen": "2026-11-28T07:46:41+08:00"
+  },
+  {
+   "id": "d6a48f623b",
+   "title": "印度 18 岁开发者用 OCR 把北方邦 68 万份选民名册 PDF 变成可搜索数据库，被指未经同意把选民数据发给 Claude，引发隐私争议",
+   "summary": "据 @india_plus_ 发帖（约 125 万曝光），18 岁的 Sarthak Sidhant 及其 s1d labs 团队用 OCR 处理了北方邦全部 403 个选区约 68 万份公开选民名册 PDF，做成可搜索数据。随后 @akhileshutup 发帖指责他「未经你的同意就把你的数据全发给了 Claude」，约 34 万曝光、7700+ 赞，舆论转向隐私批评。信号：AI 让「公开但难用」的政府数据被大规模结构化变得轻而易举，数据集合法性、个人信息脱敏、以及把敏感数据送入第三方大模型的合规审查，将成为开发者和监管的新焦点。",
+   "links": [
+    "https://x.com/india_plus_/status/2125846697377214929",
+    "https://x.com/akhileshutup/status/2126238300822229303"
+   ],
+   "topic": "india-up-voter-rolls-ocr-database-claude-privacy-2026-11",
+   "firstSeen": "2026-11-28T07:46:41+08:00"
   }
  ],
- "lastChecked": "2026-11-28T06:25:31+08:00"
+ "lastChecked": "2026-11-28T07:46:41+08:00"
 }
