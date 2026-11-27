@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T23:26:24+08:00",
+ "lastUpdated": "2026-11-27T23:56:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55788,7 +55788,18 @@
    ],
    "topic": "gpt62-astra-history-sketchbook-2026-11",
    "firstSeen": "2026-11-27T23:26:24+08:00"
+  },
+  {
+   "id": "64f11cc42f",
+   "title": "Show HN 小游戏 bouncemarket 走红：给一颗弹跳的小球开实时「预测市场」，押它落在左边还是右边，股价随买入量实时变动",
+   "summary": "开发者在 Hacker News 发布 bouncemarket：页面上有一颗来回弹跳的小球，玩家用积分买「左」或「右」的份额，每份胜出的份额兑付 1 积分，价格按两边买入量自动浮动，相当于一个极简的实时预测市场。帖子发出约 1 小时就冲到 HN 首页，拿到四十多分。预测市场概念正热，用一个零门槛的小玩具把价格发现、对赌机制讲明白，是「把复杂金融机制做成小游戏」的典型案例。",
+   "links": [
+    "https://bouncemarket.minhanhday.com/",
+    "https://news.ycombinator.com/item?id=50667726"
+   ],
+   "topic": "bouncemarket-showhn-2026-11",
+   "firstSeen": "2026-11-27T23:56:44+08:00"
   }
  ],
- "lastChecked": "2026-11-27T23:26:24+08:00"
+ "lastChecked": "2026-11-27T23:56:44+08:00"
 }
