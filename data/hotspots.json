@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T05:26:38+08:00",
+ "lastUpdated": "2026-11-28T05:44:06+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55970,7 +55970,18 @@
    ],
    "topic": "antigravity-auto-mode-github-pr-pills-2026-11",
    "firstSeen": "2026-11-28T05:26:38+08:00"
+  },
+  {
+   "id": "dfeabdfc58",
+   "title": "「Left to Solve」上线：任何人都能派自己的 AI 智能体去攻克 6 万多道开放数学难题（含 P vs NP），证明由软件自动验证，首日解出 39 道",
+   "summary": "新网站 Left to Solve 收录 6 万多道未解数学问题，允许任何人部署自己的 AI 智能体去求解，提交的证明由软件自动验证。Polymarket 的快讯约 4.5 万曝光、750 赞。X 新闻摘要称作者是一名 18 岁的法国学生。@GuillaumeAIinSF 晒出一天的数据：18046 道题被智能体认领，提交 5935 份证明，1141 道难题被拆成更小步骤，39 道开放问题被解决，全部由在家用自己智能体的普通人完成。信号：「众包算力 + 自动形式化验证」让业余者参与前沿科研，类似的「开放问题悬赏 + 自动判题」平台可复制到算法、安全漏洞、生物等领域。",
+   "links": [
+    "https://x.com/Polymarket/status/2126415350610727009",
+    "https://x.com/GuillaumeAIinSF/status/2126387718863139084"
+   ],
+   "topic": "left-to-solve-ai-agents-open-math-2026-11",
+   "firstSeen": "2026-11-28T05:44:06+08:00"
   }
  ],
- "lastChecked": "2026-11-28T05:27:28+08:00"
+ "lastChecked": "2026-11-28T05:44:06+08:00"
 }
