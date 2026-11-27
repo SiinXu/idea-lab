@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T08:39:19+08:00",
+ "lastUpdated": "2026-11-27T09:14:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55449,7 +55449,29 @@
    ],
    "topic": "gpt-live-1-1-voice-arena-jarvis-bench-top",
    "firstSeen": "2026-11-27T08:39:19+08:00"
+  },
+  {
+   "id": "bebcb9773e",
+   "title": "调查博文登上 HN：Novita、StreamLake 等 OpenRouter 推理商被指实为字节跳动火山方舟「套壳」，DeepSeek 请求每周数千亿 token 实际转到方舟",
+   "summary": "开发者 Kendell 发文追踪 OpenRouter 上 DeepSeek 等模型的路由，发现 Novita、StreamLake（快手旗下）、蚂蚁数科等供应商的部分流量实际由字节跳动方舟（Ark）提供：仅 11 月第二周 Novita 就有约 1.1 万亿 token 被追溯到方舟。Novita 号称美国零数据保留（ZDR）推理商，但母公司链条横跨开曼、香港、上海 PPIO 派欧云和新加坡，子处理方清单里不列模型供应商，OpenRouter 也在 11 月 20 日前取消了它的 ZDR 标识。文章引发对推理聚合平台数据去向和「自建推理」宣传真实性的讨论。",
+   "links": [
+    "https://kendell.dev/blog/arkwrapper/",
+    "https://news.ycombinator.com/item?id=50660273"
+   ],
+   "topic": "novita-streamlake-bytedance-ark-wrappers",
+   "firstSeen": "2026-11-27T09:14:15+08:00"
+  },
+  {
+   "id": "6bac70b0e1",
+   "title": "DeepMind 研究副总裁 Koray Kavukcuoglu：AI 智能体已自主掌控部分算力、为下一代 Gemini 跑实验，但离完全递归自我改进还很远",
+   "summary": "在 Google DeepMind 官方播客中，负责 Gemini 研发的 Koray Kavukcuoglu 表示，AI 智能体现在自己掌控一部分算力去跑下一代 Gemini 的实验；DeepMind 也不再为 AlphaFold、核聚变等项目单独建团队，而是用一套通用算法同时服务科研和产品。安全上，训练时不对智能体的思维链做奖励，让其意图保持可读、可审查。他认为 AI 能逼真画出流体和碰撞却并不真正理解物理，任何基准都测不出何时到达 AGI。",
+   "links": [
+    "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+    "https://news.ycombinator.com/item?id=50661218"
+   ],
+   "topic": "deepmind-agents-control-compute-gemini-experiments",
+   "firstSeen": "2026-11-27T09:14:15+08:00"
   }
  ],
- "lastChecked": "2026-11-27T08:39:19+08:00"
+ "lastChecked": "2026-11-27T09:14:15+08:00"
 }
