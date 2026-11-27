@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T04:16:00+08:00",
+ "lastUpdated": "2026-11-28T04:46:54+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55926,7 +55926,29 @@
    ],
    "topic": "openrouter-for-sandboxes-idea-2026-11",
    "firstSeen": "2026-11-28T04:16:00+08:00"
+  },
+  {
+   "id": "638d215297",
+   "title": "Anthropic 联合创始人 Jack Clark 发文称「奇点已经开始」，并构想「机器诠释学」：人类得专门开一门学科去读懂 AI 的科学发现",
+   "summary": "Jack Clark 在 X 发布长文（约 8 万曝光），把「已经开始的奇点」列为新小说的灵感之一。故事设定在 AI 做出科学发现的速度快到人类需要一门新学科「机器诠释学（Machine Hermeneutics）」才能理解机器的发现；他还提到，今年那些 AI 数学论文，人类可能要花比机器写它们长几十甚至上百倍的时间去理解。kimmonismus 的解读帖约 2.9 万曝光、760+ 赞。信号：「AI 产出 > 人类理解」的落差正在成为新叙事，帮人读懂、核验、解释 AI 研究成果（证明审阅、论文讲解、形式化验证可视化）的工具会有需求。",
+   "links": [
+    "https://x.com/jackclarkSF/status/2126380579512057911",
+    "https://x.com/kimmonismus/status/2126400704235618815"
+   ],
+   "topic": "jack-clark-singularity-machine-hermeneutics-2026-11",
+   "firstSeen": "2026-11-28T04:46:54+08:00"
+  },
+  {
+   "id": "672bc453f2",
+   "title": "美国俄亥俄一家医院计划用 AI 自动监测系统取代数十名心电遥测技术员，引发当地强烈反对",
+   "summary": "Polymarket 发帖称俄亥俄州一家医院公布计划，用 AI 取代数十名医护人员，在当地社区引发愤怒，约 16 万曝光、2300+ 赞。X 新闻摘要显示，受影响的主要是全天盯着心率波形、发现异常就报警的遥测技术员，医院要改用自动化 AI 监测系统。评论两极：有人担心患者安全和裁员，也有人认为医疗正是最该被 AI 改造的领域。信号：医疗 AI 正从「辅助医生」走向「替换岗位」，围绕患者知情同意、AI 监测误报审计、被替代员工转岗培训的产品与服务将迎来需求。",
+   "links": [
+    "https://x.com/Polymarket/status/2126364427985309714",
+    "https://x.com/NickADobos/status/2126387057450987533"
+   ],
+   "topic": "ohio-hospital-ai-replaces-telemetry-techs-2026-11",
+   "firstSeen": "2026-11-28T04:46:54+08:00"
   }
  ],
- "lastChecked": "2026-11-28T04:16:48+08:00"
+ "lastChecked": "2026-11-28T04:46:54+08:00"
 }
