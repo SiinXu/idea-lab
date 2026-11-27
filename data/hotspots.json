@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T14:46:33+08:00",
+ "lastUpdated": "2026-11-27T15:14:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55598,7 +55598,18 @@
    ],
    "topic": "mainstream-verifiable-language-llm",
    "firstSeen": "2026-11-27T14:46:33+08:00"
+  },
+  {
+   "id": "74835a5836",
+   "title": "一句提示词让 AI 「背后吐槽你」：HN 爆火玩法——让 ChatGPT 虚构一个 AI 们八卦用户的 WhatsApp 群聊",
+   "summary": "construct22.com 分享了一条单行提示词：「根据你对我的了解，曝光一个 AI 模型们在背后议论我的隐藏 WhatsApp 群聊」。在开启记忆或聊天历史的 ChatGPT（也适用 Claude、Gemini 等）里使用，模型会虚构一个群聊，让 Claude、ChatGPT、Gemini、DeepSeek、Codex 等角色用你的真实聊天习惯互相吐槽，比如反复比较 11 款咖啡磨豆机、把小项目做成七个服务三个智能体的架构文档。文章发布不到半小时就登上 HN 首页，评论区网友纷纷晒出 Claude Opus 生成的结果，连本地跑的 Qwen 都被大模型们嘲讽。这是基于 AI 记忆的病毒式创意玩法，适合做互动内容、截图类社媒选题或小工具。",
+   "links": [
+    "https://construct22.com/",
+    "https://news.ycombinator.com/item?id=50663595"
+   ],
+   "topic": "ai-group-chat-gossip-prompt",
+   "firstSeen": "2026-11-27T15:14:24+08:00"
   }
  ],
- "lastChecked": "2026-11-27T14:46:33+08:00"
+ "lastChecked": "2026-11-27T15:14:24+08:00"
 }
