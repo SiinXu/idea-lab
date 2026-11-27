@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T14:07:31+08:00",
+ "lastUpdated": "2026-11-27T14:46:33+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55587,7 +55587,18 @@
    ],
    "topic": "grok-bot-usage-plus-11-routines-50",
    "firstSeen": "2026-11-27T14:07:31+08:00"
+  },
+  {
+   "id": "46cd86bf0e",
+   "title": "HN 热议《要从 LLM 手里拯救软件工程，需要一门主流的可形式化验证语言》：AI 把烂代码加速到 LLM 速度，只靠 Lean 和 AI 写证明还不够",
+   "summary": "开发者 Blaine Hansen 的长文登上 HN 首页：他认为 LLM 正在把软件业原本就粗糙的工程习惯「加速到 LLM 速度」，代码质量持续下滑，唯一出路是从底层技术栈开始全面拥抱形式化验证，能补证的补证，不能的就重写。但现有工具（如 Lean 等证明助手）可用性差、难理解，从未改变主流工程文化；即使 AI 能写出全部证明，一线工程师也得懂得该证明什么、能对 LLM 提出「写可证明正确的代码」的要求，因此需要一门能跑在浏览器到嵌入式各环境、面向普通工程师的可验证语言。文章呼应近期 AI 辅助 Lean 证明热潮。",
+   "links": [
+    "https://blainehansen.me/post/mainstream-verifiable-language/",
+    "https://news.ycombinator.com/item?id=50663089"
+   ],
+   "topic": "mainstream-verifiable-language-llm",
+   "firstSeen": "2026-11-27T14:46:33+08:00"
   }
  ],
- "lastChecked": "2026-11-27T14:07:31+08:00"
+ "lastChecked": "2026-11-27T14:46:33+08:00"
 }
