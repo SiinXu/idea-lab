@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T12:41:00+08:00",
+ "lastUpdated": "2026-11-27T13:11:56+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55542,7 +55542,18 @@
    ],
    "topic": "anthropic-employee-pac-donations-backlash",
    "firstSeen": "2026-11-27T12:41:00+08:00"
+  },
+  {
+   "id": "37233360e2",
+   "title": "「大空头」伯里力推长文《Mark to Swap》：AI 公司 CDS 半年暴涨，Oracle 5 年违约概率隐含约 23%、CoreWeave 约 61%，评级机构几乎没动",
+   "summary": "Michael Burry（@michaeljburry）在 X 上转发 Substack 作者 Groundbreaker 的长文《Mark to Swap: How the Market is Mispricing the AI Boom》，称「必读」。文章把当下 AI 基建融资类比 2008 年次贷：OpenAI、Anthropic 和新云厂商靠 Oracle、英伟达、谷歌、博通、Meta 等大公司做承租方或担保来融资。自 6 月底以来，博通 CDS 涨约 155%、英伟达 130%、Oracle 80%、Meta 60%，CoreWeave 约翻倍，而投资级 CDX 指数几乎没动。按 40% 回收率推算，Oracle 316bp 对应 5 年违约概率约 23%（一年前约 6%），CoreWeave 1145bp 约 61%；Oracle 的 CDS 隐含评级 14 个月下滑 8 档到 B+，标普只下调 1 档。作者认为每份租约和担保的价值都在随之重估。",
+   "links": [
+    "https://x.com/i/status/2126150924955521043",
+    "https://groundbreakerre.substack.com/p/mark-to-swap-how-the-market-is-mispricing"
+   ],
+   "topic": "burry-mark-to-swap-ai-cds-repricing",
+   "firstSeen": "2026-11-27T13:11:56+08:00"
   }
  ],
- "lastChecked": "2026-11-27T12:41:00+08:00"
+ "lastChecked": "2026-11-27T13:11:56+08:00"
 }
