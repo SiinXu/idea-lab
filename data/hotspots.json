@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T05:12:44+08:00",
+ "lastUpdated": "2026-11-28T05:26:38+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55959,7 +55959,18 @@
    ],
    "topic": "codex-responses-api-80pct-less-data-2026-11",
    "firstSeen": "2026-11-28T05:12:44+08:00"
+  },
+  {
+   "id": "84f5939ffa",
+   "title": "Google Antigravity 感恩节次日发版：Auto 模式多余审批再减 15%，原生 GitHub 集成上线，聊天里贴 PR 链接即可内联查看状态、分支和评论",
+   "summary": "Antigravity 负责人 @_mohansolo 发帖称感恩节次日照常发布新版：Auto 模式下不必要的人工审批再减少 15%，并通过原生 GitHub 集成「闭环」开发流程，约 7.1 万曝光、2700 赞。官方账号同时介绍「内联 GitHub PR 胶囊」：在聊天里粘贴 PR 链接即可内联引用，悬停查看状态、分支和评论，并在 Overview 菜单汇总所有关联 PR，约 10 万曝光。信号：AI IDE 竞争焦点从模型转向「少打扰的自主度 + 代码托管平台深度集成」，围绕智能体审批策略、PR 自动化审阅与状态追踪的插件和工具有机会。",
+   "links": [
+    "https://x.com/_mohansolo/status/2126383370091556884",
+    "https://x.com/antigravity/status/2126360403022069908"
+   ],
+   "topic": "antigravity-auto-mode-github-pr-pills-2026-11",
+   "firstSeen": "2026-11-28T05:26:38+08:00"
   }
  ],
- "lastChecked": "2026-11-28T05:13:31+08:00"
+ "lastChecked": "2026-11-28T05:26:38+08:00"
 }
