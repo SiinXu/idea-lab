@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T13:57:44+08:00",
+ "lastUpdated": "2026-11-27T14:07:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55576,7 +55576,18 @@
    ],
    "topic": "llm-fursona-bench",
    "firstSeen": "2026-11-27T13:57:44+08:00"
+  },
+  {
+   "id": "9089a5c5c5",
+   "title": "Grok Bot 套餐用量再加 11%，例行任务最多多出 50%：团队优化 routine 运行框架，简单重复任务不再调用大模型推理",
+   "summary": "Grok Bot 团队的 Sam Sokolin 11 月 26 日在 X 上宣布，经过几周优化，用户现有套餐可多用约 11%，定时例行任务（routines）最多多用 50%；原理是改造 routine 运行框架，让简单、重复的任务跳过推理请求。X 博主 XFreeze 补充称，这是在 11 月 13 日约 7% 提升基础上的再次加量。团队表示稍后会公开具体优化方法。对 AI 智能体产品来说，「把确定性步骤交给代码、只在需要判断时调模型」正在成为降本主流做法。",
+   "links": [
+    "https://x.com/SamSokolin/status/2126027973568466949",
+    "https://x.com/XFreeze/status/2126066373147361498"
+   ],
+   "topic": "grok-bot-usage-plus-11-routines-50",
+   "firstSeen": "2026-11-27T14:07:31+08:00"
   }
  ],
- "lastChecked": "2026-11-27T13:57:44+08:00"
+ "lastChecked": "2026-11-27T14:07:31+08:00"
 }
