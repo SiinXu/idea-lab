@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T21:16:14+08:00",
+ "lastUpdated": "2026-11-27T21:44:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55743,7 +55743,19 @@
    ],
    "topic": "kimi-for-science-2026-11",
    "firstSeen": "2026-11-27T21:16:14+08:00"
+  },
+  {
+   "id": "d6ed3660fd",
+   "title": "路透独家：美国空军旗舰云平台 Cloud One 遭黑客入侵，攻击者摸到控制平面，网络司令部介入调查，平台迁移暂停",
+   "summary": "路透援引三位知情人士报道，美国空军 2017 年启动的旗舰云平台 Cloud One 被黑客攻破。这个平台整合了微软、亚马逊、甲骨文和谷歌四家云，承载人事、后勤、战术等大量应用。入侵大约是近一个月里在系统升级时发现的。攻击者利用一个未公开的软件漏洞进入控制平面，目前不清楚身份、范围以及是否有数据被盗。网络司令部已经介入评估，平台迁移暂停，应用更新被冻结，部分管理员权限被收回。空军表示不评论具体系统的安全状况。消息已上 HN 首页。",
+   "links": [
+    "https://www.cnbc.com/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform.html",
+    "https://www.theverge.com/tech/1043775/hackers-reportedly-accessed-the-air-forces-cloud-system",
+    "https://news.ycombinator.com/item?id=50666375"
+   ],
+   "topic": "usaf-cloud-one-breach-2026-11",
+   "firstSeen": "2026-11-27T21:44:39+08:00"
   }
  ],
- "lastChecked": "2026-11-27T21:16:14+08:00"
+ "lastChecked": "2026-11-27T21:44:39+08:00"
 }
