@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T03:08:52+08:00",
+ "lastUpdated": "2026-11-28T03:31:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55903,7 +55903,19 @@
    ],
    "topic": "google-cloud-gemini-distillation-service-2026-11",
    "firstSeen": "2026-11-28T03:08:52+08:00"
+  },
+  {
+   "id": "b4beeca918",
+   "title": "DHH 宣布 Gemini 4 Neon 成为自己系统与性能优化工作的默认模型，称是「斯普特尼克时刻」；Ryan Carson 等跟进弃用 Opus 5.5，也有人录视频反驳",
+   "summary": "Rails 作者 DHH 发帖说 Gemini 4 Neon 用了一整周都表现稳定，现在已是他做系统和优化工作的默认模型、新机器上第一个装的模型，称其「对业内其他公司应是一次斯普特尼克时刻」，约 26 万曝光、6200+ 点赞。Ryan Carson 转发称自己也已用 Neon 替代 Claude Opus 5.5（约 5.5 万曝光）；另有开发者录制对比视频坚称「Opus 明显更强」。继 Vercel CEO Rauch 的个人评测之后，「Neon vs Opus」之争在顶级开发者圈持续发酵。信号：编码模型主力正在松动，多模型切换、按任务路由和个人化评测工具有需求。",
+   "links": [
+    "https://x.com/dhh/status/2126235569873399828",
+    "https://x.com/ryancarson/status/2126305373607113184",
+    "https://x.com/Octoberry/status/2126333232564109668"
+   ],
+   "topic": "dhh-gemini-neon-default-sputnik-2026-11",
+   "firstSeen": "2026-11-28T03:31:44+08:00"
   }
  ],
- "lastChecked": "2026-11-28T03:08:52+08:00"
+ "lastChecked": "2026-11-28T03:31:44+08:00"
 }
