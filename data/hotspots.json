@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T20:32:27+08:00",
+ "lastUpdated": "2026-11-27T21:15:28+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55721,7 +55721,18 @@
    ],
    "topic": "uk-first-ai-agent-cardless-payment-papa-johns-truelayer",
    "firstSeen": "2026-11-27T20:32:27+08:00"
+  },
+  {
+   "id": "3575fe1f68",
+   "title": "EFF 提醒：加州和纽约的社交媒体「年龄门槛」新规明年 1 月生效——16 岁以下禁用个性化推荐、自动播放和无限滚动，操作系统和应用都要做年龄核验",
+   "summary": "EFF 撰文梳理：加州 SB 976（未满 18 岁用算法推荐流和夜间推送需家长同意）、AB 1709（16 岁以下即使家长同意也禁用个性化推荐、自动播放、无限滚动等「成瘾功能」）和 AB 1043《数字年龄保障法》（要求操作系统和应用层做年龄核验）将于 2027 年 1 月 1 日生效；纽约 SAFE for Kids Act 的州总检察长细则 1 月 25 日生效。EFF 认为这类强制年龄门槛会让平台收集更多个人数据、损害所有用户的隐私和言论自由，社交媒体公司已就 SB 976 和 AB 1709 提起第一修正案诉讼。对做 C 端产品和 App 的开发者是明年合规的重要信号。",
+   "links": [
+    "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+    "https://news.ycombinator.com/item?id=50666279"
+   ],
+   "topic": "policy",
+   "firstSeen": "2026-11-27T21:15:28+08:00"
   }
  ],
- "lastChecked": "2026-11-27T20:32:27+08:00"
+ "lastChecked": "2026-11-27T21:15:28+08:00"
 }
