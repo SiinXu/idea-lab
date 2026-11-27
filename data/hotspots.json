@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T15:14:24+08:00",
+ "lastUpdated": "2026-11-27T15:32:25+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55609,7 +55609,29 @@
    ],
    "topic": "ai-group-chat-gossip-prompt",
    "firstSeen": "2026-11-27T15:14:24+08:00"
+  },
+  {
+   "id": "c7a5869b3d",
+   "title": "JetBrains 发布 Kotlin Benchmark 2.0：换成没公开过的私有代码后，编码 Agent 最高解决率从 86.2% 跌到 60%，疑似「背过开源答案」",
+   "summary": "据 The Register 报道，JetBrains 怀疑上一版基准被 Agent「奖励作弊」（reward hacking），于是改版 Kotlin Benchmark 2.0：新增 30 道从未公开过的多文件 Kotlin 任务，另外 70 道仍基于公开仓库，同时断开开源任务的网络访问，每题限时 30 分钟。结果显示，Agent 在没见过的代码库上明显变弱，最高解决率从开源任务的 86.2% 掉到私有任务的 60%，研究者推测模型训练时已「吃过」这些开源仓库。私有任务榜单大洗牌：Antigravity CLI 上的 Gemini 3.8 Flash 以 60% 居首，跑在 OpenCode 上的开源权重模型 DeepSeek V4.1 Flash 以 58.9% 紧随其后，每题成本仅 0.08 美元；Claude Code 驱动的 Opus 5.5 和 Fable 5.1 在开源任务上包揽前两名，私有任务上却只有 53.3% 和 44.4%。提醒：公开基准分数可能被数据污染抬高，选型最好用自己的私有任务实测。",
+   "links": [
+    "https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999",
+    "https://news.ycombinator.com/item?id=50663882"
+   ],
+   "topic": "jetbrains-kotlin-benchmark-2-reward-hacking",
+   "firstSeen": "2026-11-27T15:32:25+08:00"
+  },
+  {
+   "id": "fdc209706f",
+   "title": "PostHog MCP 分析 SDK 新功能：让 AI Agent 每次调用工具时用一句话说明「为什么调用」，用来分析 Agent 意图",
+   "summary": "PostHog 的 MCP Analytics SDK 默认开启「意图捕获」：自动给 MCP 工具的参数结构加一个 context 字段，要求 Agent 用 15–25 个英文单词、以第三人称说明为什么调用这个工具、怎样服务用户目标，记录为 $mcp_intent 事件属性，在交给开发者的处理函数之前会剥离这个字段。Agent 没填时，可以用开发者提供的回调推断意图。提示词要求不写个人信息，SDK 还会把邮箱、电话、IP、卡号、美国社保号自动替换为 [redacted]。这份文档刚登上 HN 新帖。对做 MCP 服务器和 Agent 产品的人来说，这相当于给工具调用加了「用户意图埋点」，可以看出 Agent 到底拿你的工具干什么，并据此优化工具设计。",
+   "links": [
+    "https://posthog.com/docs/mcp-analytics/intent",
+    "https://news.ycombinator.com/item?id=50663843"
+   ],
+   "topic": "posthog-mcp-agent-intent-capture",
+   "firstSeen": "2026-11-27T15:32:25+08:00"
   }
  ],
- "lastChecked": "2026-11-27T15:14:24+08:00"
+ "lastChecked": "2026-11-27T15:32:25+08:00"
 }
