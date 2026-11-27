@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T05:44:06+08:00",
+ "lastUpdated": "2026-11-28T06:09:53+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55981,7 +55981,29 @@
    ],
    "topic": "left-to-solve-ai-agents-open-math-2026-11",
    "firstSeen": "2026-11-28T05:44:06+08:00"
+  },
+  {
+   "id": "d1877fe203",
+   "title": "传闻 Anthropic 正在 Claude Code 中灰度测试「Claude Sonnet Next」：网友展示其从零生成可无限驾驶的 3D 游戏，约 13.7 万曝光",
+   "summary": "X 用户 @synthwavedd 发帖称，新一代 Claude Sonnet（Sonnet Next）正对部分 Claude Code 用户隐蔽测试，较上一代有明显飞跃；他用它生成了一个「无限驾驶」3D 游戏，并称模型、贴图、地形生成乃至演示视频都由模型从零完成，帖子约 13.7 万曝光、2000+ 赞。该说法尚未获 Anthropic 官方确认。信号：前沿模型「一句话生成可玩 3D 世界」的能力在快速逼近，面向独立开发者的 AI 游戏原型、3D 素材管线和小游戏发布平台值得关注。",
+   "links": [
+    "https://x.com/synthwavedd/status/2126375716518252889",
+    "https://x.com/synthwavedd/status/2126375719127441650"
+   ],
+   "topic": "claude-sonnet-next-stealth-3d-world-2026-11",
+   "firstSeen": "2026-11-28T06:09:53+08:00"
+  },
+  {
+   "id": "5888fcb2a5",
+   "title": "「千万别同意在看病时使用 AI！」一张诊所 AI 知情同意书截图获 125 万曝光，患者对 AI 病历记录与临床决策辅助意见两极",
+   "summary": "X 用户 @victryena 晒出一份医疗机构的 AI 工具知情同意书（勾选项包括 AI 转录问诊、起草病历和信件、提供临床决策支持，均由医生审核），配文呼吁患者拒绝签字，约 125 万曝光、5400+ 赞。评论区有患者称 AI 病历把「用大麻止痛」错记成「吸食可卡因」，导致被迫额外检查；也有人反讽这种抵制。信号：环境式 AI 病历（ambient scribe）正快速铺开，但患者信任是瓶颈——AI 病历纠错/患者端核对、透明的同意管理和误记审计工具有现实需求。",
+   "links": [
+    "https://x.com/victryena/status/2125995181048742177",
+    "https://x.com/tuvati/status/2126338715861848202"
+   ],
+   "topic": "patients-reject-ai-consent-form-medical-scribe-2026-11",
+   "firstSeen": "2026-11-28T06:09:53+08:00"
   }
  ],
- "lastChecked": "2026-11-28T05:44:06+08:00"
+ "lastChecked": "2026-11-28T06:09:53+08:00"
 }
