@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T04:46:54+08:00",
+ "lastUpdated": "2026-11-28T05:12:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55948,7 +55948,18 @@
    ],
    "topic": "ohio-hospital-ai-replaces-telemetry-techs-2026-11",
    "firstSeen": "2026-11-28T04:46:54+08:00"
+  },
+  {
+   "id": "d289108f9f",
+   "title": "OpenAI Codex 把从 Responses API 拉取的数据量砍掉约 80%：一个长线程从 7.48 MB 降到 930 KB，弱网下也更流畅",
+   "summary": "uv/Ruff 作者、现加入 OpenAI 的 Charlie Marsh（@charliermarsh）发帖称，按他自己的线程测算，Codex 从 Responses API 拉取的数据量减少约 80%，一个原本 7.48 MB 的线程现在只需 930 KB（均为压缩后）。主要优化：过去每次模型响应都会把工具清单在 created、in_progress、completed 三个事件里重复回传给客户端三遍，而这份清单本来就是 Codex 自己提供的。帖子约 3 万曝光、680+ 赞。信号：编码智能体的瓶颈正从模型转向工程细节（流式协议、上下文传输、带宽），面向 Agent 的流量/Token 观测与压缩优化工具有机会。",
+   "links": [
+    "https://x.com/charliermarsh/status/2126381983945400542",
+    "https://x.com/charliermarsh/status/2126381986692399477"
+   ],
+   "topic": "codex-responses-api-80pct-less-data-2026-11",
+   "firstSeen": "2026-11-28T05:12:44+08:00"
   }
  ],
- "lastChecked": "2026-11-28T04:46:54+08:00"
+ "lastChecked": "2026-11-28T05:12:44+08:00"
 }
