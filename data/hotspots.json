@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T00:16:42+08:00",
+ "lastUpdated": "2026-11-28T00:46:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55809,7 +55809,17 @@
    ],
    "topic": "adam-wathan-ai-design-decisions-2026-11",
    "firstSeen": "2026-11-28T00:16:42+08:00"
+  },
+  {
+   "id": "eb6af2b706",
+   "title": "Google DeepMind 的 Philipp Schmid 发布实验性「深度研究」Skill：让 Gemini 4 Neon 编程智能体变身研究员，广泛问题拆成 3–5 个角度、并行子智能体检索",
+   "summary": "Google DeepMind 开发者关系负责人 Philipp Schmid 在 X 上发布一个实验性 deep research skill，用于 Gemini 4 Neon 驱动的编程智能体：简单问题直接答，宽泛问题拆成 3–5 个角度；并行派出搜索/浏览器子智能体，每个限 8–12 步；优先引用一手资料如财报文件和 PDF。帖子约 4.4 万曝光、1000+ 点赞、900+ 收藏。信号：「Skill 化」的研究工作流正在把编程智能体扩展成通用研究工具，可复用的研究 Skill 模板和垂直研究 Skill 有机会。",
+   "links": [
+    "https://x.com/_philschmid/status/2126312943520243885"
+   ],
+   "topic": "gemini-4-neon-deep-research-skill-2026-11",
+   "firstSeen": "2026-11-28T00:46:07+08:00"
   }
  ],
- "lastChecked": "2026-11-28T00:16:42+08:00"
+ "lastChecked": "2026-11-28T00:46:07+08:00"
 }
