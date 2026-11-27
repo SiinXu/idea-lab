@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T20:01:34+08:00",
+ "lastUpdated": "2026-11-27T20:32:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55699,7 +55699,29 @@
    ],
    "topic": "uae-fedai-agentic-ai-ecosystem-17-partners",
    "firstSeen": "2026-11-27T20:01:34+08:00"
+  },
+  {
+   "id": "b99413450c",
+   "title": "浙大团队在 IACR ePrint 发论文：在假设 OpenAI 的一项张量收缩构造成立的前提下，给出离散对数问题的确定性次指数时间算法，覆盖椭圆曲线和素域",
+   "summary": "浙江大学区块链与数据安全全国重点实验室的 Shuchang Liu、Bingsheng Zhang、任奎在密码学预印本库 IACR ePrint（2026/3020）发表论文。摘要称：在不依赖广义黎曼猜想和光滑性启发式的情况下，经典确定性算法求解素域和椭圆曲线上的离散对数最坏要 p^{1/2} 量级；继 2026 年 10 月指数时间假设（ETH）被推翻、已有人给出椭圆曲线离散对数的拉斯维加斯（随机）次指数算法之后，本文在假设 OpenAI（2026 年 10 月）提出的「Cauchy–Hermite 布尔张量收缩」构造成立的前提下，给出一个完全确定性、不用随机数的算法，最坏时间 2^{O(b/√loglog b)} = p^{o(1)}（b 为 p 的位数），同时适用于素数阶椭圆曲线和 F_p*。离散对数是椭圆曲线密码（含比特币签名）和 Diffie-Hellman 的安全基础；该论文是条件性结论，出现在「AI 实验室可能掌握快速大数分解」传闻发酵之际，已上 HN 新帖。",
+   "links": [
+    "https://eprint.iacr.org/2026/3020",
+    "https://news.ycombinator.com/item?id=50665968"
+   ],
+   "topic": "zju-deterministic-subexp-discrete-log-eprint-2026-3020",
+   "firstSeen": "2026-11-27T20:32:27+08:00"
+  },
+  {
+   "id": "be4fdb5ba2",
+   "title": "英国首笔 AI 智能体「无卡支付」：在 FCA 监管沙盒里，Papa John's 的 AI 智能体用 TrueLayer 账户直付、通过劳埃德银行授权，为真实顾客买了 9 个披萨",
+   "summary": "据《卫报》报道，这次交易是英国金融行为监管局（FCA）监管沙盒试验的一部分，由劳埃德银行和伦敦开放银行支付公司 TrueLayer 参与。用户跟 Papa John's 的 AI 智能体描述场合和饮食要求，智能体推荐口味和数量，用户确认后，智能体凭授权直接向用户银行账户发起转账给商家：不用卡号、不共享密码等账户安全信息。授权在劳埃德银行设定了严格的「委托」规则，包括单笔和每月消费上限。TrueLayer CEO Francesco Simoneschi 称这是 AI 智能体首次为真实顾客向英国零售商付款，「可能是最后一个我们熟悉的黑色星期五」，明年智能体会替人买礼物、管财务。这意味着「智能体支付 + 开放银行」在英国进入实测，也为面向智能体的商家接入和支付授权工具打开了机会。",
+   "links": [
+    "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+    "https://news.ycombinator.com/item?id=50665732"
+   ],
+   "topic": "uk-first-ai-agent-cardless-payment-papa-johns-truelayer",
+   "firstSeen": "2026-11-27T20:32:27+08:00"
   }
  ],
- "lastChecked": "2026-11-27T20:01:34+08:00"
+ "lastChecked": "2026-11-27T20:32:27+08:00"
 }
