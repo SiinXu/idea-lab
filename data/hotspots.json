@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T07:39:49+08:00",
+ "lastUpdated": "2026-11-27T08:39:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55438,7 +55438,18 @@
    ],
    "topic": "poland-palantir-maven-saturn-contract",
    "firstSeen": "2026-11-27T07:39:49+08:00"
+  },
+  {
+   "id": "1c7b6bbef5",
+   "title": "OpenAI GPT-Live-1.1 登顶 Voice Arena「Jarvis Bench」语音榜：真人实打电话、盲评打分，自然度和任务效果均排第一，只输给真人客服基线",
+   "summary": "Voice Arena 宣布 OpenAI 的 GPT-Live-1.1 在 Jarvis Bench 总榜首次亮相即排名所有模型第一：自然度 Elo 999、感知任务效果 Elo 1025，超过 GPT-Realtime-2.1；在以 GPT 6.2 Sol Medium 作为委派后端时任务成功率 100%，高于 Gemini 3.8 Live 的 98%。该榜单由真人打完整的实时电话，再由人类听众盲评录音，同一题池里还有一名受过训练的真人客服作为基线，共 2442 票。GPT-Live-1.1 目前仅次于真人基线，被视为语音 AI 逼近真人水平的里程碑。",
+   "links": [
+    "https://x.com/i/status/2126042778497069233",
+    "https://x.com/i/status/2126057630921900471"
+   ],
+   "topic": "gpt-live-1-1-voice-arena-jarvis-bench-top",
+   "firstSeen": "2026-11-27T08:39:19+08:00"
   }
  ],
- "lastChecked": "2026-11-27T07:39:49+08:00"
+ "lastChecked": "2026-11-27T08:39:19+08:00"
 }
