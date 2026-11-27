@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T21:44:39+08:00",
+ "lastUpdated": "2026-11-27T23:16:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55755,7 +55755,29 @@
    ],
    "topic": "usaf-cloud-one-breach-2026-11",
    "firstSeen": "2026-11-27T21:44:39+08:00"
+  },
+  {
+   "id": "2b7e3e5b3c",
+   "title": "Gergely Orosz 抛出热议问题：游戏引擎让做游戏容易了 10–100 倍，结果 Steam 被新游戏淹没；AI 会让 SaaS 迎来同样、甚至更猛的「产品洪水」",
+   "summary": "《The Pragmatic Engineer》作者 Gergely Orosz 在 X 上发问：Unity、Godot、Unreal 等引擎让单人团队也能做游戏之后，游戏行业发生了什么？他认为 AI 会让 SaaS 出现同样的事，而且更剧烈。讨论引用了 Steam 的数据：Kotaku 报道称 2026 年上架的新游戏已经超过 2025 全年。大家的共识是，开发成本降到很低以后，竞争点会从「能不能做出来」转向品牌、信任、分发渠道和稳定可靠的交付结果，冷启动获客会越来越难。对独立开发者和小团队做产品定位是一个直接的提醒。",
+   "links": [
+    "https://x.com/GergelyOrosz",
+    "https://kotaku.com/steam-valve-slop-ai-genai-vibe-coding-pc-game-releases-2000746749"
+   ],
+   "topic": "orosz-saas-flood-game-engines-2026-11",
+   "firstSeen": "2026-11-27T23:16:14+08:00"
+  },
+  {
+   "id": "372780de39",
+   "title": "伊朗官方媒体 Mehr 发布 AI 生成视频：模拟无人机袭击亚马逊、微软、SpaceX 总部，要求三家公司为「协助美以军事行动」赔偿",
+   "summary": "伊朗 Mehr 通讯社在 Telegram 上发布了一段约 100 秒的 AI 生成视频，画面是亚马逊/AWS、微软、SpaceX/Starlink 的设施遭无人机袭击起火。英文旁白指控这些公司暗中配合美国和以色列军方，要求它们赔偿，并称不会针对美国民众。视频提到今年 2 月米纳卜学校遇袭事件。多家媒体指出，没有证据表明这几家公司与该事件有关，分析人士普遍认为这是宣传而不是实际计划。这件事也是 AI 生成内容被国家级宣传直接拿来用的又一个例子。",
+   "links": [
+    "https://nypost.com/2026/11/27/world-news/iranian-state-media-releases-ai-video-showing-attacks-on-amazon-microsoft-spacex-headquarters/",
+    "https://www.hindustantimes.com/world-news/us-news/iranian-state-media-releases-ai-video-showing-drone-strikes-on-amazon-microsoft-and-spacex-consider-this-a-warning-101795789423650.html"
+   ],
+   "topic": "iran-mehr-ai-video-bigtech-2026-11",
+   "firstSeen": "2026-11-27T23:16:14+08:00"
   }
  ],
- "lastChecked": "2026-11-27T21:44:39+08:00"
+ "lastChecked": "2026-11-27T23:16:14+08:00"
 }
