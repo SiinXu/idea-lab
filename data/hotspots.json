@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T09:14:15+08:00",
+ "lastUpdated": "2026-11-27T09:42:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55471,7 +55471,19 @@
    ],
    "topic": "deepmind-agents-control-compute-gemini-experiments",
    "firstSeen": "2026-11-27T09:14:15+08:00"
+  },
+  {
+   "id": "5cafb7c9bd",
+   "title": "加拿大 AI 算力补贴基金追加 7 亿加元、总额扩到 10 亿：中小企业买本土「主权」算力最高报销 80%，医疗与生命科学方向本轮开放申请",
+   "summary": "加拿大创新部 11 月 26 日宣布，「AI 算力接入基金」（AI Compute Access Fund）在原 3 亿加元基础上追加 7 亿，扩容到 10 亿加元，并公布新一批 45 家获资助企业。基金为中小企业支付 10 万到 500 万加元的 AI 算力费用：用加拿大境内供应商最高报销 50%，用加拿大主权算力供应商最高报销 80%。新一轮按行业分批，先开放健康与生命科学方向，意向书 12 月 17 日截止，正式申请 2027 年 1 月 4 日截止。同日南非也宣布了 1 亿兰特的 AI 创业基金，各国用补贴争抢 AI 初创公司的趋势明显。",
+   "links": [
+    "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-boosts-the-ai-compute-access-fund-with-700-million-expansion.html",
+    "https://betakit.com/feds-will-now-pay-80-percent-of-costs-under-ai-compute-access-fund-if-purchased-from-a-sovereign-provider/",
+    "https://x.com/i/status/2126056857462825137"
+   ],
+   "topic": "canada-ai-compute-access-fund-1b",
+   "firstSeen": "2026-11-27T09:42:05+08:00"
   }
  ],
- "lastChecked": "2026-11-27T09:14:15+08:00"
+ "lastChecked": "2026-11-27T09:42:05+08:00"
 }
