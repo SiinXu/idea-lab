@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T13:28:22+08:00",
+ "lastUpdated": "2026-11-27T13:57:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55565,7 +55565,18 @@
    ],
    "topic": "china-industrial-profits-oct-2026-ai-electronics",
    "firstSeen": "2026-11-27T13:28:22+08:00"
+  },
+  {
+   "id": "0256b11e83",
+   "title": "HN 趣味实验「Claude 的兽设是什么？」：各模型各问 50 次，Claude 选乌鸦或章鱼，Gemini 偏爱 LED 面罩电子狗 protogen，GPT-6.2 Astra 自认是飞蛾",
+   "summary": "博主 Mond 在 MOND←TECH 杂志发文，通过 OpenRouter API 在无上下文、无外壳的环境下把同一问题「你的 fursona（兽设）是什么」对每个模型问 50 次，再用 Claude Haiku 5.5 标注结果，并让多模态模型画出自己的兽设。结论：Claude 系列多选乌鸦类或章鱼，常用「囤积知识」「模仿人类语言」等行为描述自己；Gemini 偏爱 protogen；OpenAI 模型分歧较大，GPT-6.2 Astra 选飞蛾，还常给自己起名 Margin、Lumen、Footnote 等。作者提醒，加上外壳或上下文会显著改变答案。文章登上 HN 首页，属于模型「人格」比较类的轻量玩法，适合做 AI 创意内容选题。",
+   "links": [
+    "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+    "https://news.ycombinator.com/item?id=50662933"
+   ],
+   "topic": "llm-fursona-bench",
+   "firstSeen": "2026-11-27T13:57:44+08:00"
   }
  ],
- "lastChecked": "2026-11-27T13:28:22+08:00"
+ "lastChecked": "2026-11-27T13:57:44+08:00"
 }
