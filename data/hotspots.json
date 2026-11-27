@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T00:46:07+08:00",
+ "lastUpdated": "2026-11-28T01:02:20+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55819,7 +55819,18 @@
    ],
    "topic": "gemini-4-neon-deep-research-skill-2026-11",
    "firstSeen": "2026-11-28T00:46:07+08:00"
+  },
+  {
+   "id": "19cdc68774",
+   "title": "黑五前夕多家电商被植入 WebRTC 盗卡脚本：Samsonite、American Tourister、Revolve、FWRD、Lascana 结账页中招，借营销像素和 Cookie 横幅投毒",
+   "summary": "安全媒体 InfoHawk 披露，黑色星期五前一周，Lascana、Samsonite、American Tourister、Revolve、FWRD 五家网店被植入盗卡脚本。投放途径包括被篡改的 Quorum 营销像素、被修改的 Seers Cookie 同意横幅设置，以及 Revolve 自家 CDN 上被改的文件。脚本会在支付校验之前窃取卡号、有效期、CVV 以及姓名、地址、电话、邮箱，用 WebRTC 外传以绕过常规防护；订单即便被拒，卡信息也可能已经泄露。各站已在 11 月 24–25 日移除脚本。帖子上了 HN 首页。信号：第三方脚本供应链（像素、同意横幅）成为结账页的头号风险，第三方脚本监控和 CSP/WebRTC 防护工具有需求。",
+   "links": [
+    "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+    "https://news.ycombinator.com/item?id=50668145"
+   ],
+   "topic": "webrtc-skimmer-black-friday-2026-11",
+   "firstSeen": "2026-11-28T01:02:20+08:00"
   }
  ],
- "lastChecked": "2026-11-28T00:46:07+08:00"
+ "lastChecked": "2026-11-28T01:02:20+08:00"
 }
