@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T21:15:28+08:00",
+ "lastUpdated": "2026-11-27T21:16:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55732,7 +55732,18 @@
    ],
    "topic": "policy",
    "firstSeen": "2026-11-27T21:15:28+08:00"
+  },
+  {
+   "id": "4c2310f3b8",
+   "title": "月之暗面推出「Kimi for Science」科研资助计划：入选研究者最高可获 2 万美元 Kimi API 额度（约 70 亿 tokens），首批 12 月 8 日截止申请",
+   "summary": "Kimi 官网发布 Kimi for Science 计划，面向自然科学、工程及交叉学科的研究者和团队开放申请，覆盖生命科学、健康、能源、材料到基础科学。入选者最高可得 2 万美元 API 额度（约 70 亿 tokens），具体按研究需要和评审结果确定；另提供 Kimi 团队技术支持、新模型抢先体验和科研社区资源，优秀团队可获长期合作支持。首批申请截止 12 月 8 日，后续批次即将开放，消息已上 Hacker News 首页。",
+   "links": [
+    "https://www.kimi.ai/news/kimi-for-science-program",
+    "https://news.ycombinator.com/item?id=50665920"
+   ],
+   "topic": "kimi-for-science-2026-11",
+   "firstSeen": "2026-11-27T21:16:14+08:00"
   }
  ],
- "lastChecked": "2026-11-27T21:15:28+08:00"
+ "lastChecked": "2026-11-27T21:16:14+08:00"
 }
