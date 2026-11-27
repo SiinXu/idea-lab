@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T01:02:20+08:00",
+ "lastUpdated": "2026-11-28T01:11:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55830,7 +55830,18 @@
    ],
    "topic": "webrtc-skimmer-black-friday-2026-11",
    "firstSeen": "2026-11-28T01:02:20+08:00"
+  },
+  {
+   "id": "e20b8c0549",
+   "title": "djb（Daniel J. Bernstein）整理「假的机器验证证明」清单：Lean、Coq、Isabelle、HOL 等证明助手已报告大量可被利用的 soundness 漏洞，登上 HN",
+   "summary": "密码学家 Daniel J. Bernstein 发布页面，汇总主流证明检查程序被报告的「可靠性（soundness）漏洞」——这类 bug 可能让错误命题被「机器验证通过」，其中很多已被证明可以利用。他建议尽量缩小可信计算基（如 HOL Light 内核只有约 400 行），并把同一份证明放进多个证明检查器、各自在隔离环境里交叉验证。帖子登上 HN 首页。信号：AI 生成证明和 Lean 形式化正热，「机器验证≠一定正确」将成为 AI 数学/形式化验证赛道的关键议题，多检查器交叉验证、证明审计类工具有空间。",
+   "links": [
+    "https://cr.yp.to/proofs/falseccp.html",
+    "https://news.ycombinator.com/item?id=50667989"
+   ],
+   "topic": "djb-false-computer-checked-proofs-2026-11",
+   "firstSeen": "2026-11-28T01:11:39+08:00"
   }
  ],
- "lastChecked": "2026-11-28T01:02:20+08:00"
+ "lastChecked": "2026-11-28T01:11:39+08:00"
 }
