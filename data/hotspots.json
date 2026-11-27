@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T09:42:05+08:00",
+ "lastUpdated": "2026-11-27T09:54:44+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55483,7 +55483,19 @@
    ],
    "topic": "canada-ai-compute-access-fund-1b",
    "firstSeen": "2026-11-27T09:42:05+08:00"
+  },
+  {
+   "id": "81209ebc77",
+   "title": "美国 FCC 批准 SpaceX 发射 100 万颗卫星组成「太空数据中心」星座，欧洲南方天文台和美国天文学会发声明抗议：将永久改变全人类的夜空",
+   "summary": "美国联邦通信委员会（FCC）11 月 25 日批准 SpaceX 部署由 100 万颗卫星组成的太空数据中心星座。欧洲南方天文台（ESO）总干事 Andreas Kaufer 26 日发表声明，称该项目不仅严重影响天文观测，还会从根本上改变地球上每个人看到的夜空：卫星数量多到单颗降低亮度也无法弥补，图像中的卫星划痕将超出可修复范围，还会带来射电噪声、发射和再入造成的大气污染，以及近地轨道拥挤引发连锁碰撞的风险。ESO 呼吁建立国际机制评估这类跨国影响的项目，美国天文学会也发表了类似声明。太空算力的环境与治理成本开始成为争议焦点。",
+   "links": [
+    "https://www.eso.org/public/news/eso2614/",
+    "https://aas.org/press/spacex-data-center-fcc-approval",
+    "https://news.ycombinator.com/item?id=50661224"
+   ],
+   "topic": "fcc-spacex-million-satellite-space-datacenters-eso",
+   "firstSeen": "2026-11-27T09:54:44+08:00"
   }
  ],
- "lastChecked": "2026-11-27T09:42:05+08:00"
+ "lastChecked": "2026-11-27T09:54:44+08:00"
 }
