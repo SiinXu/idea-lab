@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T15:32:25+08:00",
+ "lastUpdated": "2026-11-27T16:02:27+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -55631,7 +55631,18 @@
    ],
    "topic": "posthog-mcp-agent-intent-capture",
    "firstSeen": "2026-11-27T15:32:25+08:00"
+  },
+  {
+   "id": "3f105846f4",
+   "title": "日经：日本最大发电商 JERA 与 Anthropic、Meta 洽谈在东京电厂旁建数据中心，东京新电网接入要等长达 10 年",
+   "summary": "据日经报道，路透社在 X 上转发：发电量约占日本三分之一的 JERA 正与 Anthropic、Meta 洽谈，在其东京周边的火电厂旁建设数据中心，同时也在和亚马逊、微软、谷歌接触。核心是「表后供电」（behind the meter）：数据中心直接从电厂取电，绕开东京地区长达 8–10 年的新电网接入排队。JERA 此前已与戴尔、RHAELM 在千叶电厂合作 400 兆瓦超大规模项目，目标 2028 年投运，投资超 150 亿美元，并计划扩展到横滨等地。电力正成为 AI 算力扩张的硬瓶颈，「电厂即数据中心」的模式值得关注。",
+   "links": [
+    "https://x.com/i/status/2126128929022840954",
+    "https://x.com/i/status/2126089309459718458"
+   ],
+   "topic": "jera-anthropic-meta-tokyo-power-plant-datacenters",
+   "firstSeen": "2026-11-27T16:02:27+08:00"
   }
  ],
- "lastChecked": "2026-11-27T15:32:25+08:00"
+ "lastChecked": "2026-11-27T16:02:27+08:00"
 }
