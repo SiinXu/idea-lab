@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T13:14:47+08:00",
+ "lastUpdated": "2026-11-28T13:39:37+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56276,7 +56276,29 @@
    ],
    "topic": "us-megaprojects-map-2-45t-2026-11",
    "firstSeen": "2026-11-28T13:14:47+08:00"
+  },
+  {
+   "id": "5c5262eeaa",
+   "title": "Salesforce CEO Benioff：AI 公众叙事与企业私下反馈「从未如此脱节」，X 上围绕 AI 泡沫与 Agentforce 裁员再起争论",
+   "summary": "Marc Benioff 在 X 发帖称，X 和媒体上充斥对 AI 即将崩盘的恐惧，但他接触的一线 AI 部署企业都说需求从未如此强劲、创造的价值从未如此之大，「两种叙事能并存一阵，但只有一种反映真相」。评论区有人反驳称某 6 万人企业在简单任务之外几乎没有生产力提升、因错误率和诉讼风险无法把 AI 接入核心业务。X 新闻聚合同时提到 Salesforce 用 Agentforce 处理约一半客服对话、客服岗位大幅缩减的说法（以官方披露为准）。信号：「AI 泡沫 vs 真实需求」之争持续升温，企业 AI ROI 实测、客服自动化替代率追踪类内容有讨论度。",
+   "links": [
+    "https://x.com/i/status/2126399713645588554",
+    "https://x.com/i/status/2126358011438362662"
+   ],
+   "topic": "benioff-ai-narrative-disconnect-2026-11",
+   "firstSeen": "2026-11-28T13:39:37+08:00"
+  },
+  {
+   "id": "ed53c25801",
+   "title": "Google AI Pro 年费半价优惠在黑五前一天结束，黑五当天用户发现恢复 199.99 美元原价，X 上吐槽刷屏",
+   "summary": "据 X 新闻聚合，Google 面向现有订阅用户提供 Google AI Pro 年付最高 5 折（约 100 美元/年）的优惠，截止到 11 月 26 日；不少用户 11 月 27 日黑五当天想下单时发现价格已回到 199.99 美元/年，纷纷吐槽「谁会搞黑五之前的特价」。信号：AI 订阅进入价格战与促销季，AI 订阅比价/折扣提醒、各家 AI 会员性价比对比工具有现实需求。",
+   "links": [
+    "https://x.com/i/status/2126332337747025925",
+    "https://x.com/i/status/2126401710666952920"
+   ],
+   "topic": "google-ai-pro-black-friday-ended-early-2026-11",
+   "firstSeen": "2026-11-28T13:39:37+08:00"
   }
  ],
- "lastChecked": "2026-11-28T13:14:47+08:00"
+ "lastChecked": "2026-11-28T13:39:37+08:00"
 }
