@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T14:09:55+08:00",
+ "lastUpdated": "2026-11-28T14:40:00+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56320,7 +56320,18 @@
    ],
    "topic": "hw-founders-ugly-prototype-v1-vs-now-2026-11",
    "firstSeen": "2026-11-28T14:09:55+08:00"
+  },
+  {
+   "id": "1e283d7342",
+   "title": "SessionGraph：一条 npx 命令把 Claude Code、Codex、Cursor 等 60 多种编程智能体的历史会话汇成一张本地交互图谱，还能通过 MCP 让智能体检索旧会话",
+   "summary": "SessionGraph 登上 HN 首页：运行 `npx sessiongraph` 即可读取本机各个编程智能体外壳的会话存储并建立索引，在桌面应用里以图谱形式浏览、跨工具搜索旧对话、接着之前的进度继续，并可与朋友对比；官网称全部在本地完成。支持列表覆盖 Claude Code、Codex、Cursor、Gemini CLI、OpenCode、Cline、Cherry Studio、Kimi CLI 等 60 多种工具，还提供 MCP 接口让智能体调用过往会话。信号：多智能体并用后，「会话记忆 / 历史资产化」成为新需求，跨工具会话搜索、团队智能体使用报告、编程习惯可视化类产品有空间。",
+   "links": [
+    "https://sessiongraph.ai/",
+    "https://news.ycombinator.com/item?id=50671651"
+   ],
+   "topic": "sessiongraph-coding-agent-session-graph-2026-11",
+   "firstSeen": "2026-11-28T14:40:00+08:00"
   }
  ],
- "lastChecked": "2026-11-28T14:09:55+08:00"
+ "lastChecked": "2026-11-28T14:40:00+08:00"
 }
