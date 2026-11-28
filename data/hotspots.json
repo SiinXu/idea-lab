@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T12:00:52+08:00",
+ "lastUpdated": "2026-11-28T12:16:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56189,7 +56189,51 @@
    ],
    "topic": "instagram-40-on-device-models-642-signals-teardown-2026-11",
    "firstSeen": "2026-11-28T12:00:52+08:00"
+  },
+  {
+   "id": "c630ef97ac",
+   "title": "彭博：英伟达禁运 Blackwell 芯片（GB300 NVL72 机柜、GB200 服务器）现身与 Alice Huang 相关的上海长三角数据中心，英伟达股价盘中由涨转跌",
+   "summary": "据彭博调查，两家中国公司把受出口管制的英伟达最新 Blackwell 产品（GB300 NVL72 机柜与 GB200 服务器）放在与「黄仁勋丑闻」中心人物 Alice Huang 相关的长三角项目数据中心。消息传出后 $NVDA 当日涨幅抹平并转跌，X 上有账号称一小时内市值蒸发约 2000 亿美元（该数字来自社交平台转述，待行情数据核实）。信号：芯片走私与出口管制执法持续发酵，算力合规溯源、GPU 来源审计、受管制硬件追踪与地缘风险情报类工具/内容有需求。",
+   "links": [
+    "https://x.com/i/status/2126327729712968167",
+    "https://x.com/i/status/2126326494486032451"
+   ],
+   "topic": "nvidia-blackwell-found-shanghai-alice-huang-2026-11",
+   "firstSeen": "2026-11-28T12:16:48+08:00"
+  },
+  {
+   "id": "db761872b6",
+   "title": "Unkernel：把真正的 Linux 内核编译成 WebAssembly，浏览器里直接启动 Debian/Alpine，支持多核 SMP、JIT 和持久化磁盘",
+   "summary": "unkernel.dev 登上 HN：不是模拟器而是把真实 Linux 内核编译到 WebAssembly，在浏览器标签页里启动 Debian 或 Alpine；多 CPU 时每个核跑在一个 Web Worker 里，可把热点客户代码 JIT 成 WASM，数据盘存在浏览器 IndexedDB（最大 64 GB）并可联网。信号：「浏览器即电脑」再进一步，零安装的在线 Linux 教学/面试环境、AI 智能体的浏览器端沙箱、离线可用的开发环境都可能基于它做产品。",
+   "links": [
+    "https://unkernel.dev",
+    "https://news.ycombinator.com/item?id=50674218"
+   ],
+   "topic": "unkernel-linux-kernel-wasm-2026-11",
+   "firstSeen": "2026-11-28T12:16:48+08:00"
+  },
+  {
+   "id": "6ddf81766d",
+   "title": "Tabernetes：节点全是浏览器标签页的 Kubernetes 集群——扫码让手机变节点，关掉标签页 Pod 就自动迁到别人的设备",
+   "summary": "tabernet.es 在 HN 获 50+ 分：打开网页约下载 5MB，在标签页里启动一个小型 Linux 客户机并加入 Kubernetes 集群成为节点，调度器把 Pod 派给它运行；标签页一关节点消失，K8s 会把 Pod 重新调度到其他人的标签页上，页面实时展示节点数、国家数、启动耗时和请求延迟。信号：浏览器 WASM Linux 让「众包闲置算力」门槛降到一个链接，适合做分布式系统教学演示、志愿计算和边缘推理实验。",
+   "links": [
+    "https://tabernet.es/",
+    "https://news.ycombinator.com/item?id=50672521"
+   ],
+   "topic": "tabernetes-k8s-browser-tab-nodes-2026-11",
+   "firstSeen": "2026-11-28T12:16:48+08:00"
+  },
+  {
+   "id": "4e825df2be",
+   "title": "房东的 AI 助手「Olivia」回邮件同意租客延期交 3934 美元房租，租客仍被驱逐：AI 客服做出的承诺算不算数引发争议",
+   "summary": "据 WRAL 报道（经 Substack 转述），北卡罗来纳州罗利市 Colony Townhome Apartments 租客 Laura Mack 收到看似来自公寓方的邮件，同意她在 11 月 30 日前补交 3934.17 美元欠租，却在 11 月 19 日被驱逐；租赁办公室员工把矛盾归咎于公寓的 AI 助手 Olivia，物业方尚未公开确认。HN 近百分讨论企业是否应为 AI 客服的承诺负责（类似加航聊天机器人案）。信号：AI 客服的承诺合规、对话留痕审计、面向中小物业的「AI 回复审批」工具有现实需求。",
+   "links": [
+    "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+    "https://news.ycombinator.com/item?id=50673521"
+   ],
+   "topic": "landlord-ai-assistant-eviction-raleigh-2026-11",
+   "firstSeen": "2026-11-28T12:16:48+08:00"
   }
  ],
- "lastChecked": "2026-11-28T12:00:52+08:00"
+ "lastChecked": "2026-11-28T12:16:48+08:00"
 }
