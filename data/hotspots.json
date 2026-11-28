@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T14:40:00+08:00",
+ "lastUpdated": "2026-11-28T14:59:51+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56331,7 +56331,29 @@
    ],
    "topic": "sessiongraph-coding-agent-session-graph-2026-11",
    "firstSeen": "2026-11-28T14:40:00+08:00"
+  },
+  {
+   "id": "fd8d4d402a",
+   "title": "Aschenbrenner 的 Situational Awareness 基金晒出 Claude 账单：滚动 30 天花费从年初近乎为零飙到 10 月底年化 2300 万美元，约合每天 5 万美元",
+   "summary": "据 X 新闻聚合，重仓 Anthropic 的对冲基金 Situational Awareness LP 公开了自家 Claude 用量曲线：年化花费 10 月底达到约 2300 万美元峰值，11 月中约 1800 万美元。这家基金三季度费后亏损 65%，但截至 9 月全年仍涨 88.5%，网友质疑巨额 AI 开销是否真能换来投资优势，也有人议论其创始人家属任幕僚长。信号：「AI 原生公司」开始把 token 账单当实力展示，AI 支出与产出的 ROI 追踪、团队用量看板、token 成本优化工具需求上升。",
+   "links": [
+    "https://x.com/i/status/2126538467072995785",
+    "https://x.com/i/status/2126557083877437630"
+   ],
+   "topic": "situational-awareness-claude-spend-23m-2026-11",
+   "firstSeen": "2026-11-28T14:59:51+08:00"
+  },
+  {
+   "id": "d0e367d834",
+   "title": "《纽约时报》一篇劝人「别因投票和家人断绝关系」的客座文章被读者用 Pangram 检测为 AI 写作，出版界 AI 检测争议再起",
+   "summary": "治疗师 Jonathan Alpert 11 月 25 日在《纽约时报》发表客座文章，劝人不要因为家人投了特朗普就断绝关系。据 X 新闻聚合，读者发现文风异样，用 AI 检测器 Pangram 测出疑似机器生成，相关帖子迅速扩散；同时讨论延伸到出版社已在例行用 Pangram 扫投稿，有作者花一年写的个人书稿被判一半以上为 AI，非母语写作和轻度 AI 润色让界限越来越模糊。信号：「证明是人写的」成为刚需，写作过程录制/版本存证、人类创作认证徽章、检测结果申诉工具都有机会。",
+   "links": [
+    "https://x.com/i/status/2126295651889926512",
+    "https://x.com/i/status/2126413523651879284"
+   ],
+   "topic": "nyt-oped-ai-written-pangram-doubts-2026-11",
+   "firstSeen": "2026-11-28T14:59:51+08:00"
   }
  ],
- "lastChecked": "2026-11-28T14:40:00+08:00"
+ "lastChecked": "2026-11-28T14:59:51+08:00"
 }
