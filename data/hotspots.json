@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T16:57:21+08:00",
+ "lastUpdated": "2026-11-28T17:16:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56420,7 +56420,18 @@
    ],
    "topic": "voyager-1-data-transmission-issue-viral-nasa-clarifies-2026-11",
    "firstSeen": "2026-11-28T16:57:21+08:00"
+  },
+  {
+   "id": "410202a773",
+   "title": "马斯克亲自教用 Grok Bot：像真公司一样给每个 Bot 分专职岗位，再设一个「经理 Bot」统筹协调，称目标是「让你用 Bot 搭起一整家公司」",
+   "summary": "马斯克在 X 上发帖称，使用 Grok Bot 时应像人类公司一样创建分工明确的专职 Bot，并由经理 Bot 监督协调；就像员工一样，一个 Bot 塞太多工作就会「掉球」。该帖约 520 万曝光、5.2 万赞、1 万收藏；随后他又发帖说 Grok Bot 的目标是让你搭建一整家公司（约 150 万曝光）。这与此前 SpaceXAI 公开的按部门拆解 Bot 配置指南相呼应。信号：「AI 员工编制」成为主流玩法，Bot 组织架构模板、岗位提示词包、一人公司 Bot 团队搭建教程和对比评测都有流量窗口。",
+   "links": [
+    "https://x.com/i/status/2126413886576590925",
+    "https://x.com/i/status/2126428324012446090"
+   ],
+   "topic": "musk-grok-bots-specialized-roles-manager-bot-2026-11",
+   "firstSeen": "2026-11-28T17:16:32+08:00"
   }
  ],
- "lastChecked": "2026-11-28T16:57:21+08:00"
+ "lastChecked": "2026-11-28T17:16:32+08:00"
 }
