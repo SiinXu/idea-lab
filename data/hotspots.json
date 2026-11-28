@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T15:15:39+08:00",
+ "lastUpdated": "2026-11-28T15:41:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56375,7 +56375,18 @@
    ],
    "topic": "pi-coding-agent-google-ai-plan-pr-2026-11",
    "firstSeen": "2026-11-28T15:15:39+08:00"
+  },
+  {
+   "id": "5b37205504",
+   "title": "Aschenbrenner 唱空英伟达：称超级智能会让 AI 实验室自己更快更便宜地设计芯片，英伟达利润率将被挤压、「撑不过」超级智能时代",
+   "summary": "据 X 新闻聚合，Situational Awareness 基金创始人 Leopold Aschenbrenner 在最新观点中提出，先进 AI 将让头部实验室以更低成本、更快速度自研更好的芯片，同时零部件价格上涨，英伟达的高利润率会被双向挤压，甚至无法在超级智能时代存活。这与同期 SemiAnalysis 基准中 Trainium、TPU 性价比反超的讨论叠加，「英伟达护城河」话题升温。信号：自研芯片与 AI 设计芯片叙事走热，芯片性价比追踪、AI 基础设施投资观点汇总类内容有流量。",
+   "links": [
+    "https://x.com/i/status/2126506998938161424",
+    "https://x.com/i/status/2126508559974445440"
+   ],
+   "topic": "aschenbrenner-nvidia-obsolescence-superintelligence-2026-11",
+   "firstSeen": "2026-11-28T15:41:41+08:00"
   }
  ],
- "lastChecked": "2026-11-28T15:15:39+08:00"
+ "lastChecked": "2026-11-28T15:41:41+08:00"
 }
