@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T08:01:42+08:00",
+ "lastUpdated": "2026-11-28T08:10:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56057,7 +56057,18 @@
    ],
    "topic": "isenberg-yc-for-bootstrapped-agent-run-companies-2026-11",
    "firstSeen": "2026-11-28T08:01:42+08:00"
+  },
+  {
+   "id": "9b3df2351a",
+   "title": "Telegram 创始人杜罗夫警告：iPhone 用户正被「大规模」入侵，旧版 iOS 只要打开网页就可能中招，Telegram 开始向旧系统用户推送升级提醒",
+   "summary": "Pavel Durov 在 X 发帖称，iPhone 用户正遭大规模攻击，只要 iOS 版本稍有落后，所有数据都可能面临风险，「仅仅打开一个网站就足以被黑」；Telegram 正在向使用旧版 iOS 的用户推送警告，发帖约 1 小时内获约 6.8 万曝光、1000+ 赞。Durov 未在帖中披露具体漏洞编号或攻击方。信号：浏览器零点击/一次点击漏洞再成焦点，面向普通用户的「系统版本风险提醒」、企业移动设备补丁合规检查、以及 App 内主动安全提示正成为可产品化的需求。",
+   "links": [
+    "https://x.com/durov/status/2126453172403355908",
+    "https://x.com/DegenerateNews/status/2126452404237516808"
+   ],
+   "topic": "durov-telegram-warns-outdated-ios-mass-hacks-2026-11",
+   "firstSeen": "2026-11-28T08:10:47+08:00"
   }
  ],
- "lastChecked": "2026-11-28T08:01:42+08:00"
+ "lastChecked": "2026-11-28T08:10:47+08:00"
 }
