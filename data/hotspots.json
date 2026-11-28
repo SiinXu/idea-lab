@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T07:46:41+08:00",
+ "lastUpdated": "2026-11-28T08:01:42+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56047,7 +56047,17 @@
    ],
    "topic": "india-up-voter-rolls-ocr-database-claude-privacy-2026-11",
    "firstSeen": "2026-11-28T07:46:41+08:00"
+  },
+  {
+   "id": "ac7eba7464",
+   "title": "Greg Isenberg 呼吁出现「自举版 YC」：专门孵化由创作者主导、主要靠 AI 智能体半自主运营的小公司",
+   "summary": "继「VC 资助的创业者转做创作者」帖之后，Greg Isenberg 又发帖称：需要有一个面向「自举、创作者主导、主要由 AI 智能体运行的半自主公司」的 YC，「我不想亲自做，但这太需要了」，约 2.3 万曝光、270+ 赞。信号：「一人 + 受众 + 智能体团队」的公司形态正在寻找配套基础设施——面向这类公司的加速器/社群、智能体运营手册模板、共享收入与分发网络，都是可以小成本起步的机会。",
+   "links": [
+    "https://x.com/gregisenberg/status/2126425412200964224"
+   ],
+   "topic": "isenberg-yc-for-bootstrapped-agent-run-companies-2026-11",
+   "firstSeen": "2026-11-28T08:01:42+08:00"
   }
  ],
- "lastChecked": "2026-11-28T07:46:41+08:00"
+ "lastChecked": "2026-11-28T08:01:42+08:00"
 }
