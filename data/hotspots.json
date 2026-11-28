@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T10:32:14+08:00",
+ "lastUpdated": "2026-11-28T11:29:48+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56167,7 +56167,18 @@
    ],
    "topic": "soapbox-random-subscriber-newsletter-hn-2026-11",
    "firstSeen": "2026-11-28T10:32:14+08:00"
+  },
+  {
+   "id": "d08e4ace73",
+   "title": "「Anpaure 预训练指数」：用「真假续写二选一」估算闭源前沿模型的困惑度，结论称中国预训练落后美国 8–12 个月",
+   "summary": "@anpaure 发布 Anpaure Pretrain Index（ANPI），宣称找到办法估算所有前沿模型（包括闭源模型）的 log-perplexity / BPB：让模型在真实续写与由 Mistral Small 生成的假续写之间选出更可能的一个，用选择准确率作为困惑度代理指标。作者给出的结论包括：Gemini 3.1 Pro 的预训练达到 Fable 5 级别、中国模型预训练落后美国约 8–12 个月、并以此解释 Opus 5 的表现不佳。帖子约 7.3 万曝光、1000+ 赞、500+ 收藏；Hugging Face 研究员 @eliebakouch 评价「非常有意思」，称该方法在 OpenAI 留出代码库等多个困惑度语料上都与真实值吻合良好。信号：闭源模型「底座能力」的黑盒测量是新需求，独立的模型预训练实力追踪榜、按语料/领域的困惑度代理评测服务、以及面向选型的「底座 vs 后训练」拆解分析都有内容与工具机会（结论尚为个人研究，待更多复现）。",
+   "links": [
+    "https://x.com/anpaure/status/2126423367683363071",
+    "https://x.com/eliebakouch/status/2126436852962144594"
+   ],
+   "topic": "anpaure-pretrain-index-closed-model-perplexity-2026-11",
+   "firstSeen": "2026-11-28T11:29:48+08:00"
   }
  ],
- "lastChecked": "2026-11-28T10:32:14+08:00"
+ "lastChecked": "2026-11-28T11:29:48+08:00"
 }
