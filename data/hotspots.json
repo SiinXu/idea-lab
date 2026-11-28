@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T12:25:23+08:00",
+ "lastUpdated": "2026-11-28T12:42:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56255,7 +56255,18 @@
    ],
    "topic": "9ux-mac-desktop-9front-2026-11",
    "firstSeen": "2026-11-28T12:25:23+08:00"
+  },
+  {
+   "id": "0a0366d670",
+   "title": "Aschenbrenner 的 Situational Awareness 基金三季度信中预测：Anthropic 到 2027 年底年化收入可超 6400 亿美元，OpenAI 与 Anthropic 合计破 1 万亿",
+   "summary": "在 X 上流传的 SALP 三季度投资者信摘录显示，Leopold Aschenbrenner 的基金认为未来 6–12 个月 Anthropic 收入将快速增长，市场会开始意识到「AI 实验室是极好的生意」；按其估算，Anthropic 估值仅约为 2027 年底 ARR 的不到 2 倍、算力利润年化的不到 4 倍，「便宜得惊人」，并预计 OpenAI 与 Anthropic 年化收入合计将超过 1 万亿美元。注意该基金三季度刚被曝亏损 65%，预测极度激进。信号：AI 实验室收入预期之争升温，AI 公司营收追踪看板、估值倍数对比与「AI 泡沫温度计」类内容容易引发讨论。",
+   "links": [
+    "https://x.com/i/status/2126481890781892772",
+    "https://x.com/i/status/2126483722639925546"
+   ],
+   "topic": "salp-anthropic-640b-arr-2027-forecast-2026-11",
+   "firstSeen": "2026-11-28T12:42:31+08:00"
   }
  ],
- "lastChecked": "2026-11-28T12:25:23+08:00"
+ "lastChecked": "2026-11-28T12:42:31+08:00"
 }
