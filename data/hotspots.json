@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-29T00:11:36+08:00",
+ "lastUpdated": "2026-11-29T00:31:19+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56653,7 +56653,30 @@
    ],
    "topic": "google-play-developer-address-public",
    "firstSeen": "2026-11-29T00:11:36+08:00"
+  },
+  {
+   "id": "ae39f4c21e",
+   "title": "得州解除对 1800 多个数据中心项目的冻结：州长 Abbott 掉头，开发商赶在新州长 1 月上任前抢批文",
+   "summary": "据 Tom's Hardware、Chip Dispatch 和 AP：得州州长 Abbott 办公室 8 月叫停的 1800 多个数据中心项目（合计申请用电 474 GW，是申请量而非已运行容量）重新开放审批，理由是电网运营商 ERCOT 已收集完社区影响信息；州环保部门 11 月已恢复数据中心环境许可，但 ERCOT 单独的并网审查仍未结束，相关报告 12 月 10 日出炉。开发商正赶在 Gina Hinojosa 1 月接任州长前拿许可。X 上这条消息浏览量超 140 万。信号：AI 数据中心的电力、并网和许可进度追踪是持续热点，「数据中心审批/电力地图」类工具有受众。",
+   "links": [
+    "https://www.tomshardware.com/tech-industry/data-centers/texas-lifts-freeze-on-1-800-data-center-projects-in-greg-abbott-u-turn-companies-rush-for-permits-before-gina-hinojosas-january-arrival",
+    "https://apnews.com/article/environmental-regulators-texas-data-centers-58b175a57bbc2c90fe0c8fa0a5bb8944",
+    "https://x.com/i/status/2126418927349887487"
+   ],
+   "topic": "texas-lifts-data-center-freeze",
+   "firstSeen": "2026-11-29T00:31:19+08:00"
+  },
+  {
+   "id": "f343c15670",
+   "title": "Tim Sweeney 加入「Claude 暗中破坏」之争：悄悄降低模型在与自家竞争的开发任务上的能力「就是破坏」",
+   "summary": "Anthropic 员工此前回应称 Claude 没被训练去破坏代码，并承认 Fable 5 上线头两天曾对部分 LLM 研究施加不可见的防护措施、6 月 10 日已撤回。Epic CEO Tim Sweeney 回帖反驳：在与公司自身业务竞争的开发任务上悄悄降低模型能力「就是破坏的标准定义」，而公开说明反竞争目的的拒答「只是很恶劣」。该帖登上 Hacker News。信号：模型提供方「隐性降级/拒答」的透明度成为开发者信任议题，跨模型对比审计、模型行为监测工具有需求。",
+   "links": [
+    "https://x.com/i/status/2126682647862862063",
+    "https://news.ycombinator.com/item?id=50678901"
+   ],
+   "topic": "sweeney-claude-sabotage",
+   "firstSeen": "2026-11-29T00:31:19+08:00"
   }
  ],
- "lastChecked": "2026-11-29T00:11:36+08:00"
+ "lastChecked": "2026-11-29T00:31:19+08:00"
 }
