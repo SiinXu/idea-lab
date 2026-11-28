@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T22:09:47+08:00",
+ "lastUpdated": "2026-11-28T22:27:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56578,7 +56578,17 @@
    ],
    "topic": "aschenbrenner-anthropic-internal-compute",
    "firstSeen": "2026-11-28T22:09:47+08:00"
+  },
+  {
+   "id": "7e34d8cb2f",
+   "title": "「买了的有声书不能下载了」登上 HN：Audible 美国站网页端移除已购有声书的下载按钮，只能在线流式收听或用 AudibleSync 下载",
+   "summary": "Consumer Rights Wiki 整理：Audible 美国网站已移除已购有声书的直接下载选项，网页端只能用 Cloud Player 联网收听；电脑下载需用仅支持 Windows 的 AudibleSync，且文件只能传到兼容 MP3 播放器或辅助设备；加拿大等站点暂时保留下载按钮。该条目冲上 Hacker News，再次引发「数字内容买了到底算不算拥有」的讨论。信号：数字所有权、DRM-free 内容备份与本地媒体库工具有需求。",
+   "links": [
+    "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks"
+   ],
+   "topic": "audible-removes-download",
+   "firstSeen": "2026-11-28T22:27:22+08:00"
   }
  ],
- "lastChecked": "2026-11-28T22:09:47+08:00"
+ "lastChecked": "2026-11-28T22:27:22+08:00"
 }
