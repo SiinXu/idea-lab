@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T08:10:47+08:00",
+ "lastUpdated": "2026-11-28T08:23:07+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56068,7 +56068,29 @@
    ],
    "topic": "durov-telegram-warns-outdated-ios-mass-hacks-2026-11",
    "firstSeen": "2026-11-28T08:10:47+08:00"
+  },
+  {
+   "id": "9fa2b72de4",
+   "title": "中国 11 部门联合发布区块链数字身份新规，2027 年 3 月 1 日起施行：支持跨平台身份核验，同时限制个人数据采集",
+   "summary": "据 Watcher.Guru（约 30 万曝光）与 Cointelegraph 报道，网信办、中国人民银行等 11 个部门联合发布基于区块链的数字身份管理规定，将于 2027 年 3 月 1 日起施行，目标是实现跨平台身份核验，同时限制平台对个人数据的收集。信号：国家级「可验证身份」基础设施落地，将带动 App 实名接入改造、隐私友好的身份核验 SDK、以及面向出海与跨境业务的身份合规咨询需求。",
+   "links": [
+    "https://x.com/WatcherGuru/status/2126372763682164930",
+    "https://x.com/Cointelegraph/status/2126380557579743506"
+   ],
+   "topic": "china-blockchain-digital-id-rules-2027-03-2026-11",
+   "firstSeen": "2026-11-28T08:23:07+08:00"
+  },
+  {
+   "id": "77ab3d65a2",
+   "title": "谷歌研究院发布 DeepCrossAttention（DCA）：用可学习的跨层注意力改造 Transformer 残差连接，同等质量训练最快提速 3 倍",
+   "summary": "Google Research 博客介绍 DeepCrossAttention：传统残差连接只是把每层输出与输入逐点相加，层数一深信息就会被「稀释」；DCA 用可学习权重和深度方向的交叉注意力，动态组合此前各层的输出，参数几乎不增加，就能以最多 3 倍的速度达到相同模型质量（论文发表于 ICML 2025）。该文登上 Hacker News 首页。信号：架构层面的「免费加速」仍有空间，开源模型训练者与小团队可以低成本复现这类改动，降低训练算力开销。",
+   "links": [
+    "https://research.google/blog/supercharging-transformer-residual-connections/",
+    "https://news.ycombinator.com/item?id=50672565"
+   ],
+   "topic": "google-deepcrossattention-residual-3x-2026-11",
+   "firstSeen": "2026-11-28T08:23:07+08:00"
   }
  ],
- "lastChecked": "2026-11-28T08:10:47+08:00"
+ "lastChecked": "2026-11-28T08:23:07+08:00"
 }
