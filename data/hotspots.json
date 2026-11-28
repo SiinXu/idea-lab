@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T20:08:05+08:00",
+ "lastUpdated": "2026-11-28T20:45:22+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56538,7 +56538,37 @@
    ],
    "topic": "heretic-farewell-archived-2026-11",
    "firstSeen": "2026-11-28T20:08:05+08:00"
+  },
+  {
+   "id": "f991dd82d5",
+   "title": "开源版 OpusClip「AutoClip」冲上 GitHub 日榜：一个链接自动把长视频剪成短视频，本地优先、零订阅，还带 MCP 服务",
+   "summary": "AutoClip 是开源 AI 视频剪辑桌面工具，可把播客、访谈、课程等长视频自动切成短视频，并生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts；定位为 OpusClip 的免费本地替代，并提供 MCP 服务器供智能体调用。",
+   "links": [
+    "https://github.com/zhouxiaoka/autoclip"
+   ],
+   "topic": "autoclip-opusclip-alt",
+   "firstSeen": "2026-11-28T20:45:22+08:00"
+  },
+  {
+   "id": "dd96f34d8a",
+   "title": "开源 CI/CD 可靠性智能体 OpenSRE 上 GitHub 日榜：约 1.6 万星，单日新增约 270 星",
+   "summary": "Tracer-Cloud 的 OpenSRE 定位为「面向 CI/CD 可靠性的开源智能体」，用 AI 智能体排查和处理流水线故障，当天在 GitHub Trending 新增约 270 星，总星数约 1.6 万。",
+   "links": [
+    "https://github.com/Tracer-Cloud/opensre"
+   ],
+   "topic": "opensre-cicd-agent",
+   "firstSeen": "2026-11-28T20:45:22+08:00"
+  },
+  {
+   "id": "2fce034c15",
+   "title": "印度 GPU 云厂商 E2E Networks 拿下约 1463 万美元 GPU 算力合同：客户为一家 AI 开发商，年化收入约 4.53 亿卢比",
+   "summary": "据 11 月 28 日的监管披露，E2E Networks 与一家 AI 开发商签下总额约 13.6 亿卢比（约 1463 万美元）的 GPU 云服务合同，每年带来约 4.53 亿卢比稳定收入，是其第二笔重大国际订单，印度本土算力供给加速商业化。",
+   "links": [
+    "https://x.com/i/status/2126581696493769154"
+   ],
+   "topic": "e2e-networks-gpu-deal",
+   "firstSeen": "2026-11-28T20:45:22+08:00"
   }
  ],
- "lastChecked": "2026-11-28T20:08:05+08:00"
+ "lastChecked": "2026-11-28T20:45:22+08:00"
 }
