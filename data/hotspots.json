@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-29T02:46:39+08:00",
+ "lastUpdated": "2026-11-29T03:01:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56718,7 +56718,18 @@
    ],
    "topic": "ghost-downloader-3-trending",
    "firstSeen": "2026-11-29T02:46:39+08:00"
+  },
+  {
+   "id": "50c8f24ff2",
+   "title": "OpenCode 官方 iOS 应用上架：和苹果审核拉锯约两个月后终于通过，可在 iPhone/iPad 上远程盯着并操控电脑或服务器上的编程智能体",
+   "summary": "开源 AI 编程智能体 OpenCode（Anomaly Innovations 出品）推出免费 iOS 伴侣应用，支持在手机和平板上查看运行在电脑或服务器上的智能体会话、发送指令、跟进进度。团队成员 Ryan Vogel 发帖称「和苹果的战斗结束了」，帖子约 9.4 万曝光、近 2000 赞。信号：「手机遥控编程智能体」正成为标配，移动端智能体监控、通知和审批类工具有机会。",
+   "links": [
+    "https://apps.apple.com/us/app/opencode/id6788226734",
+    "https://x.com/ryanvogel/status/2126683294880199024"
+   ],
+   "topic": "opencode-ios-app-launch",
+   "firstSeen": "2026-11-29T03:01:11+08:00"
   }
  ],
- "lastChecked": "2026-11-29T02:46:39+08:00"
+ "lastChecked": "2026-11-29T03:01:11+08:00"
 }
