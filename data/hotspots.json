@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T09:56:54+08:00",
+ "lastUpdated": "2026-11-28T10:13:11+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56133,7 +56133,19 @@
    ],
    "topic": "keeper-claude-skin-tone-preference-override-2026-11",
    "firstSeen": "2026-11-28T09:56:54+08:00"
+  },
+  {
+   "id": "28e145d217",
+   "title": "洛杉矶学区悄悄在学生设备上屏蔽谷歌「AI 概览」：50 万学生的全美第二大学区与谷歌就 AI 搜索功能对峙",
+   "summary": "PBS NewsHour 报道，洛杉矶联合学区（LAUSD，约 50 万学生）未做任何正式公告，就借助第三方过滤工具在学校配发的设备上关闭了谷歌搜索的 AI Overview（AI 概览），以执行其对 AI 功能的暂停令；家长团体 Schools Beyond Screens LA 称此举令家长和学生都很意外。报道标题点出背景：谷歌此前威胁要切断学校的搜索访问。一条转发调侃「不是说关不掉吗 @Google」获 1 万+ 赞。此前芝加哥学区也曾因谷歌 AI 搜索起争议。信号：学校、企业对「默认开启的 AI 功能」的管控需求在上升，面向教育机构的 AI 功能开关/过滤策略管理、合规审计和家长可见的设备 AI 报告都是可切入的 B2B 工具方向。",
+   "links": [
+    "https://www.pbs.org/newshour/education/as-google-threatens-to-cut-schools-search-access-los-angeles-blocks-ai-features",
+    "https://x.com/NewsHour/status/2126384314858258924",
+    "https://x.com/DissentFu/status/2126423031434404239"
+   ],
+   "topic": "lausd-blocks-google-ai-overview-student-devices-2026-11",
+   "firstSeen": "2026-11-28T10:13:11+08:00"
   }
  ],
- "lastChecked": "2026-11-28T09:56:54+08:00"
+ "lastChecked": "2026-11-28T10:13:11+08:00"
 }
