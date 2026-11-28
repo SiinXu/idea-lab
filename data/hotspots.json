@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T19:53:34+08:00",
+ "lastUpdated": "2026-11-28T20:08:05+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56527,7 +56527,18 @@
    ],
    "topic": "kenya-ecitizen-breach-bytetobreach-2026-11",
    "firstSeen": "2026-11-28T19:53:34+08:00"
+  },
+  {
+   "id": "1b22e6e267",
+   "title": "4.3 万星开源项目 Heretic 作者告别并归档仓库：不指定继任者，称「控制自己用的模型，正从言论自由问题变成思想自由问题」",
+   "summary": "无需训练即可改写大模型行为（去审查、减少套话和谄媚）的开源工具 Heretic 作者 Philipp Emanuel Weidmann（p-e-w）11 月 28 日在 GitHub 发布告别帖：他的「旅程已经结束」，将归档仓库以保留现状、避免 issue 和 PR 刷屏，鼓励贡献者自行在 Discord、Matrix 等处组织是否继续，并刻意不指定继任者。帖中称随着 AI 成为人们看世界的「镜头」，能否自己塑造模型将成为「思想自由」之争。仓库约 4.35 万星，告别帖登上 HN 首页。信号：明星个人维护的开源 AI 工具存在「单点维护者」风险，社区分叉、托管维护和模型可控性工具的商业化机会值得关注。",
+   "links": [
+    "https://github.com/p-e-w/heretic/issues/601",
+    "https://news.ycombinator.com/item?id=50676672"
+   ],
+   "topic": "heretic-farewell-archived-2026-11",
+   "firstSeen": "2026-11-28T20:08:05+08:00"
   }
  ],
- "lastChecked": "2026-11-28T19:53:34+08:00"
+ "lastChecked": "2026-11-28T20:08:05+08:00"
 }
