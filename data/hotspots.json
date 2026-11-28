@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T10:13:11+08:00",
+ "lastUpdated": "2026-11-28T10:32:14+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56145,7 +56145,29 @@
    ],
    "topic": "lausd-blocks-google-ai-overview-student-devices-2026-11",
    "firstSeen": "2026-11-28T10:13:11+08:00"
+  },
+  {
+   "id": "2e53676538",
+   "title": "英国 SABRE 空天发动机专利被美国霍尼韦尔以 88.4 万英镑买走：Reaction Engines 倒闭后，30 年技术与预冷器专利整体易手",
+   "summary": "X 用户 @udderbruva 援引美国专利转让记录称，2026 年 7 月 28 日，为 Skylon 空天飞机设计的英国吸气式火箭发动机 SABRE 相关专利（含 Alan Bond 的核心专利和让高超音速飞行成为可能的微管预冷器技术）已转让给 Honeywell Aerospace；卖方是 2024 年倒闭、负债超 1.6 亿英镑的 Reaction Engines 的破产管理人，成交价仅约 88.4 万英镑，而英国航天局和 ESA 此前投入约 6000 万英镑。帖子约 3.6 万曝光、500+ 赞，航天评论员 @peterrhague 调侃这项英国技术以后可能连对英国出口都要受管制。信号：破产科技公司的专利/知识产权「白菜价」流转值得关注，专利交易监测、破产资产（IP）追踪与估值、以及深科技 IP 二级市场信息服务是可做的数据产品方向。",
+   "links": [
+    "https://x.com/udderbruva/status/2126338750951129493",
+    "https://x.com/peterrhague/status/2126450947358359947"
+   ],
+   "topic": "sabre-engine-patents-honeywell-884k-2026-11",
+   "firstSeen": "2026-11-28T10:32:14+08:00"
+  },
+  {
+   "id": "f21d906053",
+   "title": "「The Soapbox」：每期由随机抽中的订阅者执笔、人工审读后群发的邮件通讯，登上 HN 首页 200+ 分",
+   "summary": "thesoapbox.email 是一种反常规的 newsletter：每期作者从订阅者中随机抽取，内容经人工阅读后发给全体订阅者；第 3 期《I'm scared of AI...》里作者写到，把思考外包给 AI 让自己「越来越笨」、做事缺乏成就感，并向「Soapbox 集体大脑」求建议。该帖登上 Hacker News，约 200 分。信号：在 AI 生成内容泛滥的背景下，「真人随机写作 + 人工把关」的社区型通讯、轮值作者制 newsletter 工具、以及「反 AI 依赖」的数字习惯产品具有差异化吸引力。",
+   "links": [
+    "https://thesoapbox.email/archive/3",
+    "https://news.ycombinator.com/item?id=50669561"
+   ],
+   "topic": "soapbox-random-subscriber-newsletter-hn-2026-11",
+   "firstSeen": "2026-11-28T10:32:14+08:00"
   }
  ],
- "lastChecked": "2026-11-28T10:13:11+08:00"
+ "lastChecked": "2026-11-28T10:32:14+08:00"
 }
