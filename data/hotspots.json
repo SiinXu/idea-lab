@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T17:46:32+08:00",
+ "lastUpdated": "2026-11-28T17:47:15+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56453,7 +56453,27 @@
    ],
    "topic": "knuth-errata-moratorium-llm-2026-11",
    "firstSeen": "2026-11-28T17:46:32+08:00"
+  },
+  {
+   "id": "d664b5a459",
+   "title": "app-store-compliance 冲上 GitHub 日榜：收录 125 种 App Store / Google Play 被拒模式及修复方案，附 AI 编程智能体可用的上架前检查技能",
+   "summary": "开源仓库 mjmirza/app-store-compliance 单日新增约 530 星、累计 8000+ 星。它是一份上架合规手册加提交前守卫：整理 125 种常见审核被拒模式与修复方法，检查隐私清单（Privacy Manifest）与 Google Play 数据安全表单，追踪 117 个合规截止日期（欧盟 AI 法案、DSA、COPPA、各地年龄验证法），并提供可直接给 AI 编程智能体调用的 skill。信号：vibe coding 让大量新手开发者直接上架 App，「过审」成为新瓶颈，合规检查即服务和智能体技能包有付费空间。",
+   "links": [
+    "https://github.com/mjmirza/app-store-compliance"
+   ],
+   "topic": "app-store-compliance-skill-trending-2026-11",
+   "firstSeen": "2026-11-28T17:47:15+08:00"
+  },
+  {
+   "id": "01e478ba12",
+   "title": "last30days-skill 继续霸榜 GitHub：一句话让智能体跨 Reddit、X、YouTube、HN、Polymarket 和全网调研任意话题，单日再涨约 675 星",
+   "summary": "mvanhorn/last30days-skill 是一个 AI 智能体技能：输入任意话题，自动检索过去 30 天 Reddit、X、YouTube、Hacker News、Polymarket 与网页上的讨论，再汇总成有出处的综述。仓库累计 7.6 万星，今日新增约 675 星，位列日榜前列。信号：「近期舆情/趋势调研」正被打包成可复用的智能体技能，热点雷达、选题助手和市场情报类产品可以直接基于此类技能搭建或做垂直化版本。",
+   "links": [
+    "https://github.com/mvanhorn/last30days-skill"
+   ],
+   "topic": "last30days-skill-trending-2026-11",
+   "firstSeen": "2026-11-28T17:47:15+08:00"
   }
  ],
- "lastChecked": "2026-11-28T17:46:32+08:00"
+ "lastChecked": "2026-11-28T17:47:15+08:00"
 }
