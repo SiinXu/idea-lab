@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T22:27:22+08:00",
+ "lastUpdated": "2026-11-28T23:27:21+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56588,7 +56588,17 @@
    ],
    "topic": "audible-removes-download",
    "firstSeen": "2026-11-28T22:27:22+08:00"
+  },
+  {
+   "id": "f68a8c3baa",
+   "title": "Show HN：Luciole Mono——把为视障读者设计的 Luciole 字体改成等宽版，专为终端和代码的易读性设计",
+   "summary": "Luciole 原本由法国视障技术中心为视障读者设计，开发者把它适配为 620 单位等宽网格：I/l/1/|、0/O/o 等易混字符刻意区分（斜杠零、带衬线的 i/j/l/r），提供常规、粗体、斜体、粗斜体四款 TTF 免费下载，作者推荐 11pt（15px）使用。该项目登上 Hacker News Show HN。信号：无障碍与「编程字体」仍是开发者关注的细分点，易读性字体、终端主题和代码字体对比工具有受众。",
+   "links": [
+    "https://scriptor-pro.github.io/luciole-mono/"
+   ],
+   "topic": "luciole-mono-font",
+   "firstSeen": "2026-11-28T23:27:21+08:00"
   }
  ],
- "lastChecked": "2026-11-28T22:27:22+08:00"
+ "lastChecked": "2026-11-28T23:27:21+08:00"
 }
