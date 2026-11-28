@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T12:16:48+08:00",
+ "lastUpdated": "2026-11-28T12:25:23+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56233,7 +56233,29 @@
    ],
    "topic": "landlord-ai-assistant-eviction-raleigh-2026-11",
    "firstSeen": "2026-11-28T12:16:48+08:00"
+  },
+  {
+   "id": "832bf9b3eb",
+   "title": "《纽约时报》新任 AI 专栏作家被曝曾拿 Anthropic 投资方 Omidyar Network 约 5 万美元资助、报道 Anthropic 时未披露",
+   "summary": "据 ZeroHedge 等报道并在 X 上发酵：11 月 17 日加入《纽约时报》观点版的 AI 专栏作家 Jasmine Sun，今年 1–7 月以 Omidyar Network「驻地记者」身份获得约 5 万美元资助；Omidyar 自 2024 年起持有 Anthropic 股份（福布斯估值 IPO 时超 5500 万美元）。她在此期间撰写了 Anthropic 与五角大楼之争等内容并称是「完全独立的新闻」，首篇专栏也基于一年来与 Anthropic 员工的交流。信号：AI 报道的利益冲突与资助透明度成为新焦点，「作者资金来源/利益披露」追踪工具、AI 媒体可信度评级类内容有关注度。",
+   "links": [
+    "https://x.com/i/status/2126374357245256132",
+    "https://x.com/i/status/2126357998482170097"
+   ],
+   "topic": "nyt-ai-columnist-omidyar-anthropic-disclosure-2026-11",
+   "firstSeen": "2026-11-28T12:25:23+08:00"
+  },
+  {
+   "id": "2c3ac5a2eb",
+   "title": "9/UX：给 Plan 9 分支 9front 做的经典 Mac / A/UX 风格桌面，网页里直接跑真系统（浏览器内 386 模拟器），HN 90+ 分",
+   "summary": "Jeff Lindsay（progrium）发布 9/UX：在 9front 上用 Plan 9 的方式（rio、libdraw 绘制，9P 暴露每个应用的 UI 状态）重现经典 Macintosh/A/UX 体验——空间式桌面、全局菜单栏、统一控件与对话框、图标和资源驱动的界面。项目页内嵌 h9 自带的 386 模拟器，约 23MB 一次加载即可在 Chrome/Edge 中直接操作真实系统。信号：与 Unkernel、Tabernetes 同一波「浏览器里跑真操作系统」的热潮，复古桌面 + 可在线试玩的 Demo 很适合做开源项目的传播页面。",
+   "links": [
+    "https://progrium.github.io/9ux/",
+    "https://news.ycombinator.com/item?id=50672008"
+   ],
+   "topic": "9ux-mac-desktop-9front-2026-11",
+   "firstSeen": "2026-11-28T12:25:23+08:00"
   }
  ],
- "lastChecked": "2026-11-28T12:16:48+08:00"
+ "lastChecked": "2026-11-28T12:25:23+08:00"
 }
