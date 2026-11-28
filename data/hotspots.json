@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-29T00:31:19+08:00",
+ "lastUpdated": "2026-11-29T02:28:10+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56676,7 +56676,19 @@
    ],
    "topic": "sweeney-claude-sabotage",
    "firstSeen": "2026-11-29T00:31:19+08:00"
+  },
+  {
+   "id": "a783741726",
+   "title": "全球 AI 相关债务发行 2026 年已达创纪录的约 5990 亿美元，是 2025 全年 2260 亿美元的 2.6 倍",
+   "summary": "据摩根大通资产管理 11 月 24 日报告：2026 年迄今与 AI 相关的债务发行接近 6000 亿美元（约 5990 亿），2025 年全年为 2260 亿美元。融资方式正从超大规模云厂商用自有现金流和投资级债券，扩展到高收益债借款人和资产证券化结构，信用投资者开始追问「AI 建设的还款风险最终由谁承担」；欧洲央行 11 月金融稳定报告也专门讨论了 AI 债务融资风险。该数据今天在 X 上被广泛转发。信号：结合此前银行抛售数据中心贷款，「AI 泡沫/信用风险」叙事升温，AI 资本开支与债务追踪仪表盘类内容有话题性。",
+   "links": [
+    "https://am.jpmorgan.com/us/en/asset-management/adv/insights/portfolio-insights/multi-asset-solutions/research-report/the-ai-build-out-is-repricing-credit-what-comes-next/",
+    "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/focus/2026/html/ecb.fsrbox202611_03~4fd1449eaa.en.html",
+    "https://x.com/i/status/2126687262406512870"
+   ],
+   "topic": "ai-debt-record-599b",
+   "firstSeen": "2026-11-29T02:28:10+08:00"
   }
  ],
- "lastChecked": "2026-11-29T00:31:19+08:00"
+ "lastChecked": "2026-11-29T02:28:10+08:00"
 }
