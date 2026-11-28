@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T14:59:51+08:00",
+ "lastUpdated": "2026-11-28T15:15:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56353,7 +56353,29 @@
    ],
    "topic": "nyt-oped-ai-written-pangram-doubts-2026-11",
    "firstSeen": "2026-11-28T14:59:51+08:00"
+  },
+  {
+   "id": "be7e339b58",
+   "title": "SemiAnalysis 把亚马逊 Trainium 和谷歌 TPU 加入 InferenceX / AgentX 推理基准：部分负载下单位成本表现比英伟达高 1.2–2.5 倍",
+   "summary": "据 X 新闻聚合，SemiAnalysis 在自家 AI 推理与智能体负载基准 InferenceX、AgentX 中新增 Amazon Trainium 和 Google TPU，结果显示这两款自研芯片在部分场景的单位性能指标达到英伟达方案的 1.2 到 2.5 倍，引发「英伟达推理护城河松动」讨论。信号：推理成本竞争转向非 GPU 芯片，多芯片推理价格对比、模型托管选型工具、跨云推理成本计算器有内容和工具机会。",
+   "links": [
+    "https://x.com/i/status/2125867835050111357",
+    "https://x.com/i/status/2126055957838848156"
+   ],
+   "topic": "semianalysis-inferencex-trainium-tpu-vs-nvidia-2026-11",
+   "firstSeen": "2026-11-28T15:15:39+08:00"
+  },
+  {
+   "id": "f433b8597c",
+   "title": "开源编程智能体 Pi 出现「Google AI 订阅登录」PR：+1710 行、改动 29 个文件，开发者围观期待用 Google AI 会员额度驱动 Pi",
+   "summary": "earendil-works/pi 仓库的草稿 PR #12614「Google AI plan」为 Pi 编程智能体加入 Google AI 订阅计划接入，评论区大量中英文开发者刷「大的要来了」，HN 上有帖称这是谷歌官方支持（未见谷歌公告证实）。关联 issue 还提到跟进 Google AI Ultra 登录。信号：订阅额度接入第三方智能体外壳成为新战场，「用现有会员跑开源智能体」的教程、额度对比和多订阅路由工具值得跟进。",
+   "links": [
+    "https://github.com/earendil-works/pi/pull/12614",
+    "https://news.ycombinator.com/item?id=50675069"
+   ],
+   "topic": "pi-coding-agent-google-ai-plan-pr-2026-11",
+   "firstSeen": "2026-11-28T15:15:39+08:00"
   }
  ],
- "lastChecked": "2026-11-28T14:59:51+08:00"
+ "lastChecked": "2026-11-28T15:15:39+08:00"
 }
