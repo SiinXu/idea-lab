@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T17:27:12+08:00",
+ "lastUpdated": "2026-11-28T17:46:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56442,7 +56442,18 @@
    ],
    "topic": "epoch-eci-gemini-4-neon-2nd-2026-11",
    "firstSeen": "2026-11-28T17:27:12+08:00"
+  },
+  {
+   "id": "c3a8b50ae7",
+   "title": "高德纳宣布「勘误暂停令」：LLM 让读者报错效率暴涨、重复报告淹没邮箱，11 月 25 日后提交的勘误一律暂缓处理",
+   "summary": "Donald Knuth 在斯坦福个人主页发布 Moratorium：五十多年来他一直欢迎读者为《计算机程序设计艺术》等著作报错，但 LLM 让读者「生产力」大增，勘误提交速度远超他亲自核验的能力，抽样显示近几周绝大多数报告是他人已提交过的重复问题。新政策：2026 年 11 月 25 日之后提交的勘误，在对应书籍更新已知错误列表前一律不看。该文登上 HN 首页。信号：AI 生成的低质/重复反馈正在压垮维护者（开源 issue、学术审稿、出版勘误），去重、聚类与优先级分拣类工具有现实需求。",
+   "links": [
+    "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+    "https://news.ycombinator.com/item?id=50674452"
+   ],
+   "topic": "knuth-errata-moratorium-llm-2026-11",
+   "firstSeen": "2026-11-28T17:46:32+08:00"
   }
  ],
- "lastChecked": "2026-11-28T17:27:12+08:00"
+ "lastChecked": "2026-11-28T17:46:32+08:00"
 }
