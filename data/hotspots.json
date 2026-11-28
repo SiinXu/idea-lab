@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T11:29:48+08:00",
+ "lastUpdated": "2026-11-28T12:00:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56178,7 +56178,18 @@
    ],
    "topic": "anpaure-pretrain-index-closed-model-perplexity-2026-11",
    "firstSeen": "2026-11-28T11:29:48+08:00"
+  },
+  {
+   "id": "e52ce2ebfd",
+   "title": "「为什么戒不掉 Instagram」：开发者拆解 App 发现手机端跑着 40 个 AI 模型、追踪 642 项用户与设备信号",
+   "summary": "@rishabhkio 转述一位开发者拆解 Instagram 客户端代码的发现：App 在手机本地运行约 40 个 AI 模型（人脸追踪、物体检测、文本过滤等），并有一套系统追踪 642 种会话与设备信号，包括电量和是否在充电（判断你是否躺床上准备久刷）、机身温度与低电量模式（保证视频不卡、减少「自然退出」的理由）、字体大小、深色模式、是否戴耳机及音量、停留时长等。帖子约 9 万曝光、700+ 收藏；营销人 @michaelmiraflor 跟帖称 IG 甚至能看出你的感情状态和依恋类型。（拆解细节来自二手转述，具体数字待原始来源核实。）信号：大众对「上瘾设计 + 端侧 AI 画像」的关注在升温，App 隐私/追踪信号透明度扫描器、数字戒断与使用习惯工具、以及「算法如何操控你」的科普内容都有流量与产品机会。",
+   "links": [
+    "https://x.com/rishabhkio/status/2126432214699196927",
+    "https://x.com/michaelmiraflor/status/2126484940745523642"
+   ],
+   "topic": "instagram-40-on-device-models-642-signals-teardown-2026-11",
+   "firstSeen": "2026-11-28T12:00:52+08:00"
   }
  ],
- "lastChecked": "2026-11-28T11:29:48+08:00"
+ "lastChecked": "2026-11-28T12:00:52+08:00"
 }
