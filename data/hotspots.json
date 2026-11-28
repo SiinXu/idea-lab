@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T08:43:36+08:00",
+ "lastUpdated": "2026-11-28T08:59:18+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56100,7 +56100,18 @@
    ],
    "topic": "unitree-embodied-avatar-v3-guardian-teleop-2026-11",
    "firstSeen": "2026-11-28T08:43:36+08:00"
+  },
+  {
+   "id": "0dc16d588f",
+   "title": "「模型评测应该像 RPG 属性面板，而不是排行榜」：Claude Code 团队成员 Thariq 的提议获近 4000 赞，开发者纷纷晒出模型「角色卡」",
+   "summary": "@trq212（Thariq，Anthropic Claude Code 团队）发帖称，模型应该像 RPG 角色属性表那样按多个维度打分，而不是单一排行榜，约 11.8 万曝光、3900+ 赞；随后有开发者跟进做出模型属性卡/雷达图视频（「RPG achieved internally」），把创造力、知识、对齐等维度并列对比。信号：单一榜单分数越来越难指导选型，「按任务维度的模型角色卡」、可视化多维评测对比站、以及团队内部的模型选型面板是可快速做出来的产品方向。",
+   "links": [
+    "https://x.com/trq212/status/2126386932989210714",
+    "https://x.com/AdamHoltererer/status/2126409555705803026"
+   ],
+   "topic": "trq212-model-rpg-stat-sheet-evals-2026-11",
+   "firstSeen": "2026-11-28T08:59:18+08:00"
   }
  ],
- "lastChecked": "2026-11-28T08:43:36+08:00"
+ "lastChecked": "2026-11-28T08:59:18+08:00"
 }
