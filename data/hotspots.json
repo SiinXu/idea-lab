@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T13:39:37+08:00",
+ "lastUpdated": "2026-11-28T13:53:32+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56298,7 +56298,18 @@
    ],
    "topic": "google-ai-pro-black-friday-ended-early-2026-11",
    "firstSeen": "2026-11-28T13:39:37+08:00"
+  },
+  {
+   "id": "b4e94fe851",
+   "title": "「用 AI 自己做一个替代品」：X 上开发者晒出用 Claude 等自建的 Calendly、Notion、记账 App，替代付费 SaaS 讨论升温",
+   "summary": "X 上一轮讨论围绕「靠简单提示词让 AI 做出 Photoshop、Calendly、Notion、QuickBooks 的个人替代品」展开。有开发者回复称自己已用自建预约系统替代 Calendly 数月，Notion、Obsidian 和记账软件 BudgetBakers 也都换成自己做的应用，并通过自建 MCP 和 CLI 串联；也有人借此嘲讽这类演示来回应「5 年后程序员还有没有工作」。信号：「个人软件 / 一次性 SaaS 替代」成为 vibe coding 新叙事，可做的方向包括自建工具模板库、「用 AI 替换某 SaaS」教程合集，以及给个人应用接 MCP 的脚手架。",
+   "links": [
+    "https://x.com/i/status/2126482081148776710",
+    "https://x.com/i/status/2126498400275145094"
+   ],
+   "topic": "ai-diy-saas-replacements-2026-11",
+   "firstSeen": "2026-11-28T13:53:32+08:00"
   }
  ],
- "lastChecked": "2026-11-28T13:39:37+08:00"
+ "lastChecked": "2026-11-28T13:53:32+08:00"
 }
