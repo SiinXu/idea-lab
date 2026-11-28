@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T23:46:16+08:00",
+ "lastUpdated": "2026-11-28T23:54:41+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56631,7 +56631,18 @@
    ],
    "topic": "ai-physics-breakthrough-simulator",
    "firstSeen": "2026-11-28T23:46:16+08:00"
+  },
+  {
+   "id": "787cdf12ea",
+   "title": "反 AI 末日论长文登上 HN：《AI 没那么危险——危险的是 AI 公司》，称「失控 AI」并不存在，AI 随时可以拔电源",
+   "summary": "SE Gyges 在 Substack 撰文回应最近一两周突然从小圈子扩散到大众的「AI 毁灭世界」焦虑（作者举例有人开始囤弹药防电网瘫痪）：现有 AI 需要人类持续供电、供硬件和维护，不满意就能关掉，所以「失控 AI」不是真实存在的东西；真正值得警惕的是 AI 公司本身。文章发布后进入 Hacker News 首页。信号：AI 末日情绪破圈后，理性解读 AI 风险、给普通人降焦虑的内容有流量。",
+   "links": [
+    "https://www.verysane.ai/p/ai-isnt-that-dangerous",
+    "https://news.ycombinator.com/item?id=50678186"
+   ],
+   "topic": "ai-isnt-that-dangerous-essay",
+   "firstSeen": "2026-11-28T23:54:41+08:00"
   }
  ],
- "lastChecked": "2026-11-28T23:46:16+08:00"
+ "lastChecked": "2026-11-28T23:54:41+08:00"
 }
