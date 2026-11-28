@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-29T03:01:11+08:00",
+ "lastUpdated": "2026-11-29T03:16:34+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56729,7 +56729,28 @@
    ],
    "topic": "opencode-ios-app-launch",
    "firstSeen": "2026-11-29T03:01:11+08:00"
+  },
+  {
+   "id": "6344f3eb1b",
+   "title": "Michael Nielsen 下架《神经网络与深度学习》后，Andriy Burkov 依 CC BY-NC 协议上线镜像站，提供 PDF/ePUB/HTML 和 LaTeX 源码，并称将更新过时代码",
+   "summary": "Michael Nielsen 11 月 27 日下架自己 2011–2015 年写的经典免费教材（原帖约 58 万曝光）。《百页机器学习书》作者 Andriy Burkov 随即上线 nielsensdeeplearningbook.com，提供 PDF、ePUB、HTML 版本和完整 LaTeX 源码，称「让这本书永远不会消失」，并计划依 CC BY-NC 3.0 协议更新代码让其可运行、修正过时内容，帖子约 11 万曝光。信号：「知识下架 vs 开源许可续命」引发讨论，经典教材现代化重制（可运行笔记本、多语言版）有内容机会。",
+   "links": [
+    "https://nielsensdeeplearningbook.com/",
+    "https://x.com/burkov/status/2126414082760712475"
+   ],
+   "topic": "nielsen-book-mirror-burkov",
+   "firstSeen": "2026-11-29T03:16:34+08:00"
+  },
+  {
+   "id": "6d9a13ad72",
+   "title": "「奇点里的数学题」图表刷屏 X：自 1880 年起统计，2026 年一年就有 149 道公开数学难题被解决、多数借助 AI，累计 333 道、仍有 1123 道未解",
+   "summary": "X 用户 @atareh 发布一段动态图表视频，统计自 1880 年以来被解决的公开数学难题数量：2026 年单年解决 149 道，大多有 AI 参与，累计达到 333 道，仍有 1123 道未解，曲线在今年陡然上扬，帖子约 560 万曝光，并带动「奇点已至」讨论（X 新闻聚合同步收录）。信号：AI 解题进度追踪、开放难题排行榜、可视化解读类内容热度高，适合做实时更新的数据看板。",
+   "links": [
+    "https://x.com/atareh/status/2126299772961374418"
+   ],
+   "topic": "ai-math-problems-singularity-chart",
+   "firstSeen": "2026-11-29T03:16:34+08:00"
   }
  ],
- "lastChecked": "2026-11-29T03:01:11+08:00"
+ "lastChecked": "2026-11-29T03:16:34+08:00"
 }
