@@ -57,9 +57,28 @@ items=[dict(x,t=multi(x['title']),s=multi(x['summary'])) for x in db['items']]
 json.dump(cache,open(CP,'w'),ensure_ascii=False)
 os.makedirs('docs/hotspots',exist_ok=True)
 import sys as _s;_s.path.insert(0,os.path.dirname(os.path.abspath(__file__)));from nocjk import scrub  # no Chinese in non-zh locales
-out='window.HS='+json.dumps(scrub({'lastUpdated':db['lastUpdated'],'lastChecked':db.get('lastChecked'),'ui':ui,'items':items}),ensure_ascii=False)+';'
+# 2026-11-28 perf (audit 11-28: data.js was 14.7 MB gz / 40 MB, loaded on every visit and every 15-min reload).
+# data.js now carries only metadata + UI strings + total. The archive tab loads docs/hotspots/arc/<lang>.recent.json
+# (last 7 days) and then arc/<lang>.json (all items) on demand. Each per-language file keeps the item's own fields
+# plus t/s for that language, 'en' and 'zh-Hans' (the only fallbacks hs.js reads), so text and search are unchanged.
+doc=scrub({'lastUpdated':db['lastUpdated'],'lastChecked':db.get('lastChecked'),'ui':ui,'items':items})
+LANGS=['zh-Hans','zh-Hant','en','ja','ko','ms','vi','fr','es','de']
+ver=hashlib.sha1(json.dumps(doc,ensure_ascii=False,sort_keys=True).encode()).hexdigest()[:10]
+def wr(path,txt):
+    if not os.path.exists(path) or open(path).read()!=txt: open(path,'w').write(txt)
+os.makedirs('docs/hotspots/arc',exist_ok=True)
+lu=datetime.datetime.fromisoformat(db['lastUpdated']) if db['lastUpdated'] else datetime.datetime.now(SH)
+def recent(x):
+    try: return (lu-datetime.datetime.fromisoformat(x['firstSeen'])).total_seconds()<7*86400
+    except Exception: return True
+for lg in LANGS:
+    keep=list(dict.fromkeys([lg,'en','zh-Hans']))
+    its=[dict(x,t={k:x['t'][k] for k in keep if k in (x.get('t') or {})},s={k:x['s'][k] for k in keep if k in (x.get('s') or {})}) for x in doc['items']]
+    wr(f'docs/hotspots/arc/{lg}.json',json.dumps(its,ensure_ascii=False,separators=(',',':')))
+    wr(f'docs/hotspots/arc/{lg}.recent.json',json.dumps([x for x in its if recent(x)],ensure_ascii=False,separators=(',',':')))
+out='window.HS='+json.dumps({'lastUpdated':doc['lastUpdated'],'lastChecked':doc.get('lastChecked'),'ui':doc['ui'],'total':len(doc['items']),'v':ver,'items':[]},ensure_ascii=False)+';'
 p='docs/hotspots/data.js'
-if not os.path.exists(p) or open(p).read()!=out: open(p,'w').write(out)
+wr(p,out)
 print(json.dumps({'added':added,'total':len(db['items']),'lastUpdated':db['lastUpdated']}))
 if '--no-push' in fl or (added==0 and '--rebuild-only' not in fl): sys.exit()
 subprocess.run(['git','add',DP,CP,'docs/hotspots'],check=True)

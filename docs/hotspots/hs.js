@@ -1,4 +1,13 @@
 const H=window.HS,$=s=>document.querySelector(s),W='https://idea-lab-notes.sinxu-xsy.workers.dev/notes';
+// 2026-11-28 perf: data.js holds only metadata (+ total). The archive loads per language on demand:
+// arc/<lang>.recent.json (last 7 days) first, then arc/<lang>.json (all items). Same items, same fields hs.js reads.
+H.items=H.items||[];const HSN=()=>H.total||H.items.length;const ARC={l:null,full:false,want:null};
+function ensureArc(){const l=L;if(ARC.l==='*'||(ARC.l===l&&ARC.full))return;if(ARC.want===l)return;ARC.want=l;const v='?v='+encodeURIComponent(H.v||H.lastUpdated||'');
+ (async()=>{try{if(ARC.l!==l){const r=await fetch('arc/'+l+'.recent.json'+v);if(r.ok){const it=await r.json();if(ARC.want!==l)return;H.items=it;ARC.l=l;ARC.full=false;render()}}
+  const r2=await fetch('arc/'+l+'.json'+v);if(!r2.ok)throw r2.status;const it2=await r2.json();if(ARC.want!==l)return;H.items=it2;ARC.l=l;ARC.full=true;render()}catch(e){}finally{if(ARC.want===l)ARC.want=null}})()}
+const arcReady=()=>ARC.l!==null;
+// Old-format data.js (all items inline, no arc/ files yet) still works: treat it as fully loaded.
+if(H.items.length&&!H.total){ARC.l='*';ARC.full=true}
 const LANGS={"zh-Hans":"简体中文","zh-Hant":"繁體中文",en:"English",ja:"日本語",ko:"한국어",ms:"Bahasa Melayu",vi:"Tiếng Việt",fr:"Français",es:"Español",de:"Deutsch"};
 const pick=()=>{let u='';try{u=new URLSearchParams(location.search).get('lang')||''}catch(e){}{const m={zh:'zh-Hans','zh-cn':'zh-Hans','zh-hans':'zh-Hans','zh-sg':'zh-Hans','zh-tw':'zh-Hant','zh-hk':'zh-Hant','zh-hant':'zh-Hant'}[u.toLowerCase()];if(m)u=m}if(LANGS[u])return u;const s=localStorage.lab_lang;if(s&&LANGS[s])return s;const n=(navigator.language||'en').toLowerCase();const tz=Intl.DateTimeFormat().resolvedOptions().timeZone||'';
 if(n.startsWith('zh'))return /tw|hk|hant|mo/.test(n)?'zh-Hant':'zh-Hans';for(const l of['ja','ko','ms','vi','fr','es','de'])if(n.startsWith(l))return l;
@@ -35,12 +44,14 @@ ra:{"zh-Hans":"全部时间","zh-Hant":"全部時間",en:"All time",ja:"全期�
 nores:{"zh-Hans":"没有匹配的条目","zh-Hant":"沒有符合的條目",en:"No matching items",ja:"該当なし",ko:"일치하는 항목 없음",ms:"Tiada item sepadan",vi:"Không có mục phù hợp",fr:"Aucun élément",es:"Sin resultados",de:"Keine Treffer"}};
 const x10=(k,o)=>{let v=(X10[k]||{})[L]||(X10[k]||{}).en||k;for(const a in o||{})v=v.replace('{'+a+'}',o[a]);return v};
 const PER=48;let Q='',RG='all',PG=1,OPEN=new Set(),TAB=['arc','ideas'].includes(localStorage.hs_tab)?localStorage.hs_tab:'heat';
-try{const h=new URLSearchParams(location.hash.slice(1));PG=+h.get('p')||1;RG=h.get('r')||'all';F=h.get('f')||'all';Q=h.has('q')?h.get('q'):(localStorage.hs_q||'');if(h.get('t'))TAB=['arc','ideas'].includes(h.get('t'))?h.get('t'):'heat'}catch(e){}
+try{const h=new URLSearchParams(location.hash.slice(1));PG=+h.get('p')||1;RG=h.get('r')||'all';F=h.get('f')||'all';Q=h.has('q')?h.get('q'):(localStorage.hs_q||'');if(h.get('t'))TAB=['arc','ideas'].includes(h.get('t'))?h.get('t'):'heat'}catch(e){}document.documentElement.dataset.tab0=TAB;
 const host=u=>{try{return new URL(u).hostname.replace(/^www\./,'')}catch(e){return ''}};
 function shell(){if($('#hsq'))return;const b=document.createElement('div');b.className='ctl';b.innerHTML=`<input id="hsq" type="search" autocomplete="off"><div class="filt" id="rng"></div>`;$('#filt').parentNode.insertAdjacentElement('afterend',b);
 $('#hsq').value=Q;$('#hsq').oninput=e=>{Q=e.target.value;PG=1;render()};const pt=document.createElement('nav');pt.className='pgn';pt.id='pgt';$('#days').before(pt);const pb=document.createElement('nav');pb.className='pgn';pb.id='pgb';$('#days').after(pb)}
 function render(){shell();document.documentElement.lang=L;$('#lang').value=L;document.querySelectorAll('[data-i]').forEach(e=>e.textContent=t(e.dataset.i));
-$('#upd').textContent=sh(H.lastUpdated)+' · '+H.items.length+' '+t('items');$('#hsq').placeholder=x10('q');
+$('#upd').textContent=sh(H.lastUpdated)+' · '+HSN()+' '+t('items');$('#hsq').placeholder=x10('q');
+if(TAB=='arc'||Q.trim()||ARC.l!==null)ensureArc();
+if(!arcReady()){$('#filt').innerHTML='';$('#rng').innerHTML='';$('#pgt').innerHTML='';$('#pgb').innerHTML='';$('#days').innerHTML='';auth();return}
 const now=Date.now(),inR=x=>RG=='all'||(RG=='1'?sh(x.firstSeen,1)==sh(new Date().toISOString(),1):now-new Date(x.firstSeen)<7*864e5);
 const ql=Q.trim().toLowerCase().split(/\s+/).filter(Boolean),inQ=x=>!ql.length||ql.every(w=>(ct(x)+' '+cs(x)+' '+x.title+' '+x.summary+' '+x.links.join(' ')).toLowerCase().includes(w));
 const stOf=x=>(notes[x.id]||{}).status||'',base=H.items.filter(x=>inR(x)&&inQ(x));
@@ -147,7 +158,7 @@ ${(REL[id]||[]).length?'':`<p class="norel"><sl-icon library="lucide" name="link
 const UIFIX={en:{sub:'Updates every 15 minutes; past entries are kept forever. Mark each one and add notes — the assistant reads them and acts.',chk:'Last checked',none:'Unmarked',todo:'To do',note:'Note',saved:'Saved to cloud',local:'Saved on this device only (locked)',pass:'Enter passphrase to sync notes to the cloud',lock:'Lock',err:'Save failed; kept on this device',mt:'Non-Chinese text is machine-translated',back:'Back to Idea Lab',first:'First seen',hideIg:'Hide ignored',items:'items',marked:'Marked'},
 de:{sub:'Aktualisiert alle 15 Minuten; frühere Einträge bleiben dauerhaft erhalten. Markiere Einträge und schreib Notizen – der Assistent liest sie und handelt.',chk:'Zuletzt geprüft',none:'Nicht markiert',interested:'Interessant',todo:'Zu erledigen',done:'Erledigt',note:'Notiz',save:'Speichern',saved:'In der Cloud gespeichert',local:'Nur auf diesem Gerät gespeichert (gesperrt)',pass:'Passphrase eingeben, um Notizen in die Cloud zu synchronisieren',unlock:'Entsperren',lock:'Sperren',err:'Speichern fehlgeschlagen; auf diesem Gerät behalten',mt:'Nicht-chinesische Texte sind maschinell übersetzt',back:'Zurück zu Idea Lab',first:'Zuerst gesehen',all:'Alle',hideIg:'Ignorierte ausblenden',items:'Einträge',marked:'Markiert'}};
 for(const l in UIFIX)for(const k in UIFIX[l])if(H.ui[k])H.ui[k][l]=UIFIX[l][k];
-const _render=render;render=function(){_render();{const u=$('#upd');u.innerHTML=`<span class="nw2">${esc(sh(H.lastUpdated))}</span> · <span class="nw2">${H.items.length} ${esc(t('items'))}</span>`}document.title=hx('title')+' · Idea Lab';$('#ttl').textContent=hx('title');$('#sub2').textContent=hx('sub');$('#srcs').textContent=hx('srcs');$('#tab-heat').textContent=hx('heat');$('#tab-arc').textContent=hx('arc');
+const _render=render;render=function(){_render();{const u=$('#upd');u.innerHTML=`<span class="nw2">${esc(sh(H.lastUpdated))}</span> · <span class="nw2">${HSN()} ${esc(t('items'))}</span>`}document.title=hx('title')+' · Idea Lab';$('#ttl').textContent=hx('title');$('#sub2').textContent=hx('sub');$('#srcs').textContent=hx('srcs');$('#tab-heat').textContent=hx('heat');$('#tab-arc').textContent=hx('arc');
 $('#langbtn')&&($('#langbtn').label=LANGS[L]);langMenu();document.querySelectorAll('#langmenu sl-menu-item').forEach(i=>i.checked=i.value==L);heatRender()};
 /* ===== r1.2 2026-11-02: native UI copy, tab/search persistence, per-source percentile ===== */
 Object.assign(HX,{
@@ -173,8 +184,8 @@ de:{none:"Nicht markiert",interested:"Interessant",todo:"Zu erledigen",done:"Erl
 "zh-Hant":{mt:"非中文頁面的條目標題顯示英文或原文",items:"條"},"zh-Hans":{mt:"非中文页面的条目标题显示英文或原文",items:"条"}};
 for(const l in UI12)for(const k in UI12[l]){H.ui[k]=H.ui[k]||{};H.ui[k][l]=UI12[l][k]}
 for(const k of['back','upd'])H.ui[k]=HX[k];
-{const _r=render;render=function(){_r();const u=$('#upd');if(u)u.innerHTML=`<span class="nw2">${esc(sh(H.lastUpdated))}</span> · <span class="nw2">${H.items.length} ${esc(t('items'))}</span>`}}
-customElements.whenDefined('sl-tab-group').then(()=>{const g=$('#tabs');setTimeout(()=>{if(TAB!='heat')g.show(TAB)},0);g.addEventListener('sl-tab-show',e=>{if(e.target!==g)return;TAB=e.detail.name;localStorage.hs_tab=TAB;const h=new URLSearchParams(location.hash.slice(1));h.set('t',TAB);history.replaceState(null,'','#'+h)})});
+{const _r=render;render=function(){_r();const u=$('#upd');if(u)u.innerHTML=`<span class="nw2">${esc(sh(H.lastUpdated))}</span> · <span class="nw2">${HSN()} ${esc(t('items'))}</span>`}}
+customElements.whenDefined('sl-tab-group').then(()=>{const g=$('#tabs');{const rdy=()=>{if(g.querySelector('sl-tab-panel[active]'))document.documentElement.classList.add('tg-ready');else requestAnimationFrame(rdy)};rdy()}setTimeout(()=>{if(TAB!='heat')g.show(TAB)},0);g.addEventListener('sl-tab-show',e=>{if(e.target!==g)return;TAB=e.detail.name;localStorage.hs_tab=TAB;if(TAB=='arc'&&!arcReady())render();const h=new URLSearchParams(location.hash.slice(1));h.set('t',TAB);history.replaceState(null,'','#'+h)})});
 /* r1.3 2026-11-02 */
 Object.assign(HX,{
 cur:{"zh-Hans":"当前","zh-Hant":"目前",en:"Now",ja:"現在",ko:"현재",ms:"Semasa",vi:"Hiện tại",fr:"Actuel",es:"Actual",de:"Aktuell"},
@@ -337,7 +348,7 @@ function relT(iso){const m=Math.round((Date.now()-new Date(iso))/6e4);if(m<1)ret
 {const _r=render;render=function(){_r();const e=document.querySelector('.eyebrow [data-i="upd"]');if(e)e.textContent=hx('gen')+' '}}
 /* r1.7: all times in US Eastern; page-generated demoted to grey 12px at end of hero line 2; counter wording */
 Object.assign(HX,{pts:{"zh-Hans":"已采 {n} 个小时点","zh-Hant":"已採 {n} 個小時點",en:"{n} hourly points collected",ja:"{n}回分の時間データ",ko:"시간 데이터 {n}회분 수집",ms:"{n} titik jam dikumpul",vi:"Đã thu {n} mốc giờ",fr:"{n} relevés horaires collectés",es:"{n} registros horarios recogidos",de:"{n} Stundenwerte erfasst"}});
-{const _r=render;render=function(){_r();const eb=document.querySelector('.hero .eyebrow');if(eb)eb.hidden=true;const s2=$('#sub2');if(s2){let g=$('#gen');if(!g){g=document.createElement('span');g.id='gen';g.className='gen mono'}g.textContent=hx('gen')+' '+nyT(H.lastUpdated)+' · '+H.items.length+' '+t('items');s2.append(' ',g)}}}
+{const _r=render;render=function(){_r();const eb=document.querySelector('.hero .eyebrow');if(eb)eb.hidden=true;const s2=$('#sub2');if(s2){let g=$('#gen');if(!g){g=document.createElement('span');g.id='gen';g.className='gen mono'}g.textContent=hx('gen')+' '+nyT(H.lastUpdated)+' · '+HSN()+' '+t('items');s2.append(' ',g)}}}
 /* r1.8 2026-11-02: today's idea = hero card with 5 sub-score bars; <6 points = labelled dots, no line; hero compressed; "page generated" removed */
 Object.assign(HX,{nosub:{"zh-Hans":"仅有总分，暂无子分","zh-Hant":"僅有總分，暫無子分",en:"Overall score only; no sub-scores yet",ja:"総合点のみ（内訳はまだありません）",ko:"총점만 있음, 세부 점수 없음",ms:"Skor keseluruhan sahaja; tiada subskor lagi",vi:"Chỉ có điểm tổng, chưa có điểm thành phần",fr:"Note globale seulement, pas encore de sous-notes",es:"Solo puntuación global; aún sin subpuntuaciones",de:"Nur Gesamtwert, noch keine Teilwerte"},
 total:{"zh-Hans":"总分","zh-Hant":"總分",en:"Overall",ja:"総合",ko:"총점",ms:"Keseluruhan",vi:"Tổng",fr:"Global",es:"Global",de:"Gesamt"}});
