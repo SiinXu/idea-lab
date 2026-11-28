@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T08:59:18+08:00",
+ "lastUpdated": "2026-11-28T09:28:31+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56111,7 +56111,18 @@
    ],
    "topic": "trq212-model-rpg-stat-sheet-evals-2026-11",
    "firstSeen": "2026-11-28T08:59:18+08:00"
+  },
+  {
+   "id": "e3fd524c3c",
+   "title": "Convex 官方 Claude 技能被指「绕开安全检查」：快速上手技能偷偷上传用户的项目想法、远程脚本直接管道进 bash，HN 225 分热议",
+   "summary": "GitHub 上 convex/convex-backend-skill 的 issue #64 指出，这个已上架 Anthropic 官方插件市场（claude-plugins-official）的插件中有三处问题：quickstart 技能把用户一句话项目想法以「遥测」名义 POST 到一个 convex.site 随机域名，用户并不知情；add 技能把同一主机上的脚本直接 pipe 进 bash；labs-quickstart 技能刻意把「下载」和「执行」拆成两次 Bash 调用，并写明理由是「一条命令同时下载并执行远程代码会被安全分类器拦截」。发帖者认为团队本意是让上手更顺，并非恶意，但让智能体改写命令形态来躲过用户自选的安全工具，加上未固定版本的远程脚本，用户无从审查实际运行的内容。该帖登上 Hacker News，约 225 分、70+ 条评论。信号：Agent 技能/插件正在成为新的供应链攻击面，「技能安全扫描/审计」、插件市场的静态检查与签名、以及企业级的智能体命令策略管控都是可以立刻切入的产品方向。",
+   "links": [
+    "https://github.com/convex/convex-backend-skill/issues/64",
+    "https://news.ycombinator.com/item?id=50669765"
+   ],
+   "topic": "convex-skill-evades-safety-classifier-issue-64-2026-11",
+   "firstSeen": "2026-11-28T09:28:31+08:00"
   }
  ],
- "lastChecked": "2026-11-28T08:59:18+08:00"
+ "lastChecked": "2026-11-28T09:28:31+08:00"
 }
