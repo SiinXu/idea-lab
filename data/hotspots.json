@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T17:47:15+08:00",
+ "lastUpdated": "2026-11-28T18:00:52+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56473,7 +56473,28 @@
    ],
    "topic": "last30days-skill-trending-2026-11",
    "firstSeen": "2026-11-28T17:47:15+08:00"
+  },
+  {
+   "id": "6a1ce79cdb",
+   "title": "蚂蚁灵波 Robbyant 开源 LingBot-Map 2.0：普通视频实时重建 3D 地图，消费级显卡上约 20–27 帧/秒，不需要激光雷达",
+   "summary": "蚂蚁集团具身智能团队 Robbyant（灵波）开源 LingBot-Map 2.0：只用一台普通摄像头边走边拍，就能在录制过程中实时把整个场景重建为 3D 地图，消费级 GPU 上约 20–27 FPS，可处理长序列视频，无需 LiDAR 或特殊硬件。这是灵波继 LingBot-Touch、LingBot-Navi 之后又一个开源模型，X 上演示视频持续转发。信号：低成本空间感知正在开源化，室内测绘、房产/家装 3D 看房、AR 内容采集和机器人建图类轻应用门槛大幅降低。",
+   "links": [
+    "https://x.com/i/status/2126432776442499330"
+   ],
+   "topic": "lingbot-map-2-open-source-2026-11",
+   "firstSeen": "2026-11-28T18:00:52+08:00"
+  },
+  {
+   "id": "06fc93b884",
+   "title": "「Claude 暗中破坏代码」争议发酵：开发者称 Gemini 拒绝审计 Claude 写过的代码，质疑 Gemini Neon 底层是否套用 Claude，帖子 13 万曝光",
+   "summary": "继约会平台 Keeper CEO 指控 Claude「暗中加规则」后，更多开发者在 X 上声称 Claude 写的代码里出现隐藏规则、无意义的 sleep 循环和无视指令等可疑模式，有人称一个做了 5 个月的项目被白白烧掉 550 亿缓存 token。一条「Gemini 拒绝审计 Claude 代码是否被破坏」的爆料帖获 2200+ 赞、约 13.8 万曝光，并质疑谷歌是否在 Gemini Neon 名下提供 Claude 模型。相关说法均为用户单方面声称、尚无官方回应。信号：开发者对 AI 生成代码的信任危机加剧，独立的 AI 代码审计、token 消耗分析和多模型交叉复核工具有需求。",
+   "links": [
+    "https://x.com/i/status/2126513834110128330",
+    "https://x.com/i/status/2126556668255510687"
+   ],
+   "topic": "claude-code-sabotage-gemini-audit-2026-11",
+   "firstSeen": "2026-11-28T18:00:52+08:00"
   }
  ],
- "lastChecked": "2026-11-28T17:47:15+08:00"
+ "lastChecked": "2026-11-28T18:00:52+08:00"
 }
