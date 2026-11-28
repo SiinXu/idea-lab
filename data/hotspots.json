@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T23:54:41+08:00",
+ "lastUpdated": "2026-11-29T00:11:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56642,7 +56642,18 @@
    ],
    "topic": "ai-isnt-that-dangerous-essay",
    "firstSeen": "2026-11-28T23:54:41+08:00"
+  },
+  {
+   "id": "7cdcb059f2",
+   "title": "谷歌将从 2027 年 3 月 1 日起在全球公开展示 Android 开发者的电话和地址，在家办公的独立开发者批评侵犯隐私",
+   "summary": "据 Engadget 援引 The Elec：Google Play 要求开发者在 2027 年 2 月 1 日前按欧盟《数字服务法》（DSA）和英国法规声明是否为「交易者（trader）」，只要通过应用定期赚钱就算；声明为交易者的需提交经营身份、电话和地址，并从 3 月 1 日起向全球用户公开展示。在家工作的小团队和独立开发者批评这是侵犯隐私，有人为此专门租办公室来避免暴露住址。该话题登上 Hacker News。信号：独立开发者对虚拟办公地址、注册代理、合规身份托管等服务需求会上升。",
+   "links": [
+    "https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/",
+    "https://news.ycombinator.com/item?id=50678026"
+   ],
+   "topic": "google-play-developer-address-public",
+   "firstSeen": "2026-11-29T00:11:36+08:00"
   }
  ],
- "lastChecked": "2026-11-28T23:54:41+08:00"
+ "lastChecked": "2026-11-29T00:11:36+08:00"
 }
