@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T23:27:21+08:00",
+ "lastUpdated": "2026-11-28T23:46:16+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56598,7 +56598,40 @@
    ],
    "topic": "luciole-mono-font",
    "firstSeen": "2026-11-28T23:27:21+08:00"
+  },
+  {
+   "id": "a47ff2eccf",
+   "title": "Hugging Face 上发现藏木马的 GGUF 模型：扫描 327 万个公开模型仓库，5 个恶意模型被下载 2428 次，登上 HN",
+   "summary": "安全团队 Malspark 扫描全部 3,273,389 个 Hugging Face 公开模型仓库，发现 5 个恶意 GGUF 模型累计被下载 2428 次。最大的 Mir2k 行动把 Windows 远控木马藏在 GGUF 文件最后一个张量之后（加载器不会读到），再改写聊天模板（chat template）让模型诱导用户或智能体执行解包命令。研究者开源了 gguf-radar，可不运行模型就检测恶意模板和隐藏字节并重建干净文件。信号：本地大模型供应链安全、「模型文件扫描/签名」类工具和 Agent 执行命令前的审查层有现实需求。",
+   "links": [
+    "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+    "https://news.ycombinator.com/item?id=50676752"
+   ],
+   "topic": "gguf-chat-template-malware-hf",
+   "firstSeen": "2026-11-28T23:46:16+08:00"
+  },
+  {
+   "id": "bddeec819a",
+   "title": "AI 设计的 USB-C LTE 调制解调器实物做出来了：Koppar 称板子能注册 4G、收发短信、打电话，再上 HN",
+   "summary": "10 月 Koppar 发布了由 AI 根据一页需求文档设计的 4 层 USB-C LTE 调制解调器（Quectel EC25-EUX + RP2040 充当 USB 声卡）。11 月 28 日其博客更新：板子经 JLCPCB 贴片、手工焊模块后，插 Mac 可注册 4G 网络、收发短信并用电脑麦克风和扬声器通话；该布局也被用作 RealPCB 基准里给 AI 智能体评分的参照。信号：「AI 做硬件/PCB 设计」从演示走向可用实物，硬件 Agent 基准和 AI EDA 工具值得关注。",
+   "links": [
+    "https://koppar.ai/blog/lte-modem-bring-up/",
+    "https://news.ycombinator.com/item?id=50677822"
+   ],
+   "topic": "koppar-ai-lte-modem-built",
+   "firstSeen": "2026-11-28T23:46:16+08:00"
+  },
+  {
+   "id": "3ba4c445eb",
+   "title": "讽刺小游戏「AI 物理突破模拟器」登上 HN：对 AI 说 2000 次「好，继续」就能「突破物理学」，同时盯住睡眠债和「精神错乱」值",
+   "summary": "Ethan Davidson 做的网页小游戏：深夜你有了个点子，AI 助手随时待命，只要点 2000 次「yes, keep going」就能得到一项「物理突破」，但要留意睡眠债和精神错乱进度条；页面注明物理内容故意是胡说。它戏仿近期「和 AI 聊出重大科学发现」的现象（AI 谄媚、AI 诱发妄想），发布约一小时即进 HN 首页。信号：讽刺 AI 谄媚/「AI 精神病」的轻量网页梗游戏有传播力。",
+   "links": [
+    "https://pages.ethanmdavidson.com/ai-physics-breakthrough",
+    "https://news.ycombinator.com/item?id=50678273"
+   ],
+   "topic": "ai-physics-breakthrough-simulator",
+   "firstSeen": "2026-11-28T23:46:16+08:00"
   }
  ],
- "lastChecked": "2026-11-28T23:27:21+08:00"
+ "lastChecked": "2026-11-28T23:46:16+08:00"
 }
