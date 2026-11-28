@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T15:41:41+08:00",
+ "lastUpdated": "2026-11-28T16:26:24+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56386,7 +56386,19 @@
    ],
    "topic": "aschenbrenner-nvidia-obsolescence-superintelligence-2026-11",
    "firstSeen": "2026-11-28T15:41:41+08:00"
+  },
+  {
+   "id": "44b3a6310b",
+   "title": "Riley Brown 发布开源 v2：「智能体视频剪辑界的 GitHub」，每个视频版本连同提示词、素材和评论一起存档，公开后任何人一句提示就能 fork",
+   "summary": "Riley Brown 在 X 上发布 v2（v2.video，CLI 开源在 github.com/agentnativeinc/v2），定位是给 Claude Code、Codex、Antigravity 等智能体用的视频版本管理平台：保存每一版视频背后的提示词、文件和评论，让智能体学习你的偏好；每个视频都能变成模板，公开后别人粘贴一条提示就能 fork 任意版本。它本身不是剪辑器，而是配合 Remotion、Hyperframes、Tesseract 等工具使用，团队称内部剪辑已全部交给 AI。发布帖约 10 万曝光、近 2000 赞、3000+ 收藏。信号：「智能体剪视频」的工作流基础设施开始成形，视频模板市场、提示词 + 版本可复现的创作社区、Remotion 模板包都有机会。",
+   "links": [
+    "https://x.com/i/status/2126431351914233943",
+    "https://github.com/agentnativeinc/v2",
+    "https://v2.video"
+   ],
+   "topic": "v2video-open-source-agentic-video-versioning-2026-11",
+   "firstSeen": "2026-11-28T16:26:24+08:00"
   }
  ],
- "lastChecked": "2026-11-28T15:41:41+08:00"
+ "lastChecked": "2026-11-28T16:26:24+08:00"
 }
