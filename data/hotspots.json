@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T20:45:22+08:00",
+ "lastUpdated": "2026-11-28T22:09:47+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56568,7 +56568,17 @@
    ],
    "topic": "e2e-networks-gpu-deal",
    "firstSeen": "2026-11-28T20:45:22+08:00"
+  },
+  {
+   "id": "875839f5f1",
+   "title": "Aschenbrenner 三季度信再爆料：估算 Anthropic 每月内部 Claude 算力开支约 4.2 亿美元，约占全球 Claude 用量三分之一",
+   "summary": "据 X 上流传的 Situational Awareness 基金三季度信，Aschenbrenner 估算 Anthropic 自己内部使用 Claude 的算力每月约 4.2 亿美元，约占全球 Claude 用量的三分之一，并以此作为前沿实验室「自我加速」、2027 年超级智能将爆发式增长的信号。信号：「AI 实验室内部用量 vs 外部收入」的讨论升温，算力开支追踪、AI 实验室自用率对比类内容有话题性。",
+   "links": [
+    "https://x.com/i/status/2126491449722302494"
+   ],
+   "topic": "aschenbrenner-anthropic-internal-compute",
+   "firstSeen": "2026-11-28T22:09:47+08:00"
   }
  ],
- "lastChecked": "2026-11-28T20:46:00+08:00"
+ "lastChecked": "2026-11-28T22:09:47+08:00"
 }
