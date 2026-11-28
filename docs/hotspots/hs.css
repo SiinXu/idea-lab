@@ -278,3 +278,11 @@ main.hs .hero .sub#sub2{overflow-wrap:anywhere}
 /* r1.10 2026-11-02: P2 fixes */
 @media (max-width:640px){main.hs .hero .sub#sub2{display:-webkit-box!important;-webkit-box-orient:vertical;-webkit-line-clamp:2;line-clamp:2;max-height:none!important;overflow:hidden!important}.hasd{width:56px!important}}
 .ddots{width:100%!important;max-width:640px!important;margin:4px auto 8px!important;display:block}
+/* reserve final sizes until Shoelace upgrades its elements (avoids layout shift; no change once loaded) */
+.tools sl-icon-button:not(:defined){display:inline-block;width:36px;height:36px}
+sl-dropdown:not(:defined) sl-menu,sl-dialog:not(:defined){display:none}
+sl-tab-group:not(:defined){display:block}
+sl-tab-group:not(:defined) sl-tab{display:none}
+sl-tab-group:not(:defined)::before{content:"";display:block;height:44px}
+.back:empty::before{content:"\a0"}.hero:has(#ttl:empty) .eyebrow{display:none}main.hs .hero #ttl:empty,main.hs .hero #sub2:empty{min-height:1lh!important}@media (max-width:640px){main.hs .hero #ttl:empty,main.hs .hero #sub2:empty{min-height:2lh!important}}
+html:not(.tg-ready) sl-tab-panel{display:none!important}html:not(.tg-ready) sl-tab-panel[name=heat]{display:block!important}html[data-tab0=ideas]:not(.tg-ready) sl-tab-panel[name=heat]{display:none!important}html[data-tab0=ideas]:not(.tg-ready) sl-tab-panel[name=ideas]{display:block!important}html[data-tab0=arc]:not(.tg-ready) sl-tab-panel[name=heat]{display:none!important}html[data-tab0=arc]:not(.tg-ready) sl-tab-panel[name=arc]{display:block!important}

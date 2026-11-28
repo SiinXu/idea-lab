@@ -44,7 +44,7 @@ ra:{"zh-Hans":"全部时间","zh-Hant":"全部時間",en:"All time",ja:"全期�
 nores:{"zh-Hans":"没有匹配的条目","zh-Hant":"沒有符合的條目",en:"No matching items",ja:"該当なし",ko:"일치하는 항목 없음",ms:"Tiada item sepadan",vi:"Không có mục phù hợp",fr:"Aucun élément",es:"Sin resultados",de:"Keine Treffer"}};
 const x10=(k,o)=>{let v=(X10[k]||{})[L]||(X10[k]||{}).en||k;for(const a in o||{})v=v.replace('{'+a+'}',o[a]);return v};
 const PER=48;let Q='',RG='all',PG=1,OPEN=new Set(),TAB=['arc','ideas'].includes(localStorage.hs_tab)?localStorage.hs_tab:'heat';
-try{const h=new URLSearchParams(location.hash.slice(1));PG=+h.get('p')||1;RG=h.get('r')||'all';F=h.get('f')||'all';Q=h.has('q')?h.get('q'):(localStorage.hs_q||'');if(h.get('t'))TAB=['arc','ideas'].includes(h.get('t'))?h.get('t'):'heat'}catch(e){}
+try{const h=new URLSearchParams(location.hash.slice(1));PG=+h.get('p')||1;RG=h.get('r')||'all';F=h.get('f')||'all';Q=h.has('q')?h.get('q'):(localStorage.hs_q||'');if(h.get('t'))TAB=['arc','ideas'].includes(h.get('t'))?h.get('t'):'heat'}catch(e){}document.documentElement.dataset.tab0=TAB;
 const host=u=>{try{return new URL(u).hostname.replace(/^www\./,'')}catch(e){return ''}};
 function shell(){if($('#hsq'))return;const b=document.createElement('div');b.className='ctl';b.innerHTML=`<input id="hsq" type="search" autocomplete="off"><div class="filt" id="rng"></div>`;$('#filt').parentNode.insertAdjacentElement('afterend',b);
 $('#hsq').value=Q;$('#hsq').oninput=e=>{Q=e.target.value;PG=1;render()};const pt=document.createElement('nav');pt.className='pgn';pt.id='pgt';$('#days').before(pt);const pb=document.createElement('nav');pb.className='pgn';pb.id='pgb';$('#days').after(pb)}
@@ -185,7 +185,7 @@ de:{none:"Nicht markiert",interested:"Interessant",todo:"Zu erledigen",done:"Erl
 for(const l in UI12)for(const k in UI12[l]){H.ui[k]=H.ui[k]||{};H.ui[k][l]=UI12[l][k]}
 for(const k of['back','upd'])H.ui[k]=HX[k];
 {const _r=render;render=function(){_r();const u=$('#upd');if(u)u.innerHTML=`<span class="nw2">${esc(sh(H.lastUpdated))}</span> · <span class="nw2">${HSN()} ${esc(t('items'))}</span>`}}
-customElements.whenDefined('sl-tab-group').then(()=>{const g=$('#tabs');setTimeout(()=>{if(TAB!='heat')g.show(TAB)},0);g.addEventListener('sl-tab-show',e=>{if(e.target!==g)return;TAB=e.detail.name;localStorage.hs_tab=TAB;if(TAB=='arc'&&!arcReady())render();const h=new URLSearchParams(location.hash.slice(1));h.set('t',TAB);history.replaceState(null,'','#'+h)})});
+customElements.whenDefined('sl-tab-group').then(()=>{const g=$('#tabs');{const rdy=()=>{if(g.querySelector('sl-tab-panel[active]'))document.documentElement.classList.add('tg-ready');else requestAnimationFrame(rdy)};rdy()}setTimeout(()=>{if(TAB!='heat')g.show(TAB)},0);g.addEventListener('sl-tab-show',e=>{if(e.target!==g)return;TAB=e.detail.name;localStorage.hs_tab=TAB;if(TAB=='arc'&&!arcReady())render();const h=new URLSearchParams(location.hash.slice(1));h.set('t',TAB);history.replaceState(null,'','#'+h)})});
 /* r1.3 2026-11-02 */
 Object.assign(HX,{
 cur:{"zh-Hans":"当前","zh-Hant":"目前",en:"Now",ja:"現在",ko:"현재",ms:"Semasa",vi:"Hiện tại",fr:"Actuel",es:"Actual",de:"Aktuell"},
