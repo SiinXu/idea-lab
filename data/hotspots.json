@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-28T08:23:07+08:00",
+ "lastUpdated": "2026-11-28T08:43:36+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56090,7 +56090,17 @@
    ],
    "topic": "google-deepcrossattention-residual-3x-2026-11",
    "firstSeen": "2026-11-28T08:23:07+08:00"
+  },
+  {
+   "id": "bf746ba718",
+   "title": "宇树发布「具身化身 V3.0 Guardian」全身遥操作系统：同步率最高 99.8%，端到端延迟最低 80 毫秒",
+   "summary": "Unitree 官方发帖展示 Embodied Avatar V3.0 Guardian：操作者可实时全身遥控人形机器人，最高同步率 99.8%、端到端延迟最低 80 ms，除全自主模式外，用于复杂远程作业和数据采集，约 12.7 万曝光、近 2000 赞。信号：低延迟全身遥操作是人形机器人「采数据—训模型」闭环的关键环节，远程机器人操作员众包、遥操作数据标注与交易、以及面向工厂/危险场景的远程作业服务正在成形。",
+   "links": [
+    "https://x.com/UnitreeRobotics/status/2126265784045584442"
+   ],
+   "topic": "unitree-embodied-avatar-v3-guardian-teleop-2026-11",
+   "firstSeen": "2026-11-28T08:43:36+08:00"
   }
  ],
- "lastChecked": "2026-11-28T08:23:07+08:00"
+ "lastChecked": "2026-11-28T08:43:36+08:00"
 }
