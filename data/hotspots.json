@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-29T02:28:10+08:00",
+ "lastUpdated": "2026-11-29T02:46:39+08:00",
  "items": [
   {
    "id": "3436a2f537",
@@ -56688,7 +56688,37 @@
    ],
    "topic": "ai-debt-record-599b",
    "firstSeen": "2026-11-29T02:28:10+08:00"
+  },
+  {
+   "id": "1555ed6bcb",
+   "title": "minimind 冲上 GitHub 日榜：两小时从零训练一个 64M 参数的小型大模型，单日新增约 390 星、总星数超 7.2 万",
+   "summary": "jingyaogong/minimind 是一个从零训练小型 GPT 的中文开源教程项目，主打「两小时、单卡、从 0 训出 64M 大模型」，覆盖预训练、指令微调、LoRA、DPO 等完整流程，代码全部手写、方便学习原理。今天在 GitHub Trending 日榜单日新增约 391 星，总星数约 7.25 万。信号：「自己动手训小模型」的学习需求持续火热，适合做配套图解教程、云端一键复现模板或课程。",
+   "links": [
+    "https://github.com/jingyaogong/minimind"
+   ],
+   "topic": "minimind-64m-llm-trending",
+   "firstSeen": "2026-11-29T02:46:39+08:00"
+  },
+  {
+   "id": "2c7b311170",
+   "title": "Firecrawl 登 GitHub 日榜单日涨约 720 星：定位改为「智能体知识基础设施」，一个 API 搜索、抓取并接入 550 多个数据源",
+   "summary": "firecrawl/firecrawl 总星数已超 21 万，今天在 GitHub Trending 单日新增约 717 星。项目描述已改为「让智能体更聪明的知识基础设施」，通过一个 API 完成网页搜索、抓取，并接入 550+ 数据提供方。信号：网页抓取正在从爬虫工具升级为 AI 智能体的数据层，围绕垂直数据源封装、MCP 接入和抓取即服务的机会增多。",
+   "links": [
+    "https://github.com/firecrawl/firecrawl"
+   ],
+   "topic": "firecrawl-agent-knowledge-infra",
+   "firstSeen": "2026-11-29T02:46:39+08:00"
+  },
+  {
+   "id": "ed331e4d7f",
+   "title": "开源下载器 Ghost-Downloader-3 上 GitHub 日榜：号称「下载器的集大成者」，单日新增约 660 星",
+   "summary": "XiaoYouChR/Ghost-Downloader-3 是一款 Python 编写的开源跨平台下载器，今天在 GitHub Trending 单日新增约 664 星，总星数约 2 万。信号：中文开发者做的桌面效率工具持续出圈，「全能下载器 + 现代界面」仍有大量需求，可关注其插件生态和 AI 辅助功能的扩展空间。",
+   "links": [
+    "https://github.com/XiaoYouChR/Ghost-Downloader-3"
+   ],
+   "topic": "ghost-downloader-3-trending",
+   "firstSeen": "2026-11-29T02:46:39+08:00"
   }
  ],
- "lastChecked": "2026-11-29T02:28:10+08:00"
+ "lastChecked": "2026-11-29T02:46:39+08:00"
 }
